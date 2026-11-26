@@ -2,9 +2,9 @@
 
 ⭐ 1,830 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Tencent/AngelSlim) · [官网](https://angelslim.readthedocs.io) · 组织维护 · 中文 README
 
-**大模型压缩工具包：量化/投机解码/蒸馏/剪枝统一框架**
+**面向开发者的大模型压缩工具包：量化/投机解码/蒸馏**
 
-腾讯开源的大模型压缩工具包，将主流压缩算法整合为统一框架，覆盖量化（FP8/INT4/NVFP4/低比特）、投机解码（DFly/MTP/Eagle3/DFlare 等）、稀疏注意力、蒸馏与 VLM 视觉 token 剪枝。支持 LLM、VLM、扩散模型与语音模型四类场景，通过配置文件一键运行压缩流程，并发布多款 Hunyuan 系列压缩后模型权重。以 pip 包提供，投机解码训练框架 AngelSpec 作为 git 子模块集成。
+腾讯开源的大模型压缩工具链，将量化（FP8/INT4/NVFP4/低比特）、投机解码训练、稀疏注意力、蒸馏、缓存等主流压缩算法整合进统一框架，覆盖 LLM、VLM、Diffusion 与语音模型。以 pip 包与源码安装提供，通过配置文件或 Python Engine API 一键运行量化流程，并集成分裂式投机解码训练框架 AngelSpec（git submodule）支持多后端推理与多节点训练。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 量化算法覆盖 FP8/INT8/INT4/NVFP4/1.25-bit 等多种方案
-- 投机解码训练支持 DFly、MTP、Eagle3 等多种 draft 方法
-- 场景覆盖 LLM/VLM、扩散模型与语音模型（TTS/ASR）
-- 通过 YAML 配置一键运行压缩流程，附 Python Engine API
+- 统一框架集成 FP8/INT4/NVFP4/MXFP4 等多种量化算法
+- 支持 LLM/VLM/Diffusion/语音模型的压缩策略
+- 集成分裂式投机解码训练框架 AngelSpec（DFly、MTP 等 draft 方法）
+- vLLM/SGLang/HuggingFace 多后端推理与 Mooncake RDMA 多节点训练
 
 ## 适用场景
 
-- 对 Hunyuan/Qwen/DeepSeek 等模型做 FP8 或 INT4 量化后部署
-- 训练投机解码 draft 模型以提升推理吞吐
-- 对扩散模型做量化并直接运行推理验证
-- 对 VLM 做视觉 token 剪枝降低长上下文开销
+- 对 Qwen、DeepSeek、Hunyuan 等模型生成 FP8/INT4 量化权重
+- 训练投机解码 draft 模型以加速推理
+- 对 FLUX 等扩散模型做量化并在线推理验证
+- 对 VLM 做视觉 token 剪枝与合并实验
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L5: A more accessible, comprehensive, and efficient toolkit for large model compression.
-> L43: - **Highly Integrated**: This toolkit integrates mainstream compression algorithms into a unified framework, offeri
-> L213: python3 tools/run.py -c configs/qwen3/fp8_static/qwen3-1_7b_fp8_static.yaml
+> L44: - **Highly Integrated**: This toolkit integrates mainstream compression algorithms into a unified framework, offeri
+> L193: - **Multi-backend inference** — vLLM (first-class), SGLang, and HuggingFace.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d5a27f13a6ed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `152cd5fd7f73` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 1,903 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/WASasquatch/was-node-suite-comfyui) · 个人维护
 
-**ComfyUI 的 757 节点图像处理与 Llama-Index 套件**
+**为 ComfyUI 提供 765 个图像/文本/动画处理节点的扩展包**
 
-为 ComfyUI 提供的节点套件，包含 757 个节点，覆盖图像处理、滤镜与色彩、遮罩、文本与提示词、逻辑流程、数值、latent 与采样、文件、动画视频等类别；其中 Llama-Index 节点组把文档加载、向量库、检索、查询与聊天引擎、agent 等接入画布，可索引文本与图像帧并调用已加载的模型或本地/托管服务。套件本体零依赖安装（git clone 即可），四个可选功能组（文档导出、llm、向量库、chroma）需另行安装包；不主动下载，network 默认关闭。
+面向 ComfyUI 的节点套件，自 2023 年起维护，提供 765 个节点，覆盖图像处理、滤镜与色彩、遮罩、文本与提示词、逻辑流、数值、latent 与采样、文件、动画与视频等 75 个类别。v3 版本将默认依赖从 20 个包降为 0，节点计算改跑在 ComfyUI 自身 torch 设备上；另含可选的 Llama-Index 节点组，把文档加载、向量库、检索、agent 等接到画布上，可读取 GGUF、本地服务器或托管服务。安装方式为克隆到 custom_nodes 目录，要求 ComfyUI 0.14.0+ 与 Python 3.10+。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 757 个节点覆盖图像、滤镜、遮罩、文本、逻辑、latent、文件、动画等 75 类
-- Llama-Index 节点组：文档加载器、向量库、检索器、chat 引擎与 agent 以节点形式接线
-- 本体安装零依赖、零下载、不自行运行 pip，第三方内容随仓库附带
-- 人脸检测、渐变映射、背景去除等改在 torch 上运行，不再安装 OpenCV/rembg 等库
+- 765 个节点覆盖图像、滤镜、遮罩、文本、逻辑、动画等 75 类
+- 核心包零依赖安装，不运行 pip、不发起出站请求
+- 可选 Llama-Index 节点组：文档加载、向量库（FAISS/LanceDB/Postgres/Chroma）、agent
+- 提供工作流索引与 NODES.md 参考文档
 
 ## 适用场景
 
-- 在 ComfyUI 画布上组合图像处理、遮罩与滤镜工作流
-- 把本地笔记文件夹和图片接入 Llama-Index 节点做检索问答与提示词撰写
-- 迁移 v2 旧工作流并在加载时自动替换退役节点
+- 在 ComfyUI 画布上做图像滤镜、遮罩与批量处理
+- 把本地笔记与图片文件夹接入 Llama-Index 做检索问答
+- 组合节点搭建动画与视频生成工作流
+- 从 v2 平滑迁移旧工作流（含节点替换指引）
 
 ## 场景标签
 
-`图像生成` `图像视频处理` `文档解析` `RAG` · 领域:内容生成
+`图像视频处理` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L8: The pack contains **757 nodes for ComfyUI**, across images, filters and colour, masking,
-> L12: **Llama-Index in ComfyUI** puts llama-index on the canvas. Models, document loaders, splitters,
-> L82: seamless textures, colour matching, levels, palettes, masks and deconvolution all run on torch,
+> L10: The pack contains **765 nodes for ComfyUI**, across images, filters and colour, masking,
+> L14: **Llama-Index in ComfyUI** puts llama-index on the canvas. Models, document loaders, splitters,
+> L49: Four optional groups want packages and ship off: `document_export`, which lets **Save DOC**
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `a5f425a9c5ac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `7b4916587544` · [字段定义](../../DATASET.md)*

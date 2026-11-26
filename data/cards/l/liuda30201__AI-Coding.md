@@ -2,9 +2,9 @@
 
 ⭐ 615 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/liuda30201/AI-Coding) · [官网](https://liuda30201.github.io/AI-Coding/) · 个人维护 · 中文 README
 
-**为 AI 编程用户汇总中转站与公益站的福利导航看板**
+**给 AI 编程用户汇总 Claude Code/Codex/Cursor 中转站福利的导航**
 
-以 Markdown 清单与 HTML 看板形式汇总面向 Claude Code、Codex、Cursor 等 AI 编程工具的中转站与公益站，整理各站注册福利、签到活动、邀请码、接口协议与评测记录，并附风险提示。GitHub Actions 每 3 小时自动探测站点状态并更新 JSON 数据与公告摘要，提供 Python 脚本从本地 JSON 重新生成页面及 GitHub 同步脚本。声明评分属编辑推荐指数而非模型性能实测，赠额信息可能过期。
+以 Markdown 榜单、HTML 看板与 JSON 数据三形式呈现的 AI 编程中转站导航：收录 10 个站点，整理注册福利、签到活动、邀请码、接口协议兼容与网页评测记录；由 GitHub Actions 每 3 小时探测站点在线状态与公告并自动更新页面。附 Python 脚本从本地 JSON 重新生成页面、运行单元测试及同步。文中多处声明福利为公开资料口径、可能过期，不承诺到账与可用性。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 汇总 10 个推荐站点及邀请码、注册福利与签到活动
-- GitHub Actions 每 3 小时自动探测站点在线状态并更新看板
-- 持久化数据为单一 JSON 文件，提供 Python 页面生成与同步脚本
+- 10 个中转站点的福利、邀请码与评测记录整理
+- GitHub Actions 每 3 小时自动探测站点并更新看板与公告
+- HTML 可视化看板与 JSON 持久化数据配套
+- 提供 Python 页面生成、测试与 GitHub 同步脚本
 
 ## 适用场景
 
-- 寻找 Claude Code/Codex/Cursor 可用的中转或公益站点
-- 对比各站注册赠额与签到福利后再注册
-- 跟进站点公告与活动是否过期
+- 查找支持 Claude Code/Codex/Cursor 的中转站与公益站
+- 对比各站注册福利与签到活动后再注册
+- 了解各站点接口协议兼容与倍率资料
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 
 > L1: # 🎁 AI Coding 福利站导航
 > L3: 免费额度 · Claude Code / Codex / Cursor 中转站与公益站合集
-> L169: - ⚙️ 自动更新：`.github/workflows/refresh-relay-dashboard.yml` 每 3 小时探测一次，更新 JSON、看板和公告摘要，并部署 Pages；首次启用请在仓库 **Settings
+> L164: - 🌐 在线首页（HTML 看板）：GitHub Pages
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `12ba632bf545` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6e297b558ff2` · [字段定义](../../DATASET.md)*

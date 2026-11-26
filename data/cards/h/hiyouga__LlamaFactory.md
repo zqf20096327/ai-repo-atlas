@@ -2,9 +2,9 @@
 
 ⭐ 76,282 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 个人维护 · 中文 README
 
-**为开发者提供 100+ LLM/VLM 的统一微调训练框架**
+**微调 100+ 大模型与多模态模型的训练框架**
 
-以零代码 CLI 与 Web UI 的形式对 100 余个大语言与多模态模型做统一微调：覆盖 (多模态) 预训练、SFT、奖励建模及 PPO/DPO/KTO/ORPO 等对齐训练方法，支持 16-bit 全量、freeze、LoRA 与多比特 QLoRA（AQLM/AWQ/GPTQ 等）。内置 LlamaBoard/TensorBoard/Wandb 等实验监控，推理侧提供 OpenAI 风格 API、Gradio UI 与 CLI，可挂接 vLLM/SGLang worker。README 给出 Python/torch/transformers 等版本要求、各训练方法的显存估算表，并提供 Colab/PAI-DSW/AMD GPU Cloud 等云端训练入口与 Docker 镜像；论文发表于 ACL 2024。
+统一的 LLM/VLM 高效微调框架（ACL 2024 论文）：支持预训练、指令微调、奖励建模及 PPO/DPO/KTO/ORPO 等对齐训练，覆盖 LoRA/QLoRA 等参数高效方法与 16-bit 全量微调。以零代码 CLI 与 Web UI 两种方式启动训练，内置百余个数据集与数十种模型的对话模板，支持多轮对话、工具调用、图像/视频/音频理解等任务。训练后可通过 vLLM/SGLang worker 提供 OpenAI 风格 API、Gradio UI 和 CLI 推理。要求 Python 3.11+、torch 2.0+；CUDA、deepspeed 等为可选依赖。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@
 
 ## 能力要点
 
-- 100+ LLM/VLM 模型的统一微调支持（Day-0/Day-1 跟进新模型）
-- (Continuous) 预训练、SFT、奖励建模、PPO/DPO/KTO/ORPO 等 8 类训练方法
-- LoRA 与 2-8-bit QLoRA 量化微调（AQLM/AWQ/GPTQ/LLM.int8/HQQ/EETQ）
-- OpenAI 风格 API、Gradio UI、CLI 推理，支持 vLLM/SGLang worker
+- 支持 100+ LLM 与 VLM 的微调，含 Day-0 跟进新模型
+- 覆盖 PPO/DPO/KTO/ORPO/SimPO 等对齐训练与 LoRA/QLoRA 高效方法
+- 零代码 CLI 与 Web UI 启动训练，内置大量中英文数据集
+- 推理阶段提供 OpenAI 风格 API、Gradio UI 与 vLLM/SGLang worker
 
 ## 适用场景
 
-- 对开源大模型做指令微调或偏好对齐训练
-- 在有限显存下用 QLoRA 微调 7B-70B 模型
-- 多模态模型（图像/视频/音频理解）的监督微调
-- 训练后经 OpenAI 风格 API 或 vLLM 部署推理
+- 对开源大模型做 LoRA/QLoRA 指令微调
+- 对多模态模型（视觉/音频）做监督微调
+- 用 DPO/PPO 等方法做偏好对齐与强化学习训练
+- 微调后通过 vLLM 部署 OpenAI 风格 API
 
 ## 场景标签
 
-`微调` `模型训练` `强化学习` · 领域:训练与推理
+`微调` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L36: ### Easily fine-tune 100+ large language models with zero-code CLI and Web UI
-> L70: - **Integrated methods**: (Continuous) pre-training, (multimodal) supervised fine-tuning, reward modeling, PPO, DPO
+> L69: - **Various models**: LLaMA, LLaVA, Mistral, Mixtral-MoE, Qwen3, Qwen3-VL, DeepSeek, Gemma, GLM, Phi, etc.
 > L76: - **Faster inference**: OpenAI-style API, Gradio UI and CLI with vLLM worker or SGLang worker.
 
 ## 星数曲线
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4b28bc58dbef` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `368fb91c52a4` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 3,497 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/samugit83/redamon) · [官网](https://www.redamon.org) · 组织维护
 
-**自托管 AI 渗透测试平台：攻击面建图、授权利用、生成修复 PR**
+**自托管 AI 渗透测试平台：图化攻击面并代理利用、出修复 PR**
 
-自托管的多用户、多租户 AI 渗透测试平台，支持基于角色的访问控制、交战规则约束与只增审计日志。六阶段侦察引擎将攻击面（子域名、端口、端点、参数）并行扫描并合并为 Neo4j 知识图谱；AI agent 在 Kali 沙箱中验证 CVE 可利用性等，带人工审批门；CypherFix 分诊 agent 关联去重发现，CodeFix agent 克隆仓库实施修复并开 GitHub PR。集成 Metasploit、OpenVAS 等 100+ 安全工具与 185,000+ 检测规则，支持本地模型部署。
+自托管的 AI 驱动渗透测试平台，支持多用户多租户、基于角色的访问控制、交战规则执行与追加式审计日志。机制上以并行侦察管线将攻击面汇入 Neo4j 知识图谱，自治 agent 在 Kali 沙箱中验证 CVE 可利用性，CypherFix 对发现做关联与排序，CodeFix agent 以 11 个代码工具实施修复并开 GitHub PR；利用阶段设有人工审批门，支持本地模型以保持数据不出环境。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 攻击面并行侦察并合并为 Neo4j 知识图谱，可自然语言查询
-- Kali 沙箱内自主利用，带人工审批门与审计日志
-- CypherFix/CodeFix agent 关联分诊发现并生成修复 PR
-- 支持接入 MCP server 作为工具，支持本地模型
+- 并行侦察管线输出 Neo4j 知识图谱攻击面
+- Kali 沙箱内自治利用，设人工审批门
+- CypherFix 分诊 + CodeFix 修复并开 GitHub PR
+- 双路 MCP：可接入任意 MCP server，也可被 Claude Code 驱动
 
 ## 适用场景
 
-- 对自己拥有或获书面授权的基础设施做全范围安全评估
-- 用知识图谱统一管理多工具侦察结果
-- 让 AI 分诊安全发现并以 PR 形式交付修复供人工审核
+- 对自己拥有的基础设施做全范围授权渗透评估
+- 把攻击面以知识图谱形式集中查询与管理
+- 让修复以 PR 形式交付给开发流程
+- 数据敏感场景下用本地模型执行测试
 
 ## 场景标签
 
@@ -39,6 +40,7 @@
 
 > L7:  RedAmon is a next-generation, enterprise-grade platform for AI-driven penetration testing, at the forefront of agen
 > L63: RedAmon doesn't stop at finding vulnerabilities, it fixes them. The pipeline starts with a 6-phase reconnaissance e
+> L113: > **Without OpenVAS** runs 8 containers: webapp, postgres, neo4j, agent, recon-orchestrator, docker-broker (a filt
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `2e22975f9259` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `38d9a0088cc2` · [字段定义](../../DATASET.md)*

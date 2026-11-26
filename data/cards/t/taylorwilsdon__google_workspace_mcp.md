@@ -2,9 +2,9 @@
 
 ⭐ 3,585 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) · [官网](https://workspacemcp.com) · 个人维护
 
-**让 AI 助手通过 MCP 控制十二项 Google Workspace 服务的服务器与 CLI**
+**让 AI 助手通过 MCP 协议操作全套 Google Workspace 服务的服务器**
 
-单台 MCP 服务器将 AI 助手接入 Gmail、Drive、Calendar、Docs、Sheets、Slides、Forms、Tasks、Contacts、Chat、Custom Search 与 Apps Script，共 120+ 工具；支持 OAuth 2.1 多用户认证、三级渐进工具分层、只读模式、按请求工具集、无状态容器部署，并可经 stdio 或 streamable HTTP 运行。附 CLI 工具与加密的磁盘令牌缓存，需自备 Google Cloud OAuth 凭据。Google Chat 需一次性 Chat app 配置与 Workspace 账户。
+将 12 个 Google Workspace 服务（Gmail、Drive、Calendar、Docs、Sheets、Slides、Forms、Tasks、Contacts、Chat、Custom Search、Apps Script）封装为单个 MCP 服务器上的 120+ 工具，支持 OAuth 2.1 多用户认证、三级工具分层（core/extended/complete）、只读模式、无状态容器部署，可通过 stdio 或 streamable HTTP 运行；附带 workspace-cli 命令行工具列出与调用工具。面向需要接入 Google 账号的 AI 助手用户与企业部署者。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 十二项 Google Workspace 服务、120+ 工具统一在单个 MCP 服务器后
-- OAuth 2.1 多用户认证与无状态容器部署，支持组织级集中托管
-- 三级工具分层（core/extended/complete）与只读模式控制上下文
-- 附带 workspace-cli 命令行，认证一次后脚本化调用
+- 12 个 Google 服务、120+ 工具接入单个 MCP 服务器
+- OAuth 2.1 多用户认证，支持无状态容器部署与外部认证网关透传
+- 工具分层与每请求工具集（X-MCP-Toolsets 头）控制上下文窗口
+- 内置 CLI（workspace-cli）支持列出与调用工具、磁盘加密令牌缓存
 
 ## 适用场景
 
-- 在 Claude Desktop 或 ChatGPT 中收发邮件、管理日程与文档
-- 为整个组织集中托管一个多用户的 Workspace MCP 网关
-- 用 CLI 脚本批量列出未读邮件或调用 Workspace 工具
+- 让 Claude Desktop/ChatGPT 等客户端读写 Gmail、日历与 Docs
+- 为整个组织集中托管一个带多用户认证的 Workspace MCP 服务器
+- 用 CLI 脚本化调用 Google Workspace 工具
+- 在无盘写入的容器环境部署服务
 
 ## 场景标签
 
- · 领域:AI 生态/MCP 服务器
+ · 领域:AI 生态/MCP 工具集成
 
 ## 证据(README 行号)
 
 > L35: Workspace MCP connects AI assistants to all twelve major Google Workspace services - 120+ tools behind a single MCP
-> L10: *Full natural language control over Google Calendar, Drive, Gmail, Docs, Sheets, Slides, Forms, Tasks, Contacts, an
+> L146: **Claude Desktop, web & mobile** - run the server in HTTP mode and add it as a **Connector** (Settings → Connector
+> L15: By leveraging native OAuth 2.1, stateless deployment capability and external auth server & gateway passthrough auth
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f7b6023f8078` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `b51986b2d295` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 20,798 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/kortix-ai/CompanyOS) · [官网](https://kortix.com) · 组织维护
 
-**开源企业级多智能体运行平台：常驻 AI 代理按事件驱动执行公司工作**
+**面向 AI-native 公司的开源公司操作系统：托管与编排 agent**
 
-面向企业的云原生 agent harness：用户在 pi 上编写自定义代理，由 Kortix 部署到云端，每个会话运行在独立的云计算机上并持久化状态。提供事件驱动触发（定时/ webhook/连接器事件）、My Kortix 路由代理、多代理并行 swarm、变更经人工审批的 change request、3000+ 应用连接器、LLM 网关与角色权限/SSO。代理、技能与规则以文件形式存于一个 git 仓库（company as code）。支持 Kortix Cloud、VPC 或本地自托管（Docker Compose），可使用自有模型 key。
+Kortix CompanyOS 将企业的数据源、agent、技能、记忆与连接器收进一个自有的 git 仓库（company as code），提供事件驱动的触发器、名为 My Kortix 的对话入口 agent、多 agent 并行（swarm）、每个会话独立的云端沙箱计算机、结果驱动（Outcome）工作流与审批/审计/SSO 等团队管控。用户通过 CLI、Web、Slack/Teams/邮件/MCP 接入；自托管经由 Docker Compose 栈部署到自有 VPC 或本地服务器，模型可自带 key 接任意 provider。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 事件驱动的常驻代理：定时任务、签名 webhook、连接器事件触发
-- 每会话独立云计算机，闲置休眠、唤醒后保留完整历史
-- 代理、技能、规则、连接器全部存于一个 git 仓库（company as code）
-- 自托管为 Docker Compose 栈，与托管云使用相同镜像
+- agent、技能、记忆与连接器以文件形式存于单一自有 git 仓库
+- 事件驱动触发：定时、签名 webhook、连接器与应用事件、合并的变更请求
+- 每个会话独立云计算机，空闲休眠、状态持久，数千 agent 可按一份配置并行
+- 支持 Kortix Cloud、VPC 或本地自托管，模型 provider 与 key 自选
 
 ## 适用场景
 
-- 团队共享同一套代理、技能与公司记忆协同工作
-- 让代理按计划或事件 24/7 自主完成任务并经审批落地变更
-- 在自有 VPC 或本地机房自托管，数据不出企业基础设施
+- 把公司的 agent、技能与连接器作为代码集中管理并版本化
+- 让 agent 7×24 小时按定时/webhook 自主推进带完成定义的目标
+- 在自有 VPC 或本地网络中自托管企业 AI agent 平台
+- 团队多人共享同一套 agent、公司记忆与权限体系
 
 ## 场景标签
 
-`多智能体` `Agent 框架` · 领域:Agent 开发
+ · 领域:企业级 AI agent 平台/基础设施
 
 ## 证据(README 行号)
 
-> L5: **The open-source CompanyOS: the cloud-native agent harness for companies.**
-> L34: Kortix CompanyOS takes the session out of the person's hands. It is a **cloud-native agent harness**: you
-> L35: write custom agents on pi, an open-source agent harness, and Kortix deploys them to the cloud and
+> L35: Kortix CompanyOS takes the session out of the person's hands. It is a **cloud-native agent harness**: you
+> L76: |**Models**|Kortix-managed models, your own provider keys, a ChatGPT subscription or a Claude subscription. Every r
+> L105: |**Company as code** Extensible to the core.|Every agent, skill, rule, connector and piece of context is a file in
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `aed89c93e7f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3d6b41a50e34` · [字段定义](../../DATASET.md)*

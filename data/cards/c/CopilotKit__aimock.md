@@ -2,9 +2,9 @@
 
 ⭐ 1,034 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/CopilotKit/aimock) · [官网](http://aimock.copilotkit.dev/) · 组织维护
 
-**AI 应用测试用本地 mock 服务器：模拟 LLM API/MCP/向量库等**
+**AI 应用的本地 Mock 基础设施：一个端口模拟全部外部依赖**
 
-面向 AI 应用测试的基础设施工具：将应用的 SDK 指向本地端口后，以确定性方式模拟 LLM API（11 个提供商 22 个 API 面）、图像/语音/视频生成、MCP 工具、A2A/AG-UI 协议、向量库、搜索与 rerank 等服务，无需 API key 与网络。支持录制真实 API 存为 fixture 并离线回放、故障注入（500/429/断流）、请求日志、Prometheus 指标，并提供 Vitest/Jest 插件与 Docker/Helm 部署。
+面向 AI 应用测试的本地模拟服务器：将 SDK 指向一个本地端口，即可确定性地模拟 LLM API（OpenAI/Claude/Gemini/Bedrock/Ollama 等 11 家 22 个 API 面）、MCP 工具、A2A/AG-UI 协议、向量数据库与搜索服务。提供录制回放（含时序与 token 用量）、混沌测试（错误/断流/限流）、模型异常行为模拟、请求日志、Prometheus 指标，并带 Vitest/Jest 插件与 Docker/Helm 镜像用于 CI/CD。MIT 许可，零依赖，npm 分发。
 
 ## 筛选速览
 
@@ -13,34 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单包单端口模拟 LLM API、MCP、A2A、AG-UI、向量库与搜索服务
-- 录制真实 API 为 fixture 并确定性回放，含 token 用量与时序
-- Chaos Testing 注入 500/429/断流/延迟等故障路径
-- Vitest & Jest 零配置插件与 Docker/Helm CI 部署
+- 一个包一个端口模拟 LLM/MCP/A2A/AG-UI/向量库/搜索
+- 录制真实 API 为 fixture 并确定性回放，保留时序与 token 用量
+- 混沌测试与模型异常行为（无效参数/限流/断流/拒绝）
+- 请求日志、OpenAPI 路由目录、Prometheus 指标与测试框架插件
 
 ## 适用场景
 
-- AI 应用的端到端测试中替代真实 LLM API 调用
-- 录制线上 API 流量后离线复现测试场景
-- 测试应用对限流、断流、畸形响应等异常的处理
-- CI/CD 中无网络依赖地运行 AI 相关测试
+- 为 AI 应用编写不依赖真实 API key 的单元与端到端测试
+- 在 CI/CD 中用 Docker/Helm 稳定运行 LLM 依赖的测试套件
+- 录制一次真实 API 调用，离线回放进行回归测试
+- 模拟错误、限流、断流等异常路径验证容错逻辑
 
 ## 场景标签
 
- · 领域:AI 开发工具/测试基础设施
+ · 领域:AI 开发工具/测试
 
 ## 证据(README 行号)
 
 > L3: **Mock infrastructure for AI application testing — point your SDK at one local port and every provider, protocol, an
-> L14: One package, one port, zero dependencies. LLM APIs, image generation and
 > L35: aimock mocks everything your AI app talks to:
+> L46: Run them all on one port with `npx @copilotkit/aimock --config aimock.json`, or use the programmatic API to compose
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b4ff1d4c1f14` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b989bb95bf57` · [字段定义](../../DATASET.md)*

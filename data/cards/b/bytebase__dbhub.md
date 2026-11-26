@@ -2,9 +2,9 @@
 
 ⭐ 3,992 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/bytebase/dbhub) · [官网](https://dbhub.ai) · 组织维护
 
-**面向 MCP 客户端的多数据库 MCP 服务器**
+**轻量数据库 MCP 服务器，让 AI 客户端连接查询多种数据库**
 
-DBHub 是一个 MCP 服务器，让 Claude Desktop、Claude Code、VS Code、Cursor 等 MCP 兼容客户端连接并探索多种数据库，支持 PostgreSQL、MySQL、MariaDB、SQL Server、Oracle、ClickHouse 和 SQLite。默认提供 execute_sql 与 search_objects 两个工具，另有 opt-in 工具与自定义工具；内置只读模式、行数限制、查询超时等防护，支持 SSH 隧道与 TLS。通过 npx、Claude Code/Codex 插件、Docker 镜像或 MCP Bundle 分发，开发需 Node.js >= 22.5.0。
+DBHub 是一个零依赖的 MCP 服务器，通过单一进程让 MCP 兼容客户端（如 Claude Code、VS Code、Cursor）连接并探索多种数据库，默认仅提供 execute_sql 与 search_objects 两个工具，另有 explain_sql、health_check 等可选工具及自定义 SQL 工具。提供只读模式、行数限制、查询超时等防护，支持 SSH 隧道与 SSL/TLS，可用 npx、Docker 镜像或 MCP Bundle 安装。开发需 Node.js >= 22.5.0。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ DBHub 是一个 MCP 服务器，让 Claude Desktop、Claude Code、VS Code、Cur
 
 ## 能力要点
 
-- 单一进程连接 PostgreSQL/MySQL/MariaDB/SQL Server/Oracle/ClickHouse/SQLite
-- 默认仅 2 个 MCP 工具，定义共 261 tokens，节省上下文窗口
-- 只读模式、行数限制、查询超时等防护机制
-- 内置 Workbench Web 界面，无需 MCP 客户端即可操作
+- 默认仅两个 MCP 工具，工具定义共 261 tokens，节省上下文窗口
+- 单一接口连接 PostgreSQL、MySQL、MariaDB、SQL Server、Oracle、ClickHouse、SQLite
+- 只读模式、行数限制与查询超时防护，支持 SSH 隧道与 SSL/TLS
+- 内置 Workbench 网页界面，无需 MCP 客户端即可执行查询
 
 ## 适用场景
 
-- 在 Claude Code/Cursor 中探索 schema、验证查询、调试数据
-- 向非技术人员提供只读的数据视图访问
-- 用单一 DBHub 进程替代每库一个的 MCP 服务器
-- 生产环境只读诊断并防止失控查询
+- 本地开发时用 Claude Code/Cursor 探索表结构与调试数据
+- 通过只读视图让非技术同事访问数据
+- 用一个进程替代每个数据库各一个 MCP 服务器
+- 生产环境只读诊断与故障排查
 
 ## 场景标签
 
@@ -38,9 +38,8 @@ DBHub 是一个 MCP 服务器，让 Claude Desktop、Claude Code、VS Code、Cur
 
 ## 证据(README 行号)
 
-> L19: DBHub is a minimal MCP server: token-efficient, zero-dependency, and just two tools by default with opt-in extras. 
-> L22: - **Multi-Database**: PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, ClickHouse, and SQLite through a single inter
-> L43: - **Local Development**: Schema exploration, query validation, and data debugging with Claude Code, VS Code, Cursor
+> L21: DBHub is a minimal MCP server: token-efficient, zero-dependency, and just two tools by default with opt-in extras. 
+> L24: - **Multi-Database**: PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, ClickHouse, and SQLite through a single inter
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ae5a08ecdc28` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `904dd4c9b0f5` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # ModelCloud/GPTQModel
 
-⭐ 1,296 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ModelCloud/GPTQModel) · [官网](https://x.com/Qubitium) · 组织维护
+⭐ 1,296 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ModelCloud/GPTQModel) · [官网](https://x.com/Qubitium) · 组织维护 · 中文 README
 
-**面向 LLM 开发者的多后端量化压缩与推理工具包**
+**面向开发者的 LLM 量化压缩工具包，含多硬件加速推理**
 
-将校准、量化、评估、转换与加速推理整合为统一工作流的量化平台：从预训练模型出发选择压缩配方，验证质量后保存可原生推理或部署到兼容引擎的 checkpoint。支持 GPTQ、AWQ、RTN、QQQ、EXL3、GGUF、FP8 等多种量化方法，覆盖 NVIDIA CUDA、AMD ROCm、Apple silicon、Intel XPU、Tenstorrent 与华为昇腾等硬件路径。以 PyPI 包形式发布，版本更新频繁并附详细变更日志。
+GPTQModel 是一个可扩展的 LLM 量化平台，将校准、量化、评估、转换与加速推理整合为统一工作流：从预训练模型出发，选择压缩配方，验证质量并保存检查点，供原生推理或兼容部署引擎使用。支持 GPTQ、AWQ、RTN、QQQ、FP8、EXL3、GGUF、MACaQ 等多种量化方法，覆盖稠密与 MoE 模型，并提供 `model.budget()` 内存预算估算、断点续跑的分布式量化作业、可自动定长的校准批配置等机制。模型产出可通过 Hugging Face、vLLM、SGLang 等通道部署。以 PyPI 包形式分发，带文档与量化指南。
 
 ## 筛选速览
 
@@ -20,25 +20,28 @@
 
 ## 能力要点
 
-- 支持 GPTQ/AWQ/RTN/QQQ/EXL3/GGUF/FP8/MACaQ 等多种量化方法
-- 覆盖 CUDA、ROCm、MLX/Metal、XPU、Tenstorrent、昇腾 NPU 与 CPU 的硬件加速路径
-- 校准、量化、评估、转换、加速推理一体化工作流
-- Quantization accuracy：SmoothMSE 等校准算法持续迭代
+- 统一工作流覆盖校准、量化、评估、转换与加速推理
+- 支持 GPTQ/AWQ/RTN/QQQ/FP8/EXL3/GGUF/MACaQ 等多种量化方法
+- 硬件覆盖 NVIDIA CUDA、AMD ROCm、Intel XPU、Tenstorrent、华为昇腾 NPU 及 Intel/AMD/Apple CPU
+- 支持 `model.budget()` 估算上下文长度与批次大小的内存预算
 
 ## 适用场景
 
-- 将大模型压缩为低比特 checkpoint 以降低显存占用
-- 为不同硬件平台（NVIDIA/AMD/Apple/NPU）生成对应量化格式
-- 量化前用校准数据集评估模型质量损失
+- 把预训练 LLM 压缩到低比特以降低显存占用
+- 为 vLLM/SGLang 等部署引擎生成量化检查点
+- 在 AMD ROCm、昇腾 NPU 等非 CUDA 硬件上做量化推理
+- 校准 MoE 与多模态模型并验证量化后质量
 
 ## 场景标签
 
-`模型量化` `模型评测` · 领域:评测与运维
+`模型量化` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L3:  An extensible platform for LLM quantization. Compress, evaluate, and run models across supported GPUs, accelerators
+> L72: ## A unified quantization platform 🧩
 > L74: GPT-QModel brings calibration, quantization, evaluation, conversion, and accelerated
+> L77: compatible deployment engine.
 
 ## 星数曲线
 
@@ -54,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `66930204ef0b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d1c207f976ff` · [字段定义](../../DATASET.md)*

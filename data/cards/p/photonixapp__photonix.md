@@ -2,9 +2,9 @@
 
 ⭐ 1,953 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/photonixapp/photonix) · [官网](https://photonix.org/) · 组织维护
 
-**自托管照片管理服务器：用物体/人脸识别等智能过滤找照片**
+**自托管照片管理服务器：用 ML 识别帮你在多设备找到照片**
 
-基于 Web 技术的照片管理应用，运行在家庭服务器上，通过任意设备的浏览器访问照片库。智能过滤由物体识别、人脸识别、位置感知、颜色分析等 ML 算法自动完成。照片导入后自动检测；数据库、缩略图等缓存数据与照片目录分开存储。README 声明项目仍在开发中、尚未达到 1.0 功能完整，推荐以 Docker Compose 方式运行，超级用户与图库需通过命令行创建。
+基于 Web 技术的照片管理服务器，部署在家庭服务器上，可在任意设备浏览和检索照片库。分析流程提供物体识别、人脸识别、位置感知、色彩分析等自动分类能力，用于智能过滤。通过 Docker Compose 运行预构建镜像，照片放入监控目录即被检测导入。README 载明项目尚在开发、未达 1.0 功能完整度，并给出详细的内存占用测量数据：默认布局峰值超 6 GB，低内存布局需 4-5 GB，也可关闭分类器以 1 GB 运行。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 物体识别、人脸识别、位置感知、颜色分析实现智能过滤
-- 照片放入目录即被自动检测并导入
-- 数据库/缩略图与照片目录分离存储
-- 提供 Docker Compose 预构建镜像与开发用 Makefile 流程
+- 物体识别、人脸识别、位置感知、色彩分析的自动智能过滤
+- Docker Compose 一键拉起，照片目录即时检测导入
+- 提供实测的分级内存配置：1 GB（关分类器）到 6 GB+（全功能）
+- LOW_MEMORY/CLASSIFICATION_DISABLED 等环境变量可精细控制分类进程布局
 
 ## 适用场景
 
-- 在家庭服务器上自建照片库，从任意设备浏览查找
-- 按物体、人脸、地点、颜色等条件筛选照片
-- 开发者克隆仓库参与贡献或本地调试
+- 在家庭服务器上自托管照片库，替代云端相册服务
+- 按照片中的物体、人脸、地点和颜色自动检索照片
+- 低配设备上以关闭分类器或低内存模式运行照片库
 
 ## 场景标签
 
-`人脸识别` `目标检测` · 领域:感知与多模态
+ · 领域:照片管理/自托管服务
 
 ## 证据(README 行号)
 
 > L5: This is a photo management application based on web technologies. Run it on your home server and it will let you fin
-> L9: This project is currently in development and not feature complete for a version 1.0 yet. If you don't mind putting u
+> L58: Photonix runs several background processes and, while it analyses photos, loads machine-learning models (face, obje
+> L73: - **No classifiers** (`CLASSIFICATION_DISABLED=1 GUNICORN_WORKERS=2`): 1 GB.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9b81de9bc480` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `494e2e5f43d3` · [字段定义](../../DATASET.md)*

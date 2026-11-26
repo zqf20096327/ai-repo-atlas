@@ -2,9 +2,9 @@
 
 ⭐ 1,962 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/datalab-to/indra) · [官网](https://www.datalab.to) · 组织维护
 
-**给开发者的 1M 参数 CPU 端 OCR 模型：把 PDF/图像转成 markdown/JSON**
+**CPU 上运行的轻量 OCR 流水线：将 PDF 与图片转为 markdown/文本/JSON**
 
-Indra OCR 是一个约 1M 参数（主识别器约 1.25M，默认模型合计 7.3M）的 OCR 模型，基于 ONNX Runtime 运行，不依赖 PyTorch 和 GPU。输入 PDF 与图像，输出 markdown、text 或带框线、版块标签与阅读顺序的 JSON，支持 80+ 语言、手写、任意角度扫描页与数字 PDF 文本层读取。以 Python 包与 CLI 提供，附带本地 web viewer 对比查看结果。限制包括复杂表格、手写、退化扫描读取效果不佳，部分重音拉丁语言可能写错变音符号。
+Indra OCR 是一个约 1M 参数的紧凑 OCR 流水线，基于 ONNX Runtime 运行于 CPU，无需 PyTorch 或 GPU。将 PDF 和图片转换为带框信息的 markdown、文本或 JSON，支持手写体、80+ 种语言及任意角度页面。提供 CLI 与 Python API，含本地 web 查看器、多进程批量转换、数学公式识别（LaTeX 输出）与数字 PDF 文本层读取。限制包括复杂表格、草书手写与退化扫描读取较弱。代码为 Apache 2.0，模型权重采用修改版 OpenRAIL-M 许可，商业使用需另行授权。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Indra OCR 是一个约 1M 参数（主识别器约 1.25M，默认模型合计 7.
 
 ## 能力要点
 
-- 1M 参数模型在 CPU 上运行（32 核约 44 页/s），无 PyTorch、无 GPU
-- 支持 80+ 语言，含 CJK、阿拉伯语等 RTL、天城文等 Indic 文字
-- 输出含行框、版块标签与阅读顺序的 JSON/markdown/text
-- 支持垂直排版中文/日文与加密 PDF 密码参数
+- ONNX Runtime 运行于 CPU，无需 PyTorch 或 GPU
+- 支持 80+ 种语言与手写识别，四种脚本识别器分工
+- 输出含行/框/布局块/阅读顺序的结构化 JSON
+- 附带本地 web 查看器，可对比 Tesseract 结果
 
 ## 适用场景
 
-- 把扫描 PDF 和图片批量转成 markdown 存档
-- 对文档图片提取带坐标与阅读顺序的结构化 JSON
-- 本地 CPU 环境处理多语言（中/日/韩/阿拉伯语）OCR
-- 在内存中直接对 numpy 数组图像做识别
+- 将扫描件和图片批量转为 markdown 或 JSON
+- 提取含框和阅读顺序的版面结构数据
+- 读取数字 PDF 文本层并对缺失部分做 OCR
+- 多语言文档（含 CJK、RTL 文字）的文字识别
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Indra OCR 是一个约 1M 参数（主识别器约 1.25M，默认模型合计 7.
 
 ## 证据(README 行号)
 
-> L20: Indra OCR is a 1M-parameter OCR model that runs on CPU. It turns PDFs and images into markdown, text, or JSON with 
-> L79: Python 3.10 or newer, tested on Linux (x86_64 and aarch64, Python 3.10 to 3.13) and macOS (Apple silicon). It insta
+> L20: Indra OCR is a compact OCR pipeline that runs on CPU. It turns PDFs and images into markdown, text, or JSON with bo
+> L23: - **CPU-first** - ONNX Runtime, no PyTorch or GPU required. Use multiple processes for batch conversion.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `fa4f173c5b0a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `889263da3977` · [字段定义](../../DATASET.md)*

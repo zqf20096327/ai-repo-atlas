@@ -4,7 +4,7 @@
 
 **给开发者的苏格拉底式调试 CLI：只提问不给答案**
 
-一个 Python CLI 工具，用户粘贴 bug 后它不直接给修复方案，而是通过三种可切换的"镜片"（socrates/nietzsche/zarathustra）以提问方式引导开发者自行找到根因；内置 model-judge 校验器防止模型泄露答案。支持 debug/predict/roast 三个命令，predict 会实际运行用户代码验证猜测。默认走 Anthropic API，也可通过 OpenAI 兼容接口接入其他托管或本地模型。MIT 许可，需 Python >= 3.10 与模型 API key（本地 Ollama 可免 key）。
+一个 Python CLI 调试工具：用户粘贴 bug 后不直接给出修复，而是通过提问挑战假设、引导用户自行找到修复。核心机制是单问题规则加模型判卷校验器防止泄露答案，并提供三镜头自适应（socrates/nietzsche/zarathustra）、predict 运行代码验证理解、roast 代码点评、会话导出与成长评分。依赖 Python ≥3.10 与一个模型后端（Anthropic key 或其他兼容模型）。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 所有回复均为提问，内置 model-judge 校验器防止泄露答案
-- predict 命令实际运行用户代码给出真实返回值而非模型猜测
-- 三种自适应教学镜片：socrates/nietzsche/zarathustra，按轮次切换
-- 支持 Claude、OpenAI 系托管模型及本地 Ollama/LM Studio 模型
+- 每个回复都是问题，模型判卷校验器拦截泄露答案的回复
+- predict 命令实际运行用户代码给出返回值真相
+- 三镜头自适应切换：socrates/nietzsche/zarathustra
+- 支持 Claude 默认及 OpenAI 兼容端点、本地 Ollama/LM Studio 模型
 
 ## 适用场景
 
-- 开发者想通过调试过程训练自己的排障能力而非直接要答案
-- 团队新人培养批判性思维，避免复制粘贴式开发
-- 用 roast 命令快速获得对遗留代码的犀利点评
-- 用 predict 检验自己对自己代码行为的真实理解
+- 想让 AI 引导自己找 bug 根因而非直接抄答案
+- 训练团队或自己保持调试时的批判性思考
+- 检验对某段代码行为的真实理解（predict）
+- 对遗留文件做快速吐槽式点评（roast）
 
 ## 场景标签
 
- · 领域:开发者工具/教育
+`AI 助手` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L11: **It won't fix your bug. It'll fix you.** Every other tool hands you the answer; Nietzschian Debugger hands the que
-> L13: You paste your bug. It doesn't fix it. Instead, it:
-> L69: **Claude is the default and the sharpest experience.** With `ANTHROPIC_API_KEY` set,
+> L12: **It won't fix your bug. It'll fix you.** Every other tool hands you the answer; Nietzschian Debugger hands the que
+> L254: - **Refuses to Hand You the Fix** — Every response is a question. It's built to withhold the answer, and a model-j
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4ee53987c191` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `e582cb6a9f31` · [字段定义](../../DATASET.md)*

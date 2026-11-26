@@ -1,10 +1,10 @@
 # miuuyy/Octopus-SI-OS
 
-⭐ 910 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/miuuyy/Octopus-SI-OS) · [官网](octopus-os.si) · 个人维护
+⭐ 910 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/miuuyy/Octopus-SI-OS) · [官网](octopus-os.si) · 个人维护 · 中文 README
 
-**给长期自主运行 agent 的自演化操作系统（研究预览）**
+**面向长时段自治 agent 工作的实验性自进化操作系统**
 
-一个基于操作系统原理构建的 agent 持久化工作平台：目标、权限、运行、工具、上下文以持久记录形式存在，Rust 内核负责授权生成、工件移动与追加式账本记录。用户通过 macOS 客户端或终端客户端以文本/语音对话，创建 Projects、Agents、Tasks 并授予文件、浏览器、桌面应用等工具权限。默认模型为 Gemini 4 Neon（经 Antigravity），初始登录依赖 ChatGPT 账号。项目自述为研究预览，面向长时程开放自主任务，非标准基准或日常编码用途。
+Octopus 是一个基于操作系统原则的持久 agent 工作运行时：目标、权限、运行、工具、上下文与外部事件以持久记录而非模型循环内状态的形式存在，Rust 内核负责形成授权、裁决工件移动并写入 append-only 账本。代理可在策略下自建目标、增删工具、组织 worker 并持久化这些改动，实现跨任务的自我调整。提供 macOS 桌面客户端与终端客户端，模型通过注册接口接入，运行时保持 provider 无关。README 标注为研究预览，格式可能在版本间变动。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- Rust 内核 + append-only movement ledger 记录边界跨越（含拒绝）
-- 自演化机制：agent 可创建/修订目标、新增接口与工具并跨任务持久化
-- macOS 客户端支持语音通话、Projects/Agents/Tasks 管理与终端客户端共享状态
-- 运行时 provider-agnostic，接口以 JSON 文件夹方式声明式接入
+- Rust 内核 + append-only 移动账本，授权在模型外部重算与强制执行
+- 自进化机制：agent 可创建目标、添加接口与工具并跨运行持久化
+- 声明式扩展：provider、channel、worker、tool 均以 JSON 文件夹形式接入
+- 可选 macOS 14+ 桌面客户端（语音、任务）与共享状态的终端客户端
 
 ## 适用场景
 
-- 让 agent 在数小时到数天的长时程任务中自主组织目标与触发器
-- 以显式授权和沙箱方式管理 agent 对文件/浏览器/桌面应用的访问
-- 为 agent 自行编写驱动和接口并注册进系统做实验
+- 让 agent 跨小时/天级持续组织目标与运行，而非一次性对话
+- 以文件级授权与沙箱约束 agent 对文件、浏览器、桌面的访问
+- 通过 MCP 服务器、聊天通道与其他 provider 扩展 agent 的外部世界
 
 ## 场景标签
 
-`Agent 框架` `GUI 自动化` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L16: Octopus is an operating system for persistent agent work. Goals, permissions,
-> L41: > Octopus gives you nothing that a plain agent loop like Codex CLI does not
-> L47: > Active experiments focus there while the runtime stays provider-agnostic, with
+> L18: Octopus is an operating system for persistent agent work. Goals, permissions,
+> L49: > Active experiments focus there while the runtime stays provider-agnostic, with
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `215f5530d377` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `200b5cc811ff` · [字段定义](../../DATASET.md)*

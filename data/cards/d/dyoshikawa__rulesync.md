@@ -2,9 +2,9 @@
 
 ⭐ 1,649 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/dyoshikawa/rulesync) · [官网](http://rulesync.dyoshikawa.com/) · 个人维护
 
-**为开发者统一生成多种 AI 编码工具配置文件的 CLI**
+**为 AI 编码工具统一生成/导入配置文件的 CLI**
 
-Node.js CLI 工具，从统一的 AI 规则文件自动生成各 AI 开发工具的配置文件，覆盖 rules、ignore、MCP、commands、subagents、skills、hooks、permissions 等特性。支持从 CLAUDE.md、.cursorrules 等既有配置导入到 .rulesync 目录，也提供 convert 子命令在不同工具间直接转换配置而无需落地中间文件。支持约 60 个工具目标及 AGENTS.md 等开放标准，README 中逐工具列出特性支持矩阵并对多个目标给出弃用/维护状态说明。安装方式包括 npm、Homebrew tap 与单二进制脚本。
+Node.js 命令行工具：从统一的 .rulesync 规则源自动生成各类 AI 编码工具（rules、commands、MCP、ignore、subagents、skills 等）的配置文件，支持选择性生成、从现有配置（CLAUDE.md、.cursorrules 等）导入，以及不经中间目录的工具间直接转换。通过 npm、Homebrew tap 或单二进制脚本安装，面向同时使用多个 AI 编码工具、需要同步规则配置的开发者。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ Node.js CLI 工具，从统一的 AI 规则文件自动生成各 AI 开发工具
 
 ## 能力要点
 
-- 从统一规则文件生成多工具配置，支持 rules/MCP/commands/subagents/skills/hooks/permissions
-- rulesync import 从既有配置导入，convert 子命令直接跨工具转换
-- 支持约 60 个 AI 编码工具及 AGENTS.md 开放标准
-- npm、Homebrew tap、单二进制脚本三种安装途径
+- 从统一规则源生成 60+ AI 编码工具的配置文件
+- 支持 rules/ignore/mcp/commands/subagents/skills/hooks/permissions 等特性维度
+- import 命令从现有配置（CLAUDE.md、.cursorrules 等）导入
+- convert 命令支持工具间配置直接转换
 
 ## 适用场景
 
-- 团队同时使用多种 AI 编码工具时统一维护一份规则源
-- 从 Cursor 规则一键转换出 Copilot 与 Claude Code 配置
-- 将现有 CLAUDE.md/.cursorrules 导入为可管理的统一格式
+- 团队在多种 AI 编码工具间共享同一份规则配置
+- 把已有 Cursor 规则一次性转换成 Claude Code / Copilot 配置
+- 用 .rulesync/ 作为单一配置源避免手动维护多份规则文件
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编码工具配置管理
+ · 领域:开发工具/配置管理
 
 ## 证据(README 行号)
 
 > L14: A Node.js CLI tool that automatically generates configuration files for various AI development tools from unified A
+> L74: ## Supported Tools and Features
 > L76: The tables below show whether each tool supports a given feature (✅ = supported, blank = not supported). A ✅ means 
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `07717e0059b7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `2bc385f2ef02` · [字段定义](../../DATASET.md)*

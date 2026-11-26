@@ -2,9 +2,9 @@
 
 ⭐ 1,497 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/HexmosTech/git-lrc) · [官网](https://hexmos.com/livereview/git-lrc/) · 组织维护
 
-**开发者的 git commit 时自动 AI 代码审查工具**
+**Git 提交时自动运行 AI 代码审查的钩子工具**
 
-git-lrc 是一个在 git commit 时触发的 AI 代码审查工具：通过 git hook 在每次提交前对暂存 diff 运行 AI 审查，覆盖 10 个风险类别与 100+ 失败模式，提供浏览器审查 UI、严重度过滤的 Issue Navigator、按影响范围排序的风险评分视图，以及自动生成的摘要幻灯片。附带 claude-lrc，在 Claude Code 内提供 review/vouch/skip 斜杠命令；支持 --agent-mode 以 JSON 输出供编码 agent 与 CI 使用。按 LOC 计费，免费档每月 30k LOC。
+git-lrc 以钩子形式挂接 git commit，在每次提交落库前对暂存 diff 运行 AI 审查，覆盖 10 个风险类别与 100+ 失败模式（凭据泄漏、云成本、错误处理等）。审查结果在浏览器 UI 中以行内评论、严重度徽章与风险评分视图呈现，支持迭代/人工担保（vouch）/跳过（skip）三种决策，并生成摘要幻灯片。提供 claude-lrc 作为 Claude Code 内的 slash 命令形态，以及面向 CI 与编码代理的 --agent-mode JSON 非交互输出。免费层每月 30k LOC，Premium 从 $32/100k LOC 起，企业版支持自托管。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ git-lrc 是一个在 git commit 时触发的 AI 代码审查工具：通过 git 
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,27 @@ git-lrc 是一个在 git commit 时触发的 AI 代码审查工具：通过 git 
 
 ## 能力要点
 
-- commit 时自动触发 AI 审查，全局 hook 一次设置覆盖所有仓库
-- Issue Navigator 按严重度/风险类别/类型过滤审查结果
-- Agent Mode 非交互输出 JSON，记录 agent-reviewed/vouched/skipped attestation
-- 迭代与覆盖率追踪：记录 AI 审查迭代次数与 diff 覆盖百分比
+- 钩入 git commit，提交前自动运行 AI 审查，10 类风险、100+ 失败模式
+- 三种决策路径：AI 迭代审查、人工 vouch、skip，git log 记录覆盖统计
+- claude-lrc 在 Claude Code 内提供 /lrc:review 等 slash 命令
+- --agent-mode 面向编码代理/CI 输出 JSON，写入 agent-reviewed 凭证
 
 ## 适用场景
 
-- AI 生成的代码在提交前被自动审查，拦截泄露的凭据与高危云调用
-- 通过审查循环把问题清单回喂给编码 agent 迭代修复
-- 团队在 commit 环节统一执行代码审查，不依赖 IDE 或特定 AI 助手
-- 用摘要幻灯片与 git log 覆盖历史做新人上手与事后复盘
+- 用 AI 代理生成代码后，提交前自动拦截凭据泄漏、错误逻辑等问题
+- 把审查发现复制回代理修复，迭代直至满意再 vouch 提交
+- CI 或编码代理流水线中非交互运行审查并输出 JSON 结果
+- 新工程师通过摘要幻灯片快速了解每次变更的内容与风险
 
 ## 场景标签
 
-`代码审查` `编码 Agent` · 领域:编码与开发
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L18: **`git-lrc` is your braking system.** It hooks into `git commit` and runs an AI review on every diff _before_ it la
-> L22: **At a glance:** 10 risk categories &middot; 100+ failure patterns tracked &middot; every commit scanned automatica
+> L135: 2. **Free Gemini API key** — grab one from Google AI Studio
+> L236: browser-based review UI. `--agent-mode` runs a real AI review non-interactively
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e58f771198a9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `e5d2cca0210d` · [字段定义](../../DATASET.md)*

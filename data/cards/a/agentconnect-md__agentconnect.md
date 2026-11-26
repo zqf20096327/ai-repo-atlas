@@ -1,10 +1,10 @@
 # agentconnect-md/agentconnect
 
-⭐ 1,556 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/agentconnect-md/agentconnect) · [官网](https://www.agentconnect.md) · 组织维护 · 中文 README
+⭐ 1,556 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/agentconnect-md/agentconnect) · [官网](https://www.agentconnect.md) · 组织维护
 
-**多 Agent 协作平台：在团队消息渠道中接入多个 AI agent**
+**让 AI 代理团队接入 Slack/GitHub 等平台协同工作的开源平台**
 
-开源的多 agent 协作平台，将 Claude Code、Codex、Grok Build、DeepSeek 等任意 ACP 兼容 agent 接入 Slack、Teams、Discord、Telegram、微信等团队已使用的消息渠道，以及 GitHub、GitLab、Azure DevOps 等代码平台。每个 agent 可配置角色、runtime、模型、工具与权限，agent 间可互相调用并携带记忆；Jev 负责 agent 路由与模型选择。通过 Docker Compose 或 Kubernetes Helm chart 部署，架构分为 Daemon、可选 Relay 与 Control Plane。
+开源多代理协作平台，将 Claude Code、Codex、DeepSeek 等 ACP 兼容代理接入 Slack、Teams、Telegram、微信等消息平台及 GitHub、GitLab、Linear 等工作系统。用户给每个代理分配角色，人与代理在共享会话中协作，代理可互相调用并保留记忆；通过 Jev 做代理路由与模型选择，支持定时任务、webhook 触发、权限边界与知识发布。架构分 Daemon、Relay、Control Plane 三层，支持自托管。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 支持 Slack/Teams/Discord/Telegram/微信等多渠道与 GitHub/GitLab 等代码平台集成
-- 多 agent 共享会话协作，agent 间互相调用并各自持有记忆与技能
-- 通过 Jev 实现会话路由与每个 session 的 runtime/模型选择
-- 自托管 Apache-2.0 栈，提供 Web 控制台管理 agents、sessions、schedules、knowledge
+- 支持 Slack/Teams/Telegram/微信/QQ 等 20+ 消息与代码平台的代理接入
+- 多代理可在共享会话中互相调用并携带记忆与技能
+- 通过 Jev 的 Decisions 机制决定代理响应时机、路由与运行时/模型选择
+- Daemon/Relay/Control Plane 架构支持 Docker Compose 与 Kubernetes Helm 自托管
 
 ## 适用场景
 
-- 在共享会话中与 agent 一起分诊和排查 issue
-- 通过 schedule 或 webhook 触发周期性运维任务并保持人工可见
-- 为 GitHub PR 配置通用/架构/安全等不同角色的代码审查 agent
-- 跨可信工作区发起支持会话并跨渠道流转
+- 在 Slack/Telegram 共享会话中让人与多个 AI 代理一起分诊和处理 issue
+- 为 GitHub 新 PR 按角色配置多个代码审查代理（架构/安全等）
+- 通过定时任务或 webhook 启动自动化运维流程并保留人工决策环节
+- 在受信任的工作区之间跨平台流转支持工单
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L66: AgentConnect is an open-source platform where teams and multiple AI agents work
-> L71: for agent routing and model selection.
-> L136: - **Stay in control.** Self-host the Apache-2.0 stack and keep agent execution
+> L68: AgentConnect is an open-source platform where teams and multiple AI agents work
+> L71: Linear, and email. Bring Claude Code, Codex, Grok Build, DeepSeek, Pi, or any ACP-compatible
+> L73: for agent routing and model selection.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c54ad861eb18` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8b7ff18f7b99` · [字段定义](../../DATASET.md)*

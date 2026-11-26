@@ -2,9 +2,9 @@
 
 ⭐ 31,428 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/t8y2/dbx) · [官网](https://dbxio.com) · 个人维护 · 中文 README
 
-**轻量跨平台数据库客户端，支持100+数据库，内置AI助手**
+**内置 AI 助手与 MCP 的 25MB 跨平台数据库客户端**
 
-Rust 编写的开源数据库管理工具，单二进制约 25 MB，无 JRE/Python/Chromium。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供 macOS/Windows/Linux 桌面端、Docker/Web 自托管与 CLI 三种形态。内置 AI SQL 助手：自然语言生成 SQL、解释、优化、纠错，AI 生成的 SQL 经内置安全检查后执行；另提供独立分发的 MCP Server，使 Claude Code、Cursor 等 AI agent 能通过 DBX 已配置的连接查询数据库。附带消息队列与中间件控制台、签名沙箱插件商店、SSH 隧道与连接加密导出。
+以 Rust 编写的轻量级数据库管理工具，单二进制约 25 MB，无需 Java/Python/Chromium 运行时。支持 100+ 数据库连接，提供查询编辑器、数据网格、Schema 工具（ER 图、diff、执行计划）、数据导入导出与传输，并为 Kafka、RocketMQ、Redis、MongoDB 等提供专用控制台。AI 部分：自然语言生成 SQL、查询解释与纠错，并附带独立分发的 MCP Server 与 CLI，供 AI 编码代理通过 DBX 连接查询数据库。提供桌面端（macOS/Windows/Linux）、Docker 自托管与 Web 版本，另有签名沙箱插件生态。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@ Rust 编写的开源数据库管理工具，单二进制约 25 MB，无 JRE/Pyth
 
 ## 能力要点
 
-- 单二进制约 25 MB，覆盖 100+ 数据库，无 JRE/Python/Chromium 运行时
-- AI SQL 助手支持 Claude、OpenAI、本地模型及 OpenAI 兼容端点，生成 SQL 有安全检查
-- 独立 MCP Server + CLI Agent Skill，供 AI coding agent 查询数据库
-- 消息队列（Kafka/RocketMQ 等）与中间件（Nacos/etcd 等）控制台、签名沙箱插件商店
+- 支持 MySQL、PostgreSQL、Redis、MongoDB、达梦等 100+ 数据库
+- 内置 AI SQL 助手，生成结果经安全检查后才执行
+- 独立 MCP Server，AI 代理可用 DBX 配置的连接查询数据库，含三级权限模式
+- 消息队列与中间件控制台（Kafka/RocketMQ/RabbitMQ/Pulsar/MQTT 等）
 
 ## 适用场景
 
-- 用一个客户端管理多种数据库与消息队列/中间件
-- 自然语言生成、解释、优化 SQL 并安全执行
-- 让 Claude Code/Cursor 等 agent 通过 MCP 访问团队数据库
-- Docker 自托管为团队提供 Web 端数据库访问
+- 用一个客户端管理公司里的多种数据库与中间件
+- 让 Claude Code、Cursor 等 AI 代理通过 MCP 安全查询数据库
+- 通过 Docker 自托管为团队提供 Web 访问
+- 用自然语言生成、解释与优化 SQL
 
 ## 场景标签
 
@@ -45,10 +45,9 @@ Rust 编写的开源数据库管理工具，单二进制约 25 MB，无 JRE/Pyth
 
 ## 证据(README 行号)
 
-> L103:  🪶 25 MB, zero runtime bloat
-> L107:  Highlight a table, describe what you want, get SQL back — no copy-paste between tools. Works with Claude, OpenAI,
-> L110:  DBX speaks the Model Context Protocol. Claude Code, Cursor, Windsurf, and other AI coding agents can query your d
-> L187: DBX provides a separate Rust-powered MCP server that lets AI coding agents query databases using connections confi
+> L96:  🪶 25 MB, zero runtime bloat
+> L99:  🤖 AI that lives in your editor
+> L126: Describe what you want in plain language — get SQL back. DBX can explain queries, optimize SQL, fix errors, and ru
 
 ## 星数曲线
 
@@ -64,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `0c5df51b735c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fa9dd7aab6f3` · [字段定义](../../DATASET.md)*

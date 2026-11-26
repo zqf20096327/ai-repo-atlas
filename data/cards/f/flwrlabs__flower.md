@@ -2,9 +2,9 @@
 
 ⭐ 7,224 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/flwrlabs/flower) · [官网](https://flower.ai) · 组织维护
 
-**面向研究者的联邦学习框架：用任意 ML 框架构建联邦 AI 系统**
+**面向构建联邦 AI 系统的开源框架**
 
-Flower（flwr）是一个用于构建联邦学习/联邦分析系统的框架，起源于牛津大学研究项目。核心机制为框架无关：可与 PyTorch、TensorFlow、Hugging Face、scikit-learn、JAX、TFLite（Android）、CoreML（iOS）、XGBoost 等多种 ML 框架配合使用，支持自定义联邦策略、自定义消息通信与组件扩展。面向 AI 研究者与开发者，提供系列入门教程、复现联邦学习论文的 Baselines 集合（FedAvg、FedProx、MOON 等）及大量代码示例，含 Raspberry Pi/Nvidia Jetson 边缘设备教程与 LLM/Whisper 联邦微调示例。
+Flower（flwr）是一个用于构建联邦 AI 系统的框架，源自牛津大学研究项目。设计原则包括可定制（支持按用例配置联邦学习系统）、可扩展（组件可被覆盖以构建新系统）与框架无关（可配合 PyTorch、TensorFlow、JAX 等多种 ML 框架使用）。提供联邦学习入门系列教程、文档与 Quickstart（含 Android/iOS），以及社区贡献的 Baselines 集合，用于复现已发表的联邦学习实验，便于研究者在之上评估新方法。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ Flower（flwr）是一个用于构建联邦学习/联邦分析系统的框架，
 
 ## 能力要点
 
-- 框架无关：支持 PyTorch/TensorFlow/JAX/scikit-learn 等十余种 ML 框架
-- 联邦策略可自定义、组件可扩展覆盖
-- Flower Baselines 复现 20+ 篇联邦学习论文实验
-- 支持 Android（TFLite）与 iOS（CoreML）移动端快速上手
+- 框架无关：可配合 PyTorch、TensorFlow、Hugging Face、JAX、XGBoost 等
+- Flower Baselines 收录 20+ 个复现联邦学习论文实验的社区项目
+- 提供联邦学习入门教程系列与多框架 Quickstart 示例
+- 支持 Android（TFLite）与 iOS（CoreML）端联邦学习示例
 
 ## 适用场景
 
-- 用现有 ML 训练代码搭建联邦学习系统
-- 复现或对比联邦学习论文中的算法基线
-- 在移动与边缘设备上运行联邦学习实验
-- 对 LLM/Whisper 等模型做联邦微调
+- 跨设备/跨机构场景下搭建联邦学习系统
+- 研究者在 Baselines 基础上评估新的联邦学习策略
+- 在 Android/iOS 设备上运行联邦学习示例
+- 对大语言模型或视觉模型做联邦微调
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+ · 领域:机器学习/联邦学习框架
 
 ## 证据(README 行号)
 
 > L19: Flower (`flwr`) is a framework for building federated AI systems. The
 > L30: - **Framework-agnostic**: Different machine learning frameworks have different
-> L26: - **Extendable**: Flower originated from a research project at the University of
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `e87035ab5593` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `167c96af59a1` · [字段定义](../../DATASET.md)*

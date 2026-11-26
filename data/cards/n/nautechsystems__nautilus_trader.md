@@ -2,9 +2,9 @@
 
 ⭐ 31,820 · Rust · LGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/nautechsystems/nautilus_trader) · [官网](https://nautilustrader.io) · 组织维护
 
-**面向交易者的 Rust 原生多资产事件驱动交易引擎**
+**Rust 原生事件驱动交易引擎，供量化交易开发者研究回测与实盘执行**
 
-Rust 原生的开源交易系统引擎，覆盖研究、确定性回测模拟与实盘执行，采用确定性事件驱动架构，Python 作为策略逻辑与编排的控制平面，也可全部用 Rust 编写。通过模块化适配器接入任意 REST API 或 WebSocket 数据源的交易所与数据商，覆盖加密货币 CEX/DEX、外汇、股票、期货、期权与博彩交易所等；同一套策略代码可在回测与实盘间复用。安装以 PyPI 预编译 wheel 为主，无需 Rust 工具链，另支持 Docker 部署；项目声明仍在活跃开发中，API 可能出现破坏性变更。
+NautilusTrader 是开源的多资产、多场所交易系统引擎，Rust 核心 + Python 控制面（PyO3 绑定），同一策略与执行算法代码可在确定性模拟回测与实盘执行间复用。通过模块化 adapter 接入任何 REST API 或 WebSocket 数据源，内置加密货币 CEX/DEX、外汇、股票、期货、期权与博彩交易所适配器清单。支持高级订单类型、OCO/OUO/OTO 条件单、纳秒级历史数据回测，并称可训练强化学习交易 agent。v2 迁移期 v1 仅做安全回补。
 
 ## 筛选速览
 
@@ -27,27 +27,26 @@ Rust 原生的开源交易系统引擎，覆盖研究、确定性回测模拟与
 
 ## 能力要点
 
-- Rust 核心引擎，Python 通过 PyO3 绑定作为控制平面
-- 回测与实盘使用同一策略与执行算法代码
-- 适配器接入 Binance、Bybit、Interactive Brokers 等 20+ 交易所与数据商
-- 纳秒级分辨率回测，支持多种订单类型与条件触发
+- Rust 核心 + Python 控制面，PyO3 绑定，预编译 wheel 安装无需 Rust 工具链
+- 模块化 adapter 接入 20+ 交易所与数据源（Binance、Interactive Brokers、Polymarket 等）
+- 纳秒分辨率历史数据回测与实盘共用同一策略代码
+- 支持 IOC/FOK/GTC 等多种 Time in force 与 OCO/OUO/OTO 条件单
 
 ## 适用场景
 
-- 在历史 tick/订单簿数据上回测多市场多策略组合
-- 将同一策略从研究环境迁移到实盘部署
-- 训练 AI 交易代理（RL/ES）用于交易研究
-- 跨多个交易所同时运行做市与跨市场策略
+- 加密货币与多资产策略的回测与实盘部署
+- 在统一架构下做做市与跨场所套利策略
+- 训练强化学习交易 agent 并迁移到实盘
 
 ## 场景标签
 
-`金融量化` · 领域:学习与行业
+`金融量化` `强化学习` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L30: NautilusTrader is an open-source, production-grade, Rust-native engine for multi-asset,
 > L63: - **AI Training**: Engine fast enough to train AI trading agents (RL/ES).
-> L85: Python bindings are provided via PyO3 for the Rust-native v2 runtime.
+> L56: - **Portable**: Runs on Linux, macOS, and Windows. Deploy using Docker.
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6e8aec6f5771` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d30d3eee9dbe` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,611 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) · [官网](https://3d-models.hunyuan.tencent.com/world/) · 组织维护 · 中文 README
 
-**单图生成世界一致 3D 点云视频的可交互 RGBD 视频扩散模型**
+**从单图按相机路径生成 3D 一致 RGBD 视频并支持 3D 重建**
 
-腾讯混元开源的视频扩散框架：从单张图像与用户自定义相机轨迹出发，联合生成对齐的 RGB 与深度视频序列，支持长程世界探索式场景扩展，并可直接导出 3D 点云（ply）。附带数据引擎，可自动估计相机位姿与度量深度，从任意视频构建训练数据。限制明显：需要 NVIDIA GPU，540p 分辨率最低显存 60GB，推荐 80GB，测试系统为 Linux。提供 Gradio 演示与 xDiT 多卡并行推理，论文发表于 arXiv 2506.04225。
+腾讯混元发布的视频扩散框架，输入单张图像与用户定义的相机路径，联合生成对齐的 RGB 与深度视频序列，可直接用于 3D 重建并导出点云 ply 文件；通过世界缓存与自回归推理实现长程场景扩展。提供预训练权重（HuggingFace 下载）、单 GPU 推理、xDiT 多 GPU 并行推理与 Gradio demo，另附可生成 RGB-D 训练数据的 data engine。要求 NVIDIA CUDA GPU，540p 最低 60GB 显存，测试环境为 Linux 单卡 80G。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 单图 + 相机路径联合生成对齐的 RGB 与深度视频
-- 世界缓存与自回归推理支持长程场景扩展
-- 附带可复用的 RGB-D 视频训练数据引擎（10 万+ 视频片段）
-- 支持 xDiT 多 GPU 并行推理（8 卡延迟 288 秒，6.69x 加速）
+- 单图输入+自定义相机路径生成 3D 一致的 RGB-D 视频序列
+- 支持导出 ply 点云文件用于 3D 重建
+- xDiT 多 GPU 并行推理（8 卡最高 6.69x 加速）
+- 附带数据引擎，可为 RGB-D 视频训练生成可扩展数据
 
 ## 适用场景
 
-- 从一张图像沿自定义相机轨迹生成可探索的 3D 一致场景视频
-- 生成 RGB-D 视频后导出点云用于 3D 重建
-- 用数据引擎从自有视频构建 RGB-D 训练数据
+- 从单张图片生成可按相机轨迹探索的 3D 场景视频
+- 从生成或实拍视频重建点云
+- 估计视频深度并生成 RGB-D 序列
+- 为 RGB-D 视频训练批量构建数据集
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L5: We introduce HunyuanWorld-Voyager, a novel video diffusion framework that generates world-consistent 3D point-cloud 
-> L58: (1) World-Consistent Video Diffusion: A unified architecture that jointly generates aligned RGB and depth video seq
-> L62: To train Voyager, we propose a scalable data engine, i.e., a video reconstruction pipeline that automates camera po
+> L60: (2) Long-Range World Exploration: An efficient world cache with point culling and an auto-regressive inference with
+> L156: * An NVIDIA GPU with CUDA support is required.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3ef87d63d8d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a2356a9dd5b5` · [字段定义](../../DATASET.md)*

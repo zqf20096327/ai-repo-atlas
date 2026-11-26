@@ -2,9 +2,9 @@
 
 ⭐ 2,682 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NeuralNomadsAI/CodeNomad) · [官网](https://neuralnomadsai.github.io/CodeNomad/) · 组织维护
 
-**为 OpenCode V2 编码代理提供的桌面/浏览器工作台**
+**面向 OpenCode V2 的桌面/浏览器编程 Agent 工作台**
 
-面向多项目、长会话与 Git worktree 工作流的 OpenCode V2 前端工作台：连接 OpenCode 共享后台服务，提供项目标签页、嵌套会话与完整历史导航、会话分叉、worktree 创建与会话迁移、Markdown/代码/diff 渲染、文件附件与 @ 引用、语音输入、命令面板与多语言界面。支持远程访问：服务器以 npm 包运行，浏览器或桌面客户端通过密码与 HTTPS 连接，或经 OpenTunnel 中继配对手机。桌面版提供 Electron 与 Tauri 两种构建。
+CodeNomad 是为 OpenCode V2 提供的桌面与浏览器工作区，面向跨项目、长会话和 Git worktree 工作的开发者。它连接 OpenCode 共享后台服务，提供项目多窗口标签、嵌套会话与全历史时间线导航、worktree 创建与变更审查、富文本会话（Markdown/diff/工具结果图）、文件引用与附件、密码认证的远程访问与 OpenTunnel 中继、MCP 连接与插件管理、语音输入，以及以 SideCar 形式嵌入 VSCode/终端等 Web 工具。依赖 OpenCode V2（≥2.4.0）与 Git。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 嵌套会话、分叉、全历史时间线导航与超载消息搜索
-- Git worktree 创建、选择与会话整体迁移，应用内查看变更
-- 浏览器/桌面远程访问，密码认证与 HTTPS，OpenTunnel 免开端口配对
-- SideCar 机制可在应用内以标签页打开服务器侧 Web 工具（如 VSCode、ttyd）
+- 桌面提供 Electron 与 Tauri 双构建，含 Windows 安装包与 macOS/Linux 包
+- 嵌套会话、分叉对话、时间线全历史导航与 worktree 管理
+- SideCar 机制可在应用内嵌入 VSCode（OpenVSCode Server）与 ttyd 终端
+- 远程访问支持密码认证、HTTPS 与 OpenTunnel 中继配对
 
 ## 适用场景
 
-- 在统一界面管理多个项目的编码代理会话
-- 在长对话中跳转、分叉并检索历史消息
-- 通过浏览器或手机远程接入开发机上的代理会话
-- 在应用内直接管理 Git worktree 与代码变更
+- 在一个桌面工作区管理多个项目的 OpenCode 编程会话
+- 用 Git worktree 隔离并行开发并就地审查变更
+- 通过浏览器或手机远程接入开发机上的 Agent 会话
 
 ## 场景标签
 
@@ -38,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: ## The AI Coding Cockpit for OpenCode
 > L5: CodeNomad is a **desktop and browser workspace for OpenCode V2** — built for developers who work across projects, lo
 > L91: - **One shared OpenCode service** owns sessions and messages. Closing a CodeNomad tab, window, or backend leaves th
+> L164: |**packages/server**|Core logic & CLI — workspaces, OpenCode proxy, API, auth, speech|
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `c1eb6cea228b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c2f2f12a2a33` · [字段定义](../../DATASET.md)*

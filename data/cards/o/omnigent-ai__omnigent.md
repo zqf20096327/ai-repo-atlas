@@ -2,9 +2,9 @@
 
 ⭐ 11,557 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/omnigent-ai/omnigent) · [官网](https://omnigent.ai) · 组织维护
 
-**统一编排多个 AI 编码 agent 的开源元框架**
+**为开发者统一编排多种 AI 编码 agent 的元编排层**
 
-Omnigent 为 Claude Code、Codex、Cursor 等多种 agent 运行时提供统一的编排层：同一会话内混合运行多种 harness，跨终端/浏览器/手机/桌面应用同步会话状态，并支持实时协作（共享、共同驾驶、fork 会话）。通过策略机制在风险操作前暂停审批、限制支出与工具访问，支持在 Modal、E2B、Kubernetes 等云端沙箱运行 agent。安装需要 Python 3.12+、uv、git，Windows 原生模式为功能受限的降级模式。当前状态为 alpha。
+开源 meta-harness，在 Claude Code、Codex、Cursor 等多种 harness 之上提供统一编排层：同一会话中混用/替换 agent 而无需重写，支持 YAML 定义自定义 agent、策略审批、消费限额、工具范围限制与沙箱隔离。会话可在终端、浏览器、手机间跟随同步，支持共享会话协作与 fork。云端沙箱支持 Modal、E2B、Kubernetes、Databricks 等后端。提供 CLI、web UI 与 macOS 桌面应用；状态为 alpha，需 Python 3.12+，Windows 仅降级模式。
 
 ## 筛选速览
 
@@ -13,28 +13,28 @@ Omnigent 为 Claude Code、Codex、Cursor 等多种 agent 运行时提供统一�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 同一会话混合运行多种 agent harness（YAML 自定义 agent）
-- 会话跨终端/浏览器/手机/桌面应用同步，支持团队实时协作
-- 策略治理：风险操作审批、支出上限、工具访问限制
-- 支持 Modal/E2B/Kubernetes 等云端沙箱运行
+- 同一会话混用多种 agent harness（Claude Code/Codex/Cursor 等）及 YAML 自定义 agent
+- 策略治理：审批暂停、消费上限、工具范围限制，作用于服务器/单 agent/单会话
+- 会话跨终端/浏览器/手机实时同步，支持共享协作与 fork
+- 云端一次性沙箱（Modal/E2B/Kubernetes/Databricks 等）与 Linux bwrap / macOS seatbelt 本地沙箱
 
 ## 适用场景
 
-- 在一处界面统一管理多个不同的编码 agent
-- 团队成员共享会话、实时观看 agent 工作
-- 在云端沙箱运行 agent 而不占用本地机器
-- 为 agent 设置审批与支出限制策略
+- 在多个 agent 之间分工协作，让一个 agent 审查另一个的产出
+- 通过策略审批和消费上限管控团队的 agent 使用
+- 从手机或浏览器接续在终端启动的 agent 会话
+- 在云端沙箱运行 agent 而不占用本地笔记本
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` `多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `88710e13625d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `fe5e87072546` · [字段定义](../../DATASET.md)*

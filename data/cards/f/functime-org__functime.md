@@ -2,9 +2,9 @@
 
 ⭐ 1,195 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/functime-org/functime) · [官网](https://functime-org.github.io/functime/) · 组织维护
 
-**面向面板数据的大规模时间序列预测与特征提取 Python 库**
+**面向面板数据的时间序列预测与特征提取 Python 库**
 
-基于 Polars 构建的时间序列机器学习库，提供全局预测（global forecasting）与 100+ 时间序列特征提取器，面向大规模面板数据做惰性并行计算。附带预处理（box-cox、差分）、交叉验证切分器（扩展/滑动窗口）、预测指标（MASE、SMAPE），支持外生特征、回测，并通过 FLAML 做自动滞后与超参调优。可选安装 LLM 预测分析 agent（用自然语言分析、描述、比较预测结果）。以 pip/uv 安装的 Python 库形式提供，Apache-2.0 许可。
+基于 Polars 构建的 Python 库，提供全局预测与时间序列特征提取，支持在面板数据上进行并行化处理。附带时间序列预处理（box-cox、差分等）、交叉验证切分器（expanding/sliding window）与预测指标（MASE、SMAPE 等），均以 Polars lazy transform 实现。可选安装 catboost、xgboost、lightgbm 预测器扩展。通过 uv 或 pip 安装，Apache-2.0 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 基于 Polars 的惰性并行时间序列特征工程，可在笔记本上处理 100,000 条时间序列
-- 100+ 特征提取器，通过自定义 ts 命名空间接入 Polars Series/表达式
-- 扩展/滑动窗口交叉验证、回测与 MASE/SMAPE 等预测指标
-- 可选 LLM agent 分析、描述与比较预测；FLAML 自动滞后与超参调优
+- 基于 Polars 的并行特征工程，支持 10 万级时间序列的特征提取与预测
+- 100+ 时间序列特征提取器，通过自定义 ts 命名空间用于任意 Polars Series
+- 每个预测器支持外生变量（exogenous features）
+- 提供 expanding/sliding window 交叉验证切分与 MASE、SMAPE 等指标
 
 ## 适用场景
 
-- 在面板数据上做大规模全局时间序列预测
-- 并行提取 tsfresh/Catch22 类时序特征用于建模
-- 用扩展/滑动窗口对预测模型做回测与调参
+- 对大规模面板数据做时间序列预测
+- 为 Polars 数据管道添加时间序列特征工程
+- 对预测模型进行滚动窗口回测评估
 
 ## 场景标签
 
- · 领域:机器学习/时间序列
+ · 领域:机器学习/数据科学
 
 ## 证据(README 行号)
 
 > L11: **functime** is a powerful Python library for production-ready **global forecasting** and **time-series feature ext
-> L18: - **Fast:** Forecast and extract features (e.g. tsfresh, Catch22) across 100,000 time series in seconds *on your la
+> L19: - **Efficient:** Embarrassingly parallel feature engineering for time-series using `Polars`
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0b7c4e5ad2aa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `869406b68bcb` · [字段定义](../../DATASET.md)*

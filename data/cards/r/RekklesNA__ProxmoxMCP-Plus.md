@@ -2,9 +2,9 @@
 
 ⭐ 668 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/RekklesNA/ProxmoxMCP-Plus) · [官网](https://github.com/RekklesNA/ProxmoxMCP-Plus#readme) · 个人维护
 
-**供 LLM 与 AI Agent 通过 MCP/OpenAPI 安全操作 Proxmox VE 的控制面**
+**供运维通过 MCP/OpenAPI 安全控制 Proxmox VE 的控制面**
 
-面向运维者的服务器程序，运行在 AI 客户端与 Proxmox VE 之间，覆盖 VM 与 LXC 生命周期、快照回滚、备份恢复、ISO 下载清理、存储/集群检查、SSH 容器命令执行及异步长任务跟踪。提供 MCP（stdio/HTTP）与 OpenAPI 双入口；安全机制包括 Proxmox API token、bearer 认证、命令策略、审批 token、TLS 校验、工具 allowlist/denylist，以及可选的 OAuth（PKCE）浏览器同意流程，OAuth 状态持久化于 PostgreSQL。安装途径有 PyPI（uvx/pip）与 Docker。
+作为 AI 客户端与 Proxmox VE 之间的中间层，提供 MCP 与 OpenAPI 两种入口，操作 VM/LXC 生命周期、快照、备份、ISO 与持久化异步任务。安全机制包括 API token、OpenAPI bearer 认证、命令策略、审批 token、TLS 校验、工具白/黑名单过滤。提供 PyPI 包、Docker 部署与可选 Code Mode 沙箱及 OAuth（PKCE）浏览器授权，OAuth 状态存于 PostgreSQL。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- MCP 与 OpenAPI 双入口共享同一操作面
-- 长任务持久化：job_id、UPID 跟踪、轮询、重试、取消与审计历史
-- 审批 token、命令策略、TLS 校验与工具过滤等安全控制
-- 可选 OAuth 授权码流（PKCE），状态存于 PostgreSQL
+- MCP 与 OpenAPI 双入口覆盖 agent 与 HTTP 自动化场景
+- 持久化 job_id/UPID 跟踪、轮询、重试、取消与审计历史
+- API key、命令策略、审批 token、工具白/黑名单等安全护栏
+- 可选 OAuth 授权码流（PKCE），状态持久化于 PostgreSQL
 
 ## 适用场景
 
-- 在 Claude Desktop 或 Cursor 中对话式管理 Proxmox VM 与 LXC
-- 将 Proxmox 运维接入 HTTP 自动化、仪表盘或无代码工作流
-- 对异步 Proxmox 任务做持久化跟踪与审计
+- 在 Claude Desktop/Cursor 等客户端中管理 homelab 的 Proxmox 虚拟机与容器
+- 通过 HTTP API 把 Proxmox 操作接入内部仪表盘与 no-code 工作流
+- 对快照、备份等长耗时任务做异步跟踪与审计
 
 ## 场景标签
 
- · 领域:基础设施运维/自动化
+ · 领域:IT 基础设施/运维自动化
 
 ## 证据(README 行号)
 
 > L5:  Operate Proxmox VE from MCP clients, AI agents, and OpenAPI tooling through one security-conscious control plane fo
+> L31: ProxmoxMCP-Plus sits between AI clients and Proxmox VE so operators do not have to stitch together raw API calls, o
 > L35: - `MCP` for Claude Desktop, Cursor, VS Code, Open WebUI, Codex, and other MCP-capable agents
-> L53: |Dual access paths|Native MCP for agent workflows and OpenAPI for standard HTTP automation|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5e7d62531c18` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a3998c6ee6f8` · [字段定义](../../DATASET.md)*

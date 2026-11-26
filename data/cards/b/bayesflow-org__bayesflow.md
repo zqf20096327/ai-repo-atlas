@@ -2,9 +2,9 @@
 
 ⭐ 790 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/bayesflow-org/bayesflow) · [官网](https://bayesflow.org/) · 组织维护
 
-**面向科研人员的深度学习仿真推断（SBI）Python 库**
+**给科研人员做仿真推断的深度学习贝叶斯库**
 
-基于深度学习的仿真推断（SBI）Python 库：用户用任意模拟器生成数据，通过 Keras 3 生态定义神经后验/似然/比值/点估计器，训练摊销化贝叶斯推断模型并配套诊断套件；支持 PyTorch/TensorFlow/JAX 多后端，可与 PyMC 集成，需自行安装后端才能运行。提供 PyPI 与源码安装，附 19 个教程笔记本、书籍示例与视频资源，另有供 AI agent 使用的 Baygent Skills。
+基于深度学习的仿真推断（SBI）Python 库，围绕摊销贝叶斯工作流组织：先从任意仿真器生成数据，再定义神经后验/似然/比率/点估计器并训练，配套诊断工具验证结果。通过 Keras 3 支持 PyTorch、TensorFlow、JAX 三种后端，可与 PyMC 集成，支持层级模型、集成与组合估计器。安装需 Python 3.12/3.13，且必须另装一个后端方可运行。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 摊销化贝叶斯工作流的用户友好 API（神经后验/似然/比值估计器）
-- 经 Keras 3 支持 PyTorch/TensorFlow/JAX 三后端
-- 内置扩散到一致性模型等生成模型与诊断功能
-- 提供 PyMC 集成与 19 个教程笔记本
+- 摊销贝叶斯工作流的高层 API（BasicWorkflow）
+- 经 Keras 3 支持 PyTorch/TensorFlow/JAX 多后端
+- 内置扩散与一致性模型等生成模型与诊断套件
+- 提供 19 个教程笔记本与 PyMC 集成路径
 
 ## 适用场景
 
-- 从模拟器数据摊销化估计后验分布
-- 用神经似然接入 PyMC/MCMC 采样流程
-- 分层贝叶斯模型与贝叶斯模型比较
-- 用后验不确定性做模型预测控制或自适应实验设计
+- 用仿真器数据训练神经后验估计器做参数推断
+- 对 SIR 等科学计算模型做摊销贝叶斯推断
+- 结合 MCMC 或 PyMC 做神经似然/比率估计
+- 科研实验设计中的自适应序贯实验
 
 ## 场景标签
 
-`科研工具` `教程课程` · 领域:学习与行业
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L9: BayesFlow is a Python library for simulation-based inference (SBI) with deep learning.
-> L20: BayesFlow is a flexible framework for Bayesian inference with deep learning—from idea to results in just a few line
-> L46: To use BayesFlow, you will also need to install one of the following machine learning backends.
+> L12: - A user-friendly API for amortized Bayesian workflows
+> L14: - Multi-backend support via Keras 3: You can use PyTorch, TensorFlow, or JAX
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c3125ecb76f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `bb24183b9115` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 14,896 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/google/ax) · [官网](https://agentexecutor.io) · 组织维护
 
-**面向开发者的声明式 agent 工作负载集群编排运行时**
+**Google 开源的 agent 编排运行时，集群级运行海量自治任务**
 
-AX 是 Google 开源的 agentic 编排运行时，以 Kubernetes 风格的 YAML 清单（ax.io/v1alpha1）声明 agent 任务，在 Agent Substrate 之上提供沙箱化执行，支持单集群运行数百万个 agent 工作负载。核心原语包括 Task（隔离沙箱与资源限制）、Workspace（预配置 Git 仓库、MCP 服务器与技能包）、Model 与 Gateway（凭据注入与网络策略）；提供 apply/resume/suspend/ssh/describe 等 kubectl 形状的 CLI 命令及本地 Web UI（ax-studio）。README 明确警告项目处于重度开发阶段，稳定版前可能出现重大破坏性变更。
+AX 是 Google 开源的声明式 agent 编排运行时，用于在集群上运行大规模自治 agent 工作负载。它以 ax.io/v1alpha1 YAML 清单定义 Task、Workspace、Model、Gateway 四种原语，提供沙箱隔离、资源限制、Git 仓库与 MCP 服务器预接线、凭证注入、挂起/恢复与 ssh 调试；CLI 采用 kubectl 风格，附带本地 Web UI（ax-studio）与端到端 tour 脚本。运行依赖 Agent Substrate 底层，可本地 Kind 集群启动或部署到 Kubernetes 1.37+ 集群。项目处于早期开发，可能引入破坏性变更。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@ AX 是 Google 开源的 agentic 编排运行时，以 Kubernetes 风格的 YAML 
 
 ## 能力要点
 
-- 声明式 YAML 清单（Task/Workspace/Model/Gateway）管理 agent 工作负载
-- 沙箱化隔离执行，含 CPU/内存限制与主机访问策略
-- kubectl 形状 CLI，支持 suspend/resume 断点续跑与 ax ssh 调试
-- 本地 Kind 集群快速启动，兼容 kubectx 切换集群
+- Task/Workspace/Model/Gateway 四原语以 YAML 清单声明
+- 沙箱隔离执行、挂起/恢复与快照续跑、ax ssh 调试
+- kubectl 风格 CLI 与本地 Web UI（ax-studio）
+- 基于 Agent Substrate，可本地 Kind 或远程 Kubernetes 集群运行
 
 ## 适用场景
 
-- 在集群中批量运行需要隔离与状态管理的 agent 任务
-- 为 untrusted agent 代码提供资源受限沙箱并控制其网络出口
-- 本地 Kind 起步后无缝迁移到远程 GKE 集群运行 agent
-- 通过 web UI 启动、观察并 shell 进入运行中的 agent 任务
+- 在集群中批量调度并隔离运行不可信的 agent 代码
+- 为 agent 预配置代码仓库、MCP 服务器与工具凭证
+- 挂起空闲 agent 并从原状态恢复继续执行
+- 通过 Web UI 或 CLI 观测、调试运行中的 agent 任务
 
 ## 场景标签
 
@@ -45,9 +45,9 @@ AX 是 Google 开源的 agentic 编排运行时，以 Kubernetes 风格的 YAML 
 
 ## 证据(README 行号)
 
+> L9: **Declare an agentic task with workspaces and model specifications. AX sandboxes it, wires up its workspace, and hel
 > L11: AX is a highly efficient, declarative orchestrator to run millions of autonomous agent workloads in a cluster. It r
-> L31: Agents are a new kind of workload. They are neither stateless microservices nor run-to-completion batch jobs. They 
-> L150: AX is aiming to grow into an agentic platform that covers session management, memory, multi-task coordination, inp
+> L162: AX is aiming to grow into an agentic platform that covers session management, memory, multi-task coordination, inp
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `717ef0534c2e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `07ab4f656db6` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 897 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Stability-AI/stable-audio-3) · 组织维护
 
-**音频/音乐生成开源平台：文本生成音频、编辑与微调**
+**面向开发者的文本生成音频/音乐推理与微调平台**
 
-Stability AI 的音频与音乐生成推理及 LoRA 微调平台，提供 Small-Music/Small-SFX（433M，CPU 可跑）、Medium（1.4B，CUDA/TensorRT）三个本地模型，Large 仅通过 API 提供。支持 text-to-audio、audio-to-audio 编辑、inpainting/续写三种推理模式，配套 SAME 立体声 44.1kHz 自编码器。安装基于 uv，提供 Gradio UI、CLI、Python API，以及 TFLite/MLX/TensorRT 三条优化运行时（MLX 支持纯 MLX LoRA 训练）。Medium 模型需额外安装 Flash Attention 2。
+Stable Audio 3 提供音频生成模型的推理与 LoRA 微调能力，包含 text-to-audio、audio-to-audio 编辑、inpainting/continuation 三种推理模式，基于 SAME 自编码器（立体声 44.1 kHz）。模型分 Small（433M，CPU 可运行）、Medium（1.4B，需 CUDA 与 Flash Attention 2）、Large（仅 API，本仓库不支持）。提供 Python API、stable-audio CLI 与 Gradio 网页界面；Medium 默认安装 CUDA 12.6 版 PyTorch。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Stability AI 的音频与音乐生成推理及 LoRA 微调平台，提供 Small-
 
 ## 能力要点
 
-- 三种推理模式：text-to-audio、audio-to-audio 编辑、inpainting/续写
-- Small 模型 CPU 即可运行，无需 GPU；Medium 支持 CUDA/TensorRT
-- LoRA 微调能力，可堆叠、运行时可调强度
-- TFLite（跨平台 CPU）/MLX（Apple Silicon）/TensorRT（NVIDIA）三条优化运行时，前两条带 Web UI
+- 三种推理模式：text-to-audio、audio-to-audio、inpainting/continuation
+- Small 模型 433M 参数，CPU 即可运行，最长生成 120 秒
+- 支持 LoRA 微调，可堆叠并在运行时调节强度
+- 提供 TFLite（跨平台 CPU）、MLX（Apple Silicon）、TensorRT（Linux+NVIDIA）三条优化推理路径
 
 ## 适用场景
 
-- 用文字提示生成音乐或音效素材
-- 对现有录音做风格改写或局部重生成/续写
-- 在 Apple Silicon 或 CPU 环境本地运行音频生成
-- 用自有数据 LoRA 微调出特定风格的模型
+- 用文字提示生成长达数分钟的音乐或音效
+- 对现有录音做风格改写或指定区域重生成
+- 在 Apple Silicon 上用纯 MLX 做 LoRA 训练
+- 用 CLI 不写 Python 直接生成音频文件
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ Stability AI 的音频与音乐生成推理及 LoRA 微调平台，提供 Small-
 ## 证据(README 行号)
 
 > L38: - ⚡ **Fast, state-of-the-art generation** - Generate minutes of audio in milliseconds
-> L115: **Text-to-Audio** — Generate audio from a text prompt:
+> L9: Stable Audio 3 is the next generation of Stable Audio: a focused, streamlined platform for inference and fine-tuning
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `6675f54bbd44` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `e1adfb4c28d4` · [字段定义](../../DATASET.md)*

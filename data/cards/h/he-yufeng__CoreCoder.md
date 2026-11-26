@@ -2,15 +2,15 @@
 
 ⭐ 1,973 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/he-yufeng/CoreCoder) · [官网](https://pypi.org/project/corecoder/) · 个人维护 · 中文 README
 
-**千行级可读 Python 编码 agent，供学习后 fork**
+**约千行 Python 的极简 AI 编码 agent，供阅读与二次开发**
 
-用约 1,532 行引擎（全包 3,492 行 Python）实现的最小编码 agent：主循环围绕 LLM 与 8 个工具（bash、读写/编辑文件、glob、grep、todo、子 agent）运转，可读写文件、执行 shell、生成子 agent，三级上下文压缩，支持 plan mode、hooks、checkpoints，附带 422 个离线测试。默认走 OpenAI 兼容 API，切换供应商仅需两个环境变量，可选 LiteLLM 后端。定位是可读参考实现，供阅读源码后 fork 改造，而非日常生产力工具。
+受 Claude Code 启发的极简编码 agent，引擎约 1,614 行、全包 3,603 行纯 Python，定位类似编码 agent 领域的 nanoGPT：让读者一个下午读完整个引擎，理解编码 agent 的运作机制后 fork 出自己的版本。功能上可实际运行：读写文件、执行 shell、生成子 agent、三级上下文压缩、显示 token 花费，并提供 plan mode、hooks、checkpoints；磁盘变更与命令执行前需用户确认。默认讲 OpenAI 兼容 API，可用两个环境变量切换提供商，另有可选 LiteLLM 后端。附 449 个离线测试与 8 篇中英双语解读文章。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 引擎约 1,532 行、全包 3,492 行，可在一下午通读并断点修改
-- 8 个内置工具 + 可选 MCP 服务器扩展（mcp__* 工具）
-- 三级上下文压缩：先裁剪工具输出，再摘要旧轮次，90% 时才强压缩
-- edit_file 采用唯一片段搜索替换而非行号，成功时返回 diff
+- 引擎约 1,614 行纯 Python，全包 26 文件可一次读完
+- 八个工具（bash/read_file/write_file/edit_file/glob/grep/todo_write/agent）构成完整 agent 循环
+- 三级上下文压缩（50%/70%/90% 阶梯式瘦身）与子 agent 隔离机制
+- 通过环境变量切换 OpenAI/DeepSeek/Ollama 等提供商，可选 LiteLLM 后端
 
 ## 适用场景
 
-- 阅读源码理解编码 agent 的工作原理
-- 以最小实现为基础 fork 出自己的 agent
-- 接入 OpenAI 兼容端点的任意模型跑端到端编码任务
+- 想读懂并 fork 一个极简编码 agent 的开发者
+- 教学场景中演示 coding agent 核心循环的工作原理
+- 基于最小核心实验 plan mode、hooks、子 agent 等机制
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: **The nanoGPT of coding agents. A 1.5k-line engine inside 3,492 readable lines of pure Python: understand how a codi
+> L3: **The nanoGPT of coding agents. A 1.6k-line engine inside 3,603 readable lines of pure Python: understand how a codi
 > L37: And it really runs: reads and writes files, executes shell, spawns sub-agents, compacts context in three tiers, and
+> L60: Give it a model and a key and it goes. It speaks the OpenAI-compatible API by default, and switching providers is u
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `28b10676c5e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7d8eef2b5b1e` · [字段定义](../../DATASET.md)*

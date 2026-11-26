@@ -2,9 +2,9 @@
 
 ⭐ 669 · Swift · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/timmyy123/LLM-Hub) · [官网](https://llm-hub.app) · 个人维护
 
-**本地运行 LLM 与图像/视频/音乐生成的多端应用**
+**跨平台本地 LLM 应用：手机与桌面端离线聊天与多媒体生成**
 
-开源应用，在 Android/iOS 及 Windows/macOS/Linux（LLM Hub Desktop）上本地运行模型：多轮对话（RAG 记忆、联网搜索、TTS、多模态输入）、Stable Diffusion 文生图、LTX-Video/Stable Video Diffusion 文生视频、Magenta Realtime 2/SoundGen 音乐生成、Whisper 转写、离线翻译等 16 个工具。桌面版可运行 Claude Code 与 Codex 于本地模型，并提供 OpenAI/Anthropic 兼容 API。全部推理在设备端完成，无账号与云端；应用自带修补版 llama.cpp 预编译库，支持 Hexagon NPU、Vulkan、Metal 等后端。
+开源应用，在 Android/iOS 及 Windows/macOS/Linux（Desktop 版）上运行本地模型，功能包括多轮聊天（RAG 记忆、网页搜索、TTS）、Stable Diffusion 文生图、LTX-Video 文生视频、Magenta Realtime 2 音乐生成、语音克隆、翻译、转录与钓鱼检测等。通过 LiteRT-LM、MediaPipe、llama.cpp（GGUF）、ONNX Runtime 等引擎在 CPU/GPU/NPU 上推理，全部在设备端处理、不收集数据。移动端 Flash streaming 支持运行超出内存的 MoE 模型。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- 聊天/图像/视频/音乐/转写等 16 个本地 AI 工具
-- AI Agent 支持设备功能调用与 MCP 工具，可起草并编辑 Termux shell 命令
-- 自带修补版 llama.cpp，覆盖 Snapdragon NPU/Vulkan/Metal 后端
-- 100% 设备端推理，无账号、无数据收集
+- 100% 设备端推理，无需账号与云端
+- 支持聊天/文生图/文生视频/音乐生成/语音克隆等多类生成任务
+- Flash streaming 运行超出设备内存的 MoE GGUF 模型
+- 在 Termux 中以本地模型运行 Codex 与 Claude Code
 
 ## 适用场景
 
-- 手机上离线使用本地模型聊天和生成图像视频
-- 在设备端用本地模型运行 Claude Code 或 Codex 写应用
-- 对相册照片和视频做本地语义搜索
-- 对隐私敏感的用户在本地转写语音和翻译
+- 在手机上离线使用本地 LLM 聊天与写作辅助
+- 无网络环境下生成图片、视频与音乐
+- 用设备端 Agent 执行日历、短信等设备操作与 Termux 命令
 
 ## 场景标签
 
-`聊天机器人` `图像生成` `视频生成` `编码 Agent` · 领域:编码与开发
+`聊天机器人` `图像生成` `视频生成` `语音合成` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L5: **LLM Hub** is an open-source mobile app for on-device LLM chat, image generation, video generation, and music gener
-> L105: - **100% on-device processing** - no internet required for inference
-> L118: ### LLM Hub's patched llama.cpp (Aion, flash streaming, NPU/GPU fixes)
+> L5: **LLM Hub** is an open-source app for on-device LLM chat, image generation, video generation, and music generation, 
+> L51: |**Chat**|Multi-turn conversations with RAG memory, web search, TTS auto-readout, and multimodal input|
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ee5692bb84e3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `14584a737da2` · [字段定义](../../DATASET.md)*

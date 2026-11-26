@@ -2,9 +2,9 @@
 
 ⭐ 6,567 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · [官网](https://www.vadoo.tv/ai-youtube-shorts-generator) · 个人维护
 
-**把长 YouTube 视频自动切成带评分的 9:16 竖屏短视频**
+**面向创作者的长视频转 9:16 短视频开源生成工具**
 
-面向创作者、代理机构与开发者的视频剪辑工具：输入 YouTube 链接，经下载、Whisper 转录、LLM 热点排序（0–100 评分、钩子句、理由）与人脸追踪竖屏裁剪，输出若干 9:16 mp4 及 JSON 结果。提供两种运行模式：默认 API 模式依赖 MuAPI 密钥完成全流程；本地模式在本机用 yt-dlp、faster-whisper、ffmpeg/OpenCV 运行，仅 LLM 排序需 OpenAI 或 Gemini 密钥。长视频按 20 分钟重叠分块，重叠候选按分数去重。支持 CLI 批处理与 Python 库导入，MIT 许可。
+将长 YouTube 视频处理为竖屏短视频：下载源视频，用 Whisper 类转录生成带时间戳文本，LLM 按传播度框架（钩子、情绪峰值、冲突、金句等）对片段打分排序，再自动裁切为 9:16 等16:9 以外的比例输出 mp4。提供 API 模式（MuAPI 一站式处理）与本地模式（yt-dlp/faster-whisper/ffmpeg/OpenCV，仅 LLM 调用远程）两种运行方式，超过 30 分钟的视频自动分块，重叠候选按分数去重。提供 CLI 与 Python 库接口，MIT 许可，可自托管，输出 JSON 结果供下游自动化。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- LLM 热点检测输出分数、钩子句与入选理由，标准可编辑
-- API/本地双模式：MuAPI 全托管或 yt-dlp + faster-whisper + OpenCV 本地运行
-- 30 分钟以上视频自动重叠分块，避免跨块遗漏
-- 支持任意宽高比输出、批处理与 JSON 结果导出
+- LLM 传播度框架打分：每条片段附带分数、hook 句与理由
+- API/本地双模式：本地模式用 faster-whisper（CPU/CUDA）与 OpenCV 人脸跟踪裁切
+- 长视频自动分块（>30 分钟）与重叠候选去重
+- CLI 与 Python 库双接口，--output-json 输出全量结果
 
 ## 适用场景
 
-- 把播客/访谈长视频批量切成短视频发 TikTok/Reels
-- 自托管替代付费订阅剪辑服务并保留完整算法控制权
-- 以 Python 库或 JSON 输出接入自己的内容生产流水线
+- 把播客/访谈长视频批量切成分发用的竖屏短视频
+- 按 --aspect-ratio 输出 TikTok/Reels/Shorts 或任意比例片段
+- 用自己的传播度标准改编 highlights.py 的打分框架
+- 通过 JSON 输出把剪辑结果接入自动化流水线
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
+> L5: **The open-source alternative to Opus Clip, Vidyo.ai, Klap, SubMagic, 2short.ai, and other AI clipping tools.** Drop
 > L40: - **🔀 Two Modes — API (fast) or Local (offline)**: Default `--mode api` uses MuAPI for download/transcription/cropp
-> L189: 5. **Highlight ranking**: An LLM scans the transcript through a virality framework — hook moments, emotional peaks
+> L185: 1. **Download**: Fetches the source video from YouTube
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1d0393f12f7d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8d709ceecb70` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 731 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/EvotecIT/OfficeIMO) · [官网](https://officeimo.com/) · 组织维护
 
-**.NET 无 COM 的 Office/PDF 等文档创建、转换与读取库**
+**免 COM 的 .NET 库：创建/读取/转换 Office、PDF 等文档**
 
-面向 .NET 开发者的文档处理库集合：无需安装 Microsoft Office 或 COM 组件，即可创建、读取、编辑、转换 Word、Excel、PowerPoint、PDF、Markdown 等 20 多种格式。所有格式遵循统一 API 形状（Create/Load/Save/Add*），转换结果用 ConversionReport 报告丢失内容；按格式拆分为独立 NuGet 包，并提供主题系统、批量转换断点续跑、OCR、证书签名、打印等功能。附带 PowerShell 模块 PSWriteOffice、CLI 工具 OfficeIMO.Tool（经 MCP 向 AI agent 提供转换/提取/搜索）、桌面应用 OfficeIMO Studio。
+面向 .NET 开发者的文档处理库集合，无需安装 Microsoft Office 或 COM，可在代码中创建、编辑、读取、转换 Word、Excel、PowerPoint、PDF、Markdown 等二十余种格式。机制上按格式拆分为独立 NuGet 包（OfficeIMO.Word/Excel/Pdf 等），共享 OfficeTheme 主题让新文档自带样式；OfficeConverter 支持文件与文件夹批量转换并提供损失报告（HasLoss/ThrowIfLoss）与断点续转；OfficeIMO.Reader.All 支持为索引和 AI 读取与分块；附带 PowerShell 模块、CLI 工具（经 MCP 向 AI agent 提供转换/提取/搜索）、桌面应用 OfficeIMO Studio。跨 Windows/macOS/Linux，目标 netstandard2.0/net8.0/net10。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 无 COM、不依赖 Microsoft Office 的文档创建/读取/编辑/转换
-- 统一 API 形状覆盖 20+ 格式，支持格式间互转并报告转换丢失
-- OfficeIMO.Tool 通过 MCP 向 AI agent 提供转换、提取与搜索能力
-- OfficeDocumentReader 支持任意格式的读取、搜索与分块，用于索引和 AI 摄取
+- 覆盖 Word/Excel/PPT/PDF/Markdown 等二十余种格式的创建、读取与互转
+- 按格式拆分的 NuGet 包与转换适配器（OfficeIMO.{Source}.{Target}）
+- OfficeConverter 批量转换支持损失报告与断点续转（ResumeFrom）
+- officeimo CLI 经 MCP 向 Claude Code、Codex、VS Code、Cursor 等 AI agent 提供文档工具
 
 ## 适用场景
 
-- 在服务端/容器/构建代理中批量生成和转换 Office 与 PDF 文档
-- 为 RAG 索引流水线读取、搜索和分块各类文档
-- 为 AI agent 提供 MCP 文档工具
-- 扫描件 OCR 与文档证书签名
+- 在 .NET 服务端批量生成带主题样式的 Word 报告/Excel 图表/PPT
+- 把 docx、xlsx 等文档批量转换为 PDF 或 HTML
+- 为检索或 AI 摄取读取并分块任意支持的文档格式
+- 在 Linux 容器中处理 Office 文档而不安装 Microsoft Office
 
 ## 场景标签
 
-`OCR` `文档解析` · 领域:知识与检索
+`文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L7: OfficeIMO creates, edits, reads and converts Word, Excel, PowerPoint, PDF, Markdown and two dozen other document for
-> L39: |Read for search or AI|`OfficeDocumentReader` from `OfficeIMO.Reader.All`|
-> L116: - OfficeIMO.Tool: the `officeimo` command line, from `dotnet tool install --global OfficeIMO.Tool`. It also serves
+> L102: |Read, search and chunk any format for indexing and AI ingestion|OfficeIMO.Reader.All, or one `OfficeIMO.Reader.{F
+> L117: - OfficeIMO.Tool: the `officeimo` command line, from `dotnet tool install --global OfficeIMO.Tool`. It also serves
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c52793b74f5e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0e6fc1017b89` · [字段定义](../../DATASET.md)*

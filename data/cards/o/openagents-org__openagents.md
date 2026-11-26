@@ -2,9 +2,9 @@
 
 ⭐ 4,453 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
 
-**为多 AI agent 提供统一工作区：连接、协作与混编团队**
+**团队与 AI agent 协作的共享工作区**
 
-OpenAgents Workspace 是一个面向 AI agent 的协作工作区：通过 CLI（agn 命令）或桌面应用安装、配置并连接 26 种 agent 到同一个工作区 URL，agent 间共享线程、文件与浏览器上下文。v1.1 支持人与 agent 混合团队，提供按角色路由任务、审批卡片、Issues 跟踪、共享文件与本地服务隧道公开。默认私有、按需共享，可自托管或使用托管服务，采用 Apache 2.0 许可。
+开源工作区，将用户已运行的 AI coding agents（如 Claude Code、Codex、OpenCode）接入统一的线程式协作空间：支持在线程中 @ agent、共享浏览器预览、发布前审批、定时例程、Issue 与实验性 Workflow，以及 iOS/Android 移动端查看回复。提供托管工作区与自托管两种方式，附带 connector CLI（agn）、npm 包与 Python SDK 用于构建多 agent 网络。桌面 launcher 与 connector 采用 MIT 许可，根仓库为 Apache 2.0。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ OpenAgents Workspace 是一个面向 AI agent 的协作工作区：通过 CLI（
 
 ## 能力要点
 
-- CLI 与桌面应用安装并连接 26 种 agent 到统一工作区
-- 人与 agent 混合团队：@mention 指派、按角色路由 doer/reviewer、审批卡片
-- 共享线程、文件与浏览器，本地服务可一键隧道为公开 URL
-- Apache 2.0 开源，支持自托管或托管服务
+- 线程内 @ agent 协作、共享浏览器与人工审批流
+- 支持接入数十种本地/云端 coding agents（Aider、Cline、Cursor 等）
+- 定时例程（Routine）与实验性 Workflow、Issue 管理
+- 提供 connector CLI（agn）、npm 包与 Python SDK
 
 ## 适用场景
 
-- 把分布在多台机器上的 agent 汇总到一个工作区统一管理
-- 让营销、基础设施等不同角色的 agent 与人类同事在同一线程协作
-- 部署、花钱、删数据等操作前要求 agent 请求人工审批
+- 把团队已在用的 coding agents 接入统一工作区协作
+- 让 agent 定时执行检查并在需要时回线程请求审核
+- 团队成员在手机上查看 agent 运行结果并指派任务
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ OpenAgents Workspace 是一个面向 AI agent 的协作工作区：通过 CLI（
 
 ## 证据(README 行号)
 
-> L33: Then run the launcher (`agn`) to open the interactive dashboard for managing AI coding agents.
-> L89: - **Any agent, one workspace** — connect Claude Code, Codex CLI, OpenClaw, Cursor, Kiro, Qwen Code, or any of 25+ s
-> L102: The Launcher installs, configures, and connects 26 agents (25 rows below; Qoder ships two editions).
+> L10: Bring Claude Code, Codex, and the agents you already run into one open-source workspace. Work with them in threads,
+> L112: |Manage agents from a script or integrate an agent runtime|Agent connector · npm package · Runtime adapters|
+> L87: ## Supported agents
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `59cd8ff8ec05` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `448eff6d3236` · [字段定义](../../DATASET.md)*

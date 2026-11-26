@@ -4,7 +4,7 @@
 
 **Go 开发者接入 Claude API 的官方 SDK**
 
-Anthropic 官方维护的 Go 语言 SDK，供 Go 应用访问 Claude API。通过 go get 添加依赖或 import 引入，要求 Go 1.25+，README 提供 Getting started 示例代码，完整文档位于 platform.claude.com。采用 Apache License 2.0，且说明早期版本及历史第三方贡献保留 MIT 许可。
+Anthropic 官方提供的 Go 语言 SDK，使 Go 应用能够调用 Claude API。通过 go get 引入模块依赖（github.com/anthropics/anthropic-sdk-go/v2），README 给出 import 写法与入门示例代码，完整文档位于 platform.claude.com。要求 Go 1.25 及以上版本。许可为 Apache-2.0，且历史版本与早期第三方贡献仍保留 MIT 许可。
 
 ## 筛选速览
 
@@ -20,15 +20,14 @@ Anthropic 官方维护的 Go 语言 SDK，供 Go 应用访问 Claude API。通�
 
 ## 能力要点
 
-- Anthropic 官方 Go SDK，访问 Claude API
-- 通过 go get 安装，要求 Go 1.25+
-- 提供完整文档入口与入门示例代码
-- Apache 2.0 许可，旧版本保留 MIT
+- 官方 Go SDK，提供从 Go 应用访问 Claude API 的接口
+- go get 方式安装，模块路径为 anthropic-sdk-go/v2
+- 要求 Go 1.25+
 
 ## 适用场景
 
-- 在 Go 后端服务中调用 Claude API
-- 为 Go 应用添加大模型对话/生成能力
+- 在 Go 后端服务中调用 Claude 模型接口
+- 为现有 Go 项目接入 Anthropic API
 
 ## 场景标签
 
@@ -37,7 +36,7 @@ Anthropic 官方维护的 Go 语言 SDK，供 Go 应用访问 Claude API。通�
 ## 证据(README 行号)
 
 > L5: The Anthropic SDK for Go provides access to the Claude API from Go applications.
-> L22: go get -u 'github.com/anthropics/anthropic-sdk-go/v2@v2.14.0'
+> L22: go get -u 'github.com/anthropics/anthropic-sdk-go/v2@v2.15.0'
 
 ## 星数曲线
 
@@ -53,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2701e70f1764` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `384bce06245f` · [字段定义](../../DATASET.md)*

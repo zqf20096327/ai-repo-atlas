@@ -2,9 +2,9 @@
 
 ⭐ 521 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/leeguooooo/iphone-use) · [官网](https://iphone-use.leeguoo.com/en/) · 个人维护 · 中文 README
 
-**让 AI agent 通过 MCP 操作真实 iPhone 的 macOS 工具**
+**让 AI agent 通过 MCP 操作真实 iPhone 的 macOS 守护进程**
 
-运行于 macOS 的守护进程，通过自有 XCTest runner 以无障碍树文本形式读取 iPhone 屏幕，并执行点击、输入、滑动等操作，支持 USB 或 Wi-Fi 连接，iOS 15 及以上设备无需越狱。对外提供 MCP server、HTTP API 与网页/iOS 远程控制三种接口，一次任务可录制成可回放 flow（无模型、无 token 消耗）。安装需 Mac（macOS 15+、登录 Apple ID 的 Xcode）与开启开发者模式的 iPhone；许可为 PolyForm Shield 1.0.0，另有付费配置与赞助服务。
+在 Mac 上运行的守护进程，通过自装的 XCTest runner 读取 iPhone 屏幕的无障碍树（文本而非像素），并发送点击、输入、滑动指令；同时向 MCP 客户端提供 MCP server、向脚本提供 HTTP API、向人提供网页与 iOS 远程控制。支持 USB/Wi-Fi 连接、可回放的 flow、防截屏应用的线框视图；安全机制包括登录时交还人工、屏蔽应用清单与动作次数上限。需 macOS 15+ 与 iOS 15+ 设备。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 自有 XCTest runner，读屏约 0.1 s，以文本（无障碍树）而非像素读取屏幕
-- 任务可录制成可回放 flow，重放时无需模型与 token
-- 支持 USB/Wi-Fi、远程控制（浏览器/iOS 应用、H.264 串流、QR 配对）、Tailscale/Cloudflare 隧道
-- 安全机制：密码/Face ID 交由用户完成、应用黑名单、单任务动作上限
+- 自有 XCTest runner，读屏约 0.1s，点击返回稳定屏幕约 1.9s
+- 一次任务可存为 flow，回放无需模型与 token
+- 同时提供 MCP server、HTTP API 与网页/iOS 远程控制三种接入形式
+- 安装器自动向 Claude Code/Codex/Cursor/Claude Desktop 注册 MCP server
 
 ## 适用场景
 
-- 让 Claude Code/Codex 等 agent 代我操作健康、微信、银行等无 API 的应用
-- iOS 应用开发者/测试员在真机上跑登录测试、读日志与崩溃报告、安装 ipa
-- 远程通过浏览器或另一台 iPhone 操控家里的手机
-- 开发期用 iOS Simulator 代替真机调试 agent 流程
+- 让 Claude Code 或 Codex 代我操作手机上的任意 App
+- 在真实 iPhone 上运行自己 App 的登录测试流程
+- 通过浏览器或另一台 iPhone 远程控制手机
+- 批量读取银行账单、聊天记录等页面内容
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L15:  MCP server
+> L5:  Let AI agents use your real iPhone.
+> L88: One daemon per phone runs on the Mac. It reads the screen as an accessibility tree (text, not pixels), sends taps a
 > L154: - an **MCP server** for Claude Code, Codex, Claude Desktop, Cursor and other MCP clients;
-> L155: - an **HTTP API** for agents and scripts (`/agent/*`);
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f6289be00780` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a75e8ca5ebc7` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,888 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tickernelz/opencode-mem) · [官网](https://opencode-mem.zhafron.my.id) · 个人维护
 
-**为 OpenCode 编码 agent 提供跨会话持久记忆的插件**
+**给 OpenCode 编码代理提供跨会话持久记忆的插件**
 
-面向 OpenCode 编码 agent 的记忆插件：会话空闲时由后台 AI 请求自动抽取项目记忆，并在后续会话将相关记忆与用户画像注入模型上下文。内嵌 Turso/libSQL 数据库做向量检索（精确余弦距离），12+ 本地 CPU 嵌入模型或 OpenAI 兼容嵌入 API 可选。提供记忆去重、可恢复回收站、Markdown 导出导入、凭证脱敏与静态加密，附带 Web UI 管理记忆时间线与画像。以 npm 包形式安装，支持 OpenCode v1/v2 配置接入。
+以 OpenCode 插件形式运行：会话空闲时由后台 AI 请求把技术工作提炼为项目记忆，检索相关记忆与用户画像注入模型上下文。内置嵌入式 Turso/libSQL 向量数据库做精确余弦检索，无需独立向量库；支持 12+ 个 CPU 本地嵌入模型或 OpenAI 兼容嵌入 API；提供 Web UI、可恢复回收站、Markdown vault、导出/导入迁移，并在写入前对凭据做脱敏。运行需 OpenCode 环境，推荐 Bun。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 内嵌 Turso/libSQL 向量检索，无需独立向量数据库
-- 会话空闲时后台自动抽取记忆并注入模型上下文
-- 捕获前凭证脱敏（GitHub token、API key、PEM 私钥等格式）与 <private> 标签保护
-- 12+ 本地 CPU 嵌入模型，无需 GPU
+- 嵌入式 Turso/libSQL 向量检索，无需独立向量数据库
+- 自动记忆提取与召回，跨项目用户画像学习
+- 12+ 本地 CPU 嵌入模型，无 GPU 需求
+- 写入前凭据脱敏与 <private> 标签、可选静态加密
 
 ## 适用场景
 
-- 让编码 agent 跨会话记住项目上下文和我的偏好
-- 在本地离线环境中为 agent 提供持久记忆
-- 多项目管理用户画像与技能库，并通过 Web UI 查看记忆健康状态
+- 让编码代理在多次会话间保留项目上下文和偏好
+- 团队记录工作流模式并自动注入后续会话
+- 本地保存敏感项目记忆并做凭据脱敏
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L14: A persistent memory system for AI coding agents that enables long-term context retention across sessions using loca
+> L18: - **Local database:** embedded Turso/libSQL with native vector search, stored under `storagePath`. No separate vect
 > L23: - **Multi-provider AI support:** any provider configured in OpenCode (`opencodeProvider` / `opencodeModel`), or a m
-> L78: - Auto-capture and user profile learning require an AI provider that can return structured/tool-call output. Memory
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f0b8bea0dda0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4d58dfd0bb47` · [字段定义](../../DATASET.md)*

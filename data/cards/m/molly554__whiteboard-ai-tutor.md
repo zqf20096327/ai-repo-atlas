@@ -2,9 +2,9 @@
 
 ⭐ 567 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/molly554/whiteboard-ai-tutor) · [官网](https://molly554.github.io/whiteboard-ai-tutor/) · 个人维护 · 中文 README
 
-**白板 AI 家教：LLM 边写边画讲题，附六模型基准**
+**在白板上边写边画的 AI 辅导应用与模型教学基准**
 
-包含两部分：一是白板教学协议的参考实现——模型流式输出 JSON 绘图指令，浏览器播放器将其渲染为手写动画，学生可随时打断，应用把当前板面回传给模型继续作答；二是基准测试——固定提示词、8 个场景、6 个模型、288 次生成，64 块板经盲评打分，附排行榜与全部可回放结果。播放器无依赖即可本地回放；生成新课需自备 API key 运行 runner。
+仓库包含两部分：一个白板教学循环的参考实现——模型以 JSON 流式输出绘图指令，浏览器播放器将其渲染为手写过程，学生可随时打断，应用把当前板书回传模型继续；以及一个教学能力基准——同一冻结提示词、8 个场景（科学/数学/经济）、6 个模型、288 次生成，产出 64 块经盲评的板书。播放器支持回放、PDF 导出与模型对比视图；生成新课需自备 API key 运行 runner。项目明确说明不是托管辅导应用。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 模型只输出 JSON 操作指令（write/line/rect/ellipse/path/erase 六种），播放器渲染为手写动画
-- 学生打断时把板面对象（id/类型/包围框/文本）回传模型继续生成
-- 288 次生成、64 块盲评板的基准，附盲评方法、评分标准与人工审计页
-- 回放画廊无需 API key 与依赖，python serve.py 本地即可查看
+- 模型输出 6 种 JSON 操作（write/line/rect/ellipse/path/erase）渲染为白板手写动画
+- 学生打断时将板书对象状态回传模型，模型仅回复新步骤
+- 288 次运行、6 模型的盲评基准，64 块板书全部可回放
+- 导出 A4 横向 PDF，无需 API key 或服务端服务
 
 ## 适用场景
 
-- 回放六模型在几何、科学、经济学题上的白板讲解动画
-- 研究者复现或扩展这一定时提示词的 LLM 教学基准
-- 开发类似白板教学应用时参考其 JSON 协议与打断机制
+- 回放并对比不同模型对同一问题的白板讲解
+- 复现基准流程评估自己的模型
+- 导出录制课程为 PDF 讲义
 
 ## 场景标签
 
-`模型评测` `AI 助手` · 领域:对话与助手
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L3: **An open-source AI tutor that teaches on a whiteboard — and a benchmark of which LLM does it best.**
-> L26: An AI tutor (or AI teacher) that writes, draws and erases on a whiteboard while it talks — and lets the student cut
+> L27: in — looks like a model capability. It isn't. It is a small protocol: the model streams drawing instructions as JSO
 > L34: - **A benchmark** of how well they teach: same prompt, same eight scenarios (science, maths, economics), six models
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `35cbb32f16e3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `08fc3200c912` · [字段定义](../../DATASET.md)*

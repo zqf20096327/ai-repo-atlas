@@ -1,10 +1,10 @@
 # ikaijua/Awesome-AITools
 
-⭐ 6,384 · Python · CC-BY-4.0 · 推送 2026-11-24 · [GitHub](https://github.com/ikaijua/Awesome-AITools) · [官网](https://ikaijua.github.io/Awesome-AITools-Site/) · 个人维护 · 中文 README
+⭐ 6,384 · Python · CC-BY-4.0 · 推送 2026-11-24 · [GitHub](https://github.com/ikaijua/Awesome-AITools) · [官网](https://ikaijua.github.io/Awesome-AITools-Site/) · 个人维护
 
-**收录各类 AI 工具的 awesome 清单，社区共同推荐维护**
+**面向所有用户的 AI 工具聚合清单**
 
-按分类组织的 AI 工具收录清单，中英双语，包含 AI 助手与专有模型、决策模型、开源 LLM、LLM 排行榜等类别，每条以名称/描述/链接/费用四列表格呈现。通过 Watch → Custom → Releases 或 RSS 订阅每周新增条目，提供推荐模板与贡献指南，接受社区推荐并设有赞助栏目。目录共 37 行分类，含商业 API、开源模型与多类工具入口。
+一个持续更新的 awesome 系列聚合清单，按类别收录 AI 工具条目，每个条目含名称、描述、链接与收费信息。目录覆盖 37 个分类，包括 AI 助手与专有模型、决策模型、开源 LLM 等。支持通过 Watch→Custom→Releases 或 RSS 订阅每周新增条目，提供中英双语界面与推荐模板及贡献指南，接受社区推荐扩充条目。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 中英双语的多类别 AI 工具清单
-- 条目以名称/描述/链接/费用表格组织
-- 支持 RSS 与 GitHub Releases 订阅每周新增
-- 提供推荐模板与贡献指南
+- 37 个分类组织 AI 工具条目，含名称/描述/链接/收费四栏
+- 中英双语 README 与社区推荐模板、贡献指南
+- 支持 Watch→Custom→Releases 或 RSS 订阅每周新增条目
+- 收录条目含决策模型与开源 LLM 等类别
 
 ## 适用场景
 
-- 查找某类任务的 AI 工具候选
-- 关注 AI 工具生态的新增条目
-- 按费用信息筛选免费或付费工具
+- 按分类浏览查找某类 AI 工具
+- 订阅每周新增的 AI 工具条目
+- 按贡献模板向清单推荐新工具
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L1: Awesome AI Tools
 > L11: This repo collects awesome AI tools. Welcome everyone to recommend more awesome AI tools together! Please use the f
-> L31: ## All Categories
+> L55: ## All Categories
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6868fc18233f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `704145cc82f6` · [字段定义](../../DATASET.md)*

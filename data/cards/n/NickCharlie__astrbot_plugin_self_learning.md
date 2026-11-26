@@ -2,15 +2,15 @@
 
 ⭐ 468 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/NickCharlie/astrbot_plugin_self_learning) · 个人维护 · 中文 README
 
-**AstrBot 聊天机器人插件：自主学习对话风格与群组黑话**
+**AstrBot 插件：让聊天机器人从群聊中学习风格与黑话**
 
-面向 AstrBot 框架的自学习插件，在消息进入、Bot 回复后、下一次 LLM 请求前三个位置增强宿主：从群聊上下文提取表达模式与黑话含义，经审查链路（批准/拒绝/回滚/自动应用）后注入 few-shot、社交关系、记忆与临时人格增量；另提供好感度与心理状态跟踪、记忆/知识图谱、14 路由的 WebUI Dashboard 与管理员命令。依赖 WebUI 手动确认安装 pip 依赖，默认 PostgreSQL 并可回退 SQLite/MySQL。
+以 AstrBot 插件形式安装，在消息进入、回复发送后、下一次 LLM 请求前三个钩子位采集群聊数据，经审查链路批准后注入表达样本、黑话解释、社交关系、好感度与记忆图谱到 LLM 请求上下文。学习结果需人工批准/拒绝/回滚，支持 SQLite/MySQL/PostgreSQL 三种数据库与自动建表迁移。要求已在运行的 AstrBot 框架，pip 依赖需在 WebUI 中手动确认安装，Provider 未配置时 LLM 功能降级。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 学习结果先经审查链路，支持批准、拒绝、删除、回滚和自动应用策略
-- 在 on_llm_request 阶段注入社交、黑话、记忆、few-shot 和人格增量
-- WebUI Dashboard 覆盖全量设置、审查队列、图谱与指标监控
-- 支持 SQLite、MySQL、PostgreSQL 多数据库，含自动建表和列级迁移
+- 学习结果经审查队列批准后才应用，支持批量操作与回滚
+- 在 on_llm_request 阶段注入社交、黑话、记忆与 few-shot 上下文
+- WebUI Dashboard 提供 14 个路由的设置、审查与监控界面
+- 支持 SQLite、MySQL、PostgreSQL 及自动建表与列级迁移
 
 ## 适用场景
 
-- 让群聊 Bot 学习群友的表达风格和黑话并自然对话
-- 管理 Bot 的社交关系、好感度与情绪状态
-- 通过审查队列控制人格演化内容上线
+- 让群聊机器人学习群内表达方式和黑话并自然回复
+- 管理 Bot 与群成员的社交关系和好感度
+- 通过审查队列控制人格演化和学习内容的采纳
 
 ## 场景标签
 
-`聊天机器人` `知识图谱` `Agent 记忆` · 领域:Agent 开发
+`聊天机器人` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `31d9f81fdf21` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `6e3d9dfa653f` · [字段定义](../../DATASET.md)*

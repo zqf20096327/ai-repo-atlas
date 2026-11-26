@@ -2,9 +2,9 @@
 
 ⭐ 862 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ok-oldking/ok-script) · [官网](https://ok-script.com/) · 个人维护 · 中文 README
 
-**让编程代理通过 MCP 生成 Windows/安卓自动化任务的 Python 框架**
+**给编程代理用的 Windows/安卓自动化框架：MCP 驱动生成任务**
 
-面向 Codex、Claude Code 等 MCP 编程代理的 Python 自动化框架：代理通过 MCP 服务对 Windows 应用、游戏或安卓设备截图观察，编写并运行 Python 任务，借助热重载与逐次运行日志迭代修复。框架提供模板匹配、OCR、YOLO 等视觉方案、基于 COCO 的模板管理与后台输入，完成的任务可脱离代理独立运行，并用 PyAppify 打包为 Windows 安装包。支持 Python 3.11+，采用 Apache 2.0 + Commons Clause 许可。
+面向 Codex、Claude Code 等 MCP 编程代理的自动化框架：代理通过 MCP 服务截图观察 Windows 应用、游戏或安卓设备，编写并调试 Python 任务，最终连同桌面 GUI 打包成可分发的 Windows 安装包。生成的程序在本地独立完成截图、识别与输入，运行时不依赖代理与模型调用。提供模板匹配、OCR、YOLO 等视觉方案、COCO 标注管理、热重载与逐次运行日志。基于 Python 3.11+，Apache 2.0 + Commons Clause 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- MCP 服务提供 list_skills/screenshot/run_task/reload_tasks 等工具与逐次运行日志
-- 支持 OCR、OpenCV 模板匹配及 YOLO 视觉方案，模板按分辨率自动缩放
-- 生成任务 0 token 独立运行，可打包成 Windows 安装包
-- 同一套任务代码覆盖 Windows 客户端、安卓模拟器与 ADB 设备
+- MCP 服务提供截图、任务执行、热重载与运行日志工具
+- 同一套任务代码支持 Windows 客户端、安卓模拟器与 ADB 设备
+- 生成程序本地运行，运行时零 token、无需代理连接
+- 通过 PyAppify 打包为 Windows 安装包
 
 ## 适用场景
 
-- 用编程代理给 Windows 游戏或应用生成自动化任务
-- 维护多个游戏自动化项目（如 okww、okef）并分享任务
-- 把已完成的自动化任务打包分发给普通用户使用
+- 让编程代理代写游戏或桌面应用的自动化任务脚本
+- 把调试完成的自动化任务打包成独立 Windows 程序分发
+- 基于模板匹配和 OCR 搭建界面自动化流程
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L7: 在 Codex、Claude Code 或任何支持 MCP 的编程代理里许个愿，得到一个可部署的自动化程序。
-> L53: 代理用自己的工具编辑文件、读取日志；MCP 让它直接操作正在运行的应用：
+> L5: **Vibe Coding 自动化框架**
+> L9: 说出你想自动化的事。代理通过 MCP 观察 Windows 应用、游戏或安卓设备，编写 Python 任务，在真实目标上运行并修复失败。ok-script 把完成的任务连同桌面 GUI 打包成可分发的 Windows 安装包。打包后
 > L64: - 面向编程代理的 MCP 服务：内置技能、实时截图、任务执行、热重载和逐次运行日志
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `751b5d3636dc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `33c47bd90909` · [字段定义](../../DATASET.md)*

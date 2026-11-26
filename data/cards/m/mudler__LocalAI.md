@@ -2,9 +2,9 @@
 
 ⭐ 50,543 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护
 
-**本地运行开源模型的推理服务：团队自托管聊天/语音/图像 API**
+**本地运行多模态开源模型的 OpenAI 兼容 AI 引擎**
 
-在自有机器上运行开源模型的推理服务，API 兼容 OpenAI 与 Anthropic 格式，覆盖文本、视觉、语音、图像、视频、音频生成、嵌入与重排序。含 80 余个后端（多数封装 llama.cpp、vLLM 等上游引擎，18 个为自研 C++/GGML 实现）、模型画廊、Web UI、聊天与 agent 功能、MCP 客户端/服务端、用户角色配额、分布式模式（PostgreSQL + NATS）与 P2P。提供安装脚本、Docker 镜像（含 GPU 版）及 macOS/Linux 桌面应用，MIT 许可。
+以 MIT 许可发布的本地推理服务：在同一 API 下以 OpenAI 与 Anthropic 格式运行文本、视觉、语音、图像、视频、嵌入与重排序等模型，内置 80 多个后端，多数封装上游引擎（llama.cpp、vLLM 等），其中 18 个为自研 C++/GGML 实现。附带聊天、Agent（工具/MCP/技能）、文件与团队共享、模型画廊和附加组件库。提供桌面应用、安装脚本、容器镜像与 Kubernetes 部署，可在 CPU 上运行，GPU 可加速。
 
 ## 筛选速览
 
@@ -26,21 +26,21 @@
 
 ## 能力要点
 
-- API 兼容 OpenAI 与 Anthropic 格式，覆盖文本/语音/图像/视频等模型类型
-- 80 余个后端，含 18 个自研 C++/GGML 无 Python 推理引擎
-- 可在 CPU、NVIDIA、AMD、Intel、Apple Silicon、Vulkan 上运行，无需 GPU
-- 提供聊天、agent、MCP、模型画廊、团队共享与分布式模式
+- 单 API 以 OpenAI/Anthropic 兼容格式提供文本、语音、图像、视频、嵌入等多模态能力
+- 80+ 后端，含 18 个自研 C++/GGML 后端（vllm.cpp、parakeet.cpp 等），推理无需 Python
+- 支持 CPU-only 运行，加速覆盖 NVIDIA/AMD/Intel/Apple Silicon/Vulkan/Jetson
+- 内置 Agent、MCP 客户端与服务端、模型画廊与分布式模式（PostgreSQL + NATS / P2P）
 
 ## 适用场景
 
-- 在自有服务器上为团队提供 OpenAI 格式兼容的模型 API
-- 无 GPU 环境下本地运行大模型
-- 部署语音转写、TTS、图像生成等多模态服务
-- 管理多个模型后端与量化模型分发的团队场景
+- 在内网或个人机器上搭建不外发数据的模型服务
+- 用 OpenAI 兼容 API 接入现有应用并切换本地模型
+- 团队共享聊天、文件与 Agent，配合角色与配额管理
+- 在无 GPU 的 CPU 环境运行语音、视觉与文本模型
 
 ## 场景标签
 
-`推理引擎` `图像生成` `语音合成` `语音识别` · 领域:内容生成
+`推理引擎` `图像生成` `语音合成` `目标检测` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `19aaa1f97ded` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5ae90809ed3e` · [字段定义](../../DATASET.md)*

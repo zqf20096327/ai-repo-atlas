@@ -2,9 +2,9 @@
 
 ⭐ 3,748 · Markdown · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**面向 AI 工程岗位求职者的面试问答清单**
+**面向 AI 工程面试者的问答清单，覆盖 LLM/RAG/Agent 等主题**
 
-由 Outcome School 创始人 Amit Shekhar 维护的 AI 工程面试题库，按主题分节收录问题并附答案链接（多为外部视频/文章）。覆盖 LLM 基础（Transformer、tokenization、注意力机制、KV cache、采样策略）、prompt engineering（CoT、ReAct、prompt injection）等，并标注面向 AI Engineer、LLM Engineer、MLOps 等 11 类角色。内容声明持续更新；多数条目以问题列表形式组织，答案指向作者的教学内容。
+以问答清单形式整理 AI 工程岗位面试题：题目按 LLM 基础、Prompt Engineering 等章节组织，多数条目附指向作者视频或文章的答案链接，主题涵盖 Transformer 架构、注意力机制、KV Cache、量化、微调、RLHF/DPO、RAG、MCP、Agent 等。适用角色列表覆盖 AI Engineer、LLM Engineer、MLOps 等 12 类岗位。由 Outcome School 创始人维护，声明持续更新。无安装与运行内容，README 本身即交付物。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 LLM Fundamentals、Prompt Engineering 等主题分节的面试问答列表
-- 覆盖 Transformer 架构、注意力机制、KV cache、量化、微调等主题
-- 标注适用 11 类岗位角色（AI Engineer、LLM Engineer、MLOps 等）
-- 答案以链接形式指向作者的视频与文章
+- 按 LLM Fundamentals、Prompt Engineering 等章节组织的面试题清单
+- 多数题目附作者视频/文章形式的答案链接
+- 覆盖 12 类 AI 工程岗位（AI Engineer、LLM Engineer、MLOps 等）
+- 主题含 Transformer、KV Cache、量化、微调、RLHF/DPO/GRPO、RAG、MCP、Agent
 
 ## 适用场景
 
 - 准备 AI Engineer / LLM Engineer 岗位面试
-- 按主题自查 LLM 基础与 prompt engineering 知识盲区
-- 查找特定概念（如 RoPE、GQA、DPO）的讲解资源
+- 自查 LLM、RAG、Agent、微调等知识盲区
+- 按清单查找对应主题的讲解视频与文章
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L3: # AI Engineering Interview Questions and Answers
+> L46: - LLM
 > L55: ### LLM Fundamentals
-> L206: ### Prompt Engineering
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4199120dd850` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5979ef3227ce` · [字段定义](../../DATASET.md)*

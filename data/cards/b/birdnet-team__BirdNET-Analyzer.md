@@ -2,9 +2,9 @@
 
 ⭐ 1,759 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/birdnet-team/BirdNET-Analyzer) · [官网](https://birdnet-team.github.io/BirdNET-Analyzer/) · 组织维护
 
-**面向科研人员的鸟类声学分析深度学习工具**
+**面向科研人员的鸟类声学识别分析工具**
 
-Cornell鸟类学实验室开发的BirdNET模型实现，提供处理大量音频数据或单个音频文件的脚本与命令行工具（birdnet-analyze、birdnet-segments、birdnet-species、birdnet-train、birdnet-evaluate），用于鸟类声音识别与声学多样性监测。支持训练自定义分类器、嵌入提取与相似性搜索，可通过 PyPI extras 启用 GUI。面向无计算机科学背景的科研人员设计，提供 Windows/macOS 安装包及 Linux AppImage/.deb 包，模型托管于 Zenodo，源码采用 MIT 许可。
+提供处理大量音频数据或单个音频文件的脚本与命令行工具（birdnet-analyze/segments/species/train/evaluate），面向无计算机背景的科研人员运行声学分析。通过 PyPI 安装，可选 extras 提供嵌入提取与相似性搜索、自定义分类器训练与超参自动调优、图形界面。模型托管于 Zenodo，支持 Windows/macOS/Linux 安装包及 Docker 镜像，要求 Python 3.11–3.13。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Cornell鸟类学实验室开发的BirdNET模型实现，提供处理大量音频
 
 ## 能力要点
 
-- 处理大规模音频数据或单文件的命令行工具集
-- 支持训练自定义分类器并含超参数自动调优 extras
-- 嵌入提取与相似性搜索（birdnet-embeddings/birdnet-search）
-- 提供 GUI、Docker 镜像及各平台安装包
+- 5 个命令行工具覆盖分析、片段、物种、训练与评估
+- 可选 extras：嵌入提取与相似性搜索、分类器训练自动调优、GUI
+- 提供 Windows/macOS/Linux 安装包及 Docker 镜像
+- 模型文件在 Zenodo 公开（BirdNET 3.0 与 2.4）
 
 ## 适用场景
 
-- 批量分析长时间录音中的鸟类物种
-- 为本地物种训练自定义声音分类器
-- 通过嵌入搜索进行声音相似性检索
+- 批量分析野外录音中的鸟类物种
+- 训练自定义分类器识别本地物种
+- 提取音频嵌入并做相似性搜索
 
 ## 场景标签
 
-`科研工具` `微调` `语义搜索` · 领域:知识与检索
+`科研工具` `微调` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L21: This repo contains BirdNET scripts for processing large amounts of audio data or single audio files.
 > L22: This is the most advanced version of BirdNET for acoustic analyses and we will keep this repository up-to-date with
-> L75: Developed by the K. Lisa Yang Center for Conservation Bioacoustics at the Cornell Lab of Ornithology in collaborati
+> L57: This provides the command line tools `birdnet-analyze`, `birdnet-segments`, `birdnet-species`, `birdnet-train` and 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d716a4cddb1a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8bac174027b8` · [字段定义](../../DATASET.md)*

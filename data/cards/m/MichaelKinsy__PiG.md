@@ -2,15 +2,15 @@
 
 ⭐ 898 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MichaelKinsy/PiG) · [官网](https://pi-in-go.dev) · 个人维护
 
-**用 Go 重写的 Pi 终端编码 agent，单二进制免 Node.js**
+**终端编程代理 Pi 的 Go 原生单二进制移植版**
 
-PiG 是上游 Pi（TypeScript 终端编码 agent）的 Go 移植，以行为对等（parity）为约束：固定 Pi 1.5.0 为行为基准，用配对场景验证，差异记录在案。单原生二进制启动，不需要 Node.js，可原样运行 Pi 的 TypeScript 扩展，也可用 Go/Rust/Python 编写扩展，并将扩展、技能、提示打包为 Piglet 形成可分享或独立可执行的单名 agent。当前为 0.x 前稳定版，边缘场景仍在加固，Windows 支持为预览；不实现上游实验性远程 Session 与独立遥测/评估包。
+PiG 是上游 TypeScript 项目 Pi（终端编程代理）的对等移植，用 Go 构建为无需 Node.js 的原生二进制，行为以钉定的 Pi 1.6.0 为契约，用成对 parity 场景核验。支持通过兼容运行时运行 Pi 的 TypeScript 扩展，也可用 Go/Rust/Python/Common Lisp 写扩展，并将扩展、技能、提示打包为可分享或可编译执行的 Piglet。当前为 0.x 预稳定版，Windows 支持为预览，不实现 Pi 的实验性远程 Session 与独立遥测/评测包，且非官方发布、上游维护者不作背书。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,27 @@ PiG 是上游 Pi（TypeScript 终端编码 agent）的 Go 移植，以行为对�
 
 ## 能力要点
 
-- 单一 Go 原生二进制，无需 Node.js，运行 Pi 的 TypeScript 扩展无需改动
-- 扩展 SDK 覆盖 Go、Rust、Python 及声明式 TypeScript
-- Piglet 机制可将扩展、技能与提示打包为可分享的单名 agent
-- 以固定 Pi 1.5.0 为行为基准，配对 parity 场景验证移植行为
+- 以 Pi 1.6.0 为行为契约的 parity 核验（coverage.md 与升级台账）
+- TypeScript 扩展经兼容运行时运行，另支持 Go/Rust/Python/Common Lisp 扩展
+- Piglet 机制：把扩展、技能与提示打包为可分享的具名代理或独立可执行文件
+- RPC 模式在 Unix socket 上按连接提供多会话服务
 
 ## 适用场景
 
-- 在终端里用编码 agent 处理日常代码任务
-- 为团队打包一个含定制扩展与技能的单名 agent
-- 给现有 Pi TypeScript 扩展提供 Go 运行环境
+- 在没有 Node.js 的环境用单二进制运行 Pi 兼容的终端编程代理
+- 用 Go/Rust/Python 等语言编写代理扩展
+- 把扩展与技能组合打包成 Piglet 分享或独立部署
+- 通过 RPC socket 在多个会话间复用同一代理服务
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L19: PiG is Pi, the minimal and extensible coding agent for the terminal, rebuilt in Go as one native binary. It starts 
-> L104: PiG's current package scope covers Pi's agent, AI, coding-agent, and TUI
+> L19: PiG is Pi, the minimal and extensible coding agent for the terminal, rebuilt in Go as one native binary. The binary
+> L116: PiG's current package scope covers Pi's agent, AI, coding-agent, and TUI
+> L140: |`coding/`|Public coding-agent SDK, extension contracts, Package support, and Piglet support.|
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `63be7ff4dcfa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `45a1433efe0e` · [字段定义](../../DATASET.md)*

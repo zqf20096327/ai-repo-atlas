@@ -2,9 +2,9 @@
 
 ⭐ 14,488 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
 
-**开源 agentic 浏览器：让 AI agent 用真实登录态执行网页任务**
+**面向 AI agent 的开源 Chromium 浏览器：让 agent 用你的登录身份干活**
 
-基于 Chromium fork 的第二浏览器，定位为给 AI agent 使用而非替代 Chrome：一键导入 Chrome 登录态、书签与扩展，通过 MCP 连接本机的 Claude Code、Codex、Cursor 等代理工具，代理在各自标签页并行执行网页任务。提供实时任务面板、会话录像回放与操作时间线，数据本地存储于 ~/.browserclaw/，支持 macOS/Windows/Linux 安装包。README 明确其非无头驱动器、非云浏览器路线，使用 AGPL-3.0 许可。
+基于 Chromium fork 的桌面浏览器，设计目标是在本机承载编码 agent（Claude Code、Codex、Cursor 等）执行浏览类任务：agent 以用户真实登录会话操作网页，各自拥有独立标签组，用户可实时观看或回放会话。页面内容以短文本而非截图形式提供给 agent 以减少 token 消耗；会话、截图与历史保存在本地。支持任何讲 MCP 的 agent 一键接入，浏览器扩展与书签可从 Chrome 一键导入。提供 macOS/Windows/Linux 安装包；修改浏览器内核源码约需 100 GB 磁盘。
 
 ## 筛选速览
 
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- 通过 MCP 一键连接本机任意 agent 工具（Claude Code、Codex、Cursor、VS Code、Zed 等）
-- 一键导入 Chrome 登录态，agent 以真实账号执行任务
-- 并行 agent 各自独立标签页运行，附实时面板与会话录像回放
-- 本地运行、数据不出本机（可关闭匿名遥测）
+- agent 以用户真实登录身份操作网页，各 agent 拥有独立标签组可并行运行
+- 兼容任何 MCP 协议的 agent，Claude Code/Codex/Cursor 等一键接入
+- 页面以短文本而非截图读取以减少 token 消耗
+- 会话与历史数据保留在本机，支持会话回放与登录卡点的用户接管
 
 ## 适用场景
 
-- 让 agent 在我已登录的账号下订机票、发社媒、清理邮箱
-- 在真实浏览器环境中并行跑多个 agent 网页任务
-- 回放录像核查 agent 每一步网页操作
-- 维护一个专门供 agent 使用、与日常 Chrome 隔离的浏览器
+- 让编码 agent 代我订机票、比价并完成网页操作
+- agent 登录我的 Salesforce/Brex 账号做销售线索整理与账单核对
+- 在保留 Chrome 扩展和登录态的前提下让多个 agent 并行浏览
 
 ## 场景标签
 
@@ -45,9 +44,9 @@
 
 ## 证据(README 行号)
 
-> L21: A second browser, just for your AI agents. Import your logins from Chrome in one click, connect Claude Code, Codex,
-> L86: - **Not a locked-in AI browser.** Atlas, Comet, and Dia only work with their own AI. BrowserOS neo works with the a
-> L97: Yes. BrowserOS neo is a Chromium fork, so Chrome extensions work and your bookmarks, passwords, and settings import
+> L1: BrowserOS neo: a browser for your agents to do your chores.
+> L43: How BrowserOS neo works: it connects to your LLM apps, runs many agents side by side, keeps your data on your compu
+> L76: Any agent that speaks MCP. Claude Code, Codex, Cursor, OpenCode, Antigravity, VS Code and Zed connect in one click.
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a8cc02aa777d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a58b97f8278a` · [字段定义](../../DATASET.md)*

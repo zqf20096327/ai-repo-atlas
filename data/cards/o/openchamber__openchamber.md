@@ -2,9 +2,9 @@
 
 ⭐ 13,273 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/openchamber/openchamber) · [官网](https://openchamber.dev/) · 组织维护
 
-**为 AI 编码 agent 提供跨桌面/网页/移动端的工作区**
+**开源工作区：跨设备运行、审查与交付 AI 编码 agent 工作**
 
-基于 OpenCode agent 的开源工作区，用于启动、跟踪、审查 AI 编码工作。核心机制包括 Session Goals（逐轮检查目标直至完成）、Multi-run（同任务最多 5 个模型并行会话并可用 Fusion 合并结果）、Changes Walkthrough（AI 引导的 diff 讲解）、Preview（点击页面元素回传截图与报错）。桌面端捆绑 OpenCode CLI；CLI/Web 需 Node.js 24.14+；面向需要跨设备管理 agent 会话的开发者。
+基于 OpenCode 构建的 agentic 开发环境，覆盖桌面（macOS/Windows/Linux）、Web/PWA、VS Code、iOS/Android 与 CLI 五种使用面。核心机制包括：Session Goals 让 agent 在每轮后自动检查直至目标完成；Multi-run 将同一任务发给最多五个模型并行运行，Fusion 可合并各结果；Changes Walkthrough 将大 diff 分步讲解；Preview 可在应用内置浏览器中截图元素发给 agent；支持 GitHub issue/PR 上下文接入、定时任务、QR 码配对的端到端加密 Private Relay 远程访问。CLI 需 Node.js 24.14+；桌面版捆绑 OpenCode CLI。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- Session Goals：逐轮检查结果，agent 持续工作直至达成目标或达限
-- Multi-run 与 Fusion：最多 5 个模型并行会话并合并最优结果
-- 跨桌面、Web/PWA、VS Code、iOS/Android 的会话延续
-- Private Relay QR 配对的端到端加密远程访问
+- Session Goals：自动检查每轮结果并持续驱动 agent 直到完成或受限
+- Multi-run 最多五模型并行运行，Fusion 合并最优结果
+- 跨设备接续：Desktop/Web/VS Code/iOS/Android 共享项目与会话
+- Private Relay QR 配对端到端加密远程访问，支持 Cloudflare/Ngrok/SSH
 
 ## 适用场景
 
-- 在手机上审查和推进电脑上的 AI 编码会话
-- 同一任务交给多个模型对比产出
-- 按 cron 调度周期性 agent 任务
+- 让编码 agent 持续自主推进带完成标准的任务
+- 同一任务交给多个模型对比并择优合并
+- 在手机上远程查看、审批和继续电脑上的 agent 会话
+- 从 GitHub issue 发起会话并把失败的 CI 检查回传给 agent
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L12: **OpenChamber is an open-source workspace for running and reviewing AI coding work on desktop, web, VS Code, and mo
-> L147: OpenChamber uses OpenCode to run coding agents. We chose it because it is open source, has a solid API, and is eas
-> L149: OpenChamber handles the rest of the workflow. You can decide what to try, keep the agent on track, review the resu
+> L160: OpenChamber uses OpenCode to run coding agents. We chose it because it is open source, has a solid API, and is eas
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7b1ef16d6a9b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `675bfad98be9` · [字段定义](../../DATASET.md)*

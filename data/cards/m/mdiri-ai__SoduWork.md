@@ -2,9 +2,9 @@
 
 ⭐ 8,114 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mdiri-ai/SoduWork) · [官网](https://www.soduwork.ai) · 组织维护 · 中文 README
 
-**团队自托管的多 harness 多 agent 协作引擎**
+**团队与 agent 的自托管工作引擎：请求、执行、验收闭环**
 
-自托管的多 harness、多 agent 协作平台：把 Pi、OpenCode、DeepSeek/Qwen/Kimi Code、Codex 等 agent 运行时经统一适配接口接入共享 issue 池，覆盖请求、执行、审查、签收全流程。关键机制包括：AI 补全验收标准、由另一 harness 独立审查、请求者签收才算完成；聊天可保存为插件经审核后团队复用，支持授权与撤销；提供角色、用量、成本与审计日志。当前为公开 beta，README 建议生产使用前先行评估。
+自托管的多 harness、多 agent 协作平台：将任务以带验收标准的请求形式进入共享 issue 池，AI 补充验收标准后分配给人或 agent，由另一个 harness 的独立 AI 审查，最终由人签收；执行通过的对话可保存为插件，经审核后在团队目录共享与授权。通过统一适配器接入 7 种 harness（Pi 内置、OpenCode、DeepSeek/Qwen/Kimi/Codex 等，多数经 ACP），支持中途切换、云 runner、角色/成本/审计治理。提供源码启动、桌面安装包与 Docker 部署三种方式。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 9 种 harness 经适配器/ACP 接入，可中途切换并保留历史与工作目录
-- 验证交付：请求携带验收标准，独立 AI 审查加人工签收
-- 插件资产化：聊天保存为插件，团队目录审核发布、授权、可撤销
-- 提供源码运行、桌面安装包与 Docker 团队部署三种方式
+- 请求携带验收标准，独立 AI 审查加人工签收的交付闭环
+- 7 种 harness 经统一适配器接入，支持中途切换并保留历史
+- 对话可保存为插件，经审核、授权、版本化后在团队共享
+- 自托管部署，提供角色、用量、成本与审计日志
 
 ## 适用场景
 
-- 团队把 AI agent 产出纳入带验收标准的协作流程
-- 把个人调好的任务方法保存为插件供全组复用
-- 自托管部署并集中管理多工具的权限与成本
+- 团队把 AI 产出纳入工单流程，由人验收后再交付
+- 把个人调通的 AI 工作方法沉淀为团队可复用插件
+- 在多个 agent harness 与模型间按任务分配并控制成本
+- 个人用 issue 池批量处理任务，只做最终签收
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L9: ## The AI-native engine for teams and their agents
-> L165: A harness is the agent runtime that does the work. It is not the model. SoduWork connects every harness through on
-> L177: |Codex|Its own OpenAI account|Native adapter, installed on demand|
+> L167: A harness is the agent runtime that does the work. It is not the model. SoduWork connects every harness through on
+> L89: The first run installs dependencies, then starts the Hub, the admin console and the desktop client on this computer
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ed1ba827b012` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5686d6d9f6d3` · [字段定义](../../DATASET.md)*

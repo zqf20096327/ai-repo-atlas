@@ -2,9 +2,9 @@
 
 ⭐ 559 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/facefusion/facefusion-docker) · [官网](https://facefusion.io) · 组织维护
 
-**FaceFusion 换脸/口型合成平台的 Docker 部署仓库**
+**面部替换与唇形同步平台的 Docker 部署镜像**
 
-提供 FaceFusion 人脸操控平台的容器化安装方式：通过 git clone 获取仓库，用 docker compose 分别启动 CPU、CUDA、TensorRT、ROCm 四种后端容器，各自映射到 7865-7880 不同端口，浏览器访问即用。README 本身不含模型与技术细节，指向外部文档做深入说明。面向希望在本地以容器方式运行 FaceFusion 并按硬件选择推理后端的用户。
+FaceFusion 的 Docker 封装，提供 CPU、CUDA、TensorRT、ROCm 四种 compose 配置，git clone 后用 docker compose 一键启动，通过 Web UI（不同后端对应不同本地端口）访问主平台的换脸、唇形同步等功能。README 本身不含功能说明，细节需查阅主项目文档。适合不想自行配置 Python 环境与 GPU 依赖的用户。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 提供 CPU/CUDA/TensorRT/ROCm 四种 docker compose 配置
-- 各后端容器分别映射独立端口（7865-7880）
-- 以 Web UI 方式访问使用
+- 提供 CPU/CUDA/TensorRT/ROCm 四种 docker compose 运行配置
+- git clone 后 docker compose 即可启动
+- Web UI 经本地端口访问（7865/7870/7875/7880）
 
 ## 适用场景
 
-- 在本地以 Docker 快速部署 FaceFusion
-- 按自有 GPU 硬件选择 CUDA/TensorRT/ROCm 推理后端
-- 避免手动配置依赖环境
+- 在容器中运行换脸与唇形同步工具
+- 按 GPU 类型（CUDA/TensorRT/ROCm）选择镜像部署
+- 避免本地配置依赖，用 Docker 隔离环境
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 
 > L3: > Industry leading face manipulation platform.
 > L23: docker compose -f docker-compose.cpu.yml up
+> L26: Run the `CUDA` container:
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `51e0b65b8cc5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `2085abc8b358` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 15,138 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Thysrael/Horizon) · [官网](https://www.horizon1123.top) · 个人维护 · 中文 README
 
-**面向个人用户的 AI 新闻聚合雷达，生成中英文每日简报**
+**面向个人读者的 AI 新闻雷达，生成中英日报**
 
-聚合 RSS、Hacker News、Reddit、Telegram、X、GitHub、金融新闻等十类信息源，通过可配置的 profile（编辑规则集）对条目打分、过滤、去重，再由 LLM 生成摘要、背景与研究讨论，产出按 profile 分组的每日简报，支持中英文。输出可发布到 GitHub Pages，或经邮件（SMTP/IMAP）、飞书/钉钉/Slack/Discord webhook、微信 iLink Bot 投递。CLI 运行全流程，AI 助手可通过 MCP Server 调用各阶段，也可经 Agent Skill 安装配置。支持 GitHub Actions 定时执行。
+聚合 RSS、Hacker News、Reddit、Telegram、X、GitHub、金融新闻等十类信息源，通过 profile（可复用的编辑规则集）对条目评分、过滤、去重并生成中英文 Markdown 日报，可发布到 GitHub Pages 或经邮件、飞书/钉钉/Slack/Discord webhook、微信 iLink Bot 投递。支持 CLI 运行完整流水线，也提供 MCP Server 让 AI 助手调用各阶段，另有 Agent Skill 供助手自动安装配置。依赖用户自备模型 API key；Twitter 源依赖 Apify。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- profile 机制：为不同内容类型定义打分标准与输出方式
-- 十类信息源聚合与 profile 内去重、阈值过滤
-- 多渠道投递：Pages、邮件、webhook、微信
-- MCP Server 与 Agent Skill 供 AI 助手配置和调用
+- profile 机制：为不同内容类型定义评分标准与输出处理
+- 十类信息源接入，含 Reddit/Twitter 热评抓取
+- MCP Server 与 Agent Skill 支持 AI 助手配置与运行
+- 多通道投递：GitHub Pages、SMTP/IMAP 邮件订阅、webhook、微信
 
 ## 适用场景
 
-- 每天自动收到一份按我兴趣筛选的中英文科技简报
-- 把工程博客、AI 资讯等不同来源分别定制摘要角度
-- 用 GitHub Actions 定时跑，简报推到飞书或邮箱
+- 每天生成一份按兴趣筛选去重的中英文科技简报
+- 让 AI 助手通过 MCP 帮我配置信息源并运行流水线
+- 用 GitHub Actions 定时把日报发到飞书或邮箱
 
 ## 场景标签
 
-`网页抓取` `工作流自动化` · 领域:效率与自动化
+ · 领域:信息聚合/内容生成
 
 ## 证据(README 行号)
 
 > L26: 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 构建你专属的 AI 新闻雷达
-> L61: - **🎯 Decide What's Worth Reading** — Define scoring rubrics with profiles, set individual thresholds, and merge re
 > L85: **Profiles define the treatment; runtime settings reflect your reading preferences.** Each item routes to one profi
+> L87: Run the full pipeline through the CLI, or let an AI assistant call its stages through MCP.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `70a14271db5c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c0ce66446827` · [字段定义](../../DATASET.md)*

@@ -4,7 +4,7 @@
 
 **基于 LangChain/LangGraph 构建生产级 AI Agent 的中文开源课程**
 
-DataWhale 上的中文开源教程，17 章图文与实验模板，配套 AgentSeek 工程化套件创建各章模板并运行实验，覆盖任务规划、虚拟文件系统、子 Agent 协作、上下文管理、MCP、沙箱执行与流式事件等主题；课程围绕 Deep Agents 0.7.x 版本，各章节标注依赖版本要求，示例默认通过硅基流动接入支持工具调用的模型。课程内容采用 CC BY-NC-SA 4.0，网站源码为 MIT。
+DataWhale 组织的中文开源课程，包含 17 章图文与实验模板并持续补充视频，覆盖任务规划、虚拟文件系统、子 Agent 协作、上下文管理、沙箱执行、MCP、Human-in-the-Loop 等 Deep Agents 能力。示例通过硅基流动接入支持工具调用的模型，用 agentseek CLI 创建与启动各章实验模板，课程基于 Deep Agents 0.7.x 并附版本迁移指南。网站以 Astro 构建，课程内容采用 CC BY-NC-SA 4.0，源代码 MIT。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ DataWhale 上的中文开源教程，17 章图文与实验模板，配套 AgentS
 
 ## 能力要点
 
-- 17 章图文与实验模板，按认知/核心/进阶/前沿预览组织
-- 通过 AgentSeek CLI 创建各章专属模板并检查环境、启动应用
-- 配套 LangChain 开发指南与 LangSmith Trace 调试两个 AI 编码助手技能
-- 标注各功能对应的 deepagents 版本要求与迁移指南
+- 17 章图文与实验模板，覆盖 Deep Agents 0.7.x 全部核心功能
+- agentseek CLI 创建模板、检查环境并启动实验
+- 示例默认通过硅基流动接入支持工具调用的模型
+- 提供配套 AI 编码助手技能（langchain-dev-guide、langsmith-trace）
 
 ## 适用场景
 
-- 系统学习 Deep Agents/LangChain/LangGraph 的 Agent 开发
-- 按章节模板动手复现任务规划、子 Agent 与沙箱实验
-- 从 Deep Agents 0.5/0.6 升级到 0.7 时参考迁移说明
+- 从零学习用 LangChain/LangGraph 构建 Deep Agents
+- 按章节实验掌握子 Agent 编排与上下文管理
+- 从 Deep Agents 0.5/0.6 迁移到 0.7 的开发者参考
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ DataWhale 上的中文开源教程，17 章图文与实验模板，配套 AgentS
 
 ## 证据(README 行号)
 
-> L4:  Deep Agents 实战 — 基于 LangChain / LangGraph 的中文开源课程，感谢 2,000+ GitHub Stars
+> L4:  Deep Agents 实战 — 基于 LangChain / LangGraph 的中文开源课程，庆祝 GitHub 3,000 Stars，感谢每一位学习者与贡献者
 > L20: 基于 LangChain / LangGraph 的中文开源课程，配套 **17 章图文与实验模板，并持续补充视频**。从第一个 Agent 开始，逐步掌握任务规划、文件系统、子 Agent 协作与上下文管理。
+> L43: ## 课程大纲
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cfa07c87d73e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fbab6e3370ce` · [字段定义](../../DATASET.md)*

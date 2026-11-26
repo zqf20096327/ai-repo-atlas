@@ -2,9 +2,9 @@
 
 ⭐ 1,661 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/RunanywhereAI/trnrt) · [官网](https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels) · 组织维护
 
-**AWS Trainium 上的开源 LLM 推理引擎，OpenAI 兼容 API**
+**面向 AWS Trainium 的开源 LLM 推理引擎**
 
-TrnRT 是面向 AWS Trainium2（trn2.48xlarge）的开源大模型推理引擎：将 decode 实现为 NKI megakernel（约每半个层一个融合核），支持稀疏+线性注意力的 1M token 上下文、FP8 KV 页的 radix 前缀缓存（含主机内存层），单机跑两个引擎、会话亲和路由，对外提供 OpenAI 兼容 API。首个支持模型为 GLM-5.3-Flash。部署需 Docker，编译缓存可在任意 x86_64 主机离线构建（耗时数小时），服务需在 Trainium2 实例上运行。
+TrnRT 是在 AWS Trainium 上运行的开源大语言模型推理引擎，提供 OpenAI 兼容 API，从单个 trn2.48xlarge 实例服务；解码以 NKI megakernels 方式执行（约每半层一个内核），并在设备与主机内存间维护前缀缓存。通过离线编译流程在 CPU 主机上构建计算图，服务节点默认不再编译。支持延迟/均衡/吞吐三种构建档位、会话亲和路由、结构化输出与多种调度策略。首个支持的模型为 GLM-5.3-Flash，更多开源模型待加入；本版本设备端端到端运行尚待验证。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@ TrnRT 是面向 AWS Trainium2（trn2.48xlarge）的开源大模型推理引擎�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- NKI megakernel 执行 decode（KDA 注意力、融合 DSA 层、MoE FFN）
-- 1M token 上下文：稀疏注意力（top 2,048）+ 线性注意力，固定大小状态
-- FP8 KV 页 radix 前缀缓存，跨设备与主机内存
-- OpenAI 兼容 API：chat/completions、流式、工具调用与推理输出
+- NKI megakernels 解码：KDA 注意力、融合 DSA 层、MoE FFN 每半层单内核
+- 1M-token 上下文（稀疏注意力 top-2048 + 线性注意力）与 FP8 KV 前缀缓存（含主机内存分层）
+- OpenAI chat/completions/Responses、Anthropic Messages、原生 /generate 与 /tokenize API
+- latency/balanced/throughput 三种构建档位，--preset auto 按 --users 选择
 
 ## 适用场景
 
-- 在单台 trn2.48xlarge 上自托管 GLM-5.3-Flash 推理服务
-- 用现有 OpenAI 客户端接入 Trainium 上的长上下文模型
-- 运行多并发 agent 会话并复用前缀缓存
+- 在 trn2.48xlarge 上以 OpenAI 兼容 API 服务 GLM-5.3-Flash
+- 运行编码 agent 会话类长上下文推理负载
+- 离线编译缓存后在设备上部署推理服务
 
 ## 场景标签
 
@@ -38,8 +38,7 @@ TrnRT 是面向 AWS Trainium2（trn2.48xlarge）的开源大模型推理引擎�
 ## 证据(README 行号)
 
 > L17: **TrnRT** is an open inference engine for large language models on AWS Trainium. It serves an OpenAI-compatible API
-> L18: from one `trn2.48xlarge`, runs decode as NKI megakernels (about one kernel per layer half), and keeps a prefix cach
-> L33: |**OpenAI API**|Chat and completions, streaming, tool calls and reasoning output.|
+> L71: |**Agent-ready APIs**|OpenAI chat, completions and Responses, the Anthropic Messages API, the native `/generate` an
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `e11d694a3484` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7b37699df0a9` · [字段定义](../../DATASET.md)*

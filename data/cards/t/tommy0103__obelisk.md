@@ -2,9 +2,9 @@
 
 ⭐ 970 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/tommy0103/obelisk) · [官网](https://obelisk.antinomie.org) · 个人维护 · 中文 README
 
-**把多个编程 agent 的历史会话索引成可查询数据库的工具**
+**给 coding agent 与开发者检索历史会话的本地索引工具**
 
-Obelisk 将本地多个编程 agent（Claude Code、Codex、GitHub Copilot 等 12 个 provider）的会话历史索引进一个 SQLite 数据库，通过监视各 provider 目录保持更新。面向两类使用者：agent 侧提供 CLI 与技能文件，让 agent 自己写 JS 查询检索会话历史；人类侧提供 Electron 桌面应用浏览会话、管理记忆文件、查看 token 统计与周报卡片。记忆层允许将检索结论登记为 markdown 文件供后续召回；索引首次构建约 5 秒/100 个会话，之后增量重建。
+Obelisk 将本机多个 coding agent 的历史会话索引到一个 SQLite 库，通过文件监控保持更新，服务两类使用者：agent 侧提供 CLI 与技能文件，agent 编写 JS 查询本地执行并以自然语言回答；人类侧提供 Electron 桌面应用，可浏览会话、管理记忆文件、查看用量统计与周度回顾卡片。索引层覆盖 sessions、messages、tool calls、subagents、workflows 等，支持 FTS5 全文检索。要求 Node.js 22.13+，桌面应用预编译包覆盖 macOS 与 Linux amd64。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ Obelisk 将本地多个编程 agent（Claude Code、Codex、GitHub Copilot 等 1
 
 ## 能力要点
 
-- 12 个 provider 的会话统一索引进单个 SQLite 库，FTS5 全文检索
-- agent 写 JS 查询并本地执行，提供 overview/search/sql 等查询接口
-- Electron 桌面应用提供会话浏览、记忆管理、活动热力图与 recap 卡片
-- CLI 零运行时 npm 依赖，使用 Node 内置 SQLite
+- 将 20K 行 JSONL 会话索引进单个 SQLite 库，支持 search() 与 sql() 查询
+- 覆盖 12 个 agent 会话来源，统一投影到共享 schema
+- 记忆层：agent 提出结论、用户批准后注册为 markdown 记忆文件并在未来会话召回
+- 可选 recap 流程把一段时间的会话生成可分享的周/月回顾卡片
 
 ## 适用场景
 
-- 让编程 agent 检索自己过往会话，回答改了哪些文件、为什么这么改
-- 汇总一周/一月工作产出，生成可分享的 recap 卡片
-- 跨多个 agent 工具统一浏览与搜索历史会话
-- 沉淀可复用的记忆文件供未来会话召回
+- 让 coding agent 检索自己过往会话历史来回答问题
+- 浏览和检索本机所有 agent 会话、tool call 与 diff
+- 查看 agent 使用统计、热力图与每周回顾
 
 ## 场景标签
 
@@ -39,8 +38,8 @@ Obelisk 将本地多个编程 agent（Claude Code、Codex、GitHub Copilot 等 1
 ## 证据(README 行号)
 
 > L11: Obelisk indexes your local coding-agent history into one SQLite database and
+> L12: serves it to two audiences:
 > L14: - **Agents** — the `obelisk` CLI plus an agent skill that teaches coding agents
-> L17: - **Humans** — an Electron desktop app to browse sessions, manage memories,
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `480912a7f8cf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d90fa7f96220` · [字段定义](../../DATASET.md)*

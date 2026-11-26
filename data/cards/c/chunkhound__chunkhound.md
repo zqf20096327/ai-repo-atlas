@@ -1,10 +1,10 @@
 # chunkhound/chunkhound
 
-⭐ 1,465 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/chunkhound/chunkhound) · [官网](https://chunkhound.ai) · 组织维护
+⭐ 1,465 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/chunkhound/chunkhound) · [官网](https://chunkhound.ai) · 个人维护
 
-**本地优先的代码库智能检索工具，给 agent 与团队提供带引用的上下文**
+**给开发者的本地代码/Git 历史索引引擎，向 AI agent 输出带引用的研究结果**
 
-ChunkHound 对本地代码库、git 历史与技术网页资料建索引，通过 CLI 提供语义代码搜索、带引用的代码研究（research）、git 历史检索（按 commit/tag/range）与 web 研究，并可生成可分享文档。面向在大型仓库、多语言代码库或安全敏感环境中工作的开发者与工程团队。基于 Tree-sitter 支持多种语言，嵌入与 LLM 提供商可配置；正则搜索无需 API key，语义搜索与深度研究需相应提供商，可选择本地提供商实现零代码外流。
+本地优先的代码研究引擎：通过 Tree-sitter 建立持久结构索引，结合正则精确检索与语义检索，覆盖当前代码、git 历史（commit/tag/branch/range）、网页与 PDF 等来源，返回带源引用的综合结果。通过 CLI 或 MCP（stdio/HTTP）将同一引擎暴露给上层 AI agent。正则检索无需任何 API key；语义检索需 embedding 提供方；深度研究需 LLM 与支持 rerank 的 embedding 提供方。数据库本地存储，MIT 许可，无平台许可或席位费。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ ChunkHound 对本地代码库、git 历史与技术网页资料建索引，通�
 
 ## 能力要点
 
-- 语义代码搜索与带引用的代码研究
-- git 历史检索（last N / commit / tag / range）
-- 本地优先索引，支持本地提供商零外流
-- Tree-sitter 支持 Python/JS/TS/Java/Go/Rust/C++ 等语言
+- Tree-sitter 多语言结构索引：Python/JS/TS/Java/Go/Rust/C/C++ 等
+- git 历史检索：按 last-N commits、commit hash、tag、branch、range
+- 通过 MCP（stdio/HTTP）或 CLI 向 agent 输出带引用的研究结果
+- 正则检索无需 API key，可选本地 embedding/LLM 实现零代码外发
 
 ## 适用场景
 
-- 在编码 agent 修改前提供架构与变更上下文
-- 把大 PR 或发布区间的 diff 转成带引用的评审简报与变更日志
-- 从堆栈与症状出发定位缺陷相关代码路径
+- 在大型仓库/monorepo 中让 agent 基于同一代码索引回答架构问题
+- 理解大型 PR 或 release 的行为变更并起草 changelog
+- 安全敏感环境中做本地化（零代码外发）的语义代码搜索
+- 结合外部网页文档与本地代码溯源排查 bug
 
 ## 场景标签
 
@@ -37,9 +38,8 @@ ChunkHound 对本地代码库、git 历史与技术网页资料建索引，通�
 
 ## 证据(README 行号)
 
-> L21:  Open-source codebase intelligence that gives agents and teams cited context across current code, git history, and 
-> L59: Give coding agents grounded architecture context, relevant files, recent changes, and external constraints before t
-> L136: Index once, ask a real architecture question, and get a grounded answer with citations. Regex search works without
+> L21:  Connect code, git history, rendered web pages, and technical documents through one local-first engine that returns
+> L69: Use ChunkHound directly from the CLI or expose the same local research engine to higher-level AI agents through MCP
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e45c4205898d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `06bbf0c9846d` · [字段定义](../../DATASET.md)*

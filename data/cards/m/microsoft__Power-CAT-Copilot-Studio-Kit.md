@@ -2,9 +2,9 @@
 
 ⭐ 490 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) · [官网](https://microsoft.github.io/Power-CAT-Copilot-Studio-Kit/) · 组织维护
 
-**为 Copilot Studio 制作者提供代理开发、治理与测试的工具集**
+**给 Copilot Studio 制作者提供 agent 开发、治理与测试的工具套件**
 
-围绕 Microsoft Copilot Studio 的托管解决方案集合，包含批量测试（响应/附件/话题匹配、多轮、生成式答案）、模型评估对比、合规中心、遥测分析仪表盘、代理调试器、变更跟踪、模板与组件库、提示词顾问、聊天界面定制及 KPI 汇总等模块。面向企业中的 maker 与管理员，通过 Setup Wizard 配置连接引用和环境变量后部署，依赖 Power Platform 许可与 AI Builder 额度；测试自动化的最终用户认证仅支持 Entra Id V2 with SSO。
+围绕 Microsoft Copilot Studio 的能力套件，以托管解决方案形式部署到 Power Platform，包含多个应用与流程：批量测试与测试集管理（响应/附件/话题匹配、多轮、生成式答案评分）、换模型前的回归评估（Healthy/Warning/Critical 状态与 AI 建议）、合规治理（Agent Inventory 采集配置、按风险阈值建案并走 SLA 审核）、遥测分析仪表盘、逐步调试器、变更追踪、模板与组件库、Prompt 分析建议、KPI 汇总及 DLP 连接器审批流程。依赖 Power Platform 许可与 AI Builder 额度。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 批量测试自定义代理并输出延迟、响应与聚合结果
-- Model Assessment 对比新旧模型并给出回归状态
-- Compliance Hub 按风险阈值自动创建合规案件并跟踪 SLA
-- Agent Insights Hub 聚合 Application Insights 与对话记录遥测
+- 批量测试 agent 并输出延迟、响应与聚合结果，支持自定义评分 rubric
+- Model Assessment 对比新旧模型运行并给出回归状态与 AI 推荐
+- Compliance Hub 按风险阈值自动创建合规案件并跟踪处理
+- Agent Insights Hub 聚合 Application Insights 与对话转录的分析仪表盘
 
 ## 适用场景
 
-- 在企业内集中治理和审计组织内所有 Copilot Studio 代理
-- 部署前对代理做批量回归测试作为质量门禁
-- 切换底层 AI 模型前评估代理行为是否退化
-- 统一仪表盘监控代理性能、错误与额度消耗
+- 上线前对自定义 agent 做批量回归测试
+- 企业统一治理与审计组织内所有 Copilot Studio agent
+- 分析 agent 会话表现与额度消耗并导出报表
+- 通过部署流水线把测试作为上线质量门禁
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 ## 证据(README 行号)
 
 > L3: The **Copilot Agent Kit** is a comprehensive set of capabilities designed to augment Microsoft Copilot Studio. The k
-> L122: There is a Setup Wizard in the Kit which allows easy editing of connection references and environment variables as
+> L23: Compliance Hub helps organizations define and enforce governance policies for Copilot Studio agents at scale. It co
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b14cc66ca060` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d5785a0c50cc` · [字段定义](../../DATASET.md)*

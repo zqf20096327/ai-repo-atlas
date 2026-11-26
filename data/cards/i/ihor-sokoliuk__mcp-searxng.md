@@ -2,9 +2,9 @@
 
 ⭐ 1,385 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ihor-sokoliuk/mcp-searxng) · [官网](https://www.npmjs.com/package/mcp-searxng) · 个人维护
 
-**为 AI 助手提供 SearXNG 私密网络搜索的 MCP 服务器**
+**让 AI 助手通过自托管 SearXNG 进行隐私网络搜索的 MCP 服务器**
 
-一个集成 SearXNG API 的 MCP 服务器，为 Claude、Cursor 等 MCP 客户端提供网络搜索能力。提供四个工具：网页搜索（带分页与过滤）、查询建议、实例能力查询、URL 读取（HTML/结构化文本/受限 PDF 文本）。支持 STDIO 与 Streamable HTTP 两种传输方式，可配置静态 bearer 或 OAuth 认证。前置条件是用户需自行运行或信任一个开启 JSON 输出的 SearXNG 实例；隐私取决于该实例的部署方式，本身不提供匿名性。
+一个 MCP 服务器，接入 SearXNG API，为 Claude、Cursor 等 MCP 客户端提供网络搜索能力。提供四个工具：网页搜索（分页/过滤）、搜索建议、实例能力检查、URL 读取（HTML/结构化文本/有界 PDF 文本）。支持 STDIO 与 Streamable HTTP 两种传输，可选缓存、代理、副本故障转移与 OAuth 保护。要求使用者自备已开启 JSON 输出的 SearXNG 实例；自身不安装 SearXNG，隐私取决于所连实例的部署方式。MIT 许可，通过 npm 与 Docker 分发。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 4 个 MCP 工具：网页搜索、查询建议、实例信息、URL 读取
-- STDIO 与 Streamable HTTP 传输，支持 bearer/OAuth 认证
-- 可选副本故障转移、HTML 回退、缓存与浏览器求解器集成
-- 无需付费搜索厂商 API key
+- 提供 searxng_web_search、web_url_read 等 4 个 MCP 工具
+- 支持 STDIO 与 Streamable HTTP 传输，可选静态 bearer 或 OAuth 鉴权
+- 支持副本列表故障转移、HTML fallback、缓存与代理
+- npm（npx）与 Docker 两种官方分发方式
 
 ## 适用场景
 
-- 让 Claude Desktop 或 Cursor 通过自托管 SearXNG 搜索网络
-- 读取指定 URL 内容作为文本/Markdown 供 AI 引用
-- 在不可控的公共实例与自控实例间做隐私取舍的搜索接入
+- 为 Claude Desktop、Cursor 等 MCP 客户端添加网页搜索工具
+- 通过自托管 SearXNG 控制搜索查询的流向
+- 让 AI 助手读取指定 URL 的网页或 PDF 内容
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+`AI 助手` `网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L15: An MCP server that integrates the SearXNG API, giving AI assistants web search capabilities.
-> L21: You need an existing **SearXNG instance with JSON search enabled**. This project
-> L126: The project-maintained distribution methods are **npm** (including **npx**)
+> L97: `MCP client → mcp-searxng → SearXNG → search engines`
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b5b802325fe1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `662c889ae600` · [字段定义](../../DATASET.md)*

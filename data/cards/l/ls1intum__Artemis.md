@@ -2,9 +2,9 @@
 
 ⭐ 837 · Java · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ls1intum/Artemis) · [官网](https://docs.artemis.tum.de) · 组织维护
 
-**面向高校的自托管交互式学习与自动反馈平台**
+**高校自托管互动学习平台：练习自动反馈与考试管理**
 
-开源教学平台（MIT，Spring Boot + Angular），供高校在大规模课程中提供编程、建模、测验、文本、文件上传等练习的自动与人工评估。编程提交经内置版本控制（LocalVC）与持续集成（LocalCI）自动构建、测试并生成基于测试用例的反馈；支持考试模式、查重、能力图谱与学习路径。AI 组件（Iris 虚拟导师、Athena 反馈建议、Hyperion 练习编写）均为可选并需配置开启。需 PostgreSQL，Docker Compose 可一键试用，生产部署推荐 Ansible。
+面向大学与学校的开源互动学习平台，支持编程、建模、文本、测验、文件上传等练习类型，提交后自动构建、测试并给出反馈，或结合人工评阅与反馈建议。内置版本控制（LocalVC）与持续集成（LocalCI），提供考试模式、抄袭检测、胜任力与学习路径等自适应学习功能。架构为 Angular 客户端加 Spring Boot 服务端，数据存于 PostgreSQL，可水平扩展；AI 组件 Iris/Athena/Hyperion 均为可选、由配置门控，评阅决定权保留在教师与助教手中。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 编程练习自动构建、测试并生成基于测试用例的反馈
-- 内置 LocalVC（Git 服务器）与 LocalCI（Docker 构建代理），无需外部 VCS/CI
-- 支持 20 种语言模板的编程练习与考试模式、查重（JPlag）
-- 可选 AI 服务：Iris 虚拟导师、Athena 反馈建议、Hyperion 练习编写
+- 编程提交自动构建、测试与分析并生成基于测试用例的反馈
+- 内置 LocalVC 与 LocalCI，无需外部版本控制或 CI 系统
+- 考试模式含每生练习变体、试运行与抄袭检测（JPlag）
+- 可选 AI 集成 Iris（LLM 辅导）、Athena（反馈建议）、Hyperion（练习编写）
 
 ## 适用场景
 
-- 高校为大规模编程课程提供自动评分与个性化反馈
-- 组织带防作弊机制的在线考试
-- 接入现有 LMS（通过 LTI，如 Moodle）
-- 作为教育研究平台开展教学实验
+- 大学为大规模编程课程提供自动评测与个性化反馈
+- 在线组织带变体题目与抄袭检测的考试
+- 通过胜任力与学习路径跟踪学生个体进度
+- 接入 Moodle 等已有学习管理系统（LTI）
 
 ## 场景标签
 
- · 领域:教育/教学平台
+ · 领域:教育技术/教学平台
 
 ## 证据(README 行号)
 
 > L34: - **Responsible AI support.** Iris, Athena, and Hyperion are optional, configuration-gated
-> L108: **Hyperion** is Artemis-native AI-assisted exercise authoring built on Spring AI. All of them are
-> L190: Artemis is decomposed into an application client (Angular) and an application server (Spring Boot).
+> L105: Artemis integrates with the EduTelligence suite of
+> L109: optional and gated by configuration.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9bf546f1567d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f5e0544f63c2` · [字段定义](../../DATASET.md)*

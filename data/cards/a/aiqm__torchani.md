@@ -2,9 +2,9 @@
 
 ⭐ 568 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aiqm/torchani) · [官网](https://aiqm.github.io/torchani/) · 组织维护
 
-**训练与研究 ANI 神经网络原子间势的开源 PyTorch 库**
+**训练与研究 ANI 型神经网络原子间势的开源库**
 
-TorchANI 2 是一个支持 ANI 类神经网络原子间势（NN-IP）训练、开发与研究的开源库，由 Roitberg 课题组开发维护。提供 C++ 与 CUDA 扩展加速描述符计算与网络推理，附带可执行脚本 ani 的命令行工具，并可与 Amber（sander/pmemd）接口进行分子动力学模拟。安装推荐 pip/uv，CUDA 扩展需用 ani build-extensions 单独构建，macOS 无 CUDA 支持且 MPS 未测试。
+TorchANI 2 是支持训练、开发与研究 ANI 型神经网络原子间势（NN-IP）的 Python 库，由 Roitberg 课题组维护。提供 C++ 与 CUDA 扩展加速描述符计算与网络推理，提供可执行 CLI 脚本 ani，并与 Amber（sander/pmemd）有 ML/MM 分子动力学接口。安装推荐 pip/uv，需 PyTorch >= 2.0；macOS 无 CUDA 支持，MPS 与 AMD ROCm/HIP 未测试。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ TorchANI 2 是一个支持 ANI 类神经网络原子间势（NN-IP）训练、�
 
 ## 能力要点
 
-- 支持 ANI 神经网络原子间势的训练、开发与研究
+- 支持 ANI 型神经网络势的训练、开发与研究
 - 提供 C++ 与 CUDA 扩展加速描述符计算与网络推理
-- 提供 TorchANI-Amber 接口支持 ML 与 ML/MM 分子动力学
-- 提供 ani 命令行工具及迁移指南（legacy_state_dict 兼容旧模型）
+- 与 Amber（sander/pmemd）的 ML/MM 分子动力学接口
+- 提供 ani 命令行工具与构建扩展子命令
 
 ## 适用场景
 
-- 训练和开发自己的神经网络原子间势模型
-- 结合 Amber 运行基于机器学习势的分子动力学模拟
-- 量子化学/分子模拟研究中的能量与力预测
+- 训练和使用 ANI 风格的神经网络原子间势
+- 通过 TorchANI-Amber 接口运行 ML 或 ML/MM 分子动力学
+- 在 CUDA GPU 上加速描述符与网络推理计算
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+`模型训练` `科研工具` `推理引擎` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L9: TorchANI 2 is an open-source library that supports training, development, and research
+> L23: a GitHub issue. TorchANI 2 is currently tested against PyTorch 2.13 and CUDA 13.0
 > L61: TorchANI 2 provides C++ and CUDA extensions for accelerated computation of descriptors
-> L128: TorchANI 2 can be run in CUDA-enabled GPUs. This is **highly recommended** unless
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `00162ca40b02` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c6b0c12b2ba0` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # TeleAI-UAGI/Awesome-Agent-Memory
 
-⭐ 737 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · 组织维护 · 中文 README
+⭐ 737 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · 组织维护
 
-**LLM/多模态 agent 记忆系统的资源策展清单**
+**LLM/多模态 agent 记忆系统的论文、基准与产品清单**
 
-面向构建或研究 agent 记忆的开发者与科研人员，收录记忆相关产品、教程、综述、基准测试与论文，按非参数/参数记忆、记忆演化、记忆安全等类别组织。收录机制：开源产品按 GitHub star 数排序（CI 校验），低于 100 星进入折叠的 Emerging projects 区；失效或存争议项目移入 Archival 子区并附中性状态标签。API 兼容的替代品作为被替代产品的无排名子条目收录。维护方为 Bloo-Mind AI 与 TeleAI 的 Ubiquitous AGI 团队。
+面向构建或研究 agent 记忆的开发者与研究者，按 Products、Benchmarks、非参数/参数记忆论文、记忆演化、记忆安全等类别组织资源。开源条目按 GitHub star 数排序并以 CI 校验，低于 100 stars 的项目归入 Emerging projects 分区；API 兼容的替代品作为子条目嵌于原产品之下；不活跃或存争议的项目移入 Archival 分区并附状态标签与证据链接。维护方为 TeleAI 的 Ubiquitous AGI 团队与 Bloo-Mind AI。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 覆盖产品、基准、教程、综述、论文等多类资源并分类组织
-- 开源产品按 GitHub star 数 CI 校验排序，非质量排名
-- 失效/存争议项目移入 Archival 子区并标注状态与核查日期
-- API 兼容替代品作为子条目收录并标注维护方关联条目（†）
+- 覆盖开源记忆产品、基准、教程、综述与多篇论文的分层目录
+- 开源产品按 GitHub star 数排序，经 CI 校验，非质量排序
+- 收录记忆安全与防御、持续学习、认知/神经科学中的记忆等专题
+- 不活跃/存争议条目移入 Archival 分区并附证据链接与检查日期
 
 ## 适用场景
 
-- 给正在开发的 agent 挑选一个记忆层产品
-- 为记忆系统评估挑选合适的 benchmark
-- 跟进记忆架构方向的最新论文与行业动态
+- 为正在开发的 agent 选择一层记忆组件
+- 为记忆系统挑选评测基准
+- 了解 agent 记忆领域的研究脉络与架构分类
+- 跟进记忆持久化、图记忆、多模态记忆等方向的最新论文
 
 ## 场景标签
 
@@ -39,7 +40,7 @@
 
 > L1: 🧠 Awesome Agent Memory
 > L3:  A curated map of memory for AI agents — the systems, benchmarks, and research that give LLM and multimodal agents l
-> L23:  📋 How this list is curated
+> L25:  - Open-source products are ordered by GitHub star count — an objective, CI-checked popularity signal, not a qualit
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `1f0f8e39a8eb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `507f822a4bcc` · [字段定义](../../DATASET.md)*

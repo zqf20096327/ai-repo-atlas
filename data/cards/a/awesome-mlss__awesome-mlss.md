@@ -2,9 +2,9 @@
 
 ⭐ 3,034 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/awesome-mlss/awesome-mlss) · [官网](https://awesome-mlss.com) · 组织维护
 
-**机器学习暑期学校报名截止日期的社区追踪清单**
+**全球机器学习暑期学校截止日期追踪清单**
 
-社区项目 awesome-mlss，以网站 awesome-mlss.com 与 GitHub 仓库形式追踪全球机器学习及相关领域暑期学校的报名截止日期。README 列出即将举办与截止日期临近的学校条目（含主题、地点、日期），过往学校数据存于网页存档；接受社区以 issue 或 pull request 方式增改条目，组织者可通过邮件提交学校信息。项目基于 aideadlin.es 与 pythondeadlin.es 的成果构建，MIT 许可。
+社区维护的 awesome-mlss.com 项目，集中收录全球机器学习及相关领域暑期学校的报名截止日期，README 按即将截止/即将开课两周窗口列出条目，完整列表在网站上维护，过期学校存入网页存档。面向希望报名暑期 school 的学生与研究者，也接受主办方通过 issue 或邮件提交新条目，项目采用 MIT 许可并托管于 Netlify。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 集中收录机器学习暑期学校的报名截止日期
-- 截止日期临近学校列表可添加到日历
-- 支持社区通过 issue 或 PR 增改条目
-- 过往学校数据保存于网页存档
+- 按报名截止与开课时间列出近期暑期学校条目
+- 条目含主题、地点、截止日期、日期与详情链接
+- 过期学校信息保留在网页存档
+- 社区贡献机制：issue 提交或主办方邮件收录
 
 ## 适用场景
 
-- 查找近期报名截止的机器学习暑期学校
-- 作为学生规划申请暑期学校的时间表
-- 学校组织者提交自己的学校信息以获得收录
+- 查找近期可报名的机器学习暑期学校及其截止日期
+- 追踪全球 ML/AI 学术培训活动的时间安排
+- 作为主办方提交自己的暑期学校收录申请
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L7:  A community project to keep track of deadlines for Machine Learning Summer Schools (MLSS) around the world
 > L16: awesome-mlss.com is a community tool which serves as a central repository for registration deadlines at summer scho
-> L22: For the full list of schools worldwide, visit awesome-mlss.com.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `330cf87abce6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `84b9b0d10a35` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 16,953 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/MODSetter/SurfSense) · [官网](https://www.surfsense.com) · 个人维护
 
-**本地运行的 NotebookLM 替代桌面应用：研究、转换与编辑文档**
+**本地离线运行的机密文档 AI 桌面应用，开源 NotebookLM 替代**
 
-开源桌面应用，宣称可在气隔环境下运行：将 PDF、Word、Excel、PPT、音频等格式加入本地索引，AI agent 对文档生成带引用的回答、创建内容并以副本方式编辑（原文件不被修改），转录与播客语音在本机生成。支持本地或任意 OpenAI 兼容 API 模型，无需账号。提供 Windows/macOS/Linux 安装包与 Docker 自托管脚本；官方插件（搜索、爬虫、社交媒体读取）需免费 14 天许可证，第三方 MCP 插件无需许可证。
+开源桌面应用，在用户机器上对机密文档进行研究、转换与编辑：索引保存在本地磁盘，无账号，可选本地或远程模型。支持 PDF、Word、Excel、PowerPoint、CSV、图片（OCR 覆盖拉丁文/中文/日文）、音频本地转录、EPUB 等格式，功能分研究（带引用回答）、创建、编辑（生成副本，原文件不变）、转换四类，并可生成思维导图、闪卡与测验。编辑与转换始终生成新文件。另支持 MCP 插件与 SearXNG 网络搜索。提供 Windows/macOS/Linux 安装包与 Docker 部署。
 
 ## 筛选速览
 
@@ -26,26 +26,27 @@
 
 ## 能力要点
 
-- 多格式文档索引与带引用回答，扫描页与 OCR（拉丁/中文/日文）支持
-- 编辑以副本方式生成，原始文件不被改动；音频转录在本机完成
-- 模型可选：本地模型或任意 OpenAI 兼容 API，无账号
-- 提供 MCP 第三方插件接入与 Docker 自托管脚本
+- air-gapped 本地运行，索引保留在本机磁盘，无账号
+- 支持 OpenAI 兼容 API 或本地模型，由用户选择
+- PDF/Word/Excel 等格式的引用问答、编辑与转换，编辑生成副本不改动原件
+- 内置 MCP 插件接入（如 DeepWiki、Notion）与 SearXNG 网络搜索
 
 ## 适用场景
 
-- 不能上传云端的企业文档，在本机做问答与摘要
-- 给 Word 合同做带批注与修订的标红编辑
-- 把网页、YouTube、Reddit 等来源整理为文档或网页
-- 录制音频转文字、生成播客与思维导图/闪卡/测验
+- 在离线/内网环境处理机密文档并提问
+- 对合同做带修订与批注的红线编辑
+- 本地转录录音、生成播客、闪卡与测验
+- 自托管到服务器，局域网内多设备访问
 
 ## 场景标签
 
-`RAG` `网页抓取` `文档问答` · 领域:效率与自动化
+`文档问答` `文档解析` `AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L34: SurfSense is a free, open-source desktop app for documents you can't upload. A privacy-focused, NotebookLM-style AI
-> L103: |Models|Gemini only|Any OpenAI-compatible API, or a local one|
+> L10:  Air-gapped, private AI for confidential documents.
+> L34: SurfSense is a free, open-source desktop app for confidential documents. A private, NotebookLM-style AI agent that 
+> L55: |Format|Research (cited answers)|Create|Edit (as a copy)|Transform|
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9969119e134a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4132a7285d9f` · [字段定义](../../DATASET.md)*

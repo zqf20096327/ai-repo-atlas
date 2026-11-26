@@ -2,9 +2,9 @@
 
 ⭐ 41,464 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
 
-**本地网关应用：给各 AI Agent 统一切换模型与账号**
+**菜单栏本地网关：给各 AI 编码代理统一切换模型与账号**
 
-一个运行在菜单栏/终端的本地网关应用，把多个 AI Agent（Claude Code、Codex、Gemini CLI 等）的模型配置收拢到一处：向任意 Agent 指派任意 provider 的模型，改写 Agent 自身配置文件；网关在 127.0.0.1:3425 互译 OpenAI/Anthropic/Gemini 协议（含流式、工具调用、推理内容）。支持订阅账号发现与多账号配额故障切换、路由组（smart/order/rotate/usage/pace）、本地隐私掩码（默认关闭）、npm 插件体系。面向同时使用多个 Agent、多个 provider 或多个账号的用户。
+magpie 是一个本地网关与菜单栏应用，把各代理工具各自的模型配置收拢到一处：用户在列表里为任一代理任选 provider/model，magpie 原子化改写代理自身配置；本地网关（127.0.0.1:3425）翻译 OpenAI Chat/Responses、Anthropic Messages 与 Gemini 协议，含流式、工具调用与推理内容。支持多账号配额耗尽自动切换（smart/order/rotate/usage/pace 等路由模式）、订阅复用、隐私掩码（默认关闭）与 npm 插件。面向同时使用多个代理、多个 provider 或多个账号的用户；单一代理单一订阅的用户无需它。
 
 ## 筛选速览
 
@@ -26,17 +26,17 @@
 
 ## 能力要点
 
-- 本地网关互译 OpenAI/Anthropic/Gemini 协议，含流式、工具调用与推理
-- 配额用尽自动切换下一账号，路由组按 5 种策略分派请求
-- 本地掩码：密钥/密码/邮箱在请求发出前替换为占位符并在回复中还原
-- 支持约 80 个已列名 Agent，任何接受 base URL 的工具可直连网关
+- 本地网关翻译并转发 OpenAI/Anthropic/Gemini 三类协议，含流式、工具调用与 reasoning
+- 路由组在多个模型/账号间切换，代理不感知配额报错
+- 本地隐私掩码：密钥/邮箱等在请求发出前替换为占位符并回填
+- 支持 macOS/Windows/Linux/Docker/Termux，GUI、TUI、Web UI 与 CLI 多形态
 
 ## 适用场景
 
-- 一个订阅配额用完时自动切到下一个账号，Agent 不报错
-- 给 Claude Code 换上 DeepSeek 或 Kimi 的模型
-- 多个 Agent 统一在一处管理和切换模型
-- 在本地掩码密钥后再发给模型厂商
+- 为 Claude Code、Codex、Gemini CLI 等代理统一挑选和切换模型
+- 配额耗尽时在多个账号/模型间自动接管，避免中断
+- 在多个代理间复用同一份订阅或 API key
+- 在本地掩码提示词中的密钥后再发给厂商
 
 ## 场景标签
 
@@ -44,9 +44,9 @@
 
 ## 证据(README 行号)
 
-> L28: Each agent keeps its model in its own file, in its own format, with its own keys and base URLs. A subscription you 
+> L8: Switch any of them from the menu bar. One local gateway serves them all,
 > L78: The gateway at `127.0.0.1:3425` speaks OpenAI Chat, OpenAI Responses, Anthropic Messages and Gemini, and translates
-> L80:  How magpie fits together: your agents send requests to the magpie gateway at 127.0.0.1:3425, which routes them thr
+> L35: It's for you if you use more than one agent, more than one provider, or more than one account. If you use one agent
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `db92ec4c34db` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `091fc36cf29d` · [字段定义](../../DATASET.md)*

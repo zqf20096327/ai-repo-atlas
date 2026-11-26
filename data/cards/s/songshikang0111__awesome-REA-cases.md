@@ -2,9 +2,9 @@
 
 ⭐ 468 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/songshikang0111/awesome-REA-cases) · 个人维护 · 中文 README
 
-**AI 辅助逆向工程案例与项目的策展清单**
+**AI 辅助逆向工程案例与项目策展清单（2830 条）**
 
-按 MIT 许可维护的非官方案例合集，收录 2729 个 AI 辅助逆向工程（REA）相关案例、项目与想法，覆盖游戏保存、硬件互操作、应用重建与算法恢复四个类别；条目含来源日期、证据边界与状态标注，并明确记录未复现的声明与失败尝试。REA 通过 CLI 和 MCP 将编码 agent 连接到本地逆向工程工具。清单每日更新六次，提供中英文切换与分类浏览。
+按 awesome-list 形式维护的案例索引，收录 AI 辅助逆向工程（REA）相关的项目、实验与想法，覆盖设备互操作、行为保持的应用重建与游戏保存，包含失败尝试与作者更正。通过每日 6 次的关键词与分页搜索更新，条目按游戏保存、硬件互操作、应用与客户端、算法恢复四类组织，每个案例记录来源、证据边界与验证状态；收录内容为原创摘要与公开链接，不含专有软件或私有素材。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 2729 个案例与项目，按四大类别组织
-- 每日 6 次自动搜索更新，记录来源日期与证据边界
-- 明确标注未独立复现的声明（Unverified here / In progress）
-- 收录失败尝试与作者更正
+- 收录 2830 条案例与项目，每日更新 6 次
+- 按 Games/Hardware/Applications/Algorithms 四类组织条目
+- 每个案例记录证据边界与验证状态（未复现/进行中等标注）
+- 包含失败尝试与作者更正
 
 ## 适用场景
 
-- 查找 AI 辅助逆向工程的已验证案例与工具链
-- 研究游戏保存与旧软件重建的项目做法
-- 了解硬件互操作（驱动、蓝牙外设）的 AI 辅助研究路径
+- 查找 AI 辅助逆向工程的参考案例与方法记录
+- 调研游戏保存或二进制重建类项目的现状
+- 了解硬件互操作研究中 AI 工具的使用方式
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L3: # Awesome REA Cases
 > L9: A curated collection of **AI-assisted reverse-engineering projects, experiments, and ideas** for device interoperabi
-> L11: # 2729 cases & projects
-> L17: Covers REA and other AI-assisted work. REA connects coding agents to local reverse-engineering tools through CLI an
+> L51: |Category|Entries|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `885d276fb912` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `18a699fb29b8` · [字段定义](../../DATASET.md)*

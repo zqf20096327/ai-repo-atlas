@@ -2,9 +2,9 @@
 
 ⭐ 607 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/argoproj-labs/mcp-for-argocd) · [官网](https://www.npmjs.com/package/argocd-mcp) · 组织维护
 
-**面向 Argo CD 的 MCP 服务器，让 AI 助手用自然语言管理 Argo CD**
+**让 AI 助手用自然语言管理 Argo CD 应用的 MCP 服务器**
 
-为 Argo CD 实现 Model Context Protocol 服务器，使 VS Code、Cursor、Claude Desktop 等 MCP 客户端中的 AI 助手能通过自然语言操作 Argo CD：提供集群、项目、应用、资源四类工具，覆盖列表/创建/更新/删除/同步应用、读取资源树与工作负载日志、执行资源动作等。支持 stdio 与 HTTP 流两种传输。凭据方面，API token 仅经 header/env var 传入、不进入工具调用参数；默认 token 绑定默认 base URL，多实例需配置 token 注册表文件以防 token 外泄。HTTP 监听默认仅绑定回环地址。
+面向 Argo CD 的 Model Context Protocol 服务器，通过 stdio 与 HTTP stream 两种传输协议接入 VS Code、Cursor、Claude Desktop 等 MCP 客户端，使 AI 助手以自然语言操作 Argo CD。提供集群、项目、应用（增删改查、同步）、资源（清单、事件、日志、动作执行）四组共 18 个工具。凭据通过 API token（header/环境变量/JSON 注册表）与 base URL 提供，包含默认 token 与按实例注册 token 的解析顺序、防 token 外泄绑定规则，以及 HTTP 监听的入站访问控制配置。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 四类 Argo CD 工具：集群/项目/应用/资源管理（含创建、删除、同步、执行资源动作）
-- stdio 与 HTTP 流双传输模式
-- API token 仅从传输层读取，不进入提示词或工具调用日志
-- token 注册表支持多 Argo CD 实例，默认 token 绑定默认 base URL 防外泄
+- 18 个 ArgoCD 管理工具：应用增删改查与同步、资源树/清单/日志/事件读取与动作执行
+- stdio 与 HTTP stream 双传输协议
+- 默认 token 与按实例 token 注册表的两级凭据解析，防 token 被提示注入外发
+- HTTP 监听支持绑定地址、入站 Bearer token、Host/Origin 白名单等访问控制
 
 ## 适用场景
 
-- 在 IDE 的 AI 助手中用自然语言查询和操作 Argo CD 应用
-- 通过 MCP 客户端触发应用同步、查看工作负载日志与事件
-- 一个服务器管理多个 Argo CD 实例（token 注册表）
+- 在 VS Code 或 Cursor 中用自然语言查询和管理 Argo CD 应用
+- 通过 AI 助手触发应用同步与资源动作
+- 用一个 MCP 服务器管理多个 Argo CD 实例
 
 ## 场景标签
 
- · 领域:DevOps/Kubernetes 工具链
+ · 领域:DevOps/GitOps 工具链
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `189227f1fb18` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3addd96672fb` · [字段定义](../../DATASET.md)*

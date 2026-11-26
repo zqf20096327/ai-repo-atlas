@@ -2,9 +2,9 @@
 
 ⭐ 6,359 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/bethington/ghidra-mcp) · 个人维护
 
-**给逆向工程师的 Ghidra MCP 服务器，连接 AI 工具**
+**让 AI 客户端通过 MCP 调用 Ghidra 做逆向工程的桥接服务器**
 
-一个 Model Context Protocol 服务器与 Ghidra 扩展，将 Ghidra 的逆向工程能力暴露给 MCP 客户端：提供 219 个工具，覆盖反编译、调用图、P-code 模拟、调试器集成、批量重命名/注释/类型标注与脚本执行。以 Ghidra GUI 插件或 headless 服务器两种方式运行，工具层强制命名与文档规范，支持跨二进制版本的函数哈希匹配文档传递、Ghidra Server 多用户协作及 Docker 部署。前置要求 Ghidra 12.2、Java 25 与 uv。
+实现 Model Context Protocol 的服务器，将 Ghidra 的逆向工程能力桥接给 AI 客户端与自动化框架。由 Ghidra 扩展（HTTP 服务）与 Python wheel 形式的 MCP bridge 两部分组成，提供 219 个工具，覆盖反编译、调用图、P-code 模拟、调试器端点、脚本执行、批量重命名/注释/类型化及跨二进制文档迁移；命名与类型规范在工具层自动修复、警告或拒绝。发布形式含 release zip/wheel、源码构建与 Docker。运行依赖 Ghidra 12.2 与 Java 25，扩展仅加载于构建时对应的 Ghidra 版本。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 219 个 MCP 工具，含写操作与批量操作
-- 工具层强制命名/类型/文档规范（auto-fix/warn/reject 三档）
-- P-code 模拟与 16 个调试器端点（GUI 插件模式）
-- 支持 headless 服务器、Docker 与 CI/CD 流水线
+- 219 个 MCP 工具，含读写操作与 P-code 模拟、调试器端点
+- 工具层强制命名/类型规范（自动修复/警告/拒绝三级）
+- headless 与 GUI 两种模式，Docker 可用于 CI/CD
+- SHA-256 函数哈希匹配实现跨版本文档迁移
 
 ## 适用场景
 
-- 在 MCP 客户端中让 AI 辅助分析 Ghidra 中打开的二进制
-- 批量重命名、注释与类型标注并保持团队规范一致
+- 用 AI 客户端辅助分析二进制并生成函数文档
+- 批量重命名与注释大型逆向工程项目
 - 在 CI/CD 中以 headless/Docker 方式自动化二进制分析
-- 跨版本二进制的函数匹配与文档传递
+- 团队间统一逆向产出的命名与类型规范
 
 ## 场景标签
 
@@ -39,7 +39,8 @@
 ## 证据(README 行号)
 
 > L25: A production-ready Model Context Protocol (MCP) server that bridges Ghidra's powerful reverse engineering capabilit
-> L112: - **Full MCP Compatibility** — Complete implementation of Model Context Protocol
+> L92: - **Headless and GUI modes** — Run with or without the Ghidra GUI. Docker-ready for CI/CD pipelines and automated a
+> L117: - **Full MCP Compatibility** — Complete implementation of Model Context Protocol
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `0b3ff8ef7dd4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `000cc66c3b34` · [字段定义](../../DATASET.md)*

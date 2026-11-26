@@ -2,34 +2,34 @@
 
 ⭐ 4,155 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA/skills) · [官网](https://docs.nvidia.com/skills) · 组织维护
 
-**为编码 Agent 安装 NVIDIA 产品技能的官方目录**
+**NVIDIA 官方 agent 技能与插件目录，装入编码 agent 使用**
 
-NVIDIA 官方维护的 Agent Skills 目录，收录可移植的指令集，教 AI 编码代理使用 NVIDIA 软件：Physical AI 与机器人工作流、仿真、CUDA-X 库、RAG 与 AI Blueprints 及平台工具。技能在各产品仓库维护，经自动同步管道每日镜像至此。通过 skills CLI（npx）安装，支持指定 Claude Code、Codex、Cursor、Kiro、Snowflake CoCo 等目标代理，提供 Skill Finder 技能检索、批量安装、更新与上游合并清理，需 CLI v1.5.16 及以上。
+NVIDIA 维护的 Agent Skills 与 Plugins 目录：技能是教会 AI agent 正确使用 NVIDIA 软件的便携指令集，覆盖 Physical AI/机器人、仿真、CUDA-X 库、RAG 与平台工具；插件将某产品的技能连同所需的本地 MCP 服务器打包为单一安装。技能从各产品仓库每日自动同步镜像至此，发布前经签名、扫描与评估。通过 skills CLI（npm 分发）按 agent（Claude Code/Codex/Cursor 等）安装，或经各 agent 插件市场安装 Verified Plugin，需 CLI v1.5.16 以上。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 覆盖 CUDA-X（cuDF/cuML/cuOpt/DALI 等）、BioNeMo、Cosmos Data Factory、DeepStream、DOCA 等产品线技能
-- skills CLI 支持 --agent 定向安装到多个编码代理并可一次多目标
-- 提供 Skill Finder 技能用于目录内检索与安装
-- 自动同步管道每日镜像，npx skills update 支持更新与失效技能清理
+- 技能每日从各产品仓库自动同步镜像到本目录
+- 每个技能与 Verified Plugin 发布前经签名、扫描与评估
+- skills CLI 支持向多个 agent 批量安装同一技能
+- NVIDIA Skill Finder 按用例搜索并推荐所需技能
 
 ## 适用场景
 
-- 让 Claude Code/Codex 等代理按 NVIDIA 官方指引运行 cuOpt 求解、cuDF 加速等工作流
-- 为分子模拟或药物发现任务检索并安装 BioNeMo 相关技能
-- 在 Kubernetes 上部署 NVIDIA Dynamo 并排查互联问题
+- 让编码 agent 按 NVIDIA 官方指引调用 cuOpt、cuDF 等库完成工作流
+- 在 Claude Code/Codex/Cursor 中一键安装整套 NVIDIA 产品技能包
+- 搭建需要使用 NVIDIA 软件（BioNeMo、DeepStream 等）的 agent 工作流
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ NVIDIA 官方维护的 Agent Skills 目录，收录可移植的指令集，教 A
 
 ## 证据(README 行号)
 
-> L13: Skills are portable instruction sets that teach AI agents how to use NVIDIA software optimally: Physical AI and rob
-> L17: Install NVIDIA skills with the default `skills` CLI flow. The NVIDIA Skill Finder skill will search this catalog an
+> L15: Skills are portable instruction sets that teach AI agents how to use NVIDIA software optimally: Physical AI and rob
+> L17: This repository is a catalog of both. Skills are maintained in their respective product repos and mirrored here dai
+> L21: Install individual **skills** with the `skills` CLI, or install a whole product toolset as an NVIDIA Verified **plu
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 low · 依据 README sha `53590b5f8c76` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `c0cefcd26fc2` · [字段定义](../../DATASET.md)*

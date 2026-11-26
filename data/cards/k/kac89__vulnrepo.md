@@ -2,9 +2,9 @@
 
 ⭐ 588 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/kac89/vulnrepo) · [官网](https://vulnrepo.com) · 个人维护
 
-**浏览器端加密的渗透测试漏洞报告生成与管理工具**
+**面向安全从业者的浏览器端加密漏洞报告生成与仓库工具**
 
-面向安全专业人员的客户端漏洞报告管理器：在浏览器内用 AES-256-GCM 加密报告并存于 IndexedDB，默认不向任何服务器发送数据；支持从 Nmap/Nessus/Burp/OpenVAS/Trivy/Semgrep 等扫描工具导入结果，可导出 HTML/加密 HTML/DOCX/TXT，内置 OWASP ASVS 4、PCI DSS 4、TBHM 检查清单与 CVE 查询。AI 部分：可接入本地 Ollama 模型做 AI 辅助报告撰写，数据不发送云端。提供在线版、Docker 镜像与 Angular 源码构建；不支持隐私浏览模式。
+客户端运行的漏洞报告管理器：数据在浏览器内以 AES-256-GCM 加密存于 IndexedDB，默认不经过任何服务器。支持从 Burp Suite、Nmap、Nessus、OpenVAS、Trivy 等 16 种来源导入扫描结果，内置 CVE/CWE/MITRE ATT&CK/PCI DSS 模板与 OWASP ASVS 4、TBHM 检查清单，导出 TXT/HTML/DOCX/加密 HTML 及 Jira/SARIF，提供版本快照差异对比、选择性还原、变更日志与报告分享。AI 部分为连接本地 Ollama 模型辅助撰写报告，无云端调用。可通过 npm 源码构建、Docker 镜像或安装为离线 PWA 使用。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 浏览器原生加密（PBKDF2/AES-256-GCM），密钥仅存内存并自动锁定
-- 17 种扫描工具结果导入与 SARIF/Jira 导出
-- OWASP ASVS 4 / PCI DSS 4 / TBHM 方法论检查清单
-- 接入本地 Ollama 模型做 AI 辅助报告撰写
+- 浏览器端 AES-256-GCM 加密，数据仅存本地 IndexedDB，无服务器密钥恢复
+- 16 种扫描器格式导入，SARIF/Jira/TXT/HTML/DOCX 多格式导出
+- 报告版本快照、逐项差异对比与选择性还原
+- 连接本地 Ollama 模型辅助撰写，数据不出本机
 
 ## 适用场景
 
-- 渗透测试与漏洞评估后生成加密的专业报告
-- 将 Nmap/Nessus/Burp 等扫描结果汇总为结构化报告
-- 按 OWASP ASVS / PCI DSS 检查清单执行评估并留痕
-- 用本地 AI 模型辅助撰写漏洞描述，数据不出本机
+- 渗透测试结束后生成并交付加密漏洞报告
+- 汇总 Nmap/Nessus/Burp 等多源扫描结果统一管理漏洞
+- 隔离网络环境（气隙实验室）中离线编写报告
+- 与协作者共享加密报告并跟踪版本变化
 
 ## 场景标签
 
@@ -40,7 +40,7 @@
 
 > L8: A client-side, privacy-first vulnerability report manager for security professionals. All data is encrypted and stor
 > L37: - **AI / LLM integration** — connect a local Ollama model for AI-assisted report writing (see AI / LLM Integration)
-> L111: VULNRΞPO integrates with Ollama to provide AI-assisted report writing using a locally hosted model. No data is sen
+> L158: VULNRΞPO integrates with Ollama to provide AI-assisted report writing using a locally hosted model. No data is sen
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `04ff240f05b2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4a80fd076938` · [字段定义](../../DATASET.md)*

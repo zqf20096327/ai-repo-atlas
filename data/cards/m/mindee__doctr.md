@@ -2,9 +2,9 @@
 
 ⭐ 6,443 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/mindee/doctr) · [官网](https://mindee.github.io/doctr/) · 组织维护
 
-**面向开发者的深度学习 OCR 库：文档文字检测与识别**
+**开发者用深度学习 OCR 库：从文档图片/PDF 定位并识别文字**
 
-基于 PyTorch 的 OCR 库，采用两阶段流程：文本检测定位文字区域，文本识别输出字符；读取 PDF 或图像后返回结构化 Document 对象，可导出 JSON 或重建文档。支持版面检测、旋转页面处理、KIE 多类别检测、表格结构识别与公式识别等预测器。由 Mindee 创建，现由 t2k GmbH 维护，提供商业服务；以 PyPI 包、源码安装与 Docker 镜像分发。
+docTR 是基于 PyTorch 的文档文字识别库，采用两阶段流水线（文本检测定位词、文本识别输出字符），支持 PDF 与图片输入。除基础 OCR 外还提供版面检测（Title/Text/Table 等区域）、表格结构重建、公式转 LaTeX、旋转页面处理、KIE 多类检测预测器，结果可导出 JSON 或重建文档。以 Python 包分发，附 FastAPI 服务模板、Streamlit demo、Jupyter notebooks 与 Docker 镜像；维护方为 t2k GmbH（原作者 Mindee），提供商业定制服务，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 两阶段 OCR 流程：文本检测 + 文本识别，架构可自选
-- 版面检测、表格结构识别、公式识别与 KIE 多类别预测器
-- 提供 FastAPI 模板与 Hugging Face Spaces 在线演示
-- GPU-ready Docker 镜像（CUDA 12.2）
+- 两阶段 OCR 流水线，检测/识别架构可分别选择（DBNet、CRNN、PARSeq 等）
+- 版面检测、表格结构识别与公式转 LaTeX 能力
+- KIE 预测器支持多类目标检测（如日期、地址）
+- 提供 GPU-ready Docker 镜像与 FastAPI 部署模板
 
 ## 适用场景
 
-- 从 PDF 和扫描图像中提取文字与版面结构
-- 构建文档解析 API 接入业务系统
-- 识别表格结构与文档中的公式
-- 处理含旋转页面的文档
+- 从扫描件或 PDF 中批量提取文字内容
+- 解析文档版面结构、表格与公式
+- 将 OCR 能力集成到自己的 API 服务中
+- 处理含旋转页面的文档识别任务
 
 ## 场景标签
 
-`OCR` · 领域:感知与多模态
+`OCR` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L13: - efficient ways to parse textual information (localize and identify each word) from your documents
+> L3: **Optical Character Recognition made seamless & accessible to anyone, powered by PyTorch**
 > L22: End-to-End OCR is achieved in docTR using a two-stage approach: text detection (localizing words), then text recogn
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c4d8a572edf2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `2b28c989be47` · [字段定义](../../DATASET.md)*

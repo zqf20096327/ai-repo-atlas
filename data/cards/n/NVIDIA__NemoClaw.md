@@ -4,7 +4,7 @@
 
 **在 NVIDIA OpenShell 沙箱中更安全运行 AI agent 的参考栈**
 
-NVIDIA 开源的参考技术栈，用于在 OpenShell 沙箱内以受控方式运行受支持的 AI agent（OpenClaw、Hermes、LangChain Deep Agents Code）。通过 NemoClaw CLI 及各 agent 专属别名提供引导式上手、托管推理、网络策略、托管集成、OpenShell 支撑的状态持久化与生命周期操作。支持快速安装模式与交互式选择 agent、沙箱名、推理提供方与模型；通过私嵌渠道接收漏洞报告，采用 Apache 2.0 许可。README 未列具体功能清单，需查阅官方文档。
+NVIDIA 开源的参考技术栈，用于在 OpenShell 沙箱内运行受支持的 AI agent（OpenClaw、Hermes、LangChain Deep Agents Code）。通过 NemoClaw CLI 与 agent 专属别名提供引导式上手、托管推理、网络策略、托管集成、基于 OpenShell 的状态持久化和生命周期操作。新版 Agent Configs 为推荐配置方式，旧体验仍可用并提供迁移指南。当前优先方向包括安装可靠性、沙箱加固、凭据处理与网络策略默认值。
 
 ## 筛选速览
 
@@ -26,28 +26,25 @@ NVIDIA 开源的参考技术栈，用于在 OpenShell 沙箱内以受控方式�
 
 ## 能力要点
 
-- 提供 CLI 与 agent 专属别名管理沙箱内 agent 的生命周期
-- 托管推理与可路由的推理提供方配置
-- 网络策略与沙箱加固等安全控制层
-- OpenShell 支撑的状态持久化与托管集成
+- 支持 OpenClaw（默认）、Hermes、LangChain Deep Agents Code 三类 agent
+- 提供托管推理、网络策略与出口控制等安全层
+- 基于 OpenShell 的沙箱状态持久化与生命周期操作
+- 终端交互式安装器支持 DGX/WSL 平台预设
 
 ## 适用场景
 
-- 在受控沙箱中运行 OpenClaw 等编码/对话 agent
-- 为 agent 配置出网策略与安全加固
-- 统一管理多个 agent 框架的沙箱与推理接入
+- 在沙箱中运行 OpenClaw 等 agent 并限制网络出口
+- 为 agent 统一配置推理提供方与模型
+- 按安全最佳实践加固 agent 沙箱环境
 
 ## 场景标签
 
- · 领域:AI 基础设施/Agent 运行时
+ · 领域:LLM 基础设施/agent 运行与安全
 
 ## 证据(README 行号)
 
 > L12: NVIDIA NemoClaw is an open source reference stack for running supported AI agents more safely inside NVIDIA OpenShe
 > L13: It provides guided onboarding, managed inference, network policy, managed integrations, OpenShell-backed state pers
-> L17: - OpenClaw (default)
-> L18: - Hermes
-> L19: - LangChain Deep Agents Code
 
 ## 星数曲线
 
@@ -63,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e6564df4b5f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `051b3097ec00` · [字段定义](../../DATASET.md)*

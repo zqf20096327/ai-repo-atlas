@@ -2,9 +2,9 @@
 
 ⭐ 783 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/best-of-ai/best-of-ai) · [官网](https://bestofai.io) · 组织维护
 
-**面向AI工具使用者的社区策展工具目录（2174+工具，143类）**
+**AI 工具社区目录：143 类收录 2209+ 工具供选型查找**
 
-由社区驱动的 AI 工具策展目录，收录并跟踪 2174+ 个工具，按 143 个类别（从代码助手到视频到医疗）组织，另设按职业划分的工具栈（设计师、开发者、营销等）。README 提供排行榜（Top 108）与分类条目列表，每条含评级标签与定价模式；完整交互式目录（搜索、过滤、详细评审）托管于 bestofai.io，并开放工具提交与贡献渠道。
+一个社区维护的 AI 工具目录，覆盖 143 个类别、跟踪 2209+ 个工具，按质量、创新与实用性筛选并排名，收录条目附评级标签与免费/付费标识。README 展示前 108 名排行榜及 Productivity、Chatbots、Academia、Audio 等类别的条目摘录；完整交互式目录（搜索、过滤、详细评测）托管在 bestofai.io。社区可提交工具。以清单形式提供，不含安装或运行步骤。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录并跟踪 2174+ 个 AI 工具，覆盖 143 个类别
-- 排行榜列出 Top 108 工具及评级标签与定价模式
-- 按职业提供策展工具栈（设计/开发/营销等）
-- 完整目录提供搜索、过滤与详细评审，开放工具提交
+- 143 个类别、跟踪 2209+ 个 AI 工具
+- 条目经人工筛选与排名并标注定价模式
+- 按职业（设计师/开发者/营销）组织工具集
+- 提供 bestofai.io 交互式目录与工具提交通道
 
 ## 适用场景
 
-- 按类别或职业查找合适的 AI 工具
-- 查看某类工具（聊天机器人/自动化/客服等）的收录清单
-- 向目录提交自己的 AI 工具
+- 按类别查找特定用途的 AI 工具
+- 为设计师/开发者等职业找配套工具栈
+- 提交自己的 AI 工具进入目录
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L16: **Best of AI** is a curated, community-driven directory of the best AI tools across 143 categories. We track 2174+ 
-> L22: - **Broad coverage** — 143 categories from Code Assistants to Video to Healthcare
+> L16: **Best of AI** is a curated, community-driven directory of the best AI tools across 143 categories. We track 2209+ 
+> L20: - **Quality over quantity** — every tool is reviewed and ranked, not just scraped from a list
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8c6611fe0797` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `df44a7dcde61` · [字段定义](../../DATASET.md)*

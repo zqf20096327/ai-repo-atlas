@@ -2,9 +2,9 @@
 
 ⭐ 475 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/runpod-workers/worker-vllm) · 组织维护
 
-**RunPod Serverless 上托管 vLLM 大模型端点的 worker 模板**
+**RunPod Serverless 上基于 vLLM 的 LLM 端点部署模板**
 
-RunPod 官方的 serverless worker 模板，将 vLLM 推理引擎封装为可在 RunPod Serverless 端点上部署的 OpenAI 兼容服务。配置通过环境变量或 config.yaml 传入，环境变量会转换为 `vllm serve` CLI 参数，并提供 VLLM_EXTRA_ARGS 透传未收录参数。支持预构建 Docker 镜像部署、将模型烘焙进镜像构建，以及直接使用官方 vllm 镜像做负载均衡三种方式。启动失败时识别可修复的崩溃循环并以结构化错误应答任务。限制：仅在 RunPod Serverless 平台运行。
+在 RunPod Serverless 上部署 vLLM 推理端点的 worker 模板，封装官方 vllm/vllm-openai 镜像。配置通过环境变量或 config.yaml 传递，环境变量自动映射为 vllm serve CLI 参数，并提供 VLLM_EXTRA_ARGS 透传任意参数。提供三种部署方式：预构建 Docker 镜像、模型打包进镜像构建、以及负载均衡场景下直接使用官方 vLLM 镜像（无需本 worker）。兼容 OpenAI API 格式，现有 OpenAI 代码只需改 base_url 和 api_key 即可接入。启动失败场景会被识别并向任务返回原因与修复建议。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ RunPod 官方的 serverless worker 模板，将 vLLM 推理引擎封装为可在
 
 ## 能力要点
 
-- 环境变量到 vllm serve CLI 参数的自动转换与 VLLM_EXTRA_ARGS 透传
-- OpenAI 兼容 API，改 3 行即可接入现有 OpenAI 代码库
-- 支持 config.yaml 完整配置与 env 变量优先级控制
-- 预启动钩子识别不可修复的启动失败并给出原因与修复建议
+- 环境变量自动转换为 vllm serve CLI 参数，支持 VLLM_EXTRA_ARGS 透传
+- OpenAI 兼容 API，改 3 行代码即可从 OpenAI SDK 切换
+- 启动失败识别机制：向队列任务返回错误原因与修复建议
+- 支持 config.yaml 完整配置文件挂载
 
 ## 适用场景
 
-- 在 RunPod Serverless 上按需部署 Hugging Face 上的 vLLM 支持模型
-- 将现有 OpenAI SDK 代码切换到自托管模型端点
-- 将模型打包进 Docker 镜像进行离线部署
+- 在 RunPod Serverless 上按需部署 Hugging Face 模型端点
+- 用现有 OpenAI 代码库接入自部署的 vLLM 模型
+- 将模型权重打包进镜像做免下载部署
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ RunPod 官方的 serverless worker 模板，将 vLLM 推理引擎封装为可在
 ## 证据(README 行号)
 
 > L3: Deploy OpenAI-Compatible Blazing-Fast LLM Endpoints powered by the vLLM Inference Engine on Runpod Serverless with j
-> L43: **Pass any vLLM engine arg** as an environment variable: the worker translates env vars into `vllm serve` CLI flags
+> L9: > Want a **load balancing** endpoint (direct HTTP, no job queue)? You don't need this worker — deploy the official v
 > L187: The vLLM Worker is fully compatible with OpenAI's API, and you can use it with any OpenAI Codebase by changing onl
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `67597e6c4f32` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `50d2f79bdba1` · [字段定义](../../DATASET.md)*

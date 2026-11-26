@@ -2,9 +2,9 @@
 
 ⭐ 9,320 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/ai-boost/awesome-prompts) · [官网](https://agentcraft.dev/en/prompts/agents/) · 组织维护 · 中文 README
 
-**面向 LLM/Agent 使用者的提示词与论文策展清单**
+**面向开发者与 agent 工程的 LLM 提示词、框架与论文清单**
 
-以清单形式收录面向 LLM 与 agent 的提示词、框架条目与论文，含 3,099 条日常提示词，覆盖编码开发、写作、营销、图像设计、角色扮演等 16 个类别，每条提供中英双语版本并标注机器翻译来源。条目以表格展示并链接 prompt 原文，另提供在线画廊（agentcraft.dev）按类别浏览及 Hugging Face 数据集下载，并附带 Claude Code 技能目录。原始数据以 CSV 形式发布，来源与许可在子目录说明。
+一个 awesome 类提示词聚合清单：收录 3,239 条日常提示词，覆盖编程、写作、营销、教育、研究等 16 个类别，每条提供英文与中文双语版本（其中 1,190 条标注为机器翻译）；另含面向 Claude Code、Codex、Cline 等编码 agent 的提示词工程条目，以及 agent harness、上下文工程、红队等方向的内容与论文索引。条目以表格加 CSV 原始数据形式提供，并提供在线浏览站点与 Hugging Face 数据集。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 收录 3,099 条日常提示词，覆盖 16 个类别
-- 每条提示词提供英文与中文双语版本，并标注机器翻译条目
-- 提供在线画廊与 Hugging Face 数据集两种访问方式
-- 附 Claude Code 技能目录
+- 3,239 条双语提示词，按 16 个类别组织，附 CSV 原始数据
+- 收录针对 Claude Code、Codex CLI、Cline、Kimi Code 等工具的提示词架构条目
+- 包含 agent harness 设计、循环工程、多 agent 编排等工程向内容
+- 提供在线画廊与 Hugging Face 数据集两种访问形式
 
 ## 适用场景
 
-- 为编码/写作/营销等任务查找现成提示词
-- 查找 agent harness 与上下文工程相关的论文与设计模式
-- 批量下载数据集做提示词相关分析
+- 为编码 agent 工具寻找经过整理的系统提示词模板
+- 查找中英双语的日常写作、营销、学习类提示词
+- 了解 agent harness 与提示词工程方向的相关论文与实践
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`提示工程` `精选清单` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5:  Curated prompts, frameworks, and papers for LLMs — with an engineering bias.
-> L27: Browse the Prompts below by category, with a preview of each, on agentcraft.dev.
-> L33: **3,099 everyday prompts** for writing, coding, marketing, study, design and more. Every prompt comes in English an
+> L33: **3,239 everyday prompts** for writing, coding, marketing, study, design and more. Every prompt comes in English an
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2ebd429bf750` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8b469cb4671c` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 495 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/mobile-next/mobilewright) · [官网](https://mobilewright.dev) · 组织维护
 
-**移动 App 自动化测试框架：iOS/Android 统一 Playwright 风格 API**
+**移动端自动化测试框架：一套 API 驱动 iOS/Android 真机与模拟器**
 
-基于 mobilecli 构建的移动设备自动化与端到端测试框架，通过统一 API 驱动 iOS/Android 真机、模拟器与仿真器。核心机制包括自动发现已启动设备、每步操作前等待元素可见/可用/位置稳定的 auto-waiting、可链式定位器与轮询断言；以无障碍树而非截图作为元素来源，面向 AI agent 场景暴露确定性语义接口。npm 安装，需 Node.js ≥22.12 及 Xcode/Android SDK/ADB 等环境，提供 mobilewright doctor 自检。
+面向移动应用自动化与端到端测试的框架，提供四种使用路径：扩展 Playwright Test 的测试包、供终端与编码代理调用的 CLI、面向 AI 代理的 MCP 服务器、以及可在脚本中直接调用的 JavaScript/TypeScript 库。支持 iOS 与 Android 的模拟器、仿真器与真机，提供 Playwright 风格的定位器、自动等待、断言重试、截图、WebView 控制与 HTML 报告。前置条件包括 Node.js 22.12+，iOS 需 macOS/Xcode，Android 需 JDK 与 Android SDK；真机 iOS 需签名配置描述文件。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- iOS/Android 真机、模拟器、仿真器的统一 API
-- 以无障碍树驱动的 AI agent 支持，无需视觉模型
-- Playwright 风格定位器与 auto-waiting 断言
-- WebView 混合应用的 Playwright 兼容 Page 桥接
+- 四种入口：Test 测试包、CLI、MCP 服务器、JS/TS 库
+- Playwright 风格 API：链式定位器、自动等待、重试断言
+- MCP 服务器向 AI 代理暴露设备发现、安装、手势、截图等工具
+- 支持混合应用 WebView 的 Playwright 兼容 Page/Locator API
 
 ## 适用场景
 
-- 为 iOS/Android App 编写端到端 UI 测试
-- 让 Claude/Cursor 等编码 agent 直接操控真机
-- 同一套测试脚本覆盖双平台设备实验室
+- 对 iOS/Android 应用编写可重复运行的端到端测试
+- 让编码代理或 MCP 客户端探索设备流程并生成测试
+- 在真机、模拟器或云设备上批量自动化操作应用
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7: Framework for mobile device automation, inspired by Playwright's architecture and developer experience.
-> L62: Mobilewright exposes the device's accessibility tree — deterministic, token-efficient, no vision model needed. Use 
+> L7: **Mobilewright is a framework for mobile automation and testing.** Control iOS and Android devices, simulators, and 
+> L178: Mobilewright MCP gives AI agents device control through the Model Context Protocol. The `@mobilewright/mcp` packag
+> L246: - **iOS and Android** — automate native and hybrid apps on simulators, emulators, and real devices.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6ebf47db23cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `42af2343c01b` · [字段定义](../../DATASET.md)*

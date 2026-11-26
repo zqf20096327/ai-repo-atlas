@@ -2,15 +2,15 @@
 
 ⭐ 1,213 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/mateaix/mateclaw) · [官网](https://claw.mate.vip) · 组织维护 · 中文 README
 
-**可自托管的多 Agent 数字员工平台：知识、记忆、工具、渠道一体部署**
+**自托管的多智能体数字员工平台：记忆、知识、IM 渠道一体**
 
-基于 Java 21 / Spring Boot / Spring AI Alibaba（AgentScope Java）构建的自托管 Agent 平台，将推理、知识（LLM Wiki）、记忆、工具、消息渠道集成在单个 JAR 部署中。支持原生 AgentScope 运行时（ReAct、Plan-and-Execute、Goal、Team Runs）或外部 DSH 运行时；提供 Web 控制台、Electron 桌面端、网页挂件、IM 渠道与插件 SDK 五种入口。内置多用户工作区、审批门控、审计日志与 Tool Guard（RBAC + 审批 + 路径保护）；持久化 Goal 在后端重启后从检查点续跑。源码构建需 Java 21。
+基于 Spring Boot 与 Spring AI Alibaba 的自托管个人/团队 AI 代理平台，以"数字员工"形式提供角色、目标、持久记忆、SKILL.md 技能包与 MCP 扩展。支持双运行时：内置 AgentScope 运行时（ReAct、Plan-and-Execute、Team Runs）或外部 DSH CLI 托管循环；模型供应商可配置优先级链，主模型故障时按序重试。知识侧提供 LLM Wiki（摘要、[[链接]]、可溯源引用）与记忆生命周期管理。可通过 Web 控制台、Electron 桌面端、Webchat 嵌入脚本、9 种 IM 渠道与 Plugin SDK 五种界面使用。持久化 Goal 提供检查点与重启续跑。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 多模型故障转移：按优先级链路重试 OpenAI 兼容 provider（DashScope、OpenAI、Anthropic、Gemini、DeepSeek、Ollama 等）
-- LLM Wiki 将文档消化为带 [[links]] 与可溯源引用的结构化页面
-- 持久化 Goal：检查点、重启恢复、Team Run 任务 DAG 与人工审批门
-- SKILL.md / MCP（stdio/SSE/HTTP）/ ACP 三种能力扩展方式
+- 多供应商优先级链与健康追踪，主模型失效时切换下一个可用供应商
+- LLM Wiki 将原始文档摘要为互链页面并保留可溯源引用
+- 持久化 Goal 提供检查点、重启恢复与续跑
+- 五种使用界面：Web 控制台、Electron 桌面、Webchat 嵌入、IM 渠道、Plugin SDK
 
 ## 适用场景
 
-- 企业内部部署可控数据与密钥的数字员工平台
-- 将钉钉、飞书、企微、Telegram 等接入统一 Agent 服务
-- 上传 PDF/Markdown 构建带引用的团队知识库
-- 需要审批与审计的敏感操作自动化工作流
+- 搭建可审计、带审批门的多用户 AI 员工工作区
+- 通过钉钉/飞书/企业微信等 IM 渠道接入团队 AI 助手
+- 将上传的 PDF 与文档整理为互链、可引用的知识库
+- 长时间任务在服务重启后从检查点继续执行
 
 ## 场景标签
 
-`多智能体` `工作流自动化` `RAG` · 领域:Agent 开发
+`多智能体` `AI 助手` `知识库管理` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L31: > Multi-user workspaces. Approval-gated sensitive actions. Full audit trail. Spring Boot Actuator health monitoring
-> L33: > **And underneath, a real Agent Runtime.** An employee is no longer welded to one reasoning loop. Choose the nativ
-> L89: ### Agent Runtime: native or DSH (2.2.0+)
+> L11:  Your second brain
+> L33: > Multi-user workspaces. Approval-gated sensitive actions. Full audit trail. Spring Boot Actuator health monitoring
+> L103: ### Agent Runtime: native or DSH (2.2.0+)
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1e8b3ad596f2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `02cfb29cc2ad` · [字段定义](../../DATASET.md)*

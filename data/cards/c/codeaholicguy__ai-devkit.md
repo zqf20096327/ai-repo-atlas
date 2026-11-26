@@ -2,9 +2,9 @@
 
 ⭐ 1,674 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/codeaholicguy/ai-devkit) · [官网](https://ai-devkit.com) · 个人维护
 
-**多 AI 编码代理的本地控制面：统一配置、会话监管与技能**
+**为 AI 编码 agent 提供统一配置、控制台与记忆的管理层**
 
-面向同时使用多个 AI 编码代理（Claude Code、Codex CLI、Gemini CLI、Cursor 等）的开发者，提供本地运行的统一管理层：一份 `.ai-devkit.json` 配置同步各代理的规则、MCP 与技能安装；`agent console`/`agent list`/`agent send` 监管并向运行中的 CLI 会话（tmux 承载）发送提示与日志；本地 SQLite 存储项目决策与约定，代理按需检索；内置 28 个以 `dev-lifecycle` 为锚的工程技能（verify/tdd/debug/security 等）。经 npm 安装，Apache-2.0 许可，无遥测；控制面仅支持 macOS/Linux，Windows 不支持 console。
+以 npm CLI 形式提供的 AI 编码 agent 管理工具：`setup` 一次性完成机器级安装，`init` 在项目内生成 `.ai-devkit.json` 统一配置并写入各 agent 的规则、MCP 与技能。控制面提供 `agent list/detail/console` 查看会话、`agent send` 向运行中的 agent 发送提示与日志（基于 tmux，仅 macOS/Linux，Windows 控制台不支持）；`@ai-devkit/memory` 将项目决策与约定存入本地 SQLite，通过 MCP/CLI 按需检索；内置 28 个技能，`dev-lifecycle` 为主线串联 verify、tdd、调试、评审等流程，`skill add` 可从 30+ 发布者拉取技能。Apache-2.0，本地运行，无遥测。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 一份 `.ai-devkit.json` 跨代理统一配置与技能安装
-- agent console/list/send 对运行中 tmux CLI 会话的监管与消息路由
-- 本地 SQLite 记忆库经 MCP/CLI 按需检索，避免上下文膨胀
-- 28 个内置技能与 30+ 发布者技能注册表（skill add）
+- `.ai-devkit.json` 一份配置协调多个编码 agent 的规则、技能与 MCP 设置
+- `agent list/send/console` 跨提供方列出、检视、消息化运行中的 agent 会话
+- 本地 SQLite 记忆按需检索，避免每次 prompt 携带全部上下文
+- 28 个内置技能，`dev-lifecycle` 串联需求→设计→实现→测试→评审
 
 ## 适用场景
 
-- 团队多个 AI 编码代理需要共享一套规则与技能配置
-- 向运行中的代理会话发送日志、提示或后续任务
-- 要求代理在声明完成前提供新的测试/构建证据
-- 跨会话留存并检索项目决策与编码约定
+- 团队同时使用多个 AI 编码 agent 时统一配置与管理入口
+- 向长时间运行的 agent 发送日志、测试输出等上下文
+- 跨会话保存并检索项目约定，避免 agent 遗忘规范
+- 用 dev-lifecycle 技能约束 agent 按阶段完成功能开发
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L5: **The control plane for AI coding agents.**
 > L7: AI DevKit gives Claude Code, Codex CLI, Gemini CLI, opencode, Pi, Cursor, GitHub Copilot, Devin, and other coding ag
-> L205: - **Not a replacement for Claude Code, Codex, Cursor, Gemini CLI, or opencode.** AI DevKit configures, supervises,
+> L9: - **One config for every agent** — `.ai-devkit.json` reconciles setup across the coding tools your team uses
+> L12: - **Memory retrieval without context bloat** — `@ai-devkit/memory` stores decisions, conventions, and fixes in loca
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e472122ae170` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8baa68717573` · [字段定义](../../DATASET.md)*

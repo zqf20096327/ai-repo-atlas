@@ -1,10 +1,10 @@
 # pipeshub-ai/pipeshub-ai
 
-⭐ 4,160 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) · [官网](https://pipeshub.com) · 组织维护 · 中文 README
+⭐ 4,160 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) · [官网](https://pipeshub.com) · 组织维护
 
-**企业知识上下文层：为人与 AI agent 提供带权限与引用的跨源搜索**
+**为企业与 agent 提供跨 50+ 数据源、带权限与引用的统一检索层**
 
-PipesHub 是连接企业业务系统的开源上下文层：通过 50+ 连接器同步 Slack、Google Drive、Jira、GitHub、Microsoft 365 等来源及其权限，索引管道对内容做解析、分块、嵌入并构建知识图谱。检索采用混合搜索、grep 匹配、知识图谱导航与全文阅读，由 agent 循环调用工具直至收集证据；每次工具调用按提问者权限过滤，回答附原文引用。通过 MCP、Python/TypeScript/Go SDK 与内置 agent 对外提供上下文，支持自托管 Docker Compose 部署或使用 PipesHub Cloud。
+PipesHub 是一个开源的企业上下文层：通过连接器同步 Slack、Google Drive、GitHub、Microsoft 365、Jira 等 50+ 系统的内容及其权限，建立索引与知识图谱后，以 agent 循环方式（混合检索、grep、图谱导航、全文阅读）回答问题并给出块级引用。面向企业员工与企业 agent，可通过 MCP、Node.js/Python/Go SDK、内置 agent 使用；支持 Docker Compose 自托管或 PipesHub Cloud 托管。模型可自选并可部署在用户 VPC 内。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ PipesHub 是连接企业业务系统的开源上下文层：通过 50+ 连接器
 
 ## 能力要点
 
-- 50+ 企业连接器，同步内容与源系统权限
+- 50+ 企业连接器，索引时同步源系统权限并在每次工具调用时校验
 - agent 循环检索：混合搜索、grep、知识图谱导航、全文阅读
-- 回答带原始文档块引用，工具调用按用户权限过滤
-- 通过 MCP 与 Python/TypeScript/Go SDK 向自有 agent 与应用开放同一上下文
+- 答案带块级引用（表格单元格、行、代码行等），剔除虚构引用
+- 提供 MCP Server 与 Python/TypeScript/Go SDK 供自建应用接入
 
 ## 适用场景
 
-- 让 Claude Code、Cursor 等编码助手读取公司 Jira/Slack/GitHub/Drive 知识
-- 为团队搭建带权限过滤和引用来源的企业搜索
-- 在企业内部构建自托管 RAG 与深度研究 agent
-- 给自有工作流或 MCP 客户端接入统一的检索上下文
+- 让 Claude Code、Cursor 等编码助手检索公司内部知识并按本人权限过滤
+- 搭建跨多个业务系统的企业搜索与问答入口
+- 通过 SDK 在自有应用中嵌入带引用的权限感知检索
+- 用无代码方式构建执行企业操作的 agent
 
 ## 场景标签
 
-`RAG` `语义搜索` `知识图谱` `文档问答` · 领域:知识与检索
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3:  An open-source context layer for AI agents and an enterprise search platform
-> L43: Connect Slack, Google Drive, GitHub, Microsoft 365, Notion and 50+ other systems. Search across them and get answer
-> L199: over MCP for any compatible client, or through the SDKs when you are calling it
+> L57: PipesHub builds a **unified context layer** across documents, conversations, structured data, wikis, tickets and co
+> L229: Use PipesHub with any MCP-compatible client to bring your enterprise context into AI workflows. Check the README f
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f0b83427b1ab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `87c7a25d411d` · [字段定义](../../DATASET.md)*

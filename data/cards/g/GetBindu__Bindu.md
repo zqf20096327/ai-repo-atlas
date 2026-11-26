@@ -2,9 +2,9 @@
 
 ⭐ 9,949 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/GetBindu/Bindu) · [官网](https://docs.getbindu.com) · 组织维护
 
-**AI agent 的身份、通信与支付基础设施层**
+**为 AI agent 提供身份、通信与支付基础设施的框架**
 
-面向 AI agent 开发者的基础设施框架：用 bindufy() 包装用户已有的 agent 处理器，为其提供加密身份（DID/Ed25519 签名）、A2A JSON-RPC 通信、三层默认安全（mTLS、Hydra OAuth2、DID 签名）、x402 USDC 支付（EVM 链）、任务调度与网关编排。框架无关，支持 Agno、LangChain、CrewAI 等多种框架，提供 Python/TypeScript/Kotlin SDK（共享 gRPC 核心）。需要 Python 3.12+ 与 uv，运行示例需 LLM provider API key；任务与消息存储使用 Postgres，调度依赖 Redis。
+以 `bindufy()` 包装 agent 处理函数，为其接入 A2A JSON-RPC 协议、W3C DID 加密身份、OAuth2/mTLS/DID 签名三层安全栈，以及基于 x402 的 USDC 预付支付（支持 5 条预配置 EVM 链及任意 EVM 链扩展）。内置网关（planner LLM 编排多 agent）、任务调度（Redis）、存储（Postgres）、推送通知、公网隧道与微VM 云部署。提供 Python/TypeScript/Kotlin SDK，共享同一 gRPC 核心，handler 内可使用任意 agent 框架。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- bindufy() 一次包装即为 agent 提供 DID 身份、A2A 协议与支付能力
-- 三层默认安全：mTLS + Hydra OAuth2 + Ed25519 DID 签名
-- x402 支付：agent 可在执行前要求 USDC 付款，预配置 5 条 EVM 链
-- Python/TypeScript/Kotlin SDK 共享同一 gRPC 核心与 DID 体系
+- 一行 bindufy() 接入 A2A 协议、DID 身份与 x402 USDC 支付
+- mTLS + OAuth2(Hydra) + Ed25519 DID 签名三层安全中间件
+- Python/TypeScript/Kotlin SDK 共享 gRPC 核心
+- expose:true 提供公网隧道，无需端口转发
 
 ## 适用场景
 
-- 让自建 agent 获得可验证身份并与其他 agent 通过 A2A 通信
-- 为 agent 按请求收费（USDC/x402）
-- 多 agent 群协作与网关编排（含价格与 SLA 协商）
+- 让自建 agent 通过 A2A 协议与其他 agent 互相通信并验证身份
+- 为 agent 服务接入按调用付费的加密货币支付
+- 用网关编排多 agent 协作并将结果流式返回
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L29:  The identity, communication, and payments layer for AI agents.
 > L39: Bindu is all of that plumbing, behind one function call. You wrap your handler with `bindufy()`, and a few seconds 
-> L171: ## Supported frameworks
+> L141: |**Gateway**|A planner LLM that orchestrates a fleet of agents over A2A and streams the result back.|GATEWAY.md|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `665e1eb3735f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `107d3beb9070` · [字段定义](../../DATASET.md)*

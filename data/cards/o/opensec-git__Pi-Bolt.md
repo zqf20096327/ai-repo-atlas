@@ -2,9 +2,9 @@
 
 ⭐ 869 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/opensec-git/Pi-Bolt) · [官网](https://pi-bolt.opensec.in) · 组织维护
 
-**把 Pi 编码 agent 编译为单个原生可执行文件，免 Node 运行**
+**Pi 编码 agent 的 AOT 原生编译发行版，无需 Node/Bun**
 
-Pi-Bolt 是 Pi 编码 agent 的提前编译（AOT）版本：将 Pi 编译为覆盖 Linux x86-64/ARM64、macOS Apple silicon、Windows x64 与 Android Termux 的单文件原生可执行程序，启动、流式响应 CPU、会话内存等基准数据均与 Node/Bun 版 Pi 对比给出。沿用 Pi 的命令、会话、设置、provider 与扩展（~/.pi/agent 配置直接复用），可与 Pi 并存。默认构建无 JIT，运行时加载的扩展被解释执行，提供 JIT 构建与 `pi-bolt compile` 把扩展编译进可执行文件。安装途径含 curl/PowerShell 脚本、Homebrew、Scoop、mise、npm、AUR。
+将 Pi 编码 agent 预先编译为单一原生可执行文件，保留 Pi 的命令、会话、设置、providers 与扩展兼容性，启动时无需解析或 JIT 编译。README 给出与 Node 24 及 Bun 版 Pi 的启动耗时、CPU 与内存对比数据。提供 curl/PowerShell 安装脚本、Homebrew、Scoop、mise、npm、AUR 等安装途径，支持 Linux x86-64/ARM64、macOS Apple silicon、Windows x64 与 Termux。重负载扩展可切换 JIT 构建，或用 `pi-bolt compile` 将插件编译进可执行文件。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Pi-Bolt 是 Pi 编码 agent 的提前编译（AOT）版本：将 Pi 编译为覆
 
 ## 能力要点
 
-- 提前编译为单文件原生可执行程序，无需 Node.js、Bun 或 npm
-- 复用 Pi 的命令、会话、设置、providers 与扩展，可与 Pi 并存安装
-- 内置 grep/find 进程内搜索工具，可被 pi-fff 扩展替换
-- 可作为 ACP 编辑器面板（Zed/JetBrains/VS Code/Neovim）运行，也可作为 MCP server 被其他 agent 调用
+- 单一原生可执行文件，运行无需 Node.js、Bun 或 npm
+- 与 Pi 共享 `~/.pi/agent` 配置，扩展原样可用
+- 可通过 `--acp` 接入 Zed/JetBrains/VS Code 等 ACP 编辑器，通过 `--mcp` 作为 MCP 服务器
+- 提供 JIT 变体与 `pi-bolt compile` 编译插件机制
 
 ## 适用场景
 
-- 在没有 Node/Bun 环境的机器上直接运行 Pi 编码 agent
-- 在 Zed、JetBrains 等 ACP 编辑器的 agent 面板中使用编码 agent
-- 在 Android Termux 上运行编码 agent
-- 把常用扩展编译进可执行文件以消除运行时解释开销
+- 在无 Node.js 环境的机器上运行 Pi 编码 agent
+- 在 Android Termux 中使用编码 agent
+- 把编码 agent 作为 MCP 服务器交给其他 agent 调用
+- 在编辑器 agent 面板中使用 Pi 配置与扩展
 
 ## 场景标签
 
@@ -39,8 +39,8 @@ Pi-Bolt 是 Pi 编码 agent 的提前编译（AOT）版本：将 Pi 编译为覆
 ## 证据(README 行号)
 
 > L7:  The Pi coding agent, compiled ahead of time to native code.
+> L36: Pi-Bolt is the Pi you already use, with the same commands, sessions, settings, providers and extensions, but every 
 > L60: - **The same Pi:** same commands, sessions, settings and providers; every Pi extension works unchanged.
-> L195: - **Other agents:** `pi-bolt --mcp` is an MCP server; other agents give Pi-Bolt a task with
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c8586a39e8c6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b9d21fc77d78` · [字段定义](../../DATASET.md)*

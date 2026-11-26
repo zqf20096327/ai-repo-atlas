@@ -2,9 +2,9 @@
 
 ⭐ 6,625 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Arthur-Ficial/apfel) · [官网](https://apfel.franzai.com) · 个人维护
 
-**把 Apple 设备端模型封装成 CLI 与 OpenAI 兼容本地服务器**
+**把 Mac 内置 Apple 模型暴露为 CLI 与 OpenAI 兼容本地服务器**
 
-apfel 通过 Apple FoundationModels 调用 Apple Silicon Mac 内置的大模型，以三种形态暴露：UNIX 风格 CLI（支持管道、文件附件、JSON 输出、退出码）、OpenAI 兼容本地服务器（http://localhost:11434/v1，供 OpenAI SDK 直接接入）、交互式 REPL。支持 tool calling 与 MCP 服务器（本地与远程 Streamable HTTP）。100% 设备端运行，无需 API key 与云服务。限制：仅支持 macOS 26+ 与 M1+ 芯片，上下文窗口 4096/8192 tokens，不提供 embeddings。
+调用 Apple Silicon 自带的 FoundationModels 端上模型，提供三种使用形态：UNIX 管道工具（apfel "prompt"）、OpenAI 兼容本地服务器（--serve，/v1/chat/completions、/v1/responses 等）、交互式 REPL（--chat）。支持工具调用、MCP 服务器挂载（本地与远程 Streamable HTTP）、JSON schema 约束输出、流式 SSE、Token 计量。无 API key、无云端调用；限制包括 4096/8192 Token 上下文窗口、无 embeddings、无 legacy completions。需 macOS 26 Tahoe+ 与 Apple Intelligence 开启。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ apfel 通过 Apple FoundationModels 调用 Apple Silicon Mac 内置的大模型�
 
 ## 能力要点
 
-- 提供 OpenAI 兼容的本地服务器端点，OpenAI SDK 可直接接入
-- 支持 MCP 协议挂载本地与远程工具服务器
-- CLI/服务器/REPL 三种模式共享同一工具调用能力
-- 100% 设备端推理，无需 API key 与网络
+- OpenAI 兼容服务器，端点 http://localhost:11434/v1，支持流式与 /v1/responses
+- MCP 工具支持：本地脚本与远程服务器（Streamable HTTP，bearer token）
+- json_schema 约束输出经 FoundationModels DynamicGenerationSchema 保证合规
+- 全部端上运行，无 API key、无云、无下载
 
 ## 适用场景
 
-- 在 Apple Silicon Mac 上通过命令行管道处理文本生成任务
-- 为现有 OpenAI SDK 应用提供本地设备端推理后端
-- 通过 MCP 协议让设备端模型调用自定义工具
-- 编写包装 apfel 的 shell 脚本实现英文转命令等任务
+- 把 OpenAI SDK 指向本地端上模型做脚本与管道处理
+- 为现有 OpenAI 客户端提供无需云端的本地后端
+- 通过 --mcp 在命令行调用自定义工具完成计算/查询
+- 端上测试 prompt 与 MCP 服务器的 REPL
 
 ## 场景标签
 
- · 领域:LLM 推理运行时/开发者工具
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L14: Apple Silicon Macs ship a built-in LLM via Apple FoundationModels. `apfel` exposes it as a UNIX tool and a local Op
 > L19: |OpenAI-compatible server|`apfel --serve`|Drop-in local `http://localhost:11434/v1` backend for OpenAI SDKs|
-> L31: macOS 26 Tahoe+, Apple Silicon (M1+), Apple Intelligence enabled. On macOS 27, Macs with an M3 or newer chip and 12
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4c0e65d0ed1b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9c239f4d1060` · [字段定义](../../DATASET.md)*

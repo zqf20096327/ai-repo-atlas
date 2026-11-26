@@ -2,9 +2,9 @@
 
 ⭐ 823 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/AlphaAvatar/AlphaAvatar) · [官网](https://www.alphaavatar.ai) · 组织维护
 
-**可自托管的全模态实时个人助理框架**
+**可自托管的实时多模态个人 AI 助理框架**
 
-AlphaAvatar 是一个可自托管的全模态个人助理框架，采用插件式实时 Agent 架构，围绕记忆、人格、反思、规划、行为、工具（MCP/RAG/DeepResearch）与虚拟形象七个模块组织。运行时分层包括 RTC 适配器（当前提供 LiveKit 传输）、多模态感知、Agent 执行循环与存储层；支持文本、语音、摄像头与屏幕输入，含说话人与人脸识别、全双工打断。部分模块（Reflection/Planning/Behavior、Character 渲染）状态为 Planned/Pending，远程模型提供商仍需网络与凭据。
+AlphaAvatar 是一个可自托管的个人助理框架，围绕插件化实时 Agent 架构组织，包含 Memory、Persona、Reflection/Planning/Behavior（规划中）、Tools（MCP/RAG/DeepResearch）与虚拟角色等模块。运行时为分层多模态架构：实时文本/语音/摄像头/屏幕输入，经感知、Router、Loop 执行后输出语音与字幕；RTC 传输当前使用 LiveKit 适配器，其他后端未实现。提供 Linux 安装包（自带 Python）与交互式 Setup，使用 Python 3.13 工具链。
 
 ## 筛选速览
 
@@ -16,31 +16,31 @@ AlphaAvatar 是一个可自托管的全模态个人助理框架，采用插件�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 插件式实时 Agent 架构：Memory/Persona/RAG/MCP/Character 等三层插件生态
-- 实时多模态输入：文本、语音、摄像头、屏幕观察，支持全双工打断与轮次决策
-- 自托管、隐私优先，可运行于自有基础设施
-- MCP 工具检索基于 LanceDB 的语义搜索
+- 插件化实时 Agent 架构：Memory/Persona/RAG/MCP/DeepResearch 等插件
+- 实时多模态输入：文本、语音、摄像头与屏幕观察
+- 全双工打断与 utterance 级 turn taking
+- 可自托管，数据与运行时配置由用户掌控
 
 ## 适用场景
 
-- 构建可长期记忆用户偏好与历史的个人助理
-- 管理个人笔记与知识库并通过 RAG 检索
-- 任务提醒、长期目标拆解与多步工作流规划
-- 带语音与虚拟形象的实时交互助手
+- 自托管一个能记住长期上下文的个人助理
+- 管理个人笔记、知识库并通过 RAG 检索
+- 任务拆解、提醒与多步骤工作流规划
+- 通过语音与虚拟角色进行实时交互
 
 ## 场景标签
 
-`AI 助手` `语音 Agent` `Agent 记忆` `RAG` · 领域:Agent 开发
+`AI 助手` `语音 Agent` `知识库管理` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L35: AlphaAvatar is a **self-hostable Omni Personal Assistant framework** designed to evolve into an **intelligent perso
-> L44: - 🧰 **Tools** through MCP, RAG, DeepResearch, and external integrations
-> L57: - **🔌 RTC Adapter**: provides LiveKit transport while keeping the application boundary replaceable; other backends 
+> L37: It is built around a **plugin-based real-time Agent architecture**, combining:
+> L47: ✨ **Self-hostable and privacy-first** — AlphaAvatar can run on your own infrastructure, giving you control over run
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f86b67efc080` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c68926ffec5c` · [字段定义](../../DATASET.md)*

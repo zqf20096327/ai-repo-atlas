@@ -2,9 +2,9 @@
 
 ⭐ 1,107 · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/lobehub/awesome-rsi) · 组织维护
 
-**为 AI 研究者整理递归自我改进（RSI）方向的研究地图与论文清单**
+**递归自我改进（RSI）研究论文与系统的分类清单**
 
-该仓库是一份社区维护的 awesome 清单，围绕 Recursive Self-Improvement（RSI）收集并组织重要工作，范围包括模型级自我改进、上下文与记忆演化、harness 与 scaffold 演化、具身自我改进、多智能体系统、自动化 AI 研究以及基准与安全。内容以术语界定和证据分级（task gain / retained gain / improver gain）开篇，随后按分类罗列论文并附一句摘要与出处年份。清单声称为演化中的社区维护列表，接受论文、基准、框架与分类法改进的贡献。
+一份社区维护的 RSI（递归自我改进）研究图谱，收录模型级自我改进、记忆与上下文演化、harness/scaffold 演化、具身自我改进、多智能体、自动化 AI 研究、基准与安全等工作。清单先给出 Self-refinement、Persistent self-improvement、Recursive self-improvement 等术语的操作性定义和三级证据标准（task/retained/improver gain），再按分类组织条目，每条附论文出处与年份。欢迎提交补充与修改分类法。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 按模型级 RSI、合成数据与自蒸馏、自博弈与迭代微调等分类组织论文条目
-- 提供术语界定与三级证据分级（task/retained/improver gain）作为收录口径
-- 收录 1965 年至今的基础论文与近年综述，覆盖自我训练、自我奖励、自我进化智能体等方向
-- 声明为社区维护的演化列表，欢迎贡献论文、基准与分类建议
+- 按术语学定义区分 bounded self-improvement 与严格意义的 RSI
+- task/retained/improver 三级证据标准作为收录依据
+- 覆盖从 1965 年智能爆炸论述到近期自我训练、自我博弈、自我蒸馏等方法
+- 涵盖模型级、具身、自动化 AI 研究与安全等多个章节
 
 ## 适用场景
 
-- 快速了解递归自我改进方向有哪些代表论文与综述
-- 为自我进化智能体或自动化 AI 研究选题时查找相关文献线索
-- 按分类浏览模型自我训练、合成数据生成等具体技术路线的论文
+- 了解递归自我改进研究的代表性论文与脉络
+- 为自己的 agent 自我改进研究查找相关工作
+- 查考 RSI 相关的基准与安全文献
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: # Awesome RSI (Recursive Self-Improvement) Awesome
 > L9: Awesome RSI collects and organizes important work across these areas, including model-level self-improvement, contex
-> L49: Foundational papers, formal treatments, and surveys that establish the vocabulary and core questions of RSI.
+> L15: This is a community-maintained and evolving list. Contributions, missing papers, new benchmarks, frameworks, and su
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `509d3b786199` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a58cc27980a5` · [字段定义](../../DATASET.md)*

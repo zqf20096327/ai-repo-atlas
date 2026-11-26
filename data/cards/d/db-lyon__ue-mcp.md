@@ -1,10 +1,10 @@
 # db-lyon/ue-mcp
 
-⭐ 520 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/db-lyon/ue-mcp) · [官网](https://ue-mcp.com/) · 个人维护
+⭐ 520 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/db-lyon/ue-mcp) · [官网](https://ue-mcp.com/) · 组织维护
 
-**把 UE5 编辑器暴露为 MCP 工具，让 AI 客户端操作项目**
+**把 Unreal 编辑器暴露为 MCP 工具的 AI 开发工具包**
 
-面向 Unreal Engine 5 的 Model Context Protocol 服务器，通过 3729+ 动作（含 Epic 原生 2191 个工具）让接入的 AI 客户端在打开的项目中执行关卡搭建、Blueprint、材质、Niagara、地形、构建等编辑器操作。提供两种用法：Windows 专用桌面客户端 Studio（内置 agent，按回合 checkpoint、操作需批准），或在已有 AI 客户端中经 `npx ue-mcp init` 向导接入。需 Node.js 20+，编辑器运行时才能执行更改类操作，带写保护、资产保护与回滚机制。MIT 许可，模型费用由用户自有账户承担。
+开源的 Model Context Protocol 服务器，将 Unreal Engine 5 编辑器封装为 3758+ 个操作（含 Epic 原生 2191 个工具），供 Claude、Cursor、Codex 等 AI 客户端调用，用自然语言完成关卡、蓝图、材质、Niagara、地形、构建等编辑器任务。提供两种使用方式：Windows 专属的 Studio 桌面客户端（内置 agent、逐轮 checkpoint 回滚与审批提示），或通过 npx 向导接入已有 AI 客户端。支持写保护、流程回滚；无编辑器打开时仅部分只读操作可用。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- MCP 服务器暴露 3729+ 编辑器动作，覆盖 UE 5.4–5.9
-- 可选 Studio 桌面客户端，内置 agent 与逐回合 checkpoint/审批
-- 支持流程链式执行、失败回滚、多编辑器并行驱动与插件扩展
-- 写保护与受控资产保护机制
+- 3758+ 编辑器操作：覆盖蓝图、材质、Niagara、PCG、GAS、Sequencer、构建等
+- Studio 桌面客户端提供逐轮 checkpoint 与命令审批机制
+- 写保护与流程回滚，源控资产可保护
+- 支持同时驱动多个编辑器实例并可扩展插件
 
 ## 适用场景
 
-- 用自然语言让 AI 在 UE 项目里摆放关卡与材质
-- 在 Claude Code/Cursor 等 AI 客户端中操作 Unreal 编辑器
-- 让 AI 执行构建并汇报编译错误
-- 把常用编辑器步骤封装成可回滚的可复用流程
+- 用自然语言在打开的 UE 项目里搭建关卡与材质
+- 让 AI 客户端执行构建并汇总编译错误
+- 把重复编辑步骤链成可回滚的流程复用
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `AI 助手` `代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L13: UE-MCP is a free, open-source Model Context Protocol server for Unreal Engine 5. It connects AI assistants like Cla
 > L55: Model Context Protocol is an open standard that lets AI assistants call external tools. UE-MCP is the tool server t
-> L33: Already using Claude Code, Claude Desktop, Cursor or Codex? The server runs on Windows, macOS and Linux with UE 5.4
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `83a2bf31e31b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6fc87e5c8706` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 29,199 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/charmbracelet/crush) · 组织维护
 
-**终端里的 AI 编程代理客户端，可接入多种 LLM**
+**终端里的 agentic 编程客户端，接入任意 LLM 辅助写代码**
 
-Charm 出品的终端编程代理工具：用户在终端内以会话方式与所选 LLM 协作完成编码任务，支持多模型切换且保留上下文、按项目维护多个会话、借助 LSP 获取代码上下文、通过 MCP（http/stdio/sse）扩展能力并接收实时事件。配置采用 Bash 语法的 crushrc，可本地或全局配置；内置主题系统，支持 macOS、Linux、Windows、BSD 及 Android 等平台的各类终端运行。提供 Homebrew、winget、APT、NUR、Go install 等多种安装方式。
+Charm 出品的终端编程 Agent 工具：在终端中以多会话方式接入用户选择的 LLM，配合本地工具、代码与工作流完成编码任务。支持通过 OpenAI/Anthropic 兼容 API 配置多模型并会话中切换且保留上下文，利用 LSP 提供额外上下文，通过 MCP（stdio/http/sse）扩展能力并接收实时事件。安装覆盖 Homebrew、Winget/Scoop、Nix NUR、apt/yum 仓库、二进制包与 go install，支持 macOS/Linux/Windows/FreeBSD 等平台。配置采用 Bash 风格的 crushrc，旧 JSON 配置仍支持但已标记废弃。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@ Charm 出品的终端编程代理工具：用户在终端内以会话方式与�
 
 ## 能力要点
 
-- 多模型接入：支持 OpenAI/Anthropic 兼容 API 与自定义 provider，会话中可切换模型并保留上下文
-- 利用 LSP 提供额外代码上下文
-- 支持三种传输方式的 MCP 服务器及 OAuth 授权流程
-- Bash 语法配置（crushrc），跨平台一致，兼容 XDG 目录规范
+- 多模型接入：OpenAI- 或 Anthropic- 兼容 API，可自定义 Provider（含本地模型）
+- 会话中切换 LLM 且保留上下文，每项目支持多会话
+- LSP 增强上下文，MCP 三种传输方式扩展并支持 OAuth
+- Bash 风格 crushrc 配置，内置配色主题系统
 
 ## 适用场景
 
-- 在终端中用多个会话管理不同项目的编码任务
-- 通过自定义 provider 接入本地模型进行开发
-- 用 MCP 服务器接入 CI、webhook 等外部事件源
+- 在终端里让 LLM Agent 协助完成编码任务
+- 同一项目维护多个会话并随时切换模型
+- 通过 MCP 服务器接入 CI 事件、webhook 等外部信号
 
 ## 场景标签
 
@@ -46,7 +46,7 @@ Charm 出品的终端编程代理工具：用户在终端内以会话方式与�
 
 > L7:  Your new coding bestie, now available in your favourite terminal. Your tools, your code, and your workflows, wired 
 > L14: - **Multi-Model:** choose from a wide range of LLMs or add your own via OpenAI- or Anthropic-compatible APIs
-> L18: - **Extensible:** add capabilities via MCPs (`http`, `stdio`, and `sse`)
+> L334: Crush also supports Model Context Protocol (MCP) servers through three transport
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `c6053f4794b0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5cbbf15fb07c` · [字段定义](../../DATASET.md)*

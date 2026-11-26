@@ -2,9 +2,9 @@
 
 ⭐ 1,254 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/polterguy/magic) · [官网](https://hyperlambda.dev) · 个人维护
 
-**用自然语言生成全栈应用与 AI Agent 的开源低代码平台**
+**从自然语言生成全栈应用与 AI Agent 的低代码平台**
 
-基于 .NET 的开源低代码平台：用户用英文描述即可生成数据库、受保护 REST API、业务逻辑与前端，运行在自有硬件上。核心机制包括 API Wizard 读取数据库生成 CRUD 接口、Hyperlambda 沙箱执行与 RBAC 函数白名单、内置 MCP 服务器把端点暴露为工具、Chatbot Wizard 爬取网站生成嵌入式聊天机器人。通过 docker compose 一键启动，Dashboard 集成 IDE、SQL Studio、定时任务与插件商店。自带的 LLM 为专有组件，其余代码 MIT 许可。
+基于 .NET 与 Hyperlambda 的开源低代码平台：将英文描述转为数据库、安全 REST API、业务逻辑与前端，全部运行在用户自有硬件上。内置 Dashboard 提供 Hyper IDE、SQL Studio、API/端点生成器、Web Designer、Chat Ops 等模块；Hyperlambda 以 AST 形式生成代码并按函数白名单做沙箱执行，配合 RBAC 控制调用权限。安装 MCP 插件后，平台端点可作为工具暴露给 MCP 客户端，并支持将网站爬取内容转为嵌入式聊天机器人的训练数据。MIT 许可，Docker 一键启动。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- API Wizard 从数据库 schema 生成受 RBAC 保护的 CRUD REST API
-- 内置 MCP 服务器，将每个端点暴露为 Claude/Cursor/Codex 可调用工具
-- Hyperlambda AST 生成机制声称拒绝调用不存在的函数
-- Chatbot Wizard 爬取网站内容生成可嵌入聊天机器人
+- 从自然语言生成数据库、REST API、业务逻辑与前端
+- MCP 插件将端点转为 Claude/Cursor/Codex 等客户端可调用的工具
+- Hyperlambda AST 级生成与执行层函数白名单沙箱
+- 基于 Gemma 微调模型的代码生成器，自报 401 项测试通过 79.2%
 
 ## 适用场景
 
-- 为现有 MySQL/PostgreSQL 数据库快速生成 CRUD API
-- 构建查询自有数据库并遵守 RBAC 的 AI Agent
-- 从 OpenAPI/Swagger 规范生成第三方 API 包装端点
-- 自托管搭建 CRM、后台管理等内部业务应用
+- 为既有 MySQL/PostgreSQL/SQL Server 数据库快速生成 CRUD API
+- 构建可查询自有数据库、走自有 RBAC 的数据库驱动 AI Agent
+- 爬取网站内容生成可嵌入的自有内容聊天机器人
+- 粘贴 OpenAPI/Swagger 规范生成第三方 API 的包装端点
 
 ## 场景标签
 
@@ -39,7 +39,8 @@
 ## 证据(README 行号)
 
 > L3: Turn plain English into a working full-stack app — database, secure API, business logic, and frontend — running on *
-> L40: * **MCP tool servers** — expose your endpoints to Claude, Cursor, Codex, Qoder or any MCP client
+> L36: * **Database-driven AI agents** — agents that query and update *your* database and invoke *your* endpoints, behind 
+> L86: The sidebar is the whole platform: **Hyper IDE** for editing, running and *replaying* any file on the server, **Pla
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c06f3460773b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4d332ae4e9eb` · [字段定义](../../DATASET.md)*

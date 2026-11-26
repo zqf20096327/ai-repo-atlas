@@ -2,9 +2,9 @@
 
 ⭐ 914 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Cygnux-Labs/Tracekit) · [官网](https://cygnuxlabs.com/tracekit) · 组织维护
 
-**AI agent 工具调用的事前管控与可离线验证的签名审计记录**
+**为 AI agent 工具调用提供事前拦截与可离线验证签名审计记录**
 
-Tracekit 嵌入 agent 的 tool-call 路径：在每次调用执行前做 allow/deny/人工审批判定，并将调用、决策与结果签名写入 agent 无法触碰的 signer 所持有的哈希链日志，结构类似 Certificate Transparency。每次运行可导出为 .tkb 文件，验证器用 Python/TypeScript/Go 实现，可离线核验（含浏览器页面）。提供 tracekit.instrument() 三行接入、20+ 编码 agent 的 hooks 接线，Python 3.9–3.13，MIT 许可。
+Tracekit 嵌入 agent 的工具调用路径：每次调用执行前判定允许/拒绝/等待人工批准，批准与具体参数一次性绑定；调用、判定与结果由 agent 无法触及的 signer 进程签名写入 append-only 哈希链，每次运行导出为 .tkb 文件，任何人在浏览器中即可离线核验。参照 Certificate Transparency 机制，提供 Python/TypeScript/Go 验证器，兼容 42 个 agent 框架与编码代理（如 Claude Code、LangChain/LangGraph、OpenAI Agents SDK、MCP），覆盖 shell、SQL、HTTP、邮件、支付等策略包。Python 3.9–3.13，TypeScript 需 Node 18+。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Tracekit 嵌入 agent 的 tool-call 路径：在每次调用执行前做 allow/d
 
 ## 能力要点
 
-- 每次工具调用执行前的策略判定与人工审批（审批绑定精确参数且一次性）
-- 签名追加式日志 + 独立 witness 共签，防篡改可离线验证
-- tracekit audit 只读扫描本地 Claude Code 等编码 agent 会话
-- Python/TypeScript 双 SDK，MIT 许可，全部自托管运行
+- 每次工具调用执行前做 allow/deny/人工批准判定，批准绑定确切参数
+- 独立 signer 签名写入 append-only 哈希链，导出 .tkb 文件可离线核验
+- 宣称 8/8 篡改攻击检出、1073/1073 有害调用被拦截、每次调用开销约 0.91ms p99
+- 兼容 Claude Code、LangChain/LangGraph、OpenAI Agents SDK、MCP 等 42 个框架
 
 ## 适用场景
 
-- 把 agent 上生产前拦截危险调用（删库、curl|sh、读凭证、force-push）
-- 向企业客户提交每次 agent 运行的可自行验证的运行记录
-- 安全团队为 agent 推行建立统一管控点与事件取证
-- 审计人员按 EU AI Act / ISO 42001 映射核验 AI 运行记录
+- 编码代理上生产前审查它实际改了什么、是否尝试过危险命令
+- 向企业客户交付每次运行的核验文件以通过安全审查
+- 安全团队建立统一控制点并保留事后审计证据
+- 审计/GRC 人员离线自行核验 AI 运行记录并映射合规框架
 
 ## 场景标签
 
-`LLM 可观测性` `网络安全` · 领域:评测与运维
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L5: **Tracekit checks each tool call your agent makes before it runs, and risky calls wait for a person to approve them.
 > L36: Tracekit sits in the tool-call path, the way a flight recorder sits in a plane:
+> L135:  Works with Claude Code, Codex CLI, Cursor and Gemini CLI; the Python and TypeScript SDKs; the OpenAI Agents SDK, 
 > L130: `tracekit.instrument()` starts a dev signer (or reuses the running one) and gates and records every tool and model
 
 ## 星数曲线
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `38102c602fcb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `f5c3e4c16003` · [字段定义](../../DATASET.md)*

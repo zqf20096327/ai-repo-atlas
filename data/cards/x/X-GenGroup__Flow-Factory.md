@@ -2,9 +2,9 @@
 
 ⭐ 759 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/X-GenGroup/Flow-Factory) · 组织维护
 
-**给研究/训练者的扩散与流匹配模型统一微调框架**
+**扩散/流匹配模型统一微调与在线 RL 训练框架**
 
-以统一配置接口组织扩散/流匹配模型的离线微调与在线强化学习训练：先选模型与目标，再选兼容的算法与 GPU 布局。注册 19 个模型适配器（SD3.5、FLUX、Qwen Image、Wan、LTX-2、Bagel 等）与 18 种训练器（SFT、DPO、GRPO、ReFL、DRaFT-K 等），支持全权重或 LoRA、DDP/DeepSpeed/FSDP2 后端及 TP/SP/CP 并行组合。通过 git clone 源码安装，要求 Python 3.11+ 与 PyTorch 2.11+，模型覆盖边界在文档中单独说明，EP/DeepEP 属于规划功能。
+面向扩散与流匹配模型的统一微调框架，通过配置接口训练图像、图像编辑、视频及音视频联合模型。注册 19 个模型适配器与 18 个训练器（SFT、DPO、GRPO、ReFL、DRaFT-K、蒸馏等），支持全量权重与 LoRA，训练后端覆盖 DDP、DeepSpeed ZeRO-2 与 FSDP2，适配器声明 TP/SP/CP 并行路径；支持异步奖励、EMA 状态、断点续训与 wandb/swanlab/tensorboard 实验记录。需 Python 3.11+ 与 PyTorch 2.11+，提供 CUDA Docker 训练镜像。
 
 ## 筛选速览
 
@@ -16,21 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 18 个注册训练器与 19 个模型适配器，覆盖图像、编辑、视频与音视频联合模态
-- 训练后端支持 DDP、DeepSpeed ZeRO-2 与 FSDP2，含 TP/SP/CP 并行布局
-- ff-prompt-enhance 独立步骤：训练前用模型提示增强器重写数据集提示词
-- 内置 wandb/swanlab/tensorboard 实验跟踪，在线可视化训练样本与指标曲线
+- 18 个注册训练器覆盖 SFT、DPO、GRPO、ReFL、DRaFT-K、蒸馏
+- 19 个模型适配器声明 TP/SP/CP 并行路径，后端支持 FSDP2/DeepSpeed ZeRO-2
+- 统一配置接口选择模型、目标、训练方法与 GPU 布局
+- 提供 ff-train 与 ff-prompt-enhance 命令行工具及 CUDA Docker 镜像
 
 ## 适用场景
 
-- 用 GRPO + LoRA 配方微调 FLUX/Qwen-Image 等文生图模型
-- 对 Wan/LTX-2 视频与音视频模型做奖励驱动的在线 RL 训练
-- 在 4/8 卡 GPU 上按 FSDP2×TP×CP 布局做并行训练
-- 用 SFT 与离线 DPO 在自备演示/偏好数据上做离线微调
+- 对 FLUX/Qwen-Image/Wan 等模型运行 GRPO + LoRA 在线强化学习微调
+- 用 SFT 或离线 DPO 在自备演示/偏好数据集上训练
+- 4/8 GPU 环境按 FSDP2×TP×CP 布局做并行训练
 
 ## 场景标签
 
@@ -40,7 +39,7 @@
 
 > L5:  Unified Online RL and Offline Fine-Tuning for Diffusion and Flow-Matching Models
 > L16: |Algorithm|18 registered trainers, including SFT, DPO, GRPO/Guard, DiffusionART, ReFL, DRaFT-K and DRTune|Algorithm
-> L160: Models and algorithms are decoupled at the framework interface. Ready-to-run recipes are indexed in
+> L187: ```bash
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `3deb655fca6a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `faad745d0888` · [字段定义](../../DATASET.md)*

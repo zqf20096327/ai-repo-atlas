@@ -2,9 +2,9 @@
 
 ⭐ 923 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/awizemann/scarf) · [官网](https://awizemann.github.io/scarf/) · 个人维护 · 中文 README
 
-**Hermes AI agent 的原生 macOS/iOS 图形客户端**
+**给 Hermes AI agent 用的原生 macOS/iOS 管理客户端**
 
-Scarf 是为 Hermes 终端 agent 提供的原生 Swift/SwiftUI 图形界面，覆盖 macOS 与 iOS（ScarfGo）。功能包括会话浏览与全文本搜索、成本与 token 仪表盘、通过 ACP 的富流式聊天或真实终端、memory/skills/cron/MCP 服务器管理、消息平台配置等。支持本地 ~/.hermes/ 及通过 SSH 连接多个远程主机，无中间伴随服务；按所连主机的 Hermes 版本做能力门控（v0.6–v0.21 均可使用）。README 提供 Mac 下载与 App Store 渠道，源码需 Xcode 16+ 构建。
+Scarf 是 Hermes 终端代理的原生 Swift/SwiftUI 客户端，提供会话查看、富流式聊天（ACP）或内置终端、内存/技能编辑、cron 与 MCP 服务器管理、用量与成本仪表盘；通过本地 ~/.hermes/ 或 SSH 连接任意多台远程主机，无中间服务，状态只读、管理操作经 hermes CLI 写入，并按主机 Hermes 版本做能力门控。iOS 端 ScarfGo 提供手机访问、设备端语音转写与端上生成的 SSH 密钥。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@ Scarf 是为 Hermes 终端 agent 提供的原生 Swift/SwiftUI 图形界面，�
 
 ## 能力要点
 
-- 多窗口多服务器：本地与 SSH 远程主机统一管理，无中间服务
-- 会话、工具调用、token 与成本的仪表盘、搜索与导出
-- ACP 富流式聊天 + SwiftTerm 真实终端两种交互模式
-- 按主机 Hermes 版本做 UI 能力门控，兼容 v0.6–v0.21
+- 多窗口多服务器：本地与 SSH 远程主机一视同仁，SQLite 经原子快照读取
+- Hermes 版本检测与能力门控 UI（v0.6–v0.23）
+- 全量管理面：memory/skills/cron/MCP/网关/webhooks/config.yaml 编辑器
+- ScarfGo 端上语音转写，Ed25519 密钥生成并存储于 iOS Keychain
 
 ## 适用场景
 
-- 在 Mac GUI 中查看和管理运行在远程服务器上的 Hermes agent
-- 通过 iPhone (ScarfGo) 随时查看会话、编辑 memory、管理 cron
-- 用仪表盘追踪 agent 的 token 消耗与费用明细
+- 在图形界面查看和管理 Hermes agent 的会话、技能与定时任务
+- 从 iPhone 经 SSH 访问自己服务器上的 Hermes
+- 跟踪 agent 的 token 用量与按模型成本分解
 
 ## 场景标签
 
- · 领域:AI agent 工具/客户端
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L5:  The native Mac &amp; iOS app for your Hermes AI agent.
-> L28: Hermes is a terminal-and-messaging agent — powerful, but invisible. Scarf gives it a face:
 > L31: - **Full control.** Chat with rich streaming (ACP) or a real terminal, edit memory and skills, manage cron, gateway
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `68c72169eca6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f52368a9705f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 3,037 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/deepnote/deepnote) · [官网](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) · 组织维护
 
-**Jupyter 的替代性数据笔记本：AI 时代的数据分析环境**
+**面向数据专业人员的 AI 时代开源数据笔记本，替代 Jupyter**
 
-Deepnote 定位为 Jupyter 的 drop-in 替代品，使用向后兼容的 Deepnote 内核，新增 AI agent、新块类型（SQL/输入/图表等）与原生数据集成。本仓库收录支撑其笔记本与运行时的可复用组件：@deepnote/blocks 块类型定义与 Python 代码生成、@deepnote/convert 在 .deepnote 与 ipynb/Quarto/Marimo 等格式间双向转换的 CLI 与 API，以及 .deepnote YAML 文件格式规范。本地经 VS Code/Cursor/Windsurf 扩展运行，团队协作与云端算力需升级至 Deepnote Cloud。
+Deepnote 开源版提供 .deepnote 笔记本格式（YAML 代替 .ipynb JSON）、块式架构（SQL/输入/图表等块）、响应式执行（输入变化自动重跑依赖块），基于 Jupyter 内核保持兼容。提供 VS Code/Cursor/Windsurf 扩展、@deepnote/convert 双向转换 CLI（支持 Quarto/Percent/Marimo/Colab/SageMaker/Kaggle/Azure ML 导入导出）以及供 Claude Code、Codex、Gemini CLI 等 agent 使用的 CLI 技能。本地免费使用；团队协作、云端算力与 AI agent 需 Deepnote Cloud。教育用户可免费使用云版。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Deepnote 定位为 Jupyter 的 drop-in 替代品，使用向后兼容的 Deepnot
 
 ## 能力要点
 
-- .deepnote YAML 人类可读格式替代 .ipynb 的 JSON，diff 友好
-- 块式架构：SQL、输入、可视化等块类型，经 @deepnote/blocks 定义校验
+- .deepnote YAML 格式：人类可读、便于版本控制，快照分离输出与代码并用 contentHash 记录代码溯源
+- 块式架构：代码/SQL/输入/图表等块，通过开源 @deepnote/blocks 包定义
 - 响应式执行：输入或数据变化时自动重跑依赖块
-- @deepnote/convert 支持 ipynb/Quarto/Percent/Marimo 双向转换，保留平台元数据
+- @deepnote/convert 支持与 Jupyter/Quarto/Marimo 等格式双向转换并保留元数据
 
 ## 适用场景
 
-- 把现有 Jupyter 笔记本转换为 .deepnote 格式并在 VS Code 中编辑运行
-- 用 SQL/输入/图表等多种块组织数据分析项目
-- 在版本控制中维护结构清晰、diff 干净的笔记本
+- 在 VS Code/Cursor/Windsurf 中本地编写与运行数据笔记本
+- 让 AI 编码 agent 直接读写 .deepnote 文件并 lint/run
+- 从 Colab/SageMaker/Kaggle 导入 .ipynb 并无损回导
+- 教学与科研中协作编写数据笔记本（云版教育免费）
 
 ## 场景标签
 
@@ -38,7 +39,7 @@ Deepnote 定位为 Jupyter 的 drop-in 替代品，使用向后兼容的 Deepnot
 ## 证据(README 行号)
 
 > L22: Deepnote is a drop-in replacement for Jupyter. It uses the Deepnote kernel, which is more powerful but still backwa
-> L50: |**AI features**|Native AI agent and AI code completion|Third-party extensions|
+> L43: Claude Code, Codex, Cursor, Gemini CLI and other coding agents can work on `.deepnote` files directly in your repos
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `78e2bf958cf7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e3a94b0c4098` · [字段定义](../../DATASET.md)*

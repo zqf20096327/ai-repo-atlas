@@ -2,9 +2,9 @@
 
 ⭐ 2,106 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/AtomicBot-ai/Atomic-Chat) · [官网](https://atomic.chat) · 组织维护
 
-**本地运行开源 LLM 的桌面应用与推理引擎，面向 agent 使用**
+**本地运行开源大模型的桌面应用与推理引擎**
 
-桌面端本地 AI 应用，内置推理引擎层：支持从 HuggingFace 加载 GGUF 等格式的开源权重模型（Llama、Gemma、Qwen、Mistral、Phi 等），并提供本地 OpenAI 兼容 API 服务器（localhost:1337/v1）。底层统一管理十二种推理引擎（多套 llama.cpp 构建、MLX、TensorRT-LLM、vLLM、SGLang 等），可切换后端而客户端无需改动；同时可配置 OpenAI、Anthropic 等云端 provider 混合使用。提供 macOS/Windows/Linux 桌面安装包与 iOS/Android 移动端，也可从源码构建。
+基于 Tauri 的本地 AI 应用与推理引擎：在 macOS/Windows/Linux/iOS/Android 上本地运行开放权重模型（GGUF、MLX 等），内置多个推理引擎（llama.cpp 系列、MLX-VLM、TensorRT-LLM、vLLM、SGLang 等）并在设置中按硬件安装；核心组件 atomic-chat-core 管理后端下载、模型与请求路由，并在 localhost:1337 提供 OpenAI 兼容 API，可接入各类 agent 与 IDE 插件；同时支持配置云服务商 API key。桌面端提供安装包，源码构建需 Node.js/Yarn/Rust。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 本地 OpenAI 兼容服务器（127.0.0.1:1337/v1），任何 OpenAI SDK 客户端可直接接入
-- 统一管理 12 种推理引擎：llama.cpp 多构建、MLX-VLM、TensorRT-LLM、vLLM、SGLang、stable-diffusion.cpp 等
-- 支持 MTP、DFlash、EAGLE-3 投机解码与 TurboQuant KV cache 等加速特性
-- 内置 provider：OpenAI、Anthropic、Mistral、Groq、MiniMax、Qwen、Moonshot，可本地/云端混用
+- OpenAI 兼容本地服务器（localhost:1337/v1），任意 agent/CLI/IDE 插件可直接接入
+- 多推理引擎管理：llama.cpp 系列、MLX-VLM、Foundry Local、GenieX、TensorRT-LLM、vLLM、SGLang 等
+- 本地运行文本、视觉、图像、视频与音频模型（stable-diffusion.cpp、audio.cpp）
+- 内置云服务商接入（OpenAI/Anthropic/Mistral/Groq 等），本地与云可混用
 
 ## 适用场景
 
-- 在本机离线运行开源 LLM，数据不出机器
-- 把本地模型作为 OpenAI API 后端，供 agent、CLI 与 IDE 插件调用
-- 通过 Integrations 一键启动 Claude Code、OpenCode、Cline 等编码 agent
-- 本地生成图像与视频（FLUX、Wan 2.2 等）
+- 在本地离线运行开放权重模型进行对话与生成
+- 为本地 agent 与编码工具提供 OpenAI 兼容推理后端
+- 按硬件（Apple Silicon/NPU/GPU）选择合适引擎运行模型
+- 通过本地 API 做语音合成与图像/视频生成
 
 ## 场景标签
 
-`编码 Agent` `图像生成` `视频生成` `聊天机器人` · 领域:编码与开发
+`推理引擎` `图像生成` `视频生成` `语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L5: Local AI app and inference engine for agents. Run open-weight LLMs locally — private, on your machine.
-> L39: Atomic Chat runs an **OpenAI-compatible server at `http://localhost:1337/v1`** — a drop-in replacement for the Open
-> L137: The engines are driven by **atomic-chat-core** — the core of Atomic Chat, in its own repository. It doesn't do inf
+> L100: Atomic Chat runs text, vision, image, video and audio models locally. Open **Settings → Providers** to install a p
+> L140: The engines are driven by **atomic-chat-core** — the core of Atomic Chat, in its own repository. It doesn't do inf
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4409bf46d382` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `95c1ad94080e` · [字段定义](../../DATASET.md)*

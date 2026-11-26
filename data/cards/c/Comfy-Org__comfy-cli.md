@@ -2,9 +2,9 @@
 
 ⭐ 1,066 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Comfy-Org/comfy-cli) · [官网](https://docs.comfy.org/comfy-cli/getting-started) · 组织维护
 
-**给 ComfyUI 用户的命令行工具：安装、运行、管理节点与工作流**
+**安装、运行和扩展 ComfyUI 的命令行工具**
 
-comfy-cli 是面向 ComfyUI 的命令行工具，覆盖从安装到运行的完整流程：一条命令安装并启动 ComfyUI 与 ComfyUI-Manager，管理自定义节点（安装、更新、快照、二分定位），从 CivitAI、Hugging Face 与直链下载模型，对本地服务器运行工作流并自动转换 UI 格式 JSON。支持路由到 Comfy Cloud（`--where cloud`，消费订阅 credits），通过 `comfy generate` 直接调用伙伴图像/视频节点。每条命令输出结构化 `--json`，附带技能文件供 Claude/Cursor 驱动。跨平台支持 Windows/macOS/Linux，需 Python 3.10+。
+comfy-cli 提供 ComfyUI 的终端工作流：一条命令完成 ComfyUI 与 ComfyUI-Manager 的安装与启动，管理自定义节点（安装/更新/快照/二分定位）、从 CivitAI 与 Hugging Face 下载模型、对本地服务器运行工作流，或经 --where cloud 路由到 Comfy Cloud（消耗订阅 credits）。支持 pip/pipx/uv tool 安装，Python 3.10+，跨 Windows/macOS/Linux。命令输出结构化 --json 信封，附带供 Claude/Cursor 驱动 comfy 的技能包。
 
 ## 筛选速览
 
@@ -21,26 +21,26 @@ comfy-cli 是面向 ComfyUI 的命令行工具，覆盖从安装到运行的完�
 ## 能力要点
 
 - 一条命令安装并启动 ComfyUI 与 ComfyUI-Manager
+- comfy generate 直接调用合作方图像/视频节点（Flux、Ideogram、DALL·E 等）
 - 自定义节点管理：安装、更新、快照、bisect
-- 运行工作流并自动转换 UI 格式 JSON，支持路由到 Comfy Cloud
-- 每条命令输出结构化 --json，附带供 Claude/Cursor 使用的技能
+- 每个命令输出结构化 --json 信封，附带 Claude/Cursor 可用的技能
 
 ## 适用场景
 
-- 用命令行方式安装、启动和管理本地 ComfyUI 工作区
-- 批量安装与回滚自定义节点（快照/版本切换）
-- 无本地 GPU 时把工作流提交到 Comfy Cloud 执行
-- 在脚本/CI 中以 JSON 输出驱动 ComfyUI 操作
+- 在终端一站式安装、更新、启动 ComfyUI
+- 批量管理 ComfyUI 自定义节点与模型下载
+- 无本地 GPU 时将工作流提交到 Comfy Cloud 运行
+- 编写脚本或让编程 Agent 驱动 ComfyUI 操作
 
 ## 场景标签
 
-`图像生成` · 领域:内容生成
+ · 领域:开发工具/生成媒体工作流
 
 ## 证据(README 行号)
 
 > L10: comfy-cli is a command-line tool for installing, running, and extending
-> L12: generative-media engine. Set up ComfyUI, install custom nodes and models, run
-> L30: - 🤖 Agent-friendly: every command emits structured `--json` envelopes
+> L22: - 🎨 Direct calls to partner image and video nodes (Flux, Ideogram, DALL·E, Recraft, Reve, Gemini/nano-banana, Kling
+> L29: - ☁️ Route any workflow to **Comfy Cloud** with `--where cloud` (no GPU required)
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `71b966741f14` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a5c2f728acc2` · [字段定义](../../DATASET.md)*

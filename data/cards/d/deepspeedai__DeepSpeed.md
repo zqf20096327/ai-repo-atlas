@@ -1,10 +1,10 @@
 # deepspeedai/DeepSpeed
 
-⭐ 43,361 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护
+⭐ 43,361 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
 
-**面向开发者的分布式训练与推理优化库**
+**给开发者的大模型分布式训练与推理优化库**
 
-DeepSpeed 是微软主导的深度学习优化库，通过 ZeRO、ZeRO-Infinity、3D 并行、Ulysses 序列并行、DeepSpeed-MoE 等系统创新支持大规模模型训练与推理。README 列出其曾参与训练 MT-530B、BLOOM、GLM 等大型模型，并与 Transformers、Accelerate、Lightning、MosaicML、Determined、MMEngine 等框架集成。支持 pip 安装，C++/CUDA 扩展默认以 JIT 方式编译，Windows 需手动构建 wheel。
+面向 PyTorch 的深度学习优化库，提供 ZeRO、ZeRO-Infinity、3D 并行、Ulysses 序列并行、DeepSpeed-MoE 等系统创新，用于简化大规模分布式训练与推理。已被用于训练 MT-530B、BLOOM、GLM 等大模型，并与 Transformers、Accelerate、Lightning、MosaicML 等框架集成。含 C++/CUDA 扩展（ops），默认以 JIT 方式依赖 ninja 在运行时编译链接，Windows 部分功能（AIO/GDS）不支持。维护方为 DeepSpeed 团队，源自微软 AI at Scale 计划。
 
 ## 筛选速览
 
@@ -26,26 +26,26 @@ DeepSpeed 是微软主导的深度学习优化库，通过 ZeRO、ZeRO-Infinity�
 
 ## 能力要点
 
-- ZeRO/ZeRO-Infinity 与 3D 并行等大规模训练机制
-- 与 Transformers、Accelerate、Lightning 等 6 个框架集成
-- 支持 NVIDIA/AMD GPU 及 Ascend、Gaudi、XPU 等多种加速器
-- ds_report 命令可验证安装与扩展兼容性
+- ZeRO/ZeRO-Infinity/3D 并行等分布式训练机制
+- 支持训练与推理两类场景及压缩
+- 与 Transformers/Accelerate/Lightning 等框架集成
+- 多硬件后端：NVIDIA、AMD、CPU、Intel Gaudi/XPU、Apple MPS、华为昇腾
 
 ## 适用场景
 
-- 训练百亿到万亿参数规模的大模型
-- 为已有 PyTorch 训练脚本增加分布式与显存优化
-- 在多种国产或非 NVIDIA 加速器上运行分布式训练
+- 训练千亿参数规模的大语言模型
+- 为已有 PyTorch 训练代码添加分布式与显存优化
+- 在多种 GPU/NPU 加速器上部署推理
 
 ## 场景标签
 
-`模型训练` `推理引擎` · 领域:训练与推理
+`模型训练` `推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L54: ***DeepSpeed enabled the world's most powerful language models (at the time of this writing) such as MT-530B and BL
-> L76: DeepSpeed has been integrated with several different popular open-source DL frameworks such as:
-> L103: The quickest way to get started with DeepSpeed is via pip, this will install
+> L56: # Extreme Speed and Scale for DL Training
+> L80: DeepSpeed has been integrated with several different popular open-source DL frameworks such as:
+> L105: # Installation
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ae35e440a86b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d56a656e8abd` · [字段定义](../../DATASET.md)*

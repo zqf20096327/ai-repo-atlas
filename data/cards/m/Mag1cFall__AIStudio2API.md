@@ -2,9 +2,9 @@
 
 ⭐ 1,203 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Mag1cFall/AIStudio2API) · 个人维护 · 中文 README
 
-**把 Google AI Studio 网页反代成 OpenAI/Anthropic/Gemini 兼容 API 的代理服务**
+**把 Google AI Studio 网页转为 OpenAI/Anthropic/Gemini 兼容 API 的代理服务**
 
-基于 Go 的代理服务，将 Google AI Studio（Playground 与 Build 通道）的网页协议转换为 OpenAI Chat Completions、OpenAI Responses、Anthropic Messages 与 Gemini 四套兼容接口，供 Claude Code、Codex 等客户端接入。支持多账户并发与权益识别、SpiderMonkey/Camoufox 两种 WAA 后端、网页管理界面（账户、用量、日志、配置）、桌面版与在线更新。提供 Releases 安装包、Docker 镜像与源码构建三种途径；Build 旧通道上游默认停用，需通过环境变量启用。
+基于 Go 的代理服务，将 Google AI Studio 网页协议转换为 OpenAI Chat Completions、OpenAI Responses、Anthropic Messages 与 Gemini 四套兼容接口，供 Claude Code、Codex 等 Agent 客户端与酒馆前端接入。多账户轮询并发，识别 Free/Pro/Ultra/Plus 权益；WAA proof 默认由进程内 SpiderMonkey 生成，可切换 Camoufox 后端。提供网页管理界面管理账户、用量与日志，支持 Windows/macOS/Linux 桌面版与 Docker。需 Google 账户认证，Build 生成通道因上游停用默认关闭。
 
 ## 筛选速览
 
@@ -21,15 +21,15 @@
 ## 能力要点
 
 - 四套 API 协议：OpenAI Chat/Responses、Anthropic Messages、Gemini GenerateContent
-- 多账户高并发，按实时模型目录轮询，识别 Free/Pro/Ultra/Plus 权益
-- SpiderMonkey 与 Camoufox 双 WAA 后端，默认不启动浏览器
-- 网页管理界面与 Windows/macOS/Linux 桌面版，支持在线更新
+- 多账户高并发，实时发现模型并按 model 字段路由
+- SpiderMonkey 与 Camoufox 双 WAA 后端，运行时不默认启动浏览器
+- 支持图片/视频/TTS 生成、Google 工具、WebSocket Live 与函数调用
 
 ## 适用场景
 
-- 把 AI Studio 账户接入 Claude Code、Codex 等 Agent 客户端
-- 给 Cherry Studio 等前端配置本地 OpenAI 兼容 Base URL
-- 用 Nano Banana、TTS、视频生成等接口做文生图与语音应用
+- 让 Claude Code、Codex 等客户端走 AI Studio 的 Gemini 模型
+- 把 AI Studio 模型接入 Cherry Studio 等前端使用
+- 多 Google 账户聚合池化并统计用量与费用
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L7:  一个基于 Go 的高性能代理服务
 > L8:  将 Google AI Studio 网页协议转换为 OpenAI、Responses、Anthropic 和 Gemini 兼容 API
+> L31: 三个项目分别接入 AI Studio、Gemini 网页版与 Antigravity，把各自的模型转为 OpenAI、Anthropic 与 Gemini 兼容接口，供 Claude Code、Codex 等 Agent 客户端和
 > L51: - **四套 API 协议**: OpenAI Chat Completions、OpenAI Responses、Anthropic Messages 与 Gemini GenerateContent；Responses 支持 
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `13ee374ea7c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e38257999e6a` · [字段定义](../../DATASET.md)*

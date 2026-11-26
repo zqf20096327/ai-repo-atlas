@@ -2,9 +2,9 @@
 
 ⭐ 42,772 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/volcengine/OpenViking) · [官网](https://openviking.ai) · 组织维护 · 中文 README
 
-**AI Agent 的上下文数据库：统一记忆、知识 RAG 与技能**
+**为 AI Agent 提供统一知识、记忆与技能的上下文数据库**
 
-以虚拟文件系统 `viking://` 形式组织 Agent 的知识、记忆与技能，Agent 通过 ls/read/write/grep 等文件操作导航上下文，目录携带 L0 摘要/L1 概览/L2 全文三级加载层，支持按子树范围的语义检索与会话归档提取记忆。以服务端形式运行（uv 安装、Docker 镜像、macOS/Windows 桌面应用），提供 Python/Go/TypeScript SDK 与 HTTP API，通过插件安装器接入 Claude Code、Codex、Cursor 等编码 Agent。开源自部署版采用 AGPLv3，另有托管 SaaS 与 BYOC 商业版。
+以虚拟文件系统（viking:// URI）形式组织 Agent 上下文的开源数据库：知识、记忆与技能统一存放在目录结构中，Agent 通过 ls/read/write/grep 等文件操作浏览，目录携带 L0/L1 生成的摘要以支持先读摘要再读全文的分层加载，语义检索可限定在子树范围。会话提交后可将对话归档并抽取为可编辑的 Markdown 记忆。面向构建与使用 AI Agent 的开发者，提供 Python/Go/TypeScript SDK、HTTP API、CLI、桌面应用及 Docker 部署；自托管版采用 AGPLv3，另有托管 SaaS 与商业版。
 
 ## 筛选速览
 
@@ -26,27 +26,26 @@
 
 ## 能力要点
 
-- viking:// 虚拟文件系统组织知识/记忆/技能，可浏览可编辑
-- L0 摘要/L1 概览/L2 全文三级上下文加载层
-- 按目录子树作用域的语义检索（find/search）
-- 记忆插件安装器覆盖 Claude Code、Codex、Cursor、TRAE 等工具
+- 以 viking:// 虚拟文件系统统一知识、记忆与技能，可检查和编辑
+- L0 摘要/L1 概览/L2 全文三层加载与目录范围语义检索
+- 提供 Claude Code、Codex、Cursor 等记忆插件安装器及 MCP/插件集成
+- 在 LoCoMo 与 tau2-bench 上发布基准结果并附复现脚本
 
 ## 适用场景
 
-- 为编码 Agent 提供跨会话的长期记忆
-- 将项目文档、代码仓库导入为可检索的知识库
-- 把会话归档并提取为可检查、可合并的记忆文件
-- 自托管或托管方式为多 Agent 系统提供统一上下文存储
+- 给编码 Agent 加跨会话记忆，在新会话中回顾用户偏好
+- 将项目文档、网页导入后供 Agent 按目录范围检索
+- 自托管运行一个带账号隔离与 ACL 的上下文数据库
 
 ## 场景标签
 
-`Agent 记忆` `RAG` · 领域:Agent 开发
+`Agent 记忆` `向量数据库` `语义搜索` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L31: OpenViking is an open-source context database for AI agents — one filesystem for everything an agent knows: knowled
-> L129: Build your own integration with the Python, Go, or TypeScript SDK, or the HTTP API.
-> L133: Connect your coding agent to OpenViking for cross-session memory. The memory plugin installer covers Claude Code, 
+> L133: Build your own integration with the Python, Go, or TypeScript SDK, or the HTTP API.
+> L137: Connect your coding agent to OpenViking for cross-session memory. The memory plugin installer covers Claude Code, 
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `06fb85c10bbe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1bf4a534122c` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 511 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/EpicStaff/EpicStaff) · [官网](https://www.epicstaff.com/) · 组织维护
 
-**给运营团队自托管构建 AI Agent 流程的可视化编排平台**
+**给运营团队构建 AI agent 流程的自托管可视化编排平台**
 
-Source-available 的自托管平台，用于构建 AI agent 流程：拖拽式可视化编辑器运行在 Django 后端之上，节点可注入自定义 Python 逻辑，通过 MCP 和 Python 连接内部系统。内置基于 Redis/PostgreSQL 的跨流程持久化 agent 记忆与用户/组织变量状态管理。平台提供 session ledger、沙箱执行、按 agent 的权限控制与审计追踪，使运营团队能查看、编辑和复核 agent 决策。安装方式为 git clone 加 docker compose 从源码构建。
+基于 Django 后端的自托管、source-available 平台，通过可视化拖拽编辑器设计 AI agent 流程，并可在节点中注入自定义 Python 逻辑。内置 Redis/PostgreSQL 持久化 agent 记忆、状态管理、会话审计与沙箱执行，通过 MCP 接入内部系统。定位为让运营团队拥有并审查流程、工程师负责系统集成；运行需 Docker Desktop 与 Git，快速部署命令按 Windows/macOS/Linux 分别给出，并提供生产配置生成脚本。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ Source-available 的自托管平台，用于构建 AI agent 流程：拖拽式�
 
 ## 能力要点
 
-- 拖拽式可视化编辑器，节点内可注入自定义 Python 逻辑
-- 基于 Redis/PostgreSQL 的跨会话持久化 agent 记忆
-- 通过 MCP 与 Python 连接内部系统
-- 发布镜像经 Sigstore cosign 无钥签名并附带 SPDX SBOM
+- 拖拽式可视化流程编辑器，节点内可注入自定义 Python 逻辑
+- 内置 Redis/PostgreSQL 跨会话持久化 agent 记忆
+- 会话账本、沙箱执行与每 agent 权限等治理机制
+- 发布镜像经 Sigstore cosign 签名并附带 SBOM 可验证
 
 ## 适用场景
 
-- 让运营团队无需工程介入即可查看和修改 agent 流程
-- 自托管部署中为 agent 执行提供权限控制与审计追踪
-- 以低代码方式构建多 agent 编排流程
+- 让运营团队无需工程介入即可查看与修改 agent 流程
+- 自托管部署并审计 agent 每一步决策
+- 通过 MCP 与 Python 将 agent 流程接入内部系统
 
 ## 场景标签
 
-`多智能体` `工作流自动化` · 领域:Agent 开发
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `c3ceb7a59187` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `bff3769190f5` · [字段定义](../../DATASET.md)*

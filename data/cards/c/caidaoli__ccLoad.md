@@ -2,9 +2,9 @@
 
 ⭐ 448 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/caidaoli/ccLoad) · [官网](https://ccload.xyz) · 个人维护 · 中文 README
 
-**自托管 AI API 网关：聚合 API key 与订阅账号，统一端点供给编码 agent**
+**自托管 AI API 网关：聚合密钥与订阅账号供编码客户端共用**
 
-用 Go 编写的自托管网关：将官方 API key、第三方中转、ChatGPT/Claude 等订阅账号统一为 Channel，客户端只需 ccLoad 地址和 token 即可访问，客户端不接触真实上游密钥。核心机制包括按模型名路由、健康排序与平滑加权轮询、首字节前的故障转移与指数退避冷却、Anthropic/OpenAI/Codex/Gemini 协议互转，以及按缓存读写、长上下文分档计价的成本统计与限额。单二进制内嵌 SQLite，运行需设置管理员密码 CCLOAD_PASS，默认监听 8080 端口。
+自托管的 AI API 网关，将官方 API key、中转服务与 ChatGPT/Claude 等订阅账号统一为「渠道」，客户端只需配置 ccLoad 地址与 token 即可接入；提供故障转移、协议转换（Anthropic Messages/OpenAI Chat/Codex Responses/Gemini 互转）、按模型名路由、指数退避冷却、请求日志与成本统计/限额。以单个 Go 二进制 + 内嵌 SQLite 运行，内置管理控制台，支持 Docker/Homebrew/二进制/Hugging Face Spaces 部署。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- API key 与 Codex/ChatGPT、Claude 等订阅账号均可作为上游 Channel 接入
-- Anthropic Messages、OpenAI Chat、Codex Responses、Gemini 协议互转，含 Responses over WebSocket
-- 按 key/模型/渠道/客户端分级故障转移与指数退避冷却
-- 成本统计覆盖缓存读写、长上下文分档，支持按渠道与 token 设支出上限
+- 订阅账号可作为上游渠道（Codex/Claude/Cursor 等），token 自动刷新
+- 上游失败在首字节前对客户端透明的重试与分粒度冷却
+- 协议转换：不同客户端协议可访问任一渠道
+- 成本核算含缓存读写、长上下文分层与按渠道/按 token 限额
 
 ## 适用场景
 
-- 多项 AI 订阅与零散 API key 合并后供 Claude Code/Codex 持续使用
-- 团队给成员分发带预算与并发限制的 token
-- 运营多条上游渠道并统一日志与成本管理
+- 多个 AI 订阅与备用 key 合并，Claude Code/Codex 额度耗尽时自动切换
+- 团队按成员发放 token，设置模型/预算/并发限制并随时吊销
+- 运维者统一管理多渠道，监控每个请求日志与费用
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L3: **Self-hosted AI API gateway for Claude Code, Codex, Gemini, and OpenAI-compatible clients.**
 > L20: ccLoad is a gateway you run on your own computer or server. It manages all of those sources, and every client only 
-> L201: - **Any client on any upstream**: Anthropic Messages, OpenAI Chat, Codex Responses and Gemini clients can all use 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0f266810dd0e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `738972558065` · [字段定义](../../DATASET.md)*

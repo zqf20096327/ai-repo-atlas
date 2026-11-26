@@ -2,9 +2,9 @@
 
 ⭐ 471 · Shell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/marcusquinn/aidevops) · [官网](https://www.aidevops.sh) · 个人维护
 
-**OpenCode 插件式 AI DevOps 框架：从意图到可验证交付的 agent 自动化**
+**面向开发者的 OpenCode AI DevOps agent 框架与插件**
 
-以 OpenCode 插件形式分发的 AI DevOps 框架，内含 17 个主 agent、2,250+ 子 agent、2,210+ 辅助脚本与 111 个斜杠命令，覆盖软件交付、基础设施、业务、营销、内容与研究等领域的任务编排。关键机制包括按需加载的上下文、模型路由（simple/standard/thinking 三档）、Pulse 每 2 分钟调度无头 worker、密钥不出聊天与 Git 的安全约束、以及带证据门控的 Git 工作流。经 Homebrew 或 npm 全局安装，依赖 OpenCode 运行时。
+aidevops.sh 是 OpenCode 插件与 DevOps 框架，以 17 个主 agent、2,250+ 子 agent、2,218 个辅助脚本和 111 个斜杠命令组织，覆盖从意图到验证交付的流程：仓库级任务/计划/证据持久化、模型路由分层、Git 安全工作流、Pulse 定时调度无人值守 worker、密钥隔离与操作门控。通过 Homebrew 或 npm 全局安装，部署到 ~/.aidevops 并配置 OpenCode；核心生命周期为理解→隔离→实现→验证→PR→合并发布。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 17 个主 agent 与 2,250+ 可单独寻址的子 agent、111 个斜杠命令
-- Pulse 调度器每 2 分钟派发无头 worker，处理 auto-dispatch 标签的 issue
+- 17 个主 agent 与 2,250+ 可寻址子 agent/skill/工作流的源码清单，可脚本审计计数
+- Pulse 每 2 分钟调度 headless worker，按 repos.json 中 pulse 标记分发 auto-dispatch 任务
 - provider-neutral 的 simple/standard/thinking 三档模型路由
-- 密钥与受保护数据隔离于聊天与 Git 之外，含 prompt-injection 防御
+- 密钥不入聊天与 Git，提供 Vault、审计追踪与 prompt-injection 防御
 
 ## 适用场景
 
-- 让 AI agent 自主完成从规划到 PR 的完整软件交付流程
-- 7×24 无人值守地调度 worker 处理仓库任务与例行工作
-- 为团队提供统一的 agent 操作规范与证据留存机制
-- 集中管理服务凭据与安全审计
+- 让 AI agent 在仓库内自主完成从 issue 到 PR 的完整交付流程
+- 为团队统一 AI 编码协作约定与安全门控
+- 定时无人值守运行仓库维护与例行任务
+- 多模型提供商账号池轮换应对限流
 
 ## 场景标签
 
-`模型网关` `Agent 框架` · 领域:Agent 开发
+`Agent 框架` `代码审查` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: **aidevops.sh** is an OpenCode
-> L12: Instead of treating every job as an isolated chat, aidevops gives people and AI
-> L170: - **Routing:** provider-neutral `simple`, `standard`, and `thinking` workload tiers
+> L6: plugin and AI DevOps framework for carrying work from intent to a verified
+> L167: - **Recommended runtime:** OpenCode; Claude Code and Codex CLI are supported interactive runtimes
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `691662d12db3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `103b1324a9e0` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 509 · HTML · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/openaccountants/openaccountants) · [官网](https://www.openaccountants.com/connect) · 组织维护
 
-**面向 AI 的税务技能库：190+ 地区税率条款可溯源引用**
+**给 AI 客户端接入带出处引用的各国税务技能库**
 
-收录按各国官方法律与税务机关页面编写的 AI 税务技能，每个数字（税率、门槛、期限）链接到官方来源页；每次 PR 会检查数字是否出现在其来源页上，并保存来源页快照存档。技能经注册会计师逐条批准（当前 100+ 条有具名批准），批准状态通过 OpenAccountants MCP 插件展示。可通过 MCP 地址接入 Claude/ChatGPT/Cursor 等，或自托管 Python MCP 服务器、手动下载 packages/ 目录文件。声明为一般参考而非建议，AGPL-3.0 许可。
+以 skill 文件形式提供 283 个国家/州/地区的税务知识包，每条税率、起征点、截止日期均链接官方来源；PR 时自动核验数字是否出现在来源页并重算示例。技能由注册会计师署名批准（当前 34 名、28 个辖区，超 100 条获批），批准信息经 MCP 插件展示而非仓库。可通过 MCP 地址接入 Claude/ChatGPT/Cursor 等，或从 packages/ 手动下载上传。仓库声明为通用参考而非税务建议。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 每个数字链接官方来源页，PR 自动执行数字核对，附来源快照存档
-- 注册会计师逐条批准机制，批准者具名且文本变更后批准失效
-- 支持 MCP 接入、Python 自托管 MCP 服务器与手动下载三种使用方式
-- 覆盖 283 个国家/州/属地，附带 llms.txt 与 index.json 机器可读清单
+- 每项数字链接官方法律/税务局页面并经自动核验
+- PR 级来源核查与来源页快照存档（evidence 仓库）
+- 34 名署名注册会计师批准机制，文本变更即清除批准
+- 支持 MCP 接入、Python MCP server 自托管与手动文件上传
 
 ## 适用场景
 
-- 让 ChatGPT/Claude 在回答税务问题时引用官方法条而非凭记忆作答
-- 为自由职业者/企业查询特定地区的税率、注册门槛与申报期限
-- 会计师以自己的名义批准或修正本国/本州技能条目
+- 让 ChatGPT/Claude 回答税务问题时引用官方法条而非凭记忆
+- 自托管 MCP server 供内部使用税务技能
+- 会计师认领并批准本国技能署名
 
 ## 场景标签
 
- · 领域:财税/合规知识库
+`知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: > Every skill here is written from the official law and the tax authority's own pages, with each figure linked to it
 > L44: Add this address to Claude, ChatGPT, Cursor, Windsurf or any AI that takes a connector:
-> L88: |Skill source (per jurisdiction)|`skills/`|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6111d7f23235` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `7cf21fc1f9fd` · [字段定义](../../DATASET.md)*

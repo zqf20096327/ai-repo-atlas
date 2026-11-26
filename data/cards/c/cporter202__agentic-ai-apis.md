@@ -2,9 +2,9 @@
 
 ⭐ 847 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/cporter202/agentic-ai-apis) · 个人维护
 
-**给 Agent 开发者的 API 索引清单（2000+ 条，3 类）**
+**面向 agent 开发者的 API 目录：按 3 类组织可接入 API**
 
-围绕自主 AI 系统构建所需的 API 层编制的目录仓库：按 Agents（826 条）、AI Models（1,563 条）、MCP Servers（475 条）三个类别组织条目，每条链接到服务商页面查看实现细节、定价与文档。通过 GitHub Actions 每日同步 Apify 目录并仅在数据变化时提交，仓库结构仅保留上述三个类别。README 中 API 链接保留上游来源数据的联盟跟踪参数。
+一个聚合自主 AI agent 构建所需 API 的目录仓库，按 Agents（执行/编排/自主任务）、AI Models（推理/生成/抽取）、MCP Servers（工具接入）三个类别组织条目。README 不含安装与运行说明，用户通过分类 README 浏览 API 名称与描述，跳转到 provider 页面查看实现细节、定价与文档。维护侧通过 GitHub Actions 每日同步 Apify 目录，仅在上游数据变化时提交；API 链接保留上游来源的联盟跟踪参数。README 中的计数显示为 0，与描述中的 2,036 不一致。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 2,864 条 API 按 Agents / AI Models / MCP Servers 三类组织
-- MCP Servers 类收录连接外部工具与系统的 Model Context Protocol 集成
-- GitHub Actions 每日自动同步 Apify 目录，数据变化时才提交
+- 按 Agents、AI Models、MCP Servers 三类组织的 API 目录
+- GitHub Actions 每日自动同步 Apify 目录
+- 条目跳转至 provider 页面获取实现细节、定价与文档
 
 ## 适用场景
 
-- 为自主 Agent 项目快速筛选可接入的 API
-- 查找可给助手提供真实世界操作的 MCP 服务器
-- 构建 copilot 或工具调用型 LLM 应用前做 API 选型
+- 为 agent 项目快速筛选可接入的 API 形成候选清单
+- 查找把助手接入外部系统的 MCP Server 集成
+- 按执行层/模型层/工具层的分层视角了解 agentic API 生态
 
 ## 场景标签
 
@@ -36,9 +36,8 @@
 
 ## 证据(README 行号)
 
-> L20: > The ultimate collection of APIs for building autonomous AI agents - **2,864 production-ready APIs** across **Agen
-> L48: 1. Pick the layer you need first: `Agents`, `AI Models`, or `MCP Servers`.
-> L107: ## Scope Guarantee
+> L20: > The ultimate collection of APIs for building autonomous AI agents - **0 production-ready APIs** across **Agents**
+> L27: |Categories|3|
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ba9c4aabded2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `13bd06b0ebfe` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 474 · 推送 2026-11-25 · [GitHub](https://github.com/zapplyjobs/awesome-ml-internships-2027) · [官网](https://softwarejobs.dev/?ref=gh-awesome-ml-internships) · 组织维护
 
-**面向学生的 AI/ML/数据科学实习岗位聚合清单，自动刷新**
+**面向学生的 AI/ML/数据科学实习岗位实时清单**
 
-一份由 Zapply job pipeline 自动刷新（声称每 10 分钟更新）的 2027 年 AI、机器学习与数据科学实习岗位清单，按职位类别（ML/AI 工程、数据科学与分析等）以表格列出公司、岗位、地点、发布时间和是否支持签证担保，并提供申请链接。清单同时推广 Zapply 网站与 Chrome 自动填表扩展、求职追踪功能及其 Discord/LinkedIn 社区。定位为求职信息聚合资源，适合寻找实习的学生与新毕业生浏览筛选。
+由 Zapply 职位管道自动刷新的 2027 年 AI、机器学习与数据科学实习聚合清单，每 10 分钟更新一次。条目以表格形式给出公司、职位、地点、发布时间、签证 sponsorship 状态与申请链接，覆盖机器学习工程、LLM 推理架构、计算机视觉、机器人等方向；另附 Zapply 网站与 Chrome 自动填写扩展的介绍，以及 Discord/LinkedIn 社区入口。清单仅含岗位链接，不涉及任何工具安装或运行。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按类别组织的实习岗位表格，含公司、地点、发布时间、签证担保标记
-- 通过 Zapply job pipeline 自动刷新，声称每 10 分钟更新
-- 配套 Zapply 网站与 Chrome 自动填表扩展、申请追踪功能
-- 另列两周内发布的 2027 新岗位（under 2 weeks）
+- 每 10 分钟刷新的实习岗位列表
+- 标注签证 sponsorship（✅ Sponsor）状态
+- 按 ML 工程、数据科学分析等类别分组
+- 附带发布时间（如 14m、1d、1w）便于筛新鲜岗位
 
 ## 适用场景
 
-- 学生查找 2027 年 AI/ML 方向的实习岗位
-- 按是否支持签证担保筛选美国实习机会
-- 追踪两周内新发布的实习职位
+- 查找 2027 年 AI/ML 方向的暑期实习
+- 筛选提供签证 sponsorship 的岗位
+- 查找两周内新发布的实习机会
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: # AI & Machine Learning Internships 2027
 > L5:  🚀 Live AI, machine learning, and data science internships for students, refreshed through the Zapply job pipeline.
-> L10:  Updated every 10 minutes
+> L41: |Company|Role|Location|Posted|Visa|**Apply**|
+> L39:  🤖 Machine Learning & AI Engineering
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d5b1582c05c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9ed10f2fe29b` · [字段定义](../../DATASET.md)*

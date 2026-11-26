@@ -2,9 +2,9 @@
 
 ⭐ 4,431 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/open-webui/mcpo) · [官网](https://docs.openwebui.com/features/plugin/tools/openapi-servers/mcp) · 组织维护
 
-**把 MCP 工具代理为 OpenAPI 兼容 HTTP 服务的代理服务器**
+**把 MCP 服务器工具转成 OpenAPI HTTP 接口的代理服务**
 
-接收一个 MCP 服务器命令（stdio/SSE/streamable-http），将其工具暴露为 RESTful OpenAPI 兼容的 HTTP 端点，并为每个工具自动生成交互式文档。面向需要让 LLM 代理与应用调用 MCP 工具的开发者。支持 API key、OAuth 2.1 动态客户端注册、多服务器配置文件与热重载、子路径部署。要求 Python 3.8+，可通过 uvx、pip 或 Docker 运行。
+mcpo 是一个 MCP 到 OpenAPI 的代理服务器：为任意 MCP server 启动进程并在其前提供标准 HTTP 服务，每个工具获得独立端点、OpenAPI schema 与 /docs 交互文档，支持 API key 鉴权。支持 stdio、SSE 与 streamable-http 三类服务器，可通过配置文件（Claude Desktop 格式）聚合多个 MCP 服务器并热重载，支持 OAuth 2.1 动态客户端注册。提供 pip/uvx 安装与 Docker 镜像，MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 将任意 MCP 服务器命令暴露为 OpenAPI 兼容 HTTP 服务
-- 每个工具自动生成专属 OpenAPI schema 与交互文档
-- OAuth 2.1 认证（默认动态客户端注册）与 API key 鉴权
-- 单一配置文件服务多个 MCP 工具，支持热重载
+- 将 MCP 工具转换为带交互文档的标准 OpenAPI HTTP 端点
+- 支持 stdio/SSE/streamable-http 三类 MCP 服务器代理
+- 配置文件聚合多服务器并支持热重载
+- OAuth 2.1 支持与 API key 鉴权（--strict-auth 保护文档）
 
 ## 适用场景
 
-- 让只支持 OpenAPI 工具的 LLM 代理/应用调用 MCP 工具
-- 为 stdio MCP 服务器加上 HTTP 鉴权层后对外提供
-- 用一份配置文件统一代理多个 MCP 服务器
+- 让浏览器或远程机器上的应用通过 HTTP 访问本地 stdio MCP 服务器
+- 在 Open WebUI 中接入仅支持 stdio/SSE 的 MCP 工具
+- 用一个实例统一管理并暴露多个 MCP 服务器
+- 为需要 OAuth 的远程 MCP 服务器做代理接入
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+ · 领域:LLM 基础设施/MCP 工具接入
 
 ## 证据(README 行号)
 
-> L3: Expose any MCP tool as an OpenAPI-compatible HTTP server—instantly.
-> L5: mcpo is a dead-simple proxy that takes an MCP server command and makes it accessible via standard RESTful OpenAPI, s
+> L3:  mcpo is an MCP-to-OpenAPI proxy. It takes any MCP server and serves its tools as a standard OpenAPI HTTP server, wi
+> L15: Most MCP servers talk over stdio and run as a local process. An app in the browser or on another machine cannot rea
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `d6ab415db2c1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6573fcb055e3` · [字段定义](../../DATASET.md)*

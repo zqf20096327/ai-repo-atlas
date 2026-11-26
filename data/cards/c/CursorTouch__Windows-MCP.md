@@ -2,9 +2,9 @@
 
 ⭐ 12,138 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/CursorTouch/Windows-MCP) · 组织维护
 
-**让 AI 代理操控 Windows 桌面的 MCP 服务器**
+**让 AI agent 操控 Windows 系统的 MCP 服务器**
 
-连接 AI 代理与 Windows 操作系统的 MCP 服务器，向 Claude Desktop、Perplexity Desktop、Gemini CLI、Qwen Code、Codex CLI、Claude Code 等客户端暴露文件导航、应用控制、UI 交互、键盘鼠标模拟、窗口/UI 状态捕获等工具。不依赖计算机视觉或特定微调模型，声明可配合任意 LLM 使用（视觉可选）。支持 stdio/SSE/Streamable HTTP 传输、登录时后台运行与远程访问认证。需 Windows 10/11、Python 3.14+ 与 uv。MIT 许可。
+以 MCP 服务器形式连接 LLM agent 与 Windows 操作系统，提供文件导航、应用控制、窗口/UI 交互、键盘鼠标模拟、QA 测试等工具集；不依赖传统计算机视觉技术或微调模型，可配合任意 LLM 使用（视觉可选）。支持 stdio/SSE/Streamable HTTP 三种传输方式，可注册为登录后台任务或网络访问。仅支持 Windows 10/11，要求 Python 3.14+ 与 UV 包管理器，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- MCP 服务器形式向客户端暴露 Windows UI 自动化工具（键盘/鼠标/窗口状态捕获）
-- 声明不依赖传统 CV 技术或微调模型，可配合任意 LLM
-- 支持 stdio/SSE/Streamable HTTP 传输与登录时后台任务运行
-- DOM 模式浏览器自动化，支持 Chrome/Edge/Firefox
+- 通过 MCP 协议向 Claude Desktop、Gemini CLI、Codex CLI 等客户端暴露 Windows 操控工具
+- 不依赖传统 CV 或微调模型，可配合任意 LLM（视觉可选）
+- DOM Mode 浏览器自动化，支持 Chrome/Edge/Firefox
+- 操作延迟 0.2–0.5 秒，支持 stdio/SSE/HTTP 传输与远程访问认证
 
 ## 适用场景
 
-- 让 LLM 客户端通过工具自动操作 Windows 应用与文件
-- 对 Windows 应用做 QA 自动化测试
-- 从 Claude Code/WSL 等环境远程或本地驱动桌面任务
+- 让 Claude Desktop 等 MCP 客户端直接操作我的 Windows 应用和文件
+- 用自然语言 agent 做 Windows UI 自动化与 QA 测试
+- 在局域网内远程调用本机的 Windows 操控工具
 
 ## 场景标签
 
-`GUI 自动化` `浏览器自动化` · 领域:效率与自动化
+`浏览器自动化` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L22: **Windows-MCP** is a lightweight, open-source project that enables seamless integration between AI agents and the W
-> L68: ## 🛠️Installation
-> L357: Windows-MCP runs directly on your Windows machine and exposes its tools to the connected MCP client.
+> L50: - **Use Any LLM (Vision Optional)**
+> L83: uvx windows-mcp serve
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `08cc6792514a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `770bbfc2724f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 877 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/TrenTorch/TrenTorch) · [官网](https://trentorch.com) · 组织维护
 
-**从零用 NumPy 构建 ML 框架的学习平台与题库**
+**从零实现 ML 框架的学习平台：1647 道浏览器内判题题与 20 模块课程**
 
-以'自己动手实现'为核心的教学项目：提供浏览器版（1647 道题、12 个主题区，Python 经 Pyodide 在浏览器内运行并即时评分）与 CLI 版（20 个模块从张量、autograd 到 transformers 与量化压缩，逐步构建出用户自己的框架），并附可复现的里程碑实验（Perceptron、CNN、Transformer 等）。CLI 版是 TinyTorch（Harvard CS249r）的实现与扩展，全部基于 NumPy，不使用 PyTorch/TensorFlow。许可为 PolyForm Noncommercial，商用需联系作者。
+面向想理解机器学习内部原理的学习者：提供两条路径——浏览器版含 1647 道编码题、12 个主题区，代码经 Pyodide 在浏览器内运行并即时判题，进度存账号；CLI 版含 20 个模块，用 NumPy 从张量、autograd、优化器逐层搭建一个完整框架直至 capstone，进度存本地。课程不 import PyTorch/TensorFlow，全部在 CPU 上运行，无需 GPU。随进度解锁感知机、反向传播、Transformer 等 6 个历史里程碑复现。CLI 课程为哈佛 TinyTorch（CS249r）的自研实现，Web 版独立开发。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 浏览器内答题：Pyodide 运行 Python，无需安装、即时评分
-- CLI 20 模块从零构建框架：张量、autograd、优化器到 transformers 与量化
-- 里程碑实验：在自建框架上复现 Perceptron、CNN、Transformer 等
-- 问题带题面、理论讲解、起始文件、测试与参考解答
+- 浏览器内 Pyodide 运行与即时判题，无需安装
+- CLI 版用 NumPy 从零实现张量、autograd 到 Transformer 的 20 个模块
+- 解锁 1958-2018+ 六个里程碑结果复现（Perceptron 至 MLPerf）
+- 课程全程不使用 PyTorch/TensorFlow，CPU 即可运行
 
 ## 适用场景
 
-- 想理解 ML 框架底层原理而非只会调库
-- 准备机器学习面试刷题
-- 课程/自学路径：跟随 CLI 模块逐个实现框架组件
+- 我想通过亲手实现 autograd 和注意力机制来理解 ML 原理
+- 准备 ML 面试，按 12 个主题区刷编码题
+- 在没有 GPU 的机器上学习深度学习课程
+- 想在课程或个人项目里复现经典 ML 里程碑
 
 ## 场景标签
 
-`教程课程` `模型量化` · 领域:学习与行业
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `bc967d34a6e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fa0859e93cc5` · [字段定义](../../DATASET.md)*

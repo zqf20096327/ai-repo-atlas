@@ -2,9 +2,9 @@
 
 ⭐ 2,131 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/vmoranv/jshookmcp) · [官网](https://vmoranv.github.io/jshookmcp/) · 个人维护 · 中文 README
 
-**给 AI agent 的 JS 逆向工程 MCP 服务器，36 域 700+ 工具**
+**面向 AI agent 的 JS 逆向工程 MCP 服务器，含 735+ 工具**
 
-一个 MCP 服务器，为 AI agent 提供前端与二进制逆向工程工具集：浏览器自动化（Chromium/Camoufox via CDP、反检测、显式输入验证码求解）、网络拦截（MITM 代理、HTTP/2、WebSocket、Burp 桥）、JS 反混淆与 AST 变换、WASM 反汇编、进程/内存取证、Frida/Ghidra/IDA 桥、APK 分析等 36 个域。通过 search/workflow/full 三档工具 profile 控制 token 开销，支持 stdio 与 Streamable HTTP 传输、会话恢复与热加载插件。需 Node.js 22.22.2+，AGPLv3 许可，默认开启可关闭的遥测。
+以 MCP 服务器形式提供的前端逆向工程工作区：工具按 36 个领域组织，通过 search/workflow/full 三档 profile 控制暴露给模型的 schema 体积（search 档约 3K tokens）。能力覆盖 Chromium/Camoufox 浏览器自动化、网络拦截与 MITM、反混淆、WASM 反汇编（wabt）、Frida/Ghidra/IDA 桥接、APK 分析、进程内存取证等。支持 stdio 与 Streamable HTTP 两种传输，多 agent 可共享一个本地 daemon。默认开启 opt-out 遥测，可用环境变量关闭。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- search-first profile 阶梯：search 约 3K token 元数据，full 暴露全部 739 工具
-- 浏览器自动化与反检测预设、显式输入验证码求解
-- WASM 反汇编（wabt/Binaryen）、Frida/Ghidra/IDA 桥、硬件断点
-- Streamable HTTP 会话恢复与多 agent 状态隔离
+- search-first 三档工具 profile 控制上下文 token 成本
+- 浏览器自动化与反检测预设、显式输入 CAPTCHA 求解
+- wabt WASM 反汇编与 Frida/Ghidra/IDA 桥接
+- Streamable HTTP 会话恢复与多客户端状态隔离
 
 ## 适用场景
 
-- 让 AI agent 去混淆并理解压缩的前端代码
-- 抓取、拦截并重放 OAuth/GraphQL 请求流
-- 逆向 WASM 加密例程或对活进程做内存取证
-- 对可疑 APK 做静态分诊与反编译
+- 让 AI agent 分析混淆的前端 JS 代码并还原逻辑
+- 通过 MCP 客户端驱动浏览器抓包并重放请求
+- 对可疑 APK 做静态分析
+- 在本地多个 agent 间共享浏览器运行时与缓存
 
 ## 场景标签
 
-`浏览器自动化` `网络安全` · 领域:效率与自动化
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L13: **A search-first, profile-aware reverse-engineering workspace for AI agents.**
-> L15: **Hook the page, capture the network, deobfuscate the bundle, disassemble the WASM, instrument the process — and le
-> L60: - **Search-first, profile-aware.** The `search` profile loads about 3K tokens of tool metadata; the `full` profile 
+> L58: Most MCP servers for JS analysis expose a handful of hand-rolled tools or wrap a single browser engine. jshook is c
+> L102: No global install needed — add to your MCP client config and you're ready.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f13e01ee0846` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a0ca734caa2c` · [字段定义](../../DATASET.md)*

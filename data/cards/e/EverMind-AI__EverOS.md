@@ -1,10 +1,10 @@
 # EverMind-AI/EverOS
 
-⭐ 14,003 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护 · 中文 README
+⭐ 14,003 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护
 
-**给 AI agent 提供跨应用可携带的本地长期记忆层**
+**给 AI agent 的便携本地记忆层，Markdown 存储**
 
-EverOS 是一个 Python 库与本地优先的 agent 记忆运行时：将对话、文件与 agent 轨迹存为可读可编辑的 Markdown，本地 SQLite 与 LanceDB 索引支撑检索，离线反思可在会话间合并记忆、精炼画像与技能。以 OpenRouter 单 key 即可启动，支持分级配置嵌入、重排与多模态解析；提供本地 server 与 /api/v2 HTTP 接口，LibreOffice 为可选的 office 文档解析依赖。
+Python 库与本地优先记忆运行时：把对话、文件、agent 轨迹存为可读 Markdown，并同步本地 SQLite 与 LanceDB 索引以供检索。支持按 user_id/agent_id/app_id 等多维检索、离线反思（合并 episode、精炼 profile 与 skills）、可编辑知识 Wiki。一个 OpenRouter key 即可启动核心流程；嵌入/重排/多模态为可选配置，办公文档解析需系统安装 LibreOffice。提供 MCP 服务器（uvx everos-mcp）接入 Claude Code、Codex、Cursor 等编码助手，并有 Dify 等平台集成指南。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@ EverOS 是一个 Python 库与本地优先的 agent 记忆运行时：将对话�
 
 ## 能力要点
 
-- Markdown 为事实源，文件可编辑、diff、Git 版本化，级联 watcher 自动同步索引
-- 本地三件套 Markdown + SQLite + LanceDB，无需 MongoDB/Elasticsearch/Redis
-- 用户侧 episode/profile 与 agent 侧 case/skill 双轨存储，支持多维度正交检索
-- 离线反思机制：会话间合并 episode 簇、精炼 profile 与 skill
+- Markdown 为事实源：可读、可编辑、可 diff、可 Git 版本化，编辑后级联 watcher 同步索引
+- 本地三件套 Markdown+SQLite+LanceDB，不需要 MongoDB/Elasticsearch/Redis
+- 用户侧 episodes/profile 与 agent 侧 cases/skills 作为独立一等表面
+- 离线反思：会话间合并 episode 簇、精炼 profile 与 skills
 
 ## 适用场景
 
-- 给编码助手或 agent 接入跨会话长期记忆
-- 通过 uvx everos-mcp 将记忆接入 Claude Code、Cursor 等工具
-- 摄取图片/PDF/音频等多模态内容入记忆库
-- 自建本地 server 供多应用共享同一记忆层
+- 给编码助手接入跨会话持久记忆
+- 为 agent 平台统一管理对话与轨迹记忆
+- 摄取图片/PDF/音频/办公文档到记忆库
+- 需要 Git 版本化、可人工编辑的记忆存储
 
 ## 场景标签
 
@@ -46,8 +46,8 @@ EverOS 是一个 Python 库与本地优先的 agent 记忆运行时：将对话�
 ## 证据(README 行号)
 
 > L16: EverOS is a Python library and local-first memory runtime for agents and
-> L73: EverOS adds durable memory to the agent and workflow platforms below—and comes
-> L206: The OpenRouter one-key setup is EverOS Tier 1. It supports server startup,
+> L78: EverOS adds durable memory to the agent and workflow platforms below—and comes
+> L325: Plug EverOS memory into Claude Code, Codex, Claude Desktop or Cursor with `uvx everos-mcp`. Works with EverOS Clou
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b0f13be38ffa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `bdee5c770f85` · [字段定义](../../DATASET.md)*

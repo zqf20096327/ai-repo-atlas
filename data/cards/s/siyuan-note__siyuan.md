@@ -2,9 +2,9 @@
 
 ⭐ 47,390 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/siyuan-note/siyuan) · [官网](https://b3log.org/siyuan) · 组织维护 · 中文 README
 
-**隐私优先的自托管个人知识管理系统，支持块级引用与 AI 协作**
+**隐私优先的自托管个人知识管理与笔记工作空间**
 
-SiYuan 是一个隐私优先的个人知识管理系统，提供块级引用与双向链接、Markdown 所见即所得编辑、SQL 查询嵌入、数据库表格视图、间隔重复闪卡、PDF/Word/HTML 导出等。AI 相关能力为通过 OpenAI API 进行的 AI 写作与问答聊天，以及 MCP、agentic 主题标签所指向的智能体协作定位。桌面端提供应用市场、安装包与包管理器安装，服务器端支持 Docker 与 Kubernetes（社区 chart）部署，部分功能仅对付费成员开放。
+以块级引用和双向链接为核心的个人知识管理系统，编辑器支持 Markdown 所见即所得、百万字大文档、数学公式与多种图表，内置 SQL 查询、数据库表格视图、间隔重复记忆卡、Tesseract OCR，并通过 OpenAI API 提供 AI 写作与问答聊天。支持 Android/iOS/HarmonyOS 应用、桌面安装包、包管理器与 Docker/Kubernetes 部署，提供 API 与社区插件市场。多数功能免费，部分功能仅面向付费会员。
 
 ## 筛选速览
 
@@ -26,26 +26,25 @@ SiYuan 是一个隐私优先的个人知识管理系统，提供块级引用与�
 
 ## 能力要点
 
-- 块级引用与双向链接的 Markdown 所见即所得编辑器
-- AI 写作与问答聊天（经 OpenAI API）
-- Android/iOS/HarmonyOS 应用、Docker 部署与 API
-- 百万字级大文档编辑与社区插件市场
+- 块级引用、双向链接与 SQL 查询嵌入
+- 通过 OpenAI API 进行 AI 写作与问答聊天
+- 支持 Docker 与 Kubernetes（社区 Helm chart）部署
+- 多端应用覆盖 Android/iOS/HarmonyOS 与桌面
 
 ## 适用场景
 
-- 自托管搭建个人知识库并做块级双向链接管理
-- 在笔记中调用 AI 进行写作与问答
-- 用 Docker 在服务器上部署可远程访问的知识工作空间
+- 自托管搭建个人知识库并做块级笔记管理
+- 在笔记中直接调用 OpenAI API 进行写作与问答
+- Docker 部署服务器端并配置 OIDC 登录认证
 
 ## 场景标签
 
-`知识库管理` `AI 写作` · 领域:内容生成
+`知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L19: SiYuan is a privacy-first personal knowledge management system, supporting fine-grained block-level reference and M
-> L54: - AI writing and Q/A chat via OpenAI API
-> L60: - Docker deployment
+> L20: SiYuan is a privacy-first personal knowledge management system, supporting fine-grained block-level reference and M
+> L55: - AI writing and Q/A chat via OpenAI API
 
 ## 星数曲线
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b1cc05335b7a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4826d4efa862` · [字段定义](../../DATASET.md)*

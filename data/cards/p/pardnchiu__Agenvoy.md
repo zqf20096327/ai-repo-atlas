@@ -2,9 +2,9 @@
 
 ⭐ 662 · Go · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/pardnchiu/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
 
-**本地常驻的个人 AI agent 工具：一句话完成工具生成与任务自动化**
+**本机 24/7 运行的 AI agent harness，自动生成工具并共享给 MCP agent**
 
-以单个 Go 二进制运行的本地守护进程式 AI agent harness：将对话拆解为步骤、调用工具并交付结果；当没有可用工具时先调用无密钥公共 API，否则自动编写脚本工具并在沙箱中测试后复用。内置 MCP 服务器与客户端，可与 Claude Code、Codex 等 agent 共享同一工具库；提供调度器、三层记忆、Web/TUI/Telegram/Discord 等多通道接入，数据存于本机 SQLite，命令默认在 macOS sandbox-exec 或 Linux bubblewrap 沙箱中执行。当前处于 review-and-cleanup 阶段。
+以单个 Go 二进制提供的本地 AI agent harness：作为守护进程在用户自己的机器上运行，会话、记忆、计划任务存于本地 SQLite，API key 存于 OS keychain，命令默认在 macOS sandbox-exec / Linux bubblewrap 沙箱执行。用户一句话描述需求，agent 拆解步骤、调用或自动编写并沙箱测试工具；内置 40 个工具、三层记忆、cron 调度、语音交互、Telegram/Discord 外联通道，并以 MCP server 身份把工具库共享给 Claude Code、Codex 等 agent。支持 11 个模型提供商及任意 OpenAI 兼容端点。Windows 需经 WSL，Android 经内置 Terminal 或 Termux+Ubuntu 运行。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 自动生成工具：检测能力缺口后编写、沙箱测试并注册脚本工具
-- 内置 MCP 服务器，Claude Code/Codex/OpenCode 可共享全部沙箱工具
-- 一句话创建一次性与 cron 定时任务，结果推送到指定渠道
-- 数据、密钥留本机：SQLite 存储 + OS keychain + 默认沙箱执行
+- 无可用工具时自动调用无密钥公共 API 或编写并沙箱测试新工具
+- MCP server 使 Claude Code/Codex/OpenCode 等复用同一工具库
+- 三层记忆：上下文窗口、语义向量检索与 SQLite 全文归档
+- 数据本地化：本地守护进程外联 Telegram/Discord，不开放入站端口
 
 ## 适用场景
 
-- 用一句话让 agent 查询实时数据并生成报告
-- 把每日股票/commit 汇总等重复工作做成定时任务
-- 让本地文件问答（RAG）代替翻找文档
-- 多个 AI agent 共享一套自动构建的工具库
+- 一句话创建定时任务并推送结果到聊天软件
+- 让 agent 检索本地文件并回答（RAG）
+- 在多个 AI agent 之间共享沙箱化工具库
+- 通过订阅账号（Copilot/Claude/ChatGPT）接入模型而不办新 API key
 
 ## 场景标签
 
-`AI 助手` `RAG` · 领域:对话与助手
+`AI 助手` `RAG` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L87: Agenvoy is a Taiwan-developed AI Agent Harness by Pardn Chiu, built to turn conversation into completed work on you
-> L211: |MCP server & client|Shares every sandboxed tool with Claude Code, Codex and any MCP client; calls external MCP se
+> L210: |Auto tool generation|Calls a public API, or writes, sandbox-tests and registers a tool when none fits|
+> L246: Eleven model providers behind one interface, plus as many OpenAI-compatible endpoints as you want. Subscription ro
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `25aa7b16808d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `cf9f2da5a22b` · [字段定义](../../DATASET.md)*

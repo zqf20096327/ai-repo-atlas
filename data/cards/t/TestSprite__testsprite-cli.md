@@ -2,15 +2,15 @@
 
 ⭐ 5,228 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/TestSprite/testsprite-cli) · [官网](https://www.testsprite.com) · 组织维护
 
-**面向开发者的 AI 自动化测试 CLI：云端对真实应用执行测试**
+**给编码 agent 和开发者的云端自动化测试 CLI**
 
-TestSprite 平台的官方命令行工具，将云端 AI 测试能力接入终端与编码 agent。流程为 plan → apply → run → result get：由平台 agent 生成测试计划，对运行中的前端或后端执行真实浏览器/API 测试，结果以 JSON 返回失败步骤、原因与修复建议，agent 可据此修复代码后重跑。需要 Node.js 20.19+，通过工作区 API key 认证，测试在云端执行，本地测试经隧道连接。支持 CI 集成与 PR 门禁。
+TestSprite 云端 AI 测试平台的官方命令行工具：从终端或 CI 对运行中的前端/后端产品发起真实浏览器与 API 测试，以 JSON 结果返回失败步骤、原因与修复建议，供编码 agent（Claude Code、Cursor 等）读取并自修复。流程为 plan→apply→run→result get 循环，测试积累为持久测试套件。setup 命令向检测到的编码 agent 写入技能文件；测试执行在云端进行，本地环境通过隧道接入。需 Node.js 20.19+，商用依赖 TestSprite 平台账号。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@ TestSprite 平台的官方命令行工具，将云端 AI 测试能力接入终�
 
 ## 能力要点
 
-- 对云端真实浏览器/API 执行测试，输出含截图、视频等证据的单条结果
-- testsprite setup 自动为检测到的编码 agent 安装技能文件
-- GitHub Actions PR 门禁与 JUnit 报告输出
-- 本地端口经隧道由云端 runner 执行测试
+- 面向编码 agent 的结构化输出：runId/resultId、失败步骤截图、traceback 与修复建议
+- plan→apply→run→result get→fix 循环，通过的测试存入持久套件
+- testsprite ci init github 生成 PR 门禁，支持 JUnit 报告与确定性退出码
+- --local 端口模式通过隧道对本机运行的应用执行云端测试
 
 ## 适用场景
 
 - 让编码 agent 在提交代码前自动验证行为是否正常
-- 在 CI 中为每个 PR 运行测试门禁
-- 对本地 3000 端口运行的前端执行保存的测试
+- 为 GitHub PR 配置自动化测试门禁
+- 在终端对本地或预发布环境运行 E2E 测试
 
 ## 场景标签
 
- · 领域:软件测试/QA 工具
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L33: TestSprite is the AI testing platform 100,000+ teams use to test their software, frontend and backend — in the clou
-> L35: It puts that platform in your coding agent's hands: the agent verifies every behavior it ships, and what broke come
-> L127: - **Not yet covered** → `testsprite plan` — the project's agent writes a test for the new behavior; `testsprite ap
+> L115: - 🧪 **Tests like a real user.** Runs against a live browser or API in the cloud — real clicks, real navigation, re
+> L121: - 🔌 **One command to onboard your agent.** `testsprite setup` drops ready-made skill files into your repo — for th
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `653c6e407874` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `7c089c0df652` · [字段定义](../../DATASET.md)*

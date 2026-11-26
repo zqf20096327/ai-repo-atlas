@@ -2,9 +2,9 @@
 
 ⭐ 1,869 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MixLabPro/comfyui-mixlab-nodes) · [官网](https://mixlabnodes.com) · 个人维护 · 中文 README
 
-**ComfyUI 节点包：工作流转 Web App、GPT/语音/3D 等多类节点**
+**ComfyUI 扩展节点集：把工作流转为 Web App 并接入 LLM/语音/3D**
 
-面向 ComfyUI 用户与工作流开发者的自定义节点集合，功能包括：通过 AppInfo 节点把 workflow 转为可切换的 Web App（支持 9 种输入节点、动态提示词）、ScreenShare/FloatingVideo 实时设计、语音识别与合成、多源 LLM 调用（本地 LLM、ChatGPT、ChatGLM3/4、Azure OpenAI、Siliconflow）、图像分层合成、3D（TripoSR）、MiniCPM-V 2.6 int4 视觉问答、rembg 抠图与 LaMa 修补等。安装方式为 clone 到 custom_nodes 目录并安装 requirements；部分模型需手动下载放置到指定目录。
+面向 ComfyUI 用户的节点扩展包，提供 Workflow-to-APP（AppInfo 节点把工作流配置为 Web App，支持多 App 切换、批量提示词、动态提示）、屏幕捕获与浮动视频节点（配合 LCM-Lora）、语音识别与合成、GPT 类文本节点，以及图层、抠图、inpainting、图像批量加载等节点。通过 git clone 安装到 custom_nodes 目录并 pip 安装 requirements。部分模型（TripoSR、rembg、lama 等）需手动下载放置；LaMaInpainting 需手动安装依赖。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- AppInfo 节点把 ComfyUI workflow 转为可配置的 Web App
-- 支持本地 LLM、ChatGPT、ChatGLM3/4、Azure OpenAI、Siliconflow 等多种 LLM 接入
-- MiniCPM-V 2.6 int4 量化版视觉问答（约 7GB 显存）
-- ScreenShare/FloatingVideo 实时屏幕捕捉配合 LCM-Lora
+- AppInfo 节点把 workflow 转为 Web App，支持多 App 切换与批量提示词
+- ScreenShareNode/FloatingVideoNode 捕获屏幕像素流，配合 LCM-Lora 实时生成
+- GPT 节点支持本地 LLM、ChatGPT、ChatGLM3/4、Azure OpenAI 多种调用方式
+- 提供语音识别/合成、3D（TripoSR）、抠图（rembg）、LaMa inpainting 等节点
 
 ## 适用场景
 
-- 把 ComfyUI 工作流发布成给他人使用的 Web 应用
-- 在工作流中直接调用云端或本地 LLM 做 prompt 补全与对话
-- 实时屏幕捕捉驱动的生成式设计实验
+- 把 ComfyUI 工作流发布为可分享的 Web App
+- 在 ComfyUI 中调用本地或云端 LLM 做 prompt 补全
+- 屏幕共享实时进行 LCM-Lora 设计生成
+- 中文书写 prompt 并生成图像
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L60: - 新增 AppInfo 节点，可以通过简单的配置，把 workflow 转变为一个 Web APP。
+> L58: ## 🚀🚗🚚🏃 Workflow-to-APP
 > L121: > Support for calling multiple GPTs.Local LLM 、 ChatGPT、ChatGLM3 、ChatGLM4 , Some code provided by rui. If you are
+> L284: manually install, simply clone the repo into the custom_nodes directory with this command:
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `4510c7180eb1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `e56c914a765b` · [字段定义](../../DATASET.md)*

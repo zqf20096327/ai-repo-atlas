@@ -2,9 +2,9 @@
 
 ⭐ 18,652 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/a2ui-project/a2ui) · [官网](https://a2ui.org/) · 组织维护
 
-**开源生成式 UI 框架：agent 流式输出界面数据，原生渲染**
+**为开发者提供 agent 流式生成原生 UI 的框架**
 
-A2UI 是开源生成式 UI 框架，由协议、原生渲染器与多语言 Agent SDK 组成：agent（LLM 或决策模型）按 schema 以数据而非代码生成 UI 描述，经 A2UI Transport 协议流式传输到渲染端，由 React、Angular、Lit、Flutter、SwiftUI、Jetpack Compose 等框架的原生组件渲染。面向构建 agent 应用的开发者，通过严格 schema 与能力目录约束 agent 可用组件，支持跨平台一致 UI。提供 Python/TypeScript/Dart/Swift 多语言包。
+A2UI（Agent-to-User Interface）是一个开源生成式 UI 框架，包含低延迟流式 UI 协议、多框架原生渲染器（React/Angular/Lit/Flutter/SwiftUI/Jetpack Compose）以及多语言 Agent SDK。Agent 以数据形式（受 schema 校验约束、不含可执行代码）表达 UI，应用用原生组件渲染。适用于 agent 驱动、远程渲染与跨信任边界的场景；未发布的包可从源码使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ A2UI 是开源生成式 UI 框架，由协议、原生渲染器与多语言 Agen
 
 ## 能力要点
 
-- UI 以数据而非代码表达，schema 校验并约束 agent 能力边界
-- 支持 React/Angular/Lit/Flutter/SwiftUI/Jetpack Compose 原生渲染
-- 流式渐进渲染协议，支持可替换推理格式
-- 多语言 Agent SDK 与 MCP、A2A、ADK 集成包
+- UI 以数据表达并经 schema 校验，禁止任意可执行代码
+- 支持渐进式流式渲染与可替换推理格式
+- 为 React、Angular、Lit、Flutter、SwiftUI 等提供原生渲染器
+- 提供 Python/TypeScript/Dart/Swift 的 Agent SDK 与 MCP 目录
 
 ## 适用场景
 
-- 让应用的 agent 动态生成界面并流式渲染到原生组件
-- 同一 agent 向多个平台/框架输出一致的用户体验
-- 在信任边界上限制 agent 可访问的组件与数据类型
+- 让 agent 以原生组件而非纯文本与用户交互
+- 同一 agent 跨多平台流式输出一致 UI
+- 第三方 agent 需跨信任边界渲染 UI 且不接触敏感数据
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ A2UI 是开源生成式 UI 框架，由协议、原生渲染器与多语言 Agen
 ## 证据(README 行号)
 
 > L5: A2UI (Agent-to-User Interface) is an open-source generative UI framework,
-> L86: 1. **Inference**: An agent (typically backed by a language or a decision model)
+> L91: 2. **Transport**: An A2UI Agent SDK, embedded in a larger agent architecture,
+> L124: |a2ui-agent-sdk|Agent SDK: negotiates catalogs, generates prompts and skills, and compiles model output into A2UI.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `90e6edd320ec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4622fae28bdb` · [字段定义](../../DATASET.md)*

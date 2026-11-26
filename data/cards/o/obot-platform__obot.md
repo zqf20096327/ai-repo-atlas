@@ -2,9 +2,9 @@
 
 ⭐ 1,220 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/obot-platform/obot) · [官网](https://obot.ai) · 组织维护
 
-**给企业管理、安全管控其 AI 生态的开源平台**
+**面向组织的开源 AI 治理平台：管理 MCP 服务器、模型网关与审计**
 
-Obot 为组织提供连接 AI 客户端与模型、工具的共享基础设施：通过 MCP Gateway 与 LLM Gateway 提供受控访问，托管隔离运行的 MCP 服务器，分发经审批的 MCP 服务器与技能注册表，管理用户身份、凭证与访问策略，并跨托管服务与用户设备（Obot Sentry）记录审计日志。不要求组织统一使用单一客户端、模型提供方或工具生态，桌面代理（Claude Code、Cursor 等）可按需接入。MIT 许可，含 Community 与 Enterprise 版本区分。
+Obot Platform 为组织提供连接 AI 客户端到模型与工具的共享基础设施，功能覆盖 MCP Gateway（以 vMCP 聚合与管控 MCP 服务器访问）、LLM Gateway（代理 OpenAI/Anthropic/Bedrock 等提供商并保管凭证）、隔离托管的 MCP 服务器、Claude Environments 会话、Git 目录驱动的 MCP 与 Skills 注册表、CLI 与技能、终端设备侧的 Obot Sentry，以及身份访问控制与关联审计日志。需 Docker 或 Kubernetes 部署，支持外部 PostgreSQL；Community 与 Enterprise 版本运行同一开源镜像，仅许可证不同。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Obot 为组织提供连接 AI 客户端与模型、工具的共享基础设施�
 
 ## 能力要点
 
-- MCP Gateway：以 vMCP 虚拟服务器聚合多个目录服务器为单一入口
-- LLM Gateway：对接 OpenAI/Anthropic/Bedrock/Azure 并记录用量与成本
-- MCP 与 Skills 注册表基于 Git 管理目录，暴露标准 MCP Registry API
-- Obot Sentry 扫描、审计并执行设备端 AI 活动策略
+- MCP Gateway 通过 vMCP、tunnel 与过滤器统一管控 MCP 访问
+- LLM Gateway 提供 OpenAI/Anthropic/Bedrock/Azure 兼容端点并记录用量与成本
+- 基于 Git 目录的 MCP 与 Skills 注册表，暴露标准 MCP Registry API
+- Obot Sentry 对设备上的 AI 活动做清单、审计与工具调用允许名单
 
 ## 适用场景
 
-- 为企业内的 AI 客户端统一分发与管控 MCP 服务器
-- 集中保管模型凭证并按用户限制可调用的模型
-- 记录并审计跨托管服务与员工设备的 AI 活动
-- 将 Claude 云会话运行在组织自己的 Kubernetes 基础设施上
+- 为企业内部 AI 客户端统一分发经过审批的 MCP 服务器与技能
+- 集中保管模型提供商凭证并按用户限制可调用模型
+- 对平台内 MCP/LLM 活动做关联审计与 token 花费追踪
+- 在自有 Kubernetes 上托管 Claude 云会话并控制其可访问范围
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c8b02d19226a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4b0fd1973c8d` · [字段定义](../../DATASET.md)*

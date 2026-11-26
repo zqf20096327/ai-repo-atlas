@@ -2,9 +2,9 @@
 
 ⭐ 622 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Enderfga/claw-orchestrator) · [官网](https://github.com/Enderfga/claw-orchestrator#readme) · 个人维护
 
-**为开发者统一调度多个编码 agent CLI 并独立验收结果的运行时**
+**统一运行时调度 Claude Code/Codex 等编码 agent 并独立验证结果**
 
-以 Node 运行时形式将 Claude Code、Codex、Antigravity、Grok Build、OpenCode 及任意 ACP agent 作为持久会话收拢到一套 API/CLI 之后。核心机制是验收合同：检查命令由运行时而非 agent 执行，运行结果判为 verified/refuted/unverified，证据落盘。支持跨引擎 fan-out、council 投票、会话交接、崩溃恢复检查点、按轮次记录模型/token/成本的账本与 maxBudgetUsd 花费上限。提供 CLI、MCP server、ACP agent、OpenAI 兼容端点与 TypeScript SDK。
+面向开发者的编码 agent 编排运行时：把 Claude Code、Codex、Antigravity、Grok Build、OpenCode 及任意 ACP agent 作为持久会话接入同一套 CLI/API，支持跨引擎 fan-out、会话切换、council 共识与无人值守 goal 模式。核心机制是由运行时本身执行验收契约（命令、HTTP 探针、截图、diff 策略），运行结束给出 verified/refuted/unverified 判定，agent 无法自行改写检查。每次调用记录模型、token 与费用，支持 maxBudgetUsd 花费上限；工作流带检查点，进程崩溃后可恢复。需要 Node 22+ 与至少一个已登录的引擎 CLI。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 运行时自身执行验收合同检查，agent 无法改写判定
-- 多引擎统一 CLI 标志，fanout 并行与 session_handoff 跨引擎交接
-- 检查点化持久运行，崩溃后可恢复
-- 跨引擎账本记录每轮模型、token、成本并强制预算上限
+- 运行时自行执行验收契约并给出 verified/refuted/unverified 判定
+- 多引擎接入同一 API：--codex/--agy 等选择引擎，clawo fanout 并行分发
+- 跨引擎会话切换（session_handoff）与崩溃后可恢复的检查点工作流
+- JSONL 运行账本按模型对比 verified 率与费用，支持 maxBudgetUsd 上限
 
 ## 适用场景
 
-- 让编码 agent 修复测试并用独立检查验证结果
-- 同一任务分发给多个引擎并行比较
-- 无人值守长目标运行并控制花费
-- 在编辑器中通过 MCP/ACP 调用统一 agent 入口
+- 让 agent 修 bug 后由运行时跑独立测试验证是否真的通过
+- 同一任务并行发给多个引擎对比结果
+- 给无人值守长任务设定预算上限并留存费用账本
+- 在编辑器中通过 MCP/ACP 接入统一的多引擎 agent 入口
 
 ## 场景标签
 
-`编码 Agent` `多智能体` · 领域:Agent 开发
+`多智能体` `编码 Agent` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L16: **Claw Orchestrator** runs Claude Code, Codex, Antigravity, Grok Build, OpenCode and any
-> L57: - 🔌 **Fits your tools**: a CLI, an MCP server, an ACP agent for editors, an OpenAI-compatible endpoint, a TypeScrip
-> L152: |**Multi-engine runtime**|One interface and one set of CLI flags over the engines above, any ACP agent, and custom
+> L3:  Claw Orchestrator: A Unified Runtime for Coding Agent CLIs
+> L17: Agent Client Protocol agent (Kimi Code, dsh) as persistent sessions behind one API.
+> L18: A run counts as done only when checks the agent did not write pass: you declare the checks, the runtime runs them
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `37def77f27ca` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ad43cc91dff6` · [字段定义](../../DATASET.md)*

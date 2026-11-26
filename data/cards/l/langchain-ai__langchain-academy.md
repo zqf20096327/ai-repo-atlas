@@ -2,9 +2,9 @@
 
 ⭐ 3,044 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/langchain-academy) · [官网](https://academy.langchain.com) · 组织维护
 
-**LangGraph 官方教学课程仓库：7 个模块的入门与部署教程**
+**面向开发者的 LangGraph 基础概念课程配套 notebook 仓库**
 
-LangChain 官方学院的教学代码仓库，以 Jupyter notebook 形式提供 LangGraph 入门课程：Module 0 为环境搭建，Module 1-5 逐步讲解 LangGraph 构建，Module 6 覆盖 agent 部署。每个模块附 studio 子目录，可用 LangGraph API 与 Studio（通过 langgraph dev 本地服务器）查看和测试图。需配置 OpenAI、LangSmith、Tavily 等 API key，部分课程（Module 4）使用 Tavily 网络搜索。仅支持 Python 3.11-3.13。
+LangChain 官方学院推出的「Introduction to LangGraph」课程配套代码库，按模块组织 notebook：模块 0 为环境配置，模块 1–5 递进讲解 LangGraph 构建主题，模块 6 涵盖 agent 部署。每个 notebook 顶部附课程链接，各模块含 studio 子目录，可配合 LangGraph API 与 Studio 本地开发服务器（langgraph dev）查看和测试图。运行需 Python 3.11–3.13、venv 环境、Jupyter，以及 OpenAI、LangSmith、Tavily 的 API key。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ LangChain 官方学院的教学代码仓库，以 Jupyter notebook 形式提供 
 
 ## 能力要点
 
-- 7 个递进模块覆盖 LangGraph 基础到 agent 部署
-- 每模块含 studio 子目录，可经 LangGraph API 与 Studio 测试图
-- 提供 Mac/Linux/WSL 与 Windows PowerShell 两套环境搭建步骤
-- 集成 LangSmith 追踪与 Tavily 搜索 API
+- 6 个模块递进覆盖 LangGraph 基础到 agent 部署
+- 每模块含 studio 子目录的图，可用本地 Studio 服务器查看
+- 支持通过 LangSmith LLM Gateway 路由 ChatOpenAI 调用
+- 提供 Mac/Linux/WSL 与 Windows 两套环境配置说明
 
 ## 适用场景
 
-- 跟学 LangGraph 的基础概念与构建方式
-- 在 Studio 中本地查看和测试教学示例图
-- 了解 LangGraph agent 的部署流程
+- 系统学习 LangGraph 的状态图与 agent 构建
+- 在本地 Studio 中查看和调试课程中的图
+- 准备 LangGraph agent 的部署（模块 6）
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ LangChain 官方学院的教学代码仓库，以 Jupyter notebook 形式提供 
 
 ## 证据(README 行号)
 
-> L5: Welcome to LangChain Academy, Introduction to LangGraph!
+> L6: This is a growing set of modules focused on foundational concepts within the LangChain ecosystem.
 > L7: Module 0 is basic setup and Modules 1 - 5 focus on building in LangGraph, progressively adding more advanced themes.
+> L8: In each module folder, you'll see a set of notebooks. A link to the LangChain Academy lesson is at the top of each n
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `5d97a0c190e8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `469df885c20f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 22,390 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/liyupi/ai-guide) · [官网](https://ai.codefather.cn) · 个人维护 · 中文 README
 
-**程序员鱼皮的免费 AI 知识库与 Vibe Coding 零基础教程**
+**免费 AI 知识库 + Vibe Coding 零基础教程，面向大众学习**
 
-免费开放的 AI 知识共享平台，内容以 Markdown 教程文档组织，配套 VuePress 建站代码。主线是《Vibe Coding 零基础入门教程》，覆盖基础入门、AI 编程工具选型、项目实战、经验技巧、产品变现、进阶编程学习与资源大全七个板块；另设 AI 知识库导航，收录 DeepSeek 上手与本地部署、Cursor/Claude Code 使用技巧、Spring AI 框架体验、AI 工具测评及应用场景教程。提供学习路径推荐与配套视频课程，支持中英文，开放社区共建。
+程序员鱼皮维护的免费开放 AI 知识共享平台，以 Markdown 教程文档 + VuePress 建站形式组织内容。主体是《Vibe Coding 零基础入门教程》，覆盖 AI 编程工具选择、项目实战、经验技巧、产品变现与编程进阶；另含 AI 知识库导航（DeepSeek 上手与本地部署、Cursor/Claude Code 技巧、Spring AI 框架、工具测评、办公/视频等应用场景）。提供在线阅读站与 B 站视频教程，支持中英繁翻译，接受社区共建。教程文档为 CC BY-NC-SA 协议，禁止商业使用。
 
 ## 筛选速览
 
@@ -26,17 +26,16 @@
 
 ## 能力要点
 
-- Vibe Coding 零基础教程：基础、工具、实战、变现等七板块
-- AI 知识库导航：DeepSeek 上手/本地部署、Cursor/Claude Code 技巧、Spring AI 体验
-- 提供零基础与有编程基础两种学习路径推荐
-- 教程文档 CC BY-NC-SA 4.0、建站代码 MIT 的双协议开源
+- 零基础 Vibe Coding 教程，含工具选择、项目实战、变现路径
+- AI 知识库导航：DeepSeek 本地部署、Cursor/Claude Code 技巧、MCP 开发
+- 提供在线阅读站与配套 B 站视频课程
+- 教程文档 CC BY-NC-SA、建站代码 MIT 的双协议结构
 
 ## 适用场景
 
-- 零基础学习用 AI 编程工具从 0 到 1 做出产品
-- 查阅 DeepSeek、Cursor 等工具的入门与技巧教程
-- 了解 AI 产品变现与学习路径规划
-- 查找提示词模板与 AI 工具资源
+- 零基础学习用 AI 编程工具做出并上线自己的产品
+- 查找 DeepSeek、Cursor 等工具的中文上手指南
+- 了解 AI 工具测评与变现思路
 
 ## 场景标签
 
@@ -44,9 +43,9 @@
 
 ## 证据(README 行号)
 
+> L5:  完全免费开放的 AI 知识共享平台 | 减少信息差，让每个人都能享受技术红利
 > L12: 这是一个 **完全免费开放** 的 AI 知识共享平台，汇总整合目前热门的 AI 工具相关信息，包括产品介绍、使用指南、工具测评、技巧分享、应用场景、AI 变现、行业资讯、教程资源等一系列内容。
-> L20: ## 🔥 鱼皮的 Vibe Coding 零基础入门教程
-> L66: ## AI 知识库导航
+> L114: ├── 🔥 Vibe Coding 零基础教程/     # 重磅教程，强烈推荐
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7001d2b7a2b6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4bfbf49f2272` · [字段定义](../../DATASET.md)*

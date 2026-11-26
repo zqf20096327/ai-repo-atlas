@@ -2,9 +2,9 @@
 
 ⭐ 7,274 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/datajuicer/data-juicer) · [官网](https://datajuicer.github.io/data-juicer/) · 组织维护 · 中文 README
 
-**面向基础模型的数据处理系统：清洗/去重/合成/分析数据**
+**面向基础模型的数据处理系统：清洗/合成/分析数据**
 
-将数据处理视为可组合基础设施的数据处理系统：提供 200+ 算子覆盖文本、图像、音频、视频与多模态数据，通过可版本化的 YAML 配方组织清洗、过滤、去重、合成与分析流程；支持 Ray 分布式扩展到多节点集群，内置 OP 融合、自适应并行与 CUDA 加速，并附带追踪与调试能力。另提供自然语言数据精炼模型 Juicer。以 PyPI 包安装，提供 JupyterLab Playground 与 Docker 镜像。
+Data-Juicer 将数据处理组织为可组合的基础设施，提供 200+ 覆盖文本、图像、音频、视频与多模态数据的算子，支持通过 YAML 配方构建可复现的清洗、去重、合成与分析流水线，应用于预训练语料、Agent 交互轨迹、RAG 索引等数据准备环节。提供 PyPI 安装、Python API 与 JupyterLab 教程，支持从单机到 Ray 集群扩缩，内置算子融合与自适应并行等优化，并包含自然语言数据精炼模型 Juicer。
 
 ## 筛选速览
 
@@ -21,26 +21,26 @@
 ## 能力要点
 
 - 200+ 算子覆盖文本/图像/音频/视频/多模态数据
-- YAML 配方式可复现流水线，支持版本化与热重载
-- Ray 分布式：50 节点 2 小时处理 70B 样本，5TB 去重 2.8h
-- 自然语言数据精炼模型 Juicer 可本地部署
+- Recipe-first：YAML 流水线可版本化、共享与 fork
+- 支持 Ray 集群分布式处理与自动算子融合
+- 内置自然语言数据精炼模型 Juicer
 
 ## 适用场景
 
-- 清洗与去重网页级预训练语料库
-- 整理 agent 交互轨迹数据
-- 为领域 RAG 索引准备数据
-- 在集群上大规模处理多模态数据集
+- 清洗与去重网络规模的预训练语料
+- 整理 Agent 交互轨迹数据并做质量过滤
+- 为 RAG 构建语义分块与去重的索引数据
+- 在大规模集群上并行处理多模态数据集
 
 ## 场景标签
 
-`数据分析` `MLOps` · 领域:效率与自动化
+`MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L19: Data-Juicer (DJ) transforms raw data chaos into AI-ready intelligence. It treats data processing as *composable inf
-> L21: Whether you're deduplicating web-scale pre-training corpora, curating agent interaction traces, or preparing domain
 > L56: - **Foundation Models**: Pre-training, fine-tuning, RL, and evaluation-grade curation
+> L61: - **Scale**: Process 70B samples in 2h on 50 Ray nodes (6400 cores)
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1911b2a8a8a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `bd01b943af0d` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,675 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/simplexai-labs/linger) · [官网](heylinger.com) · 组织维护
 
-**在消费级电脑上本地运行的个人 AI 代理**
+**本地运行的开源个人 agent：邮件/日历/聊天成共享记忆**
 
-开源个人代理，本体由本地 MoE 推理引擎 PolyStrata 驱动：将最常被选中的专家放在 GPU、其余放在 RAM/SSD，使 125B 模型可在 12 GB 显存加 64 GB RAM 的机器上运行。功能包括安装时检测硬件并推荐安装模型（Model Autopilot）、每晚把邮件/聊天/会议写入本地 wiki 的共享记忆、主动发消息的 Another Me 代理（按用户反馈夜间重写决策规则）、agent 团队、后台任务委派、模型调度与会议转写。提供 macOS/Windows/Linux 桌面安装包，Intel Mac 走 Docker Compose。
+面向个人用户的本地 AI agent 应用，在消费级 Mac 和 PC 上运行本地模型（借助自研 MoE 推理引擎 PolyStrata，将高频专家放 GPU、其余放 RAM/SSD）。功能包括：自动检测硬件并推荐安装模型的 Model Autopilot、夜间将 Gmail/Outlook/Slack/会议整理为个人 wiki 的共享记忆、主动提醒的 Another Me（通过夜间重写决策规则实现自我改进）、agent 团队协作与后台任务委派。桌面应用支持 macOS/Windows/Linux，或以 Docker Compose 部署服务器。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- PolyStrata 推理引擎：125B MoE 模型在 12 GB GPU + 64 GB RAM 上运行（45.5 tok/s @RTX 3060）
-- Model Autopilot：检测 GPU/内存/带宽后自动推荐、安装并验证模型
-- 每晚将邮件、Slack、会议归档为可供所有代理检索的本地 wiki
-- Another Me 代理主动跟进事件，并按用户反应夜间重写规则
+- PolyStrata 引擎：125B MoE 模型在 12 GB GPU + 64 GB RAM 上运行
+- Model Autopilot 一条命令检测硬件、推荐并安装模型（64K+ 上下文）
+- 夜间将邮件、聊天、会议整理为所有 agent 可搜索的个人 wiki 图谱
+- Another Me 主动跟进并通过每夜规则重写学习用户偏好
 
 ## 适用场景
 
-- 在个人电脑上本地运行代理助手而不依赖云端 API
-- 让代理记住邮件/聊天/会议中的信息并跨会话检索
-- 让代理主动跟进收件箱与日程并在需要时通知我
-- 多个代理按同一份 team.md 协作完成一项任务
+- 让 agent 读写我的邮箱、日历和 Slack 并主动提醒待办
+- 在无云服务费的本地环境运行带记忆的个人助理
+- 一台模型同时驱动多个 agent 协作与后台长任务
 
 ## 场景标签
 
-`推理引擎` `AI 助手` · 领域:对话与助手
+`AI 助手` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3:  Linger is an open-source personal agent with a Claude-class brain running locally on your PC.
-> L28: Efficient AI model–harness co-design brings a full local agent to consumer Macs and PCs. Our MoE inference engine, 
-> L51: One command detects your hardware, recommends the best model, installs it and checks it. In our lab we run an archi
+> L18: - **A Claude-class brain, running locally.** A 125B model on a 12 GB GPU, on everyday Macs and PCs.
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `eca1f7133980` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fd2808e6e636` · [字段定义](../../DATASET.md)*

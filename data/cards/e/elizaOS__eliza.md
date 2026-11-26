@@ -2,9 +2,9 @@
 
 ⭐ 19,920 · Java · MIT · 推送 2026-11-25 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
 
-**面向开发者的 agentic 操作系统规范与运行时（Eliza v4 on Vibestack）**
+**面向开发者的开源 agentic 操作系统：agent 运行内核与插件框架**
 
-该仓库定义 Eliza v4 on Vibestack 的规格说明，覆盖内核、agent 宿主、设备镜像、云服务与助手插件；agent 在设备端运行，云端提供身份、计费与模型访问。规格包含需求、Quint 模型及 VibeLang 和 Effect 实现的生成契约。构建要求 Node 26 与 pnpm 10.24.0，通过 pnpm gen/check/verify 生成契约、检查模型轨迹、验证安全义务；另含基于 Android Keystore 与 PGlite Cloud Worker 的 Android 密码恢复测试夹具。
+Eliza v4 on Vibestack 的规格化仓库，覆盖 kernel、agent host、device image、cloud services 与 assistant plugins；agent 在设备端运行，云端负责 identity、billing 与 model access。规格包含 requirements、Quint 模型及 VibeLang/Effect 生成的 contracts。使用 Node 26、pnpm 10.24.0 与 Dafny 4.11，通过 pnpm 脚本生成 contracts、检查模型轨迹、证明安全义务并运行 journeys，经 pnpm accept 记录评审后实现各 package 的 shell。含 Android Keystore 密码恢复测试 fixture。
 
 ## 筛选速览
 
@@ -27,20 +27,20 @@
 
 ## 能力要点
 
-- 规格化覆盖内核、agent 宿主、设备镜像、云服务与助手插件
-- 设备端运行 agent，云端提供身份、计费与模型访问
-- Quint 模型与生成的 VibeLang/Effect 契约，pnpm check 做模型轨迹检查与安全义务证明
-- Android Keystore 密码恢复测试夹具（Android 15+ 模拟器）
+- agent 在设备端运行，云端提供 identity、billing 与 model access
+- 基于 Quint 模型与生成 contracts 的规格驱动开发流程
+- pnpm check 验证模型轨迹、安全义务证明与 journeys
+- 提供 Android Keystore 与 PGlite Cloud Worker 的密码备份/恢复 fixture
 
 ## 适用场景
 
-- 按规格构建运行在设备端的 Eliza agent
-- 验证 agent 系统的安全义务与模型轨迹
-- 测试 Android 设备上的密码备份与恢复流程
+- 构建并验证运行在设备端的自主 agent
+- 通过规格生成 contracts 并进行形式化安全验证
+- 测试跨设备的密码 vault 备份与恢复流程
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 low · 依据 README sha `713b0a39877c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `df2e9ba79ac3` · [字段定义](../../DATASET.md)*

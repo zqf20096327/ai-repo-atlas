@@ -1,10 +1,10 @@
 # kornia/kornia
 
-⭐ 12,409 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kornia/kornia) · [官网](https://kornia.readthedocs.io) · 组织维护 · 中文 README
+⭐ 12,409 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kornia/kornia) · [官网](https://kornia.readthedocs.io) · 组织维护
 
-**面向空间 AI 开发者的可微分几何计算机视觉 PyTorch 库**
+**基于 PyTorch 的可微几何计算机视觉库，面向空间 AI 开发**
 
-基于 PyTorch 的可微分计算机视觉库，提供 1,200+ 公开算子，覆盖相机模型与对极几何、RANSAC 鲁棒估计、特征检测描述与匹配、图像增强、形态学、损失函数等；支持逐样本参数的批量调用、CPU/CUDA/MPS 张量与 float16/bfloat16、torch.compile 与超过 1,000 个算子的 ONNX 导出。附预训练模型（YuNet 人脸检测、LoFTR/LightGlue 特征匹配、SAM 分割等）。由志愿者维护，通过 PyPI 安装。
+构建于 PyTorch 之上的可微计算机视觉库，提供 1200+ 公开算子，涵盖相机模型、对极几何、最小解算器与 RANSAC、特征检测/描述/匹配、图像处理与增广等，输入在何设备上即在何设备上运行，无 NumPy 往返。支持批量逐样本参数调用、保留梯度的可微几何变换，以及 SIFT、DISK、LoFTR、LightGlue 等本地特征方法；多数算子支持 torch.compile 与 ONNX 导出。以 PyPI 包分发，接受 CPU/CUDA/MPS 张量，float16/bfloat16 依算子限制支持。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 1,200+ 可微分算子，含相机模型、对极几何、RANSAC、PnP 求解器
-- AugmentationSequential 对图像/掩码/框/关键点同步变换并可逆
-- 支持 CPU/CUDA/MPS 与 float16/bfloat16，1,000+ 算子可导出 ONNX
-- 内置 LoFTR、LightGlue、SAM、YuNet 等预训练模型
+- 1200+ 公开算子，覆盖几何、特征、增广、形态学等类别
+- 批量调用支持逐样本参数（sigma、角度、变换矩阵按 batch 传入）
+- 可微几何：depth_to_3d_v2、相机模型（Brown–Conrady/Kannala–Brandt）、李群 So3/Se3
+- 1000+ 算子可导出 ONNX，多数配置可在 torch.compile 下运行
 
 ## 适用场景
 
-- 为深度学习训练构建批量可微分的数据增强流水线
-- SLAM/机器人中的几何估计：本质矩阵、单应矩阵、PnP 求解
-- GPU 上批量执行特征检测、描述与匹配
-- 将视觉算子导出为 ONNX 部署
+- 为深度学习训练构建带标注的图像增广流水线
+- 在 GPU 上批量执行几何变换与特征匹配
+- 做相机标定、位姿估计与三维重建相关开发
+- 将视觉算子导出 ONNX 部署到其他运行时
 
 ## 场景标签
 
-`图像视频处理` `目标检测` · 领域:感知与多模态
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L21: **Kornia** is a differentiable computer vision library that provides a rich set of differentiable image processing 
 > L83: 3. **AI Models**
+> L84: Leverage pre-trained AI models optimized for a variety of vision tasks, all within the Kornia ecosystem.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `09a6bc52bc18` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5bbe296e269b` · [字段定义](../../DATASET.md)*

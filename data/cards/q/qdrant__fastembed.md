@@ -2,9 +2,9 @@
 
 ⭐ 3,313 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/qdrant/fastembed) · [官网](https://qdrant.github.io/fastembed/) · 组织维护
 
-**轻量级 Python 嵌入生成库，基于 ONNX Runtime 无需 GPU**
+**轻量 Python 嵌入生成库：文本/图像/多模态向量与重排**
 
-Qdrant 维护的 Python 嵌入向量生成库：通过 ONNX Runtime 运行各类嵌入模型，不依赖 PyTorch 与 GPU，支持 CPU 与可选 GPU（fastembed-gpu 包，CUDA 12.x）。覆盖稠密文本嵌入、稀疏嵌入（SPLADE++）、迟交互模型（ColBERT/ColPali）、图像嵌入与交叉编码器重排序，可加载列表外的自定义模型。面向构建检索/RAG/向量搜索的开发者，可与 Qdrant Client 搭配使用。
+基于 ONNX Runtime 的 Python 嵌入生成库，无需 GPU 与 PyTorch 依赖，可在 AWS Lambda 等 serverless 环境运行。支持稠密文本嵌入、稀疏嵌入（SPLADE++）、Late Interaction 模型（ColBERT）、图像嵌入、多模态 ColPali 以及交叉编码重排器，并支持接入列表外自定义模型与 GPU 运行（需另装 fastembed-gpu 包）。默认模型为 MTEB 排行榜中的 Flag Embedding，支持 query/passage 前缀。与 Qdrant 客户端提供集成安装方式。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Qdrant 维护的 Python 嵌入向量生成库：通过 ONNX Runtime 运行各类
 
 ## 能力要点
 
-- 稠密/稀疏/迟交互文本嵌入与图像嵌入、多模态（ColPali）
-- 基于 ONNX Runtime，无需 PyTorch 依赖与 GPU 即可运行
-- 支持自定义列表外模型加载与文本交叉编码器重排序
-- 可选 GPU 支持（fastembed-gpu，CUDA 12.x）
+- 基于 ONNX Runtime，无需 GPU 与 PyTorch 大体积依赖
+- 支持稠密、稀疏（SPLADE++）、Late Interaction（ColBERT）、图像与多模态（ColPali）嵌入
+- 提供交叉编码重排器（TextCrossEncoder）
+- 支持加载受支持列表之外的自定义模型（ModelSource/PoolingType）
 
 ## 适用场景
 
-- 为 RAG 与向量搜索流水线生成查询和文档嵌入
-- 在 Serverless 等无 GPU 环境运行嵌入模型
-- 配合 Qdrant 做检索，或用重排序器精排结果
+- 为检索增强生成（RAG）流程批量生成文档与查询向量
+- 为向量数据库（如 Qdrant）构建检索索引
+- 在无 GPU 的 serverless 环境中生成嵌入
+- 对检索结果做交叉编码重排
 
 ## 场景标签
 
@@ -39,6 +40,7 @@ Qdrant 维护的 Python 嵌入向量生成库：通过 ONNX Runtime 运行各类
 
 > L3: FastEmbed is a lightweight, fast, Python library built for embedding generation. We support popular text models. Ple
 > L9: 1. Light: FastEmbed is a lightweight library with few external dependencies. We don't require a GPU and don't downlo
+> L35: Fastembed supports a variety of models for different tasks and modalities.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `7a3151e8c00c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `033ef5854bf9` · [字段定义](../../DATASET.md)*

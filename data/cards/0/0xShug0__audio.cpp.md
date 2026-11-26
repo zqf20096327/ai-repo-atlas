@@ -2,15 +2,15 @@
 
 ⭐ 4,460 · C++ · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/0xShug0/audio.cpp) · 个人维护
 
-**纯 C++ 本地音频模型推理引擎：运行 TTS/ASR 等任务**
+**纯 C++ 本地音频模型推理引擎：无需 Python 跑 TTS/ASR 等**
 
-基于 ggml 的 C++ 音频推理框架，通过统一 CLI 与 server API 本地运行 154 个音频模型家族（250+ 变体），覆盖 TTS、ASR、语音克隆/转换、分离、对齐、音乐生成、VAD 等任务。支持 CUDA、HIP/ROCm、Vulkan、Metal、WebGPU、SYCL 与 CPU 后端，运行于 Windows/Linux/macOS，无 Python 依赖，提供内置 WebUI（Studio/Arena/TTS 应用）、GGUF 打包、LoRA 适配器、流式推理与 C ABI 库。模型权重许可与本项目许可分离，另有 Audio Model Architecture Atlas 收录 100+ 模型架构。
+基于 ggml 的音频推理框架，通过共享 CLI 与 server API 在本地运行 TTS、ASR、语音克隆、变声、音乐生成、分离、对齐、VAD 等任务，README 列出 154 个模型家族、250+ 变体。支持 CPU、CUDA、HIP/ROCm、Vulkan、Metal、WebGPU、SYCL 后端，跨 Windows/Linux/macOS，含 ARM NEON 与 Rockchip RKNN 优化。内置 WebUI（Studio 语音生成、Arena 模型对比、TTS 应用）。无 Python 依赖，提供 C ABI 库、便携构建包与源码编译路径。模型权重许可证与本体许可证分离。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 154 个音频模型家族、250+ 变体，统一 CLI 与 server API 调用
-- 支持 CPU/CUDA/HIP/Vulkan/Metal/WebGPU/SYCL 后端，含 ARM NEON 与 Rockchip NPU 优化
-- 内置 WebUI：语音克隆 Studio、模型对比 Arena、TTS 叙事编辑
-- GGUF 打包、LoRA 适配器、流式会话与 C ABI 集成库
+- 154 个音频模型家族、250+ 变体，经共享 CLI 与 server API 本地运行
+- 7 类后端：CPU/CUDA/HIP/ROCm/Vulkan/Metal/WebGPU/SYCL，含 ARM NEON 与 RKNN 优化
+- 内置 WebUI：Studio 语音生成/克隆、Arena 模型对比、TTS 叙事编辑
+- 提供 C ABI 库、GGUF 打包、LoRA 适配器加载与流式推理
 
 ## 适用场景
 
-- 本地运行 TTS 与语音克隆生成语音
-- 本地批量转录语音为文字（ASR/说话人分轨）
-- 在无 Python 环境的机器上部署音频模型推理
-- 浏览器 WebGPU 环境下运行音频推理
+- 在没有 Python 环境的机器上本地跑 TTS 与语音识别
+- 批量生成或克隆配音，组装旁白与跨语言配音
+- 在 Apple Silicon、AMD 或仅 CPU 设备上做音频推理
+- 通过 server API 把语音能力集成到自己的应用
 
 ## 场景标签
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `853323a1ee53` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `aa08952d088c` · [字段定义](../../DATASET.md)*

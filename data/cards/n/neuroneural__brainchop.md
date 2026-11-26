@@ -2,9 +2,9 @@
 
 ⭐ 648 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/neuroneural/brainchop) · [官网](https://brainchop.org) · 组织维护
 
-**浏览器本地运行的 3D MRI 脑部分割与渲染工具**
+**浏览器端本地 3D MRI 脑部分割与渲染工具**
 
-BrainChop 在用户设备上以纯 JS 方式运行 3D MeshNet 体积分割，通过 WebGPU、WebGL2 与多线程 WebAssembly CPU 三级后端回退适配不同环境，并使用 NiiVue 渲染多平面与 3D 视图。扫描数据不离开设备，且不加载客户端分析脚本。提供颅骨剥离、皮层下分区、组织概率图等多个模型，含 CLI 与 Python 形式；README 注明仅面向科研与教学用途，未作为医疗器械获批用于临床诊断。开发侧提供 npm 脚本与 Playwright 端到端测试。
+BrainChop 在用户设备上通过 @brainchop/core（纯 JS WebGPU 引擎，含低内存分阶段、WebGL2 回退与多线程 WebAssembly CPU 回退）运行 3D MeshNet 体积分割，并配合 NiiVue 渲染多平面与 3D 视图。提供多个模型：多模态颅骨剥离、18 类皮层下与组织分割、GM/WM/CSF 部分体积估计（实验性）、104 区 Desikan-Killiany 分割。数据不离开设备，无客户端分析脚本。声明仅供研究教育用途，未作为临床诊断医疗器械获批。开发提供 npm 命令与 Playwright E2E 测试。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ BrainChop 在用户设备上以纯 JS 方式运行 3D MeshNet 体积分割，通
 
 ## 能力要点
 
-- 纯 JS WebGPU 优先，WebGL2 与多线程 WASM CPU 自动回退
-- 数据不离开设备，零客户端分析脚本
-- 支持多模态颅骨剥离与 18/104 类分区等多个模型
-- URL 参数可指定模型、计算后端与内存模式
+- 在浏览器端运行 3D MeshNet 体积分割，数据不离开设备
+- WebGPU 引擎附 WebGL2 回退与多线程 WebAssembly CPU 回退
+- 支持 5 个模型：mindgrab 颅骨剥离、mindmap/mindsnap/mindmap-fast 分割等
+- 提供 URL 参数强制指定模型与计算后端
 
 ## 适用场景
 
-- 在浏览器中本地分割 MRI 脑部影像并做颅骨剥离
-- 神经影像研究中的皮层与皮层下分区
-- 教学场景演示 3D MRI 渲染与分割流程
+- 在浏览器中对 MRI 脑部图像做分割与颅骨剥离
+- 生成 GM/WM/CSF 组织概率图与脑区标注
+- 本地环境下处理敏感神经影像数据
 
 ## 场景标签
 
-`科研工具` `目标检测` · 领域:学习与行业
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L7:  Local, privacy-first 3D MRI brain segmentation and skull stripping in the browser.
-> L14: BrainChop runs 3D MeshNet volumetric segmentation entirely on the user's device via `@brainchop/core` (pure-JS WebG
+> L15: BrainChop runs 3D MeshNet volumetric segmentation entirely on the user's device via `@brainchop/core` (pure-JS WebG
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d0ae4f6c5934` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `179e0e3f1a43` · [字段定义](../../DATASET.md)*

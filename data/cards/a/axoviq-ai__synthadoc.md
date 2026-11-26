@@ -2,9 +2,9 @@
 
 ⭐ 2,002 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/axoviq-ai/synthadoc) · [官网](https://axoviq.com/resources/synthadoc) · 组织维护
 
-**把原始文档编译为本地结构化 wiki 的 LLM 知识引擎**
+**面向个人与企业的本地知识编译引擎，将文档编译为可审计的 Markdown wiki**
 
-Synthadoc 读取 PDF、表格、PPT、网页、图片、视频、Word、TXT 与 AI 会话记录等源文档，在摄取阶段用 LLM 将其合成为持久化的结构化 wiki：自动构建交叉引用、检测矛盾、标记孤儿页，每条声明带 ^[file:L-L] 行级引用，输出为本地 Markdown，可在 Obsidian 或任何 wiki 生态中打开。内置审计日志（audit.db）、成本软警告/硬阈值、三层缓存、九个对话式维护工作流（预览 diff、确认后写入、可回滚）、REST API 与 12 工具 MCP server。面向个人、小团队与企业；AGPL-3.0 许可，本地优先、仅绑定 localhost。
+Synthadoc 读取 PDF、表格、PPT、网页、音视频等源文档，用 LLM 在摄取阶段将其合成为持久化的结构化 wiki：自动建立交叉引用、检测矛盾、标记孤页，每条声明附 ^[file:L-L] 行级引用。提供 CLI、REST API、12 工具 MCP 服务器、Obsidian 插件与 Web UI 四类接口；内置不可变 audit.db 审计日志、成本软警告/硬门槛、三层缓存、五态页面生命周期，以及九种需人工确认的会话式维护工作流。输出为纯本地 Markdown，兼容 OKF。AGPL-3.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Synthadoc 读取 PDF、表格、PPT、网页、图片、视频、Word、TXT 与 
 
 ## 能力要点
 
-- 摄取时编译：新来源丰富并交叉链接整个语料，而非追加 chunk
-- 每条声明带 ^[file:L-L] 行级引用，支持按引用行核验
-- 九个对话式维护工作流：矛盾/孤儿/断链/内容健康解析，可回滚
-- 不可变 audit.db 审计日志记录每次摄取、查询与成本事件
+- 摄取时编译知识而非查询时检索，矛盾检测与五态页面生命周期
+- 每条声明带 ^[file:L-L] 行级引用，Obsidian Source Viewer 可核验
+- audit.db 审计日志、成本阈值硬门槛、三层缓存控制重复摄取开销
+- REST API、MCP 服务器、Docker 镜像与本地 Ollama/Gemini 等多后端
 
 ## 适用场景
 
-- 把研究资料和文档积累成可维护的个人 wiki
-- 搭建需要本地留存和审计的部门知识库
-- 跨多个 wiki 做一次提问并得到带出处的回答
+- 为个人或团队把散落的 PDF/网页/会议记录编译成可检索的本地知识库
+- 合规敏感场景下在本地维护带审计与成本上限的知识平台
+- 按部门部署多端口 wiki 并跨库联合查询
+- 长期积累文档时自动发现矛盾、孤页与过期页面并修复
 
 ## 场景标签
 
@@ -37,9 +38,8 @@ Synthadoc 读取 PDF、表格、PPT、网页、图片、视频、Word、TXT 与 
 
 ## 证据(README 行号)
 
-> L27: **An LLM wiki you can trust and operate: compiled at ingest, cited to the source line, governed by an audit trail a
 > L33: Synthadoc reads your raw source documents — PDFs, spreadsheets, PPTs, web pages, images, videos, Word files, TXTs, 
-> L109: |Provider choice|LLM backends including free-tier Gemini and Groq, paid Anthropic/OpenAI/DeepSeek/MiniMax/Qwen (Da
+> L98: Most knowledge-management tools retrieve and summarize at query time. Synthadoc inverts this: it **compiles knowled
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `85c24f7ea735` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `90cba12017ba` · [字段定义](../../DATASET.md)*

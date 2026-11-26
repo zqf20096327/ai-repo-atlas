@@ -2,16 +2,16 @@
 
 ⭐ 25,643 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/OmniParser) · 组织维护
 
-**为视觉 GUI Agent 解析界面截图的结构化工具**
+**将 UI 截图解析为结构化元素的 GUI Agent 屏幕解析工具**
 
-微软发布的屏幕解析工具：将用户界面截图解析为结构化、易于理解的元素，供 GPT-4V 等视觉模型将动作准确定位到界面区域。配套 OmniTool 可用视觉模型控制 Windows 11 虚拟机，支持 OpenAI、DeepSeek、Qwen 与 Anthropic Computer Use 等模型。提供交互区域检测模型（YOLOv9-E）与图标功能描述模型，权重托管于 Hugging Face；通过 conda/pip 安装，附带 Gradio demo 与 demo.ipynb 示例。
+微软发布的屏幕解析工具，将用户界面截图解析为结构化、易理解的元素，提升 GPT-4V 等视觉模型在界面对应区域生成准确定位动作的能力。包含交互区域检测模型（基于 YOLOv9-E）与图标功能描述模型（caption），权重托管在 Hugging Face。提供 demo.ipynb 示例与 Gradio Demo；配套 OmniTool 可在 Windows 11 虚拟机中用自选视觉模型控制屏幕。安装需克隆仓库后用 conda 创建环境并 pip 安装依赖；早期版本模型权重沿用 AGPL 许可，V2 检测与描述模型为 MIT。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | CC-BY-4.0 |
+| 许可风险 | `viral` | CC-BY-4.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 将 UI 截图解析为结构化可交互元素
-- 交互区域检测模型（YOLOv9-E）与图标描述模型（Florence caption）
-- OmniTool 支持接入多家视觉模型控制 Windows 11 VM
-- Hugging Face Space 在线 demo 与 gradio_demo.py 本地 demo
+- 将 UI 截图解析为结构化元素供视觉模型定位操作
+- YOLOv9-E 交互区域检测 + 图标功能描述模型（MIT 许可）
+- OmniTool 支持 OpenAI/DeepSeek/Qwen/Anthropic 等模型控制 Windows 11 VM
+- 提供 HuggingFace Space 在线 Demo 与 Gradio 本地 Demo
 
 ## 适用场景
 
-- 为 GUI 自动化 Agent 提供屏幕元素定位
-- 用 OmniParser+OmniTool 在本地轨迹日志上构建训练数据管线
-- 在 Hugging Face Space 或本地 Gradio 中试解析效果
+- 为 GUI Agent 提供屏幕元素的检测与描述，辅助界面定位
+- 用 OmniParser+OmniTool 构建领域 Agent 的训练数据管线
+- 通过 HuggingFace Space 在线试用屏幕解析效果
 
 ## 场景标签
 
@@ -43,7 +43,6 @@
 
 ## 证据(README 行号)
 
-> L1: # OmniParser: Screen Parsing tool for Pure Vision Based GUI Agent
 > L10: **OmniParser** is a comprehensive method for parsing user interface screenshots into structured and easy-to-underst
 > L17: - [2025/2] We introduce OmniTool: Control a Windows 11 VM with OmniParser + your vision model of choice. OmniTool s
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `95de138747ad` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c46762878b35` · [字段定义](../../DATASET.md)*

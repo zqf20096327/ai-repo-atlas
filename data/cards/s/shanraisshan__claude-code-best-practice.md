@@ -2,9 +2,9 @@
 
 ⭐ 69,411 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
 
-**给 Claude Code 用户提供最佳实践与工作流整理的策展清单**
+**面向 Claude Code 用户的最佳实践与工作流聚合清单**
 
-一个围绕 Claude Code 的知识与资源聚合仓库：整理 Claude Code 的概念表（Subagents/Commands/Skills/Hooks/MCP Servers/Plugins/Memory 等）、Command→Agent→Skill 编排工作流实现、多套开发工作流（Research→Plan→Execute→Review→Ship）条目、跨模型使用机制（Plugin/MCP/Router）及 84 条来自社区与 Anthropic 成员的提示技巧。本身不含可运行代码主体，使用方式是阅读条目并访问各来源仓库。
+Claude Code 用法知识库：整理 Subagents/Commands/Skills/Hooks/MCP/Plugins 等特性的官方文档链接与 .claude/ 目录位置约定，收录 Command→Agent→Skill 编排工作流示例，汇总十余种社区开发工作流（Research→Plan→Execute→Review→Ship 模式）、跨模型协作机制（Plugin/MCP/Router）、技能与子代理合集清单及 84 条提示词与上下文管理技巧。使用者需自备 Claude Code，仓库本身不包含可安装的软件。
 
 ## 筛选速览
 
@@ -26,26 +26,25 @@
 
 ## 能力要点
 
-- 整理 Claude Code 概念表：agents/commands/skills/hooks/MCP/memory 等位置与用法
-- 提供 Command→Agent→Skill 编排工作流的实现说明
-- 收录 12 套社区开发工作流与多条跨模型桥接方案（Plugin/MCP/Router）
-- 84 条带来源的提示与上下文管理技巧
+- 整理 Subagents/Commands/Skills/Hooks/MCP 等特性的位置与最佳实践链接
+- Command→Agent→Skill 编排工作流（weather-orchestrator）示例
+- 汇总 13+ 社区开发工作流与跨模型协作三机制（Plugin/MCP/Router）
+- 84 条来自 Boris Cherny 等来源的使用技巧
 
 ## 适用场景
 
-- 我在用 Claude Code 时想查找官方推荐的目录结构与配置位置
-- 我想对比社区里不同的 plan/tdd/code-review 工作流再选一套上手
-- 我想让 Claude Code 配合其他模型或本地模型一起工作
-- 我想学习上下文管理与会话控制的实操技巧
+- 系统学习 Claude Code 的配置与工作流组织方式
+- 为自己的项目挑选社区工作流方法论
+- 查找可复用的 SKILL.md 技能合集与子代理库
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`提示工程` `精选清单` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L1: # claude-code-best-practice
-> L150: Repos primarily known as curated libraries of `SKILL.md` files (distinct from full workflow methodologies above). 
+> L20: ## 🧠 CONCEPTS
 > L178: ## 💡 TIPS AND TRICKS (84)
 
 ## 星数曲线
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `965b79f4b302` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `831f679b641c` · [字段定义](../../DATASET.md)*

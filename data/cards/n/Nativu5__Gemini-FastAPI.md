@@ -1,10 +1,10 @@
 # Nativu5/Gemini-FastAPI
 
-⭐ 720 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Nativu5/Gemini-FastAPI) · 个人维护
+⭐ 720 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Nativu5/Gemini-FastAPI) · 个人维护 · 中文 README
 
-**将 Gemini 网页版封装为 OpenAI 兼容 API 的自托管网关**
+**把 Gemini 网页版封装成 OpenAI 兼容 API 的服务**
 
-基于 FastAPI 的服务，用已登录 Gemini 网页会话的 Cookie 鉴权（无需 Google API Key），把网页版模型暴露为三类接口：OpenAI Chat Completions、OpenAI Responses 与 Gemini 原生 generateContent。支持流式、工具调用、结构化输出、图像/文件输入与图像生成、多账号请求分摊与独立代理。限制：temperature、top_p 等参数被接受但无效；结构化输出靠提示词请求并由服务端校验；依赖 Python 3.13+ 与 uv，或以 Docker 运行。
+基于 FastAPI 的自托管服务，通过登录后的 Gemini 网页会话 cookie 鉴权（无需 Google API Key），将网页版模型暴露为三类 API：OpenAI Chat Completions、OpenAI Responses 与 Gemini 原生 generateContent。支持流式输出、工具调用、结构化输出、图像/文件输入与图像生成，内置网页搜索，支持多账号轮询并各自配置代理。工具调用与结构化校验在提示中请求、由服务端事后检查；temperature 等参数被接受但不生效。声明用于教育与研究目的。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 三种 API 接口均支持流式、工具调用与结构化输出
-- 多账号分摊请求，每账号可配独立代理与浏览器指纹
-- 三种聊天模式（normal/temporary/auto_delete）管理 Google 账号中的会话留存
-- Cookie 过期的账号降级为访客会话，仅能回答文本
+- 三类 API 表面均支持流式、工具调用与结构化输出
+- 使用网页会话 cookie 鉴权，无需 Google API Key
+- 多账号请求分发，每账号可配置独立代理
+- 提供 Docker 与 Docker Compose 部署方式
 
 ## 适用场景
 
-- 把已有 OpenAI 格式的客户端接入 Gemini 网页版模型
-- 没有 Google API Key 时通过网页会话调用模型
-- 用多个 Google 账号分摊请求并各自走代理
+- 为已有 OpenAI 兼容客户端接入 Gemini 网页模型
+- 本地开发中用同一套接口调用多种网页版模型
+- 教育/研究场景下实验网页版模型的多模态输入输出
 
 ## 场景标签
 
- · 领域:LLM 基础设施/推理接入
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: Web-based Gemini models wrapped into an OpenAI-compatible API. Powered by HanaokaYuzu/Gemini-API.
 > L16: - **Three API surfaces**: OpenAI Chat Completions, OpenAI Responses, and Gemini-native `generateContent`.
-> L101: |`POST /v1/chat/completions`|OpenAI Chat Completions: streaming, tools, image and file input, `response_format`.|
+> L143: This project is not affiliated with Google or OpenAI and is intended solely for educational and research purposes.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5c337ffbbb04` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1fbb1244f5d8` · [字段定义](../../DATASET.md)*

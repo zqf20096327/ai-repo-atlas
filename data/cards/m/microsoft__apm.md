@@ -2,9 +2,9 @@
 
 ⭐ 4,452 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/apm) · [官网](https://microsoft.github.io/apm/) · 组织维护
 
-**给团队统一管理 agent 技能、插件与 MCP 服务器依赖的包管理器**
+**为 AI 编码 agent 管理技能/插件/MCP 依赖的包管理器**
 
-APM 将编码 agent 加载的技能、指令、提示、插件与 MCP 服务器当作依赖管理：在 apm.yml 中声明一次，apm install 按每个 harness 的自有格式写入文件，并在 apm.lock.yaml 记录精确 commit 与逐文件 SHA-256 哈希，支持传递依赖解析与 GitHub Action CI 安装。安全机制包括锁定完整性校验、漂移检测、隐藏 Unicode 内容扫描与 hooks/MCP 可执行审批；apm-policy.yml 支持组织级来源/可执行策略并可通过 apm audit --ci 在 PR 中强制执行。安装提供 Homebrew、curl/PowerShell 脚本、pip、WinGet、Scoop 多渠道。
+APM 将 coding agent 加载的技能、指令、提示词、hooks、插件与 MCP 服务器当作依赖管理：apm.yml 声明一次，apm install 按每个工具各自的配置格式写入并记录 commit 与 SHA-256 到 apm.lock.yaml，支持传递依赖解析与 GitHub Action CI 安装。面向在多仓库、多 agent 工具环境下协作的团队，提供完整性校验、漂移检测、内容扫描、审批机制与组织级策略（apm-policy.yml）在 PR 上强制执行。定位是依赖管理层，不充当沙箱。
 
 ## 筛选速览
 
@@ -20,21 +20,20 @@ APM 将编码 agent 加载的技能、指令、提示、插件与 MCP 服务器�
 
 ## 能力要点
 
-- 一份 apm.yml 声明，写入 9 种 harness 的各自格式，lockfile 逐文件 SHA-256 固定
-- 从 GitHub/GitLab/Azure DevOps/git URL 安装技能与插件，含传递依赖解析
-- apm audit 提供漂移检测、隐藏 Unicode 扫描与 CycloneDX/SPDX 清单导出
-- apm-policy.yml 组织级策略支持 warn/block 模式与 PR 门禁
+- 一份 manifest 写入 Copilot/Claude Code/Cursor 等九种 harness 各自格式
+- lockfile 记录 commit 与 SHA-256，哈希不符即拒绝
+- apm audit 做漂移检测与 PR 门禁，支持 CycloneDX/SPDX 导出
+- org policy 支持 warn/block 模式与审批 hooks/MCP 服务器
 
 ## 适用场景
 
-- 团队多仓库统一分发经过审批的技能、插件与 MCP 服务器
-- CI 中校验 agent 依赖与 lockfile 一致，防止配置漂移
-- 替代手工编辑各工具的 MCP JSON 配置文件
-- 为 agent 供应链建立组织级来源与可执行审批策略
+- 团队统一管理多仓库的 agent 技能与 MCP 服务器依赖
+- 在 CI 中校验 agent 配置未漂移或引入未审批来源
+- 企业通过内部 marketplace 分发审批过的插件与技能
 
 ## 场景标签
 
- · 领域:开发工具/依赖管理
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `991faec6def2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a89a30904201` · [字段定义](../../DATASET.md)*

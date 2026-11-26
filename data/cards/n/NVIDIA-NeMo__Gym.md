@@ -2,9 +2,9 @@
 
 ⭐ 1,357 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA-NeMo/Gym) · [官网](https://docs.nvidia.com/nemo/gym/main/about/) · 组织维护
 
-**面向开发者的模型与 agent 环境化评测/训练框架**
+**模型与 agent 的环境化评估/训练基础设施库**
 
-NVIDIA NeMo 生态中的 Python 库，通过「环境」统一评测与训练：每个环境由任务数据集、agent harness、verifier 与状态组成。提供环境开发接口、可扩展运行的本地服务器、常用基准与训练环境集合，支持从评测过渡到 SFT/RL 训练，并可接入外部训练框架与 agent harness。requirements 标注无需 GPU，需 Python 3.13.14+ 与 Git，通过 git clone 与 uv 安装，另提供容器镜像。
+NeMo Gym 是 NVIDIA NeMo 生态中用于评估与训练模型和 agent 的库：以环境（数据集+agent harness+verifier+状态）为核心抽象，提供环境开发接口、可扩展的评估/训练运行设施（Slurm 调度、多任务并发、OpenTelemetry 追踪），以及内置的基准与训练环境集合。通过 gym CLI 启动本地服务器协调模型、agent 与验证。GPU 非库运行必需，评估推理经外部 API 或 vLLM 等自托管模型完成；部分环境训练数据尚未公开。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ NVIDIA NeMo 生态中的 Python 库，通过「环境」统一评测与训练：
 
 ## 能力要点
 
-- 模块化 agent/环境/任务/verifier 接口与环境中心
-- 支持大规模并发评测与训练（数千并发环境）
-- 可搭配 NeMo RL、Unsloth、VeRL 等训练框架
-- 内置多种 agent harness（OpenHands、Mini SWE Agent、LangGraph 等）
+- 环境=数据集+agent harness+verifier+状态的可复用抽象
+- 统一 gym CLI 运行评估与训练，可扩展到数千并发环境
+- 接入 NeMo RL/Unsloth/VeRL 等训练框架与多类沙箱
+- 内置环境中心：多领域基准与训练环境集合
 
 ## 适用场景
 
-- 在有状态环境中评测模型或 agent（代码执行、工具调用、沙箱）
-- 团队间用共享环境与 verifier 做可复现评测
-- 对 agent 进行 SFT 或 RL 训练
-- 自建自定义评测/训练环境
+- 在带状态环境中评估模型或 agent（代码执行、工具调用）
+- 团队间用共享环境与验证器做可复现评估
+- 为 SFT/RL 训练批量生成环境交互轨迹
+- 构建自定义评估或训练环境
 
 ## 场景标签
 
-`Agent 框架` `模型评测` `强化学习` `微调` · 领域:Agent 开发
+`模型评测` `强化学习` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L11: NeMo Gym is a library for evaluating and improving models and agents using environments. NeMo Gym provides infrastr
-> L38: NeMo Gym is a component of NVIDIA NeMo, a GPU-accelerated platform for training generative AI models and optimizing
+> L17: - You need to **evaluate models or agents** in stateful environments (e.g. code execution, tool calling, sandboxes)
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `57ecab79d412` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a92fcf3cd226` · [字段定义](../../DATASET.md)*

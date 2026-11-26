@@ -2,9 +2,9 @@
 
 ⭐ 7,126 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/mizorewww/laya-mlx) · [官网](https://pypi.org/project/laya-mlx/) · 个人维护 · 中文 README
 
-**在 Apple Silicon 本地运行 Laya 类型化决策模型的 MLX 运行时**
+**开发者在 Apple Silicon 本地运行 Laya 类型化决策模型推理**
 
-将 Laya 开放权重模型移植到 MLX 的本地运行时：以单次双向前向传播对受限问题（选项挑选、量表打分、真伪判定）输出校准概率，不生成文本、不需要 PyTorch/Transformers 或云 API。支持语言路由、批量与长文档推理、置信度门槛、大选项集预筛与锦标赛、CLI/HTTP/MCP 服务及 LangChain 等集成。仅限 Apple Silicon 与 macOS 14+；为独立移植，训练与微调不在此包范围内。
+Laya-MLX 是将 Laya 决策模型权重以 MLX 原生运行的推理包：通过单次双向前向传播对约束问题（选项选择、量规打分、真假判断）输出校准概率，不生成 token、无需解析 JSON、不依赖 PyTorch 或云 API。提供 choice/score/noul 三类问题接口、语言路由、批处理、置信度门槛、大选项集短路/锦标赛，以及 CLI、HTTP、MCP 服务和 LangChain/LlamaIndex/CrewAI/Agno 集成。限制：仅支持 Apple Silicon、macOS 14+、Python 3.11+；CUDA、ONNX、训练不在范围内。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 单次前向传播输出校准概率，无 token 生成与 JSON 解析
-- M3 Max 上短问题中位延迟 13.4 ms（多语言检查点 7.4 ms）
-- 提供 CLI、HTTP、MCP 服务与 LangChain/LlamaIndex/CrewAI/Agno 集成 extras
-- 三个预转换 MLX 检查点附模型卡、校验结果与校验和
+- 单次双向前向输出校准概率，不生成 token
+- M3 Max 上短决策中位 13.4 ms，多语种检查点 7.4 ms
+- 提供 CLI、HTTP 服务、MCP 服务器与主流 agent 框架集成
+- 语言路由自动检测语言并选择检查点
 
 ## 适用场景
 
-- 在 Mac 本地对分类/打分/判定类问题做低延迟推理
-- 为 agent 工作流提供本地确定性决策输出
-- 用置信度门槛筛出需人工复核的低置信回答
-- 玩 Snake demo 观察模型实际决策速度
+- 本地毫秒级约束决策（选项选择/打分/判断）
+- 游戏 AI 决策（README 提供 Snake 演示）
+- 在 LangChain/LlamaIndex 等框架中作为决策组件接入
 
 ## 场景标签
 
@@ -39,7 +38,8 @@
 ## 证据(README 行号)
 
 > L7: Laya answers constrained questions (pick an option, score against a rubric, judge true or
-> L19: Requires Apple Silicon, macOS 14+ and Python 3.11+.
+> L8: false) with calibrated probabilities from one bidirectional forward pass. It generates no
+> L11: without PyTorch, Transformers or a cloud API.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0cd71f67a64d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `06f955c3ad1b` · [字段定义](../../DATASET.md)*

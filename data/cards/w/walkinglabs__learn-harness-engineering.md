@@ -1,10 +1,10 @@
 # walkinglabs/learn-harness-engineering
 
-⭐ 26,107 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/walkinglabs/learn-harness-engineering) · [官网](https://walkinglabs.github.io/learn-harness-engineering/) · 组织维护
+⭐ 26,107 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/walkinglabs/learn-harness-engineering) · [官网](https://walkinglabs.github.io/learn-harness-engineering/) · 组织维护 · 中文 README
 
-**面向开发者的 AI coding agent harness 工程课程（14 讲+8 项目）**
+**面向开发者的 AI 编码 Agent 环境工程课程（14 讲 8 项目）**
 
-以项目制课程形式讲解如何为 AI coding agent 构建运行环境（harness）：覆盖指令、状态、验证、范围、会话生命周期五个子系统，以及 loop engineering 与 graph engineering 等进阶主题。内容含 14 讲、8 个动手项目、可复制的模板资源库（AGENTS.md、feature_list.json、init.sh 等），全部课程材料以 MIT 许可发布并提供 15 种语言翻译，可通过 npm 脚本在本地生成 PDF 教材。毕设项目为一个 Electron 知识库桌面应用，随课程阶段演进。
+以项目制课程形式讲授如何为 AI 编码 Agent 构建可靠的运行环境（harness）：涵盖指令、状态、验证、范围与会话生命周期五个子系统，共 14 讲、8 个动手项目，配套可复制的模板库（AGENTS.md、feature_list.json、init.sh 等）与 PDF 生成管线。内容基于 OpenAI 与 Anthropic 的公开实践整理，支持 16 种语言阅读，提供 Discord 社区。用户为使用 Claude Code、Codex 等编码 Agent 的开发者。
 
 ## 筛选速览
 
@@ -25,27 +25,25 @@
 
 ## 能力要点
 
-- harness 五子系统框架：指令、状态、验证、范围、会话生命周期
-- 提供可复制模板库与 harness-creator 脚手架技能（AGENTS.md、init.sh、验证流程）
-- 14 讲 + 8 项目，15 种语言翻译，MIT 许可
-- 含 Claude Code、Codex、DeepSeek、Pi 四个生产 harness 的拆解章节
+- 14 讲课程与 8 个渐进式项目，围绕同一 Electron 知识库应用演进
+- 五子系统框架：指令、状态、验证、范围、会话生命周期
+- 提供 skills/harness-creator 技能快速生成 harness 骨架文件
+- 含 Claude Code、Codex、Pi、DeepSeek 四个前沿产品 harness 拆解
 
 ## 适用场景
 
-- 学习如何在真实仓库中让 coding agent 可靠地完成多轮任务
-- 为自己的项目搭建 AGENTS.md、状态文件与验证工作流
-- 参考生产级 agent harness（Claude Code/Codex/DeepSeek/Pi）的设计方式
+- 为正在使用编码 Agent 的项目补充结构化文件提升稳定性
+- 学习长时运行 Agent 任务的状态管理与验证机制
+- 把工作流显式绘制为图并加入并行与人审节点
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L19:  A project-based course on building the environment, state management, verification, and control mechanisms that ma
-> L136: A harness has five subsystems:
-> L187: 1. **Lectures**: 13 conceptual units explaining the theory behind harness engineering.
-> L188: 2. **Projects**: 7 hands-on projects where you build an agentic workspace from scratch.
+> L20:  A project-based course on building the environment, state management, verification, and control mechanisms that ma
+> L188: 1. **Lectures**: 13 conceptual units explaining the theory behind harness engineering.
 
 ## 星数曲线
 
@@ -61,4 +59,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `58eb016e442d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ed26ccd78c7c` · [字段定义](../../DATASET.md)*

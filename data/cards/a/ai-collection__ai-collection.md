@@ -2,9 +2,9 @@
 
 ⭐ 9,293 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ai-collection/ai-collection) · [官网](https://www.thataicollection.com/) · 个人维护 · 中文 README
 
-**生成式 AI 应用精选清单：按 70+ 类目收录产品条目**
+**生成式 AI 应用精选清单：按 80+ 类别收录在线应用**
 
-一个以 awesome-list 形式维护的生成式 AI 应用聚合目录，按 AI Agents、Art & Illustration、Detector & Humanizer、Chat Bot、Coding Assistant 等 70 余个类目组织条目，每条含名称、简介、访问与定价链接；另设 Top Picks 推荐区和 Latest Additions 最新收录区，提供多语言翻译 README，收录通过联系维护者提交，条目以外部商业/在线产品链接为主，仓库本身不提供可安装的软件。
+维护生成式 AI 应用的聚合清单，按 AI Agents、文本生成、图像/视频/音乐生成、写作助手等 80 余个类别组织条目，每条包含名称、一句话描述与站点链接，并设 Top Picks 与最新收录板块。清单本身不提供可安装软件，收录对象多为商业在线应用，主要供用户浏览与检索生成式 AI 工具；提供多语言翻译 README 与贡献指南。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 70+ 类目组织的生成式 AI 应用条目
-- Top Picks 与 Latest Additions 动态更新机制
-- 提供西语/法语/俄语/印地语/简体中文等多语言版本
-- 条目统一含 Visit 与 Pricing 链接
+- 按 80+ 类别组织的生成式 AI 应用索引
+- 每个条目含描述、Visit 与定价信息链接
+- Top Picks 与 Latest Additions 板块
+- 提供西语/法语/俄语/印地语/简体中文翻译
 
 ## 适用场景
 
-- 按用途类目浏览和发现生成式 AI 在线产品
-- 为自己的 AI 应用寻找被收录曝光的渠道
-- 跟踪生成式 AI 应用生态的最新收录动态
+- 想按任务类别浏览有哪些生成式 AI 应用可用
+- 为某类工作（如视频配音、简历生成）查找候选工具
+- 向该清单提交自己的 AI 应用以获得曝光
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `08e9351a7e08` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `18472e7d8f38` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 3,857 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/dathere/qsv) · [官网](https://qsv.dathere.com) · 组织维护
 
-**面向数据从业者的表格数据命令行处理工具箱**
+**给数据工作者的高性能表格数据整理命令行工具集**
 
-Rust 编写的 CLI 工具箱，支持对 CSV/TSV/JSONL/parquet/电子表格等表格数据进行查询、切片、排序、统计、过滤、转换、校验、地理编码、格式转换、可视化与元数据生成（DCAT-US/DCAT-AP/Croissant）。命令可组合，部分命令借助索引与 Polars 引擎处理大文件。AI 相关能力以子命令形式存在：describegpt 可接任意 OpenAI API 兼容的本地或云 LLM 生成数据字典与 SQL RAG 问答，另有 MCP Server 与 Cowork Plugin 两种安装形态。
+Rust 编写的神经符号数据整理工具包，支持 CSV/TSV/JSONL/Parquet/电子表格的查询、切片、排序、统计、过滤、富化、地理编码、验证与 FAIR 化。多个命令可调用 OpenAI API 兼容的本地或云端 LLM（如 apply 的 summarize、describegpt 生成数据字典/描述/标签、SQL RAG 问答），另提供 MCP Server 与 Cowork Plugin 安装路径。命令可组合，含索引加速与 Polars 引擎选项。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Rust 编写的 CLI 工具箱，支持对 CSV/TSV/JSONL/parquet/电子表格等�
 
 ## 能力要点
 
-- 100+ 可组合子命令覆盖表格数据清洗、统计、校验、地理编码全流程
-- describegpt 支持任意 OpenAI API 兼容 LLM 做数据描述与 SQL RAG 问答
-- 支持 Luau 脚本与 Python 表达式作为数据处理 DSL
-- 提供 CLI、MCP Server、Cowork Plugin 三种安装形态
+- 覆盖数据整理全流程的可组合命令集（join/dedup/stats/schema 等）
+- describegpt 等命令支持任意 OpenAI API 兼容的本地/云端 LLM
+- 离线地理编码（Geonames/GeoLite2）可达每秒 36 万条记录
+- luau 脚本作为 DSL 构建生产数据管道，支持 MCP Server 接入
 
 ## 适用场景
 
-- 批量清洗、校验和转换大型 CSV 数据集
-- 用 LLM 自动生成数据字典和元数据做 FAIR 化
-- 离线地理编码和地址数据增强
-- 为 CKAN 数据平台处理与富化开放数据
+- 批量清洗、验证与转换 CSV 数据文件
+- 用 LLM 为数据集生成数据字典、描述与标签
+- 对地址数据做离线地理编码富化
+- 为 CKAN 数据门户做 DCAT 元数据 FAIR 化
 
 ## 场景标签
 
-`RAG` `数据分析` · 领域:效率与自动化
+`数据分析` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L1: ## qsv: Blazing-fast Neuro-symbolic Data-Wrangling toolkit
 > L16: qsv logo _Hi-ho "Quicksilver" away!_ original logo details * Base AI-reimagined logo * Event logo archive |qsv is a
-> L22: |apply✨ 📇🧠🤖🚀🔣👆⛩️|Apply series of string, date, math & currency transformations to given CSV column/s. It also has s
 > L34: |describegpt 📇🗃️🤖🌐🪄📚⛩️ CKAN|Infer a "neuro-symbolic" Data Dictionary, Description & Tags or ask questions about a C
 
 ## 星数曲线
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 low · 依据 README sha `615bdb95f01e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `f11711d7bd29` · [字段定义](../../DATASET.md)*

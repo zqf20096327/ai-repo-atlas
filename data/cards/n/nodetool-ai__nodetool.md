@@ -2,9 +2,9 @@
 
 ⭐ 659 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/nodetool-ai/nodetool) · [官网](https://nodetool.ai/) · 组织维护 · 中文 README
 
-**开源 AI 影片工作室：一句话到分镜、生成与剪辑成片**
+**给视频/影像创作者的开源 AI 工作室：节点工作流驱动分镜与剪辑**
 
-NodeTool 是面向 macOS、Windows 和 Linux 的桌面创作工作室，围绕 agent 与节点工作流组织：输入一句话后 agent 生成节拍表、角色实体、逐镜头分镜静帧，经用户逐帧批准后生成视频并在时间线上剪集成片。提供分镜、剧本配音、时间线、图层绘画、3D、游戏和节点图七个编辑器，各编辑器的操作以工具形式暴露给 agent，并通过 MCP 供外部 agent 驱动。模型经自有 provider key 计费，或以订阅计划运行，或本地运行开放权重模型；Cloud 版处于 alpha 阶段。许可证为 AGPL-3.0。
+NodeTool Studio 是一个面向创意内容生产（短片、广告、动效、游戏）的开源工作台：一句话可由 agent 展开为剧本、分镜、片段并在时间线上剪出成片；底层是类型化端口连接的节点图，支持图片/视频/音频/文本多模态与 ComfyUI 工作流导入。模型来源三路：用 ChatGPT/Claude/Gemini 订阅登录运行、自带各 provider API key 按原价计费、或在本地硬件跑开放权重模型（Ollama/MLX/GGUF）。提供 macOS/Windows/Linux 桌面安装包与浏览器 alpha 版，AGPL-3.0 许可；本地模型有各自硬件要求。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ NodeTool 是面向 macOS、Windows 和 Linux 的桌面创作工作室，围绕 a
 
 ## 能力要点
 
-- 一句话到节拍表、分镜静帧、视频片段与成片的项目化流程
-- agent 可操作全部编辑器，工具通过 MCP 暴露给 Claude Desktop/Claude Code/Codex
-- 七类编辑器共享一个项目：分镜、剧本、时间线、图层、3D、游戏、节点图
-- 支持自有 provider key、订阅计划或本地开放权重（Ollama/MLX/GGUF）运行
+- agent 将一句话目标展开为步骤 DAG，编辑器以工具形式暴露给 agent，并通过 MCP 供 Claude Desktop/Codex 等驱动
+- 七个编辑器共享一个项目：分镜、脚本、时间线、草图、3D、游戏与节点图
+- 支持自有订阅登录、provider key 或本地开放权重（Ollama/MLX/GGUF）三种模型接入方式
+- 工作流绑定时间线片段，输入变更后自动标记过期以便局部重生成
 
 ## 适用场景
 
-- 从一句话生成短片并用时间线逐镜头剪辑
-- 把可复用的生成流程保存为节点工作流批量再跑
-- 通过 MCP 让外部 agent 代为搭建和运行工作流
-- 自托管部署并租用 GPU worker 扩展生成任务
+- 用一段文字生成分镜、配音与剪辑并导出成片
+- 把跑通的节点工作流复用到下一条视频或多个广告变体
+- 在本地硬件上用开放权重模型生成图像和视频
+- 通过 MCP 让外部 agent 操作工作室工具链
 
 ## 场景标签
 
-`工作流自动化` `图像生成` `视频生成` `图像视频处理` · 领域:效率与自动化
+`图像生成` `视频生成` `图像视频处理` `多模态` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L11: **Open-source AI film studio · agent + node workflows**
-> L13: **Direct AI films, shot by shot.** Start with one sentence. The agent writes
-> L66: Underneath, a planner turns an objective into a DAG of steps, executors walk it
+> L13: **The open-source AI studio you actually control.** Storyboard, generate, and
+> L74: Made it once? Run it again. Underneath every project is a node graph. Save the
+> L256: |**Every major provider**|OpenAI, Anthropic, Gemini, FAL, KIE, Replicate, ElevenLabs, HuggingFace, plus generated 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `41b7ca3d6dca` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `95d40dbe4fdc` · [字段定义](../../DATASET.md)*

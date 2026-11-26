@@ -2,9 +2,9 @@
 
 ⭐ 985 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ziwenhahaha/daily-paper-reader) · [官网](https://ziwenhahaha.github.io/daily-paper-reader/) · 个人维护 · 中文 README
 
-**每日 arXiv/OpenReview 论文推荐与 AI 阅读的自部署平台**
+**个人/实验室的每日 arXiv 论文推荐与 AI 阅读问答平台**
 
-面向个人研究者与实验室的论文发现、阅读与问答平台：通过 GitHub Actions 每日抓取 arXiv/OpenReview 等多源论文，基于关键词与研究方向生成个性化推荐流，支持摘要/原文/总结串联阅读与 AI 论文问答；另接入 9 大会议论文检索（NeurIPS/ICML/ACL 等）。部署方式为 Fork 仓库后开启 Actions 与 Pages，无需服务器，LLM 环节以 DeepSeek API 为默认配置；亦提供本地调试后端脚本。
+每日自动抓取 arXiv / OpenReview 及会议论文，按订阅关键词与研究方向生成个性化推荐流，提供摘要、速览、长总结同页阅读与论文 AI 问答。部署方式为 Fork 后经 GitHub Actions 自动更新、GitHub Pages 托管，无需自备服务器；也提供本地调试后端脚本。默认以 DeepSeek API 为 LLM 环节（过滤、精读摘要、问答），重排用本地 Qwen3-Reranker，embedding 用 bge-small 或公益远端服务；DeepSeek 调用按用量计费。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- GitHub Actions + Pages 零服务器部署，Fork 后少量配置即可上线
-- 每日自动抓取 arXiv / OpenReview 并生成个性化推荐流
-- AI 论文问答与摘要、原文、长总结同页阅读
-- 接入 NeurIPS/ICML/ACL 等 9 大会议论文检索
+- 每日抓取 arXiv / OpenReview 与 9 大会议论文，按 tag 维护推荐流
+- AI 论文问答、中文翻译、精读长总结与 PDF 图表提取
+- Fork 即用：GitHub Actions 更新 + GitHub Pages 部署，零服务器
+- 支持 90/365 天专题回溯与实验室/团队论文面板
 
 ## 适用场景
 
 - 持续追踪自己研究方向的新论文
-- 搭建实验室公共论文面板
-- 边读论文边 AI 问答并沉淀讨论记录
+- 为实验室搭建公共论文面板
+- 把发现、阅读、问答、总结集中到一个入口
 
 ## 场景标签
 
-`科研工具` `文档问答` · 领域:知识与检索
+`推荐系统` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L107: - **🔎 Daily Paper Radar**：每日自动抓取 arXiv / OpenReview 新论文，持续追踪研究前沿。
-> L110: - **💬 Ask While Reading**：支持 AI 论文问答，边读边问，沉淀私人讨论记录。
+> L110: - **🔎 Daily Paper Radar**：每日自动抓取 arXiv / OpenReview 新论文，持续追踪研究前沿。
+> L113: - **💬 Ask While Reading**：支持 AI 论文问答，边读边问，沉淀私人讨论记录。
+> L114: - **🚀 Zero-Server Deployment**：依托 GitHub Actions 自动更新、GitHub Pages 部署，无需额外服务器。
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3127b9da0c55` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3003d7ffab98` · [字段定义](../../DATASET.md)*

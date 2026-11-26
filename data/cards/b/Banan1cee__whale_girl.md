@@ -2,9 +2,9 @@
 
 ⭐ 1,011 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Banan1cee/whale_girl) · [官网](https://github.com/Banan1cee/whale_gril) · 个人维护 · 中文 README
 
-**让 DeepSeek 等模型用你的微信账号群聊陪聊的 Windows 桌面应用**
+**用 DeepSeek 等模型驱动微信账号陪聊的 Windows 桌面机器人**
 
-本地优先的微信 AI 陪聊应用：通过 Windows UI 自动化桥接微信 4.x，在群聊中回复 @提及、记录私聊事实并压缩历史，可发表情包、语音回复、每日 Markdown 日记、朋友圈读取与网页搜索。模型侧支持 DeepSeek、智谱 GLM、SiliconFlow、Qwen、豆包及任意 OpenAI 兼容端点，可选 Ollama 本地服务。一切由 WPF 启动器 WhaleLauncher.exe 控制，安装包内置 Node.js、Python 3.12 与 .NET 10 运行时；需管理员权限且可能违反微信服务条款，需 ASCII 路径安装。
+本地运行的 WeChat AI 陪伴机器人：通过 Windows UI 自动化读写微信 4.x 消息，在群聊中响应 @ 与名字并生成回复，记录私聊事实作记忆、压缩旧群聊历史，并支持表情包、朋友圈读取与手动互动、每日 Markdown 日记、语音转写与语音回复、搜索热榜及基础群管理。全部由 WPF 启动器 WhaleLauncher.exe 控制，无浏览器界面，本地 API 仅绑定 127.0.0.1:8787。安装包捆绑 Node.js、Python 3.12 与 .NET 10 运行时，需管理员权限且推荐 ASCII 安装路径；README 提示可能违反微信服务条款。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- UI 自动化桥接微信 4.x，不注入代码、不抢焦点
-- 记忆系统：私聊事实记录与群聊历史压缩
-- 表情包/语音/日记/朋友圈/搜索等扩展功能
-- 单一 WPF 启动器管理启停、配置与诊断
+- UI 自动化桥接 Windows 微信 4.x，零焦点收发消息
+- 记忆系统：记录主人事实并压缩旧群聊历史
+- 表情包、朋友圈、日记、语音转写/回复、搜索等扩展功能
+- 单一 WhaleLauncher.exe 控制启停、配置与诊断
 
 ## 适用场景
 
-- 让 AI 用微信小号在群里陪聊
-- 给 AI 陪聊角色配置人设与记忆
-- 本地数据优先地运行微信 AI 群友
+- 让 AI 以群友身份在微信群里陪聊
+- 给个人微信账号加自动回复与记忆
+- 用 AI 生成每日日记和读取朋友圈
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 ## 证据(README 行号)
 
 > L13: A local-first AI companion for WeChat. She replies in group chats, remembers what people tell her, and can also sen
+> L22: - **WeChat replies** — answers @-mentions and her name in groups, keeps a conversation going while it is alive, and
 > L32: - One model API key: DeepSeek, Zhipu GLM, SiliconFlow, Qwen, Doubao, OpenCode, or any OpenAI-compatible endpoint
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `45ae850a7ff1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `b25313406c2e` · [字段定义](../../DATASET.md)*

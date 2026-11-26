@@ -1,10 +1,10 @@
 # DIYgod/pinky
 
-⭐ 2,782 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/DIYgod/pinky) · 个人维护
+⭐ 2,782 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/DIYgod/pinky) · 个人维护 · 中文 README
 
-**让 AI agent 在用户审批下操作 iPhone/Android 手机**
+**让 MCP agent 在你监督下操作 iPhone/Android 手机**
 
-Pinky 是一个跨平台（macOS/Windows/Linux）桌面应用，通过 MCP 协议让任意 agent（如 Claude Code、Cursor 或脚本）操作真实的 iPhone 或 Android 手机；每一步操作经其 gateway 强制执行审批规则，支付等风险操作默认等待用户确认，全程留有截图与录屏记录。手机端 App 也可独立运行任务，模型可自选。当前状态为 pre-alpha，支持 Android 10–17 与 iOS 17.4+。
+Pinky 是一个跨平台桌面应用，通过 MCP 让 Claude Code、Claude Desktop、Codex、Cursor 或任意脚本 agent 操作真实的 iPhone 或 Android 手机：用户在电脑上观看镜像、批准风险步骤（支付、发送、删除等默认等待确认）、随时接管并查看含截图与录屏的分步记录。安全规则在 Pinky 网关侧强制执行，agent 无法自我批准；银行/钱包类应用默认不可见。手机端 App 可脱离电脑独立执行任务，支持 DeepSeek、Qwen、Kimi、GLM、Claude、GPT、Gemini 及 Ollama/LM Studio 本地模型。当前为 pre-alpha 状态。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Pinky 是一个跨平台（macOS/Windows/Linux）桌面应用，通过 MCP 协�
 
 ## 能力要点
 
-- gateway 强制审批：规则由 Pinky 执行，agent 无法自行批准
-- 银行/钱包/密码管理类应用默认对 agent 不可见
-- Android 13+ 提供隐藏第二屏，手机主屏归用户
-- 每次运行生成带步骤标注的录屏，可导出 HTML 报告
+- 通过 MCP 接入任意 agent，桌面覆盖 macOS/Windows/Linux
+- 网关侧强制审批：支付、发送、删除等操作等待用户确认
+- Android 13+ 支持隐藏第二屏幕，agent 与用户互不干扰
+- 手机端 App 无需电脑，可选多模型独立执行任务
 
 ## 适用场景
 
-- 让 agent 代为在手机上发消息、下单，同时保留人工审批
-- 把手机操作任务交给手机端 App 独立完成，无需电脑
-- 定时或条件触发的手机自动化任务
+- 让 Claude Code 等 agent 代我在手机上完成操作并逐步审批
+- 手机不在身边时通过电脑远程操作手机
+- 定时执行手机任务并在条件满足时收到通知
 
 ## 场景标签
 
@@ -39,7 +39,6 @@ Pinky 是一个跨平台（macOS/Windows/Linux）桌面应用，通过 MCP 协�
 
 > L7: Pinky lets any agent (Claude Code, Claude Desktop, Codex, Cursor or a script) operate a real iPhone or Android phone
 > L11: - **Any agent, one click.** Settings › Agents connects Claude Code, Claude Desktop, Codex, Cursor and more, and any
-> L17:  You decide what waits: Pinky You approve the risky steps. Payments, trades and transfers wait for your click; in S
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d5a6380a1d91` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a73cab34e7ba` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 9,383 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai) · 组织维护
 
-**可完全离线运行的 Python 多智能体框架**
+**可完全离线运行的 Python 多智能体框架，面向数据敏感团队**
 
-Python agent 框架，提供 teams、workflows、memory、tools 等能力，支持通过 Ollama/vLLM/LM Studio 等在本地模型上运行而无需 API key，提示与回答保留在本机。组件包括 Agents 核心库、接入 Telegram/Discord/Slack/WhatsApp 的 Bot 网关、终端编码 Agent、MCP 双向集成（serve 85 个工具给 Cursor/Claude Desktop 等 22 个客户端）、在自有 GPU 上微调开源模型的 Train，以及面向受监管团队的 Private AI 交接流程（Watch/Test/Hand over/Roll back/Record）。MIT 许可，pip 安装。
+Python 编写的开源（MIT）agent 框架，围绕 Agent、AgentFlow、AgentTeam 提供五层结构：Prompt、Context、Harness、Loop、Graph，外加 Managed Agents 沙箱层（Docker/E2B/Modal）。组件拆分为多个包：核心 praisonaiagents、Bot 网关（10 个消息渠道）、Code 终端编码 agent、MCP 桥接、Train 微调。支持通过 Ollama/vLLM/LM Studio 接本地模型实现无 API key 的完全离线运行；另含面向银行、保险、医院的 Private AI 渐进移交机制（early access）。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Python agent 框架，提供 teams、workflows、memory、tools 等能力，支�
 
 ## 能力要点
 
-- 五层 Agent 栈（Prompt/Context/Harness/Loop/Graph）与 Managed Agents 沙箱（Docker/E2B/Modal）
-- 完全离线运行：Ollama 本地模型无需 API key
-- MCP 双向支持：使用任意 MCP 服务器，并向 22 个客户端提供 85 个工具
-- Bot 网关支持 10 个通道，含流式、语音、审批与重试
+- 通过 Ollama/vLLM/LM Studio 运行本地模型，可完全离线、无需 API key
+- 五层 Agent Stack：Prompt/Context/Harness/Loop/Graph，附 Managed 沙箱层
+- MCP 双向：agent 可调用 MCP 服务器，praisonai-mcp 向 22 个客户端暴露 85 个工具
+- 多包拆分：agents/bot/code/mcp/train 按需安装，支持 YAML 无代码定义流程
 
 ## 适用场景
 
-- 在无网络/隔离环境中运行 AI agent
-- 为受监管行业构建可审计的私有 AI 交接流程
-- 把 agent 部署到 Telegram/Slack 等聊天渠道
-- 用 YAML 无代码方式定义 agent 工作流
+- 在离线/内网环境运行处理本地数据的 AI agent
+- 为 Telegram/Discord/Slack 等渠道部署 24/7 机器人
+- 在终端用 agent 读取和编辑代码
+- 在自有 GPU 上微调开源模型并训练 agent
 
 ## 场景标签
 
@@ -38,9 +38,8 @@ Python agent 框架，提供 teams、workflows、memory、tools 等能力，支�
 
 ## 证据(README 行号)
 
-> L9: **AI agents that run on your own computers, even fully offline.**
 > L19:  Python agent framework: teams, workflows, memory, tools.
-> L113:  Memory and RAG Memory, knowledge and sessions, with zero extra deps to start.
+> L54:  Chat apps and your tools on the left connect to PraisonAI in the middle: the Agents core with Bot, Code, MCP and T
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `9bc91f2764b1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `44f8147ec6c9` · [字段定义](../../DATASET.md)*

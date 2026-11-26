@@ -2,9 +2,9 @@
 
 ⭐ 2,889 · Dart · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/TNT-Likely/BeeCount) · [官网](https://count.beejz.com) · 个人维护 · 中文 README
 
-**本地优先的开源跨端记账应用，含 AI 记账**
+**本地优先的跨端开源记账应用，含AI记账与多种自建同步**
 
-基于 Flutter 开发的个人财务管理与支出追踪应用，覆盖 Android/iOS/Web，数据默认本地存储，支持 BeeCount Cloud 自建云、iCloud、Supabase、WebDAV、S3 五种同步方案。AI 部分包括自然语言对话记账、OCR 拍照记账（本地 TFLite 与云端双引擎）、语音记账与截图自动记账。基础功能覆盖多账本、多账户、预算、周期记账、CSV 导入导出与桌面小组件。许可证为 BSL，个人使用免费，商业使用需付费授权；HarmonyOS 版本已停止更新。
+基于 Flutter 的个人记账应用，支持 iOS/Android/Web 三端，提供多账本、多账户、二级分类、预算、周期记账、标签与图表等基础记账功能。数据默认本地存储，支持 BeeCount Cloud 自建、iCloud、Supabase、WebDAV、S3 五种同步方案。AI 部分提供自然语言对话记账、OCR 票据识别（本地 TFLite + 云端双引擎）、语音记账与截图自动记账，云端模型基于智谱 GLM。采用 BSL 许可，商业使用需付费授权；HarmonyOS 版本已停止更新。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- AI 对话/OCR/语音/截图四种记账方式，OCR 为本地 TFLite+云端双引擎
-- 五种同步方案：自建云、iCloud、Supabase、WebDAV、S3
-- MCP 支持：搭配 BeeCount Cloud 用 LLM 管理账本
+- AI 对话 / OCR / 语音 / 截图四种自动记账方式
+- 5 种同步方案（自建云/iCloud/Supabase/WebDAV/S3）
+- 离线优先，无云配置也可完整使用
 - 桌面小组件 8 类内容、14 种规格
 
 ## 适用场景
 
-- 在 Android/iOS 上离线记账并用 iCloud 或自建云同步
-- 拍支付宝/微信截图或说话自动生成账目
-- 家人共享一本账本并区分记录者
-- 无 NAS 用户用 Supabase 做跨平台同步
+- 多设备同步记账，数据由自己掌控
+- 拍照或截图自动识别账单并入账
+- 家人或团队共享同一本账本
+- 导入支付宝/微信 CSV 账单做支出分析
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L10: **你的数据,你做主的开源记账应用**
-> L58:  🤖 AI 智能记账 — AI 对话 / OCR / 语音 / 截图自动识别
-> L61: - **OCR 拍照记账** — 双引擎(本地 TFLite + GLM 云端),识别支付宝/微信/云闪付截图
+> L42: 一款轻量、开源、隐私可控的**个人财务管理**和**支出追踪** App。
+> L60: - **AI 小助手** — 自然语言对话记账,智能理解意图,基于智谱 GLM-4
+> L65:  📝 基础记账 — 多账本 / 多账户 / 二级分类 / 预算 / 周期记账 / 标签 / 图表 / 导入导出
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `6a6f5145375d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `422b4ba2a26e` · [字段定义](../../DATASET.md)*

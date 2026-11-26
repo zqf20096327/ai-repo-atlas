@@ -2,9 +2,9 @@
 
 ⭐ 7,588 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ValueCell-ai/ClawX) · [官网](https://claw-x.com) · 组织维护 · 中文 README
 
-**为 OpenClaw AI agent 提供图形界面的桌面应用**
+**为 OpenClaw AI Agent 提供图形化桌面界面，免终端操作**
 
-基于 Electron/React 构建，内嵌 OpenClaw 运行时，将命令行方式的 agent 编排转为桌面体验：提供多会话聊天界面、Agent 生命周期管理、多渠道管理（内置微信插件与钉钉连接器）、Cron 定时任务、本地化技能管理、供应商统一配置面板（凭据存入系统钥匙串）。功能上还含语音听写（需开启 Developer Mode 并自配语音转文字服务）与本地 Computer Use（限 macOS 13+/Windows x64）。提供 Windows/macOS/Linux 预编译包与源码构建，另声明可联系获取企业版。
+基于 Electron + React 的桌面应用，内嵌 OpenClaw 运行时，将命令行方式的 AI Agent 编排转为图形界面：提供引导式安装向导、可视化配置、Gateway 进程生命周期管理、多会话聊天界面、Agent 生命周期管理、技能本地管理与定时任务、多渠道（微信/钉钉）管理，以及 macOS/Windows 上的本地计算机操作驱动。支持 OpenAI、Anthropic 等多家模型服务商的统一配置，凭据存于系统密钥链。提供 Windows/macOS/Linux 预编译包，也可从源码构建。
 
 ## 筛选速览
 
@@ -20,21 +20,20 @@
 
 ## 能力要点
 
-- 内嵌 OpenClaw 运行时，免终端一键安装与引导式设置向导
-- 多渠道管理：微信插件、钉钉连接器及多账号渠道配置
-- Cron 定时任务与可本地管理的技能系统（含 pdf/xlsx/docx/pptx 处理技能）
-- 本地 Computer Use 驱动（macOS 13+/Windows x64）与语音听写
+- 内嵌 OpenClaw 运行时，免终端完成配置与进程管理
+- 多会话流式聊天界面，支持 Markdown/KaTeX、@agent 路由与 /skill 卡片
+- Cron 定时任务与多渠道（腾讯微信/钉钉）消息投递
+- 本地计算机使用（Computer Use）驱动：窗口、辅助功能与桌面操作
 
 ## 适用场景
 
-- 在桌面界面中配置和管理多个专用 AI agent
-- 定时让 agent 监控信息源并把结果推送到聊天渠道
-- 为非技术用户提供免命令行的 agent 使用入口
-- 把 agent 接入微信/钉钉等渠道收发消息
+- 不想用终端的用户在桌面配置和管理 OpenClaw Agent
+- 定时让 Agent 监控信息源并把结果发到微信/钉钉
+- 用桌面界面管理多个专用 Agent 与技能扩展包
 
 ## 场景标签
 
-`AI 助手` `GUI 自动化` · 领域:效率与自动化
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `06a2a74a7ae3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `fd80461d10d7` · [字段定义](../../DATASET.md)*

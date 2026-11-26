@@ -2,9 +2,9 @@
 
 ⭐ 812 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/Repo2RLEnv) · [官网](https://huggingface.github.io/Repo2RLEnv/) · 组织维护
 
-**把任意代码仓库转成可验证 RL 环境，供 coding agent 训练评估**
+**把代码仓库转成可训练可评测的 RL 环境任务**
 
-Repo2RLEnv 从已合并的 PR、commit 历史、安全公告、库函数、终端录像等素材自动生成 Harbor 格式的 RL 任务环境，每个任务含指令、起始容器、私有验证器与参考解。提供 24 个生成器与 CLI，生成的任务可用任意 Harbor agent 运行评估，并可通过 push/pull 命令与 Hugging Face Hub 上的 21 个已发布数据集（1,930 个任务）互通。首条流水线仅需 Python 3.12+ 与 GitHub CLI，无需 Docker 与 LLM key；运行任务需 Docker，PR-diff 评分需 ANTHROPIC_API_KEY 作为 correctness judge。
+Repo2RLEnv 将仓库、PR、agent 轨迹和任务种子转换为 Harbor 格式任务，每个任务包含 instruction、起始环境、verifier 与参考解；生成后经审查与校验器探测，任务带 unverified/verified/needs_repair/blocked 标签。内置 pr_diff、pr_runtime、Tasksmith 等多条流水线及 16 种研究配方。代码执行依赖本地 Docker 或 Modal/Daytona 工作节点，PR-diff 评分需模型裁判与 API key。以 PyPI 包发布，任务数据集可发布到 Hugging Face Hub。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ Repo2RLEnv 从已合并的 PR、commit 历史、安全公告、库函数、终�
 
 ## 能力要点
 
-- 24 个生成器从 PR/commit/CVE/终端录像等素材产出 Harbor 任务
-- 任务含指令、私有验证器与参考解，验证器写入 reward
-- repo2rlenv push/pull 与 Hugging Face Hub 数据集互通
-- Tasksmith 用 agent 自动调查仓库、设计指令并自修复直至验证通过
+- 从 PR/轨迹/种子生成含 instruction、环境、verifier 与参考解的 Harbor 任务
+- Tasksmith 用 LangGraph 驱动 agent 自动设计任务与校验器
+- 内置 SWE-smith、R2E-Gym 等 16 种研究配方流水线
+- 任务带统一质量标签，配套 FineEnvs 数据集集合
 
 ## 适用场景
 
-- 为 coding agent 的 RL 训练批量生成带验证器的任务环境
-- 用统一 Harbor 格式评估不同 agent 在真实仓库任务上的表现
-- 把团队仓库的历史 PR 转成可复用的训练/评测集
-- 在 Hugging Face Hub 上发布和获取 RL 任务数据集
+- 为 coding agent 构建可训练的 RL 训练环境
+- 从合并的 PR 或 agent 轨迹批量生成评测任务
+- 在 Hugging Face Hub 上发布和分享任务数据集
 
 ## 场景标签
 
@@ -38,9 +37,8 @@ Repo2RLEnv 从已合并的 PR、commit 历史、安全公告、库函数、终�
 
 ## 证据(README 行号)
 
-> L30: Harbor task you can train on, evaluate with
-> L48: pip install 'repo2rlenv[harbor]'
-> L166: pip install repo2rlenv                               # native pipelines and the CLI
+> L21: Repo2RLEnv turns repositories, pull requests, agent trajectories and task seeds into
+> L24: Repo2RLEnv generates and reviews the tasks; Harbor runs agents against them.
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2f4b23eb9ee8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0bfdc5fbb4c6` · [字段定义](../../DATASET.md)*

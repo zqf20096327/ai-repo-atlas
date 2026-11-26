@@ -2,9 +2,9 @@
 
 ⭐ 2,473 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/deusyu/translate-book) · [官网](https://translate.dyu.sh/en/) · 个人维护
 
-**让 Claude Code 等 Agent 用并行子代理整本翻译书籍的技能**
+**让 Agent 并行翻译整本书（PDF/DOCX/EPUB）的技能**
 
-一个 Agent Skills 格式的翻译技能，安装到 Claude Code、Codex、Cursor、OpenClaw 等 Agent 后，将 PDF/DOCX/EPUB 书籍转换为 Markdown 并切块，由 8 个并行子代理分别翻译（各自独立上下文窗口），经 SHA-256 清单校验后合并，输出 HTML/DOCX/EPUB/PDF 多格式。支持块级断点续译、邻近块上下文消解指代、多语言目标（zh/en/ja/ko/fr/de/es 可扩展）。依赖宿主 Agent、Calibre 与 Pandoc；兼容性表中仅 Cursor 与 Codex 标注为已验证。
+一个面向 Claude Code、Codex、Cursor、OpenClaw 等 Agent Skills 兼容代理的技能：将整本书转成 Markdown 后切块，由 8 个并行子代理各自在独立上下文中翻译，再用 SHA-256 manifest 校验、可断点续翻并选择性重译，最终合并输出 HTML/DOCX/EPUB/PDF 多格式。依赖宿主代理具备从技能启动子代理的能力，否则停止运行；转换环节依赖系统安装的 Calibre 与 Pandoc。贡献流程以 GitHub issue 为主，PR 非首选路径。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 8 个并行子代理分块翻译，各自独立上下文避免截断
-- SHA-256 manifest 校验与 chunk 级断点续译
+- 8 个并行子代理独立上下文翻译，避免单会话上下文累积与截断
+- chunk 级断点续翻与基于 run_state.json 的术语表敏感重译
+- SHA-256 manifest 校验与源指纹防止陈旧/损坏输出被合并
 - 输出 HTML（浮动目录）、DOCX、EPUB、PDF 四种格式
-- 依赖 Calibre/Pandoc 做格式转换，公式密集 PDF 可经 MinerU/Marker 预提取
 
 ## 适用场景
 
-- 把整本外文书籍翻译成中文等目标语言并生成 EPUB
-- 翻译公式、表格较多的学术 PDF（先用 MinerU/Marker 提取为 Markdown）
-- 翻译中断后从已完成的块继续而非重头开始
+- 把整本 PDF/EPUB/DOCX 书籍翻译成指定语言
+- 翻译含公式和表格的技术 PDF（先经版面感知解析器转 Markdown）
+- 中断后从具体 chunk 续翻或只重译部分章节
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:翻译/文档处理
 
 ## 证据(README 行号)
 
-> L7: An Agent Skill for Claude Code, Codex, Cursor, OpenClaw and other Agent Skills–compatible agents that translates ent
-> L9:  translate-book — a whole book, translated in parallel: split into chunks, translated by 8 parallel sub-agents, veri
+> L5: An Agent Skill for Claude Code, Codex, Cursor, OpenClaw and other Agent Skills–compatible agents that translates ent
+> L7:  translate-book — a whole book, translated in parallel: split into chunks, translated by 8 parallel sub-agents, veri
+> L20: Each chunk gets its own independent subagent with a fresh context window. This prevents context accumulation and ou
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `4ba596a8cd81` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `0bc88897eeee` · [字段定义](../../DATASET.md)*

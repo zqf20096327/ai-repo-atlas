@@ -2,9 +2,9 @@
 
 ⭐ 779 · TypeScript · GPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ZeroTang05/VideoAdGuard) · [官网](https://vag.xiaobaozi.cn) · 个人维护 · 中文 README
 
-**基于大语言模型的B站视频植入广告检测与跳过浏览器插件**
+**B站浏览器插件：用大语言模型检测并跳过植入广告**
 
-VideoAdGuard 是面向B站观众的浏览器插件（Edge/Chrome/Firefox 及油猴脚本版），通过大语言模型分析视频字幕（无字幕视频经 Groq Whisper 音频转录）识别植入/口播广告，标记广告区间并支持一键或自动跳过。用户需自行配置 LLM API（支持 OpenAI 兼容、Anthropic 兼容、System One、自定义 Fetch 接入 Ollama/vLLM 等本地模型）。提供本地 24 小时缓存与云端社区共享缓存，检测结果与准确度依赖所用模型能力，可从商店安装或 npm 自行构建。
+面向B站视频观看者的浏览器扩展（Edge/Chrome/Firefox）与油猴脚本：获取视频字幕（无字幕时用Groq Whisper转录音频），连同标题与置顶评论送入大语言模型判断广告区间，在播放器显示跳过按钮并支持自动跳过。检测结果本地缓存24小时，可选云端共享缓存与社区反馈（区间修正、AI文案标注、AI评论屏蔽）。需用户自行配置LLM API密钥；油猴脚本版声明不再维护。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ VideoAdGuard 是面向B站观众的浏览器插件（Edge/Chrome/Firefox 及油�
 
 ## 能力要点
 
-- LLM 分析字幕定位植入广告区间，一键/自动跳过
-- 无字幕视频自动启用 Groq Whisper 音频识别
-- 本地 24h 缓存 + 云端社区共享检测结果与用户反馈修正
-- 支持 OpenAI 兼容/Anthropic 兼容/System One/自定义 Fetch 多种 SDK 接入含本地 Ollama/vLLM
+- 基于视频字幕/音频转录的LLM广告区间检测与一键跳过
+- 本地24小时缓存与云端社区共享检测结果
+- 支持OpenAI兼容、Anthropic兼容、System One、自定义Fetch多种SDK接入
+- 本地Ollama模型部署路径与社区反馈机制
 
 ## 适用场景
 
-- 看B站视频时跳过植入或口播广告片段
+- 看B站视频时自动识别并跳过植入/口播广告
 - 无字幕视频通过音频识别检测广告
-- 不愿使用云端 API 时接入本地 Ollama 模型保护隐私
+- 与社区共享广告区间，减少重复检测开销
+- 用本地Ollama模型避免字幕数据外传
 
 ## 场景标签
 
- · 领域:浏览器插件/LLM 应用
+ · 领域:浏览器扩展/内容过滤
 
 ## 证据(README 行号)
 
 > L5: VideoAdGuard 是一个基于大语言模型的B站视频植入广告检测工具，能够自动识别B站视频中的植入广告内容，并提供跳过广告的功能。
 > L44: - 🎯 **精准识别**：采用大语言模型分析视频字幕，准确定位植入广告内容
+> L179: 1. 获取视频字幕内容（如无字幕则启用音频识别）
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `2b88898a74f2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `40bf51e0e08f` · [字段定义](../../DATASET.md)*

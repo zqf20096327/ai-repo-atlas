@@ -2,9 +2,9 @@
 
 ⭐ 677 · HTML · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/nubenetes/awesome-kubernetes) · [官网](https://nubenetes.com) · 个人维护
 
-**为工程师策展的 Kubernetes 与云原生/Agentic AI 资源档案**
+**为工程师提供 Kubernetes/云原生与 Agentic AI 资源的策展档案**
 
-自 2018 年起持续收集的 Kubernetes 与云原生资源策展仓库，收录 20,000+ 条链接、185 个专题页面。结构分为 V1 详尽档案（docs/，162 个分类）与 V2 AI 精选门户（v2-docs/，按 Impact 评分去重）双版本，并附视频中心。自述采用 Python 3.11+ 编写的 agentic 引擎，基于 Google Gemini 与 MCP 通过 GitHub Actions 定时自动评估、评分、分类与巡检链接健康度。无面向终端用户的 AI 产出功能，主体是知识清单本身。
+始于 2018 年的云原生资源策展仓库，收录 20,000+ 条链接，覆盖 Kubernetes、DevOps、DevSecOps、公有云与 AI Agent/MCP 等类别。采用双版本结构：V1 详尽档案（docs/，186 类）与 V2 AI 策展门户（v2-docs/，按 Impact 评分去重）。自述自 2026 年起采用基于 Google Gemini 与 MCP 的自动化策展引擎，由 GitHub Actions 调度执行资源评估、打分、链接健康检查与许可监控，并以 MkDocs Material 生成静态站点。仓库内容以链接集合为主，本身不提供可运行的服务。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录 20,895+ 技术资源链接、185 个专题 Markdown 页面
-- V1 档案/V2 AI 精选门户双版本结构
-- 自述 agentic 策展引擎：Gemini 评分分类 + GitHub Actions 自动巡检
-- 附 MCP/GitOps/云原生主题的教育视频短片系列
+- 收录 20,899+ 条技术资源链接，组织为 185 个专题 MD 页面
+- 基于 GitHub Actions 调度的自动化策展流水线（Python 3.11+）
+- AI 引擎执行资源评分、语义聚类与链接健康监控
+- 双版本结构：V1 详尽档案与 V2 策展门户
 
 ## 适用场景
 
-- 查找 Kubernetes 与云原生领域的学习参考资料
-- 调研云原生工具生态的成熟度与类别分布
-- 系统了解 GitOps、FinOps、MCP 等专题的链接集合
+- 查找 Kubernetes 与云原生领域的参考资料
+- 调研 DevSecOps、FinOps 等主题的工具与博客
+- 跟踪 AI Agent 与 MCP 生态的相关资源
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L11: **Nubenetes** is a high-density, curated archive of the Kubernetes, Cloud Native, and Agentic AI ecosystem. Since i
 > L32: |**Comprehensive Research & Deep Dives**|**V1: Exhaustive Archive**|`docs/`|18,600+ links across 162 specialized ca
-> L207: |**Discovery**|Twikit and Playwright|Autonomous scraping and account rotation.|
+> L35: |**Automated Knowledge Pipeline**|**Agentic Source Code**|`src/`|Python 3.11+ agentic engine leveraging Google Gemi
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `037ee0766636` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `61679c35fecc` · [字段定义](../../DATASET.md)*

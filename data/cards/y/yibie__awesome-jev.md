@@ -1,10 +1,10 @@
 # yibie/awesome-jev
 
-⭐ 2,640 · Python · 推送 2026-11-25 · [GitHub](https://github.com/yibie/awesome-jev) · 个人维护 · 中文 README
+⭐ 2,640 · Python · 推送 2026-11-25 · [GitHub](https://github.com/yibie/awesome-jev) · 个人维护
 
-**基于 Jev 类型化决策模型构建的项目与实践清单**
+**基于 Jev 类型化决策模型的开源项目与实践收录清单**
 
-围绕 TypeSafe AI 的 Jev 模型（输入非结构化状态与类型化问题，返回带置信度的类型化决策）维护的 awesome 清单：收录公开项目、集成与讨论，按分类路由、验证护栏、评分排序、Agent 决策、基础设施/SDK 等 16 类组织，共 700 余条，并支持按编码代理（Claude Code/Codex/Pi 等）检索。清单仅做收录规则校验，不审查代码质量、安全性或可运行性，并对同日批量提交的项目提示风险。
+围绕 TypeSafe AI 的 Jev（System One 类型化决策模型）维护的 awesome 清单：Jev 接收非结构化状态加类型化问题，返回带置信度的类型化决策（选择/评分/布尔）。清单按分类路由、验证护栏、Agent 决策、评测基准等 16 个类别组织，收录 600 余条公开项目与讨论，声明仅做收录规则核验（公开、可引用、真实使用 Jev），不评审代码质量与安全性，并提示对同日批量提交的项目需自行验证。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 16 个类别组织 700+ 条基于 Jev 的公开项目与实践
-- 收录规则：公开可引用且真实使用 Jev 做类型化决策
-- 按编码代理分类检索（Multi/Claude Code/Pi/Codex 等）
-- 明确声明收录非背书，提供采用前自查清单
+- 16 个类别、600+ 条目的分类组织，含 Infra/SDK 139 条与讨论类 114 条
+- 明确收录规则：条目须真实使用 Jev 做具体决策任务
+- 提供采纳前自查清单（是否真调用 Jev API、是否有可运行验证等）
+- 按 coding agent（Claude Code/Codex/Pi 等）交叉索引条目
 
 ## 适用场景
 
-- 查找某个决策场景（分类/路由/评分）下使用 Jev 的已有项目
-- 了解类型化决策模式在各行业的落地方式
-- 在采用清单内项目前按自查清单做尽调
+- 查找用类型化决策模型做分类/路由/护栏的实践案例
+- 评估某类决策模式能否迁移到自己的行业
+- 提交自己的 Jev 项目进入公开收录
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L3: A curated awesome list of public projects and practices built on Jev, TypeSafe AI's System One model for typed decis
-> L7: Jev is not a chat model. It takes unstructured state plus a **typed question** and returns a **typed decision** — a 
-> L62: - Classification & Routing — 79 entries
+> L9: The repository treats all categories equally — each entry lives in exactly one category, chosen by its direct Jev ap
+> L62: - Classification & Routing — 80 entries
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `cc5ca18b6549` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `30d338027a41` · [字段定义](../../DATASET.md)*

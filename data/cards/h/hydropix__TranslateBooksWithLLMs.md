@@ -2,9 +2,9 @@
 
 ⭐ 2,613 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护 · 中文 README
 
-**用 LLM 翻译整本书籍与文档的桌面应用**
+**用本地或云端 LLM 翻译整本书籍与文档的工具**
 
-桌面应用与 CLI 工具：用本地或云端 LLM 翻译整本书籍、字幕与文档，支持 EPUB、SRT、DOCX、PDF、TXT、PGN 格式，保留原有格式、结构与时间轴。机制包括分块处理无长度限制、检查点断点续译、术语表与文风预设（可自动从原文抽取）、二轮润色与 TTS。安装包形式分发，也支持源码运行、CLI 与 Docker 部署；Web 界面在 localhost:5000，多设备可共享同一工作区。
+桌面应用与命令行工具，用大语言模型翻译书籍、字幕和文档，支持 EPUB、SRT、DOCX、PDF、TXT、Markdown、PGN、FB2 等格式。通过分块系统处理不限长度的内容，保留原有格式、时间戳与标签结构，检查点机制支持中断后续译。可从样书提取写作风格预设并应用到整书翻译，支持自动生成术语表与风格。提供 Web 界面、CLI、Docker 部署三种方式，翻译完成后可通过 webhook 推送通知。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 支持 EPUB/SRT/DOCX/PDF/TXT/PGN 格式并保留格式与时间轴
-- 无文件大小限制，智能分块并保持上下文，支持断点续译
-- 接入 8 种翻译 provider，含本地 Ollama 与 OpenAI 兼容端点（llama.cpp/LM Studio/vLLM/LocalAI）
-- 多 API key 轮换应对限流，完成后可经 ntfy/Discord/Slack 等 webhook 通知
+- 支持 EPUB/SRT/DOCX/PDF/TXT/Markdown/PGN/FB2 格式并保留格式与结构
+- 分块处理无文件大小限制，检查点支持中断续译
+- 支持本地 Ollama 与多家云端 API，多 API key 自动轮换
+- 术语表强制一致翻译、风格预设提取与二次润色（--refine）
 
 ## 适用场景
 
-- 把整本 EPUB/PDF 书籍翻译成目标语言并保留排版
-- 翻译 SRT 字幕并保持时间轴同步
-- 用本地 Ollama 模型离线翻译且数据不出本机
-- 翻译带注释的国际象棋 PGN 棋谱
+- 把整本外文电子书翻译成中文并保留排版
+- 翻译视频字幕（SRT）并保持时间轴同步
+- 本地部署 Ollama 离线翻译不让内容离开本机
+- 翻译已标注的棋谱（PGN）且保留着法与标签
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:翻译/本地化工具
 
 ## 证据(README 行号)
 
 > L8: A desktop app that translates **books**, **subtitles**, and **documents** with AI - local or cloud. Drop a file, pic
-> L33: - **Free & local** - Install Ollama and pull a model (e.g. `ollama pull qwen3:14b`). Nothing leaves your machine.
-> L107: |`--provider`|ollama/openrouter/openai/gemini/mistral/deepseek/poe/nim|ollama|
+> L35: - **Free & local** - Install Ollama and pull a model (e.g. `ollama pull qwen3:14b`). Nothing leaves your machine.
+> L109: |`--provider`|ollama/openrouter/openai/gemini/mistral/deepseek/poe/nim|ollama|
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4aee5d292ce2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `aecdc6458619` · [字段定义](../../DATASET.md)*

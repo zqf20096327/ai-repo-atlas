@@ -2,9 +2,9 @@
 
 ⭐ 750 · C · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/prabanta-dev/janas) · 个人维护
 
-**本地 C 语言推理引擎：让超出内存的大模型在笔记本 CPU/GPU 上运行**
+**纯 C 的本地 LLM 推理引擎：让超过内存的大模型在笔记本上运行**
 
-以 C 编写、仅依赖 C 标准库的本地大模型工具族，包含推理引擎 Janas-LLM、桌面应用 Brebus、终端聊天 janas-chat、兼容 OpenAI/Ollama/Anthropic API 的 janas-server、模型下载与基准工具及一组 MCP 服务。核心机制是自动探测机器的内存、CPU、GPU（Vulkan）与 Intel NPU，模型装得下就整体加载，装不下则把 MoE 专家从 NVMe SSD 按需流式读取。面向想在自有硬件上运行大模型的用户。限制：仅支持 Linux 与 Windows x86-64，处于早期阶段，版本每周多次更新，C API 与命令行仍在变动。
+一个用 C 编写、除 C 标准库外无依赖的 AI 工具族：核心是 Janas-LLM 推理引擎，自动探测机器的内存、CPU、GPU（Vulkan）与 Intel NPU 并选择运行方式；对超过 RAM 的 MoE 模型，从 NVMe SSD 流式读取专家并缓存热专家。附带终端聊天 janas-chat（MCP 工具、草稿加速）、兼容 OpenAI/Ollama/Anthropic API 的 janas-server、模型下载与转换工具，以及桌面应用 Brebus（本地文档 RAG、artifacts、语音）。提供 Linux/Windows/macOS 预编译包，可从源码构建；作者声明项目处于早期阶段，仅测试过有限硬件。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- MoE 专家从 NVMe 流式读取，可在小于模型体积的内存上运行
-- 自动测量内存/CPU/GPU/NPU 并选择运行方式，结果跨启动保留
-- HTTP API 同时兼容 OpenAI、Ollama 与 Anthropic 三种格式
-- 提供 C、FreeBASIC、Node.js 库及 MCP 服务与客户端
+- MoE 专家从 NVMe 流式读取，模型可大于物理内存
+- 自动测量内存/CPU/GPU/NPU 并缓存测量结果供下次启动
+- janas-server 提供兼容 OpenAI、Ollama、Anthropic 的 HTTP API 及 embeddings、语音转文字
+- 提供 C、FreeBASIC、Node.js 库及自有 MCP 服务（文档、文件、网页、地图等）
 
 ## 适用场景
 
-- 在 32 GB 内存的笔记本上运行 80B 级别的 MoE 模型
-- 为编辑器与代码补工具提供本地 OpenAI 兼容 API
-- 在终端或桌面应用中与本地模型聊天并接入文档检索
+- 在 32 GB 笔记本上运行 48 GB 级别的 Qwen MoE 模型
+- 为编辑器和代码补程序提供本地 OpenAI 兼容 API
+- 用 Brebus 在本地对话并检索自己的 PDF/Office/EPUB 文档
+- 把模型以 MCP 工具形式接入 Claude Code 等客户端
 
 ## 场景标签
 
-`推理引擎` `AI 助手` · 领域:对话与助手
+`推理引擎` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L26: Janas is a family of tools for artificial intelligence, written in C with no dependencies beyond the C library, by 
-> L32: Runs large language models, mixtures of experts above all, on whatever machine it finds, from a modest laptop to a 
-> L53: The model behind an HTTP API that follows OpenAI's, Ollama's and Anthropic's (Claude Code), for editors and other p
+> L27: Janas is a family of tools for artificial intelligence, written in C with no dependencies beyond the C library, by 
+> L31: ### Janas-LLM, the engine
+> L54: The model behind an HTTP API that follows OpenAI's, Ollama's and Anthropic's (Claude Code), for editors and other p
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `32d37b6df741` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ad4d257c2373` · [字段定义](../../DATASET.md)*

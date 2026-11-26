@@ -2,9 +2,9 @@
 
 ⭐ 1,409 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Denys88/rl_games) · 个人维护
 
-**面向 GPU 向量化仿真训练的 PyTorch 强化学习框架**
+**面向 GPU 向量化仿真的强化学习训练框架**
 
-PyTorch 实现的强化学习框架，提供 PPO 与 SAC 算法，支持单 GPU 上数千环境并行、多 GPU 分布式训练（DistributedDataParallel）、非对称 actor-critic、RNN 策略、self-play、种群训练与 ONNX 导出。可接入 MJLab、Isaac Lab、EnvPool、MyoSuite、MuJoCo、Atari、DM Control、StarCraft 2 等仿真环境，面向机器人学与游戏强化学习研究者与开发者。2.0.0 版本要求 gymnasium 与 Python 3.11+；旧版 Isaac Gym 已停止支持（需 1.6.5 旧版本）。
+基于 PyTorch 实现的强化学习库，提供 PPO（含非对称 actor-critic）与 SAC 算法，单进程驱动数千个并行环境，支持 DistributedDataParallel 多 GPU 训练、RNN 策略、Triton GAE、torch.compile、种群训练、self-play、ONNX 导出与实时查看器。可直接在 Isaac Lab、MJLab、EnvPool、MyoSuite 等环境上训练。通过 PyPI 或源码安装，Python 3.11/3.12，建议搭配 CUDA 的 PyTorch ≥2.2。README 大量给出机器人运动/灵巧操作的训练结果数据。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ PyTorch 实现的强化学习框架，提供 PPO 与 SAC 算法，支持单 GPU 
 
 ## 能力要点
 
-- PPO/SAC 实现，非对称 actor-critic 与独立中心价值网络
-- 单进程驱动数千环境，多 GPU DistributedDataParallel 训练
-- 支持 ONNX 策略导出与 sim-to-real 部署流程
-- PBT 观察器（rl_games.common.pbt）可配合任意后端使用
+- 单进程驱动数千个 GPU 并行环境，支持多 GPU DDP 训练
+- PPO 与 SAC 算法，非对称 actor-critic 与中心化 value 网络
+- 支持 ONNX 导出、self-play、种群训练（PBT）与多智能体训练
+- 提供 Colab 快速上手笔记本与实时查看器
 
 ## 适用场景
 
-- 在 MJLab/Isaac Lab 上做四足与人形机器人运动策略训练
-- 用 SAC/PPO 跑 MuJoCo、Atari、DM Control 标准基准
-- 导出 ONNX 策略并部署到真实机器人做 sim-to-real 迁移
+- 在 Isaac Lab / MJLab 中训练四足、人形机器人运动策略
+- 通过 EnvPool 高吞吐训练 MuJoCo/Atari/DM Control 任务
+- 导出 ONNX 策略做 sim-to-real 部署
+- 运行多智能体（SMAC）与 self-play 实验
 
 ## 场景标签
 
@@ -38,8 +39,8 @@ PyTorch 实现的强化学习框架，提供 PPO 与 SAC 算法，支持单 GPU 
 ## 证据(README 行号)
 
 > L3:  High-performance reinforcement learning for GPU-vectorized simulation.
-> L123: * PPO with the support of asymmetric actor-critic variant
-> L125: * Support of end-to-end GPU accelerated training pipelines: MJLab (MuJoCo Warp), Isaac Lab. Legacy Isaac Gym: rl_g
+> L4: PPO and SAC in PyTorch, thousands of environments per GPU, multi-GPU training, asymmetric actor-critic, ONNX export.
+> L34: - **Built for GPU simulators.** One process drives thousands of environments. Asymmetric actor-critic with a separa
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9e407b458ec4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `48e156295875` · [字段定义](../../DATASET.md)*

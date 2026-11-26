@@ -1,10 +1,10 @@
 # V1ki/dsh-plugin-subscriptions
 
-⭐ 640 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/V1ki/dsh-plugin-subscriptions) · 个人维护
+⭐ 640 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/V1ki/dsh-plugin-subscriptions) · 个人维护 · 中文 README
 
-**把 ChatGPT/Claude/Grok 订阅接入 DeepSeek Harness 的插件**
+**DSH 插件：将 ChatGPT/Claude/Grok 等订阅账号转为 LLM 接入通道**
 
-面向 DeepSeek Harness（DSH）的插件，将用户已有的 ChatGPT (Codex)、Claude、Grok (X Premium)、GitHub Copilot、Google Antigravity 订阅转换为 DSH 的 LLM provider，无需 API key：多数通过 Web UI 的 OAuth 登录，Claude 可从现有 Claude Code 会话导入凭据，令牌存储在本地（0600 权限）并自动刷新。提供订阅/模型显示名管理、推理力度与速度选择、配额百分比展示、图像/视频生成工具调用，以及本地保存的用量仪表盘（26 周热力图、配额周期图表）；不存储提示词、凭据或逐请求日志。
+DeepSeek Harness（DSH）的订阅接入插件：把用户的 ChatGPT (Codex)、Claude、Grok (X Premium)、GitHub Copilot、Google Antigravity 订阅作为 LLM provider 接入，通过 web UI 的 OAuth 登录或导入已有 Claude Code 会话凭据，无需 API key；令牌存于本地并自动刷新。提供订阅/模型显示名管理、模型与 reasoning effort 选择、配额状态栏与用量仪表盘（26 周热力图、周期图表）、图像/视频生成工具内联展示等功能。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- OAuth 登录接入 ChatGPT/Claude/Grok/Copilot/Antigravity 订阅，无需 API key
-- 本地令牌存储（~/.dsh/ 下，mode 0600）并自动刷新
-- 订阅用量仪表盘：KPI 卡片、26 周热力图、配额周期双轴图
-- image_generate/video_generate 工具支持按 provider 选择后端并内联展示
+- OAuth 登录订阅账号作为 LLM provider，无需 API key
+- 配额用量 pill 与 Usage Dashboard（KPI、26 周热力图、周期图表）
+- image_generate / video_generate 工具结果内联渲染
+- 订阅与模型显示名自定义，持久化存储
 
 ## 适用场景
 
-- 在 DSH 会话模型选择器中使用已有订阅的模型目录
-- 查看各订阅账号的配额窗口与用量趋势
-- 在对话中按 provider 生成图像/视频并内联预览
+- 在 DSH 中用已有的 ChatGPT/Claude/Grok 订阅驱动会话
+- 集中查看各订阅账号的配额与 token 用量历史
+- 在同一会话中选择不同订阅来源的模型与推理档位
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L5: Use your **ChatGPT (Codex)**, **Claude**, **Grok (X Premium)**, **GitHub Copilot**, and **Google Antigravity** subsc
-> L35: Logged-in providers join the session model picker with their live model catalogs:
-> L86: ## Providers
+> L75: Open **Subscriptions** from the DSH sidebar to view the unified page with **Usage** (default) and **Settings** tabs
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `00b39af518f9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `12e669066806` · [字段定义](../../DATASET.md)*

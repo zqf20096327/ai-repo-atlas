@@ -2,9 +2,9 @@
 
 ⭐ 3,600 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/pnnbao97/VieNeu-TTS) · [官网](https://www.vieneu.io) · 个人维护
 
-**越南语设备端 TTS：即时声音克隆、实时流式合成**
+**面向越南语开发者的端侧文本转语音与即时声音克隆库**
 
-面向越南语的文本转语音模型与 Python SDK：v3 Turbo 版本输出 48 kHz 音频，内置 25 个预设音色（覆盖北/中/南三地区），支持从 3–8 秒参考音频即时克隆声音并自动降噪，支持实验性情感标记、多说话者对话批量生成与 LoRA 微调。CPU 路径基于 ONNX Runtime 免 PyTorch，GPU 路径用 PyTorch 自动批处理，提供 OpenAI 兼容流式 API（POST /v1/audio/speech）与 Docker 部署。v4 版本专有不开源，仅经 vieneu.io API 提供；本仓库开源版本为 v3 Turbo。
+VieNeu-TTS 提供越南语文本转语音与 3–8 秒参考音频的即时声音克隆，含 25 个南北中三区预置音色、批量生成、逐帧实时流式输出与情感标记（实验性）。CPU 路径基于 ONNX Runtime 运行且无需 PyTorch，GPU 路径用 PyTorch 自动批处理；另提供 OpenAI 兼容的 /v1/audio/speech 流式 API、Docker 部署、Gradio Web UI、Python SDK 与 LoRA 微调。配音/播客等功能仅存在于官方闭源 App；v4 为专有闭源版本，仅通过 API 提供，本仓库开源最新版本为 v3 Turbo。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 48 kHz 音频、25 个预设音色（北/中/南三地区）
-- 3–8 秒参考音频即时声音克隆，自动降噪
-- CPU 走 ONNX Runtime 免 PyTorch，GPU 支持批处理与流式（首音频约 115 ms）
-- OpenAI 兼容流式 API（/v1/audio/speech）与 Docker 部署、LoRA 微调
+- 3–8 秒参考音频即时声音克隆，自动降噪并截取
+- CPU 端 torch-free 推理（ONNX Runtime），GPU 批处理 RTF ≈ 0.02
+- OpenAI 兼容流式 API，兼容 OpenAI SDK / Pipecat / LiveKit
+- LoRA 微调支持在消费级 GPU 上训练自定义音色
 
 ## 适用场景
 
-- 为应用生成越南语语音或克隆指定音色
-- 通过 OpenAI SDK / Pipecat / LiveKit 接入流式语音合成
-- 在无 GPU 的 CPU 设备上实时合成越南语语音
+- 为越南语应用生成 48 kHz 语音旁白
+- 用几秒参考音频克隆特定说话人音色
+- 部署 OpenAI 兼容的实时流式 TTS 服务
+- 在消费级 GPU 上 LoRA 微调自己的声音
 
 ## 场景标签
 
-`语音合成` · 领域:内容生成
+`语音合成` `微调` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L13: **VieNeu-TTS** is the next generation of on-device Vietnamese TTS: **10,000+ hours** of bilingual training, **insta
-> L33: > - **Real-time streaming + OpenAI-compatible API + Docker** — `POST /v1/audio/speech` drop-in for the OpenAI SDK /
+> L35: > - **Real-time streaming + OpenAI-compatible API + Docker** — `POST /v1/audio/speech` drop-in for the OpenAI SDK /
+> L116: The `vieneu` SDK **defaults to VieNeu-TTS v3 Turbo (48 kHz)**. The minimal install is **torch-free**: on CPU every
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `645219fde3cd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e987b9c071af` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 568 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ratel-ai/ratel) · [官网](https://www.ratel.sh/) · 组织维护
 
-**自托管 AI agent 追踪分析与评测平台，帮助开发者发现 agent 失败点**
+**自托管平台：审计 agent 运行轨迹并评测修复建议**
 
-自托管平台：agent 通过 OTLP/SDK 上报 traces、工具与技能目录，平台基于 Postgres 作业队列计算 agent 健康信号、工作流、自纠正、主题聚类、意图图与工具匹配质量等读数，并在发布前对真实会话跑评测。无模型 key 时不发起外呼，需模型的读数自行报告跳过。由单应用加一个 Postgres 组成，无独立 worker；提供 TypeScript 与 Python SDK，并经 MCP 端点供 agent 查询。
+自托管的 AI agent 观测与改进平台：agent 上报 OTLP 轨迹、工具与技能目录，Ratel 从中给出健康信号、工作流与自纠正、话题、意图聚类、工具匹配质量等读数，并可在真实会话上跑评测验证修复。由控制台、摄取/目录 API、Postgres 队列后台任务组成，单应用加单 Postgres 即可运行，无需独立 worker。模型 key 可选，无 key 时不发起外部模型调用，需模型的读数自行标记跳过。提供 TypeScript 与 Python SDK，并经 MCP 暴露查询工具。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 读取 agent traces 并生成健康信号、意图图、工具匹配质量等读数
-- 一个应用加一个 Postgres 自托管，无独立 worker/scheduler
-- 无模型 key 时不发起任何外呼，需模型读数自行跳过
-- 提供 MCP 端点，附带 Claude Code/Cursor 等 MCP 客户端配置
+- 读取 agent 轨迹与工具/技能目录，输出健康信号、意图图、工具匹配质量等读数
+- 自托管：单应用加单 Postgres，后台任务内置，无需独立 worker 或调度器
+- 模型 key 可选，无 key 时不做外部模型调用
+- 提供 TypeScript 与 Python SDK，并支持通过 MCP 接入 agent 查询
 
 ## 适用场景
 
-- 在自有基础设施上观测自建 agent 的行为与失败点
-- 在发布修复前对真实会话运行评测验证
-- 让 agent 经 MCP 查询自身的运行数据
+- 在自建基础设施上观测 agent 的行为与失败模式
+- 发布前在真实会话上评测修复是否有效
+- 将 agent 接入 MCP，让 agent 查询自己的运行数据
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L16: Ratel is a self-hosted platform for AI agents. Your agent sends it traces and its catalog of tools and skills. Rate
 > L18: It is for anyone building or running an agent who wants to see how it behaves and keep that data on their own machi
-> L21: - **Ingest and catalog APIs:** OTLP traces and logs, SDK events, catalog pull, skills and intent graph sync, authen
+> L23: - **Readings:** what Ratel works out from the traffic, as jobs over a ledger of your agent's turns: Agent health si
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c3a3592854d4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `02f8cd308f00` · [字段定义](../../DATASET.md)*

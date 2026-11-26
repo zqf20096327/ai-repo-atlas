@@ -2,9 +2,9 @@
 
 ⭐ 8,271 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护 · 中文 README
 
-**本地代码库索引与 MCP 工具：供编码 Agent 免重复读代码、供人看健康度**
+**为编码 agent 与开发者提供代码库索引与代码健康分析**
 
-在本地对仓库的代码、git 历史、测试与决策建一次索引，通过 MCP 向 Claude Code、Codex、Cursor 等 Agent 提供 10 个任务化工具，回答调用关系、变更风险、测试覆盖等问题；索引与图、健康分、死代码检测均为确定性计算，建索引无需 API key。同时提供本地仪表盘（需 Node 20+）展示架构图、健康评分、重构建议与生成的 wiki 文档。通过 uv/pipx 安装，需 Python 3.11+ 与 Git；另提供 repowise.dev 托管版。
+在本地为代码库建立一次索引（调用图、git 历史、测试、架构决策），编码 agent 通过 MCP 工具查询该索引而非反复 grep 和读文件；同时提供本地仪表盘展示代码健康评分、变更风险、死代码、重构计划与从 ADR/提交/PR 中挖掘的决策记录。图形与评分计算不经 LLM，答案确定性可复现；文档生成可选接入模型。通过 uv/pipx 安装，提供托管版 repowise.dev。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 10 个 MCP 工具供编码 Agent 查询调用图、风险、测试与代码归属
-- 跨 29 种语言的调用图与架构图，索引无需 API key、零 LLM 调用
-- 1-10 分代码健康评分（53 个确定性检测器）与排序的修复队列
-- 从 ADR、注释、commit/PR 历史与 Agent 会话挖掘架构决策
+- 十个任务形态的 MCP 工具，一次调用返回调用者、风险、测试与归属信息
+- 跨 29 种语言的调用图、架构图与自动生成 wiki，无 API key 即可索引
+- 1-10 分代码健康评分基于 59 个确定性检测器，并对照真实 bug 历史验证
+- distill 命令在 agent 读取前裁剪命令输出，expand 可恢复被裁内容
 
 ## 适用场景
 
-- 让编码 Agent 不再反复 grep 和打开文件来理解仓库
-- 评估改动的影响范围并确定应运行的测试
-- 定位代码库中的技术债、死代码与性能问题
-- 生成并维护模块级文档，检测文档与代码的漂移
+- 让 Claude Code/Cursor 等 agent 查询索引而非重读整个代码库
+- 合并前评估一次改动影响的调用者与缺失测试
+- 按修复优先级队列清理代码债务与死代码
+- 从提交与 PR 历史沉淀架构决策并检测文档漂移
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L7:  Repowise indexes your code, git history, tests and decisions once, on your machine.
-> L21: 29 languages · Claude Code, Codex, Cursor and any MCP host · free and open source
 > L79: - Your agent gets **ten task-shaped MCP tools**. Ask about several files at once
+> L122: Cited answers and charts from the dashboard, or the same answers through MCP for
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `3ac435e0dcbd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `5ae0e8e1502c` · [字段定义](../../DATASET.md)*

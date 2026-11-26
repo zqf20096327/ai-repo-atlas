@@ -2,9 +2,9 @@
 
 ⭐ 580 · 推送 2026-11-25 · [GitHub](https://github.com/eltociear/awesome-AI-driven-development) · 个人维护
 
-**AI 驱动开发工具的策展清单（609 项）**
+**AI 驱动开发工具与资源的策展清单（611 个条目）**
 
-收录 AI 驱动开发相关工具、框架与资源的 awesome 清单，当前收录 609 个工具。按 AI 代码编辑器与 IDE、终端与 CLI Agent、IDE 扩展等类别组织条目，每条附一句官方描述；条目覆盖代码编辑器、终端编码 Agent、VS Code 扩展等形态。灵感来自 AI 駆動開発，内容持续收录与分类，本身不提供可运行软件。
+一份 awesome 类清单，收录 AI 驱动开发相关的工具、框架与资源，当前收录 611 个工具。按类别组织，包括 AI 代码编辑器与 IDE、终端/CLI 编码 Agent、IDE 扩展等板块；每条为一句话描述与仓库链接，灵感来源为日文的 AI駆動開発。清单本身不提供软件安装或运行方式，用途是浏览与发现 AI 开发工具；条目描述中涉及 Claude Code、Gemini、Codex 等具体产品。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 收录 609 个 AI 开发工具与资源
-- 按编辑器/终端 Agent/IDE 扩展等类别组织
-- 覆盖 Claude Code、Codex CLI、Gemini CLI 等终端 Agent 条目
+- 收录 611 个 AI 驱动开发工具条目
+- 按代码编辑器/IDE、终端 CLI Agent、IDE 扩展等类别组织
+- 覆盖 spec-driven development 等主题的整理
 
 ## 适用场景
 
-- 查找可替代商业产品的开源 AI 编码工具
-- 按类别浏览终端 CLI Agent 与 IDE 扩展生态
-- 调研 AI 驱动开发工具的收录情况
+- 查找可用的 AI 编码编辑器与 CLI Agent 工具
+- 浏览 AI 开发工具生态的分类概览
+- 为工具选型收集候选清单
 
 ## 场景标签
 
-`精选清单` `编码 Agent` `代码生成` · 领域:编码与开发
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L6: A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **609 tools** 
-> L10: ## AI Code Editors & IDEs
+> L4: # 🤖 Awesome AI-Driven Development
+> L8: A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **611 tools** 
+> L12: ## AI Code Editors & IDEs
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `5670e5d0dbef` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `3b0135671181` · [字段定义](../../DATASET.md)*

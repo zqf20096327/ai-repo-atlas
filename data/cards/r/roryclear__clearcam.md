@@ -2,9 +2,9 @@
 
 ⭐ 2,853 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/roryclear/clearcam) · [官网](https://clearcam.org) · 个人维护
 
-**为任意 RTSP 安防摄像头添加目标检测、追踪与通知**
+**给任意 RTSP 监控摄像头添加目标检测、追踪与通知的 NVR**
 
-自托管 NVR 系统：接入 RTSP 摄像头流，运行目标检测与追踪（含 Qwen3 VL 的 AI 通知摘要），支持区域（Zone）配置、事件片段、浏览器 Web Push 通知及可自定义的通知推送目标（Home Assistant、Pushover、N8N 等）。服务端以 Python 从源码运行，支持 AMD/NVIDIA GPU 后端与 BEAM 编译选项；另有 iOS/Android 应用用于远程查看直播、接收通知与片段，付费 Premium 提供端到端加密的远程访问。Windows 需 ffmpeg 修复。
+自托管 NVR 软件：对 RTSP 摄像头画面运行目标检测与追踪，生成事件通知与剪辑，支持 AI 通知摘要（Qwen3 VL）与搜索。服务器端通过 Python 从源码运行，浏览器访问 localhost:8080；可通过 Web Push（VAPID）或自定义 URL 对接 Home Assistant、Pushover、N8N 等接收通知。提供 iOS/Android 应用用于远程查看实时画面、事件剪辑与接收通知（premium 功能）。Windows 需 ffmpeg 修复，未正式支持。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 对任意 RTSP 摄像头流做目标检测、追踪与事件搜索
-- Qwen3 VL 生成的 AI 通知摘要
-- 浏览器 Web Push 通知（Vapid key 配置）及自定义通知 URL
-- 服务端支持 AMD/NVIDIA GPU 后端与 BEAM 性能选项
+- 对任意 RTSP 摄像头运行目标检测与追踪（YOLOv9/tinygrad）
+- AI 通知摘要（Qwen3 VL）与事件搜索
+- 浏览器 Web Push 通知及自定义通知 URL（Home Assistant/Pushover/N8N）
+- iOS/Android 应用远程查看实时画面与事件剪辑
 
 ## 适用场景
 
-- 给现有 RTSP 摄像头自托管添加检测与通知
-- 通过 Home Assistant 或 Pushover 接收人员/物体检测告警
-- 用 iOS/Android 应用远程查看摄像头直播与事件片段
+- 给现有 RTSP 摄像头添加检测与通知功能
+- 自托管监控，接 Home Assistant 自定义告警
+- 手机远程查看摄像头画面与事件剪辑
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+`目标检测` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: # clearcam: Add object detection, tracking, mobile notifications, AI summaries, and search to any security camera.
 > L41: ## run NVR + inference in python from source
+> L46: - use DEV=AMD / DEV=NV python3.12 clearcam.py if your CPU is being used instead of your GPU
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `398a4a6f3048` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4c5141859f57` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 639 · Markdown · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**面向工程师成为 AI Forward Deployed Engineer 的分步学习路线图**
+**面向 AI Forward Deployed Engineer 岗位的分步学习路线图**
 
-由 Outcome School 创始人 Amit Shekhar 维护的教程路线图：按 FDE 与客户协作的生命周期（发现问题→原型→评估→加固→部署）组织为 13 个 Step，每个主题配一篇免费博客及部分视频，覆盖机器学习基础、LLM 原理、模型选型、提示与上下文工程、RAG、AI Agent、评测、安全、推理优化等。纯文档仓库，无代码与安装步骤，声明会持续更新。
+由 Outcome School 创始人 Amit Shekhar 维护的学习路线图，面向想成为 Forward Deployed Engineer（FDE）的工程师。按 FDE 项目生命周期组织为多个步骤（Step 0-13），每步附带免费博客与配套视频，主题涵盖机器学习基础、LLM 原理、模型选型、提示词与上下文工程、RAG、Agent、评测、安全、推理延迟与成本、微调等。声明将持续更新，无需 AI 背景即可按序阅读。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 13 个 Step 按 FDE 参与生命周期排序组织
-- 每个主题配免费博客，部分附视频
-- 覆盖 RAG、Agent、评测、安全、推理成本等 FDE 宽度知识
-- 面向零 AI 背景读者，按序渐进
+- 按 FDE 项目生命周期（发现→原型→验证→加固→部署）排序的步骤结构
+- 每个主题配博客与视频，博客面向初学者且免费阅读
+- 主题覆盖 LLM/RAG/Agent/评测/安全/推理优化/微调全链路
 
 ## 适用场景
 
-- 按路线图系统学习成为 FDE 所需的 AI 工程知识
-- 面试 FDE 岗位前按主题查漏补缺
-- 为向客户解释 RAG、Agent、微调等概念找入门材料
+- 想转型做 FDE 岗位的工程师按路线图系统学习
+- 准备 FDE 面试前查漏补缺各主题
+- 需要在客户现场快速解释 LLM、RAG、Agent 概念时查阅
 
 ## 场景标签
 
@@ -38,7 +37,8 @@
 ## 证据(README 行号)
 
 > L5: > Forward Deployed Engineer Roadmap - A step-by-step roadmap to become a Forward Deployed Engineer (FDE) in AI, with
-> L66: - Every blog is free to read and is written for beginners. No jargon. No assumptions.
+> L46: Almost every FDE engagement follows the same path. This roadmap is ordered to match it.
+> L63: - Inside each step, read the blogs in the given order. Every blog explains one concept in simple words with example
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `99824cab88ab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9dda6dd5c6fa` · [字段定义](../../DATASET.md)*

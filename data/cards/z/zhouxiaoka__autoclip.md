@@ -2,9 +2,9 @@
 
 ⭐ 16,120 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/zhouxiaoka/autoclip) · [官网](https://zhouxiaoka.github.io/autoclip_intro/) · 个人维护 · 中文 README
 
-**给内容创作者：贴链接一键把长视频剪成多平台短视频**
+**长视频一键剪成短视频的本地 AI 剪辑桌面工具**
 
-开源桌面工具，将播客、访谈、课程等长视频链接自动剪辑为适配抖音、小红书、TikTok、Reels、YouTube Shorts、B 站与 YouTube 的短视频，生成字幕、封面、标题简介与 ZIP 发布包，每平台按评分生成至多 10 条片段并可补充备选。剪辑与渲染在本机完成；分析模型可选云端 API 或 Ollama/LM Studio 本地模型，字幕可用作者字幕、本地 Whisper/SenseVoice 或云端转写。提供桌面版、Docker/Web、CLI 与 MCP 四种使用方式；软件 MIT 免费，云端模型按量计费。Intel Mac 无桌面安装包，需用 Docker 或 CLI。
+AutoClip 接收视频链接、本地文件或直播回放（OBS/Twitch/YouTube/Kick/Discord），自动定位精彩片段、跟踪说话人、烧录字幕、生成封面与发布文案，导出适配 TikTok、Shorts、Reels、抖音、小红书、Bilibili 等平台的短视频。剪切与渲染在本地完成；分析可自带 API key 使用云端模型，也可用 Ollama/LM Studio + Whisper/SenseVoice 完全离线。提供桌面安装包、CLI/MCP、Docker Web 三种使用方式，13 种语言界面，MIT 许可，个人维护。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 贴链接一键生成视频、封面与发布文案，适配 7 个平台
-- 剪辑、取景与渲染在本机完成，模型可自选云端或本地（Ollama/LM Studio）
-- 提供桌面版、Docker/Web、CLI 与 MCP 四种使用方式
-- 支持连接账号直接投稿到平台
+- 支持链接、本地文件与 6 种直播回放来源，自动剪辑并烧录字幕
+- 本地优先：剪切与渲染在本地运行，可选 Ollama/LM Studio 全离线
+- 一键切换目标平台导出，生成封面与发布文案
+- 提供桌面安装包、CLI/MCP（uvx/npx）与 Docker Web 部署
 
 ## 适用场景
 
-- 把播客或访谈长视频批量剪成抖音/小红书竖版短片
-- 为 YouTube 长视频生成 Shorts 切片并附发布文案
-- 通过 CLI/MCP 把剪辑流程接入自建服务或 Agent
+- 把播客、访谈、课程长视频批量剪成各平台短视频
+- 游戏直播结束后从 OBS/Twitch 回放快速产出高光片段
+- 无 API key 环境下用本地模型离线完成剪辑流程
 
 ## 场景标签
 
-`语音识别` · 领域:感知与多模态
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L7: 开源，在你的电脑上剪辑与渲染。贴一个链接，选好平台，生成 视频、封面和发布文案 ，
-> L128: 剪辑、取景与渲染在本机完成。分析模型自选，字幕可用作者字幕、本地 Whisper / SenseVoice 或已配置的云端转写。CLI / MCP 与桌面共用同一条一键出片链路。
+> L7: Open-source, local-first AI clipping for **podcasts, interviews, and gaming streams** — with smart reframing, captio
+> L37: Drop in a link, local video, or **live stream replay** — AutoClip finds the best moments, tracks the speaker, burns
+> L167: |**AI agents / CLI / MCP**|`uvx autoclip-mcp` or `npx skills add zhouxiaoka/autoclip`|Python 3.10+ (3.11 recommend
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3fc21cf44012` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4479ad4b35f7` · [字段定义](../../DATASET.md)*

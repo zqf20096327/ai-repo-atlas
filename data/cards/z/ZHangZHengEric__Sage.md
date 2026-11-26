@@ -2,9 +2,9 @@
 
 ⭐ 1,223 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ZHangZHengEric/Sage) · [官网](https://zhangzhengeric.github.io/Sage/) · 个人维护 · 中文 README
 
-**面向开发者的 RSI Agent 运行框架：运行、评估并迭代 agent**
+**RSI Agent Harness：运行、评估并迭代进化 agent**
 
-Sage 是一个 RSI（递归自我改进）Agent Harness：由目标或整理后的使用历史驱动 Runner 执行、Evaluator 独立评分、Tuner 优化与版本选择，每个候选版本连同证据被保留，是否采用由用户决定。提供四种形态：Flutter 桌面端（含安装包与语音交互）、多用户 Server/Agent Studio、Python SDK（SAgents）以及离线演练。能力覆盖 sage.yaml 定义 agent 包、Skills/MCP 组合、有状态会话、沙箱与审批、多 agent 工作流。限制包括 Server 仅支持单 worker、本地执行非容器隔离。
+Sage 是一个 RSI（递归自我改进）Agent Harness，围绕目标或整理的使用历史运行 Runner 执行、独立 Evaluator 评分与 Tuner 优化，保留每个版本及其证据，由用户决定是否采纳。以 Desktop（Flutter 安装包）、Server（多用户 Web 与 Agent Studio）和 SAgents Python SDK 三种形态提供，支持 Skills、MCP 工具、有状态会话、多 agent 编排、沙箱与审批。Server 目前仅支持单 worker，本地执行不做容器隔离，RSI 只产出候选版本而不自动激活。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ Sage 是一个 RSI（递归自我改进）Agent Harness：由目标或整理后�
 
 ## 能力要点
 
-- Runner-Evaluator-Tuner 的 RSI 闭环与版本/证据保留
-- Desktop/Server/Python SDK/离线演练四种入口
-- Skills、MCP、沙箱审批与多 agent 工作流编排
-- 原生交互式 UI 流式渲染与可编辑 PPTX 导出
+- RSI 循环：Runner 执行、独立 Evaluator 评分、Tuner 优化与版本选择
+- Desktop/Server/Python SDK 三种宿主形态
+- 支持 Skills、MCP 服务与 host 管理的授权
+- 原生交互 UI：流式 Glass 界面、图表与可编辑 PPTX 导出
 
 ## 适用场景
 
-- 构建并通过任务反馈迭代优化自己的 agent 包
-- 通过 Server 为团队提供多用户 agent 访问与 Agent Studio 管理
-- 在 Python 应用中嵌入 SAgents 运行时执行任务
-- 在桌面端通过语音与 agent 对话并控制工具调用
+- 用任务反馈迭代优化 agent 包并保留版本证据
+- 通过 Python SDK 在自有应用中嵌入有状态 agent 运行时
+- 搭建多用户 Web 端访问与 Agent Studio 管理 agent 包
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L13: **Sage is an RSI Agent Harness** for improving agents through task feedback. RSI (Recursive Self-Improvement) start
 > L15:  Run · Evaluate · Evolve; Models and Context, Skills and MCP, Stateful Execution, Multi-agent, Sandbox and Approval
-> L122: |🖥️ **Multiple hosts**|Use Desktop, Server/Studio, or embed SAgents in your Python application.|
+> L43: |🧠 **SAgents** — Build and optimize agents through Python|Runtime quick start|
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ac9a298e083b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4d670bfb09f2` · [字段定义](../../DATASET.md)*

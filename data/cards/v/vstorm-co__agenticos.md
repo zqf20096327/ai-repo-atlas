@@ -2,9 +2,9 @@
 
 ⭐ 874 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vstorm-co/agenticos) · [官网](https://vstorm-co.github.io/vstormos-landing/) · 组织维护
 
-**企业自托管 AI agent 平台：构建、共享并治理公司内部 AI 队友**
+**企业自托管 AI agent 平台：构建、运行并治理团队 AI 助手**
 
-基于 Pydantic AI 的自托管 agent 平台（Apache-2.0），供公司团队在自有服务器与模型上构建、运行和管理 agent。功能含共享聊天、RAG、技能、内置浏览器、4,700+ MCP 服务器接入、预算控制、审批与审计日志；支持将 agent 发布到 Slack、Teams、Discord、Telegram、网站挂件或 API。技术栈为 FastAPI、PostgreSQL（pgvector）与 Next.js，通过 Docker Compose 部署，支持 28 家模型供应商及本地模型。管理机制包括按 agent 的使用权限、花费上限与需人工审批的操作。
+面向企业的自托管 agent 平台：在浏览器中配置 agent 指令、模型与工具，连接公司文档与应用后发布到网页聊天、Slack、Teams、Discord、Mattermost、Telegram、网站挂件或 API。提供共享聊天、RAG、技能、内置浏览器、4,700+ MCP 服务器接入、预算控制、审批流程与运行审计。基于 Pydantic AI 与 FastAPI、PostgreSQL+pgvector、Next.js 构建，以 Docker Compose 部署在自有基础设施上，Apache-2.0 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 浏览器内构建并发布 agent，支持 Slack/Teams/Discord/Telegram/网站挂件/API 等渠道
-- 4,700+ MCP 服务器接入，可按 agent 配置可用工具
-- 预算、审批与审计日志的治理机制
-- 兼容 28 家模型供应商，含 Ollama 与 vLLM 本地模型
+- 4,700+ MCP 服务器接入，可按 agent 配置可调用工具
+- 支持 28 家模型提供商，含 ChatGPT/Claude 订阅与 Ollama、vLLM 本地模型
+- 预算、审批与审计轨迹等治理控制
+- 可作为 MCP server 被 Claude Code、Codex、Cursor 调用
 
 ## 适用场景
 
-- 给公司搭一套自有的内部 AI agent 层，数据留在自己服务器
-- 让团队和 agent 在同一个共享聊天里协作处理文档与工具任务
-- IT/安全团队对 agent 使用做预算、审批与审计管理
-- 把研究类长任务交给 agent 后台执行，结果回写对话
+- 为公司搭建自有内部 AI agent 层，替代按席位付费的云端助手
+- 让报告、支持答复、合同检查等文档类重复工作由 agent 完成
+- IT 与安全团队需要数据主权、登录控制与审计的场景
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` `RAG` · 领域:效率与自动化
+`浏览器自动化` `AI 助手` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L172: **AgenticOS is an open-source (Apache-2.0), self-hosted layer for building, sharing and governing AI agents across
-> L176: It runs on your own infrastructure with Docker Compose and works with 28 model providers, including your ChatGPT s
+> L3:  Open-source, self-hosted AI agent platform for your company's AI teammates.
+> L177: It runs on your own infrastructure with Docker Compose and works with 28 model providers, including your ChatGPT s
+> L181: - Companies that want **an internal AI agent layer** they own, instead of per-seat assistants in a vendor's cloud.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2a1e5f221882` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7aac34007e29` · [字段定义](../../DATASET.md)*

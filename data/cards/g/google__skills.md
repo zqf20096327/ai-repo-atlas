@@ -2,9 +2,9 @@
 
 ⭐ 24,678 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/google/skills) · 组织维护
 
-**Google 官方 Agent Skills 技能集：为 AI agent 提供操作 Google 产品的技能**
+**为 AI agent 提供 Google 产品与技术的技能集合**
 
-Google 维护的 Agent Skills 仓库，收录适用于 Google 产品与技术（含 Google Cloud）的技能文件，按 Google Cloud 入门、AI/ML、基础设施、数据库与分析、开发者工具、安全与身份、广告等十余个类别组织，条目涵盖 GKE、BigQuery、Gemini、Agent Platform 等产品。通过 skills.sh 的 npx 命令安装并可选择目标 agent 与安装范围；另捆绑 Claude Code、Codex、Antigravity CLI 三个 agent harness 的插件（Skills + MCP server）。
+Google 官方维护的 Agent Skills 仓库，收录覆盖 Google Cloud 全线的技能条目，按入门、AI/ML、基础设施、数据库、开发者工具、安全等十余个类别组织。通过 skills.sh 的 npx 命令安装到目标 agent，可选择具体技能、目标 agent 与安装范围（项目级或全局），并支持更新与移除过期技能。另捆绑面向 Claude Code、Codex、Antigravity CLI 等 agent harness 的插件（Skills + MCP server）。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@ Google 维护的 Agent Skills 仓库，收录适用于 Google 产品与技术（
 
 ## 能力要点
 
-- 按产品与场景组织的多类别技能清单（AI/ML、基础设施、数据库、安全等）
-- npx skills add 安装，支持选择具体技能、目标 agent 与安装范围
-- npx skills update 更新并可移除过时技能
-- 为 Claude Code / Codex / Antigravity CLI 提供插件（Skills + MCP servers）
+- 按 10+ 类别组织的大量 Google Cloud/产品技能条目
+- npx skills add 支持按技能、agent、安装范围（项目/全局）选择安装
+- npx skills update 支持更新并移除过期技能
+- 捆绑 Skills + MCP server 形式的产品插件，适配多种 agent harness
 
 ## 适用场景
 
-- 为编码 agent 配置操作 Google Cloud 的技能
-- 让 agent 具备 GKE、BigQuery、Gemini 等产品的使用与排障知识
-- 通过插件市场为 Claude Code 批量安装 Google 产品插件
+- 让编码 agent 具备操作 Google Cloud（GKE、BigQuery、IAM 等）的领域知识
+- 为 agent 安装 Google Ads、Analytics 等 API 的使用技能
+- 在 Claude Code/Codex 等 harness 中以插件形式接入 Google 技能与 MCP server
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: This repository contains Agent Skills for Google
 > L11: npx skills add google/skills
-> L31: ## Available Skills
+> L277: This repo also bundles Google product plugins (Skills + MCP servers) for agent harnesses.
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `97c960afc6b8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a8971eecbd73` · [字段定义](../../DATASET.md)*

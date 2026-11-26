@@ -2,9 +2,9 @@
 
 ⭐ 953 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jazzyalex/agent-sessions) · [官网](https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=about-sidebar) · 个人维护
 
-**macOS 应用：汇总检索并续用多家 AI 编码 agent 的本地会话历史**
+**给 Mac 开发者统一检索与恢复各 AI 编码 agent 的本地会话历史**
 
-本地优先的 macOS 应用（需 macOS 14+），将 Codex、Claude Code、Cursor Agent 等 16 种活跃格式的编码 agent 会话历史聚合到统一界面：支持全文检索（短语、文件路径、会话 ID、布尔查询）、阅读 transcript、复制 resume 命令并在 Terminal/iTerm2/Warp/Ghostty 等终端中续开 CLI 会话；提供 Codex/Claude 的逐会话配额消耗计量（5 小时/周窗口、token、API 等价成本估算）与 Session Info 元数据面板。索引与解析全部本地完成，不上传会话数据，无遥测。DMG 或 Homebrew 安装，更新经 Sparkle 签名分发。
+一个本地优先的 macOS 应用，聚合浏览、搜索、分析并恢复多种 AI 编码 agent（Codex、Claude Code、Cursor Agent、Copilot CLI 等 16 种来源格式）的本地会话记录。机制：在本地解析并索引各 agent 的会话文件夹，支持布尔查询、会话 ID 前缀搜索，读取而非改写记录；提供 Codex/Claude 配额逐会话消耗计量、按 API 费率估算成本、会话元数据面板，并可将支持的 CLI 会话在多个终端应用中恢复。通过 DMG 或 Homebrew 安装，需 macOS 14+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 聚合 16 种 agent 会话格式，统一本地检索与 resume
-- 逐会话配额计量：5 小时/周窗口、token 速率、API 等价成本估算
-- Session Info 面板展示 provider、模型、token 组成、价格估算
-- 本地索引与解析，无遥测，格式维护者清单见 STEWARDS.md
+- 在单一应用中搜索 16 种 agent 格式的本地会话历史，索引在本地构建
+- Quota Meter 逐会话显示 Codex/Claude 配额消耗速率与 API 等价成本估算
+- 复制 resume 命令或在 Terminal/iTerm2/Warp/Ghostty 等终端中恢复支持的 CLI 会话
+- 无遥测，不上传会话历史；更新经签名与公证
 
 ## 适用场景
 
-- 找回并续用散落在多个 CLI agent 里的历史会话
-- 监控 Codex/Claude 配额在哪些会话上消耗最快
-- 按 agent、模型对比使用成本与 token 消耗
+- 找回某次改动对应的 agent 会话记录并继续该会话
+- 监控多个活跃 Codex/Claude 会话的配额消耗速度
+- 按 agent、模型对比各会话的 token 用量与 API 等价成本
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L7: Search local conversations from Codex, Claude Code, Cursor, and **13 other coding agents** in one Mac app. Read the 
-> L50: |Source|Local history|Resume|
-> L112: - Transcript discovery, parsing, indexing, search, and navigation happen locally.
+> L42: - **Keep transcripts on your Mac.** Agent Sessions builds its search index locally and does not upload session hist
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c12e61374014` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `09bb157c9a53` · [字段定义](../../DATASET.md)*

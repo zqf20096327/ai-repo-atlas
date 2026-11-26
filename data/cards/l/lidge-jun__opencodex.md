@@ -2,9 +2,9 @@
 
 ⭐ 18,750 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lidge-jun/opencodex) · [官网](https://opencodex.me/) · 个人维护
 
-**本地 AI 网关：让编码工具接入任意 LLM 提供商**
+**本地代理网关：让任意模型接入 Codex、Claude Code 等编码工具**
 
-opencodex 是运行在本地的轻量网关，位于 Codex、Claude Code、Claude Desktop、Grok Build 等编码工具与模型提供商之间：接收 Responses、Chat Completions、Anthropic Messages 三种 API 并翻译为各提供商的协议，承载流式输出、工具调用、推理与图像。内置 40+ 提供商，支持 provider/model 路由语法、组合模型（failover/加权轮询）、子代理路由、OAuth 登录及 web 搜索/视觉 sidecar。通过 npm 全局安装并运行 `ocx start`，提供 localhost:10100 网页仪表盘；另提供 macOS/Windows/Linux 桌面安装包，CLI 安装需 Node 18+。
+opencodex 是运行于本地的代理网关，接收 Responses、Chat Completions 与 Anthropic Messages 三种 API 并转换为各提供商的协议，携带流式、工具调用、推理与图片。面向使用 AI 编码工具的开发者：内置 40+ 提供商，支持 provider/model 路由语法、多提供商故障转移/加权的 Combo、OAuth 免 API key、Web 搜索与视觉 sidecar，以及带实时请求日志的 Web 控制台。通过 npm 安装 CLI，亦提供 macOS/Windows/Linux 桌面包；`ocx stop` 可恢复原始配置。
 
 ## 筛选速览
 
@@ -27,17 +27,16 @@ opencodex 是运行在本地的轻量网关，位于 Codex、Claude Code、Claud
 
 ## 能力要点
 
-- 接收三种 API 并翻译为各提供商协议，承载流式/工具调用/推理/图像
-- 40+ 内置提供商及任意 OpenAI 兼容端点，provider/model 路由语法
-- Combo 组合模型支持 failover 与加权轮询；子代理可路由任意模型
-- 仪表盘展示提供商状态、OAuth、模型选择与实时请求日志
+- 40+ 内置提供商，接受 Responses/Chat Completions/Anthropic Messages API 并做协议转换
+- provider/model 路由语法与跨提供商故障转移/加权轮询 Combo
+- xAI、Anthropic、Kimi 的 OAuth 登录；Web 搜索与视觉 sidecar
+- Web 控制台含实时请求日志与缓存 token 统计；ocx stop 无残留退出
 
 ## 适用场景
 
-- 在 Codex CLI 中使用 Claude、Gemini、DeepSeek 等非默认模型
-- 让 Claude Code 通过本地代理运行 Ollama 本地模型
-- 为多个模型配置故障切换的组合模型
-- 在本地仪表盘集中管理各工具的提供商账户与请求日志
+- 在 Codex CLI 中切换使用 Claude、Gemini、DeepSeek 等非 OpenAI 模型
+- 通过本地 OpenAI 兼容端点接入 Ollama 等本地运行时
+- 为多个 AI 编码工具统一管理提供商账号与密钥
 
 ## 场景标签
 
@@ -46,8 +45,7 @@ opencodex 是运行在本地的轻量网关，位于 Codex、Claude Code、Claud
 ## 证据(README 行号)
 
 > L50: opencodex is a lightweight local gateway between your coding tools and your model providers. It
-> L51: accepts the Responses, Chat Completions and Anthropic Messages APIs and translates each request into
-> L127: - **Use any LLM with Codex, Claude Code, Claude Desktop, and Grok Build** — 40+ providers out of
+> L63: ocx start                         # proxy + dashboard on localhost:10100
 
 ## 星数曲线
 
@@ -63,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b9b3d67507bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a3286792b9f5` · [字段定义](../../DATASET.md)*

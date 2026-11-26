@@ -2,9 +2,9 @@
 
 ⭐ 3,110 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/pluja/anysub) · 个人维护
 
-**自托管的音视频转字幕 Web 应用，本地运行 Whisper 转录**
+**自托管网页工具：音视频转字幕并在线编辑导出**
 
-Anysub（前身为 Whishper）将音频和视频转为字幕：上传录音后由 Whisper 转录，在带波形时间线的编辑器中修正文本与时间，再导出。支持从 tiny 到 large-v3-turbo 的模型、词级时间戳、过快/过长/重叠字幕警告、翻译、多种导出格式（SRT/WebVTT/LRC/纯文本/JSON）、可续传上传与可搜索的素材库。要求 Linux x86-64 上的 Docker 与 Docker Compose；GPU 转录需 NVIDIA 卡与 Container Toolkit，AMD/Intel GPU 尚不支持；也可仅通过外部服务商转录而无需本地模型。
+Anysub（前身为 Whishper）是一个自托管的字幕生成工具：上传音视频文件，用 Whisper 在本机转录，再在带波形时间线的编辑器中修正文字与时间轴，导出 SRT、WebVTT、LRC、纯文本或 JSON。支持词级时间、字幕过快/过长/重叠警告、断点续传上传、可搜索素材库，以及管理页配置模型、上传限制、磁盘空间与 worker。需 Linux x86-64 与 Docker 运行；GPU 加速需 NVIDIA 卡与 Container Toolkit，AMD/Intel GPU 暂不支持。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Anysub（前身为 Whishper）将音频和视频转为字幕：上传录音后�
 
 ## 能力要点
 
-- Whisper 转录，模型范围 tiny 到 large-v3-turbo，含词级时间戳
-- 带波形时间线、撤销与自动保存的字幕编辑器
-- 导出 SRT、WebVTT、LRC、纯文本或 JSON
-- 可配置外部服务商（如 OpenAI、Groq）转录，无需本地 GPU
+- Whisper 转录，模型范围从 tiny 到 large-v3-turbo
+- 字幕编辑器含波形时间线、撤销与自动保存
+- 导出 SRT/WebVTT/LRC/纯文本/JSON
+- 支持本机或外部服务商（如 OpenAI、Groq）转录
 
 ## 适用场景
 
-- 在本机或自己的服务器上为录音和视频生成字幕
-- 在网页编辑器中修正自动字幕的文本与时间轴
-- 将字幕翻译为其他语言并导出多种格式
+- 把录音或视频批量转成带时间轴的字幕
+- 在网页编辑器中校正字幕文字与时间
+- 在自家服务器上自托管处理音视频转录
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c731245864e5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a276cb219d5e` · [字段定义](../../DATASET.md)*

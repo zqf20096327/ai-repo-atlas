@@ -2,9 +2,9 @@
 
 ⭐ 30,375 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/academic/awesome-datascience) · 组织维护
 
-**数据科学学习资源清单：入门路径与工具/课程索引**
+**数据科学学习资源清单：帮初学者系统入门与应用**
 
-以清单形式组织的数据科学学习路径仓库：回答“什么是数据科学、该学什么”的问题，汇总专家解答链接、Python/R 语言选择说明、Pip/Anaconda 包管理介绍，以及 Pandas、NumPy、Scikit-Learn、Seaborn 等入门库说明，并给出包含 Python、核心库、Kaggle 练习、数学基础到机器学习的初学者路线图；另设 Agents 章节收录面向数据科学工作流的 agent 框架与工具条目。面向数据科学初学者与从业者。
+一个开源的数据科学资源聚合仓库，以问答形式组织（什么是数据科学、从哪里开始学），收录专家文章链接、语言选择建议（Python/R）、入门工具（Scikit-Learn、Pandas、NumPy、Seaborn）以及新手学习路线图。可见部分还包含 Agents 分类，列举用于数据科学工作流的 agent 框架、工具与研究检索类项目。欢迎社区贡献，附带 CONTRIBUTING.md。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@
 
 ## 能力要点
 
-- 汇总数据科学定义与专家解答的链接表
-- 初学者路线图：Python→核心库→Kaggle 项目→数学→ML
-- Python/R 语言与 Pip/Anaconda 包管理说明
-- Agents 章节收录数据科学工作流相关框架与工具
+- 以"什么是数据科学/从哪开始"问答组织入门路径
+- 提供 Python/R 语言与核心库（Pandas、NumPy、Scikit-Learn）入门指引
+- 含 Beginner Roadmap 五步学习路线
+- 设 Agents 分类，收录数据科学工作流相关框架与工具
 
 ## 适用场景
 
-- 我想入门数据科学，找一条学习路径
-- 我需要查找数据科学领域的课程与文章资源
-- 我在为数据科学工作流挑选 agent 工具
+- 作为初学者系统入门数据科学的学习路线参考
+- 查找数据科学概念解释与专家文章资源
+- 寻找可用于数据科学工作流的 agent 工具
 
 ## 场景标签
 
@@ -46,7 +46,7 @@
 
 > L9: **An open-source Data Science repository to learn and apply concepts toward solving real- world problems.**
 > L11: This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is
-> L62: ## Agents
+> L22: ## Table of Contents
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `59235a0ef6f3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `615e3b08e860` · [字段定义](../../DATASET.md)*

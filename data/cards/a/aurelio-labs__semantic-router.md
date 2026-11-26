@@ -2,9 +2,9 @@
 
 ⭐ 4,048 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aurelio-labs/semantic-router) · [官网](https://www.aurelio.ai/semantic-router) · 组织维护
 
-**为 LLM 与 agent 提供毫秒级语义路由决策的 Python 库**
+**为 LLM/agent 提供毫秒级语义路由决策的库**
 
-Semantic Router 在 LLM 生成之前充当决策层：将请求的语义与预定义 Route 在向量空间中比对，或在单次快速调用中询问小决策模型，毫秒级输出工具使用等决策，并给出可校准为真实概率的置信度。提供 IndexedRouter（嵌入+匹配）、DecisionRouter（决策模型）、Chain/Merge 组合路由、稀疏混合检索、Pinecone/Qdrant/Postgres 生产索引与图像多模态路由。Quickstart 可用本地 FastEmbed 模型完全离线运行，无需 API key。通过 PyPI 提供两条发布线（1.x 主线与 0.x 仅修复线）。
+Python 库，在 LLM 与 agent 之前增加一层语义决策：将请求的语义向量与预定义 Route（utterance 集合）比对，或调用小型决策模型单次完成判定，输出带可校准置信度的路由结果。默认可用本地 FastEmbed 嵌入模型、无需 API key 完整运行；encoder 支持 OpenAI、Cohere、Hugging Face 等；路由索引可存于 Pinecone、Qdrant 或 Postgres，支持稀疏混合检索与图文多模态路由。两条发布线：1.x 重建版与仅维护修复的 0.x（止于 0.3.0）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Semantic Router 在 LLM 生成之前充当决策层：将请求的语义与预�
 
 ## 能力要点
 
-- 毫秒级语义比对决策，带可校准置信度（fit() + 阈值）
-- 本地 FastEmbed 路径无 API key、完全离线运行
-- DecisionRouter 单次调用回答多个 yes/no/选择/评分问题
-- 支持 Pinecone/Qdrant/Postgres 索引与图像多模态路由
+- 毫秒级语义路由决策，每条判定带可校准置信度
+- 默认本地 FastEmbed 嵌入，全程无 API key 运行
+- DecisionRouter 用决策模型在单次调用回答多个问题
+- 支持 Pinecone/Qdrant/Postgres 生产索引与图像多模态路由
 
 ## 适用场景
 
-- 让 chatbot 对话题分类并避开政治类对话
-- 在 agent 中快速决定调用哪个工具而无需等 LLM 生成
-- 用 Chain 让快路由先回答，不确定时再落到慢路由
-- 医疗行政流程等场景按语义分流请求
+- 让 chatbot 按语义分流话题（如规避政治话题）
+- 在 agent 中快速决定是否调用某工具
+- 简单查询由快速路由处理，不确定时回退到慢速 LLM
 
 ## 场景标签
 
-`聊天机器人` `多模态` `语义搜索` · 领域:对话与助手
+`语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L11: Semantic Router is a superfast decision-making layer for your LLMs and agents. Rather than waiting for slow LLM gen
-> L97: - **`Chain`** answers easy queries from a fast router and falls through to a slower one only when it isn't sure. **
+> L20: pip install -qU "semantic-router>=1,<2"   # 1.x
+> L96: - **`DecisionRouter`** asks a decision model (TypeSafe's Jev, nace.ai's Drex, Laya or Von) which route applies, and
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `362f8a8e8ab1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e699e5cbf886` · [字段定义](../../DATASET.md)*

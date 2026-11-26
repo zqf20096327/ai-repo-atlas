@@ -2,9 +2,9 @@
 
 ⭐ 552 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/alphasecio/langchain-examples) · [官网](https://go.alphasec.io/langchain-examples) · 个人维护
 
-**开发者示例应用：一个 Streamlit 应用集成四个 LangChain 工具**
+**四合一 LangChain Streamlit 示例应用：联网调研/摘要/新闻速递/文档问答**
 
-单个 Streamlit 应用内集成四个 LangChain 工具：带引用来源的 Web 研究代理、文本/网页/PDF 摘要、新闻摘要聚合、基于 Postgres+pgvector 的文档问答（页级引用）。使用 OpenAI 模型，支持用户自选搜索服务商（Tavily/Exa/Firecrawl/Perplexity 等 8 个，API key 可配）。提供 Railway 一键部署模板，也可在任意带 Docker 与 Postgres 的 VPS 运行或本地 pip 运行；支持 OpenAI 兼容端点与侧边栏临时输入 key、APP_PASSWORD 保护。
+单个 Streamlit 应用集成四个 LangChain 工具：联网搜索并带引用作答的 Web Research agent、支持文本/网页/PDF 多种摘要形态的 Summarize、按主题生成单段速递的 News Digest，以及把 PDF/文本/Markdown 存入向量库并按页引用作答的 Chat with Docs。向量库默认 Postgres+pgvector，可选 Pinecone；支持 Railway 一键模板或任意 VPS 用 Docker 部署，也可本地 pip 安装运行。需配置 OpenAI key 与至少一个搜索 API key，未设 APP_PASSWORD 时服务器端 key 有被滥用风险（README 明确警示）。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 四个工具：Web 研究代理、摘要、新闻摘要、文档问答
-- pgvector 向量存储，问答带页级引用
-- 支持 8 个可自选的搜索服务商 API key
-- 提供 Railway 部署模板与本地运行步骤
+- 四个工具：Web Research agent、Summarize、News Digest、Chat with Docs
+- 文档问答输出页级引用，Web Research 输出来源引用
+- 向量库可选 pgvector（默认）或 Pinecone，经环境变量切换
+- 支持 8 个搜索 API 供应商可选（Tavily/Exa/Firecrawl/Perplexity/Serper 等）
 
 ## 适用场景
 
-- 让 AI 代理搜索网页并给出带引用的回答
+- 部署一个可联网检索并给出引用来源的问答应用
 - 对粘贴文本、网页或 PDF 生成不同粒度的摘要
-- 把 PDF/文本/Markdown 存入向量库后提问检索
+- 把本地 PDF/Markdown 文档入库后按页引用追问
+- 按主题自动汇总新闻生成每日速递
 
 ## 场景标签
 
-`文档问答` · 领域:知识与检索
+`文档问答` `AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L19: A single Streamlit app with four practical LangChain tools, using OpenAI models, your choice of web search provider
 > L23: |🔎 **Web Research**|An agent that searches the web, reads pages and answers with cited sources.|
+> L26: |📚 **Chat with Docs**|Stores PDF, text and Markdown files in a vector store (Postgres with pgvector, or Pinecone) a
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `24d9ea67735d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b5e5fa824279` · [字段定义](../../DATASET.md)*

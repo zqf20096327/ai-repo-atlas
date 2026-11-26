@@ -2,9 +2,9 @@
 
 ⭐ 16,204 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/budtmo/docker-android) · 个人维护
 
-**Docker 中的 Android 模拟器镜像，供开发测试与云端部署**
+**Docker 内运行 Android 模拟器：开发测试、VNC 观看与 MCP/AI-Agent 控制**
 
-将 Android 模拟器封装为 Docker 镜像的方案，提供多种设备型号与 Android 版本（9.0–14.0）的镜像。支持通过 noVNC 在浏览器查看容器内画面、adb connect 从容器外控制模拟器、Web-UI 查看日志、构建 Android 项目、运行 Appium/Espresso 等 UI 测试，并可集成 Genymotion 与部署到 AWS/Azure/GCP。宿主机仅支持 Ubuntu（OSX/Windows 需虚拟机），且需开启硬件虚拟化。另有赞助者可拉取的 Pro 版本，提供 AI-Agent、代理、headless 模式等附加功能。
+将 Android 模拟器打包为 Docker 镜像，覆盖 Android 11–14（另有 Genymotion 与 MCP 镜像变体），提供多种真机设备 profile 与皮肤、noVNC 网页查看容器内部、日志 web-UI 共享、adb connect 外部控制、构建 Android 工程及 Appium/Espresso 单元与 UI 测试。以 docker run 一条命令启动，要求宿主机支持虚拟化（/dev/kvm），支持 NVIDIA GPU 渲染与 WSL2 硬件加速。含 beta 版 docker-android MCP-Server、Appium MCP 与 AI-Agent；AI-Agent 仅在赞助制的 Pro 版镜像中提供，支持 Ollama、VLLM 本地 LLM 服务器。
 
 ## 筛选速览
 
@@ -27,21 +27,21 @@
 
 ## 能力要点
 
-- 多种设备型号与 Android 版本的 Docker 镜像
-- noVNC 浏览器访问与 adb 外部控制模拟器
-- 支持 Appium、Espresso 等测试框架与 Jenkins 集成
-- 内置 docker-android MCP-Server 与 Appium MCP（beta）
+- docker run 一条命令启动 Android 模拟器，noVNC 网页查看
+- 多种设备 profile（Samsung/Nexus/Pixel）与 Android 11–14 镜像
+- beta 版 docker-android MCP-Server、Appium MCP 与 AI-Agent（Pro 版）
+- 支持 NVIDIA GPU 渲染、WSL2 嵌套虚拟化、数据卷持久化
 
 ## 适用场景
 
-- 在 CI（如 Jenkins）中运行 Android UI 测试
-- 在云端批量部署 Android 模拟器环境
-- 开发调试时通过浏览器查看与控制模拟器
-- 构建 Android 项目
+- 在 CI（Jenkins）中运行 Android UI 测试
+- 本地开发时通过网页 VNC 查看和控制模拟器
+- 在 Azure/AWS/GCP 云上部署 Android 模拟器
+- 用 AI-Agent 通过本地 LLM 控制模拟器（Pro 版）
 
 ## 场景标签
 
- · 领域:开发工具/移动测试
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `29a6d564f9a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `39ed5957ff7a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 4,698 · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/r0f1/datascience) · 个人维护
 
-**用 Python 做数据科学的资源精选清单**
+**面向 Python 数据科学实践者的资源策展清单**
 
-一个 awesome 类型的策展清单，收录用 Python 实践数据科学的资源，除库之外还包括教程、代码片段、博客文章与演讲链接。内容按 Core 库、Python 编程工具、pandas 替代与扩展、交互式可视化、Jupyter 环境、文本抽取与 OCR、大数据、经典统计（书籍/数据集/论文/包）、机器学习教程、流行病学等类别组织，条目多为对第三方库、R 包、数据集或文献的一句话描述加外链，清单本身不提供可安装的产品。
+按主题组织的 Python 数据科学资源集合，除库之外还收录教程、代码片段、博客文章与演讲链接。条目分为 Core 工具、Python 编程、pandas 生态、Jupyter 环境、OCR/文本抽取、大数据、经典统计、流行病学、机器学习教程等板块；统计板块细分 p-values、效应量、置信区间、序贯分析等子类，并包含书籍、数据集、论文与在线工具链接。不含安装说明，仅以链接列表形式维护。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖从 pandas/scikit-learn 到大数据（spark/dask）的 Python 数据科学生态条目
-- 经典统计部分收录 p 值、效应量、样本量等主题的书籍、论文与 R 包
-- 含 8 个以上主题数据集合集（Rdatasets、MedDataSets 等）与机器学习教程链接
-- 设有流行病学专节，收录 R 流行病学工具链
+- 覆盖从 pandas/Jupyter 到大数据框架的数据科学生态条目
+- 经典统计板块细分 p-values、效应量、功效与样本量等子类
+- 收录统计学习书籍、论文、数据集与在线计算工具链接
+- 包含流行病学与临床预测模型评估专章
 
 ## 适用场景
 
-- 按主题查找适合数据科学任务的 Python 库或教程
-- 学习统计推断与可视化时检索相关阅读材料
-- 寻找特定领域（医学、犯罪、教育等）的练习数据集
+- 查找某个数据分析任务的 Python 库
+- 系统学习统计推断与机器学习教程
+- 寻找公共卫生/流行病学分析工具
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L1: # Awesome Data Science with Python
 > L3: > A curated list of awesome resources for practicing data science using Python, including not only libraries, but al
-> L227: #### Machine Learning Tutorials
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8ac955c21a34` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3a0de0d8acc2` · [字段定义](../../DATASET.md)*

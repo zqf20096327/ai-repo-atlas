@@ -2,15 +2,15 @@
 
 ⭐ 3,076 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/huangwb8/ChineseResearchLaTeX) · 个人维护 · 中文 README
 
-**面向中国科研者的LaTeX模板集与AI写作技能体系**
+**为中国科研者提供 AI 辅助的国自然/论文/简历 LaTeX 模板集**
 
-提供国自然（青年/面上/地区）、省级自然科学基金、SCI 论文、多所高校学位论文/博士后与学术简历的 LaTeX 模板，以 zip 下载包与 Overleaf 包形式分发。项目按 Vibe Coding 理念构建可扩展的 Agent Skills 体系，内置 30 余个技能，覆盖文献调研、标书写作、SCI 论文写作与模板开发，兼容 Claude Code、OpenAI Codex、Cursor 等工具。运行需 TeX Live/MacTeX 与 XeLaTeX 编译器，依赖 Python 3 环境；提供中英 PDF/DOCX 双输出与字数统计构建脚本。
+面向中国科研人群的 LaTeX 模板集合，覆盖国自然（青年/面上/地区）、广东与广西省自然科学基金、SCI 论文、十余所高校学位论文/博士后及中英文学术简历模板，提供标准 zip 与 Overleaf 专用包下载。项目按 Vibe Coding 理念构建 Agent Skills 体系，内置约 25 个技能（文献调研、标书写作、SCI 论文写作、模板开发），通过 Claude Code / Codex CLI 等以 Prompt 驱动安装、编译与写作。编译需 XeLaTeX，依赖 Python 3，本地推荐 VS Code + LaTeX Workshop；未配置 AI 环境可走手动配置指南。MIT 许可，另有 Gitee 镜像。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 覆盖 NSFC、省级基金、SCI 论文、高校学位论文与学术简历的 LaTeX 模板集
-- 内置 30 余个 Agent Skills，涵盖文献检索、综述、标书写作、模板迁移等场景
-- 兼容 Claude Code、OpenAI Codex、Cursor、GitHub Actions、VS Code
-- 支持 PDF/DOCX 双输出与像素级验收脚本，提供标准包与 Overleaf 包
+- 覆盖 NSFC、省级基金、SCI、学位论文、简历等中文科研文档模板，提供 Overleaf 包
+- 内置约 25 个 AI Skills：文献检索/综述、NSFC 摘要与立项依据写作、标书 QC 等
+- 通过 Prompt 在 Claude Code/Codex 中自动安装 LaTeX 包、Skills 并触发编译
+- 支持 PDF/DOCX 双输出与像素级验收脚本
 
 ## 适用场景
 
-- 用 LaTeX 撰写国自然标书并让 AI 辅助生成摘要与研究内容
-- 按学校规范定制毕业论文模板并自动编译 PDF
-- 做多源文献检索、去重与综述写作
-- 制作中英文学术简历
+- 下载国自然青年/面上标书 LaTeX 模板撰写申请书
+- 用 AI Skills 生成 NSFC 中英文摘要与立项依据初稿
+- 按学校规范撰写硕士/博士毕业论文 LaTeX 稿
+- 在 Overleaf 上编译中国科研文档模板
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L10:  🤝 打造最适合中国研究者的科研文档 AI Agent，让天下没有难写的国自然标书、SCI 论文、毕业论文、学术简历！🚀
-> L39: - 🧩 **模块化技能**：可扩展的 AI 技能体系，支持灵活组合与升级
+> L3: # 中国科研常用 LaTeX 模板集
+> L38: - 🤖 **AI 驱动**：智能模板规划、自动样式对齐、代码审查测试
 > L41: - 🔬 **科研导向**：专为国自然标书、SCI 论文、毕业论文、学术简历等科研文档场景深度优化
 
 ## 星数曲线
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `86efe01e4bf1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `466de81b15f1` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,562 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/tin2tin/Pallaidium) · [官网](https://tin2tin.github.io/Pallaidium/) · 个人维护
 
-**集成在 Blender 视频编辑器中的生成式 AI 影片工作室插件**
+**集成于 Blender VSE 的生成式 AI 电影制作插件**
 
-以 Blender 插件形式嵌入视频序列编辑器（VSE），提供从文本/图像/视频输入生成图像、视频、文本、音频、音乐与语音的功能矩阵，生成结果自动加入 VSE 时间线。工作流覆盖剧本转分镜、生图、动画、配音配乐及反向提取字幕重建剧本。默认本地运行模型（需 Nvidia CUDA 显卡），可选通过 OpenAI /v1 兼容协议接入远程后端（ComfyUI、fal.ai、LocalAI 等）。要求 Windows（Linux 有限支持）、Blender 5.2+、CUDA 12.8。
+以 Blender 视频序列编辑器（VSE）插件形式提供的生成式 AI 工作流：支持文本/图像/视频到图像、视频、音频、音乐、语音、文本的转换，覆盖 ControlNet、IP Adapter、LoRA、批量生成与渲染队列等功能，生成结果自动加入时间线。默认本地运行模型，可选通过 OpenAI /v1 兼容协议连接 ComfyUI、fal.ai、LocalAI 等远程后端。要求 Windows（Linux 有限支持）、Blender 5.2+、支持 CUDA 的 Nvidia 显卡。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 文本/图像/视频到图像、视频、文本、音频、音乐、语音的生成矩阵
-- 生成的媒体自动添加到 VSE 时间线，支持批量转换与渲染队列
-- 可选远程后端：内置 ComfyUI、fal.ai、LocalAI 连接器及自定义连接器
-- 支持 ControlNet、IP Adapter、多 LoRA、语音克隆等控制功能
+- 文本/图像/视频到图像、视频、音频、音乐、语音、文本的生成矩阵
+- 生成结果自动添加到 VSE 时间线，支持批量处理与渲染队列
+- 可选远程后端：OpenAI /v1 兼容协议，内置 ComfyUI/fal.ai/LocalAI 连接器，支持自定义连接器
+- 一键安装/卸载依赖，模型权重经 Hugging Face 缓存管理
 
 ## 适用场景
 
-- 在 Blender 内用 AI 从剧本生成分镜图像与动画做前期原型
-- 给视频片段生成配音、音乐或字幕
-- 本地显存不足时将生成任务卸载到远程服务器
+- 从歌词或场景描述生成带分镜的剧本并生成画面、配音、音乐
+- 对 VSE 时间线上的片段做批量图像/视频生成与精修
+- 把生成任务卸载到远程 ComfyUI 或云端后端运行
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L3:  A free generative AI movie studio integrated into the Blender Video Editor.
-> L25: |Input|Image|Video|Text|Audio|Music|Speech|
-> L52: * A CUDA-supported Nvidia card with at least 6-16 GB VRAM.
+> L14: Pallaidium turns that insight into a workflow. Prototype the full production cycle with AI before committing to a s
+> L124: Pallaidium runs models **locally** by default. Optionally, it can also drive an
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `367b82539c9d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d8f7ca1e447e` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 2,431 · Zig · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ashhart/TensorFold) · [官网](https://tensorfold.dev) · 个人维护
 
-**面向 Apple Silicon 与 NVIDIA GPU 的本地 LLM 推理服务引擎**
+**单二进制 LLM 推理服务，支持 Metal 与 CUDA GPU**
 
-TensorFold 以 Zig 二进制形式在 Apple Silicon 和 NVIDIA GPU 上提供语言模型服务：读取模型 checkpoint、对请求分词，并直接运行 Metal 或 CUDA 内核，服务过程无需 Python 或 MLX 环境。提供 OpenAI 兼容的 chat/completions、completions、Responses 及 Anthropic Messages API，附带 tensorfold chat 终端聊天命令。模型权重遵循各自许可证，Linux 需 glibc 2.28+ 与 NVIDIA 驱动 R580+。
+以 Zig 编写的语言模型推理服务引擎，读取模型检查点、对请求分词并直接运行 Metal 或 CUDA 内核，在 Apple Silicon 与 NVIDIA GPU 上提供 OpenAI 兼容的 chat/completions、completions、Responses 与 Anthropic Messages API。服务运行不需要 Python 或 MLX 环境。提供 tensorfold pull 拉取指定版本权重、serve 启动服务、chat 一条命令完成服务启动与流式对话。Linux 需 glibc 2.28+ 与 NVIDIA 驱动 R580+（CUDA 13.0），Windows 有独立指南，采用 Apache-2.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ TensorFold 以 Zig 二进制形式在 Apple Silicon 和 NVIDIA GPU 上提供语�
 
 ## 能力要点
 
-- Zig 二进制直接运行 Metal/CUDA 内核，无 Python/MLX 依赖
-- 同时提供 chat/completions、Responses 与 Anthropic Messages API
-- tensorfold chat 命令一键启动服务器并流式聊天
-- Living Weights（实验性）：向运行中的模型权重写入新事实
+- Zig 单二进制服务，无需 Python 或 MLX 安装
+- 同时暴露 OpenAI 格式与 Anthropic Messages 格式 API
+- chat 命令一条命令启动服务并流式对话，支持管道脚本调用
+- 实验性 Living Weights：在运行中模型权重内教授新事实
 
 ## 适用场景
 
-- 在 Mac Apple Silicon 上本地部署并服务量化 LLM checkpoint
-- 在 NVIDIA GPU Linux 机器上运行推理服务器供脚本调用
-- 用 curl 或终端命令直接与本地模型对话
+- 在 Apple Silicon Mac 或 NVIDIA GPU 上本地提供 LLM 推理服务
+- 为本地工具或 Claude Code 等客户端提供可缓存前缀的本地 API
+- 通过命令行与本地模型快速对话或脚本化调用
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cf08e2d07bad` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `01077ed48789` · [字段定义](../../DATASET.md)*

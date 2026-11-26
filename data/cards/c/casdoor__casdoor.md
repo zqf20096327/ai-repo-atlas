@@ -2,9 +2,9 @@
 
 ⭐ 14,954 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/casdoor/casdoor) · [官网](https://casdoor.ai) · 组织维护
 
-**开源自托管 IAM/SSO 认证服务器，提供 MCP 网关与 agent 访问控制**
+**开源自托管 IAM/SSO 认证服务器，含 MCP 网关与 Web 控制台**
 
-Casdoor 是一个自托管的身份与访问管理平台：存储用户目录、签发令牌，并通过 Web 控制台管理组织、应用与提供方。同一用户目录可通过 OAuth 2.0、OIDC、SAML 2.0、CAS、LDAP、SCIM 2.0、WebAuthn、TOTP/MFA 与 MCP 等协议访问，支持对接 Google Workspace、Entra ID、GitHub 等身份源。AI 相关能力为 MCP 网关（对 MCP 服务器做访问控制）与 A2A agent 通信支持，属于整个认证服务器中的功能模块。部署方式含 Docker、Docker Compose、Helm 与源码构建，另提供托管版 Casdoor Cloud 与在线演示。
+自托管的单一登录与身份认证服务器，提供 Web 管理控制台；支持 OAuth 2.0、OIDC、SAML 2.0、CAS、LDAP、SCIM 2.0、WebAuthn、TOTP/MFA、Face ID 等协议与登录方式，并可连接 Google Workspace、Entra ID、GitHub 等身份提供方。用户、组织、应用与权限在控制台中配置而非配置文件，授权通过 Casbin 策略（ACL/RBAC/ABAC）表达。AI 相关功能为 MCP 网关（暴露并控制 Model Context Protocol 服务器访问）与 A2A 代理间通信支持。以 Go 单二进制加数据库方式运行，支持 MySQL/PostgreSQL/SQLite/SQL Server。
 
 ## 筛选速览
 
@@ -27,25 +27,25 @@ Casdoor 是一个自托管的身份与访问管理平台：存储用户目录、
 
 ## 能力要点
 
-- 单服务器支持 OAuth 2.0/OIDC/SAML 2.0/CAS/LDAP/SCIM 2.0/WebAuthn/TOTP-MFA 多协议
-- MCP 网关：暴露 Model Context Protocol 服务器并控制访问，支持 A2A agent 通信
-- 内置 Casbin 策略授权（ACL/RBAC/ABAC），多组织多租户与审计日志
-- Marketplace 提供 Grafana、GitLab、Nextcloud、Open WebUI 等应用的现成集成
+- 同一用户目录可通过 OAuth/OIDC/SAML/CAS/LDAP/SCIM 多协议访问
+- MCP 网关：暴露 Model Context Protocol 服务器并控制访问
+- Web 控制台配置组织、应用、提供方与品牌，无需重部署
+- Marketplace 一键安装 Grafana、GitLab、Nextcloud 等应用集成
 
 ## 适用场景
 
 - 为企业多个新旧应用统一接入单点登录
-- 为组织托管自有用户目录并管理 RBAC 权限
-- 对 MCP 服务器与 agent 间通信做身份认证与访问控制
-- 对接 Google、GitHub、Entra ID 等外部身份提供方
+- 管理多组织用户的身份与 RBAC 权限
+- 为 MCP 服务器提供访问控制网关
+- 通过 SCIM 自动化用户开通与注销
 
 ## 场景标签
 
- · 领域:身份认证/IAM 基础设施
+ · 领域:身份与访问管理/基础设施
 
 ## 证据(README 行号)
 
-> L7:  Casdoor is a single sign-on (SSO) and authentication server with a web console.
+> L5:  An open-source, self-hosted identity and access management platform
 > L225: - **MCP gateway** — expose Model Context Protocol servers and control access to them
 > L226: - **A2A** — agent-to-agent communication support
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `3d453926c09b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b0291a3cc4d2` · [字段定义](../../DATASET.md)*

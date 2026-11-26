@@ -2,9 +2,9 @@
 
 ⭐ 960 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/iamaisim/ProjectAirSim) · [官网](https://iamaisim.github.io/ProjectAirSim/) · 组织维护
 
-**开源自主系统仿真平台：构建、训练、测试无人机与地面载具**
+**面向无人机与自主系统的开源仿真平台**
 
-源自 Microsoft AirSim、现由 IAMAI Consulting Corp. 维护的仿真平台，覆盖多旋翼、固定翼（JSBSim）、无人地面载具等场景。核心机制是三层架构：仿真库、仿真宿主（轻量 Runtime 或 Unreal Engine 5 插件）与 Python/C++/ROS 2 客户端库；支持 PX4 SITL/HITL、ArduPilot SITL、相机/LiDAR/雷达等传感器仿真，可离屏或无渲染运行。提供预构建包下载与源码构建两条路径，MIT 许可，公司另提供专业集成服务。
+由 IAMAI 维护的开源可扩展仿真平台，源自 Microsoft AirSim 项目，用于构建、训练与测试无人机、固定翼、UGV 等自主系统。仿真核心与 API 可脱离 Unreal Engine 在轻量 Runtime 中运行，需要 3D 世界与渲染传感器时使用 UE5 插件。支持 C++ Fast Physics、JSBSim、Simulink 物理，兼容 PX4 SITL/HITL、ArduPilot SITL，传感器覆盖相机、LiDAR、雷达、IMU 等，通过 Python/C++ 客户端或 ROS 2 桥接入。源码构建需 Unreal Engine、CMake 与 C++17。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 轻量 Runtime 可脱离 Unreal Engine 运行物理、控制器与 API
-- 内置 Fast Physics、JSBSim、Simulink 三种物理模型可选
-- 支持 PX4 SITL/HITL、ArduPilot SITL 与 ROS 2 C++ 桥接
-- GPU LiDAR 360 度扫描与多载具共享仿真
+- 仿真核心可在无 Unreal Engine 的轻量 Runtime 中运行
+- 支持 PX4 SITL/HITL 与 ArduPilot SITL 飞控工作流
+- 支持相机、LiDAR、雷达、IMU、GPS 等可配置传感器
+- 提供 Python/C++ 客户端库与 ROS 2 C++ 桥接
 
 ## 适用场景
 
-- 在虚拟环境中训练和验证无人机自主飞行算法
-- 通过 Python 客户端控制仿真载具做感知引导飞行
-- 模拟固定翼编队与 UGV 混合场景
-- 在 Headless/云环境批量执行仿真验证工作流
+- 在虚拟环境中仿真与测试无人机自主算法
+- 做多机/机群编队仿真验证
+- 构建 PX4/ArduPilot 软件在环或硬件在环工作流
+- 无渲染环境下开发控制器、API 与物理逻辑
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L13: Project AirSim is an open-source, extensible, engine-independent simulation
-> L32: Project AirSim provides a modular framework
 > L66: - Connect autonomy software through Python and C++ client libraries or the ROS 2
+> L138: 1. **Simulation libraries** provide the base infrastructure for defining robot
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3e323ee7b836` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `06d400507711` · [字段定义](../../DATASET.md)*

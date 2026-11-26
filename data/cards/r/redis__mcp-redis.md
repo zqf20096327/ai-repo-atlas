@@ -2,9 +2,9 @@
 
 ⭐ 644 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/redis/mcp-redis) · [官网](https://redis.io/docs/latest/integrate/redis-mcp/) · 组织维护
 
-**供 MCP 客户端/AI agent 用自然语言管理 Redis 数据的服务器**
+**Redis 官方 MCP 服务器：让 AI 代理用自然语言管理并检索 Redis 数据**
 
-Redis 官方维护的 MCP Server，为 MCP 客户端提供操作 Redis 的工具集：覆盖 string、hash、list、set、sorted set、pub/sub、streams、JSON 等数据类型，并含向量索引与检索、Redis 文档搜索、服务器信息查询等扩展工具。支持 stdio 传输、redis/rediss 连接 URI、SSL/TLS、Redis Cluster、Redis ACL 只读用户、EntraID（Azure AD）认证，可通过环境变量 MCP_REDIS_ALLOWED_TOOLS 限制暴露的工具。以 PyPI 包、GitHub 源码、Docker 镜像（含官方 mcp/redis 镜像）分发。
+Redis 官方维护的 MCP 服务器，为代理型应用提供自然语言接口来操作 Redis 数据。以 MCP 工具形式暴露 string、hash、list、set、sorted set、pub/sub、streams、JSON 文档的读写操作，另含向量索引与检索、Redis 文档搜索、服务器信息查询工具。通过 CLI 参数或环境变量配置连接（URI、SSL/TLS、集群模式），支持 Redis ACL 限权与白名单式工具暴露控制，支持 EntraID 认证接入 Azure Managed Redis。传输支持 stdio，streamable-http 待加入。以 PyPI 包、GitHub 源码、Docker 镜像三种方式分发。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@ Redis 官方维护的 MCP Server，为 MCP 客户端提供操作 Redis 的工具
 
 ## 能力要点
 
-- 提供 string/hash/list/set/sorted set/pub-sub/streams/JSON 全套 Redis 操作工具
-- 向量索引管理与向量搜索工具
-- 支持 stdio 传输、SSL/TLS、Redis Cluster、ACL 与 EntraID 认证
-- 支持 PyPI/uvx、GitHub 源码与官方 Docker 镜像三种分发方式
+- 覆盖 hash/list/set/sorted set/streams/JSON 等 Redis 数据结构的 MCP 工具集
+- 向量索引与向量检索工具
+- 支持 Redis ACL 与 MCP_REDIS_ALLOWED_TOOLS 工具白名单控制
+- EntraID 认证接入 Azure Managed Redis（服务主体/托管身份）
 
 ## 适用场景
 
-- 让 Claude Desktop 等 MCP 客户端用自然语言读写与检索 Redis 数据
-- 在 AI agent 工作流中缓存会话、消息流与向量数据
-- 限制 agent 可调用的 Redis 工具范围以收敛权限
+- 让 MCP 客户端中的 AI 代理用自然语言读写与检索 Redis 数据
+- 为会话/缓存/消息流等场景由代理执行存储指令
+- 通过向量检索工具在 Redis 中做语义搜索
+- 以只读 ACL 与工具白名单限定代理可执行的操作范围
 
 ## 场景标签
 
- · 领域:数据库/AI Agent 基础设施
+ · 领域:数据库/AI 代理基础设施
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `2bf551d4db68` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `569a8f115836` · [字段定义](../../DATASET.md)*

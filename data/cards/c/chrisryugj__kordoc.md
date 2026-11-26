@@ -2,9 +2,9 @@
 
 ⭐ 3,132 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/chrisryugj/kordoc) · [官网](https://pubax.org/kordoc/) · 个人维护
 
-**让 AI 读取与生成韩国公文文档的解析/转换库**
+**让 AI 读写韩国公务文档的解析/生成库与 MCP 服务器**
 
-面向处理韩国公文的用户：将 HWP 3.x/5.x、HWPX、HWPML、PDF、XLS/DOCX/PPTX 及扫描图片转换为 Markdown 与结构化数据，并从 Markdown 生成 HWPX/HWP 文档。提供库、CLI、MCP 服务器三种形态，附带 22 个 MCP 工具支持解析、比较、生成、校对、渲染；内置本地 OCR（含手写识别）、表单字段填充、新旧对照、隐私遮蔽与 RAG 分块输出，支持离线封闭网运行。
+将 HWP 3.x/5.x、HWPX、HWPML、PDF、Office 文档及扫描图像转为 Markdown、结构化 IR 与 RAG 分块，并支持从 Markdown 生成 HWPX/HWP 文档；附带表格比较、格式保留补丁、模板填充、新旧对照、公文预览与隐私遮罩等功能。提供 npm 库、CLI（npx 直接运行）与含 22 个工具的 MCP 服务器，可通过 setup 命令注册到 Claude Desktop、Cursor 等 MCP 客户端。支持 KORDOC_OFFLINE=1 离线模式，OCR 在本地 CPU 运行且无需 API key。需 Node.js 20+，MIT 许可。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- HWP/HWPX/PDF/Office/扫描图转 Markdown，反向生成 HWPX/HWP
-- 本地 OCR（含手写识别）与 QR 读取，无需 API key，支持封闭网模式
-- 表单填充、新旧对照、格式保留补丁编辑与公文预设
-- 以库、CLI、MCP 服务器形态提供，发布至 MCP 官方注册表
+- HWP·HWPX·PDF·Office·扫描图像 → Markdown/RAG 分块，Markdown → HWPX/HWP 公文
+- 本地 OCR（含手写识别、逐字置信度），离线模式无需外部通信
+- MCP 服务器提供 22 个工具，可注册到 Claude Desktop/Code、Cursor 等客户端
+- 表格结构保留、格式保留补丁、模板填充与新旧对照功能
 
 ## 适用场景
 
-- 把公文附件批量转成 Markdown 供 AI 阅读或 RAG 索引
-- 让 Claude/Cursor 等 AI 通过 MCP 读取和填写 HWP 公文
-- 扫描件 OCR 提取表格结构并生成结构化数据
-- 无外部网络环境中离线解析文档
+- 把政府机关的 HWP/HWPX 公文批量转成 Markdown 供 AI 读取
+- 为 RAG 索引生成带标题路径的文档分块
+- 通过 MCP 让 Claude/Cursor 直接解析本地韩文公务文档
+- 按机构模板批量填充公文并保留原格式
 
 ## 场景标签
 
-`OCR` `文档解析` · 领域:知识与检索
+`文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `74bc1d818bc6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d131ac8e3967` · [字段定义](../../DATASET.md)*

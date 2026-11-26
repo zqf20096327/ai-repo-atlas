@@ -1,10 +1,10 @@
 # vllm-project/router
 
-⭐ 539 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vllm-project/router) · 组织维护
+⭐ 539 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vllm-project/router) · 组织维护 · 中文 README
 
-**为 vLLM 大规模部署提供请求路由与负载均衡的系统**
+**为 vLLM 大规模部署提供的请求转发与负载均衡路由器**
 
-面向 vLLM 大规模部署的请求转发系统，提供多种负载均衡算法（缓存感知、two-choice、一致性哈希、随机、轮询）、prefill/decode 分离路由、基于 Kubernetes 的服务发现与健康监控，以及熔断、重试、Prometheus 指标等运维功能。以 Rust 二进制为核心，附带 Python 包启动器；支持通过 grpc:// URL 路由到 vLLM Rust 推理 worker，可选 WASM 中间件插件。安装需 Rust/Cargo 与 Python/pip。
+vLLM Router 是面向 vLLM 大规模部署的请求转发系统，由 Rust 实现并提供 Python 包封装。功能包括多种负载均衡算法（缓存感知、两选一、一致性哈希、随机、轮询）、prefill/decode 分离架构的专用路由（支持 NIXL/NCCL/Mooncake 连接器）、Kubernetes 原生服务发现与健康监控、熔断器与重试、Prometheus 指标端点，以及可选的 WASM 中间件插件。安装支持 PyPI 的 pip 安装或源码构建，构建需要 Rust/Cargo 环境；gRPC 路由需配合 vLLM Rust 推理 worker。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 多种负载均衡算法：cache-aware、一致性哈希、two-choice、随机、轮询
-- 支持 prefill/decode 分离部署路由（NIXL/NCCL/Mooncake 连接器）
-- Kubernetes 原生服务发现与 worker 健康监控
-- 熔断器、指数退避重试、Prometheus 指标端点
+- 缓存感知、一致性哈希等 5 种负载均衡算法
+- prefill/decode 分离路由，支持 NIXL/NCCL/Mooncake 连接器
+- Kubernetes 原生服务发现与健康监控
+- 熔断器、重试逻辑与 Prometheus 指标端点
 
 ## 适用场景
 
-- 为多副本 vLLM 集群做请求分发与会话亲和
-- prefill 与 decode 分离部署下的专用路由
-- 在 Kubernetes 中自动发现并管理推理 worker
-- 为 agent 工作负载配置请求调度与全局队列
+- 为多个 vLLM worker 实例做请求分发与负载均衡
+- 在 Kubernetes 集群中自动发现并管理 vLLM worker
+- prefill 与 decode 阶段分离部署时的流量路由
+- 为 agent 工作负载配置请求队列与调度策略
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+ · 领域:LLM 推理基础设施/部署路由
 
 ## 证据(README 行号)
 
 > L5: A high-performance and light-weight request forwarding system for vLLM large scale deployments, providing advanced l
-> L9: - **Core Architecture**: Request routing framework and async processing patterns
 > L13: - **Service Discovery**: Kubernetes-native worker management and health monitoring
+> L15: - **gRPC workers**: Route to vLLM Rust Inference workers via `grpc://` URLs
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `51e3307407c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `448078dde95f` · [字段定义](../../DATASET.md)*

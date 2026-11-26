@@ -1,10 +1,10 @@
 # apoorvdarshan/fud-ai
 
-⭐ 560 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/apoorvdarshan/fud-ai) · [官网](https://fud-ai.app) · 组织维护
+⭐ 560 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/apoorvdarshan/fud-ai) · [官网](https://fud-ai.app) · 个人维护
 
-**自带密钥的开源卡路里与锻炼记录应用（iOS/Android）**
+**开源 AI 卡路里与训练追踪 App，iOS/Android 本地优先**
 
-开源、本地优先的卡路里与锻炼追踪应用，覆盖 iOS 与 Android。食物记录方式包括拍照（最多10张）、条码扫描、文字、语音与 Siri 捷径，由用户自选的 AI 提供方分析生成营养数据；内置多轮对话 AI Coach，可结合体重、营养与训练记录回答问题。核心功能无需账号、无广告，数据可同步 Apple Health/Health Connect，另提供断食、饮水、体重预测等模块。可选 Plus/Pro 托管 AI 通过应用商店提供。
+面向 iPhone/iPad 与 Android 用户的开源卡路里与营养追踪应用：通过拍照、语音、条码、文字或手动方式记录饮食，AI 生成估算后由用户确认再保存；支持宏量营养素、水分、体重、禁食与训练日志。AI 采用 Bring Your Own Key 模式，密钥与请求在设备端配置直连服务商，另有 Apple Intelligence 与可下载 Gemma 的本机选项，以及可选的 Hosted Plus/Pro 订阅。核心追踪不需账号、云同步或广告，数据经 Apple Health / Health Connect 双向同步。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- BYOK 接入 13 家 AI 提供方及任意 OpenAI 兼容端点
-- 照片/条码/语音/文字多种食物记录入口
-- 多轮记忆 AI Coach 与体重预测（30/60/90 天）
-- Apple Health 与 Health Connect 双向同步
+- 照片/语音/条码/文字多方式记录饮食，保存前人工复核 AI 估算
+- BYOK 直连多家服务商，另有 Apple Intelligence 与 Gemma 本机选项
+- Apple Health 与 Health Connect 双向同步（营养、体重、训练消耗）
+- 877 个动作库、训练日记与卡路里消耗估算
 
 ## 适用场景
 
-- 拍照记录餐食并自动生成热量与营养数据
-- 结合训练和体重数据向 AI 教练咨询减重/增肌方案
-- 本地优先管理断食、饮水与锻炼日志
+- 不用账号与云服务，本地记录每日饮食与宏量营养素
+- 用自己已有的模型 API key 驱动食物照片分析与 AI 教练
+- 把饮食、体重、训练数据同步到 Apple Health / Health Connect
 
 ## 场景标签
 
- · 领域:健康/健身
+`多模态` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L25: Open-source, privacy-first calorie tracker for iOS and Android. Bring your own AI provider — 13 supported including
-> L58: - **AI Coach tab** — multi-turn chat with memory. Coach can retrieve relevant profile, weight, body-fat, nutrition,
+> L25: Open-source calorie and nutrition tracker for iPhone, iPad, and Android. Log food by voice, photo, barcode, text, o
+> L59: - **AI Access** — free Bring Your Own Key: pick provider, model, fallback, custom instructions, and speech language
+> L108: Pick a provider for food analysis, meal what-if suggestions, optional nutrient-goal estimation, and Coach chat. BY
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `affcbb0c8997` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `79d4a6a34ba1` · [字段定义](../../DATASET.md)*

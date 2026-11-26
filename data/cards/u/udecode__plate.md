@@ -2,9 +2,9 @@
 
 ⭐ 16,717 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/udecode/plate) · [官网](https://platejs.org) · 组织维护 · 中文 README
 
-**React 富文本编辑器框架，含 AI 插件与 shadcn/ui 集成**
+**带 AI 能力的 React 富文本编辑器框架**
 
-基于 Slate 的富文本编辑器框架，面向 React 开发者，与 shadcn/ui 集成。README 提供三种起步模板：Notion 风格模板（含插件与 AI）、playground 模板、最小模板；文档站提供更多说明，另维护中文文档、Discord 中文频道与中文贡献指南。可见 README 未展开具体 AI 功能细节，需查阅文档获取。
+基于 Slate 的 React 富文本编辑器框架，以插件化架构提供 WYSIWYG 编辑能力，并与 shadcn/ui 风格组件集成。README 提供三种起始模板：Notion-like（含插件与 AI、后端）、playground（含插件与 AI）、minimal（无插件），新版本发布于 platejs@beta 渠道，v53 为 latest 并仅接收安全修复与依赖更新。面向在 React 应用中构建富文本编辑功能的开发者，文档含英文与中文版本。
 
 ## 筛选速览
 
@@ -25,25 +25,25 @@
 
 ## 能力要点
 
-- 提供 Notion 风格、playground、minimal 三种起步模板
-- Notion 风格与 playground 模板包含 AI 能力
-- 与 shadcn/ui 集成
-- 提供中文文档、Discord 中文频道与中文贡献指南
+- 基于 Slate 的插件化富文本编辑框架
+- 提供 Notion-like / playground / minimal 三种起始模板
+- AI 功能集成于模板选项中
+- 提供英文与中文文档及 Discord 中文频道
 
 ## 适用场景
 
-- 在 React 应用中搭建富文本编辑器
-- 用 Notion 风格模板快速获得带 AI 与后端的编辑器
-- 需要 shadcn/ui 风格编辑器组件的项目
+- 在 React 应用中搭建 Notion 风格的富文本编辑器
+- 从最小模板起步按需添加插件构建编辑器
+- 需要中文文档与社区支持的前端团队接入编辑器能力
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:前端开发/编辑器组件
 
 ## 证据(README 行号)
 
 > L9: |Option|Plate|Plugins|AI|Backend|
-> L23: ## 中文文档
+> L11: |Notion-like template|✅|✅|✅|✅|
 
 ## 星数曲线
 
@@ -59,4 +59,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `faf51a40471d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `99b3d69ccc4c` · [字段定义](../../DATASET.md)*

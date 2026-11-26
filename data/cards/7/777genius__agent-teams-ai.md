@@ -1,10 +1,10 @@
 # 777genius/agent-teams-ai
 
-⭐ 2,557 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/777genius/agent-teams-ai) · [官网](https://agentteams.live) · 个人维护 · 中文 README
+⭐ 2,557 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/777genius/agent-teams-ai) · [官网](https://agentteams.live) · 组织维护 · 中文 README
 
-**AI agent 团队编排桌面应用：看板指挥多 agent 协作干活**
+**多 AI 编码 agent 团队编排的桌面看板工作台**
 
-跨平台桌面应用（Electron），将多个 AI agent 组成带角色分工的团队：用户在 kanban 看板下达高层指令，agent 并行执行任务、相互通信、互审工作，支持组织层级、Solo 模式、逐操作审批、任务级日志与 token 用量/预算分析。编排层接入 Claude Code、Codex、OpenCode 运行时（可自动检测）及 Cursor、GitHub Copilot、Z.AI、MiniMax、Kiro 等服务；默认提供免注册免 API key 的免费模型起步。提供 macOS/Windows/Linux 安装包。
+免费开源的跨平台桌面应用（macOS/Windows/Linux，Electron），让用户以层级化团队组织 AI 编码 agent：为每个成员设定角色、模型与运行时，agent 自主创建任务、相互通信与评审，工作经看板、任务表和实时 agent 图展示。支持 300+ 模型、200+ 提供商，可接入已安装的 Claude Code/Codex/OpenCode 运行时，配 token 用量与预算分析、本地优先存储和定时调度。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多 agent 团队看板编排：自动执行、相互通信与互审
-- 自动检测 Claude Code/Codex/OpenCode 运行时，或连接 Cursor/Copilot/Z.AI/MiniMax/Kiro
-- token 用量、成本与预算分析，80%/100% 阈值告警
-- 内置终端、代码编辑器、Git worktree 分支策略与 MCP 集成
+- 层级化 agent 团队：lead 分解任务、指派成员、互相评审
+- 自动检测已安装的 Claude Code/Codex/OpenCode 运行时，支持 300+ 模型/200+ 提供商
+- Token 用量分析与月度预算（全局/团队/项目级，含告警阈值）
+- 本地优先：团队与任务数据由桌面应用本地管理
 
 ## 适用场景
 
-- 用一个提示组建角色化 agent 团队并行处理编码与项目任务
-- 在本地以 GUI 审批、评论和追踪各 agent 的任务进度
-- 为多模型多订阅的使用方式做 token 成本核算与预算控制
+- 把一个功能开发拆给多个 AI agent 协作完成并通过看板跟进
+- 在同一界面混用订阅账号、API key 和本地模型驱动不同 agent
+- 按团队/项目设置 token 预算并追踪用量趋势
+- 用定时计划（cron）自动运行 agent 团队任务
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L13:  Free cross-platform desktop app for AI agent teams. Start with a free model with no auth - no signup, API key, or 
-> L114: An orchestration layer for AI agent teams across Codex/Claude/OpenCode/Cursor/Grok/GitHub/Kiro/Z.AI/Xiaomi/MiniMax
-> L127: - **Multi-provider orchestration** — start with a free model with no auth, auto-detect available Claude Code, Code
+> L14:  Give each teammate a role, each team a lead, and organize teams into a hierarchy. Agents create tasks, delegate, t
+> L15:  Free, open-source desktop app for macOS, Windows and Linux. For coding and broader project work. 300+ models · 200
+> L120: Agent Teams AI is a free, open-source workspace for building and running AI teams across Codex, Claude Code, OpenC
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `8178dd109c00` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `8a43e69e1bea` · [字段定义](../../DATASET.md)*

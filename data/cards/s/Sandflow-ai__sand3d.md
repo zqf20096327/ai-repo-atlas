@@ -2,9 +2,9 @@
 
 ⭐ 2,310 · HTML · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Sandflow-ai/sand3d) · [官网](https://sandflow.ai/sand3d/) · 组织维护
 
-**为 LLM 设计的 Python 3D 建模库，用短程序描述物体**
+**面向 LLM 的 Python 3D 建模库：用短程序描述物体**
 
-基于 Blender bpy 的 Python 建模库：以短程序（profiles、solids、edits、joints、assemblies）声明式描述 3D 物体的构成方式，每个部分按命名而非手算坐标访问，同一程序可确定性复现同一网格。API 全量约 3,600 tokens，可放入 system prompt 供模型生成建模程序；一次导出支持 GLB、URDF、USD、IFC、OBJ、STL 六种格式，并在 Hugging Face 提供五套 CC BY 4.0 程序数据集。
+基于 Blender bpy 的 Python 库，将 3D 物体写成简短程序：轮廓、实体、编辑、关节与装配，以及自然形态（草木、水体、岩石）。与 Blender Python 等写法相比，每部件 token 数更少；部件按命名访问，避免手工计算坐标；同一程序在相同环境下确定性重建网格。一次调用导出 GLB、URDF、USD、IFC、OBJ、STL，并在 Hugging Face 提供六个 CC BY 4.0 数据集。Python 3.11/3.13，不支持 3.12 与 5.2 起的 Intel Mac。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 程序式 3D 建模：部件、关节与装配体以命名声明，输出确定性网格
-- API 全量约 3,600 tokens 可放入 system prompt，并附 llms.txt 与装配体编写准则
-- 一次导出 GLB/URDF/USD/IFC/OBJ/STL，覆盖游戏引擎、机器人仿真与 BIM 工具链
-- Hugging Face 上五套程序化 3D 数据集（Objaverse/CAD/Articraft/SimReady/AutoMate）
+- 以 flat s3d.<verb> API 提供 70+ 动词：轮廓、实体、编辑、关节、装配等
+- 一次调用导出 GLB/URDF/USDA/IFC/OBJ/STL 六种格式
+- 每个部件 2-6× 更少 token，部件按命名访问，程序确定性重建
+- Hugging Face 提供六个 sand3d 程序数据集（CC BY 4.0）
 
 ## 适用场景
 
-- 让 LLM 通过生成 sand3d 程序来产出可编辑、可导出的 3D 模型
-- 为机器人仿真（PyBullet/MuJoCo/Isaac）生成带关节与限位的 URDF 资产
-- 向 Revit/ArchiCAD 等 BIM 工具导出 IFC 格式的装配体
-- 读取程序化 3D 数据集做模型训练或资产检索
+- 让 LLM 以少量 token 生成可读、可复现的 3D 物体程序
+- 为 ROS/仿真管线导出带关节的 URDF 或 USD 资产
+- 将零件程序导出 IFC 供 BIM 工作流（Revit/ArchiCAD）使用
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+ · 领域:3D 建模/程序化生成
 
 ## 证据(README 行号)
 
 > L5: **3D modeling in Python, built for LLMs.**
 > L7: sand3d is a Python library for writing 3D objects as short programs: profiles, solids,
-> L105: ## Give it to your LLM
+> L112: Put docs/api.md in the system prompt: the rules of the vocabulary, every
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c7a87702e643` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `495fca99311c` · [字段定义](../../DATASET.md)*

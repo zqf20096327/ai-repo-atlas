@@ -2,9 +2,9 @@
 
 ⭐ 509 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/google/three-live) · [官网](https://google.github.io/three-live/) · 组织维护
 
-**面向 AI 开发者的 Three.js 原生跨平台 3D 编译渲染运行时**
+**把 AI 生成的 Three.js 编译为多平台原生 3D/XR 的运行时**
 
-Three-Live 提供设备端 JIT 编译器与运行时，将 Three.js 代码编译为 Android（Google Filament 与 Jetpack XR SceneCore）、iOS/visionOS（Apple RealityKit）与 WebGL2/WebXR 的原生渲染。核心机制包括沙箱化 Rust VM 编译、无 GPU 的 headless 4 图校验渲染、MCP stdio server 供 AI agent 调用验证/转换/仿真，以及图片生成 Three.js 场景的闭环校验与自动修复。通过 LLM 编辑场景时先在沙箱编译并一次自动修复后才热替换。安装途径覆盖 JitPack/SwiftPM/Cargo/npm。
+端上 JIT 编译器与运行时：将标准 Three.js 代码在沙箱 Rust VM 中编译，原生渲染到 Android（Filament/Jetpack XR）、iOS/visionOS（RealityKit）及 WebGL2/WebXR。提供 three-live-cli 无头渲染接触表、.glb/.usdz 转换、MCP stdio 服务器与 agent gym 供 AI 编码代理使用；Web 组件支持接入任意 LLM 后端进行场景编辑、图像转场景、语音选择与 AI 纹理生成，编辑先沙箱编译并自动修复后才热替换。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ Three-Live 提供设备端 JIT 编译器与运行时，将 Three.js 代码编译
 
 ## 能力要点
 
-- Three.js 代码经沙箱 Rust VM 设备端编译，原生渲染于 Filament/RealityKit/WebXR
-- MCP server 提供 validate/render/convert/from_image/gym 等 10 个工具供 agent 调用
-- 支持从照片/草图/图纸生成场景，含 IoU 对比、质量门与一次自动修复
-- 语音选物与本地引用解析（颜色/方位/序数/数量）在设备端完成，无模型调用
+- 端上沙箱 VM 将 Three.js 编译为 Android/iOS/visionOS/WebXR 原生渲染
+- three-live-cli 提供 MCP 服务器与 agent gym（validate/render/convert/from-image 等工具）
+- Web 组件支持任意 Chat Completions 兼容后端驱动场景编辑与语音交互
+- 图像/蓝图转场景并经空间质量门校验与闭环视觉精修
 
 ## 适用场景
 
-- AI coding agent 生成并校验 Three.js 3D 场景后导出 glb/usdz
-- 在 Android/iOS/visionOS 上原生渲染统一的 Three.js 场景
-- 用户通过语音或对话修改 3D 场景中的物体
-- 从参考图或 RoomPlan 扫描构建带真实尺度的 AR 场景
+- 让 AI 代理生成并通过接触表验证 Three.js 场景再编译到移动端
+- 在 Web 页面中让用户用语音或文字由 LLM 修改 3D 场景
+- 把照片或蓝图转成可运行的程序化 Three.js 场景
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+`代码生成` `多模态` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L5: **AI-First Native 3D, CAD & Spatial Computing:** On-device JIT compiler turning live, AI-generated **Three.js** into
 > L63: `three-live-cli mcp` as a zero-dependency **Model Context Protocol (MCP)** stdio
-> L100: Add `three-live-ai.min.js` (`< 35 KB gz`; built into the full bundles) to let
+> L112: `ai-endpoint` speaks the widely supported Chat Completions protocol
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5c3e3ff42570` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `830e0410fafc` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 63,749 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/ultralytics/ultralytics) · [官网](https://platform.ultralytics.com) · 组织维护
 
-**给开发者的多任务视觉模型库：检测/分割/姿态等**
+**给开发者用的目标检测等多任务视觉模型库**
 
-Ultralytics 提供的 YOLO 系列模型库（YOLOv3 至 YOLO26），支持目标检测、实例分割、语义分割、深度估计、图像分类、姿态估计与目标跟踪任务。通过 `pip install ultralytics` 安装后，可用 `yolo` CLI 命令或 Python API 加载预训练模型执行预测、训练与验证；预训练权重在首次使用时自动从 Ultralytics 发布版本下载。README 附带 COCO、Cityscapes、ImageNet、DOTAv1 等数据集预训练模型的指标表。商业使用需申请企业许可。
+Ultralytics 的 YOLO 系列模型 Python 包，覆盖目标检测、实例/语义分割、深度估计、图像分类、姿态估计、OBB 与多目标跟踪等任务，按 COCO、ImageNet、Cityscapes、DOTAv1 等数据集提供预训练权重，首次使用自动下载。提供 CLI（yolo 命令）与 Python API 两种调用方式，支持训练、验证、预测、部署流程。安装要求 Python>=3.8、PyTorch>=1.8；商业使用需申请 Enterprise License。
 
 ## 筛选速览
 
@@ -26,25 +26,26 @@ Ultralytics 提供的 YOLO 系列模型库（YOLOv3 至 YOLO26），支持目标
 
 ## 能力要点
 
-- 支持检测、分割、深度估计、分类、姿态估计、OBB 与跟踪等任务
-- 提供 CLI（yolo 命令）与 Python API 两种使用方式
-- 支持 PyPI、Conda、Docker、Git 源码多种安装方式
-- YOLO26 预训练模型覆盖 COCO/Cityscapes/ImageNet/DOTAv1 等数据集
+- CLI（yolo 命令）与 Python API 两种调用方式
+- 覆盖检测、分割、深度估计、分类、姿态、OBB、跟踪等任务
+- 预训练权重首次使用时自动下载
+- 支持 pip/Conda/Docker/源码安装
 
 ## 适用场景
 
-- 在图像或视频中做目标检测与跨帧跟踪
-- 训练自定义数据集的分割或姿态估计模型
-- 用预训练模型直接做图像分类或深度估计
+- 在图像/视频上运行目标检测与实例分割
+- 训练自定义数据集的检测或分类模型
+- 在 CPU 或 NVIDIA GPU/TensorRT 环境部署推理
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+`目标检测` `模型训练` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L19: Ultralytics creates cutting-edge, state-of-the-art (SOTA) YOLO models built on years of foundational research in co
 > L49: Install the `ultralytics` package, including all requirements, in a **Python>=3.8** environment with **PyTorch>=1.8
+> L65: You can use Ultralytics YOLO directly from the Command Line Interface (CLI) with the `yolo` command:
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2926ed7118bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d34ed4bb54cc` · [字段定义](../../DATASET.md)*

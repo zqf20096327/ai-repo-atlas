@@ -2,9 +2,9 @@
 
 ⭐ 3,028 · JavaScript · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/xyproto/algernon) · [官网](https://algernon.roboticoverlords.org) · 个人维护
 
-**给开发者的自包含 Go Web 服务器：内置 Lua/模板渲染与 LLM 内容生成**
+**自包含纯 Go Web 服务器：Lua/Markdown/HTTP2/3 与多数据库内置支持**
 
-单个可执行文件的 Go Web 服务器，内置 HTTP/2、HTTP/3 (QUIC)、Lua/Teal 脚本处理、Markdown/Pongo2/Amber 模板渲染、Sass/GCSS 样式处理、npm-less React 19/JSX/TSX 转译，以及 Redis、内置 BoltDB、PostgreSQL、SQLite、MariaDB/MySQL、MSSQL 多种数据库后端。支持用户权限、限流、插件（JSON-RPC）、自动刷新预览和 REPL。其中 LLM 相关功能为 index.prompt 文件：指定内容类型、Ollama 模型与提示词后生成内容。默认 Redis，无 Redis 时回退到内置 Bolt，无需配置即可启动。
+用 Go 编写的单可执行文件 Web 服务器，内置 HTTP/2、HTTP/3 (QUIC)、Lua/Teal 脚本处理、Markdown、Pongo2/Amber 模板、Sass/GCSS、JSX/TSX 转译（npm-less React 19），并支持 BoltDB（内置）、Redis、Valkey、PostgreSQL、SQLite、MariaDB、MySQL、MSSQL 作为数据库后端。特色机制包括 index.* 特殊文件名约定、auto-refresh 实时预览、用户权限系统、限流、插件（JSON-RPC）与 Ollama LLM 内容生成（.prompt 文件）。无外部依赖，可通过 go install、brew、pacman、Docker 或预编译包安装。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 单文件自包含可执行，无外部依赖，覆盖 Linux/macOS/64 位 Windows
-- 内置 Lua/Teal 脚本、Markdown/Pongo2/Amber 渲染、JSX/TSX 转译等多种文件类型处理
-- 支持 HTTP/2 与 HTTP/3 (QUIC)、限流、插件、用户权限系统
-- index.prompt 文件可通过 Ollama 模型生成页面内容
+- 单可执行文件，无外部依赖，支持 Linux/macOS/64 位 Windows
+- 内置 Lua/Teal 脚本处理与 index.* 文件名约定，修改后可自动刷新页面
+- 支持多种数据库后端：内置 BoltDB、Redis、PostgreSQL、SQLite、MariaDB/MySQL 等
+- .prompt 文件可指定 Ollama 模型与提示词以生成页面内容
 
 ## 适用场景
 
-- 零配置快速搭建 Lua 脚本驱动的动态网站
-- 本地预览 Markdown 文件与静态页面开发（auto-refresh）
-- 无需 npm 构建 React/JSX/TypeScript 前端页面
-- 轻量环境下（如树莓派）运行带数据库后端的 Web 服务
+- 本地快速预览 Markdown/网页并实时刷新
+- 用 Lua 脚本作为 HTTP handler 搭建小型动态站点
+- 无需配置数据库主机即可启动（内置 BoltDB）
+- 通过 .prompt 文件让 LLM 生成页面内容
 
 ## 场景标签
 
- · 领域:Web 开发/基础设施
+ · 领域:Web 开发/服务器基础设施
 
 ## 证据(README 行号)
 
 > L9: Web server with built-in support for HTTP/2, HTTP/3 (QUIC), Lua, Teal, Markdown, Pongo2, HyperApp, Amber, Sass(SCSS)
 > L73:  * index.prompt is a content-type, an Ollama model, a blank line and a prompt, for generating content with LLMs.
+> L172: The idea is that web pages can be written in Markdown, Pongo2, Amber, HTML or JSX (+React or HyperApp), depending 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1435c20745bd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `72ecd68bd4da` · [字段定义](../../DATASET.md)*

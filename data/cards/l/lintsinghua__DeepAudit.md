@@ -2,9 +2,9 @@
 
 ⭐ 7,357 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/lintsinghua/DeepAudit) · 个人维护 · 中文 README
 
-**Multi-Agent 协作的 AI 代码安全审计平台，带沙箱 PoC 验证**
+**给安全人员用的 Multi-Agent 代码审计平台，自动挖洞并沙箱验证**
 
-基于 Multi-Agent 架构的代码安全审计平台，由 Orchestrator、Recon、Analysis、Verification 四类智能体协作完成审计流程：识别技术栈、结合 RAG 知识库与 AST 分析挖掘漏洞、在 Docker 沙箱中自动生成并执行 PoC 脚本验证漏洞真实性，失败时自我修正重试，最终剔除误报并导出 PDF/Markdown/JSON 报告。面向需要代码审计的开发者与安全研究人员，支持 15 类漏洞检测、OWASP Top 10 规则与 10+ 语言，可接入 OpenAI/Claude/Gemini/DeepSeek/通义等 LLM 或通过 Ollama 本地部署。README 声明闭源版本曾获得 49 个 CVE 编号；AGPL-3.0 许可，强调仅限授权环境下的研究与教学用途。
+基于 Multi-Agent 协作架构（Orchestrator/Recon/Analysis/Verification）的代码安全审计平台：导入项目后自动识别技术栈、结合 RAG 知识库与 AST 分析挖掘漏洞、在 Docker 沙箱中生成并执行 PoC 验证，最终输出 PDF/Markdown/JSON 审计报告。支持 GitHub/GitLab/Gitea 导入与 ZIP 上传，内置 OWASP Top 10 规则，可接 OpenAI/Claude/Gemini/DeepSeek/Qwen 等 LLM 或通过 Ollama 本地部署。提供 Docker 一行命令部署与源码部署两种方式；README 声明闭源版本曾获 49 个 CVE，并附法律合规与使用限制声明。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- Orchestrator/Recon/Analysis/Verification 四智能体协作审计流程
-- Docker 沙箱中自动生成 PoC 脚本验证漏洞，失败自我修正重试
-- RAG 知识库（CWE/CVE）与 AST 分析结合，覆盖 15 类漏洞
-- 支持 Ollama 本地部署与 API 中转站，代码可不出内网
+- Multi-Agent 协作审计：策略规划→信息收集→漏洞挖掘→沙箱 PoC 验证→报告生成
+- Docker 沙箱自动生成并执行攻击脚本验证漏洞真实性
+- 支持 Ollama 本地模型部署，数据不出内网，支持 API 中转站
+- 支持 12 类漏洞检测与 RAG（CWE/CVE 知识库）增强，报告一键导出
 
 ## 适用场景
 
-- 导入 GitHub/GitLab 项目做自动化深度安全审计
-- 对审计发现的漏洞做沙箱 PoC 验证，区分真实漏洞与误报
-- 内网环境用 Ollama 本地模型审计敏感源码
-- 粘贴代码片段做即时安全与质量分析
+- 对企业项目做授权范围内的自动化代码安全审计
+- 内网环境下用本地模型审计敏感源码
+- 对开源项目做漏洞挖掘并生成验证过的报告
 
 ## 场景标签
 
@@ -40,7 +39,7 @@
 
 > L130: **DeepAudit** 是一个基于 **Multi-Agent 协作架构**的下一代代码安全审计平台。它不仅仅是一个静态扫描工具，而是模拟安全专家的思维模式，通过多个智能体（**Orchestrator**, **Recon
 > L137: 用户只需导入项目，DeepAudit 便全自动开始工作：识别技术栈 → 分析潜在风险 → 生成脚本 → 沙箱验证 → 生成报告，最终输出一份专业审计报告。
-> L165: |4|**PoC 验证**|**Verification Agent**|**(关键)** 编写 PoC 脚本，在 Docker 沙箱中执行。如失败则自我修正重试|
+> L321: ## 🔌 支持的 LLM 平台
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `cc32bb9303e5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `fc78c737113e` · [字段定义](../../DATASET.md)*

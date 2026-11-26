@@ -2,9 +2,9 @@
 
 ⭐ 1,578 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/qdrant/mcp-server-qdrant) · [官网](https://qdrant.tech) · 组织维护
 
-**为 MCP 客户端提供 Qdrant 语义记忆存取的服务器**
+**给 MCP 客户端提供 Qdrant 语义记忆存取的官方服务器**
 
-Qdrant 官方的 Model Context Protocol 服务器实现，在 Qdrant 向量数据库之上提供语义记忆层：暴露 qdrant-store 与 qdrant-find 两个工具，供 LLM 应用存储和检索信息。通过环境变量配置 Qdrant URL/本地路径、默认集合、嵌入模型（目前仅支持 FastEmbed）、只读模式等；支持 stdio/SSE/streamable-http 传输，基于 FastMCP 构建。可经 uvx 直接运行、Docker 构建或 Smithery 安装，适配 Claude Desktop、Cursor、Windsurf、VS Code、Claude Code 等客户端。
+Qdrant 官方的 Model Context Protocol 服务器，在 Qdrant 向量数据库之上提供语义记忆层：暴露 qdrant-store 与 qdrant-find 两个工具，分别用于存入和按语义检索信息。通过环境变量配置 Qdrant URL/本地路径、默认集合、嵌入模型（仅支持 FastEmbed）、只读模式等；支持 stdio、SSE、streamable-http 三种传输协议。可用 uvx 直接运行或 Docker 构建运行，README 给出 Claude Desktop、Cursor、Windsurf、Claude Code、VS Code 的接入配置。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ Qdrant 官方的 Model Context Protocol 服务器实现，在 Qdrant 向量数�
 
 ## 能力要点
 
-- 提供 qdrant-store / qdrant-find 两个 MCP 工具，实现信息的语义存取
-- 支持 stdio、SSE、streamable-http 三种传输协议
-- 嵌入默认使用 FastEmbed 的 all-MiniLM-L6-v2 模型，支持本地或远程 Qdrant
-- 可定制工具描述，将服务器改造为代码语义搜索工具
+- 提供 qdrant-store 与 qdrant-find 两个 MCP 工具，实现信息存取与语义检索
+- 支持 stdio/SSE/streamable-http 三种传输协议，可本地或远程运行
+- 支持 Qdrant 远程服务器与本地数据库路径两种存储方式
+- 可自定义工具描述，用作 Cursor/Windsurf/Claude Code 的代码语义搜索工具
 
 ## 适用场景
 
-- 让 Claude Desktop / Cursor 等 MCP 客户端保存并检索长期记忆
-- 为代码库搭建语义搜索：存储代码片段并用自然语言查询
-- 团队通过 SSE 在远程/云环境中共享同一个 MCP 服务器
+- 为 Claude Desktop 等支持 MCP 的客户端添加可持久化的语义记忆
+- 在 Cursor/Windsurf/Claude Code 中对代码片段做自然语言语义检索
+- 团队通过 SSE 在云端共享同一个 Qdrant 记忆服务
 
 ## 场景标签
 
-`Agent 记忆` `语义搜索` `向量数据库` `编码 Agent` · 领域:Agent 开发
+`语义搜索` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cc493a4b51d9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a4e99faa1e25` · [字段定义](../../DATASET.md)*

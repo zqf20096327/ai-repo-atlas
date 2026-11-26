@@ -2,9 +2,9 @@
 
 ⭐ 2,288 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MinishLab/model2vec) · [官网](https://minish.ai/packages/model2vec/introduction) · 组织维护
 
-**把 Sentence Transformer 蒸馏成小型快速静态嵌入模型的 Python 库**
+**把 sentence transformer 蒸馏成小型快速静态嵌入模型的工具库**
 
-Model2Vec 提供一种将任意 sentence transformer 转换为小型静态嵌入模型的技术：将词表前向传播过原模型得到 token 静态嵌入并做后处理，模型体积最多缩小 50 倍，CPU 推理速度最多提升 500 倍。基础包仅以 numpy 为主要依赖，可在 CPU 上约 30 秒无数据集蒸馏自有模型，并支持分类/相似度/回归微调。提供 potion 系列 HuggingFace 预训练模型，可直接用于分类、检索、聚类与 RAG；已集成进 Sentence Transformers 与 LangChain。MIT 许可。
+Model2Vec 提供将任意 Sentence Transformer 转换为小型静态嵌入模型的技术：模型体积最多缩小 50 倍，CPU 推理速度大幅提升。核心机制是让词表通过句子 Transformer 前向传播得到 token 静态嵌入，再经后处理步骤生成模型；蒸馏无需数据集，仅需词表与模型，并支持对蒸馏或预训练模型做分类、相似度、回归等任务的微调。基础包仅依赖 numpy，模型可从 HuggingFace hub 加载与分享。适用于文本分类、检索、聚类、RAG 等任务。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Model2Vec 提供一种将任意 sentence transformer 转换为小型静态嵌入
 
 ## 能力要点
 
-- 将 sentence transformer 蒸馏为静态嵌入，体积最多缩 50 倍、速度最多提 500 倍
+- 无需数据集即可在 CPU 上约 30 秒蒸馏自有模型
 - 基础包主要依赖仅 numpy，微调后可脱离 torch 运行
-- CPU 上约 30 秒完成无数据集蒸馏
-- 提供 potion 系列预训练模型（8M–128M，含多语与代码检索）
+- 提供预训练模型（通用/多语言/代码），最小约 8 MB
+- 已集成进 Sentence Transformers 与 LangChain 等库
 
 ## 适用场景
 
-- 在 CPU 或边缘环境快速生成文本嵌入做检索/聚类/RAG
-- 把现有 bge 等 sentence transformer 压缩成小模型部署
-- 对静态嵌入模型按自有任务微调
+- 为文本分类、检索、聚类任务生成静态嵌入
+- 为 RAG 系统构建轻量嵌入后端
+- 从自有 Sentence Transformer 蒸馏部署友好模型
+- 在 CPU 环境下运行嵌入推理
 
 ## 场景标签
 
-`模型量化` · 领域:训练与推理
+`微调` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L21: Model2Vec is a technique to turn any sentence transformer into a small, fast static embedding model. Model2Vec redu
-> L31: You can start using Model2Vec by loading one of our flagship models from the HuggingFace hub. These models are pre-
-> L85: The core idea is to forward pass a vocabulary through a sentence transformer model, creating static embeddings for 
+> L83: Model2vec creates a small, fast, and powerful model that outperforms other static embedding models by a large margi
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `80be046598be` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a5fbc907b0a6` · [字段定义](../../DATASET.md)*

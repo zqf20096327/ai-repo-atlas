@@ -1,10 +1,10 @@
 # JackyST0/awesome-agent-skills
 
-⭐ 670 · JavaScript · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/JackyST0/awesome-agent-skills) · [官网](https://jackyst0.github.io/awesome-agent-skills/) · 个人维护 · 中文 README
+⭐ 670 · JavaScript · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/JackyST0/awesome-agent-skills) · [官网](https://jackyst0.github.io/awesome-agent-skills/) · 个人维护
 
-**面向 AI 编程工具用户的 Agent Skills 精选清单与安装器**
+**AI 编程助手的 Agent Skills 精选清单**
 
-以 SKILL.md 格式组织 AI Agent 技能的策展清单，覆盖开发工具、生产力、DevOps、数据处理、写作、设计等类别，并附官方规范、官方资源与其他技能合集的链接。提供跨平台安装脚本（macOS/Linux shell 与 Windows PowerShell），带校验和验证流程，也可通过 git clone 手动安装；安装器仅安装仓库 examples/ 目录中的示例技能，不是第三方项目的包管理器。README 标注支持 Cursor、Claude Code、Copilot、Windsurf、Codex、OpenCode、OpenClaw 等平台的全局与项目目录。
+一个 awesome 形式的 Agent Skills 目录：按官方资源、技能集合、开发工具、生产力、DevOps、数据处理、写作、设计等分类收录技能条目与生态链接。附带 curl/PowerShell 安装脚本，将仓库 examples 目录中的示例技能复制到 Cursor、Claude Code、Copilot 等工具的技能目录；脚本仅安装本仓库自带示例，不管理清单中列出的第三方项目。面向使用 AI 编程工具、希望为工具加装技能的开发者。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 跨 7 个平台的技能目录约定（Cursor/Claude Code/Copilot/Windsurf/Codex/OpenCode/OpenClaw）
-- 提供带校验和验证的跨平台安装脚本与手动 git clone 方式
-- 按开发工具、生产力、DevOps、数据处理、写作、设计等类别组织技能条目
-- 附 5 个示例技能模板与 SKILL.md 规范链接
+- 按官方资源/开发工具/生产力/DevOps/数据处理/写作/设计等分类收录技能
+- 提供 macOS/Linux 与 Windows PowerShell 安装脚本并附校验和验证流程
+- 整理 7 个平台（Cursor、Claude Code、Copilot、Windsurf、Codex 等）的技能目录路径对照表
+- 安装器仅安装仓库 examples 目录的示例技能
 
 ## 适用场景
 
-- 为 Cursor 或 Claude Code 查找和安装现成的 Agent 技能
-- 按照 SKILL.md 规范创建自己的技能
-- 了解 Agent Skills 生态的官方规范与社区合集
+- 为 Cursor 或 Claude Code 查找可安装的 Agent Skills
+- 了解 Agent Skills 生态的规范、注册表与社区集合
+- 参考各平台技能目录路径手动安装 SKILL.md
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
+> L1: # Awesome Agent Skills
 > L10: > Modular instruction packages that give AI coding assistants on-demand capabilities for specific tasks, working ac
-> L53: > Note: The installer only installs the bundled example skills from this repository's `examples/` directory. It is 
-> L70: Agent Skills are instruction sets, scripts, and resources that AI agents can discover and use to perform specific t
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `ca80070c2996` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `083139a24c96` · [字段定义](../../DATASET.md)*

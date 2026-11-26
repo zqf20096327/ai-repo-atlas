@@ -2,9 +2,9 @@
 
 ⭐ 809 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
 
-**消费级 GPU 上的 LoRA 训练与微调工作台**
+**面向消费级 GPU 的 LoRA/微调训练工作室**
 
-面向图像、视频与音乐生成模型的 LoRA/LoKR 训练工作台，覆盖 Klein 9B、Krea 2、MiniMax H3 系列等十余个基础模型，宣称可在低至 8 GB 显存的消费级 GPU 上运行。功能包括训练与全量微调、无需重训的 LoRA 修复、按 epoch 预览挑选、AI 自动打标（JoyCaption、WD EVA02）、训练热力图可视化、Studio 渲染工作台与任务队列。支持 AMD 显卡与 RunPod 租赁硬件部署，提供 Windows 安装器与 Linux 安装脚本。
+针对 Klein 9B、Krea 2、MiniMax H3、Qwen Image 2.1、Z-Image Turbo、SDXL、Anima、ACE-Step 等图像/视频/音乐模型的训练与微调工作台：支持训练与提取 LoRA、LoKR、编辑 LoRA 与 slider LoRA，提供坏 LoRA 修复、按 epoch 浏览预览选优、训练热力图、AI 打标（JoyCaption、WD EVA02）、队列渲染 Studio。覆盖 8 GB 起的消费级 GPU 与 AMD 显卡，可在本机安装或部署到 RunPod 租赁硬件。版本新闻以 changelog 形式列出。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 训练 LoRA/LoKR 与全量微调，最低支持 8 GB 显存显卡
-- LoRA 修复与隔离（LoRA Isolation）、Muon 优化器、Automagic 自动学习率
-- JoyCaption 与 WD EVA02 两种 AI 打标器，自动下载
-- 训练热力图与注意力地图可视化，Studio 队列渲染
+- 支持图像/视频/音乐多类模型的 LoRA 与 LoKR 训练、修复与提取
+- 官方部署入口支持 RunPod 租赁硬件一键运行，无需本机安装
+- 训练热力图与 trigger-word attention map 可视化学习效果
+- 支持 NVIDIA 与 AMD 显卡，低至 8 GB VRAM
 
 ## 适用场景
 
-- 在消费级显卡上用自己的照片训练人物 LoRA
-- 修复效果不佳的已有 LoRA 而不重新训练
-- 给动画/插画模型批量生成 booru 标签训练数据
-- 租用 RunPod GPU 免本地安装直接训练
+- 在消费级显卡上用自己的照片/视频/声音训练 LoRA
+- 修复训练效果不佳的已有 LoRA 而不重训
+- 在 RunPod 租赁的 GPU 上运行完整训练流程
 
 ## 场景标签
 
@@ -40,7 +39,6 @@
 
 > L3:  Fine-tune base models on consumer GPUs — down to 8 GB. Fix broken LoRAs without retraining. Find the best epoch by 
 > L4:  A train · fine-tune · repair · explore workbench built end-to-end for Flux 2 Klein 9B , Flux 3 Image Klein , Fibo 2
-> L51: > - **Fizgig 9.2 — faster training on PyTorch 2.15, with less memory.** A MOSS-Image LoRA at batch 1 on an RTX 5090
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `68c6f871cccd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `2932774e1af9` · [字段定义](../../DATASET.md)*

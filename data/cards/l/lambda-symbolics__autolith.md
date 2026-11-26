@@ -2,9 +2,9 @@
 
 ⭐ 619 · Common Lisp · ISC · 推送 2026-11-25 · [GitHub](https://github.com/lambda-symbolics/autolith) · [官网](https://autolith.rocks) · 组织维护
 
-**可自修改的 Common Lisp 终端 AI agent**
+**自修改的 Common Lisp 终端 AI agent，面向长时程任务**
 
-运行在活体 Common Lisp 镜像中的通用 agent，用户在 REPL 中直接获得模型输出并与之协作。关键机制包括：带检查点与恢复的活体自修改、持久记忆与符号推理以减少不必要的 LLM 调用、用递归语言模型（RLM）处理超上下文窗口的大规模数据、通过 World of Channels 协调多 agent，以及经工具/技能/MCP 扩展。限制：类 Unix 与 Windows 平台运行，面向长程任务，无需 Lisp 知识。
+Autolith 是一个驻留在实时 Common Lisp 镜像中的通用 agent：支持对自身代码与运行状态的检查/修改（带检查点与失败恢复）、持久记忆与符号推理以减少 LLM 调用、基于递归语言模型（RLM）的大规模数据处理、多 agent 通过 World of Channels 协作、以及面向长时程目标的自主执行与计划。输入是带语法糖的 REPL，Lisp 求值、工具调用与命令无区别。提供多平台独立二进制、Nix 包、安装脚本与源码构建路径，通过 auth 命令配置十余家模型提供方。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 活体自修改自身代码与运行状态，带检查点恢复
-- 持久记忆与符号推理减少不必要的 LLM 调用
-- RLM 处理大规模数据而不撑爆上下文窗口
-- 多 agent 通过 World of Channels 协调，支持不同模型与角色
+- 实时自修改自身代码与运行状态，带检查点与恢复机制
+- 符号推理与持久记忆减少不必要的 LLM 调用
+- 多 agent 通过 World of Channels 以不同模型与角色协作
+- 通过 tools/skills/MCP 服务器扩展能力
 
 ## 适用场景
 
-- 在终端中用自然语言与 agent 协作完成编码等长程任务
-- 让多个不同模型的 agent 在频道中协同分工
-- 处理超出上下文窗口规模的大量信息
+- 在终端 REPL 中运行可自主推进的长时程任务
+- 需要处理大规模数据且不撑爆上下文窗口的场景
+- 多个模型/角色组成 agent 层级协同工作
 
 ## 场景标签
 
-`编码 Agent` `多智能体` · 领域:Agent 开发
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L1: #+SUBTITLE: The self-modifying Common Lisp neurosymbolic agent
 > L13: Autolith (or AL), is an agent plopped into a live [[https://en.wikipedia.org/wiki/Common_Lisp][Common Lisp]] image:
+> L22:  of persistent agents through a /World of Channels/, with different models, reasoning efforts, and roles.
 > L25: - *Extensibility:* Extend its capabilities through tools, skills, [[https://modelcontextprotocol.io/][MCP]] servers
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `65869d796b0c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8267dc888979` · [字段定义](../../DATASET.md)*

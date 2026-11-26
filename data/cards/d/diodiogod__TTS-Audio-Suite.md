@@ -2,9 +2,9 @@
 
 ⭐ 1,272 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/diodiogod/TTS-Audio-Suite) · 个人维护
 
-**给 ComfyUI 用户提供多引擎本地 TTS 与语音转换节点**
+**ComfyUI 多引擎本地 TTS/变声/字幕节点套件**
 
-一个 ComfyUI 自定义节点扩展，通过统一接口接入 20 个 TTS/ASR/语音转换引擎（ChatterBox、F5-TTS、Higgs Audio、VibeVoice、IndexTTS、RVC 等），提供文本转语音、语音克隆、声音转换、ASR 转写、SRT 字幕同步生成、音频后处理与 RVC 模型训练工作流。采用模块化架构，新版对脆弱旧引擎提供运行时隔离，主环境运行在 Transformers 5。SRT 节点支持分段缓存，仅重新生成修改过的片段。
+面向 ComfyUI 用户的通用多引擎语音扩展，从 ChatterBox Voice 项目演化而来。统一提供文本转语音、语音转换（RVC）、ASR 转写、音频编辑、SRT 字幕生成与对齐、RVC 模型训练等功能，集成 20 个引擎（ChatterBox、F5-TTS、Higgs Audio、IndexTTS、Qwen3-TTS、DramaBox、MOSS-TTS 等），含长文本切分、分段缓存、角色切换与逐段参数控制。架构采用 Transformers 5 主环境加旧栈隔离运行时；提供新增引擎的开发指南与 YouTube 演示视频。
 
 ## 筛选速览
 
@@ -14,23 +14,23 @@
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | `gpu-24g` | |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 统一接入 20 个 TTS/语音转换引擎，含语言与显存对比表
-- SRT 字幕工作流：转写生成 SRT、按编辑稿重建字幕、分段缓存
-- 集成 RVC 模型训练工作流与语音设计器
-- 运行时隔离架构：主环境 Transformers 5，脆弱引擎用共享旧版运行时
+- 统一接入 20 个 TTS/语音转换/ASR 引擎，含多语言矩阵与特性对比表
+- SRT 字幕工作流：转写、从编辑稿重建字幕、按可读性规则估算时间轴
+- RVC 模型训练工作流集成，运行时隔离旧版引擎依赖
+- Voice Designer 复用音色、逐段参数切换与智能文本切分
 
 ## 适用场景
 
-- 在 ComfyUI 里用多引擎生成配音和克隆声音
-- 为视频生成与字幕时间轴同步的 TTS 音频
-- 从静音视频自动生成基础字幕时间模板
-- 训练 RVC 声音转换模型
+- 在 ComfyUI 中生成多语言配音并与字幕时间轴对齐
+- 用参考音频克隆音色或进行实时语音转换
+- 为无声视频生成基础 SRT 时间模板后手动补词
+- 本地训练 RVC 语音转换模型
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L11: *Universal multi-engine TTS extension for ComfyUI - evolved from the original ChatterBox Voice project.*
 > L15: A comprehensive ComfyUI extension providing unified Text-to-Speech, Voice Conversion, Audio Editing, and integrated
 > L83: - 🎤 **Multi-Engine TTS**
+> L87: - ✏️ **ASR Transcription**
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3de61081dd0a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c95cfb539aac` · [字段定义](../../DATASET.md)*

@@ -4,7 +4,7 @@
 
 **把 Claude Code/Codex 变成口播视频动效工作室的 agent skill**
 
-video-shotcraft 系列的口播视频篇：输入口播稿与成品配音，本机做字级时间戳对齐（默认 FireRedASR2-CTC int8，备选 faster-whisper），按语义拍生成 SHOTBOOK 分镜，再用 Remotion 渲染成片，含 108 张动效配方卡、七层反 PPT 镜头系统与三重验收。依赖 Node 18+、Python 3.10+、ffmpeg。PolyForm Noncommercial 1.0.0 许可，商业用途需授权。
+一个面向口播/解说视频的 AI agent skill：输入口播稿与成品配音，agent 在本机做字级时间戳对齐（默认 FireRedASR2-CTC，备选 faster-whisper），按语义拍写 SHOTBOOK 分镜，选用 108 张 Remotion 动效配方卡渲染成片，并通过静止检测、音效逐 cue 验证与独立评审三重验收。附剪映式动效工作台支持多轨微调与透明通道导出。面向需要批量产出知识科普、产品评测等口播视频的创作者；默认中文口播优先设计，中英混排支持。许可为 PolyForm Noncommercial，商业用途需事先授权。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ video-shotcraft 系列的口播视频篇：输入口播稿与成品配音，本�
 
 ## 能力要点
 
-- 字级配音同步：CPU 时间戳对齐，字级偏差中位 20–40ms
-- 108 张动效配方卡，各带自包含 Remotion tsx 源码与 HTML 预览
-- 三重验收：静止段检测、音效逐 cue 验证、独立评审
-- 可选 Fish Audio TTS 生成配音与字级时间戳
+- 字级配音同步：本机 CPU 对齐，字级偏差中位 20–40ms
+- 108 张动效配方卡，每张含自包含 Remotion tsx 源码与 HTML 预览
+- 七层反 PPT 镜头系统与三重验收管线（机器闸 + 独立审片）
+- 剪映式动效工作台：多轨时间线、参数化微调、透明通道导出
 
 ## 适用场景
 
-- 把口播稿和配音自动做成带动效的解说视频
-- 知识科普、产品评测、新闻解读类视频制作
-- 中英混排口播视频的字级动效同步
-- 用剪映/PR/AE 叠加导出的透明通道素材
+- 把口播稿和配音自动做成带动效的知识科普解说视频
+- 产品评测、新闻解读类横屏视频的动效成片
+- 无录音时用 Fish Audio 生成配音并产出字级时间戳
+- 成片后在动效工作台逐轨微调字幕、转场、音效
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ video-shotcraft 系列的口播视频篇：输入口播稿与成品配音，本�
 ## 证据(README 行号)
 
 > L15: 系列的口播视频篇：一个把 Claude Code / Codex 变成口播视频动效工作室的 AI agent skill。
-> L89: - **字级配音同步**——`scripts/timestamps_cpu.py` 把口播稿对齐到音频
+> L141: 用 video-talkcraft 把这份口播稿 + voiceover.wav 做成视频。
 > L204: 一个开源的 AI agent skill（Claude Code / Codex 技能包），用于 AI 视频制作：
 
 ## 星数曲线
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `d184014f463f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `22cc76e8c102` · [字段定义](../../DATASET.md)*

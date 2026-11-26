@@ -2,9 +2,9 @@
 
 ⭐ 6,064 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/54yyyu/zotero-mcp) · [官网](https://stevenyuyy.com/zotero-mcp/) · 个人维护
 
-**通过 MCP 将 Zotero 文献库接入 Claude/ChatGPT 等 AI 助手**
+**把 Zotero 文献库接入 Claude/ChatGPT 等 AI 助手的 MCP 服务器**
 
-一个 Python 包（zotero-mcp-server），提供三种方式把 Zotero 研究文献库连接到 AI 助手：MCP server（面向 Claude Desktop、ChatGPT 等无 shell 的聊天客户端）、zotero-cli 加 agent skill（面向 Claude Code、Codex 等有 shell 的 agent，上下文开销从约 8k tokens 降到 98 tokens）、以及内嵌 Zotero 的聊天面板插件（Zotero Agent，.xpi，AGPL-3.0）。功能覆盖检索（含语义搜索）、读取元数据/BibTeX/PDF 全文与页图、PDF 标注、按 DOI/ISBN 等写入条目、Scite 引用统计。本地模式直接读 zotero.sqlite，写入走 Zotero 10+ 本地 API 或 Web API。MIT 许可（插件除外）。
+一个 PyPI 包（zotero-mcp-server）提供三种使用路径：面向无 shell 的 MCP 客户端（Claude Desktop、ChatGPT 等）的 MCP 服务器、面向带 shell 的 agent（Claude Code、Codex、Cursor 等）的 zotero-cli 加 agent skill、以及嵌入 Zotero 的 Zotero Agent 聊天插件。功能覆盖标题/作者/全文/语义检索、读取 PDF 元数据与页面范围、标注（高亮与区域框）、经 DOI/URL/BibTeX 添加文献与管理集合标签。本地模式直接读取 zotero.sqlite，写入经 Zotero 10+ 本地 API 或 web API。语义检索为可选 extra，依赖 ChromaDB 与 OpenAI/Gemini/Ollama 嵌入。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 三种接入路径：MCP server、CLI+agent skill、Zotero 内聊天面板插件
-- 语义搜索支持本地、OpenAI、Gemini、Ollama embeddings（ChromaDB/sentence-transformers）
-- 读取 PDF 元数据、全文、页区间与页图；支持高亮与区域框标注
-- agent skill 路径上下文开销 98 tokens，MCP server 默认配置为 7,752 tokens
+- 三种接入路径：MCP server、zotero-cli + agent skill、Zotero 内嵌聊天面板
+- 语义检索支持本地、OpenAI、Gemini、Ollama 嵌入
+- PDF 页级标注（高亮/区域框）与经 Scite 的引文计数与撤稿提醒（可选）
+- 本地模式直接读取 zotero.sqlite，无需额外服务
 
 ## 适用场景
 
-- 在 Claude Desktop 里对话式检索和总结自己的 Zotero 文献库
-- 让 Claude Code/Cursor 等 agent 通过 CLI 管理条目、标注 PDF
-- 在 Zotero 内边读 PDF 边向聊天面板提问，回答带页码引用链接
-- 按语义查找文献并获取 Scite 引用统计与撤稿提醒
+- 在 Claude Desktop 里直接检索、总结我的 Zotero 文献库
+- 让 Claude Code/Cursor 这类 agent 以更低 token 开销操作文献
+- 在 Zotero 阅读 PDF 时在旁边面板与 AI 讨论并定位引用页
 
 ## 场景标签
 
-`语义搜索` `科研工具` `文档问答` · 领域:知识与检索
+`语义搜索` `科研工具` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L22: **Zotero MCP** connects your Zotero research library with ChatGPT, Claude, and other AI assistants (e.g., Cherry St
 > L30: ||**MCP server**|**`zotero-cli` + agent skill**|**Zotero Agent**|
-> L150: |Docker|Container images and runtime modes|
+> L39: - **Search** by title, author, tag, collection, full text, or meaning (semantic search with local, OpenAI, Gemini, 
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e9c1ecfa7348` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7eb6a6ba821d` · [字段定义](../../DATASET.md)*

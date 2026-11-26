@@ -2,9 +2,9 @@
 
 ⭐ 833 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SaiTingHu/HTFramework) · 个人维护 · 中文 README
 
-**基于 Unity 的客户端快速开发框架，模块化游戏功能套件**
+**Unity 客户端快速开发框架：模块化游戏开发与热更新**
 
-面向 Unity 客户端开发的 C# 框架，提供二十余个内置模块：流程（Procedure）、实体/FSM、ECS、AOP 代码追踪、热更新（C# 反射，另支持 HybridCLR）、资源管理（Resource/AssetBundle/Addressables）、网络、UI、调试器、任务与步骤编辑器等，另有 AI（A* 寻路等）、资源部署管线、游戏组件等可选模块。要求 Unity 2022.3.34 与 .NET Framework，拉取源码到 Assets 目录使用，附多个游戏实战教程。
+基于 Unity 2022.3.34 的 C# 客户端开发框架，内置 20 余个模块：流程管理、ECS、FSM、实体管理、事件系统、对象池、资源加载（Resource/AssetBundle/Addressables）、TCP/UDP 网络管道、UI 管理、热更新（C# 反射实现）等，另有 AI 寻路、资源部署、游戏组件三个可选模块。通过拉取源码到 Assets 目录或添加子模块方式引入，配套游戏实战教程与博客文档。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- Procedure 流程为核心的全模块化架构，自定义模块与内置模块生命周期一致
-- C# 反射实现的热更新模块，支持热更新库内动态修复方法
-- 资源管理支持 Resource/AssetBundle/Addressables 三种加载模式
-- 内置 Debugger 运行时调试器与大量编辑器/运行时工具
+- 20+ 内置模块覆盖流程、ECS、FSM、事件、对象池、UI、网络等
+- C# 反射实现的轻量级热更新，无需重新发布项目
+- 资源加载支持 Resource/AssetBundle/Addressables 三种模式
+- AI、Deployment、GameComponent 三个可插拔可选模块
 
 ## 适用场景
 
-- 用 Unity 快速搭建模块化的游戏客户端项目
-- 在项目中实现 C# 热更新与运行时指令修补
-- 跟随实战教程学习坦克大战、RPG、MMORPG 等类型开发
+- 用统一框架组织 Unity 游戏项目的模块化开发
+- 需要热更新或运行时修补程序功能的客户端项目
+- 按实战教程学习 MMORPG、帧同步联机等游戏开发
 
 ## 场景标签
 
- · 领域:游戏开发/客户端框架
+ · 领域:游戏开发框架
 
 ## 证据(README 行号)
 
 > L9: HTFramework是基于Unity的一个快速开发框架，集需求模块化、代码重用性、实用便捷性、功能高内聚、统一编码规范、可扩展性、可维护性、可通用性、可插拨性为一体，并提供持续维护、升级。
 > L91: - AI【可选模块】 - AI相关模块，比如A*寻路以及各种人工智能模块。
+> L173: - 1.拉取框架到项目中的Assets文件夹下（Assets/HTFramework/），或以添加子模块的形式。
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `f3456f85a590` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8370ae4a35b6` · [字段定义](../../DATASET.md)*

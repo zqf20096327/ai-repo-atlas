@@ -2,9 +2,9 @@
 
 ⭐ 1,345 · Python · 推送 2026-11-25 · [GitHub](https://github.com/xianshang33/llm-paper-daily) · 个人维护 · 中文 README
 
-**给 LLM/Agent 研究者的每日论文更新与分类订阅源**
+**面向订阅者的 LLM/Agent 论文每日更新清单**
 
-该仓库每日收录 LLM、Agent 相关研究论文，按日期组织列表，每条附 arXiv 链接、相关 GitHub 仓库和中文摘要总结。订阅方式是通过仓库提供的 prompt 交给本地 Agent（OpenClaw/Codex/Claude Code），由其读取仓库根目录 SUBSCRIBE.md 完成本地配置，并只读取公开的 feed-papers.json，不在本机运行抓取或总结流程，同时安装定时任务实现每日推送。本体是论文精选与分类展示平台。
+每日汇总 LLM 与 Agent 相关的 arXiv 论文，附 arXiv 地址、GitHub 仓库链接和中文总结。订阅方式为将提示词发送给本地 Agent（OpenClaw/Codex/Claude Code），由其执行仓库内的 paper-subscribe skill，只读取公开的 feed-papers.json 完成本地配置与定时推送，不在用户机器上运行抓取与总结流程。仓库本身不含安装步骤，用户通过订阅流程获取内容。
 
 ## 筛选速览
 
@@ -20,20 +20,19 @@
 
 ## 能力要点
 
-- 每日更新 LLM、Agent 论文并附 arXiv 地址与中文摘要
-- 通过 paper-subscribe skill 的 Agent 配置完成本地订阅
-- 订阅仅读取公开 feed-papers.json，不运行抓取流程
-- 提供定时任务推送的 digest 配置流程
+- 每日更新 LLM、Agent 论文并附 arXiv 链接与中文总结
+- 通过 Agent skill（paper-subscribe）完成本地订阅配置
+- 订阅只读取公开 feed-papers.json，不运行生产流程
 
 ## 适用场景
 
-- 每天追踪 LLM 与 Agent 领域最新论文
-- 让本地 Agent 帮我配置论文日报订阅
-- 按日期浏览论文并快速看中文总结
+- 每天获取最新的 LLM、Agent 研究论文动态
+- 通过本地 Agent 定时收到论文摘要推送
+- 跟踪 Agent 安全、评测、记忆等方向的研究进展
 
 ## 场景标签
 
-`科研工具` `精选清单` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `29a8336c08cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `40bef2abe8cf` · [字段定义](../../DATASET.md)*

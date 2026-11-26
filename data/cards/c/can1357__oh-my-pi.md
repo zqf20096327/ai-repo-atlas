@@ -1,19 +1,19 @@
 # can1357/oh-my-pi
 
-⭐ 39,886 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/can1357/oh-my-pi) · [官网](https://omp.sh) · 组织维护 · 中文 README
+⭐ 39,886 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/can1357/oh-my-pi) · [官网](https://omp.sh) · 组织维护
 
-**面向开发者的终端编码 agent，CLI/TUI 内置 IDE 能力**
+**给开发者的集成 IDE 能力的终端编码 Agent**
 
-由 Stencil Labs 维护、基于 Pi 分叉的编码 agent，以 CLI/TUI 运行，支持 60+ 模型提供商、31 个内置工具、14 项 LSP 操作与 28 项 DAP 调试操作，核心以约 8 万行 Rust 实现。内置持久化 Python/Bun 代码执行、LLM 驱动重命名、lldb/dlv/debugpy 调试器会话、流式中断注入规则、subagent 并行、第二模型 advisor 评审、会话共享链接、内容哈希编辑与多格式配置继承。通过 curl 脚本、Homebrew、Bun、Nix、mise 或 PowerShell 安装，支持 macOS/Linux/Windows。
+由 Stencil Labs 维护的终端编码 Agent（Pi 的 fork），以 CLI/TUI 形式运行，内置 31 个工具、60+ 模型提供商接入、LSP 与 DAP 操作。机制上把 LSP 重命名、调试器（lldb/dlv/debugpy）、子代理 fan-out、流中规则注入、advisor 第二模型审阅、会话共享链接、内容哈希编辑（Hashline）、GitHub PR 即文件读取、跨会话记忆等功能并入同一工具面，支持 ACP 在 Zed 中驱动，可读取 Cursor/Cline/Codex 等已有配置格式。安装覆盖 macOS/Linux/Windows 及 bun/Nix/Homebrew/mise。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,21 +27,21 @@
 
 ## 能力要点
 
-- 支持 60+ 模型提供商与 31 个内置工具
-- LSP 与 DAP 接入：agent 可执行重命名并驱动 lldb/dlv/debugpy 调试会话
-- subagent 并行执行与 advisor 第二模型逐轮评审
-- 读取 Cursor MDC、Cline、Codex AGENTS.md、Copilot applyTo 等 8 种现有配置格式
+- 内置 31 个工具、60+ 提供商、14 个 LSP 操作与 28 个 DAP 操作
+- LSP 写入：重命名走 workspace/willRenameFiles，联动更新 barrel 文件与别名导入
+- 可驱动真实调试器：lldb、dlv、debugpy 附加进程
+- 子代理 fan-out 输出 schema 校验的结构化结果，并带 Agent Hub 监控
 
 ## 适用场景
 
-- 在终端用自然语言驱动编辑、搜索与调试代码
-- 在 Zed 编辑器内通过 ACP 驱动同一 agent
-- 将改动拆分为原子提交并生成校验过的提交信息
-- 与团队成员共享实时 agent 会话进行结对调试
+- 在终端里让 Agent 直接完成重命名、编辑、重构等代码修改
+- 让 Agent 附加调试器定位 segfault 或挂起的进程
+- 用 /review 对分支或提交做 P0-P3 分级代码评审
+- 通过 /collab 链接让队友只读或共同操作同一 Agent 会话
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `f2e7aaec7308` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `1eb701a8aa2f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 5,008 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/modelflare-ai/AnyModelBot) · [官网](https://anymodel.bot/) · 组织维护 · 中文 README
 
-**本地优先的开源 AI 机器人团队桌面应用，多模型多渠道常驻干活**
+**本地优先的开源 AI 机器人桌面应用，可接微信/飞书等多渠道**
 
-运行于 Windows/macOS/Linux 的桌面应用（另有命令行、Docker、本地网页控制台），每个机器人有独立人设、默认模型、工作区与记忆，可接入微信、飞书、Telegram、Slack、Discord。支持后台任务、定时规则、预算控制、审批卡片、三档权限的文件与命令操作、电脑操作（Cua Driver）与图片/视频生成。模型经 Modelflare 网关按量付费，或用官方 API Key 直连 OpenAI、Anthropic 等 10 家厂商；数据默认留在本机，Modelflare 转发路径会保留请求日志。
+运行在 Windows/macOS/Linux 上的 AI 机器人应用：每个机器人有独立人设、默认模型、工作区与记忆，支持后台任务、定时规则、文件读写、沙箱执行命令和电脑操作（越界需审批）。模型经 Modelflare 按量付费或用官方 API Key 直连厂商；对话、记忆与密钥存于本地。提供安装包、Docker 与源码三种运行方式；源码构建需 Node.js 22.13+ 与 Go 1.26.8+。
 
 ## 筛选速览
 
@@ -13,33 +13,34 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多机器人系统：独立人设、工作区、记忆与权限，支持群聊与机器人间任务交接
-- 后台任务、定时规则与预算控制，任务/规则默认预算内置
-- 内置电脑操作（Cua Driver）、技能安装与自存（SKILL.md ZIP）
-- 四类现成 Bot：尽调助手、PPT 大师、影视创作室、美股研报
+- 机器人具备人设、工作区、记忆与三档权限（只读/工作区/完全）
+- 接入微信、飞书、Telegram、Slack、Discord 等聊天渠道
+- 后台任务、定时规则与预算控制内置，越权操作需审批卡片确认
+- 内置电脑操作（Cua Driver）、图片视频生成及四个官方 Bot 工作台
 
 ## 适用场景
 
-- 让机器人在本机整理文件、做调研报告并定时汇报
-- 通过微信/飞书随时随地联系自己的 AI 机器人
-- 用官方 API Key 直连各厂商模型，避免逐家申请管理
+- 让机器人在本机整理文件、做调研并生成报告
+- 通过微信或飞书随时给机器人下达和跟进任务
+- 用定时规则每天自动检查并推送提醒
+- 搭建多个不同人设与模型的机器人分工协作
 
 ## 场景标签
 
-`模型网关` `GUI 自动化` `AI 助手` `聊天机器人` · 领域:Agent 开发
+`聊天机器人` `AI 助手` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L45: AnyModelBot 是跑在 Windows / macOS / Linux 上的 AI 机器人团队。每个机器人有自己的人设、默认模型、工作区和记忆；可在应用内聊天，也可接入微信、飞书、Telegram、Slack、Discor
-> L214: - **或者用自己的官方 API Key。** 支持 OpenAI、Anthropic、Google Gemini、xAI、DeepSeek、Kimi、GLM、Qwen、MiniMax 和 Mistral。Key 只存在你的设备
-> L232: - **四种运行方式。** 桌面版、命令行、Docker，以及 `127.0.0.1:3600` 的本地网页控制台。
+> L216: - **一个选择器，覆盖所有模型。** GPT、Claude、Gemini、Grok、DeepSeek、Kimi、GLM 等，每个都标出上下文长度、能力和参考价。
+> L286:  架构：Electron 外壳、命令行或 Docker 启动 Node.js + TypeScript 后端，后端包含 Preact 界面、SQLite、DSH 智能体运行时和渠道适配，再调用内置的 magpie 网关，由它连到
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3dc09e117520` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6131c7616e4e` · [字段定义](../../DATASET.md)*

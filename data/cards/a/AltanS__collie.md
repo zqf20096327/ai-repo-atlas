@@ -2,9 +2,9 @@
 
 ⭐ 1,711 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AltanS/collie) · [官网](https://colliepwa.dev/) · 个人维护
 
-**在手机上查看并回复终端 AI 编码 agent 的自托管 PWA**
+**把终端 AI 编码 agent 投到手机上操控的自托管 PWA**
 
-ColliePWA 是一个 MIT 开源、自托管的手机端 Web 应用，与 Herdr 或 tmux/zellij 等多路复用器一起运行在用户自己的电脑上，通过 Tailscale tailnet 提供访问。它显示终端中运行的 AI agent（如 Claude Code、Codex、OpenCode），支持远程回复、从手机启动新 agent、推送通知、语音转文字、查看 git diff、跨会话消息（WalkyTalky）、多主机 Crews 等功能。通过浏览器添加到主屏幕安装，不经过应用商店。严格单用户设计，无多租户认证。
+开源（MIT）Web 应用，安装在自己电脑上并经 Tailscale tailnet 供手机访问，以主屏 PWA 形式使用，不经应用商店。手机端可查看终端中的编码 agent 会话（Claude Code、Codex、OpenCode 等）、用文本或语音回复、收到推送提醒、从手机启动 agent、查看 git diff。主要面向 Herdr 多路复用器；Herdr core、tmux、zellij、tuios、Tern、Rex 支持为实验性。严格单用户设计，无多租户认证。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ColliePWA 是一个 MIT 开源、自托管的手机端 Web 应用，与 Herdr �
 
 ## 能力要点
 
-- 仪表盘优先展示等待输入的 agent，agent 提示转为可点按钮
-- WalkyTalky 支持跨程序、跨机器的 agent 会话间消息与回执
-- 内置语音引擎 Whistle 与推送通知（agent 暂停/完成时提醒）
-- Crews 将多台主机聚合到一个 URL 并支持手动故障转移
+- 手机查看并回复终端 agent：提示变按钮、快捷回复、语音听写与 Whistle 语音转文字
+- WalkyTalky 跨程序与机器在 agent 会话间互发消息并带回执
+- 推送通知、git diff 只读查看、多 Collie 主机集群（Crews）与手动故障切换
+- 自托管 PWA 经 Tailscale 访问，无账号、不经应用商店
 
 ## 适用场景
 
-- SSH 断开后在手机上继续管理 tmux/Herdr 里的 Claude Code 会话
-- agent 停下等待批准时收到推送并一键回复
-- 从手机为某目录或 git worktree 启动新的编码 agent
+- 在手机上远程跟进 tmux/Herdr 里运行的编码 agent 会话
+- agent 暂停或完成时在手机收到推送并一键批准
+- 从手机启动新的 agent 会话并选择目录与 worktree
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ ColliePWA 是一个 MIT 开源、自托管的手机端 Web 应用，与 Herdr �
 
 > L9: ColliePWA is an open-source (MIT) web app for your phone. It displays your terminal AI agents,
 > L107: Collie is for developers running terminal-multiplexed AI agents who want phone access via a touch
-> L64: COLLIE_MUX=herdr collie start          # or: herdr-core, tmux, zellij, tuios, tern, rex
+> L113: The setup assumes a **Tailscale tailnet**, with `tailscale serve` as the
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `799b33d20288` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `bb55d48bc930` · [字段定义](../../DATASET.md)*

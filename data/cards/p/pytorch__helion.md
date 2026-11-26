@@ -2,9 +2,9 @@
 
 ⭐ 996 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/pytorch/helion) · 组织维护
 
-**给 ML 开发者的 Python 内嵌 DSL：用 PyTorch 写法编写可自动调优的 GPU kernel**
+**嵌入式 Python DSL：让 ML 开发者少写样板代码生成 GPU/TPU 内核**
 
-Helion 是 PyTorch 官方的 Python 内嵌领域专用语言（DSL），用于编写机器学习 kernel：用户以 PyTorch 操作在 tile 上表达算法，编译器自动推导配置空间并自调优，使同一 kernel 适配不同输入形状与硬件目标。支持 Triton（默认）、TileIR、CuTe、Gluon、Pallas（TPU）、Metal、FlyDSL 等多后端，覆盖 NVIDIA Blackwell、Google TPU、Apple 与 AMD GPU。自动处理张量索引、掩码、网格尺寸、kernel 参数等；自调优耗时较长，生产部署建议使用预先调优配置。
+Helion 是 PyTorch 官方维护的 Python 嵌入式 DSL，用于编写机器学习内核：内核以 PyTorch 算子对 tile 的操作表达算法，编译器推导配置空间并自动调优，同一内核可适配不同输入形状与硬件目标。支持 Triton（默认）、CuTe DSL、TileIR、Pallas、Gluon、Metal、FlyDSL 多个代码生成后端，覆盖 NVIDIA/AMD GPU、TPU 与 Apple GPU。自动处理张量索引、掩码、网格尺寸、循环归约与 L2 缓存优化等；首次运行触发自动调优，也可手动指定配置跳过调优。文档建议生产部署使用预调优配置，因运行时调优耗时且资源密集。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Helion 是 PyTorch 官方的 Python 内嵌领域专用语言（DSL），用于�
 
 ## 能力要点
 
-- 以 @helion.kernel 装饰器用 PyTorch 操作编写 kernel，编译器自动生成配置空间并自调优
-- 多后端：Triton（默认）、TileIR/CuTe/Gluon（Blackwell）、Pallas（TPU）、Metal、FlyDSL（AMD）
-- 自动处理张量索引、隐式掩码、网格尺寸、循环归约与 L2 优化、warp specialization 等
-- 支持显式 config 跳过自调优，并提供程序化 API 管理调优与配置
+- 以 PyTorch 算子+tile 表达内核，编译器自动推导配置空间并自调优
+- 7 个代码生成后端：Triton/CuTe/TileIR/Pallas/Gluon/Metal/FlyDSL
+- 自动处理张量索引、掩码、网格尺寸、归约与 PID swizzling 等优化
+- 支持手动指定 Config 跳过调优或多配置轻量评估
 
 ## 适用场景
 
-- 用 PyTorch 语法编写矩阵乘、softmax、pointwise 等自定义 GPU kernel
-- 为 Blackwell GPU 或 TPU 生成适配多硬件目标的 kernel
-- 通过静态形状与配置复用控制自调优时间
+- 为不同 GPU/TPU 硬件目标编写可移植的 ML 内核
+- 用 PyTorch 熟悉语法替代手写低层内核代码
+- 针对 B200/B300 等 Blackwell 硬件做内核性能调优
+- 生产部署前生成预调优内核配置
 
 ## 场景标签
 
- · 领域:机器学习基础设施/编译器
+ · 领域:ML 系统/内核编译
 
 ## 证据(README 行号)
 
 > L10: **Helion** is a Python-embedded domain-specific language (DSL) for
 > L12: as PyTorch operations over tiles; the compiler derives a configuration
-> L171: **For production deployment**, we recommend using ahead-of-time tuned configurations rather than relying on runtim
+> L16: ## Backends
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `14cbbd3db310` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b18bd245da97` · [字段定义](../../DATASET.md)*

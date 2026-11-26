@@ -2,9 +2,9 @@
 
 ⭐ 653 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/apache/casbin-gateway) · [官网](https://gateway.casbin.org) · 组织维护 · 中文 README
 
-**本地网关：监控本机所有 AI 编码代理及其 API 真实性**
+**本机 AI 编码 agent 的统一网关：监控用量、鉴真 API、管权限**
 
-面向本机运行 AI 编码代理的开发者：一个本地网关统一接入 44 家模型供应商，代理读取代理自身的会话记录（transcript）统计提示词、工具调用与花费；向上游直接探测以 A–F 分级标注 API 真实性；以 Casbin 策略对每个代理的工具/模型/供应商权限做请求级强制；并在一个界面内完成各代理的安装、升级、回滚与配置迁移。单命令安装，无需数据库与编译，数据存本机 SQLite。
+以 Go 编写的本机网关与桌面控制台，把 Claude Code、Codex、Cursor、Gemini CLI 等约 30 个编码 agent 的请求汇聚到统一端点，背后对接 44 家模型厂商预设或任意 OpenAI/Anthropic 兼容 base URL。核心机制：Authenticity 对上游直接探测并给出 A–F 分级；从 agent 自身 transcripts 读取 prompts、工具调用与花费；按 agent 配置约 40 个开关并编译为 Casbin 策略在每个转发请求上强制执行。单脚本安装，数据存本地 SQLite，无数据库/Go/Node 依赖。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 44 家供应商预设端点，一个 OpenAI/Anthropic 兼容 base URL 即可接入
-- API 真实性探测：向上游直接验证并以 A–F 分级
-- 约 40 项每代理权限开关，编译为 Casbin 策略在每次转发时执行
-- 代理自身的安装/升级/回滚管理与跨代理 skills、MCP、prompt 复制
+- 44 家厂商预设统一端点，故障时跨厂商、跨 API 故障转移与模型路由
+- Authenticity 探测上游并按 A–F 分级 API 真伪
+- 按 agent 的工具/模型/厂商权限开关，编译为 Casbin 策略强制执行
+- 从 agent 自身 transcripts 读取花费与记录，含未经过网关的流量
 
 ## 适用场景
 
-- 核查购买的 API key 背后是否真的供应所宣称的模型
-- 统一查看本机多个编码代理的花费、提示词与工具调用记录
-- 一家供应商配额耗尽或宕机时自动切换到备用供应商
-- 为不同代理分配不同的工具与模型使用权限
+- 核查某个中转 API key 背后是否真的卖给我所付的模型
+- 统一管理本机多个编码 agent 的模型厂商、账号与版本升级回滚
+- 为每个 agent 设定它能调用哪些工具、模型和厂商
+- 统计各 agent 的 token 用量、缓存命中率与花费明细
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`模型网关` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L96: - **Is that API key what it was sold as?** A reseller can serve a cheaper model, fake a cache hit, or quietly drop 
+> L2:  See what every AI coding agent on your machine is doing, and whether the API behind it is the one you paid for.
 > L98: - **One place for all of them.** Point Claude Code, Codex, Cursor, Gemini CLI and the rest at any of 44 model vendo
 > L201: - **Say what each agent may do** — around forty switches per agent, in groups, over its tools, models and provider
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `a3e78d260e17` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d07b4335e51f` · [字段定义](../../DATASET.md)*

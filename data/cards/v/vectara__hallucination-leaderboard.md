@@ -2,9 +2,9 @@
 
 ⭐ 3,331 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/vectara/hallucination-leaderboard) · [官网](https://vectara.com) · 组织维护
 
-**用 HHEM 模型评测各 LLM 摘要幻觉率的排行榜**
+**LLM 摘要幻觉率排行榜：为选型者量化各模型摘要可信度**
 
-Vectara 维护的公开 LLM 排行榜，使用其 HHEM-2.3 幻觉评测模型计算各家 LLM 在短文档摘要任务中的幻觉率、事实一致率与回答率。评测方法：将约 7700 篇不公开的文章（50 词至 24K 词）喂给各 LLM 要求仅依据原文生成摘要，温度设为 0，再计算事实一致性。README 同时给出所用提示词、API 调用细节、往期版本链接及Hugging Face 交互式版本入口。限制：评测仅覆盖摘要任务，数据集不公开以防过拟合。
+使用 Vectara 的 HHEM 评估模型计算各 LLM 在短文档摘要任务中引入幻觉的频率，输出幻觉率、事实一致性率、应答率与平均摘要长度四项指标，按幻觉率排序并定期更新。评估数据集为不公开的 7700+ 篇多领域文章（50 词至 24K 词），采用 temperature=0 调用各模型 API，README 给出所用提示词与方法论说明。当前版本基于 HHEM-2.3 商业评估模型，另提供开源变体 HHEM-2.1-Open，并在 Hugging Face 提供交互式榜单。
 
 ## 筛选速览
 
@@ -13,22 +13,23 @@ Vectara 维护的公开 LLM 排行榜，使用其 HHEM-2.3 幻觉评测模型计
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 用 HHEM-2.3 计算幻觉率、事实一致率、回答率三项指标
-- 评测集含 7700+ 篇多领域文章，不公开以防过拟合
-- 提供 Hugging Face 交互式排行榜与往期版本链接
+- 按幻觉率排序的 LLM 排行榜，含幻觉率、事实一致性率、应答率、平均摘要长度四项指标
+- 评估基于 7700+ 篇不公开的多领域文章数据集，覆盖 50 词至 24K 词
+- 当前版本使用 HHEM-2.3 商业评估模型，另有开源变体 HHEM-2.1-Open
+- 提供评估方法论文档与所用提示词全文
 
 ## 适用场景
 
-- 选型时查看各 LLM 在摘要任务上的幻觉率数据
-- 了解 RAG/Agent 场景下模型作为摘要器的事实一致性表现
-- 追踪各版本排行榜随模型更新的变化
+- 在 RAG/Agent 流水线选型摘要模型时查看各模型的幻觉率表现
+- 跟踪不同 LLM 版本更新后摘要事实一致性的变化
+- 研究摘要事实一致性评估方法时参考相关论文与方法论
 
 ## 场景标签
 
@@ -36,9 +37,9 @@ Vectara 维护的公开 LLM 排行榜，使用其 HHEM-2.3 幻觉评测模型计
 
 ## 证据(README 行号)
 
+> L1: # Hallucination Leaderboard
 > L3: Public LLM leaderboard computed using Vectara's Hallucination Evaluation Model, also known as HHEM. This evaluates h
-> L132: This leaderboard uses HHEM-2.3, Vectara's commercial hallucination evaluation model, to compute the LLM rankings. 
-> L135: The dataset used for this leaderboard is carefully curated as follows:
+> L165: To build this leaderboard, fed the full set of documents in the dataset to each of the LLMs and asked them to summ
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `76f015346e69` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `46d895061235` · [字段定义](../../DATASET.md)*

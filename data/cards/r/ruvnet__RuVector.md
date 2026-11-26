@@ -2,9 +2,9 @@
 
 ⭐ 4,718 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ruvnet/RuVector) · [官网](https://ruv.io) · 个人维护
 
-**为 AI Agent 提供持久记忆与本地向量检索的 Rust 数据库**
+**给 AI agent 提供持久记忆、向量检索与本地决策的 Rust 向量数据库**
 
-Rust 实现的向量数据库与 Agent 记忆基座：提供本地语义嵌入、持久向量检索、图关系、基于显式反馈的学习与记忆生命周期控制。分发形态覆盖 npm 包（含 CLI 与 MCP 服务器）、Python 包（文档给出源码编译安装路径）与 crates.io 的 Rust crate，另有 WASM 浏览器组件与 typesafe 类型化决策引擎等独立子包。默认检索路径本地运行，首个语义命令会下载 all-MiniLM-L6-v2 嵌入模型；作者另提供商业企业层 Cognitum One。
+以 Rust 为核心的向量检索与 agent 记忆底座：提供本地语义嵌入、持久化向量存储、图关系记忆、基于显式反馈的学习与记忆生命周期控制。按 System 0/1/2 分层组织组件，分发渠道覆盖 npm（含 CLI 与 MCP server）、PyPI 源码安装与 crates.io 的 Rust crate；另含 typesafe 本地分类决策引擎、浏览器 WASM 版本与交互式 Explorer。默认检索路径本地运行，托管服务可选。
 
 ## 筛选速览
 
@@ -20,17 +20,18 @@ Rust 实现的向量数据库与 Agent 记忆基座：提供本地语义嵌入�
 
 ## 能力要点
 
-- npm/PyPI/crates.io/WASM 多形态分发，MCP 服务器随 npm 包内置
-- 本地语义嵌入与持久向量存储，跨进程重开存储路径可恢复数据
-- @ruvector/typesafe 基于本地嵌入与决策头输出带置信度与弃权的类型化决策
-- 支持显式反馈学习与记忆生命周期控制
+- 跨进程持久的 agent 记忆（npm CLI / Node.js / Rust / Python 多接口）
+- 内置 MCP server，可接入 Claude Code 等 MCP 客户端并区分读写权限 profile
+- 本地嵌入（all-MiniLM-L6-v2）语义检索，首个语义命令下载模型
+- @ruvector/typesafe 本地 typed 决策（choice/score/abstain），附基准数据与免责说明
+- 浏览器 WASM 向量搜索与知识图谱组件（graph-node、kge）
 
 ## 适用场景
 
-- 为跨会话的 Agent 保存并检索项目记忆
-- 给 MCP 客户端（如 Claude Code）接入记忆工具
-- 工单路由、意图分类等本地类型化决策任务
-- 浏览器端向量检索与知识图谱检索实验
+- 为跨会话运行的 agent 保存并检索项目上下文
+- 通过 MCP 让 Claude Code 读写项目记忆
+- 工单路由、意图分类等无需调用大模型的本地决策
+- 在浏览器内嵌入向量插入与查询
 
 ## 场景标签
 
@@ -39,8 +40,8 @@ Rust 实现的向量数据库与 Agent 记忆基座：提供本地语义嵌入�
 ## 证据(README 行号)
 
 > L5: RuVector is a Rust native substrate for fast local decisions and agent memory across sessions. It combines local sem
-> L29: |**System 2: Reason & Orchestrate**|Reconstruct multi step context, coordinate work, and govern execution|RuvLLM, R
-> L61: The MCP server is included in the `ruvector` npm package.
+> L42: |MCP via npm `ruvector`|Give an MCP client access to RuVector tools|Node.js, npm, and an MCP compatible client|
+> L74: Configure your MCP client to launch `npx` with arguments `ruvector mcp start`, environment `RUVECTOR_MCP_PROFILE=re
 
 ## 星数曲线
 
@@ -56,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `dfae15258ccc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9b466c2eda64` · [字段定义](../../DATASET.md)*

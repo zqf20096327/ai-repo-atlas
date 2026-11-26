@@ -2,9 +2,9 @@
 
 ⭐ 5,566 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/KnockOutEZ/wigolo) · [官网](https://wigolo.app) · 个人维护
 
-**为 AI agent 提供本地网页搜索抓取的 MCP 服务器**
+**给 AI coding agent 的本地优先网页工具层：搜索/抓取/爬取/研究**
 
-wigolo 以 MCP 服务器、REST API 与 TypeScript/Python SDK 形式，为 AI agent 提供统一的网页工具面：多引擎搜索（18 个直连适配器、排序融合与设备端重排）、分级别路由的 fetch（反爬时升级到无头浏览器）、crawl、结构化 extract、本地 cache、find_similar，以及 research 与 agent 两个合成类工具。搜索/抓取/抓取/抽取/缓存/相似查找完全无需 API key，数据留存于 ~/.wigolo/；research/agent 类工具可选接入 LLM key（含 ollama 本地路径）。需 Node ≥ 20，约 1.5 GB 磁盘，npx wigolo init 一键安装并可自动接线各编码 agent。
+wigolo 以 MCP 服务器、REST API（OpenAPI 3.1 契约）及 TypeScript/Python SDK 形式，为 AI agent 提供十项网页工具：多引擎搜索（18 个直连适配器+排序融合+本地重排）、分层路由的 fetch、爬取、结构化抽取、本地缓存、find_similar、研究与自主收集循环。核心工具无需 API key，数据留在 ~/.wigolo/。synthesis 类功能需配置 LLM provider（可接 ollama 保持全本地）。要求 Node ≥ 20、约 1.5GB 磁盘，支持 macOS/Linux/Windows，提供 Docker、Homebrew 与单文件二进制安装渠道。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ wigolo 以 MCP 服务器、REST API 与 TypeScript/Python SDK 形式，为 AI ag
 
 ## 能力要点
 
-- 十类工具经 MCP、REST（含 OpenAPI 契约）、CLI 交互 shell 与 SDK 多表面暴露
-- 搜索/抓取/抽取/缓存/相似查找完全免 key，重排与嵌入在设备端运行
-- init 命令可一次接线 claude-code、cursor、windsurf 等 9 种编码 agent 的 MCP 配置
-- 结果带逐字节定位摘录、引用 ID 与可解释评分，弱结果自标记为 junk
+- 十项工具覆盖 search/fetch/crawl/extract/cache/find_similar/research/agent/diff/watch
+- 核心工具完全免 API key，重排器与嵌入模型在本地运行
+- 结果携带字节偏移固定的逐字摘录、引用 ID 与可解释分数分解
+- 同时暴露 MCP、REST、CLI、交互 shell 与 SDK 多种调用面
 
 ## 适用场景
 
-- 给编码 agent（Claude Code/Cursor 等）接入本地网页搜索与抓取
-- 自托管 agent 通过 REST 或 SDK 调用网页工具
-- 对指定站点做去样板的多页爬取与结构化数据抽取
-- 无云依赖环境下让 agent 生成带引用的研究报告
+- 让 Claude Code/Cursor 等 coding agent 通过 MCP 检索实时网页资料
+- 自托管 agent 通过本地 REST API 做网页抓取与研究
+- 为 LangChain 等 RAG 流水线提供网页检索与相似页工具
+- 监控页面变化并通过 webhook 推送变更
 
 ## 场景标签
 
-`网页抓取` `语义搜索` · 领域:效率与自动化
+`网页抓取` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L32: wigolo gives an AI agent one surface for everything web-related: **search, fetch, crawl, extract, cache, find-simil
-> L45: - **Supported agents** — `--agents` takes any of `claude-code` · `cursor` · `codex` · `gemini-cli` · `opencode` · `
-> L46: - **Any other setup** — any MCP client, agent framework, or self-hosted agent registers `npx -y wigolo` in its own 
+> L103: - **Built for agents.** One MCP call fans out many queries across many engines in parallel, which a serial host to
+> L142: The same ten tools serve every kind of agent, over whichever surface fits: MCP for coding agents, REST for everyth
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `54d654eeff16` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `fd63790ce2b7` · [字段定义](../../DATASET.md)*

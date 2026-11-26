@@ -2,9 +2,9 @@
 
 ⭐ 586 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/biaogebusy/web-builder) · [官网](https://builder.design) · 个人维护 · 中文 README
 
-**基于 Angular+TailwindCSS 的拖拽式低代码建站平台**
+**AI 对话生成 UI 的低代码建站与内容发布平台**
 
-开源低代码 Web 构建平台，以 Angular 20 + TailwindCSS 为前端、Drupal 作 Headless 后端（JSON:API + OAuth2），通过拖拽可视化构建响应式页面，支持动态自定义组件、多主题、暗黑模式、多语言、媒体库与页面历史版本，配套基于 Taro+NutUI 的小程序端。AI 部分包括 Builder Pro 的 AI 大模型生成 UI/页面、DeepSeek 生成自定义组件，以及面向 Claude Code 的 Web Builder Skills 技能包（UI 构建、JSON 翻译、配图提示词）。以 npm 源码方式本地运行，需 Node 22+ 环境。
+基于 Angular 20 与 TailwindCss 的低代码平台，将可视化拖拽 Builder、Drupal 内容管理与页面发布连接为一体。支持拖拽和代码两种模式构建页面与自定义组件，也可通过 AI 对话生成页面、组件与图片，经预览、审批和版本管理后发布到网站或小程序。提供 Claude Code 技能包覆盖 UI 构建、多语言翻译与配图提示词生成，另附配套 Taro 小程序与 Docker 部署方式。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 拖拽可视化构建基于 TailwindCSS 的动态组件页面
-- Drupal Headless 后端（JSON:API、views、simple_oauth）
-- Builder Pro 基于 AI 大模型生成 UI、页面与工具应用
-- Web Builder Skills 提供 Claude Code 技能包（ui-builder/translate-json/web-image-prompt）
+- 拖拽与代码双模式构建响应式页面和自定义组件
+- AI 对话生成页面、组件与图片，DeepSeek 可生成自定义组件
+- 配合 Drupal JSON:API 与 OAuth2 认证管理内容与发布
+- 多主题、多语言、暗黑风格与历史版本管理
 
 ## 适用场景
 
-- 可视化搭建多语言、多主题的响应式网站
-- 通过 AI 一句话生成页面或自定义组件
-- 同一 builder 管理小程序页面与组件
-- 基于模板库与示例库快速产出着陆页
+- 拖拽搭建响应式官网和落地页并发布
+- 通过 AI 对话一句话生成整个页面
+- 管理小程序页面与组件数据
+- Drupal 站点的内容页面可视化生产
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L5:  AI 生成UI和工具应用的低代码平台，国内首款开源的基于 Drupal 作为 Headless 的低代码，基于 TailwindCss，通过拖拽可视化快速构建现代化响应式UI、动态自定义组件、多主题、多语言的网站应用。AI-pow
-> L33: |Layout builder|动态 layout，基于 TailwindCss 的动态组件，支持静态数据和 API 数据来源|
-> L60: > 基于AI大模型生成UI、页面和工具应用，欢迎体验。
+> L5:  信使 Web Builder 不只是响应式 UI 编辑器：它将 AI 驱动的可视化 Builder、Drupal 内容管理和页面发布连接在一起。
+> L6:  你可以通过拖拽和代码模式构建页面与自定义组件，也可以通过 AI 对话生成页面、组件和图片，使用项目设计规范统一体验，经过预览、审批和版本管理后发布到网站或小程序。
+> L122: - 前端：Angular 20 (standalone components、signals、zoneless change detection、incremental hydration) + Angular Material
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `58245d7fa9a3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7512197a63b6` · [字段定义](../../DATASET.md)*

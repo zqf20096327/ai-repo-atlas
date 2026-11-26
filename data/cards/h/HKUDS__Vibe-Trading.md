@@ -2,9 +2,9 @@
 
 ⭐ 38,924 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
 
-**个人交易 Agent：让 LLM 具备行情、回测与交易能力**
+**个人量化交易 Agent：回测、研报、期权分析与实盘授权限制**
 
-以 pip 包形式分发的交易 Agent 平台：提供 Agent/MCP 工具接入行情数据网关、回测引擎、期权分析（Options Lab）、研究工作区（Research Lab）与 Shadow Account 影子账户等模块，支持 Web、CLI、API 与桌面端，覆盖股票、ETF、期权、加密货币与 A 股/台湾等多市场回测，具备 walk-forward 样本外测试、研究版本对比导出、实盘交易需用户授权限额等机制。技术报告以 arXiv 发布。
+以 Python 包（pip install vibe-trading-ai）分发的个人交易 Agent，围绕 LLM 提供回测引擎（多市场日线/日内规则，含 A 股、台股、加密货币资金费率等）、Research Lab 研究回放与 walk-forward 验证导出、Options Lab 期权策略比较、Risk X-Ray 风险归因、Shadow Account 模拟账户，以及统一的市场数据网关与 LLM 网关；通过 Web、CLI、API/MCP 交付，技术报告描述其对结果溯源与实盘用户授权限制的机制。安装以 PyPI 为主，另有源码与 Docker 途径。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- 提供 Agent/MCP 工具：回测、期权策略对比、paper_trade_reconcile 台账核对
-- Research Lab 支持训练/样本外/holdout 划分与冻结回放
-- 统一行情数据网关：多源 fallback、缓存与源/币种/复权元数据保留
-- Web、CLI、API、桌面端共享工作流，11 种 UI 语言
+- 回测引擎覆盖多市场与价格限制、负价格、资金费率等规则校验
+- Research Lab 支持 walk-forward 验证导出 CSV 与冻结回放
+- 统一市场数据网关：多源回退、缓存、来源/币种/复权元数据
+- Agent/MCP 工具：paper_trade_reconcile 台账对账、期权策略比较
 
 ## 适用场景
 
-- 让 AI Agent 通过 MCP 工具查询行情并运行策略回测
-- 对历史价格做不同费用/滑点下的样本外策略验证
-- 用影子账户做 A 股 5 分钟模拟盘纸面交易并核对费用与净值
-- 比较多个期权策略的收益结构与成本
+- 对股票、ETF、期权策略做回测与 walk-forward 验证
+- 让交易 Agent 生成并留痕研究结论，导出修订对比
+- 通过 MCP 接入市场数据与回测工具
+- 用 Shadow Account 做模拟盘跟踪与费用对账
 
 ## 场景标签
 
@@ -45,9 +45,9 @@
 
 ## 证据(README 行号)
 
-> L5:  Vibe-Trading: Your Personal Trading Agent
-> L43:  API / MCP &nbsp;&middot;&nbsp;
+> L7:  One Command to Empower Your Agent with Comprehensive Trading Capabilities
 > L47:  pip install vibe-trading-ai
+> L95: - **2026-11-11** 🧾 **Paper-trade partial fills and ledger reconciliation** — Opt into per-order volume caps, partia
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 low · 依据 README sha `57ffe58dee86` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `3b8fa6c301fd` · [字段定义](../../DATASET.md)*

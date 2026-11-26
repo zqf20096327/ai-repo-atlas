@@ -2,9 +2,9 @@
 
 ⭐ 5,334 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/CCOSTAN/Home-AssistantConfig) · [官网](https://www.vCloudInfo.com) · 个人维护
 
-**个人智能家居 Home Assistant 配置与文档分享**
+**个人智能家居 Home Assistant 配置示例集，供浏览借鉴**
 
-作者公开的实时 Home Assistant 配置仓库，定位为浏览与灵感参考，明确声明非开箱即用的部署模板；复用需自行调整实体 ID、密钥与服务。内容包括自动化、脚本、场景的 YAML 示例，配套博客、YouTube 视频与硬件清单（含联盟链接）。GitHub Actions 验证公开 YAML 与仪表盘，Issues 兼作变更日志与设计记录。运行平台为 Docker/compose，当前 HA 版本记录在 config/.HA_VERSION。
+作者公开其住宅的 Home Assistant 实时配置，用于浏览与灵感参考，明示非一键部署方案；内容包括自动化、脚本、场景的 YAML 示例（夜间灯光、漏水响应、车库、特斯拉胎压告警、空气质量语音播报等），配套博客、YouTube 视频、硬件清单与 Affiliate 链接。配置以 Docker/compose 运行，GitHub Actions 校验公开 YAML；复用需自行替换实体 ID、密钥与本地端点。Issues 兼作变更日志与设计历史。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 实时个人配置共享，YAML 示例由 GitHub Actions 验证
-- 自动化案例覆盖温控、安防、漏水响应、窗帘车库、能耗与洒水等场景
-- 配套博客、视频与带购买说明的硬件清单
-- Issues 兼作变更日志与设计历史
+- 覆盖照明、安防、车库、漏水、HVAC、太阳能、扫地机等真实自动化示例
+- 配套博客文章与 YouTube 视频讲解各自动化实现
+- 附带硬件清单（关联 Amazon Affiliate 链接）与购买说明
+- GitHub Actions 持续校验公开的 YAML 示例与仪表盘
 
 ## 适用场景
 
-- 查找 Home Assistant 自动化的真实配置范例
-- 借鉴智能家居仪表盘与脚本的组织方式
-- 在搭建自己智能家居前参考硬件选型与联动方案
+- 参考真实家庭自动化的写法来搭建自己的 Home Assistant 配置
+- 借鉴漏水自动断水、车库门提醒等具体场景的实现思路
+- 挑选智能家居硬件前查看其与自动化的搭配实例
 
 ## 场景标签
 
- · 领域:智能家居/自动化配置
+`工作流自动化` `教程课程` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L14: Live, personal Home Assistant configuration shared for **browsing and inspiration**. This is not a turnkey clone-an
-> L30: - A live record of how my smart home runs, with real-world automations, scripts, and scenes.
+> L32: - A live record of how my smart home runs, with real-world automations, scripts, and scenes.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `b401ef70f538` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `965baba82b43` · [字段定义](../../DATASET.md)*

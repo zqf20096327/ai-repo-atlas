@@ -2,9 +2,9 @@
 
 ⭐ 927 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/LvcidPsyche/auto-browser) · [官网](https://github.com/LvcidPsyche/auto-browser) · 个人维护
 
-**给 MCP 客户端与 LLM Agent 提供带人工接管的真实浏览器控制层**
+**给 MCP 客户端和 LLM agent 提供可人工接管的共享浏览器**
 
-MCP 原生的浏览器控制平面：向 MCP 客户端、LLM Agent 与运维人员共享一个 Playwright 浏览器，提供人工接管（noVNC）、可复用登录态（auth profiles）、审批门、审计事件、PII 清洗与 Ed25519 签名的 Witness 证据链。通过 HTTP MCP 端点、stdio 桥或 REST API 暴露 7/20/全量可配置的工具档位，Docker Compose 本地部署，并内置 Stage 0 技能归纳收敛 harness。明确声明不做 CAPTCHA 破解与未授权抓取。
+MCP 原生的浏览器控制平面：通过 HTTP 或 stdio 向 MCP 客户端、LLM agent 与运维人员提供共享的 Playwright 浏览器会话，附带人工接管（noVNC）、可复用登录凭证档案、审批门、审计事件、PII 清洗与 Ed25519 签名的 Witness 凭证链。默认本地优先，用 Docker Compose 一键起全栈；MCP 工具按 curated/lean/full 档位分级暴露（默认 20 个工具），并内置 Stage 0 收敛 harness 用于技能归纳。明确不做验证码破解与未授权抓取。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ MCP 原生的浏览器控制平面：向 MCP 客户端、LLM Agent 与运维人�
 
 ## 能力要点
 
-- MCP over HTTP、stdio 桥（uvx auto-browser-mcp）与 REST 三种接入方式
-- noVNC 人工接管与登录一次、复用会话的 auth profiles
-- 审批门、操作员身份、PII 清洗与 Ed25519 签名 Witness 收据链
-- MCP_TOOL_PROFILE 可配置 7 工具精简档 / 20 工具精选档 / 全量档
+- MCP over HTTP + stdio 桥接（uvx auto-browser-mcp），兼容任意 MCP 客户端与 REST 直调
+- noVNC 人工接管、审批门、操作者身份头与审计事件等安全机制
+- 命名 auth profile：登录一次，新会话免重复认证
+- Ed25519 签名的 Witness 凭证链，导出包可用独立脚本验证
 
 ## 适用场景
 
-- 让 Claude Code / Cursor 等 MCP 客户端操作真实浏览器完成网页任务
-- 需要人工介入恢复的脆弱网站流程与运维辅助 QA
-- 登录一次后在后续自动化会话中复用账号状态
-- 内部后台与管理系统中的 Agent 浏览器工作流
+- 让 Claude Code / Codex 等 MCP 客户端操作真实浏览器执行任务
+- 内部后台与运维工具的 operator 辅助 QA 与浏览器调试
+- 登录一次后在新会话中复用已认证状态
+- 脆弱站点流程中由人随时接管恢复
 
 ## 场景标签
 
@@ -40,7 +40,7 @@ MCP 原生的浏览器控制平面：向 MCP 客户端、LLM Agent 与运维人�
 
 > L20: Auto Browser is an MCP-native browser control plane for authorized workflows. It gives MCP clients, LLM agents, and
 > L32: - **MCP-native from day one.** The browser surface is already packaged as an MCP server instead of bolted on after 
-> L35: - **Local-first by default.** Run the full stack on your own box with Docker Compose, or use Codespaces for a quick
+> L47: - MCP-powered agent workflows that need a real browser, not just HTML fetches
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9b8361f96878` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `65650492dd68` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 1,011 · C · MIT · 推送 2026-11-25 · [GitHub](https://github.com/OleksandrChekhovskyi/hax) · [官网](https://usehax.dev) · 个人维护
 
-**给终端开发者的极简 C 语言编码 agent CLI**
+**给终端开发者的极简 C 语言编码 Agent CLI**
 
-用 C 编写的终端原生编码 agent，单个二进制、依赖少、内存占用仅数 MB。支持流式 Markdown 输出、工具调用可视化、会话恢复（-c/--resume）、一次性模式（-p）与 stdin 管道输入；通过 /provider 选择模型与提供商，默认无需配置即可自动发现本地 llama.cpp 模型。可扩展 hax-web（网页抓取）与 hax-mcp（MCP 工具）两个 Python 伴生 CLI。刻意不提供插件运行时、IDE 面板与逐命令权限提示。
+用 C 编写的终端编码 Agent，单个原生二进制，占用数 MB 内存。提供流式 Markdown 输出、工具调用展示、可检查的对话记录视图（Ctrl+T）与 wire protocol 追踪；支持 REPL、单次 `-p` 模式、stdin 输入，并可通过 Python CLI 伴随工具扩展 web 搜索与 MCP 工具。明确不做插件运行时、IDE 面板与逐命令权限确认，面向在终端中运行本地模型、需审计工具行为或打包发行版的开发者。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 单一 C 二进制，即时启动、内存占用数 MB
-- 本地模型一等公民：自动发现 llama-server 运行的模型
-- 支持 OpenAI/Anthropic 兼容端点、OpenRouter、DeepSeek、Ollama 等多提供商
-- 交互转录视图（Ctrl+T）可查看发送与回复内容
+- 单一 C 二进制，依赖少，秒级启动
+- llama.cpp/Ollama 本地模型自动发现，无需 provider 配置
+- OpenAI/Anthropic/OpenRouter/DeepSeek 等多 provider 接入
+- transcript 视图与 wire protocol 追踪可审计模型交互
 
 ## 适用场景
 
-- 在终端里用本地模型做代码问答与改动
-- 资源受限环境中运行编码 agent
-- 对发行版打包一个静态链接的编码 agent 工具
+- 在终端里用本地模型执行编码任务
+- 在资源受限环境运行编码 Agent
+- 审计发送给模型的内容与回复
+- 为发行版打包一个静态二进制的编码工具
 
 ## 场景标签
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `be13c7fb111a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `cc4f7f314005` · [字段定义](../../DATASET.md)*

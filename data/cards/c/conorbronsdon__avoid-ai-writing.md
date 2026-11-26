@@ -2,9 +2,9 @@
 
 ⭐ 6,311 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/conorbronsdon/avoid-ai-writing) · [官网](https://chainofthought.show/go/avoid-ai-writing/) · 个人维护
 
-**给 AI agent 用的写作技能：检测并改写去除 AI 痕迹**
+**供 AI agent 使用的审计并改写去 AI 腔写作技能**
 
-以 SKILL.md 目录形式分发的写作技能，可在 Claude Code、Codex、OpenClaw、Hermes 等 agentskills.io 兼容 agent 中运行。提供 Rewrite/Detect/Edit 三种模式：默认模式对文本做最多两轮编辑并返回单一最终版本；Detect 仅标记 AI 写作模式；Edit 就地最小化修改散文文件并拒绝结构化内容。内置 13 类检测引擎、112 词替换表（3 层级）与 74 个模式类别的规则目录，附带 voice profile 与迭代上限参数。规则针对英文校准，其他语言依赖社区适配版。
+以 agentskills.io SKILL.md 格式分发的写作技能：审计并改写文本以移除 AI 写作模式。提供 Rewrite（默认，最多两轮编辑并返回单一终稿）、Detect（仅标记不改写）、Edit（原地编辑散文文件）三种模式，附词替换表（112 词条 3 层级）、74 类模式目录与可选的确定性检测器脚本及语音风格档案。规则针对英文校准；以目录克隆或单文件形式安装到 Claude Code、Cowork、Google Antigravity、OpenClaw、Cursor、Hermes、Codex 等目录式 agent。Cursor 移植版不带脚本，审计仅靠模型完成。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- Rewrite/Detect/Edit 三模式与 --iterate 编辑轮次上限
-- 112 词条替换表（3 层级）与 74 个模式类别的确定性检测引擎
-- voice profile 五种语气设定，独立于受众上下文
-- 以插件/技能形式适配多个 agent 平台
+- 三种模式：改写、仅检测、原地编辑（拒绝源代码等结构化内容）
+- 112 词条 3 层级替换表与 74 类 AI 写作模式目录（CI 强制计数）
+- 自带检测器脚本对 13 类模式打分，支持 --iterate 控制编辑轮数
+- 多平台安装路径：Claude Code/Cowork/Antigravity/OpenClaw/Cursor/Hermes/Codex
 
 ## 适用场景
 
-- 发布前扫描博客或文档中的 AI 写作痕迹
-- 让 agent 就地改写稿件并保留已有的人类段落
-- 审阅不希望被改动的内容时只做检测
+- 让编码 agent 把 AI 生成的草稿改得更像人写
+- 发布前扫描文档中的 AI 写作痕迹而不改动原文
+- 按 casual/professional 等语音档案统一文风
 
 ## 场景标签
 
-`AI 写作` `提示工程` · 领域:Agent 开发
+`提示工程` `编码 Agent` `AI 写作` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: Audit & rewrite content to remove AI writing patterns. A practical skill for any AI agent. Supports detect-only and 
 > L14: A portable writing skill for Claude Code, Codex, OpenClaw, Hermes, and any other agentskills.io-compatible agent. A
+> L20: - **Detect** — flags AI patterns without rewriting. Shows which flags are real problems vs. judgment calls. Useful 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `945886804e5c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `58796fb51952` · [字段定义](../../DATASET.md)*

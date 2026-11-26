@@ -2,9 +2,9 @@
 
 ⭐ 445 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/magicapple123/ResumeForge) · [官网](https://magicapple123.github.io/ResumeForge-official/) · 个人维护 · 中文 README
 
-**本地优先的 AI 简历工作台：求职全流程管理+防编造**
+**本地优先的 AI 简历工作台：防编造、多格式导出与求职追踪**
 
-本地运行的求职材料工作台，覆盖从职位解析、匹配分析、简历生成、多格式导出到投递跟踪、模拟面试与复盘的完整流程。核心机制是将事实与措辞分离：Profile 库与 Fact ledger 中只有「confirmed」条目参与生成，生成结果逐条比对以触发防编造警告，含未填标记时阻断导出。无账号体系，数据留在本机，Windows/macOS 提供安装包与便携版。
+一个本地优先的求职材料工作台，覆盖从 JD 解析、匹配分析、简历生成排版到投递追踪、模拟面试与复盘的流程。关键机制是将事实与措辞分离维护：Fact Ledger 记录每条事实的措辞与边界，生成内容逐条与 Profile 库比对并给出防编造警告，含【待补】标记时阻止导出。无账号、数据留在本机；桌面构建版提供 Windows 安装包与 macOS dmg，演示版为只读回放。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- Fact ledger 事实账本：仅 confirmed 条目参与生成，阻断编造内容导出
-- JD 解析、逐行匹配分析（5 种判定类型）与批量/多职位对比分析
-- 扫描件 OCR 识别支持 DeepSeek/纯 OCR/纯视觉三种引擎可选
-- A4 精确预览、分页报告与布局诊断，本地渲染导出 PDF
+- Fact Ledger 事实台账：仅“已确认”条目参与生成，未确认内容被规避
+- 生成内容与 Profile 库逐条比对，不一致触发防编造警告，含【待补】标记时阻止导出
+- JD 解析、逐行匹配分析（5 类判定不带百分比）、批量与后台分析
+- 无文字层扫描件的 OCR 识别可选 Auto/仅 OCR/仅视觉三种引擎，文本 PDF 走本地 pypdf
 
 ## 适用场景
 
-- 集中管理多个职位的投递进度与版本对应关系
-- 针对职位描述生成简历并防止模型编造经历
-- 面试前用模拟面试与 JD 分析做准备
-- 无账号、离线环境下管理求职材料
+- 从职位描述到面试复盘全程在本地管理求职材料
+- 生成简历时阻止模型写出从未发生的内容
+- 投多家公司时追踪每版简历去向与申请进度
+- 离线处理含扫描件的证书与简历材料
 
 ## 场景标签
 
-`OCR` `AI 写作` · 领域:内容生成
+`AI 写作` `文档解析` `OCR` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L14: **A local-first AI resume workbench: no account, no sign-in, and all data stays on your machine.**
 > L56: A second problem matters more: **generative models polish wording and also fabricate.** The greatest risk in a resu
+> L82: |🧾 Fact ledger|Every claim records the fact, the wording, how strongly you own it and its boundary; **only “confirm
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `672968d3fd53` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `965072d19f05` · [字段定义](../../DATASET.md)*

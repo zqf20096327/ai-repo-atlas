@@ -2,9 +2,9 @@
 
 ⭐ 490 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lucidrains/rectified-flow-pytorch) · 个人维护
 
-**研究者的 Rectified Flow 及后续方法 PyTorch 实现库**
+**给深度学习研究者的 rectified flow PyTorch 实现**
 
-以 PyTorch 库形式实现 Rectified Flow 及多项后续研究改进，包含 LSD flow、SoFlow、Split Mean Flow、Unconstrained Alignment Flow、Laplacian 多尺度 flow matching 等贡献者列名的实现。提供 RectifiedFlow、Reflow、Trainer 等类，Trainer 基于 accelerate；含 reflow 训练流程与基于 oxford flowers 数据集的示例训练脚本。通过 pip 安装，示例依赖需 pip install .[examples]。面向深度学习研究者与工程师，用于生成模型的训练与实验。
+在 PyTorch 中实现 rectified flow 及其多项后续研究改进的库，提供 RectifiedFlow、Reflow、Trainer 等类，Trainer 基于 accelerate 构建，附 oxford flowers 训练示例（pip install .[examples] 后运行 train_oxford.py）。README 以用法代码示例为主，其余篇幅为约 30 篇相关论文的 BibTeX 引用列表，覆盖 flow matching、一致性模型、流策略优化等方向。面向研究复现与实验用途。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 实现 Rectified Flow 及多项后续改进（SoFlow、Mean Flow、Consistency Flow Matching 等）
-- 提供基于 accelerate 的 Trainer 与 Reflow 训练流程
-- pip 安装，附带 oxford flowers 快速上手示例脚本
+- RectifiedFlow / Reflow / Trainer（基于 accelerate）等 PyTorch 组件
+- 附 oxford flowers 训练示例脚本 train_oxford.py
+- 收录约 30 篇后续研究的 BibTeX 引用（LSD flow、SoFlow、Mean Flow、UA Flow 等）
 
 ## 适用场景
 
-- 训练基于 rectified flow 的图像生成模型
-- 复现 flow matching 相关论文方法做研究实验
-- 用 reflow 流程加速已有生成模型采样
+- 在 PyTorch 中训练 rectified flow 生成模型
+- 对论文做 reflow 实验
+- 基于 flow matching 后续方法做生成建模研究
 
 ## 场景标签
 
-`图像生成` `模型训练` · 领域:内容生成
+`模型训练` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L5: Implementation of rectified flow and some of its followup research / improvements in Pytorch
-> L24: $ pip install rectified-flow-pytorch
-> L45: With a `Trainer` based on `accelerate`
+> L30: import torch
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7413b92d4340` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `61591fae2d37` · [字段定义](../../DATASET.md)*

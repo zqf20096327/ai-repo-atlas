@@ -2,9 +2,9 @@
 
 ⭐ 17,438 · Python · BSD-2-Clause · 推送 2026-11-25 · [GitHub](https://github.com/pipecat-ai/pipecat) · [官网](https://pipecat.ai) · 组织维护
 
-**构建实时语音与多模态 AI 代理的 Python 框架**
+**给开发者的实时语音与多模态 AI Agent 构建框架**
 
-开源 Python 框架，用于构建实时语音与多模态对话代理，支持单代理或多代理系统（handoff、并行 fan-out、共享总线、跨进程分布式部署），编排音频视频、AI 服务、传输层与对话管道。提供 JavaScript/React/Swift/Kotlin/C++/ESP32 客户端 SDK、内建 Pipecat Flows 结构化对话、CLI 脚手架与部署工具，支持 WebSocket/WebRTC 传输。由 Daily 与社区维护。
+开源 Python 框架，用于构建实时语音和多模态对话 Agent，可组成单 Agent 或多 Agent 系统（handoff、并行 fan-out、共享总线、跨进程/机器分布式部署）。框架编排音频/视频、AI 服务、传输层（WebRTC/WebSocket）与对话管线。提供多平台客户端 SDK（JS/React/Swift/Kotlin/C++/ESP32）、内置 Pipecat Flows 结构化对话、CLI 脚手架与部署工具、Pipecat Cloud 部署。支持 Python 3.11–3.14；部分 extras（local、gstreamer）需要系统依赖。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | BSD-2-Clause |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,27 +27,26 @@
 
 ## 能力要点
 
-- 语音优先：集成语音识别、文本转语音与对话处理
-- 多代理就绪：每条管道即一个代理，支持 handoff/并行/分布式
-- 可插拔：接入大量语音、LLM、视觉等第三方服务
-- 官方多平台客户端 SDK（JS/React/Swift/Kotlin/C++/ESP32）
+- 多 Agent 编排：handoff、并行 fan-out、sidecar 与分布式部署
+- 集成 30+ 家语音识别/LLM/语音合成/语音到语音服务
+- 多平台客户端 SDK：JavaScript、React、Swift、Kotlin、C++、ESP32
+- CLI 脚手架一键生成可运行 bot 并部署到 Pipecat Cloud
 
 ## 适用场景
 
-- 构建支持电话呼入呼出的语音代理
-- 搭建多代理协作的实时对话系统
-- 开发语音+视频+图像的多模态交互应用
-- 构建客服、陪聊、会议助手类业务代理
+- 构建电话客服与外呼语音 Agent（Twilio、Plivo 等）
+- 开发语音助手与 AI 陪伴类实时对话应用
+- 搭建多 Agent 协作的复杂对话系统
+- 用 Pipecat Flows 以 YAML 定义分步业务流程
 
 ## 场景标签
 
-`语音 Agent` `多模态` `Agent 框架` · 领域:Agent 开发
+`语音 Agent` `Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: **Pipecat** is an open-source Python framework for building real-time voice and multimodal conversational agents. Bu
-> L24: - **Pluggable**: Supports many AI services and tools
-> L26: - **Multi-Agent Ready**: Each pipeline is an agent. Compose them with handoff, parallel fan-out, sidecar workers, o
+> L87: ## 🧩 Available services
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1467ea6f5fbe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `b972cfab823d` · [字段定义](../../DATASET.md)*

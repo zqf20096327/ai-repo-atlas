@@ -2,9 +2,9 @@
 
 ⭐ 6,167 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/clusterzx/paperless-ai) · [官网](https://clusterzx.github.io/paperless-ai/) · 个人维护
 
-**为 Paperless-ngx 文档自动打标归档并支持全库问答的 AI 工具**
+**为 Paperless-ngx 或独立文档库自动打标签并支持归档问答**
 
-分析文档并自动填写标题、标签、往来方、文档类型、日期与自定义字段，支持自然语言对整个档案库提问并给出带来源引用的回答。可作为 Paperless-ngx 2.x/3.x 的扩展，也可用内置档案库独立运行（上传、文件夹监视、邮件、WebDAV 等）。OCR 使用 PaddleOCR 在本地读取扫描件（CPU 或 NVIDIA GPU），提供 MCP 服务器供 Claude 等 agent 检索与修改文档。通过 Docker 部署，设置向导配置 AI 提供商；README 提示需置于内网或反向代理之后。
+对文档自动填写标题、标签、往来方、文档类型、日期与自定义字段，并支持用自然语言对整个文档库提问、回答附引用来源。可作为 Paperless-ngx（2.x/3.x）扩展运行，也可用内置文档库独立运行。支持本地 PaddleOCR（CPU 或 NVIDIA GPU）读取质量差的扫描件，提供 MCP 服务器供外部 agent 调用。部署方式为 docker compose，安装后通过设置向导配置账号、文档库、AI 提供商与处理选项；文档提醒不要将实例无防护地暴露到公网。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 定时或由 Paperless-ngx 工作流触发的新文档自动元数据处理
-- 混合关键词与向量检索的全库问答，回答附来源引用
+- 自动为文档生成标题、标签、往来方、类型、日期与自定义字段
+- 自然语言归档问答，混合关键词与向量检索，回答附引用来源
 - PaddleOCR 本地 OCR（CPU 或 NVIDIA GPU）读取扫描件与照片
-- MCP 服务器支持 Claude、Hermes、OpenCode 等 agent 操作文档
+- 提供 MCP 服务器，供 Claude/Hermes/OpenCode 等 agent 搜索与操作文档
 
 ## 适用场景
 
-- 自动为扫描文档补全标题、标签与分类元数据
-- 用自然语言查询家庭或企业档案（合同、账单等）
-- 完全本地化运行：Ollama + 本地 OCR 处理隐私文档
-- 让 MCP agent 检索与整理现有文档库
+- 自动整理 Paperless-ngx 中新进文档的元数据
+- 对家庭或团队文档库用自然语言提问并查看出处
+- 无 Paperless-ngx 时用内置库从邮件/WebDAV/文件夹收集文档
+- 为外部 AI agent 提供带权限控制的文档库访问接口
 
 ## 场景标签
 
-`工作流自动化` `OCR` `文档问答` `文档解析` · 领域:效率与自动化
+`OCR` `文档解析` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L8: **Paperless-AI** analyzes your documents and fills in title, tags, correspondent, document type, date and custom fie
 > L10: AI providers: OpenAI, Anthropic (Claude), **Ollama (fully local)**, Azure OpenAI and every OpenAI-compatible API (D
-> L19: - **Ask your archive** – questions in plain language, hybrid keyword and vector search, answers with sources
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `31b8a68f5730` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7c0a7db6940b` · [字段定义](../../DATASET.md)*

@@ -16,7 +16,7 @@
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 310,691 | +1,474 | 为 AI 编码 agent 提供 72 agents/328 skills 的工 |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 198,681 | +1,217 | 给 AI 编码代理注入最小化编码风格的技术栈提示词与技能包 |
 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 287,044 | +1,193 | DeepSeek 开源的 agent 运行时框架，一切皆插件 |
-| [yetone/magpie](https://github.com/yetone/magpie) | 41,464 | +1,002 | 本地网关应用：给各 AI Agent 统一切换模型与账号 |
+| [yetone/magpie](https://github.com/yetone/magpie) | 41,464 | +1,002 | 菜单栏本地网关：给各 AI 编码代理统一切换模型与账号 |
 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 90,116 | +994 | 开源 AI 视频编辑框架：描述或重制视频生成可逐帧编辑的项目 |
 | [obra/superpowers](https://github.com/obra/superpowers) | 326,550 | +926 | 为编码 Agent 安装的技能化软件开发方法论框架 |
 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 114,709 | +712 | 为 AI Agent 提供多平台网页搜索与读取的 CLI 工具 |
@@ -30,18 +30,18 @@
 
 ## 场景标签分布(Top 12)
 
-- `编码 Agent` ×3406
+- `编码 Agent` ×3398
 - `教程课程` ×3367
-- `多智能体` ×2798
-- `AI 助手` ×2749
-- `Agent 框架` ×2655
-- `模型评测` ×2462
-- `RAG` ×2213
-- `科研工具` ×2149
-- `聊天机器人` ×2091
-- `精选清单` ×2050
-- `Agent 记忆` ×1938
-- `提示工程` ×1733
+- `多智能体` ×2794
+- `AI 助手` ×2755
+- `Agent 框架` ×2651
+- `模型评测` ×2463
+- `RAG` ×2207
+- `科研工具` ×2152
+- `聊天机器人` ×2089
+- `精选清单` ×2049
+- `Agent 记忆` ×1935
+- `提示工程` ×1735
 
 ## 维护健康分布
 

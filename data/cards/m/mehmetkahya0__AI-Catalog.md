@@ -2,9 +2,9 @@
 
 ⭐ 504 · HTML · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/mehmetkahya0/AI-Catalog) · [官网](https://mehmetkahya0.github.io/AI-Catalog/) · 个人维护
 
-**面向各领域用户的 AI 工具与模型目录清单（500+ 条，40+ 类）**
+**500+ AI 工具与模型的分类策展清单**
 
-以 awesome-list 形式维护的 AI 工具目录，收录 500+ 个工具、平台与模型，按文本生成图像、AI 助手与聊天、大语言模型、内容写作等 40+ 个类别组织；每条附免费/付费/免费增值等标签，并提供可搜索、可筛选的在线浏览站点。作者自述通过浏览互联网收录条目，更新周期不定期，接受社区 PR 贡献。README 无安装与运行说明，仅作查阅清单。
+以 awesome-list 形式维护的 AI 资源目录，收录 500+ 工具与模型，按 40+ 类别组织（创意生成、助手与聊天、LLM、内容写作、开发工具、教育、商业、娱乐等），每条附免费/付费/免费增值等标记；另提供可搜索、可过滤的在线站点浏览。由维护者人工浏览互联网收录，接受 PR 贡献，定期更新。仓库本身不安装、不运行，仅作发现与检索用途。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录 500+ AI 工具、平台与模型资源
-- 按 40+ 个类别组织，含免费/付费/免费增值标签体系
-- 提供 GitHub Pages 在线站点，支持搜索与筛选
-- 接受社区 PR 贡献并通过 Discussions/Issues 维护
+- 500+ 条目覆盖 40+ 类别
+- 每条目带 Free/Paid/Freemium/New/Popular 标记图例
+- 配套 GitHub Pages 在线站点，支持搜索与过滤
+- 接受社区 PR 贡献，注明最后更新日期
 
 ## 适用场景
 
-- 按类别查找某领域的 AI 工具与模型
-- 查找开源本地运行或免费可用的 AI 服务
-- 为 AI 工具选型提供初步索引
+- 按类别浏览查找某类 AI 工具或模型
+- 为选型调研收集候选产品清单
+- 通过在线站点搜索过滤特定领域的 AI 资源
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L3: > **A comprehensive, curated collection of 500+ AI tools, platforms, and resources across 40+ categories**
 > L59: Welcome to the most comprehensive AI tools catalog! This repository contains **500+ carefully curated AI tools** ac
-> L62: - **Total Tools**: 500+
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `deebac126138` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3dd5ddbb14c7` · [字段定义](../../DATASET.md)*

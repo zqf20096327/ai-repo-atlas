@@ -2,9 +2,9 @@
 
 ⭐ 74,552 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [官网](https://dsa.zhulinsen.tech) · 个人维护 · 中文 README
 
-**面向自选股投资者的多市场 LLM 每日分析推送系统**
+**面向个人投资者的 LLM 多市场股票每日分析与推送系统**
 
-基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股分析系统：聚合行情、K 线、技术指标、新闻与公告数据，生成含结论、评分、买卖点位与风险警报的决策报告，并推送到企业微信/飞书/Telegram/Discord/Slack/邮箱。默认使用 AkShare、Baostock、YFinance 等免费行情源可零配置运行，可通过 GitHub Actions 在工作日定时执行而无需服务器；另提供 Web 工作台、Agent 策略问股，以及作为 Codex/Claude Code 插件的技能入口。README 声明仅供学习研究，不构成投资建议。
+基于大语言模型的 A股/港股/美股/日股/韩股/台股自选股分析系统：聚合多源行情（AkShare、Tushare、YFinance 等）与新闻搜索，生成含结论、评分、买卖点位与风险警报的决策报告，经企业微信/飞书/Telegram/Discord/Slack/邮件推送。支持 GitHub Actions 定时零成本运行、本地/Docker 部署、Web 工作台与 Agent 策略问股，并可作为 Codex/Claude Code 插件安装。README 声明仅供学习研究，不构成投资建议。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 多市场行情聚合，默认内置免费数据源可零配置运行
-- GitHub Actions 定时分析推送，无需服务器
+- 多市场行情、K 线、技术指标、新闻与基本面数据聚合
+- 每日自动生成 AI 决策报告并推送至 6 类通知渠道
+- GitHub Actions 定时部署，免费行情源零配置运行
 - Agent 策略问股支持 15 种内置策略与多轮追问
-- 提供 Codex / Claude Code 插件入口与只读 MCP 服务
 
 ## 适用场景
 
-- 每个交易日自动分析自选股并推送决策仪表盘到工作群
-- 在 Web 工作台用自然语言按缠论、均线等策略追问个股
-- 用免费行情源零成本搭建个人股票分析定时任务
+- 每个交易日自动分析自选股并收到决策推送
+- 通过 Web 工作台手动分析、回测和管理持仓
+- 在 Codex/Claude Code 中调用 stock_analyzer 技能问股
 
 ## 场景标签
 
@@ -45,7 +45,7 @@
 
 > L18: > 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱
 > L42: |AI 决策报告|核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单|
-> L55: |AI 模型|Modelflare、x6.ai、AIHubMix、Gemini、OpenAI 兼容、DeepSeek、通义千问、Claude、Ollama 本地模型等|
+> L55: |AI 模型|Modelflare、x6.ai、Gemini、OpenAI 兼容、DeepSeek、通义千问、Claude、Ollama 本地模型等|
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `205cfb7d612d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8701ed3bef4c` · [字段定义](../../DATASET.md)*

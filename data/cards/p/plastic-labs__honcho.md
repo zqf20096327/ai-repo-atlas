@@ -2,9 +2,9 @@
 
 ⭐ 8,279 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/plastic-labs/honcho) · [官网](https://honcho.dev/docs) · 组织维护
 
-**为有状态 agent 提供记忆基础设施的库与服务**
+**给有状态 Agent 提供记忆基础设施：存储消息并后台推理生成可查询表示**
 
-Honcho 提供消息/事件存储与后台推理，为跨时间的用户、agent、群组等实体（peer）构建可查询的表示，支持上下文检索、混合搜索（BM25+向量）、自然语言洞察与结论 API。提供托管服务、CLI 本地栈与 FastAPI 自托管三种运行方式，配 Python/TypeScript SDK，并为 Claude Code、Cursor、Codex 等编码 agent 提供插件与 MCP 接入。
+以 PyPI/npm SDK、CLI、托管 API 与自托管 FastAPI 服务形式提供的 Agent 记忆基础设施。工作流为四步循环：将对话/事件/文档存入 session，后台队列推理更新每个 peer 的表示，再通过 Chat Endpoint、representation 或混合搜索（BM25+向量）查询结果，注入到任意 LLM 调用。核心概念为 workspace/peer/session/scope/message，peer 涵盖人类与 AI Agent。提供 Python 与 TypeScript SDK，后台推理为异步，新消息需等待处理后反映到响应。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Honcho 提供消息/事件存储与后台推理，为跨时间的用户、agent�
 
 ## 能力要点
 
-- Store→Reason→Query→Inject 的记忆闭环，后台异步推理
-- peer 中心模型：支持多参与者会话与跨 peer 视角建模
-- 混合搜索（BM25 + 向量）与低延迟静态表示接口
-- CLI 一条命令为多个编码 agent 安装记忆插件
+- peer 中心模型：以 (observer, observed) 对组织集合与向量文档，支持跨 peer 建模与自我表示
+- Hybrid search（BM25+向量）与低延迟静态 representation 端点
+- 为 Claude Code、Cursor、Codex 等编码 Agent 提供第一方记忆插件，共用一份 ~/.honcho/config.json
+- 三种运行方式：托管 api.honcho.dev、本地 `honcho start`、自托管 FastAPI 服务器
 
 ## 适用场景
 
-- 给编码 agent 添加跨会话的持久记忆
-- 在产品中接入用户与 agent 的长期画像与上下文检索
-- 自托管或本地运行一套 agent 记忆服务
+- 给我的编码 Agent（Claude Code/Cursor 等）接持久记忆
+- 在我的产品中通过 Python/TypeScript SDK 加入用户级记忆
+- 本地用 Docker 跑一套记忆栈供开发调试
+- 多人与多 Agent 混合会话中维护各参与者的状态表示
 
 ## 场景标签
 
@@ -39,7 +40,7 @@ Honcho 提供消息/事件存储与后台推理，为跨时间的用户、agent�
 
 > L11: **Honcho is memory infrastructure for building stateful agents that understand changing people, agents, groups, pro
 > L13: Store messages and events, let Honcho reason in the background, then query peer representations, session context, s
-> L102: Honcho ships a first-party memory plugin for every major coding agent. They all read the same
+> L46: 4. **Inject** — drop the result into any LLM call or agent framework.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `87dbd11c7b1f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `84d465d09d19` · [字段定义](../../DATASET.md)*

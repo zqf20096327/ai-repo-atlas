@@ -2,9 +2,9 @@
 
 ⭐ 23,953 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/jundot/omlx) · [官网](https://omlx.ai) · 个人维护 · 中文 README
 
-**macOS 菜单栏管理的 Apple Silicon 本地 LLM 推理服务器**
+**macOS 菜单栏管理的本地 LLM 推理服务器（Apple Silicon）**
 
-面向 Apple Silicon Mac 的本地 LLM 推理服务器，支持文本 LLM、VLM、OCR、embedding 与 reranker 模型，核心机制包括连续批处理与热内存/冷 SSD 两级 KV 缓存（前缀共享、重启后可恢复）。提供 macOS 菜单栏应用、Homebrew 与源码三种安装方式，内置 Web 管理面板负责监控、多模型加载（LRU 驱逐/固定/TTL）与模型下载，对外暴露 OpenAI 兼容 API，并可一键接入多个编码 agent 客户端。要求 macOS 15.0+ 与 M 系列芯片。
+面向 Apple Silicon Mac 的本地 LLM 推理服务器：以 continuous batching 与分层 KV 缓存（内存热层 + SSD 冷层，前缀复用、重启后可恢复）为核心机制，支持文本 LLM、VLM、OCR、embedding 与 reranker 的同服务器多模型服务，提供 LRU 逐出、模型常驻、按模型 TTL 与进程内存上限管理。通过 macOS 菜单栏应用、CLI 或 Homebrew 服务运行，内置 Web 管理面板（监控/聊天/基准测试），对外暴露 OpenAI 兼容 API；要求 macOS 15.0+、Python 3.11–3.13。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- 热 RAM + 冷 SSD 两级 KV 缓存，前缀跨请求与跨重启复用
-- 连续批处理，兼容 OpenAI API 的客户端可直接连接
-- 同一服务器混部 LLM/VLM/embedding/reranker，支持 LRU 驱逐、模型固定与 TTL
-- 管理面板一键接入 OpenCode、Codex、Copilot CLI、Mistral Vibe 等客户端
+- 分层 KV 缓存：内存热层 + SSD 冷层，前缀缓存跨请求与重启复用
+- 同一服务器混布 LLM/VLM/embedding/reranker，支持 LRU 逐出与模型常驻
+- OpenAI 兼容 API（localhost:8000/v1），内置 Web 管理面板与聊天界面
+- 多 Mac 分布式推理实验特性（MLX pipeline + RDMA/JACCL）
 
 ## 适用场景
 
-- 在 Mac 上本地运行多个模型并通过 OpenAI 兼容 API 提供服务
-- 为 Claude Code、Codex 等编码工具配置本地模型后端
-- 内存有限的 Mac 上通过 SSD 缓存运行更长上下文的对话
-- 通过 Web 面板从 HuggingFace 搜索并下载模型
+- 在 Mac 上本地运行并管理多个 LLM 供开发工具调用
+- 为 Claude Code 等编码工具提供本地模型后端
+- 长上下文编码场景下通过 SSD 缓存减少重复计算
+- 从菜单栏/管理面板一键下载 HuggingFace 模型并做基准测试
 
 ## 场景标签
 
@@ -47,7 +47,7 @@
 
 > L4:  LLM inference, optimized for your Mac Continuous batching and tiered KV caching, managed directly from your menu ba
 > L94: The server discovers LLMs, VLMs, embedding models, and rerankers from subdirectories automatically. Any OpenAI-comp
-> L57: Requires macOS 15.0+ (Sequoia), Python 3.11–3.13, and Apple Silicon (M1/M2/M3/M4/M5).
+> L115: Supports text LLMs, vision-language models (VLM), OCR models, embeddings, and rerankers on Apple Silicon.
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `757421e4468c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4dad5c758099` · [字段定义](../../DATASET.md)*

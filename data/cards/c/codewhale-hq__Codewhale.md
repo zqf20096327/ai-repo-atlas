@@ -2,15 +2,15 @@
 
 ⭐ 41,209 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 个人维护 · 中文 README
 
-**Rust 编写的开源终端编码 agent，接任意模型**
+**Rust 编写的终端编码 agent：接任意模型、多 agent 协作、可回滚**
 
-面向在终端中完成编码任务的开发者：给定任务后读取仓库、编辑文件并执行命令，直到完成或等待用户输入。机制上支持 40+ 内置 provider 与任意 OpenAI 兼容端点、本地模型（Ollama/vLLM/SGLang），可将任务拆分给多个子 agent（Fleet/工作流），提供 receipts 审计、单步 /undo、快照 /restore、五档自主权限（Ask→Full Access）与 macOS/Linux 沙箱；安装提供 shell 脚本、winget、npm、cargo，无账户要求，API key 留在本机。Windows 暂无 OS 沙箱。
+开源 Rust 编码 agent，提供终端交互、headless 执行、本地 Web 客户端、HTTP Runtime API 与 ACP 编辑器接入等多个入口。内置 50+ provider 与本地模型路由，支持子 agent 与 Fleets 协作、MCP/插件/钩子扩展、 receipts 记录与 /undo /restore 回滚，命令在 macOS Seatbelt 或 Linux bubblewrap 沙箱中运行并按权限模式审批。API key 留存本机，聚合遥测可用命令关闭。提供 curl 安装脚本、winget/npm/cargo 等多种安装方式。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- 内置 40+ provider，支持 OpenAI 兼容端点与 Ollama/vLLM/SGLang 本地模型
-- 多 agent 协作：子 agent、Fleet、仓库内工作流拆分同一任务
-- Receipts 记录文件改动、命令、MCP 调用与审批，支持 /undo 与 /restore
-- 五档权限模式加 OS 沙箱（macOS Seatbelt / Linux bubblewrap）
+- 50+ 内置 provider，支持 Ollama/vLLM/SGLang 本地运行时与会中 /model 切换
+- receipts 记录改动文件、命令、MCP 调用，支持 /undo 与 /restore 快照回滚
+- OS 沙箱（Seatbelt/bubblewrap）与五档权限模式控制命令执行
+- MCP、skills、hooks、插件扩展，兼容 AGENTS.md 并可导入 Claude Code 配置
 
 ## 适用场景
 
-- 在终端里让 agent 修复失败测试并解释改动
-- 用自带 API key 在 CI 中以 codewhale exec 无界面跑任务
-- 通过 MCP 服务器与插件扩展 agent 工具能力
-- 用本地模型在不联网、不用 key 的情况下改代码
+- 在终端里让 AI 修复失败的测试并逐条审批命令
+- 用本地 Ollama 模型离线完成代码编辑任务
+- 通过 headless 模式在脚本和 CI 中跑单任务
+- 对 GitHub PR 做辅助性代码审查
 
 ## 场景标签
 
-`编码 Agent` `多智能体` `模型网关` `工作流自动化` · 领域:Agent 开发
+`编码 Agent` `多智能体` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: Codewhale is an open-source coding agent for your terminal, written in Rust.
-> L83: More than 40 providers are built in, including Anthropic, OpenAI, DeepSeek,
-> L104: `/goal` sets an objective that carries across turns. Codewhale can split work
+> L3: **Open-source Rust coding agent for your terminal. Any model, multi-agent fleets, OS sandboxing, and verifiable rece
+> L63: - **50+ built-in providers and local models:** Anthropic, OpenAI, DeepSeek
+> L104: All entry points share one Rust engine (architecture).
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8e5d36aea98a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ca524983f574` · [字段定义](../../DATASET.md)*

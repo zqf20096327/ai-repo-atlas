@@ -2,9 +2,9 @@
 
 ⭐ 1,275 · HTML · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/DasterProkio/awesome-ai-companion) · [官网](https://lutopia.app/companion/) · 个人维护 · 中文 README
 
-**人机恋/长期 AI 伴侣开源项目大全清单**
+**AI 伴侣/桌面宠物开源项目清单：帮人找自托管伴侣方案**
 
-面向长期 AI 伴侣关系的开源项目聚合清单，收录伴侣客户端、桌面宠物、虚拟手机、长期记忆与主动聊天类项目，中英双语。每条条目标注代码实际功能、语言、运行平台（Android/iOS/Windows/Web/Self-host 等）与状态标签（ready/adapt/infra/verify）。清单声称逐项目阅读代码、对新收录项目做恶意代码扫描，未完成或不明晰的条目以 verify/adapt 标记提示读者自行核验。
+面向长期 AI 伴侣关系需求者的开源项目聚合清单，收录伴侣客户端、虚拟手机、伴侣空间、记忆与主动性基础设施及社区等类别的项目。每条条目附维护者读码后的描述、状态标签（ready/adapt/infra/verify）、平台标签与许可证信息，新收录条目自动扫描恶意代码模式与已知漏洞依赖，未完成或不明项目标记 verify 或 adapt。README 双语呈现，未提供本产品自身的安装方式。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 逐项目读代码并撰写实际功能描述
+- 收录项目逐一经代码阅读，描述其实际功能
 - 新条目自动扫描恶意代码模式与已知漏洞依赖
-- 统一的状态标签体系（ready/adapt/infra/verify）与平台标注
-- 中英双语条目，含多个中文社区项目
+- 每条带 ready/adapt/infra/verify 状态与平台标签
+- 双语（English/中文版）呈现
 
 ## 适用场景
 
-- 想自托管一个带长期记忆的 AI 伴侣应用时选型
-- 查找 Android/iOS 上的伴侣聊天客户端或桌面宠物项目
-- 了解虚拟手机、伴侣空间这类条目的生态现状
+- 为自托管 AI 伴侣挑选合适的客户端或框架
+- 查找带长期记忆与主动消息能力的桌面宠物项目
+- 按平台（Android/iOS/Windows/Web）筛选伴侣应用
 
 ## 场景标签
 
-`精选清单` `聊天机器人` · 领域:对话与助手
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L8:  Software, infrastructure, and communities for long-term AI companion relationships.
 > L13: We read the code of every project here, and each description says what it actually does.
-> L23: ## Companion Clients & Workspaces
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9e790976300d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `663f0a018564` · [字段定义](../../DATASET.md)*

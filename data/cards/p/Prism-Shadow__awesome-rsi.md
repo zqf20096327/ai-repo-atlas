@@ -2,9 +2,9 @@
 
 ⭐ 651 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/Prism-Shadow/awesome-rsi) · [官网](https://prism-shadow.github.io/awesome-rsi/) · 组织维护
 
-**递归自我改进（RSI）论文策展索引，146 方法+34 基准**
+**面向研究者的递归自我改进（RSI）论文索引清单**
 
- Awesome RSI 收集递归自我改进领域的基准、方法与系统论文，按自定的九维度分类组织：方法与系统按被改进的 RSI 工件（模型参数、harness 代码、上下文、记忆、技能）分组，基准按在线/离线/混合协议组织。README 提供 146 篇方法论文、34 篇基准论文与 3 个系统的清单，并配套网站支持按多维过滤比较、引用图浏览，另附作者的 RSI 综述与图解入门指南（含中文版）。
+收集递归自我改进（Recursive Self-Improvement）领域的基准、方法与系统论文清单，按 RSI artifact（模型参数、Harness 代码、上下文、记忆、技能等）维度组织方法与系统条目，按 RSI mode 组织基准条目。收录 148 篇方法论文、34 篇基准论文与 3 个系统，提供英文和中文的入门图解指南、分类综述、引用图谱，并配套网站支持多维度筛选浏览。条目标注发表会议与项目链接。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 收录 146 篇方法论文、34 篇基准论文、3 个系统
-- 按 RSI 工件维度组织：模型参数/harness 代码/上下文/记忆/技能
-- 配套网站支持多维度过滤与引用图浏览
-- 附作者综述及中英双语图解入门指南
+- 收录 148 篇方法论文、34 篇基准论文与 3 个系统
+- 九维分类法组织 RSI 方法，并附传统深度学习视角的启发
+- 提供英文与中文双语入门图解指南与 1 分钟视频走读
+- 配套网站支持多维度筛选与引用图谱浏览
 
 ## 适用场景
 
-- 查找可基于其构建的 RSI 方法论文
-- 挑选衡量自我改进效果的基准
-- 通过引用图梳理论文间的关联脉络
+- 查找递归自我改进方向可借鉴的方法论文
+- 为自我进化 agent 研究选择合适的评测基准
+- 通过分类综述寻找新的研究切入点
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L13: ## Our survey
 > L29: Awesome RSI collects **benchmarks, methods, and systems for Recursive Self-Improvement**. We follow the loop: an ag
-> L31: **146 method papers · 34 benchmark papers · 3 systems**
-> L44: **What does the agent improve?** The tree below follows the RSI artifact dimension.
+> L31: **148 method papers · 34 benchmark papers · 3 systems**
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ca6336a5207c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `50194d1ba1a3` · [字段定义](../../DATASET.md)*

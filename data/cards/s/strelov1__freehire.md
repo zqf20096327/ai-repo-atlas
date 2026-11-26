@@ -2,9 +2,9 @@
 
 ⭐ 3,726 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/strelov1/freehire) · [官网](https://freehire.me) · 个人维护
 
-**求职者的开源招聘搜索引擎：直接抓取公司 ATS 的职位并支持 AI 辅助投递**
+**面向求职者的开源职位搜索引擎：直采公司 ATS 的职位聚合与检索**
 
-从公司自有的招聘系统（Workday、Greenhouse、Lever、Ashby、iCIMS 等 168 个 ATS 平台）直接抓取职位，归一化为单一 schema 并按稳定键去重，提供分面全文检索（地区、工作形式、资历、技能、薪资）。核心为 Go + Fiber 服务器、PostgreSQL/pgvector、Meilisearch，LLM 功能经 langchaingo 走任意 OpenAI 兼容端点，由 Bifrost 网关与 Langfuse 追踪支撑。抓取、富化、索引、通知皆为独立一次性 worker。提供免钥公开 HTTP API、CLI、MCP 服务器与浏览器扩展。托管版免费，Pro（$5/月）提供 CV 定制、自动投递等 AI 功能。
+以 Go 编写的职位聚合与搜索系统，直接从 168 个 ATS 平台（Workday、Greenhouse、Lever 等）及聚合器、Telegram 频道共 437 个来源抓取职位，统一 schema 去重后经 Meilisearch 提供分面检索，并附公开 HTTP API、CLI 与 MCP server。除目录检索外，同一仓库还包含简历构建与打分、求职申请看板、收件箱、以及带五个预设的应用内 agent。Pro 订阅提供简历定制、表单填写扩展与自动投递。本地经 Docker Compose 一键启动整套服务。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 从 437 个来源抓取 490 万+ 去重职位，直链原始公司招聘页
-- 168 个 ATS 平台适配器，加入公司仅需在目录中添加一行
-- 内置 agent 五种预设：聊天、浏览、档案、CV 定制、面试演练
-- 提供免钥公开 HTTP API、CLI、MCP 服务器与表单填写浏览器扩展
+- 从 700,000+ 公司直采 4.9M+ 在招职位，去重后链接回原始发布页
+- 分面全文搜索：地区、工作模式、资历、技能与薪资
+- 提供无密钥公开 HTTP API、CLI、Telegram 摘要与 MCP server
+- 内置简历构建、申请追踪看板与五个预设的应用内 agent
 
 ## 适用场景
 
-- 按地区、远程形式、资历分面筛选来自公司源头的职位
-- 自托管整套职位抓取与检索管线并基于 API 构建
-- 让 AI 定制简历并自动填写申请表单、跟踪投递进度
+- 自托管一套职位搜索引擎并基于其 API 做二次开发
+- 按地区、远程模式、资历等条件检索公司官方在招职位
+- 追踪投递进度并将招聘者回复关联到对应申请
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L46: - **Search that understands jobs.** Faceted full-text search over region, work mode,
-> L90: |**Apply**|CV builder with ATS-safe PDF templates, deterministic CV↔vacancy scoring, AI fit analysis, CV tailoring 
-> L100: - **Go** + Fiber v2 — HTTP server
+> L68: **Pro — $5/month** adds the AI that does the applying with you:
+> L92: |**Ask**|An in-process agent with five presets — chat, browse, profile, CV tailoring, interview rehearsal — with no
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cd2b35b67e5f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `06009e8cd89c` · [字段定义](../../DATASET.md)*

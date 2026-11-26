@@ -2,9 +2,9 @@
 
 ⭐ 3,842 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/agentscope-ai/ReMe) · [官网](https://reme.agentscope.io/) · 组织维护 · 中文 README
 
-**给 AI agent 提供本地文件化长期记忆的管理套件**
+**为 AI agent 提供本地文件式记忆管理的工具包**
 
-ReMe 将 agent 的对话与外部资源逐步提炼为可读写、可搜索、互链的 Markdown 记忆文件，用户可直接编辑和备份。提供捕获→索引→巩固→召回的生命周期（auto_memory、auto_index、auto_dream、proactive_read 等），检索默认用 BM25 与 wikilink 扩展，嵌入检索为可选并需配置 API key。通过 CLI、HTTP、MCP、Python API 或 SKILL.md 与 DeepSeek Harness、OpenClaw、Claude Code、QwenPaw 等 agent 运行时集成；要求 Python 3.11+，提供 pip、源码与 Docker 安装方式。
+ReMe 将对话与资源转化为 Markdown 形式的记忆文件（含 frontmatter 与 wikilink），供多个 agent 运行时（QwenPaw、DeepSeek Harness、Claude Code、Codex 等）共享同一本地工作区进行检索、维护与演化。核心机制包括 capture→index→consolidate→recall 生命周期、BM25 与可选嵌入检索、auto_memory/auto_dream 等后台任务，以及事件/cron 触发的 Proactive Runtime。通过 CLI、HTTP、MCP 或 Python API 接入，支持 pip、源码与 Docker 安装；嵌入检索默认关闭，需显式在配置中启用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ReMe 将 agent 的对话与外部资源逐步提炼为可读写、可搜索、�
 
 ## 能力要点
 
-- 记忆以带 frontmatter 与 wikilink 的普通 Markdown 文件存储，索引可重建
-- BM25 与 wikilink 检索，嵌入检索可选且默认关闭
-- auto_memory/auto_resource/auto_index/auto_dream 构成记忆生命周期
-- 通过插件或 SKILL.md 与多个 agent 运行时共享同一本地工作区
+- 记忆以普通 Markdown 文件存储，用户与 agent 均可直接编辑、备份
+- BM25、可选嵌入与 wikilink 扩展实现行级上下文检索
+- capture→index→consolidate→recall 记忆生命周期（auto_memory/auto_index/auto_dream）
+- 通过 SKILL.md、CLI、HTTP、MCP、Python API 接入多种 agent 运行时
 
 ## 适用场景
 
-- 让个人助手与编码 agent 共享同一份长期记忆工作区
-- 把对话与资料自动整理成每日笔记与长期知识
-- 按事件或 cron 调度任务并记录结果与提醒
+- 为多个 agent 提供共享的长期记忆工作区
+- 让 agent 自动沉淀对话事实并按日程整理知识
+- 为编码助手或个人助理添加自动回忆与对话记录能力
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ ReMe 将 agent 的对话与外部资源逐步提炼为可读写、可搜索、�
 ## 证据(README 行号)
 
 > L16:  A local-first, self-evolving personal knowledge base for AI agents.
-> L24: 🧠 ReMe turns conversations and resources into readable, editable, searchable, and interconnected Markdown memory. A
 > L202: ReMe can run as a local memory service accessed through the CLI, HTTP API, or MCP server, or it can be embedded in
+> L206: |Agent|Recommended path|Available after integration|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f7a3186e3cff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f0ce450e2ae5` · [字段定义](../../DATASET.md)*

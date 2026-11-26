@@ -1,10 +1,10 @@
 # adithya-s-k/FineEnvs
 
-⭐ 577 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/adithya-s-k/FineEnvs) · [官网](https://huggingface.co/FineEnvs) · 个人维护
+⭐ 577 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/adithya-s-k/FineEnvs) · [官网](https://huggingface.co/FineEnvs) · 组织维护
 
-**面向 LLM 训练者的 RL 环境开源教程与项目集**
+**面向 LLM 从业者的开源 RL 环境教程与项目合集**
 
-为 LLM 智能体构建强化学习环境的开源资源：包含《RL Environments 101》教程、7 个编号的端到端项目（LaTeX OCR、水彩绘制、GeoGuesser、数据分析任务集、多语言、仿真环境等），每个项目自带环境实现、notebook、可复现训练脚本与部署于 Hugging Face 的 Space。同一环境以 6 种框架方言实现便于对比；训练可经 HF Jobs 一条命令启动，无需自有 GPU。Apache 2.0 许可，索引由 project.yaml 自动生成。
+围绕 LLM 强化学习环境的开源合集，主张环境而非算法是当前瓶颈：以编号项目组织，每个项目自含环境代码、notebook、结果与 README。项目 00 是教程，用同一环境在 6 个框架各实现一遍（共 18 个实现、8 个已部署为 Spaces）；后续项目覆盖 LaTeX OCR、绘画偏好奖励、视觉地理定位、数据分析任务集、多语言 OCR/ASR、模拟环境与数学证明等，训练记录与模型发布在 Hugging Face Hub，部分项目处于 wip 状态。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 同一环境以 openenv/verifiers/skyrl_gym 等 6 种框架各实现一遍共 18 个实现
-- 8 个环境部署为可访问的 Hugging Face Spaces
-- 5,394 个验证过的数据分析 RL 任务及 4,677 条验证轨迹
-- 训练用 HF Jobs 脚本可在无本地 GPU 条件下启动
+- 同一环境在 openenv/ors/nemo_gym/verifiers/skyrl_gym/gem 六框架并排实现（18 个实现、8 个已部署）
+- 每个编号项目自含环境、notebook、结果与 README，索引由 project.yaml 自动生成
+- SmolDataEnvs 提供 5,394 条经沙箱验证的数据分析任务与 4,677 条 SFT 轨迹
+- 训练脚本支持 HF Jobs 与 Slurm，可在单命令启动的 GPU 上复现
 
 ## 适用场景
 
-- 学习如何设计、构建并部署一个 RL 环境
-- 对比不同 RL 框架在同一环境上的实现差异
-- 直接复跑项目中的 GRPO 训练流水线
+- 对比不同 RL 环境框架在实现同一环境时的写法差异
+- 按教程训练 VLM 读取数学图像生成 LaTeX 并复现训练曲线
+- 获取经沙箱验证的数据分析 RL 任务集用于训练与评测
+- 为模拟类场景（港口调度、航空运营）查找带评测卡的环境
 
 ## 场景标签
 
-`教程课程` `强化学习` · 领域:学习与行业
+`强化学习` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: FineEnvs — open source RL environments for training LLM agents
 > L10: The ultimate guide to RL environments
 > L21: So we're building the resource we wanted. Open source, end to end, and reproducible: how to *design* an
+> L38: |**00**|**RL Environments 101**|Three environments, six frameworks, side by side.|3|6|8|✅ stable|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `276479a8629a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `b2d5260fb437` · [字段定义](../../DATASET.md)*

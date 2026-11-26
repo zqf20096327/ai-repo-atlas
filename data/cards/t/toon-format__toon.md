@@ -1,10 +1,10 @@
 # toon-format/toon
 
-⭐ 25,660 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 组织维护
+⭐ 25,660 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/toon-format/toon) · [官网](https://toonformat.dev) · 个人维护
 
-**为 LLM 提示词设计的紧凑 JSON 序列化格式，降低 token 消耗**
+**面向 LLM 提示词的 JSON 紧凑序列化格式与 TypeScript SDK**
 
-定义了一种对 JSON 数据模型的紧凑、人类可读编码格式（SPEC v4.4）：用缩进替代大括号、对同构数组/键值集合采用表头声明一次的表格形式，提供长度 [N] 与字段 {fields} 声明以便模型解析与校验，并支持无损往返转换。附带 TypeScript SDK、CLI（npx @toon-format/cli，可统计 token 节省量）与基准测试：244 个数据检索问题、4 个模型，含按数据集与问题类型的准确率对比表。README 同时列出适用边界：深层嵌套或非同构数据、纯表格数据（CSV 更小）、延迟敏感场景不适用。MIT 许可。
+TOON 定义一种紧凑、可读的 JSON 数据编码：用缩进表达嵌套结构，用 CSV 式表格形式表达同构数组/键控对象，声明 [N] 行数与 {fields} 字段列表以支持结构校验，往返无损。仓库提供 TypeScript SDK、CLI（npx 免安装转换并统计 token 节省）、规格文档与基准测试（4 个模型、244 个检索问题的 token 与准确率对比）。适用对象是向 LLM 传入结构化数据的开发者；README 同时列出不宜使用的场景（深度嵌套、非同构、纯表格数据）。
 
 ## 筛选速览
 
@@ -27,20 +27,20 @@
 
 ## 能力要点
 
-- JSON 数据模型的无损、确定性往返编码
-- 表格形式对同构数据声明一次字段列表，逐行输出
-- [N] 行数与 {fields} 字段声明提供截断/畸形输出防护
-- 附 CLI（npx 免安装试用）与多模型、多格式基准测试
+- JSON 数据模型的无损编码，支持确定性往返转换
+- 表格形式：同构对象声明一次字段列表，逐行输出
+- [N]/{fields} 头部声明可校验截断或格式错误的输出
+- 多语言实现生态共享同一规格与一致性测试套件
 
 ## 适用场景
 
-- 把已有 JSON 数据编码进 LLM 提示词以减少 token 开销
-- 需要模型输出可校验的结构化数据（行数/字段声明护栏）
-- 评估不同序列化格式在自家模型上的 token 与准确率权衡
+- 向 LLM 提示词传入大量同构 JSON 数据时压缩 token
+- CLI 快速评估自己的数据能省多少 token
+- 需要 LLM 可靠解析并校验结构化输出的管线
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+ · 领域:LLM 基础设施/数据格式
 
 ## 证据(README 行号)
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `df5d8e91ca2c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f52b158da0a8` · [字段定义](../../DATASET.md)*

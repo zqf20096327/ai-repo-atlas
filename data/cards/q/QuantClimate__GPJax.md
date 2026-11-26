@@ -2,9 +2,9 @@
 
 ⭐ 676 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/QuantClimate/GPJax) · [官网](https://gpjax.quantclimate.com) · 组织维护
 
-**面向研究者的 JAX 高斯过程建模库**
+**为科研人员提供 JAX 上的高斯过程建模接口**
 
-GPJax 提供基于 JAX 与 Equinox 的高斯过程（GP）低层接口，代码结构贴近数学表达，供研究人员按需扩展。支持回归、分类、计数回归、稀疏 GP、随机变分推断、多输出 GP、图核、异方差推断、深度核学习等方法，并提供与 Numpyro 的联合推断示例。以 pip/conda 安装的 Python 库形式发布，配套 Notebook 示例库与文档，有 JOSS 论文可引用。开发版本存在不稳定与 bug 的可能。
+GPJax 是构建于 JAX 之上的高斯过程模型库，定位为面向研究者的低层接口，代码结构贴近高斯过程的数学表达以便扩展。文档以 Notebook 示例组织，覆盖入门（核函数、回归、分类、计数数据回归）、加速方法（稀疏回归、随机变分推断、状态空间 GP、OILMM 多输出）、应用建模（图核、空间建模、海洋流建模、xarray 网格数据）及核/似然/深度核学习等自定义指南，示例以 py:percent 格式存储并可用 jupytext 与 .ipynb 互转。通过 JOSS 论文提供引用条目。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ GPJax 提供基于 JAX 与 Equinox 的高斯过程（GP）低层接口，代码�
 
 ## 能力要点
 
-- 低层 GP 接口，代码结构贴近数学推导，便于研究者扩展
-- 覆盖稀疏 GP、变分推断、多输出 GP、图核等系列方法
-- 提供 Notebook 示例库与 Numpyro 联合推断指南
-- 通过 PyPI 与 conda-forge 分发稳定版
+- JAX/Equinox 上的高斯过程低层接口，结构贴近数学表达
+- 覆盖稀疏回归、随机变分推断、自然梯度、状态空间 GP 等加速方法
+- 含图核、多输出、空间建模、海洋流等应用示例与核/似然自定义指南
+- 提供 PyPI、conda-forge 安装途径与 JOSS 论文引用
 
 ## 适用场景
 
-- 研究中构建与扩展高斯过程回归/分类模型
-- 做稀疏与可扩展 GP 变分推断实验
-- 学习 GP 方法（核函数、似然、自然梯度）的示例教程
-- 学术研究引用其 JOSS 论文复现方法
+- 在 JAX 生态中构建和扩展高斯过程模型
+- 用稀疏与变分方法处理大规模回归问题
+- 做空间数据或海洋流等应用领域的高斯过程建模
+- 作为教学示例学习核函数与 GP 推断
 
 ## 场景标签
 
@@ -39,7 +39,8 @@ GPJax 提供基于 JAX 与 Equinox 的高斯过程（GP）低层接口，代码�
 ## 证据(README 行号)
 
 > L16: GPJax aims to provide a low-level interface to Gaussian process (GP) models in
-> L55: # Supported methods and interfaces
+> L17: Jax, structured to give researchers maximum
+> L22: # Package organisation
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cd197c8d0456` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `017ca71f86d1` · [字段定义](../../DATASET.md)*

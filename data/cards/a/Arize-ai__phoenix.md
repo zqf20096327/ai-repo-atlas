@@ -2,9 +2,9 @@
 
 ⭐ 12,426 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Arize-ai/phoenix) · [官网](https://arize.com/docs/phoenix) · 组织维护
 
-**面向 LLM 应用的开源可观测与评估平台：追踪、评估、实验**
+**LLM 应用开发者用的开源 AI 可观测与评测平台**
 
-Arize 开源的 AI 可观测平台，功能覆盖基于 OpenTelemetry 的运行时追踪、利用 LLM 对响应与检索做评估、版本化数据集与实验管理、prompt 管理、playground 调试，以及内置的 PXI 调试 agent 与远程 MCP 服务端。平台与供应商、语言无关，通过 OpenInference 提供大量 Python/TypeScript 框架与 LLM 提供商的自动埋点包。可通过 pip/conda/uvx 本地运行，也可用 Docker/Helm 部署；托管版本为 Arize AX。
+Arize 开源的自托管 AI 可观测平台，围绕实验、评测与排障提供：基于 OpenTelemetry 的运行时追踪、用 LLM 做响应与检索评测、版本化数据集、prompt/模型/检索变更的实验追踪、prompt playground、prompt 版本管理、内置 PXI 调试 agent，以及供 Claude Code、Cursor 等 MCP 客户端接入的远程 MCP server。平台与厂商和语言无关，通过 OpenInference 提供数十个框架与 LLM 供应商的自动插桩包；可 pip/conda 本地运行，也可用 Docker/Helm 部署。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Arize 开源的 AI 可观测平台，功能覆盖基于 OpenTelemetry 的运行�
 
 ## 能力要点
 
-- 基于 OpenTelemetry 的 LLM 应用运行时追踪（OpenInference 自动埋点）
-- LLM 评估工具链（响应/检索相关性等，含 Python 与 TypeScript evals 包）
-- 版本化数据集、实验追踪与 prompt 版本管理
-- 远程 MCP 服务端与 phoenix-cli，可对接 Claude Code、Cursor 等编码 agent
+- 基于 OpenTelemetry 的 LLM 应用运行时追踪，提供 40+ 框架/供应商自动插桩包
+- LLM 评测工具链（RAG 相关性、回答相关性等）与版本化数据集、实验追踪
+- Prompt 管理与 Playground：版本控制、参数调整、重放已追踪调用
+- 内置 PXI agent 与远程 MCP server，可从 Claude Code/Cursor 查询追踪与数据集
 
 ## 适用场景
 
-- 排查 LLM/agent 应用运行时的调用链路
-- 对 prompt、模型、检索变更做实验与评估
-- 自托管收集与查询应用追踪数据
-- 通过 MCP 让编码 agent 查询 Phoenix 的追踪与数据集
+- 追踪和排查 LLM/agent 应用的线上调用链
+- 对 RAG 应用的检索与回答质量做批量评测
+- 系统化管理 prompt 版本并对比不同模型与参数
+- 自托管团队收集和查询 OpenTelemetry 格式的 LLM 追踪数据
 
 ## 场景标签
 
-`LLM 可观测性` `模型评测` · 领域:评测与运维
+`LLM 可观测性` `模型评测` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L49: Arize Phoenix is Arize's open-source AI observability platform designed for experimentation, evaluation, and troubl
+> L51: - **_Tracing_** - Trace your LLM application's runtime using OpenTelemetry-based instrumentation.
 > L62: Phoenix is vendor and language agnostic with out-of-the-box support for popular frameworks (OpenAI Agents SDK, Clau
-> L139: Phoenix is built on top of OpenTelemetry and is vendor, language, and framework agnostic. For details about tracin
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0d0bda32a749` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4671a89ee48d` · [字段定义](../../DATASET.md)*

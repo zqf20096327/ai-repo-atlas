@@ -2,9 +2,9 @@
 
 ⭐ 502 · Shell · 推送 2026-11-24 · [GitHub](https://github.com/sysnet4admin/_Book_k8sInfra) · [官网](https://product.kyobobook.co.kr/detail/S000221973541) · 组织维护
 
-**Kubernetes/Docker 教材书的配套实练代码仓库**
+**Kubernetes/Docker 图书配套实验代码仓库：供读者搭建集群练习**
 
-韩国出版的《为现代开发者的 Kubernetes/Docker》一书的配套实练代码。提供按章节组织的 Vagrantfile、配置脚本与 YAML 清单，指导读者用 Vagrant 虚拟机自建 Kubernetes 集群，依次实练 Docker 与 Harbor、Jenkins CI/CD、Prometheus/Grafana 监控套件；第 7 章涵盖 Operator 模式、OpenTelemetry、Argo CD/Rollouts 与小型 LLM。另提供 OVA 镜像（OneDrive 下载）替代 Vagrant 构建环境，附带勘误表与配套视频链接。
+韩国图书《요즘 개발자를 위한 쿠버네티스/도커》的配套代码仓库，提供章节实验文件：用 Vagrant 创建虚拟机构建 Kubernetes 集群，依次练习 Docker、Harbor、Jenkins、Prometheus/Grafana 监控栈，第 7 章覆盖 Operator 模式、OpenTelemetry、Argo CD/ rollouts、Cilium 网络策略及小型 LLM。除 Vagrantfile 路径外还提供 OVA 预建镜像（4 台虚拟机，分 arm64/x86），并附勘误表、参考文档与教学视频链接。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按章节组织的实练代码：集群搭建、镜像构建、CI/CD、监控套件
-- 提供 OVA 镜像（arm64/x86）直接导入 VirtualBox 跳过 Vagrant 构建环境
-- 第 7 章包含 Argo CD/Rollouts、Cilium 网络策略与小型 LLM 实练
-- rerepo-book-k8sinfra 命令一键还原实练文件
+- 按章节组织的 Kubernetes/Docker/GitOps 实验代码（ch2–ch7 及附录）
+- 提供 OVA 预建镜像替代 Vagrant，证书有效期至 2036 年 11 月
+- 一条 rerepo 命令恢复实验代码初始状态
+- 含 kubespray 多控制面集群、runC 容器深入等附录实验
 
 ## 适用场景
 
-- 跟随书籍章节从零搭建并实练 Kubernetes 集群
-- 用 GitOps（Argo）与 Jenkins 实练持续集成部署流程
-- 快速用 OVA 镜像获得现成的多节点实验环境
+- 跟着图书章节搭建本地 Kubernetes 学习集群
+- 练习 GitOps、CI/CD（Jenkins、Argo CD/rollouts）流程
+- 用 OVA 镜像快速获得可用的多节点实验环境
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L23: 이 저장소는 요즘 개발자를 위한 쿠버네티스/도커 책의 실습을 위한 코드를 제공합니다.
 > L25: 베이그런트로 만든 가상 머신 위에 쿠버네티스 클러스터를 직접 구성하고, 도커와 하버, 젠킨스, 프로메테우스와 그라파나 제품군을 실습합니다. 7장에서는 오퍼레이터 패턴, 오픈텔레메트리, 아르고 CD와 아르고 
+> L31: |ch2|<small>테스트 환경 구성하기</small>|<small>가상 머신을 만드는 Vagrantfile과 프로비저닝 스크립트, macOS용 버추얼박스, 베이그런트, 타비 설치 파일</small>|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9cb7c5564508` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4d4068f6ce9b` · [字段定义](../../DATASET.md)*

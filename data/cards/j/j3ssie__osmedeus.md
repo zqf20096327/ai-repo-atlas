@@ -1,10 +1,10 @@
 # j3ssie/osmedeus
 
-⭐ 6,671 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护
+⭐ 6,671 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护 · 中文 README
 
-**面向安全工作者的 YAML 声明式工作流编排引擎**
+**面向安全工作者的声明式工作流编排引擎**
 
-以 YAML 定义安全自动化工作流的编排引擎，支持 hooks、条件分支与多运行器（host/Docker/SSH），基于 Redis 的 master-worker 分布式执行，内置 80+ 工具函数（nmap 集成、SARIF 解析、CDN/WAF 分类等），提供事件驱动调度、云端扫描（DigitalOcean/AWS/GCP 等）、REST API 与 Web UI。其中包含工具调用型 LLM agent 步骤与 ACP 子进程 agent。安装方式含安装脚本、npm 与 Docker 预编译二进制，MIT 许可。
+用 YAML 声明安全工作流的编排引擎，同一份配置可在本机、Docker 或 SSH 上运行；支持基于 Redis 的主从分布式执行、Cron/文件监听/事件触发调度、80+ 实用函数库（nmap 集成、SARIF 解析、CDN/WAF 分类等）。提供 REST API 与内嵌 Web UI，可对接 DigitalOcean、AWS、GCP 等云厂商开通机器执行扫描。含工具调用 LLM agent 步骤与 ACP 子代理（Claude Code、Codex 等）。README 警告会执行任意代码，要求审查工作流内容。
 
 ## 筛选速览
 
@@ -13,24 +13,23 @@
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 声明式 YAML 工作流，支持 hooks、决策路由与条件分支
-- Redis 分布式 master-worker 执行与 webhook/file-watch/cron 触发
-- 工具调用型 LLM agent 步骤与 ACP 子进程 agent（Claude Code、Codex 等）
-- 80+ 内置函数库与 REST API/Web UI 仪表盘
+- YAML 声明式工作流，支持主机/Docker/SSH 三种运行器
+- Redis 主从分布式执行与任务队列、webhook 触发
+- 80+ 函数库：nmap、tmux、SSH、SARIF 解析、WAF/CDN 分类
+- 工具调用 agent 循环与 ACP 子代理编排
 
 ## 适用场景
 
-- 编排侦察与漏洞扫描等渗透测试工作流
-- 以分布式队列批量管理攻击面资产扫描
-- 把 LLM agent 步骤嵌入安全自动化流水线
-- 在云主机上按需运行扫描并控制成本
+- 编排自动化侦察与攻击面管理工作流
+- 在多台云主机上分发运行安全扫描任务
+- 把 SAST 工具（Semgrep、Trivy）结果统一解析与展示
 
 ## 场景标签
 
@@ -38,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L9: Osmedeus is a security focused declarative orchestration engine that simplifies complex workflow automation into aud
-> L19: - **Agentic LLM Steps** - Tool-calling agent loops with sub-agent orchestration, memory management, and structured 
+> L9: Osmedeus is a security-focused declarative orchestration engine. It defines workflow automation in YAML you can read
+> L19: - **Agentic LLM steps.** Tool-calling agent loops with sub-agent orchestration, memory management, and structured o
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `92f0a507b766` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ba8cae469ba7` · [字段定义](../../DATASET.md)*

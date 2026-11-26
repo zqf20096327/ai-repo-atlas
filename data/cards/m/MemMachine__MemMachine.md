@@ -2,9 +2,9 @@
 
 ⭐ 3,092 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/MemMachine/MemMachine) · [官网](https://memmachine.ai) · 组织维护
 
-**AI Agent 开源长期记忆层：跨会话存储与召回记忆**
+**为 AI Agent 提供跨会话长期记忆存储与检索的层**
 
-为 AI agent 与 LLM 应用提供持久化记忆存储与检索的开源层：将交互存为情景记忆（图数据库 Neo4j）与画像记忆（SQL），另含会话内工作记忆，使无状态聊天机器人变为跨会话可记忆的助手。提供 Python/TypeScript SDK、REST API 与原生 MCP server，集成 LangChain、LangGraph、CrewAI、LlamaIndex 等框架。LLM 无关，兼容 OpenAI、Anthropic、Bedrock、Ollama 等。需运行 MemMachine Server，支持自托管、Docker 或托管云服务；采用 Apache 2.0 许可。
+面向 AI Agent 与 LLM 应用的开源长期记忆层，提供三类记忆：基于图数据库的情景记忆（跨会话对话上下文）、SQL 存储的画像记忆（用户事实与偏好）、会话内工作记忆。通过 RESTful API、Python/TypeScript SDK 与 MCP 服务器接入，可自托管（本地/Docker/Neo4j+SQL）或使用其托管云服务，宣称与具体 LLM 无关。目标用户为构建 Agent 的开发者、研究者与团队。README 附带示例 Agent 与学术参考文献。
 
 ## 筛选速览
 
@@ -13,24 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 三种记忆类型：Working/Episodic/Profile，跨重启与模型更换持久化
-- 原生 MCP server（stdio/HTTP 模式），接入 Claude Desktop、Cursor 等客户端
-- Python SDK、TypeScript SDK、RESTful API 多种接口
-- 与 LangChain、LangGraph、CrewAI、LlamaIndex、Dify 等框架集成
+- 三类记忆：工作记忆、情景记忆（Neo4j 图库）、画像记忆（SQL）
+- 提供 Python SDK、RESTful API、TypeScript SDK 与 MCP 服务器接口
+- 支持与 LangChain、LangGraph、CrewAI、LlamaIndex 等框架集成
+- 可自托管（本地/Docker）或使用托管云服务
 
 ## 适用场景
 
-- 为我的客服 agent 记住客户历史与交易阶段
-- 让个人助手跨会话记住我的偏好与背景信息
-- 为多 agent 系统提供共享的长期记忆后端
-- 让写作助手学习我的风格指南与术语习惯
+- 让客服/CRM Agent 记住客户历史与沟通进度
+- 写作助手持续学习用户的风格与术语
+- 为多轮对话机器人保存跨会话的用户偏好
 
 ## 场景标签
 
@@ -38,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L5: **The open-source memory layer for AI agents.**
 > L22: MemMachine is an open-source **long-term memory layer** for AI agents and LLM-powered applications. It enables your
-> L90: - **Developer-Friendly APIs**: Python SDK, RESTful API, TypeScript SDK, and MCP server interfaces
+> L89: - **Developer-Friendly APIs**: Python SDK, RESTful API, TypeScript SDK, and MCP server interfaces
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `fa2bfc44b892` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `8c352ff06832` · [字段定义](../../DATASET.md)*

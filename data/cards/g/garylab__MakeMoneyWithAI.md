@@ -1,10 +1,10 @@
 # garylab/MakeMoneyWithAI
 
-⭐ 1,266 · Python · 推送 2026-11-25 · [GitHub](https://github.com/garylab/MakeMoneyWithAI) · 个人维护
+⭐ 1,266 · Python · 推送 2026-11-25 · [GitHub](https://github.com/garylab/MakeMoneyWithAI) · 个人维护 · 中文 README
 
-**开源 AI 项目变现清单：按赚钱方式收录 53 个项目**
+**为想用开源 AI 项目创收的人提供的策展清单**
 
-一份策展清单，收录 53 个开源 AI 项目并以表格形式标注 Star 数和对应变现思路（SaaS、咨询、自动化服务、内容生成等）。条目覆盖 agent 框架、工作流平台、推理运行时、图像/视频/语音生成、爬虫、RAG 等类别。本身不含安装说明或使用教程，仅为项目名称、Star 数与变现描述的列表，面向希望利用开源 AI 项目产生收入的人群。
+以表格形式收录 53 个开源 AI 项目，每条列出名称、Star 数与对应的变现方式描述（如部署 SaaS、出售自动化流程、提供咨询服务等）。条目涵盖 agent 框架、工作流平台、图像/语音生成、爬虫、推理运行时等类别。README 仅由目录表格构成，未提供安装说明、运行方式或维护者信息，个别条目含中文描述。
 
 ## 筛选速览
 
@@ -21,14 +21,13 @@
 ## 能力要点
 
 - 收录 53 个开源 AI 项目并附 Star 数
-- 每个条目给出对应的变现方式描述
-- 覆盖 agent、工作流、推理、图像、语音、爬虫等多类别
+- 每个条目标注对应的变现途径描述
+- 类别覆盖 agent、工作流、图像/语音、爬虫、推理运行时
 
 ## 适用场景
 
-- 寻找可用于变现的开源 AI 项目方向
-- 了解哪些开源 AI 项目 Star 数较高
-- 按变现思路（SaaS/咨询/内容）挑选项目
+- 浏览可开源 AI 项目并了解各自的变现思路
+- 按 Star 数了解项目热度排序
 
 ## 场景标签
 
@@ -38,7 +37,6 @@
 
 > L3: **Make Money With AI** is a curated list of AI tools and projects that help you turn open-source into income.
 > L5: |NO|Name|Stars|How to make money with this repository|
-> L6: |---|---|---|---|
 
 ## 星数曲线
 
@@ -54,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4f939594f303` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e8ff33b74977` · [字段定义](../../DATASET.md)*

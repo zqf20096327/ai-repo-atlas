@@ -2,9 +2,9 @@
 
 ⭐ 1,047 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/kaito-project/kaito) · [官网](https://kaito-project.github.io/kaito/docs/) · 组织维护
 
-**在 Kubernetes 集群中自动化 LLM 推理/微调/RAG 部署的 Operator**
+**在 Kubernetes 集群中自动化部署 LLM 推理/微调/RAG 的 Operator**
 
-KAITO 是一套 Kubernetes Operator，通过 CRD/controller 模式自动化管理集群内 LLM 推理、微调与 RAG 引擎部署。Workspace CRD 让用户只需提供 GPU 实例类型与 HuggingFace 模型 ID，控制器即估算显存需求、经 Karpenter API 触发 GPU 节点自动供给、按硬件拓扑配置并行度等调度参数；InferenceSet 基于 KEDA 指标自动扩缩副本；RAGEngine 集成向量库、嵌入服务与 LlamaIndex 编排，提供 /index、/v1/chat/completion、/retrieve 等 API。安装使用 helm 或 Terraform，许可证为 Apache 2.0。
+KAITO 是一组 Kubernetes Operator，通过 CRD/controller 模式编排 LLM 推理、微调（LoRA）与 RAG 服务的部署。用户只需提供 GPU 实例类型与 HuggingFace 模型 ID，控制器自动估算显存、经 Karpenter API 触发 GPU 节点自动供给、配置 PP/DP/TP 等并行调度参数，模型存放在 GPU 节点本地 NVMe；推理引擎当前仅支持 vLLM，配合 KEDA 按负载自动伸缩，并集成 Gateway API Inference Extension 实现 KVCache 感知路由。另提供 RAGEngine 管理向量库、嵌入与索引服务。安装使用 helm 或 Terraform。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ KAITO 是一套 Kubernetes Operator，通过 CRD/controller 模式自动化管�
 
 ## 能力要点
 
-- Workspace CRD 一键部署：输入 GPU 类型与 HuggingFace 模型 ID 即完成模型部署
-- NAP 按模型显存估算自动供给 GPU 节点，GPU 本地 NVMe 作模型存储
-- 支持所有 vLLM 支持的 HuggingFace 模型、LoRA 适配器与 KVCache offloading
-- RAGEngine 提供 RRF 混合检索（BM25+向量），可对接 MCP 服务器
+- 按 GPU 型号与模型元数据自动估算显存并计算所需 GPU 数量
+- 经 Karpenter API 自动供给 GPU 节点，模型存放于节点本地 NVMe
+- 当前仅支持 vLLM 推理引擎，支持 LoRA 适配器与默认 KVCache offloading
+- RAGEngine 内置 FAISS 默认向量库，另支持 Qdrant/Milvus，RRF 混合检索
 
 ## 适用场景
 
-- 在 K8s 集群中声明式部署与扩缩 LLM 推理服务
-- 用 CRD 管理 RAG 服务的嵌入、向量库与检索编排
-- 按请求负载自动扩缩推理副本数
+- 在 Kubernetes 集群中以声明式 CRD 部署和管理 vLLM 推理服务
+- 按推理负载自动扩缩模型副本与 GPU 节点
+- 在集群内搭建带向量库与混合检索的 RAG 服务
+- 运行任意 vLLM 支持的 HuggingFace 模型或自带 BYO 模型
 
 ## 场景标签
 
@@ -39,6 +40,7 @@ KAITO 是一套 Kubernetes Operator，通过 CRD/controller 模式自动化管�
 
 > L15: KAITO is an operator suite that automates LLM model inference, fine-tuning, and RAG (Retrieval Augmented Generation
 > L25: KAITO follows the classic Kubernetes Custom Resource Definition (CRD)/controller design pattern for workload orches
+> L34:  Currently, only the **vLLM** engine is supported. LoRA adapters are supported. KVCache offloading is enabled by de
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `30195b245aa2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4808c0c90b0a` · [字段定义](../../DATASET.md)*

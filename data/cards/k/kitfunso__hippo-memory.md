@@ -2,9 +2,9 @@
 
 ⭐ 795 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kitfunso/hippo-memory) · [官网](https://hippo-memory.com) · 个人维护
 
-**给编码 agent 提供跨工具共享的本地记忆库**
+**给编码 Agent 共享本地记忆库：一次教会，多端复用**
 
-面向使用多个编码 agent 的开发者：你教会一个 agent 的规则与教训被写入仓库内的 .hippo/ 存储（SQLite + 可提交的 markdown 镜像），其余 agent 读取同一存储，避免换工具重新积累。默认路径零 LLM 调用完成存储，recall 用关键词检索无需网络；hippo sleep 在配置 API key 时可选调用 Anthropic 或 OpenAI 兼容端点。零运行时依赖，Node.js 22.16+；hippo init 会装本地嵌入器（约 480 MB，可跳过）。npm 全局安装。
+面向编码 Agent 的本地记忆管理工具：把你在某个 Agent（Claude Code、Codex、Cursor 等）会话中纠正过的规则与教训写入项目内的 .hippo/ 存储（SQLite + 可提交的 markdown 镜像），其他 Agent 通过 hooks、插件、扩展或 MCP 读取同一存储。默认路径零模型调用，检索用关键词加本地 Transformers.js 嵌入；支持记忆衰减、supersede 替换、outcome 反馈弱化、从 git 提交学习与导入既有笔记。依赖 Node.js 22.16+，无运行时依赖，通过 npm 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多 agent 共享同一记忆存储：Claude Code、Codex、Cursor、Gemini CLI 及任何 MCP 客户端
-- 默认路径存储零模型调用，recall 为无模型无网络的关键词检索
-- SQLite + markdown 镜像，可读取、diff、提交到 git
-- 负面结果削弱记忆（outcome --bad）、supersede 替换旧事实、未用记忆随时间衰减
+- 多 Agent 共享一个存储：hooks/插件/MCP 服务器三种接入方式
+- 默认路径零 LLM 调用存储记忆，检索无网络请求
+- 记忆机制：衰减、pinned、supersede、outcome 弱化
+- markdown 镜像可 grep、diff、提交进 git
 
 ## 适用场景
 
-- 在 Claude Code 与 Cursor 之间切换时不重复教规则
-- 团队把 agent 记忆作为 markdown 提交并走代码评审
-- 离线/内网环境下为编码 agent 配置共享记忆
+- 在 Claude Code 里教过的规则，切换到 Cursor 或 Codex 时不用重教
+- 团队把记忆 markdown 提交进仓库，在 PR 里评审编码规则
+- 团队通过共享服务器让成员使用同一份 Agent 记忆
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L16: Works with:    Claude Code, Codex, Cursor, Pi, OpenClaw, OpenCode, any MCP client
-> L18: Storage:       SQLite with markdown mirrors you can read and commit
+> L154: |Any MCP client|`hippo mcp`, 13 tools|
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `590e22c431c4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1fcfecd1b95b` · [字段定义](../../DATASET.md)*

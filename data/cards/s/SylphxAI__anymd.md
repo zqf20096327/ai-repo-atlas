@@ -2,9 +2,9 @@
 
 ⭐ 1,078 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SylphxAI/anymd) · [官网](https://anymd.sylphx.com) · 组织维护
 
-**给 AI agent 把各类文件转成干净 Markdown 的本地工具**
+**给 AI agent 的本地文档转 Markdown 工具：Rust MCP 服务器与 CLI**
 
-Rust 编写的 MCP server 与 CLI：读取 PDF、Word、PPT、Excel、EPUB、HTML/网页、图片（OCR）、音视频（元数据、字幕、转录）并输出 Markdown，带引用锚点、token 预算与分页游标。本地运行、不上传数据、无需 API key。通过 npx 一条命令接入 Claude Code、Codex、Cursor、VS Code、Claude Desktop 等 MCP 客户端；OCR 与本地 ASR 模型需显式 opt-in。另提供付费 Pro 功能（PDF 引文核对、视频帧定位，US$29 买断）。
+基于 Rust 的文档转 Markdown 工具，以 MCP 服务器和 CLI 两种形态运行在本地，无需 API key。支持 PDF、Word、PowerPoint、Excel、EPUB、HTML/网页、图片（OCR）、音视频（元数据、字幕、转录）。提供 outline/read/search/inspect 四个 MCP 工具，read 支持分页、token 预算与引用锚点，search 在无精确匹配时回退 BM25 排序。OCR 使用本地 doc-VLM 模型或 tesseract，转录使用 ffmpeg 与内置 Qwen3-ASR，均需显式 opt-in。提供 npm、PyPI、Homebrew、crates.io、Docker 安装途径。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Rust 编写的 MCP server 与 CLI：读取 PDF、Word、PPT、Excel、EPUB、HTM
 
 ## 能力要点
 
-- 一个工具读取全部格式，含 outline/read/search/inspect 四个 MCP 工具
-- 本地运行不上传，OCR 用本地 doc-VLM 或 tesseract，转录用 ffmpeg 与内置 Qwen3-ASR
-- search 无精确命中时回退 BM25 排序段落
-- npm/pip/brew/crates.io/Docker 多渠道分发，Node 18+ 即可运行
+- 四种格式类别统一转 Markdown：文档/网页/图片 OCR/音视频字幕与转录
+- MCP 服务器一条命令接入 Claude Code、Codex、Cursor、VS Code 等客户端
+- 本地运行不上传数据，OCR 与 ASR 模型需显式 opt-in 下载
+- read 工具带 token 预算、游标分页与引用锚点，search 回退 BM25 排序
 
 ## 适用场景
 
-- 让 MCP 客户端直接读取本地 PDF/Office 文档
-- 批量把网页、电子书、表格转为 Markdown
-- 在 agent 上下文内检索多个文档的内容
+- 把 PDF、Office 文档批量转成 Markdown 供 agent 读取
+- 在本地对文档目录做全文检索并返回带页码的命中
+- 为音视频文件提取字幕或生成本地转录
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Rust 编写的 MCP server 与 CLI：读取 PDF、Word、PPT、Excel、EPUB、HTM
 ## 证据(README 行号)
 
 > L5: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcri
-> L61: Or add it by hand: every MCP client runs the same command, `npx -y @sylphx/anymd`. Node 18+ is the only requirement
-> L197: |**`read`**|Turn a file, URL, or folder into Markdown|`source`, `pages` (`"1-5,8"`), `max_tokens` (default 20000),
+> L26: npx -y @sylphx/anymd setup                                    # add anymd to every MCP client on this machine
+> L191: ## MCP tools
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0680f5aeec3e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b56f7bd3d5e9` · [字段定义](../../DATASET.md)*

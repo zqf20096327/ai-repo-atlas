@@ -2,9 +2,9 @@
 
 ⭐ 4,680 · Go · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
 
-**自托管工作流编排器：用 YAML 管理脚本调度与依赖**
+**给非编排团队的本地优先工作流编排器：YAML 声明调度脚本与容器**
 
-面向以内部自动化为日常工作的团队：把已有脚本、SSH 命令、容器等封装为声明式 YAML 的 DAG，工作流结构与业务逻辑分离，删除 YAML 后脚本可原样运行。单二进制文件、内置 Web UI、无外部数据库与消息中间件，支持 cron 调度、重试、人工任务、运行历史、子 DAG 复用、并发控制、MCP server 及单机/临时/分布式三种部署拓扑。社区自托管免费，SSO/RBAC/审计日志等功能需自托管许可证。
+Dagu 是自托管的本地优先工作流引擎：单个二进制内置 Web UI，无外部数据库或消息中间件，运行于 Linux/macOS/Windows。以声明式 YAML 定义 DAG，原生执行 shell 命令、Docker 容器、Kubernetes Job、SSH 远程命令；提供 cron 调度、重试、依赖管理、运行历史、人工任务（暂停等待操作员确认/输入）与内置 MCP server 供检查和控制工作流。面向主要工作不是编排的团队，将现有脚本转为生产工作流。提供社区自托管与付费 self-host 许可（SSO/RBAC/审计）两级。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 单二进制安装，无外部数据库与消息中间件
-- 声明式 YAML 定义 DAG，支持 shell/Docker/Kubernetes Jobs/SSH 步骤
-- 内置 MCP server 用于查看、修改与控制工作流运行
-- 支持单机、临时 worker、分布式 worker 三种部署拓扑
+- 单二进制安装，无需外部 DBMS 或消息中间件
+- 声明式 YAML 定义 DAG，工作流结构与业务脚本分离
+- 支持 shell/Docker 容器/Kubernetes Job/SSH 远程命令执行
+- 内置 MCP server 与人工任务（human-in-the-loop）步骤
 
 ## 适用场景
 
-- 把零散的 cron 定时脚本改成带依赖、重试和日志的 DAG
-- 编排 ETL 与 dbt 数据处理流水线
-- 通过 SSH 批量自动化远程服务器运维任务
-- 在边缘或隔离网络上靠近数据源运行定时任务
+- 把 cron 定时脚本升级为带依赖、重试和日志的 DAG
+- 将 ETL 脚本和 dbt 命令编排为可观测的数据管道
+- 通过 SSH 批量执行远程服务器运维命令并集中留存日志
+- 在边缘/离线环境就近运行数据预处理和备份任务
 
 ## 场景标签
 
@@ -40,7 +40,7 @@
 
 > L15: Dagu is a local-first workflow engine for operations and internal automation. It is open source and self-hostable: 
 > L29: - Built-in MCP server for inspecting workflows and runs, maintaining Wiki pages, applying changes, and controlling 
-> L203: - **Self-host license:** Adds SSO, RBAC, audit logging, incident SaaS integration, and monitoring in Dagu Console 
+> L223: - **Human Tasks:** Pause a workflow for acknowledgement or typed operator input, then expose the response to downs
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `960b00ece8a4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d34a8fccd88f` · [字段定义](../../DATASET.md)*

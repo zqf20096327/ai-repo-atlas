@@ -2,9 +2,9 @@
 
 ⭐ 2,738 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
 
-**为 AI agent 和 MCP 客户端提供网页搜索、抓取与浏览器自动化**
+**给 AI 代理提供网页搜索、抓取与浏览器自动化的 MCP 服务器**
 
-Bright Data 出品的 MCP 服务器，通过 Model Context Protocol 向 AI agent 暴露 31 个工具，覆盖网页搜索（Bing/Google）、URL 抓取为 Markdown/HTML/JSON-LD、1200+ 预构建爬虫的结构化数据提取、远程浏览器自动化，以及向 ChatGPT/Perplexity 发送 prompt 收集回答。支持托管远程服务器（一个 URL 即用）与本地 npx 实例两种部署方式，提供 Claude Desktop、Claude Code、Cursor、VS Code、Windsurf、Gem CLI、Zed、Warp 等客户端的接入配置。账户含每月 5,000 次免费请求额度，超出后按量计费，可设消费上限。
+Bright Data 出品的 MCP 服务器，向 AI 代理与 MCP 兼容客户端提供 31 个工具：网页搜索（Bing/Google 结果结构化）、任意 URL 转 Markdown/HTML/JSON-LD、1,200+ 预构建爬虫的结构化 JSON 输出、远程浏览器自动化，以及收集 ChatGPT/Perplexity 回答。支持托管远程服务器（URL 接入、免安装）与本地 npx 两种部署方式，可通过 GROUPS/TOOLS 参数按需加载工具组。每月免费 5,000 请求，超出后按量计费。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Bright Data 出品的 MCP 服务器，通过 Model Context Protocol 向 AI agent
 
 ## 能力要点
 
-- 31 个 MCP 工具：搜索、抓取、结构化提取、远程浏览器自动化
-- 1200+ 预构建爬虫返回干净 JSON（Amazon、LinkedIn、TikTok、npm、PyPI 等）
-- 托管远程服务器（无需安装）与本地 npx 两种部署方式
-- 工具分组机制（GROUPS/TOOLS）按需加载以减少上下文占用
+- 31 个工具覆盖搜索、抓取、结构化数据、浏览器自动化
+- 1,200+ 预构建爬虫输出干净 JSON，覆盖 Amazon、LinkedIn、TikTok 等
+- 托管远程（一个 URL）与本地 npx 两种部署方式
+- 工具分组机制（GROUPS/TOOLS）减少代理上下文占用
 
 ## 适用场景
 
-- 让 AI agent 用实时网页数据替代训练数据回答问题
-- 为编程 agent 按需读取 npm/PyPI 包与 GitHub 仓库信息
-- 监控社交平台上竞品的帖子、评论与互动数据
-- 替换 agent 内置的 fetch/search 工具以处理需 JS 渲染的页面
+- 让 AI 代理用实时网页数据回答问题而非仅依赖训练数据
+- 电商比价与产品数据结构化采集
+- 为编码代理按需获取 npm/PyPI/GitHub 包信息
+- 社交平台账号与帖子的结构化监控
 
 ## 场景标签
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `0e40193d09ee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a7df49905a81` · [字段定义](../../DATASET.md)*

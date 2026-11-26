@@ -2,9 +2,9 @@
 
 ⭐ 10,165 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/roboflow/rf-detr) · [官网](https://rfdetr.roboflow.com) · 组织维护
 
-**面向微调场景的实时目标检测与分割模型**
+**面向开发者的实时目标检测/分割/关键点检测模型**
 
-Roboflow 开发的实时 transformer 检测架构，单一 API 覆盖目标检测、实例分割与关键点检测（预览），基于 DINOv2/PE-Core-T 主干，提供从 Atto 到 2XLarge 的多个尺寸，并给出 COCO 与 RF100-VL 上的精度-延迟基准。通过 rfdetr 包（pip）安装运行，支持用自有数据集微调；部分模型尺寸在 rfdetr[plus] 扩展中，按 PML 1.0 许可发布，在 Roboflow 平台部署含商业使用，自托管商用需 Enterprise 附加项。
+Roboflow 开发的实时 transformer 检测模型架构，基于 DINOv2/PE-Core-T 视觉骨干，统一 API 下支持目标检测、实例分割与关键点检测（预览），提供 Nano 到 2XLarge 多种尺寸，设计目标为可微调。以 Python 包 rfdetr 发布，pip 安装；部分尺寸（Atto/Femto/Pico/XL/2XL）位于可选 rfdetr[plus] 扩展，采用 Roboflow PML 1.0 许可，自托管商用需 Enterprise 附加项。README 提供 COCO 与 RF100-VL 基准数据、运行示例代码及 Inference 库运行方式。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Roboflow 开发的实时 transformer 检测架构，单一 API 覆盖目标检�
 
 ## 能力要点
 
-- 单一 API 支持目标检测、实例分割与关键点检测（预览）
-- 多个模型尺寸（Atto 至 2XLarge），部分由神经架构搜索生成
-- 在 COCO 与 RF100-VL 上发布精度与延迟基准（NVIDIA T4/TensorRT/FP16）
-- 提供 Roboflow 平台上的 NAS 训练入口
+- 单一 API 支持检测、实例分割与关键点检测（预览）三种任务
+- 提供 Nano 到 2XLarge 多种模型尺寸，基于神经架构搜索生成
+- 核心尺寸与代码采用 Apache 2.0 许可，部分尺寸在 rfdetr[plus] 扩展下为 PML 1.0
+- 可通过 rfdetr 包或 Inference 库运行，附带 COCO/RF100-VL 基准表
 
 ## 适用场景
 
-- 对自定义数据集微调目标检测模型
-- 实时目标检测与实例分割推理
-- 在 COCO 与 RF100-VL 指标间横向比较实时检测模型
+- 微调自定义数据集做实时目标检测
+- 图像实例分割任务
+- 人体关键点/姿态检测
+- 在闭源商业产品中自托管部署检测模型
 
 ## 场景标签
 
@@ -39,7 +40,6 @@ Roboflow 开发的实时 transformer 检测架构，单一 API 覆盖目标检�
 
 > L13: RF-DETR is a real-time transformer architecture for object detection, instance segmentation, and keypoint detection
 > L15: RF-DETR supports object detection, instance segmentation, and keypoint detection (preview) in a single, consistent 
-> L25: To install RF-DETR, install the `rfdetr` package in a **Python>=3.10** environment with `pip`.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7340c68d2c31` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `538fffd3a655` · [字段定义](../../DATASET.md)*

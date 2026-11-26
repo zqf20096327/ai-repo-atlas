@@ -2,9 +2,9 @@
 
 ⭐ 79,334 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/pingdotgg/t3code) · [官网](https://t3.codes) · 组织维护
 
-**在手机/电脑上统一控制多个编码 Agent 的控制台**
+**在桌面与手机统一操控本机编码 agent 的控制面**
 
-T3 Code 是一个开源编码 Agent 控制平面：在本机运行用户已登录的编码 Agent（Claude Code、Codex、Cursor、OpenCode 及任意 ACP Agent），提供统一界面管理线程、切换模型、跨 Agent 交接任务。支持桌面、Web 与 iOS/Android 客户端共用一个服务器同步线程，内置 Git worktree 隔离、diff 审查与一键提交/推送/开 PR，可通过局域网、Tailscale 或 T3 Connect 远程访问。MIT 许可，不转售 token，依赖用户已有的 Agent 订阅。
+T3 Code 在用户自己的机器上运行已有的编码 agent（Claude Code、Codex、Cursor、OpenCode 等），将它们汇总到一个界面：线程可在桌面发起、手机批准下一步；每个线程可用独立 git worktree，提供 diff 审查与一键 commit/push/开 PR；可通过局域网、Tailscale 或 T3 Connect 远程访问。不转售 token，要求本机已有已登录的 agent。提供桌面端（macOS/Windows/Linux）、Web、CLI 及 iOS/Android 应用，源码 MIT 许可，商标与品牌不受 MIT 覆盖，fork 需更换品牌。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ T3 Code 是一个开源编码 Agent 控制平面：在本机运行用户已登�
 
 ## 能力要点
 
-- 统一界面控制 Claude Code、Codex、Cursor 及任意 ACP Agent
-- 桌面/Web/iOS/Android 客户端共享同一服务器与线程
-- 内置 Git worktree 隔离与一键提交、推送、开 PR
-- 提供 brew/winget/scoop/nix/脚本等多种安装方式
+- 一个界面控制本机多个编码 agent，线程中途可切换模型
+- 桌面/手机/Web 共享同一服务器的线程状态，支持远程连接
+- 线程级 git worktree、diff 审查与一键提交/推送/开 PR
+- 源码 MIT 许可，允许 fork 但需替换商标与品牌
 
 ## 适用场景
 
-- 在办公室电脑发起 Agent 任务，用手机批准下一步操作
-- 把多个编码 Agent 收拢到一个界面统一管理
-- 通过 Tailscale 从外部机器远程控制家里的 Agent
+- 在手机上远程批准家里/公司电脑上 agent 的下一步操作
+- 在同一个界面中管理多个编码 agent 并中途交接任务
+- 用 worktree 隔离不同 agent 线程并快速走完 git 流程
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ca361ac9fc1b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `60944e8295b6` · [字段定义](../../DATASET.md)*
