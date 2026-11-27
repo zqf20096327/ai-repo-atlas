@@ -2,9 +2,9 @@
 
 ⭐ 318 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/myylogic/cevahir-ai) · 个人维护
 
-**对话中持续学习的非 Transformer 认知语言模型引擎**
+**通过对话持续学习的证据记忆模型及土耳其语 NLP 引擎**
 
-Cevahir AI 仓库包含一个名为 Cevahir Zihin 的语言模型，作者声明其非神经网络：以 tie（关系）存储带来源标注的证据，用 Seven-Place Focus 机制读取（无上下文窗口），无独立训练阶段、在每次对话中学习，支持精确撤销记忆、一次阅读后的序列回忆、自主决定联网查询（经 robots.txt 合规网关读取网页）。仓库另含土耳其语 BPE 分词器与早期的 Transformer 引擎。需 Python 3.11+，从源码克隆运行，交互界面为土耳其语。
+仓库包含两条路径：新的 Cevahir Zihin（zihin/，python -m zihin 运行）不使用权重矩阵、反向传播或 softmax 注意力，而是把知识保存为带来源证据的 tie，以 Seven-Place Focus 机制在每次对话中学习，支持精确撤回、主动查网（遵守 robots.txt）、批量问答与睡眠遗忘；此前的 Transformer 语言模型核心与土耳其语 BPE 分词器仍保留在仓库中。需要 Python 3.11+，从源码克隆运行，torch/numpy 及 python-docx/pypdf/pillow 为可选依赖，程序界面为土耳其语。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Cevahir AI 仓库包含一个名为 Cevahir Zihin 的语言模型，作者声明
 
 ## 能力要点
 
-- 以证据 tie 与七位焦点机制实现无上下文窗口的读取
-- 无独立训练阶段，在对话中学习，支持精确撤销记忆（Exact Retraction）
-- 自主决定联网查询，网页读取经限制频率、遵守 robots.txt 的网关
-- 仓库另含土耳其语 BPE 分词器与早期 Transformer 引擎
+- 知识以 tie 上的证据保存，可在会话内精确撤回输入（!unut）
+- Seven-Place Focus 机制，无上下文窗口，每次对话中学习
+- 自主决定联网查询未知条目，网页读取遵守 robots.txt（zihin/ag.py）
+- 附带土耳其语 BPE 分词器与早期 Transformer 语言模型核心
 
 ## 适用场景
 
-- 与模型对话并直接教授它文档与问答对（.txt/.md/.docx/.pdf/.tsv）
+- 以对话方式从零教一个模型学习语言与知识
+- 读取本地 .txt/.md/.docx/.pdf 文档并向其提问
 - 研究非 Transformer 架构的语言学习机制
-- 在本地单核/少量核心上运行一个自建认知语言模型
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`RAG` `文档问答` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L11: > The new model in this repository, Cevahir Zihin (`zihin/`, what `python -m zihin` runs), is not a neural network
-> L110: > **There is no separate training phase; the model learns in every conversation. Please speak to it kindly.**
-> L125: python -m zihin
+> L9: > **Latest update — November 2026: Cevahir Zihin, a mind that learns by living. Not a Transformer.**
+> L112: > **There is no separate training phase; the model learns in every conversation. Please speak to it kindly.**
+> L127: python -m zihin
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `6aaf487cb5c2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `4d43adf705ac` · [字段定义](../../DATASET.md)*

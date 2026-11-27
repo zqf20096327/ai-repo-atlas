@@ -2,9 +2,9 @@
 
 ⭐ 140 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/alamops/agetor) · [官网](https://agetor.dev) · 个人维护
 
-**本地优先看板：并行运行多个 CLI 编码 agent 的编排器**
+**为并行运行 Claude Code 等 CLI 编码 agent 提供看板编排**
 
-面向使用 Claude Code、Codex、Cursor 等 CLI 编码 agent 的开发者的本地看板应用：每个任务自动创建隔离 git worktree，在 tmux 中启动各 agent 自带 CLI 并流式呈现结构化对话；支持六种 harness、可复用 Agent 配置、多步 Pipeline 图、diff 审查、GitHub/GitLab/Bitbucket 集成与配额统计。本地运行、无账户无遥测、不安装钩子。以 macOS（Apple Silicon）桌面应用与 CLI 二进制分发，Linux/Windows 未构建。
+本地优先的看板应用，把用户已有的编码 agent CLI 纳入统一控制面：每张任务卡对应一个 prompt、仓库与 harness，运行时自动创建隔离的 git worktree 并在 tmux 中启动 agent 原生 CLI，输出以结构化组件流式展示。支持 8 种 harness 的多账号堆叠与配额耗尽自动切换，可把多个 Agent 编排为 Pipeline 图。基于 Bun 构建，桌面应用自带更新与原生通知；不含云端中继与遥测。部分 harness 标注为 experimental。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 每任务独立 git worktree，多 agent 可并行操作同一仓库
-- 六种 harness：Claude Code、Codex、Cursor、Gemini CLI、fx、Antigravity
-- Pipeline 将多个 Agent 串成可复用图，步骤间以 handoff JSON 交接上下文
-- tmux 承载 agent 会话，退出 Agetor 不中断，重启后重连
+- 每任务独立 git worktree，支持同仓库多 agent 并行
+- 8 种 harness（Claude Code/Codex/Cursor 等）同板运行，运行时发现各 CLI 可用模型
+- 多账号堆叠：配额耗尽时同会话续接到备用账号
+- Pipeline 将 Agent 串成可复用图（分支/扇出/循环）
 
 ## 适用场景
 
-- 我同时在多个仓库或分支上跑多个编码 agent
-- 用看板追踪 agent 任务的阻塞、审批与评审状态
-- 把 规划→实现→评审 组成可复用的流水线
+- 在一张看板上并行推进多个仓库的编码任务
+- 为同一 harness 配置多个账号并在限流时自动续跑
+- 把 Plan→Implement→Review 流程固化为 Pipeline
 
 ## 场景标签
 
-`多智能体` · 领域:Agent 开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L20: Coding agents are good enough now that the limiting factor is you: one terminal, one conversation, one branch at a 
-> L22: **Agetor doesn't replace your agents, and it doesn't replace your harness.** Claude Code is still Claude Code, with
-> L61: A **harness** is the agent CLI Agetor drives. Agetor launches the real binary on your `PATH` with your existing log
+> L5: **The harness orchestrator.**
+> L6: A local-first kanban for running Claude Code, Codex, Cursor, Gemini CLI, fx, Antigravity, GitHub Copilot and OpenCod
+> L62: A **harness** is the agent CLI Agetor drives. Agetor launches the real binary on your `PATH` with your existing log
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `05f412a8c8cb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `e4b1e85f735d` · [字段定义](../../DATASET.md)*

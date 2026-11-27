@@ -2,9 +2,9 @@
 
 ⭐ 153 · jq · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/volcengine/ark-cli) · [官网](https://console.volcengine.com/ark/region:cn-beijing/arkcli) · 组织维护 · 中文 README
 
-**把火山方舟能力接入终端与 AI Agent 的官方 CLI**
+**把火山方舟能力接入终端与本地 AI Agent 的 CLI 工具**
 
-火山引擎官方发布的 npm CLI 工具，将火山方舟 MaaS 平台能力封装为命令行与 Agent Skills：支持文本/多模态对话、Seedream 生图、Seedance 生视频、OCR、语音转写、文档抽取，以及 Plan 套餐管理、模型精调、一键部署 Endpoint、用量账单查询与 doctor 诊断。通过 arkcli +connect 将内置 Skills 安装到 Claude Code、Codex 等本地 Agent，使其以自然语言调用方舟能力。认证默认走火山 SSO，计费操作带确认步骤，Apache-2.0 许可。
+火山引擎出品的命令行工具，将方舟平台的模型调用、图片/视频生成、多模态理解（OCR/语音转写/字幕打轴）、Plan 管理、精调、Endpoint 部署、用量账单与诊断能力封装为 arkcli 命令；并通过 +connect 安装 Ark Skills、配置 Harness/MCP，使 Claude Code、OpenCode、Codex 等本地 Agent 能以自然语言调用这些能力。经 npm 全局安装，支持无浏览器环境的认证登录，单命令即可从提示词得到生成结果或已部署服务。
 
 ## 筛选速览
 
@@ -20,19 +20,20 @@
 
 ## 能力要点
 
-- arkcli +connect 将内置 Skills 注入本地 Agent（Claude Code / Codex 等）
-- 覆盖对话、多模态理解、图片/视频生成、精调、部署、用量账单与诊断的命令集
-- 火山 SSO 登录后自动完成身份与 API Key 配置，支持 --no-browser 无浏览器授权
+- 一条命令完成模型调用、图片/视频生成或多模态理解，产物自动下载到本地
+- +connect 将 Ark Skills 注入本地 Agent，支持清理卸载恢复环境
+- 覆盖精调、Endpoint 一键部署、Usage/Billing/Doctor 治理闭环
+- 支持 SSO 登录自动配置身份与 API Key，提供 --no-browser 无浏览器认证
 
 ## 适用场景
 
-- 让本地 AI Agent 调用火山方舟的模型与媒体生成能力
-- 通过命令行完成模型选型、开通套餐到部署 Endpoint 的流程
-- 查询用量与账单、用 doctor 排障
+- 让 Claude Code 等本地 Agent 通过自然语言调用火山方舟模型与生成能力
+- 在远程开发机、CI 或 Agent 沙箱等无浏览器环境中完成方舟认证
+- 一条命令把基础或精调模型部署为 Endpoint 并管理用量与账单
 
 ## 场景标签
 
-`图像生成` `视频生成` `语音识别` `OCR` · 领域:内容生成
+`图像生成` `视频生成` `多模态` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6e60e21ad74e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `49e009958ff0` · [字段定义](../../DATASET.md)*

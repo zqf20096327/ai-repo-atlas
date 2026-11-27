@@ -2,9 +2,9 @@
 
 ⭐ 200 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kibae/onnxruntime-server) · 个人维护
 
-**为 ONNX 模型提供 TCP/HTTP REST 推理 API 的服务端**
+**把 ONNX 模型目录发布为 TCP/HTTP 推理 API 的服务器**
 
-基于 ONNX Runtime 的推理服务器：将导出为 ONNX 格式的模型放入约定目录结构即可自动提供推理 API，无需额外编写代码。支持 TCP 与 HTTP/HTTPS 后端，内置 Swagger API 文档，可分析模型输入/输出类型与形状信息。每个会话可选择 CPU 或 CUDA 执行；所有命令行选项可通过环境变量设置，便于容器部署。提供 Docker 镜像、AUR 包，也可从源码用 CMake 编译安装（依赖 Boost、CMake 等）。
+面向已导出为 ONNX 格式模型的开发者：将模型文件按目录结构放置即可通过 API 提供推理，无需额外编写代码。服务器提供 TCP 与 HTTP/HTTPS REST 两种后端，每个会话可选择 CPU 或 CUDA 执行，自动分析模型输入/输出类型与形状，内置 Swagger 文档供协作者测试模型。支持 onnxruntime-extensions 自定义算子与会话级 SessionOptions 转发。安装方式包括 CMake 源码编译、Docker 镜像（CPU/CUDA12/CUDA13）与 Arch Linux AUR 包；运行需 ONNX Runtime 与 Boost 等依赖。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 放置 ONNX 文件到目录结构即可提供推理 API，无需额外代码
-- TCP 与 HTTP/HTTPS 双后端，内置 Swagger API 文档
-- 每会话可选 CPU 或 CUDA 执行，支持会话级 SessionOptions 与 CUDA Provider 选项
-- 支持 onnxruntime-extensions 自定义算子库与模型二进制上传
+- 放置 ONNX 文件到目录结构即可提供推理 API，无需写代码
+- TCP 与 HTTP/HTTPS REST 双后端，按会话选择 CPU 或 CUDA
+- 内置 Swagger API 文档，并分析模型输入/输出类型与形状
+- 提供 Docker 镜像（CPU/CUDA）与 AUR 包
 
 ## 适用场景
 
-- 把各种环境训练并导出的 ONNX 模型快速发布为推理 API
-- 为协作者提供带 Swagger 文档的模型测试接口
-- 在 Docker 容器中以环境变量配置运行推理服务
+- 把训练导出的 ONNX 模型快速部署为团队可调用的推理 API
+- 向协作者提供带 Swagger 文档的模型测试入口
+- 在 NVIDIA GPU 环境用 CUDA 后端部署 ONNX 模型
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L11: - **The ONNX Runtime Server is a server that provides TCP and HTTP/HTTPS REST APIs for ONNX inference.**
-> L12: - ONNX Runtime Server aims to provide simple, high-performance ML inference and a good developer experience.
 > L13:  - If you have exported ML models trained in various environments as ONNX files, you can provide inference APIs
+> L107: - **You need to enable one of the following backends: TCP, HTTP, or HTTPS.**
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8e88eaa86a80` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2f9ce01ec8c7` · [字段定义](../../DATASET.md)*

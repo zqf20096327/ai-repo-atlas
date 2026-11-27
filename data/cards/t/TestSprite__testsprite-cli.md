@@ -2,15 +2,15 @@
 
 ⭐ 5,229 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/TestSprite/testsprite-cli) · [官网](https://www.testsprite.com) · 组织维护
 
-**给编码 agent 和开发者的云端自动化测试 CLI**
+**编码 agent 的自动化测试 CLI：验证 AI 写的代码是否可用**
 
-TestSprite 云端 AI 测试平台的官方命令行工具：从终端或 CI 对运行中的前端/后端产品发起真实浏览器与 API 测试，以 JSON 结果返回失败步骤、原因与修复建议，供编码 agent（Claude Code、Cursor 等）读取并自修复。流程为 plan→apply→run→result get 循环，测试积累为持久测试套件。setup 命令向检测到的编码 agent 写入技能文件；测试执行在云端进行，本地环境通过隧道接入。需 Node.js 20.19+，商用依赖 TestSprite 平台账号。
+TestSprite 云端测试平台的官方命令行工具：对运行中的前端或后端做真实浏览器/API 测试，测试由云端 agent 生成与执行，结果以面向编码 agent 的结构化 JSON 返回（失败步骤、原因、修复建议、截图与视频证据）。通过 plan→apply→run→result get 的循环将验证结果沉淀为持久测试套件，支持 GitHub Actions PR 门禁、JUnit 报告与本地环境隧道。需 Node.js 20.19+，依赖云端服务运行。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@ TestSprite 云端 AI 测试平台的官方命令行工具：从终端或 CI 对�
 
 ## 能力要点
 
-- 面向编码 agent 的结构化输出：runId/resultId、失败步骤截图、traceback 与修复建议
-- plan→apply→run→result get→fix 循环，通过的测试存入持久套件
-- testsprite ci init github 生成 PR 门禁，支持 JUnit 报告与确定性退出码
-- --local 端口模式通过隧道对本机运行的应用执行云端测试
+- 针对编码 agent 的结果输出：每次运行返回失败步骤、原因与修复建议及截图/视频证据
+- plan→apply→run→result get→fix 循环，通过的测试累积为持久测试套件
+- testsprite setup 自动为检测到的编码 agent 安装技能文件
+- ci init github 生成 PR 门禁，支持 JUnit 报告与机器可读摘要
 
 ## 适用场景
 
-- 让编码 agent 在提交代码前自动验证行为是否正常
-- 为 GitHub PR 配置自动化测试门禁
-- 在终端对本地或预发布环境运行 E2E 测试
+- 让编码 agent 在提交代码前自动验证行为是否被测试覆盖
+- 在 GitHub Actions 中对每个 PR 的预览部署运行测试套件
+- 通过隧道对本地运行的前端应用执行云端测试
 
 ## 场景标签
 
-`浏览器自动化` · 领域:效率与自动化
+`代码审查` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L33: TestSprite is the AI testing platform 100,000+ teams use to test their software, frontend and backend — in the clou
-> L115: - 🧪 **Tests like a real user.** Runs against a live browser or API in the cloud — real clicks, real navigation, re
-> L121: - 🔌 **One command to onboard your agent.** `testsprite setup` drops ready-made skill files into your repo — for th
+> L35: It puts that platform in your coding agent's hands: the agent verifies every behavior it ships, and what broke come
+> L122: - 🔌 **One command to onboard your agent.** `testsprite setup` drops ready-made skill files into your repo — for th
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `7c089c0df652` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `399160f96ac8` · [字段定义](../../DATASET.md)*

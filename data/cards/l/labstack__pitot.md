@@ -2,9 +2,9 @@
 
 ⭐ 160 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/labstack/pitot) · [官网](https://pitot.dev) · 组织维护
 
-**单二进制可观测性平台：接收 OTLP，内置 AI 调查代理**
+**单二进制可观测性平台：接收 OTLP 并以 DuckDB 查询**
 
-Pitot 将 OpenTelemetry 的 traces、日志与指标接入一个二进制与一个数据目录，无需外部存储服务：OTLP 经 gRPC/HTTP 接入后落为 Parquet，用 DuckDB 做查询分析，并提供 PitotQL、仪表盘与告警。面向自托管运维/开发者，内置调查代理可用自然语言问答遥测数据（可选接入 Anthropic 或 OpenAI，不配置则聊天禁用而其余功能可用），并暴露 MCP 服务端供外部 agent 使用相同查询工具。限制：单节点、无集群与复制，处于 alpha 预发布阶段且无迁移保证。
+Pitot 将 OpenTelemetry 的 traces、logs、metrics 接收（OTLP/gRPC 与 HTTP）并存入本地 Parquet，用 DuckDB 做查询分析，全部打包为一个 Go 二进制加一个数据目录，无外部存储服务。提供 PitotQL 查询语言（无需 AI 提供商）、内置调查 agent、MCP server（供外部 agent 连接）、跨三信号的仪表盘与服务错误率/延迟等告警。配置仅通过环境变量，修改需重启。定位单节点：无集群、无复制、无对象存储层。当前为 pre-release/alpha，接口可能无迁移路径地变动。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Pitot 将 OpenTelemetry 的 traces、日志与指标接入一个二进制与一�
 
 ## 能力要点
 
-- 单二进制单数据目录承载 ingest、存储、查询、告警、agent、MCP 与 React 客户端
-- OTLP gRPC/HTTP 接入，Parquet 存储 + DuckDB 分析
-- 内置自然语言调查代理与 MCP 服务端（Streamable HTTP，OAuth 授权）
-- AI 聊天为可选：PITOT_AI_PROVIDER 支持 anthropic/openai，不配置则其余功能照常
+- OTLP/gRPC 与 HTTP 接收，本地 Parquet 存储 + DuckDB 分析
+- 内置调查 agent 与 MCP server，供外部 agent 以自然语言查询遥测
+- PitotQL/Explore 查询不依赖 AI 提供商
+- 一个二进制 + 一个数据目录，单进程含接收、存储、查询、告警、MCP 与 React 客户端
 
 ## 适用场景
 
-- 自托管采集与调查 OpenTelemetry 三类信号，不想运维外部存储
-- 让 AI 代理通过 MCP 用同一查询契约调查遥测数据
-- 在单机磁盘与 CPU 预算内做事故调查与告警
+- 自托管接收并查询 OpenTelemetry 遥测数据
+- 通过 MCP 让外部 agent 以自然语言调查服务故障
+- 在单机环境中替代多组件遥测栈的部署方式
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+ · 领域:可观测性/监控运维
 
 ## 证据(README 行号)
 
-> L26: - OTLP ingest over gRPC and HTTP, with local Parquet storage and DuckDB analytics.
+> L20: Pitot keeps OpenTelemetry traces, logs, and metrics in one binary and one data directory, with no
 > L28: - An investigation agent that answers questions about your telemetry in plain language.
-> L97: requires its key at startup. With no provider, chat is disabled and the other features still work.
+> L29: - An MCP server for external agents using the same typed query tools.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `07cc4837e4e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `13a3db73db8f` · [字段定义](../../DATASET.md)*

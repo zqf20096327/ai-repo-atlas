@@ -2,9 +2,9 @@
 
 ⭐ 142 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rustytensor/pi-thinking-steps) · [官网](https://www.npmjs.com/package/pi-thinking-steps) · 个人维护
 
-**Pi 终端推理可视化扩展：三种思维面板与会话审查树**
+**Pi 终端扩展：以三种模式结构化展示模型推理步骤**
 
-面向 Pi 的 TypeScript 终端扩展，将模型供应商的原始推理流渲染为 collapsed/summary/expanded 三种 TUI 面板，不生成或改写推理内容。支持会话级 JSON/Markdown 导出、Pi 内只读审查浏览器、逐字源查看、字面量搜索与分支响应对比，并提供会话/项目/全局三级模式持久化。默认关闭自动快照，导出含对话数据需自行审慎共享；工具均为只读快照，不调用模型或修改会话。
+面向 Pi（终端 AI 代理）的 TypeScript 扩展，将提供商返回的推理流渲染为 TUI 面板，提供 collapsed/summary/expanded 三种显示模式、可切换的 token 速率页脚（Alt+Shift+T）。支持通过 /thinking-steps 命令导出会话推理树为 JSON/Markdown（含分支结构、模式 0600 权限），提供只读的会话内 review 浏览器、verbatim 查看与字面量搜索。不改动原文、不生成推理内容，无法恢复被提供商隐藏的思考块；导出功能要求持久化会话。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- collapsed/summary/expanded 三种终端思维显示模式
-- 会话分支导出为 JSON（schema v1，父子 ID 树）与 Markdown
-- Pi 内只读审查浏览器：逐字源、派生步骤与分支响应两栏对比
-- 字面量、Unicode 感知、大小写不敏感的会话内搜索
+- 三种思考面板模式：collapsed/summary/expanded，Alt+T 切换
+- JSON/Markdown 导出会话推理树，支持当前分支或全部分支
+- 只读 review 浏览器与 verbatim 原文查看、字面量搜索
+- 会话/项目/全局三级模式持久化与恢复优先级
 
 ## 适用场景
 
-- 在终端实时跟踪模型的推理流而不读原始流文本
-- 把推理过程导出为 JSON/Markdown 做归档与复核
-- 对比同一提示在不同分支上的回答与思维文本
-- 在思维文本中定位某段原文出处
+- 在终端里快速浏览模型的长推理流程
+- 导出会话推理记录供事后审阅
+- 查看每条回复的输入/输出 token 速率
 
 ## 场景标签
 
@@ -40,7 +39,7 @@
 
 > L5:  Faithful, terminal-native thinking visualization for Pi.
 > L16: Pi already exposes provider thinking, but raw reasoning streams are hard to scan in a real terminal. Pi Thinking St
-> L156: All three tools are read-only TUI snapshots: they do not call a model, modify the session, change its branch, or e
+> L31: - **Three focused modes** — `collapsed`, `summary`, `expanded`
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5447506d3c8d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `d0475c0ea798` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 214 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/coddy-project/coddy-agent) · [官网](https://coddy.dev) · 组织维护
 
-**单静态 Go 二进制的通用 agent，多界面共享同一会话**
+**单静态 Go 二进制的通用 AI Agent：多入口同会话**
 
-以单一静态 Go 二进制分发：同一 agent 核心可通过桌面应用、终端 TUI、编辑器（ACP）、内嵌 Web UI 与 OpenAI 兼容 HTTP API、Telegram/Pachca 网关、cron 调度器、swarm relay 和 remote 模式访问，各界面共享 ~/.coddy 下的会话。机制包括 ReAct 循环、文件/shell 工具、MCP、rules、skills、子代理、hooks、后台任务、长期记忆、上下文压缩与项目信任门。可运行于 scratch/distroless 只读根文件系统镜像，无运行时依赖。MIT 许可，提供多平台安装包。
+一个通用 AI Agent，以静态 Go 二进制分发，同一 Agent 核心通过多种入口访问：桌面应用、终端 TUI、面向编辑器的 ACP 服务、内置 Web UI 的 OpenAI 兼容 HTTP API、Telegram/Pachca 网关、cron 调度器、Swarm 中继与远程模式，全部共享 ~/.coddy 下的同一批会话。机制含 ReAct 循环、文件系统与 shell 工具、MCP、rules/skills/subagents/hooks、后台任务、长期记忆、上下文压缩与项目信任门控；运行于 scratch/distroless 容器，无需额外运行时。模型通过配置文件中的 provider 或 OPENAI_API_KEY 提供。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 一个静态二进制覆盖桌面、终端、编辑器、浏览器、Telegram 等多种界面，共享同一会话
-- OpenAI 兼容 API 与内嵌 Web UI、Swagger 文档
-- 子代理、skills（SKILL.md 斜杠命令）、hooks、MCP 与上下文压缩
-- Swarm relay 管理多节点舰队并支持 Prometheus 指标导出
+- 单静态二进制提供桌面/TUI/ACP/HTTP API/Telegram/调度器/Swarm 等多种入口，共享会话
+- 支持 MCP 服务器（stdio/HTTP/SSE）、规则、技能、子代理与生命周期 hooks
+- 会话目标模式由第二模型判定工具结果、只读校验器确认，附看门狗防卡死
+- 上下文压缩、后台记忆子代理、自配置 YAML 与跨入口会话续接
 
 ## 适用场景
 
-- 在终端、编辑器与手机浏览器间续接同一个 agent 会话
-- 通过 Telegram 机器人远程驱动本机 agent
-- 用 cron 定时任务以 Markdown 文件形式编排 agent 运行
-- 对容器集群中的多节点 agent 做统一管理与监控
+- 在终端、编辑器（Zed/VS Code）、浏览器与 Telegram 中续接同一个 Agent 会话
+- 以 cron 定时任务形式运行独立会话的自动化 Agent 作业
+- 以 docker compose 在容器集群中批量部署 Agent 节点并用 Swarm 中继统一调度
+- 通过技能与 hooks 定制代码审查、功能开发等 Agent 工作流
 
 ## 场景标签
 
-`AI 助手` `多智能体` · 领域:Agent 开发
+`编码 Agent` `Agent 记忆` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9:  A general-purpose agent in one static Go binary.
 > L19: Coddy is a **harness**: the same agent core is reachable from the desktop app with `coddy desktop`, from a terminal
+> L89: - **Any model**: OpenAI, Anthropic, NeuralDeep, ChatGPT through Codex, the models of a Devin account (Devin), a loc
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9388a6d03959` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5612881f86bc` · [字段定义](../../DATASET.md)*

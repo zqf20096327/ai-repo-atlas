@@ -1,10 +1,10 @@
 # termdock/termdock-issues
 
-⭐ 160 · Shell · 推送 2026-11-25 · [GitHub](https://github.com/termdock/termdock-issues) · [官网](https://termdock.com) · 组织维护 · 中文 README
+⭐ 160 · Shell · 推送 2026-11-25 · [GitHub](https://github.com/termdock/termdock-issues) · [官网](https://termdock.com) · 组织维护
 
-**面向 AI 编码代理会话的 GPU 加速终端（macOS/Windows）**
+**给开发者的桌面 AI 终端：并排运行多个编码 Agent**
 
-面向 macOS 与 Windows 的终端优先开发环境：将 Claude Code、Codex、Gemini CLI、OpenCode、GitLab Duo 作为一级托管代理会话运行，代理的权限请求、提问与计划审查进入审批面板，可经 Telegram/Discord 远程监管。内置 Rust 索引管线构建代码图，提供 diff 影响分析、三栏 Git 可视化审查、Tree-sitter+LSP 的 13+ 语言代码智能、Terminal API 与 CLI、本地 HTTP API、局域网点对与 SSH（beta）远程工作区。主仓库仅用于发布下载与问题反馈，开发在私有仓库进行；Linux 支持尚未提供。通过 Homebrew cask 或 DMG/exe 安装包安装。
+面向 macOS 与 Windows 的桌面终端应用，将终端模拟器、AI Agent 会话、远程工作区与 Git 审查合并到一个桌面应用中。用户自行安装并登录 Claude Code、Codex、Antigravity CLI、OpenCode、GitLab Duo 等 CLI 工具，Termdock 提供并排会话管理、Workstream 审批面板、本地 HTTP Terminal API（SSE 流式输出）、macOS CLI 工具，以及基于 Rust 索引的代码图 diff 影响分析。本仓库仅提供下载、Issue 与讨论，应用本体在私有仓库开发；模型订阅需用户另行购买。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Claude Code/Codex/Gemini CLI/OpenCode/GitLab Duo 作为托管代理会话，权限请求汇入审批面板
-- 代码图 diff 影响分析与三栏 Git 可视化审查（blame、Twin Focus）
-- WebGL GPU 渲染，重负载下渲染 CPU 降低约 90%，电池模式自动省电
-- LAN 点对点（端到端加密）与 SSH（beta）远程工作区，Telegram/Discord 远程监管
+- 并排运行 Claude Code、Codex、Antigravity CLI (agy)、OpenCode、GitLab Duo
+- 本地 HTTP Terminal API 与 macOS termdock CLI，支持脚本创建/附加会话与 SSE 实时输出
+- Rust 索引代码图将 git diff 映射到受影响的调用方，支持 13+ 语言的 Tree-sitter + LSP
+- LAN Peer Remote 设备配对与 SSH 远程工作区，手机/浏览器可读取并输入终端
 
 ## 适用场景
 
-- 在一个工作区内同时运行并监管多个 AI 编码代理会话
-- 在合并 AI 生成代码前做影响分析与可视化 Git 审查
-- 跨机器挂载远程工作区，从手机端审批代理请求
+- 在同一桌面工作区并排运行多个 AI 编码 Agent
+- 在手机浏览器上查看终端输出并回传输入
+- 接受 Agent 改动前用代码图检查 diff 影响范围
+- 通过 Telegram/Discord 远程控制终端
 
 ## 场景标签
 
@@ -37,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L23: The way we build software has changed: the agent writes, you direct. Termdock is a **terminal-first development env
-> L27: - **AI-agent native** — first-class sessions for Claude Code, Codex, Gemini CLI, OpenCode, and GitLab Duo; agents w
+> L21: Termdock combines a terminal emulator, AI agent sessions, remote workspaces, and Git review in one desktop app. Use
+> L66: Run supported agents such as **Claude Code, Codex, Antigravity CLI (agy), OpenCode, and GitLab Duo** in managed ter
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bc624a7591b3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f2a86cab744a` · [字段定义](../../DATASET.md)*

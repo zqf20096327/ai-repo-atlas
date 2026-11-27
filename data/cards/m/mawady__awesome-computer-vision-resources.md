@@ -2,9 +2,9 @@
 
 ⭐ 179 · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/mawady/awesome-computer-vision-resources) · 个人维护
 
-**计算机视觉结构化学习资源清单：课程、书籍、会议、期刊与库**
+**为 CV 学习者提供按学习路径组织的资源策展清单**
 
-计算机视觉领域的策展式学习参考清单：按学习路径组织资源，覆盖图像基础、经典方法、深度学习到生成式 AI。条目包括多语言（Python/Rust/MATLAB）库并标注维护状态、参考书籍、大学课程、按 CORE 分级并附接受率的会议、按 SJR 分区的期刊。面向学生、工程师、研究者与教育者，强调精选与排序而非百科式罗列。README 未提供本产品的安装步骤。
+以「策展优先于全面」为原则的计算机视觉学习参考清单，按基础图像处理→经典方法→深度学习→生成式模型的学习顺序组织资源。提供三条引导式学习轨道（含 Mermaid 路线图与逐轨大纲），分门别类收录 Python/Rust/MATLAB 库（带 active/legacy/archived 维护状态标注）、参考书目、19 门大学课程及按 CORE 排名分级的学术会议列表。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 按学习路径（基础→经典方法→深度学习→生成式 AI）组织资源
-- 库条目标注 active/legacy/archived 维护状态
-- 会议按 CORE 等级分级，期刊按 SJR 分区标注
+- 三条引导式学习轨道与逐轨教学大纲
+- 库条目带 ✅/⚠️/🗄️ 维护状态标注
+- 会议列表按 CORE Ranking 分级并附收录率说明
 
 ## 适用场景
 
-- 初学计算机视觉时找到入门课程与参考书
-- 研究者查找会议等级、期刊分区与经典论文线索
-- 选择 CV 相关编程库时了解其维护状态
+- 我想系统入门计算机视觉，需要按顺序的学习路线
+- 我想挑选 CV 领域的参考书和公开课
+- 我想了解 CV/ML 学术会议的等级分层
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L2: *A structured learning reference: image fundamentals → classical methods → deep learning → generative artificial int
+> L11: There are dozens of "awesome computer vision" repositories on GitHub. Most are
 > L16: This list is built around a different idea: **curation over comprehensiveness**.
+> L26: Rather than browsing alphabetically, use the roadmap below to follow a structured progression from pixel math to mo
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `87e4ba575b52` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b4e2e5c6f45d` · [字段定义](../../DATASET.md)*

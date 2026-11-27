@@ -2,9 +2,9 @@
 
 ⭐ 144 · Dart · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/sesori-ai/sesori_apps_monorepo) · [官网](https://sesori.com) · 组织维护
 
-**手机远程驾驶本机 AI 编程 agent 的移动客户端+Bridge CLI**
+**在手机上远程监控与操控本地 AI 编码代理的应用**
 
-由 Sesori 团队提供的 Flutter 移动应用与源码可用的 Bridge CLI：Bridge 运行在开发机上，通过 WebSocket 中继与手机配对，全程 X25519 密钥交换 + XChaCha20-Poly1305 端到端加密，中继只见不透明二进制帧。支持 OpenCode、Codex CLI、Copilot CLI、Antigravity、Cursor、Claude Code、Pi/OMP、DeepSeek Harness、Grok Build 等 10 种编程 agent 集成（ACP/native 协议），用户在手机上浏览会话、审批步骤、看 diff 与 PR 状态、语音或文字交互并接收通知。凭据保留在本机，不发送至手机。Bridge 采用 FSL-1.1-ALv2 许可。
+Sesori 由两部分组成：手机端应用（iOS/Android）与运行在本机的 Bridge CLI。Bridge 与本机各编码代理（OpenCode、Codex CLI、Copilot CLI、Antigravity、Cursor、Claude Code、Hermes、Pi、Oh My Pi、DeepSeek Harness、Grok Build）通过各自协议或 ACP 集成，经 WebSocket 连接中继服务器，手机可浏览项目与会话、回复代理提问、批准步骤、查看 diff、接收任务完成通知。传输采用 X25519 密钥交换与 XChaCha20-Poly1305 端到端加密，中继只转发不透明帧。Bridge 与客户端协议源码可得，许可证为 FSL-1.1-ALv2。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 10 种 AI 编程助手集成（ACP/native JSONL/stream-json 等协议），可同一 Bridge 并行多助手
-- 端到端加密：X25519 临时密钥交换 + XChaCha20-Poly1305，中继只路由密文帧
-- 手机端可审批步骤、查看 diff 与 PR 状态、语音/文字交互、实时通知
-- 源码可用的 Bridge CLI，许可为 FSL-1.1-ALv2
+- 手机端浏览项目、回复提问、批准步骤、停止/重启任务、查看代码 diff
+- 支持 11 个编码代理，默认全部启用，同一 Bridge 可并行多个会话
+- X25519 + XChaCha20-Poly1305 端到端加密，中继仅路由不透明二进制帧
+- Bridge 为 source-available（FSL-1.1-ALv2），本机代码可审计
 
 ## 适用场景
 
-- 离开工位后用手机继续跟进本机上的 AI 编程会话
-- 远程审批 agent 的操作步骤并接收完成通知
-- 在手机上查看代码 diff 与 PR 状态
+- 离开电脑后继续跟进长时间运行的编码代理任务
+- 在手机上批准或中断代理的执行步骤
+- 随时收到代理需要人工介入的实时通知
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7:  Sesori is the mobile cockpit for your AI coding sessions — OpenCode, OpenAI Codex CLI, GitHub Copilot CLI, Google A
-> L54: The Bridge is a small source-available command-line tool that connects the app to your AI coding assistants — the f
+> L5:  Run your AI coding agents from your phone.
+> L93: A lightweight Bridge runs on your laptop alongside your AI coding assistant. It connects to a relay server over Web
+> L118: |Assistant|Integration|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `14b391759aac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4edafff71323` · [字段定义](../../DATASET.md)*

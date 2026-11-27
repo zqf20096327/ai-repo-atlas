@@ -2,9 +2,9 @@
 
 ⭐ 231 · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/amitshekhariitbhu/ai-agents-tutorial) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**面向开发者的 AI Agent 从零学习教程合集（博客+视频）**
+**从零学习 AI Agent 的系列教程：函数调用到多智能体**
 
-由 Outcome School 创始人 Amit Shekhar 维护的教程系列，按主题组织为博客与视频链接，内容覆盖 AI 工程基础（LLM、RAG、MCP、微调、量化）、函数调用、Agent 循环、ReAct/Reflection/Plan-and-Execute 等模式、Agent 记忆、上下文工程、Agentic RAG、GraphRAG、多智能体系统、子智能体、编排、Agent 通信、计算机使用与浏览器 Agent。作者声明系列会持续扩充，各条目列出所涵盖的子主题清单。
+由 Outcome School 创始人 Amit Shekhar 维护的 AI Agent 学习教程合集，以博客与视频形式组织，主题覆盖 LLM/RAG/MCP 基础、函数调用、Agent Loop、ReAct/Reflection/Plan-and-Execute 等代理模式、Agent 记忆、上下文工程、Agentic RAG、GraphRAG、多智能体系统、编排、Agent 通信、计算机与浏览器代理等。README 为各篇教程提供章节大纲与入口链接，作者声明系列会持续扩展新主题。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖从函数调用到多智能体、编排与评测的递进式主题序列
-- 每个主题提供博客或视频入口并列出涵盖的子主题
-- 包含 ReAct、Reflection、Plan-and-Execute 等具体 Agent 模式的拆解
-- 涉及 Agent 记忆、上下文工程、MCP、Agent 通信协议等机制讲解
+- 覆盖函数调用、Agent Loop 到多智能体与评估的渐进式主题序列
+- 含 ReAct、Reflection、Plan-and-Execute 等代理模式的实现与失败模式讲解
+- 包含 MCP、Agent 通信协议、Computer-Use 与 Browser Agent 等专题
+- 每篇教程附完整章节大纲
 
 ## 适用场景
 
-- 从零开始系统学习 AI Agent 的概念与工作原理
-- 为构建多智能体系统查找编排与通信模式的讲解
-- 理解 MCP、函数调用、Agentic RAG 等机制的原理
+- 系统学习从基础到多智能体的 AI Agent 概念与实现
+- 开发 AI Agent 前了解常见代理模式与失败模式
+- 理解 MCP、Agent 记忆与上下文工程等专题机制
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L5: **Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestr
-> L7: Prepared and maintained by the **Founder** of Outcome School: Amit Shekhar
-> L9: **Note: This series will continue to grow as I write more blogs and create more videos on new topics. Keep learning.
+> L28: In this blog, we will learn about the AI Agent - what it is, how it is different from a plain LLM, its five core pa
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3a1c24a0e398` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `cbc4bd95a5fa` · [字段定义](../../DATASET.md)*

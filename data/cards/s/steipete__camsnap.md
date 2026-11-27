@@ -2,9 +2,9 @@
 
 ⭐ 151 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/steipete/camsnap) · [官网](https://camsnap.ai) · 个人维护
 
-**给开发者的摄像头命令行工具：抓拍、录像与场景变化触发动作**
+**从 RTSP/ONVIF 摄像头抓取快照与短片的 CLI 工具**
 
-camsnap 是一个 Go 编写的命令行工具，面向需要从 RTSP/RTSPS 网络摄像头或本地摄像头抓拍快照、录制短视频的用户。支持按名称保存摄像头配置、ONVIF 设备发现、USB 摄像头 PTZ 控制与 macOS 下的 pan 弧线扫描抓帧。watch 命令基于 ffmpeg 的场景变化检测（可设阈值与冷却时间）触发任意 shell 动作，并以 JSON 流输出事件。macOS/Linux/Windows 提供预编译二进制，Homebrew 安装自动携带 ffmpeg；Windows 不支持本地摄像头，配置文件明文存储凭据。
+命令行工具，功能包括：向 RTSP 摄像头抓取快照与短片、发现局域网内 ONVIF 设备、基于 ffmpeg 场景变化检测触发 shell 动作、macOS/Linux 本地摄像头抓取与 PTZ 控制。摄像头保存一次后可按名称调用。配置以明文存储于 ~/.config 下的 YAML 文件。macOS/Linux 提供 Homebrew 安装，三平台提供预编译二进制，也可容器运行或源码构建（需 Go 1.27+）。Windows 支持网络摄像头但不支持本地摄像头。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ camsnap 是一个 Go 编写的命令行工具，面向需要从 RTSP/RTSPS 网�
 
 ## 能力要点
 
-- 按名称管理 RTSP/本地摄像头，支持 snap/clip/watch/discover/ptz/sweep 等命令
-- watch 基于 ffmpeg 场景变化检测触发 shell 动作，支持阈值、冷却与 JSON 事件流
-- ONVIF 设备发现与连接诊断（doctor 区分认证/网络/权限故障）
-- macOS 原生 AVFoundation 采集与 PTZ 扫描抓帧（sweep 输出 manifest.json）
+- 抓取 RTSP 快照/短片，支持 TCP/UDP 传输与自定义流路径
+- watch 命令基于 ffmpeg 场景变化检测触发 shell 动作（带冷却与 JSON 输出）
+- ONVIF 设备发现与 doctor 连通性/认证诊断
+- macOS 原生 AVFoundation 快照与 PTZ 控制，Linux 走 v4l2/ffmpeg
 
 ## 适用场景
 
-- 从家里的 RTSP 摄像头定时抓帧或录制短片
-- 画面变化时自动执行脚本（如通知或录像联动）
-- 扫描局域网内的 ONVIF 摄像头并做连接诊断
+- 定时或按需从监控摄像头抓取画面帧
+- 检测到画面变化时触发自定义脚本动作
+- 局域网内发现并诊断 ONVIF 摄像头
+- 本地网络摄像头拍照与 PTZ 云台控制
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+ · 领域:监控/视频采集工具
 
 ## 证据(README 行号)
 
 > L9: camsnap is a command-line tool for capturing snapshots and short clips from RTSP cameras, discovering ONVIF devices,
-> L85: `watch` uses ffmpeg scene-change detection and applies a cooldown between actions:
+> L19: ## Install
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `1d38474bcc2d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `30b0d2947ba4` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 144 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PromptPartner/agentsmith) · [官网](https://agentsmith.diy) · 组织维护 · 中文 README
 
-**面向编码 Agent 的项目规则与验证脚手架配置工具**
+**给编码 agent 的通用运行框架：任务界定+验证证据+交接**
 
-AgentSmith 是一个模型无关的开源 harness，为 Claude Code、Codex 等编码 Agent 配置项目规则（AGENTS.md/CLAUDE.md）、完成定义（done definition）与验证检查（.harness/verify.conf）。通过独立构建版的向导式 setup 或让 Agent 依 AGENT-INSTALL.md 自行安装；向导检查项目文件后从 9 种工作类型 profile（software-dev、devops-setup、deep-research 等）推荐一种，并生成 First Verified Loop 证据（失败测试、验证通过记录、真实调用回执）。默认启用谨慎权限模式，不以外接服务作为写入授权。提供 macOS/Windows/Linux 独立构建（未签名），内含运行时无需 Python。
+围绕 Claude Code、Codex 等编码 agent 的开源运行框架，通过向导式安装脚本将项目规则、完成定义与验证检查写入仓库，生成 AGENTS.md、verify.conf 与状态文件，记录失败测试、验证输出、回执与可续接的交接信息，并提供九类按工作类型的配置档案（软件开发、DevOps、文档、数据、安全审计等）。支持 macOS/Windows/Linux 独立构建包、由 agent 读取安装指南自动安装、以及源码构建三种途径。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ AgentSmith 是一个模型无关的开源 harness，为 Claude Code、Codex 等�
 
 ## 能力要点
 
-- 9 种工作类型 profile，定义各类型任务的完成证明标准
-- 生成 AGENTS.md 与 Claude Code 用的 CLAUDE.md 项目规则
-- First Verified Loop 保留失败测试、验证、真实调用与回执证据
-- 独立构建版自带运行时，无需 Python；另有 agentsmith memory/audit-config 命令
+- 九类工作档案与 autonomous-loops 高级修饰符
+- 独立构建包含自带运行时，无需 Python
+- 自动生成 AGENTS.md 并为 Claude Code 生成 CLAUDE.md
+- 本地记忆检索 agentsmith memory 与配置审计 agentsmith audit-config
 
 ## 适用场景
 
-- 为编码 Agent 项目配置规则与验证检查，减少范围漂移与无凭据的完成声明
-- 在新项目或既有项目上初始化 Agent 工作脚手架
-- 在 CI 中用 audit-config --fail-on high 做配置门禁
+- 让编码 agent 在修改代码前先定义完成检查并保留验证证据
+- 为现有项目添加可随仓库协作评审的 agent 规则与验证脚手架
+- 为不同工作类型（文档、数据、营销、安全审计）配置对应的验收标准
+- 以 maker/checker 方式进行限定范围的受控 agent 运行
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: # AgentSmith — the open-source harness for coding agents
-> L13: Move from vibe coding to agentic engineering. Give Claude Code or Codex your project rules,
-> L92: - `AGENTS.md` is the canonical project agreement. Claude Code also receives a generated `CLAUDE.md`.
+> L26: AgentSmith: project rules and configured checks around Claude Code or Codex; understand and bound the task, verify 
+> L36: ## Set up AgentSmith
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `dccef993802c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `43d6ad4e4aab` · [字段定义](../../DATASET.md)*

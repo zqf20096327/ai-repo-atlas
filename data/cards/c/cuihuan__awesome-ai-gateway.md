@@ -2,9 +2,9 @@
 
 ⭐ 161 · HTML · CC0-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/cuihuan/awesome-ai-gateway) · [官网](https://cuihuan.github.io/awesome-ai-gateway/) · 个人维护 · 中文 README
 
-**180+ AI 网关选型清单：决策树+手册+可复现成本基准**
+**面向工程师的 AI 网关选型决策树与手册（覆盖 240+ 项目）**
 
-面向为 LLM 应用挑选 AI 网关的工程师的策展清单：以决策树在托管（OpenRouter/Vercel/Cloudflare/Azure 等）与自托管开源（LiteLLM/Bifrost/new-api/Kong/Higress 等）180+ 网关中按成本、合规、可观测性等需求选型；提供 8 章手册讲解网关的路由、故障转移、缓存经济学、虚拟密钥计量与 MCP/agent 流量机制；成本数据由单元测试脚本从开放定价数据计算，stars 每日经 CI 刷新，标注 2026 年项目归档与并购动态。CC0 许可，声明无厂商赞助。
+一个关于 AI 网关的 awesome 清单与知识库：提供覆盖 240+ 网关项目的决策树（按路由、成本、可观测性、合规、缓存、K8s、MCP 等需求分支）、五轴评分与可复现的成本基准（用单元测试脚本从公开定价数据计算），并附 8 章手册讲解网关的工作原理与失败模式（兼容性、路由、可观测性、故障转移、缓存经济、计费、agent 网关）。英文/简体中文双语，CC0 许可，声明无厂商赞助与联盟链接，星标与发布数据通过 CI 每日刷新，快照审查存在积压。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 决策树按需求（成本/合规/K8s/MCP 等）在 180+ 网关中选型
-- 8 章手册覆盖路由、故障转移、缓存经济学、计量与 MCP 网关
-- 成本单元格由单元测试脚本计算，106× 模型价差数据可复现
-- 跟踪归档/停更项目与 2026 年并购动态并标注风险
+- 覆盖 240+ 网关的决策树与五轴评分
+- 可复现成本基准（脚本计算、CI 每日刷新星标数据）
+- 8 章手册讲解网关机制与失败模式
+- 披露 CVE、标注归档/停更项目、排除灰色中转
 
 ## 适用场景
 
-- 为团队挑选托管或自托管 AI 网关
-- 了解网关在故障转移、缓存、计量上的实际机制
-- 对比模型路由成本以降低 token 开销
+- 为自托管或托管 AI 网关做选型决策
+- 评估通过网关路由 Claude Code/Codex/Cursor 的兼容性
+- 了解 2026 年独立网关赛道的并购与归档动态
+- 核算不同模型下同一任务的 token 成本差异
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`模型网关` `精选清单` `教程课程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L8: > **Pick one in ~10 seconds, understand why, and check every number yourself.** A decision tree over 180+ gateways, 
-> L26:  Decision tree: which AI gateway should you use? Hosted (OpenRouter, Vercel, Cloudflare, Bedrock, Azure, Vertex, Po
-> L59: > **Why this matters:** the same task can cost **100× more** depending on the model behind your gateway. An **AI ga
+> L8: > **Pick one in ~10 seconds, understand why, and check every number yourself.** A decision tree over 240+ gateways, 
+> L22:  How this list works, in four steps: pick by requirement (routing, cost, observability, compliance, supply-chain, c
+> L61: > **Why this matters:** the same task can cost **100× more** depending on the model behind your gateway. An **AI ga
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `279926b1beab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `b4597504139e` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 164 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/CSSLab/maia2) · [官网](https://www.maiachess.com/) · 组织维护
 
-**预测人类棋步与对局结果的技能感知国际象棋模型官方实现**
+**跨 Elo 等级的类人国际象棋走子预测模型实现**
 
-多伦多大学 CSSLab 发表的 NeurIPS 2024 论文 Maia-2 的官方实现：一个跨 Elo 等级统一预测人类棋步与对局结果的技能感知模型。支持 Python 3.10–3.12，可在 CUDA、Apple MPS 或 CPU 上运行；提供 PyPI 安装、批量与逐局面推理 API，以及基于 Lichess 标准 PGN 数据库（.pgn.zst 归档）的训练流程，含 Rapid/Blitz 预设配置、检查点恢复与数据溯源记录。README 提示新项目建议使用 Maia-3。训练默认配置覆盖 2018-05 至 2023-11 数据、三个 epoch、batch size 8192。
+Maia-2 是多伦多大学 CSSLab 发布的统一技能感知国际象棋模型，依据棋盘局面与双方 Elo 等级预测人类走子与对局结果，覆盖 Rapid 与 Blitz 两种时间制。以 Python 包形式提供，支持从预训练权重推理（批量与逐局面两种模式），并开放在 Lichess 月度对局数据上的完整训练与断点恢复流程；另附可解释性工具仓库，可提取中间激活并训练 172 个棋类概念的 Elo 条件探针。推荐新项目改用 Maia-3。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 跨 Elo 等级预测人类棋步与对局结果（Rapid/Blitz 预训练模型）
-- 支持 CUDA / Apple MPS / CPU，device auto 选择
-- 基于 Lichess 数据库的训练流程，含数据过滤规则与检查点恢复
-- 配套可解释性仓库：172 个棋类概念的 Elo 条件探针
+- 按局面与双方 Elo 预测人类走子与期望得分
+- 提供 Rapid 与 Blitz 预训练权重，device 支持 CUDA/MPS/CPU
+- 开放完整训练管线：Lichess 数据下载脚本、Rapid/Blitz 训练配置与断点恢复
+- 附可解释性仓库：172 个棋类概念的 Elo 条件探针
 
 ## 适用场景
 
-- 加载预训练模型预测特定等级人类棋手会走的棋步
-- 在自己的对局数据上复现或继续训练模型
-- 研究人机对齐与按技能水平建模的棋类行为
+- 研究不同棋力等级的人类走子模式
+- 训练自己的 Maia-2 模型并复现论文流程
+- 分析模型内部表示与棋类概念的关系
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+ · 领域:机器学习/博弈与人类行为建模
 
 ## 证据(README 行号)
 
 > L14: Maia-2 is a unified, skill-aware chess model for predicting human moves and
+> L15: outcomes across Elo levels. This repository is the official implementation of
 > L16: the NeurIPS 2024 paper
-> L22: Maia-2 supports Python 3.10–3.12 and runs on CUDA, Apple MPS, or CPU.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b28955d45431` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `fbcb690d9151` · [字段定义](../../DATASET.md)*

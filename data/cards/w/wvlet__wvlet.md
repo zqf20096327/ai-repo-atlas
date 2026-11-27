@@ -2,9 +2,9 @@
 
 ⭐ 161 · Scala · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/wvlet/wvlet) · [官网](https://wvlet.org/wvlet/) · 组织维护
 
-**编译到 SQL 的流式查询语言，供数据建模与探索**
+**编译为 SQL 的流式查询语言，服务数据分析与 AI 编码代理**
 
-面向 SQL 引擎的新查询语言 Wvlet：以 from 起始的管道式语法按数据流的自然顺序书写查询，编译为 SQL 后在 DuckDB、Trino、Hive 等引擎上执行。提供交互式 REPL、编译期类型检查与模块化查询函数。文档以 llms.txt/llms-full.txt 纯文本形式提供，并附面向 AI agent 的语法速查、SQL 到 Wvlet 映射与常见错误说明。用 Scala 3 实现。
+Wvlet 是一种跨 SQL 引擎的 flow-style 查询语言，查询以 .wv 文件保存，编译为 SQL 查询序列，支持 DuckDB、Trino、Hive 等数据库引擎。语言从 `from` 表扫描开始按数据处理顺序串联 where/group by/select 等算子，支持编译期类型检查与查询模块化复用，并提供带自动补全的交互式 REPL。面向数据建模与交互式数据探索的开发者；为 AI 编码代理提供 Agent Skill（含语法速查、SQL 映射、常见错误），CI 对其中示例逐一编译验证，文档以 llms.txt 纯文本形式分发。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 管道式流式语法，按数据流自然顺序书写查询
-- 编译到 SQL，支持 DuckDB、Trino、Hive 等多种引擎
-- 编译期 schema 校验与交互式 REPL
-- llms.txt 纯文本文档与 AI agent 专用语法资料
+- flow-style 语法按数据处理顺序书写查询并编译为 SQL
+- 多数据库支持：DuckDB、Trino、Hive 等
+- 编译期 schema 校验捕获类型错误，交互式 REPL 自动补全
+- 提供面向 AI 编码代理的 Agent Skill 与 llms.txt 文档
 
 ## 适用场景
 
-- 在 DuckDB/Trino/Hive 上用更自然的语法做交互式数据探索
-- 以函数形式组织可复用的数据建模查询
-- 让 AI agent 阅读 llms.txt 文档代写 Wvlet 查询
+- 为 DuckDB/Trino/Hive 编写可复用、可模块化的分析查询
+- 以管道式语法描述数据处理流水线
+- 让 AI 编码代理学习并生成 Wvlet 查询
 
 ## 场景标签
 
- · 领域:数据工程/查询语言
+`数据分析` `代码生成` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L5: Wvlet, pronounced as weave-let, is a new cross-SQL flow-style query language for functional data modeling and intera
-> L12: AI coding agents: the docs are available as plain text at llms.txt (index) and llms-full.txt (all pages).
+> L38: - **Multi-database support**: Works with DuckDB, Trino, Hive, and more
+> L43: ## For AI Agents
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `861ff228d5cd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a47089ced630` · [字段定义](../../DATASET.md)*

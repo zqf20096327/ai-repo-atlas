@@ -2,9 +2,9 @@
 
 ⭐ 251 · HTML · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
 
-**给需要自托管文档处理的企业/机关：54 个 PDF/Office 工具一站整合**
+**自架式 PDF/Office 文件处理平台，54 个工具整合**
 
-自架、开源的 PDF/Office 文件处理平台，54 个工具覆盖合并拆分、转档、OCR、去识别化、用印盖章、差异比对、逐句翻译、发票与名片识别等，Linux/macOS/Windows 单机或内网多人使用，数据不出本地。企业功能含 LDAP/AD 认证、SSO、RBAC、审计记录与 REST API/MCP。部分工具依赖 OxOffice/LibreOffice 引擎；OCR 双引擎（EasyOCR/Tesseract），可选 LLM 校正与外部 GPU 识别服务器；名片整理等工具标注不需要 AI。
+整合式 PDF / Office 文件处理平台，提供表单填写用印、水印、合并拆分、转档、扫描拼合、去识别化、OCR 文字辨识、电子发票处理等 54 个工具，以浏览器访问的 Web 服务形式运行。面向需要集中处理公文与企业文件的用户，提供本机/LDAP/AD 认证、SSO、RBAC、审计记录、SIEM 转送与 REST API/MCP 接口。部分工具依赖 OxOffice/LibreOffice 引擎；OCR 默认 EasyOCR、备援 Tesseract，可选 LLM 校正；支持 Linux/macOS/Windows 单机或内网架站，数据不上云。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 54 个 PDF/Office 工具整合，填单用印、水印、转档、OCR、去识别化等
-- 企业功能：LDAP/AD 多领域认证、SSO(OIDC+SAML)、RBAC、审计记录、SIEM 转送、REST API、MCP
+- 54 个工具覆盖 PDF 编辑、转档、去识别化、加密、发票与清单处理
+- 企业功能：多领域认证、SSO (OIDC/SAML)、RBAC、审计记录、SIEM 转送
 - OCR 双引擎（EasyOCR 预设/Tesseract 备援），支持外部 GPU 识别服务器部署
-- 用印申请流程：多关核准、保管人用印、全程稽核记录
+- 用印申请审批流程、加密纸本备份（Shamir 分片）、背景作业与完成通知
 
 ## 适用场景
 
-- 机关/企业内网自建文档处理与用印平台
-- 扫描件 OCR 与去识别化后再分发
-- 公文撰拟与会议逐字稿整理
-- 报帐场景的发票、车票证明批量整理
+- 企业内网自建文件处理站，数据不出内网
+- 公文撰拟、逐句翻译、会议逐字稿与摘要整理
+- 台湾电子发票与乘车证明批量整理报帐
+- 扫描件 OCR 转可搜索 PDF 并去识别化
 
 ## 场景标签
 
@@ -40,7 +40,7 @@
 
 > L28: > 整合式 PDF / Office 文件處理平台，54 個工具整合解決：**填單用印**、**浮水印**、**多頁合併 / 拆分 / 旋轉 / 整理**、**轉檔**、**掃描拼合**、**去識別化**、**字數統計**、**註
 > L30: > 企業功能：**本機 / LDAP / AD 多領域認證**、**SSO 單一登入**(OIDC + SAML，可接 M365 / Google / Keycloak)、**RBAC 角色權限**、**稽核記錄**、**SIEM
-> L123: - **名片辨識**（Beta）— 名片照片或掃描檔一次匯入（手機可以連拍），一張照片放好幾張名片也能自動切卡（可拖四角修正），辨識姓名 / 公司 / 職稱 / 電話 / 分機 / Email / 統編 / 地址（繁中＋英文，也
+> L119: - **OCR 文字辨識** — 掃描 PDF / 圖片跑 OCR 後變可搜尋、可滑鼠選取複製（同 macOS 預覽程式 Live Text 概念）；雙引擎（**EasyOCR** 預設，中日韓辨識準確度高；**Tesserac
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `167eac8c74a5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e2134a5948b8` · [字段定义](../../DATASET.md)*

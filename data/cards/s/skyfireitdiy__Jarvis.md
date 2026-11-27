@@ -1,10 +1,10 @@
 # skyfireitdiy/Jarvis
 
-⭐ 155 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/skyfireitdiy/Jarvis) · 个人维护 · 中文 README
+⭐ 155 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/skyfireitdiy/Jarvis) · 组织维护 · 中文 README
 
-**本地运行的多 Agent 协作式 AI 开发平台，覆盖人×Agent 四种协作模式**
+**面向开发者的本地协作式多 Agent AI 开发平台**
 
-面向开发者的协作式 AI 开发平台，以 CLI、Web 网关与 Python SDK 三种方式提供，覆盖单人单 Agent 到多人多 Agent 四种协作模式。核心机制包括：SQLite 符号数据库做代码理解与影响分析、YAML 声明式多 Agent 编排、JWT 多用户认证与分布式多节点部署、基于 tree-sitter 的八种语言 AST 解析、内核+插件包架构与 MCP 集成。附浏览器扩展（操作真实浏览器）与 Go 编写 的 jarvis-daemon 本地后台服务（文件/进程/GUI 自动化）。安装需 Python 3.12，通过 uv tool 从源码安装，另有一键安装脚本与离线包。
+Jarvis 是以 CLI、Web 网关和 Python SDK 三种方式访问的协作式 AI 开发平台，覆盖单人单 Agent、单人多 Agent、多人单 Agent、多人多 Agent 四种协作模式。核心机制包括 SQLite 符号数据库做代码影响分析、YAML 声明式多 Agent 编排、JWT 多用户认证与 ACL 权限、多节点分布式部署，以及方法论/规则/记忆三类知识沉淀。运行需 Python 3.12，主要支持 Linux 与 Windows，Docker 为可选方式。多用户协作能力仅通过 Web 接口提供，CLI 面向单人使用。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 人×Agent 四象限协作模式（含 JWT 多用户认证与分布式多节点）
-- SQLite 符号数据库 + 五类影响分析的结构化代码理解
-- YAML 声明式多 Agent 编排，Agent 间群聊/点对点通信
-- 浏览器扩展复用真实登录态，jarvis-daemon 提供本机 GUI 自动化
+- 覆盖单人/多人 × 单/多 Agent 四种协作模式
+- 符号数据库 + 图遍历实现影响分析与风险等级评估
+- JWT 多用户认证、ACL 权限与多节点分布式部署
+- 内置 Go 编写的 jarvis-daemon 提供本机文件/进程/GUI 自动化能力
 
 ## 适用场景
 
-- 让多个 Agent 组成开发/测试/部署流水线协同写代码并自动验证
-- 用符号数据库分析改动影响并评估风险等级
-- 团队共享同一 Agent 或搭建跨节点分布式 Agent 网络
-- 定时调度 Agent 无人值守执行安全分析、C→Rust 迁移等专项任务
+- 把 AI 引入日常代码修改、审查与验证流程
+- 一人驱动多个 Agent 组成开发/测试流水线
+- 团队共享 Agent 并做跨节点分布式协作
+- 执行安全扫描或 C→Rust 迁移等专项任务
 
 ## 场景标签
 
-`多智能体` `Agent 框架` · 领域:Agent 开发
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L25: Jarvis 是一个面向开发者的 **协作式 AI 开发平台**。它不只是对话工具，还能真正进入工作流：读代码、改代码、执行工具、管理上下文、复用经验，并在关键节点保持可控。
-> L191: |**多 Agent 编排**|YAML 声明式编排一键部署 Agent 网络，Agent 间群聊/点对点通信，多面板同屏操作|
+> L26: Jarvis 是一个面向开发者的 **协作式 AI 开发平台**。它不只是对话工具，还能真正进入工作流：读代码、改代码、执行工具、管理上下文、复用经验，并在关键节点保持可控。
+> L28: 它的核心命题是：**让 Agent 从「独自工作」走向「与众共事」**。AI 开发工具的协作能力可以从两个维度交叉分析——**人的维度**（单人 vs 多人）与 **Agent 的维度**（单个 vs 多个），由此得到四种协作模式
+> L52: 四种模式层层递进：**单人单 Agent 是基础，单人多 Agent 是扩展，多人单 Agent 是共享，多人多 Agent 是终极形态**。主流工具（Claude Code、CodeX、CodeBuddy）聚焦「单人单 Agen
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9e5e5fa06dac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ad82e7a356ee` · [字段定义](../../DATASET.md)*

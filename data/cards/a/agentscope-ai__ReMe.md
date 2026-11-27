@@ -1,10 +1,10 @@
 # agentscope-ai/ReMe
 
-⭐ 3,849 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/agentscope-ai/ReMe) · [官网](https://reme.agentscope.io/) · 组织维护 · 中文 README
+⭐ 3,849 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/agentscope-ai/ReMe) · [官网](https://reme.agentscope.io/) · 组织维护
 
-**为 AI agent 提供本地文件式记忆管理的工具包**
+**面向 AI agent 的本地优先自演化 Markdown 记忆管理工具包**
 
-ReMe 将对话与资源转化为 Markdown 形式的记忆文件（含 frontmatter 与 wikilink），供多个 agent 运行时（QwenPaw、DeepSeek Harness、Claude Code、Codex 等）共享同一本地工作区进行检索、维护与演化。核心机制包括 capture→index→consolidate→recall 生命周期、BM25 与可选嵌入检索、auto_memory/auto_dream 等后台任务，以及事件/cron 触发的 Proactive Runtime。通过 CLI、HTTP、MCP 或 Python API 接入，支持 pip、源码与 Docker 安装；嵌入检索默认关闭，需显式在配置中启用。
+将 agent 的对话与资源转化为可读、可编辑、可检索的 Markdown 记忆文件（frontmatter + wikilink），按 capture → index → consolidate → recall 生命周期演化知识。检索默认 BM25、可选嵌入、wikilink 扩展，基本文件操作与 BM25 搜索无需 LLM 凭据。通过 CLI、HTTP、MCP、Python API 或各 runtime 的插件接入 DeepSeek Harness、OpenClaw、Claude Code、Codex 等多种 agent，并提供 Proactive Runtime 按事件或 cron 调度任务。安装需 Python 3.11+，提供 pip、源码与 Docker 方式。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ReMe 将对话与资源转化为 Markdown 形式的记忆文件（含 frontmatte
 
 ## 能力要点
 
-- 记忆以普通 Markdown 文件存储，用户与 agent 均可直接编辑、备份
-- BM25、可选嵌入与 wikilink 扩展实现行级上下文检索
-- capture→index→consolidate→recall 记忆生命周期（auto_memory/auto_index/auto_dream）
-- 通过 SKILL.md、CLI、HTTP、MCP、Python API 接入多种 agent 运行时
+- 记忆以普通 Markdown 文件存储，索引与元数据可重建
+- BM25 + 可选嵌入 + wikilink 扩展的行级检索
+- 同一记忆工作区可被多个 agent 共享（插件/SKILL.md/CLI/HTTP/MCP/Python API）
+- Proactive Runtime 支持事件触发与 cron 触发的任务调度
 
 ## 适用场景
 
-- 为多个 agent 提供共享的长期记忆工作区
-- 让 agent 自动沉淀对话事实并按日程整理知识
-- 为编码助手或个人助理添加自动回忆与对话记录能力
+- 为个人助理或编码 agent 提供跨 runtime 共享的长期记忆
+- 把对话与文档逐步整理成可维护的知识库
+- 按日程或事件自动跟进任务并提醒结果
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ ReMe 将对话与资源转化为 Markdown 形式的记忆文件（含 frontmatte
 ## 证据(README 行号)
 
 > L16:  A local-first, self-evolving personal knowledge base for AI agents.
-> L202: ReMe can run as a local memory service accessed through the CLI, HTTP API, or MCP server, or it can be embedded in
-> L206: |Agent|Recommended path|Available after integration|
+> L38:  the same local workspace through native integrations, SKILL.md, CLI, HTTP, MCP, or Python APIs.
+> L207: ReMe can run as a local memory service accessed through the CLI, HTTP API, or MCP server, or it can be embedded in
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f0ce450e2ae5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5cbfd1f5503d` · [字段定义](../../DATASET.md)*

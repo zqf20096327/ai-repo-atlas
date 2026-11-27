@@ -2,9 +2,9 @@
 
 ⭐ 21,415 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/pydantic/pydantic-ai) · [官网](https://pydantic.dev/pydantic-ai) · 组织维护
 
-**Python AI agent 框架：类型安全的模型接入与运行**
+**Python AI SDK：类型化构建与运行 AI Agent**
 
-Pydantic AI 是一个 Python AI SDK，提供类型化的 agent 循环，支持切换模型字符串更换供应商并配置 fallback。同一 agent 可运行于 Web 前端、终端、语音通话、后台队列、GitHub Actions 等接口。配套 Pydantic AI Harness 提供记忆、护栏、子 agent、持久化等能力组件，另有 Evals 评测、Graph 控制流、Logfire 观测与 AI Gateway 网关等独立包。安装方式为 uv/pip 添加 PyPI 包。
+Pydantic AI 是一个 Python AI SDK，提供类型化的 Agent 循环，支持模型以字符串切换与失败回退。同一 Agent 定义可运行在 Web 前端、终端、语音通话、后台队列、GitHub Actions 等多种接口；随包提供图像生成与 embeddings。配套 Pydantic AI Harness 以能力（capability）形式提供记忆、护栏、子 Agent、规划、持久化等组件；Pydantic Evals 用于评测 Agent 输出与工具调用轨迹；经 OpenTelemetry 原生插桩接入任意后端。安装通过 uv/pypi，内置 'test' 模型可在无 API key 情况下起步。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@ Pydantic AI 是一个 Python AI SDK，提供类型化的 agent 循环，支持�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -26,26 +26,26 @@ Pydantic AI 是一个 Python AI SDK，提供类型化的 agent 循环，支持�
 
 ## 能力要点
 
-- 类型化端到端：结构化输出、类型化依赖注入与工具，返回类型经校验保证
-- 一个 Python API 接入多家模型供应商，字符串即可切换，内置 failover
-- 九种持久化执行引擎（Temporal、DBOS、Prefect 等）支持长时运行恢复
-- Realtime 语音（OpenAI Realtime、Gemini Live 等）与图像生成在同一 SDK 内
+- 任意模型以字符串切换，提供 failover 机制
+- 端到端类型化：结构化输出、类型化依赖注入与工具
+- 实时语音会话（OpenAI Realtime、Gemini Live、Azure、xAI Grok Voice）
+- 九种持久执行引擎（Temporal、DBOS、Prefect 等）
 
 ## 适用场景
 
-- 用类型约束构建结构化数据抽取 agent
-- 在终端运行完整编码 agent（Coder/Pax）
-- 把 agent 部署到 Temporal 等持久化工作流中长期运行
-- 为 agent 应用接入 OpenTelemetry 观测与成本追踪
+- 用 Python 构建带结构化输出的 LLM Agent
+- 搭建可在终端或 Web 界面运行的编码 Agent
+- 在后台队列中运行需要跨重启存续的长时 Agent 任务
+- 为 Agent 运行接入追踪与成本监控
 
 ## 场景标签
 
-`Agent 框架` `模型评测` `编码 Agent` · 领域:Agent 开发
+`Agent 框架` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L16:  Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 > L18: **Pydantic AI** is the Python AI SDK: a typed, extensible agent loop with every model a string swap away, and anoth
-> L22: Pydantic Evals grades an agent's final outputs and tool-call trajectories, on datasets or live production traffic, 
 > L158: - **Any model, one Python API.** Virtually every model and provider (OpenAI, Anthropic, Google, Bedrock, Azure AI 
 
 ## 星数曲线
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5e561d64a74b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `3a9f0f7d0b8e` · [字段定义](../../DATASET.md)*

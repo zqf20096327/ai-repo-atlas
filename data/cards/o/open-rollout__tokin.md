@@ -2,9 +2,9 @@
 
 ⭐ 160 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/open-rollout/tokin) · 组织维护
 
-**把任意 agent harness 变成 token 级的网关，供 RL 采集 rollout**
+**让任意 agent harness 以 token 级会话接入推理引擎**
 
-tokin 是一个置于 agent harness 与推理引擎之间的网关：harness 侧继续用 chat completions 收发文本，引擎侧只见 token id，使每次调用均为 token-in/token-out。内部以会话树的 turn 结构维护每轮位置，训练者可收集带 token_ids、loss_mask 与 logprobs 的 rollout。支持接入 pi、Codex 等以不同 API 通信的 harness，提供 sglang 配合的快速启动流程。以 Python 包形式经 pip 安装，附 harbor_eval 与 pi_mimo_rl 示例。
+tokin 是一个位于 agent harness 与推理引擎之间的网关服务：harness 继续以文本方式调用 chat completions，tokin 将每轮请求映射为 token id，并把每个会话维护为 turn 树，使训练器采集的每条 rollout 在每个前缀上都是 token-in/token-out。通过 pip 安装，以 tokin serve/ open/ collect 等命令运行，输出含 token_ids、loss_mask 与 logprobs 的 JSONL rollout 数据。README 中给出 pi 与 Codex 两类 harness 的接入配置示例。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ tokin 是一个置于 agent harness 与推理引擎之间的网关：harness 侧
 
 ## 能力要点
 
-- harness 与推理引擎之间的 token 级网关，harness 仍用文本 chat completions
-- 会话以 turn 树结构组织，每条 rollout 含 token_ids、loss_mask 与 logprobs
-- 支持 pi（chat completions）与 Codex（Responses API）作为 provider 接入
-- tokin open/collect 命令按会话采集训练数据
+- 网关模式：harness 说文本 chat completions，引擎只见 token ids
+- 每个会话维护为 turn 树，支持任意前缀的 token-in/token-out
+- 采集 rollout 输出 token_ids、loss_mask、logprobs 的 JSONL
+- 提供 pi 与 Codex（Responses API）两类 harness 的接入配置示例
 
 ## 适用场景
 
-- 在 agent 原生 harness 上用其真实采样 token 做 RL 训练
-- 在多个 harness（pi/Codex 等）上统一收集 token 级 rollout
-- 通过 Harbor 评测 mini-swe-agent、opencode、pi 或 Codex
+- 在 harness 自带的交互模式下训练 agent，采集 token 级 rollout
+- 通过 tokin 在 Harbor 上评测 mini-swe-agent、opencode、pi、Codex
+- 将现有只支持文本 chat completions 的 harness 接入 sglang 等推理引擎
 
 ## 场景标签
 
-`强化学习` · 领域:训练与推理
+`模型评测` `强化学习` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L8:  tokin as a gateway. Harnesses, any harness, each call their own session URL with chat completions in text. Inside t
 > L10: **tokin** makes any agent harness token-native. Train an agent in the harness it ships with, on exactly the tokens
-> L12: text over chat completions, while the engine only ever sees token ids. tokin keeps each session as a tree of turns,
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `ece05b854f95` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `15e953af03b4` · [字段定义](../../DATASET.md)*

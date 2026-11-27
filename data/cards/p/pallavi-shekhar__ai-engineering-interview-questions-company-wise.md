@@ -4,7 +4,7 @@
 
 **面向 AI 工程求职者的 35 家公司面试题整理清单**
 
-由 Outcome School 维护的面试题汇编，收录 35 家公司公开报道的 AI 工程面试问题，按公司分节组织，并设有跨公司高频题专区。主题覆盖 LLM 内部机制、推理与服务、GPU 性能、RAG、Agent、微调与对齐等；每题标注被问及的公司，已有答案以外部链接形式挂在题目下方。README 说明内容持续更新，并提示面试流程随团队、级别和地区而变。
+由 Outcome School 维护的面试题汇编：收录 35 家公司公开报道的 AI 工程面试题，按公司分节组织，覆盖 AI Engineer、LLM Engineer、MLOps 等 15 类岗位。题目按主题分组（LLM 内部机制、推理与 GPU 性能、RAG、Agent、微调与对齐等），每题标注出题公司并提供外部答案链接。README 说明题目来自公开渠道，不保证覆盖具体面试流程，并会持续更新。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 收录 35 家公司公开报道的面试题，按公司分节组织
-- 跨公司高频题专区，每题标注所问公司
-- 主题覆盖 LLM 推理优化、RAG、Agent、微调对齐等
-- 答案以外部文章/视频链接提供并持续补充
+- 35 家公司分节整理的真实面试题
+- 按 LLM 内部机制/推理服务/RAG/Agent/微调等主题分组
+- 每题附出题公司列表与答案链接
+- 另有跨公司通用高频问题汇总
 
 ## 适用场景
 
-- 准备 AI 工程师/LLM 工程师岗位面试
-- 按目标公司查看其面试重点与流程
-- 系统学习 LLM 推理、RAG、Agent 等主题概念
+- 准备 AI Engineer 岗位面试前按目标公司刷题
+- 查漏补缺 LLM 推理、RAG、Agent 等主题的知识盲区
+- 了解不同公司面试关注点的分布
 
 ## 场景标签
 
-`教程课程` `精选清单` · 领域:学习与行业
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L7: > Real interview questions asked in AI Engineering interviews at 35 companies, organized company by company, with an
-> L44: ## How to use this
+> L46: - Questions are compiled from publicly reported interview experiences. Nothing here is confidential. Interview loop
 > L51: ## Common Questions Asked Across Companies
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `473bfb840de9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4e955f27c104` · [字段定义](../../DATASET.md)*

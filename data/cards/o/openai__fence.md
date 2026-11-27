@@ -2,9 +2,9 @@
 
 ⭐ 177 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/openai/fence) · 组织维护
 
-**GitHub Actions 托管运行器的出站过滤与锁定 Action**
+**给 GitHub Actions 作业加出站过滤与运行器锁定的安全 Action**
 
-OpenAI 维护的 GitHub Action，面向使用 GitHub 托管 Linux 运行器（ubuntu-24.04 / ubuntu-latest x64）的 CI 团队：在作业首个步骤运行，默认阻断未列入允许清单的出站连接、关闭免密 sudo 与 Docker 访问，并校验防火墙实际生效。支持审计模式（只报告不阻断）、IPv6/CIDR/通配符主机名等允许清单语法（上限 64 条），作业结束时输出网络活动报告（含 FENCE_REPORT_JSON）。README 声明项目处于早期活跃开发阶段，且其自身声明'并非完整沙箱'。本体不含 AI 能力。
+一个 GitHub Action，用于 CI 作业的出站流量过滤与 GitHub 托管 Linux 运行器加固。在作业第一步运行：默认阻断未允许的出站连接、关闭免密 sudo、禁用 Docker，并在作业摘要与日志中输出网络活动报告。支持 allowlist 精确到主机名（含 IPv6、端口、CIDR、通配符，上限 64 条）、audit 模式先行观察、GitHub Artifacts/Pages 存储端点放行开关。仅支持 ubuntu-24.04/26.04/latest x64 托管运行器；文档声明其不是完整沙箱。项目仍处于早期活跃开发阶段。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@ OpenAI 维护的 GitHub Action，面向使用 GitHub 托管 Linux 运行器（ub
 
 ## 能力要点
 
-- 默认阻断非允许出站连接并关闭 sudo/Docker 访问
-- 审计模式预演将被阻断的流量并建议允许清单条目
-- 作业结束前持续校验防护仍生效，异常即令作业失败
-- 输出网络活动表与 FENCE_REPORT_JSON 报告
+- 默认阻断出站连接、关闭免密 sudo 与 Docker 访问
+- allowlist 支持 IPv6/端口/TCP/UDP/CIDR/通配符，上限 64 条
+- audit 模式先报告将拦截的内容再切换 block 模式
+- 作业结束后输出网络活动 JSON 报告，可经 GitHub API 获取
 
 ## 适用场景
 
-- CI 作业中限制构建步骤只能访问指定网络目的地
-- 审计工作流实际需要哪些出站连接
-- 供应链安全加固，防止后续步骤外发数据或提权
+- 给 CI 工作流限制出站网络，防止依赖包外传数据
+- 先用 audit 模式摸清工作流所需访问的域名再收紧策略
+- 构建需要上传 Artifact/Pages 但仍要控制出口的流水线
 
 ## 场景标签
 
-`网络安全` · 领域:学习与行业
+ · 领域:开发工具/CI-CD 安全
 
 ## 证据(README 行号)
 
 > L12: A GitHub Action for egress filtering and runner lockdown.
+> L27: Copy the full commit SHA and version comment from the latest verified release. Fence supports GitHub-hosted x64 run
+> L136: Fence makes it harder for later workflow steps to send data to unexpected destinations or undo the runner's networ
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `31e63fd81533` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e4a4ecfae017` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # langfuse/langfuse-k8s
 
-⭐ 288 · Go Template · MIT · 推送 2026-11-26 · [GitHub](https://github.com/langfuse/langfuse-k8s) · [官网](https://langfuse.com/self-hosting/deployment/kubernetes-helm)
+⭐ 288 · Go Template · MIT · 推送 2026-11-26 · [GitHub](https://github.com/langfuse/langfuse-k8s) · [官网](https://langfuse.com/self-hosting/deployment/kubernetes-helm) · 组织维护
 
-**在 Kubernetes 上部署 Langfuse 自托管环境的社区 Helm chart**
+**在 Kubernetes 上部署 Langfuse 的社区维护 Helm chart**
 
-由社区维护、用于在 Kubernetes 上部署 Langfuse（LLM 工程平台）的 Helm chart 仓库，含 examples 示例配置与 charts/langfuse chart。v2.0.0 起以 OSS 许可子图表替换 Bitnami 子图表，捆绑 Postgres、ClickHouse（经 clickhouse-operator）、Valkey、SeaweedFS，并自动生成并持久化应用凭证；提供 v1→v2 迁移路径与空卷升级保护。要求 Helm ≥3.17、Kubernetes ≥1.28，需预装 cert-manager 与 ClickHouse CRD。另含应用内 AI 功能与 beta AI gateway 的部署配置。
+社区维护的仓库，提供在 Kubernetes 上部署 Langfuse 的资源与 Helm chart。chart 默认打包 Langfuse v4，捆绑 Postgres、ClickHouse（经 clickhouse-operator）、Valkey、SeaweedFS 子 chart，首次安装自动生成凭证 Secret 并通过 lookup 跨升级持久化；支持 helm repo 或 OCI 安装、v1 Bitnami chart 迁移路径与 ArgoCD/GitOps 注意事项。v2.0.0 起以 OSS 许可镜像替换 Bitnami 子 chart，AI gateway 为 Beta 值，不纳入 SemVer 保证。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- Helm chart 一键部署 Langfuse 及捆绑的 Postgres/ClickHouse/Valkey/SeaweedFS
-- 首次安装自动生成凭证 Secrets 并跨升级持久化（lookup）
-- v1→v2 迁移指南与空卷升级阻塞保护
-- 可选部署 beta AI gateway（独立 Deployment/Service/Ingress/HPA）
+- Helm chart 部署 Langfuse v4 及配套数据存储子 chart
+- 首次安装自动生成并持久化凭证 Secret
+- 提供 v1 Bitnami chart 到 v2 的迁移路径与空卷升级防护
+- 可选部署 AI gateway（Deployment/Service/Ingress/HPA）
 
 ## 适用场景
 
-- 在 Kubernetes 集群自托管部署 Langfuse
-- 通过 GitOps/ArgoCD 管理 Langfuse 部署（需显式固定凭证）
-- 为自托管实例启用 AI gateway 与应用内 AI 功能
+- 在 Kubernetes 集群自托管 Langfuse
+- 通过 GitOps/ArgoCD 流水线管理 Langfuse 部署
+- 为 Langfuse v4 准备 ClickHouse/Postgres/Redis 等依赖组件
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+ · 领域:LLM 基础设施/部署运维
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6506240cb756` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1580dae88368` · [字段定义](../../DATASET.md)*

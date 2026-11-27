@@ -2,9 +2,9 @@
 
 ⭐ 148 · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/lappemic/awesome-ai-built-games) · 个人维护
 
-**AI 编程代理制作的可玩游戏策展清单**
+**AI 编程代理开发的可玩游戏策展清单**
 
-一个 awesome 风格的游戏清单：收录由 Claude Code、Cursor、Codex、GPT、Gemini、Grok、Lovable 等 AI 编程代理编写代码并可直接游玩的游戏，多数为浏览器游戏。条目按动作射击、竞速、冒险开放世界、模拟策略、解谜、街机等类型分组，每条说明玩法，作者披露时同时标注所用 AI 工具与引擎（Three.js、Phaser、Godot 等）。收录 Vibe Jam、AI Browser Game Jam 等活动的获奖作品，支持无 PR 的提交通道。
+按体裁（动作射击、竞速、开放世界、模拟策略等）收录由 AI 编码代理编写大部分代码的可玩游戏条目，每条说明玩法、所用 AI 工具与游戏引擎（Three.js/Phaser/Godot 等），多数可直接在浏览器游玩。收录标准为 AI 编写各游戏的大部分代码且当前可玩，读者可通过表单提交新游戏，无需 pull request。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 按 6 个游戏类型分组收录可玩的 AI 生成游戏
-- 条目标注所用 AI 编程代理与游戏引擎
-- 收录 Vibe Jam / AI Browser Game Jam 获奖作品
-- 支持免 PR 提交收录自己用 AI 做的游戏
+- 按游戏体裁分组的策展清单，逐条标注 AI 工具与引擎
+- 收录标准明确：AI 编写大部分代码且当前可玩，多数浏览器可直接游玩
+- 支持无需 pull request 的表单提交收录
+- 标注 Vibe Jam / AI Browser Game Jam 等活动获奖信息
 
 ## 适用场景
 
-- 寻找可直接游玩的 AI 编程代理制作的浏览器游戏
-- 了解各 AI 编程工具在游戏开发中的实际产出
-- 提交展示自己 vibe-code 出的游戏作品
+- 查找可直接在浏览器试玩的 AI 生成游戏
+- 了解 Claude Code、Cursor 等工具做游戏开发的实际产出
+- 为自己用 AI 开发的游戏寻找收录渠道
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`编码 Agent` `精选清单` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `537d953df774` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `9484d68f0134` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 233 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ozgurcd/gograph) · [官网](https://gograph.identuum.ai) · 个人维护
 
-**Go 代码静态分析 CLI，向 AI agent 提供 MCP 接口**
+**Go 代码静态分析 CLI，经内置 MCP 服务供 AI 代理查询调用图与影响面**
 
-面向 Go 仓库的本地静态分析命令行工具：将代码索引为 AST 与可选类型检查（CHA/SSA）图，提供调用链追踪、传递影响面分析、基于变更的测试选择、Mermaid 依赖图渲染，以及包边界/复杂度/API 漂移等 CI 架构门禁。内置 stdio MCP 服务器（70 个工具），供编码 agent 在本地读取仓库结构化分析结果；不执行目标代码、不外传源码。安装方式包括 Homebrew cask 与 go install。
+面向 Go 仓库的本地静态分析工具：将代码索引进 AST 及可选类型检查（CHA/SSA）图，支持追踪传递调用者、为未提交变更选择测试、渲染 Mermaid 依赖图、用 CI 架构门禁强制包边界，全部本地运行，不执行目标代码、不外传源码。内置 stdio MCP 服务器，将 66 项查询能力以 project MCP 工具形式暴露给编码代理，并可选记录代理的 plan/review 合规审计。通过 Homebrew cask 或 go install 安装。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 内置 stdio MCP 服务器，66 个仓库查询/分析命令加 4 个会话工具（共 70 个项目工具）
-- 基于 AST/CHA/SSA 的调用图、传递影响面与变更范围测试选择
-- CI 架构门禁：包导入分层、复杂度/不稳定性限值、API 漂移检测
-- 源到汇的安全流追踪（HTTP/JSON/环境变量到 SQL、进程执行、文件系统等）
+- AST + 类型检查（CHA/SSA）调用图与 blast-radius 分析，支持 --mermaid/--json 导出
+- 内置 stdio MCP 服务器：66 项仓库查询能力 + 4 个会话生命周期工具
+- 变更范围测试选择与未覆盖行报告，CI 架构/策略门禁（boundaries/gate/api drift）
+- 本地安全流分析：HTTP/JSON/环境变量到 SQL、进程执行、文件系统等 sink 的源到汇路径
 
 ## 适用场景
 
-- 在 CI 中强制执行 Go 包导入边界与复杂度门禁
-- 为未提交的代码变更选出需要运行的 go test 命令
-- 让 Claude Code 等 MCP 客户端在本地查询仓库调用图与影响面
-- 追踪从输入源到 SQL/进程/文件系统汇点的进程间路径
+- 在 CI 中强制 Go 项目的包导入分层与复杂度阈值
+- 提交前评估改动的影响面并生成需运行的测试命令
+- 让 Claude Code 等编码代理通过 MCP 查询精确的调用图证据
+- 追踪从请求入口到危险 sink 的跨过程安全路径
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L9: **Local Go static analysis, call-graph, blast-radius, and CI architecture-gate CLI—with a built-in stdio MCP server 
+> L86: **Built-In Native MCP Server** — all 66 repository query, analysis, and workflow capabilities have project-MCP equi
 > L153: ## Built-In MCP Server and AI Agent Integration
-> L59: > **Local-only analysis:** `gograph` does not execute target code or transmit source or telemetry to external servi
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b75d37edfb96` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f8c064bf442c` · [字段定义](../../DATASET.md)*

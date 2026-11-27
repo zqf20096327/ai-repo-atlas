@@ -2,9 +2,9 @@
 
 ⭐ 185 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/fiyo/DBCheck) · [官网](https://raccoonx.cn) · 个人维护 · 中文 README
 
-**数据库巡检与运维平台：覆盖22种数据库、839条规则、AI诊断**
+**面向 DBA 与运维团队的数据库巡检与运维平台，含 AI 辅助诊断**
 
-面向 DBA、数据库工程师、DevOps 与基础设施团队的跨平台数据库巡检与运维平台，前身为 DBCheck。支持 22 种数据库类型与 839 条巡检规则，功能包括数据源管理、慢查询分析、锁诊断、索引健康、配置基线、AWR 解析、Word 巡检报告生成、定时任务与实时监控。AI 相关机制包括本地 Ollama 或云 API 辅助诊断、自然语言巡检对话、RAG 知识库以及多专家协同的智能中心。提供 Docker 镜像（多架构含 arm64）、Linux 二进制与源码安装，含 MCP Server 与可视化工作流编排。
+RaccoonX（原名 DBCheck）是开源、跨平台的数据库巡检与运维平台，支持 22 种数据库和 839 条巡检规则，覆盖慢查询分析、锁诊断、索引健康、配置基线、实时监控、定时任务与 Word 巡检报告等。AI 部分包括：本地 Ollama 或兼容云 API 的辅助分析、巡检自然语言对话、RAG 知识库，以及暴露 12 个工具的 MCP Server。提供 Docker、Linux 二进制与源码三种部署方式，支持 amd64/arm64 与麒麟等国产服务器环境，采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 支持 22 种数据库类型与 839 条巡检规则，自动生成 Word 报告
-- AI 诊断支持本地 Ollama 或兼容云 API，含 RAG 运维知识库
-- MCP Server 暴露 12 个工具供 Claude、Cursor 等客户端调用
-- 多架构 Docker 镜像（amd64/arm64）适配麒麟等国产服务器
+- 支持 22 种数据库类型与 839 条巡检规则，自动生成 Word 巡检报告
+- AI 诊断支持本地 Ollama 或兼容云 API，含 RAG 知识库与巡检对话
+- MCP Server 暴露 12 个工具（9 只读 + 3 写操作需审批）供 Claude、Cursor 等 MCP 客户端调用
+- 多架构镜像与 Linux 二进制支持麒麟/ARM64 国产服务器部署
 
 ## 适用场景
 
-- 定时批量巡检生产环境多种数据库并生成巡检报告
-- 慢 SQL、锁等待与索引健康的人工辅助诊断
-- 信创环境下的数据库合规评估与国产数据库接入
+- 对生产环境的多种数据库执行批量巡检并生成报告
+- 用 AI 辅助分析慢 SQL 与锁等待问题
 - 通过 MCP 客户端以自然语言查询巡检系统
+- 在麒麟/ARM64 国产服务器上部署数据库运维平台
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L7: > **RaccoonX** is an open-source, cross-platform database inspection and operations platform designed for DBAs, data
 > L115: |🤖 AI Diagnostics|Local Ollama or compatible cloud APIs for AI-assisted analysis|
-> L23: > 🤖 **AI-assisted diagnostics**
+> L122: |📚 RAG Knowledge Base|Upload operational documentation for AI-assisted diagnosis|
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `3157b68bfb2c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5e66be88ff65` · [字段定义](../../DATASET.md)*

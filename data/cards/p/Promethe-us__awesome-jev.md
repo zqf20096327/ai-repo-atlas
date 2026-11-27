@@ -2,9 +2,9 @@
 
 ⭐ 150 · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Promethe-us/awesome-jev) · [官网](https://promethe-us.github.io/awesome-jev/) · 个人维护 · 中文 README
 
-**Jev/System One 决策模型的资源清单：项目、论文、评测与社区线索**
+**面向研究者和开发者的 Jev/System One 资源知识地图**
 
-社区维护的 Jev（TypeSafe AI 的 System One 决策模型）知识地图：汇总官方资源与接入方式速查、GitHub 生态项目（浏览器、上下文管理、开放模型、训练实现）、X/小红书/知乎实践线索与 arXiv 论文，并附来源核验记录与基线核验日期。README 同时解释 Jev 的三种原语（Choice/Score/Noul）、速率与价格等规格，以及'决策层而非生成层'的定位。与 TypeSafe AI 官方无关，所有性能数字均为作者报告，未在本仓库复现。
+一个来源可核验的 Jev / System One 知识地图，收录官方资料、社区项目、论文、评测、机器人实践与社交平台线索，并标注每条目的核验状态与作者报告边界。README 内含 Jev 模型规格速览、Agent Loop 决策层定位说明、多框架接入方式对照表、时间线与 GitHub 生态项目表；同时提供 GitHub Pages 网页导航站供浏览检索。仓库声明与 TypeSafe AI 官方无关，未复现任何性能主张。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖官方 SDK、Vercel/Cloudflare/OpenRouter/LangChain 等多渠道接入方式速查表
-- GitHub 生态分类目录：浏览器、上下文管理、开放模型、训练配方与 Agent 评测
-- X/小红书/知乎多平台线索均带核验状态标注（已核验/待核验/未能复核）
-- 全库基线核验与增量复查日期及来源审计记录
+- 条目均附来源与核验状态（基线核验/增量复查日期）
+- 汇总 Choice/Score/Noul 原语与多框架接入方式对照表
+- X、小红书、知乎线索按已核验/待核验分开呈现
+- 提供 GitHub Pages 网页导航站与完整目录链接
 
 ## 适用场景
 
-- 查找 Jev 模型的接入方式与各渠道接口差异
-- 追踪 Jev 相关的开源项目、论文与评测
-- 了解社区在机器人、浏览器自动化等方向的实践线索
+- 查找 Jev / System One 相关论文、评测与社区项目
+- 对比各框架接入 Jev 的方式与注意事项
+- 跟踪 Jev 生态的发布动态与社区实践线索
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L11: **精选 Jev / System One 官方资料、社区实践与研究阅读**
-> L53: Jev 是 TypeSafe AI 的决策模型。程序提供文本状态和边界明确的问题，模型返回 **Choice / Score / Noul**；应用代码解释结果并决定下一步。TypeSafe 将这类模型称为 **System On
+> L12: **A source-backed collection of Jev resources, community projects, and research.**
+> L24: > 社区整理，与 TypeSafe AI 官方无关。**全库基线核验：2026-09-24；增量复查至 2026-09-28（Asia/Shanghai）**。来源可读取不等于性能已被本仓库复现；覆盖范围与访问限制见 核验记录。
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b57048789416` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `69db51795be5` · [字段定义](../../DATASET.md)*

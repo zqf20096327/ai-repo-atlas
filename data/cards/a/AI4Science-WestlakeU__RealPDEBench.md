@@ -2,9 +2,9 @@
 
 ⭐ 142 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/AI4Science-WestlakeU/RealPDEBench) · [官网](https://realpdebench.github.io/) · 组织维护 · 中文 README
 
-**配对真实/仿真数据的复杂物理系统科学 ML 基准（5 场景，700+ 轨迹）**
+**科学 ML 基准：配对真实测量与仿真的物理系统预测评测**
 
-由西湖大学等机构维护的科学机器学习基准，提供 5 个物理场景（圆柱绕流、流固耦合、受控圆柱、翼型、燃烧）的配对真实测量与数值模拟数据，共 700+ 条轨迹，含 10 个基线模型（U-Net、FNO、DeepONet、DPOT 等）与 9 种评测指标，面向时空预测与 sim-to-real 迁移。通过 pip 安装，数据托管于 Hugging Face（支持 hf-mirror），另提供 HDF5 原始数据与全部训练好的 checkpoint。轨迹按参数分布划分为训练/分布内/分布外测试组。许可证为 CC BY-NC 4.0。
+面向复杂物理系统的科学机器学习基准，提供配对的真实世界测量与匹配数值仿真数据，用于时空预测与 sim-to-real 迁移评测。包含 5 个数据集（cylinder、fsi、controlled_cylinder、foil、combustion）、700+ 轨迹、10 个基线模型与 9 项评估指标。以 Python 包形式提供训练与评估命令行入口，数据与 10×5×3 训练范式的模型检查点托管在 Hugging Face，另有 Westlake 服务器上的 HDF5 原始数据分发。数据版本 v2.0.0 用于复现论文 Table 1，v2.0.1 用于新实验。许可证为 CC BY-NC 4.0。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 5 个物理场景、700+ 配对真实/仿真轨迹
-- 10 个基线模型 × 5 场景 × 3 种训练范式的已训练 checkpoint
-- realpdebench download 命令行下载器，支持 hf-mirror 镜像
-- 按 in_dist/out_dist/remain 参数域划分测试集
+- 5 个数据集、700+ 轨迹，真实测量与数值仿真配对
+- 10 个基线模型与 9 项评估指标（RMSE、Rel L₂、MVPE 等）
+- 10×5×3 训练范式的检查点托管于 Hugging Face
+- HF Arrow 数据集支持惰性切片与自动下载
 
 ## 适用场景
 
-- 评测神经算子等模型在真实物理系统上的时空预测能力
-- 研究仿真到真实（sim-to-real）的迁移效果
-- 在分布外参数条件下测试模型泛化
+- 为物理系统的时空预测模型寻找真实数据基准
+- 研究 sim-to-real 迁移的训练与微调策略
+- 复现论文 Table 1 或参与 RealPDE 竞赛
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L29: RealPDEBench is the first scientific ML benchmark with **paired real-world measurements and matched numerical simul
-> L33: - **5 Datasets**: `cylinder`, `fsi`, `controlled_cylinder`, `foil`, `combustion`
-> L35: - **10 Baseline models**: U-Net, FNO, CNO, WDNO, DeepONet, MWT, GK-Transformer, Transolver, DPOT, DMD
+> L35: RealPDEBench is the first scientific ML benchmark with **paired real-world measurements and matched numerical simul
+> L41: - **10 Baseline models**: U-Net, FNO, CNO, WDNO, DeepONet, MWT, GK-Transformer, Transolver, DPOT, DMD
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2e44706265e6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `03eaac023467` · [字段定义](../../DATASET.md)*

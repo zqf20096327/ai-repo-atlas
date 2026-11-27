@@ -2,9 +2,9 @@
 
 ⭐ 142 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/NygenAnalytics/CyteType) · [官网](https://www.biorxiv.org/content/10.1101/2025.11.06.686964v1.full-text) · 组织维护
 
-**面向单细胞 RNA-seq 的多智能体 LLM 细胞类型注释系统**
+**单细胞 RNA-seq 细胞类型注释的多智能体 LLM 工具**
 
-CyteType 是用于单细胞 RNA 测序数据的端到端细胞类型注释系统，面向构建可重复分析流程的生物信息学研究者。它组合聚类级标记基因、表达上下文、研究元数据与本体映射，经多智能体审校流程生成注释；注释在 CyteType 云服务上运行，需 API key，学术与非商业用途免费（限额度内），商业用途需向 Nygen Analytics 购买许可。直接操作 AnnData 对象，Python 客户端以 BSD 3-Clause 开源，另有 R 客户端 CyteTypeR，并支持自带 LLM 包括本地模型。
+以 Python 客户端形式提供的单细胞 RNA-seq 细胞类型注释系统，直接操作 AnnData，将聚类 marker 基因、表达上下文、研究元数据、本体映射与审核步骤组织为结构化工作流。每次分析生成含注释决策、置信分级（High/Moderate/Low）、CL 本体 ID 与证据链的交互式报告，报告内提供 Chat 追问与 MCP 连接器；支持 Seurat 场景的 R 客户端。注释通过 CyteType 云服务运行，需 API key，学术免费、商业需许可。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ CyteType 是用于单细胞 RNA 测序数据的端到端细胞类型注释系统
 
 ## 能力要点
 
-- 组合标记基因/表达上下文/研究元数据/本体映射的多智能体注释流程
-- 输出 Cell Ontology CL ID、置信度与支持证据（marker 基因、通路、推理依据）
-- 生成含注释决策与审校评估的交互式 HTML 报告，可对话追问
-- 支持自带 LLM provider（含本地模型），另有 R 客户端 CyteTypeR 与 MCP connector
+- 对 AnnData 输出每个聚类的细胞类型/亚型/激活状态及 CL 本体 ID
+- 报告含 reviewer 置信分级、异质性标记与 marker 证据链
+- 报告内 Chat 追问、dashboard 任务管理与 MCP 连接器
+- 文档支持 Python 与 R（CyteTypeR）双客户端及本地模型接入
 
 ## 适用场景
 
-- 对 scRNA-seq 聚类结果做可重复的细胞类型注释
-- 跨研究比较需要标准化 Cell Ontology ID 的项目
-- 需要证据与置信度支持的细胞注释审校流程
+- 为 Scanpy 流程的聚类结果批量标注细胞类型与亚型
+- 跨研究比较时生成标准化 CL 本体映射
+- 需要可复现注释管线而非一次性提示的研究场景
 
 ## 场景标签
 
-`多智能体` `数据分析` · 领域:Agent 开发
+`多智能体` `科研工具` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L18: **CyteType** is an end-to-end cell type annotation system for **single-cell RNA sequencing (scRNA-seq)**, designed 
-> L64: - **Annotations:** Cell type, subtype, and activation state for every cluster
+> L95: - 🤖 Use your own LLM: LLM providers, including local models.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `04202b0087a3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c77736272dc3` · [字段定义](../../DATASET.md)*

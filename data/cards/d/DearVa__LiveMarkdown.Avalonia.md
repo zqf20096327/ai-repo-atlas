@@ -2,9 +2,9 @@
 
 ⭐ 186 · C# · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/DearVa/LiveMarkdown.Avalonia) · 个人维护 · 中文 README
 
-**Avalonia 应用的 Markdown 实时渲染控件：流式呈现 LLM 输出**
+**给 Avalonia 应用提供 Markdown 实时流式渲染的 UI 组件库**
 
-面向 Avalonia 桌面/跨平台应用的 Markdown 渲染库，通过 ObservableStringBuilder 事件驱动增量更新可视树，实现内容流式到达时的实时重渲染，README 明确指出适用于流式呈现大模型输出的场景。基于 Markdig 解析渲染，提供 TextMateSharp 代码高亮、RaTeX 数学公式、Mermaider 图表（流程图/时序图/类图等 13 种）、异步图片加载与内存/文件缓存、可扩展渲染管线与节点注册。通过 NuGet 分发，支持 .NET 8/10/11 与 Avalonia 12。
+面向 Avalonia 桌面应用的 Markdown 渲染库，以 NuGet 包分发，核心是可嵌入 XAML 的 MarkdownRenderer 控件与 ObservableStringBuilder 流式构建 API——内容变更触发增量更新可视树而非整篇重渲染，并提供流式文本渐入动画选项。支持表格、代码高亮（TextMateSharp）、可选中文本、搜索高亮、异步图片加载与缓存；LaTeX、SVG、Mermaid 图表通过可选子包启用。定位场景是显示大模型流式输出的应用界面，安装需 .NET 8/10/11 与 Avalonia 12。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 基于事件驱动的增量更新，适配流式 Markdown 内容
-- LaTeX（RaTeX）与 13 种 Mermaid 图表的原生渲染，通过可选包启用
-- 图片异步加载与内存/文件两级缓存，支持 HTTP 新鲜度头
-- 可扩展 Markdown 管线：自定义节点注册与节点生命周期钩子
+- 基于 Markdig 的增量式实时渲染，针对流式输出场景设计
+- LaTeX（RaTeX）、SVG、Mermaid 图表渲染以可选 NuGet 子包提供
+- 支持 TextMateSharp 代码高亮、跨元素文本选择与搜索高亮
+- 图片异步加载，带内存/文件缓存及 HTTP 新鲜度头校验
 
 ## 适用场景
 
-- 为聊天式应用流式渲染大模型返回的 Markdown
-- 在 Avalonia 应用中展示含公式与图表的技术文档
-- 需要文本可选、可搜索高亮的 Markdown 阅读界面
+- 开发 AI 聊天客户端时渲染大模型流式返回的 Markdown 回复
+- 桌面应用内实时展示动态更新的 Markdown 文档
+- 在 Avalonia 应用中渲染含数学公式与 Mermaid 图的内容
 
 ## 场景标签
 
- · 领域:开发工具/UI 组件
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
+> L5: **High performance, real-time Markdown renderer for AI/LLM**
 > L18: `LiveMarkdown.Avalonia` is a High-performance Markdown viewer for Avalonia applications.
 > L20: updating, **especially when streaming large model outputs**.
-> L122: `MarkdownBuilder` is the primary API for live output. Its change events let the renderer update the visual tree
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7842c3e9ecc7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0616aa815146` · [字段定义](../../DATASET.md)*

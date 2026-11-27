@@ -2,9 +2,9 @@
 
 ⭐ 139 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Flux159/mcp-chat) · [官网](https://www.npmjs.com/package/mcp-chat) · 个人维护 · 中文 README
 
-**通用 MCP 客户端：测试与评估 MCP 服务器和 agent**
+**测试与评估 MCP 服务器和 agent 的开源通用客户端**
 
-开源的 MCP（Model Context Protocol）通用客户端，通过 npx 以 CLI 交互模式或 -p 传参方式连接任意 MCP 服务器（JS/Python/Docker），也可用 --web 在浏览器界面中聊天并动态配置服务器。面向 MCP 服务器开发者：可传入本地构建的 server 进行调试，在聊天中直接查看工具调用输出与参数。需设置 ANTHROPIC_API_KEY，目前仅支持 Anthropic 模型；聊天历史保存在 ~/.mcpchat/chats。开发基于 bun，提供 Docker 构建脚本。
+面向 MCP 服务器与 agent 开发者的命令行/Web 客户端：通过 --server 参数连接本地或远程 MCP 服务器，与 LLM 对话并直接查看工具调用输出以调试服务器；支持 -p 直接传入 prompt、-m 选模型、--system 自定义系统提示词、--config 复用 claude_desktop_config.json，Web 模式下可在 UI 中动态配置服务器，聊天记录保存于 ~/.mcpchat/chats。当前仅支持 Anthropic 模型，需设置 ANTHROPIC_API_KEY；远程服务器支持 Streamable HTTP，不支持 SSE 与需认证的服务器。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- CLI 与 Web 两种模式连接任意 MCP 服务器
-- 直接在聊天中查看工具调用输出与参数，辅助调试 MCP 服务器
-- 可加载本地构建的 Node/Python MCP 服务器进行测试
-- 支持 -m 选模型、--system 自定义系统提示词、环境变量透传
+- CLI 交互模式或 -p 直接传入 prompt，可查看工具调用输出与参数以调试 MCP 服务器
+- Web 模式通过 UI 动态配置 MCP 服务器，聊天记录保存在 ~/.mcpchat/chats
+- 支持连接 JS/Python/Docker 形式的 MCP 服务器及 Streamable HTTP 远程端点
+- 支持自定义系统提示词、模型选择及环境变量透传给 MCP 服务器
 
 ## 适用场景
 
-- 我在开发 MCP 服务器时快速验证其工具调用行为
-- 不想写代码就通过聊天界面试用某个 MCP 服务器
-- 复用 claude_desktop_config.json 的配置直接测试已有服务器集合
+- 开发 MCP 服务器时测试本地构建的 Node/Python 服务器
+- 通过 CLI 让 MCP 服务器执行任务（如列出 Kubernetes pods）并查看结果
+- 用 Web 界面与多个 MCP 服务器聊天并保留历史记录
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+ · 领域:LLM 基础设施/MCP 客户端
 
 ## 证据(README 行号)
 
 > L27: Open Source Generic MCP Client for testing & evaluating mcp servers and agents
 > L71: - [x] Connect to any MCP server (JS, Python, Docker) in production or during development
+> L39: This will open up a chat prompt that you can use to interact with the servers and chat with an LLM.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `145edb3df2b6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b196612c158c` · [字段定义](../../DATASET.md)*

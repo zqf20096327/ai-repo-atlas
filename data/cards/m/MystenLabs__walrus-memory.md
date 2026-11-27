@@ -2,9 +2,9 @@
 
 ⭐ 140 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/MystenLabs/walrus-memory) · [官网](https://walrus.xyz/memory) · 组织维护
 
-**可移植的 AI agent 长期记忆层，跨应用跨会话持久化**
+**为 AI Agent 提供跨应用跨会话的持久化记忆层**
 
-面向 AI agent 的记忆基础设施：通过 relayer 服务处理嵌入、加密、上传至 Walrus 存储、检索与恢复，向量元数据存于 PostgreSQL，按 owner + namespace 划分记忆作用域。记忆数据可验证、由用户控制，支持跨应用与会话迁移。提供 TypeScript SDK（npm 包），含默认客户端、手动流程客户端与 Vercel AI SDK 中间件集成，另有 OpenClaw agent 记忆插件。项目自述处于 beta 阶段，仍在迭代。
+Walrus Memory 是一个可移植的 Agent 记忆层 SDK，使 AI Agent 在跨应用、跨会话时保持上下文。工作流程分为四步：scope 按 owner+namespace 边界隔离、store 由 relayer 嵌入并加密后上传至 Walrus 并将向量元数据存入 PostgreSQL、recall 按 owner+namespace 检索并返回明文结果、restore 增量重建索引。架构包含 Rust relayer、Node.js sidecar（Seal/Walrus）、Sui indexer、React dashboard 和本地 MCP 连接器，使用 pgvector 与 Redis。npm 安装，当前处于 beta。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- relayer 统一处理嵌入、加密、Walrus 上传/下载与检索
-- owner + namespace 作用域隔离与增量索引重建
-- Vercel AI SDK 中间件集成（streamText/generateText）
-- OpenClaw 插件提供自动记忆捕获与召回钩子
+- 记忆经嵌入、加密后存储于 Walrus，向量元数据存 PostgreSQL (pgvector)
+- owner + namespace 的作用域隔离与增量 restore
+- 提供 Vercel AI SDK 中间件集成（streamText/generateText）
+- OpenClaw Agent 的记忆插件（自动 recall 与 capture 钩子）
 
 ## 适用场景
 
-- 让我的 agent 在不同应用和会话间保留记忆
-- 为多 agent 系统提供可验证的共享长期记忆
-- 通过 Vercel AI SDK 给现有 LLM 应用加记忆层
+- 为 Agent 添加跨会话的长期记忆
+- 多个 Agent 间共享可验证的记忆数据
+- 通过 MCP 连接器为本地 Agent 接入记忆
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5: Walrus Memory enables AI agents to operate reliably across apps and sessions,
-> L82: |`@mysten-incubation/memwal`|Default client (`MemWal`). The relayer handles embedding, encryption, Walrus upload/do
+> L84: |`@mysten-incubation/memwal`|Default client (`MemWal`). The relayer handles embedding, encryption, Walrus upload/do
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `ca5d0b031399` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `71e360e7b8b2` · [字段定义](../../DATASET.md)*

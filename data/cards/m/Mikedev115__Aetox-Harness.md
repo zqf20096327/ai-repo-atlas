@@ -1,10 +1,10 @@
 # Mikedev115/Aetox-Harness
 
-⭐ 141 · Go · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Mikedev115/Aetox-Harness) · [官网](https://mikedev115.github.io/Aetox-landing/) · 个人维护
+⭐ 141 · Go · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Mikedev115/Aetox-Harness) · [官网](https://mikedev115.github.io/Aetox-landing/) · 个人维护 · 中文 README
 
-**Windows 本地优先 AI agent 客户端，接入 31 家模型操作文件/代码/浏览器**
+**让 AI agent 在本机真实终端/浏览器/项目中完成任务的桌面环境**
 
-面向 Windows 10+ x64 的免费桌面 AI agent（非开源）：用户自带模型或使用本地模型，Aetox 提供文件、浏览器、终端等工具层，让模型处理编码、文档（Excel/Word/PowerPoint）、视频剪辑等任务，并以'团队'模式拆分多 agent 工作。支持 31 家 provider（OpenAI/Anthropic/Gemini/Ollama 等），含权限分级与密钥本地存储。限制：非开源、后版本仅二进制分发、未代码签名安装器、token 用量较高。
+Aetox harness 是一个桌面 agent 环境：连接模型后，用户交给它任务，它在真实终端、浏览器与项目文件中分步执行——读取项目、制定计划、编辑文件、运行测试、自检结果后交付文档或代码。上下文架构将记忆与技能按节点索引，仅在任务使用时加载完整内容；本地数据留在用户机器上。安装渠道包括 Microsoft Store、Windows 安装包与 Scoop/Linux；模型自选，支持 ChatGPT、GitHub Copilot、OpenRouter 登录或接入 LM Studio/Ollama 本地运行。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 接入 31 家 provider，含 OpenRouter 登录与 Ollama/LM Studio 本地服务
-- Code/Assistant/Teams/Studio 多模式：编码、文档生成、视频剪辑
-- 数据留在本机，密钥绑定 Windows 账户，权限三级分级
-- 通过 Microsoft Store、winget、安装器、Scoop 多渠道安装
+- 真实终端与浏览器执行，运行项目自身测试后再报告完成
+- 上下文按节点索引，工具与技能以名称占用上下文，专用工具仅在调用时加载
+- 49 个技能与 37 个 /commands，152 个 MCP 服务器可扩展
+- 按语言页面标准（TH Sarabun New、GB/T 9704-2012 等）生成并打印校验文档
 
 ## 适用场景
 
-- 用自有模型在本地完成编码与项目修改
-- 让 AI 处理会议记录、收据并产出 Excel/Word/PowerPoint 文件
-- 把整项工作交给多 agent 团队并追踪各环节产出
+- 让 agent 读取项目并完成带测试验证的编码任务
+- 会议录音转录并生成带时间戳的纪要文件
+- 按各国公文标准生成报价单/函件/报告并打印
+- 在已有 Excel 工作簿上做公式与格式的增量修改
 
 ## 场景标签
 
-`多智能体` `编码 Agent` `AI 助手` · 领域:Agent 开发
+`GUI 自动化` `AI 助手` `编码 Agent` `OCR` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L9:  Say what you want. Aetox lines up the team and the tools, and hands back finished work.
-> L62:  a key, or point it at LM Studio or Ollama on your machine.
-> L112: 31 providers, cloud and local. ChatGPT (Codex), GitHub Copilot and OpenRouter sign in; the rest take an API key or
+> L7: Aetox harness is the environment that lets AI actually work on your computer — it reads the project, plans, then wor
+> L43: **The system makes the model write better code** — that is the only thing we sell for code, not the model's own
+> L77: 2. **Connect a model.** Open **Settings › Models** and sign in with ChatGPT, GitHub Copilot or OpenRouter, or paste
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `8ef013a82023` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `65391601e648` · [字段定义](../../DATASET.md)*

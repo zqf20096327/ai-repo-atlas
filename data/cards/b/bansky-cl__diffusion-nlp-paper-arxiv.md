@@ -2,9 +2,9 @@
 
 ⭐ 319 · Python · 推送 2026-11-26 · [GitHub](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) · [官网](https://github.com/bansky-cl/Diffusion-LM-Papers) · 个人维护
 
-**为 NLP 研究者自动汇总 arXiv 扩散语言模型论文的清单库**
+**自动抓取 arXiv 扩散模型 NLP 论文的月度清单**
 
-该仓库按月更新 arXiv 上扩散语言模型（diffusion LM / masked diffusion LM）方向的论文列表，以表格形式呈现日期、标题、cs.CL 等标签、摘要全文与 PDF 链接，代码链接字段多为空。内容覆盖量化、策略接口、采样加速、machine unlearning、评测基准等子方向。仓库声明更完整的策展列表在另一个仓库 "Diffusion-LM-Papers" 中。可见 README 未包含安装说明或代码，主体是论文索引数据本身。
+该仓库自动从 arXiv 抓取扩散语言模型（diffusion/masked diffusion LM）相关论文，按月更新并以表格呈现日期、标题、分类标签、摘要、PDF 链接与代码链接。内容覆盖文本生成、解码策略、量化、知识蒸馏等方向。仓库本身不提供论文全文或工具代码，仅作论文目录；更精编的条目指向另一仓库 Diffusion-LM-Papers。读者据此跟踪研究动态。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按月更新扩散语言模型方向的 arXiv 论文列表
-- 每条目含日期、标题、标签、完整摘要、PDF 链接与代码链接
-- 声明关联另一仓库 Diffusion-LM-Papers 提供更完整的策展列表
+- 按月更新 arXiv 扩散 NLP 论文列表
+- 表格含日期、标题、分类、摘要、PDF 与代码链接
+- 条目标注 cs.CL/cs.AI 等分类与 arXiv 编号
 
 ## 适用场景
 
-- 跟踪扩散语言模型方向的最新论文
-- 检索特定子方向（量化、采样、评测）的相关文献
-- 作为文献调研的起点材料
+- 跟踪扩散语言模型的最新论文
+- 查找某篇 diffusion LM 论文的 PDF 与开源代码
+- 做 diffusion LM 方向文献调研时补充线索
 
 ## 场景标签
 
@@ -36,8 +36,9 @@
 
 ## 证据(README 行号)
 
+> L8: ## Updated on 2026.11.27
+> L12: ## diffusion
 > L14: |Date|Title|label|Abstract|PDF|Code|
-> L16: |**2026-11-24**|**On the Importance of Hidden-State Refinement in Masked Diffusion Language Models**|cs.CL|Full Abs
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d515312405e6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `97cd8411d4b4` · [字段定义](../../DATASET.md)*

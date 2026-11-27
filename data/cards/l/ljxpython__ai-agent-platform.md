@@ -2,9 +2,9 @@
 
 ⭐ 169 · Python · 推送 2026-11-25 · [GitHub](https://github.com/ljxpython/ai-agent-platform) · 个人维护 · 中文 README
 
-**供企业二次开发的开源 AI Agent 平台底座**
+**企业二次开发自建 AI Agent 平台的工程底座**
 
-基于 LangGraph/LangChain 生态二次开发的 AI Agent 平台底座，由 Platform API（FastAPI 认证鉴权/多租户/审计/模型目录）、Platform Web（Vue 3 控制台前端）与 Runtime Service（LangGraph 图编排、工具与 MCP 装配、SSE 流式推送）三层组成。内置教学示例 showcase_demo 与生产级 DeerFlow Agent 两套智能体，提供沙箱工作区、长期记忆、HITL 审批、交互式终端等机制。预留自定义 Agent 图、Tools、MCP 服务与 Skills 扩展点供企业二开。运行需 Python 3.11+、Node.js 18+、PostgreSQL 与 Redis。
+基于 LangGraph 生态二次开发的 AI Agent 平台底座，面向需要搭建企业私有 Agent 平台的团队。系统分为平台控制面（FastAPI + PostgreSQL，负责认证鉴权、RBAC、审计、模型 Catalog）与运行时执行面（LangGraph 状态机 + Redis），通过短时委托 JWT 通信；配套 Vue 3 管理控制台、LightRAG 知识中台、MLflow/Langfuse 可观测中心与基于 EvalFlow 的持续评测飞轮。内置三套示例智能体与 20+ 技能矩阵。要求 Python 3.11+、Node.js 18+、PostgreSQL 14+、Redis 6.0+。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 平台治理层与 Agent 执行层解耦，经受管契约通信
-- 内置 showcase_demo 教学智能体与 DeerFlow Agent 生产级智能体
-- 支持 MCP 服务接入、自定义 Tools、Agent 图与 Skills 扩展点
-- 提供本地多进程与 Docker Compose 两种启动方式
+- 平台治理与 Agent 运行时解耦，60 秒受管委托凭证通信
+- 上下文防爆体系：溢出落盘、历史视口虚拟折叠、Token 预算软停机
+- 内置教学 Demo、DeerFlow Agent 与平台运维排障助手三套智能体
+- 真实业务会话一键转评测集的持续评测飞轮
 
 ## 适用场景
 
-- 企业以该底座为模板快速搭建私有 AI Agent 平台
-- 基于 LangGraph 编排自有业务 Agent 图与工具
-- 需要沙箱工作区、长期记忆与 HITL 审批的 Agent 生产落地
+- 为企业搭建私有 AI Agent 平台作为二开模板
+- 治理多租户、多项目的 Agent 运行与审计
+- 对生产环境的 Agent 会话持续构建评测集
 
 ## 场景标签
 
-`Agent 框架` `Agent 记忆` · 领域:Agent 开发
+`Agent 框架` `多智能体` `LLM 可观测性` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L31: 本项目为解决这一痛点而生，提供一个**可直接用于二次开发、快速搭建企业私有 AI Agent 平台**的工程底座：
-> L34: - **拥抱主流开源生态，不造封闭轮子**：全面基于 `LangGraph / LangChain` 系列生态设计，深度吸收 `open-swe`、`deepagents` 与 `deer-flow` 的工程思想，原生支持复杂图编
+> L37: 本项目为解决这一痛点而生，提供一个**可直接用于二次开发、快速搭建企业私有 AI Agent 平台**的工程底座：
+> L40: - **拥抱主流开源生态，不造封闭轮子**：全面基于 `LangGraph / LangChain` 系列生态设计，深度吸收 `open-swe`、`deepagents` 与 `deer-flow` 的工程思想，原生支持复杂图编
+> L52: |**Runtime Service**|`apps/runtime-service`|**Agent 执行引擎**：LangGraph 图注册、工具与 MCP 装配、会话调度、六大防爆中间件、SSE 事件流保活推送|Python
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `42dbb1a4a274` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `71a3eff73e06` · [字段定义](../../DATASET.md)*

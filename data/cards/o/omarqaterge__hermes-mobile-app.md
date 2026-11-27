@@ -2,9 +2,9 @@
 
 ⭐ 166 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/omarqaterge/hermes-mobile-app) · 个人维护
 
-**在 Android 手机上本地运行 Hermes Agent 的原生聊天客户端**
+**把 Hermes Agent 装进 Android 手机的原生 App，全程本机运行**
 
-非官方社区项目，为原本运行在终端的 Hermes Agent 提供手机界面：Hermes 在同机 Termux 的 Debian 环境中运行，应用通过 localhost 通信并提供流式聊天、工具卡片、状态栏审批、共享画布、语音与助手模式、定时任务、文件浏览器等。代理可经 Shizuku 在隐藏屏幕上读取和操作其他应用。安装需 Termux 三件套与 Shizuku，Android 8+（arm64）、约 6GB 空间，耗时 15-40 分钟；模型需订阅账号或 API key。React + TypeScript 编写，MIT 许可。
+Hermux 是非官方社区项目，将开源 Hermes Agent 包装为 Android 原生应用，Agent 本体运行在手机 Termux 的 Linux 环境中，无需 root。它以隐藏屏方式操作其他 App、以通知交互审批与提问、在聊天旁以画布共建页面与 3D 内容、提供离线听写与 Live 语音模式、维护可读可编辑的记忆与技能。模型接入依赖外部订阅或 API key，暂无离线本地模型；目前无独立安全审计，维护者一人。
 
 ## 筛选速览
 
@@ -12,33 +12,35 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `None` |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Hermes Agent 完全在手机端 Termux 中运行，无需服务器
-- 状态栏（Android 16 Live Update）审批与通知，应用关闭后仍可用
-- 共享画布：实时生成 HTML/3D 内容，版本可回滚，HTML 沙箱默认离线
-- 经 Shizuku 在隐藏屏幕代用户操作其他应用（Android 14+）
+- 隐藏屏操作手机 App：读取元素列表而非截图，避开截图屏蔽场景（Android 14+）
+- App 关闭时通过通知完成审批、提问与回复
+- 聊天旁画布共建页面/图表/3D 场景，每次变更可版本对比与回滚
+- 记忆与技能可查看、编辑、删除，背景自我复盘沉淀技能
 
 ## 适用场景
 
-- 在手机上与 Hermes Agent 对话并审批其工具调用
-- 让代理在手机本地操作其他应用完成任务的端到端体验
-- 把手机默认数字助手设为 Hermes，长按电源键进入免提 Live 模式
+- 把日常待办交给手机上的 agent 定时执行（如每天早 8 点汇总天气与新闻）
+- 跨购物 App 比价并整理成表格
+- 把下载目录的 CSV 做成交互式消费看板
+- 查询手机存储、电池、文件等本机状态
 
 ## 场景标签
 
-`聊天机器人` `AI 助手` `GUI 自动化` · 领域:效率与自动化
+`AI 助手` `GUI 自动化` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L19: Hermes Agent is a powerful agent, but it lives in a terminal. Hermes Mobile gives it a proper phone interface: stre
-> L93: Hermes runs in Termux on the phone, and the app talks to it over localhost the same way Hermes Desktop does (it als
+> L3:  The Hermes agent, running natively on your Android phone.
+> L19: Hermux puts the open-source Hermes Agent in your pocket and gives it
+> L23: Termux on the same phone, so the whole thing is yours and self-contained.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `30535c41a7f2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `36efa5a5c83e` · [字段定义](../../DATASET.md)*

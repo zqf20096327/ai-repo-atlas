@@ -2,9 +2,9 @@
 
 ⭐ 201 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/newmean-ai/pii) · [官网](https://pii.newmean.ai) · 组织维护
 
-**浏览器端多语言 PII 识别与脱敏 SDK，文本不出设备**
+**在文本发送给 LLM 前本地遮蔽 PII 的多语言 SDK**
 
-在浏览器 WebAssembly 中检测并遮蔽文本中个人信息的 SDK，覆盖姓名、邮箱、电话、地址、证件号等 11 类标签，支持 54 种语言；提供 nano/small/medium/large 四档模型（2.6–15.5 MB），模型文件从 Hugging Face 下载并按 SHA-256 校验。同一套模型通过 C 引擎分发到 Python、iOS、Android、Flutter、Rust 等平台。另支持表格（CSV/TSV）整表脱敏、block/allow 用户词表、可选正则模式层（默认关闭）。许可证允许包括商业在内的任意使用。
+提供检测并遮蔽个人身份信息（人名、邮箱、电话、地址、证件号等）的 SDK，模型在浏览器 WebAssembly 或移动端/服务器本机运行，原文不离开设备；带 vault 机制可在模型回复与允许的工具调用中还原真实值。支持 54 种语言、11+2 标签、四种模型尺寸（2.6–15.5 MB），提供 CSV/TSV 表格模式与 block/allow 用户列表，另附公开数据集、演示站与排行榜。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 54 种语言、11 类 PII 标签，四档模型 2.6–15.5 MB
-- 浏览器 WebAssembly 端上运行，原文不离开设备
-- 表格模式保持分隔符/引号/换行不被遮蔽，输出仍为合法表格
-- 同一模型分发到 Python/iOS/Android/Flutter/Rust 多端
+- 54 种语言、11+2 标签，模型 2.6–15.5 MB 四档尺寸
+- 浏览器 WebAssembly 与 iOS/Android/服务器本机运行
+- 表格模式输出保持合法 CSV/TSV，支持按列头上下文识别
+- block/allow 用户列表在模型加载前校验
 
 ## 适用场景
 
-- 在前端对用户输入的文本做 PII 遮蔽后再发送
-- 对调研导出的 CSV/TSV 表格进行批量脱敏
-- 用 block/allow 词表定制业务字段的遮蔽与保留
+- 把用户文本发给 OpenAI/Anthropic 前先遮蔽个人信息
+- 浏览器或手机端离线检测表单与问卷中的 PII
+- 对 CSV/TSV 数据导出做批量脱敏
 
 ## 场景标签
 
- · 领域:隐私/数据安全工具
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L5: **Browser-side PII redaction.** Detect and mask personal information (names, emails, phone numbers, addresses, IDs, 
+> L5: **Mask PII before it reaches OpenAI, Anthropic or any LLM.** Detect and mask personal information (names, emails, ph
+> L9: - Four model sizes: **nano 2.6 MB**, **small 7.1 MB**, **medium 11.3 MB** (default), **large 15.5 MB**
 > L10: - Runs in WebAssembly: the SDK's own built-in engine (default, about 13 KB) or onnxruntime-web
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0f5f119e77f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `71551461e4cf` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 162 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/hotosm/fAIr) · [官网](https://hotosm.github.io/fAIr/) · 组织维护
 
-**人道主义制图者用的 AI 辅助地图服务：从影像检测建筑/道路等**
+**人道主义制图者运行并微调地理 AI 模型的工具**
 
-HOT（人道主义 OpenStreetMap 团队）开发的开源 AI 辅助制图服务，面向制图项目经理与模型开发者。使用计算机视觉模型（含 YOLOv8）从卫星与无人机影像中检测建筑、道路、水道和树木，输出可加入 OSM 的要素。支持基于本地化数据训练区域模型、经 MapSwipe 社区验证预测、通过制图者反馈迭代模型。技术栈为 Django/React/PostgreSQL/TensorFlow/PyTorch，本地开发安装通过 Docker 文档指引。影像瓦片用于训练时存储、推理时仅临时缓存。
+由 Humanitarian OpenStreetMap Team 开发的 AI 辅助制图工具：制图者选择共享模型库中的模型，在感兴趣区域上运行推理，验证识别结果，并用本地样本微调生成本地模型。输出以开放数据层发布到 Humanitarian Data Exchange 与 Hugging Face；明确声明将 AI 生成要素直接导入 OpenStreetMap 不在目标范围内。本地运行需 Docker Compose、Git 与至少 8 GB 内存，栈内含 Django REST 后端、React 前端及 STAC/MinIO/MLflow/ZenML 等服务。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ HOT（人道主义 OpenStreetMap 团队）开发的开源 AI 辅助制图服务�
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,25 @@ HOT（人道主义 OpenStreetMap 团队）开发的开源 AI 辅助制图服务�
 
 ## 能力要点
 
-- 计算机视觉模型从卫星/UAV 影像检测建筑、道路、水道、树木
-- 基于本地化数据集创建区域模型，反馈闭环持续改进
-- MapSwipe 社区验证 AI 预测（47 个项目、85 万+ 结果）
-- 支持离线后台预测与复用预训练模型到新影像区域
+- 模型选择→区域推理→人工验证→本地微调的工作流
+- 输出以开放数据层发布到 HDX 与 Hugging Face
+- 后端通过 ZenML 管线编排训练与预测，artifacts 存于 MinIO/S3
+- 提供 docker compose 一键启动完整本地栈与 Swagger API 文档
 
 ## 适用场景
 
-- 人道主义项目中对指定区域做建筑/道路等要素的 AI 检测制图
-- 用本地数据训练适配当地语境的检测模型
-- 模型开发者共享开源 ML 模型给制图社区
+- 人道主义制图前用模型预识别建筑等要素再人工校验
+- 用本地标注样本微调出适配本区域的模型
+- 自托管完整训练/推理栈并通过 REST API 集成
 
 ## 场景标签
 
-`目标检测` `微调` · 领域:感知与多模态
+`微调` `目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L16: fAIr is an open AI-assisted mapping service developed by the Humanitarian OpenStreetMap Team (HOT) that aims to imp
-> L27: - Map object detection using open-source ML models, open imagery and open community-led training and validation dat
+> L10: fAIr connects mappers with geo-AI models they can run and adapt in their own area. It is a shared collection of mod
+> L12: fAIr offers its outputs as open data layers on the Humanitarian Data Exchange and Hugging Face. Bringing AI-generat
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5e5c4ae41e65` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1318ad5e4ea7` · [字段定义](../../DATASET.md)*

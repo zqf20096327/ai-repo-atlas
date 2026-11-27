@@ -2,9 +2,9 @@
 
 ⭐ 141 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/2026heshao/dsh-armory) · [官网](https://github.com/2026heshao/dsh-armory#readme) · 个人维护 · 中文 README
 
-**DeepSeek Harness 插件：MCP/技能/专家/市场一体化管理看板**
+**DSH 用户的 MCP/技能/专家管理看板：装过什么、连没连上一眼可见**
 
-DeepSeek Harness（DSH）的 Web 端管理插件，fork 自 dsh-mcp-manager-ui：可视化查看与启停 MCP（全局/项目双作用域）、从 SkillHub（19 万+技能）与 WorkBuddy（316 连接器、429 专家）市场搜索并一键安装/召唤/送还专家、插件社区清单浏览与安装；另有工具裁缝扫描本机会话日志统计工具调用与上下文税、一键禁用零调用工具；支持从 Claude Code/Cursor/VS Code 等 11 种客户端导入 MCP 配置，实现 MCP OAuth 一键授权（RFC 9728/8414/7591/7636/8707）。通过 dsh plugin 命令安装，装完需重启 DSH 宿主。
+以 DSH 插件形式安装的一体化管理面板，聚合 MCP 连接状态管理、全局与项目级配置、11 种客户端配置导入、OAuth 授权流程，以及按 7/30/90 天统计工具调用与 token 占用的工具裁缝账本；另有 WorkBuddy 专家中心（429 位、随时挂换）、技能看板和四个市场（316 连接器、19 万+ 技能）一键安装，并用 install-state.json 记录安装来源，支持 JSON 清单导入导出。仅装 DSH 聊天、未用 MCP/技能的用户用不上。
 
 ## 筛选速览
 
@@ -12,35 +12,35 @@ DeepSeek Harness（DSH）的 Web 端管理插件，fork 自 dsh-mcp-manager-ui�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- MCP 全局/项目双作用域可视化管理，含工具 Schema 与 OAuth 授权
-- SkillHub 19 万+技能、WorkBuddy 连接器与专家三大市场直连一键安装
-- 工具裁缝扫描本机会话日志统计调用/错误/上下文税并禁用零调用工具
-- 自动检出 11 种客户端的 MCP 配置并预览导入
+- MCP 全局与项目级分开管理，11 种客户端配置自动检出并一键导入
+- 工具裁缝读本机会话日志统计调用与 token 占用，死工具一键禁用
+- WorkBuddy 专家 429 位可随时挂载/替换到当前会话
+- 四个市场直连：逐文件 sha256 校验安装，install-state.json 记录来源
 
 ## 适用场景
 
-- 在可视化面板里管理 DSH 的 MCP 服务器而不是手改 YAML
-- 从 SkillHub/WorkBuddy 市场搜索安装技能、连接器并召唤专家
-- 分析工具上下文开销并禁用长期零调用的 MCP 工具
-- 从 Claude Code/Cursor/VS Code 迁移 MCP 配置到 DSH
+- DSH 装了大量 MCP 和技能后，需要统一查看状态、管理开关
+- 从 Claude Code、Cursor 等客户端迁移 MCP 配置
+- 分析哪些工具和技能在占用 token 并清理不用的
+- 从市场查找并一键安装连接器、技能和专家
 
 ## 场景标签
 
- · 领域:AI Agent 基础设施/插件管理
+ · 领域:AI 开发工具/插件面板
 
 ## 证据(README 行号)
 
-> L5: > **DeepSeek Harness 的一体化管理看板**：MCP · 技能 · 专家 · 插件 · 工具账本 · 四大市场，浏览、搜索、一键安装、一键召唤。
-> L33: |MCP 配置要手改 YAML，改完不知道连没连上|可视化面板：状态、工具 Schema、启停、重连，全局与项目双作用域，项目级改完即对存活会话生效|
-> L121: - **MCP OAuth 一键授权（2.0.0 新增）**：官方 `@deepseek-ai/dsh-mcp-client` 的 transport 只认 `requestInit.headers`、没有 authProvid
+> L6: > 军械库把 MCP、技能、专家、插件和四个市场收进一块面板：316 个连接器、19 万+ 技能、429 位专家。装过什么、连没连上、哪些工具在吃 token，打开就能看见；会话里要用什么，也能直接叫出来。
+> L17: ## 装上一块面板
+> L41: 从别的客户端搬过来，也不用逐条抄。Claude Code、Codex、Cursor、Windsurf、VS Code、Gemini CLI、Roo Code 等 11 种客户端的配置会被自动检出，预览后一键导入；同名冲突只跳过那一
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 mid · 依据 README sha `68c74ad82f50` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `1b002739672b` · [字段定义](../../DATASET.md)*

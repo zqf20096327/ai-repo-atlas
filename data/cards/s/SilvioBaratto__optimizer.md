@@ -2,9 +2,9 @@
 
 ⭐ 177 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/SilvioBaratto/optimizer) · 个人维护
 
-**面向量化投资者的组合优化工作区，含 LLM 基金代理与模拟交易**
+**LLM 选基、skfolio 算权的组合优化工作区，人工审批模拟交易**
 
-由四个 Python 包组成的 uv 工作区：可组合的 skfolio/scikit-learn 组合优化库（26 个子模块、15 种优化器构建器，含风险、衍生品、信用模型等研究工具）、定时拉取行情入库 PostgreSQL 的采集守护进程、共享数据库层，以及一个 LLM 代理基金桥——LLM 做选择、优化器计算，模拟交易需人工审批后执行。库可独立安装、无 Docker/DB 依赖；守护进程与基金桥需 Docker+PostgreSQL。
+由四个 Python 包组成的 uv workspace：可组合的 skfolio/scikit-learn 优化库 portopt-core（26 个子模块、15 种优化器构建器）、定时拉取行情的 PostgreSQL 采集守护进程、共享数据库层，以及一个 LLM 驱动的基金桥（deepagents/langgraph），由 LLM 决策、优化器计算权重、模拟交易经人工审批后执行。库本体零 Docker/数据库依赖可独立安装；采集与 fund 组件需 Docker + PostgreSQL 16。安装走 uv、安装向导脚本或 pip editable。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 组合优化库含 15 种优化器与 26 个子模块，纯 Python 无 DB 依赖
-- LLM 代理基金：LLM 决策、优化器计算、模拟交易经人工审批门
-- 定时市场数据采集守护进程，yfinance Screener 构建标的池
-- 安装向导加密管理 API 密钥（Fernet+scrypt）与生命周期命令
+- 15 种优化器构建器：Mean-Risk、HRP、HERC、NCO、DR-CVaR 等
+- 26 个研究子模块：VaR 回测、Kelly 工具、Black-Scholes 定价、Merton 信用模型等
+- LLM 决策 + 优化器计算 + 人工审批门控的模拟交易流程
+- 优化库零 Docker/DB 依赖，可单独 pip 安装
 
 ## 适用场景
 
-- 在自己的代码中构建和调优组合优化流水线
-- 定时维护行情/基本面/宏观数据的 PostgreSQL 存储
-- 让 LLM 代理提出配置方案，人工审批后模拟交易
+- 在自己的量化代码里构建和调参组合优化 pipeline
+- 定时维护一套本地行情/基本面/宏观数据库
+- 用 LLM 管理模拟盘基金并在审批门下执行调仓
 
 ## 场景标签
 
-`金融量化` · 领域:学习与行业
+`Agent 框架` `金融量化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: > Portfolio optimization in one **uv workspace**: a composable skfolio /
-> L22: |Build and tune portfolio-optimization pipelines in your own code|the **`optimizer`** library (`portopt-core`)|**No
+> L6: > **fund** where an LLM chooses, the optimizer computes, and paper trades wait
 > L25: |Run an LLM-driven fund manager that decides and lets the optimizer compute|the **`fund`** bridge (`portopt-fund`)|
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `32acfd553e20` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `4b96003c13ea` · [字段定义](../../DATASET.md)*

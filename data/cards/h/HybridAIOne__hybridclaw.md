@@ -2,9 +2,9 @@
 
 ⭐ 164 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/HybridAIOne/hybridclaw) · [官网](https://www.hybridclaw.io/) · 组织维护
 
-**面向企业的自托管 AI 助手运行时，带沙箱与审批**
+**自托管企业 AI 助手运行时：沙箱执行、凭证隔离、审批与记忆**
 
-自托管的 AI 助手运行时：内置网关、Web 聊天、TUI、管理控制台与 OpenAI 兼容本地 API，提供 79 个捆绑技能（CRM/营销/分析/财务等业务助手，含评测场景与审批分级），并以 Qwen3.6-27B-FP8 作为小模型验证基线。支持多智能体间端到端加密 A2A 通信、加密运行时凭据存储与 SecretRef 隔离（密钥不进入模型上下文）、Docker/主机沙箱执行与哈希链审计。覆盖 Discord/Slack/Teams 等多渠道，可选 HybridAI 云托管。需 Node.js 22，推荐 Docker 做默认沙箱。
+自托管的 AI 助手运行时，以 npm 包与 macOS DMG 提供，核心是 Gateway 服务：对外接入 web chat、TUI、Discord/Slack/Teams/Telegram/邮件/语音等通道，内置 79 个业务技能（CRM、营销、分析、财务、办公等），以结构化 helper、eval 场景与审批分级支撑小模型（以 Qwen3.6-27B 为验证基线）。安全机制包括加密凭证存储与 SecretRef 执行时注入、LLM 输出视为不可信的审批策略、Docker 沙箱与哈希链审计。要求 Node.js >=22.23.4 <23。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 79 个捆绑业务技能，含评测场景、审批分级，以 Qwen3.6-27B-FP8 为小模型基线验证
-- 凭据隔离：加密运行时存储 + SecretRef，密钥不进入模型上下文
-- 本地代理智能体与可信对等实例间的加密 A2A 通信
-- macOS 签名桌面应用、CLI 安装器、npm 全局安装三种部署方式
+- 79 个内置业务技能，带 eval 场景与审批分级，以 Qwen3.6-27B-FP8 为小模型验证基线
+- 加密凭证存储与 SecretRef 机制，原始 API key 不进入模型上下文
+- 本地、代理与对等实例间的端到端加密 A2A 通信与审批路由
+- Apple silicon 上托管 MLX 本地模型，及 OpenAI 兼容的本地 API 端点
 
 ## 适用场景
 
-- 企业内自托管可操作的业务 AI 助手（CRM/营销/财务工作流）
-- 运行一组角色化智能体并跨实例协作
-- 需要审批策略与审计轨迹的敏感操作场景
-- 在 Apple Silicon Mac 上以 MLX 运行本地模型
+- 自托管企业助手处理 CRM、营销、财务等业务工作流
+- 通过审批策略与沙箱让助手执行敏感操作
+- 在 Mac 上用本地模型运行带凭证隔离的助手
+- 多通道（Discord/Slack/邮件等）统一接入同一助手运行时
 
 ## 场景标签
 
-`AI 助手` `多智能体` `Agent 框架` · 领域:Agent 开发
+`AI 助手` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L13: HybridClaw - Enterprise-ready self-hosted AI assistant runtime
 > L68: |Assistants that can act, not just chat|A gateway, web chat, Apps gallery, TUI, admin console, scheduler, tools, an
-> L131: |Skills|79 bundled skills, production business helpers, eval fixtures, packaged skill lifecycle, and human-distill
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `891ffa54993c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `d1c6126548e3` · [字段定义](../../DATASET.md)*

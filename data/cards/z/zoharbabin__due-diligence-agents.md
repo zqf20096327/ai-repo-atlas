@@ -2,9 +2,9 @@
 
 ⭐ 139 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/zoharbabin/due-diligence-agents) · [官网](https://zoharbabin.com/due-diligence-agents/) · 个人维护
 
-**开源 M&A 尽调工具：13 个 AI agent 读资料室并交叉引用发现**
+**面向 M&A 尽调团队的 13 个 AI agent 数据室跨域审查工具**
 
-面向企业并购与尽调团队的 CLI 工具：9 个领域专家 agent（法律、财务、商业、技术、网络安全、HR、税务、监管、ESG）并行读取整个资料室的 PDF/Word/Excel/PPT/图片（扫描件经 OCR），4 个编排综合 agent 做质量抽查、跨域交叉引用与 Go/No-Go 判定。采用直接阅读文档而非向量 RAG，引用与原文核对并有确定性复核。输出交互式 HTML 报告、16 表 Excel 与 JSON 发现。需 Python 3.12+ 与 LLM API key，本地执行、无遥测；声明不替代专业顾问。
+开源的并购尽职调查 CLI 工具：13 个 AI agent 并行读取 PDF/Word/Excel/PowerPoint/图片构成的数据室，覆盖 Legal、Finance、Commercial、Tech、Cyber、HR、Tax、Regulatory、ESG 九个领域，交叉比对单一审查者难以关联的发现，并将每条结论溯源到精确页码与原文引用。不采用向量 RAG，而是直接读取文档并对引用做确定性校验；流水线含 5 个阻断质量门，失败即中止。输出交互式 HTML 报告、16 表 Excel 与 JSON 发现。需 Python 3.12+ 与 LLM API key，文档文本会发送到所配置的 LLM 端点。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 13 个 agent：9 领域专家 + 4 编排综合（Judge/执行综合/红旗扫描/收购方情报）
-- 引用直接对照提取原文，P0/P1 引语做确定性复核
-- 支持 Anthropic API、AWS Bedrock、Vertex AI 或任意兼容网关模型，无厂商锁定
-- 5 道阻断式质量门，质量失败时停止而非输出不可靠结果，支持断点续跑
+- 13 个 agent（9 领域专家 + 4 个编排/合成 agent）并行分析数据室
+- 引用溯源到精确页码与原文，P0/P1 引用做确定性保真复检
+- 非向量 RAG：agent 直接读取文档并校验引用
+- 通过 markdown 文件自定义 agent 人设与严重度（安全规则不可移除）
 
 ## 适用场景
 
-- 并购尽调时对整个资料室做跨 9 域的首轮结构化分析
-- 快速红旗分诊（GREEN/YELLOW/RED）后再决定是否投入完整分析
-- 用自然语言 prompt 对合同库做定向提问并获得带引用的答案
-- 与顾问协作产出 IC 备忘录、谈判清单与整合计划
+- 并购 screening 阶段对数百份合同做九领域首次审查
+- 小型 PE 团队在自有基础设施上跑全数据室尽调
+- 对特定问题做定向合同检索并输出带引用的 Excel
+- 生成 Go/No-Go 报告供 IC 备忘与谈判清单使用
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L5:  Legal flags a risk. Finance flags another. We connect and cite. Open-source forensic M&A due diligence — 13 AI agen
-> L78: - **Interactive HTML report** — Go/No-Go verdict with executive narrative, progressive disclosure (decision → actio
-> L243: |10|**Judge**|Adversarially spot-checks specialist findings for quality and consistency|
+> L225: **9 domain specialists** analyze every document in parallel — each owns a domain and traces findings to exact cita
+> L76: Analyzes every document through 9 domain lenses, cross-references findings, and validates quality through 5 blockin
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `cc2e9fa0ec5e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `b9cde6549f49` · [字段定义](../../DATASET.md)*

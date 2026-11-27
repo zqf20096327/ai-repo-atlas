@@ -4,7 +4,7 @@
 
 **让 AI 助手操作阿里云资源的 MCP 服务器**
 
-阿里云开源的 Model Context Protocol 服务器，封装阿里云 OpenAPI 与 OOS，使 AI 助手能够管理 ECS、VPC、RDS、OSS、云监控等云产品资源，并支持分析本地项目技术栈、构建产物并通过 OOS 部署应用到 ECS 实例（含自动上传 OSS、创建应用与分组）。部署流程为本地分析→构建→部署→状态查询四步。可通过 Cursor、Cline、ModelScope、百炼平台等 MCP 客户端接入，使用前需安装 uv 并配置 AccessKey。
+一个 Model Context Protocol 服务器，对接阿里云 API，使 AI 助手能对阿里云资源执行操作，覆盖 ECS、VPC、RDS、OSS、云监控、OOS 等产品，提供实例生命周期管理、监控指标读取、应用部署与本地项目分析等工具集（约 30 个工具）。可通过 Qoder、Cursor、Cline、ModelScope、Lingma 等 MCP 客户端/市场集成，依赖 uv 运行，配置中需提供阿里云凭证。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- ECS/VPC/RDS/OSS/云监控等产品的管理与监控工具集
-- OOS_CodeDeploy 一键部署应用到 ECS（自动创建应用与分组、上传 OSS）
-- 本地项目技术栈识别（npm/Python/Java/Go/Docker 等）
-- 已上架百炼 MCP Marketplace、Cursor、Cline 等多个 MCP 市场
+- 覆盖 ECS/VPC/RDS/OSS/云监控/OOS 的 MCP 工具集
+- 应用部署工作流：本地分析技术栈→构建→OOS_CodeDeploy 部署→查询状态
+- 可在 Cursor、Cline、ModelScope、阿里云百炼等 MCP 市场安装集成
+- 开箱即用，支持通过阿里云 OpenAPI 动态生成工具
 
 ## 适用场景
 
-- 通过 AI 助手对话式创建、启停、删除阿里云 ECS 实例
-- 让 AI 分析本地项目并部署到阿里云 ECS
-- 用 AI 查询 ECS 的 CPU/内存/磁盘监控指标
+- 通过 AI 助手管理阿里云 ECS 实例的启动、停止与命令执行
+- 让 AI 读取 ECS 的 CPU、内存、磁盘监控指标
+- 从本地项目自动识别技术栈并部署到 ECS
+- 用 AI 助手查看和操作 RDS、VPC、OSS 资源
 
 ## 场景标签
 
- · 领域:云计算/AI 工具生态
+ · 领域:云基础设施/DevOps
 
 ## 证据(README 行号)
 
-> L7: Alibaba Cloud Ops MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with Alibab
-> L45: To use `alibaba-cloud-ops-mcp-server` MCP Server with any other MCP Client, you can manually add this configuration
+> L9: Alibaba Cloud Ops MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with Alibab
+> L11: ## MCP Maketplace Integration
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `97ce8f445cbe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `460e6184337c` · [字段定义](../../DATASET.md)*

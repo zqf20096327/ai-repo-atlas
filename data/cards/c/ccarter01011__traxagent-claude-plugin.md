@@ -2,9 +2,9 @@
 
 ⭐ 173 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ccarter01011/traxagent-claude-plugin) · [官网](https://www.traxagent.io) · 个人维护
 
-**面向团队的 AI 支出审计 MCP 服务器与 Claude Code 插件**
+**给团队用 AI 助手查询与治理 AI 支出的 MCP 插件**
 
-提供只读 MCP 服务器与 Claude Code 插件，从 Anthropic、OpenAI、Gemini 等 API 与各 AI 工具的用量报告中汇总成本数据，按团队与个人归集，并由 AI 评审生成节约建议，每项附带月度金额与具体修改步骤。提供 /spend-audit 本地日志审计命令、演示数据服务器、支出上限预警与模型性价比对比。需要 TraxAgent 账户，MCP 服务器属于付费计划（每月 $100 以下支出免费）。
+TraxAgent 提供一个只读 MCP 服务器（https://www.traxagent.io/mcp）和 Claude Code 插件，将 Anthropic、OpenAI、Gemini API 及 Claude Code、Codex、Cursor 等渠道的使用与成本数据按团队和个人汇总，供用户在 Claude、ChatGPT、Cursor、VS Code 等客户端用自然语言提问，获得支出明细、按工作量排序的省钱建议，并可将修复步骤生成为拉取请求。插件本地命令 /spend-audit 直接读取 Claude Code 会话日志，无需账号。MCP 服务器依赖 TraxAgent 账号，采用 OAuth 只读接入，服务有付费方案。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 只读 MCP 服务器，OAuth 2.1 (PKCE) 登录，可接入 Claude/ChatGPT/Cursor/VS Code 等客户端
-- 本地 /spend-audit 命令直接读取 Claude Code 会话日志，无需账户且数据不外发
-- 按工作量排序的节约建议清单，可由 Claude 在仓库中执行修改并开 PR
-- 支出上限预警（80%/100%）与 AI 工具注册表（密钥、席位、所有者）
+- 只读 MCP 服务器 + Claude Code 插件，OAuth 2.1 (PKCE) 接入
+- 支持按团队/个人汇总多厂商 AI 支出并输出排序的省钱建议
+- /spend-audit 本地读取 Claude Code 日志，按模型/项目/会话出报告，不上传数据
+- 附任务成功率与单位成本对比、支出上限预警、AI 资产登记表
 
 ## 适用场景
 
-- 按团队/个人查询上月或上周的 AI 支出明细
-- 生成跨供应商的 AI 成本削减优先级清单
-- 排查某天支出突增的密钥、模型或循环原因
-- 审查未使用超 30 天的 API 密钥与无主 AI 工具
+- 月末预算会前用一句话问清各团队 AI 花费与可削减项
+- 审计长期未用或无归属的 API key 并建议吊销
+- 对比贵价模型与低价模型在自家任务上的效果与单位成本
+- 为工程师设置日/周/月 AI 支出上限并提前预警
 
 ## 场景标签
 
-`LLM 可观测性` `数据分析` · 领域:效率与自动化
+`数据分析` `LLM 可观测性` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L13: TraxAgent pulls them into one place every night, by team and by person. Then an AI review goes through your usage a
 > L15: This repo is the Claude Code plugin. The same read-only server, `https://www.traxagent.io/mcp`, also works in Claud
+> L153: |`ai-spend` MCP server|Read-only tools: `get_spend_summary`, `get_spend`, `get_people_spend`, `list_fixes`, `get_f
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `9c588c5ab87e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `c81a59384295` · [字段定义](../../DATASET.md)*

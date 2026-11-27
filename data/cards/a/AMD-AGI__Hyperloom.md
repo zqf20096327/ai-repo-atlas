@@ -2,9 +2,9 @@
 
 ⭐ 288 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/AMD-AGI/Hyperloom) · [官网](https://rocm.docs.amd.com/projects/hyperloom) · 组织维护
 
-**在 AMD GPU 上自动优化 LLM 推理负载的多智能体工具**
+**AMD GPU 上自动优化 LLM 推理负载的多 agent 工具**
 
-ROCm Hyperloom 是一个多智能体优化框架：对 AMD Instinct GPU 上的推理负载进行性能剖析、搜索服务框架与 GPU 内核层面的优化、对每个候选改动做端到端验证，并把验证通过的配置写入配方知识库供后续会话复用。支持 vLLM、SGLang、xDiT 上的文本生成、图像生成与自定义流水线；内核优化委托 GEAK 或 KernelForge 后端。平台限定 MI300X、MI325X、MI355X；基准由协调器运行而非模型判定，改动按 keep-or-revert 规则处理。
+ROCm Hyperloom 是一个多 agent 编排框架（harness），对 AMD Instinct GPU 上的推理负载做自动优化：测量基线、剖析 roofline、搜索服务框架配置与 GPU kernel 改动，并对每个候选改动端到端验证后写入配方知识库供后续会话复用。支持文本生成、图像生成与自定义管线，面向 vLLM、SGLang、xDiT 框架；基准由协调器运行而非模型，失败改动回滚，仅 MI300X/MI325X/MI355X 平台可用。以 Python CLI 形式提供，MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ ROCm Hyperloom 是一个多智能体优化框架：对 AMD Instinct GPU 上的�
 
 ## 能力要点
 
-- 多智能体闭环：input → optimize → validate → learn，带硬性循环上限
-- 配方知识库按模型/硬件/框架等字段渐进放宽匹配，实现暖启动
+- 闭环优化会话：input→optimize→validate→learn，含硬性循环上限
+- 配方知识库记录获胜配置、吞吐与失败教训，用于会话热启动
 - 风险源码改动经隔离 worktree、diff 门、策略检查与 Critic 签核
-- 26 项优化已合入 vLLM/SGLang 上游（截至 2026-11-02）
+- 截至 2026-11-02 有 26 项优化被合并进 vLLM/SGLang 上游
 
 ## 适用场景
 
-- 为 AMD Instinct GPU 上的 LLM 服务负载自动寻找更优推理配置
-- 将内核与服务框架层面的调优改动验证后贡献回 vLLM/SGLang
-- 在多模型、多框架版本迭代中复用历史优化配方
+- 为 AMD Instinct GPU 上的新模型自动搜索推理服务配置与 kernel 优化
+- 跨多轮优化会话复用已验证的调优配方
+- 审计主机 CPU/BIOS 调优对基准结果的影响
 
 ## 场景标签
 
-`多智能体` `推理引擎` · 领域:Agent 开发
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: **ROCm™ Hyperloom** is a multi-agent harness that autonomously optimizes inference
-> L53: unsafe patches. Hyperloom is the harness around that loop: it keeps the mission
+> L14: It supports text generation, image generation, and custom pipelines on vLLM,
 > L127: |Framework|SGLang, vLLM, xDiT|
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d48e65c30f04` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `cea4b6b17ba8` · [字段定义](../../DATASET.md)*

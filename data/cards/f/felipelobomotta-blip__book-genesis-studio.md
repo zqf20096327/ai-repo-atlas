@@ -2,9 +2,9 @@
 
 ⭐ 170 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/felipelobomotta-blip/book-genesis-studio) · [官网](https://felipelobomotta-blip.github.io/book-genesis-studio/) · 个人维护
 
-**给 AI 编码 Agent 安装的写书工作流插件：从创意到成书导出**
+**给 AI agent 提供从想法到成书的写作工作流插件**
 
-以 Claude Code、Codex 等编码 Agent 为宿主的书稿生成工作流：把用户创意转为 brief，逐章起草并以四个盲模拟读者评审、只读审校、限次修订（每道门槛最多三轮），最终打分并打包输出 manuscript.md 与 EPUB（DOCX/PDF 需依赖存在）。进度以文件形式保存在用户文件夹中，可跨会话续写。通过 Codex/Claude Code 插件市场或独立 Python 安装器安装，需 Python 3.10+ 与 Git，占用用户自身订阅额度。当前为 beta，无人值守完整流程仍在验证中。
+Book Genesis 为 Claude Code、Codex、OpenCode 等多个 agent 宿主安装一套写作技能：将想法转化为书籍需经过 intake、架构、逐章草稿、盲读者批评、有界修订与导出打包等阶段，输出 manuscript.md 与验证的 EPUB（DOCX/PDF 需既有依赖）。工作流以文件形式保存在用户自己的文件夹中，修订对每个 gate 最多三轮。作者声明为 beta，完整无人值守运行仍在验证，质量 gate 未达成会被记录在交付报告中。附本地 Web UI 与独立安装器。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 四个盲模拟读者加只读审校的分阶段写书工作流
-- 每道门槛最多三轮修订，报告保留未通过项
-- 默认导出 manuscript.md 与 EPUB，附 logline/blurb/synopsis 等编辑包
-- 批评者在隔离子 Agent 中运行，可选用其他公司的 AI 工具
+- 四模拟读者盲评 + 十维 rubric 评分 + 只读审计员引用原文
+- 修订按读者 gate 与 rubric gate 各限三轮，保留原稿与证据
+- 导出 manuscript.md、验证 EPUB 与编辑打包（logline/blurb/synopsis 等）
+- 纯 Python 标准库的本地 Web UI，仅监听 localhost
 
 ## 适用场景
 
-- 让 Claude Code 或 Codex 按章节计划代写并修订长篇小说
-- 对已有手稿运行盲模拟读者评审与编辑包装
-- 独立作者成书后导出 Markdown/EPUB 用于出版准备
+- 让 AI agent 按阶段流程把一个想法写成完整书籍草稿
+- 对已有稿件运行盲读者批评与编辑打包技能
+- 独立作者生成 EPUB 与营销文案（hook test、query letter）
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L5: Book Genesis gives your AI agent a workflow for turning an idea into a complete book: planning, chapter-by-chapter w
-> L25: 1. **Intake.** Your idea becomes a brief: genre, reader, length, comparable books in your idea's language, and four
-> L29: 5. **Score and package.** A plain report of where the book stands, plus the editorial package, a hook test of alter
+> L48: **Install beta 7 in your existing agent.** No Book Genesis account or separate API key. Python 3.10+ and your host'
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a6fc486fbdf9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `fd9893a1bd1e` · [字段定义](../../DATASET.md)*

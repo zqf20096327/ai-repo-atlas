@@ -1,10 +1,10 @@
 # ThinkFlowLab/agentdescent
 
-⭐ 221 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 个人维护
+⭐ 221 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 组织维护
 
-**面向开发者的 agent 自进化框架：并行提议 diff、聚合器合并进化 agent**
+**并行异步自进化 agent 框架：演化提示、技能与代码**
 
-AgentDescent 是一个并行异步框架，将梯度下降类比用于 agent 参数：N 个 worker 对提示词、多文件技能库、agent 目录、agent 代码和 host 插件并行提出修改 diff，单个聚合器经五阶段合并管线合入 git 版本化账本，由 held-out 门控决定保留项。可通过 Python 的 evolve() 调用、CLI 或从 Claude Code、Codex、OpenCode 等 host 内使用。README 自述为研究参考实现而非生产系统，pytest 离线且无需 API key。
+将提示词、技能库、agent 目录、agent 代码与宿主插件作为被优化对象：N 个 worker 并行异步地对自身示例提出 diff 编辑，单一聚合器经五阶段合并流水线写入 git 账本，留出集门控决定保留项。可从 Python 的 evolve() 调用、CLI 或 Claude Code/Codex/OpenCode 等宿主使用。README 自述为研究参考实现而非生产系统，并注明吞吐前提是有待检验的假设；离线 demo 与测试无需 API key；[mcp] 需 Python ≥3.10，库本身支持 3.9。
 
 ## 筛选速览
 
@@ -16,24 +16,24 @@ AgentDescent 是一个并行异步框架，将梯度下降类比用于 agent 参
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- diff 即梯度、聚合器即优化器的自进化机制，N worker 并行 + held-out 门控
-- 支持进化提示词、技能库、agent 目录、agent 代码与 host 插件
-- 提供离线 demo（agentdescent demo，无需 API key）与 doctor/plan/start/apply 流程
-- 23 个命名算法端口，用例数据置于 bench/results/ 与 CITATION.cff
+- N worker 并行提出 diff、单一聚合器合并、留出集门控保留
+- 多文件技能库演化（skill_library），非单一 prompt
+- Python evolve()、CLI 与 Claude Code 等宿主三种使用方式
+- 离线确定性 demo 与 pytest，无需 API key
 
 ## 适用场景
 
-- 用自有样例数据集进化 agent 的提示词与技能规则
-- 在 Claude Code 等 host 内通过 MCP 调用进化工具
-- 研究并行 diff 合并与 agent 自进化算法
+- 用自有数据集演化技能库或提示词
+- 从 Claude Code 等宿主内运行演化循环
+- 复现或注册演化算法端口做研究实验
 
 ## 场景标签
 
-`Agent 框架` `提示工程` `编码 Agent` · 领域:Agent 开发
+`Agent 框架` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `45927ed91ce8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `63a17745c309` · [字段定义](../../DATASET.md)*

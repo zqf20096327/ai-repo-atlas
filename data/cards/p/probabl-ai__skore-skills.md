@@ -2,9 +2,9 @@
 
 ⭐ 149 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/probabl-ai/skore-skills) · [官网](https://probabl-ai.github.io/skore-skills/) · 组织维护
 
-**给 AI agent 的表格数据科学技能包，约束 ML 实验方法论**
+**为 AI agent 提供表格数据科学方法论技能集**
 
-由 Probabl 维护的 agent 技能集合，用于引导 AI 辅助的机器学习实验：基于 scikit-learn、skrub、skore、pandas、polars 构建流水线，锁定问题框架与验证方案后建模，用 skore 持久化结构化报告以供审计，并连接 Skore Hub 汇总实验。技能按工作流包（setup/data_analysis/model/loop/export）分发，每个技能声明模型层级（small/medium/big）与角色（entry/helper）。安装途径为 PyPI/conda-forge 的 skore 命令、npx、uvx/pixi，以及 Claude Code 插件市场。
+面向数据科学工作流的一组 agent 技能（skills），引导 AI agent 按正确方法论构建机器学习 pipeline：使用 scikit-learn、skrub、skore、pandas、polars 等库，覆盖项目初始化、问题定义、数据探索、pipeline 构建、评估、审计、实验记录与文档导出等环节。每个技能声明 modelTier（small/medium/big）与 role，由目录校验脚本约束加载层级；支持按 workflow pack 安装。安装器为 PyPI/conda-forge 上的 skore 命令，也支持 npx 与 Claude Code 插件市场方式。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 技能覆盖 ML 实验全流程：triage/setup/探索/建模/评估/审计/导出
-- 每个技能声明 metadata.modelTier 与 metadata.role，校验脚本强制 helper 不高于调用者层级
-- 评估结果持久化为结构化 skore 报告并可同步至 Skore Hub 与 MLflow
-- 支持按工作流包 id 选择性安装（setup/data_analysis/model/loop/export）
+- 覆盖 ML pipeline 全生命周期：framing、build、smoke-test、evaluate、audit 等技能
+- 技能声明 modelTier 与 role，tools/validate_catalog.py 强制执行层级约束
+- 支持 pip/uv/pixi/uvx/npx 及 Claude Code 插件市场多种安装方式
+- 支持按 workflow pack（setup/data_analysis/model/loop/export）选择性安装
 
 ## 适用场景
 
-- 让 AI agent 按规范流程搭建和管理机器学习实验
-- 在实验迭代中留存可审计的结构化评估报告
-- 为 Claude Code、OpenCode、Cursor 等 harness 配置数据科学技能
+- 让 AI agent 按 ML 最佳实践搭建并迭代表格数据实验
+- 统一管理团队数据科学项目的实验记录与审计报告
+- 从实验审计摘要出发规划下一轮实验
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f55f795e6eb1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5e5b60c5e414` · [字段定义](../../DATASET.md)*

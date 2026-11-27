@@ -2,9 +2,9 @@
 
 ⭐ 140 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/benseverndev-oss/goldenmatch) · [官网](https://docs.bensevern.dev/) · 个人维护
 
-**零配置实体消解工具：把杂乱记录合并为带溯源的金色实体**
+**为数据团队提供零配置实体解析，生成可审计的黄金记录**
 
-面向 Python/TypeScript/SQL 的实体消解（entity resolution）库：指向 CSV 或表，自动画像数据并选择匹配策略（精确/模糊/Fellegi-Sunter 概率/可选 LLM 评分），把重复记录合并为携带稳定 entity_id、逐字段溯源、merge/split 与哈希链审计日志的持久身份层，并提供 customer_360() 聚合读取。Arrow 原生、Rust 内核，宣称 250M 行 11.2 分钟。面向数据工程/平台工程师，需付费的 LLM 评分仅在显式开启时调用。
+Python/TypeScript/SQL 多接口的实体解析库：对 CSV 或表数据自动选择匹配规则，将重复记录合并为带稳定 entity_id、字段级溯源、merge/split 与防篡改审计日志的黄金实体。含 Fellegi-Sunter/LLM 评分器、自愈配置建议、Bloom-filter 隐私记录链接；核心为 Arrow 原生 Rust 引擎，默认 SQLite、可选 Postgres 持久化，宣称 250M 行规模可运行。自述部分较新的功能仍在落地中。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 零配置自动选择匹配策略，config 可检视、复用与覆盖
-- 稳定 entity_id + 逐字段溯源 + append-only 审计链
-- 支持 Python/TypeScript(WASM)/Postgres/DuckDB/MCP 多接口，按一致性规范对齐
-- 可选 Fellegi-Sunter 概率引擎与 Bloom-filter 隐私保护跨组织连接
+- 零配置去重：自动画像、选规则并返回可检视的 result.config
+- 黄金实体层：稳定 UUIDv7 entity_id、逐字段溯源、merge/split 与哈希链审计日志
+- 可选 Fellegi-Sunter 与 LLM 评分器，含 Bloom-filter PPRL 隐私链接
+- Python、TypeScript/WASM、Postgres/DuckDB SQL、70+ MCP 工具多面呈现
 
 ## 适用场景
 
-- CRM、账单、表格等多源客户数据去重，回答到底有多少客户
-- 建立可持续更新的 Customer 360 身份层并保留字段级溯源
-- 跨组织在不共享原始数据的前提下做记录连接
+- 清洗 CRM、账单与表格中重复的客户记录
+- 为下游系统提供跨数据源稳定的客户唯一标识
+- 跨机构间不共享原始数据的隐私记录匹配
+- 从 PDF/图片提取记录后统一做实体解析
 
 ## 场景标签
 
- · 领域:数据工程/主数据管理
+`知识图谱` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L5: Zero-config entity resolution for Python. Point it at a CSV or a table: it chooses how to match, shows you what it c
-> L153: - **Beats the expert, out of the box.** On messy customer records, the opt-in Fellegi-Sunter engine beats hand-tun
+> L90: **Splink-beating entity resolution, Arrow-native and Rust-fast with zero tuning, feeding a durable identity layer s
+> L94: **Python · TypeScript · SQL, at 4-decimal parity · native in Postgres + DuckDB · edge WASM · 70+ MCP tools · beats 
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2944a920033f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `3ca19bfc62bc` · [字段定义](../../DATASET.md)*

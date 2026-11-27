@@ -2,9 +2,9 @@
 
 ⭐ 294 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ClawLabsAI/free-ai-models) · [官网](https://www.zerolimitai.com/developers?utm_source=github&utm_medium=repo_about) · 组织维护
 
-**每日更新的免费 LLM API 排名清单及评分方法**
+**免费 LLM API 每日更新清单：按质量排名并标注数据政策**
 
-一份每日自动更新的免费 AI 模型（免费 LLM API）清单：按可复现的开源评分文件（基准测试 55/45 混合 LM Arena 评分）对 12 个免费聊天模型排名，逐行标注托管方是否会用提示词训练及保留时长，并记录实时可用状态。数据以 `data/models.json` 每日重新生成并保留每日快照，可用 curl/jq/Python/JavaScript 直接读取。id 采用 OpenRouter 格式，可直接用于 OpenAI SDK、LiteLLM、Cline 等工具。另列出各免费 provider 的 base URL 与限额表。
+每日更新的免费 AI 模型（免费 LLM API）聚合清单：用可读可重跑的评分脚本（scoring/score.js）结合基准指数与 LM Arena 评分对免费聊天模型排名，每行标注服务方是否可能用提示词训练及保留时长，并以 data/models.json 每日重新生成、按天保存快照。另附各免费端点的 base_url、限额与限制对照表。模型 id 为 OpenRouter id，可在支持该 id 的工具中直接使用。无 key 即可读取数据，仅采集公开官方 API。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 每日自动重建排名，快照存于 data/history/
-- 标注每个免费端点的数据训练政策与保留时长
-- 评分方法为可读取、可重跑的 scoring/score.js
-- 提供稳定 JSON URL 供程序直接消费
+- 以开源评分脚本每日对免费模型排名，输入来源可重算
+- 标注每个免费端点的数据使用政策（是否训练/保留时长）
+- data/models.json 每日重生成并保留历史快照
+- 提供 OpenRouter/Groq/Google AI Studio 等端点限额与限制表
 
 ## 适用场景
 
-- 选免费模型前查它是否拿我的提示词训练
-- 为应用自动挑选今日最好的免费模型
-- 对比各免费 provider 的限额与数据政策
+- 找当前可用的免费 LLM API 并比较质量
+- 发送敏感数据前查看服务方是否会用提示词训练
+- 程序化读取 JSON 数据做模型选型或路由
 
 ## 场景标签
 
-`精选清单` `模型评测` · 领域:评测与运维
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `879315e0bca1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `6bff8fbc2dc6` · [字段定义](../../DATASET.md)*

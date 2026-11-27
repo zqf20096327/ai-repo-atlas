@@ -2,9 +2,9 @@
 
 ⭐ 264 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ZipengWu365/TOMC) · [官网](https://github.com/ZipengWu365/TOMC) · 个人维护 · 中文 README
 
-**面向 AI 编程助手的上下文压缩与任务记忆 MCP 服务器**
+**为 MCP 客户端提供 CPU 上下文压缩与任务记忆**
 
-以 MCP 服务器与 Python 库形式提供的上下文压缩工具：对用户提交的历史对话按预算保留最新事实值（如框架从 Flask 变更到 Litestar 后只返回最新值），并提供 remember_memory/forget_memory 的本地任务记忆（存于 ~/.tomc/memory.sqlite3）。支持 Claude Code、Codex 插件安装，以及任意 MCP 客户端的源码接入。README 明确限制：不压缩助手当前会话、短历史收益有限、基于词匹配可能漏检改写更新，部分客户端未经实机验证。
+以 MCP server 形式运行的上下文压缩与任务记忆工具：对用户交给它的历史对话与笔记做基于词匹配的压缩，保留变更事实的最新值并附来源行，存入本地 sqlite3。通过 Claude Code 插件、Codex 安装包或源码方式接入 MCP 客户端，压缩不作用于客户端自管的当前对话。约 10K token 以下短历史收益有限，改写式更新可能漏检并标记 STATE? 供人工核查。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按预算压缩历史对话，事实变更时只保留最新值并附来源行
-- 本地任务记忆存储于 ~/.tomc/memory.sqlite3，支持单条或全部清除
-- 提供 Claude Code/Codex 插件与任意 MCP 客户端的接入方式
-- 离线基准可复现（make reproduce），并公开证据清单与负面结果
+- 保留变更事实最新值并附来源行，旧值不回传
+- 本地 sqlite3 存储，支持 forget_memory/erase-all 删除
+- 提供 Python API prepare_context 与离线示例 tomc try
+- 内置 tomc doctor 自检与客户端配置备份写入
 
 ## 适用场景
 
-- 让编程助手在长项目历史中拿到最新的技术决策而非旧版本
-- 在 Codex 与 Claude Code 之间切换时保留任务记忆
-- 减少提交给模型的历史输入量
+- 让编程助手记住项目决策的当前版本而不必重复解释
+- 长历史对话下压缩发给模型的输入 token
+- 在 Codex 与 Claude Code 之间保留并延续任务笔记
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5: ZipengWu365/TOMC MCP server
-> L70: prepared = prepare_context(history, task)
+> L23: 1. **It does not shrink the chat your assistant is already having.** Claude Code and Codex manage their own chat. T
+> L54: ### Any MCP client (Cursor, Claude Desktop, WorkBuddy, TRAE …)
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `356fc7aa50c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `6cca5ce26f27` · [字段定义](../../DATASET.md)*

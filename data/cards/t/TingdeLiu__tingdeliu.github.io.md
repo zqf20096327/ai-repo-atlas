@@ -2,9 +2,9 @@
 
 ⭐ 156 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/TingdeLiu/tingdeliu.github.io) · [官网](https://tingdeliu.github.io/) · 个人维护 · 中文 README
 
-**具身智能/VLN 研究笔记个人站点（中英双语）**
+**具身智能与机器人导航领域的个人研究笔记博客**
 
-Tingde Liu 的个人研究笔记站点：内容覆盖具身智能、视觉语言导航（VLN）、视觉-语言-动作模型、多模态学习、世界模型与机器人学习，形式包括研究综述、论文阅读与工程笔记，并发布具身导航周报。基于 Jekyll 构建、通过 GitHub Pages 发布；中文为源版本，英文通过独立 Jekyll collection 翻译并跟踪源修订。本地运行需 Ruby 与 Bundler，发布前经 Python 脚本做内容与翻译校验，推送 main 由 GitHub Actions 部署。
+面向具身智能与机器人领域研究者、学生和工程师的个人研究博客，中文为源版本并提供英文翻译站点。内容覆盖视觉语言导航（VLN）、视觉语言动作（VLA）、世界模型、具身 Agent、空间智能等方向的综述、论文精读与工程实践（ROS 2、Python 工程）。维护流程中使用 AI 助手辅助文献检索、草稿、格式化与校验，作者负责选文与对照原文核实；站点基于 Jekyll 与 GitHub Pages 部署，内置翻译检查与发布前自动化校验脚本。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ Tingde Liu 的个人研究笔记站点：内容覆盖具身智能、视觉语言
 
 ## 能力要点
 
-- 覆盖 VLN、VLA、多模态学习、世界模型、机器人学习的研究综述与论文笔记
-- 中文源版本 + 独立英文 collection，含语言切换与源修订跟踪
-- 翻译与内容校验由 Python 脚本自动化，GitHub Actions 部署
+- 覆盖 VLN/VLA/世界模型/具身 Agent/空间智能等方向的综述与论文精读
+- 中英双语站点，翻译状态自动跟踪与检查
+- AI 辅助的文献收集—摘要—发布校验维护流程，配套技能仓库 Tyndall-Skills
+- 提供导航方向周报与任务类 leaderboard 整理
 
 ## 适用场景
 
-- 查阅具身智能与视觉语言导航方向的论文阅读笔记
-- 跟踪具身导航领域周报与技术笔记
-- 参考双语 Jekyll 研究站点的组织与翻译流程
+- 系统了解视觉语言导航的任务定义、基准与方法演进
+- 对比导航方向论文与结果，跟进最新研究
+- 参考从论文阅读走向 ROS 2 工程实现的路径
 
 ## 场景标签
 
@@ -36,8 +37,9 @@ Tingde Liu 的个人研究笔记站点：内容覆盖具身智能、视觉语言
 
 ## 证据(README 行号)
 
-> L1: # Tingde Liu · Research Notes
-> L3: Research surveys, paper readings, and engineering notes on embodied AI, vision-language navigation, and robot learni
+> L3: Research notes on **embodied AI, vision-language navigation, and robot learning** — surveys, in-depth paper readings
+> L11: This is a personal research blog for researchers, students, and engineers working in embodied AI and robotics. Arti
+> L41: The workflow connects literature collection, paper summaries, figure extraction, survey updates, and automated publ
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b49d27df1ecd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b829a066e658` · [字段定义](../../DATASET.md)*

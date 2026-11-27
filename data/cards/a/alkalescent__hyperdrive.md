@@ -2,9 +2,9 @@
 
 ⭐ 162 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alkalescent/hyperdrive) · [官网](https://Algotrade.io) · 个人维护
 
-**ML 驱动的算法交易库：数据采集、回测与下单**
+**面向量化研究者的机器学习算法交易库**
 
-Python 算法交易库，量化研究公司 Algotrade.io 在用。功能聚合来自 Polygon、Robinhood、BLS 的市场与宏观经济数据，S3 存储历史数据，基于 vectorbt 回测，用 AutoGluon 做机器学习预测，并支持在 Binance、Alpaca、Kraken 执行交易。提供 GitHub Actions 工作流自动化数据更新。建模部分代码仍闭源（Historian 类可参考）。通过 pip 安装，需 Python 3.11+，密钥经环境变量传入。
+驱动量化研究机构 Algotrade.io 的算法交易 Python 库，专注数据采集与量化研究：从 Polygon、Robinhood、美国劳工统计局聚合市场数据，经 S3 存储历史数据，用 vectorbt 回测策略，通过 AutoGluon 做机器学习预测，并在 Binance、Alpaca、Kraken 下单执行。密钥通过环境变量传入；GitHub Actions 工作流支持数据自动更新；部分建模代码为闭源。MIT 许可，需 Python 3.11+。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Python 算法交易库，量化研究公司 Algotrade.io 在用。功能聚合�
 
 ## 能力要点
 
-- 聚合 Polygon、Robinhood、BLS 市场与宏观数据
-- 基于 vectorbt 的策略回测
-- AutoGluon 机器学习预测
+- 聚合 Polygon、Robinhood、BLS 市场数据并存入 S3
+- 基于 AutoGluon 的机器学习预测
+- 用 vectorbt 回测策略
 - 支持 Binance、Alpaca、Kraken 交易所下单
 
 ## 适用场景
 
-- 采集并存储历史行情数据用于量化研究
-- 回测交易策略并查看收益统计
-- 将策略订单提交到加密货币交易所
+- 采集并存储股票历史行情数据
+- 用机器学习模型生成交易预测
+- 对策略进行向量化回测
+- 在加密货币交易所程序化下单
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `987f568f2d28` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `501025c2ec8a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 139 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/avirtual/clodex) · [官网](https://github.com/avirtual/clodex/releases/latest) · 个人维护
 
-**管理 Claude Code/Codex/Muse 编码代理机群的桌面与无头会话管理器**
+**管理 Claude Code/Codex agent 舰队的会话管理器**
 
-以终端子进程方式运行 Claude Code 与 Codex CLI 会话，在会话之上提供三层：侧栏显示每个会话的活动状态、上下文填充、权限等待与消息；IPC 消息总线让代理通过 [agent:…] 文本意图互相通信、派生子代理与组建按工单/worktree 工作的团队；peer wire 将 Linux 无头节点的会话接入同一机群，clodexctl 提供类 kubectl 语法的命令行。同一引擎以 macOS 桌面应用（Electron 前端、Apple Silicon DMG）、Linux 无头节点与浏览器 GUI 三种形态运行；支持插件系统与语音听写。需自备 claude/codex CLI；部分功能仅限 Claude。
+以终端形式运行 Claude Code 与 Codex 会话的会话管理器：侧边栏展示各会话的活动状态、上下文占用与待审批权限对话框，消息总线让 agent 之间通过文本意图互相通信（dm/spawn/memory/remind 等），peer wire 把远程 Linux 机器上的会话纳入同一舰队。引擎不依赖 Electron，同一引擎可作为 macOS 桌面应用或 Linux 无头节点运行，clodexctl 用 kubectl 风格命令驱动两者。限制：仅支持 Apple Silicon Mac（macOS 12+），Intel Mac 需从源码构建。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 代理间通过 [agent:…] 意图协议互相通信、派生与记忆
-- 跨机器 peer wire 聚合远程节点会话为同一机群
-- 团队模式：角色工单、按工单 worktree、自动测试与评审门
-- clodexctl 提供 kubectl 式命令行与 SSH/云/容器部署
+- agent 间文本意图协议：dm、spawn、memory、remind、context compact 等
+- 跨机器舰队：SSH peer 后远程会话作为实时标签出现在侧边栏
+- Teams 提供基于角色的工单、每工单 worktree 与自动测试-评审门
+- 同一无 Electron 引擎支撑桌面应用、无头节点与浏览器 GUI 三种前端
 
 ## 适用场景
 
-- 同时监督多个编码代理会话的状态、上下文与成本
-- 让代理之间互相通信、派生子代理组成团队按工单交付
-- 把 Linux 服务器的无头节点会话接入桌面侧栏统一操控
+- 在一台 Mac 上集中查看并接管多台机器上的编码 agent 会话
+- 让多个 Claude Code/Codex agent 通过消息总线协作完成工单
+- 通过 wirescope 跟踪每轮 token、成本与缓存状态
+- 在 Docker 沙箱容器中运行隔离的 agent 会话
 
 ## 场景标签
 
-`多智能体` `Agent 框架` · 领域:Agent 开发
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `96e12665648a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c0d38f7f7653` · [字段定义](../../DATASET.md)*

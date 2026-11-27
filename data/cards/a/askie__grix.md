@@ -2,9 +2,9 @@
 
 ⭐ 157 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/askie/grix) · [官网](https://grix.im/) · 组织维护 · 中文 README
 
-**跨平台即时通讯应用：把编码 agent 当联系人沟通协作**
+**让用户像聊天一样与 AI 编码代理协作的跨平台即时通讯应用**
 
-面向使用编码 agent 与 AI 助手的个人与团队的即时通讯与协作应用，覆盖 iOS/iPadOS、Apple Watch、Android、Windows、macOS、Linux 与 Web。将 Claude、Codex、DeepSeek 等 15 个 agent 添加为联系人，支持私聊、拉群、@分派任务、追踪进度、暂停或人工接管；另可通过 ACP 协议或 WebSocket 协议接入自有 agent。仓库含 Go 后端、Flutter 客户端、管理端、语音桥接服务与 k8s 部署示例。采用源码可用许可（Grix Source-Available License 1.0）。
+跨平台协作与即时通讯应用，将 Claude、Codex、DeepSeek 等 15 种编码代理/助手添加为联系人，支持私聊、群组、@提及、任务分配与进度跟踪；代理在会话上下文中持续工作并主动汇报，用户可随时添加指令、暂停或接管。覆盖 iOS/iPadOS/Apple Watch/Android/Windows/macOS/Linux/Web，提供 Go 后端、Flutter 客户端与管理端、语音桥接服务与 K8s 部署清单。仓库为 source-available 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 15 个 agent 可作为联系人私聊、入群、@分派任务并追踪进度
-- 跨平台：iOS/iPadOS/Apple Watch/Android/Windows/macOS/Linux/Web，统一会话线程
-- 两种自有 agent 接入路径：ACP 兼容 CLI 与 WebSocket agent 协议
-- 权限范围、角色隔离与 agent 间对话需授权的访问控制机制
+- 支持 15 种主流代理，并提供 ACP 兼容 CLI 与 WebSocket 协议两条自定义接入路径
+- 桌面发起任务、手机/手表审批跟进的跨设备统一会话线程
+- 权限范围、角色隔离与人随时接管的安全控制机制
+- 含 Go 后端、Flutter 客户端/管理端、Python 语音桥接与 K8s 部署示例
 
 ## 适用场景
 
-- 把开发、测试、文档等任务分派给不同 agent 并在手机上跟进进度
-- 人与 agent 在同一群组中协作，保留需求与决策上下文
-- 连接语音模型让 agent 接听来电、收集信息后转交人工
+- 把开发、测试、文档、发布任务分配给不同代理并在项目群里协调
+- 出差路上通过手机或手表审批代理的阻塞项
+- 让客服代理先应答常见问题，再带着上下文转接人工
+- 将产品、工程、QA 与代理拉入同一群组共享上下文
 
 ## 场景标签
 
-`编码 Agent` `聊天机器人` `多智能体` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L9: Grix is a cross-platform collaboration and instant messaging app for coding agents and AI assistants. Like WeChat or
-> L13: Add Claude, Codex, DeepSeek, Kimi, Cursor, and other agents as contacts. Message them privately, invite them to gro
-> L65: - **Agent Client Protocol** — any ACP-compatible CLI, connected with `client_type: acp`; the connector spawns it fr
+> L55: Grix currently supports 15 popular agents, plus two open paths for bringing your own. Start with any agent you alre
+> L70: - **Agent Client Protocol** — any ACP-compatible CLI, connected with `client_type: acp`; the connector spawns it fr
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a99f52270b9d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8ce7c7359f81` · [字段定义](../../DATASET.md)*

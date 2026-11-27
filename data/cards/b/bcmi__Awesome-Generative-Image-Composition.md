@@ -1,10 +1,10 @@
 # bcmi/Awesome-Generative-Image-Composition
 
-⭐ 154 · Python · 推送 2026-11-10 · [GitHub](https://github.com/bcmi/Awesome-Generative-Image-Composition) · 组织维护 · 中文 README
+⭐ 154 · Python · 推送 2026-11-10 · [GitHub](https://github.com/bcmi/Awesome-Generative-Image-Composition) · 组织维护
 
-**生成式图像合成/物体插入方向的论文与数据集策展清单**
+**生成式图像合成（物体插入）论文与数据集清单**
 
-由 bcmi 维护的 awesome list，收录生成式图像合成（物体插入）方向的综述论文、在线 demo、评测指标、9 个数据集（MureCom、COCOEE、AnyInsertion、DreamFuse 等）及按 Training-free / Training-based 分类的论文条目，每条含论文链接与部分代码仓库链接。面向该方向的研究者与开发者，用于跟踪方法与基准。清单本身不含代码，安装与运行依赖各条目自带的仓库。另引导读者至 Awesome-Image-Composition 获取更完整的通用图像合成资源。
+以列表形式整理生成式图像合成（object insertion）领域资源，定义该任务为基于背景图（可选包围框）与前景对象图像生成合理合成图。内容按综述、在线演示、评测指标、数据集（9 个）、论文（Training-free 与 Training-based 分类）组织，多数论文条目附 arXiv、出版页与代码链接。面向图像合成方向的研究者查找文献、数据与实现。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 收录综述、在线 demo、评测指标与 9 个数据集条目
-- 论文按 Training-free 与 Training-based 分类组织
-- 多数条目附 arXiv/正式论文及开源代码链接
+- 按 Training-free / Training-based 分类整理论文条目，附代码与出版链接
+- 收录 9 个数据集，覆盖单参考/多参考、域内/跨域设定
+- 附综述链接与基于 libcom 的在线演示入口
 
 ## 适用场景
 
-- 查找物体插入方向的最新论文与开源实现
-- 为模型训练与评测挑选合适数据集和基准
-- 了解生成式图像合成的评测指标与在线 demo
+- 进入图像合成领域时系统查找相关论文与代码
+- 为研究选择合适的评测数据集（如 MureCom、AnyInsertion）
+- 了解物体插入方法的分类脉络
 
 ## 场景标签
 
-`精选清单` `图像生成` · 领域:内容生成
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L7: A curated list of resources including papers, datasets, and relevant links pertaining to generative image compositio
-> L29: ## Datasets
-> L42: ### Training-free (2026
+> L3: A curated list of resources including papers, datasets, and relevant links pertaining to generative image compositio
+> L36: ## Papers
+> L49: ### Training-based
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `8037c5b34403` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `234c9b982e63` · [字段定义](../../DATASET.md)*

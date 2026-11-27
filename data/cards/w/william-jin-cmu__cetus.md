@@ -1,10 +1,10 @@
 # william-jin-cmu/cetus
 
-⭐ 152 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/william-jin-cmu/cetus) · [官网](https://cetus.run) · 个人维护 · 中文 README
+⭐ 152 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/william-jin-cmu/cetus) · [官网](https://cetus.run) · 组织维护 · 中文 README
 
-**macOS 桌面客户端：统一管理 Claude Code、Codex 等多个 agent 运行时**
+**macOS 桌面客户端：统一管理与审查多个 coding agent 的运行**
 
-面向使用多个 coding agent 的用户的 macOS 桌面应用：在单一窗口中接入 Claude Code、Codex、DeepSeek Harness、OpenCode、Grok Build、Kimi CLI、Antigravity 等已安装并登录的 CLI 运行时（复用其登录与模型配置），将权限确认、提问、计划以卡片形式集中呈现，并提供按对话的 git worktree 并行编辑、全局热键快速启动、定时任务、iPhone 远程伴侣应用、屏幕上下文与会议记录等能力。内置运行时支持 30+ 模型提供方。要求 Apple Silicon Mac 与 macOS 13+，自声明为早期版本。
+面向 macOS 的桌面客户端，用于集中审查和管理多个 agent runtime（Claude Code、Codex、DeepSeek Harness、OpenCode 等）的工作。核心机制：复用已安装 CLI 的登录与工具、权限提示与问题以卡片呈现、In progress/Needs review/Done 看板审查、按会话分配 git worktree 实现并行、定时任务（cron/at）入板、iPhone 伴侣应用经端到端加密配对。要求 Apple Silicon 与 macOS 13+，以 dmg 安装包分发，MIT 许可，处于早期开发阶段。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 单一窗口接入 7 种外部 CLI 运行时并复用其登录状态
-- 按对话的 git worktree 支持多 agent 并行编辑同一仓库
-- at/every/cron/daily 定时任务，运行结果汇入统一评审看板
-- iPhone 伴侣应用经端到端加密中继远程审批与对话
+- 一个窗口管理多个 agent runtime，复用已装 CLI 的登录、模型与工具
+- 权限提示/问题/计划以卡片呈现，配 Needs review 审查看板
+- 每会话独立 git worktree，多 agent 并行编辑同一仓库
+- 内置 Apple Vision 端上 OCR 屏幕上下文与端上会议转录
 
 ## 适用场景
 
-- 同时使用多个 coding agent CLI 时统一接收权限确认与评审完成工作
-- 把同一条提示扇出为多个候选运行并保留其一
-- 在手机上审批 git push 或回答 agent 的提问
+- 同时使用 Claude Code 和 Codex 时集中处理权限提示与任务审查
+- 把重复 prompt 设为定时任务并统一收取结果
+- 多 agent 并行开发同一仓库时避免编辑冲突
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5:  Cetus is a desktop client for reviewing and managing the work of every agent you run — Claude Code, Codex, DeepSeek
-> L37: - **Every runtime in one window.** Use the CLI you already have installed and signed in to. Cetus reuses its login,
+> L30: Cetus is built for the human side of the loop: a real desktop app where every agent's work is easy to read, easy to
+> L84: - **30+ model providers** for the built-in runtime, including Anthropic, OpenAI, Google, Bedrock, Ollama, LM Studio
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `49b9369dea5f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4cc9226eceaa` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 180 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/reshaprio/reshapr) · [官网](https://reshapr.io) · 组织维护
 
-**把现有 API 转为 MCP 工具的开源运行时，供开发者接入 LLM**
+**把现有 API 转为 MCP 工具的运行时，服务 AI Agent 接入**
 
-reShapr 是一个开源运行时，将既有 REST/GraphQL/gRPC 服务转换为受治理、可发现、上下文优化的 MCP 工具，无需重写 API 或为每个 API 搭建专属 MCP 服务器。针对 LLM 上下文窗口问题，提供 Context Control 在载荷进入 LLM 前过滤和精简。通过 npm 全局安装 CLI，本地依赖 Docker 以 `reshapr run` 启动平台容器，导入 OpenAPI 文件后即生成 MCP Server，可用 MCP 客户端连接使用。
+reShapr 是一个开源运行时，将既有 REST/GraphQL/gRPC 服务转换为可治理、可发现、上下文优化的 MCP 工具，无需重写 API。核心机制是 Context Control：在负载送达 LLM 前过滤与精简，缓解 Context Overload；导入 OpenAPI 契约即可生成 MCP Server，无需为每个 API 单独搭建 MCP 服务器。提供 npm 安装的 CLI、Docker Compose 本地平台、在线沙盒 try.reshapr.io 与 Web UI。
 
 ## 筛选速览
 
@@ -21,15 +21,15 @@ reShapr 是一个开源运行时，将既有 REST/GraphQL/gRPC 服务转换为�
 ## 能力要点
 
 - 将 REST/GraphQL/gRPC API 自动转换为 LLM 友好的 MCP 工具
-- Context Control 在载荷到达 LLM 前过滤与精简上下文
-- 导入现有契约即可生成 MCP Server，无需重写
-- 提供 CLI、本地 Docker 部署与在线沙箱（try.reshapr.io）
+- Context Control 在负载到达 LLM 前过滤与精简
+- 导入 OpenAPI 契约即可生成 MCP Server，零重写
+- 提供 CLI、Docker Compose 平台与在线沙盒三种上手方式
 
 ## 适用场景
 
-- 把存量微服务 API 暴露给 AI agent 调用
-- 在 LLM 调用前精简 API 响应以节省 token
-- 为多个 API 统一生成 MCP 工具而不用逐个写 server
+- 把公司现有 API 快速暴露给 AI Agent 调用
+- 为多协议服务统一生成 MCP Server 而不逐一开发
+- 精简 API 响应以控制 LLM token 消耗
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ reShapr 是一个开源运行时，将既有 REST/GraphQL/gRPC 服务转换为�
 ## 证据(README 行号)
 
 > L17: **reShapr** is the open source runtime that turns your existing APIs AI-Native, without rebuilding them. It bridges
+> L36: * AI-Native Transformation: Auto-transform API services into LLM-friendly tools.
 > L39: * Zero Rewrite: Import an existing contract and get working MCP tools in minutes, with no bespoke MCP server per AP
-> L58: 3. **Contribute code / launch the Web UI (Developer):** Head to install/README.md to run the `docker-compose` stack
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ed47fe10fafc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8aac05a3644f` · [字段定义](../../DATASET.md)*

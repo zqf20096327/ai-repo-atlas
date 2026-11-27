@@ -2,9 +2,9 @@
 
 ⭐ 168 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/0bserver07/Study-Reinforcement-Learning) · [官网](https://rl.yad.codes) · 个人维护
 
-**强化学习与 LLM 对齐的个人学习笔记库：笔记、讲义、练习**
+**RL 与 LLM 对齐的学习笔记与讲义集，面向学习者**
 
-个人学习仓库（非库），收录三类内容：2017 年 Berkeley CS294 课程手写笔记与 Sutton & Barto 摘要；34 讲 AI 起草、未经逐篇人工审读的讲义系列（覆盖 MDP、策略梯度、RLHF、DPO、GRPO、RLVR、agentic RL、offline RL）；5 个带 pytest 测试且验证通过的编程练习（REINFORCE、Q-learning、值迭代、actor-critic、小型 GRPO 循环）。另含 arXiv 论文自动采集列表（约 430 篇摘要）、文献筛选与博客起草等辅助工具，以及精选演讲/书籍/课程链接。每篇文档顶部标注 hand-written/reviewed/unreviewed 状态。
+个人学习型仓库，非软件库：包含 2017 年伯克利 CS294 手写课堂笔记、Sutton & Barto 摘要、34 讲覆盖 RLHF/DPO/GRPO/RLVR/agentic/offline RL 的讲义草稿、9 个带 pytest 测试的编程练习，以及约 430 篇 arXiv 论文摘要索引。每个文档顶部标注 hand-written/reviewed/unreviewed 状态，讲义未经人工全文审阅，需与引用论文核对。配套网站 rl.yad.codes 提供浏览器内可观察学习过程的 Q-learning 演示。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 34 讲系列覆盖 MDP 至 RLHF/DPO/GRPO/RLVR/agentic/offline RL
-- 5 个带 pytest 测试、验证通过的编程练习
-- 每篇文档标注 hand-written/reviewed/unreviewed 状态
-- 约 430 篇 arXiv 摘要的论文列表与文献收集工具
+- 34 讲覆盖从 MDP 到 RLHF/DPO/GRPO/RLVR/agentic/offline 的讲义系列
+- 9 个经测试验证的编程练习（value iteration 到 GRPO、RND）
+- 文档标注 hand-written/reviewed/unreviewed 三级可信状态
+- arXiv 自动采集的约 430 篇论文摘要索引
 
 ## 适用场景
 
-- 系统学习从经典 RL 到 LLM 对齐的强化学习内容
-- 动手完成带测试与参考答案的 RL 编程练习
-- 按 CURRICULUM.md 的顺序安排学习路径
+- 从零开始系统学习强化学习基础与课程路线
+- 动手实现 PPO、DPO、GRPO 等算法的练习
+- 查阅 LLM 对齐（RLHF/RLVR）方向的论文入口
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L3: Notes, lectures, and exercises for learning reinforcement learning and how it's used to train language models, from 
-> L18: - **`notes/lectures/`**: a 34-lecture series, MDPs through RLHF / DPO / GRPO / RLVR / agentic / offline. Editorial 
-> L20: - **`reference/papers/`**: auto-collected paper lists from arXiv (~430 abstracts). Use as a search index, not a cur
+> L13: This is a personal study repo, not a library. It mixes notes a person wrote (some going back to a 2017 Berkeley cou
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `124428765a3e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `34e0218b7098` · [字段定义](../../DATASET.md)*

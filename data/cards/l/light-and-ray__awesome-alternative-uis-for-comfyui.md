@@ -2,9 +2,9 @@
 
 ⭐ 138 · 推送 2026-10-31 · [GitHub](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui) · 个人维护
 
-**使用 ComfyUI 后端的替代 UI 工具合集清单**
+**基于 ComfyUI 后端的替代 UI 收录清单**
 
-由 light-and-ray 维护的聚合清单，收录使用 ComfyUI 后端进行图像/视频生成的替代界面项目，按两类组织：与 ComfyUI 工作流紧密集成的 UI（桌面端、移动端、Photoshop 插件、Python 前端等），以及面向 API 格式导出工作流的 UI（Web 应用生成器、Krita 插件、Android 客户端等）。清单声明未经策展，按提交顺序排列，每条附截图与项目自述，通过 issue/PR 接收新增条目。
+一份收录使用 ComfyUI 后端进行图像/视频生成的替代前端界面的清单，按两类组织：与原工作流紧密集成的 UI，以及面向 API 导出格式工作流的 UI。每条目附项目截图与项目自述简介，并提供项目链接；清单声明不做策展排序，接受 issue/PR 补充收录。覆盖移动端客户端、桌面应用、Photoshop/GIMP/Krita 插件、Python 前端、工作流转 Web 应用/ API 工具等形态。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 收录 40+ 个基于 ComfyUI 后端的替代 UI 项目
-- 按集成深度分两类：同工作流紧密集成 / API 格式工作流 UI
-- 每条提供截图与项目自述及链接，通过 PR 收录新条目
+- 两类组织：紧密集成同一工作流 / 面向 API 格式导出的工作流
+- 每条目附截图与项目自述简介
+- 收录桌面、移动端、设计软件插件、Python 前端等多种形态
+- 开放 issue/PR 补充收录
 
 ## 适用场景
 
-- 为 ComfyUI 寻找移动端、桌面端或嵌入创意软件的界面
-- 比较可将 ComfyUI 工作流转成 Web 应用或 API 的工具
-- 发现特定平台（Photoshop/Krita/Android）上的 ComfyUI 前端
+- 为 ComfyUI 寻找更简洁或移动端可用的前端界面
+- 把已有 ComfyUI 工作流转成 Web 应用或 API
+- 在设计软件（Krita/Photoshop/GIMP）中接入 ComfyUI 生成
 
 ## 场景标签
 
-`精选清单` `图像生成` `视频生成` · 领域:内容生成
+`图像生成` `视频生成` `精选清单` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L1: # Awesome Alternative UIs for ComfyUI
 > L3: Here is a collection of alternative UI that use ComfyUI backend for image generation. The order doesn't matter. Don'
+> L163: # Category 2: UI for workflows exported in API format
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `60a844360084` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `54f86b9625d8` · [字段定义](../../DATASET.md)*

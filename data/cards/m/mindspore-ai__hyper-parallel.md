@@ -2,9 +2,9 @@
 
 ⭐ 216 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/mindspore-ai/hyper-parallel) · 组织维护 · 中文 README
 
-**面向 Ascend SuperPoD 集群的分布式训练加速框架**
+**面向昇腾 SuperPoD 集群的大模型分布式训练加速框架**
 
-为 Ascend SuperPoD 提供分布式并行训练加速的框架，覆盖集群级并行与片上多核并行：支持 CPU DRAM 与 NPU HBM 池化管理、拓扑感知调度、通信路径规划与 FP8 混合精度训练。通过声明式接口将并行、重计算、offload 从模型代码中解耦注入；直接读取 Hugging Face 模型配置与权重，复用 Transformers 模型实现；支持计算/通信/数据预处理/随机数全链路确定性以复现训练结果。安装方法见官方安装指南，发布 wheels 提供于 GitHub Releases。
+为昇腾 SuperPoD 提供分布式并行训练加速的框架：通过声明式接口将并行、重计算与 offload 从模型代码解耦注入，直接读取 Hugging Face 模型配置与预训练权重并复用 Transformers 实现；支持 CPU DRAM 与 NPU HBM 池化管理、拓扑感知调度、通信路径规划与 FP8 混合精度训练，并提供覆盖计算/通信/数据预处理的端到端确定性模式。面向在昇腾集群上训练大语言与多模态模型的开发者，训练以 torchrun 启动，同时提供 PyTorch 风格核心 API（fully_shard、init_device_mesh）。安装方式指向安装指南，README 未给出具体命令。
 
 ## 筛选速览
 
@@ -21,16 +21,15 @@
 ## 能力要点
 
 - 声明式注入并行/重计算/offload，与模型代码解耦
-- 直接读取 Hugging Face 配置与权重，复用 Transformers 实现
-- 端到端确定性训练与 bitwise 对齐校验
-- 支持 Qwen3、DeepSeek-V3/V4.1、Kimi-K2.6 等模型
+- 兼容 Hugging Face 生态，直接读取配置与预训练权重
+- 端到端确定性训练与位对齐校验，可检测 SDC
+- FP8 混合精度、DRAM/HBM 池化管理与拓扑感知调度
 
 ## 适用场景
 
-- 在 Ascend SuperPoD 集群上训练大语言与多模态模型
-- 对 Hugging Face 模型执行 SPMD/MPMD 并行改造
-- 需要确定性训练以复现结果或检测 SDC 的场景
-- CPU DRAM 与 NPU HBM 池化管理的大规模训练
+- 在昇腾 SuperPoD 上训练 Qwen3/DeepSeek/Kimi 等大模型
+- 基于 Hugging Face 模型实现做分布式并行改造
+- 需要可复现训练结果或检测静默数据损坏的场景
 
 ## 场景标签
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c66194128e97` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5e3fcb136041` · [字段定义](../../DATASET.md)*

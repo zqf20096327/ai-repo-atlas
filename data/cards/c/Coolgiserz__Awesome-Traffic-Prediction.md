@@ -2,9 +2,9 @@
 
 ⭐ 167 · Python · 推送 2026-11-24 · [GitHub](https://github.com/Coolgiserz/Awesome-Traffic-Prediction) · [官网](https://coolgiserz.github.io/Awesome-Traffic-Prediction/) · 个人维护 · 中文 README
 
-**交通预测研究资源清单：论文、数据集、教程与工具汇总**
+**交通预测研究者用的论文/数据集/教程资源清单**
 
-面向交通预测研究者的资源聚合仓库，按年份（2015 起）与主题（综述、深度学习方法等）组织论文条目，每条附论文链接、代码链接（官方/非官方/PyTorch 版）、数据集与评审链接；另包含数据集、教程、工具包和其他仓库章节，并展示月度词云、Top 术语与年度热点趋势等可视化。提供中文版 README。仅收录条目，不含可运行代码。
+收录交通预测领域资源的 Awesome 清单：按年份组织深度学习方法论文（含综述、官方/社区代码与数据集链接），另设 Reviews、Datasets、Tutorials、Toolkits 等板块。提供中文版 README，并每月生成论文标题词云、Top-K 词频与年度热点趋势图，用于跟踪领域研究热度。面向从事交通/时空预测研究的用户。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按年份与主题组织的交通预测论文清单，附论文/代码/数据/评审链接
-- 区分官方代码、非官方代码与 PyTorch 复现版本
-- 月度词云、Top 术语频率与年度热点趋势可视化
-- 提供中文版 README（README.zh.md）
+- 按年份梳理 2015 起的深度学习交通预测论文并附论文/代码链接
+- 含综述专节与数据集、教程、工具包板块
+- 每月更新论文词云、Top-K 词频与年度热点趋势图
+- 提供中文版 README
 
 ## 适用场景
 
-- 查找交通预测领域的综述与代表性论文
-- 为复现实验寻找对应模型的开源代码与数据集
-- 了解交通预测研究的年度热点变化
+- 查找交通流量/速度预测方向的经典与最新论文
+- 为时空图神经网络研究寻找代码与数据集
+- 跟踪交通预测领域的研究热点趋势
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L8: This repository contains useful resources for traffic prediction, including popular papers, datasets, tutorials, too
-> L30: ## 0x00 Papers
+> L41: ### Deep Learning Based Traffic Prediction Methods
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `132e5f015f23` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `99c0f6c44184` · [字段定义](../../DATASET.md)*

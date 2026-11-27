@@ -2,9 +2,9 @@
 
 ⭐ 149 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) · 个人维护
 
-**为 AI 助手接入 Financial Modeling Prep 金融数据的 MCP 服务器**
+**面向 AI 助手的 Financial Modeling Prep 财经数据 MCP 服务器**
 
-基于 Model Context Protocol 的服务器，将 Financial Modeling Prep API 的 250+ 金融数据工具（覆盖股票、ETF、加密货币、外汇、大宗商品、宏观经济等 24 类）暴露给 AI 助手。支持 Dynamic/Static/All Tools 三种运行模式，内置运行时启用/禁用工具集的 meta-tools；通过 HTTP/SSE 传输，兼容 Claude.ai、Claude Desktop 及 MCP 注册表。提供托管实例，也可经 npm、Docker 或源码自托管，需自备 FMP API key，Node.js 25.3.0+（v2.6.0+）。
+将 Financial Modeling Prep API 封装为 MCP 服务器，向 AI 助手暴露 267 个财经数据工具，覆盖股票、ETF、加密货币、外汇、大宗商品、财报、SEC 文件、内部人与机构交易等 24 个工具集。支持 Dynamic（5 个元工具按需加载）、Static、All Tools 三种运行模式，可经流式 HTTP 连接 Claude.ai/Claude Desktop 或自定义客户端；提供托管实例，也可通过 npm、Docker（源码构建）或源码自托管。使用需自备 FMP API key。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 250+ 金融数据工具，覆盖 24 个类别
-- 三种服务器模式与运行时工具集管理的 meta-tools
-- HTTP/SSE 传输，兼容 Claude.ai/Claude Desktop/MCP 注册表
-- 托管实例可用，或 npm/Docker/源码自托管
+- 267 个财经数据工具，覆盖 24 个工具集
+- Dynamic/Static/All Tools 三种服务器模式，支持运行时启停工具集
+- 流式 HTTP 传输，兼容 Claude.ai 与 Claude Desktop
+- 提供托管实例与 npm/Docker/源码自托管方式
 
 ## 适用场景
 
-- 让 Claude 等 AI 助手查询股票行情与公司基本面数据
-- 在 MCP 客户端中接入金融数据源做分析
-- 通过 meta-tools 按需加载所需金融工具集
+- 让 Claude 等 AI 助手读取公司基本面与财务报表
+- 查询股价行情、市场指数与新闻
+- 批量获取 ETF、加密货币与外汇数据做分析
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L6: A Model Context Protocol (MCP) server for the Financial Modeling Prep API, exposing 250+ financial data tools to AI 
-> L14: - **HTTP/SSE Transport** — compatible with Claude.ai, Claude Desktop, and MCP registries
+> L9: A Model Context Protocol (MCP) server for the Financial Modeling Prep API, exposing 267 financial data tools to AI a
+> L15: - **Three Server Modes** — Dynamic (5 meta-tools), Static (pre-loaded toolsets), or All Tools (default)
+> L16: - **Flexible Deployment** — use the hosted instance or self-host via npm, Docker (built from source), or source
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `769da5f440a0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a199b8ce8ea5` · [字段定义](../../DATASET.md)*

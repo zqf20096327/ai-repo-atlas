@@ -1,10 +1,10 @@
 # aimclub/OSA
 
-⭐ 152 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/aimclub/OSA) · [官网](https://aimclub.github.io/OSA/) · 组织维护
+⭐ 152 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/aimclub/OSA) · [官网](https://aimclub.github.io/OSA/) · 组织维护 · 中文 README
 
-**用 LLM agent 自动改进开源仓库质量的工具**
+**用 LLM agent 提升科研开源项目质量的工具**
 
-面向科研开源项目的 LLM 工具：读取 GitHub/GitLab/Gitverse 仓库，自动生成 README、Python docstring、多级文档与 CI/CD workflow，克隆仓库、建分支并提交 pull request 实施变更；还提供仓库质量评分与论文声明抽取核验模式（--paper-analysis）。LLM 接入支持 OpenAI 兼容 API、Ollama、Openrouter、VseGPT、订阅制 Host（Codex CLI 协议）及 ITMO 托管模型。需 Python 3.11+，通过 pip、源码（pip/poetry）或 Docker 安装运行。
+OSA（Open-Source-Advisor）面向科研开源项目，自动化生成 README、Python docstring 文档、CI/CD 工作流，并可克隆仓库、建分支、提交修改并创建 Pull Request。支持通过 API（OpenAI 兼容端点、VseGPT、Ollama、GigaChat）、订阅制 Host provider 或 ITMO 托管的 osa_bot 调用 LLM。提供论文仓库分析模式，抽取论文声明并对照仓库验证，可选仓库质量评分。通过 PyPI、源码或 Docker 安装，需 Python 3.11+ 与 Git 平台 token。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 自动生成 README、docstring、文档与 CI/CD workflow 并提交 PR
-- 仓库质量评分与论文声明抽取核验（--paper-analysis）
-- 支持 OpenAI 兼容 API、Ollama、Openrouter、VseGPT、Host 订阅及 ITMO 托管模型等多种 LLM 接入
-- 提供 pip/poetry/Docker 三种安装运行方式
+- 自动生成 README、docstring 与 CI/CD 工作流并创建 PR
+- 论文仓库分析模式：抽取论文声明并对照仓库验证
+- 支持多 LLM 接入：OpenAI 兼容端点、Ollama、GigaChat、Host provider
+- 仓库质量评分与按任务分别配置模型的 TOML 配置
 
 ## 适用场景
 
-- 为我的科研开源项目自动生成 README 和文档
-- 自动补齐 Python 代码 docstring 并以 PR 形式提交
-- 基于论文 PDF 生成 README 模板并核验论文声明
-- 为 Python 仓库生成含测试与 PyPI 发布的 CI/CD 流水线
+- 为基于论文的仓库自动生成 README 与文档
+- 给 Python 科研仓库补齐单元测试、格式检查、PyPI 发布等 CI 流水线
+- 核验论文中的声明是否在仓库中实现
+- 批量评估开源仓库的 README、license 等规范性
 
 ## 场景标签
 
-`科研工具` `AI 写作` · 领域:内容生成
+`科研工具` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L22: OSA (Open-Source-Advisor) is a LLM-based tool for improving the quality of scientific open source projects and help
-> L37: 1. **README file generation**: Automates the creation of a clear and structured README file for a repository, inclu
-> L265: python -m osa_tool.run -r https://github.com/aimclub/OSA --api ollama --base-url http://[YOUR_OLLAMA_IP]:11434 --m
+> L42: 3. **Automatic implementation of changes**: Clones the repository, creates a branch, commits and pushes changes, an
+> L45: 4. **Various LLMs**: Use OSA with an LLM accessible via API (e.g., OpenAI, VseGPT, Ollama), a local server, or try
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `10656c958bee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `18ddeabf3b91` · [字段定义](../../DATASET.md)*

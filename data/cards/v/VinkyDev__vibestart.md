@@ -1,10 +1,10 @@
 # VinkyDev/vibestart
 
-⭐ 305 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/VinkyDev/vibestart) · [官网](https://vibestart.net) · 个人维护
+⭐ 305 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/VinkyDev/vibestart) · [官网](https://vibestart.net) · 个人维护 · 中文 README
 
-**为 AI 编码智能体生成经验证的全栈 TypeScript 项目**
+**为 AI 编码智能体生成经过验证的全栈 TypeScript 项目**
 
-通过 CLI 或 Web Studio 组合选择各层技术（应用框架、后端、ORM、认证、部署、UI、测试等），生成带类型安全、lint 与测试的全栈 TypeScript 项目。每个技术项以集成形式组合，不兼容的组合会被拒绝并给出原因与最小修复建议；发布前 CI 对每个受支持组合进行安装、类型检查、lint、测试、浏览器测试与构建验证。生成的项目为普通仓库，无对 VibeStart 的运行时依赖，并可通过 upgrade 进行三方合并式模板更新。
+一个 CLI 与 Web Studio 组合的项目脚手架工具：开发者逐层选择应用框架、后端、数据库、ORM、认证、测试等组件，CLI 生成完整 TypeScript 项目，内置类型检查、lint、测试与构建。每个受支持的组合在发布前经 CI 安装、类型检查、测试并记录验证指纹；生成项目包含 AGENTS.md 规则文件供编码智能体遵循，并支持通过 upgrade 三方合并保持模板更新。生成项目对 VibeStart 无运行时依赖。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按层自由组合技术栈，不兼容组合被拒绝并给出修复建议
-- 每个受支持组合经 CI 安装/类型检查/lint/测试/构建验证并记录指纹
-- 生成的项目含 AGENTS.md 规则与快速检查（vp run ready）
-- upgrade 三方合并模板更新，保留用户应用代码
+- npx vibestart-cli 交互式组合技术栈并生成项目
+- 每个组合经 CI 验证，验证记录以指纹存于 verification 分支
+- npx skills add 安装技能供 Claude Code/Codex/Cursor 等 agent 使用
+- upgrade 三方合并模板更新，保留用户代码
 
 ## 适用场景
 
-- 用编码智能体（如 Claude Code、Cursor）快速启动全栈 TypeScript 项目
-- 获取各层均为当前标准的、经组合验证的项目脚手架
-- 长期维护生成项目并安全合并模板更新
+- 让编码智能体从一个规范、带检查的代码库开始新项目
+- 快速组合 TypeScript 全栈技术栈而不逐个拼装配置
+- 生成后持续同步上游模板更新
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5: Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type 
-> L28: Paste this command, along with what you want to build, into Claude Code, Codex, Cursor, or any coding agent:
+> L31: npx skills add VinkyDev/vibestart --skill vibestart
+> L34: The agent installs the vibestart skill, chooses the stack, and creates the project. See the Agent Skills guide.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f57a27df64a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `8bb4ac9757e1` · [字段定义](../../DATASET.md)*

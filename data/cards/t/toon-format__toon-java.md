@@ -2,9 +2,9 @@
 
 ⭐ 164 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/toon-format/toon-java) · 组织维护
 
-**TOON 序列化格式的 Java 编解码库，压缩 LLM 上下文 token**
+**面向 Java 开发者的 TOON 格式编码解码库，压缩 LLM 上下文 token**
 
-社区驱动的 TOON 格式 Java 实现：将 Java 对象或 JSON 字符串编码为 TOON 格式，声称相对 JSON 可减少 30-60% token；也支持将 TOON 解码回 Java 对象或 JSON。采用 YAML 风格缩进与 CSV 风格表格数组，支持逗号/制表符/竖线三种分隔符、数组长度校验、Jackson 注解、NullAway+JSpecify 空安全。主分支面向 Java 21，另有维护至 2027 Q4 的 Java 17 分支，声明 100% 符合 TOON 规范 4.4，通过 Maven Central 分发。
+TOON 序列化格式的社区 Java 实现：提供 encode/decode 双向 API，将 Java 对象或 JSON 字符串转为缩进+表格数组风格的 TOON 文本并还原，声明相比 JSON 减少 30-60% token。支持 Jackson 注解、多种 Java 时间类型与 Optional/Stream 的规范化转换、可配置缩进/分隔符/键折叠/严格校验，含数组长度校验与解码上限保护。通过 Maven Central 发布，要求 Java 17（2.0.x）或 Java 21（3.0.0+），CI 强制符合 TOON spec 4.4.0。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- Java 对象/JSON 与 TOON 格式的双向转换（encode/decode）
-- 逗号/制表符/竖线三种数组分隔符，制表符可进一步降低 token 数
-- 支持 Jackson 注解（如 @JsonIgnore）与严格/宽松两种校验模式
-- Java 21 主线与 Java 17 维护分支（2.0.x，至 2027 Q4）
+- encode/decode 双向 API，含 JSON 字符串与 TOON 互转
+- 表格数组与键折叠选项，面向统一结构数据
+- Jackson 注解支持与 Java 类型到 LLM 安全输出的规范化
+- 通过 Maven Central 与 GitHub Releases JAR 分发
 
 ## 适用场景
 
-- Java 应用在与 LLM 交互时压缩 JSON 载荷的 token 用量
-- 将结构化数据序列化为 LLM 友好的紧凑文本格式
-- TOON 格式数据的解析与回转为 JSON
+- 在向 LLM 上下文注入结构化数据时降低 token 占用
+- Java 服务中与 TOON 格式的 LLM 工具链交换数据
+- 需要严格校验的 TOON 文本解析与往返转换
 
 ## 场景标签
 
- · 领域:LLM 基础设施/数据序列化
+ · 领域:LLM 工具/数据格式
 
 ## 证据(README 行号)
 
 > L10: Compact, human-readable serialization format for LLM contexts with **30-60% token reduction** vs JSON. Combines YAM
-> L12: **Key Features:** Minimal syntax • TOON Encoding and Decoding • Tabular arrays for uniform data • Array length vali
+> L42: JToon is available on Maven Central. Add it to your project using your preferred build tool:
+> L124: |`encode(Object)`|`String`|Java Object → TOON|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4ca52d8a0aa4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f17356c89664` · [字段定义](../../DATASET.md)*

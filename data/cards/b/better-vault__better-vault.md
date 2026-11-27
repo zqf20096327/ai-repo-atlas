@@ -2,9 +2,9 @@
 
 ⭐ 147 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/better-vault/better-vault) · [官网](https://better-vault.dev) · 组织维护
 
-**开源 NotebookLM 替代品：用自选模型与资料对话并生成学习材料**
+**开源 NotebookLM 替代：对资料提问并生成学习材料**
 
-本地优先的研究笔记本应用：把 PDF、网页、笔记等加入笔记本后，可用自选 AI 模型与资料对话并获得带引用的回答，或在 Studio 中生成报告、闪卡、测验、数据表、思维导图、幻灯片、信息图与解剖图，支持导出 Word/PPT/CSV 等格式。模型接入支持 OpenAI、Anthropic、Google 的自有 API key 或本地 Ollama/LM Studio。数据存于浏览器 IndexedDB 或桌面端 SQLite 文件，无账户、无服务端数据库。提供 macOS/Windows/Linux 桌面安装包，也可从 Node.js 源码运行。音频与视频概览不在范围内。
+自托管的 research notebook：用户向笔记本添加 PDF、网页、笔记等来源，通过自选模型对话并获得带引用的回答，在 Studio 中从来源生成报告、闪卡、测验、数据表、思维导图、幻灯片、信息图等，支持 Word/Markdown/PowerPoint 等格式导出。模型可用 OpenAI/Anthropic/Google 的自有 key 或本地 Ollama/LM Studio。Web 版数据存浏览器 IndexedDB，桌面版存 SQLite，无账号与服务器数据库。音频/视频概览不在范围内。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 对话回答带来源段落引用，支持 Web 搜索模式
-- Studio 生成报告/闪卡/测验/思维导图/幻灯片/信息图等多种产物
-- 支持 OpenAI/Anthropic/Google 自有 key 及本地 Ollama/LM Studio
-- 本地优先：数据存 IndexedDB 或 SQLite，无账户无服务端数据库
+- 带引用的来源问答，Web 模式可用内置联网搜索的 provider
+- Studio 生成报告、闪卡、测验、思维导图、幻灯片等 9 类产出并可导出
+- BYOK：OpenAI/Anthropic/Google 自有 key 或本地 Ollama/LM Studio
+- local-first：数据存浏览器 IndexedDB 或桌面版 SQLite，无账号
 
 ## 适用场景
 
-- 把课程资料、论文、网页整理进笔记本并向 AI 提问
-- 将学习资料转化为闪卡、测验和思维导图复习
-- 用本地模型处理资料而不上传数据
-- 从多个来源生成带引用的报告和演示文稿
+- 把论文和网页资料导入笔记本做带引用的提问
+- 从课程材料生成闪卡、测验和学习指南
+- 不依赖云账号、用本地模型处理个人资料
 
 ## 场景标签
 
-`知识库管理` `文档问答` `AI 写作` · 领域:内容生成
+`知识库管理` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L25: better-vault is a free, open-source alternative to Google NotebookLM (now Gemini Notebook). It is a research notebo
-> L29: **Create study material** in the **Studio**: reports, flashcards, quizzes, data tables, mind maps, slide decks, inf
+> L31: **Choose your model** from OpenAI, Anthropic and Google with your own key, or run a local model through Ollama or L
+> L33: **Keep your data on your device.** The web app stores everything in your browser's IndexedDB, and the **desktop app
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-01 · 置信度 high · 依据 README sha `96a532453549` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `713d3e05930a` · [字段定义](../../DATASET.md)*

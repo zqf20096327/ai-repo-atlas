@@ -2,9 +2,9 @@
 
 ⭐ 146 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/rouges78/GameStringer) · [官网](https://gamestringer.ai) · 个人维护
 
-**桌面应用：自动检测游戏引擎，用 AI 翻译游戏文本并打回补丁**
+**面向玩家的游戏文本 AI 翻译桌面应用**
 
-面向玩家的 Windows/macOS/Linux 桌面应用，用于翻译没有本地化版本的单机游戏：自动扫描游戏库、检测引擎（专用解析器 12 个、可识别 20+），提取文本后经用户选择的 AI 提供商（OpenAI、Claude、Gemini、DeepSeek、Ollama 等 20+）翻译，再打回游戏文件并自动备份。翻译前可运行预测工具 P.T. 输出难度评分、耗时估计与推荐 LLM 链，并检测 DRM 与编码。Unity 游戏通过自动安装 BepInEx 做运行时注入。单人维护、source-available，作者自述项目仍处于早期，请求社区实测反馈。
+桌面应用（Windows/macOS/Linux），自动检测游戏引擎，扫描游戏文件夹中的文本文件（JSON/XML/.locres/.rpy/BSA/CPK 等），交由用户选择的 AI 翻译服务翻译后回写补丁，回写前自动备份。内置 P.T. 预估工具（难度评分、18 个 LLM 模型耗时预估、DRM 与编码检测）、Dry Run 批量扫描与 Patch Hub 补丁分享。支持 20+ 引擎（12 个专用解析器），Windows 独占运行时注入翻译。单人维护的 source-available 项目，安装包经签名分发。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 完整流水线：扫描→引擎检测→文本提取→AI 翻译→质检→打回补丁
-- P.T. 预测工具：0–100 难度评分、18 个 LLM 模型耗时估计、DRM/编码检测
-- 20+ AI 提供商可选（含 Ollama 本地模型），12 引擎专用解析器、识别 20+ 引擎
-- Unity 游戏自动安装 BepInEx + XUnity.AutoTranslator，无需手动配置
+- 自动检测 20+ 游戏引擎，12 个带专用文本解析器
+- 扫描-提取-AI 翻译-回写补丁的完整流水线，补丁前自动备份
+- P.T. 预估工具：难度评分、耗时估算、DRM/编码检测
+- 支持 OpenAI、Claude、Gemini、DeepSeek、Ollama 等 20+ 翻译服务
 
 ## 适用场景
 
-- 把没有官方本地化的游戏翻译成我的语言
-- 翻译前先评估游戏文本量、难度和 DRM 风险
-- 用本地模型（Ollama）离线翻译游戏文本
-- 在 Patch Hub 分享或下载现成翻译包
+- 把不含我语言的单机游戏文本翻译成本地语言
+- 用 P.T. 先评估游戏翻译难度和 DRM 风险再动手
+- 在 Patch Hub 下载或分享已完成的翻译补丁
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:游戏工具/本地化
 
 ## 证据(README 行号)
 
 > L6:  Desktop app that translates video games into any language using AI.
 > L81: Most games store their text in files — JSON, XML, CSV, `.locres`, `.rpy`, BSA/BA2, CPK, Unity Localization StringTa
+> L104: **Requirements:** Windows 10+, macOS 10.15+, or Linux (Ubuntu 22.04+, Fedora 38+). 4 GB RAM (8 GB+ for local AI), 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `55e7d37d2387` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `aee7c1ce0156` · [字段定义](../../DATASET.md)*

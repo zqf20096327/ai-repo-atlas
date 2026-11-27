@@ -2,9 +2,9 @@
 
 ⭐ 138 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/glossyio/traffic-monitor) · [官网](https://www.trafficmonitor.ai) · 组织维护
 
-**边缘 ML+多普勒雷达的道路交通监测软硬件方案**
+**开源智慧交通监测设备软件：边缘检测计数与雷达测速**
 
-开源智慧城市交通监测软件：在 Raspberry Pi 5 等廉价硬件上运行边缘机器学习目标检测，结合多普勒雷达，统计行人、自行车、汽车的通过数量并测量车速，可抓拍事件图像与视频。推理在本地进行，不依赖云端，仅上传用户指定的数据。通过 Raspberry Pi OS Lite + git clone 源码脚本安装，UI 基于 Node-RED 仪表盘与 Frigate 配置界面，支持长期路面部署与电池供电的临时远程部署，可扩展空气质量等传感器。
+基于 Raspberry Pi 5 与普通硬件构建的交通监测软件，利用边缘机器学习目标检测与多普勒雷达，统计行人、自行车、汽车等道路使用者数量并测量车速；检测在本地推理，无需云端，仅上传用户指定的数据。提供 Node-RED 仪表盘、Frigate 配置界面与 go2rtc 摄像头管理界面，可通过 SSH 脚本安装，支持长期道路部署与低功耗临时部署，并可扩展 Raspberry Pi 兼容传感器（空气质量、噪声、温湿度等）。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 边缘 ML 目标检测统计汽车/自行车/行人数量
-- 多普勒雷达测速并抓拍事件图像与视频
-- 本地推理、无云端依赖的隐私设计
-- 可扩展树莓派兼容传感器（空气质量、噪声、PM 等）
+- 边缘机器学习目标检测：本地推理，无需云端
+- 多普勒雷达测速，捕获事件图像与视频
+- 支持 Raspberry Pi 兼容传感器扩展（空气质量、噪声、光照、温湿度、PM 颗粒物）
+- Node-RED 仪表盘展示事件计数与速度统计
 
 ## 适用场景
 
-- 长期部署监测道路使用情况与流量统计
-- 临时远程部署采集车速与交通事件数据
-- 智慧城市项目搭建低成本本地交通监测节点
+- 长期部署在道路旁统计车流、人流利用率
+- 监测并记录车辆超速事件
+- 低功耗电池供电的临时 remote 路况采集
+- 加装空气质量等传感器做环境监测
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 ## 证据(README 行号)
 
 > L7: TrafficMonitor.ai, the Traffic Monitor, is an open source smart city traffic monitoring software built with commodit
-> L14: - 📷 Privacy-focused, local inferencing (no cloud required) only collects and sends data you specify.
+> L29: The Traffic Monitor is designed on the Raspberry Pi 5 and a variety of commodity hardware to keep it accessible, lo
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bd9833a87e33` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8d1457176334` · [字段定义](../../DATASET.md)*

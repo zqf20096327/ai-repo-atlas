@@ -2,9 +2,9 @@
 
 ⭐ 148 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/clarity-mcp-server) · [官网](https://clarity.microsoft.com) · 组织维护
 
-**连接 Microsoft Clarity 的 MCP 服务器：让 AI 客户端查询网站分析数据**
+**让 MCP 客户端用自然语言查询 Microsoft Clarity 分析数据的服务器**
 
-微软官方的 Model Context Protocol 服务器，将 Microsoft Clarity 的网站分析能力接入 Claude for Desktop、VS Code 等 MCP 兼容客户端。暴露三个工具：query-analytics-dashboard 以自然语言查询流量与用户行为指标、list-session-recordings 按浏览器/设备/国家等条件筛选会话录像、query-documentation-resources 检索 Clarity 官方文档。需要 Node.js v16+ 与 Clarity API token，通过 npm 全局安装或 npx 直接运行，另提供 VS Code 扩展与 Claude Desktop 插件两种安装途径。
+微软官方提供的 Model Context Protocol 服务器，将 Microsoft Clarity 接入 VS Code、Claude Desktop 等 MCP 兼容客户端。暴露分析仪表板查询、会话录制检索、AI Visibility 引用/爬虫/主题洞察、文档检索等工具，通过 OAuth 浏览器登录授权，支持按浏览器/设备/国家等维度过滤数据。需要 Node.js v16+ 和具备项目权限的 Clarity 账户；Data Export API token 认证方式已被声明弃用，需迁移到 OAuth。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 自然语言查询 Clarity 分析仪表盘数据
-- 按 URL/设备/浏览器/国家等多维度筛选会话录像
-- 在客户端内检索 Microsoft Clarity 文档
-- 提供 npm/npx、VS Code 扩展、Claude Desktop 插件三种安装方式
+- 暴露分析数据、会话录制、AI Visibility、文档检索等 MCP 工具
+- 自然语言查询，支持按浏览器/设备/国家等维度过滤
+- OAuth 浏览器登录授权，无需预配置 token
+- 提供 npx/npm 全局安装及 VS Code 扩展、Claude Desktop 插件安装方式
 
 ## 适用场景
 
-- 在 AI 客户端里直接询问 Clarity 项目的流量与用户行为数据
-- 用自然语言筛选并查看用户会话录像
-- 在开发流程中查询 Clarity 文档解决配置问题
+- 在 MCP 客户端中用自然语言查询 Clarity 流量与会话数据
+- 分析 AI 爬虫对站点的抓取活动与引用情况
+- 在工作流中直接检索 Clarity 使用文档
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L3: This is a Model Context Protocol (MCP) server for the Microsoft Clarity.
-> L4: It allows you to access your session recordings, project analytics, and documentation from Clarity using Claude for 
+> L3: This Model Context Protocol (MCP) server connects Microsoft Clarity to Visual Studio Code, Claude Desktop, and other
+> L131: The server exposes various tools that you can call from any MCP client.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b0814c93ca47` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f9517c4f4b63` · [字段定义](../../DATASET.md)*

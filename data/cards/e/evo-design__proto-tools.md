@@ -2,15 +2,15 @@
 
 ⭐ 145 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/evo-design/proto-tools) · [官网](https://proto.evodesign.org/docs/tools/introduction) · 组织维护
 
-**面向生成式生物学的计算/AI 工具统一调用基础设施**
+**生成式生物学的计算工具套件：统一 Python 接口调用百余种生物 AI 工具**
 
-Python 包 proto-tools，将大量计算生物学与生物 AI 工具（语言模型、结构预测、逆折叠、序列分析、基因注释、对接打分等）收拢到统一接口下，经 pip 安装即用。每个工具在自动管理的隔离环境中运行，依赖自动处理；提供设备管理与 GPU 并行（ToolPool）、模型保温、PROTO_HOME/PROTO_MODEL_CACHE 存储配置，可选接入 Modal 远程容器算力，并通过托管 MCP 服务器供 Claude/ChatGPT 等 AI 助手调用。需 Python 3.10+ 与 Pydantic 2.12+；少数门控模型（ESM3、AlphaGenome 等）需先接受许可。
+Python 包，将结构预测、逆折叠、序列分析、基因注释、构象动力学、基因组打分等大量计算生物学与生物 AI 工具收纳到单一一致接口下，一次 pip install 即可使用。每个工具运行在自动管理的隔离环境中以处理依赖；内置设备管理与 GPU 扇出等基础设施支持连续调用与并行。可作为独立库使用，也可通过托管 MCP 服务器由 AI 助手调用，工具可在本地运行或部署到 Modal 云端。部分工具（如 ESM3、AlphaGenome）需先接受许可条款。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,27 @@ Python 包 proto-tools，将大量计算生物学与生物 AI 工具（语言模
 
 ## 能力要点
 
-- 统一接口封装生物 AI 工具集（结构预测/逆折叠/语言模型/序列比对等）
-- 每工具独立隔离环境，依赖与权重缓存自动管理
-- GPU 分配、LRU 驱逐、ToolPool 多卡并行等执行基础设施
-- 托管 MCP 服务器接入 Claude/ChatGPT，可选 Modal 远程执行
+- 统一 Python 接口下整合 16 类工具：结构预测、逆折叠、序列比对、分子对接等
+- 每个工具自动隔离环境，依赖由框架管理
+- 内置设备管理、GPU 扇出与 ToolPool 并行执行
+- 托管 MCP 服务器供 Claude/ChatGPT 等 AI 助手调用工具
 
 ## 适用场景
 
-- 在统一 Python 接口下调用多种生物学模型而不必逐个配环境
-- 把生物 AI 工具接入 AI 助手，通过对话执行
-- 在多 GPU 或 Modal 云端批量运行结构预测等任务
+- 运行 AlphaFold、ESM 等模型预测蛋白质 3D 结构
+- 从结构出发做逆折叠序列设计或 de novo 结合剂设计
+- 在 Modal 云端批量运行多 GPU 推理任务
+- 让 AI 助手通过 MCP 检索和调用生物信息学工具
 
 ## 场景标签
 
- · 领域:计算生物学/AI 基础设施
+`科研工具` `推理引擎` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L25: Welcome! This repository contains the open-source implementation of `proto-tools`, a Python package containing a la
 > L27: Every tool runs in its own automatically managed isolated environment, so all dependency wrangling is handled for y
-> L211: Our hosted MCP server lets Claude, ChatGPT, and other AI assistants find and run these tools for you. To set up, f
+> L215: Our hosted MCP server lets Claude, ChatGPT, and other AI assistants find and run these tools for you. To set up, f
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4bb6544a0064` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `dc0ef74acf62` · [字段定义](../../DATASET.md)*

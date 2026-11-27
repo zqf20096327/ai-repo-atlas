@@ -1,10 +1,10 @@
 # AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio
 
-⭐ 158 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio) · 组织维护
+⭐ 158 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio) · 个人维护
 
-**多模型 LoRA 训练工作台：消费级 GPU 上训练图像/视频模型 LoRA**
+**低显存 NVIDIA GPU 上的多模型 LoRA 训练工作台**
 
-聚合 AcademiaSD 全系 LoRA 训练器的桌面工作台：以 NF4 4-bit 量化加载模型，文本编码器与 VAE 仅在 pre-cache 阶段运行一次，支持 Qwen-Image、FLUX.2/FLUX.3、Krea 2、SDXL（Pony/Illustrious/NoobAI）、LTX-2.3、MiniMax-H3 等十余种图像与视频模型的 LoRA 及编辑型 LoRA 训练，最低显存需求 4–8 GB。各训练器共用统一 Web 界面：数据集管理、自动打标、实时预览、断点续训与一键导出 ComfyUI，支持局域网远程访问与 RunPod 云端部署。通过 .bat/.sh 脚本一键安装，Windows/Linux 可用，AMD 为实验性支持。
+面向消费级显卡的 LoRA 训练整合工具：一次安装、一个启动器，以 NF4 量化方式在 4–8 GB VRAM 上训练 Qwen-Image、FLUX 系列、Anima、SDXL、LTX、MiniMax-H3 等十多个图像与视频模型的 LoRA/LoKr/DoRA。机制上提供 block swap 与 VRAM Profile 控制显存占用，内置数据集分析器（重复/模糊图、缺触发词检测）、BiRefNet 遮罩损失、输出保留、自动最佳 checkpoint 评选、XY 网格预览，训练产物可在 ComfyUI 加载。支持 Windows、Linux 与 RunPod，老显卡可切 FP16。
 
 ## 筛选速览
 
@@ -12,33 +12,35 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `gpu-8g` | |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 统一启动器管理十余个图像/视频模型的 LoRA 训练器
-- NF4 量化加载 + 文本编码器/VAE 预缓存，最低 4 GB 显存可训
-- 数据集管理、自动打标、实时预览、精确步数续训、一键导出 ComfyUI
-- 支持局域网远程上传/下载与 RunPod 云端模板
+- NF4 量化 + block swap + VRAM Profile，4–8 GB 显卡可训练
+- 数据集分析器检测重复/模糊图、缺触发词与人脸混入
+- 训练结束自动用同提示词评分并复制最佳 checkpoint
+- 17 个训练器支持 DoRA 与 Auto/BF16/FP16 精度选择
 
 ## 适用场景
 
-- 在 4–12 GB 显存的家用 GPU 上为 Qwen-Image、FLUX 等 LoRA
-- 训练角色、物体、风格及前后对比的编辑型 LoRA
-- 从浏览器在局域网其他设备上传数据集并下载训练结果
+- 在 8 GB 显卡上训练角色或画风 LoRA
+- 训练能在 ComfyUI 中直接加载的 LoRA/DoRA 文件
+- 用内置数据集分析器清理训练图集
+- 在 RunPod 上运行训练环境
 
 ## 场景标签
 
-`微调` · 领域:训练与推理
+`微调` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L28: **AcademiaSD LoRAlab Trainer Studio** brings together all the AcademiaSD LoRAlab trainers. Each model is loaded in 
-> L32: |Trainer|Trains|Minimum VRAM|
+> L13: - MAJOR UPDATE **Masked loss in every image trainer** — BiRefNet (MIT, ~0.2 GB) cuts out the subject of every image
+> L18: - MAJOR UPDATE **Optimizer selector, with Prodigy** — choose AdamW, AdamW 8-bit, Prodigy or Adafactor above the LR 
+> L30: - **Krea 2 from 8 GB of VRAM** — the block swap and **VRAM Profile** of FLUX.1 and Klein 9B. At 1024² Krea 2 peaked
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `ab605b561eec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `629feefd534f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 164 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/manticore-projects/aurscan) · [官网](https://manticore-projects.com/aurscan/README.html) · 组织维护
 
-**Arch 用户：构建前自动扫描 AUR 包是否含恶意代码的 LLM 安全门**
+**安装前用 LLM 扫描 AUR 包构建脚本的恶意代码检测器**
 
-针对 AUR 供应链攻击的 CLI 安全工具：在 yay/paru 下载之后、makepkg 执行之前，读取 PKGBUILD、.install 脚本、.SRCINFO 与辅助脚本，两阶段判定——离线静态规则匹配已知攻击签名，再由 LLM（Claude Code、Anthropic API、Codex、任意 OpenAI 兼容本地端点等）结合 AUR 信誉做判断；无后端时静态规则仍给出 fail-closed 判定。非 OK 判定阻断构建，无终端时默认拒绝。通过自带签名 pacman 仓库、makepkg 或 install.sh 安装单个静态二进制。
+面向 Arch Linux AUR 用户的安装前安全扫描器：在 yay/paru 下载包之后、makepkg 执行之前拦截，读取 PKGBUILD、.install 脚本、.SRCINFO 与辅助脚本，先由离线静态规则匹配已知攻击签名，再交由模型结合 AUR 信誉做判定，恶意则中止构建。支持 Claude Code CLI、ANTHROPIC_API_KEY、Codex CLI、任意 OpenAI 兼容端点及自定义后端组成的降级链，无模型时静态规则仍 fail-closed。通过自签名 pacman 仓库或源码构建安装，以 yay/paru hook 或 wrapper 接入。README 声明其为额外防护层而非保证，需配合 clean chroot 使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 在下载后、构建前拦截 yay/paru 的 AUR 构建
-- 静态规则 + LLM 两阶段判定，完全离线时规则仍 fail-closed
-- 多后端自动检测与故障转移链（Claude/Codex/本地 OpenAI 兼容端点/自定义命令）
-- 一个静态二进制提供 aurscan、syay、sparu、aurscan-edit 四个入口
+- 静态规则与 LLM 两阶段判定，无模型配置时静态规则仍返回 fail-closed 结果
+- 多后端自动探测与降级链（Claude Code CLI / ANTHROPIC_API_KEY / Codex CLI / OpenAI 兼容端点 / 自定义可执行）
+- 通过 yay v13+ Lua hook、syay/sparu wrapper 或 paru PreBuildCommand 在下载后、构建前拦截
+- 签名 pacman 仓库提供 x86_64 与 aarch64 二进制，可经 yay/paru 常规升级
 
 ## 适用场景
 
-- 日常用 yay/paru 装 AUR 包时自动筛查恶意构建脚本
-- 离线或无 API key 环境下依赖静态规则拦截已知攻击签名
-- 构建前发现隐藏在 .install 脚本或 source 条目中的载荷
+- 安装来路不明的 AUR 包前自动审查 PKGBUILD 与安装脚本
+- 系统全量升级时自动扫描每个 AUR 包及其依赖
+- 离线或纯内网环境下仅用静态规则拦截已知攻击签名
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5: A Claude, Codex, or local model reads the `PKGBUILD` for you and blocks the build if it looks hostile.
-> L29: Two stages do the work. Fast, offline **static rules** catch the known campaign signatures at zero cost. Then a **m
+> L16: Reading a PKGBUILD yourself only catches the attacks you already recognise. aurscan reads the package's `PKGBUILD`,
 > L197: 4. **Local or self-hosted model** via `AURSCAN_OPENAI_URL` — any OpenAI-compatible `/chat/completions` endpoint (l
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `016d315ccdd4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `9a7d487912d2` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 166 · Python · 推送 2026-11-26 · [GitHub](https://github.com/Snseam/boss-zhipin-mcp) · 个人维护 · 中文 README
 
-**让 AI 助手自动化操作 BOSS 直聘招聘后台的 MCP Server**
+**给招聘者的 BOSS 直聘自动化 MCP Server，供 Claude 调用**
 
-面向 BOSS 直聘招聘者的 MCP Server：通过 Playwright/CDP 连接已登录的 Chrome，在招聘后台 SPA 页面内执行候选人搜索、简历截图、分享链接提取、打招呼等操作。提供 16 个 MCP 工具，含多关键词批量搜索（自动去重）、本地 JSON 候选人数据库（中断可恢复）、按 YAML 条件筛选评分与 Markdown 报告导出。需配合 Claude Code / Claude Desktop 使用，依赖招聘者账号登录。简历以 Canvas 渲染，需截图后由 AI 看图识别。
+基于 Model Context Protocol（FastMCP）的 BOSS 直聘招聘者端自动化工具，通过 Playwright/CDP 连接已登录的 Chrome，在 SPA 页面内执行搜索、查看、打招呼等操作。提供 14 个 MCP 工具：多关键词批量搜索（12+ 关键词轮询、去重）、Canvas 简历截图与 QR 解码获取分享链接、YAML 条件筛选评分、本地 JSON 数据库持久化与中断恢复、Markdown 报告导出。需用户登录招聘者账号；评估环节建议由 Claude 在对话中完成。
 
 ## 筛选速览
 
@@ -12,24 +12,24 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | — |
-| 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 12+ 关键词批量搜索，跨关键词去重与自动获取 zpurl.cn 分享链接
-- 候选人结果持久化到本地 JSON 数据库，支持中断恢复与状态流转
-- 按 YAML 条件（年龄/薪资/状态）筛选 + 多维度评分，一键导出 Markdown 报告
-- 16 个 MCP 工具，覆盖搜索、查看、打招呼、数据库查询与调试
+- 14 个 MCP 工具覆盖搜索/查看/打招呼/筛选/报告流程
+- 多关键词批量搜索自动去重并自动提取 zpurl.cn 分享链接
+- Canvas 简历截图 + QR 解码绕过防爬，候选数据 JSON 持久化支持中断恢复
+- YAML 配置岗位、关键词与筛选条件，支持随机延迟反检测
 
 ## 适用场景
 
-- 我是招聘者，想批量搜索候选人并自动整理成报告
-- 我想让 Claude 在 BOSS 直聘后台代为查看简历并发起沟通
-- 我想按自定义条件对候选人自动筛选评分并跟踪状态
+- 批量搜索并筛选 BOSS 直聘候选人并导出 Markdown 报告
+- 自动化提取候选人简历分享链接便于团队传阅
+- 对候选人按年龄/薪资/状态等条件打分排序
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L9: **BOSS 直聘 (zhipin.com)** 招聘者端自动化工具，基于 Model Context Protocol (MCP)，让 Claude Code / Claude Desktop 等 AI 助手直接操作 BOSS 直
-> L29: boss-zhipin-mcp (FastMCP Server)
+> L33: 通过 Playwright 连接你已登录的 Chrome 浏览器，在 BOSS 直聘的 SPA 页面内操作搜索、查看、发消息等功能。
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `6f5fc17ed5b2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `d74bfd744834` · [字段定义](../../DATASET.md)*

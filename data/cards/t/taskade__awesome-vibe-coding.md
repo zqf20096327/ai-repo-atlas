@@ -2,9 +2,9 @@
 
 ⭐ 145 · CC-BY-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/taskade/awesome-vibe-coding) · [官网](https://www.taskade.com/create) · 组织维护
 
-**vibe coding 工具与资源策展清单（350+ 条）**
+**Taskade 维护的 vibe coding 工具与资源策展清单（350+ 条）**
 
-由 Taskade 维护的 awesome 清单，收录 350+ 个通过自然语言提示构建软件的工具与资源，覆盖 AI 应用生成器、AI 代码编辑器、CLI 工具、自主编码 agent、网站生成器、MCP、安全检查与学习资源等类别；条目附定价模型、适用人群与一句描述，并要求收录条目具备有效 URL、许可证、文档与近 90 天提交。README 中含较多 Taskade Genesis 产品的架构说明与对比内容。
+由 Taskade 维护的 awesome 清单，收录 350+ 个 vibe coding 工具与资源，按 AI App Builders、AI Code Editors、CLI & Terminal Tools、AI Agents、MCP 服务器等类别组织为表格，每条给出定价模式、适用人群与一句话说明。收录标准要求条目有可用 URL、许可证、文档及 90 天内提交记录。清单内含面向 Taskade Genesis 产品的介绍章节（Workspace DNA 架构与示例应用），并以 CC BY 4.0 发布。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 收录 350+ 工具，按 AI 应用生成器/编辑器/CLI/agent 等类别组织
-- 每条给出定价模型、适用人群与功能描述
-- 收录标准要求有效 URL、许可证、文档与近 90 天提交
-- 包含 AI 应用生成器对比矩阵（代码导出/后端/认证/运行成本）
+- 350+ 工具条目，按场景分类并给出定价模式与适用人群
+- 收录标准：每条需有 URL、许可证、文档与 90 天内提交
+- 包含从入门概念到安全检查清单的学习路径导航
+- 以 CC BY 4.0 许可发布
 
 ## 适用场景
 
-- 按需求场景挑选 AI 编码或应用生成工具
-- 对比各 AI 应用生成器的定价与能力差异
-- 了解 vibe coding 概念与学习资源
+- 想了解 vibe coding 概念并挑选合适的 AI 编程工具
+- 按编辑器/终端/Agent 等使用方式查找对应工具
+- 为无代码或低代码建应用需求对比可选平台
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L5: **350+ tools and resources · Updated 2026-08-27 · CC BY 4.0**
-> L9: **How to use this list.** Each section holds one or more tables. Every entry gives the pricing model, the audience i
-> L157: Tools that generate complete applications from natural language descriptions.
+> L5: **350+ tools and resources · Updated 2026-11-18 · CC BY 4.0**
+> L11: **How to use this list.** Each section holds one or more tables. Every entry gives the pricing model, the audience 
+> L13: **How to contribute.** Add one tool per pull request. Every entry needs a live URL, a license, documentation, and a
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `f5a20e33c154` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `ac29b7665f99` · [字段定义](../../DATASET.md)*

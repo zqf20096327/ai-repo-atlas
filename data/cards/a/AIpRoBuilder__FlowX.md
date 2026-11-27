@@ -1,10 +1,10 @@
 # AIpRoBuilder/FlowX
 
-⭐ 263 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AIpRoBuilder/FlowX) · [官网](https://www.flow-x.work) · 组织维护
+⭐ 263 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AIpRoBuilder/FlowX) · [官网](https://www.flow-x.work) · 组织维护 · 中文 README
 
-**让 coding agent 构建、审计并运行 AI 工作流的 MCP server 与 SDK**
+**让编码 agent 生成、审计并运行 AI 工作流的 MCP 服务器与 SDK**
 
-FlowX 通过 MCP、Python SDK 或 A2A 三种接口让外部 coding agent 构建工作流：每个构建步骤返回包含契约、规则与工件的 packet，由宿主 agent 编写代码；FlowX 负责审计、运行 pytest、发布版本化节点并渲染 FastAPI 后端运行。自身不调用模型、无需模型 API key。节点可输出 prompt/图像/视频卡片，提供媒体处理工具链（Pillow/FFmpeg/可选 Blender）。生成代码与测试不在沙箱中运行，provider 调用可能计费。安装方式为 git clone 后 pip/Poetry/uv 安装。
+FlowX 通过 MCP、Python SDK 或 A2A 三个接口，让外部编码 agent 按合同生成、审计、测试并运行工作流：每个构建步骤返回包含契约与工件槽位的 packet，宿主 agent 编写代码，FlowX 用审计器与 pytest 校验，未通过节点不予发布并返回修复建议。本体不调用模型、无需 API key，可发布版本化节点并渲染 FastAPI 后端。要求 Python 3.10+ 与 MCP 宿主 agent；生成的代码与测试不在沙箱中运行。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ FlowX 通过 MCP、Python SDK 或 A2A 三种接口让外部 coding agent 构建�
 
 ## 能力要点
 
-- 本地 stdio MCP server、Python SDK、非流式 A2A 三种接口
-- 契约驱动的节点级审计与 pytest 测试，未通过节点不予发布
-- 支持整工作流或单节点的演进（evolve），复用未变更节点
-- 生成节点可返回 prompt/图像/视频卡片
+- 每个构建步骤返回合同 packet，由宿主编码 agent 编写工件
+- 审计与 pytest 校验每节点，失败节点返回结构化修复建议
+- 支持整体或单节点演化，复用未变更输入的节点
+- 本地 stdio MCP、Python SDK、非流式 A2A 三种接口
 
 ## 适用场景
 
-- 用自然语言描述意图，让 agent 生成可编辑、可复用的工作流
-- 为生成的智能体工作流渲染 FastAPI 后端并本地运行
-- 修改单个节点时复用其余未变更的节点
+- 把自然语言意图转为可编辑、可复用、可版本化的工作流
+- 让编码 agent 构建并运行多节点图片/视频生成流程
+- 对已生成工作流做单节点修补而无需重建全流程
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ FlowX 通过 MCP、Python SDK 或 A2A 三种接口让外部 coding agent 构建�
 
 > L27: FlowX lets AI agents **build, run, and evolve workflows** through MCP, a Python SDK, or A2A. FlowX does not call a 
 > L37: - **[2026.11.22]** 🧭 **Agent-driven builds; no LLM inside FlowX.** FlowX is now two things: a **workflow builder** 
-> L63: - 🔌 **Choose an interface:** local stdio MCP, Python SDK, or non-streaming A2A (a build is an `input-required` task
+> L133: FlowX needs no model key. Provider and media variables (for example `FLOWX_IMAGE_API_KEY`) are only for the workfl
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e7ca7cdfb343` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `17afbd1a1227` · [字段定义](../../DATASET.md)*

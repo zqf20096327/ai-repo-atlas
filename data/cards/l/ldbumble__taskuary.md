@@ -2,9 +2,9 @@
 
 ⭐ 155 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ldbumble/taskuary) · [官网](https://taskuary.com) · 个人维护 · 中文 README
 
-**本地运行的个人信息AI助手：邮件/工单转任务，AI CLI 代办**
+**把邮件、聊天、工单汇成一个列表，由 agent 处理、用户按键批准后发出**
 
-本地运行的个人工作助理：将邮件、聊天、工单、告警等汇入统一任务轨道并分类（紧急/待办/目标等），可调用用户已有的编码 CLI（Claude Code、Codex、Gemini、Qwen Code、Kimi Code 等）执行任务，产出回复草稿，经用户批准后才发出。含 Hub 共享知识、agent 交接看板、LEARNED.md 偏好记忆与 outcome ledger。凭据在提示词出站前被规则化脱敏；当前 v0.3.9.16，1.0 前可能出现破坏性变更。
+Taskuary 将 Gmail/Outlook 邮件、Slack/Teams/WhatsApp/Telegram 聊天、GitHub 与定时报告汇入同一工作列表，由 agent 逐项研究、起草回复、生成表格或填写表单，所有外发动作需用户按下 Send/Pay/Post 才执行。自带提示注入防护：分诊阶段模型无工具、陌生发件人不自动触发 agent、凭据在送入托管模型前被移除。数据存于本机单文件，可搭配本地模型使用。v0.4.6.4 为早期版本，1.0 前可能存在破坏性变更。
 
 ## 筛选速览
 
@@ -12,34 +12,34 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 部署形态 | `self-host` | docker 或自建部署 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 多渠道入站统一分拣为任务轨道并做分诊
-- 接入 Claude Code / Codex / Gemini 等编码 CLI 执行任务，回复需人工批准
-- LEARNED.md 证据驱动偏好学习，可读改删、可关闭
-- 提示词出站前确定性凭据脱敏（如 [redacted:aws-key]）
+- 邮件/聊天/工单/报告汇入一个排序列表
+- agent 执行实际工作（浏览器操作、填表、生成文件），非仅摘要
+- 每条外发动作等待用户一键批准，批准时再次检查
+- LEARNED.md 记录从用户修改草稿中学到的偏好
 
 ## 适用场景
 
-- 把邮件、聊天、工单集中到一个本地工作台统一处理
-- 让现有编码 CLI agent 处理日常任务并审批其回复草稿
-- 在数据不出本机的前提下运行个人 AI 工作助理
+- 让 agent 起草邮件和帖子回复，确认后一键发出
+- 用手机通过 WhatsApp/Telegram 处理工作列表
+- 整合多个收件渠道，减少逐一查看多个应用
 
 ## 场景标签
 
-`AI 助手` `编码 Agent` · 领域:编码与开发
+`AI 助手` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L16: **A personal AI assistant for your job.** Mail, chats and tickets become tasks, the agents you already use (Claude 
-> L65: **Send to agent** and it works in the same card. Here the analyst prepares the numbers, checks
-> L75: The drafted reply to Ruth waiting on its task, with Approve & send, Mark done, and Regenerate with AI.
+> L13: Taskuary pulls mail, chats, tickets and reports into one list. An agent works each item - researches, drafts the
+> L71: Every email, post, push and payment waits as a card. Edit it, send it, or say no. Nothing leaves until you press.
+> L110: Your data stays in one file on your computer. Only what a task needs goes to the AI you chose; with a local model,
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b78f39af4eaf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e164b5f22815` · [字段定义](../../DATASET.md)*

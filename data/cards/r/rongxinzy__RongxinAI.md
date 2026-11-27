@@ -2,9 +2,9 @@
 
 ⭐ 162 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/rongxinzy/RongxinAI) · [官网](https://www.rongxzyai.com) · 组织维护 · 中文 README
 
-**本地优先的开源桌面 AI 智能体，可从微信/飞书/钉钉派任务**
+**桌面 AI 智能体：内置免费模型+本地 GGUF，可从微信/飞书/钉钉派任务**
 
-Electron 桌面 AI agent（ZhiYuan Agent）：内置免费模型可零 API key 起用（需联网，限额在应用内显示），也可经 llama.cpp 运行时从模型市场安装本地 GGUF 模型并调节上下文/GPU/线程。Agent 可读写文件、执行命令、经 Playwright 连接器操作浏览器，产出 PPT/Word/PDF/Excel；支持从微信、企业微信、钉钉、飞书、QQ、Telegram、Discord 及邮件通道派发任务，并支持 Experts/Skills/MCP 扩展与定时任务。会话与配置本地存储，工具执行有权限模式（默认 Allow all）。提供 Windows/macOS/Linux 安装包，AGPL-3.0 许可。
+基于 Electron 的开源桌面 AI 智能体（AGPL-3.0），用户以自然语言派任务，agent 可读写文件、执行命令、经 Playwright 操作浏览器，生成 PPT/Word/PDF/Excel 输出。内置免费模型（需联网），也可经模型市场下载 GGUF 模型由 llama.cpp 本地运行，可调上下文长度/GPU/线程；通过微信、企业微信、钉钉、飞书、QQ、Telegram、Discour 及邮件通道接收任务。支持 Experts/Skills/MCP 扩展与定时任务，会话与配置本地存储，工具执行有审批模式。提供 Windows/macOS/Linux 安装包，并区分 lite/cpu/cuda 版。
 
 ## 筛选速览
 
@@ -21,15 +21,15 @@ Electron 桌面 AI agent（ZhiYuan Agent）：内置免费模型可零 API key �
 ## 能力要点
 
 - 内置免费模型，无需第三方 API key 即可开始
-- llama.cpp 运行本地 GGUF 模型，可调上下文/GPU/线程
-- 从微信/飞书/钉钉等 IM 及邮件直接派发任务
-- 文件/命令/浏览器（Playwright）工具与 MCP、Skills 扩展
+- 本地 GGUF 模型市场，基于 llama.cpp 运行时，可调上下文/GPU/线程
+- 文件读写、命令执行与 Playwright 浏览器操作三类 agent 能力
+- 微信/企业微信/钉钉/飞书/QQ/Telegram/Discord 及邮件通道接收任务
 
 ## 适用场景
 
-- 在桌面用自然语言让 agent 生成 PPT、Word、Excel 等文档
-- 在微信或飞书里直接给桌面 agent 派任务并跟踪进度
-- 不依赖云端 API，用本地 GGUF 模型运行 agent 任务
+- 让桌面 agent 整理本地文件并生成文档或幻灯片
+- 在微信/飞书里直接给 agent 派任务并跟进进度
+- 在本地跑 GGUF 模型处理任务，减少对云端推理的依赖
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Electron 桌面 AI agent（ZhiYuan Agent）：内置免费模型可零 API key �
 ## 证据(README 行号)
 
 > L5:  The open-source, local-first desktop AI agent — start free with a built-in model, run GGUF models locally, and assi
-> L24: - 🛠️ **Actually does the work** — reads & writes files, runs commands, operates a browser through the Playwright co
+> L31: - 🛠️ **Actually does the work** — reads & writes files, runs commands, operates a browser through the Playwright co
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6aec0b1d495e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b16da6d93505` · [字段定义](../../DATASET.md)*

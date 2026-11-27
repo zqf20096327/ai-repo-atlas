@@ -2,9 +2,9 @@
 
 ⭐ 164 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/call518/MCP-PostgreSQL-Ops) · [官网](https://deepwiki.com/call518/MCP-PostgreSQL-Ops) · 个人维护
 
-**面向 AI 助手的 PostgreSQL 运维监控 MCP 服务器**
+**让 AI 助手通过 MCP 检查 PostgreSQL 运维状态的只读服务器**
 
-MCP-PostgreSQL-Ops 是一个用 Python 实现的 PostgreSQL 运维、监控与管理 MCP 服务器，面向通过 AI 助手以自然语言查询数据库状态的开发者与 DBA。提供 30 余个工具：连接/锁监控、bloat 检测、VACUUM 与 autovacuum 分析、schema 与关系发现、复制与 WAL 状态等，支持 PostgreSQL 12-18 并按版本自动适配。多数工具无需扩展，安装 pg_stat_statements / pg_stat_monitor 后可增强查询分析。操作以只读为主，兼容 RDS/Aurora 普通用户权限。提供 git clone 源码与 docker-compose 快速启动路径（内含测试数据库与 OpenWebUI）。
+一个 MCP 服务器，向 Claude Desktop、OpenWebUI 等 MCP 客户端提供 30+ 个只读 PostgreSQL 监控工具，覆盖慢查询、锁、膨胀、VACUUM/autovacuum、索引、复制、WAL 与容量等，通过自然语言提问转成预定义只读 SQL 并返回诊断证据。支持 PostgreSQL 12–18 并自动检测版本差异视图与列；核心工具无需扩展，pg_stat_statements 等可选。安装方式含 Claude Desktop 扩展（.mcpb）、uvx、Docker Compose（含 OpenWebUI 演示栈）与源码运行。
 
 ## 筛选速览
 
@@ -13,32 +13,34 @@ MCP-PostgreSQL-Ops 是一个用 Python 实现的 PostgreSQL 运维、监控与�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 30+ 只读运维工具：锁监控、bloat 检测、autovacuum 分析、复制/WAL 状态
-- 支持 PostgreSQL 12-18，按版本自动适配（PG16+ pg_stat_io、PG17+ 等待事件目录、PG18+ 异步 I/O）
-- 无需扩展即可使用大部分工具，可选 pg_stat_statements / pg_stat_monitor 增强
-- RDS/Aurora 兼容，普通用户权限即可运行基础监控
+- 30+ 只读工具：锁监控、膨胀检测、autovacuum、WAL、复制与容量统计
+- 自动适配 PostgreSQL 12–18 的版本差异视图与列
+- 仅执行预定义只读 SQL，不做任意 SQL 执行或数据修改
+- 支持 Claude Desktop 扩展、uvx、Docker Compose、源码四种部署方式
 
 ## 适用场景
 
-- 让 Claude 等 MCP 客户端用自然语言排查慢查询、锁与表膨胀
-- 在 RDS/Aurora 等托管 PostgreSQL 上做日常监控
-- 通过 OpenWebUI + Ollama/OpenAI 搭建数据库问答环境
+- 通过自然语言向 AI 助手查询数据库当前连接与阻塞会话
+- 定位需要 VACUUM 的表和索引使用情况
+- 在生产中用最小权限监控账号做只读健康巡检
+- 兼容 RDS/Aurora 等托管数据库的监控
 
 ## 场景标签
 
- · 领域:数据库运维/LLM 工具集成
+ · 领域:数据库/运维工具
 
 ## 证据(README 行号)
 
-> L21: **MCP-PostgreSQL-Ops** is a professional MCP server for PostgreSQL database operations, monitoring, and management.
-> L26: - ✅ **Natural Language**: Ask questions like "Show me slow queries" or "Analyze table bloat."
+> L21: MCP-PostgreSQL-Ops lets Claude, OpenWebUI, and other MCP clients inspect a
+> L31: - **Deployment choice:** install a Claude Desktop extension, run with `uvx`, or
+> L184: - **Multiple clients:** Claude Desktop, OpenWebUI, any Streamable HTTP MCP
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `512287df2c35` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b17f29976300` · [字段定义](../../DATASET.md)*

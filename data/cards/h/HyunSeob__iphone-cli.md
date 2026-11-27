@@ -1,10 +1,10 @@
 # HyunSeob/iphone-cli
 
-⭐ 148 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HyunSeob/iphone-cli) · [官网](https://hyunseob.github.io/iphone-cli/) · 个人维护 · 中文 README
+⭐ 148 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HyunSeob/iphone-cli) · [官网](https://hyunseob.github.io/iphone-cli/) · 个人维护
 
 **让 AI agent 通过无障碍树读取并操作真机 iPhone 的 CLI/MCP 工具**
 
-100% Rust 实现的单文件二进制，通过 USB 或 Wi-Fi 连接真机 iPhone（iOS 27+），读取结构化无障碍树而非截图，并执行点击、滑动、输入、启动应用等操作；内置 QuickJS 引擎支持多步脚本，提供 CLI、MCP 服务器与安全优先的三态结果（done/not_sent/unknown）。面向希望操控 iPhone 的 AI agent 与自动化开发者，无需 Xcode、WebDriverAgent 或 Appium 运行时。限制：仅支持真机（不支持模拟器/Android/Linux 主机），输入依赖 iOS 27 新增的屏幕共享服务，仅在少数设备上验证过。
+用 Rust 编写的单一原生二进制工具（macOS 与 Windows 主机），通过 USB 或 Wi-Fi 连接 Apple 开发者服务，读取真机 iPhone 的无障碍树并执行点击、滑动、输入、启动应用、截屏录屏等操作，要求设备 iOS 27+。提供 CLI、内置 QuickJS 的多步脚本引擎、MCP 服务器（iph mcp），操作结果带 done/not_sent/unknown 安全性契约。无需 Xcode、签名或在手机上安装应用；Linux 主机、模拟器、Android、横屏不在范围内，验证仅限一台 iPhone 15 Pro Max。
 
 ## 筛选速览
 
@@ -15,21 +15,21 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 读取结构化无障碍树而非截图，支持选择器定位元素
-- 内置 QuickJS 引擎，`iph script` 单次调用执行多步流程
-- 提供 CLI 与 MCP 服务器（`iph mcp`），输出 JSON 与三态安全结果
-- 单一原生二进制（macOS/Windows），无 Python/Node.js/Appium 依赖
+- 直接连接 Apple 无障碍与 HID 服务，无需 Xcode、签名或 WebDriverAgent
+- 读取结构化无障碍树而非截图，内置 QuickJS 引擎单次调用执行多步流程
+- 提供 MCP 服务器（iph mcp）与 done/not_sent/unknown 结果契约
+- iph doctor/setup 提供配对、开发者模式、磁盘镜像等自检与修复流程
 
 ## 适用场景
 
-- 让 AI agent 通过 MCP 操控真机 iPhone 上的任意应用
-- 在 CI 或终端中自动化 iOS 应用操作流程
-- 以结构化无障碍树读取屏幕内容供 agent 决策
+- 让 Claude Code 或其他 AI agent 自动操作真机 iPhone 上的应用
+- 在 Windows 主机上通过 USB/Wi-Fi 驱动 iPhone 做自动化测试
+- 批量执行 JSON 步骤或 JavaScript 脚本完成多步 UI 流程
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L3: **Let AI agents read and operate any app on a real iPhone — straight from your terminal.**
 > L9: - **Agent-ready** — CLI + MCP server (`iph mcp`) + safety-first outcomes (`done` / `not_sent` / `unknown`)
-> L131: |`iph mcp [--tools a,b]`|MCP server on stdio|
+> L50: - **Choose `iphone-cli` (`iph`)** when you want Claude Code, Codex, or another AI agent to operate a **real iPhone 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `d9eda985628c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `936e01b944e0` · [字段定义](../../DATASET.md)*

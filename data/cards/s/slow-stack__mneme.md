@@ -2,9 +2,9 @@
 
 ⭐ 261 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/slow-stack/mneme) · [官网](https://www.npmjs.com/package/@modusensus/dsh-mneme) · 组织维护 · 中文 README
 
-**给 AI agent 跨会话记忆：本机文件存储，空闲巩固**
+**给 DeepSeek Harness 上的 AI agent 提供跨会话长期记忆**
 
-DeepSeek Harness 的跨会话长期记忆插件：对话结束时蒸馏事实、偏好与决定写入本机 SQLite 与十份 Markdown 镜像；下次会话四路并行召回、融合排序后注入上下文；空闲时段由 autoDream 合并重复、压缩陈旧、归档过期。冲突记忆冻结并列，由用户裁决；每条记忆带来源与整理回放账目。另提供独立 MCP server、常驻 daemon 与外部 HTTP API。硬性要求 Node 24+ 与 DSH 0.1.x/0.2.x。
+以 DeepSeek Harness 插件形式运行的长期记忆系统：对话结束时自动蒸馏事实、偏好与决定，存入本机 SQLite 正本并配十份可手改的 Markdown 镜像；空闲期由 autoDream 合并重复、压缩陈旧；召回时四路并行检索、按热度/近因/重要度排序注入上下文；冲突记忆冻结待用户裁决。另提供零依赖 MCP stdio server、独立 daemon 与 HTTP API 三种接入方式。安装要求 Node 24+ 与 DSH 0.1.x/0.2.x。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ DeepSeek Harness 的跨会话长期记忆插件：对话结束时蒸馏事实、
 
 ## 能力要点
 
-- 写入→巩固→四路召回→注入的记忆闭环，质量闸保证原子记忆
-- SQLite 正本 + 十份可手改 Markdown 镜像，手改内容合并时优先保留
-- autoDream 空闲巩固：合并、压缩、归档，整理过程可复现回放
-- 独立 MCP server（mneme-memory）供 Claude Code/Cursor/Codex 等客户端挂载六个记忆工具
+- 本机 SQLite + 十份 Markdown 镜像，无私有格式锁定，无遥测
+- autoDream 空闲巩固：合并重复、压缩陈旧、归档过期
+- 四路并行召回，按热度/近因/重要度排序注入上下文
+- MCP server 可挂 Claude Code / Cursor / Codex / OpenCode 等客户端
 
 ## 适用场景
 
-- 让编码 agent 记住项目背景与既定决定，跨会话继续工作
-- 按 agent/工作区隔离记忆并完全离线运行语义检索
-- 手工编辑 Markdown 文件接管并审计 AI 的长期记忆
+- 让 agent 记住我的项目背景、偏好与既定决定，下次对话不用重讲
+- 在本地离线环境保存和检索记忆，不走云服务
+- 手工编辑 Markdown 镜像来修正或管理记忆内容
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e31105fe8f13` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `24772bc9d3db` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 187 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sweetcornna/free-search-mcp) · [官网](https://github.com/ymylive/free-search-mcp) · 个人维护
 
-**无需 API key 的本地 MCP 服务器，为 LLM 提供网页搜索与文档读取**
+**给 MCP 客户端提供免 API key 的本地网页搜索与文档读取服务**
 
-以 Model Context Protocol 服务器形式运行，为任意 LLM 客户端提供 11 个工具：多引擎并行搜索（RRF 合并、去重）、一次性 research()、PDF/DOCX/XLSX 等文档解析、URL 抓取与结构化元数据抽取、FTS5 缓存检索与下载。默认使用 duckduckgo、bing、yahoojp 等 keyless 引擎池，遇到 CAPTCHA 或登录墙时自动换用备用引擎；可选安装 Chromium 以渲染 JavaScript 页面。通过 Claude Code/Codex 插件、MCP Registry、uvx 命令或 Docker 分发。
+单二进制 Rust 实现的 Model Context Protocol 服务器，无需 API key 或注册即可运行。对外暴露 search、exec、ask 三个工具，聚合 500+ 网络、学术与专业数据源，支持多引擎网页搜索（DuckDuckGo、Mojeek 等）、学术子系统（引用图谱、撤稿检查、OA 全文）、本地文档解析（PDF/DOCX 等）、FTS5 缓存与沙箱化 JavaScript 执行。默认路径不依赖 LLM；可选配置 answer agent 后端。面向使用 Claude Code、Codex、Antigravity 等 MCP 客户端的用户。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 11 个 MCP 工具：搜索、research、引文图谱、批量抓取、文档解析、FTS5 缓存检索
-- 默认 keyless 引擎池，CAPTCHA/登录墙自动切换备用引擎
-- 支持 freshness、include/exclude_domains、category 等过滤器，输出 Markdown 含来源与 token 估计
-- 可选登录 codex/antigravity 账号作为附加搜索引擎
+- 仅暴露 3 个工具，聚合 500+ 网络/学术/专业数据源
+- 默认引擎均无需 API key 与账号，冷启动 ≤15 ms
+- 沙箱 QuickJS-NG 中批量抓取并读取 PDF/DOCX/XLSX/PPTX/EPUB
+- Retraction Watch 本地索引与 offline hayagriva 引用生成
 
 ## 适用场景
 
-- 让 Claude Code 或 Codex 具备网页搜索与页面抓取能力
-- 阅读本地或在线 PDF/DOCX 等文档并分页解析
-- 按类别检索论文、CVE、数据集等专业来源
-- 无需注册搜索 API 即可搭建 LLM 联网检索
+- 让 Claude Code 等 MCP 客户端直接进行联网搜索与网页阅读
+- 在一次 exec 调用中完成论文检索、引用图谱与撤稿核查
+- 无 API key 环境下为 agent 提供本地优先的搜索工具
+- 通过 CLI 或 HTTP 端点做快速带来源的查询
 
 ## 场景标签
 
-`文档解析` `网页抓取` · 领域:效率与自动化
+`文档解析` `科研工具` `网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L11: free-search-mcp is a local-first Model Context Protocol server that needs no
-> L12: API key. It lets any LLM (Claude, GPT, a local Ollama model, …) search the web,
-> L55: `free-search:quick-search` agent, all pinned to one version.
+> L11: `free-search-mcp` 1.0 is a single-binary, local-first Rust Model Context
+> L37: Claude Code, Codex, and Antigravity (`agy`) are equal first-class targets. All
+> L85: |`ask(question, freshness?, lang?, domains?, mode?, max_tokens?)`|Quick one-call lookup with no code (`mode`: `"aut
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `ed6a7fc26229` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `250934f582bd` · [字段定义](../../DATASET.md)*

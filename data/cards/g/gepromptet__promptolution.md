@@ -4,7 +4,7 @@
 
 **面向研究者的模块化提示词优化框架**
 
-面向研究者与高级实践者的提示词优化框架，聚焦优化阶段本身而非端到端应用：内置 CAPO、EvoPromptDE、EvoPromptGA、OPRO 等优化器，提供统一 LLM 后端（API 模型、本地 LLM、vLLM 集群）、响应缓存与并行推理、token 用量跟踪。既可用一行 optimize 调用完成分类任务优化，也可手动组装 Task/Predictor/LLM/Optimizer 组件，并支持基于 Hydra 的配置驱动实验（本地或 SLURM）。由 LMU Munich、MCML、ELLIS、TUM、Uni Freiburg 团队开发，相关论文发表于 EACL 2026。
+promptolution 是一个专注于提示词优化阶段的模块化框架，面向需要完全控制实验设置的研究者与高级实践者。它内置多种现有提示词优化器（CAPO、EvoPrompt、OPRO 等），提供统一的 LLM 后端接口（API 模型、本地模型、vLLM 集群），支持响应缓存、并行推理与 token 用量追踪。提供从一行调用到组件级手动构建的三种使用方式，并通过 Hydra 配置驱动支持可复现的基准实验，可在本地或 SLURM 上运行。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 内置 CAPO/EvoPromptDE/EvoPromptGA/OPRO 等提示词优化器
-- 统一 LLM 后端支持 API 模型、本地 LLM 与 vLLM 集群
-- 响应缓存与并行推理、token 用量跟踪与详细日志
-- Hydra 配置驱动实验与网格运行（本地/SLURM），支持结果文件与重启
+- 内置多种提示词优化器（CAPO/EvoPromptDE/EvoPromptGA/OPRO）
+- 统一 LLM 后端支持 API 模型、本地模型与 vLLM 集群
+- 响应缓存与并行推理，含日志与 token 用量追踪
+- Hydra 配置驱动的实验网格与可复现基准实验（支持 SLURM）
 
 ## 适用场景
 
-- 在自己的分类任务上自动优化提示词
-- 复现或对比多种提示词优化算法
+- 为分类任务自动优化提示词并在留出数据上评分
 - 开展大规模可复现的提示词优化基准实验
+- 在本地 GPU 或 vLLM 集群上运行优化流程
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L19: **Promptolution** is a unified, modular framework for prompt optimization built for researchers and advanced practi
-> L25: - Implementation of many current prompt optimizers out of the box.
+> L26: - Unified LLM backend supporting API-based models, Local LLMs, and vLLM clusters.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `d657a3adccf1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0844ee9f4037` · [字段定义](../../DATASET.md)*

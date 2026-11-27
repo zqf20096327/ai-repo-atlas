@@ -2,9 +2,9 @@
 
 ⭐ 141 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/fedibenameur11/ai-manus) · 个人维护
 
-**通用自主 AI Agent：代用户执行代码与浏览器操作**
+**通用自主 AI Agent：代用户执行代码与浏览器操作完成任务**
 
-描述为一个通用自主 AI Agent 系统：可自主运行代码、控制浏览器（导航网页、填写表单、采集信息），将多步指令拆解执行，定位为面向个人日常任务的个人助理，覆盖学习、居家项目与轻量办公场景。README 以功能介绍、兼容性最低配置（64 位系统、双核 CPU、4 GB RAM）和使用步骤为主；未给出具体安装命令、下载链接或技术架构说明，仅出现 Download 字样与推广码。
+面向个人与轻量工作场景的自主 AI Agent 系统：以执行代码和控制浏览器为核心机制，将用户的自然语言指令分解为多步骤动作——写脚本并运行、打开网页、操作页面元素、跨多页收集信息、填写表单等。定位为家庭、学习与轻办公的助手，可在会话间保持任务模式的一致性；README 未给出具体安装命令，仅提到下载入口与最低配置要求。
 
 ## 筛选速览
 
@@ -20,26 +20,24 @@
 
 ## 能力要点
 
-- 自主代码执行：代理可自行运行脚本完成任务
-- 浏览器控制：导航网页、填表、采集信息
-- 跨会话记忆：记住既有工作流程并复用
-- 多模态 Agent 系统，支持沙箱环境运行工具
+- 自主代码执行：运行脚本完成多步骤任务
+- 浏览器控制：导航网页、填写表单、采集信息
+- 会话间保持任务模式，无需重复解释工作流
 
 ## 适用场景
 
-- 帮我自动收集多个网页的资料并整理笔记
-- 让代理代我填写重复性表单
-- 安排学习和居家项目中的琐碎任务
-- 快速跑小脚本实验而不搭完整环境
+- 整理研究资料并运行小脚本计算
+- 从多个网页收集数据并汇总成小报告
+- 把重复性的网页检查、文件整理交给 Agent 处理
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` `编码 Agent` · 领域:效率与自动化
+`聊天机器人` `浏览器自动化` `编码 Agent` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L10: - **Autonomous Code Execution:** Manus AI agent runs code on its own to complete tasks, so you can focus on decisio
 > L18: Manus is an autonomous AI agent designed to run code and control a browser on your behalf. Instead of acting like a
-> L41: |**Memory (RAM)**|4 GB|8 GB or more for heavy Manus autonomous tasks|
 
 ## 星数曲线
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 low · 依据 README sha `a860df1fb938` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b891e4f171c5` · [字段定义](../../DATASET.md)*

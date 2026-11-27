@@ -1,10 +1,10 @@
 # orbi-build/orbi
 
-⭐ 261 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/orbi-build/orbi) · [官网](https://orbi.build) · 组织维护 · 中文 README
+⭐ 261 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/orbi-build/orbi) · [官网](https://orbi.build) · 组织维护
 
-**给 GitHub 团队的自动化交付工厂：打标签即得评审合并的 PR**
+**自托管自动化软件工厂：标记 GitHub Issue 即得已评审合并的 PR**
 
-Orbi 是一个自托管的自动化软件开发交付系统：在 GitHub Issue 上标注 ai-ready 后，它在隔离 worktree 中规划、实现并测试代码，开启 PR，经独立评审会话修复发现项后通过合并门禁合并；请求发布时运行发布门禁并产出 tag 与 release notes。以 GitHub Issues 作为唯一状态存储，无数据库、队列或守护进程，由 systemd/launchd 定时器每 5 分钟触发一次运行；失败标记 ai-blocked 交由人工决策。通过 uv/pip 安装，依赖 GitHub CLI 与 Pi 运行时。
+面向 GitHub 的自动化软件交付系统：在 Issue 中定义目标与验收标准并打上 `ai-ready` 标签后，系统在隔离 worktree 中实现代码、运行测试、开启 PR，并经独立评审会话修复问题后合并；请求发布时执行发布门禁并生成 tag 与 release notes。GitHub Issues 是唯一状态存储，无数据库、队列或守护进程；由 systemd/launchd 定时器每 5 分钟触发运行，失败时将 Issue 标记为 `ai-blocked` 交由人工决策。底层开发由 Pi agent 完成，提供 CLI 与 doctor 诊断。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Orbi 是一个自托管的自动化软件开发交付系统：在 GitHub Issue �
 
 ## 能力要点
 
-- Issue 打 ai-ready 标签即自动走完实现、测试、评审、合并流程
-- 独立评审会话与合并门禁，AI 不直接合并或推送受保护分支
-- GitHub Issues 为唯一状态存储，无数据库/队列/守护进程
-- Linux systemd / macOS launchd 定时器每 5 分钟自动触发，带 doctor 诊断命令
+- Issue 打标签后自动完成实现、测试、PR、独立评审与合并全流程
+- 独立评审会话与合并门禁：评审通过且最新基址 CI 绿灯才合并
+- GitHub Issues 作为唯一状态存储，无数据库与守护进程
+- 每次运行关联同一 run_id，全链路日志可一条 grep 重建时间线
 
 ## 适用场景
 
-- 把打标签的 Issue 交由系统自动实现并开 PR
-- 需要代码经独立评审通过后才允许合并的流程管控
-- 自托管环境下按定时调度自动消化任务队列
+- 把打标签的 bug/功能 Issue 交给后台自动产出 PR 与发布
+- 要求 AI 生成代码必须经过独立评审才能进入主干
+- 自托管环境下以 GitHub 为唯一任务池管理后台 agent 工作
 
 ## 场景标签
 
-`编码 Agent` `代码审查` · 领域:编码与开发
+`编码 Agent` `代码审查` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L13: Orbi is an open-source **software dark factory**: a software delivery system for GitHub. You define the goal and ac
-> L72:   → Pi development: plan → implement → test → verify
+> L15: Orbi is an open-source **software dark factory**: a software delivery system for GitHub. You define the goal and ac
+> L80: - **Independent review + merge gates**: after a PR opens, an independent review session reviews it and fixes findin
+> L89:   → Pi development: plan → implement → test → verify
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ca114ea39680` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ad0786d6660e` · [字段定义](../../DATASET.md)*

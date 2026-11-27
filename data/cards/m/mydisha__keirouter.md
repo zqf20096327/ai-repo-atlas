@@ -2,9 +2,9 @@
 
 ⭐ 167 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mydisha/keirouter) · [官网](https://keirouter.app) · 个人维护
 
-**面向 AI 编码工具的自托管 AI 网关：统一接入、路由与成本管控**
+**自托管 AI 网关：为编码工具统一接入多模型并控制成本**
 
-用 Go 编写的自托管 AI 网关，供使用 Claude Code、Codex、Cursor 等编码工具的开发者将各类工具指向一个本地端点。功能包括多协议翻译（OpenAI Chat/Responses、Anthropic Messages、原生 Gemini）、带优先级/轮询/延迟/成本排序的故障转移链、响应缓存、提示压缩等五类 token 节省、按 key 的预算与限流、安全护栏（PII/注入/毒性检测）、审计日志与 Prometheus 指标。原生支持 AWS Bedrock、Azure、watsonx 等企业云。提供 Homebrew、Shell/PowerShell 脚本、Docker Compose 安装及预编译单二进制，自带 Web 仪表盘。README 标注项目处于活跃开发中。
+用 Go 编写的自托管 AI 网关，将 Claude Code、Codex、Cursor、Cline 等编码工具的请求汇聚到单一本地端点，在 OpenAI、Anthropic、Gemini 等协议间转换，并按优先级、轮询、延迟或成本排序执行 fallback 链。内置响应缓存、五项 token 节省器、按 key 的预算与限流引擎、PII/注入/毒性等分层护栏、哈希链审计日志与 Prometheus 指标。以单二进制加静态 dashboard 分发，HA 部署依赖 Postgres 与 Redis。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 单端点翻译 OpenAI/Anthropic/Gemini 协议并按策略路由与故障转移
-- 五类 token 节省、按 key 预算硬上限与 RPM/TPM/并发限流
-- 护栏（PII/注入/毒性等）与哈希链审计日志、OpenTelemetry 导出
-- 原生接入 AWS Bedrock、SageMaker、Azure AI Foundry 等企业云并处理其认证
+- 单端点多协议转换（OpenAI Chat/Responses、Anthropic Messages、原生 Gemini）
+- fallback 链按优先级/轮询/延迟/成本排序，附 24h/7d 提供商健康历史
+- 预算引擎按 key 设置 USD 与 token 硬限并自动切断
+- 支持 AWS Bedrock、Azure AI Foundry、IBM watsonx.ai 等企业云原生接入
 
 ## 适用场景
 
-- 把多个 AI 编码工具的 API key 收敛到一个本地网关统一管理
-- 上游服务商限流或宕机时自动故障转移，保持编码不中断
-- 按 key 设预算与限流，控制团队 token 支出
-- 在 VPS 上自部署网关并接入企业云模型
+- 为多个 AI 编码工具统一管理 API key 并自动故障转移
+- 按 key 设置预算和限流以控制团队 token 支出
+- 部署带 PII 与 prompt 注入检测的合规网关
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`模型网关` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L5:  Your friendly, blazing-fast, self-hostable AI gateway.
+> L16: You use AI coding tools — Claude Code, Codex, Cursor, Cline, or honestly anything that talks to OpenAI, Anthropic o
 > L18: **KeiRouter is the smart middleman that makes all of that someone else's problem.** Point your tools at one local e
-> L38: - 🔀 **One endpoint, every provider** — Your apps speak OpenAI Chat, the OpenAI Responses API, Anthropic Messages, o
-> L40: - 🏢 **Enterprise clouds, natively** — AWS Bedrock, SageMaker, Azure AI Foundry, IBM watsonx.ai, Oracle Cloud, SAP G
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `3cb9ad54802d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `5474e38bace1` · [字段定义](../../DATASET.md)*

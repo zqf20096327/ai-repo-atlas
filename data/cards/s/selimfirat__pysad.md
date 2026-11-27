@@ -1,10 +1,10 @@
 # selimfirat/pysad
 
-⭐ 322 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护 · 中文 README
+⭐ 322 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
 
-**Python 流式异常检测库：逐点评分 50+ 在线检测器**
+**面向 Python 开发者的流式异常检测库：50+ 在线检测器逐点评分**
 
-面向数据流场景的 Python 异常检测库，提供 LODA、RRCF、Half-Space Trees、xStream、DAMP、SAND 等 50+ 多元/单变量在线检测器，每个数据点到达时即时学习与评分。核心机制包括共形校准将任意分数归一化到 [0,1] 并触发告警、10 种漂移监测器、prequential 评测（先评分后学习），以及用 |、& 组合预处理/检测/校准的流水线。提供 MCP server、实时终端仪表盘和可选 Rust 加速内核。限制：非本产品需要的系统级依赖为无 JVM，但可选 CapyMOA 集成需 Java（该库本身不依赖）。
+PySAD 是 Python 流式（在线）异常检测库，覆盖多元与单元数据流，每到达一个点即通过 fit_partial/score_partial 评分并学习，无需完整数据集。内置 50+ 来自已发表研究的检测器（LODA、RRCF、Half-Space Trees、xStream、DAMP、SAND、MIDAS 等）、10 个漂移监测器、conformal/极值/Gaussian 尾部三种分数校准器与阈值过滤器、逐点更新的 prequential 评估工具，以及用 `|`、`&` 组合的管道语法和 LODA 特征归因解释。提供 PyPI/conda 安装、可选 Rust 内核扩展、MCP 服务器与终端实时仪表盘，纯 NumPy/SciPy 实现、核心无需 JVM。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 50+ 在线多元/单变量检测器（LODA/RRCF/xStream/DAMP/SAND 等）
-- 共形/极值/高斯尾校准器将原始分数归一化并触发二值告警
-- prequential 评测与 17 个 ODDS、58 个 NAB 序列的基准复现
-- 通过 MCP 协议暴露检测器、漂移计与解释功能
+- 50+ 在线检测器与 10 个漂移监测器，逐点 fit/score 接口
+- conformal、SPOT、Gaussian 尾部三种分数校准，输出 [0,1] 概率与二值告警
+- 管道组合（`|`/`&`）与 LODA.explain_partial() 特征归因
+- 可与 PyOD、River、scikit-learn、CapyMoa 集成，并提供 MCP 服务器
 
 ## 适用场景
 
-- 对传感器或指标数据流逐点做异常评分并输出校准告警
-- 检测网络流量、日志中的入侵或异常事件
-- 处理带概念漂移的数据流并自动重置检测器
-- 在欺诈检测中回放信用卡交易流并计算流式 AUROC
+- 对传感器/日志数据流逐点做异常检测与告警
+- 信用卡欺诈、入侵检测等带概念漂移的在线监测场景
+- 在不加载全量数据的情况下对 ODDS/NAB 等数据集做 prequential 评估
+- 通过 MCP 客户端调用检测器与解释工具
 
 ## 场景标签
 
- · 领域:机器学习/流式异常检测
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L7:  Streaming anomaly detection in Python for multivariate and univariate data streams.
 > L8:  PySAD scores and learns from each point as it arrives, with calibrated alerts, drift handling, and prequential eval
-> L104: - `pysad.mcp` exposes detectors, drift meters, and explanations through the Model Context Protocol (MCP). Install 
+> L50: Every detector learns from and scores one point at a time with `fit_partial`, `score_partial` and `fit_score_partia
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `77f5231ca6c2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a669c89a5fd8` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 266 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/l33tdawg/sage) · [官网](https://orcid.org/0009-0001-7248-2411) · 个人维护
 
-**为 AI 代理提供可审计、可治理的记忆与消息层**
+**为 AI agent 提供带签名、审计与准入控制的记忆层**
 
-SAGE 是一个面向 AI 代理的受治理记忆与消息层：每条记忆由代理签名、经可审查的准入流程（个人模式单验证器，多验证器需 BFT 法定人数）、按权限域划分作用域，并保留可检视的审计轨迹。代理通过 MCP、Python SDK 或签名 REST API 接入，本地节点默认存储记忆，CEREBRUM 仪表盘提供注册、权限、召回调优与联邦管理。提供 macOS/Windows/Linux 桌面包、Docker 镜像与源码构建（Go）。
+SAGE 是面向 AI agent 的受治理记忆与消息层：每条记忆由 agent 签名、经可审查的准入流程、按权限范围存取，并保留可查验的审计轨迹。个人安装运行单个验证器投签名票，多验证器部署需 BFT 法定人数提交记忆。通过 MCP、Python SDK 或签名 REST API 接入 Claude Code、Codex、Cursor 等 MCP 客户端；本地 CEREBRUM 仪表盘提供 3D 记忆可视化、准入审核、权限与联邦管理。桌面安装包覆盖 macOS/Windows/Linux，亦可 Docker 或从 Go 源码构建。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@ SAGE 是一个面向 AI 代理的受治理记忆与消息层：每条记忆由�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 代理签名的记忆写入，附审计轨迹与置信度/衰减/弃用等生命周期控制
-- 个人单验证器或多验证器 BFT 法定人数的共识准入
-- CEREBRUM 本地仪表盘：3D 记忆脑图、链健康、联邦与权限管理
-- 支持 MCP、Python SDK 与签名 REST API 三种接入方式
+- agent 签名写入 + 验证器准入生命周期，含审计轨迹与记忆衰减/弃用控制
+- MCP、Python SDK、签名 REST API 三种接入方式
+- CEREBRUM 本地仪表盘：3D MRI 记忆脑、链健康、联邦与召回调优
+- 个人单验证器模式与 BFT 多验证器网络两种部署拓扑
 
 ## 适用场景
 
-- 让代理在跨会话时保留可追溯的设计决策与经验教训
-- 团队需要对代理记忆做权限划分与准入审查
-- 多代理协作场景下管理任务分配与运行时交接
+- 让 agent 跨会话记住设计决策与失败教训
+- 团队需要审计 agent 写入的记忆与访问权限
+- 多台 agent 节点间按策略做受控记忆联邦
 
 ## 场景标签
 
-`Agent 记忆` `多智能体` · 领域:Agent 开发
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: SAGE is a governed memory and messaging layer for AI agents. Every memory is
 > L15: Works with Claude Code, Codex, Cursor and other MCP-capable clients. Developers
-> L161: |MCP|Giving an existing AI client memory and coordination tools|Connection guide · MCP reference|
+> L206: **Agents are not validators.** Personal mode runs one real CometBFT validator
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `9d3867f805bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `31e02693ee5b` · [字段定义](../../DATASET.md)*

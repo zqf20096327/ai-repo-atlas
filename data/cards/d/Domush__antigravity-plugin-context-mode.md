@@ -2,9 +2,9 @@
 
 ⭐ 149 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Domush/antigravity-plugin-context-mode) · [官网](https://domush.github.io/antigravity-plugin-context-mode/) · 个人维护
 
-**Google Antigravity 的本地上下文压缩插件：拦截大输出省 token**
+**为 Antigravity 编码代理拦截大文件输出、节省上下文 token 的本地插件**
 
-面向 Google Antigravity App 的本地优先插件，用于管理 AI 编码代理的上下文窗口：在终端命令、构建日志与大文件读入对话前拦截，通过沙箱脚本提取答案、本地 SQLite FTS5 索引（BM25/三元组）分页检索，README 实测记录 92%-99% 的 token 节省。提供 8 个 MCP 工具（ctx_execute/ctx_search 等）与应用内侧边仪表盘；零运行时依赖、无网络调用，数据存于 ~/.context-mode/context.db。经 npx 安装，MIT 许可。
+面向 Google Antigravity App 的本地优先插件：通过钩子拦截代理的文件读取与终端命令输出，对超过阈值的日志、源码做分块与索引，代理需检索时经本地 SQLite FTS5（BM25+trigram）返回带行号和作用域的片段，避免多兆字节内容灌入对话历史。提供 7 个 MCP 工具（执行、搜索、批量命令、统计等）、内置仪表盘显示节省指标。零运行时依赖，数据全部留在本地数据库，无网络调用。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 拦截大文件与命令输出，实测节省 92%-99% token
-- 本地 SQLite FTS5 索引（BM25 + 三元组搜索），零网络调用
-- 提供 8 个 MCP 工具（ctx_execute/ctx_search/ctx_index 等）
-- 零运行时依赖，纯原生 Node.js（node:sqlite），无 node-gyp 构建
+- 工具读取钩子拦截，动态行数缩放与文件豁免控制
+- AST/语法感知分块，覆盖 15+ 语言且保持类与方法完整
+- 本地 SQLite FTS5 索引，BM25 + trigram RRF 检索
+- 内置仪表盘实时显示 token 节省统计
 
 ## 适用场景
 
-- Antigravity 中长会话避免构建日志与日志文件塞满上下文
-- 本地索引日志与文档供代理检索而不整段读入
-- 查看 token 节省统计并调整文件读取截断阈值
+- 编码代理读取大型构建日志时避免上下文膨胀
+- 大型源码文件按需检索而非整文件读入对话
+- 在 Antigravity 中延长可用上下文、减少配额消耗
 
 ## 场景标签
 
- · 领域:AI 编码代理工具/上下文管理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L11: **Antigravity Context Mode** is a free, local-first plugin built specifically for the **Google Antigravity App**. I
-> L74: Once installed, Context Mode provides 8 specialized tools for your agent:
+> L94: Once installed, Context Mode provides 7 specialized tools for your agent:
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `dd7e903ef0ab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2c4fc21207ba` · [字段定义](../../DATASET.md)*

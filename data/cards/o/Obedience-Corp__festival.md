@@ -2,9 +2,9 @@
 
 ⭐ 168 · Shell · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Obedience-Corp/festival) · [官网](https://fest.build) · 组织维护 · 中文 README
 
-**面向 AI 编码 agent 的工作流编排框架，用文件系统与 Git 组织意图与任务循环**
+**为 AI 编码代理提供计划、上下文与监督的工程化 CLI 框架**
 
-Festival 是一套 vibe engineering 框架，由 camp、fest、festival 三个 CLI 工具组成。camp 管理 camp 工作区（项目、技能、规划文档、工作队列），fest 以"festival"（目标导向的工作图，含阶段/序列/任务）组织计划，agent 通过 fest next 循环推进并记录到文件与 Git。支持 Claude Code、Codex、Grok Build、Cursor、OpenCode 等能读文件和执行命令的编码 agent。提供 Homebrew、npm、Scoop 安装；Windows 版本部分同步功能不可用，需 Git 与 shell 集成。
+Festival 是一套 CLI 工具套件，由三部分组成：Fest 负责长期目标拆解为阶段与任务并经审批门推进，Camp 管理跨会话共享的工作区上下文（项目、决策、研究记录），Obey 以本地守护进程启动并监督代理会话。计划、决策与进度以文件和 Git 记录保存，可在新会话中恢复。用户保留现有编码代理，通过 fest next 循环执行工作并审查证据。需 Git；Windows 平台部分同步功能在本版本不可用。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Festival 是一套 vibe engineering 框架，由 camp、fest、festival 三个 C
 
 ## 能力要点
 
-- camp/fest/festival 三工具体系：工作区、目标计划、安装管理
-- fest next 循环驱动 agent 按用户设定的工作流推进任务
-- 计划、检查、提交保存在文件与 Git 中，会话结束后可续接
-- fest gif 可将进度记录生成为可分享的 GIF 回放
+- Fest 将目标拆为阶段与任务，经审查与审批门追踪执行
+- Camp 以工作区形式跨会话保存计划、决策与知识
+- Obey 本地守护进程启动并监督支持的代理提供方
+- fest watch 进度视图与 fest gif 生成可分享的执行回放
 
 ## 适用场景
 
-- 让编码 agent 按我设定的流程完成跨仓库的功能开发
-- 组织多项目工作区并在多个 camp 间切换上下文
-- 追踪和审阅 agent 大规模工作时的计划、进度与验证证据
+- 让编码代理按计划循环执行功能开发并保留审查证据
+- 跨多个会话延续同一目标的工作进度与上下文
+- 定期让代理审查依赖变更并提交待批准的更新
 
 ## 场景标签
 
-`工作流自动化` `Agent 框架` · 领域:Agent 开发
+`编码 Agent` `Agent 框架` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L9: It uses the filesystem and Git. You configure it to your workflows and processes. When agents plan and execute, the 
-> L185: A festival is a **graph of work**, organized into phases, sequences, and tasks. Each task has context and completi
+> L17: Festival gives you the tools to build that process through **templates and
+> L121: commands, including Claude Code, Codex, Grok Build, Cursor, or OpenCode. Add Obey
+> L105:     accDescr: Fest supplies plans and tracks progress. Camp shares saved context across sessions. Obey launches an
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `2f644fb5a9c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c678de8b2a36` · [字段定义](../../DATASET.md)*

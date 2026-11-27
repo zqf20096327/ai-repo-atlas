@@ -2,9 +2,9 @@
 
 ⭐ 187 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Azure/agent-app-ingestion) · [官网](https://aka.ms/agentlz) · 组织维护
 
-**Agent Landing Zone 的数据摄取服务：把文档转为 agent 检索知识**
+**为 Agent Landing Zone 生成 RAG 知识的文档摄取服务**
 
-Python 3.12 编写的摄取服务，面向 Agent Landing Zone 平台：读取 PDF、图片、电子表格、转录与 SharePoint 内容，进行分块、生成嵌入并写入 Azure AI Search，同时运行 Blob、SharePoint、NL2SQL 与维护任务，暴露摄取 API 与运维面板。服务本身不执行对话 agent，也不存储完整聊天历史。本地运行需先具备 Agent Landing Zone 基础设施与 App Configuration 存储，仓库的 Bicep 文件不能独立部署环境；启动任务默认开启，可能写入或删除数据。
+Python 3.12 编写的摄取服务，属于 Agent Landing Zone 体系：对文档分块、生成多模态嵌入、写入 Azure AI Search，并运行 Blob、SharePoint、NL2SQL 与维护任务。同时提供摄取 API、运维仪表盘以及单独鉴权的托管检索 API。定位是处理文档而非会话型 agent；面向需要为 agent 构建接地知识库的企业/开发团队，文档集中在 Azure/AI-Landing-Zones 仓库发布。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Python 3.12 编写的摄取服务，面向 Agent Landing Zone 平台：读取 PD
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,26 @@ Python 3.12 编写的摄取服务，面向 Agent Landing Zone 平台：读取 PD
 
 ## 能力要点
 
-- 多源摄取：Blob、SharePoint、电子表格、转录与 NL2SQL 任务
-- 分块、生成嵌入并写入 Azure AI Search 供 agent 检索
-- 提供摄取 API、运维面板与单独门控的托管检索 API
-- GET /healthz 与 /readyz 为进程探针，不代表索引完成
+- 文档分块 + 多模态嵌入 + 写入 Azure AI Search
+- 支持 Blob、SharePoint、NL2SQL 与维护任务
+- 提供摄取 API 与运维仪表盘
+- 检索 API 为单独鉴权的托管服务
 
 ## 适用场景
 
-- 为企业 agent 平台批量把文档转为可检索的 grounding 知识
-- 从 SharePoint 与 Blob 持续摄取内容并维护 Azure AI Search 索引
-- 运维人员通过面板与调度任务监控摄取流程
+- 为 agent 摄取 PDF/图片/表格/转写稿等文档形成知识库
+- 接入 SharePoint 内容做组织级 RAG 数据源
+- 运维团队通过仪表盘管理摄取任务与恢复
 
 ## 场景标签
 
-`RAG` · 领域:知识与检索
+`RAG` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L4: Agent Landing Zone. It chunks
-> L6: Blob, SharePoint, NL2SQL, and maintenance jobs. It also exposes ingestion APIs,
-> L31: through Agent Landing Zone first. This repository's Bicep file does not
+> L3: The Python 3.12 ingestion service for
+> L5: documents, generates embeddings, writes Azure AI Search content, and runs
+> L8: It processes documents, not conversational agents.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `18575a34fdff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a7c7fa84faf2` · [字段定义](../../DATASET.md)*

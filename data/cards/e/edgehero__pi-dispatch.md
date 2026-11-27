@@ -2,9 +2,9 @@
 
 ⭐ 198 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/edgehero/pi-dispatch) · 组织维护
 
-**让开发者把单个 AI 编码代理扩展为后台批量运行的调度器**
+**自托管编排多 coding agent 后台运行的工具**
 
-以后台方式运行 pi 编码代理的自托管调度系统：每个任务在一次性密封的 Docker/Podman 容器中执行，花费上限在任务开始前校验，控制台网页实时汇总所有任务状态。支持 in the loop/near the loop/out of the loop 三级参与度，触发方式含定时、issue 标签、评论与告警；GitHub/GitLab 上的变更默认停在 proposed change 等人决定，也可按任务类型显式允许落地。需自备 AI 提供商密钥或订阅，Windows 上安装路径与 Mac/Linux 不同。
+pi-dispatch 在自有电脑或服务器上后台运行 pi coding agent：每个任务在用后即弃的 Docker/Podman 容器中执行，任务启动前检查花费限额，所有任务在一个 Web 控制台（localhost:4790）上实时展示。按工作类型提供三档参与度：在环（旁观并介入）、近环（agent 提问时暂停等待）、离环（定时/issue 标签/评论触发，第二个 agent 复审）。GitHub/GitLab 项目默认停在提议变更处，由人决定是否合并。需 Docker 与 Node.js 22.19+，通过 npm 安装，AI 费用由用户自己的 provider key 或订阅承担。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 任务在一次性密封容器中运行，结束后丢弃
-- 花费上限在任务执行前校验，超限拒绝
-- 第二代理可评审第一代理的变更提案
-- Zero touch 指标按项目统计需要人工介入的比率（7/30/90 天）
+- 每个任务在密封的一次性 Docker/Podman 容器中运行
+- 任务启动前检查花费限额，超限拒绝
+- 三档参与度：in the loop / near the loop / out of the loop
+- Zero touch 指标统计各项目需要人工介入的频率（7/30/90 天）
 
 ## 适用场景
 
-- 夜间定时清理或修复带标签的 issue
-- 让代理后台处理重复性代码整理工作
-- 由第二个代理评审变更后再由人决定是否合入
-- 在自托管服务器上集中查看多个代理任务
+- 让多个 agent 在后台并行处理修 issue、每夜整理等任务
+- issue 被打标签或收到评论时自动触发 agent 修复
+- 在服务器上长期运行 agent 任务并通过控制台集中查看
 
 ## 场景标签
 
-`编码 Agent` `代码审查` · 领域:编码与开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L17: work: **dark engineering**. It runs the pi coding agent for you in the background, on
-> L18: your own computer or server. Agents start on their own and do the work, and a second agent can review it. Each job 
-> L19: a sealed box that is thrown away afterwards, stops at the spending limit you set, and shows up live on one web page
+> L34: **1. Have these ready.** A computer or server that stays on (on a Mac or Windows machine, jobs run only while you a
+> L35: Docker and Node.js 22.19 or newer, and a key from an AI
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `f5d55a8bd4ab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `37361872a4ed` · [字段定义](../../DATASET.md)*

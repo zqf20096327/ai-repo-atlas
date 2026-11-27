@@ -2,9 +2,9 @@
 
 ⭐ 151 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/MuscleMap/MuscleMap) · [官网](https://musclemap.github.io/MuscleMap/) · 组织维护
 
-**全身肌肉 MRI/CT 分割与定量分析的开源工具箱，面向科研用户**
+**面向科研人员的全身肌肉 MRI/CT 自动分割与指标提取工具箱**
 
-社区支持联盟 MuscleMap 提供的免费开源软件工具箱，对全身 MRI/CT 图像执行自动肌肉分割与成分定量分析。核心命令 mm_segment 使用对比度无关的全身分割模型（113 个肌肉与骨骼标签），mm_extract_metrics 支持 GMM/kmeans 聚类、Dixon 脂水分离与 CT 平均值提取，mm_register_to_template 做模板配准；另有 mm_gui 图形界面，并以 3D Slicer 扩展和 NeuroDesk 环境提供无需编程的使用途径。模型权重与模板从 Zenodo 自动下载；建议对分割结果做人工可视化校正。正在扩展手臂、手、脊柱等区域。
+开源的全身肌肉分割与分析工具箱，隶属 MuscleMap 联盟项目。核心命令 mm_segment 调用对比度无关的全身分割模型，覆盖 113 块肌肉与骨骼，输出 NIfTI 分割图与 JSON sidecar；mm_extract_metrics 支持 T1w/T2w、Dixon 脂水分离及脂肪分数（MRI/CT）的成分分析（GMM/kmeans）；另提供 GUI（mm_gui）与模板配准（mm_register_to_template）。可通过 conda+pip 源码安装，也可作为 3D Slicer 扩展或在 NeuroDesk 环境使用；默认 CPU 版 PyTorch，GPU 需手动安装对应 CUDA/ROCm 版本；模型权重与模板从 Zenodo 首次使用时自动下载。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 对比度无关全身分割模型，113 个肌肉与骨骼标签，支持 MRI 与 CT
-- mm_extract_metrics 支持 GMM/kmeans、Dixon 脂水与 CT 平均值定量
-- 提供 GUI 及 3D Slicer 扩展、NeuroDesk 无代码使用途径
-- 模型权重与模板图像从 Zenodo 自动下载，CPU/GPU 均可运行
+- 对比度无关的全身分割模型，覆盖 113 块肌肉与骨骼
+- 支持 T1w/T2w、Dixon 脂水 MRI 及 CT 的成分指标提取（GMM/kmeans）
+- 提供 CLI、GUI（mm_gui）及 3D Slicer 扩展、NeuroDesk WebApp 等多种使用方式
+- 模型版本可指定，权重从 Zenodo 自动下载；支持 GPU 加速与 CPU 回退
 
 ## 适用场景
 
-- 对全身 MRI/CT 图像批量自动分割肌肉并提取形态与成分指标
-- 做肌少症、肌肉健康相关的影像组学研究
-- 不写代码，通过 3D Slicer 或 NeuroDesk 完成肌肉分割
+- 对全身 MRI/CT 影像批量做肌肉分割与体成分分析
+- 无编程背景时用 3D Slicer 扩展或 NeuroDesk WebApp 做自动分割
+- 将 DICOM 数据整理为 BIDS 结构后跑分割与指标流水线
+- 分割结果人工校正后反馈 issue 参与模型迭代
 
 ## 场景标签
 
-`科研工具` `图像视频处理` · 领域:学习与行业
+`科研工具` `目标检测` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L10: A free and open-source software toolbox for whole-body muscle segmentation and analysis.
 > L122:  * mm_segment uses our contrast agnostic whole-body segmentation model by default with currently 113 muscles and b
-> L163:  mm_extract_metrics -m gmm -r wholebody -i image.nii.gz -s image_dseg.nii.gz -c 3
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `840159cd79ed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `052f7892d122` · [字段定义](../../DATASET.md)*

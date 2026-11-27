@@ -2,9 +2,9 @@
 
 ⭐ 229 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/damianvtran/local-operator) · [官网](https://local-operator.com) · 个人维护
 
-**本机运行的 AI agent 协作中枢：托管、监督并连接多 agent**
+**在本机托管、监督与连接多个协作 AI agent 的运行时**
 
-Local Operator 是一个运行时/中枢，用于在用户本机托管、监督并连接 AI agent：单会话可规划工作、调用工具、浏览网页并记录历史；支持组建团队，由 manager 向受工具限制的 worker 分派任务，跨仓库会话间互发消息，并可在终端关闭后调度后续执行。写入与执行前需用户批准。接入方式包括已有订阅账号、API key 及本地推理服务器。提供桌面应用、终端 UI、手机 web 中继与浏览器扩展等形态，MIT 许可。
+Local Operator 是一个运行时，用于在本机承载、监督和连接 agent：单个会话可规划任务、运行工具、浏览并记忆过程；也可作为管理者向受限工具的 worker 委派工作，跨仓库与同级会话互发消息，自行调度后续任务。提供桌面应用（npm 安装）、终端 TUI（uv/pipx/curl 脚本安装）与手机 Web 中继；支持订阅账号登录或 API key 接入多家模型服务，也支持 LM Studio、Ollama、vLLM、llama.cpp 等本地服务器；写入与执行前需用户批准。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Local Operator 是一个运行时/中枢，用于在用户本机托管、监督�
 
 ## 能力要点
 
-- agent 组织：subagent 并行、角色能力边界（reviewer/coder 等）与可嵌套团队
-- 跨会话消息（send/hub）与多机 P2P mesh（lop network）
--  wakes 调度与后台任务，终端关闭后可恢复执行
-- 订阅账号登录（ChatGPT/Claude 等）与本地服务器（Ollama/vLLM 等）接入
+- 托管并监督多个 agent 会话，支持子 agent 并行与角色权限边界（reviewer/coder 等预设角色）
+- 跨会话消息（lop send）与多设备点对点 mesh（lop network）
+- 订阅账号登录接入 ChatGPT、Claude、Kimi、Grok、Z.AI、Qwen 等，含账号轮换池与模型回退链
+- 持久化唤醒调度、后台任务与浏览器扩展驱动 Chrome/Edge/Arc/Brave
 
 ## 适用场景
 
-- 在本机组建多 agent 团队分工完成编码、评审等任务
-- 通过手机或浏览器远程查看和操控本机 agent 会话
-- 让 agent 定时唤醒执行后续任务，长期后台运行
+- 在本机组建多 agent 团队并委派开发、评审类任务
+- 通过手机或浏览器远程查看与干预 agent 会话
+- 复用已有订阅账号运行 agent 而无需逐一申请 API key
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Local Operator 是一个运行时/中枢，用于在用户本机托管、监督�
 ## 证据(README 行号)
 
 > L12: **Local Operator** is the runtime that hosts, supervises and connects your
-> L149: `lop network` pairs your own machines into a peer-to-peer **mesh**: their
+> L17: runs on your machine, asks before it writes or executes, draws on the ChatGPT,
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `73d2731452b6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `223b61fdf840` · [字段定义](../../DATASET.md)*

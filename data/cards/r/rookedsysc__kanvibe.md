@@ -2,9 +2,9 @@
 
 ⭐ 152 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/rookedsysc/kanvibe) · [官网](https://kanvibe.rookedsysc.com) · 个人维护 · 中文 README
 
-**键盘优先的桌面看板工作台：集中管理 AI 编码 agent 任务与终端会话**
+**面向 AI 编程 agent 的键盘优先桌面看板工作区**
 
-面向使用 AI 编码 CLI 的开发者的 Kanban 看板工作台：为每个分支任务自动创建 git worktree 与 tmux/zellij 会话，通过 Claude Code、Gemini CLI、Codex CLI、OpenCode 的 hooks 自动流转任务状态（TODO→DONE 时自动清理分支与会话）。浏览器与桌面端经 WebSocket 实时同步，支持 SSH 远程终端、多面板布局、Vim 风格键盘操作，并读取各 CLI 本地凭据展示 Claude/Codex/Gemini 剩余配额。运行需 git、tmux、gh，经 Homebrew Cask 安装。
+macOS 桌面看板应用，将 Claude Code、Codex、Gemini CLI、OpenCode 等 AI 编程 agent 的任务放进独立工作区，每个任务聚合分支、git worktree 与内嵌终端；agent hook 驱动看板状态流转，桌面与手机经本地网络或 Tailscale 配对后可查看同一终端并下发指令。移动端为早期预览（韩文界面）。桌面端经 Homebrew tap 安装，移动端需从源码构建 Flutter 应用。
 
 ## 筛选速览
 
@@ -12,33 +12,33 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
-| 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 分支任务自动创建 git worktree 与 tmux/zellij 终端会话
-- AI agent hooks 驱动任务在 5 个状态间自动流转，DONE 时自动清理
-- 读取 Claude/Codex/Gemini 各账户剩余配额，复用 CLI 本地登录凭据
-- 看板卡片实时显示各任务的运行中 agent 会话与子任务
+- 任务工作区聚合分支、git worktree 与内嵌终端
+- agent hook 驱动看板状态（progress/waiting/review）
+- 手机/平板配对后远程查看终端并发送指令
+- 支持 tmux/zellij/Herdr 会话与 Claude/Codex 聊天记录匹配
 
 ## 适用场景
 
-- 在统一看板中管理多个项目的 AI 编码 agent 任务
-- 为每个分支任务准备隔离的 worktree 和终端工作区
-- 不离开终端即可查看各 AI 账户剩余配额
+- 在同一看板上跟踪多个 AI agent 的编码任务进度
+- 下班后用手机查看 agent 输出并追加指令
+- 按 worktree 隔离管理多个并行开发分支
 
 ## 场景标签
 
- · 领域:开发者工具/AI agent 工作流
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L5: KanVibe keeps AI coding work out of scattered terminal tabs. Track branch-based tasks on a real-time Kanban board, o
-> L91: ## Prerequisites
+> L7: KanVibe is a keyboard-first macOS Kanban workspace for AI coding agents. Run Claude Code, Codex, Gemini CLI, and Ope
+> L66: 1. **See what needs attention.** Agent hooks update the board as work moves through progress, waiting, and review.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bbf4f1c644ab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 low · 依据 README sha `77b998117407` · [字段定义](../../DATASET.md)*

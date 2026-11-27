@@ -2,9 +2,9 @@
 
 ⭐ 5,298 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Kiln-AI/Kiln) · [官网](https://kiln.tech) · 组织维护
 
-**团队协作构建、评估与优化 AI 系统的本地工作台**
+**AI 开发全流程工作台：评测、RAG、微调、合成数据一站式**
 
-Kiln 提供覆盖 AI 开发全流程的工作台：评估（evals）、prompt 优化、RAG、子代理编排、合成数据生成与零代码微调，同一任务与数据集可在各阶段复用。桌面应用供 PM、领域专家与 QA 无代码参与打标和评分，MIT 许可的 Python 库将相同任务发布到生产环境，并与 Git 同步协作。本地优先运行，可用自带 API key 或通过 Ollama 离线运行；桌面应用为 source-available 的 fair-code 模式。
+覆盖 AI 开发完整循环的桌面应用加 Python 库：评测构建（自动生成 judge 与评测数据集）、RAG（拖拽文档导入并自动生成评测）、多层级子代理编排、零代码微调（60+ 模型，部署于 Fireworks/Together/Vertex）、合成数据生成与数据集管理。内置 MCP server，可从 Claude Code/Codex/OpenCode 等 agent 调用。本地运行，自带 API key 或用 Ollama 完全离线。桌面应用供非技术人员协作打分，MIT 协议的 Python 库负责生产部署；桌面应用为 fair-code 模式的 source-available。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Kiln 提供覆盖 AI 开发全流程的工作台：评估（evals）、prompt �
 
 ## 能力要点
 
-- Eval Builder 自动生成评估器与合成评估数据集
-- 拖拽文档（PDF/图像/视频/音频）创建 RAG 并自动生成评估
-- 60+ 模型零代码微调，支持 Fireworks/Together/Vertex 部署
-- 同一 MIT 库同时供桌面应用与生产部署使用
+- Eval Builder 自动生成评测并对齐偏好
+- 拖拽文档创建 RAG 并自动生成 RAG 评测
+- 零代码微调 60+ 模型（Fireworks/Together/Vertex）
+- 内置 MCP server，可被外部 agent 连接操作
 
 ## 适用场景
 
-- 为我的任务搭建评估集并对比 prompt/模型改动的质量回归
-- 让团队非工程成员参与数据打标与输出评分
-- 为微调快速生成合成训练数据
-- 把应用中构建的 agent 通过 Python 库部署到生产
+- 团队协作标注数据、给模型输出打分并追踪质量回归
+- 为微调和评测快速生成合成数据
+- 用自有文档搭建带评测的 RAG
+- 在应用中构建 agent 后通过 Python 库部署到生产
 
 ## 场景标签
 
-`提示工程` `模型评测` `RAG` `微调` · 领域:Agent 开发
+`模型评测` `RAG` `微调` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L30: Kiln is a workbench for the full AI development loop: evals, optimization, prompts, RAG, fine-tuning, synthetic dat
-> L46: - 🎛️ **Fine-Tuning** - Zero-code fine-tuning across 60+ models (Qwen, Llama, GPT, Gemini, …) on Fireworks, Together
-> L82: Build AI tasks in the app. Deploy with the open-source library. Same engine, same project files, no rewrite. The MI
+> L47: - 🎛️ **Fine-Tuning** - Zero-code fine-tuning across 60+ models (Qwen, Llama, GPT, Gemini, …) on Fireworks, Together
+> L91: - **190+ models tested across every provider.** Skip the guesswork — we've tested every model's capabilities across
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b45463109e55` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `33e4fb0b2084` · [字段定义](../../DATASET.md)*

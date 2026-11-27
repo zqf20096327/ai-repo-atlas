@@ -2,9 +2,9 @@
 
 ⭐ 138 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/heilcheng/openevals) · [官网](http://haileycheng.com/openevals/) · 个人维护
 
-**开源权重语言模型的评测基准框架（GSoC 2025 项目）**
+**给开发者在任意 OpenAI 兼容服务上评测开源权重 LLM 的 Rust 基准套件**
 
-面向大语言模型的系统化评测框架，支持在 MMLU、GSM8K、HumanEval 等 13 个学术基准上评测开源权重模型（Gemma、Llama、Mistral、Qwen、DeepSeek 及任意 HuggingFace 模型），测量延迟、吞吐与显存占用等效率指标，生成含置信区间的统计分析与可视化报告。提供 Python API、YAML 配置与浏览器端 Web 平台（含仪表盘与排行榜）。为 Google Summer of Code 2025 项目，由个人开发者完成、Google DeepMind 指导，需 Python 3.10+ 与 GPU（CUDA 11.8+），磁盘空间 50 GB 起且按模型规模要求 4-80GB 显存。
+以 Rust 编写的开源权重语言模型基准测试套件：向任意暴露 /v1/chat/completions 的服务端（vLLM、SGLang、llama.cpp、Ollama、TGI、托管 API）发送基准提示，确定性评分并写入可续跑、可复现的结果。内置 MMLU-Pro、GPQA、MATH-500、HumanEval、效率等基准，附 68 个开源模型的注册表（参数量、上下文长度、许可证、推理模式）。需 Rust 1.88+，HumanEval 另需 PATH 中的 python3；数据集下载一次后可离线使用。
 
 ## 筛选速览
 
@@ -12,24 +12,24 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 部署形态 | `self-host` | docker 或自建部署 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 13 个学术基准覆盖知识、数学、代码、推理、忠实度等类别
-- 跨模型家族（Gemma/Llama/Mistral/Qwen/DeepSeek 等）对比评测
-- 计算效率指标（延迟/吞吐/显存）与置信区间统计分析
-- 提供 Python API、YAML 配置与 Web 平台（仪表盘/排行榜/报告导出）
+- 单一 HTTP 后端对接所有 /v1/chat/completions 服务栈
+- JSONL 完成缓存支持中断续跑与已完赛重评分零请求
+- 确定性评分：固定 few-shot、种子洗牌、无模型参与打分
+- models.toml 注册表含 68 个经 Hugging Face Hub API 核验的开源模型
 
 ## 适用场景
 
-- 对开源权重模型做标准化基准评测与横向对比
-- 测量模型推理的延迟、吞吐与显存占用
-- 生成可用于论文的统计图表与报告
+- 在不同推理服务栈上对开源模型跑标准化基准并生成排行榜
+- 对比候选开源模型的准确率与吞吐/延迟效率指标
+- 复现他人结果：缓存机制保证重跑与重评分不重复请求
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L5: An open-source evaluation framework for large language models, providing systematic benchmarking across standardized
-> L11: - Evaluating open-weight models on established benchmarks (MMLU, GSM8K, MATH, HumanEval, ARC, TruthfulQA, and more)
-> L14: - Generating statistical analyses with confidence intervals
+> L3: Benchmarking suite for open-weight language models, written in Rust. It sends benchmark prompts to any OpenAI-compat
+> L13: - Benchmarks: MMLU, MMLU-Pro, GPQA, ARC, TruthfulQA (generation and MC1), GSM8K, MATH-500, HumanEval, and an effici
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `437a9691a4dc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `80748fec5ab9` · [字段定义](../../DATASET.md)*

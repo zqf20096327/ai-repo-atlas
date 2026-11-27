@@ -2,9 +2,9 @@
 
 ⭐ 164 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/RevEngAI/plugin-ida) · [官网](https://reveng.ai) · 组织维护
 
-**逆向工程师用的 IDA Pro 插件：云端 AI 二进制分析与函数命名**
+**逆向工程师在 IDA Pro 中调用 RevEng.AI API 分析二进制**
 
-RevEng.AI 官方开源的 IDA Pro 插件，将当前打开的二进制上传至 RevEng.AI 云端 API 进行分析，基于二进制代码相似性从其符号与函数数据库恢复 strip 后二进制的函数名。功能包括自动批量重命名（按置信度阈值）、单函数/全量函数匹配、AI 反编译并附自然语言解释，以及实验性 Agent Chat（对话式反编译、重命名与跳转导航）。需在 IDA 内配置 API Key，依赖 PyQt5，支持 IDA 8.5–9.2 与 Python 3.10–3.14，从 Releases 下载构建包手动安装。
+由 RevEng.ai 开源的 IDA Pro 插件，在 IDA 内与其 API 交互：上传当前打开的二进制进行分析，基于 Binary Code Similarity 为剥离符号的二进制恢复函数名。关键功能包括按置信度阈值自动重命名函数、显示相似函数、对选中函数生成 AI 反编译与自然语言解释，以及实验性的 Agent Chat（自然语言询问函数、反编译、重命名与跳转）。支持 IDA 9.0–9.5 与 Python 3.10–3.14，需配置 RevEng.AI Portal 的 API Key，README 提示 macOS + IDA 9.2 下不稳定。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@ RevEng.AI 官方开源的 IDA Pro 插件，将当前打开的二进制上传至 
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 上传二进制做云端二进制代码相似性分析
-- Auto Unstrip 自动恢复被 strip 的函数名
-- AI 反编译并附自然语言解释
-- 实验性 Agent Chat：对话式反编译、重命名与跳转
+- 上传二进制至 RevEng.AI API 进行分析与函数名恢复
+- AI 反编译选中函数并附自然语言功能解释
+- Agent Chat（实验性）：对话式查询、反编译、重命名并跳转函数
+- 支持 IDA 9.0–9.5 与 Python 3.10–3.14
 
 ## 适用场景
 
-- 逆向 stripped 二进制时恢复函数名
-- 查找与已知函数相似的函数并批量重命名
-- 让 AI 生成反编译结果并解释函数行为
+- 对剥离符号的二进制批量恢复函数名
+- 在 IDA 中查看选中函数的 AI 反编译与解释
+- 通过对话让 agent 代为反编译并重命名函数
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ RevEng.AI 官方开源的 IDA Pro 插件，将当前打开的二进制上传至 
 ## 证据(README 行号)
 
 > L11: The RevEng.AI IDA plugins allows you to interact with our API from within IDA.
+> L13: and use it for Binary Code Similarity to help you Reverse Engineer stripped binaries.
 > L22: * AI Decompilation of selected functions
-> L131: The `AI Decompilation` tool allows you to get AI generated decompilation of selected functions. You can access it 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `27e2acf1bc6f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `d2d12ef9ec0a` · [字段定义](../../DATASET.md)*

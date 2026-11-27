@@ -1,10 +1,10 @@
 # SoFluffyOS/lumide
 
-⭐ 166 · 推送 2026-11-22 · [GitHub](https://github.com/SoFluffyOS/lumide) · [官网](https://lumide.dev) · 组织维护
+⭐ 166 · 推送 2026-11-22 · [GitHub](https://github.com/SoFluffyOS/lumide) · [官网](https://lumide.dev) · 个人维护
 
-**Flutter 构建的桌面代码编辑器，内置 AI agent 接入**
+**Flutter 原生桌面代码编辑器，内置 ACP Agent 协作**
 
-基于 Flutter 构建的桌面优先 IDE，采用 GPU 加速渲染管线，编辑器与终端目标 120 FPS，自定义 Rope 数据结构文本渲染引擎，冷启动低于 200ms，空闲内存约 80MB。AI 相关功能包括行内建议与 Ghost Text 体验、通过 Agent Client Protocol (ACP) 集成 AI agent 并提供原生 ACP agent 托管。另含 C.O.R.G.I. Git 客户端、LSP 语言支持（针对 Dart/Flutter 优化）、可定制键位与停靠式工作区。提供 macOS/Windows/Linux 安装包，本仓库托管发布与问题跟踪。
+用 Flutter/Dart 编写的 macOS/Windows/Linux 桌面 IDE，AOT 编译为机器码并由 GPU 渲染，不依赖 Electron 或浏览器引擎。编辑器提供多光标、LSP 语言支持、JetBrains/VS Code/Sublime 键位与 Vim 模式、内置 Git 客户端（C.O.R.G.I.）、画布式面板布局（O.W.L.）、远程 SSH、工作区共享及 Flutter/Dart 运行调试。Agent 相关机制：通过 Agent Client Protocol 运行 Claude、GitHub Copilot、OpenCode 等 agent，逐文件审查改动、回退到任意时点，并提供 ghost text 补全。源码未公开，本仓库承载发布与 issue 跟踪。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- Agent Client Protocol (ACP) 集成与原生 ACP agent 托管
-- 行内建议与 Ghost Text AI 补全体验
-- Rope 数据结构自定义文本渲染引擎，冷启动低于 200ms
-- C.O.R.G.I. Git 客户端（Split-Brain 布局、粒度化暂存）
+- 通过 ACP 运行任意 agent，逐文件审查改动并支持任意时点回退
+- Dart AOT 编译为 ARM64/x64 机器码，Flutter GPU 渲染，无浏览器内核
+- 内置 Git 图形客户端、协作共享工作区与远程 SSH
+- 支持 40+ 语言的 LSP 与 pub.dev 插件生态
 
 ## 适用场景
 
-- 在桌面端编写代码并获得 AI 行内补全
-- 在 IDE 内托管和连接 ACP 协议的 AI agent
-- 使用针对 Dart/Flutter 优化的轻量编辑器进行开发
+- 在桌面 IDE 中运行 Claude/Copilot 等 agent 并审查其代码改动
+- 管理 Flutter/Dart 项目的运行、热重载与断点调试
+- 通过链接与他人共享工作区、终端与 Agent Chat
+- 用画布式面板组织多文件与运行中的应用窗口
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+`编码 Agent` `AI 助手` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L5: **Lumide** is an IDE built with **Flutter**. It features a GPU-accelerated architecture and first-class support for 
-> L19: * **🕵️ Agent-Native Architecture**: Integration for AI agents using the **Agent Client Protocol (ACP)**. Features n
+> L7:  An IDE in pure Flutter and Dart, for macOS, Windows and Linux.
+> L23: - 🤖 **Agent-native.** Run Claude, GitHub Copilot, OpenCode or any agent that speaks the Agent Client Protocol, and 
+> L138: This repository holds Lumide's releases and its issue tracker. The source isn't published, but your reports shape 
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1b7fa9bf002a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2438470bd5ef` · [字段定义](../../DATASET.md)*

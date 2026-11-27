@@ -2,9 +2,9 @@
 
 ⭐ 219 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/momasiku/dsh-pilot) · [官网](https://www.npmjs.com/package/@momasiku/dsh-pilot) · 个人维护 · 中文 README
 
-**给 DeepSeek Harness 提供屏幕截图与键鼠操控工具的 Windows 插件**
+**给 DeepSeek Harness 增加 Windows 桌面操控能力的插件**
 
-dsh-pilot 是 DeepSeek Harness（DSH）的插件，在 Windows 上向模型暴露三个工具：screen_view（抓屏并作为图像块连同坐标刻度尺交付）、desktop_control（鼠标/键盘/窗口操作与 UI Automation 控件树读取）、desktop_sequence（一次调用执行整串动作）。通过常驻 PowerShell worker、帧哈希去重、per-monitor DPI 感知与坐标契约来降低模型与电脑的往返次数和坐标偏差；提供风险声明、dryRun、遇错即停、Esc 中断等安全机制。要求 DSH 0.1.5-rc.2 至 0.2.x、PowerShell 5.1 或 7，经 npm 安装。
+以 DSH 插件形式分发（npm scoped 包），为 DeepSeek Harness 提供 screen_view、desktop_control、desktop_sequence 三个工具：截图以图像块交给模型，执行鼠标/键盘/窗口操作，并支持一次调用串行多步动作以减少往返。通过 UI Automation 控件树提供精确坐标的替代路径，带坐标刻度尺、DPI 感知、风险等级前置拦截、dryRun、Esc 中断等机制。要求 Windows、PowerShell 5.1/7、DSH 0.1.5-rc.2 至 0.2.x，以及声明图像输入的模型线路。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ dsh-pilot 是 DeepSeek Harness（DSH）的插件，在 Windows 上向模型暴�
 
 ## 能力要点
 
-- screen_view 将真实截图作为图像块交付，附带屏幕坐标刻度尺与缩放说明
-- desktop_sequence 单次调用执行整串动作，减少模型↔电脑往返
-- 通过 Windows UI Automation 读取控件树，提供精确矩形与控件状态
-- 风险分级声明、dryRun、遇错即停与 Esc 取消令牌等安全机制
+- 三个工具：屏幕截图、鼠标键盘控制、多步动作批处理
+- UI Automation 控件树读取，提供像素之外的精确点击路径
+- 风险等级前置拦截、dryRun、Esc 取消令牌等安全机制
+- 常驻 PowerShell worker 降低动作延迟，frameHash 去重截图
 
 ## 适用场景
 
-- 让 DSH 模型在 AutoCAD 命令行里逐步绘图
-- 通过模型自动完成 WPS/浏览器/桌面应用的点击与输入操作
-- 需要模型直接看到真实屏幕像素并驱动鼠标键盘的桌面自动化
+- 让 DSH agent 直接操作 AutoCAD、LibreOffice、Blender 等桌面软件
+- 自动化浏览器操作、发微信等日常桌面任务
+- 通过模型驱动真实鼠标键盘完成 Windows GUI 自动化
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ dsh-pilot 是 DeepSeek Harness（DSH）的插件，在 Windows 上向模型暴�
 ## 证据(README 行号)
 
 > L1: ﻿dsh-pilot — desktop control for DeepSeek Harness: hands and eyes on the whole machine
-> L20: > **给 DeepSeek Harness 装上眼睛和手——装在整个桌面上。**
+> L44: |**`screen_view`**|抓取当前屏幕，把 PNG 作为**真正的图像块**交给模型（不是 OCR、不是文字描述），连光标位置、前台窗口、各显示器范围一起给出|
 > L159: 要求 DSH **0.1.5-rc.2 至 0.2.x**（即 `package.json` 里的 peer 范围，也是 `dsh plugin add` 在安装前的门禁）。环境要求：**Windows**、PowerShell
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3bf3bfcbf70d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `dcfa039f198b` · [字段定义](../../DATASET.md)*

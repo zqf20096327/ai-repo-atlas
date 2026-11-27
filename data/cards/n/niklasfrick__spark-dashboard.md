@@ -2,9 +2,9 @@
 
 ⭐ 144 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/niklasfrick/spark-dashboard) · 个人维护
 
-**Linux+NVIDIA 主机的硬件与 LLM 推理实时监控仪表盘**
+**面向 Linux/NVIDIA 主机的 GPU 与 LLM 推理实时监控面板**
 
-Rust 后端通过 NVML、sysinfo、procfs 采集 GPU/CPU/内存/磁盘/网络指标，并经 Prometheus 指标读取 vLLM、SGLang、llama.cpp 引擎统计（Ollama 仅显示状态与已加载模型），经 WebSocket 推送到 React 前端。面板可自由拖拽布局、按引擎/GPU 绑定，支持多引擎并排监控与墙面展示轮播。面向运行 NVIDIA GPU Linux 主机的开发与运维人员；需 NVIDIA 驱动，Ollama 无指标面板，两种安装路径均从源码编译。
+Rust 后端通过 NVML、sysinfo、procfs 以 1 秒轮询采集 GPU、CPU、内存、磁盘与网络指标，同时经 Prometheus 端点读取 vLLM、SGLang、llama.cpp 引擎统计（Ollama 仅显示状态与已加载模型），经 WebSocket 推送到 React 前端。面板可自由拖拽编排、按页面保存于服务端，支持多引擎并列监控、墙面显示屏轮播与 15 分钟滚动历史。安装路径为 cargo、Docker 镜像或源码脚本，以 systemd 服务运行。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Rust 后端通过 NVML、sysinfo、procfs 采集 GPU/CPU/内存/磁盘/网络指
 
 ## 能力要点
 
-- 1 秒级采集 GPU 利用率/温度/功耗及热节流等事件检测
-- vLLM/SGLang/llama.cpp 引擎指标：TPS、TTFT、KV cache、SLO Goodput 等
-- 通过进程扫描与 Docker API 自动发现引擎，含容器内引擎
-- 面板可编辑布局、命名页面各带 URL，保存于服务端
+- 硬件指标（GPU 利用率/温度/功耗/降频事件、CPU 热力图、内存/磁盘/网络）1 秒轮询
+- vLLM/SGLang/llama.cpp 推理指标：tokens/s、首 token 延迟、KV 缓存、SLO Goodput
+- 通过进程扫描与 Docker API 自动发现引擎，支持多引擎并行与面板绑定固定引擎
+- 面板自由编排、命名页面独立 URL、服务端持久化、墙面显示轮播
 
 ## 适用场景
 
-- 监控推理服务器的 GPU 与 vLLM/SGLang 引擎运行状态
-- 多引擎并排观察 tokens/s 与延迟指标
-- 为机房墙面显示屏配置轮播监控页面
+- 监控运行 vLLM/llama.cpp 推理服务的 GPU 服务器负载与吞吐
+- 在墙面大屏展示推理集群各引擎的实时指标
+- 排查 GPU 降频、功耗制动等硬件事件
+- 同时对比多个推理引擎的延迟与缓存表现
 
 ## 场景标签
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7b875fce9f35` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `12091315c518` · [字段定义](../../DATASET.md)*

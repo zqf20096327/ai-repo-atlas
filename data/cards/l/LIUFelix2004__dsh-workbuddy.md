@@ -4,7 +4,7 @@
 
 **把 WorkBuddy 账号导入 DeepSeek Harness 作为模型 provider 的插件**
 
-DeepSeek Harness（DSH）插件，读取 WorkBuddy 账号凭据后在 llm-pi-ai 中为每个账号写入独立 provider 路由，使账号内全部模型出现在 DSH 模型选择器中；提供积分余额查询面板、按账号独立计数的额度路由，并在 fetch 层安装守卫改写 system 文本与 User-Agent 以绕过网关 11128 渠道校验。模型目录读本机 WorkBuddy 产品配置，无该配置时退回 25 个内置模型。要求 DSH ≥0.2.1 与 Node.js ≥18。
+DeepSeek Harness 插件：将 WorkBuddy 账号接入为单一 provider，多账号组成账号池，请求轮询转发、失败冷却换号，模型目录读本机 WorkBuddy 产品配置，面板显示各账号积分余额。内置 fetch 守卫改写 system 文本与 User-Agent 以通过网关 11128 渠道校验，并支持叠加 dsh-purge 人格层。需要 DeepSeek Harness ≥0.2.1 与 Node.js ≥18；面向 WorkBuddy 国内版（copilot.tencent.com），国际版未适配。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@ DeepSeek Harness（DSH）插件，读取 WorkBuddy 账号凭据后在 llm-pi-ai 
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 一个账号一条独立 provider 路由（wb-xxxxxxxx），额度与限流各自计算
-- 每账号显示积分余额、套餐名、用量进度条与分类明细
-- fetch 守卫自动修正触发网关 11128 的 system 文本与 User-Agent
-- 模型目录从本机 WorkBuddy 产品配置读取，与客户端一致
+- 多账号池：轮询转发、按 401/403/429/5xx 冷却并自动换号重试
+- 模型目录读本机 WorkBuddy 配置，与客户端清单一致；无该文件退回内置 25 模型目录
+- fetch 守卫改写 system 与 User-Agent 绕过网关 11128 校验，幂等且 fail-open
+- 面板显示每账号积分余额、命中次数与冷却状态
 
 ## 适用场景
 
-- 在 DeepSeek Harness 中用 WorkBuddy 账号调用其模型列表
-- 同时管理多个 WorkBuddy 账号的额度并按路由独立计数
-- 绕过 WorkBuddy 网关的 11128 渠道拦截问题
+- 把 WorkBuddy 账号接入 DeepSeek Harness 后通过模型选择器调用
+- 一次导入多个 WorkBuddy 账号合并额度并自动轮转
+- 在 DSH 面板查看各账号积分余额与套餐明细
 
 ## 场景标签
 
@@ -37,9 +37,8 @@ DeepSeek Harness（DSH）插件，读取 WorkBuddy 账号凭据后在 llm-pi-ai 
 
 ## 证据(README 行号)
 
-> L3: > 把 **WorkBuddy 账号**接进 **DeepSeek Harness**：一个账号一条 provider 路由，WorkBuddy 里的全部模型直接出现在 DSH 的模型选择器里，并显示每个账号的积分余额、自动绕过网关
+> L3: > 把 **WorkBuddy 账号**接进 **DeepSeek Harness**：**所有账号共用一家提供商**（`WorkBuddy`），模型是池内并集，请求按账号轮流转发；每个账号的积分余额单独显示，并自动绕过网关的 11
 > L36: 要求：DeepSeek Harness `0.2.1` 或更高（web / desktop 均可），Node.js `>= 18`。
-> L71:  - 在 `llm-pi-ai` 里写入 provider `WorkBuddy · 账号名`；
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `d43fd4e20f29` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `832a21adbd49` · [字段定义](../../DATASET.md)*

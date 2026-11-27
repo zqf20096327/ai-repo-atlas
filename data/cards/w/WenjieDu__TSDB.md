@@ -2,9 +2,9 @@
 
 ⭐ 244 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/WenjieDu/TSDB) · [官网](https://pypots.com/ecosystem/#TSDB) · 个人维护
 
-**一行代码加载 173 个公开时间序列数据集的 Python 工具箱**
+**为 ML 研究者提供一行代码加载 173 个公开时间序列数据集**
 
-TSDB 是面向研究者与工程师的时间序列数据集加载工具箱，从 PyPOTS 项目分离而来，用于数据集与学习算法解耦。用户通过一行代码即可下载并加载 173 个公开数据集，覆盖医疗、电力、交通、空气质量等领域的预测、插补、分类任务。数据加载仅含通用步骤（如移除无效样本），不做归一化等处理，也可仅下载保存原始数据。以 Python 包形式提供，支持 pip、conda 与源码安装。
+TSDB（Time Series Data Beans）是开源 Python 工具箱，通过统一 API 提供 173 个公开时间序列数据集，覆盖医疗、能源、天气、交通等领域，包含 UCR/UEA 分类数据集与 TSQA。它作为 PyPOTS 生态的数据获取层，负责数据集发现、下载、解压、加载与本地缓存，加载器做数据集特定的基础准备而非任务级归一化或缺失值插补，也支持原始文件下载。要求 Python 3.10+，支持显式刷新与缓存迁移。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ TSDB 是面向研究者与工程师的时间序列数据集加载工具箱，从
 
 ## 能力要点
 
-- 一行代码下载并加载 173 个公开时间序列数据集
-- 覆盖 UCR & UEA 全部 163 个分类数据集等多个领域
-- 加载函数不做归一化等预处理，保留原始数据
-- 用户可通过 issue/PR 申请集成新的开源数据集
+- 统一 API 加载 173 个公开时间序列数据集
+- 无需下载数据即可查看源 URL、版本与加载器信息的元数据发现
+- 本地缓存复用，支持刷新与跨盘迁移
+- 分阶段下载与安全解压，可从不完整操作中恢复
 
 ## 适用场景
 
-- 研究时间序列预测/插补/分类时快速获取标准数据集
-- 跳过数据收集下载环节，专注数据处理细节
-- 批量获取原始时间序列数据集用于本地预处理
+- 为时间序列预测/插补/分类实验快速获取公开数据集
+- 研究复现时保留数据集来源与引用信息
+- 按领域（医疗/能源/交通/天气）浏览可用数据集
 
 ## 场景标签
 
- · 领域:时间序列数据集/机器学习数据基础设施
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: * load 173 public time-series datasets with a single line of code ;-) *
-> L51: TSDB is created to help researchers and engineers get rid of data collecting and downloading, and focus back on dat
+> L54: TSDB (Time Series Data Beans) is an open-source Python toolbox that makes **173 public time series datasets availab
+> L64: - **Rich dataset collection:** 173 datasets from healthcare, energy, weather, traffic, and other domains, including
+> L73: TSDB v1.0 requires Python 3.10 or later and is available on PyPI and Anaconda. See the installation guide for optio
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9f42b9c574d1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c4ef27bf16e6` · [字段定义](../../DATASET.md)*

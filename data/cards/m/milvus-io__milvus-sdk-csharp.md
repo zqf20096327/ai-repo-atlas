@@ -2,9 +2,9 @@
 
 ⭐ 139 · C# · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/milvus-io/milvus-sdk-csharp) · 组织维护
 
-**Milvus 向量数据库的官方 C#/.NET SDK**
+**面向 .NET 开发者的 Milvus 向量数据库官方 C# 客户端**
 
-Milvus 官方 C# SDK，以 NuGet 包分发，供 .NET 应用连接 Milvus 向量数据库，执行集合创建、数据插入、加载、索引、向量搜索、查询、RBAC 等操作。仓库含两代 SDK：V2（Milvus.Client.V2，请求/响应式 DTO API，与 Java/C++/Rust V2 SDK 对齐，支持 .NET 8）为当前版本，V1（Milvus.Client）为维护模式的旧版，支持 .NET Core 2.1+ 与 .NET Framework 4.6.1+。提供 8 个渐进式教程、示例工程与基于 Microsoft.Extensions.Logging 的诊断日志（不记录凭据与向量数据）。
+Milvus 向量数据库的官方 C# SDK，仓库内含两代客户端：V2（Milvus.Client.V2）为当前的请求/响应式 API，V1（Milvus.Client）处于维护模式。SDK 经 NuGet 分发，支持 .NET 8（V2）与 .NET Core 2.1+/Framework 4.6.1+（V1）。README 提供连接示例、8 个进阶式教程工程、示例程序目录，以及连接诊断、日志配置（基于 Microsoft.Extensions.Logging）与故障排查指引。V1 另附 Jupyter 笔记本。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Milvus 官方 C# SDK，以 NuGet 包分发，供 .NET 应用连接 Milvus 向量
 
 ## 能力要点
 
-- V2 请求/响应式 DTO API，与 Java/C++/Rust V2 SDK 对齐
-- 经 gRPC 连接 Milvus 2.2.x–2.6.x，附版本兼容表
-- 8 个教程（Quickstart 到 RBAC）与 V1/V2 示例工程
-- 日志诊断：记录重试与 RPC 失败，不记录凭据与向量数据
+- V2/V1 两代客户端并存，V2 与 Java/C++/Rust V2 SDK 的 API 对齐
+- NuGet 包分发，dotnet add package 安装
+- tutorial 目录提供 8 个从入门到进阶的独立控制台教程工程
+- 内置诊断日志：记录重试、健康检查与 RPC 失败，不记录凭据与向量数据
 
 ## 适用场景
 
-- 在 .NET 应用中连接并操作 Milvus 向量数据库
-- 按教程学习集合、Schema、索引与 DML/DQL 操作
-- 从 V1 SDK 迁移到 V2 API
+- 在 C#/.NET 应用中连接并操作 Milvus 向量数据库
+- 按教程工程从建集合、插入向量学到搜索与 RBAC
+- 在 .NET 项目中接入向量检索能力做应用开发
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Milvus 官方 C# SDK，以 NuGet 包分发，供 .NET 应用连接 Milvus 向量
 ## 证据(README 行号)
 
 > L3: The official C# SDK for Milvus.
-> L41: dotnet add package Milvus.Client.V2
+> L20: |**V2** — `Milvus.Client.V2`|`Milvus.Client.V2.dll`|Current; request/response DTO API aligned with the Java/C++/Rus
+> L35: New applications should use `MilvusClientV2`, which provides the current request/response-style API.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `8d6ebc5a0daf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `3544384853ab` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 139 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Agent-FM/agentfm-core) · [官网](https://agentfm.net) · 组织维护
 
-**将闲置电脑组成 P2P 网格以分发运行 AI agent 的去中心化运行时**
+**把自有闲置机器组成私有 P2P mesh 跑 AI agent 的运行时**
 
-用 Go 与 libp2p 构建的点对点计算网格：把 agent 打包为容器，由 Worker 节点在 Podman 沙箱中运行，Boss 节点（桌面应用/TUI/HTTP 网关）派发任务，Relay 节点负责节点发现与信任账本持久化。提供 OpenAI 兼容 API、Python SDK、基于 Ed25519 签名与 Merkle 日志的去中心化信誉机制。流量端到端加密，无需云账户。桌面应用面向 macOS/Linux（Windows 开发中），安装包当前未签名。
+用 Go 编写并附 Electron 桌面应用与 Python SDK：将 agent 打包为容器，在自有 Mac/Linux 机器组成的 P2P mesh 上调度执行。每个 agent 在一次性 Podman 沙箱中运行，网关以 OpenAI wire format 暴露 /v1/chat/completions；节点间通过 libp2p 加密通信，经 mDNS/relay/NAT 穿透发现彼此；信誉基于 Ed25519 签名评分与 Merkle 日志计算。单个二进制提供 worker/api/boss/relay/witness/genkey 六种模式，支持 swarm key 组建私有 swarm。公开 mesh 上执行任务的 worker 可见 prompt，隐私需私有 swarm。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单二进制多角色：worker/api/boss/relay/witness，用 -mode 切换
-- OpenAI 兼容网关，任何 OpenAI SDK 可直接指向本地 mesh
-- Worker 每 ~2 秒广播 CPU/GPU/RAM，匹配器路由到低负载节点
-- Ed25519 签名评分 + RFC 6962 Merkle 日志 + EigenTrust-lite 信誉，无中心机构
+- OpenAI 兼容网关：改 base_url 即可接入 openai SDK/LangChain/LiteLLM/Open WebUI
+- 单二进制六种模式（worker/api/boss/relay/witness/genkey）组成 P2P mesh
+- Podman 沙箱运行 agent 容器，任务产物以 zip 回传
+- Ed25519 签名评分 + Merkle 日志的信誉与信任门机制
 
 ## 适用场景
 
-- 把家里或机房闲置机器组成私有算力网格跑 agent 任务
-- 用任何 OpenAI SDK 通过本地网关调用 mesh 上的模型
-- 用桌面应用的 Mesh Radar 查看、派发并评价 mesh 上的 agent
+- 把团队闲置的带 GPU 机器汇总起来跑 agent 任务
+- 在自有硬件上运行 agent 而不把 prompt 发给云服务商
+- 把几百个 prompt 批量分发到 mesh 中所有可用 worker 执行
+- 办公室共享一台运行图像生成 agent 的机器
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L46: - **Worker** — runs your agent in a fresh Podman sandbox (`podman run --rm`) and broadcasts live hardware over a li
-> L52: 1. **OpenAI-compatible** — point any OpenAI SDK at your local mesh and it just works.
+> L21: AgentFM turns those machines into **one mesh**. Install one binary (or the desktop app) on each machine and they fi
+> L25: - **Your code already works.** The gateway speaks the OpenAI wire format, so LangChain, LlamaIndex, LiteLLM, Open W
+> L147: AgentFM does not replace a model server: a worker usually runs one (Ollama, vLLM) next to its agent.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e520a663c3ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4216ac33b56c` · [字段定义](../../DATASET.md)*

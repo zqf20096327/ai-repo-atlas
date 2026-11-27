@@ -2,9 +2,9 @@
 
 ⭐ 145 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/alecs5am/ralphy) · [官网](https://alecs5am.com/ralphy) · 个人维护
 
-**开源内容创作桌面应用与 agent 运行时，生成短视频等内容**
+**给编码 Agent 加短视频制作与发布能力的插件**
 
-Apache 2.0 许可的桌面应用（apps/desktop）加独立 CLI 运行时（cli），把项目管理、媒体审阅、内容生成与本地 agent 汇在一处。用户在对话中下达指令（如“做一个春季浓缩咖啡广告”），agent 通过 ralphy <verb> 命令面驱动项目创建、模板推荐与脚手架；渲染采用 HyperFrames（HTML+GSAP，Puppeteer+FFmpeg 确定性渲染），模型经 OpenRouter 调用（Kling/Seedance/Veo/Sora 等），语音用 ElevenLabs。每次模型调用写入 generations.jsonl，--dry-run 显示预估费用，失败记录 postmortem。桌面开发需 Bun 1.4.2 与 macOS，运行时二进制提供 brew/curl/npm 等四渠道安装。
+Ralphy 以插件形式接入 Claude Code、Codex 或任何读取 skills 的 Agent，补充 Agent 自身不具备的能力：趋势视频库与细分领域选品、本地内容/账号管理面板、经用户逐条批准后向 YouTube/TikTok/Instagram/X 发布、可复用的动效组件与提示词库。工作流为复制参考视频的结构节奏，再改写为账号风格，生成前显示费用。通过 uv 自装 Python 环境，HyperFrames 渲染需 Bun，另需 ffmpeg 与 Chrome；密钥经 fal 等服务调用。
 
 ## 筛选速览
 
@@ -12,24 +12,24 @@ Apache 2.0 许可的桌面应用（apps/desktop）加独立 CLI 运行时（cli�
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `None` |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 桌面应用与独立 CLI 共享同一运行时与桥接契约
-- ralphy <verb> 单一入口：所有模型调用落 generations.jsonl，--dry-run 预估账单
-- HyperFrames（HTML+GSAP）作曲器，版本化入 git 并在 CI 测试
-- OpenRouter 接入多模型（Kling/Seedance/Veo/Sora 等），配 5 种 agent 角色路由
+- 以插件/marketplace 形式接入 Claude Code 与 Codex，其他 Agent 可 git clone 接入
+- 趋势库提供超越创作者常规数据的表现参考，逐条发布需用户批准
+- 每个账号使用独立浏览器配置文件发布
+- 无遥测，请求仅发往用户配置密钥的服务
 
 ## 适用场景
 
-- 我用对话指令让本地 agent 制作短视频/reels 内容
-- 我在桌面应用里统一管理内容项目、媒体与生成工具
-- 我需要可复现、可审计（生成日志+费用汇总）的 AI 内容流水线
+- 让编码 Agent 为我的 TikTok/YouTube Shorts 账号批量产出竖屏短视频
+- 先看费用再决定是否进行付费视频生成
+- 经我批准后由 Agent 定时发布到我的各平台账号
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ Apache 2.0 许可的桌面应用（apps/desktop）加独立 CLI 运行时（cli�
 
 ## 证据(README 行号)
 
-> L5: **An open-source desktop app for creating and managing content.** Work with projects, media, generation tools, and l
-> L80: In practice you say "make a spring espresso ad" in chat and the agent runs these verbs for you. Here's the surface 
-> L117: |Models|Vendor lock-in|One model, hardcoded|**Any OpenRouter model — Kling / Seedance / Veo / Sora / Nano-Banana**
+> L3: Ralphy is a plugin for your coding agent (Claude Code, Codex, or any agent that reads skills) that
+> L7: 1. **Trendwatching.** A hosted trend base of videos that beat their creator's usual numbers, plus
+> L16: beat, text, sound), then reworks the copy for your account (your style, subject, text and offer),
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `34c2dbe0cbaf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1868926ff5c4` · [字段定义](../../DATASET.md)*

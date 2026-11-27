@@ -2,43 +2,44 @@
 
 ⭐ 179 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/vaibhavarora14/job-application-agent) · [官网](https://jobappagent.com) · 个人维护
 
-**给求职者的 Agent 技能与 CLI：搜索、资格判断、按规则投递并追踪申请**
+**AI 求职申请 Agent 技能：搜索职位并按规则代为投递追踪**
 
-面向个人求职者的开源 Agent Skill 与配套 CLI（Node 20+，npx 安装）：配合具备浏览器能力的编程 agent 使用，覆盖职位发现（共享来源目录 + 雇主端核验）、资格与去重判断、表单填写与简历上传、仅记录确认的投递、结果复盘五个环节。提供 review-each 与 routine-auto 两级自主度，SSO/MFA/法律声明等场景暂停交还用户。CLI 负责档案存储（OS 凭证库）、评分、账本与回合管理；agent 负责发现与浏览器交互。支持 Codex/Claude Code/Cursor 等技能目录，可选 Cloudflare D1 私有云状态同步；默认开启匿名分析与社区共享，可分别关闭。LLM 辅助（Free.ai，OpenAI 兼容端点）为可选。
+以 Agent Skill + CLI 形式分发的求职自动化工具，安装在用户的编码 agent 中运行。流程覆盖 Discover（搜索并核实职位）、Qualify（资历/地点/签证等筛查）、Apply（填写表单并上传一份核验过的简历）、Track（去重并仅记录雇主站点确认的投递）、Improve。默认 review-each 模式在雇主页面填好后在提交前停下由用户确认，可选 opt-in 自动投递；遇到 SSO/MFA/CAPTCHA 等自动暂停。凭据存 OS credential store，可选 Cloudflare D1 跨主机同步。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 单一已验证简历驱动的发现-判断-投递-追踪-改进闭环，仅记录确认的投递
-- review-each / routine-auto 两级自主度，密码/SSO/MFA/法律声明场景暂停
-- CLI 管理 OS 凭证库档案、评分、去重、可恢复回合与申请/结果账本
-- 可选私有 Cloudflare D1 后端跨主机同步状态，单主机租约防重复投递
+- Discover/Qualify/Apply/Track/Improve 五阶段流程，仅基于一份核验简历填写
+- review-each 默认模式：填表后在雇主页面提交前停止，由用户确认
+- 自动暂停于密码/SSO/MFA/CAPTCHA/法律声明等场景，不读取 cookie 与 session 文件
+- 支持 Hermes Agent/Grok Bot/OpenClaw 模板及 Codex、Claude Code、Cursor 等技能目录
 
 ## 适用场景
 
-- 让编程 agent 按我的规则自动搜索并投递职位申请
-- 统一管理我的求职档案、申请记录与结果复盘
-- 跨多台设备同步私有求职状态并控制自主度
+- 在 Greenhouse/Ashby/Lever 平台上按自己的规则批量投递职位
+- 用 ledger 命令追踪投递状态并记录回复/面试/offer 结果
+- 多台可信主机间同步简历与申请状态
 
 ## 场景标签
 
-`浏览器自动化` · 领域:效率与自动化
+`浏览器自动化` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L20: Job Application Agent is an Agent Skill that helps a coding agent discover, evaluate, complete, and track your own 
-> L143: The bundled CLI handles private profile storage, résumé import, scoring, duplicate checks, resumable rounds, atten
+> L20: JobAppAgent (Job Application Agent) is an Agent Skill that helps a coding agent discover, evaluate, complete, and t
+> L68: Requires Node.js 20 or newer and a browser-capable coding agent.
+> L85: The existing installer also supports Codex, Claude Code, Cursor, Copilot, and
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `efa0f3f6dc13` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4018afd63fdb` · [字段定义](../../DATASET.md)*

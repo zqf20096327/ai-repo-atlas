@@ -2,9 +2,9 @@
 
 ⭐ 172 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/IBM/vLLM-Hook) · [官网](https://arxiv.org/abs/2603.06588) · 组织维护
 
-**面向 vLLM 的插件库：检查、捕获并干预模型内部状态**
+**vLLM 插件库：检视、分析与干预运行中 LLM 的内部状态**
 
-由 IBM Research 开发的 vLLM 插件库（MIA），面向开发者与研究人员，用于在 vLLM 0.29（V2 model runner）推理引擎运行时对 LLM 内部操作做检查、分析与干预（activation steering）。提供 MiaLLM 离线模式与 vllm serve + MiaClient 服务模式两种运行方式；默认在 CUDA graphs 下捕获与干预，捕获/干预带来数个百分点的 decode 吞吐开销。要求 Linux + NVIDIA GPU（CUDA 13 驱动，H100 验证）、Python 3.11-3.14、约 12GB 环境。附带注意力追踪、幻觉检测、reranking 等示例用例。
+IBM Research 开发的 vLLM 插件库（MIA），面向开发者与研究人员，可检视、分析和干预部署在 vLLM 推理引擎上的大模型内部操作，包括注意力模式、注意力头、激活值的动态捕获与激活转向干预。模型无关、无需重写模型文件；以 MiaLLM 离线进程或 vllm serve+MiaClient 服务化两种方式运行，默认在 CUDA graphs 下工作，捕获与转向仅占解码吞吐量几个百分点。要求 Linux、NVIDIA GPU（CUDA 13 驱动）与 vLLM V2 模型运行器，不支持流水线并行。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 模型无关的 vLLM 插件系统，不改写模型文件
-- 默认在 CUDA graphs 下捕获隐状态/Q/K/注意力并可做 activation steering
-- 支持张量并行（TP>1），流水线并行不支持
-- 提供安全护栏、reranking、幻觉检测等示例应用
+- 模型无关插件系统，不重写模型文件即可接入 vLLM 引擎
+- 支持注意力/激活值捕获与激活转向（steering）干预
+- 默认保留引擎 CUDA graphs，捕获与转向开销为解码吞吐的百分之几
+- 提供安全护栏、重排序、幻觉检测等示例用例
 
 ## 适用场景
 
-- 在 vLLM 服务运行时捕获并分析模型内部激活与注意力模式
-- 通过 activation steering 干预模型行为（如增强指令遵循）
-- 构建模型内部的安全护栏或幻觉检测用例
-- 在脚本/笔记本中离线运行捕获与分析
+- 研究 LLM 内部注意力与激活的运行机制
+- 为推理服务加入模型内部的安全护栏
+- 对已部署模型做激活转向以增强指令遵循
+- 构建基于内部状态的幻觉检测器
 
 ## 场景标签
 
- · 领域:LLM 推理/模型可解释性
+`网络安全` `LLM 可观测性` · 领域:评测与运维
 
 ## 证据(README 行号)
 
+> L2: *A modular plugin library for vLLM.*
 > L8: MIA is a plugin library designed to let developers and researchers **inspect**, **analyze**, and **steer** the inter
-> L16: MIA is vLLM-Hook for vLLM 0.29 and its V2 model runner, under CUDA graphs by default. Two ways to run it:
+> L16: MIA is vLLM-Hook for vLLM 0.32 and its V2 model runner, under CUDA graphs by default. Two ways to run it:
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `dd794ff3e305` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e605e5682688` · [字段定义](../../DATASET.md)*

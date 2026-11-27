@@ -2,9 +2,9 @@
 
 ⭐ 156 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/AI-in-Transportation-Lab/awesome-tinyml) · [官网](https://dl.acm.org/doi/10.1145/3776588) · 组织维护
 
-**TinyML 资源策展清单：面向边缘设备机器学习研究者的论文/库/教程汇总**
+**TinyML 领域的论文、库与教程资源策展清单**
 
-由 AIT Lab（AI in Transportation Lab）维护的 TinyML 主题资源清单：收录 80 篇论文（自动从 arXiv 更新）以及 TinyML 库、书面与视频教程，覆盖微控制器部署、量化、神经架构搜索、异常检测等方向。配套综述论文《From Tiny Machine Learning to Tiny Deep Learning: A Survey》已发表于 ACM Computing Surveys，README 提供 BibTeX 引用。面向在低算力、低内存、低功耗边缘设备上部署模型的研究者与工程师，采用 CC BY 4.0 许可，通过 GitHub PR 接受社区贡献。
+面向在超低功耗嵌入式设备上部署机器学习模型的研究者、工程师和开发者，汇集 TinyML 领域的论文、库、教程等资源。收录 83 篇 TinyML 相关论文并由 arXiv 自动更新，列举 TensorFlow Lite Micro、CMSIS-NN、Edge Impulse 等库与平台，附 HarvardX 课程及多份书面/视频教程。内容按论文、库、教程分类组织，通过 fork-branch-PR 流程接受社区贡献。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 收录 80 篇 TinyML 论文，自动从 arXiv 同步更新
-- 配套综述论文发表于 ACM Computing Surveys
-- 库/教程分节组织（TensorFlow Lite Micro、CMSIS-NN、Edge Impulse、HarvardX 课程等）
+- 83 篇 TinyML 研究论文，随 arXiv 自动更新
+- 列举 TensorFlow Lite Micro、CMSIS-NN、Edge Impulse 等框架与平台
+- 提供书面与视频教程及 edX 课程链接
+- 维护团队发表相关综述于 ACM Computing Surveys
 
 ## 适用场景
 
-- 查找 TinyML 领域最新论文与研究进展
-- 为微控制器/边缘设备项目选型推理框架与学习教程
+- 查找 TinyML 方向的最新研究论文
+- 为微控制器项目选型嵌入式推理框架
+- 寻找 TinyML 入门课程与实践教程
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L11: A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential
-> L44: ## Papers (80)
-> L128: * TensorFlow Lite for Microcontrollers — Google's official framework for TinyML deployment
+> L44: ## Papers (83)
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a3a32b0f0c6a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `65bc48975843` · [字段定义](../../DATASET.md)*

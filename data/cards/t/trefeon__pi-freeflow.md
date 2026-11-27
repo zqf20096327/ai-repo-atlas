@@ -2,9 +2,9 @@
 
 ⭐ 144 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/trefeon/pi-freeflow) · [官网](https://pi.dev/packages/pi-freeflow) · 个人维护
 
-**为 Pi/Oh My Pi 提供 37 个免费模型与中继代理的插件**
+**为 Pi/OMP 编码代理聚合 32 个免费模型并提供中继代理**
 
-作为 Oh My Pi 与 Pi 编码 agent 的扩展插件运行，聚合来自 OpenCode Zen、KiloCode Gateway、Cline、OVHcloud 的 37 个免费模型（上下文最高 1M），统一为短名模型 ID 供 /model 选择。核心机制包括：可自建的请求中继池（自托管 WARP 池、Cloudflare Workers/Deno Deploy/Vercel Edge），在多出口 IP 间分摊请求以规避按 IP 计的免费层限流；中继故障时自动冷却并回退直连上游。附带本地回环共享代理、轮转日志与工具调用诊断（JSONL）。限制：仅在 OMP/Pi 宿主内加载，非独立 CLI；模型目录仅文本与图像输入。
+作为 Pi 与 Oh My Pi 宿主的扩展插件运行，提供经过核验的免费模型清单（含动态发现的 Kilo 模型，上下文最高 1M）、自建中继代理池（WARP 池/Cloudflare Workers/Deno Deploy/Vercel Edge）以分散出口 IP 应对免费额度限流、自动回退、共享本地代理（127.0.0.1:28180）、可读日志与工具调用诊断。MIT 许可，非独立 CLI，仅支持 OMP 与 Pi 宿主。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 聚合 4 个免费来源共 37 个模型，上下文窗口最高 1M
-- 自建中继池分散请求到多个出口 IP，含冷却与自动直连回退
-- 一条 JSONL 记录每个声明工具的流式轮次的调用、参数规模与失败分类
-- 中继池可导出/导入 JSON 在多机间迁移
+- 32 个经核验的免费模型，上下文窗口最高 1M
+- 中继代理池分散出口 IP，限流节点自动冷却轮换
+- 共享本地代理与 token 门控，供并行子代理复用
+- 工具调用诊断日志（toolcall-audit.jsonl）记录参数规模与失败分类
 
 ## 适用场景
 
-- 在免费层配额内跑长上下文编码与 agent 任务
-- 多出口 IP 中继池分摊请求，规避按 IP 的限流
-- 跨会话/子代理复用同一本地代理与中继池
+- 在 Pi/OMP 中使用免费模型跑长编码与代理任务
+- 出口 IP 被免费额度限流时通过自建中继分散请求
+- 排查模型工具调用失败的原因与参数问题
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: > 37 free models with up to 1M context. No API keys to manage. Add your own relays to spread requests across more IP
 > L5: Thin by design: a model list, a relay proxy, and a log. The host (`pi-ai`) handles thinking, normalization, and prov
-> L17: |**37 free models**|12 from OpenCode Zen, 16 from KiloCode Gateway, 1 from Cline, 8 from OVHcloud AI Endpoints, con
+> L17: |**Relay pool**|Route requests through your own relays: a self-hosted egress pool (many egress IPs on one small hos
+> L49: > pi-freeflow is an extension loaded by the host, not a standalone CLI; it works
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `adeb07333929` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5f9f4c521d77` · [字段定义](../../DATASET.md)*

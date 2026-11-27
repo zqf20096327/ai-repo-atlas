@@ -2,9 +2,9 @@
 
 ⭐ 139 · JavaScript · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/glincker/awesome-selfhosted-ai) · [官网](https://github.com/glincker/awesome-selfhosted-ai/blob/main/LIVE.md) · 个人维护
 
-**自托管开源 AI 项目策展清单（303 个，按周健康检查）**
+**可自托管开源 AI 项目策展清单（309 个，每周健康检查）**
 
-收录 303 个可自托管的开源 AI 项目，按 Agents、聊天界面、编码助手、文档 AI/OCR、微调训练、家庭个人 AI、图像视频生成、LLM 运行时等类别组织。每周任务通过 GitHub API 检查每个项目的活跃度，被归档、删除或一年以上无更新的项目移入 UNMAINTAINED.md；统计显示 302 个近 90 天活跃、合计 10.5M stars、0 个失维护。面向希望在自己硬件或服务器上部署 AI 的开发者和自托管爱好者。
+按类别组织的自托管开源 AI 项目清单，覆盖本地 LLM、聊天界面、编程助手、文档 OCR、微调训练、个人 AI、图像视频生成等方向。每周通过 GitHub API 检查每个收录项目的状态，已归档、删除或超过一年无动静的项目自动移入 UNMAINTAINED.md，并维护含星数、最后提交与许可证的健康表。面向想在自己硬件或服务器上运行开源 AI 的用户，本身不提供软件，只提供项目索引。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 303 个项目、合计 10.5M stars，覆盖本地 LLM 到语音图像生成
-- 每周自动健康检查，失维护项目移入 UNMAINTAINED.md
-- 按功能类别组织，含 stars/最近推送/许可证的健康表
+- 309 个项目，覆盖 agents/聊天/OCR/微调/图像视频生成等类别
+- 每周 GitHub API 健康检查，死项目自动移入 UNMAINTAINED.md
+- 附星数、最后推送与许可证的实时健康表
 
 ## 适用场景
 
-- 挑选可在自己服务器上运行的开源 AI 工具
-- 了解各类别（agent、RAG、OCR、微调）下的自托管选项
-- 确认候选项目是否仍被活跃维护
+- 为 homelab 挑选可在自己硬件上运行的开源 AI 项目
+- 寻找特定类别的可自托管替代方案（聊天 UI、RAG、OCR 等）
+- 了解本地 AI 生态中哪些项目仍在活跃维护
 
 ## 场景标签
 
@@ -37,7 +37,8 @@
 ## 证据(README 行号)
 
 > L3: > Open-source AI you can run on your own hardware or server.
-> L5: 303 projects across local LLMs, chat interfaces, agents, MCP servers, RAG, speech and image generation. A weekly job
+> L5: 309 projects across local LLMs, chat interfaces, agents, MCP servers, RAG, speech and image generation. A weekly job
+> L7: **309** projects | **306** active in the last 90 days | **10.8M** combined stars | **0** unmaintained | refreshed 20
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-01 · 置信度 high · 依据 README sha `0943c43f90d7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0191081d61c5` · [字段定义](../../DATASET.md)*

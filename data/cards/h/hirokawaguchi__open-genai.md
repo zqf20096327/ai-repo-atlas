@@ -2,15 +2,15 @@
 
 ⭐ 142 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hirokawaguchi/open-genai) · 个人维护
 
-**将日本政府 AI「源内」完全本地化部署的非官方项目**
+**让日本数字厅源内(GENAI)完全本地化运行的非官方项目**
 
-非官方项目：将日本数字厅开源的政府 AI「源内（GENAI）」改造为完全本地运行——SAML 认证改用 Keycloak、LLM 调用改走 OpenAI 互换 API（默认 Ollama）、聊天历史用 SQLite、RAG 用 Qdrant、转录用 faster-whisper、图像生成用本地 Stable Diffusion。面向自治体/閉域（LGWAN）運用扩展：棟+チーム多租户、审计日志、禁止语/个人信息检测、模型利用控制、各类行政文档 AI 应用（exApp）。通过 Docker Compose 提供开发/生产 TLS/閉域验证三种配置，不含官方 genai-ai-api。
+将数字厅开源的政府 AI「源内(GENAI)」改为完全本地运行的非官方 fork：以 Keycloak 承接 SAML 认证、FastAPI 后端替代云端 API、Ollama 等 OpenAI 互接口作为 LLM 后端，Qdrant 提供 RAG、faster-whisper 提供文字转录、Stable Diffusion 提供图像生成。面向自治体/闭网环境运营，提供审计日志、CSV 用户管理、模型使用控制、禁语/个人信息检测等治理功能，通过 docker-compose 提供开发、TLS 生产与 HTTP 验证三种部署配置。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 云托管服务全部替换为开源/本地组件（Keycloak/Qdrant/SQLite/SeaweedFS/faster-whisper）
-- 任意 OpenAI 互换服务器可切换（默认 Ollama /v1）
-- 自治体治理功能：审计日志 3 年保持、禁止语・PII 检知、棟+チーム多租户
-- 大量行政实務 exApp：RAG、日程调整、Markdown 文档生成、申请手续等
+- 用 Keycloak+FastAPI+Ollama/Qdrant/SeaweedFS 替换 Cognito/Bedrock/DynamoDB/S3 等云依赖
+- 面向自治体的治理功能：审计日志、CSV 用户管理、模型策略、禁语与 PII 检测
+- 多租户（栋）+ 团队模型，RAG 知识与聊天记录按栋隔离
+- 提供 MCP 接口（知识检索、手続きマスタ）与 Dify 应用代理
 
 ## 适用场景
 
-- 政府机构在閉域网/LGWAN 内自建源内系统
-- 用本地 LLM 替代云端 Bedrock 运行政府 AI 应用
-- 需要审计与数据删除治理的团队 AI 部署
+- 自治体在闭网环境（LGWAN）中部署本地化政府 AI 助手
+- 团队内共享 RAG 知识库与聊天、文档生成等 AI 应用
+- 以本地 LLM 与 SAML 认证替代云服务的合规运行环境
 
 ## 场景标签
 
-`RAG` `图像生成` `语音识别` `聊天机器人` · 领域:对话与助手
+`AI 助手` `RAG` `图像生成` `语音识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L10: デジタル庁がオープンソースで公開したガバメント AI「源内（GENAI）」を、
 > L31: - LLM 呼び出しを **OpenAI 互換 API** 経由で行う（既定は Ollama の `/v1`。vLLM / LM Studio / OpenAI など任意の OpenAI 互換サーバに切替可）
-> L64: 1. **自治体実務を想定した機能** — 監査ログ（3 年以上保持）、利用者 CSV 一括管理、モデル利用制御、禁止語／個人情報検知（添付警告・ナレッジラベル、任意の GiNZA NER）、プロンプトテンプレート、ノートブック（
+> L118: |LLM 推論|Amazon Bedrock|**OpenAI 互換 API**（既定は Ollama の `/v1`。任意の互換サーバに切替可）|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `137ff920b1ee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `d99130d1b887` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 148 · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/PteroLabsAI/PteroSim-UAV-Simulator) · [官网](https://pterolabs.ai/) · 组织维护
 
-**面向开发测试与科研的无人机仿真平台**
+**面向无人机开发者的仿真平台，提供6自由度动力学与可编程API**
 
-由 PteroLabs AI 开发的无人机仿真平台：提供 6 自由度飞行动力学（最高 10 倍实时）、风与湍流建模、IMU/GPS/气压计/空速计/相机等传感器仿真，原生支持 PX4 与 ArduPilot SITL。飞行器以 JSBSim XML 与 glTF 网格形式置于 PteroSimAircrafts/ 目录，可复制修改自定义机型。通过 gRPC API 与 Python SDK（pip install pterosim）进行多机编排。注意：本产品为专有软件，按许可层级授权（含 Free 层）。
+PteroSim 是一个无人机（UAV）仿真平台，用于无人机开发、测试与研究。提供 6-DOF 飞行动力学（最高 10 倍实时）、风与湍流建模、PX4 与 ArduPilot 的 SITL 支持，传感器仿真覆盖 IMU、GPS、气压计、空速与相机。飞行器以 JSBSim XML 与 glTF 网格的松散文件夹形式发布，可在任意许可层级（含 Free）复制修改为自定义机型；通过 gRPC API 与 Python SDK 支持多机编排。软件为专有许可，发布版内置 JSBSim 与 FFmpeg 库。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 6-DOF 飞行动力学，最高 10 倍实时，含风与湍流建模
-- 原生 PX4 与 ArduPilot SITL 支持，覆盖四旋翼/直升机/VTOL/固定翼/尾座机等机型
-- 机型由 JSBSim XML 定义，可自由添加自定义飞行器
-- gRPC 编程 API 与 Python SDK 支持多机编排
+- PX4 与 ArduPilot SITL 原生支持
+- 飞行器以 JSBSim XML 文件夹形式松散发布，可复制修改自定义机型（Free 层级即可）
+- gRPC API 与 Python SDK（pip install pterosim）支持多无人机编排
+- 传感器仿真：IMU、GPS、气压计、空速、相机
 
 ## 适用场景
 
-- PX4/ArduPilot 飞控的 SITL 软件在环仿真开发与测试
-- 多机协同算法的编程化仿真验证
-- 通过复制 JSBSim XML 机型文件测试自定义飞行器
+- 在仿真环境中开发与测试 PX4/ArduPilot 固件的飞行行为
+- 通过 Python/gRPC API 编排多无人机仿真实验
+- 复制现有机型文件修改为自定义飞行器模型
+- 无人机研究中的传感器与风场扰动建模
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+ · 领域:机器人/无人机仿真
 
 ## 证据(README 行号)
 
 > L32: PteroSim is a UAV simulation platform for drone development, testing, and research. Accurate 6-DOF flight dynamics,
 > L41: - Programmatic gRPC API for multi-drone orchestration
+> L100: PteroSim is proprietary software by PteroLabs AI.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `857fde28aac9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `0f0d7005f6db` · [字段定义](../../DATASET.md)*

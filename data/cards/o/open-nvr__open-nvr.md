@@ -2,9 +2,9 @@
 
 ⭐ 220 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/open-nvr/open-nvr) · [官网](https://opennvr.org) · 组织维护
 
-**自托管 NVR 平台：在自己的摄像头硬件上运行任意 AI 模型**
+**自托管摄像头 NVR 平台：本地运行任意 AI 模型并审计推理**
 
-开源视频基础设施：接入 ONVIF/RTSP 摄像头进行录制、直播（WebRTC），通过一份公开契约将任意 AI 模型（检测、车牌、人脸、VLM、语音）挂到摄像头流后面，其上提供 14 个可安装应用（入侵、越线、门铃、语音 agent 等）。面向不能把摄像头交给厂商的组织，默认本地运行、可气隙部署，模型权重以 SHA-256 指纹逐分钟复核并全程审计。Docker 两步部署，App SDK 与 Adapter SDK 以 Apache-2.0 发布于 PyPI。
+面向不能把摄像头交给厂商的组织与个人的开源视频基础设施：以 ONVIF/RTSP 接入摄像头，提供录像、实时查看与 WebRTC 流；通过一个开放契约把任意 AI 模型接入为能力（检测、车牌、人脸、姿态、场景描述、开放词汇搜索、语音等），其上提供 14 个一键安装的应用与 App/Adapter 两个 Apache-2.0 SDK。部署仅需 Docker 与 start.sh 脚本；内置默认拒绝的离线模式与本地模型策略、模型权重 SHA-256 指纹与追加写审计日志，支持气隙部署与双网卡隔离的摄像头网络。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 统一模型契约：检测器/车牌/VLM 等模型可热插拔替换，其余不变
-- 模型权重 SHA-256 指纹、逐分钟复核与 correlation id 审计链路
-- 默认拒绝的离线门（DEPLOYMENT_MODE=offline / AI_SOVEREIGNTY=local_only）与双 NIC 摄像网隔离
-- 两个 Apache-2.0 SDK（opennvr-app-sdk / opennvr-adapter-sdk）发布于 PyPI
+- 通过开放契约接入任意模型，适配器可热替换并做指纹追踪
+- 默认拒绝的离线模式（DEPLOYMENT_MODE=offline / AI_SOVEREIGNTY=local_only）与出口白名单代理
+- 每个模型登记权重 SHA-256 指纹，相关 ID 从告警追溯到具体权重
+- 分层检测：Tier-0 低帧率扫描子码流，按需唤醒重型模型
 
 ## 适用场景
 
-- 在气隙或内网环境自建摄像头 AI 分析，不让画面出网
-- 在既有硬件上通过换模型新增车牌、人脸等能力
-- 通过 MQTT discovery 与 Home Assistant 集成联动家庭自动化
-- 为自己的模型编写 adapter，接入平台的事件与审计体系
+- 在自有硬件上对摄像头画面做目标检测/车牌识别而不经云
+- 政府、医疗等需要气隙部署与可审计推理的场所
+- 通过 App Catalog 一键安装入侵、徘徊、占位等应用
+- 用 SDK 为自有模型编写适配器接入平台
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+`目标检测` `人脸识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L7: OpenNVR is open-source video infrastructure for organisations and people who cannot hand their cameras to a vendor. 
 > L115: |🧠|**An AI platform for cameras**|Any model behind a REST or WebSocket endpoint becomes a capability through a pub
-> L42: ### 🧠 Any AI model
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ba86d475e568` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f2788bd88c4a` · [字段定义](../../DATASET.md)*

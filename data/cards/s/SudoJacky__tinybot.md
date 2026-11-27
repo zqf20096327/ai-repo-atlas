@@ -2,9 +2,9 @@
 
 ⭐ 163 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SudoJacky/tinybot) · [官网](https://sudojacky.github.io/tinybot/) · 个人维护 · 中文 README
 
-**桌面端个人 AI 助手：对话+原生工具+插件+Agent Graph**
+**基于 LLM 与原生工具系统的轻量个人 AI 助手**
 
-基于 Rust/Tauri 与 Node.js 的桌面个人 AI 助手应用，由 LLM 驱动对话并提供原生工具系统。核心能力包括：工作区管理、可创建编辑运行的 Agent Graph（可被 Chat Agent 作为工具调用）、符合 Agent Plugins 1.0.0 标准的插件系统（内置 create-agent-plugin 辅助工具，可将现有 Skill 或 MCP 配置迁移转换）、Windows 动画桌面宠物（拖拽文本/图片/文件快速对话，图像理解需模型支持）。通过 GitHub Releases 下载安装包，帮助文档为中文。
+基于 Node.js、Rust 与 Tauri 构建的桌面端个人 AI 助手，由大语言模型驱动并内置原生工具系统。支持创建、编辑和运行可复用的 Agent Graph，对话中可将已保存的 Graph 作为工具调用并取其输出继续任务；Windows 提供动画桌面宠物，支持拖拽文本、图片、文件进入快速对话；自 v0.2.3 起支持 Agent Plugins 1.0.0 标准，并内置 create-agent-plugin 辅助工具可将已有 Skill 或 MCP 配置迁移为插件。还可生成自定义图表。README 声明项目因资源不足已逐渐停滞，帮助手册目前仅有中文版。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Agent Graph 可作为工具被 Chat Agent 调用并接续任务
-- 支持 Agent Plugins 1.0.0 标准，内置 Skill/MCP 配置迁移
-- Windows 桌面宠物：拖拽文本/图片/文件快速发起对话
-- 工作区与插件管理（Tools & Plugins）
+- 支持创建、编辑、运行可复用 Agent Graph，并可在对话中作为工具调用
+- 遵循 Agent Plugins 1.0.0 标准，内置 Skill/MCP 配置迁移工具
+- Windows 桌面宠物支持拖拽文本/图片/文件快速对话
+- 可在对话中生成自定义图表
 
 ## 适用场景
 
-- 在桌面端与 LLM 对话并调用原生工具完成日常任务
-- 把现有 Skill 或 MCP 配置迁移为插件继续使用
-- 搭建可复用的工作流 Graph 并在对话中调用
+- 在桌面端通过 LLM 助手执行任务并调用工具
+- 将已有 Skill 或 MCP 配置迁移为 Agent 插件
+- 通过拖拽文件到桌面宠物快速发起对话
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `f41a3818377a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2156c30ac5d0` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # godwit-email/godwit
 
-⭐ 162 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/godwit-email/godwit) · [官网](https://godwit.email) · 组织维护 · 中文 README
+⭐ 162 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/godwit-email/godwit) · [官网](https://godwit.email) · 个人维护 · 中文 README
 
-**AI 辅助的开源桌面邮件客户端，本地脱敏后再交给模型**
+**跨平台桌面邮件客户端，本地脱敏后由 AI 摘要、翻译、起草邮件**
 
-面向个人用户的跨平台（macOS/Windows/Linux）桌面邮件客户端，支持任意 IMAP/SMTP 账户，内置同步、会话、搜索、标签、规则与退订等邮件功能。AI 部分为助手 Wit：阅读与总结邮件、读取附件、起草回复（不代发）。隐私机制是发往云端模型前在本地用识别模型对姓名、账号、电话、密钥等做掩码、警告或拦截并记录日志。支持任意 OpenAI/Anthropic 兼容模型（含 Ollama、LM Studio 本地模型），并可通过 SKILL.md、TypeScript 插件、原生插件与 MCP 服务器扩展。macOS 提供 dmg 与 Homebrew，Windows 提供安装包与商店版，Linux 提供 deb 与安装脚本。
+基于 Go 与 React 的桌面邮件客户端，支持任意 IMAP/SMTP 账户，内置对 Gmail、Outlook、QQ、163/126、腾讯企业邮、钉钉等服务的自动配置。AI 助手 Wit 可回答邮件问题、读取 PDF/Office/CSV 附件并起草回复，但只写草稿不发送；发往云端模型前在本地用识别模型对姓名、电话、账号、密钥等脱敏。所有 AI 功能走统一的扩展点：SKILL.md 技能、TypeScript 插件、C ABI 原生插件与 MCP 服务器，并提供 godwit mcp 供外部 agent 读写邮件。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 本地隐私掩码：密钥/证件号/电话/姓名等在送云端模型前被掩码或拦截并留日志
-- AI 助手 Wit：问答、读附件（PDF/Office/CSV）、起草回复，外发动作需用户批准
-- 支持任意 OpenAI/Anthropic 兼容服务（含 Ollama、LM Studio），密钥存系统钥匙串
-- 扩展体系：SKILL.md 技能、TypeScript 插件、原生 C ABI 插件、MCP 服务器及对外 MCP server
+- 本地脱敏（masking）后才将文本送云端模型，含脱敏日志
+- SKILL.md / 插件 / MCP 三层扩展机制，AI 功能与用户扩展同路
+- godwit mcp 使 Claude Code、Cursor 等 MCP 应用可读取邮件并创建草稿
+- 支持任意 OpenAI/Anthropic 兼容服务及 Ollama、LM Studio 本地模型
 
 ## 适用场景
 
-- 用一个客户端管理多个 IMAP/SMTP 邮箱并离线处理邮件
-- 让 AI 助手总结邮件、读附件、起草回复，同时敏感信息不原文上云
-- 为 Claude、Cursor 等 MCP 应用开放本机邮件读取与草稿创建
-- 通过 SKILL.md 和插件扩展自己的邮件工作流
+- 在一个客户端集中管理多个 IMAP 邮箱并离线同步
+- 让 AI 摘要、翻译邮件并起草回复，敏感信息先在本地遮蔽
+- 为个人邮件接入自定义 agent 技能或 MCP 工具
+- 在无图形界面的 Linux 服务器上以 systemd 服务后台收信
 
 ## 场景标签
 
@@ -40,6 +40,7 @@
 
 > L11: Godwit is a desktop email client for macOS, Windows and Linux. It works with any IMAP/SMTP account and ships with a
 > L22: - **Wit**: an agent that answers questions about your mail, reads attachments (PDF, Office, CSV) and drafts replies
+> L26: - **Your models**: any OpenAI-compatible (Chat Completions or Responses) or Anthropic-compatible service, including
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `125d9ba5a093` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `2967c85001ff` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 166 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Nitjsefnie/Overflow) · [官网](https://overflow.nitjsefni.eu) · 个人维护
 
-**开源贡献互记分账本：用闲置 LLM 订阅额度结算互助工作**
+**用互助记账协调开源贡献的共享账本服务**
 
-基于 GitHub issue 与 PR 的互记分（mutual-credit）协作系统：仓库赞助方为 issue 标价，外部贡献者完成工作并提交关闭该 issue 的 PR，合并后贡献者账户记入积分、赞助方账户扣减；积分可在不同仓库间通用。账户初始信用额度为 -10，通过为他人完成工作偿还负余额并提升额度。每笔结算记录标签事件、评论、合并提交与 diff 指纹，数据可从 GitHub 复现；提供审计机制（审计/警告/重校准/封禁）。支持 GitHub 登录注册，GitLab 项目可通过 API token 关联。README 明确指出自建实例无法加入现有交换网络。
+Overflow 是一个开源协作的共享记账平台：仓库发起人用标签为 issue 定价，外部贡献者完成工作并合并关闭该 issue 的 PR 后获得积分，发起人账户被扣分；积分是共享账本上的点数，不涉及金钱与代币。结算依赖 GitHub/GitLab webhook、标签目录、结算评论与合并提交等可复现证据，账户按 0 起步、负余额发现限制、审计与封禁等规则防滥用。面向有闲置 LLM 订阅额度、时间不均衡的个人与小团队，通过官网用 GitHub 登录注册仓库使用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 以 GitHub label 与合并 PR 触发的跨仓库共享积分账本
-- 结算公式 max(0, 实际分 − 不同审查轮数)，全部数据可从 GitHub 复现
-- -10 起始信用额度与偿还后额度递增的反滥用机制
-- 提供 API 令牌、账本读取端点及面向 agent 的 MCP 端点
+- PR 合并后按结算标签与评论在共享账本上记账/扣分
+- 每次结算记录标签事件、评论、合并提交与 diff 指纹，可从 GitHub 复现
+- 0 起步余额、负余额发现限制、审计/警告/重新校准/封禁的反滥用机制
+- 支持 GitHub 为主、GitLab 项目注册（webhook、初始导入、目录变更与注销）
 
 ## 适用场景
 
-- 空闲时帮别的仓库修 issue，攒积分换自己积压工作被处理
-- 小型团队在产能波动间以贡献换取他人协助
-- 通过 API 与 MCP 端点程序化注册仓库和读取账本
+- 用帮别人修 issue 挣的积分抵扣自己积压 issue 的费用
+- 小团队在人力充裕周为紧俏周储备外部支援
+- 在自家仓库用标价为积压工作吸引外部贡献者
 
 ## 场景标签
 
- · 领域:开源协作/积分账本
+ · 领域:开源协作/开发者工具
 
 ## 证据(README 行号)
 
 > L7: **Let your spare weeks pay for the dry ones.** Overflow is a shared ledger for open-source work, for people and smal
-> L46: - API.md — API tokens, programmatic registration and catalog changes with every error message, the ledger read endp
+> L25: 1. A repository sponsor puts a price on an issue with an opening label.
+> L27: 3. Between the closing PR's final commit and fifteen minutes after its merge, the sponsor puts an actual-catalog la
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 low · 依据 README sha `c630e8c8798a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `d6e6745a7e0e` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 138 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/seoes/proval) · [官网](https://proval.app) · 个人维护
 
-**自托管 LLM 代码审查 agent：接入 Git 平台自动审查 PR 与 issue**
+**自托管 LLM 代码评审 Agent：接入自有 Git 平台审 PR 和 issue**
 
-部署在自有服务器上的 LLM 代码审查服务：通过 webhook 接收 GitLab、Forgejo、GitHub 事件，读取 diff 后按变更文件分组，派出子 agent 探索代码库并产出按严重度分组的审查意见，支持行内评论、issue 回复、线程回复与含 token 用量的活动看板。模型通过 OpenAI 兼容 Chat Completions API 接入，可用 Ollama、llama.cpp 等本地模型。以 Docker Compose/Docker/Kubernetes 方式部署，使用 Bun/Hono/SvelteKit/SQLite 构建，AGPL-3.0 许可。作者声明项目尚处早期，认证、SSO、速率限制等功能在计划中。
+部署在自己基础设施上的代码评审 Agent：通过 Webhook 连接 GitLab、Forgejo、GitHub（Gitea/Codeberg 经 Forgejo 兼容 API），对 PR 读取 diff、按变更文件分组、用子 Agent 各自探索代码库后写出按严重性分组的评审意见，支持行内评论、线程回复与 issue 回复，并记录 token 用量以追踪成本。模型侧走 OpenAI 兼容 API 或 Anthropic Messages API，可用 Ollama/llama.cpp 等本地模型或经 OAuth 登录 ChatGPT 订阅。数据存 SQLite（WAL 模式），推荐 Docker Compose 部署，Kubernetes 需单副本本地盘存储。AGPLv3 许可，作者自述仍处早期开发阶段。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 支持 GitLab、Forgejo、GitHub，含行内评论（单行/多行）
-- 子 agent 分组审查变更文件，探索代码库捕捉跨文件问题
-- OpenAI 兼容 API 接入，支持 Ollama、llama.cpp 等本地模型
-- 活动看板记录审查/回复及 token 用量
+- PR diff 分组评审：子 Agent 独立探索代码库，捕捉跨文件问题
+- 支持 GitLab、Forgejo、GitHub 三类 Git 平台及行内/线程评论
+- OpenAI 兼容与 Anthropic API，可用 Ollama、llama.cpp 本地模型
+- 活动日志记录 token 用量以追踪模型成本
 
 ## 适用场景
 
-- 在内网或 homelab 中用本地模型自动审查 pull request
-- 让 AI 回复 issue 并跟踪讨论上下文
-- 私有化部署代码审查，不依赖外部 SaaS
+- 在内网/homelab 环境里对个人 GitLab 的 PR 做自动评审
+- 替代外部评审 SaaS，让代码不出自建基础设施
+- 用本地模型跑代码评审以保持数据私密
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5: A Self-hosted LLM code review agent. Connect it to your Git host, bring your own model, and let it review pull reque
-> L28:  When a pull request gets a meaningful push (or a draft becomes ready), Proval reads the diff, groups changed files
+> L17:  Proval works with OpenAI-compatible Chat Completions and Responses APIs and the Anthropic Messages API, so you can
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `5ccdcc959855` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e2d5b2955d7c` · [字段定义](../../DATASET.md)*

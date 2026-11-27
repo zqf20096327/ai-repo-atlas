@@ -2,9 +2,9 @@
 
 ⭐ 160 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hthoene/plainboard) · 个人维护
 
-**自托管多智能体团队：经理规划、专职智能体写软件**
+**自托管多智能体团队：经理 Agent 规划、专职 Agent 构建软件**
 
-PlainBoard 以看板形式组织一组 AI 智能体协作开发软件：用户与经理智能体对话或提交工单，经理拆解任务并分配给各专职智能体，完成的分支合并为一趟检查，通过后落入 main 分支。智能体在带 shell、sudo 与网络的独立容器内工作，密钥静态加密；等待 CI 时不消耗模型调用，长对话由低价模型摘要。通过 docker compose 一条命令启动，在浏览器中完成账号、模型与代码接入配置，支持多角色账户、MCP 服务器与手机端访问。
+自托管的多 Agent 软件开发平台：用户在聊天或看板中提出需求，manager agent 拆解工单并分配给专职 agent，agent 在独立容器中构建与测试，完成的分支合并为一次检查（train），通过后落入 main 分支。支持多人协作（角色权限、@提及）、订阅共享、Ideas 看板、MCP 服务器接入外部 AI 客户端。运行于 Docker 三容器（应用、runner、PostgreSQL+pgvector），面向想用自然语言驱动软件开发的个人与小团队。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ PlainBoard 以看板形式组织一组 AI 智能体协作开发软件：用户�
 
 ## 能力要点
 
-- 经理智能体规划工单并分配给专职智能体协作开发
-- 完成分支合并为一趟检查，通过即合入 main
-- 智能体运行于独立容器，密钥静态加密
-- 可接 Claude、Codex 及 Ollama/vLLM 等自建模型服务
+- manager agent 拆解工单并分配给专职 agent，完成的分支合并检查后自动落入 main
+- agent 运行在独立容器中，PlainBoard 数据库与密钥在容器外且静态加密
+- 多人协作：角色权限（Viewer/Member/Owner）、@提及、订阅共享
+- agent 可运行于 Claude、Codex 订阅、API key 或自托管模型服务器（Ollama、LM Studio、llama.cpp、vLLM）
 
 ## 适用场景
 
-- 通过对话描述需求让智能体团队开发并合入软件
-- 自托管管理多智能体开发任务与成本
-- 团队多人按角色查看/参与智能体开发进度
+- 用自然语言提出需求，让 agent 团队直接产出并合并代码
+- 小团队多人共享同一个经理 agent 协作开发项目
+- 把看板进度通过公开 API 展示到自己的网站
 
 ## 场景标签
 
@@ -38,8 +38,9 @@ PlainBoard 以看板形式组织一组 AI 智能体协作开发软件：用户�
 ## 证据(README 行号)
 
 > L5: You say what you want. A manager agent plans the work, specialised agents build it,
-> L117: - **A team per project.** Each agent has a role, a model, an effort level and its own tools. Claude
-> L126: - **Notes, schedules, MCP servers, git repositories.** All optional; without git everything works
+> L6: and PlainBoard checks and lands what they finish. Self-hosted, started with one command.
+> L19: 2. **The manager plans it.** It writes the tickets, builds the team and gives each piece of work to
+> L21: 3. **The agents build it, PlainBoard lands it.** Finished branches are merged together, checked once,
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `9c1e989f1a74` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `abeab1472b5e` · [字段定义](../../DATASET.md)*

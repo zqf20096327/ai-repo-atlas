@@ -2,9 +2,9 @@
 
 ⭐ 143 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
 
-**NVIDIA 加速的 ROS 2 深度学习推理包，服务机器人感知**
+**为机器人提供 NVIDIA 加速 DNN 推理的 ROS 2 软件包**
 
-NVIDIA Isaac ROS 生态下的 ROS 2 推理节点集合：提供 TensorRT 与 Triton 两种推理节点，将预训练 DNN 模型作用于输入 Tensor 并输出预测 Tensor，用于机器人 AI 感知；配套 DNN 编码/解码节点完成图像到 Tensor 的转换与结果还原，内置图像边界框检测与分割的编解码实现。TensorRT 针对目标硬件优化模型但不支持所有新模型，Triton 节点通过多后端（ONNX Runtime、TensorFlow、PyTorch 等）覆盖此类模型。运行于 Jetson 与 x86_64 CUDA GPU。
+包含 TensorRT 与 Triton 两个 ROS 2 推理节点：输入图像经 DNN encoder 转为 Tensor，推理后由 DNN decoder 转回边界框/分割结果，供机器人感知应用使用。TensorRT 针对目标硬件优化模型，不支持的新模型可走 Triton 节点，后者支持 ONNX Runtime、TensorFlow、PyTorch 等多种后端。运行于 Jetson 与带 CUDA GPU 的 x86_64；使用 ROS 2 Lyrical 的 rosidl::Buffer 减少 CPU 与加速器内存间拷贝。安装与使用说明位于 Isaac ROS Documentation。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ NVIDIA Isaac ROS 生态下的 ROS 2 推理节点集合：提供 TensorRT 与 Tri
 
 ## 能力要点
 
-- TensorRT 与 Triton 双推理节点，Triton 支持 ONNX Runtime/TensorFlow/PyTorch 等多后端
-- 提供图像边界框检测与分割的 DNN 编码/解码节点实现
-- 基于 ROS 2 原生 rosidl::Buffer 的 CUDA 缓冲后端，减少 CPU 与加速器间数据拷贝
-- 覆盖 Jetson（AGX Thor/Orin 等）与 x86_64 RTX GPU 的多平台性能数据
+- TensorRT 与 Triton 两个 ROS 2 推理节点
+- Triton 支持 ONNX Runtime/TensorRT/TensorFlow/PyTorch 等后端
+- 提供图像边界框检测与分割的 encoder/decoder 节点
+- 基于 rosidl::Buffer 的 CUDA 内存存储与传输
 
 ## 适用场景
 
-- 在 ROS 2 机器人系统中接入预训练 DNN 做图像检测或分割
-- 对比 TensorRT 与 Triton 节点在不同 NVIDIA 硬件上的推理性能
-- 为自定义 DNN 模型选择可运行的推理通道
+- 在 Jetson 或 x86_64 GPU 上运行机器人视觉感知模型
+- 通过 ROS 2 图集成 DOPE、PeopleSemSegNet 等预训练 DNN
+- 为自定义 DNN 模型搭建推理流水线
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L3: NVIDIA-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with C
 > L15: Isaac ROS DNN Inference contains ROS 2 packages for performing DNN
+> L32: TensorRT and Triton are two separate ROS nodes to perform DNN inference.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `232aa418a57d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `793d27289452` · [字段定义](../../DATASET.md)*

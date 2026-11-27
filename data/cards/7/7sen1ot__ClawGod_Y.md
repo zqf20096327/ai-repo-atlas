@@ -2,9 +2,9 @@
 
 ⭐ 160 · JavaScript · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/7sen1ot/ClawGod_Y) · [官网](https://github.com/7sen1ot/ClawGod_Y) · 个人维护 · 中文 README
 
-**给渗透测试者的 Claude Code 运行时补丁：绕过权限与安全限制**
+**对 Claude Code CLI 做运行时补丁，用于授权渗透测试**
 
-Claude Code 官方 CLI 的运行时补丁项目（0Chencc/clawgod 的分支）：安装器提取官方二进制（默认 v2.1.322），施加 AST 级补丁后以 Bun 运行时在 ~/.clawgod 独立运行，不改动已装的 claude 命令。补丁默认绕过工具权限确认与安全分类器，重写提示词面向授权测试场景。模型接入通过 provider.json 配置 Anthropic 协议或 OpenAI 兼容服务，也可共享已有 Claude 订阅登录。跨版本兼容不保证，未匹配的必要补丁失败会中止安装。要求合法授权使用。
+对官方 Claude Code CLI 应用的运行时补丁工具：安装器提取官方二进制并做 AST 级补丁，用 Bun 运行修补后的构建。补丁默认绕过工具权限提示与安全分类器，将提示改写为授权测试场景，并裁剪未用的办公/消费功能。运行时独立存放于 ~/.clawgod，不改动已安装的原版 claude；通过 provider.json 支持 Anthropic 兼容 API、OpenAI Chat Completions 兼容服务或复用现有订阅登录。仅限授权测试用途，GPL-3.0 许可。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@ Claude Code 官方 CLI 的运行时补丁项目（0Chencc/clawgod 的分支）�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 提取官方 Claude Code 二进制并施加 AST 级补丁，以 Bun 运行时独立运行于 ~/.clawgod
-- 默认绕过工具权限确认与安全分类器，提示词面向授权渗透测试重写
-- provider.json 支持 Anthropic 协议与 OpenAI Chat 兼容服务，或共享 Claude 订阅登录
-- 补丁采用跨版本锚点，可选择 latest/stable/指定版本
+- 对官方二进制做 AST 级补丁，运行时独立存放于 ~/.clawgod
+- 默认绕过工具权限提示与安全分类器，提示改写为授权测试语境
+- provider.json 支持 Anthropic 兼容与 OpenAI Chat Compatibles 兼容服务，或复用 Claude 订阅登录
+- 跨版本补丁锚点，可选 latest/stable/指定版本安装
 
 ## 适用场景
 
-- 在已授权的渗透测试与安全审计中让 Claude Code 自动执行工具调用
-- CTF 或实验环境中使用免确认的 Claude Code 会话
-- 需要独立于原版 claude 的并行补丁运行时
+- 在获得授权的渗透测试中运行补丁版 Claude Code
+- 安全审计中跳过逐项工具权限确认
+- 在同一台机器上并存原版 claude 与补丁版 clawgod
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ Claude Code 官方 CLI 的运行时补丁项目（0Chencc/clawgod 的分支）�
 
 ## 证据(README 行号)
 
-> L16: ClawGod_Y is a runtime patch for the official Claude Code CLI that turns it into a tool dedicated to authorized pen
-> L23: - **Pentest-oriented patching**: tool-permission prompts and safety classifiers are bypassed by default, prompts ar
+> L15: ClawGod_Y is a runtime patch for the official Claude Code CLI that turns it into a tool dedicated to authorized pen
+> L22: - **Pentest-oriented patching**: tool-permission prompts and safety classifiers are bypassed by default, prompts ar
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `b8aa6c24ab09` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `61e1cc8e0714` · [字段定义](../../DATASET.md)*

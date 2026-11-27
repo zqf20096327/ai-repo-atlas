@@ -2,9 +2,9 @@
 
 ⭐ 271 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/defilantech/LLMKube) · [官网](https://llmkube.com) · 组织维护
 
-**跨异构 GPU 集群自托管 LLM 推理的 Kubernetes operator**
+**Kubernetes operator：在异构 GPU 集群上自托管 LLM 推理**
 
-LLMKube 是一个 Go 编写的 Kubernetes operator，把自托管 LLM 推理简化为 Model 与 InferenceService 两个 CRD，由 operator 处理模型下载、缓存、GPU 调度、健康检查、扩缩容并暴露 OpenAI 兼容 API。支持 NVIDIA CUDA、AMD/Intel Vulkan、Apple Silicon Metal 等异构节点共用一套控制平面；Metal Agent 以原生 macOS 进程运行 llama-server/mlx-server 以访问 Metal GPU。ModelRouter 提供本地与外部模型间的 fail-closed 策略路由。项目处于 pre-1.0，CRD 均为 v1alpha1，字段可能在次版本间变更。
+LLMKube 是一个 Go 编写的 Kubernetes operator，将自托管 LLM 部署抽象为 Model 与 InferenceService 两个 CRD，由 operator 处理模型下载、缓存、GPU 调度、健康检查、扩缩容并暴露 OpenAI 兼容 API。支持的运行时包括 llama.cpp、vLLM、TGI、mlx-server；Metal Agent 以原生 macOS 进程方式接入 Apple Silicon 主机，实现 NVIDIA/AMD(Vulkan)/Intel/Apple Silicon 混合机群统一管理。ModelRouter 提供本地与外部 provider 间的 fail-closed 策略路由。当前为 pre-1.0，CRD 均为 v1alpha1，字段可能在次版本间变更。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ LLMKube 是一个 Go 编写的 Kubernetes operator，把自托管 LLM 推理简�
 
 ## 能力要点
 
-- Model/InferenceService 两个 CRD 声明式部署，自动下载权重并暴露 OpenAI 兼容 API
-- Metal Agent 以原生 macOS 进程运行 llama-server/mlx-server，直接访问 Metal GPU
-- 同一 operator 管理 NVIDIA/AMD/Intel/Apple Silicon 异构节点
-- ModelRouter 提供带预算与 fail-closed 语义的本地/云端策略路由
+- Metal Agent 以原生 macOS 进程运行 llama-server/mlx-server，获得完整 Metal GPU 访问
+- 一个 operator 与一套 CRD 统一管理 NVIDIA、AMD(Vulkan)、Intel、Apple Silicon 主机
+- ModelRouter 提供本地/外部模型的 fail-closed 策略路由与 pii/phi 标签约束
+- OpenAI 兼容流式端点，可对接 LangChain、LlamaIndex、OpenAI Agents SDK 等
 
 ## 适用场景
 
-- 在自有机房或离线（air-gapped）环境用 Kubernetes 托管 LLM 推理
-- 把 Mac Studio 与 NVIDIA GPU 节点纳入同一推理集群统一编排
-- 对含 pii/phi 标注的请求强制只路由到本地模型后端
+- 在 on-prem/air-gapped 环境由平台团队统一编排 LLM 推理
+- 把混合硬件（云 NVIDIA 节点 + 本地 Mac Studio）纳入同一控制平面
+- 按 pii/phi 分类标签强制敏感请求只走本地后端
 
 ## 场景标签
 
@@ -39,7 +39,6 @@ LLMKube 是一个 Go 编写的 Kubernetes operator，把自托管 LLM 推理简�
 
 > L5:  ### The Kubernetes operator for self-hosted LLM inference
 > L55: **LLMKube is a Kubernetes operator that turns LLM deployment into a two-resource YAML problem.** Define a `Model` a
-> L122: - **What CI covers:** on every pull request the default end-to-end job deploys the operator to a kind cluster and 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `688732a7af4b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0401fd917f3b` · [字段定义](../../DATASET.md)*

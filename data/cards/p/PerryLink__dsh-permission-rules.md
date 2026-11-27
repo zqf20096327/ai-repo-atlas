@@ -2,9 +2,9 @@
 
 ⭐ 143 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/PerryLink/dsh-permission-rules) · [官网](https://www.npmjs.com/package/dsh-permission-rules) · 个人维护 · 中文 README
 
-**DeepSeek Harness 的声明式权限规则插件：工具调用前 allow/deny/ask 把关**
+**为 DeepSeek Harness 提供声明式工具调用权限规则与网络出站管控的插件**
 
-面向 DeepSeek Harness（DSH）的插件，在 tools/pre-execute 瀑布上以 YAML 声明有序的 allow/deny/ask 规则：按工具名、参数 glob/regex、工作区路径、agent 身份与 shell 命令分解匹配；deny 阻断并返回 reason，ask 走官方审批通道，allow 经 next() 透传。内置高危基线规则集、层级规则文件合并、Chokidar 热重载与失败保持旧规则、dry-run 模式，另提供进程级网络策略（本地 HTTP/CONNECT 代理按域名/IP/端口裁决）。每次命中与透传均写入会话日志审计。通过 dsh plugin 命令（git/npm/tarball 三渠道）安装，需 Node ^22.19.0 或 >=24。
+挂在 DeepSeek Harness `tools/pre-execute` waterfall 上的社区插件：以 YAML 编写有序 allow/deny/ask 规则链，按工具名 glob、参数键/值（glob/正则）、工作区路径、agent 身份、环境变量等维度对每次工具调用做首个匹配裁决；ask 走官方审批接缝由评审模型或人作答。另带 Codex 风格进程级网络策略：shell 子进程出站流量经内置本地 HTTP/CONNECT 代理按网络规则裁决。裁决以会话事件落盘审计，支持热重载、试运行模式、内置高危基线与分层规则文件。仅适配 DeepSeek Harness（核验至 v0.2.3-alpha.1），与官方无关。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 有序 allow/deny/ask 规则在 tools/pre-execute 瀑布上裁决工具调用
-- 内置高危基线规则集（破坏性命令/提权/下载执行等），用户规则可覆盖
-- 进程级网络策略：本地代理按 domains/ips/ports/schemes 规则裁决出站连接
-- 命中与透传均记 permissionRules/decision 会话审计事件，支持热重载与 dry-run
+- 纯 YAML 有序规则链，首个匹配胜出，支持工具名/参数/路径/agent 身份/环境条件多维匹配
+- 内置本地 HTTP/CONNECT 代理治理 shell 子进程出站流量，含上游链式与凭据打码
+- 每次命中与透传以 permissionRules/decision 会话事件仅日志审计，带稳定 ruleId
+- 热重载、试运行（enforce:false）、内置高危基线与 /rules test 干跑命令
 
 ## 适用场景
 
-- 为 AI agent 的工具调用配置确定性的允许/拒绝/需审批策略
-- 拦截破坏性命令、提权与敏感路径访问
-- 限制 agent 子进程的出站网络目标
-- 上线前以 dry-run 模式审计策略实际会产生的裁决
+- 限制 AI agent 可执行的工具与命令（如禁止 push 到受保护路径）
+- 管控 agent shell 子进程的出站网络访问（白名单/全禁/全放）
+- 对 agent 权限裁决做跨会话、跨主机的审计账本聚合
 
 ## 场景标签
 
- · 领域:AI Agent 基础设施/安全
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L7: **Claude Code-style declarative permission rules for DeepSeek Harness.**
-> L44: Claude Code-style declarative permission rules for DeepSeek Harness.
-> L63: `dsh-permission-rules` puts an ordered **`allow` / `deny` / `ask`** rule list in front of every tool call on the `t
+> L9: 面向 DeepSeek Harness 的 Claude Code 风格声明式权限中间件：规则裁决已知的，评审模型裁决未知的；另带一套 Codex 风格的进程级网络策略与本地代理，管住 shell 子进程的出站流量。
+> L40: `dsh-permission-rules` 在 `tools/pre-execute` waterfall 上为每次工具调用前置一份有序的 **`allow` / `deny` / `ask`** 规则列表——确定、即时、可审计
+> L92: - **`ask`** 走官方审批接缝（挂载 `dsh-auto-review` 用第二模型作答，或由人作答；两者皆无时 harness 失败关闭）。
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `cb4b2f3668f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9a47113d696b` · [字段定义](../../DATASET.md)*

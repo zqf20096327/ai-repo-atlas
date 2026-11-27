@@ -2,9 +2,9 @@
 
 ⭐ 174 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hostinger/api-mcp-server) · [官网](https://developers.hostinger.com) · 组织维护
 
-**让 AI 客户端通过 MCP 调用 Hostinger API 的服务器**
+**将 Hostinger API 以 MCP 工具暴露给 AI 客户端的服务器**
 
-Hostinger API 的 MCP 服务器，将 426 个 Hostinger 运维操作封装为 search/execute/multi-execute 三个工具，供 Claude、Cursor 等 MCP 兼容客户端调用，覆盖托管、VPS、域名、DNS、邮件、WordPress、账单等 14 个分组（提供分组范围的独立二进制）。支持远程托管服务器直连或本地 npm 安装；认证支持 API Token 与 OAuth 2.0 + PKCE，stdio 与 HTTP 两种传输模式。需 Node.js 24+。
+Hostinger 官方的 Model Context Protocol 服务器，把 Hostinger API 的 419 个操作包装为 search/execute/multi-execute 三个 MCP 工具，供 Claude Code、Codex、Cursor 等 MCP 兼容客户端调用，覆盖域名、DNS、VPS、主机、邮局、WordPress、账单、GPU 等分组。提供托管远程服务器（OAuth 授权）与本地 npm 安装两种方式；本地支持 stdio 与 Streamable HTTP 两种传输，认证支持 API Token 与 OAuth 2.0 with PKCE（自动刷新令牌、本地存储凭据）。运行需 Node.js 24+。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Hostinger API 的 MCP 服务器，将 426 个 Hostinger 运维操作封装为 se
 
 ## 能力要点
 
-- 将 426 个 Hostinger API 操作以 search/execute/multi-execute 三个 MCP 工具暴露
-- 14 个按产品分组的二进制（hosting/vps/domains/dns/mail/wordpress 等）
-- API Token 与 OAuth 2.0 + PKCE 两种认证方式，凭证自动存储与刷新
-- 提供托管远程服务器（mcp.hostinger.com）免本地安装接入
+- 419 个 API 操作统一暴露为 search/execute/multi-execute 三个工具
+- multi-execute 支持按序执行最多 20 个操作并在首个失败处停止
+- 托管远程服务器 https://mcp.hostinger.com 无需本地安装
+- 支持 stdio 与 Streamable HTTP 两种传输及 API Token/OAuth PKCE 双认证
 
 ## 适用场景
 
-- 在 Claude Code 或 Cursor 中用自然语言管理 Hostinger 主机、VPS 与域名
-- 脚本/CI 中通过 API Token 自动化 Hostinger 账单与 DNS 操作
-- 按需只暴露某一产品分组（如仅 VPS）的 MCP 工具给客户端
+- 在 Claude Code 或 Cursor 中用自然语言管理 VPS、域名与主机
+- 通过 API Token 在 CI/脚本中调用 Hostinger 操作
+- 批量部署 Agency Plan 网站并管理域名绑定
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+ · 领域:开发者工具/API 接入
 
 ## 证据(README 行号)
 
 > L3: Model Context Protocol (MCP) server for Hostinger API.
-> L177: This server implements the Model Context Protocol (MCP) and can be used with any MCP-compatible consumer.
-> L73: - `hostinger-api-mcp` — unified server over every operation (426 total)
+> L73: - `hostinger-api-mcp` — unified server over every operation (419 total)
+> L176: This server implements the Model Context Protocol (MCP) and can be used with any MCP-compatible consumer.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7a9acf529eef` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `60fed8409a89` · [字段定义](../../DATASET.md)*

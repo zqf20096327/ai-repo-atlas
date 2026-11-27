@@ -2,9 +2,9 @@
 
 ⭐ 356 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/beckettharriman/openfill) · [官网](https://github.com/beckettharriman/openfill/releases) · 个人维护
 
-**为 GIMP 3/PhotoCraft 提供本地 GPU 生成填充与扩图**
+**为 GIMP 3 与 PhotoCraft 提供本地生成式填充/扩图/去物的插件**
 
-以 GIMP 3 插件与 PhotoCraft 面板形式提供的图像编辑工具，功能包括提示词填充选择区、擦除选中物体、画布外扩、文生图、背景去除（BiRefNet）与放大（Real-ESRGAN/SeedVR2）。生成后端为本机 ComfyUI，仅监听 127.0.0.1，模型经内置模型管理器按显存推荐下载并做 SHA-256 校验；结果落在新图层，一次撤销。需 NVIDIA 或 AMD RX 7000+ 显卡（推荐 8 GB），亦可通过 OpenRouter/Gemini API 走可选云端路径。Beta 阶段，FLUX 类填充约在 1024 px 工作后放大。
+以插件形式为 GIMP 3、PhotoCraft（及 Patchy 原型伴侣模式）提供五类图像操作：提示词填充、去背景（BiRefNet）、去物（LaMa）、生成式扩图、文生图与 2x/4x 放大（Real-ESRGAN/SeedVR2）。后端为 ComfyUI，在 127.0.0.1 本地运行并随编辑器启停，结果写入新图层、单步撤销。提供 Releases 安装包与安装脚本，模型管理器按显存与磁盘推荐模型；另有可选的 OpenRouter/OpenAI 兼容/Gemini 云端后端与 Remote GPU 模式。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 生成填充/物体移除/画布扩展/文生图四类操作嵌入编辑器内
-- 生成全程本机 ComfyUI 运行，仅监听 127.0.0.1，无遥测
-- 内置模型管理器按显存与磁盘推荐模型，支持 .safetensors/.gguf
-- 支持远程 GPU（经 Tailscale/SSH）与可选云 API 路径
+- 五类操作：提示词填充、去背景（BiRefNet）、去物（LaMa）、扩图、文生图与放大
+- 本地 ComfyUI 后端，仅监听 127.0.0.1，含 SHA-256 校验、无账户无遥测
+- 模型管理器按显存/磁盘推荐模型，可识别本机 SD 1.5/SDXL/FLUX.1 Fill 文件
+- Remote GPU 经 Tailscale 或 SSH 连接另一台机器的 ComfyUI
 
 ## 适用场景
 
-- 在 GIMP 3 里用提示词填充选区或扩展画布
-- 本地 GPU 上移除照片中的物体且图像不外传
-- 没有合适显卡时经云 API 或远程游戏 PC 完成生成
+- 在 GIMP 3 里选中区域后用提示词填充或移除物体
+- 本机 GPU 上扩图和文生图而不用订阅云端服务
+- 笔记本编辑、台式机跑 GPU 的远程生成工作流
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 ## 证据(README 行号)
 
 > L5: *Generative fill, expand and object removal for PhotoCraft and GIMP 3, running on your graphics card. Local generati
+> L15: I moved to GIMP 3 as my Photoshop replacement after paying Adobe an outrageously expensive cancellation fee. GIMP t
 > L30: Generation runs in ComfyUI on your machine, listening on `127.0.0.1` only. The network comes into it only when you 
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5dc6fd9d7194` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `19954d0b827e` · [字段定义](../../DATASET.md)*

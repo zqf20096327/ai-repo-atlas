@@ -2,9 +2,9 @@
 
 ⭐ 149 · Python · AGPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI) · [官网](https://registry.comfy.org/publishers/light-and-ray/nodes/mcww-webui) · 个人维护
 
-**为 ComfyUI 附加的轻量推理 UI，可独立运行**
+**为 ComfyUI 用户提供推理向的非节点式简化界面**
 
-基于 Gradio 的 ComfyUI 扩展，提供面向推理的简化界面：通过特殊格式的节点标题标记输入/输出节点，UI 随工作流动态适配；也可作为独立服务器运行。功能包括浏览器本地存储保持界面状态、任务队列排序与暂停恢复、提示词预设、批处理与内置图片编辑器，支持移动端浏览器与 PWA。安装途径为 ComfyUI Manager 或参考 installation.md；因旧版 gradio 依赖不支持 Python 3.14 及以上。
+基于 Gradio 的 ComfyUI 扩展，也支持独立服务器运行，面向想用更简单方式执行工作流推理的用户。用户通过给节点标题添加特殊格式标记（如 output/prompt/advanced 类别），点击 Refresh 后界面动态适配工作流，无需导出 api 格式。特性包括状态持久化到浏览器本地存储、可调整优先级的任务队列、提示词预设、批量支持、内置图片编辑器和移动端/PWA 支持；不支持 Python 3.14+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 通过节点标题特殊格式动态适配工作流的推理界面
-- 队列任务可调整顺序/优先级并暂停恢复
-- 提示词预设与批处理（媒体匹配、批量预设、seed 计数）
-- 移动端可用，支持浏览器与 PWA 应用方式
+- 界面按节点标题标记动态适配 ComfyUI 工作流，无需导出 api 格式
+- 队列支持调整顺序与优先级、暂停/恢复、中断后继续生成
+- 提示词预设与批量输入/批量 seed 支持
+- 移动端友好，可经浏览器或 PWA 在局域网使用
 
 ## 适用场景
 
-- 在手机或简化界面上运行已有的 ComfyUI 工作流做推理
-- 在 ComfyUI 与简化 UI 之间共用同一批工作流
-- 批量生成图片并管理任务队列
+- 用手机通过 PWA 在局域网执行 ComfyUI 生成任务
+- 把已有 ComfyUI 工作流以更简单的界面跑推理
+- 管理长时间批量生成任务并调整队列优先级
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L6: This is a UI extension for ComfyUI adding an additional inference focused UI, that dynamically adapts to your workfl
-> L10: You have working workflows inside your ComfyUI installation, but you would want to work with them from a different 
+> L19: 1. Mobile friendly UI. You can use it in browser or as PWA app over local network. Read this for details
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6930236559d8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `6dda0c3a3673` · [字段定义](../../DATASET.md)*

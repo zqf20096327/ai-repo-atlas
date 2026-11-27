@@ -2,9 +2,9 @@
 
 ⭐ 138 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/omnimux-ai/omnimux-client) · [官网](https://omnimux.ai) · 组织维护 · 中文 README
 
-**本地 AI 商品视频工作台：营销视频与带货内容一站式生成剪辑**
+**本地 AI 电商视频工作台：产品库+素材中心+工作流画布+时间线**
 
-面向电商营销与 UGC 创作者的本地优先桌面应用（Electron，macOS/Windows 安装包），基于 DeepSeek Harness 运行时。内置商品库（粘贴落地页提取卖点）、6,380+ 云端素材（数字人、场景、道具、钩子、风格、音频）、灵感拆解（Chrome 扩展采集）、DAG 多模态画布与多轨时间线，人与 Agent 共同编辑同一工作区，本地导出 MP4；数据存于 ~/.omnimux，支持 BYOK 自带 API key。
+面向电商与创作者的本地优先桌面应用（macOS/Windows 安装包，内置运行时，无需 Node.js/CLI），基于 DeepSeek Harness 构建。核心模块：粘贴落地页提取卖点的产品库、6,382 项内置云端素材（数字人/场景/道具/钩子/音频/风格包）、Chrome 采集的灵感拆解、DAG 多模态工作流画布、多轨时间线剪辑室（本地导出 MP4）。用户可登录官方模型通道或自带 API key（BYOK），数据存储于本地 ~/.omnimux。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 内置 6,382 项云端素材：353 数字人、3,396 场景、940 商品道具、705 三秒钩子等
-- DAG 工作流画布 + 多轨 Clip Studio，支持节点级重跑与 WebCodecs/WebGPU 本地导出 MP4
-- Chrome 扩展采集参考视频并逐片段拆解为结构化钩子
-- 内置 120+ 内容电商 Skill、100+ 专家预设与 12 个 MCP 连接器，支持标准 SKILL.md
+- 产品库支持粘贴落地页 URL 提取卖点，并通过 @Product 在对话与画布中引用
+- 内置 6,382 项云端素材：353+ 数字人（9 维筛选）、3,396 场景、940 道具、705 钩子等
+- DAG 工作流画布与多轨时间线双表面协同，Agent 与人工共编同一工作区
+- 内置 120+ 内容电商 Skills、100+ Expert 预设、12 个 MCP 连接器
 
 ## 适用场景
 
-- 把商品落地页快速变成 15 秒竖版带货视频
-- 用数字人和场景素材批量做产品广告口播
-- 拆解对标视频的钩子并复用到新作品
-- 团队把内容 SOP 打包成 SKILL.md 复用
+- 从产品链接生成 15 秒竖版商品视频并本地导出 MP4
+- 用内置数字人与场景素材批量制作 UGC 口播与测评视频
+- 采集对标视频并逐 clip 拆解钩子，转化为新的生产会话
+- 以 SKILL.md 打包团队创意 SOP 供 Agent 复用
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+`工作流自动化` `视频生成` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L34: **OmniMux** solves the biggest headache in AI product video production: scattered prompts, inconsistent characters/
-> L39: - 🧩 **Co-edit workflows and timelines with your Agent** — Wire image, video, lip-sync, voiceover, and music nodes o
-> L163: |**Infinite Workflow Canvas** (`omnimux-workflow`)|Drag and wire prompt, reference image, first/last-frame video, 
+> L40: - 🔑 **Zero-CLI desktop app with local-first storage & BYOK** — Native macOS and Windows installers bundle the runti
+> L164: |**Clip Studio** (`omnimux-clip`)|Edit on a three-pane multi-track timeline, inspect real composited frames, and e
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `055f434ee8e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `5591eef4dded` · [字段定义](../../DATASET.md)*

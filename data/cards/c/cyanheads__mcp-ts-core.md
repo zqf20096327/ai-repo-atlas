@@ -2,9 +2,9 @@
 
 ⭐ 155 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cyanheads/mcp-ts-core) · [官网](https://www.npmjs.com/package/@cyanheads/mcp-ts-core) · 个人维护
 
-**给开发者的 TypeScript MCP 服务器构建框架**
+**TypeScript 框架：给开发者构建 MCP 服务器提供运行时与 agent 技能**
 
-面向 TypeScript 开发者的 Agent-native 框架，用于构建 MCP（Model Context Protocol）服务器：提供 tool/resource/prompt 的类型化构建器、JWT/OAuth 鉴权、租户级存储（内存/文件/Supabase/Cloudflare D1/KV/R2）、stdio 与 HTTP 传输、结构化日志与可选 OpenTelemetry。脚手架附带供编码 Agent 使用的 Agent Skills（工具设计、测试、安全审查、发版）。可运行于 Bun、Node.js 24+ 或 Cloudflare Workers，可选集成 DuckDB DataCanvas 与 SQLite Mirror 模块。
+面向构建 MCP（Model Context Protocol）服务器的 TypeScript 框架。提供 tool/resource/prompt/appTool 等类型化构建器，通过 createApp() 注册并运行于 Bun、Node.js 24+ 或 Cloudflare Workers；内置 JWT/OAuth 鉴权与作用域检查、租户级存储（in-memory/filesystem/Supabase/Cloudflare D1/KV/R2）、结构化日志与可选 OpenTelemetry、定义 lint 与契约/模糊测试。每个脚手架附带 Agent Skills（设计工具、写测试、安全审查、发布）与 CLAUDE.md/AGENTS.md，由 agent 按 skills 完成构建流程。可选集成（DuckDB、Supabase、OpenTelemetry SDK）为 peer dependencies。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- tool/resource/prompt/appTool 类型化构建器，通过 createApp() 注册
-- JWT/OAuth 鉴权与租户级可切换后端存储
-- stdio 与 HTTP 传输，支持 Bun/Node.js 与 Cloudflare Workers 入口
-- enrichment/errors 声明式契约、定义 lint、契约测试与模糊测试
+- tool/resource/prompt/MCP Apps 类型化构建器与 createApp() 统一注册
+- JWT/OAuth 鉴权、按定义作用域检查、可切换后端的租户级存储
+- enrichment/errors 双契约：结果上下文与带恢复指引的声明式错误
+- 定义 lint、契约测试、模糊测试，构建期检查而非启动期
 
 ## 适用场景
 
-- 把团队 API 或数据集封装成 MCP 服务器供 AI Agent 调用
-- 让 Claude Code/Codex 等编码 Agent 按附带的 Skills 生成服务器代码
-- 在 Cloudflare Workers 上托管带鉴权的 MCP 服务
+- 把内部 API 或数据集通过 MCP 暴露给 AI agent
+- 在 Cloudflare Workers 上托管 MCP 服务
+- 用 agent 按 skills 工作流构建、测试并发布 MCP 服务器
+- 本地以 stdio 或 HTTP 方式运行 MCP 服务器供客户端连接
 
 ## 场景标签
 
@@ -39,6 +40,7 @@
 
 > L2:  Agent-native TypeScript framework for building MCP servers.
 > L13: Connect an API, a dataset, or a workflow to an AI agent through the Model Context Protocol (MCP). Your project hold
+> L59: |Give an assistant useful capabilities|Typed builders for tools, resources, prompts, and interactive MCP Apps|
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `995bee7a9a48` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7fc903133563` · [字段定义](../../DATASET.md)*

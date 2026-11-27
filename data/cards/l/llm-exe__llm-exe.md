@@ -1,10 +1,10 @@
 # llm-exe/llm-exe
 
-⭐ 138 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/llm-exe/llm-exe) · [官网](https://llm-exe.com) · 组织维护
+⭐ 138 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/llm-exe/llm-exe) · [官网](https://llm-exe.com) · 个人维护
 
-**TypeScript/JavaScript 的 LLM 应用构建库**
+**JS/TS 库：提供建构块简化 LLM 应用开发维护**
 
-npm 包形式的 JavaScript/TypeScript 库，提供构建与维护 LLM 应用的基础组件：类型化 Prompt 模板（Handlebars 语法，支持文本与对话式）、内置与自定义解析器（string/json/boolean 等，JSON 可带 schema 校验）、执行器、会话状态管理与生命周期 Hooks。支持多 provider 切换（OpenAI/Anthropic/xAI/Google/AWS Bedrock/Ollama/DeepSeek）而不改代码，并允许 LLM 调用函数或其他执行器。ESM 优先，兼容 CommonJS，提供无需 API key 的 mock 模型用于测试。
+面向 JavaScript/TypeScript 的 LLM 应用开发包，提供 useLlm、createChatPrompt、createParser、createLlmExecutor、defineSchema 等构件：提示词模板支持 Handlebars 语法，内置解析器将 LLM 文本回复转为带类型的值（JSON、数字、布尔、列表等），支持自定义解析器与 schema 校验；提供状态管理（对话历史）、onSuccess/onError/onComplete 事件钩子用于日志与指标，支持 LLM 函数调用与执行器嵌套调用。通过 npm 安装，ESM-first 且兼容 CommonJS。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ npm 包形式的 JavaScript/TypeScript 库，提供构建与维护 LLM 应用的
 
 ## 能力要点
 
-- Handlebars 类型化 Prompt 模板（文本与对话式）
-- 内置/自定义解析器，JSON 可带 schema 校验
-- 多 provider 统一接口（OpenAI/Anthropic/xAI/Google/Bedrock/Ollama/DeepSeek）
-- 会话状态管理与执行器 Hooks，支持 LLM 函数调用
+- useLlm/createChatPrompt/createParser/createLlmExecutor 等模块化构件
+- 内置解析器将 LLM 回复转为带类型值，支持自定义解析器与 schema 校验
+- 提供对话状态管理与 onSuccess/onError/onComplete 事件钩子
+- 内置 chat-mock 模型可无 API key 本地测试
 
 ## 适用场景
 
-- 在 TypeScript 项目中以统一接口调用多家 LLM 并随时切换模型
-- 构建带类型校验的结构化 LLM 输出
-- 管理与复用多轮对话状态
+- 在 TypeScript 中编写带类型输出的 LLM 函数
+- 切换不同 LLM 提供商而无需修改调用代码
+- 用 Handlebars 模板管理结构化提示词
+- 为 LLM 调用添加日志与指标钩子
 
 ## 场景标签
 
-`模型网关` `提示工程` · 领域:Agent 开发
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: A package that provides simplified base components to make building and maintaining LLM-powered applications easier.
-> L13: - Call LLMs from different providers without changing your code. (OpenAI/Anthropic/xAI/Google/AWS Bedrock/Ollama/De
+> L14: - Call LLMs from different providers without changing your code. (OpenAI/Anthropic/xAI/Google/AWS Bedrock/Ollama/De
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3c4ad665d712` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `73a231e4c22b` · [字段定义](../../DATASET.md)*

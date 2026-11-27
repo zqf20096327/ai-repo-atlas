@@ -2,9 +2,9 @@
 
 ⭐ 160 · TypeScript · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/HilbertraumAI/HilbertRaum) · [官网](https://hilbertraum.ai/) · 组织维护
 
-**完全离线运行的私有 AI 工作区：本地对话、文档问答与离线维基**
+**完全离线运行的本地 AI 工作区：聊天、文档问答、离线维基**
 
-基于 Electron/React/TypeScript 的跨平台桌面应用，面向需要数据不出本机的用户：内置 llama.cpp 运行时加载 GGUF 模型，提供本地聊天、带引用的文档问答（向量+关键词检索加 reranker）、图像理解、Whisper 语音转录、翻译与 OCR。工作区密码加密且可放在外置硬盘在机器间迁移；可注册 ZIM 离线维基作为问答来源。限制：模型与运行时需另行下载（一条脚本或应用内引导），Windows/macOS 构建尚未签名，首个正式发布前的手工发布测试仍在进行。
+基于 Electron 的桌面应用，在本地运行 llama.cpp 引擎与 GGUF 模型，提供本地聊天、PDF/Word 文档问答（向量+关键词检索+重排序）、离线 Wikipedia（ZIM/kiwix）、Whisper 语音转录、视觉模型图像理解、本地翻译（TranslateGemma）与证据复核导出。支持 Windows/macOS/Linux，数据加密可移植到 USB 盘，无云端与遥测；应用检测硬件自动推荐模型，Linux 需 glibc 2.34、OpenSSL 3 等系统库。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 完全离线：无云端回退、无网络搜索、无遥测
-- 文档问答带引用，检索为向量+关键词+reranker
-- 可选 ZIM 知识包提供约 100 种语言的离线维基百科
-- 加密且可移植的工作区，可整体放在 USB 硬盘迁移
-- 可选 OpenAI 兼容本地回环 API（127.0.0.1:4980/v1）
+- 本地 llama.cpp 引擎运行 GGUF 模型，自动基准测试并按 RAM/VRAM 推荐模型
+- 文档问答带引用来源，检索结合向量与关键词搜索及重排序
+- ZIM 档案（Wikipedia 约100种语言）作为离线知识源随文档一同检索引用
+- OpenAI 兼容的本地回环 API（默认关闭，仅暴露 completions）
 
 ## 适用场景
 
-- 在无网络或要求数据不出本机的环境下用 AI 处理私人文档
-- 把带加密工作区的整套 AI 环境装在外置硬盘上换电脑使用
-- 离线查询维基百科并让回答附文档引用
+- 在无网络环境下使用 AI 聊天与文档问答
+- 对私人文档提问并要求答案带来源引用
+- 便携盘携带整套 AI 应用与模型在多台机器使用
+- 离线查阅多语言 Wikipedia 并与本地文档联合检索
 
 ## 场景标签
 
-`文档问答` `聊天机器人` `语音识别` `OCR` · 领域:对话与助手
+`文档问答` `语音识别` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L15: **HilbertRaum is a private AI workspace that runs locally on your computer and can operate entirely offline.** Chat
+> L24: - 🧠 **Local models.** A `llama.cpp` runtime with GGUF models from a curated open-weight catalog
 > L26: - 📄 **Document Q&A with citations.** Import PDFs, Word files, or text, ask questions, and get
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b5b0d63150f1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `78d9bd77dd5d` · [字段定义](../../DATASET.md)*

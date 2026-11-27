@@ -1,10 +1,10 @@
 # yreidev/workbuddy2api-panel
 
-⭐ 185 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/yreidev/workbuddy2api-panel) · 组织维护 · 中文 README
+⭐ 185 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/yreidev/workbuddy2api-panel) · 个人维护 · 中文 README
 
-**把腾讯 WorkBuddy 账号变成 OpenAI 兼容 API 的多账号网关**
+**把腾讯 WorkBuddy 账号池变成 OpenAI 兼容 API 的自托管网关**
 
-基于原版 workbuddy2api-panel 的独立维护增强版：把多个 WorkBuddy 账号（国内/国际版）接成 OpenAI 兼容 API，提供 /v1/chat/completions、/v1/messages（Claude Code）与 /v1/responses（Codex）三个入口，自动选号、限流换号、按账号加权调度。出站请求照官方桌面端 5.8.3 对齐请求头，支持主备入口与 HTTPDNS 切换，自动完成签到与成长任务，附 React 管理面板与客户端密钥体系。仅限管理自己的账号，上游为非公开接口，AGPL-3.0 授权。
+自托管多账号 API 网关：将多个 WorkBuddy 账号接成一个 OpenAI 兼容 API，提供 /v1/chat/completions、/v1/messages（Claude Code）与 /v1/responses（Codex）端点，支持流式、工具调用、图片输入与模型路由。按成本、剩余积分、闲置时长加权选号，限流/失效自动换号，支持按号代理、国内/国际双域合池、每日签到与成长任务自动化。Go 编写，React 管理面板，Docker 或单文件部署。使用声明限个人自用管理自己的账号，v1.4.0 起为 AGPL-3.0 加署名条款。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- OpenAI / Claude Code / Codex 三类客户端入口（chat/completions、messages、responses）
-- 多账号池：加权选号、限流换号、国内/国际双域合池负载均衡
-- 每日自动签到与 17 个成长任务一键完成
-- React 管理面板：账号状态、用量分析、客户端密钥、一键更新
+- OpenAI、Anthropic Messages、Responses 三种端点，Claude Code / Codex 可直连
+- 多账号池按成本/积分/闲置时长加权选号，限流与失效自动换号重试
+- 主备入口 + HTTPDNS 自动切换，出站请求对齐官方桌面端
+- 客户端密钥支持到期、用量上限、模型白名单与账号分组限制
 
 ## 适用场景
 
-- 给自己的 WorkBuddy 账号提供 OpenAI 兼容 API 入口
-- 让 Claude Code、Codex 等编程工具通过网关使用 WorkBuddy 模型
-- 自动完成每日签到与成长任务保活账号
+- 让 Claude Code / Codex 或 OpenAI 兼容 SDK 通过自己的 WorkBuddy 账号调用模型
+- 管理多个 WorkBuddy 账号的每日签到、保活与成长任务
+- 团队内部按密钥分发作额与模型权限
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L25: WorkBuddy2API 是一个自托管网关：把你的多个 WorkBuddy 账号接成一个 OpenAI 兼容的 API，自动挑选可用账号、处理限流与换号，并每天替你完成签到和成长任务。现有的 SDK、聊天应用、编程工具填上地址和
-> L33: |**Claude Code / Codex**|原生提供 Anthropic Messages（`/v1/messages`）和 Responses（`/v1/responses`），填地址和密钥就能用；模型路由把它们的默认模型
-> L180:     C["你的客户端<br/>SDK · 聊天应用 · 编程工具"] -->|"OpenAI 兼容请求"| GW
+> L55:  - 提供 `/v1/chat/completions` 与 `/v1/models`，流式、非流式、工具调用、图片输入、推理档位都支持。
+> L56:  - Claude Code 走 `/v1/messages`，Codex 走 `/v1/responses`，和普通对话共用同一套选号、换号与日志。
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-26 · 置信度 mid · 依据 README sha `14ee4a35031c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `f80b8a1874e1` · [字段定义](../../DATASET.md)*

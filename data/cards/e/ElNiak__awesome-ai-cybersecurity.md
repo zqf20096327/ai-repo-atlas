@@ -2,9 +2,9 @@
 
 ⭐ 166 · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/ElNiak/awesome-ai-cybersecurity) · 个人维护
 
-**AI 网络安全资源清单：按 PPDR 模型与技术层分类的工具与论文合集**
+**网络安全领域 AI 资源清单：为从业者与研究者组织学习与研究素材**
 
-面向安全专业人员、研究者与爱好者的 awesome 类资源清单：按 Gartner PPDR 模型（预测/防护/检测/响应/监控）和网络、端点、应用、用户、过程行为等技术层，收录渗透测试、恶意软件分析、入侵检测、用户行为分析、欺诈检测等方向的开源工具、教程、认证与研究论文；另含 AI SaaS 安全最佳实践与 LLM 漏洞扫描工具条目。清单本身不提供可运行软件。
+按 Gartner PPDR 模型（预测/预防/检测/响应/监控）与技术层（网络/终端/应用/用户/流程行为）组织的 AI+网络安全资源聚合清单。条目分为三类：可用于渗透测试各阶段的工具（含 AI 增强的 IDS、漏洞扫描、恶意软件分析）、 securing AI SaaS 的实践框架与工具、按 ML 技术（回归/分类/聚类）组织的综述论文与书籍。本身不提供可运行软件，仅收录与注释外部资源。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 按 Gartner PPDR 模型与技术层两级分类组织条目
-- 覆盖工具、教程、认证、研究论文与书籍多种资源类型
-- 包含 LLM 安全方向条目（garak、promptfoo、CVE-LMTune 等）
+- 按 PPDR 五阶段与技术层双层维度组织条目
+- 覆盖渗透测试、恶意软件分析、IDS/IPS、威胁情报等子领域
+- 收录 LLM 安全工具（garak、promptfoo、PentestGPT）
+- 附综述论文、教程与认证资源
 
 ## 适用场景
 
-- 查找网络安全各环节可用的 AI/ML 工具与项目
-- 按技术层检索入侵检测、恶意软件分析等方向的论文
-- 了解 AI SaaS 安全最佳实践与 LLM 漏洞扫描工具
+- 为安全团队调研 AI 检测与响应工具
+- 研究者查找入侵检测/恶意软件分类的综述文献
+- 了解 LLM 安全测试与红队工具生态
 
 ## 场景标签
 
-`精选清单` `网络安全` · 领域:学习与行业
+`精选清单` `网络安全` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L7: Welcome to the ultimate list of resources for AI in cybersecurity.
-> L14: AI applications in cybersecurity can be categorized using Gartner's PPDR model:
+> L5: # Awesome AI in Cybersecurity
+> L8: This repository aims to provide an organized collection of high-quality resources to help professionals, researchers
+> L10: ## Contents
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9eb43ecee2fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7e0cdfdc2813` · [字段定义](../../DATASET.md)*

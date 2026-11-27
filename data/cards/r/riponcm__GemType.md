@@ -1,10 +1,10 @@
 # riponcm/GemType
 
-⭐ 166 · JavaScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/riponcm/GemType) · [官网](https://gemtype.matily.org) · 个人维护
+⭐ 166 · JavaScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/riponcm/GemType) · [官网](https://gemtype.matily.org) · 组织维护
 
-**自带 Gemini key 的浏览器/桌面语法检查与改写工具**
+**自带 Gemini API key 的开源语法检查与改写浏览器扩展**
 
-开源 Grammarly 替代品：浏览器扩展（Chrome/Edge/Firefox）、Word 任务窗格加载项和桌面菜单栏应用，用用户自己的 Google AI Studio Gemini API key 在任意文本框做实时语法拼写检查（波浪线+一键修复）、选中文本改写（Improve/Fix/Shorten/Formal/Casual），文本只发往 Gemini API，无中间服务器、无账号。采用 overlay 不改 DOM，防抖检查、缓存与句子级复检控制配额；Google Docs 不支持，暂不能离线或用本地模型。
+面向在浏览器、Word、桌面与移动端写作的用户，实时标记语法/拼写错误并支持一键修正，另提供 Improve/Fix/Shorten/Formal/Casual 五种改写操作。核心机制是 bring-your-own-key：文本经用户自己的 Gemini API key 直达 Google API，无中间服务器、无遥测。技术实现采用覆盖层定位（不修改页面 DOM）、snippet 锚定、去抖与缓存控制配额。Google Docs 不支持；暂不能接入本地模型（可插拔后端在路线图中）。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 任意网站文本框实时语法检查与一键修复（Ctrl/Cmd+Z 可撤销）
-- 选中文本改写：Improve/Fix/Shorten/Formal/Casual
-- 自带 key，文本仅发往 Google Gemini API，无中间服务器与遥测
-- 桌面应用（macOS/Windows/Linux）全局热键在任意应用内改写文本
+- 浏览器扩展 + Word 加载项 + 桌面托盘应用 + Android/iOS 键盘，多端同一核心
+- 覆盖层方式绘制下划线，不修改页面 DOM，兼容 React/Vue/ProseMirror 编辑器
+- 去抖检查、未变更文本跳过、结果缓存，控制免费配额消耗
+- 自动检测语言，支持 Gemini 可识别的任意语言
 
 ## 适用场景
 
-- 写邮件或社交媒体帖子时实时纠正语法拼写
-- 在 Gmail/LinkedIn 等网站一键改写句子风格
-- 用免费 Gemini 额度获得跨浏览器和桌面的写作检查
+- 在 Gmail、LinkedIn、X、Reddit、GitHub 等网站写作时实时修正语法
+- 选中任意文字一键改写语气或长度
+- 桌面任意应用中用全局热键修正与改写文本
+- 在 Android/iOS 任意应用输入时修正文字
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L44: - **Live grammar and spelling checking** — underlines appear in any text field about a second after you stop typing
-> L48: - **Context-aware suggestions** — an LLM judges whole sentences in any language, not just pattern rules
+> L50: - **Live grammar and spelling checking** — underlines appear in any text field about a second after you stop typing
+> L54: - **Context-aware suggestions** — an LLM judges whole sentences in any language, not just pattern rules
+> L55: - **Bring your own key** — uses your free Google AI Studio key; no account, no subscription, no middleman server
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `a9896d2951c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `2611622447a7` · [字段定义](../../DATASET.md)*

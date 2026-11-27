@@ -2,9 +2,9 @@
 
 ⭐ 151 · HTML · MIT · 推送 2026-11-09 · [GitHub](https://github.com/cLin-c/paper-skill) · 个人维护 · 中文 README
 
-**面向中文科研作者的 evidence-first 英文论文投稿技能包**
+**面向中文科研作者的学术论文写作与投稿 Claude Code 提示词技能**
 
-运行于 Claude Code 等 slash-command 平台的论文写作技能（SKILL.md 路由 + 工作流）：把中文初稿、图表与参考文献转换为可核查的英文投稿材料，建立 claim–evidence map，明确拒绝编造数据与 DOI。提供 write/review/submit 三个入口，以及引用核验（Crossref/OpenAlex）、投稿门控、审稿回复一致性检查等可执行 Python 工具，输出 VERIFIED/UNVERIFIED 与 READY 门控判定。安装通过 curl/PowerShell 一行脚本，可选核验工具需 Python 3.10+。
+以 Claude Code/Codex 技能形式安装的学术论文工作流：将中文初稿、实验结果、图表与参考文献转换为英文摘要、正文、Cover Letter 与投稿包。核心机制包括 claim–evidence map、Crossref/OpenAlex 引用核验、图表—正文一致性检查，以及 VERIFIED/UNVERIFIED 与 READY/NOT_READY 门控输出。附带 paper_skill_gate.py 等五个 Python 核验工具与 8 用例的确定性安全门控 benchmark，可选工具需 Python 3.10+。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- write/review/submit 三入口：故事线、claim–evidence map、审稿回复矩阵、投稿门控
-- Crossref/OpenAlex 核验 DOI 与文献，未核验内容标记 UNVERIFIED
-- paper_skill_gate.py 等可执行工具做七项投稿门控与修订位置核对
-- 公开确定性 benchmark（8/8 分类正确）与 Windows/Linux CI 测试
+- write/review/submit 三个入口覆盖写作、审查、投稿回复流程
+- paper-system 模块接入 88 条论文体系八步提示词
+- Crossref/OpenAlex 核验 DOI，未核验内容标记 UNVERIFIED
+- 配套 Python 门控工具与公开 benchmark（CI 在 Windows/Linux 运行）
 
 ## 适用场景
 
-- 把中文初稿转换为可核查的英文投稿稿件
-- 投稿前审查引用、图表一致性与过度主张
-- 撰写 Rebuttal、Cover Letter 并生成投稿包
-- 核验审稿回复中声称的修改位置真实存在
+- 把中文初稿改写成可核查的英文期刊论文
+- 投稿前核验引用、图表与正文的一致性
+- 生成审稿逐点回复（Rebuttal/R&R）与 Cover Letter
 
 ## 场景标签
 
@@ -38,10 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: > 面向中文科研作者的 evidence-first 英文投稿工作流。
-> L27: 把中文初稿、实验结果、图表和参考文献转换为可核查的英文投稿材料：
-> L38: 它不是“帮我写得更像论文”的提示词合集。它把论文视为一套可追踪的主张、证据、引用、图表和投稿要求，并明确拒绝编造数据、实验、DOI、政策与修改位置。
-> L107: |生成看起来真实的 DOI 或参考文献|Crossref/OpenAlex 核验；未核验内容明确标记 `UNVERIFIED`|
+> L5: > 面向中文科研作者的 evidence-first 英文投稿工作流。
+> L29: 把中文初稿、实验结果、图表和参考文献转换为可核查的英文投稿材料：
+> L66: Claude Code 等 slash-command 平台可使用 `/paper-skill`。安装器只写入本机已存在的平台目录；若没有检测到平台，则默认安装到 Codex。可选的命令行核验工具需要 Python 3.10+。
 
 ## 星数曲线
 
@@ -57,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9fe7167497b7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `97055381a69b` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 164 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/NVIDIA/nvImageCodec) · [官网](https://docs.nvidia.com/cuda/nvimagecodec/index.html) · 组织维护
 
-**GPU/CPU 加速图像编解码库：统一接口解码编码多格式图像**
+**NVIDIA 的 GPU/CPU 加速图像编解码库，统一接口**
 
-NVIDIA 维护的开源图像编解码库，以扩展插件框架形式提供 GPU 加速的 JPEG/JPEG2000/TIFF 编解码（含 Jetson 硬件解码器），并以 libjpeg-turbo/libtiff/OpenCV 扩展作为 CPU 回退；内置格式检测解析器，支持批处理、变长形状、编解码器优先级与自动回退，提供 Python 绑定及到 CV-CUDA/PyTorch/CuPy 的零拷贝接口，面向深度学习图像数据管线场景。需 CUDA Toolkit 12.1+ 与 NVIDIA 驱动，通过 PyPI wheel 或源码构建安装。
+nvImageCodec 是一个提供统一接口的加速图像编解码库，采用扩展模块框架形式交付编解码插件。内置 jpeg、jpeg2000、tiff、bmp、png、pnm、webp 格式解析器，原生扩展包括 nvjpeg（硬件/CUDA 编解码）、nvjpeg2k、nvtiff，另有 libturbo-jpeg、libtiff、opencv 等第三方 CPU 扩展作为回退。支持批处理异构格式图像、编解码器优先级自动回退，并提供到 CV-CUDA、PyTorch、CuPy 的零拷贝接口与 Python 绑定。依赖 CUDA Toolkit >= 12.1 与相应 NVIDIA 驱动。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ NVIDIA 维护的开源图像编解码库，以扩展插件框架形式提供 GPU
 
 ## 能力要点
 
-- 统一 API 支持 JPEG/JPEG2000/TIFF/BMP/PNG/PNM/WebP 格式检测
-- GPU 加速扩展（nvjpeg/nvjpeg2k/nvtiff）+ 第三方 CPU 扩展自动回退
-- 批处理支持变长形状与异构格式图像
-- 到 CV-CUDA、PyTorch、CuPy 的零拷贝接口
+- 统一 API 的 GPU/CPU 图像解码与编码，支持批处理异构格式
+- 编解码器优先级与自动回退机制
+- 到 CV-CUDA、PyTorch、CuPy 的零拷贝接口与 Python 绑定
+- 扩展模块框架，可插拔 nvjpeg/nvjpeg2k/nvtiff 等插件
 
 ## 适用场景
 
-- 深度学习训练前的大批量图像解码预处理
-- GPU 上做图像转码（nvimtrans 示例应用）
-- 在 PyTorch/CuPy 管线中零拷贝读取解码结果
+- 深度学习训练流水线中 GPU 加速图像解码
+- 图像转码批处理任务
+- 医学/遥感等 JPEG2000 TIFF 场景的 CUDA 加速读写
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `bb10b43bad92` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `7ea2945c6c49` · [字段定义](../../DATASET.md)*

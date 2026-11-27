@@ -2,9 +2,9 @@
 
 ⭐ 190 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/traceopt-ai/traceml) · [官网](https://traceopt.ai/) · 组织维护
 
-**PyTorch 训练性能诊断工具：零代码定位慢训练瓶颈并在 CI 拦截性能回退**
+**诊断 PyTorch 训练慢因、对比运行并在 CI 拦截性能回退的工具**
 
-通过 traceml run 命令包装既有训练脚本，自动对 Hugging Face Trainer、PyTorch Lightning、RF-DETR 的标准训练做插桩，按阶段（输入加载、H2D 传输、前向、反向、优化器）计时并输出瓶颈判定与证据（final_summary.json/txt）。提供 traceml compare 对比两次运行，可设步时回退阈值（如 5%）作为 CI 门禁返回退出码。支持单机 DDP 的 rank-straggler 诊断；多节点路径为实验性。自定义循环、Accelerate、Ray、DeepSpeed、MONAI 需显式集成 API。面向深度学习训练的开发者与 MLOps 场景，定位为轻量常开诊断，指向 GPU 计算内部时建议改用 kernel profiler。
+嵌入 PyTorch 训练流程的性能诊断工具：分解 training-step 耗时、给出瓶颈判定（input-bound/compute-bound/rank straggler 等）并保存报告。对 Hugging Face Trainer、PyTorch Lightning、RF-DETR 等标准 API 自动接入，自定义循环通过 traceml.init() 埋点；支持用 traceml run 替代 torchrun 做多节点分布式诊断与 straggler 定位；可将逐 step、逐 rank 遥测导出为 JSONL 或自定义后端；traceml compare 支持两次运行对比并可作为 CI 门禁返回退出码。以 pip 包分发，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -16,21 +16,21 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 零代码插桩：traceml run 替换 python 即可诊断标准训练
-- 六类瓶颈判定（Input/H2D/Compute/Residual/Rank straggler/Memory creep）
-- traceml compare 支持 CI 性能回退门禁（可设回退百分比阈值）
-- 单机 DDP 多 rank 对齐与 straggler 定位，可导出 HTML 报告并推送 W&B/MLflow
+- 标准 Trainer API 自动接入，无需修改训练脚本
+- 多节点 DDP/FSDP 的 rank straggler 定位与跨节点 step 对齐
+- JSONL/自定义后端实时遥测导出与运行对比
+- CI 性能回退门禁，输出 JSON/文本报告与退出码
 
 ## 适用场景
 
-- 训练变慢时定位是数据加载还是 GPU 计算瓶颈
-- 改了 DataLoader/批大小后对比前后两次训练的性能差异
-- 在 CI 中拦截导致步时回退的提交
-- 排查多卡 DDP 训练中拖慢整体进度的 rank
+- 定位 PyTorch 训练变慢的瓶颈环节
+- 诊断多 GPU/多节点训练中的拖尾 rank
+- 在 CI 中对比新旧运行、拦截性能回退
+- 更换 DataLoader/批大小/硬件后量化前后差异
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L26: TraceML shows where each training step goes—input loading, data transfer, forward, backward, and optimizer work—the
-> L125: TraceML writes the evidence before returning the CI exit code. The regression
+> L26: TraceML breaks down training-step time, identifies likely bottlenecks,
+> L29: - **Trainer integrations:** automatic setup for supported trainers;
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `34f814120258` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f190d8b1a10d` · [字段定义](../../DATASET.md)*

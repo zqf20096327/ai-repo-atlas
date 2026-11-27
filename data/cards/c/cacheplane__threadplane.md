@@ -2,9 +2,9 @@
 
 ⭐ 165 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cacheplane/threadplane) · [官网](https://threadplane.ai) · 组织维护
 
-**面向 Angular 的开源 agent 线程层：聊天、持久线程与生成式 UI**
+**给 Angular 开发者构建 agent 聊天界面的开源线程层**
 
-为 Angular 20–22 提供 agent 聊天界面的 TypeScript 库族：将 LangGraph 或 AG-UI 后端适配为运行时无关的 Agent 契约，以 Angular Signals 暴露消息、状态、中断、工具进度、子 agent 等能力；支持持久线程、人工审批与通过组件注册表渲染的生成式 UI。提供 fake agent 供无后端开发与测试，包含 8 个 MIT 协议的 npm 包。React 预览为私有源码构建。
+面向 Angular 20–22 的开源 agent 线程层 npm 包：提供聊天界面、持久化线程、人工审批（interrupts）、工具进度、子 agent 与生成式 UI。核心机制是把 LangGraph 或 AG-UI 后端适配为运行时无关的 `Agent` 契约，通过 `provideAgent()`/`injectAgent()` 以 Angular Signals 暴露流式状态，组件与传输层可通过 `MockAgentTransport` 替换以便测试。React 支持为私有源码构建的实验性预览。MIT 许可，无账号、无云端依赖。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 将 LangGraph / AG-UI 后端适配为运行时无关的 Agent 契约
-- 以 Angular Signals 暴露消息、中断、工具进度、子 agent、线程切换
-- 生成式 UI 通过用户自有组件注册表渲染
-- fake agent 支持无后端、无 API key 的开发与测试
+- 将 LangGraph / AG-UI 后端适配为运行时无关的 `Agent` 契约
+- 以 Angular Signals 暴露 messages/status/interrupt/toolCalls 等状态
+- 注册表制生成式 UI，渲染限制在自有设计系统组件内
+- 提供无后端 fake agent 用于先行构建与测试 UI
 
 ## 适用场景
 
-- 为 LangGraph 或 AG-UI agent 搭建 Angular 聊天界面
-- 在 agent 应用中实现人工审批与中断流程
-- 让 agent 在既有设计系统组件内渲染生成式 UI
+- 为 LangGraph agent 搭建 Angular 聊天与审批界面
+- 接入任意 AG-UI 兼容端点复用同一套聊天组件
+- 在自有设计系统中渲染 agent 生成的界面组件
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L28: **Threadplane is the open-source thread-plane for Angular agents.** Chat, durable
 > L31: where it is: Threadplane adapts a LangGraph or AG-UI agent into a runtime-neutral
-> L129: |`@threadplane/langgraph`|LangGraph adapter; `provideAgent()` / `injectAgent()` expose a LangGraph run as Angular 
+> L165: The runtime-neutral `Agent` contract is the stability boundary between adapters
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `947ec5e757e2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `39dbd6d0ea1d` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # webbrain-one/webbrain
 
-⭐ 1,758 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护
+⭐ 1,758 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护 · 中文 README
 
-**面向浏览器用户的 AI agent 扩展：读页、操作与多步工作流**
+**浏览器 AI agent 扩展：在侧栏读页面、操作网页、跑多步任务**
 
-WebBrain 是运行在 Chrome/Firefox/Edge 侧边栏的浏览器 AI agent 扩展：通过无障碍树读取页面文本、表单、PDF 等内容，支持点击、输入、导航、上传下载等页面操作，可执行最长 195 步的多步工具循环，并可将成功运行保存为可复用工作流。模型后端可选托管默认模型、本地 llama.cpp/Ollama 等 OpenAI 兼容服务器，或 129 张内置云服务商卡片。提供 Ask/Act/Dev 三种权限模式、按站点的操作权限提示与上下文自动压缩。通过商店安装或源码加载。
+WebBrain 是面向 Chrome/Firefox/Edge 的浏览器扩展，在侧栏提供 AI agent：读取当前页面并回答问题，或代替用户点击、输入、导航、填表、上传下载，执行最多可配置 195 步的多步工具循环。提供 Ask/Act/Dev 三种权限模式与逐站权限确认。模型可选：托管默认模型（无需 key）、本地 llama.cpp/Ollama/vLLM 等 OpenAI 兼容服务器，或 129 张内置云 API provider 卡（Chromium 上）。支持保存工作流、定时任务、/watch 页面轮询、技能加载与 token 感知的上下文自动压缩。从商店安装或从源码加载 unpacked 扩展；永久安装 Firefox 版需签名。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ WebBrain 是运行在 Chrome/Firefox/Edge 侧边栏的浏览器 AI agent 扩展�
 
 ## 能力要点
 
-- Ask/Act/Dev 三模式权限控制，重要操作前有按站点权限提示
-- 支持本地 llama.cpp/Ollama/vLLM 等 OpenAI 兼容服务器与 129 张内置云服务商卡片
-- 多步 agent 循环（默认 130 步，可配置至 195 步）与保存工作流、定时任务、页面监视
-- Vision 模式以截图坐标执行操作，基于无障碍树读取页面
+- Ask/Act/Dev 三模式权限控制与逐站操作确认
+- 接入 llama.cpp/Ollama/vLLM 等本地服务器与 129 张云 API provider 卡
+- 多步 agent 循环（可配置至 195 步）与 Vision 截图坐标操作模式
+- 保存工作流、/schedule 定时任务与 /watch 条件轮询
 
 ## 适用场景
 
-- 让 AI 总结当前页面或提取页面中的链接信息
-- 自动化填写表单、导航等多步浏览器操作流程
-- 将成功的自动化运行保存为可复用、可分享的工作流
-- 定时监视页面变化并在满足条件时触发操作
+- 在侧栏让 AI 总结当前页面、提取链接与表格
+- 让 agent 自动填表、点击、在多个页面间执行多步操作
+- 用本地模型在浏览器里跑隐私可控的 AI 任务
+- 用 /watch 轮询页面并在条件满足时触发动作
 
 ## 场景标签
 
-`浏览器自动化` · 领域:效率与自动化
+`浏览器自动化` `聊天机器人` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L5:  Open-source AI browser agent for chatting with pages, automating tasks, and running multi-step workflows with your 
+> L24: WebBrain is a web browser extension that puts an AI agent in a side panel next to
 > L26: type, and navigate its way through. It runs on the model you choose — a local
-> L66: |**Ask**|Read-only. Reads the page, answers questions, fetches URLs.|
+> L126: Settings → Models → LLM ships **129 built-in provider cards on Chromium** (128 on Firefox),
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `4fe8b20d6d3e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `a9933b620568` · [字段定义](../../DATASET.md)*

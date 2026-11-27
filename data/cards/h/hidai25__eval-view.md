@@ -1,10 +1,10 @@
 # hidai25/eval-view
 
-⭐ 142 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hidai25/eval-view) · [官网](https://evalview.com) · 个人维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hidai25/eval-view) · [官网](https://evalview.com)
 
-**AI agent 行为快照回归测试工具，CI 中拦截行为漂移**
+**AI agent 行为快照回归测试工具：CI 中捕获回归**
 
-面向 AI agent 开发者的行为快照测试工具：以 `evalview snapshot` 录制 agent 当前行为基线（工具调用名、参数、顺序的完整轨迹），以 `evalview check` 对比差异并输出 PASSED/TOOLS_CHANGED/REGRESSION 三态结果，可在 PR 中作为回归门禁。确定性轨迹 diff 离线运行无需 API key，LLM judge 评分与嵌入语义对比为可选。声明兼容 LangGraph、CrewAI、OpenAI、Claude、Mistral、Ollama、MCP 及任意 HTTP API。另提供 Python 库接口、record/replay、多轮测试等扩展功能。已知限制：0.8.1 的 openai-assistants 适配器依赖已停用的 Assistants API，迁移版本未发布。
+面向构建 AI agent 的开发者，提供快照式回归测试：用 snapshot 记录 agent 当前的工具调用轨迹（名称、参数、顺序），check 与基线做确定性 diff，无需 API key 即可离线运行；可选 LLM judge 做输出质量评分，嵌入语义比较为 opt-in。提供 pip 安装的 CLI 与 Python 库（gate API），支持 GitHub Actions 中作为 PR pass/fail 门禁并输出 diff 与成本/延迟变化。另含多轮测试、pass@k、record/replay、生产监控等功能。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 快照/比对工作流记录并 diff 完整工具调用轨迹
-- 确定性轨迹 diff 离线运行，无需 API key；LLM judge 为可选
-- GitHub Actions 集成，PR 评论输出差异、成本/延迟变化与通过门禁
-- 支持多轮测试、pass@k 统计、record/replay、模型漂移金丝雀与 Slack 告警
+- 快照记录 agent 完整工具调用轨迹并与基线 diff
+- 确定性工具+顺序 diff 离线运行，无需 API key
+- CI 集成输出 diff、成本/延迟增量与 pass/fail 门禁
+- 支持多轮测试、pass@k、record/replay 与生产监控
 
 ## 适用场景
 
-- 模型或提示词更新后检查 agent 行为是否悄然改变
-- 在 CI/PR 流程中为 agent 变更设置回归门禁
-- 无需编写断言即可捕获未预期的行为漂移
+- 在 CI 中拦截 agent 行为漂移的 PR
+- 模型或供应商变更后检测 agent 工具调用变化
+- 对 prompt 修改做回归验证
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L16: **EvalView snapshots your agent's behavior — the tools it calls, in what order, with what output — and tells you th
-> L35: evalview snapshot    # Record your agent's current behavior as the baseline
-> L36: evalview check       # After any change, diff against the baseline
+> L46: It diffs the **whole trajectory** — tool names, parameters, and order — not just the final string. The deterministi
+> L102: ## CI: block regressions in every PR
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `bdf97f5c2b51` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c3396680e6ef` · [字段定义](../../DATASET.md)*

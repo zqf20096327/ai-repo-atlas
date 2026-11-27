@@ -2,9 +2,9 @@
 
 ⭐ 139 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/wanaku-ai/wanaku) · [官网](https://wanaku.ai) · 组织维护
 
-**面向 AI agent 的受管动作代理：拦截并治理工具调用**
+**AI agent 的受管治动作代理：拦截并管控 MCP 工具调用**
 
-部署在 agent 与后端系统之间的治理代理，拦截 MCP 工具调用、agent 间消息与推理流量。Agent 通过其调用工具而不直接访问后端；代理层以 LLM 评估器与 WASM 动作脚本执行策略分类、过滤与拦截，并经 oauth2-proxy/Keycloak 处理身份认证，支持命名空间隔离与插件扩展。集成开发者可将 Apache Camel 路由发布为工具。提供 Web 管理界面与多架构容器镜像，0.2.0 前名为 Wanaku MCP Router。
+Wanaku 位于 agent 与其操作的系统之间，拦截 MCP 工具调用、agent 间消息与推理流量；agent 通过代理调用工具，不直接访问后端，由代理层执行策略、身份、数据控制与审计要求。支持以 Apache Camel 路由发布为工具，集成 Quarkus，提供基于 oauth2-proxy 与 Keycloak 的认证授权、工具自动发现、命名空间隔离、管理面板。基于 Rust，提供安装脚本、容器镜像、systemd 与 Kubernetes/OpenShift 部署方式；v0.2.0 之前的 Java 版已废弃。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 拦截 MCP 工具调用、agent 间消息与推理流量
-- LLM 评估器 + WASM 动作脚本执行策略过滤与拦截
-- oauth2-proxy/Keycloak 身份认证与命名空间隔离
-- Apache Camel 路由可发布为 agent 可调用的工具
+- 拦截 MCP 工具调用、A2A 消息与推理流量的代理层
+- LLM 评估器 + WASM 动作脚本在代理层分类、过滤和阻断工具调用
+- 通过 oauth2-proxy 与 Keycloak 在动作到达后端前做认证授权
+- 多架构容器镜像（x86_64、aarch64）自动发布
 
 ## 适用场景
 
-- 企业内部对 agent 工具调用做策略与审计管控
-- 将 Camel 集成路由以工具形式暴露给 agent 且隔离后端
-- 按团队/租户/环境隔离工具与资源
+- 让 agent 通过受管治的代理访问企业后端系统
+- 按团队/租户/环境隔离管理工具与资源
+- 对 agent 动作做策略、凭证与审计管控
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7: Wanaku is a governed action proxy for AI agents. It sits between agents and the systems they act on, intercepting
-> L15: to publish them as tools. Agents call those tools with parameters, but Wanaku runs the work. Agents never access ba
+> L9: Wanaku is a governed action proxy for AI agents. It sits between agents and the systems they act on, intercepting
+> L24: - **Policy Enforcement** — LLM-powered evaluators + WASM action scripts classify, filter, and block tool calls in t
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f4ce15d20966` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `830ea1b2f06a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 342 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/acvnace/awesome-vibe-coding-resources) · [官网](https://yangmao.ai) · 个人维护
 
-**面向 AI 辅助开发者的 vibe coding 资源策展清单**
+**vibe coding 工具与资源策展清单**
 
-以 awesome-list 形式组织的 vibe coding 资源聚合，按浏览器工具、移动端工具、IDE 与代码编辑器、桌面应用等章节分类收录条目，每条附一句事实性描述。开头收录 vibe coding 概念定义与 Karpathy 的术语出处，贡献规则要求投稿者披露利益关联、排除广告与联盟链接。清单本身不提供可安装的软件，内容为指向第三方工具与资源的条目列表。
+以 awesome-list 形式收录 vibe coding 相关的工具、资源与新闻条目，按浏览器工具、移动端工具、IDE 与代码编辑器、桌面应用等分区组织。每个条目附一句事实性描述，贡献规则要求提交时注明利益相关并排除广告与推广链接。清单开头收录 Karpathy 对 vibe coding 概念的定义说明。本仓库本身是目录性质，不提供可安装运行的软件。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按 Browser-based/Mobile/IDE/Desktop 等章节分类组织条目
-- 收录 vibe coding 术语出处与概念解释链接
-- 贡献规则要求披露利益关联、排除广告与联盟链接
+- 按浏览器工具/移动端/IDE/桌面应用分区组织条目
+- 收录自述开源（MIT/AGPL）的自托管条目
+- 贡献规则要求排除广告、推广链接并披露利益相关
 
 ## 适用场景
 
-- 寻找可用的 AI 编程与 prompt 建站工具
-- 了解 vibe coding 生态里有哪些新工具
-- 浏览各类支持 AI agent 的 IDE 与编辑器选项
+- 查找可从提示词生成应用的浏览器端工具
+- 挑选支持 AI agent 的代码编辑器
+- 了解 vibe coding 工具生态的覆盖范围
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `427e817db5e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `b2c9c3f13af7` · [字段定义](../../DATASET.md)*

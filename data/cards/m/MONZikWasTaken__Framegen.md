@@ -2,9 +2,9 @@
 
 ⭐ 235 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/MONZikWasTaken/Framegen) · [官网](https://chromewebstore.google.com/detail/framegen-frame-interpolat/hpdpcjakhclhljfdkpjolonjlopbdhfk) · 个人维护
 
-**给浏览器视频做实时神经网络插帧的扩展**
+**浏览器扩展：用本地神经网络把视频实时插帧到 60-240fps**
 
-浏览器扩展，将网页上任意 <video> 元素（24–30fps）实时插帧到 60–240fps。生成管线运行在用户 GPU 上：2.0 版起采用 FlyHigh 引擎，FlyHighFG 网络（0.78M 参数）的 WGSL 内核编译为 WebAssembly，由引擎 Pacer 决定每个显示 tick 输出内容，单帧生成约 1ms。提供 Auto/动漫模式、精确输出速率网格、对比滑块、2x 神经放大、静态像素保护与多语言界面。不支持 DRM 视频站点；无服务器、无遥测。Chrome/Edge 121+ 或 Firefox 142+ 可用。
+Chrome/Edge 与 Firefox 浏览器扩展，对页面中任意 <video> 元素做实时神经插帧，支持 2x-6x 倍帧、Anime 模式（检测二、三拍停帧）、匹配显示器刷新率与自定义 FPS 网格、对比滑块与字幕/logo 静态保护。2.0 起生成由 FlyHigh 引擎承担：FlyHighFG 网络（0.78M 参数）以 WGSL 内核经 WebAssembly 运行在 WebGPU 上。全流程本地 GPU 执行，无服务器与遥测。不支持 DRM 视频（Netflix 等）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 2x–6x 实时插帧任意 <video>，FlyHighFG 网络 0.78M 参数运行于 WebGPU/WebAssembly
-- Auto 模式按 GPU 与显示器自适应输出倍率并在卡顿前回退
-- 动漫模式支持二/三律绘制检测与 cadence 平滑
-- 本地运行：无服务器、无遥测、无数据外发
+- 任意 <video> 实时 2x-6x 插帧，每生成帧约 1ms（中端 GPU）
+- 基于 WebGPU 的手写 WGSL 运行时，2.9MB 模型，本地推理不上传数据
+- Anime 模式：二/三拍停帧检测与可选 cadence 平滑
+- 2x 神经超分辨率与七种画面预设
 
 ## 适用场景
 
-- 在 YouTube 等网站观看低帧率电影、动画、体育视频时补帧
-- 为动漫内容做逐格运动平滑（动漫模式+cadence smoothing）
-- 高刷新率显示器用户按屏幕刷新率对齐输出帧率
+- 在浏览器里把 24fps 电影或动漫插到显示器刷新率观看
+- 为高刷屏（144-240Hz）播放体育或录屏内容
+- 在播放器内对比原始与插帧画面
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L5: **Smooth video in your browser.** An extension that turns 24 to 30 fps video into 60 to 240 fps in real time, with a
 > L32: Since 2.0 the generation runs on the FlyHigh engine: the FlyHighFG
-> L47: Requirements: **Chrome or Edge 121+** (Windows, macOS with Apple Silicon, Linux) or **Firefox 142+ on Windows**, an
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `405c0acb959c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `26a66e092c7d` · [字段定义](../../DATASET.md)*

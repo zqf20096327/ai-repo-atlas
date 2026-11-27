@@ -2,9 +2,9 @@
 
 ⭐ 279 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
 
-**开发者用 LLM 编写代码驱动的浏览器自动化框架**
+**LLM 写 Python 代码驱动浏览器的自动化框架**
 
-基于 CDP（Chrome DevTools Protocol）直连与 CodeAgent 架构的浏览器自动化框架：LLM 在持久化命名空间中生成并执行 Python 代码，完成网页导航、交互与信息提取。提供 CLI（含常驻 daemon、批量抓取、无浏览器 HTTP 模式）、MCP Server（供 Claude Desktop/Claude Code 等调用）、工作流录制回放、视频录制、插件系统与 8 个引导技能。支持 15 个 LLM 提供商，自动检测本机 Chromium 系浏览器，要求 Python 3.12+。
+基于 CDP 直连与 CodeAgent 架构的浏览器自动化框架：LLM 在持久命名空间中编写并执行 Python 代码，完成网页导航、交互与信息提取。支持 15 家 LLM 提供商、截图视觉理解、批量抓取、工作流录制回放、视频录制与 MCP Server 接入 Claude Desktop/Claude Code 等客户端。提供 CLI daemon、插件系统（8 个引导技能），另有托管云版本（等待名单）。要求 Python 3.12+，自动检测已装的 Chromium 系浏览器。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- CodeAgent 架构：LLM 在持久 Jupyter 式命名空间中写 Python 代码执行自动化
-- 原生 CDP 通信与 CLI 常驻 daemon（-c 直接执行代码，10 分钟自动关闭）
-- MCP Server 供 Claude Desktop、Claude Code、Codex 等接入
-- 批量抓取 scrape_pages 支持并发上限与 --no-browser 轻量 HTTP 模式
+- CodeAgent 架构：LLM 在类 Jupyter 持久命名空间中写 Python 代码驱动浏览器
+- 原生 DDGS 网页搜索客户端与批量抓取（有界并发，--no-browser 模式不启动 Chrome）
+- MCP Server 支持 Claude Desktop、Claude Code、Codex、OpenCode 等客户端
+- 工作流录制可回放并导出为 Jupyter notebook 或 API 爬虫代码
 
 ## 适用场景
 
-- 自动抓取电商商品数据并批量导出 JSON/JSONL
-- 让 LLM 自动完成订票、表单填写等网页流程
-- 把浏览器自动化能力通过 MCP 接入 Claude Code 等 AI 助手
-- 录制并回放浏览器工作流，导出为 Jupyter notebook 或爬虫代码
+- 自动抓取电商商品页数据并批量导出 JSON/JSONL
+- 让 AI 代理自动完成表单填写、机票预订等网页操作
+- 把 Claude Code 等客户端接入浏览器自动化能力（MCP）
+- 录制浏览器会话并导出为可复用的工作流代码
 
 ## 场景标签
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `3a9148a3b8c2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 low · 依据 README sha `4971dc41e6e2` · [字段定义](../../DATASET.md)*

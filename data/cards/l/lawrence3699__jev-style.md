@@ -1,10 +1,10 @@
 # lawrence3699/jev-style
 
-⭐ 140 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/lawrence3699/jev-style) · [官网](https://jevstyle.com) · 个人维护
+⭐ 140 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/lawrence3699/jev-style) · [官网](https://jevstyle.com) · 个人维护 · 中文 README
 
-**本地运行的小型校准决策模型：文本输入返回各选项概率**
+**本机运行的小型决策模型工具包：分类/路由/打分并输出概率**
 
-基于 Qwen3.5 的 0.8B/2B 决策模型家族及配套工具链。输入文本或 JSON 与带类型的问题（是/否、多选、评分），模型一次前向返回每个选项的校准概率，支持最长 25,600 token。提供本地服务器（MLX/PyTorch/可选 GGUF 后端）、6 个 agent 技能（npx 一键安装）、Claude Code PreToolUse 守卫钩子、MCP 工具（decide/noul/choice/score）与自有标注数据评测命令。无需 GPU、API key 或训练。权重托管于 Hugging Face。
+Jev-Style 包含 0.8B 与 2B（基于 Qwen3.5 微调）两个决策模型及配套工具包，输入文本/JSON、可选图像，单次前向传播输出每个选项的校准概率，支持 yes/no、多选（最多 255 项）与有序评分三类问题。提供本地 HTTP 服务器（systemone 兼容接口）、Python 客户端、MCP server、六个 agent 技能与 Claude Code 工具调用守卫。pip 安装，CPU 可运行，无 GPU、API key 或训练需求；图像输入仅 PyTorch 后端支持。
 
 ## 筛选速览
 
@@ -14,31 +14,33 @@
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 一次前向返回各选项校准概率（noul/choice/score 三种问题类型）
-- 本地服务器按机器自动选择 MLX（Apple silicon）或 PyTorch（CUDA/CPU）后端
-- 6 个 agent 技能：部署、调用、评测、替换仅返回标签的 LLM 调用、Claude Code 守卫、MCP 注册
-- jev-style eval 报告准确率、Brier、ECE 及 1/5/10% 错误预算下可自动化的决策比例
+- 一次前向传播输出每个选项的校准概率（附 held-out 数据拟合的温度参数）
+- 0.8B 约 0.53 GB（4-bit）笔记本可跑，数据不出本机
+- 2B v4 支持图像输入与 32,768 token 长输入（PyTorch 后端）
+- 六个 agent 技能、MCP server 与 Claude Code 工具调用守卫
 
 ## 适用场景
 
-- 在 agent 工作流中用小模型本地判断工单分类、是否放行工具调用等决策
-- 把代码里只返回标签的 LLM 调用替换为本地决策模型，低于置信阈值回退 LLM
-- 在自有标注数据上评测决策准确率与校准，确定可自动化的比例
+- 把客服工单路由到正确的团队
+- 让 agent 在本地模型的判断下决定调用哪个工具或模型
+- 对邮件做钓鱼检测与话题打标
+- 检查收据、截图与扫描表单
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+ · 领域:AI 基础设施/决策模型
 
 ## 证据(README 行号)
 
-> L18: Jev-Style is a family of small decision models built on Qwen3.5. The current releases are Jev-Style-2B-Decision-v3 
-> L34: - **Three question types in one request.** Yes/no (`noul`), multiple choice (`choice`, up to 255 options) and order
+> L3:  Small decision models that run on your own machine. Text and images in, a calibrated probability for every option o
+> L23: Jev-Style is a family of small decision models (0.8B and 2B, fine-tuned from Qwen3.5) and the toolkit that puts the
+> L71: - **Built for agents.** Six agent skills, an MCP server in the official registry, a Claude Code tool-call guard and
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 high · 依据 README sha `24b8f4fe25de` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `ea84f890a81e` · [字段定义](../../DATASET.md)*

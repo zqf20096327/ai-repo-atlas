@@ -2,9 +2,9 @@
 
 ⭐ 146 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/avabbbb/Iris) · [官网](https://iris.avabbbb.com) · 个人维护 · 中文 README
 
-**开源无限画布 AgentOS：人与编码代理共同编辑的创意生成工具**
+**人与 Agent 共同创作的开源无限画布 AIGC 工作台**
 
-Iris（前身 Flovart）是一个开源、本地优先的创意工作流工具：无限画布上组合图像、视频、文本、音频与配置节点，用户可手动编辑，也可通过 CLI 连接本地编码代理（Codex、Claude Code 等）以类型化操作读写同一工作流。生成结果以候选形式保存，经比较确认后再交付；模型不内置，用户通过 BYOK 配置自己的服务商（如 RunningHub）与 API key。Windows/macOS 提供测试版安装包，也可从源码运行；DaVinci Resolve 等宿主集成仍处实验阶段。
+AgentOS 定位的创作工作区，由三个模块组成：Canvas 无限画布组织图像/视频/音频/文本节点并按节点调用生成模型，Cut 提供浏览器内多轨视频时间线剪辑（WebCodecs 解码、MP4 导出），Agent 通过 iris_* 工具与审批分级（读/写/exec，含费用与删除硬门控）操作画布。本地优先，项目数据存于浏览器 IndexedDB，API 密钥存加密本地保险库（BYOK）。提供 Web、源码运行、Tauri 桌面包（闭测）三种形态，可通过 CLI/stdio MCP 让 Codex、Claude Code 等外部编码 Agent 接入。多数生成通道与外部 Agent 集成处于 Beta/Experimental 状态。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Iris（前身 Flovart）是一个开源、本地优先的创意工作流工具�
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,27 @@ Iris（前身 Flovart）是一个开源、本地优先的创意工作流工具�
 
 ## 能力要点
 
-- 人类与编码代理编辑同一可见工作流，代理操作通过类型化能力而非屏幕抓取
-- 候选先行：生成结果保留全部版本，不会静默覆盖已选结果
-- BYOK 多服务商适配，不捆绑模型服务，密钥与费用归用户掌握
-- 本地优先存储，素材与生成产物保留在创作者机器附近
+- Canvas/Cut/Agent 三模块：节点式生成、多轨视频剪辑、Agent 工具化操作
+- 每次变更携带 projectId+expectedRevision+mutationId，人与 Agent 编辑同一可见状态
+- 审批分级与硬门控：付费生成先出成本预估与计划卡，删除需确认，预算原子预留
+- 本地优先：数据存浏览器，密钥存加密 localforage，无云同步承诺
 
 ## 适用场景
 
-- 在画布上指帧描述意图，生成可审阅的 AI 图层候选
-- 让本地编码代理读取项目上下文并执行工作流操作
-- 用自己的 API key 配置图像/视频模型进行生成
+- 在无限画布上串联提示词节点批量生成图像与视频
+- 用内置 Agent 代为执行节点生成、剪辑与任务管理
+- 让 Codex/Claude Code 等编码 Agent 通过 CLI 驱动同一画布协作
+- 离线/本地保存项目数据，自带模型密钥管理生成服务
 
 ## 场景标签
 
-`编码 Agent` `图像生成` `视频生成` · 领域:编码与开发
+`图像生成` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L5:  Iris — open-source AgentOS on an infinite canvas.
-> L37: **Keep the original. Describe the change. Compare candidates.** Iris brings your coding Agent and a visible creativ
-> L115: |Models|BYOK and multi-provider adapters, with capability-specific status|
+> L4:  An open-source AgentOS on an infinite canvas · 人与 Agent 共同创作的无限画布
+> L5:  An agent-native creative production workspace: the Canvas organizes assets and generation, Cut edits the video time
+> L63: - BYOK: RunningHub image + video is the only provider path in certification (**Beta, pending certification**); Open
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `bfe5e8561608` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8bdb05565675` · [字段定义](../../DATASET.md)*

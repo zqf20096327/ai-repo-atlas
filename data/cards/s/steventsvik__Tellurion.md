@@ -2,9 +2,9 @@
 
 ⭐ 144 · Zig · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/steventsvik/Tellurion) · [官网](https://steventsvik.github.io/Tellurion/) · 个人维护
 
-**面向多 AI 编码 agent 的 macOS 终端：实时观测、审查与撤销**
+**在 macOS 终端中实时观测与管控多个 AI 编码 agent**
 
-Ghostty 的非官方 fork，面向同时运行多个 AI 编码 agent（Claude Code、Codex、Gemini CLI 等 9 个上报实时状态，另有 8 个按名称识别）的开发者。提供 agent 侧边栏、Mission Control 总览、跟随 agent 编辑的 Monaco 编辑器、代码星图、项目记忆共享与 agent 间交接、每回合快照与撤销、审查收件箱与 agent 互相评审循环，以及通过 Ollama 的本地模型对话。兼容原 Ghostty 配置并跟踪其上游发布。限制：仅 Apple silicon、macOS 13+；hooks 只观测不改写 agent 行为。
+基于 Ghostty 的非官方 fork（AGPL-3.0），面向同时运行 Claude Code、Codex、Gemini CLI 等多个编码 agent 的开发者。提供 agent 侧栏实时状态、跟随 agent 编辑的代码编辑器、按回合快照的撤销、手机端远程审批、Mission Control、编排器（多 agent 分工）、agent 竞速、本地模型聊天等功能，追踪官方 Ghostty 发行并在其上叠加特性。要求 macOS 13+ 与 Apple silicon。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Ghostty 的非官方 fork，面向同时运行多个 AI 编码 agent（Claude Co
 
 ## 能力要点
 
-- 9 个 agent 实时状态上报，权限提示可在卡片/通知中 Allow/Deny
-- 每个回合前保存项目快照，可一键撤销任意回合
-- Claude Code 与 Codex 的项目记忆可跨 agent 共享与交接
-- 每标签页内置 Monaco 编辑器，实时跟随 agent 的读写与编辑
+- 9 个 agent 实时状态上报，另按名称识别 8 个 agent
+- 每回合快照，一键撤销 agent 的更改
+- 手机经 Tailscale 访问终端并审批权限请求
+- Orchestrator 用自有 agent 分工调度多个 agent
 
 ## 适用场景
 
-- 同时跑多个 AI 编码 agent 时在一屏内掌握全部状态并处理权限请求
-- 审查 agent 产出的 diff、行内评论并按回合撤销不满意的修改
-- 把一个 agent 的工作与项目记忆移交给另一个 agent 继续
+- 同时管理多个项目里的编码 agent 并实时查看其改动
+- 通过手机远程批准或拒绝 agent 的权限请求
+- 让多个 agent 做同一任务并保留最佳结果
 
 ## 场景标签
 
-`多智能体` `代码审查` · 领域:Agent 开发
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L27: **Tellurion is a macOS terminal for developers who run several AI coding agents,
-> L29: Ghostty, the fast native terminal, that shows what every agent is
-> L68: Nine agents report live status: **Claude Code** and **Codex**, plus **GitHub Copilot CLI,
+> L29: **Tellurion is a macOS terminal for developers who run several AI coding agents,
+> L31: Ghostty, the fast native terminal, that shows what every agent is
+> L75: of the others it finds on your Mac. Each hook only observes: it never approves, blocks or
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `75752188fe0d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `94401a5f4139` · [字段定义](../../DATASET.md)*

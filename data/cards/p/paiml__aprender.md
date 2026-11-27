@@ -2,9 +2,9 @@
 
 ⭐ 143 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/paiml/aprender) · [官网](https://paiml.github.io/aprender/) · 组织维护
 
-**纯 Rust 的机器学习框架与 apr 命令行工具链**
+**纯 Rust 的 ML/统计/深度学习框架与 apr 模型生命周期 CLI**
 
-纯 Rust 编写的机器学习框架，覆盖完整模型生命周期：推理（run/chat/serve）、训练（train/finetune/pretrain/distill）、量化、转换、检查、性能分析与发布，由单一 apr 二进制与 81 个 workspace crate 提供，配套 YAML 可证明契约在 CI 中防漂移。经典算法库含线性/逻辑回归、决策树、随机森林、SVM、K-Means、PCA 等。支持从 HuggingFace 拉取 Qwen 系列模型并以 safetensors/GGUF 格式推理；限制：预编译安装仅覆盖 Linux x86_64/aarch64，0.69.1 中 qwen3moe 架构仅 CPU 运行。
+以单一 `apr` 二进制覆盖模型全生命周期：推理（run/chat/serve）、训练（train/finetune/pretrain/distill）、量化/转换/合并/导出、性能剖析与模型发布，全部受 YAML 可证明契约约束并在漂移时使 CI 失败。可从 HuggingFace 拉取 GGUF/safetensors 模型本地运行，提供兼容 OpenAI 格式的 REST 接口。预编译二进制目前仅覆盖 Linux x86_64/aarch64，其他平台回落到 cargo install；CUDA 为可选 feature，MoE 架构在 CUDA 上尚不支持。也可作为 Rust 库使用（线性回归、随机森林、PCA、贝叶斯推断等算法）。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 113 个 CLI 命令覆盖推理/训练/模型操作/剖析/注册表
-- 1996 条 YAML 可证明契约，README 数据漂移会使 CI 失败
-- NVIDIA GPU 加速为 cargo 可选 feature（--features cuda）
-- 提供 REST API 服务（apr serve，兼容 /v1/chat/completions 请求格式）
+- 单一 apr 二进制覆盖推理、训练、量化、剖析、发布的完整模型生命周期
+- YAML 可证明契约（1741 条）在漂移时使 CI 失败，README 数字由脚本校验
+- 支持从 HuggingFace 拉取 Qwen 系列模型，CPU/GGUF 与 .apr 格式均可运行
+- 115 个 CLI 命令，含 REST 服务、Roofline 剖析与容量规划
 
 ## 适用场景
 
-- 用 cargo 一键安装后在本地运行与微调 Qwen 系列模型
-- 对模型做量化、格式转换与逐张量差异检查
-- 在 Rust 项目中以库形式使用回归、树模型等经典算法
+- 在本地 CPU/GPU 上运行和量化 Qwen 等开源模型
+- 用 Rust 库接口训练传统 ML 模型（回归、树模型、聚类等）
+- 通过 REST API 部署本地模型服务
+- 以契约门禁管理模型能力声明的可复现验证
 
 ## 场景标签
 
-`微调` `模型量化` `推理引擎` `模型训练` · 领域:训练与推理
+`模型量化` `推理引擎` `微调` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L56: A complete ML framework in pure Rust. One `cargo install`, one `apr` binary,
+> L57: the full model lifecycle — inference, training, quantization, profiling,
 > L130: |**Inference**|`apr run`, `apr chat`, `apr serve`|
 
 ## 星数曲线
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `05169bc979c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7905a61e3ef4` · [字段定义](../../DATASET.md)*

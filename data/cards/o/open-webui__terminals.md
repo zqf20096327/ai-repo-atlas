@@ -2,9 +2,9 @@
 
 ⭐ 141 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/open-webui/terminals) · [官网](https://docs.openwebui.com/ecosystem/open-terminal) · 组织维护
 
-**为 Open WebUI 用户编排隔离终端容器的服务层**
+**Open WebUI 的机器编排层：按模板按需运行终端容器**
 
-Terminals 是 Open WebUI 的终端容器编排服务：为每个用户自动创建隔离的 Open Terminal 容器，代理流量、执行资源限额（CPU/内存/存储）与网络规则，并在空闲或策略触发时清理。支持 Docker、Kubernetes 直连与 Kubernetes Operator（CRD）三种后端；通过 REST API 定义策略（镜像、环境变量、限额、存储模式、定时重置），并支持 Open WebUI JWT 校验模式。注意：生产环境需要 Open WebUI 企业许可。
+Machines API (Terminals) 是面向 Open WebUI（0.13.4+）的机器编排服务：按模板在 Docker 或 Kubernetes 上按需启动 Machine (Open Terminal) 容器，按模板与作用域路由请求，并管理持久化文件与空闲清理。支持 null/user/chat/model 四种环境作用域、CPU/内存/存储限制、空闲超时与生命周期策略、定时文件重置、网络配置文件（docker_network/kubernetes_labels），以及内置管理 UI 与 REST API。商业或组织生产使用需 Open WebUI Enterprise License。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Terminals 是 Open WebUI 的终端容器编排服务：为每个用户自动创�
 
 ## 能力要点
 
-- 每用户独立容器的全生命周期自动管理（创建/代理/限额/清理）
-- Docker、Kubernetes、Kubernetes Operator 三种后端
-- 策略 API 定义镜像、资源限额、存储模式与 cron 定时重置
-- Open WebUI JWT 集成与内置最小管理 UI
+- 按模板按需启动容器，支持 null/user/chat/model 四种作用域隔离环境
+- 持久化用户工作区，支持停止保留、定时重置与最大生命周期管理
+- Docker 与 Kubernetes（含 operator/受限模式）双后端编排
+- 内置管理 UI 与 REST API，支持 CPU/内存/存储/镜像白名单限制
 
 ## 适用场景
 
-- 为 Open WebUI 的每个用户提供隔离的代码执行终端
-- 按策略为不同团队分配不同资源限额与镜像的终端环境
-- 在企业集群上做终端工作区的定期重置与留存管理
+- 为 Open WebUI 的机器菜单提供按模板创建的终端运行环境
+- 按用户或会话隔离的代码执行工作区，带资源与生命周期限制
+- 在 Kubernetes 上集中管理多用户终端容器的存储与网络策略
 
 ## 场景标签
 
- · 领域:基础设施/容器编排
+ · 领域:LLM 应用基础设施/运行环境编排
 
 ## 证据(README 行号)
 
-> L5: Terminals gives every Open WebUI user their own isolated container, with separate credentials, resource limits, and 
-> L13: > **Production use requires an Open WebUI Enterprise License with Terminals access.** Contact the Open WebUI team t
+> L3: Run Machine (Open Terminal) environments from shared templates. The service starts containers on demand, routes requ
+> L5: **Requires Open WebUI 0.13.4 or later.**
+> L12: > Commercial or organizational production use requires an Open WebUI Enterprise License with Terminals access.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2dcedc807460` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `67a1b4a5e433` · [字段定义](../../DATASET.md)*

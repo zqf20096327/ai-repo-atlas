@@ -2,9 +2,9 @@
 
 ⭐ 139 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sixb-ai/sixb) · [官网](https://docs.sixb.ai) · 组织维护
 
-**TypeScript 本体驱动框架：统一数据模型供应用与 AI agent 使用**
+**面向开发者与 AI agent 的 TypeScript 本体驱动应用框架**
 
-面向开发者的 TypeScript 框架：用 defineObjectType 等在代码中定义领域本体（类型、关系、动作），外部系统数据经映射汇入共享模型，框架据此提供 API、带类型的查询与运行时权限控制，应用与工作流共用同一模型并将动作回写源系统。内置 AI agent 通过 Sixb CLI 在沙箱中操作该模型，聊天中继承用户权限，工作流中可指定其访问范围。附 Northline Mechanical 参考应用。当前 0.1.x 版本可能包含破坏性变更与数据库迁移。
+Sixb 是一个 TypeScript 框架，用于构建由本体（ontology）驱动的应用与 AI。开发者连接 Pipedrive、QuickBooks、Excel 等业务系统，用 TypeScript 定义领域对象类型及其关系，通过 sync 与 projection 将源系统数据映射到模型上；在此模型之上构建应用、agent 与工作流。内置 agent 基于同一模型读取类型、查询数据并经 Sixb CLI 在沙箱中请求操作，运行于用户配置的语言模型上。需 Bun 1.4.4+，本地运行无需数据库与 API key；处于 0.1.x 活跃开发期，版本可能包含破坏性变更。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- TypeScript 定义本体，同一模型供应用、工作流与 AI agent 共用
-- 运行时权限控制：聊天中 agent 继承用户权限，工作流中可指定访问
-- 连接外部系统、映射数据到共享模型，动作回写源系统
-- 每个应用内置本体图浏览、数据探查与工作流运行查看页面
+- TypeScript 定义本体类型，sync/projection 将业务系统数据映射到模型
+- 内置 Agent、Console、Settings 页面，开箱即用
+- action 带类型与权限检查，可写回源系统
+- agent 经 CLI 在沙箱中执行，权限可按对话或工作流配置
 
 ## 适用场景
 
-- 把分散系统数据统一成共享领域模型构建业务应用
-- 让 AI agent 在受控权限与沙箱内操作业务数据
-- 构建带人工审核步骤的事件驱动工作流
+- 连接 CRM/财务/办公系统，用统一模型构建业务应用
+- 让 agent 基于业务本体查询数据并代为执行操作
+- 将多系统数据整合为版本化数据集再做建模
 
 ## 场景标签
 
-`Agent 框架` `工作流自动化` · 领域:Agent 开发
+`工作流自动化` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: A TypeScript framework for ontology-powered apps and AI.
-> L57: The built-in AI agent works with that same model through the Sixb CLI
+> L86: The built-in agent works from the same model. It reads your types,
+> L89: workflow, you decide its access. It runs on the language models
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `91f6518a0ed0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0eb3864ddd5c` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # hamedgitty/bloks
 
-⭐ 336 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/hamedgitty/bloks) · [官网](https://bloks.dev) · 组织维护
+⭐ 336 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/hamedgitty/bloks) · [官网](https://bloks.dev) · 个人维护
 
-**本地运行的桌面应用：以聊天界面管理一组 AI agents**
+**本地运行的桌面端 AI agent 团队消息式客户端**
 
-Bloks 是一个运行在用户自己电脑上的桌面应用，以即时通讯形态组织 AI agents：每个 agent 是一个联系人，房间是群聊。每个 agent 底层对应一个真实引擎会话（Claude Code、Codex、Gemini CLI 等）或用户持有密钥的任意 API。支持多工作区隔离、成员邀请与权限/消费限额、按 agent 与引擎的用量统计、月度支出上限、iPhone/Apple Watch 配对远程审批，以及卡片/表格/图表等结构化回复。许可为 FSL-1.1-MIT，支持 macOS、Windows、Linux。
+Bloks 是运行在用户自己电脑上的桌面应用，以即时消息形式组织个人 AI agent：每个 agent 是联系人，房间是群聊。底层每个 agent 对应一个真实引擎会话（Claude Code、Codex、Gemini CLI 或任意持有 key 的 API），agent 可流式回复、展示执行的命令、以可读文件保存记忆。支持多工作区隔离、邀请成员协作、用量与花费统计、月度花费上限、结构化回复（卡片/表格/图表），并提供 iPhone/Android/Watch 配套客户端作为远程窗口。需 Node 22+，FSL-1.1-MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Bloks 是一个运行在用户自己电脑上的桌面应用，以即时通讯�
 
 ## 能力要点
 
-- 以聊天界面管理多个 agent，底层为 Claude Code/Codex/Gemini CLI 等引擎会话
-- 多工作区隔离：各自的 agents、记忆、密钥与房间
-- 成员邀请（QR/口令/链接）与角色、私人会话、消费限额控制
-- 按 agent 与引擎的用量统计及月度支出上限
+- 消息式界面组织多个 agent 与房间，本地运行、无账号、数据不出本机
+- 每个 agent 是真实引擎会话：Claude Code、Codex、Gemini CLI 或自有 API key
+- 多工作区隔离（个人/团队）、邀请码/QR 加入、角色与每人限额
+- 按 agent 与引擎统计花费并设月度上限，超限可切换备用引擎
 
 ## 适用场景
 
-- 在一台电脑上集中管理多个编码/日常 agent
-- 团队成员共用同一组 agents 并按人控制额度和权限
-- 通过手机远程查看 agent 进度并批准其操作
+- 在一台电脑上同时运行多个编程/个人 agent 并统一对话管理
+- 团队邀请成员共享访问 agent 并控制各自的额度和权限
+- 通过手机端远程查看与审批家中/办公室电脑上的 agent 操作
 
 ## 场景标签
 
-`多智能体` `编码 Agent` · 领域:Agent 开发
+`多智能体` `编码 Agent` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L16: Bloks is a desktop app for personal AI agents. It looks like a messaging
-> L23: Underneath, every agent is a real engine session: Claude Code, Codex,
-> L24: Gemini CLI and the others that run tools, or any API you hold a key for.
+> L17: Bloks is a desktop app for personal AI agents. It looks like a messaging
+> L24: Underneath, every agent is a real engine session: Claude Code, Codex,
+> L12:  Node 22+
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `247f1352b58c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `896f21458e47` · [字段定义](../../DATASET.md)*

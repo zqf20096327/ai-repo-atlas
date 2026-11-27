@@ -1,10 +1,10 @@
 # AthenaCore/AwesomeResponsibleAI
 
-⭐ 158 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/AthenaCore/AwesomeResponsibleAI) · 组织维护
+⭐ 158 · MIT · 推送 2026-11-04 · [GitHub](https://github.com/AthenaCore/AwesomeResponsibleAI) · 个人维护
 
 **负责任/可信/以人为本 AI 的学术资源策展清单**
 
-一个 awesome 类策展清单，收录与 Responsible AI、Trustworthy AI、Human-Centered AI 相关的学术研究、书籍、课程、数据集、框架、法规、标准等资源。README 先以问答形式定义 AI 治理、开源 AI、负责任 AI 等核心概念，随后按 Adversarial ML、可解释性、公平性、监管、系统性风险、可持续性等主题组织论文条目，每条附作者、年份、出处与链接。面向从事 AI 伦理、治理与安全研究的学习者和从业者。
+以 awesome list 形式聚合负责任 AI 相关资源，条目类型覆盖学术研究、书籍、伦理准则、课程、数据库与数据集、框架、机构、成熟度模型、通讯、原则、播客、法规、报告、工具与标准；正文先给出 AI 治理、以人为本 AI、开源 AI、负责任 AI、可信 AI 等概念定义，学术研究部分按对抗机器学习、可解释性、公平性、监管、风险、可持续性等主题罗列论文并附出处链接。面向需要检索该领域文献与参考资料的读者。
 
 ## 筛选速览
 
@@ -20,24 +20,24 @@
 
 ## 能力要点
 
-- 按 20 余个学术主题组织的论文与研究条目
-- 包含 AI 治理、开源 AI、可信 AI 等概念定义问答
-- 覆盖公平性审计、可解释性、AI 风险分类、可持续性等方向
-- 条目标注来源机构（NIST/IBM Research/Google 等）
+- 按对抗 ML、可解释性、公平性、监管、风险、可持续性等主题分类收录论文
+- 提供 AI 治理/以人为本 AI/开源 AI/负责任 AI/可信 AI 的概念定义章节
+- 条目覆盖研究、法规、标准、工具、数据集等 17 类资源
 
 ## 适用场景
 
-- 查找 AI 公平性、可解释性方向的代表性论文
-- 了解负责任 AI 领域的概念框架与术语定义
-- 追踪 AI 风险、监管与可持续性研究进展
+- 查找负责任 AI 与 AI 治理方向的入门文献
+- 调研模型公平性、可解释性、可持续性相关论文
+- 了解负责任 AI 领域的法规、标准与工具资源
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L9: A curated list of awesome academic research, books, code of ethics, courses, data sets, databases, frameworks, insti
+> L8: # Awesome Responsible AI
+> L9: A curated list of awesome academic research, books, code of ethics, courses, databases, data sets, frameworks, insti
 > L47: ## Academic Research
 
 ## 星数曲线
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `fa855723e5e5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `901e3c53d42e` · [字段定义](../../DATASET.md)*

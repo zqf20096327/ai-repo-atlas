@@ -2,9 +2,9 @@
 
 ⭐ 139 · C++ · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/tryingsomestuff/Minic) · 个人维护
 
-**开源国际象棋引擎：NNUE 评估 + 搜索，UCI/CECP 协议**
+**支持 UCI/CECP 协议的国际象棋引擎，含 NNUE 评估**
 
-个人开发者在 2018 年以周末项目起步的 C++ 国际象棋引擎，无 GUI，通过 UCI 与 CECP 协议接入 Cutechess、Arena、Winboard 等界面软件使用。评估采用借鉴 Seer 实现并自行改造的 NNUE 网络（自版本 3.00 起不再兼容 Stockfish NNUE 实现与 SF 网络），训练代码为独立的 Python 工具，数据由引擎自身生成或用旧版本重标注。支持多线程（测试显示 250 线程下 1 亿 NPS），NNUE 建议在 AVX2 硬件上运行。源码与二进制两种获取方式。
+作者用于学习国际象棋编程与现代 C++ 的开源引擎项目，2018 年起从一个单文件周末项目演进为多文件 C++ 代码库。无图形界面，兼容 CECP (xboard) 与 UCI 两种协议，可接入 Cutechess、Arena、Banksia、Winboard 等对局软件。自 3.00 版起使用基于 Seer 实现改编的 NNUE 评估网络，训练代码为独立的 Python 工具，网络文件单独发布在 NNUE-Nets 仓库且版本间不向后兼容。作者提供二进制发行版与源码构建方式，并设有 Patreon 赞助渠道。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- NNUE 评估网络（自 Seer 实现改造，网络不跨版本兼容）
-- UCI 与 CECP 双协议，可在 Cutechess/Arena/Winboard 等软件中使用
-- 多线程搜索，README 给出最多 250 线程的速度测试数据
-- 独立的 Python 训练工具，数据由引擎自身生成或重标注
+- 兼容 CECP (xboard) 与 UCI 协议，可接入多种对局 GUI 与测试工具
+- 自 3.00 版起使用基于 Seer 改编的 NNUE 评估网络，网络文件在独立仓库发布
+- 提供多种 CPU 架构的构建目标（如 skylake/znver1）与多线程支持
+- 内置 random-mover 模式（level=0）
 
 ## 适用场景
 
-- 在支持 UCI 的棋类界面软件中作为对弈引擎
-- 参加计算机国际象棋赛事或评级列表测试
-- 学习国际象棋引擎编程与 NNUE 训练流程
+- 在 Cutechess/Arena 等软件中与该引擎对弈或进行引擎测试
+- 学习国际象棋引擎的搜索、评估与 NNUE 训练实现
+- 在自己的测试框架中通过 UCI 协议调用引擎
 
 ## 场景标签
 
- · 领域:游戏/棋类 AI
+ · 领域:游戏/棋牌引擎
 
 ## 证据(README 行号)
 
-> L35: #### NNUE from release 2.47 to release 2.53 (from Stockfish implementation)
-> L70: - Inference code : originally based on Seer's one (Connor McMonigle), with many refactorings and experiments inside
+> L2: Minic is a chess engine I'm developing to learn about chess programming and modern C++ (please see this lovely wiki 
+> L4: Minic has no graphical interface (GUI) but is compatible with both the CECP (xboard) and UCI protocols, so you can u
+> L53: Starting from release 3.00, **Minic is not using Stockfish NNUE implementation anymore and is no more compatible wi
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `98da62d1cb0d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e679bd02cd06` · [字段定义](../../DATASET.md)*

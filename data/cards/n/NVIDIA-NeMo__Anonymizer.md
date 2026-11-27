@@ -2,9 +2,9 @@
 
 ⭐ 139 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA-NeMo/Anonymizer) · [官网](https://nvidia-nemo.github.io/Anonymizer/latest/) · 组织维护
 
-**面向开发者的文本 PII 检测与匿名化库（GLiNER+LLM）**
+**文本 PII 匿名化工具库：检测并用 LLM 改写敏感信息**
 
-NVIDIA 维护的 Python 库，用 GLiNER-PII 检测文本中的敏感实体，经 LLM 增强与校验后按四种策略替换：LLM 生成替身、遮盖、注记或本地确定性哈希。默认检测走本地 GLiNER2 端点，文本 LLM 默认经 OpenRouter 托管，也可用自定义 provider YAML 换任意端点。提供 CLI、Python SDK 与 Agent Skill（npx 安装），支持 preview 小样本预览。测试主要覆盖英语，多语言质量未系统评估；收集匿名运行级遥测，可随时退出。
+NeMo Framework 下的 Python 库与 CLI，用 GLiNER-PII 本地端点检测实体，配合 OpenRouter 托管的文本 LLM 做增强与校验，并提供 4 种替换策略：LLM 生成替身、删除、标注、确定性本地哈希。支持预览、typed records 内存输入、自定义 provider YAML；README 说明多语言质量尚未系统评估，主要在英文数据上测试。依赖 Python 3.11 与 NeMo Data Designer，Apache 2.0 许可，匿名运行级遥测可关闭。
 
 ## 筛选速览
 
@@ -13,27 +13,27 @@ NVIDIA 维护的 Python 库，用 GLiNER-PII 检测文本中的敏感实体，�
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- GLiNER-PII + LLM 增强校验的实体检测
-- 4 种替换策略：Substitute/Redact/Annotate/Hash（哈希为本地确定性）
-- CLI 与 Python API，preview() 小样本预览
-- 附带 Agent Skill，npx skills add 安装
+- GLiNER-PII 本地检测 + LLM 增强校验的两段式流水线
+- 4 种替换策略：LLM 替身、redact、annotate、确定性哈希
+- CLI、Python API 与内存 typed records 输入
+- 附带 Agent Skill（npx skills add 安装）辅助起草脚本
 
 ## 适用场景
 
-- 在训练数据合成或共享前匿名化 PII
-- 按合规要求对数据集中的姓名、电话、证件号做检测替换
-- 先用小样本预览验证检测与替换效果再全量运行
+- 在把文本数据交给下游模型训练前清除个人敏感信息
+- 服务内存中文本记录的批量脱敏处理
+- 对非美区格式的电话/地址/证件号做匿名化实验
 
 ## 场景标签
 
- · 领域:数据隐私/文本处理
+ · 领域:数据隐私/文本匿名化
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `3e70eb1701c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4b0de2c3daa6` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 367 · Kotlin · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yuga-hashimoto/and-code) · [官网](https://yuga-hashimoto.github.io/and-code/) · 个人维护
 
-**在 Android 手机上本地运行 AI 编码代理的原生 GUI**
+**在 Android 手机本地运行 AI 编程 agent 的原生 GUI 应用**
 
-Kotlin/Jetpack Compose 编写的 Android 应用，通过 PRoot 在设备内运行 Alpine Linux 环境，自动安装 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 四种 CLI 编码代理；也可远程连接 PC/Mac/Linux 上的 OpenCode 服务器，支持会话中途在本地与远程运行时之间切换。提供仓库浏览、diff 审查、工具审批、定时任务、语音输入、SSE 流式输出等界面能力。应用本身不提供模型或订阅服务，认证与推理由各官方 CLI 处理。发布渠道为 APK，源码构建需 JDK 17 与 Android SDK。
+AndCode 是一个原生 Android 应用，通过 PRoot 在设备上构建 Alpine Linux（Antigravity 另装 Debian rootfs）环境，自动安装 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 等 CLI agent，提供触摸式聊天界面、文件浏览、diff 审阅、内嵌终端、cron 定时任务、语音输入与 SSE 流式输出；也可通过 LAN/Tailscale/QR 连接 PC 上的 OpenCode 服务器并在对话中切换运行时。应用本身不提供模型服务，认证与推理由对应官方 CLI 处理。分发途径为 F-Droid 与 GitHub Releases APK，可从源码构建。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Kotlin/Jetpack Compose 编写的 Android 应用，通过 PRoot 在设备内运�
 
 ## 能力要点
 
-- 通过 PRoot 在 Android 设备内自动安装 Alpine Linux 与编码代理，无需 PC
-- 支持 OpenCode（Stable）、Claude Code、Google Antigravity、Codex（Beta）
-- 本地与远程 OpenCode 运行时可中途切换（handoff），支持 QR/mDNS 发现
-- 工具审批、定时任务、内嵌终端、agent 驱动浏览器与语音输入
+- PRoot 在 Android 设备本地运行 OpenCode/Claude Code/Antigravity/Codex，无需 PC
+- 远程连接 PC 端 OpenCode，支持 LAN/Tailscale/QR 发现与对话中途运行时切换
+- 工具审批机制、会话管理、cron 定时任务与唤醒词语音输入
+- agent 可通过内置 MCP 服务器修改应用设置
 
 ## 适用场景
 
-- 没有电脑时在手机上与编码代理对话改代码
-- 出门用手机开始会话，回家通过 handoff 在 PC 上继续
-- 远程连接家里的 OpenCode 服务器做移动端运维
+- 在没有电脑时用手机继续与编程 agent 协作改代码
+- 在手机上浏览 git 仓库、审阅 agent 产生的 diff 并审批危险操作
+- 通过定时任务让 agent 按计划自动运行 prompt
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Kotlin/Jetpack Compose 编写的 Android 应用，通过 PRoot 在设备内运�
 ## 证据(README 行号)
 
 > L10: AndCode is a native Android GUI app that brings AI coding agents to your phone. Chat with OpenCode, Claude Code, Go
-> L17: > AndCode is an independent, local-first graphical interface that installs or launches supported third-party comman
+> L45: On-device agents run inside a Linux environment via PRoot. OpenCode, Claude Code, and Codex use Alpine Linux; Googl
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `609aed10eb81` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `712ce142914e` · [字段定义](../../DATASET.md)*

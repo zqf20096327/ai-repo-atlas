@@ -2,9 +2,9 @@
 
 ⭐ 333 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kris-hansen/comanda) · [官网](https://comanda.sh) · 个人维护
 
-**终端内编排 AI 编码代理的声明式 YAML 工作流运行时**
+**终端原生的 AI coding agent 工作流编排器**
 
-一个 CLI 工具，将 Claude Code、Gemini CLI、Codex、Kimi Code 等编码代理的协作流程编写为可检入版本库的 YAML 程序：可从英文描述生成工作流、以持久化状态运行 agentic loop、每轮迭代后执行测试/安全等质量门控，并支持中断后从检查点恢复。另提供代码库索引与知识图谱构建、SQLite FTS5 项目语义记忆、MCP 服务暴露、HTTP 端点运行等能力。面向在终端与 CI 中管理代理工作流的开发者，安装途径包括 Homebrew、go install 与预编译二进制。
+Comanda 以声明式 YAML 程序编排既有 coding agent CLI（Claude Code、Gemini CLI、Codex、Kimi Code）与 API/本地模型，通过 comanda generate 从自然语言生成工作流，支持带检查点恢复的 agentic loop、质量门、重试/中止/跳过策略、多 agent 并行与 Git worktree 隔离。附代码库索引、SQLite FTS5 语义记忆、知识图谱构建与 localhost 可视化浏览，可经 MCP、HTTP、shell 管道运行。MIT 许可，Go 实现，提供 brew/go install 与预编译二进制。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 持久化 agentic loop：状态存续、检查点恢复、质量门控
-- 协调 Claude Code/Gemini CLI/Codex/Kimi Code 及 API 与本地模型
-- 代码库索引与知识图谱，本地确定性抽取，localhost 可视化
-- 工作流可经 MCP、HTTP 端点或 shell 管道运行
+- agentic loop 支持持久化状态、检查点恢复与质量门
+- 统一编排 Claude Code/Gemini CLI/Codex/Kimi Code 及 API/本地模型
+- 代码库索引可转为知识图谱并提供 localhost-only 可视化
+- 工作流可作为 MCP 工具、HTTP 端点或 shell 管道环节运行
 
 ## 适用场景
 
-- 让编码代理迭代执行功能直到测试与安全检查通过
-- 多代理并行评审 git diff
-- 把仓库工作流暴露为 MCP 工具供客户端调用
+- 让 coding agent 迭代执行任务直到测试与安全检查通过
+- 多个 agent 以不同角色并行评审代码变更
+- 把既有 agent 工作流以声明式文件纳入版本管理与 CI
 
 ## 场景标签
 
-`工作流自动化` `知识图谱` `Agent 框架` · 领域:Agent 开发
+`多智能体` `编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: > Comanda is the terminal-native runtime for durable, self-improving agent work in a repository. Describe a workflow
-> L105: Comanda sits between a coding agent and an agent framework: it turns agent work into a durable, reviewable program
+> L109: Comanda sits between a coding agent and an agent framework: it turns agent work into a durable, reviewable program
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `408fda1bc01c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a93b8324ad8f` · [字段定义](../../DATASET.md)*

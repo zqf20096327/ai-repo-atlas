@@ -1,10 +1,10 @@
 # mvanhorn/last30days-skill
 
-⭐ 75,698 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mvanhorn/last30days-skill) · 个人维护
+⭐ 75,698 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mvanhorn/last30days-skill) · 个人维护 · 中文 README
 
-**AI agent 技能：跨多平台检索近 30 天舆情并合成简报**
+**让 AI agent 汇总近30天多平台舆情并生成简要报告的技能**
 
-以 /last30days 命令形式安装到 Claude Code、Codex、Cursor 等运行环境的 agent 技能，并行检索 Reddit、X、YouTube、TikTok、HN、Polymarket、GitHub 等约 30 个信息源，按点赞、 upvote、市场赔率等用户行为信号排序，再由 AI agent 合成一份主题简报。Reddit、HN、Polymarket、GitHub、专利与招聘页零配置即用；X、YouTube、arXiv 等源通过首运行的设置向导（30 秒）解锁，部分源需自带 API key 或本地 CLI 工具在 PATH 上。
+一个安装到 Claude Code、Codex、Cursor 等 50+ Agent Skills 宿主的技能，接收人物、公司或话题作为查询，并行检索 Reddit、X、YouTube、HN、Polymarket 等 20 余个来源，按点赞、upvote、市场赔率等真实用户互动信号打分，再由 agent 合成一份带引用的简报。零配置即可用 Reddit、HN、Polymarket、GitHub、专利与招聘页面；X、YouTube、TikTok 等来源需通过首次运行向导配置凭据或本地工具。提供 Claude Code 插件市场与 npx 两种安装路径。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 并行检索约 30 个平台并按真实用户互动信号打分排序
-- 零配置可用 Reddit/HN/Polymarket/GitHub，设置向导解锁其余源
-- 发现模式：扫描多源后输出 5-10 个按动量排序的新兴话题
-- 提供 Claude Code 插件市场与 npx skills 两种安装方式
+- 并行检索 Reddit、X、YouTube、HN、Polymarket 等 20+ 来源
+- 按 upvote/点赞/真金赔率等社区互动信号排序合成
+- 支持人物、公司、话题及趋势发现（discovery）模式
+- 零配置即用部分来源，其余经设置向导在 30 秒内解锁
 
 ## 适用场景
 
-- 见面前检索某个人近 30 天的动态与社区讨论
-- 公司尽调：查招聘信号、专利、股价与市场赔率
-- 发现正在升温的 AI 话题，找选题
-- 对比多个工具的实时社区反馈
+- 会面前快速了解某人近30天的动态与社区评价
+- 调研一家公司未发布的产品线索（招聘页、专利、股价）
+- 发现正在升温的 AI/科技话题
+- 对比多个工具近期的社区口碑
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L19: **An AI agent-led search engine scored by upvotes, likes, and real money - not editors.**
+> L29: **Codex, Cursor, Copilot, Gemini CLI, or any of 50+ Agent Skills hosts:**
 > L39: Reddit upvotes. X likes. YouTube transcripts. TikTok engagement. Polymarket odds backed by real money and insider i
-> L65: |**Reddit**|The unfiltered take. Top comments with real upvote counts, free, no API key. The real opinions that Goo
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3d53852bd93b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2fe0a3eea4cd` · [字段定义](../../DATASET.md)*

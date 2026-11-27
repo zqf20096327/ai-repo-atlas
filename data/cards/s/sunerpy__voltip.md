@@ -2,9 +2,9 @@
 
 ⭐ 139 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/sunerpy/voltip) · [官网](https://voltip.firlab.app/) · 个人维护 · 中文 README
 
-**跨平台按住说话的听写应用：云端或本机语音转文字**
+**跨平台按住说话的语音输入应用，本机或云端识别**
 
-面向 Windows/macOS/Linux/Android 的听写工具：按住全局热键录音，语音识别可在云端（OpenAI、Groq、SiliconFlow、阿里云或任意 OpenAI 兼容端点）或本机（Qwen3-ASR、SenseVoice、Paraformer，支持 GPU/CPU）进行，可选 LLM 清理文本后粘贴到光标处。附带语音改写、场景化风格、最长两小时的分段转写与 SRT 导出、个人词典与替换规则。Android 端可独立使用，也可经 Noise XX 握手端到端加密配对，作为电脑的麦克风和键盘。桌面端提供安装包（.exe/.deb/.AppImage/.dmg），也可从源码构建；本机识别后音频不离开设备。
+Voltip 是一款面向 Windows、Linux、macOS 与 Android 的听写应用：按住全局快捷键说话，松开后把识别文本粘贴到当前焦点应用。识别可走云端提供商或本机模型（Qwen3-ASR、SenseVoice、Paraformer），可选 LLM 清洗文本，支持个人词典、替换规则、场景化润色、语音改写、最长两小时录音导出 SRT 字幕。Android 手机可独立使用，或经 Noise XX 端到端加密配对作为电脑的麦克风与键盘。提供安装包、headless 命令行与本地识别服务。
 
 ## 筛选速览
 
@@ -20,18 +20,17 @@
 
 ## 能力要点
 
-- 云端或本机语音识别（Qwen3-ASR/SenseVoice/Paraformer，GPU Vulkan/Metal 或 CPU）
-- LLM 清理与语音改写、场景化输出风格、词典与正则替换规则
-- 最长两小时录音分段转写，可导出 SRT 字幕
-- Android 配对经 Noise XX 端到端加密，充当电脑的麦克风与键盘
-- 可暴露 OpenAI 兼容 /v1/audio/transcriptions 本地服务供其他程序调用
+- 按住说话（push-to-talk）全局热键，悬浮条显示实时转写
+- 本机识别模型 Qwen3-ASR 0.6B/1.7B（Vulkan/Metal GPU 加速）与 SenseVoice、Paraformer
+- LLM 文本清洗与语音改写，支持多家云端及本地 Ollama
+- Android 手机经 Noise XX 端到端加密配对作电脑麦克风与键盘，或独立听写
 
 ## 适用场景
 
-- 按住快捷键在任何应用里听写，文字落在光标处
-- 离线本机识别，音频不出设备
-- 长会议/讲座录音转写并导出字幕
-- 用手机做电脑的无线麦克风和键盘
+- 在任意文本框里按住快捷键语音输入文字
+- 会议或长录音转写并导出 SRT 字幕或要点摘要
+- 离线环境下用本机模型识别，音频不出机器
+- 用手机当作电脑的远程麦克风和键盘
 
 ## 场景标签
 
@@ -40,9 +39,8 @@
 ## 证据(README 行号)
 
 > L16: Voltip is a dictation app for Windows, Linux, macOS and Android. On the computer it records while
-> L18: the text up with an LLM, and pastes it into whatever app has the focus. The Android app works on
 > L36: - Recognition from a cloud provider (OpenAI, Groq, SiliconFlow, Alibaba Cloud Model Studio with its
-> L38:  transcribe.cpp, SenseVoice and Paraformer through sherpa-onnx. Qwen3-ASR runs on the GPU when
+> L37:  realtime models, or any OpenAI-compatible endpoint) or on-device: Qwen3-ASR 0.6B / 1.7B through
 
 ## 星数曲线
 
@@ -58,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-26 · 置信度 mid · 依据 README sha `d6c7bbfe5e2b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `5f509b6f6fbd` · [字段定义](../../DATASET.md)*

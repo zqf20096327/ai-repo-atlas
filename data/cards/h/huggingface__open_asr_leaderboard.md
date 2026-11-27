@@ -2,15 +2,15 @@
 
 ⭐ 288 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/huggingface/open_asr_leaderboard) · 组织维护
 
-**面向研究者与开发者的开源 ASR 模型精度排行榜及其评测代码**
+**ASR 模型准确率公开排行榜：跨数据集对比语音识别模型**
 
-该仓库包含 Open ASR Leaderboard 的代码，以 Gradio Space 形式托管在 Hugging Face 上，用于比较 ASR 模型在多数据集上的准确率。评测覆盖英语短音频、长音频与多语言基准（中文按 CER 计分），通过 HF Jobs 在统一 Docker 镜像与固定硬件上运行以保证可复现性；每个模型族有各自的 Docker 镜像、run_eval.py 入口与提交脚本，输出 JSONL 预测与 WER/RTFx 指标。还提供基准拟合检测脚本与 WER-RTFx 权衡图。
+Hugging Face 上的 Gradio Space，将 ASR 模型在多组公开基准上按 WER/CER、CTEM 等指标对比。评估通过 Hugging Face Jobs 在固定 Docker 镜像与固定硬件（1x H200）上运行以保证可复现性；模型按家族提供 Docker 镜像与 run_eval.py 入口，输出 JSONL 预测与 WER/RTFx。覆盖英文短/长音频、多语言（FLEURS/MCV/MLS 等）及 VoiceCodeBench 实体恢复，并提供基准拟合检测脚本；评测需 HF 账号、额度与存储桶。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 覆盖英语短音频、长音频与多语言（含中文 CER）三套基准
-- HF Jobs 统一 Docker 镜像与硬件保证评测可复现
-- 按模型族提供 run_eval.py 与 submit_jobs 脚本，输出 WER 与 RTFx
-- 提供 benchmark_fitting 脚本检测模型对测试集的过拟合
+- 多域多语言 ASR 基准评测（英文短/长音频、多语言、实体恢复）
+- HF Jobs + 固定 Docker 镜像与固定硬件保证可复现
+- VoiceCodeBench 的 CTEM 实体恢复评分（Qwen3.8-27B 评审）
+- 规范化变更后可对已有 JSONL 结果重打分，无需重跑推理
 
 ## 适用场景
 
-- 为项目选型 ASR 模型时对比各模型的 WER/RTFx
-- 以可复现流程自行评测并提交新的 ASR 模型
-- 检测候选模型是否对基准测试集过拟合
+- 为新语音识别模型提交排行榜评测
+- 对比不同 ASR 模型在多种数据集上的准确率
+- 检测测试集是否对某模型存在基准拟合
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `语音识别` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L3: This repository contains the code for the Open ASR Leaderboard. The leaderboard is a Gradio Space that allows users 
-> L26: English short-form, English long-form, and multilingual evaluations use Hugging Face Jobs to guarantee reproducibil
-> L77: Each model family has a `run_eval.py` entry point, launched on HF Jobs by a `submit_jobs*.sh` script (e.g. `transfo
+> L7: The Open ASR Leaderboard evaluates models on a diverse set of publicly available ASR benchmarks hosted on the Huggin
+> L29: English short-form, English long-form, and multilingual evaluations use Hugging Face Jobs to guarantee reproducibil
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e676fb3c647d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9e39ef848682` · [字段定义](../../DATASET.md)*

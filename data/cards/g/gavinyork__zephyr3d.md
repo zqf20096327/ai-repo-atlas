@@ -2,9 +2,9 @@
 
 ⭐ 144 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gavinyork/zephyr3d) · [官网](https://zephyr3d.org) · 个人维护 · 中文 README
 
-**面向浏览器的 TypeScript 3D 渲染引擎，带可视化编辑器**
+**面向浏览器开发者的 TypeScript 3D 渲染引擎，含可视化编辑器**
 
-TypeScript 编写的浏览器 3D 渲染引擎，单一代码库支持 WebGL/WebGL2/WebGPU 三个后端。分 Device API（图形抽象层，TypeScript 写着色器后自动生成 GLSL/WGSL）与 Scene API（场景图、PBR 材质、集群光照、阴影、地形、水面、动画、后处理）两层，浏览器端与 Electron 桌面版可视化编辑器。桌面版编辑器内嵌 MCP server 供 AI agent 驱动编辑器，并带 LLM 助手。未到 1.0，API 在小版本间仍会变化，由个人维护。适合自建工具或网页渲染研究的开发者。
+以 TypeScript 编写的浏览器 3D 渲染引擎，一套代码库支持 WebGPU 与 WebGL2 双后端，从单一着色器源生成 WGSL 与 GLSL。提供皮肤、头发、水体、地形等渲染技术，模块化 npm 包按需安装，配套可视化编辑器（场景编辑、节点图材质、地形雕刻、动画编辑）。桌面版基于 Electron，内嵌 MCP 服务器供 AI agent 驱动编辑器，并带内置 LLM 助手。项目未达 1.0，API 仍有变动。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ TypeScript 编写的浏览器 3D 渲染引擎，单一代码库支持 WebGL/WebG
 
 ## 能力要点
 
-- 单一代码库同时面向 WebGL/WebGL2/WebGPU，着色器以 TypeScript 编写后按后端生成 GLSL/WGSL
-- 渲染图组织的 Forward+ 管线、PBR 材质、集群光照、多种阴影与后处理
-- 浏览器版与 Electron 桌面版可视化编辑器，支持节点图材质蓝图与插件 API
-- 桌面版内嵌 MCP server 供 AI agent 驱动编辑器，并带 LLM 助手
+- 单一 TypeScript 着色器源同时生成 WGSL 与 WebGL2 GLSL
+- WebGPU/WebGL2 双后端，WebGPU 缺失时自动回退
+- 可视化编辑器覆盖场景、材质节点图、地形与动画编辑
+- 桌面版内嵌 MCP 服务器与 LLM 助手，API key 本地加密存储
 
 ## 适用场景
 
-- 在网页中构建带 PBR 渲染、地形与水面效果的 3D 应用
-- 自建编辑器或定制化渲染工具
-- 通过 MCP 让 AI agent 自动化操作编辑器工作流
+- 开发需要角色、水体、地形渲染的网页 3D 项目
+- 构建自定义工具或内部编辑器
+- 学习浏览器端渲染引擎的完整实现
 
 ## 场景标签
 
- · 领域:图形/3D 渲染引擎
+ · 领域:图形/游戏引擎
 
 ## 证据(README 行号)
 
-> L166: The **desktop build** (Electron) adds local project folders with persistent storage, an embedded
-> L167: MCP server so AI agents can drive the editor directly, and a built-in LLM assistant. API keys are
+> L3: A WebGPU-first TypeScript engine with skin, hair, water and terrain rendering,
+> L150: The **desktop build** (Electron) adds local project folders with persistent storage, an embedded
+> L151: MCP server that lets AI agents and external tools drive the editor, and a built-in LLM assistant.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `97820174d421` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8fd328494fc3` · [字段定义](../../DATASET.md)*

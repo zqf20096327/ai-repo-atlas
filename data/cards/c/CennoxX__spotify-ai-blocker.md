@@ -2,9 +2,9 @@
 
 ⭐ 157 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CennoxX/spotify-ai-blocker) · 个人维护
 
-**浏览器用户脚本：自动屏蔽 Spotify 上的 AI 生成音乐艺人**
+**在 Spotify 网页端自动拉黑 AI 生成音乐艺人的油猴脚本**
 
-基于 Tampermonkey 的用户脚本，面向 Spotify Web Player 用户：每日从 GitHub 拉取社区维护的 AI 音乐艺人 CSV 名单，通过挂钩 Spotify 内部 fetch 请求获取访问令牌，读取 localStorage 中的用户名，调用 Spotify 私有 API 逐个屏蔽名单内艺人，并用 localStorage 记录已屏蔽艺人避免重复请求。支持在 Spotify Web 内匿名提交新发现的 AI 艺人。README 明示此方式使用非官方接口，可能违反 Spotify 服务条款。
+以 Tampermonkey/Violentmonkey 用户脚本形式运行于 Spotify Web Player：每日从 GitHub 拉取社区维护的 AI 音乐艺人 CSV 清单，钩取网页播放器内部 fetch 请求捕获访问令牌，从 localStorage 读取登录用户名，调用 Spotify 私有 API 批量拉黑清单内艺人，并记录已拉黑对象与运行日期避免重复请求。README 提示 Spotify 无官方封禁 API，脚本可能违反其服务条款。仅网页端执行封禁，封禁结果对账号全局生效。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 每日自动拉取社区维护的 AI 艺人 CSV 名单并批量屏蔽
-- 挂钩内部 fetch 提取访问令牌，调用 Spotify 私有 API 完成屏蔽
-- Shift+右键可在 Spotify Web 内匿名举报 AI 艺人
-- 屏蔽结果全局生效于整个 Spotify 账户
+- 每日更新社区维护的 AI 艺人黑名单
+- 钩取 Spotify 网页端内部请求自动封禁，无需手动操作
+- 通过 Shift+右键匿名上报正在播放/打开的 AI 艺人
+- 封禁结果在账号层面全局生效，跨设备有效
 
 ## 适用场景
 
-- 我不想在 Spotify 上听到 AI 生成的音乐，希望自动屏蔽相关艺人
-- 发现新的 AI 艺人时向社区名单提交举报
-- 仅查询某艺人是否在 AI 名单中而不安装脚本
+- 让 Spotify 播放列表自动屏蔽 AI 生成的音乐
+- 安装前先在在线清单里搜索某艺人是否为 AI 生成
+- 向社区清单提交新发现的 AI 音乐艺人
 
 ## 场景标签
 
- · 领域:音乐/浏览器工具
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L4: Automatically blocks artists known for AI-generated music using a community-maintained list.
-> L32: 1. **List Fetching:** Daily loads a crowd-sourced CSV list of artists generating AI music from GitHub.
+> L8: Automatically blocks artists known for AI-generated music using a community-maintained list.
+> L40: 2. **Token Capture:** Hooks into Spotify’s internal `fetch` requests to extract the access token.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `72b77f4c7535` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `00eb019d62c8` · [字段定义](../../DATASET.md)*

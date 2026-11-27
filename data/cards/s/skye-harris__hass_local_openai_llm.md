@@ -2,9 +2,9 @@
 
 ⭐ 321 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/skye-harris/hass_local_openai_llm) · 个人维护
 
-**Home Assistant 本地 OpenAI 兼容 LLM 服务集成**
+**Home Assistant 的本地 OpenAI 兼容 LLM 接入集成**
 
-一个 Home Assistant 自定义集成，接入通用 OpenAI 兼容 API 服务，覆盖 llama.cpp、vLLM、LM Studio、Ollama、LocalAI 及 DeepSeek、OpenRouter 等。从 Home Assistant 官方 OpenRouter 集成分叉而来，改动包括：API key 可留空、流式响应、TTS 流式、剥离 think 标签、图像输入/生成、温度控制、并行工具调用、实验性 RAG 等。通过 HACS 或手动复制安装，经 HA UI 配置；建议推理服务端配置至少 10k 上下文并启用 tool calling。
+为 Home Assistant 提供的自定义集成，使用户能通过统一的 OpenAI 兼容 API 接入本地推理服务（llama.cpp、vLLM、LocalAI 等）及云端服务。功能覆盖 Conversation Agent、AI Task 的文本/图像生成、工具调用、TTS 流式输出、RAG、上下文注入与历史裁剪，并针对不同推理服务器提供专门配置项（思考模式、采样参数、thinking token 预算等）。通过 HACS 安装，也可手动复制到 custom_components 目录。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 支持 llama.cpp、vLLM、LocalAI、DeepSeek 等多种服务器的专属配置项（thinking mode、采样参数、slot 固定、thinking token budget）
-- 流式响应与 TTS 流式，自动剥离 think 标签，支持并行工具调用
-- 实验性 RAG 能力、Jinja2 上下文注入与自定义请求头/请求体参数
-- HACS 或手动安装，经 Home Assistant UI 配置
+- 接入任意 OpenAI 兼容 API 服务，API Key 可留空以适配无需鉴权的本地服务
+- 针对 llama.cpp / vLLM / LocalAI / DeepSeek Cloud 提供专属配置区块（思考模式、采样参数、Slot ID、token 预算）
+- 支持流式响应、TTS 流式输出、图像输入/生成、并行工具调用与实验性 RAG
+- 提供上下文注入与对话历史裁剪以控制上下文窗口占用
 
 ## 适用场景
 
-- 在 Home Assistant 中用本地推理服务驱动语音助手对话
-- 通过 Assist 工具调用让 LLM 操控家居实体
-- 在本地部署中做图像生成/识别类 AI Task
-- 为本地 llama.cpp/vLLM 服务配置推理与思考模式参数
+- 把 llama.cpp 或 Ollama 等本地推理服务接入 Home Assistant 语音助手
+- 在 Home Assistant 中为 AI Task 实体配置本地文本与图像生成
+- 配置 Assist 工具调用时需要较长的上下文窗口与可控采样参数
 
 ## 场景标签
 
-`语音 Agent` `图像生成` · 领域:对话与助手
+`模型网关` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L1: # Local OpenAI LLM <small>_(Custom Integration for Home Assistant)_</small>
-> L3: **Allows use of generic OpenAI-compatible LLM services, such as (but not limited to):**
 > L18: **This integration has been forked from Home Assistants OpenRouter integration, with the following changes:**
+> L32: - Added experimental Retrieval Augmented Generation capability
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d8414c725c3b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5aa83b2daee4` · [字段定义](../../DATASET.md)*

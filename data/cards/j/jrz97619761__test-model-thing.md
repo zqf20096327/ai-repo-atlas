@@ -2,15 +2,15 @@
 
 ⭐ 330 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jrz97619761/test-model-thing) · 个人维护
 
-**概念验证型小型语言模型：潜空间预测+循环轨迹单元+字节级输出**
+**基于 MLX 的语言模型架构实验与训练 CLI 框架**
 
-个人开发者的实验性语言模型架构（非 LLM），基于 MLX 构建，融合潜空间预测、内部状态与循环轨迹单元（RTUs）、逐字节输入输出、连续数据流与测试时训练。已训练 4.5M 参数模型约 12 小时，输出存在拼写错误但能闭合引号/括号。不提供模型权重，需自行安装 MLX 并运行 main.py 训练。明确声明为未完成作品。支持 Apple Silicon 与 Linux（社区测试），Windows 仅 WSL 可运行。
+TMT 是一个基于 Apple MLX 的语言模型实验框架与命令行工具，用于尝试替代性架构与分布式训练。当前包含 RTU 启发的 RNN 块、可插拔层/损失函数基础框架、BPE 分词支持、CoLA 与 bit-per-byte 基准，以及支持尺寸/块组合扫描的 CLI。规划中的功能包括循环块目录、设备端并行训练、RL 与去中心化训练。项目处于早期阶段，运行于 Apple Silicon、Linux/WSL（CUDA GPU 或 CPU），暂不支持 AMD。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 潜空间预测与循环轨迹单元（RTUs）内部状态
-- 逐字节输入输出与连续数据流
-- 测试时训练，训练中断可保存含内部记忆的权重
-- 基于 MLX，4.5M 参数概念验证模型
+- RTU 启发的 RNN 块，替代 BPTT 的训练方式
+- 可插拔层/块与损失函数的基础框架，直接接入默认编码器与解码器
+- CLI 支持训练、基准测试及尺寸/块组合扫描
+- 支持 Apple Silicon、Linux/WSL 的 CUDA GPU 或 CPU
 
 ## 适用场景
 
-- 研究非 token 化的逐字节语言模型架构
-- 在 Apple Silicon 上实验潜空间预测与测试时训练
-- fork 训练与基准代码做扩展实验
+- 在消费级硬件上实验替代性语言模型架构
+- 对模型尺寸与模块组合做批量扫描对比
+- 参与开放训练代码与数据的开源模型实验
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+ · 领域:机器学习/模型训练框架
 
 ## 证据(README 行号)
 
-> L5: This is a small proof-of-concept language model (not an LLM) that aims to incorporate the following (and some smalle
-> L14: The model is built with MLX, so it should run fine on all Apple Silicon devices. MLX on Linux has been tested by co
+> L9: TMT is a work-in-progress MLX-based framework and command-line tool for experimenting with alternative language mode
+> L27: * A command-line tool for training and benchmarking language models using these alternative designs, alongside swee
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e235547dc2a6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f23e9d20d37d` · [字段定义](../../DATASET.md)*

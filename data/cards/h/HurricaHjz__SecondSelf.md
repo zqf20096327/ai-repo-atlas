@@ -2,9 +2,9 @@
 
 ⭐ 156 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HurricaHjz/SecondSelf) · [官网](https://hurricahjz.github.io/) · 个人维护
 
-**运行在 Obsidian 上的个人 AI 研究助理：多 agent + 本地 wiki 记忆**
+**为 AI 编码 agent 构建个人知识库与多 agent 协作框架**
 
-以仓库中的技能、规则与配置构成的多 agent 框架：由 Claude Code 或 Obsidian 的 Claudian 插件驱动主 agent，GPT 模型经 Codex CLI 作为辅助 agent，将投入的 PDF/链接等来源编译为本地 Markdown wiki 并自行维护交叉链接与目录。提供 ingest/query/output/lint 等 13 个技能，回答均引用其知识页并带信任级别分级。当前形态为研究助理，Pre-1.0 迭代中，需自备 API 额度，无本地模型。
+以规则与技能文件夹形式分发的框架：克隆到本机后在 AI 编码 agent（Claude Code 或 Obsidian 的 Claudian 插件）中运行。用户把论文、网页等资料放入 raw/，/ingest 将其编译为带链接与置信度的 Markdown 笔记 wiki；/query 从 wiki 引用作答，/output 生成带引用文档，/lint 检查坏链与孤岛笔记。支持通过 Codex CLI 调度 GPT 子 agent，含 critic/verifier 校验 agent 与免值守长任务。推理在云端模型完成，需 Claude 付费账户，本地无需 GPU。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 13 个技能覆盖摄入、问答、生成文档、wiki 校验与自维护
-- 回答带引用，每条知识页标注分级信任级别
-- 多 agent 分工：独立 critic/verifier agent 审查，辅助 agent 按书面契约限定写入范围
-- 可选 qmd 本地语义搜索，小嵌入模型可在笔记本 CPU 上运行
+- /ingest 将来源编译为互链 Markdown 笔记，页面带来源与置信度标注
+- /query 与 /output 产出带引用的回答与文档
+- 15 个技能、9 个 agent 定义，含 critic/verifier 独立校验
+- codex-lane.py 通过 Codex CLI 运行 GPT 子 agent
 
 ## 适用场景
 
-- 把论文、文章、链接整理成可被 AI 原生读取的个人知识库并问答
-- 让一个记住自己资料积累的 agent 代写简报、报告等交付物
-- 多人/多 agent 共享同一 wiki 作为团队知识底座
+- 把论文与网页整理成可问答、可引用的个人 wiki
+- 交给 agent 长任务并收到按待办分类的报告
+- 在 Obsidian 图谱中查看并维护知识网络
 
 ## 场景标签
 
-`多智能体` `知识库管理` `科研工具` · 领域:Agent 开发
+`多智能体` `知识库管理` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L13: Today Second Yourself runs in Claude Code or the Claudian plugin inside Obsidian, with GPT models as helper agents 
-> L20: * **A research assistant**, what ships today: drop in papers and articles, ask questions, and get answers cited fro
-> L50: * **Answers and generation:** The agent answers questions and creates almost any deliverable, from briefs and repor
+> L13: **aiMyth (open-sourced as SecondSelf) builds your second self by giving your AI harness a "mind" of your own.** The
+> L34: aiMyth comes as a folder of rules and skills that you clone onto your own computer and open in an AI coding agent. 
+> L118: |`/ingest` compiles sources from `raw/` into linked Markdown notes in `wiki/`. Every source page names its raw fil
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `e243696bd39f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `995a7d44185f` · [字段定义](../../DATASET.md)*

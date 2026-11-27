@@ -2,9 +2,9 @@
 
 ⭐ 155 · HTML · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/baz-scm/awesome-reviewers) · [官网](https://awesomereviewers.com/) · 组织维护
 
-**代码评审系统提示词清单：面向 AI 与基础设施领域**
+**面向开发者的代码审查 Agent 提示词合集**
 
-从生产开源仓库的代码评审讨论中提炼的即用型工程指令集合：每条指令包含规则、存在原因及示例，以纯 markdown 形式提供，可置入 agent、评审工具、上下文代理或手工组装的提示词中。内容按 12 个领域（ai-agents、llm-infra、ml-systems、security 等）组织，通过静态网站与无鉴权的静态 API（含 /llms.txt、OpenAPI 3.1 描述）分发，条目携带来源评审日期以支持增量拉取。仓库本身由 Baz 团队维护，采用 Jekyll 构建，构建脚本仅依赖标准库。
+汇集可用于 Agentic Code Review 的即用型系统提示词，内容分为两部分：Reviewers（提炼自生产仓库真实代码评审讨论的指令）与 Verification（按策略分组的检查构建与识别技巧）。提供网站 awesomereviewers.com 浏览，支持按类型、类别或语言过滤并复制指令。以 Apache-2.0 许可开源，接受社区贡献。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,24 @@
 
 ## 能力要点
 
-- 每条指令自包含：规则 + 原因 + 示例，纯 markdown 格式
-- 覆盖 12 个领域的分类体系与跨领域的主题/语言过滤
-- 静态文件 API：无 key、无限流，提供 /llms.txt 与 OpenAPI 3.1 描述
-- 指令携带来源评审日期，可对 index.json 做增量 diff
+- 提炼自生产仓库真实代码评审讨论的 Reviewer 指令
+- 按策略分组的 Verification 检查技巧
+- 配套网站支持搜索、过滤与复制指令
 
 ## 适用场景
 
-- 为编码 agent 或代码评审工具装配领域专家指令
-- 按领域/主题/语言筛选查找特定技术栈的评审规则
-- 通过静态 API 将指令索引接入自己的自动化流程
+- 为代码审查 Agent 配置现成的系统提示词
+- 按语言或类别查找适合的评审指令
+- 参考仓库中检查技巧构建代码检查
 
 ## 场景标签
 
-`提示工程` `精选清单` · 领域:Agent 开发
+`提示工程` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L8: Each entry is a self-contained instruction — a rule, why it exists, and usually an example — written
-> L9: from recurring reviewer feedback in one repository. They are plain markdown, so they drop into an
-> L3: Expert engineering instructions for AI and infrastructure domains, distilled from code review
+> L5: - **Reviewers** — instructions distilled from real code review discussions in production repositories.
+> L8: Browse at awesomereviewers.com. Search with `/`, filter by type,
 
 ## 星数曲线
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `3d50eabdba57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `204ab836ffa5` · [字段定义](../../DATASET.md)*

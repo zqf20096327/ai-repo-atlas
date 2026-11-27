@@ -2,9 +2,9 @@
 
 ⭐ 175 · Ruby · MIT · 推送 2026-10-29 · [GitHub](https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning) · 个人维护
 
-**无监督 ML 日志入侵/异常检测工具，附 LLM 分析与 Web UI**
+**给 SOC 团队做应用日志攻击检测与 LLM 分析的工具**
 
-Webhawk/Catch 3.0 面向 SOC 团队与安全分析人员：读取 HTTP 等应用日志（也支持 top 输出的 OS 进程统计），经 PCA 特征提取后用 DBSCAN 聚类找出可能代表攻击痕迹的离群点；检测结果再交由用户选择的 LLM（内置 Ollama 服务）做深入分析与建议，采用 agentic AI 设计模式。提供 Web 界面、API（可对接 SIEM）与端点 agent，Docker Compose 部署检测引擎、Web 应用与 LLM 三个服务。高级用户可调节 DBSCAN 参数。
+Webhawk 是一个面向安全运营的日志攻击检测工具：将原始日志（如 Apache 访问日志、OS 进程统计）转为数值特征并做 PCA 降维，用 DBSCAN 无监督聚类识别离群点作为潜在攻击痕迹，检测结果通过 Web UI 供分析师查看并可通过内置 API 推送到现有 SOC 生态（如 SIEM）。检测完成后交由用户指定的 LLM（默认经 Ollama 运行 granite4 与 tev1 模型）生成分析与建议。生产部署依赖单台服务器上运行三个 Docker 服务，并在每个持有日志的端点部署 Python Agent。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Webhawk/Catch 3.0 面向 SOC 团队与安全分析人员：读取 HTTP 等应用
 
 ## 能力要点
 
-- PCA + DBSCAN 无监督聚类检测日志攻击痕迹，无需预设规则
-- 检测结果交由 LLM（Ollama 服务）做 agentic 分析与建议
-- 提供 Web UI、内置 API 与端点日志采集 agent
-- 支持 Apache 日志与 OS 进程统计，可生成检测报告与 CVE 关联
+- PCA + DBSCAN 无监督聚类检测日志异常，无需预设规则
+- 检测后由 Agentic AI 模式调用 LLM 生成分析与建议
+- 提供 Web UI 管理检测结果及内置 API 对接 SIEM
+- 端点 Agent 采集日志并经 API 传输到检测引擎
 
 ## 适用场景
 
-- SOC 团队自动识别应用日志中的攻击痕迹并复核处置
-- 把检测结果经 API 接入现有 SIEM 生态
-- 检测操作系统进程中的异常行为
+- 对 Apache 访问日志做无规则攻击痕迹检测
+- 在端点上部署 Agent 采集日志集中分析
+- 把检测结果接入现有 SIEM/SOC 流程
+- 检测异常 OS 进程行为
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Webhawk/Catch 3.0 面向 SOC 团队与安全分析人员：读取 HTTP 等应用
 
 ## 证据(README 行号)
 
-> L9: Webhawk is an ML/AI powered detection tool designed to automatically identify attack traces in application logs (Eg:
-> L15: Webhawk transforms raw logs into numerical data and applies Principal Component Analysis (PCA) to extract the most 
-> L19: Once detections are complete, the results are sent to an LLM of your choice for in-depth analysis and actionable re
+> L11: Webhawk is an ML/AI powered detection tool designed to automatically identify attack traces in application logs (Eg
+> L21: Once detections are complete, the results are sent to an LLM of your choice for in-depth analysis and actionable re
+> L25: The tool is easy to deploy using Docker Compose, which simplifies the installation of the three main components: th
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `c71052f98cb9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `11761a918288` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # Open-Less/openless
 
-⭐ 4,176 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Open-Less/openless) · [官网](https://openless.top) · 个人维护 · 中文 README
+⭐ 4,176 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Open-Less/openless) · [官网](https://openless.top) · 组织维护 · 中文 README
 
-**开源语音输入工具：按住说话，松开得润色文本**
+**开源跨平台语音输入：按住说话，松开即得润色文本**
 
-跨平台语音输入应用，覆盖 macOS/Windows/Linux/Android/iOS/HarmonyOS 六端，共享 openless-core 后端。用户按全局快捷键说话，应用录音、转写、按所选风格润色后插入光标处，插入失败时回退到剪贴板。特色是 AI-prompt 模式：将口语整理为可直接粘贴给 ChatGPT/Claude/Cursor 的结构化提示词。支持风格包市场、可学习词典热词、流式插入；需用户自带约 30 家 ASR 与 20 家润色服务凭证，数据本地保存。目前处于稳定性冻结阶段，仅接受修复类贡献。
+OpenLess 是覆盖 macOS、Windows、Linux、Android、iOS 与 HarmonyOS 的开源语音输入应用：按住快捷键说话，松开后经 ASR 转写与 LLM 后处理，将口语转为去填充词、保留约束条件的结构化文本或提示词，直接插入光标处。支持连续 10–20 段后台排队与最长 1 小时录音、按应用自动切换风格包、个人词典与纠错规则、手机局域网远程输入与端到端加密同步；需用户自配 ASR/LLM API key 或选本地离线引擎，应用本身不收集用户数据。
 
 ## 筛选速览
 
@@ -16,31 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 按住快捷键→语音转写→AI 润色→光标处插入，失败回退剪贴板
-- AI-prompt 模式将口语整理为带上下文与约束的结构化提示词
-- 自带约 30 家 ASR 与 20 余家润色服务接入（火山、讯飞、阿里百炼、OpenAI 兼容端点等）
-- 风格包市场支持自定义系统提示词的创建、一键安装与发布
+- 两阶段（ASR+LLM）或单步多模态管线，可混搭约 30 种语音引擎与 20+ LLM，含纯本地离线
+- 连续听写与最长 1 小时录音，结果按序回到原文本框
+- 风格包市场与按应用类别的 Auto Style 自动切换
+- 个人词典、纠错规则与可选光标上下文消歧
 
 ## 适用场景
 
-- 为 ChatGPT/Claude/Cursor/Gemini 口述并生成结构化提示词
-- 起草邮件、规格文档、Slack/微信长消息
-- 口述代码注释、commit 信息与 PR 描述
-- 任何需要产出文字但不想打字的场景
+- 向 AI 编码代理口述长篇功能需求并生成结构化提示词
+- 会议或长篇口述的后台转写整理
+- 口述中文实时输出英文邮件或 PR 文本
+- 手机浏览器远程向电脑光标处输入文字
 
 ## 场景标签
 
-`语音识别` `提示工程` · 领域:Agent 开发
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L73: OpenLess is a cross-platform (macOS, Windows, Linux, Android, iOS, and HarmonyOS) voice-input application — a fully
-> L77: Place your cursor in any text field — ChatGPT, Claude, Cursor, Notion, an email draft, a chat box — press a single 
-> L139: - **Bring your own cloud credentials.** Nearly thirty ASR providers and more than twenty polish providers — Volcen
+> L40: OpenLess is a cross-platform, open-source AI voice-input app covering **macOS, Windows, Linux, Android, iOS, and Ha
+> L133:  - **Two-Stage (ASR + LLM)**: Mix Volcengine (Doubao ASR), Alibaba Bailian, iFlytek RTASR, Tencent Hunyuan, Google
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `13497e13e064` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `78d53b33d137` · [字段定义](../../DATASET.md)*

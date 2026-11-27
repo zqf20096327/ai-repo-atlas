@@ -2,9 +2,9 @@
 
 ⭐ 580 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ai-driven-dev/framework) · [官网](https://www.ai-driven-development.org) · 组织维护
 
-**为开发团队提供标准化 AI 驱动 SDLC 的插件市场框架**
+**为工程团队提供标准化 AI 驱动开发工作流的插件框架**
 
-以插件市场形式分发 AI 编码工作流：包含 9 个插件、55 个技能、4 个 agent，覆盖上下文生成与项目记忆、计划/构建/审查/测试/调试、版本控制操作、产品管理文档、头脑风暴与事实核查、以及端到端 SDLC 编排。通过 CLI 安装到用户已有的 AI 编码工具中，兼容 Claude Code、Cursor、GitHub Copilot 等 8 种工具，支持插件市场、扁平文件两种分发形式。需要 Node 22.12 及以上。
+面向使用 AI 编码工具的工程团队，将 SDLC 流程封装为 9 个插件、56 个技能与 4 个 agent：覆盖项目上下文与记忆、计划/构建/评审/测试/调试、版本控制操作、产品文档（Briefs/Epics/Stories）、头脑风暴与事实核查、端到端特性交付编排等。通过 marketplace 或平铺文件安装到 Claude Code、Cursor、GitHub Copilot、Codex 等已有工具中，含 hooks 与 token 用量遥测（opt-in）。要求 Node 22.12+，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 9 个插件、55 个技能、4 个 agent 的 SDLC 插件体系
-- 通过 npx CLI 一条命令安装到现有 AI 编码工具
-- 兼容 8 种编码工具（Claude Code/Cursor/Copilot 等）
-- 插件按 stable/beta/alpha/preview 分级
+- 9 插件 / 56 技能 / 4 agent 的 SDLC 工作流体系
+- 兼容 Claude Code、Cursor、GitHub Copilot、Codex 等 8 种工具（marketplace 与平铺文件两种安装形态）
+- 项目记忆与上下文生成（aidd-context 插件）
+- /aidd-orchestrator:01-sdlc 将技能串联为端到端特性交付流程
 
 ## 适用场景
 
-- 让 AI 从需求到 PR 端到端交付一个功能
-- 为项目建立可复用的 AI 记忆与上下文
-- 统一团队的 AI 辅助开发工作流与规范
+- 让团队在既有 AI 编码工具中统一采用标准化开发流程
+- 从需求 Brief 到 PR 评审的端到端特性交付
+- 为遗留系统项目建立 AI 可复用的项目记忆与上下文
+- 按任务统计 token 用量以控制成本
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`工作流自动化` `编码 Agent` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L11:  9 plugins · 55 skills · 4 agents
-> L34:  Claude Code ✅ ✅ ✅
-> L49: npx @ai-driven-dev/cli@latest setup
+> L3: # AI-Driven Dev Framework
+> L25: From a rough idea to a reviewed pull request, inside the AI coding tool you already use.
+> L31: ## Works with your tool
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `15988b08bf06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `28ddb7d2cdbe` · [字段定义](../../DATASET.md)*

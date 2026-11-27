@@ -1,10 +1,10 @@
 # jmagly/aiwg
 
-⭐ 233 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jmagly/aiwg) · [官网](https://aiwg.io) · 个人维护
+⭐ 233 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jmagly/aiwg) · [官网](https://aiwg.io) · 组织维护
 
-**为 Claude Code/Codex/Copilot 等 AI 工具提供可复用项目上下文与工作流**
+**为现有 AI 编码工具提供可复用项目上下文与专家工作流的框架**
 
-AIWG 通过部署层将 Markdown/YAML 格式的 agents、skills、rules、templates 复制到各 AI 工具读取的路径，实现一份源文件适配 19 个命名 provider 集成。提供项目/用户/全局三种部署作用域、持久化工件记忆（.aiwg/）、安装修复与 aiwg doctor 健康诊断；可选 Jev 决策卸载、Cockpit 沙箱执行器（Docker/KVM）需显式 opt-in。面向使用编码助手的开发者，MIT 许可，npm 全局安装。
+AIWG 以 agents、skills、rules、templates、MCP 工具等形式为 Claude Code、Codex、Copilot、Cursor 等 19 个已命名的 AI 工具集成提供统一的项目上下文与 SDLC 工作流，通过 `aiwg use` 将 Markdown/YAML 源文件部署到各工具读取的路径，实现单一来源跨工具复用。支持项目级/用户级/全局三种部署范围、`.aiwg/` 持久化工件记忆、后台编排与成本遥测等可选能力，以及将受限 LLM 决策卸载以节省 token 的 Jev 决策支持（需显式 opt-in）。经 npm 全局安装，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,28 @@ AIWG 通过部署层将 Markdown/YAML 格式的 agents、skills、rules、templa
 
 ## 能力要点
 
-- 一份源文件部署到 19 个命名 provider 集成路径，另有 generic 适配器
-- 项目/用户镜像/全局三种作用域的部署模式
-- 持久化工件记忆 .aiwg/ 与安装器修复、aiwg doctor 诊断
-- 可选自托管 Agentic Sandbox（Docker/KVM/libvirt）隔离执行器
+- 单一 Markdown/YAML 源部署到 19 个命名的 provider 集成路径
+- agents/skills/commands/rules/behaviors/templates 六类构建块
+- 项目/用户/全局三种部署范围与 `.aiwg/` 工件记忆
+- 可选 Agentic Sandbox 隔离执行器（Docker 或 KVM/libvirt）
 
 ## 适用场景
 
-- 为多个 AI 编码工具统一维护一套项目指令与角色工作流
-- 在团队仓库中沉淀跨会话的项目决策与工件
-- 需要审计的隔离环境中运行长时 agent 任务
+- 为多 AI 编码工具维护一份共享的项目规则与工作流
+- 组织需求分析、安全评审、测试架构等多角色协同评审
+- 跨会话保存并复用架构决策与验收标准工件
+- 为长时间运行的 agent 搭建自托管的隔离沙箱执行器
 
 ## 场景标签
 
-`编码 Agent` `提示工程` · 领域:Agent 开发
+`编码 Agent` `多智能体` `提示工程` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L6: **Reusable project context and specialist workflows for the AI tools you already use.**
 > L163: AIWG gives your AI assistant reusable project context and specialist workflows. Its deployment layer connects thos
 > L164: instructions to your provider: `aiwg use` copies markdown and YAML source files into the paths each provider reads
+> L165: one source of truth works across 19 named provider integrations. A twentieth `generic` adapter emits portable file
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2c0c2584d656` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `68ecffa3fce1` · [字段定义](../../DATASET.md)*

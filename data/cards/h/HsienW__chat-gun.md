@@ -2,44 +2,44 @@
 
 ⭐ 141 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/HsienW/chat-gun) · 个人维护 · 中文 README
 
-**React+TypeScript+LangGraph JS 的全端 Agent Chat 应用**
+**开发者用的全栈 Agent 应用：治理机制完备的对话与客服演示**
 
-以 React、TypeScript 与 LangGraph JS 构建的全端 Agent 对话应用：前端 Vite+React 19，BFF 作为 API 网关处理认证、限流、超时与 CORS，后端运行 LangGraph agents。内置 Deep Researcher、Chat Assistant、Math Solver 与 MCP Agent 四种工作流，支持串流回复、图片输入、Human-in-the-Loop、native 与 MCP tools。模型接入经 LLM Gateway 支持 Qwen 与 OpenAI-compatible 端点。提供 npm 本地开发与 Docker Compose 部署两种方式，含 OpenTelemetry 与 Opik 评估。默认配置仅适用于本地开发。
+由 Frontend、BFF 与 LangGraph Runtime 组成的全端 Agent 应用，含 Agent 平台层与业务场景层。平台提供五个共用 Runtime 的 Graph（研究、对话、购物、算式、MCP）、流式输出、图片多模态输入、人工核准（HITL）、幂等键副作用控制与 OpenTelemetry/Opik 观测。业务场景 Gun Shop 为一条带引用检索、证据门槛拒答、退款人工核准的模拟客服链路，订单工具为模拟，不触真实交易。默认仅本地开发部署。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 四种 Agent 工作流（Deep Researcher/Math Solver/Chat Assistant/MCP Agent）
-- BFF API 网关：API key 认证映射 Trusted Principal、限流、超时与 CORS
-- 支持 Qwen、OpenAI-compatible 与 CCR-compatible 端点，统一经 LLM Gateway
-- OpenTelemetry tracing 与 Opik 评估、版本化 dataset 与 experiments
+- 五个共用 Runtime 的 Graph：Deep Researcher、Chat Assistant、Shopping Assistant、Math Solver、MCP Agent
+- 副作用治理：工具呼叫先经人工核准，幂等键保证重复提交只生效一次
+- 带引用的 RAG：PostgreSQL + pgvector，经 qwen3-rerank 与证据门槛后拒答无依据问题
+- 提供 OpenTelemetry 与 Opik tracing，以及 deterministic/live 两层评测
 
 ## 适用场景
 
-- 搭建带工具调用与多步研究的 Agent 对话应用
-- 需要 HITL 确认与多模态图片输入的对话场景
-- 通过 MCP Server（Filesystem/Brave Search）扩展 Agent 能力
-- 以 Docker Compose 一键部署含 PostgreSQL/Redis 的完整栈
+- 体验带人工核准与幂等控制的 Agent 副作用执行流程
+- 搭建带引用溯源与拒答机制的知识库客服
+- 本地运行多 Graph Agent 应用并接入 MCP 工具
 
 ## 场景标签
 
-`Agent 框架` `聊天机器人` · 领域:Agent 开发
+`聊天机器人` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L19: Chat Gun 是一套以 React、TypeScript 與 LangGraph JS 建構的全端 Agent Chat 應用。它支援多 Agent 對話、串流回覆、Tool Calling、圖片輸入與 Human-in-th
-> L34: - **Model providers**：支援 Qwen、OpenAI-compatible 與 CCR-compatible endpoints，統一由 LLM Gateway 處理模型能力與呼叫介面。
+> L34: Chat Gun 是一套由 Frontend、BFF 與 LangGraph Runtime 組成的全端 Agent 應用。
+> L36: - AI 業務場景：是上層功能，建立在平台能力之上，目前有兩個入口 **Gun Chat** 處理一般對話與深度研究，**Gun Shop** 是一條從商品查詢、政策問答到退款核准的 AI 智能客服鏈路。
+> L63: - **Multimodal input**：接受 PNG、JPEG 與 WebP 圖片，經 vision model 分析後納入回答或研究流程。
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6b30b050958f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `b37653eba1c7` · [字段定义](../../DATASET.md)*

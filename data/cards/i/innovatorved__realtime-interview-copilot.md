@@ -2,9 +2,9 @@
 
 ⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/innovatorved/realtime-interview-copilot) · 个人维护
 
-**桌面应用：实时转录面试音频并生成 AI 回答**
+**实时转写面试音频并用 AI 生成应答的桌面辅助应用**
 
-面向求职者的桌面面试辅助应用：捕获系统音频做实时转写，基于转写文本、手动输入的问题或截图生成 AI 回答；提供画中画紧凑模式（点击穿透）、窗口透明度调节、隐藏于常规屏幕共享、快捷键与应用内更新。macOS 无需虚拟音频驱动，Windows 构建未签名，首次启动需授予屏幕录制与麦克风权限。支持 Homebrew、WinGet 与 GitHub Releases 安装。
+Electron 桌面应用：捕获系统音频并实时转写，基于转写内容、手动输入的问题或截图生成 AI 回答，用于面试过程中的实时应答辅助。提供画中画紧凑模式、透明度调节、屏幕共享隐藏（contentProtection）、按键说话麦克风、全局快捷键与截图附件等功能。macOS 通过 Homebrew Cask 安装，Windows 提供 WinGet 脚本安装（构建未签名，SmartScreen 会提示），也可从 GitHub Releases 手动下载；源码开发需 Node 22+ 与 Bun 1.3+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 系统音频实时转写（macOS 无需虚拟音频驱动）
-- AI 回答来源：转写文本、输入问题或截图
-- 画中画紧凑模式，空白区域点击穿透到下层应用
-- 通过 contentProtection 对常规屏幕共享隐藏窗口
+- 实时转写系统音频，macOS 无需虚拟音频驱动
+- 基于转写、输入问题或截图生成 AI 回答
+- 画中画紧凑模式与屏幕共享隐藏
+- Homebrew Cask / WinGet 安装与手动下载包
 
 ## 适用场景
 
-- 在线面试中实时获取问题转写与回答建议
-- 以悬浮窗形式在不切换窗口的前提下查看 AI 输出
-- 对屏幕或输入内容提问并获得回答
+- 线上面试中获得实时应答建议
+- 对转写内容做摘要整理
+- 以截图形式提问并获取回答
 
 ## 场景标签
 
@@ -38,7 +38,6 @@
 ## 证据(README 行号)
 
 > L3: Desktop app for live interview assistance. It captures system audio, transcribes speech in real time, and can answer
-> L63: - Live transcription of system audio (no virtual audio driver required on macOS)
 > L64: - AI answers from transcript, typed questions, or screenshots
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `059d60d7ea3b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `298d6af0a4ea` · [字段定义](../../DATASET.md)*

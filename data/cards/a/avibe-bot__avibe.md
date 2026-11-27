@@ -2,9 +2,9 @@
 
 ⭐ 654 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/avibe-bot/avibe) · [官网](https://avibe.bot) · 组织维护 · 中文 README
 
-**让个人电脑成为本地 AI 伙伴之家的 Agent OS**
+**把个人电脑变成 AI 伙伴之家的本地优先 Agent OS**
 
-Avibe 是本地优先的 Agent OS：在用户自己的 Mac/Windows/Linux 机器上运行内置 AI 伙伴 Vibey，由 Bot（带长期记忆的常驻对话角色）调度多个 Agent 并行执行任务，输出实时网页、文件整理结果或后台监控通知。通过 Model Hub 接入已有订阅或 API key，多个凭证可按额度自动切换；Vault 机制让 Agent 按名取用密钥而不接触明文。支持 Skills、MCP、定时任务与 macOS Computer Use；手机端仅作远程访问，不具备独立运行能力。
+Avibe 是一个本地优先的 Agent OS：将 Mac/Windows/Linux 机器变成 AI 伙伴的运行环境，内置伙伴 Vibey 具备长期记忆、定时与后台任务、文件操作、Show Pages 输出、密码保险库（Vault）与 MCP/Skills 扩展。用户通过桌面应用、iPhone 应用、浏览器或 Slack/Discord/Telegram/WeChat/Lark 等聊天应用访问同一实例。模型接入依赖用户已有的 Claude/ChatGPT 订阅或 API key，MIT 许可、免费，桌面安装包免额外依赖，Linux/macOS/Windows 另有命令行安装脚本。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Avibe 是本地优先的 Agent OS：在用户自己的 Mac/Windows/Linux 机器�
 
 ## 能力要点
 
-- 内置 AI 伙伴 Vibey，本地文件与密钥留在本机
-- Model Hub 支持订阅登录与多凭证额度切换
-- Vault 密钥托管，Agent 按名取用不见明文
-- 可直接运行 Claude Code/Codex/OpenCode CLI 并在其间分发任务
+- 内置 AI 伙伴 Vibey，开箱即用，带长期记忆与最多 5 个自定义 Bot
+- Vault 机制向 Agent 按名提供密码/密钥而不暴露值，签名类密钥本地签名
+- 官方 Claude Code、Codex、OpenCode、Antigravity CLI 可不经修改并行运行
+- 多端访问：桌面应用、iPhone（TestFlight beta）、浏览器与五种聊天应用
 
 ## 适用场景
 
-- 让 AI 伙伴在本地长期记忆工作内容并主动汇报
-- 用对话驱动文件整理、定时简报与网页监控
-- 开发者把编码任务分发给 Claude Code/Codex 并跟踪结果
-- 通过手机/聊天工具远程访问家中电脑上的 Bots
+- 让 AI 伙伴长期驻留在个人电脑上做定时汇报与后台监控
+- 在本地文件上执行整理、上传等实际操作并由 Agent 代为完成
+- 已有 Claude Code/Codex 工作流的开发者让 Vibey 分派与汇总编码任务
+- 通过手机或聊天应用远程查看与指挥家中电脑上的 Agent
 
 ## 场景标签
 
-`AI 助手` `Agent 记忆` `GUI 自动化` `编码 Agent` · 领域:Agent 开发
+`Agent 记忆` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: Avibe is the local-first Agent OS: it turns your own Mac or PC into a home for AI partners, where they live and work
-> L97: On long work, Vibey keeps hold of what you asked for and why. Long conversations force any AI to shorten what it re
-> L118: Sign in with a Claude or ChatGPT subscription, or add API keys, and every Bot and Agent can use them. Line up more
+> L116: ### Model Hub: the plans you already pay for
+> L187: **Bring your coding agents.** The official Claude Code, Codex, OpenCode, and Antigravity CLIs run unchanged next t
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e54f7e115a1d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c991583e97de` · [字段定义](../../DATASET.md)*

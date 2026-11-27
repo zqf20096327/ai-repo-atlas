@@ -1,1 +1,77 @@
-{"fn": "ChinmayKaitade/Resume-Builder-AI-MERN", "sha": "29425b420835", "source": "readme", "identity": {"one_liner": "求职者用 MERN+Gemini AI 生成与导出简历的 Web 应用", "review": "基于 MERN（React、Node.js、Express、MongoDB）与 TailwindCSS 的简历构建 Web 应用。提供简历的完整增删改查、多模板、实时预览与多份简历管理，并接入 Gemini Flash 2.5 API 自动生成职业摘要、技能、工作经历要点与项目描述，支持上传简历生成 AI 建议。JWT 认证保护私有简历，公开链接可分享，支持 PDF 导出。前端部署于 Vercel，后端部署于 Render，本地运行需自备 MongoDB 连接串与 Gemini API key。", "highlights": ["接入 Gemini Flash 2.5 API 生成摘要、技能与工作经历内容", "简历完整 CRUD、多模板、实时预览与多份简历管理", "JWT 认证的 REST API，含公开简历链接", "PDF 导出与图片上传（Multer）"], "use_cases": ["快速生成带 AI 润色的求职简历", "集中管理和更新多份简历并导出 PDF", "通过公开链接分享简历给他人查看"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "消费者", "paper_url": null, "demo_url": "https://resume-builder-ai-mern.vercel.app/", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["简历构建", "AI内容生成", "全栈Web应用", "PDF导出"], "domain": "求职/效率工具", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L28: **Resume-Builder MERN** is a modern web application designed to help users build professional resumes with ease.", "L50: - Gemini Flash 2.5 API", "L169: ### 🤖 **AI Routes (Gemini Flash 2.5 Integrated)** (`/api/ai`)"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-27", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ChinmayKaitade/Resume-Builder-AI-MERN",
+ "sha": "29425b420835",
+ "source": "readme",
+ "identity": {
+  "one_liner": "求职者用 MERN+Gemini AI 生成与导出简历的 Web 应用",
+  "review": "基于 MERN（React、Node.js、Express、MongoDB）与 TailwindCSS 的简历构建 Web 应用。提供简历的完整增删改查、多模板、实时预览与多份简历管理，并接入 Gemini Flash 2.5 API 自动生成职业摘要、技能、工作经历要点与项目描述，支持上传简历生成 AI 建议。JWT 认证保护私有简历，公开链接可分享，支持 PDF 导出。前端部署于 Vercel，后端部署于 Render，本地运行需自备 MongoDB 连接串与 Gemini API key。",
+  "highlights": [
+   "接入 Gemini Flash 2.5 API 生成摘要、技能与工作经历内容",
+   "简历完整 CRUD、多模板、实时预览与多份简历管理",
+   "JWT 认证的 REST API，含公开简历链接",
+   "PDF 导出与图片上传（Multer）"
+  ],
+  "use_cases": [
+   "快速生成带 AI 润色的求职简历",
+   "集中管理和更新多份简历并导出 PDF",
+   "通过公开链接分享简历给他人查看"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "消费者",
+  "paper_url": null,
+  "demo_url": "https://resume-builder-ai-mern.vercel.app/",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "简历构建",
+   "AI内容生成",
+   "全栈Web应用",
+   "PDF导出"
+  ],
+  "domain": "内容生成",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ai-writing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L28: **Resume-Builder MERN** is a modern web application designed to help users build professional resumes with ease.",
+   "L50: - Gemini Flash 2.5 API",
+   "L169: ### 🤖 **AI Routes (Gemini Flash 2.5 Integrated)** (`/api/ai`)"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-27",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

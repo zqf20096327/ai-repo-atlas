@@ -2,9 +2,9 @@
 
 ⭐ 180 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/projectdiscovery/openrisk) · 组织维护
 
-**读取 Nuclei 扫描结果并用 GPT-4o 生成主机风险评分的工具**
+**读取 Nuclei 扫描结果并用 OpenAI 模型生成主机风险评分**
 
-ProjectDiscovery Research Team 发布的实验性安全工具：读取 nuclei 扫描输出（text、markdown、JSON 三种格式），调用 OpenAI GPT-4o 模型为目标主机生成风险评分。目前一次仅针对单一目标。运行需设置 OPENAI_API_KEY，通过 go install 安装（要求 go1.20），也可作为 Go 库调用（Options + GetScore）。README 声明为实验性项目，可能不满足团队其他项目的代码质量标准。
+ProjectDiscovery Research Team 发布的实验性工具：读取 Nuclei 扫描输出（支持文本、Markdown、JSON 格式），调用 OpenAI GPT 模型对单个目标主机生成风险评分。需设置 OPENAI_API_KEY 方可运行；需 Go 1.26.10 安装，命令行使用，也可作为 Go 库使用（通过 Options 结构、OpenRisk 与 IssueProcessor 对象及 GetScore 函数）。README 自述为实验程序，代码质量与测试程度可能低于该团队其他项目。
 
 ## 筛选速览
 
@@ -20,16 +20,14 @@ ProjectDiscovery Research Team 发布的实验性安全工具：读取 nuclei �
 
 ## 能力要点
 
-- 读取 nuclei 的 text/markdown/JSON 格式扫描结果
-- 调用 OpenAI GPT-4o 生成主机风险评分
-- 提供 CLI 与 Go 库两种使用方式
-- 自声明实验性项目，当前仅支持单目标
+- 读取 Nuclei 扫描的文本/Markdown/JSON 输出并生成风险评分
+- 可作为 Go 库集成（Options/OpenRisk/IssueProcessor/GetScore）
+- 每次针对单个目标运行
 
 ## 适用场景
 
-- 对 nuclei 扫描结果快速生成风险评分
-- 在自动化安全评估流程中引入 LLM 生成风险结论
-- 以 Go 库形式集成到自有安全工具链
+- 对 Nuclei 扫描结果生成主机风险评分
+- 在 Go 程序中以库方式集成风险评分功能
 
 ## 场景标签
 
@@ -38,7 +36,7 @@ ProjectDiscovery Research Team 发布的实验性安全工具：读取 nuclei �
 ## 证据(README 行号)
 
 > L3: openrisk is an experimental tool which reads nuclei output (text, markdown, and JSON) and generates a risk score for
-> L5: > **NOTE**: This is an experimental program released by the ProjectDiscovery Research Team. As such, it may not meet
+> L11: go install -v github.com/projectdiscovery/openrisk@latest
 
 ## 星数曲线
 
@@ -54,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ac5a5ae3e6ad` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `fd9e9de44d52` · [字段定义](../../DATASET.md)*

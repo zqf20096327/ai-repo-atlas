@@ -1,16 +1,16 @@
 # yzsind/mydb
 
-⭐ 194 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/yzsind/mydb) · 个人维护
+⭐ 194 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/yzsind/mydb) · 个人维护 · 中文 README
 
-**Rust 编写的 MySQL 兼容 HTAP 数据库，内置向量检索与 AI 调用**
+**面向 HTAP 与 AI agent 的 MySQL 兼容数据库**
 
-用 Rust 实现的通用数据库，面向混合事务/分析（HTAP）工作负载，兼容 MySQL 协议、客户端与 ROW/FULL binlog。内置全文与向量检索（HNSW/IVF）、自动 Zone Maps、在线 schema 变更、可查询备份。面向 AI agent 提供 SQL 级模型调用（AI_GENERATE/AI_EMBED，支持 Ollama、OpenAI 等本地/远程服务）、REST SQL 与 MCP Server 接口。提供预编译二进制（macOS/Linux/Windows）、Docker 镜像与源码构建三种方式。README 声明 1.0.0 为 public-preview 发布，用于功能验证与受控环境评估。
+用 Rust 编写的通用数据库，定位 HTAP（同一数据集上的事务与分析混合负载）并兼容 MySQL 客户端、JDBC 驱动与 binlog。内置全文与向量检索（HNSW/IVF）、自动 Zone Maps、在线 DDL、可查询备份，并提供 REST SQL 与 MCP 接口供 agent 访问；SQL 中可通过 AI_GENERATE/AI_EMBED 调用外部模型生成文本与嵌入。1.0.3 为 public-preview 版本，供功能验证与受控环境评估，预编译包覆盖 macOS/Linux/Windows，亦可从源码或 Docker 运行。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 单引擎承载事务读写与分析查询（HTAP），含并行执行与向量化
-- SQL 内 AI_GENERATE/AI_EMBED 调用本地或远程模型，支持 JSON Schema 结构化输出
-- 原生全文+向量混合检索，HNSW 与 IVF 索引
-- MySQL 客户端/驱动复用，另提供 REST SQL 与 MCP Server 接口
+- 原生向量与混合检索，SQL 内调用外部模型（AI_GENERATE/AI_EMBED）
+- 兼容 MySQL 客户端、JDBC 驱动与 ROW/FULL binlog 集成
+- 自动 Zone Maps 免手工索引，支持在线 schema 变更与可查询备份
+- 提供 REST SQL API 与 MCP Server，agent 可直接执行参数化 SQL
 
 ## 适用场景
 
-- 用现有 MySQL 客户端和驱动直接接入，替换或新增事务+分析混合负载数据库
-- AI agent 通过 MCP/REST 读写业务数据并做 RAG 检索与持久记忆
-- 在 SQL 内直接调用 LLM 生成摘要、抽取或嵌入向量并 join 回业务表
+- 同一业务数据上混合运行事务读写与分析查询
+- 为 AI agent 提供带向量检索和持久记忆的数据库
+- 复用现有 MySQL 客户端和驱动接入新数据库
+- 通过 MCP 让 agent 探查 schema 并执行参数化 SQL
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L11: MyDB is a general-purpose database built in Rust for **HTAP (hybrid
-> L238: - **Local and remote services**: configure SQL connection and model objects for Ollama, OpenAI Responses, Chat Com
+> L13: MyDB is a general-purpose database built in Rust for **HTAP (hybrid
+> L257: ## Built for AI Agents
+> L259: An agent's data needs change with every task: add a column, build an index, write embeddings, then join retrieval 
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `049d6b3a3c6b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0d4e0288c4a8` · [字段定义](../../DATASET.md)*

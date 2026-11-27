@@ -2,9 +2,9 @@
 
 ⭐ 156 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/NVIDIA-NeMo/nemo-helix) · [官网](https://docs.nvidia.com/nemo-helix) · 组织维护
 
-**生产级 AI agent 的评测、加固与编排控制平面**
+**面向已上线 agent 的评测与加固开源控制平面**
 
-NeMo Helix 是 NVIDIA 开源的 agent 控制平面，运行在用户自有基础设施上，可通过 REST API、CLI、Python SDK 与 NeMo Studio Web UI 访问。功能覆盖 agent 护栏（内容安全/越狱检测/PII 脱敏）、红队测试（garak）、LLM-as-judge 与 RAG 基准评测、技能与提示调优、基于 NAT 的 agent 构建及合成数据生成。插件化架构支持替换执行、沙箱、存储、密钥与推理中间件。本地默认模式依赖 Docker，可本地或 Kubernetes 运行。
+NeMo Helix 是部署在自有基础设施上的 agent 改进控制平面：接入 agent 运行进行可观测性与追踪采集，生成训练/评测数据，做 prompt 优化、超参搜索与模型路由，支持 LoRA/SFT/DPO/GRPO 微调，提供评测套件、LLM-as-judge 与 guardrails/garak 红队等安全能力；本地或 Kubernetes 运行，通过 CLI、REST API、Python SDK 及 NeMo Studio Web UI 访问，基础设施以可替换的模块化插件提供。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@ NeMo Helix 是 NVIDIA 开源的 agent 控制平面，运行在用户自有基础
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 护栏（内容安全/越狱检测/PII 脱敏）与 garak 红队测试
-- LLM-as-judge、确定性、agentic 与 RAG 基准评测
-- 技能/提示/超参调优与 Switchyard 模型路由
-- 插件化基础设施：执行、沙箱、文件、密钥、推理网关
+- 能力覆盖观测、数据合成、优化、微调、评测与安全六大域
+- 内置 Compass（生产 trace 失败定位）与 Eval Author（生成评测任务）两个 agent
+- skills 可装入 Claude Code/Cursor/Codex/OpenCode 由编码 agent 驱动
+- 基础设施默认实现均可替换（存储、数据库、IdP/OIDC、OpenAI 兼容网关）
 
 ## 适用场景
 
-- 对生产 agent 做行为评测与回归测试
-- 为 agent 加装内容安全与 PII 护栏并做红队测试
-- 通过 CLI/SDK/REST 管理模型、技能与 agent 部署
+- 上线前对 agent 做基准评测与红队测试
+- 从生产 trace 定位 agent 失败原因并转化为评测任务
+- 微调与部署自定义模型并接入推理网关
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型网关` `LLM 可观测性` `模型评测` `微调` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L12: NeMo Helix is an open source control plane for improving and hardening production agents. It runs on your infrastru
-> L14: NeMo Helix uses modular plugins for the infrastructure agents need to run at scale. Choose the capabilities you nee
-> L109: - **Evaluate agents.** LLM-as-judge, deterministic, agentic, and RAG benchmarks. Harbor-backed eval suites for reg
+> L103: |**Evaluation**|Score candidates against your benchmarks before you ship them|NeMo Gym environments, Harbor eval s
+> L104: |**Safety**|Catch unsafe behavior before and during production|Guardrails (content safety, jailbreak detection, PI
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1fa8b528baf7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `68ecdaeee5a0` · [字段定义](../../DATASET.md)*

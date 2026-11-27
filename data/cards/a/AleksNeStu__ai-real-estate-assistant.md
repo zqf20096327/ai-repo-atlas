@@ -2,9 +2,9 @@
 
 ⭐ 326 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AleksNeStu/ai-real-estate-assistant) · [官网](https://realty.kittray.com) · 个人维护
 
-**开源自托管房产问答助手：自然语言搜房+RAG+财务工具**
+**自托管 AI 房产搜索助手：自然语言问房源、算贷款与估值**
 
-面向房产搜索场景的对话式助手：对自有房源目录建立语义索引，支持自然语言查询、混合检索（ChromaDB 语义+关键词+MMR 重排）、聊天背后的工具集（按揭、租买对比、ROI、TCO、估值与多年预测）、交互地图、9 种语言。提供三种部署方式：托管平台一键部署、自备 Docker 的 VPS、拉取 GHCR 镜像；快速安装脚本无需 API key，可用内置演示模型，接入真实模型需自行填 provider key。MIT 许可，另有付费托管版 PropVector AI 在建。
+面向房产搜索的开源对话式助手：对自有房源目录建语义索引，接受自然语言查询（含自动过滤抽取），用 ChromaDB 做 RAG 混合检索并 MMR 重排；聊天背后挂贷款、租买对比、ROI、TCO、比较市场分析与多年估值预测等工具；界面支持 9 种语言，输出带 EU AI Act 合规标签。部署提供托管平台一键、自托管 Docker Compose、CI 部署与拉取 GHCR 镜像四条路径；自托管无需付费模型 key 即可回答。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 17 个 LLM 提供商路由与自动回退，可按请求切换
-- 混合 RAG 检索：ChromaDB + MMR 重排，查询复杂度分类路由
-- 聊天内置财务工具：按揭、租买对比、ROI、TCO、CMA、估值预测
-- 三种部署路径：托管平台 / 自托管 Docker Compose / GHCR 镜像
+- 17 个 LLM provider 路由，含自动 fallback 链与按请求选择
+- 混合 RAG + 向量检索：ChromaDB + MMR 重排，按查询复杂度分流
+- 房产金融工具集：贷款、租买对比、ROI、TCO、CMA、估值预测
+- 支持自托管 Docker Compose、Kubernetes 与托管平台一键部署
 
 ## 适用场景
 
-- 在自己的服务器上搭建自然语言房源搜索
-- 为房源目录提供带出处的 AI 问答与估值分析
-- 多语言房产门户中嵌入对话式助手
+- 在自己服务器上为自有房源目录搭建自然语言搜索
+- 通过聊天向租客/买家提供贷款、ROI、估值等分析工具
+- 上传自有文档建知识库并查询
+- 按城市/街区做市场趋势分析
 
 ## 场景标签
 
-`聊天机器人` `RAG` · 领域:对话与助手
+`聊天机器人` `AI 助手` `RAG` `文档问答` · 领域:对话与助手
 
 ## 证据(README 行号)
 
+> L7: An open-source conversational assistant for property search, financial analysis
 > L190: |**Conversational search**|Natural-language queries with automatic filter extraction; hybrid semantic + keyword re
 > L199: 1. **Multi-provider LLM routing** — `17` providers with an automatic fallback
-> L205: 3. **A complete reference stack** — FastAPI + Next.js `16` + ChromaDB, Docker
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0d2c3aac5ed3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9e956b017cc8` · [字段定义](../../DATASET.md)*

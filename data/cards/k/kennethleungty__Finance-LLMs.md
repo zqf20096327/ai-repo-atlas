@@ -2,9 +2,9 @@
 
 ⭐ 149 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kennethleungty/Finance-LLMs) · [官网](https://medium.com/datadriveninvestor/how-llms-are-reshaping-financial-services-real-world-examples-d07bc74ad4bd) · 个人维护
 
-**金融服务业 LLM 与 AI Agent 实际落地案例汇编清单**
+**金融服务业 LLM 与 AI Agent 落地案例清单**
 
-由个人维护的策展清单，汇总全球金融机构（银行、资管、交易、支付、保险）中 LLM 与 agentic AI 的真实部署案例，如 DBS、HSBC、Revolut、NatWest 等。每个条目以表格记录名称、类型、日期、描述及站点/论文链接，并按 Enterprise Platform、Fine-Tuned Model、Integrated Solution 三类归类。内容为第三方案例的整理与汇编，仓库本身不提供模型、代码或运行工具，读者通过 PR/issue 参与贡献。
+按银行、财富与资管、资本市场、支付、保险、研究/开源模型六个板块组织，收录全球金融机构实际部署的 LLM 与 Agent 应用案例；每个条目按 Enterprise Platform、Fine-Tuned Model、Integrated Solution 三类标注，表格字段包含名称、类型、日期、描述、站点与论文链接，并欢迎通过 pull request / issue 提交新案例。仓库本体为索引型清单，不含可安装运行的自有代码。
 
 ## 筛选速览
 
@@ -15,30 +15,31 @@
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 按 5 个金融业务领域组织的案例目录
-- 每条案例标注三类部署形态之一（平台/微调模型/集成方案）
-- 条目含日期、描述、站点与论文链接
-- 开放 PR/issue 贡献新案例
+- 按银行、财富资管、资本市场、支付、保险等金融子领域分类组织条目
+- 每个案例标注 Enterprise Platform / Fine-Tuned Model / Integrated Solution 三类
+- 条目附站点与论文链接字段
+- 收录未商业部署的开源金融模型（如 FinGPT、FinMA、InvestLM）专设板块
 
 ## 适用场景
 
-- 调研金融机构的 LLM/AI Agent 落地现状与形态
-- 为金融领域 AI 项目选型寻找参考案例
-- 了解不同厂商模型在银行业的部署情况
+- 调研金融行业真实的 LLM/Agent 部署案例与效果指标
+- 为金融 AI 采购或方案设计寻找同类先例
+- 查找金融领域开源模型与 agent 框架线索
 
 ## 场景标签
 
-`金融量化` `精选清单` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3:  Compilation of Real-World LLM & AI Agent Use Cases in Financial Services
 > L8: This repository curates real-world LLM and agentic AI implementations in finance, showcasing enterprise platforms, s
+> L13: ### 📑 Table of Contents
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `becd310e3f13` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8fd63b951247` · [字段定义](../../DATASET.md)*

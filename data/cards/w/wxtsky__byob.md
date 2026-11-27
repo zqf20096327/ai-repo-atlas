@@ -2,9 +2,9 @@
 
 ⭐ 145 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/wxtsky/byob) · [官网](https://github.com/wxtsky/byob) · 个人维护 · 中文 README
 
-**本地 MCP 服务器：让 AI 编码工具直接控制你已登录的 Chrome**
+**本地 MCP 服务器：让 AI 编码工具控制你已登录的 Chrome**
 
-byob 是一个运行在本地的 MCP 服务器，配合 Chrome 扩展（MV3）与 Native Messaging 桥接，使 Claude Code、Cursor、Cline、Windsurf 等 MCP 兼容的 AI 工具能够直接操作用户当前已登录的真实 Chrome 浏览器。链路为 AI tool → MCP(stdio) → bridge(Unix socket) → 扩展 → 标签页（Chrome DevTools Protocol），提供 25 个工具覆盖快照、点击、填表、截图、网络拦截、存储读写等。安全机制包括页面脚本运行在隔离 world、逐站点 allow/deny 策略由用户设定、凭据字段脱敏、browser_evaluate 默认关闭。要求 Node.js ≥ 20、bun 与 Chrome，通过安装脚本或 git clone + bun run setup 安装。
+byob 通过 Chrome MV3 扩展加 Native Messaging 桥接，向 Claude Code、Cursor、Cline、Windsurf 等 MCP 客户端暴露约 20 个浏览器控制工具：快照、点击、填表、截图、读取 PDF/cookie、拦截网络、录制视频、执行 JS 等，元素用 ref 或 CSS 选择器定位。因复用用户真实浏览器，已登录会话直接可用，且不开放远程调试端口。全部通信留在本地；需 Node.js ≥20、bun、Chrome，安装脚本交互完成扩展加载与 MCP 注册。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ byob 是一个运行在本地的 MCP 服务器，配合 Chrome 扩展（MV3）�
 
 ## 能力要点
 
-- 控制已登录的真实 Chrome，无需 cookie 复制或调试端口
-- 25 个 MCP 工具：快照/查找/点击/填表/截图/网络拦截/存储读写等
-- 安全机制：隔离 world、用户设定的站点 allow/deny 策略、凭据字段脱敏、零外发流量
-- 支持 macOS/Windows/Linux，Windows 写注册表注册 Native Messaging host
+- 约 20 个 MCP 浏览器工具，含网络拦截、录制、常驻 userscript 等扩展工具
+- 复用用户已登录的真实 Chrome，无需拷贝 cookie 或开放调试端口
+- Claude Code Code Mode 下以 JavaScript 脚本批量调用工具，结果可存文件不入上下文
+- 脚本隔离世界运行、ref 绑定节点 id、按会话分 tab，Chrome 关闭时进程自动退出
 
 ## 适用场景
 
-- 让 AI 编码工具读取我已登录站点的页面并执行操作
-- 以真实浏览器通过机器人检测执行自动化任务
-- 通过站点策略限制 AI 可访问的网站范围
+- 让 AI 工具读取和操作我已登录的网页（Gmail、GitHub、Twitter 等）
+- 用 AI 批量访问产品页、按 CSV 填表单并提交
+- 抓取带登录态的页面截图、PDF 内容或 cookie 供 curl 使用
+- 遇到验证码或支付确认时把 tab 交还给我手动处理
 
 ## 场景标签
 
@@ -38,7 +39,7 @@ byob 是一个运行在本地的 MCP 服务器，配合 Chrome 扩展（MV3）�
 ## 证据(README 行号)
 
 > L11: byob is a local MCP server that lets AI coding tools (Claude Code, Cursor, Cline, Windsurf, etc.) directly control 
-> L201: AI tool → byob-mcp → byob-bridge → Chrome extension → your tab
+> L251: AI tool → byob-mcp → byob-bridge → Chrome extension → your tab
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `13ca2958ebe6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7d108cde4708` · [字段定义](../../DATASET.md)*

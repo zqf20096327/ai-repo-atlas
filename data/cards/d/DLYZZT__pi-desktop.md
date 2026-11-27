@@ -2,15 +2,15 @@
 
 ⭐ 358 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/DLYZZT/pi-desktop) · [官网](https://pi-desktop.app) · 个人维护 · 中文 README
 
-**Pi Coding Agent 的本地优先 Electron 桌面工作台**
+**把 Pi Coding Agent 变成桌面工作台的本地优先 Electron 应用**
 
-基于 Electron 三进程架构的桌面应用，把 Pi Coding Agent 包装为图形化工作台：提供会话管理、流式回复、工具调用执行历史、用户与 Agent 共享的内置浏览器、受管开发进程、MCP 服务配置、Git/Worktree 项目文件管理、技能与插件管理。模型接入按服务商配置 API Key、订阅或 OAuth，支持 Auto 虚拟模型按思考级别自动路由快/强模型。提供 macOS/Windows/Linux 安装包，普通用户无需单独安装 Node.js 或 Pi CLI；数据留存本机 ~/.pi/agent/，无内部服务器。
+面向 Pi Coding Agent 用户的跨平台桌面客户端：提供会话管理（流式回复、队列消息、执行历史树）、用户与 Agent 共享的内置 Chromium 浏览器、受管后台开发进程、MCP 服务配置、Git/Worktree 项目文件管理、技能与插件管理，以及 Auto 虚拟模型的快/强模型自动路由。支持微信、Telegram、飞书/Lark 消息渠道接入。普通用户经安装包使用无需单独装 Pi CLI 或 Node.js；受管进程与高级浏览器模式默认关闭，Windows ARM64 等平台不受支持。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 用户与 Agent 共享同一 Chromium 页面的内置浏览器，含独立授权与高级模式
-- Auto 虚拟模型按思考级别与决策模型自动路由快/强模型
-- 微信、Telegram 与飞书/Lark 消息渠道接入，支持多模态附件
-- 受管开发进程与父子执行树的可观察工具调用历史
+- 用户与 Agent 共享同一 Chromium 页面的内置浏览器，带分级授权与私网保护
+- Auto 虚拟模型按思考级别与问题复杂度在快/强模型间路由
+- 受管后台进程支持 Vite/Spring Boot 等长驻服务，含执行树与日志脱敏
+- 微信、Telegram、飞书/Lark 消息渠道与桌面会话并存
 
 ## 适用场景
 
-- 在图形界面中管理 Pi Coding Agent 的多个会话与工具权限
-- 让 Agent 操作浏览器页面并随时人工接管
+- 在图形界面中管理 Pi Coding Agent 的多会话开发工作流
+- 让 Agent 操作浏览器完成页面快照、截图与表单交互
 - 通过微信/Telegram/飞书远程与本地 Agent 对话
-- 用受管进程跑 Vite/Storybook 并在内置浏览器联调
+- 统一管理模型凭据、MCP 服务、Skills 与 Plugins
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L5: **把 Pi Coding Agent 变成真正的桌面工作台。**
-> L129: - 按服务商提供 API Key、订阅或 OAuth 登录，支持多步凭据配置向导、已有凭据替换确认和 Azure 旧配置迁移
-> L151: 通过会话工具菜单启用 Codemode（“完全访问”预设已包含），让 Agent 按需生成图片，或调用决策模型进行分类、是非判断和评分。支持图片输入的分类器也可判断截图和图片。模型按提供商的现有凭据发现，分类器作为辅助能力使用，
+> L240: - **Agent Host**：在独立 `utilityProcess` 中运行 Pi Coding Agent，处理会话、文件、配置与扩展
+> L303: Pi Agent Desktop 是 Pi Coding Agent 的桌面工作台，继续使用 `~/.pi/agent/` 中的会话和配置，因此可以与 CLI 配合使用。
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b2ecc4facdc9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `69211f518826` · [字段定义](../../DATASET.md)*

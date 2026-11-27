@@ -2,9 +2,9 @@
 
 ⭐ 164 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/FennelFetish/qapyq) · 个人维护
 
-**面向 LoRA/扩散训练的图像视频数据集 AI 策展桌面工具**
+**为大图像/视频数据集做AI标注、裁剪、遮罩的桌面工具，服务LoRA训练**
 
-基于 Qt 的桌面应用，用于为 LoRA/扩散模型训练准备大规模图像与视频数据集：提供媒体浏览（支持百万级文件）、裁剪/缩放/VAE 编码预览、手动与 AI 生成遮罩、手动及自动打标与描述生成、标签规则变换、统计过滤与批量处理。AI 部分支持打标、描述、LLM 变换、超分、检测分割、嵌入排序等多类模型，含 GGUF 本地推理、NF4/INT8 量化与 SSH 远程推理。需 Python 3.10+，通过 setup 脚本安装到虚拟环境，可选 CUDA/ROCm/CPU 平台。
+基于 Qt 的桌面应用，面向大规模图像/视频数据集的整理与训练数据准备：提供媒体浏览、排序过滤、快速裁剪、多图层遮罩编辑、批量打标与改写等。AI 机制：本地或经 SSH 远程运行打标/描述/遮罩/放大模型，支持 GGUF 量化、GPU 加速与 CPU offload，推理在独立子进程执行以隔离崩溃并清理显存。可安装为纯 GUI 模式（不含 AI 组件）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 自动打标与描述生成，支持多轮 VLM 对话及 LLM 后处理
-- AI 生成遮罩（YOLO 检测、Florence-2、RMBG-2.0 分割等）
-- GGUF 模型本地运行、NF4/INT8 即时量化、SSH 远程推理
-- 标签规则变换、统计过滤与整文件夹批量处理
+- 支持 JoyTag、Florence-2、Qwen2.5-VL、InternVL3 等多种打标/描述/遮罩模型架构
+- 本地与多台远程机器 SSH 推理，独立子进程隔离崩溃并清理 VRAM
+- NF4/INT8 即时量化与 GGUF 模型加载
+- 百万级文件的批量管理、过滤与批处理工作流
 
 ## 适用场景
 
-- 为 LoRA/扩散模型训练整理并标注图像视频数据集
-- 批量生成与精修图片描述和标签
-- 为训练数据制作遮罩并做数据统计过滤
+- 为 LoRA/扩散模型训练批量生成图像描述与标签
+- 训练前裁剪素材并生成遮罩
+- 按语义提示对大型数据集排序与筛选子集
 
 ## 场景标签
 
-`图像视频处理` `目标检测` · 领域:感知与多模态
+`图像视频处理` `目标检测` `微调` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L3: **AI-assisted media curator for large image/video datasets. Streamlined captioning, cropping, masking for LoRA/diffu
-> L53:  - Automated captioning with support for grounding ?
-> L72:  - Support for state-of-the-art captioning and masking models
+> L71: - **🔮 AI Assistance**:
+> L75:  - Run inference locally and/or on multiple remote machines over SSH ?
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3dd547315555` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0fed36e71baa` · [字段定义](../../DATASET.md)*

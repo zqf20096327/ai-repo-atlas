@@ -2,9 +2,9 @@
 
 ⭐ 325 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/coco-research/coco) · [官网](https://cocoresearch.org/coco/) · 组织维护
 
-**给 Claude Code/Cursor/Codex 用户一键安装专家人格董事会、技能与斜杠命令**
+**为 Claude Code/Cursor/Codex 安装专家面板、技能与命令的工具**
 
-面向已有 AI 编码代理的用户，安装 495 个专家人格、231 个技能和 389 个斜杠命令到 Claude Code、Cursor、Codex 等工具中。核心机制是 /SI-Decide：编排器按领域匹配度从 13 个部门的人格中选出 16-32 个，基于引用的公开立场作答，返回一个裁决并列名异议；阶段状态写入磁盘使 /clear 后可延续。文件与状态保留在本地，无遥测，模型与密钥仍归用户自己的 provider。前置依赖 git、bash、Node.js 14+、python3。核心为 Apache-2.0，Super Intelligence 部分为专有许可。
+以 npm 包分发的编码代理增强工具：通过一条命令向用户已有的 AI 编码工具（Claude Code、Cursor、Codex、VS Code 等）安装 493 个专家人格、231 个技能与 389 个斜杠命令。核心机制 /SI-Decide 由编排器按领域匹配度等人格 seating 16-32 人组成评审团，返回一个结论并列出具名异议；阶段状态写入磁盘以便 /clear 后延续。文件与状态留在本地，无遥测。前置要求 git、bash、Node.js 14+、python3。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 495 个人格跨 13 个部门，两阶段路由选出 16-32 人组成的评审板
-- 389 个斜杠命令在用户机器上于安装时生成，不上传任何内容
-- 支持 MCP：任何 MCP 客户端可通过 stdio 连接，无需额外依赖
-- 本地学习存储读取近期工作流，最多推荐三条技能建议
+- 493 个跨 13 部门的专家人格面板，/SI-Decide 返回结论与具名异议
+- 231 个技能、389 个斜杠命令，一条 npx 命令装进已有编码代理
+- 两阶段路由（embed + keyword 降级回退）选取人格，附带评测数据
+- MCP server 支持任意 MCP 客户端经 stdio 接入
 
 ## 适用场景
 
-- 在编码会话内对架构/迁移等决策获得带列名异议的多视角裁决
-- 为团队生成 PRD、评审、验证等后续工作流命令
-- GDPR 合规检查、缓存迁移预演等按部门调用专项命令
+- 在编码会话中对技术决策获得多人格评审与异议记录
+- 为 Claude Code / Cursor 批量安装技能与斜杠命令
+- 决策后继续用技能完成规划、评审与 PR 流程
 
 ## 场景标签
 
-`提示工程` `工作流自动化` · 领域:Agent 开发
+`提示工程` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: Agent skills, slash commands and subagents for Claude Code, Cursor, Codex and other AI coding agents. One command in
 > L24: A hard call in a coding session usually gets one model's opinion, with no name on it and no record of who disagreed
+> L72: - Install into Claude Code, Cursor, Codex, VS Code, or another adapter. Your model and your keys stay yours.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d1278820e6f6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `aaaa1cf134fd` · [字段定义](../../DATASET.md)*

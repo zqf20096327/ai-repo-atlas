@@ -2,9 +2,9 @@
 
 ⭐ 139 · Kotlin · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Verlintas/BetterAIChat) · 个人维护 · 中文 README
 
-**Android 原生 AI 助手：自有 API Key 对话并操作手机**
+**本地优先的 Android AI 助手：自带 API key，AI 可操作手机**
 
-Kotlin/Jetpack Compose 编写的本地优先 Android AI agent 应用：用户填入自己的 API Key（OpenAI 兼容/Anthropic/Gemini），密钥经 Android Keystore 加密存储，无云端中转。支持流式对话、四种 opencode 风格模式（Chat/Plan/Build/Max），内置约 50 个设备工具：打开应用、截屏 OCR、Shizuku root shell、无障碍 UI 自动化、多引擎网页搜索、定时/电量触发自动化、语音免提模式与长期记忆。可通过 Releases 下载 APK 或用 JDK 17 + Android SDK 从源码构建，MIT 许可。
+Kotlin/Jetpack Compose 构建的原生 Android 应用，用户填入自己的 API key 接入多家 LLM；AI 通过 function calling 操作设备，内置 50+ 工具（开关应用、截图、屏幕 OCR、无障碍 UI 自动化、Shizuku root shell、多引擎网页搜索、日历/邮件等）。提供 Chat/Plan/Build/Max 四种 opencode 风格模式、SKILL.md 技能导入、本地长期记忆、自动化任务与语音助手。API key 经 Android Keystore 加密存于本地，无云端。APK 从 Releases 下载，也可 JDK 17 + Android SDK 源码构建。
 
 ## 筛选速览
 
@@ -20,28 +20,26 @@ Kotlin/Jetpack Compose 编写的本地优先 Android AI agent 应用：用户填
 
 ## 能力要点
 
-- 约 50 个设备工具：截屏 OCR、Shizuku shell、无障碍 UI 自动化（tap/swipe/找文本）
-- 四种 opencode 风格模式，Max 模式自主多步工具调用
-- 时间/电量触发的后台自动化任务引擎
-- SKILL.md 格式自定义技能与动作录制器
-- API Key 本地 Keystore 加密，无云端
+- 50+ 设备工具：截图、屏幕 OCR、无障碍 UI 自动化、Shizuku shell、应用管理
+- Chat/Plan/Build/Max 四种模式控制工具执行与推理强度
+- SKILL.md 技能导入与工具序列录制复用
+- 本地长期记忆蒸馏、上下文 85% 自动压缩
 
 ## 适用场景
 
-- 用自己的 API Key 在手机上与多个 LLM 对话
-- 让 AI 代为操作手机：开应用、设提醒、UI 自动化
-- 搭建免root/需Shizuku的手机自动化任务
-- 语音免提问答与长期记忆的个人助理
+- 用自己配置的模型在手机上对话并让 AI 执行操作
+- 语音免手操作：口述问题、AI 朗读回答
+- 把多步任务录成 Skill 或定时自动化重复执行
 
 ## 场景标签
 
-`AI 助手` `聊天机器人` `GUI 自动化` `Agent 记忆` · 领域:Agent 开发
+`AI 助手` `聊天机器人` `语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L7: > A native Android AI assistant that uses **your own API keys**. Chat with leading LLMs, and let the AI operate your
 > L9: Unlike mainstream AI apps, BetterAIChat is a **local-first agent**: your API keys are encrypted on-device, there is 
-> L41: ### The AI can operate your device
+> L20: - **Multiple providers**: OpenAI-compatible (OpenAI, DeepSeek, Moonshot, Qwen, Ollama, any gateway), Anthropic Clau
 
 ## 星数曲线
 
@@ -57,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e261abb7bab9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `72148eb88ea4` · [字段定义](../../DATASET.md)*

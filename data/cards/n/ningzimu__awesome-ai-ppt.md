@@ -2,9 +2,9 @@
 
 ⭐ 192 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/ningzimu/awesome-ai-ppt) · [官网](https://ningzimu.github.io/awesome-ai-ppt/) · 个人维护 · 中文 README
 
-**为 agent/开发者精选 AI PPT 生成与 PPTX 编辑工具的清单**
+**面向 agent 与开发者的 AI PPT 工具精选清单**
 
-一个精选列表仓库，收录能帮助 agent 或开发者创建、编辑、转换或检查演示文稿的 GitHub 项目，按四类组织：HTML 风格 PPT、图片生成式 PPT、PPTX 库生成式方案、PPTX 库与自动化基础设施；每条含简介、可编辑性标注、是否带 Skill/MCP 及 Star 数。仓库自带 awesome-ai-ppt skill，可经 npx 安装，由 AI 结合清单做个性化推荐与贡献辅助，并提供文档网站。
+收录 AI PPT、PowerPoint 自动化、PPTX 编辑与幻灯片工作流相关 GitHub 项目的精选清单，按 HTML 风格、图片生成式、PPTX 库生成式及底层库/自动化基础设施四类组织，每条附简介、可编辑性、Skill/MCP 支持与 Star 数。面向 agent 或开发者，用于查找创建、编辑、转换或检查演示文稿的工具。仓库自带 awesome-ai-ppt skill，可通过 npx 安装后由 AI 依据用户场景个性化推荐清单内工具。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 HTML-first / 图片式 / PPTX 原生 / 基础设施四类组织条目
-- 每条标注可编辑性与是否提供 Skill/MCP
-- 提供 awesome-ai-ppt skill，支持 npx 安装并由 AI 个性化推荐工具
-- 配套文档网站 ningzimu.github.io/awesome-ai-ppt
+- 按 HTML 风格/图片生成式/PPTX 库生成式/基础设施四类组织条目
+- 每条标注可编辑性、Skill 或 MCP 支持、Star 数
+- 提供 awesome-ai-ppt skill，npx 一条命令安装给 codex 等 agent
+- 附在线文档网站
 
 ## 适用场景
 
-- 为 agent 挑选合适的 AI PPT 生成工具
-- 查找能把 HTML/图片/Markdown 转换为可编辑 PPTX 的方案
-- 了解 PPTX 库与自动化基础设施生态
+- 让 agent 根据我的材料推荐合适的 AI PPT 工具
+- 查找能把 HTML 或图片重建为可编辑 PPTX 的方案
+- 寻找操作 PPTX 的底层库与自动化基础设施
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `2ad63e66ec60` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `4d30f05d7e2c` · [字段定义](../../DATASET.md)*

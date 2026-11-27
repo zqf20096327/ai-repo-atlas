@@ -2,9 +2,9 @@
 
 ⭐ 142 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/omnichar/ComfyUI-Omnichar) · [官网](https://omnichar.org) · 组织维护
 
-**ComfyUI 节点包：用 .char 格式跨模型保持角色一致性**
+**让 ComfyUI 用户跨模型保持角色一致的 .char 节点**
 
-Omnichar 官方的 ComfyUI 自定义节点集，读取与生成 .char 角色文件：文件内含参考图、锁定描述与可选的已训练 LoRA，可接入 FLUX.2 dev、FLUX.2 klein 9B/4B、MiniMax H3、Krea 2 等模型，并在 MiniMax H3 上携带语音片段（约 30 秒，按提示词是否含对白决定是否发送）。提供 Load/Decode/Encode Character 等 7 个节点，支持 CLIP conditioning 直出与参考槽位保持顺序。另有独立的 omnichar-sdk Python 包（Apache-2.0），可在 ComfyUI 之外集成。
+ComfyUI 的 .char 角色格式官方集成节点：.char 文件封装角色的参考图、锁定描述、可选 LoRA 与语音片段。提供 Load/Decode/Encode 等节点，把角色转成 conditioning、参考图列表或 latent，接入 FLUX.2、MiniMax H3、Krea 2 等模型的图像与视频工作流；角色可在本地 Studio、Cloud 或节点内构建，带许可证密钥机制支持授权角色。另提供独立 Python 库 omnichar-sdk（Apache-2.0）。安装需已有 ComfyUI 与 Python 3.10+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Omnichar 官方的 ComfyUI 自定义节点集，读取与生成 .char 角色文�
 
 ## 能力要点
 
-- .char 文件含参考图、描述与可选 LoRA，跨 FLUX.2 / MiniMax H3 / Krea 2 等模型复用
-- Encode Character 节点可从 face/body/clothes 各 3 槽位现场构建角色
-- 语音片段存入角色，MiniMax H3 对白提示时自动发送
-- omnichar-sdk 独立包 Apache-2.0，无依赖，可在任意环境读取 .char
+- .char 文件封装参考图、描述、LoRA 与语音，跨模型复用
+- Decode Character 输出 conditioning/参考图/latent 适配不同模型的引用方式
+- 语音片段按对话检测自动发送给 MiniMax H3（auto/never/always）
+- 支持云授权角色：许可证内嵌于 .char，需输入密钥
 
 ## 适用场景
 
-- 在 ComfyUI 中为图像/视频生成保持同一角色的脸、身体与服装
-- 把 Omnichar Studio 构建的角色文件接入现有工作流
-- 为 MiniMax H3 生成带一致语音的对白视频
+- 在 ComfyUI 工作流中让同一角色在图像/视频模型间保持一致
+- 给角色配置声音生成说话视频
+- 使用或分发带授权的角色文件
 
 ## 场景标签
 
@@ -38,8 +38,7 @@ Omnichar 官方的 ComfyUI 自定义节点集，读取与生成 .char 角色文�
 ## 证据(README 行号)
 
 > L5: Official `.char` integration for ComfyUI. Build a character once and keep the same face, body,
-> L43: - ComfyUI
-> L74: ## Nodes
+> L39: - **Python Library**: Omnichar's standalone package for `.char` integration, no dependencies
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `80fe83addb68` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a5b23cc5fb24` · [字段定义](../../DATASET.md)*

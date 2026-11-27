@@ -2,9 +2,9 @@
 
 ⭐ 198 · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/Ratnesh-181998/AI-Engineer) · [官网](https://www.youtube.com/@aiDotEngineer/videos) · 个人维护
 
-**AI 工程主题图文笔记合集：Agentic AI、GenAI、RAG 概念图解**
+**面向 AI 工程学习者的 Agentic AI 与 GenAI 主题图文讲解合集**
 
-个人维护的 AI 工程知识聚合仓库，以图片和信息图为主，覆盖 Agentic AI、生成式 AI、LLM、RAG 架构（12 种 RAG 架构分类）、Agent 框架对比（LangGraph/CrewAI/AutoGen 等）、微调技术（LoRA/QLoRA/RLHF 等 15 种）、MCP 与 A2A 协议、向量数据库（Pinecone/Weaviate/FAISS）等主题。条目多为外部图片、arXiv 论文链接、YouTube 播放列表与 Substack 文章的引用集合，不含可运行的代码。面向学习 AI 工程概念的开发者与求职者。
+以图解为主的知识聚合仓库：用示意图、cheatsheet 和外部链接讲解 RAG 架构（含 12 种架构分类）、Agent 设计模式（20 种）、LLM 微调技术（LoRA/RLHF/DPO 等）、MCP 与 A2A 协议、向量数据库、嵌入与防护栏等主题，内容多源自作者发布的推文截图。无代码工程、无安装与运行说明，仅附 arXiv 论文链接、MIT 免费课程与 YouTube 播放列表等学习资源。适合入门 AI 工程概念的学习者。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 以'AI 元素周期表'方式组织 AI 系统概念（Prompt/Embedding/RAG/Agent 等）
-- 收录 15 种 LLM 微调技术与 12 种 RAG 架构的图解
-- 包含 MCP 与 A2A 协议、Agent 记忆架构等专题说明
-- 附 arXiv 论文链接、YouTube 播放列表等外部学习资源
+- 12 种 RAG 架构的视觉分类图解
+- 20 种 Agentic AI 设计模式讲解
+- MCP 与 A2A 协议的可视化解释与 Agent Card 机制说明
+- 附 arXiv 论文与 MIT/YouTube 学习资源链接
 
 ## 适用场景
 
-- 系统学习 Agentic AI 与 RAG 的概念与架构
-- 准备 AI 工程师/LLM 微调工程师面试
-- 了解主流 Agent 框架与向量数据库生态
+- 系统学习 RAG、Agent 与微调等 AI 工程概念
+- 准备 AI 工程师面试（含微调面试题图解）
+- 查找免费课程、论文与视频播放列表等学习材料
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L5: ## Agentic AI | Generative AI | LLMs | RAG | Agentic AI Frameworks 🌈 TOPICS detailed explanations
-> L119:  - AI systems are becoming increasingly complex — LLMs, RAG, agents, tools, guardrails, multimodal models… it’s ea
-> L235: - This visual brings together 12 major RAG architectures—from Naïve RAG to Tool-Integrated and Federated RAG—highl
+> L109: ### A RAG chatbot = PR + EM + VX + RG + LG + GR
+> L660: # MIT literally packed 7 hours with everything:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e780afad5d52` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `21b7bef731dd` · [字段定义](../../DATASET.md)*

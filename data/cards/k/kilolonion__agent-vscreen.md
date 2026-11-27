@@ -2,9 +2,9 @@
 
 ⭐ 178 · Kotlin · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kilolonion/agent-vscreen) · [官网](https://github.com/kilolonion/agent-vscreen/releases/latest) · 个人维护 · 中文 README
 
-**安卓后台虚拟副屏，让任意 AI agent 操作手机应用**
+**安卓后台虚拟屏：让任何 AI agent 替你操作手机应用**
 
-在安卓手机上创建一块不可见的虚拟屏幕，AI agent 在副屏上打开并操作应用（点击、滑动、输入、等待），用户主屏不受影响，可通过悬浮窗查看、接管或停止。提供 CLI（vscreen）、MCP 与 HTTP 三种接入方式，通过 Shizuku 或 root 获取权限，无需 root 默认可用。应用本身不调用任何模型，由 agent 侧模型决定操作；支持 OCR 与无障碍树合并定位元素、定时与条件监听、步骤教学录制回放、多 agent 令牌隔离。需 Android 11+ 与 arm64。
+在安卓手机上开启一块不可见的虚拟副屏，AI agent 在副屏上打开和操作应用，用户主屏不受影响；浮窗实时显示 agent 动作，可随时接管或停止。通过 Shizuku（无需 root）或 root 获取权限，支持 Android 11+、arm64。接入方式三种：终端 agent 用 vscreen CLI、支持 MCP 的 agent 用 MCP、自写代码用 HTTP API。应用本身不调用任何 AI 模型，屏幕含义由 agent 侧模型判断。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 后台虚拟屏驱动应用：点击/滑动/输入/按键，每步校验失败即停并报告屏幕状态
-- CLI / MCP / HTTP 三种接入方式，本地（127.0.0.1）与云端 agent 均可连接
-- 无障碍树 + 端侧 OCR（PP-OCRv6、ML Kit）合并为带坐标的可点元素列表
-- teach 教学录制、ask 让用户点选、handoff 与用户屏交接、条件监听通知
+- 虚拟副屏上执行点击/滑动/输入/按键，每步校验失败即停并报告屏幕状态
+- 无障碍树与端侧 OCR（PP-OCRv6、ML Kit）合并为带坐标的元素列表
+- 三种接入方式：vscreen CLI、MCP、HTTP /v2 API，每个 agent 独立 token
+- 支持用户接管、teach 教学录制、handoff 交接与条件触发的持续监视
 
 ## 适用场景
 
-- 让手机或云端的 agent 帮我在后台签到、填表、查资料，同时我继续用手机
-- 给 agent 布置定时或条件触发的任务（如降价提醒、下载完成通知）
-- 让 agent 翻页采集整页列表内容（订单、聊天记录、搜索结果）
-- 把需要密码或人脸的步骤交还给我，其余交给 agent 完成
+- 让手机/电脑/云端的 agent 代我操作手机应用而我继续用手机
+- 定时签到或到点检查等周期性任务的自动化
+- 长时间页面内容的翻页收集与信息提取
+- 需要密码或人脸等步骤时交还给我手动完成
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L11: **A background second screen on your Android phone, for any AI agent: on the phone, on a computer or in the cloud.*
+> L9:  MCP
 > L43: - **Hands the screen to the agent**: every reply carries the screen as it is now, the words on it, the tappable ele
-> L114: - **MCP**: agents that speak MCP add the address and token (transport `httpStream`).
+> L115: - **MCP**: agents that speak MCP add the address and token (transport `httpStream`).
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a91965b7d836` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `819cd733822a` · [字段定义](../../DATASET.md)*

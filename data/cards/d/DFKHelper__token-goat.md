@@ -2,9 +2,9 @@
 
 ⭐ 148 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/DFKHelper/token-goat) · [官网](https://www.npmjs.com/package/token-goat) · 个人维护
 
-**AI 编码工具的 token 消耗拦截器：削减重复读取与注入防御**
+**面向 AI 编码代理的 token 与成本削减拦截工具**
 
-以 hooks 形式嵌入 AI 编码助手与工具调用之间的中间层：拦截重复文件读取并改为指针/窄切片提示、压缩截图、剥离构建与测试日志中的冗余行、拦截 PDF/Office/CSV/Markdown 大文件读取并给出结构摘要、缓存重复的 skill 注入与 MCP 调用，并在压缩前注入结构化会话清单以保留关键上下文。另对抓取网页与工具结果包裹不可信内容围栏以防御提示注入。以 npm 全局包安装，配合 Claude Code、Codex CLI、Gemini CLI、Copilot 等 15+ 客户端使用。
+以 hooks/MCP 方式介于 AI 编码代理与工具输出之间：拦截重复文件读取并给出提示或窄切片、压缩截图、剥离构建日志噪音、在 PDF/Office/CSV/Markdown 读取时只注入标题树或列预览、压缩前后注入会话清单以保留记忆、缓存与压缩技能体、并以不可信内容围栏防 prompt injection。支持 Claude Code、Codex CLI、Gemini CLI、Aider、Cursor 等 17 种客户端。npm 一条命令安装，需 Node.js，支持 Windows 10/11 与 Linux/WSL，macOS 标注未测试。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 205+ 过滤与拦截规则，覆盖读取、Bash、skill、WebFetch 等路径
-- 重复读取替换为指针/窄切片，含 shell 命令（cat/head/sed）级文本匹配去重
-- PDF/Office/CSV/Markdown 拦截为标题树/页数/列预览
-- 所有外部内容包裹不可信围栏的提示注入防御
+- 255+ 过滤与拦截规则，重复读取/命令输出/技能加载拦截
+- 图像压缩（README 称截图可缩小 97.4%）与外科式符号级读取
+- compact 前注入结构化会话清单，缓存已加载技能（约 400 token 紧凑形式）
+- 对所有抓取页面与工具结果加不可信内容围栏防 prompt injection
 
 ## 适用场景
 
-- 降低长会话与多轮任务中的 AI 编码助手 token 开销
-- 防止 compaction 丢失已编辑文件与 skill 上下文
-- 剥离构建/测试日志冗余输出，只保留失败信息
-- 为 AI 编码工作流加一层提示注入防护
+- 减少 Claude Code/Codex 等代理会话的 token 与费用
+- 长会话压缩后保留已编辑文件与关键符号的记忆
+- 防止代理反复读取同一文件浪费轮次
+- 在代理工作流中拦截不可信内容防 prompt injection
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编码助手
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L20: Token-Goat sits silently between your AI and your tools. Re-read a file? It gets a one-line hint and a narrow-slice
-> L24: Works with **Claude Code**, **Gemini CLI**, **Qwen Code**, **Codex CLI**, **Aider**, **Cursor**, **Cline**, **Winds
-> L29: npm install -g token-goat && token-goat install
+> L33: Works with **Claude Code**, **Gemini CLI**, **Qwen Code**, **Codex CLI**, **Aider**, **Cursor**, **Cline**, **Winds
+> L35: **Ask your AI to install it fully (give it this GitHub link), or install in one command:**
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `8de659b52126` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `c743d9a7dd6a` · [字段定义](../../DATASET.md)*

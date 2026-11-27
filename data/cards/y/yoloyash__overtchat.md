@@ -2,45 +2,44 @@
 
 ⭐ 165 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yoloyash/overtchat) · [官网](https://overtchat.com) · 个人维护
 
-**自托管的本地 AI 聊天界面，支持网页/移动端**
+**自托管多端 LLM 聊天应用：接本地模型、语音与编码代理**
 
-自托管的多端 AI 聊天应用：通过引导式安装脚本部署服务端（Linux/macOS），连接 vLLM、llama.cpp、SGLang 等已有推理服务器或托管提供商，提供网页、macOS/Windows/Linux 桌面端与原生 Android/iOS 客户端。内置可选的 SearXNG 搜索、Kokoro TTS、Parakeet STT，无需提供商 API key 即可使用本地模型；支持带免费回退的联网搜索、浏览器内双向语音对话、家庭多账号共享本地模型，并可接入 Codex、Claude Code 等 coding agent 会话。MIT 许可。桌面应用仅连接服务器、不自带服务端。
+OvertChat 是一个自托管的聊天应用，用于接入用户已在运行的模型服务器：Ollama、vLLM、llama.cpp、SGLang、LM Studio 或任意 OpenAI 兼容端点，也可添加托管服务商。内置语音识别与合成（Parakeet/Kokoro，无需 API key）、网页搜索、Python 代码沙箱，并可通过 Host Connector 在本地或 SSH 主机上运行编码代理会话。提供 Web、桌面（macOS/Windows/Linux）与 Android/iOS 客户端，账户、聊天与文件存于单个 SQLite 数据库。面向希望在自己服务器上运行模型并多端访问的个人或家庭用户。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 对接 vLLM/llama.cpp/SGLang 等推理服务器及托管提供商
-- 安装器内置 SearXNG 搜索、Kokoro TTS、Parakeet STT，零 API key 起步
-- 网页 + 桌面 + 原生 Android/iOS 客户端，家庭多账号共享本地模型
-- 浏览器内双向语音对话与带来源引用的多级回退联网搜索
+- 接入 Ollama/vLLM/llama.cpp/SGLang/LM Studio 等本地模型服务器与 OpenAI 兼容端点
+- 内置 Parakeet 语音识别与 Kokoro 语音合成的实时语音对话，无需 API key，CPU 可运行
+- 通过 Host Connector 从任意客户端（含手机）运行 Codex、Claude Code 等 6 种编码代理
+- Web、macOS、Windows、Linux、Android、iOS 六端客户端对应同一服务器，数据存于单个 SQLite 文件
 
 ## 适用场景
 
-- 在家里服务器上自托管 AI 聊天，全家人各自账号共享本地模型
-- 用手机 App 连接自己的服务器，同步聊天、项目与文件
-- 本地模型配合本地语音与搜索服务，不依赖付费 API
-- 在统一界面中跟进 Codex/Claude Code 等 coding agent 会话
+- 在家庭服务器上部署本地大模型并供全家多设备使用
+- 用手机远程查看和操作工作站上的编码代理会话
+- 需要语音对话、网页搜索与代码执行且不依赖托管 API 的自托管聊天环境
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`聊天机器人` `语音 Agent` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L18: OvertChat is a self-hosted home for everyday AI. Connect **vLLM, llama.cpp,
-> L19: or SGLang**, bring a hosted provider when you want one, and get straight to
-> L102: Use the responsive web app or connect the **native Android and iOS apps** to
+> L21: OvertChat is a self-hosted chat app for the models you already run. Point it
+> L26: run on your own machines. Accounts, chats, and files live in one SQLite file
+> L121: and credentials already on that host. OvertChat is the front end: start or
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `64ac02ab7e89` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `93a511e064ea` · [字段定义](../../DATASET.md)*

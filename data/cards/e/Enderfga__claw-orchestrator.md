@@ -2,9 +2,9 @@
 
 ⭐ 624 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Enderfga/claw-orchestrator) · [官网](https://github.com/Enderfga/claw-orchestrator#readme) · 个人维护
 
-**统一运行时调度 Claude Code/Codex 等编码 agent 并独立验证结果**
+**为开发者提供统一运行时，调度多种编码 Agent CLI 并独立验收**
 
-面向开发者的编码 agent 编排运行时：把 Claude Code、Codex、Antigravity、Grok Build、OpenCode 及任意 ACP agent 作为持久会话接入同一套 CLI/API，支持跨引擎 fan-out、会话切换、council 共识与无人值守 goal 模式。核心机制是由运行时本身执行验收契约（命令、HTTP 探针、截图、diff 策略），运行结束给出 verified/refuted/unverified 判定，agent 无法自行改写检查。每次调用记录模型、token 与费用，支持 maxBudgetUsd 花费上限；工作流带检查点，进程崩溃后可恢复。需要 Node 22+ 与至少一个已登录的引擎 CLI。
+一个把 Claude Code、Codex、Antigravity、Grok Build、Cursor、OpenCode 及任意 ACP agent 作为持久会话运行在单一 API 之后的编码 Agent 运行时。核心机制：由运行时（而非 agent 自身）执行验收契约并读取退出码，运行结果分 verified/refuted/unverified；支持跨引擎 fan-out、council 投票、会话跨引擎移交、检查点恢复、按引擎记录 token 与成本并强制 maxBudgetUsd 上限。需要 Node 22+ 且至少安装并登录一个引擎 CLI。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 运行时自行执行验收契约并给出 verified/refuted/unverified 判定
-- 多引擎接入同一 API：--codex/--agy 等选择引擎，clawo fanout 并行分发
-- 跨引擎会话切换（session_handoff）与崩溃后可恢复的检查点工作流
-- JSONL 运行账本按模型对比 verified 率与费用，支持 maxBudgetUsd 上限
+- 运行时自身执行验收契约，agent 无法编辑判定依据
+- 多引擎统一 CLI 旗标，支持 fanout 与 session_handoff
+- 检查点化工作流，进程崩溃后可恢复
+- MCP server、ACP agent、OpenAI 兼容端点、TypeScript SDK 多种接入方式
 
 ## 适用场景
 
-- 让 agent 修 bug 后由运行时跑独立测试验证是否真的通过
-- 同一任务并行发给多个引擎对比结果
-- 给无人值守长任务设定预算上限并留存费用账本
-- 在编辑器中通过 MCP/ACP 接入统一的多引擎 agent 入口
+- 同一任务分发给多个编码 Agent 并行执行并汇总
+- 无人值守的长目标任务需在用量限额后自动续跑
+- 按 verified 率和成本对比不同引擎/模型
+- 在编辑器（Zed/JetBrains/Neovim）中切换多家编码 Agent
 
 ## 场景标签
 
-`多智能体` `编码 Agent` `模型评测` · 领域:Agent 开发
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3:  Claw Orchestrator: A Unified Runtime for Coding Agent CLIs
 > L17: Agent Client Protocol agent (Kimi Code, dsh) as persistent sessions behind one API.
-> L18: A run counts as done only when checks the agent did not write pass: you declare the checks, the runtime runs them
+> L63: subagents and Codex's parallel attempts stay within one vendor. Claw Orchestrator is a headless runtime underneath:
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ad43cc91dff6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `12654a62e4f0` · [字段定义](../../DATASET.md)*

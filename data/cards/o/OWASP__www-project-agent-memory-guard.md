@@ -2,9 +2,9 @@
 
 ⭐ 214 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/OWASP/www-project-agent-memory-guard) · [官网](https://owasp.org/projects/agent-memory-guard) · 组织维护
 
-**AI agent 记忆投毒的运行时防护中间件库**
+**给 AI agent 做内存投毒运行时防御的安全库**
 
-OWASP 官方 Lab 项目，作为 ASI06（记忆与上下文投毒）的参考实现：在 agent 与其记忆存储之间拦截每次写入，通过检测器管道（prompt 注入、密钥/PII 泄露、受保护键篡改、尺寸异常、自我强化循环）与 YAML 声明式策略执行 allow/redact/quarantine/block 动作。无 API key、无外部调用、本地运行，中位延迟 62 µs；提供 LangChain 中间件、OpenAI Agents/AutoGen/mem0/CrewAI 适配器、SecurityEvent 取证与快照回滚、AMSB 基准评分工具 amg-bench。pip 安装。
+OWASP 官方 Lab 项目，针对 ASI06（内存与上下文投毒）的参考实现：位于 agent 与其记忆存储之间，对每次写入运行检测器管道（提示注入、密钥/PII 泄漏、受保护键篡改、尺寸异常、自我强化循环），按 YAML 策略执行 allow/redact/quarantine/block，并输出结构化 SecurityEvent 支持取证与回滚。无需 API key、无外部调用、本地运行；提供 LangChain 中间件及 OpenAI Agents/AutoGen/mem0/CrewAI 集成示例，附带 amg-bench 基准工具。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ OWASP 官方 Lab 项目，作为 ASI06（记忆与上下文投毒）的参考实
 
 ## 能力要点
 
-- pip 安装、三行代码接入，无需 API key 与外部调用
-- 内置五类检测器，支持 SHA-256 完整性基线与 YAML 策略
-- LangChain 中间件覆盖模型输入/输出与工具输出
-- 自研 AMSB 基准并公开自身 D 级评分结果
+- 内存写入级检测管道与 YAML 策略（allow/redact/quarantine/block）
+- 无 API key、无外部调用，本地运行，中位延迟 62 µs
+- LangChain GuardedChatMessageHistory/Middleware 中间件与多框架集成
+- AMSB 框架中立基准，三方法适配器即可为任意记忆系统打分
 
 ## 适用场景
 
-- 为持久化记忆的 agent 加上防投毒写入检查
-- 给 LangChain agent 的输入输出与工具输出套上防护中间件
-- 用 amg-bench 给自己的记忆系统打弹性分
-- 导出 SecurityEvent 到 SIEM 做取证与合规映射
+- 为持久化记忆的 agent 加装内存投毒防线
+- 用 amg-bench 给自己的记忆系统做韧性评级
+- 通过 SecurityEvent 接入 SIEM 做审计取证
 
 ## 场景标签
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `baf16191e4f6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5e46503b7154` · [字段定义](../../DATASET.md)*

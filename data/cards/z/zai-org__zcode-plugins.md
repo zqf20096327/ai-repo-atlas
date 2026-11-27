@@ -2,9 +2,9 @@
 
 ⭐ 165 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/zai-org/zcode-plugins) · 组织维护 · 中文 README
 
-**ZCode 官方插件市场：浏览、安装与共建 ZCode 插件**
+**ZCode 的官方插件市场：浏览、安装与贡献插件**
 
-zai-org 维护的 ZCode 插件市场仓库，收录官方内置与社区插件：开发者工具类（CloudBase MCP、GitHub/GitLab/阿里云 CLI 工作流、安全护栏 mimosa）、生产力类（Blender MCP、video2code 网页复刻）、UI 插件（Excalidraw、OpenPencil 及九个 Craft 系列内嵌 Trunk/WASM 编辑器并接通 334 个上游 MCP 工具定义）以及十个金融插件（配路由 agent、领域技能与行情数据 MCP，多数需付费套餐）。README 提供插件清单、分类说明与源码构建（Node.js 24+/pnpm）流程，ZCode 客户端内可直接安装。
+ZCode 的官方插件市场仓库，收录 ZCode 官方维护与社区贡献的插件，涵盖开发者工具（CloudBase、GitHub、GitLab、阿里云 CLI）、办公协作 CLI（飞书、钉钉、企微）、UI 插件（Excalidraw、OpenPencil、九个 Craft 系列）与十个金融领域插件。ZCode 内置该市场，可在插件管理器中直接安装；源码开发需 Node.js 24+ 与 pnpm 10.33.2，UI 插件的 dist 构建产物不随仓库分发，需自行构建。许可为 Apache 2.0。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ zai-org 维护的 ZCode 插件市场仓库，收录官方内置与社区插件�
 
 ## 能力要点
 
-- 收录官方与社区插件并按 6 个 category 组织（developer-tools/finance 等）
-- 九个 Craft UI 插件内嵌固定版本 Trunk/WASM 编辑器，接通 334 个上游 MCP 工具定义
-- 十个金融插件各配路由 agent、领域技能与经 ZCode 主机鉴权的行情数据 MCP 服务器
-- UI 插件 dist 产物不入库，由发布流水线构建；源码开发用 Node.js 24+ 与 pnpm
+- 收录开发者工具、协作 CLI、UI 与金融四类插件
+- 九个 Craft 插件内嵌固定版本的 Trunk/WASM 编辑器，连接 334 个上游 MCP 工具定义
+- 金融插件通过 ZCode host 认证远程行情 MCP 服务器，无需配置数据商账户
+- 提供中文的贡献指南、分发格式与插件开发教程
 
 ## 适用场景
 
-- 在 ZCode 客户端里浏览并安装官方或社区插件
-- 按分类为开发、生产力或金融工作流挑选插件
-- 通过 PR 提交自己的插件到官方市场
-- 从源码构建插件并在本地市场测试
+- 在 ZCode 插件管理器中安装 GitHub/GitLab 等工作流插件
+- 为 ZCode 开发并注册自己的插件到本地市场
+- 使用金融插件做股票研究、基金筛选或月末结账复核
 
 ## 场景标签
 
- · 领域:开发者工具/AI 编码客户端生态
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: The official plugins marketplace for ZCode, featuring plugins maintained by ZCode and contributions from the communi
-> L20: |**cloudbase-skills**|`developer-tools`|CloudBase development skills and MCP integration for Web, Mini Program, dat
-> L56: corporate finance function. Each pairs one routing agent with domain skills and, except
+> L36: - `zcode-mcp-app-dev` `0.1.1`: Develop MCP Apps for ZCode with official SDKs and a small host-extension reference.
+> L48: These nine Craft plugins embed pinned Trunk/WASM editors, with workspace imports, saves and all 334 upstream MCP to
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `40c48560432c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `83e656e1556b` · [字段定义](../../DATASET.md)*

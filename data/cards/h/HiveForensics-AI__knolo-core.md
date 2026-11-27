@@ -2,9 +2,9 @@
 
 ⭐ 152 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/HiveForensics-AI/knolo-core) · [官网](https://knolo.org) · 组织维护
 
-**AI agent 间共享知识的开源框架：可验证的便携知识镜像**
+**让 AI agent 之间打包、验证并共享知识的框架**
 
-面向多 agent 系统的知识共享与运行时框架：将知识打包为自包含的 V5 Knowledge Image 文件，以摘要（digest）固定，其他 agent 可在本地挂载并对照 pin 校验完整性。提供确定性 CBOR 编码、域分隔 SHA-256 根、fail-closed 校验、有界 EQL 查询规划与结果回执，以及 V6 KAR 的最小证据集检索与 Committed Evidence Graph。不调用模型、不运行 agent，模型与网络由宿主应用负责。以 npm 包族（core/cli/mcp/tools 等）与 Rust 实现提供，V1-V4 工件可确定性迁移。
+Knolo 提供可移植的 Knowledge Image 容器：将源、分块、声明、元数据打包为自包含文件，以 SHA-256 摘要固定，通过 MCP 在本地挂载，查询返回收据与状态根用于完整性核验。V6 的 KAR 依据声明计划检索最小证据集，并提供可验证的证据图与 Cortex 追踪。框架自身不调用模型、不运行 agent，推理由宿主持有；以 npm 包、CLI、Rust/Python 验证器与 ICP canister 形式发布。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 知识打包为可校验的便携 Knowledge Image，按 digest 固定与挂载
-- 确定性 CBOR 编码、域分隔 SHA-256 根与 fail-closed 容器校验
-- KAR 最小证据集检索，评估可重放并输出覆盖报告
-- V1-V4 工件可验证后确定性迁移为 V5 创世镜像
+- Knowledge Image 容器：自包含、按摘要固定、可挂载可核验
+- KAR：按声明计划做确定性最小证据集检索，评估可重放
+- V1–V4 旧工件可验证后确定性迁移到 V5 映像
+- 提供 MCP 服务、LangChain/LlamaIndex/ai-sdk 集成与 CLI
 
 ## 适用场景
 
-- 让多个 AI agent 之间以可审计方式共享和复用知识库
-- 为 RAG/agent 应用提供可验证、可迁移的知识层基础设施
-- 对检索所依据的证据做完整性核验与溯源
+- 把 agent 的知识库打包为可迁移、可审计的文件在多个 agent 间共享
+- 对 agent 回答所依据的证据做可重放的检索与覆盖度评估
+- 在本地以确定性检索替代向量库构建知识层
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`Agent 框架` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L12: model, and it does not run the agent. The short guide is
-> L133: The boundary is intentional. Knolo owns the artifact, identity, evidence, roots, validation, deterministic plannin
+> L3: Knolo is the open framework AI agents use to share knowledge with one
+> L11: agent checks the mounted image against its pin. Knolo does not call a
+> L50: This is the strategic thesis behind Knolo: a trusted knowledge runtime can become shared infrastructure beneath man
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `74a7bc9521eb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `cd1825e668d3` · [字段定义](../../DATASET.md)*

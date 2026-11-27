@@ -2,9 +2,9 @@
 
 ⭐ 282 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/av/awesome-llm-services) · 个人维护
 
-**面向本地自托管 AI 场景的开源 LLM 服务清单（155+ 条）**
+**可自托管的 LLM 服务与工具清单（155+ 条目）**
 
-收录 155+ 个可自托管的开源 LLM 服务与工具，收录标准包括开源、可自托管、容器友好（Docker/Podman）、面向 homelab/个人 AI 场景且文档完备。条目按前端、后端等类别组织，附相关度评分（由星标流行度与 90 天半衰期的时效衰减合成的复合指标）。定期维护审查，移除已归档或长期无提交的项目，记录各项目仓库地址、许可与自托管指引。关联 harbor 仓库并维护 Discord。
+面向本地运行 AI 的用户维护的清单，收录 155+ 个开源、可自托管、对容器化友好的 LLM 服务、工具与基础设施，按 Frontends、Backends 等章节组织。每个条目附 GitHub 仓库链接、许可证、Star 数、issue 统计与最近更新日期，并给出 0–100% 相关度评分（由 Star 数与 90 天半衰期的时效衰减合成）。清单定期维护审查，移除已归档或一年以上无提交的项目。收录标准包括开源、可自托管、文档完善、面向 homelab/个人 AI 场景。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 155+ 条开源可自托管 LLM 服务，按前端/后端等类别组织
-- 相关度评分综合星标流行度与时效衰减（90 天半衰期）
-- 定期维护审查：检查许可、自托管说明并移除归档项目
-- 收录标准要求容器友好与文档完备
+- 收录 155+ 个可自托管 LLM 服务，含条目链接、许可证与活跃度指标
+- 0–100% 相关度评分：Star 对数与 90 天半衰期时效衰减的复合指标
+- 定期维护审查，移除归档与一年以上无提交的项目
+- 收录标准：开源、自托管、容器化友好、文档完善
 
 ## 适用场景
 
-- 为 homelab 或个人本地运行 AI 挑选自托管服务
-- 查找支持 Docker/Podman 部署的 LLM 前端与推理后端
-- 了解各开源 LLM 项目的活跃度与维护状态
+- 为 homelab 挑选可自托管的 LLM 前端与推理后端
+- 按活跃度和维护状态筛选本地 AI 项目
+- 了解本地 LLM 生态中前端/后端/工具的分类版图
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L9: A list of **155+** LLM services, tools, and infrastructure for running AI locally. Criteria for inclusion:
 > L16: Relevance score ( 0–100%): a composite metric of **Popularity** (logarithm of stars) and **Recency** (exponential d
-> L22: ## Contents
+> L18: Last maintenance review: **2026-11-11**. Project links, licensing, self-hosting instructions for new submissions, a
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `efe563343675` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1a51c1257d28` · [字段定义](../../DATASET.md)*

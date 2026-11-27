@@ -2,9 +2,9 @@
 
 ⭐ 167 · Kotlin · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/garfiec/Librechat-Mobile) · 个人维护
 
-**LibreChat 的第三方原生移动客户端（Android/iOS）**
+**LibreChat 原生 Android/iOS 移动客户端：手机端连接自建 AI 服务**
 
-名为 Switchboard 的第三方移动应用，基于 Kotlin Multiplatform 与 Compose Multiplatform 构建，连接任意自托管 LibreChat 服务器，无需后端改动。功能包括多账户多服务器登录、实时流式对话、消息分支、离线阅读与全量搜索、内联 Artifacts 渲染（Mermaid/SVG/HTML/React/Markdown）、Agents 与技能管理、端侧语音听写。Android 提供签名 APK（可经 Obtainium 更新），iOS 经 TestFlight 分发或侧载未签名 ipa。服务器端需在 .env 添加 NON_BROWSER_VIOLATION_SCORE=0 以避免封禁计分；官方声明非 LibreChat 项目关联方。
+将 LibreChat 网页应用重建为 Kotlin Multiplatform/Compose 原生移动应用，连接用户自有的 LibreChat 服务器使用。功能覆盖流式对话、消息分支、多账号多服务器切换、双模型并排对比、Agent 市场与 MCP 配置、内联 artifacts 渲染、定时聊天、离线缓存阅读与设备端语音听写。Android 通过 GitHub Releases APK、Obtainium、F-Droid、Google Play 分发，iOS 处于 TestFlight 公测；兼容服务端版本 v0.8.4–v0.8.9。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 连接任意自托管 LibreChat 服务器，无需后端修改
-- 多账户多服务器即时切换，聊天数据按账户隔离
-- 离线阅读与全量消息搜索，支持背景预取
-- 内联渲染 Mermaid/SVG/HTML/React/Markdown Artifacts，可固定到主屏幕（Android）
+- 原生移动应用，支持多账号多服务器即时切换
+- 双模型对比：同一消息同时发送到两个模型
+- Agent 市场与 MCP 服务器配置，技能创建与导入
+- 离线缓存会话列表与已读会话，支持后台预取
 
 ## 适用场景
 
-- 在手机上原生使用自托管的 LibreChat 服务
-- 多台服务器、多个账户间快速切换对话
-- 断网或弱网环境下继续阅读历史对话
+- 在手机上访问自己部署的 LibreChat 服务器与多模型对话
+- 在弱网或无网环境下继续阅读历史聊天记录
+- 对比两个模型的回答并排查看
+- 把模型生成的应用或图表固定到手机主屏幕
 
 ## 场景标签
 
-`聊天机器人` `AI 助手` · 领域:对话与助手
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L5: A third-party native mobile client for LibreChat (Android & iOS). Not affiliated with the official LibreChat project
-> L28: - **Chat** — Real-time streaming (SSE), message branching & sibling navigation, stop/regenerate/continue, markdown 
+> L5: All of LibreChat, built for Android and iOS. Switchboard keeps the experience you're used to while making it faster 
+> L37: - **Everything where you'd look for it** — your model, its settings, tools, and attachments sit together right wher
+> L51: - **Agents** — Marketplace with search and categories, MCP server configuration
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `a38f42c02dd4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `acb46b27eb58` · [字段定义](../../DATASET.md)*

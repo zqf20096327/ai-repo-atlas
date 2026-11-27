@@ -1,10 +1,10 @@
 # chipmates/agoracosmica
 
-⭐ 153 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chipmates/agoracosmica) · [官网](https://agoracosmica.org) · 组织维护
+⭐ 153 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chipmates/agoracosmica) · [官网](https://agoracosmica.org)
 
-**可与三十位历史人物对话的“活图书馆”Web应用**
+**面向学习者：可对话的30位历史人物语音故事图书馆（英/德）**
 
-面向教育与人文学科读者的非营利开源 Web 应用：三十位历史人物各含十二章有声生平故事、十二条教义对话及一个可实时问答的 AI Echo 回声角色，提供英德双语。免费层经 Cloudflare Worker 调用 Nebius 上的 DeepSeek V4 Pro（Qwen3-235B 兜底），也可用自有 OpenRouter key 或本地 OpenAI 兼容端点（LM Studio/Ollama/vLLM/llama.cpp）；语音用 Qwen3-TTS/faster-whisper。每章附事实核查面板区分史实与创作，接口按 WCAG 2.2 AA 设计，数据仅存浏览器 IndexedDB（AES-256-GCM 加密）。支持 Docker 自托管，内容受单独许可保护暂不可再分发。
+非营利开源的数字人文应用：30位历史人物、每人12章语音旁白生活故事（共360章，英语79小时/德语86小时），提供故事、Wisdom对话、Prism、Quest、Free Talk、Council六种格式。AI Echo 回答基于原始著作与历史语境，应用全程标注为AI生成，每章配 factcheck 区分史实与虚构。聊天功能已于2026年10月停止，代码保留待移除。支持 BYOK（OpenRouter）与本地 OpenAI 兼容端点；数据存于浏览器 IndexedDB 并以 AES-256-GCM 加密；界面目标 WCAG 2.2 AA。
 
 ## 筛选速览
 
@@ -13,33 +13,32 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 三十位历史人物 × 六种内容形式，含 360 章有声故事与实时 AI Echo 对话
-- 每章事实核查面板区分 documented/recreated 并附来源
-- BYOK：OpenRouter key 或任意 OpenAI 兼容本地端点，浏览器直连不经服务器
-- 自伤内容分级筛查、越狱模式拦截、X-AI-Generated 响应头标注 AI 身份
+- 30位历史人物、360章语音故事，英德双语，附 factcheck 史实/虚构分离面板
+- 支持自备 OpenRouter key 或指向任意 OpenAI 兼容本地端点（LM Studio/Ollama/vLLM/llama.cpp）
+- 浏览器端 AES-256-GCM 加密存储，无账号、无追踪 cookie，免费额度经 Cloudflare Worker 转发
+- 目标 WCAG 2.2 AA：键盘路径、屏幕阅读器标签、44px 触控目标
 
 ## 适用场景
 
-- 边听人物生平边向其 AI 回声提问的学习体验
-- 课堂教学中使用带来源事实核查的历史章节
-- 通过 Docker 自托管并接入本地模型，数据留在本机
+- 在课堂中使用带 factcheck 的历史人物章节与教学
+- 本地运行模型，让对话数据不出本机
+- 以无障碍方式收听历史人物生平故事
 
 ## 场景标签
 
-`聊天机器人` `语音合成` `语音识别` · 领域:对话与助手
+ · 领域:教育/数字人文
 
 ## 证据(README 行号)
 
-> L19: Thirty figures across 2,500 years. Each has twelve narrated chapters of their life, twelve teachings to talk throug
-> L25: The figures run from Laozi to Martin Luther King Jr. The voice that answers is an AI Echo, an interpretation ground
-> L77: The free tier is 30 messages a day per device. They pass through a Cloudflare Worker to DeepSeek V4 Pro at Nebius i
+> L27: The figures run from Laozi to Martin Luther King Jr. The voice that answers is an AI Echo, an interpretation ground
+> L121: The app on port 8080, with Kokoro for English speech and Whisper for transcription beside it. `--profile nvidia` a
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `f0cf7c33c210` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `fcf5c2df3b08` · [字段定义](../../DATASET.md)*

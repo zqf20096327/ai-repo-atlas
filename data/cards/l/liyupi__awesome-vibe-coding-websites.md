@@ -2,9 +2,9 @@
 
 ⭐ 340 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/liyupi/awesome-vibe-coding-websites) · [官网](https://vibefather.ai) · 个人维护 · 中文 README
 
-**AI 生成网站模板库：324 套模板附原始提示词与设计文档**
+**给网站开发者用的 AI 生成网站模板与提示词清单**
 
-收集 324 个由 13 个 AI 模型生成的原创网站模板与 678 个在线演示，每条附完整提示词与 DESIGN.md。用户替换变量后将提示词粘贴到 Claude Code、Cursor、Codex 等 AI 编码工具复现同类网站。按落地页、SaaS、作品集、电商、仪表盘等 10 个类别组织，并提供同提示词跨模型对比页面。前端使用 React、Tailwind CSS、Three.js、GSAP 等真实技术栈。许可为 CC BY-NC 4.0，仅限非商业用途。
+收录 324 个由 13 个 AI 模型生成的原创网站模板和 680 个在线演示，每个条目附构建它的完整提示词与 DESIGN.md 文件，用户可替换变量后粘贴到 AI 编码工具中生成同类网站。按落地页、SaaS、作品集、电商、仪表盘等类别组织，并提供同一提示词跨模型对比的章节；模板基于 React、Tailwind CSS、Three.js 等前端栈。许可证为 CC BY-NC 4.0，浏览入口为 VibeFather 平台。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 324 个模板均附生成所用确切提示词与 DESIGN.md
-- 按 10 个类别组织，支持按站点类型、风格或 AI 模型浏览
-- 提供同一提示词由不同模型生成的成对对比演示
-- 演示站点在 VibeFather 平台在线预览
+- 324 个模板均附精确提示词与 DESIGN.md
+- 680 个在线演示，按 10 个网站类别组织
+- 同提示词由不同模型构建的并排对比（24 组）
+- 模板使用 React/Tailwind/Motion/Three.js/GSAP 等真实前端栈
 
 ## 适用场景
 
-- 想用 AI 编码工具快速搭一个落地页或 SaaS 站点，找已验证的提示词起步
-- 对比不同 AI 模型在同一前端提示词下的产出差异
-- 为作品集、店铺或活动页挑选可复用的前端模板与设计文档
+- 找一个已验证可用的提示词来启动落地页/SaaS 站点项目
+- 对比不同 AI 模型处理同一前端提示词的输出差异
+- 为作品集、商店、仪表盘类网站挑选参考模板
 
 ## 场景标签
 
-`提示工程` `精选清单` `代码生成` · 领域:Agent 开发
+`精选清单` `代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L20: **Awesome Vibe Coding Websites** is a free, open library of 324 original vibe coding website templates and 678 live
-> L22: It's made for developers, designers, indie hackers and anyone who builds websites with AI. Browse by site type, sty
+> L9:  324 original website templates and 680 live demos built by AI coding agents — each with the exact prompt and a DESI
+> L20: **Awesome Vibe Coding Websites** is a free, open library of 324 original vibe coding website templates and 680 live
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `732f88731fa3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ed0c4f268186` · [字段定义](../../DATASET.md)*

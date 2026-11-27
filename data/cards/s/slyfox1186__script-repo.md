@@ -2,9 +2,9 @@
 
 ⭐ 139 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/slyfox1186/script-repo) · 个人维护
 
-**多语言系统管理脚本合集：Linux/Windows 软件安装与自动化**
+**面向 Windows/Linux 用户的自动化脚本集合仓库**
 
-个人维护的 Windows/Linux 脚本仓库，涵盖 AutoHotkey、Batch、PowerShell、Python 3、Bash、VBS、Windows Registry、XML 等语言。功能以系统安装与自动化为主：一条命令安装 GCC/Clang/OpenSSL/ImageMagick/FFmpeg/Rust/Aria2 等软件，配置 apt 镜像、定制 shell 环境、下载 deb 包、更新 WSL2 内核等。README 提供各脚本的 curl/bash 一键运行命令，脚本在 Arch、Debian 12、Ubuntu 22.04 上测试。README 内容未涉及主题标签中的 machine-learning 相关功能。
+个人脚本仓库，收录 AutoHotkey、Batch、PowerShell、Python、Bash、VBS、Windows Registry、XML 等多种语言的工具脚本，覆盖 Linux 环境下一键安装与源码编译 GCC/Clang/FFmpeg/ImageMagick/OpenSSL/Rust 等软件、apt 镜像配置、shell 环境定制、deb 包离线下载、WSL2 内核更新、媒体播放器与 GParted 安装等场景。经 Arch/Debian/Ubuntu 测试，脚本通过 curl 远程命令或 git clone 方式使用。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 8 种语言脚本，覆盖 Windows 与 Linux（Arch/Debian 12/Ubuntu 22.04 测试）
-- 一键式 curl|bash 安装 GCC、Clang、OpenSSL、ImageMagick、7-Zip 等
-- FFmpeg 源码编译脚本，可选包含 CUDA SDK 加速
-- apt 镜像加速、shell 环境定制、WSL2 内核更新等系统维护脚本
+- 覆盖 AHK/Batch/PowerShell/Python/Bash/VBS 等多语言脚本
+- Linux 一键构建菜单与批量构建 GitHub 脚本命令
+- 提供 GCC/Clang/FFmpeg/OpenSSL 等源码编译脚本
+- apt 镜像配置、shell 环境定制、WSL2 内核更新等系统维护脚本
 
 ## 适用场景
 
-- 在 Debian/Ubuntu 上从源码安装最新版编译器与工具链
-- 批量配置 Linux 系统环境（镜像、字体、终端、shell 配置）
-- 下载 deb 包做离线安装或备份
+- 在 Debian/Ubuntu 上一键安装或从源码编译常用开发工具
+- 配置 apt 镜像源并定制 bash 环境
+- 下载 deb 包用于离线安装或备份
+- 更新 WSL2 内核与扩展 GParted 文件系统支持
 
 ## 场景标签
 
- · 领域:系统管理/开发工具
+ · 领域:系统工具/自动化脚本
 
 ## 证据(README 行号)
 
-> L5: ## Included Languages and Technologies
+> L3: Welcome to Sly's Script Repository! This collection is dedicated to sharing my favorite scripts for both Windows and
 > L21: ### Purpose of This Repository
+> L30: ### Linux Build Menu
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `c82cbcc23717` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `c629e14962c5` · [字段定义](../../DATASET.md)*

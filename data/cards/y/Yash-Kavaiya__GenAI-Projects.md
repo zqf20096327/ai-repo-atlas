@@ -1,10 +1,10 @@
 # Yash-Kavaiya/GenAI-Projects
 
-⭐ 165 · 推送 2026-11-24 · [GitHub](https://github.com/Yash-Kavaiya/GenAI-Projects) · 个人维护
+⭐ 165 · 推送 2026-11-24 · [GitHub](https://github.com/Yash-Kavaiya/GenAI-Projects) · 个人维护 · 中文 README
 
-**个人生成式 AI 与 AI Agent 项目作品集目录（含演示与仓库链接）**
+**生成式 AI 与 AI Agent 项目作品集清单，含演示与仓库链接**
 
-个人维护的项目策展 README：收录约 60 个生成式 AI 与 Agent 项目，按 Projects Overview、AI Agents、生活娱乐、学习资源四节以表格组织，每条含描述、技术栈、Live Demo 与仓库链接。技术覆盖 Google Gemini、Vertex AI、Dialogflow CX/CCAI、Azure OpenAI、LangChain、RAG、多类前端后端栈。仓库本身不提供可安装运行的软件，条目通过外部仓库链接分发。
+个人维护的项目集合页面，以表格形式列出数十个生成式 AI 与 AI Agent 项目，覆盖客服、旅行、HR、法律、医疗、零售、直播等领域；每个条目记录项目描述、技术栈（Google ADK、Dialogflow CX、Gemini、Vertex AI、MCP 等）、Live Demo 链接与仓库/PPT 等资源链接。页面不提供统一安装步骤或运行说明，仅作项目索引与外部链接导航。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 约 60 个项目按 4 大类表格化编目，含技术栈与演示链接
-- 覆盖 Dialogflow/CCAI、Vertex AI、Google ADK、MCP 等 Google 系技术为主
-- 附学习资源节（课程笔记、ADK 教程、Dialogflow CX 教材）
+- 数十个生成式 AI 与 Agent 项目的表格索引
+- 每个条目附技术栈、Demo 链接与仓库链接
+- 技术栈覆盖 Google ADK、Dialogflow CX、Vertex AI、Gemini、MCP、NVIDIA NeMo 等
 
 ## 适用场景
 
-- 浏览个人 GenAI/Agent 项目以了解技术栈与实践案例
-- 按类别查找 Dialogflow CX / RAG / 多 Agent 参考项目
-- 获取 Google Cloud CX 与 Agent Development Kit 学习资源
+- 查找某个领域的 AI Agent 项目示例及源码入口
+- 按 Demo 链接试运行项目的在线版本
+- 了解 Google ADK / Dialogflow 等技术栈在各类项目中的组合方式
 
 ## 场景标签
 
@@ -37,8 +37,7 @@
 ## 证据(README 行号)
 
 > L3: ## 📊 Projects Overview
-> L40: ## 🤖 AI Agents
-> L79: ## 📚 Notes & Learning Resources
+> L5: Here's a comprehensive list of my generative AI projects, complete with technologies used and demonstration links.
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b1c9517f20fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `171134f9202b` · [字段定义](../../DATASET.md)*

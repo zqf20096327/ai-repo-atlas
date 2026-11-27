@@ -2,9 +2,9 @@
 
 ⭐ 209 · JavaScript · CC0-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/majiayu000/awesome-grok-bot) · [官网](https://majiayu000.github.io/awesome-grok-bot/) · 个人维护 · 中文 README
 
-**面向 Grok Bot 用户的公开分享页可检索目录**
+**Grok Bot 公开分享页的可检索目录：找实例并一键添加**
 
-非官方、社区维护的 x.ai/bot 公开分享页（live shares）双语目录，按 Coding、内容发布、个人事务等 9 类收录 8,181 条分享页，每日增量更新并记录链接可用性检查结果。用户在 x.ai 上打开分享页后点击 Add 导入；分享页复制名称、技能、例程等配方内容，不复制凭据、API key 与私有记忆。提供按类别与 shelf 过滤的可检索站点及 field cases 汇编。目录声明 0 verified / 8181 listed，验证为单独维护者标志。
+社区维护的非官方双语目录，索引 x.ai/bot 上的公开 live share 页面，截至快照日收录 8,213 条、0 条已验证。条目按职业类别（编码、收件箱、研究、内容、个人事务等 8 类）分组，提供 catalog.json 中的 shelf 编辑导航与 featured 精选清单，另附真实使用案例与多机器人编队写up。目录不托管 Bot 本体：用户需在 Mac/Windows/iPhone 安装 Grok Bot 后打开分享页点击 Add；share 复制名称、技能、例程与工作流记忆，不含凭据、API key 与自定义 MCP。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录 8,181 条公开 Grok Bot 分享页，按 9 个工作类别组织
-- 双语（English · 中文）目录，提供可检索站点按类别与 shelf 过滤
-- 每日增量收录并记录各批次链接 HTTP 200 检查结果
-- 整理多方公开的真实运行案例（rosters 与 computer-use 案例）
+- 索引 8,213 条公开 live share 页，按 8 个职业类别分组
+- 双语（英文/中文）目录，提供可过滤检索站点
+- featured 精选清单按账号要求与首个任务对比呈现
+- 收录真实使用案例与多 Bot 编队（rosters）公开写up
 
 ## 适用场景
 
-- 为 Grok Bot 找可一键导入的现成分享模板
-- 按工作类别浏览他人搭建的 bot 编排方式
-- 阅读真实运行案例了解 bot 团队配置
+- 为 Grok Bot 找现成的分享模板并一键添加
+- 按职业场景浏览别人如何用 Bot 处理邮件、运营、记账等事务
+- 参考多机器人编队案例搭建自己的 Bot 团队
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L19: Grok Bot is an always-on AI teammate on a shared cloud computer. This bilingual catalog indexes public **live share
-> L21: > Unofficial, community-maintained catalog. Not affiliated with or endorsed by xAI. Grok is a trademark of xAI.
+> L68: `shelf` in catalog.json is editorial navigation (featured, solid, studio-door, aka, raw). Reachable is not the same
 > L76: |Category|Listed|
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `930adff4e54f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `09a12353d314` · [字段定义](../../DATASET.md)*

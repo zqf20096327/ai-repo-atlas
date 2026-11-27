@@ -2,9 +2,9 @@
 
 ⭐ 160 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/qdrant/page-search) · 组织维护
 
-**为网站/文档提供毫秒级语义搜索的服务（Python 与 Rust 双实现）**
+**Qdrant 官方文档站的语义搜索服务**
 
-由 Qdrant 团队维护的网页语义搜索服务，含 Python 与 Rust 两个实现：均接入 Qdrant 向量搜索引擎，使用 Hugging Face 的 all-MiniLM-L6-v2 模型生成嵌入。Python 版在输入不足 4 字符时退化为文本搜索，Rust 版始终执行完整语义搜索；两者均暴露相同的 GET /api/search 端点，支持 q 检索词与可选的 section 参数按页面分区过滤。该代码用于驱动 Qdrant 官方文档站的搜索框。README 未给出安装运行命令，细节位于 dev-docs.md 与 rust_search 的 README 中。
+驱动 qdrant.tech 搜索框的服务与索引器集合：Rust 编写的 service 从 Qdrant collection 响应搜索请求，Python/Rust 索引器每夜抓取 qdrant.tech 与 skills.qdrant.tech 内容并写入 collection。提供文档搜索、供 agent 使用的 Markdown 页面 /md、技能与代码示例搜索，以及文档 MCP 服务器 /mcp，在线运行于 search.qdrant.tech。六个 collection 分别支撑站点搜索、短查询前缀缓存、页面/章节/技能/代码片段检索。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- Python 与 Rust 双实现，共用 GET /api/search 端点
-- 使用 all-MiniLM-L6-v2 模型生成嵌入，Qdrant 执行向量检索
-- section 参数支持按页面分区过滤搜索结果
-- 已用于驱动 Qdrant 官方文档站搜索
+- 文档搜索 API 与 docs MCP 服务器（/mcp）
+- 供 agent 使用的 Markdown 页面端点 /md
+- 每夜自动抓取与重建索引的 workflow
+- 覆盖站点、章节、页面、技能、代码片段六类 collection
 
 ## 适用场景
 
-- 为文档站或文章类网站添加语义搜索框
-- 在短查询与语义检索间切换的站内搜索场景
+- 在 Qdrant 文档站内做语义搜索
+- 让 agent 通过 /md 或 MCP 读取文档内容
+- 检索代码示例与技能片段
 
 ## 场景标签
 
@@ -36,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: Both the python and Rust version contain a service that is able to use a Qdrant vector search engine to do a semanti
-> L7: Both versions use the all-MiniLM-L6-v2 model made available by Hugging Face for embedding, and Qdrant for searching.
+> L3: The search behind qdrant.tech: the search box of the
+> L5: search, and a docs MCP server at `/mcp`. It runs at `https://search.qdrant.tech`.
+> L9: - **The service**, in Rust, in `service`. It answers every
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `13ad59d2941f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `7f335f1bbc75` · [字段定义](../../DATASET.md)*

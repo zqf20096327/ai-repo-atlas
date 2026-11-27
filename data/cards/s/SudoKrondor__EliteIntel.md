@@ -1,17 +1,17 @@
 # SudoKrondor/EliteIntel
 
-⭐ 151 · Java · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SudoKrondor/EliteIntel) · 个人维护
+⭐ 151 · Java · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SudoKrondor/EliteIntel) · 组织维护
 
-**Elite Dangerous 游戏的 LLM 助手与数据分析工具**
+**给 Elite Dangerous 玩家的 AI 语音副驾驶与数据分析助手**
 
-面向 Elite Dangerous 玩家的桌面辅助应用：集成 LLM 作为游戏侧助手（side-kick），提供数据分析与问答等 QoL 功能，V1.1 支持多语言。LLM 后端两种方式：本地 LLM（免费离线，需 GPU 硬件并参照官方文档安装）或云端 LLM 服务；应用本身可 100% 离线运行。提供 Linux 与 Windows 安装器，采用 CC0 1.0 许可，社区通过 GitHub Issues 与 Matrix 联系。
+面向 Elite Dangerous 玩家的语音助手：用户以自然语言对话，由 AI 解析并执行飞船系统操作、航线规划、贸易、探索、外星生物学与殖民任务，并基于游戏日志及 Spansh/EDSM/EDDN 实时数据输出配置与信号分析。语音识别用 Parakeet，语音用 Supertonic-3，语言模型必须配置：本地 LM Studio（需 GPU）或云服务 API key。支持 Windows 与 Linux，附 BindForge 按键管理、HUD 覆盖层、音乐播放与多语言。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | MIT |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,23 +20,25 @@
 
 ## 能力要点
 
-- Linux 与 Windows 安装器，可 100% 离线运行
-- 支持本地 LLM（免费离线，需 GPU）或云端 LLM 两种接入方式
-- V1.1 支持多语言
+- 自然语音输入，无需记忆命令或语法，AI 解析意图并执行
+- 本地离线管线：Parakeet 语音识别 + LM Studio 本地 LLM + Supertonic-3 语音
+- 基于游戏日志与 Spansh/EDSM/EDDN 实时数据做载荷与信号分析
+- BindForge 按键绑定编辑与备份（键盘/鼠标/HOTAS/踏板）
 
 ## 适用场景
 
-- 游玩 Elite Dangerous 时用 LLM 助手查询信息
-- 离线环境下使用本地 LLM 获得游戏辅助功能
+- 飞行中用语音操控飞船系统并规划航线
+- 分析当前舰船配置与星系信号
+- 离线运行本地模型，每艘船配不同语音与人格
 
 ## 场景标签
 
-`AI 助手` `数据分析` · 领域:效率与自动化
+`语音 Agent` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3: # Elite Intel - V1.1 (Multi lingual)
-> L7: Can be run 100% off-line or with various cloud services
+> L3: **AI voice assistant for Elite Dangerous.** Speak naturally, fly better.
+> L13: The whole pipeline can run offline on your own PC: Parakeet speech recognition, a local language model in LM Studio
 
 ## 星数曲线
 
@@ -52,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `c576a3c9e61f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `323b51cdf9db` · [字段定义](../../DATASET.md)*

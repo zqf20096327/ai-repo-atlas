@@ -2,9 +2,9 @@
 
 ⭐ 162 · Ruby · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/lalabase/lalabase) · [官网](https://lalabase.com) · 组织维护
 
-**自托管的项目管理系统：工单/计时/文档/会议，AI 助手带出处引用**
+**自托管客户项目协作空间，AI 助手回答带出处**
 
-面向软件代理商、自由职业者与小软件公司的自托管项目管理工具：客户与项目管理、自定义工单看板/列表、按工单计费的多段时间记录、项目文档（可挂接 GitHub/GitLab 仓库目录）、带转录与 AI 摘要的会议记录。AI 助手可跨工单、文档、计时与会议回答问题并引用来源；提供商可选 OpenAI、Anthropic、Vertex AI、Mistral 等，且默认关闭。基于 Rails 8.1 与 PostgreSQL(pgvector)，通过 Docker Compose 自托管，亦提供德国托管的云服务。提供 MCP server 与 REST API 供 Claude、Cursor 等 agent 接入。AGPL-3.0-only 许可。
+面向软件机构、自由职业者和小型软件公司的自托管项目管理平台，覆盖客户与项目组织、任务看板、工时记账、文档（可对接 GitHub/GitLab 目录）、会议转录与摘要。AI 助手基于自身项目数据回答问题并引用票据、会议等来源，默认关闭，由管理员选择模型提供方。提供 MCP server 与 REST API、macOS/Linux 终端 CLI。通过 Docker Compose 自托管，另有德国托管的云版本。
 
 ## 筛选速览
 
@@ -13,32 +13,34 @@
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- AI 助手回答项目数据问题并引用来源，支持多种 LLM 提供商（含自托管端点）
-- 会议转录、AI 摘要与后续任务生成
-- MCP server 与 REST API 可接入 Claude/Cursor 等 agent 操作工单与知识库
-- Docker Compose 一键自托管（含 PostgreSQL/pgvector、Valkey、Caddy）
+- AI 助手跨票据、文档、工时、会议回答并引用来源，默认关闭可自选提供方
+- 支持 OpenAI 兼容端点，可用内网自有模型
+- MCP server 与 REST API 可接入 Claude、Cursor 等客户端
+- 自带工时记账、会议转录与任务看板
 
 ## 适用场景
 
-- 软件团队把工单、文档、计时和会议记录集中在一个自托管系统里
-- 让 AI 助手基于自己项目数据回答问题并核验出处
-- 客户通过独立访问查看各自项目进展
+- 软件机构与客户共享项目空间，管理需求、票据与文档
+- 按票据记账并导出开票工时
+- 让 AI 助手基于自有项目数据回答问题并核验出处
+- 通过 CLI 或 MCP 在终端处理票据与对接 agent
 
 ## 场景标签
 
-`知识库管理` `文档问答` · 领域:知识与检索
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L53: - **AI assistant.** One question across tickets, docs, time and meetings, or about the one ticket
-> L13: Tickets, time tracking, docs and meetings for software agencies and their clients, with an AI
+> L14: tickets, docs and time tracking, with an AI assistant that answers from your own project data and
+> L55: - **AI assistant.** One question across tickets, docs, time and meetings, or about the one ticket
+> L57: - **Your data, your AI.** The AI stays off until you switch it on. Then you pick the provider:
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `87bb72610b1c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `fc79db2538c6` · [字段定义](../../DATASET.md)*

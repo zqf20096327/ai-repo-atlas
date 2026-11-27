@@ -2,15 +2,15 @@
 
 ⭐ 156 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/fengzhizi715/YoloWebAgentStarter) · 个人维护 · 中文 README
 
-**本地单用户 YOLO 数据集工作台：标注、训练、评估加 AI 助手**
+**本地单用户 YOLO 数据集标注训练评估工作台，带智能助手**
 
-面向本地单用户的 YOLO 数据集闭环工具：支持 detect/segment/OBB/classify 四类任务的图片与视频抽帧导入、人工标注、数据校验、YOLO/COCO 格式交换、CPU/MPS/CUDA（含多 GPU DDP）本地训练、原生 Ultralytics val 评估与受管模型产物（PT/ONNX）。附带四种 Agent 助手模式，写操作须人工确认；默认使用本地 Mock/规则规划，可配置 Chat Completions 兼容接口接入真实 LLM。数据默认留在本机，不提供认证与多租户。另有商业版本可咨询。
+面向本地单用户的 YOLO 数据集闭环工具：覆盖图片/视频帧导入、detect/segment/OBB/classify 四类任务的人工标注、数据校验、YOLO/COCO 互换、本地训练（CPU/MPS/CUDA，多卡走 Ultralytics DDP）、原生 val 评估与受管 PT/ONNX 产物管理。内置 Agent MVP 提供综合/数据集/训练/模型四种助手模式，默认本地 Mock/规则规划，可接入 OpenAI 兼容接口，写操作须人工确认。限制：仅 macOS/Linux、单用户、无认证与云训练，自动标注结果须人工审核。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- detect/segment/OBB/classify 四任务的标注、本地训练与原生 val 评估闭环
-- Agent MVP：四种助手模式共享执行器，写操作须人工确认
-- SAM 框选/点选分割建议，需用户确认后保存
-- 默认监听 127.0.0.1，数据、数据库与产物保留在本机
+- detect/segment/OBB/classify 四任务的标注、交换、训练与原生评估闭环
+- SAM 框/点提示的 segment 建议，建议须经用户确认后保存
+- Agent MVP 四种助手模式：只读证据查询，写操作人工确认后提交任务
+- 默认仅监听 127.0.0.1，数据、模型与日志保留在本机
 
 ## 适用场景
 
-- 在本机完成 YOLO 数据集的标注、训练与评估全流程
-- 用本地自动标注任务（受管 PT）加速预标注，再人工审核
-- 通过 AI 助手查询数据集状态、诊断训练失败、生成模型可比性报告
-- 导出 YOLO/COCO 格式与其他工具交换数据
+- 在本机完成 YOLO 数据集的标注、校验与训练准备
+- 训练后对比同数据集多个模型的可比性并审阅错误样本
+- 用受管 PT 对新图片做自动标注并人工审核
+- 通过对话式助手诊断训练失败原因
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L5: YoloWebAgentStarter 是面向本地单用户的 YOLO 数据集工作台：完成图片/视频帧导入、人工标注、数据校验、YOLO/COCO 交换、本地训练、原生 YOLO 评估和受管模型产物的一条轻量闭环，并提供基于工具证据的
-> L11: - 在本机完成 detect、segment、OBB 和 classify 数据集的标注与训练准备。
-> L15: - 训练页可选择 CPU、MPS、单张 CUDA GPU 或多张 CUDA GPU；本地多 GPU 使用 Ultralytics DDP。
+> L22: - Agent MVP：内置综合、数据集、训练、模型四种助手模式，共享执行器；提供训练准备、失败诊断与模型可比性报告。写操作须人工确认后才提交现有受管任务，不自动串联下一步。支持对象绑定会话、异步进度、取消及保留原模式与权限的重试
+> L39: |Agent MVP|四种内置助手模式、对象绑定会话、只读问答与诊断报告；人工确认后提交训练/评估/自动标注任务；异步运行、取消、重试、逐轮证据与推理来源；会话和消息分页、服务端会话搜索；LLM 设置保存到 `settings.j
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `66012b233998` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `438eccdb1607` · [字段定义](../../DATASET.md)*

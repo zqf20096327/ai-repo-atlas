@@ -2,9 +2,9 @@
 
 ⭐ 147 · Go · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/jaykwok/ARTEX) · 个人维护 · 中文 README
 
-**LLM 多 agent 驱动的自主渗透测试系统（Go+Next.js）**
+**给渗透测试者的 LLM 多 agent 自主渗透测试系统**
 
-基于原版 Autumn-27/ARTEX v0.3.15（e6ec569）的自维护修改版。Go 单体后端内嵌 Next.js 前端与 SQLite，由 planner/worker 多 agent 通过双图架构（全局共享资产图 + 每任务探索图）自主执行渗透任务，含探索链路可视化、流量录制、人在环路对话、拦截审批与漏洞复测。v1.0.0 起的修改包括：数据库改内嵌 SQLite（免装 PostgreSQL）、移除资产拦截功能、移除登录前免责声明弹窗等；不提供原 PostgreSQL 数据迁移。探索需配置 ANTHROPIC_API_KEY 或 OPENAI_API_KEY。提供一键脚本、Docker Compose、预编译二进制、源码编译四种安装方式。
+Go 单体后端内嵌 Next.js 前端的 AI 自主渗透测试系统，本仓库为原版 Autumn-27/ARTEX v0.3.15 的自维护修改版，v1.0.0 起独立发布。核心机制包括探索图与资产图双图架构、planner 多轮共享 todolist、worker 间执行过程检索、人在环路审批门与记录型 MITM 代理。业务库改为内嵌 SQLite，无需安装数据库服务；运行需配置 LLM API Key（Anthropic 或 OpenAI）。支持页面一键更新与自动回滚。原版使用 PostgreSQL，本版不提供旧数据迁移。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 双图架构：全局资产图与每任务探索图经锚点相连，支撑资产覆盖度展示
-- planner 共享 todolist 按依赖逐步派发多步攻击链意图
-- worker 间过程级信息交换（跨 work 检索执行过程）
-- 数据库内嵌 SQLite，无需安装数据库服务，编译为单二进制
+- 双图架构：全局共享资产图 + 每任务独立探索图，锚点相连支撑覆盖图
+- planner 多轮共享 todolist 与 worker 跨 work 过程检索机制
+- SQLite 内嵌单二进制，提供预编译包/Docker/源码等多种部署方式
+- 页面一键更新，含 SHA256 校验、冒烟测试与失败自动回滚
 
 ## 适用场景
 
-- 授权范围内对目标资产进行多 agent 自动化渗透测试
-- 跟踪任务探索链路、资产覆盖度与漏洞发现过程
-- 对已发现漏洞发起独立 Agent 会话手动复测
-- 从 ScopeSentry 同步资产数据进入资产图供 agent 探索
+- 对授权目标发起自主多步渗透探索并留存血缘链路
+- 通过 ScopeSentry 同步资产后由 agent 探索测试
+- 漏洞修复后发起独立复测 agent 会话并自动更新处置状态
 
 ## 场景标签
 
@@ -39,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: AI 自主渗透测试系统（Go 后端 + Next.js 前端）
-> L301: ARTEX 是一套 **LLM 多 agent 驱动的自主渗透系统**：Go 单体后端（内嵌 Next.js 前端）+ SQLite，agent 能力由 `norma` SDK 提供（`agentcore` / `tool` /
+> L302: ARTEX 是一套 **LLM 多 agent 驱动的自主渗透系统**：Go 单体后端（内嵌 Next.js 前端）+ SQLite，agent 能力由 `norma` SDK 提供（`agentcore` / `tool` /
+> L327: - **探索图（Exploration Graph，每任务独立）**：一次任务的“思考与推进”过程。节点为 `goal（目标）/ intent（意图）/ fact（事实）/ finding（漏洞）/ hint（提示）`，靠 `s
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 high · 依据 README sha `a6d348b0027c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4f07214f0cdd` · [字段定义](../../DATASET.md)*

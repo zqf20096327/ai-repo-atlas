@@ -2,9 +2,9 @@
 
 ⭐ 141 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/paid-media-agent) · 组织维护
 
-**跨渠道广告代理：分析 Google/Meta 等广告效果并生成报告**
+**部署到 Slack 的广告投放分析 Agent，覆盖多平台报表与预算变更审批**
 
-基于 Deep Agents 构建的付费广告代理，面向运营广告账户的团队：连接 Google Ads、Meta Ads、Reddit、LinkedIn、X Ads、OpenAI Ads 等平台，在 Slack 或终端回答投放问题、生成含图表的周/月报告（HTML/PDF），并准备待审批的投放变更。模型决定调查路径，指标由代码计算并核对数据；实时账户变更默认关闭，启用需写策略与授权审批。通过 Managed Deep Agents 托管部署（付费）或 Docker 自托管，要求 Python 3.11+ 与 uv。
+基于 Deep Agents 构建的付费媒体分析 agent，部署到团队 Slack 后可通过对话查询广告账户变化：对比 Google/Meta/LinkedIn/TikTok/Reddit/X 等平台的广告活动表现（花费、转化、单线索成本、ROAS），按周/月发送 HTML 报告，并起草预算或状态变更供人工审批。模型决定调查方向，代码计算所有指标并与源数据核对；实时写操作默认关闭，需审批策略、发布检查与授权人批准。依赖 LangSmith 账户、模型 key 和 Pipeboard token；可本地演示（无需 key）、Managed Deep Agents 部署或 Docker 自托管。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 接入 10 个广告/分析平台（Pipeboard MCP + 直连只读适配器）
-- 生成含图表与建议的周/月报告，代码核对报告数字与源数据
-- 变更提案默认不执行，启用需写策略、发布检查与授权审批
-- 无需模型密钥或广告账户即可运行离线演示
+- 多平台广告活动对比与异动归因，缺失数据不按零处理
+- 周/月定时报告以 HTML 渲染（自托管含 WeasyPrint 可出 PDF）
+- 变更需对具体提案的持久化审批，支持 kill switch
+- 后台异步只读 subagent 按任务选择模型，可预约回访检查
 
 ## 适用场景
 
-- 跨平台对比广告花费、转化与单位成本表现
-- 定位投放指标变化背后的具体广告系列
-- 按周/月自动生成可下载的投放报告并推送到 Slack
-- 提出广告变更提案并走审批流程后执行
+- 在 Slack 里询问广告账户上周哪些变化及其原因
+- 自动向团队频道发送周报/月报与图表
+- 起草预算调整提案并走人工审批流程
+- 对合成账户做无 key 的本地演示与开发定制
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L7:  Paid Media Agent
-> L21: Paid Media Agent helps you understand what changed across your ad accounts and decide what to do
-> L22: next. Ask questions in Slack or the terminal, generate performance reports, and prepare campaign
+> L8:  A paid-media analyst for your team's Slack. Built on Deep Agents. Deploys with Managed Deep Agents.
+> L26: **Ask it in Slack what changed across your ad accounts, and what to do about it.** Paid Media
+> L101: Paid Media Agent is a Deep Agents agent deployed on
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `036d7a73cb8f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f47b00bc59df` · [字段定义](../../DATASET.md)*

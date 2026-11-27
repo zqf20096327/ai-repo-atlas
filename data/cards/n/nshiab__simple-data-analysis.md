@@ -2,9 +2,9 @@
 
 ⭐ 359 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nshiab/simple-data-analysis) · [官网](https://nshiab.github.io/simple-data-analysis/) · 个人维护
 
-**面向数据工作者的 TypeScript 数据分析库（基于 DuckDB）**
+**给数据记者和 JS 开发者的 DuckDB 数据分析库，内置 AI 方法**
 
-基于 DuckDB 的 TypeScript 库，提供表格分析、地理空间分析、网络图分析、向量相似度检索、图表输出（终端图表与 Observable Plot 图像）等方法，运行于 Node.js。扩展包在核心之上加入 AI 方法（逐行处理、嵌入、混合检索、RAG、自然语言查询）、Google Sheets/Cloud Storage 集成，AI 能力来自 journalism-ai 库，响应与嵌入默认本地缓存。由 CBC News 计算记者维护，附免费数据分析课程。
+基于 DuckDB 的 TypeScript 库，运行于 Node.js，支持表格、地理空间、向量相似度分析及 AI 方法（逐行 LLM 处理、嵌入生成、RAG、自然语言查询），另含 Google Sheets/Cloud Storage 集成与图表/地图导出。核心变换按队列融合为单条 DuckDB 语句以减少往返。AI 能力通过 .env 配置接入 Gemini/Vertex AI 或本地 Ollama，LLM 响应与嵌入默认缓存。面向数据新闻与 JavaScript 生态的数据分析场景；提供 npm 安装与免费配套课程。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 核心操作队列化并融合为单条 DuckDB 语句以减少往返
-- 支持 Gemini API、Vertex AI 与本地 Ollama 三种 AI 后端配置
-- loadStatCanData/loadOpenStreetMap 直接读取公共数据源并本地缓存
-- aiRowByRow 并发处理并记录行级错误，支持 retry/retryCheck
+- 核心操作队列化并融合为单条 DuckDB 语句，减少数据库往返
+- aiRowByRow 支持并发逐行 LLM 结构化富集，可记录行级错误与重试
+- AI/Gemini/Ollama 依赖按需懒加载，仅用核心方法时无额外启动成本
+- LLM 响应与嵌入缓存在本地隐藏目录，避免重复调用
 
 ## 适用场景
 
-- 在 JS/TS 中完成数据清洗、汇总与地理空间分析
-- 用 LLM 对表格逐行做分类、抽取与数据富化
-- 生成文本嵌入并做聚类与语义搜索
-- 为新闻数据项目生成图表与地图
+- 数据新闻项目中用 TypeScript 完成数据处理到可视化全流程
+- 对表格列批量调用 LLM 做清洗、抽取、分类与富集
+- 生成文本嵌入做语义搜索与聚类
+- 直接加载加拿大统计局和 OpenStreetMap 公共数据
 
 ## 场景标签
 
-`数据分析` `语义搜索` `教程课程` · 领域:效率与自动化
+`数据分析` `语义搜索` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L7: SDA is a fast and easy-to-use TypeScript library for tabular, geospatial,
 > L33: - **`simple-data-analysis`** (this package) extends the core with additional
-> L258: SDA can use LLMs and embedding models to enrich data, search text, and answer
+> L282: SDA can use LLMs and embedding models to enrich data, search text, and answer
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d3da84985d02` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `37271af08e48` · [字段定义](../../DATASET.md)*

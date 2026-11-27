@@ -2,9 +2,9 @@
 
 ⭐ 188 · TypeScript · 推送 2026-11-04 · [GitHub](https://github.com/microblink/blinkid-react-native) · 组织维护
 
-**React Native 证件扫描插件：封装 BlinkID SDK 做 ID 识别**
+**React Native 应用中的身份证件扫描插件**
 
-Microblink 官方的 React Native 插件，封装原生 BlinkID SDK 与 BlinkID UX 模块，为跨平台 App 提供证件扫描：摄像头扫描（performScan）与静态图片 Base64 识别（performDirectApiScan），支持条码、MRZ、VIZ、文档拍摄四个可配置模块，以及按国家/地区/证件类型的过滤与结果脱敏（redaction，四种模式）。初始化需有效 license key，可在 Developer Hub 免费申请试用。要求 iOS 16.0+、Android API 24+，在 React Native 0.82.x 构建测试。
+Microblink BlinkID SDK 的 React Native 封装，为跨平台应用提供证件扫描能力：支持相机实时扫描（默认 UX）与从静态 Base64 图片提取的 DirectAPI 两条路径，可配置文档捕获、条码、MRZ、VIZ 模块，支持按国家/地区/证件类型过滤与脱敏（redaction）规则。初始化需在 Microblink Developer Hub 注册获取许可证密钥。插件为开源封装，原生 SDK 以预编译框架/AAR 形式分发；README 注明要完整功能需使用原生 SDK。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Microblink 官方的 React Native 插件，封装原生 BlinkID SDK 与 BlinkID 
 
 ## 能力要点
 
-- 摄像头扫描与 DirectAPI 静态图片识别两种扫描方式
-- 条码/MRZ/VIZ/文档拍摄四个可配置扫描模块
-- 按国家、地区、证件类型的 class 过滤与四种 redaction 脱敏模式
-- SDK 预加载（loadBlinkIdSdk）与自动卸载、资源缓存管理
+- 相机扫描与静态图片 DirectAPI 两种扫描方式
+- 文档捕获、条码、MRZ、VIZ 四个可独立开关的扫描模块
+- 按国家/地区/证件类型的类别过滤与四种脱敏模式
+- Android/iOS 双平台，附带示例应用与初始化脚本
 
 ## 适用场景
 
-- 在 React Native App 中加入证件扫描完成 KYC/实名流程
-- 从相册图片提取证件信息（单面/双面识别）
-- 对扫描结果做字段级脱敏以满足隐私合规
+- 在金融类 App 的 KYC 流程中扫描身份证件
+- 用户注册/入驻流程中采集证件信息
+- 从相册图片中提取已拍证件的文字字段
 
 ## 场景标签
 
-`OCR` `文档解析` · 领域:知识与检索
+`文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L5: The BlinkID SDK is a comprehensive solution for implementing secure document scanning in React Native cross-platform
-> L43: 2. **Multiside DirectAPI scanning** — extracting document information from two static images (from the gallery).
+> L6: It offers powerful capabilities for capturing and analyzing a wide range of identification documents. The React Nati
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bb45c897be67` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `758ce65b4f9a` · [字段定义](../../DATASET.md)*

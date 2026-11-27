@@ -2,9 +2,9 @@
 
 ⭐ 237 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/e3nn/e3nn-jax) · 组织维护
 
-**JAX 实现的 E(3) 等变神经网络库**
+**基于 JAX 的 E3 等变神经网络库**
 
-e3nn 的 JAX 版本库，提供三维欧几里得群等变神经网络构建模块，用于处理 3D 点云等旋转平移等变任务。与 PyTorch 版本的主要差异是引入 IrrepsArray 类，将不可约表示与数据数组绑定在一起。README 给出基于 MACE 模型在 RTX A5000 上的训练速度对比，并提示查阅 CHANGELOG 关注破坏性变更。通过 pip 安装发布版或 GitHub 源码版。
+e3nn 的 JAX 实现，提供构建 E(3) 等变神经网络的组件库；核心数据结构为 IrrepsArray，将不可约表示（Irreps）与数据数组一同携带，用于处理具有旋转/平移等变性的 3D 数据。通过 pip 从 PyPI 或 GitHub 源安装，提供在线文档，接受社区提问于 discussions 区，并给出引用文献条目。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@ e3nn 的 JAX 版本库，提供三维欧几里得群等变神经网络构建模�
 
 ## 能力要点
 
-- 提供 E(3) 等变神经网络构建模块的 JAX 实现
-- IrrepsArray 类将 irreps 与数据数组绑定
-- 提供 pip 安装发布版与 GitHub 源码版两种途径
+- 提供 IrrepsArray 数据结构（不可约表示 + 数据数组）
+- 支持旋转与平移等变神经网络计算
+- 提供 PyPI 与 GitHub 源码两种安装方式
+- 提供在线文档与 CHANGELOG 跟踪破坏性变更
 
 ## 适用场景
 
-- 构建处理 3D 点云的旋转平移等变模型
-- 在 JAX 生态中复用 e3nn 的等变层
-- 科学计算中需要等变性约束的神经网络研究
+- 构建处理 3D 点云的等变神经网络
+- 在 JAX 生态中开发具有旋转等变性的科学计算模型
+- 迁移已有 PyTorch 版 e3nn 项目到 JAX
 
 ## 场景标签
 
- · 领域:科学计算/几何深度学习
+ · 领域:机器学习框架/科学计算
 
 ## 证据(README 行号)
 
+> L1: # e3nn-jax
 > L34: The main difference is the presence of the class `IrrepsArray`.
-> L35: `IrrepsArray` contains the irreps (`Irreps`) along with the data array.
+> L42:       title={Tensor field networks: Rotation- and translation-equivariant neural networks for 3D point clouds},
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c488c80377a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a5d86e4791e1` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 276 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PunGrumpy/logixlysia) · [官网](https://logixlysia.vercel.app) · 个人维护
 
-**ElysiaJS 框架的请求日志中间件插件**
+**ElysiaJS 框架的请求日志插件：记录、过滤与结构化请求日志**
 
-面向 ElysiaJS 应用的日志插件，通过 bun 安装后作为插件挂载。为每个请求输出结构化访问行（时间、方法、路径、状态码、耗时），支持 mergeContext 在请求上下文累积字段；按路径 glob 过滤健康检查与静态资源日志；提供 dev/prod/json 输出预设、按大小/年龄/数量的文件轮转、九个内置日志后端适配器（Axiom、Datadog、Loki、Sentry 等）、采样控制、PII 自动脱敏、请求 ID 与 OpenTelemetry 追踪关联。另提供 testing 模块的内存 transport 供测试断言日志内容。MIT 许可。
+面向 Bun 生态 ElysiaJS 框架的日志中间件插件，通过 bun add 安装后注册为插件即可在 handler 中写日志。提供请求上下文字段累积（mergeContext）、按路径通配符过滤路由日志（logFilter）、dev/prod/json 三种输出预设、按大小/时间/数量轮转的文件日志、头尾采样、PII 自动脱敏、请求 ID、WebSocket 生命周期日志，以及测试用内存 transport。适配器支持 Axiom、Datadog、Loki、OTLP 等 9 个日志后端；OpenTelemetry 追踪关联与 AI usage 指标出现在访问日志中。MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 路径 glob 的 logFilter 包含/排除路由日志
-- 九个内置日志后端适配器（Axiom、Datadog、Loki、OTLP、Sentry 等）
-- 文件日志按大小/年龄/数量轮转
-- logixlysia/testing 内存 transport 支持测试断言
+- logFilter 按路径通配符过滤，exclude 优先于 include
+- 文件日志支持按大小/时间/数量轮转
+- 内置 9 个日志后端适配器（Axiom/Datadog/Loki/OTLP 等）
+- logixlysia/testing 提供内存 transport 供测试断言
 
 ## 适用场景
 
-- 给 ElysiaJS 服务加请求访问日志与结构化错误记录
-- 把日志转发到 Datadog、Loki 等现有观测平台
-- 测试中断言路由的日志输出并自动脱敏 PII
+- 为 ElysiaJS/Bun 后端 API 记录请求访问日志
+- 按路径过滤健康检查与静态资源的日志噪音
+- 将请求日志接入 Datadog、Loki 等日志平台
+- 在测试中断言路由产生的日志记录
 
 ## 场景标签
 
- · 领域:Web 开发/可观测性
+ · 领域:Web 开发/日志与可观测性
 
 ## 证据(README 行号)
 
 > L2:  Logixlysia is a logging library for ElysiaJS
-> L18: import { Elysia } from 'elysia'
-> L67: - **Adapters**: nine built-in destinations, Axiom, Better Stack, ClickHouse, Datadog, HyperDX, Loki, OTLP, PostHog,
+> L17: Add the plugin, then log from a handler with `log`. Fields you add with `log.mergeContext` land on that request's a
+> L64: ## `✨` Features
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4d7897405473` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9aea31affeb6` · [字段定义](../../DATASET.md)*

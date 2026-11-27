@@ -2,9 +2,9 @@
 
 ⭐ 150 · SCSS · MIT · 推送 2026-11-20 · [GitHub](https://github.com/muandet-lab/ipml-course) · 组织维护
 
-**不精确概率机器学习课程的课程网站与教学资料仓库**
+**不精确概率机器学习课程资料与课程网站仓库**
 
- hosting 于 muandet-lab 的 IPML（Imprecise Probabilistic Machine Learning）课程网站仓库：以单个永久 Jekyll 站点组织多个学期的开课内容，每学期位于独立子目录以保持 URL 可引用且不被新学期覆盖；内容含讲义幻灯片、练习题、公告与跨学期的阅读清单。README 记录常见维护任务（发布幻灯片、排课、发布习题）、新学期初始化流程、本地运行方式（Ruby 3.1+ 与 Bundler）及 GitHub Pages 部署，站点基于 jekyll-course-website-template。
+托管 Imprecise Probabilistic Machine Learning（IPML）课程的网站与教学材料：基于 Jekyll 单站点组织多个学期的开课内容，每学期位于独立子目录并保留历史存档；顶层存放跨学期的课程描述与阅读清单。仓库说明如何发布讲义 PDF、课堂录像链接、课程表、练习题与解答、公告，以及开新学期的复制步骤；本地运行需 Ruby 3.1+ 与 Bundler，部署通过 GitHub Actions Pages 工作流完成。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 单一 Jekyll 站点按学期子目录组织，URL 长期可引用
-- 统一的阅读清单以 include 复用于各学期导航
-- 文档化新学期初始化与幻灯片/习题发布流程
+- 多学期课程内容的稳定 URL 组织与自动归档横幅
+- 讲义/录像/课程表/练习题的发布流程说明
+- 基于 Jekyll 的课程网站模板（含 MIT 许可模板致谢）
+- GitHub Actions Pages 自动部署
 
 ## 适用场景
 
-- 学生访问各学期 IPML 课程的讲义、习题与阅读清单
-- 课程维护者发布幻灯片、排课与开设新学期
-- 引用不精确概率机器学习方向的参考文献
+- 查阅 IPML 课程各学期的讲义与阅读清单
+- 搭建类似的多学期课程网站
+- 维护课程练习题与解答的发布流程
 
 ## 场景标签
 
@@ -37,7 +38,7 @@
 ## 证据(README 行号)
 
 > L7: This repository holds the course website and material for **Imprecise
-> L8: Probabilistic Machine Learning (IPML)**.
+> L21: The site is a single permanent Jekyll site in which
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ab714b2d3d67` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8f4d9459f496` · [字段定义](../../DATASET.md)*

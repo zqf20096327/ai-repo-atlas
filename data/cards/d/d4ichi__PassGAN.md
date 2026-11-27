@@ -2,9 +2,9 @@
 
 ⭐ 153 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/d4ichi/PassGAN) · 个人维护
 
-**基于 GAN 的密码猜测模型：生成/训练密码样本（Python3/TF2 更新版）**
+**用 GAN 生成密码样本的 PassGAN 更新版，供安全研究使用**
 
-PassGAN 论文的代码更新版，命令行训练与采样迁移到 Python 3.12 与 TensorFlow 2（tf.compat.v1），模型基于 Improved Wasserstein GAN。附带在 RockYou 数据集上训练的预训练模型，可用 sample.py 生成指定数量密码样本，或用自有密码泄露数据集训练新模型。Jupyter 调试笔记本仍停留在 TensorFlow 1.x 未迁移。预训练采样已在 Windows 11 x64 CPU 环境验证，无需 CUDA；GPU 训练未在当前环境评估，GTX 1080 训练时长仅为原始环境估计。
+论文 PassGAN: A Deep Learning Approach for Password Guessing 的代码更新版，适配 Python 3.12 与 TensorFlow 2（经 tf.compat.v1）。提供 sample.py 与 train.py 命令行工具、在 RockYou 数据集上预训练的模型，以及调试用 Jupyter notebook。采样与训练在 CPU 上即可运行，GPU 环境下自动分配可用设备；环境依赖版本已固定，附带验证测试检查生成器张量与已保存图的一致性。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ PassGAN 论文的代码更新版，命令行训练与采样迁移到 Python 3.12
 
 ## 能力要点
 
-- 命令行接口 sample.py / train.py，支持 Python 3.12 + TensorFlow 2（tf.compat.v1）
-- 附带 RockYou 数据集预训练模型，可直接生成密码样本
-- 可用自有密码数据集训练，保留原始命令行选项与输出布局
-- 含单元测试：验证 24 个生成器张量并与保存的 .meta 图对比输出
+- 提供在 RockYou 数据集上预训练的模型，可直接生成 100 万条密码样本
+- 训练与采样支持 Python 3.12 / TensorFlow 2，CPU 可运行，GPU 自动分配
+- 内置验证测试：核对 24 个生成器张量并与保存的 .meta 图对比输出
+- 保留原版训练参数与输出布局（字符字典/检查点/预览样本）
 
 ## 适用场景
 
-- 用预训练模型批量生成密码样本用于密码强度研究
-- 在自有密码泄露数据集上训练 GAN 密码猜测模型
-- 复现 PassGAN 论文方法并做兼容性验证
+- 用预训练模型生成密码样本研究密码猜测
+- 在自己的密码泄露数据集上训练自定义模型
+- 运行 notebook 逐步调试采样与训练流程
 
 ## 场景标签
 
-`网络安全` · 领域:学习与行业
+`网络安全` `模型训练` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: This repository is an updated version of @brannondorsey/PassGAN. It contains code for the _PassGAN: A Deep Learning 
-> L5: Command-line training and pretrained sampling now support Python 3.12 and TensorFlow 2 using `tf.compat.v1`. The not
-> L12: - A pretrained PassGAN model trained on the RockYou dataset
+> L34: Use the pretrained model to generate 1,000,000 passwords, saving them to `generated_pass.txt`.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `3e9a355e854e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e713a01e6ac2` · [字段定义](../../DATASET.md)*

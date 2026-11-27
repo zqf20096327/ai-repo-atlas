@@ -2,15 +2,15 @@
 
 ⭐ 269 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tangosdev/sm64ds-decomp) · [官网](https://tangos.dev) · 组织维护
 
-**面向逆向研究者的 SM64DS 完全反编译工程（C/C++）**
+**Super Mario 64 DS 的字节级等价 C/C++ 反编译项目**
 
-从零开始的 Super Mario 64 DS 字节级匹配反编译项目，将游戏还原为 C/C++ 源码。仓库只包含原创工作：工具链、手写源码与笔记，不含 ROM 与任天堂资产，所有构建针对用户自备的卡带转储在本地进行并 git-ignore。当前函数匹配进度 100%（11,389 个函数，其中 113 个为手写汇编），数据段进度 71.1%；提供 GitHub Pages 上的交互式进度 treemap、per-person 匹配计数及数据跟踪笔记。
+从零开始将 Super Mario 64 DS 反编译为 C/C++ 的逆向工程仓库，目标是与原版 ROM 字节匹配。仓库本身只包含源代码、工具与笔记，不含 ROM 和任天堂资产，一切运行都依赖用户自备的自有卡带 dump（git-ignored）。进度显示 11,389 个函数已全部匹配并链接，数据进度 78.5%，提供交互式进度树图、按贡献者统计匹配数的 contributions.json，以及 unmatched 函数的反汇编文本协作分支。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 11,389 个函数 100% 匹配，其中 113 个为字节级手写汇编
-- GitHub Pages 交互式进度 treemap，可按函数查看名称/地址/大小/状态
-- 仅含原创工具链、源码与笔记，不含 ROM 与任天堂资产
-- chaos-data 分支提供未匹配函数的注解反汇编文本供贡献者使用
+- 11,389/11,389 函数 MATCHED 并 LINKED，其中 113 个为手写汇编
+- 交互式进度树图按翻译单元分组并链接源文件与清单
+- 仓库不含 ROM/资产，运行依赖用户自有卡带 dump
+- chaos-data 分支提供未匹配函数的带注释反汇编文本
 
 ## 适用场景
 
-- 研究 Nintendo DS 平台的反编译与匹配工作流
-- 在不持有完整本地环境的情况下认领未匹配函数的逆向工作
-- 查阅 SM64DS 源码结构与翻译单元组织
+- 参与逆向工程并按未匹配函数认领工作
+- 基于自备卡带 dump 构建字节级匹配的原版等效代码
+- 通过进度树图查看函数级反编译状态
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L7: A decompilation of Super Mario 64 DS
-> L20: MATCHED    ██████████████████████████████  100.0%   11,389 / 11,389 functions
+> L42: This repo contains only original work: the tooling, the hand-written source, and the
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a918e31d046f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `96e684696e71` · [字段定义](../../DATASET.md)*

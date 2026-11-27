@@ -2,9 +2,9 @@
 
 ⭐ 159 · Python · 推送 2026-11-26 · [GitHub](https://github.com/yeasy/harness_engineering_guide) · [官网](https://yeasy.gitbook.io/harness_engineering_guide) · 个人维护 · 中文 README
 
-**剖析智能体 Harness 工程原理与实现的中文技术书**
+**面向工程师的智能体 Harness 工程开源图书与实战指南**
 
-一本聚焦 Agent 工程基础设施的中文开源技术书（14 章，CC BY-NC-SA 4.0），核心论点为"智能体 = 大模型 + Harness"。全书以 OpenAI Codex、Claude Code、OpenClaw 三个生产级系统为参考案例，拆解运行时引擎、工具层、记忆子系统、编排、安全与可观测性等子系统，并贯穿一个用 Python 从零实现的实战项目 MiniHarness。面向 Agent 平台工程师、AI 应用架构师、全栈开发者与技术决策者，提供 GitBook 在线版、PDF 下载与 mdPress 本地阅读方式。
+一本开源电子书，讲述如何设计智能体的运行时、工具、记忆与安全机制，并提供 Python 实战项目 MiniHarness 供读者跟做实现。全书分 14 章覆盖 Harness 基础、核心子系统、系统集成、安全与评估，并以 OpenAI Codex、Claude Code、OpenClaw 三个生产级系统作为参考案例进行架构比较。目标读者为具备 AI Agent 基础与 Python 经验的工程师、架构师和技术决策者，内容以 GitBook 在线阅读、GitHub 目录与发布页 PDF 形式提供。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 以 Codex/Claude Code/OpenClaw 三系统为参考案例，附维度对比表
-- 贯穿全书从零构建的 Python 实战项目 MiniHarness
-- 覆盖运行时、工具层、记忆、编排、MCP、安全、可观测性等子系统
-- 提供 GitBook 在线版、PDF 离线版与 mdPress 本地阅读
+- Python 实战项目 MiniHarness 逐章构建完整 Harness 子系统
+- Codex/Claude Code/OpenClaw 三个参考系统的多维度架构对比表
+- 按 Agent 平台工程师、架构师、全栈开发者等角色给出选读路径
+- mdPress 本地预览支持
 
 ## 适用场景
 
-- 系统学习如何构建驱动智能体的工程基础设施
-- 跟随 MiniHarness 项目动手实现完整 Agent Harness
-- 对比三个生产级系统的设计取舍用于选型参考
+- 系统学习智能体运行时、工具层、记忆与安全的设计方法
+- 按角色查阅生产级 Harness 的构建、可靠性、安全与评估章节
+- 跟做 MiniHarness 掌握从脚手架到安全层的完整实现
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: > 智能体 = 大模型 + Harness。深入剖析 Harness 工程原理、设计、实现。
-> L45: ## 实战项目：MiniHarness
+> L1: # 智能体 Harness 工程指南
+> L3: 设计智能体的运行时、工具、记忆与安全机制，并用 Python 逐步实现 MiniHarness。
+> L25: 本书面向具备 AI Agent 基础的工程师、架构师和技术决策者。跟做 MiniHarness 需要 Python 编程经验。
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2f6764098cf2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4402820eccb3` · [字段定义](../../DATASET.md)*

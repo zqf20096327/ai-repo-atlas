@@ -1,10 +1,10 @@
 # xiaohang007/SLICES
 
-⭐ 147 · Python · LGPL-2.1 · 推送 2026-11-09 · [GitHub](https://github.com/xiaohang007/SLICES) · [官网](https://www.nature.com/articles/s41467-023-42870-7) · 个人维护 · 中文 README
+⭐ 147 · Python · LGPL-2.1 · 推送 2026-11-09 · [GitHub](https://github.com/xiaohang007/SLICES) · [官网](https://www.nature.com/articles/s41467-023-42870-7) · 组织维护 · 中文 README
 
-**晶体结构可逆字符串表示工具：编码/重构晶体并生成新材料**
+**晶体结构字符串编码与逆设计材料生成工具**
 
-SLICES 提供晶体结构的可逆、不变字符串表示：可将晶体编码为 SLICES 字符串、由字符串重构原晶体结构（Text2Crystal），并基于 MatterGPT / SLICES-PLUS 生成具有目标性质的固态材料。提供 Hugging Face 在线转换器与 MatterGPT 在线 Demo，本地支持 Ubuntu/WSL 安装与 Docker 镜像，图形界面需 slices>=2.0.8。相关成果发表于 Nature Communications（2023），示例基于 pymatgen 结构对象。50 系显卡需将 PyTorch 调整为 cu128 版本。
+SLICES 是一种可逆且不变的晶体结构字符串表示工具，支持晶体结构的编码与解码、重建，并基于生成式深度学习生成具有目标性能的新材料。功能包括 SLICES 字符串编解码（Text2Crystal）、MatterGPT 按性能做固体材料逆设计、SLICES-PLUS 加入晶系约束。提供 PyPI 包与完整仓库两路安装，环境由 uv 锁定，解码默认用 NequIP 力场做结构弛豫（首次运行需本机编译）。仅支持 Linux x86_64（含 WSL2），Python ≥ 3.10。配套 Hugging Face 在线转换器与 MatterGPT Demo。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ SLICES 提供晶体结构的可逆、不变字符串表示：可将晶体编码�
 
 ## 能力要点
 
-- 晶体结构与 SLICES 字符串的双向转换（编码/重构）
-- 基于 MatterGPT / SLICES-PLUS 的固态材料逆向设计
-- 提供 Hugging Face 在线转换器与在线 Demo
-- 支持本地 Conda 安装、Docker 镜像与图形界面
+- 晶体结构与 SLICES 字符串的双向转换（Text2Crystal）
+- MatterGPT 按目标性能做固体材料逆设计，SLICES-PLUS 支持晶系约束
+- 解码默认用 NequIP 力场弛豫，各平台默认结果一致
+- 提供 Hugging Face 在线 CIF/SLICES 转换器与 MatterGPT Demo
 
 ## 适用场景
 
-- 将 CIF 晶体结构编码为字符串用于机器学习
-- 用生成模型逆向设计具有目标性质的新材料
-- 在 Materials Project 全库中做新颖性检查
+- 将晶体结构编码为 SLICES 字符串再解码重建
+- 按目标性能逆设计固体材料
+- 在整个 Materials Project 数据库中做新颖性检查和 EAH 计算
+- 在线完成 CIF 与 SLICES 格式互转
 
 ## 场景标签
 
- · 领域:材料科学/晶体学
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: The **Simplified Line-Input Crystal-Encoding System (SLICES)** is the first invertible and invariant crystal represe
-> L19: 1. **Encode crystal structures into SLICES strings**
 > L21: 3. **Inverse design of solid-state materials with desired properties using MatterGPT**
+> L40: uv pip install slices --torch-backend=auto   # 自动选择 CPU 或与显卡驱动匹配的 CUDA 版 PyTorch
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3c42b2cdabf0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `d23ab210d03b` · [字段定义](../../DATASET.md)*

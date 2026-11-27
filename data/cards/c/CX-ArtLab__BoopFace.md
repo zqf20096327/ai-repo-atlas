@@ -1,10 +1,10 @@
 # CX-ArtLab/BoopFace
 
-⭐ 223 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CX-ArtLab/BoopFace) · [官网](https://boopface.com) · 组织维护 · 中文 README
+⭐ 223 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CX-ArtLab/BoopFace) · [官网](https://boopface.com) · 个人维护 · 中文 README
 
-**给 AI bot/agent 加表情机器人头像的 Web 组件**
+**给 AI 机器人与 Agent 显示表情状态的机器人头像 Web 组件**
 
-以 SVG 和原生 Web Component 实现的机器人表情组件，零运行时依赖，MIT 许可；提供 30+ 表达式动作（等待、成功、失败、倾听、说话等）与可编程的 agent 状态接口，支持 2D/3D 视图、188 款皮肤、指针跟随与拖拽交互；connectAgent() 让 AI 流事件驱动表情（AG-UI、OpenAI、Anthropic、Vercel AI SDK），另有 Voice Kit 语音表情组。通过 npm 或发布压缩包分发，含 lite 构建与 TypeScript 声明；BoopFace Embedded 提供 28 种 ESP32/STM32/Raspberry Pi Pico 板卡屏幕固件示例。
+以 SVG 和原生 JavaScript 构建的 Web Component，零运行时依赖，可在任意框架（React/Vue 等）中使用。组件为 AI 助手与 Agent 提供面部与状态反馈：30+ 表情对应思考、等待、完成、失败等状态，支持 3D 头部与 188 个皮肤。通过 connectAgent() 接入 AG-UI、OpenAI、Anthropic、Vercel AI SDK 等流式事件自动切换表情，语音对话提供听/想/说三态接口。另提供 BoopFace Embedded 将表情运行于 ESP32、STM32、Raspberry Pi Pico 开发板屏幕。MIT 许可。
 
 ## 筛选速览
 
@@ -16,31 +16,30 @@
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 原生 Web Component，SVG 渲染，零运行时依赖
-- 30+ 表达式动作覆盖 agent 等待/成功/失败等状态
-- connectAgent() 以 AI 流事件驱动表情（AG-UI、OpenAI、Anthropic、Vercel AI SDK）
-- Embedded 版本支持 28 种 ESP32/STM32/Pico 板卡与屏幕配置
+- 30+ 表情覆盖 Agent 全部状态，AI 流事件可直接驱动表情
+- connectAgent() 支持 AG-UI、OpenAI、Anthropic Messages、Vercel AI SDK
+- 188 个皮肤、3D 头部、眼睛跟随指针等交互
+- BoopFace Embedded 在 ESP32/STM32/Raspberry Pi Pico 屏幕运行
 
 ## 适用场景
 
-- 给聊天助手或 coding agent 加表情状态反馈
-- 桌面伴侣、虚拟宠物、chatbot 头像等交互角色
-- 在 ESP32/Pico 小屏幕上显示机器人眼睛表情
-- AG-UI 风格 agent 界面的可视化反馈层
+- 给聊天机器人或 Agent 加一个显示思考/等待/完成状态的头像
+- 语音助手按听/想/说流程切换表情
+- 在开发板屏幕上给嵌入式 AI 设备做表情界面
+- 桌面伴侣、虚拟宠物或数字吉祥物的形象
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+ · 领域:前端 UI 组件/机器人形象
 
 ## 证据(README 行号)
 
 > L13: BoopFace is a lightweight, expressive robot avatar component for AI bots, agents and interactive apps. Thinking, wa
-> L66: - `connectAgent()`: AI stream events drive the expressions (AG-UI, OpenAI, Anthropic, Vercel AI SDK)
-> L25:  BoopFace Embedded: the same eye expressions on ESP32, STM32 and Raspberry Pi Pico screens, or in other C++ program
+> L57: - Events from AI streams drive the expressions directly (AG-UI, OpenAI, Anthropic, Vercel AI SDK), voice conversati
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `2870a989eaf5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `dd4afdc032da` · [字段定义](../../DATASET.md)*

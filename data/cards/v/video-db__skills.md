@@ -2,9 +2,9 @@
 
 ⭐ 158 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/video-db/skills) · [官网](https://docs.videodb.io) · 组织维护
 
-**让 AI 编码代理执行服务端视频工作流的技能包**
+**让 AI agent 通过自然语言处理视频的技能与 MCP 集成包**
 
-VideoDB 团队维护的 agent 技能包，为 Claude Code、Cursor、Copilot 等 AI 编码代理提供统一接口：采集桌面屏幕、麦克风、系统音频与 RTSP 流，摄取 YouTube/URL/本地文件；运行语音、场景、物体、OCR、品牌分析并索引结果；支持自然语言搜索视频时刻、生成字幕与转录、剪辑导出、文本生成图像/视频/音乐，并返回可播放的 HLS 链接。通过 npx skills add 或 Claude Code 插件安装，需 Python 3.9+ 与 VideoDB Python SDK，或使用托管 MCP 服务器配合 VideoDB 账号与 API key（依赖 VideoDB 云服务）。
+VideoDB 官方发布的 agent 技能包与 MCP 服务器：提供 6 个 SKILL.md 技能（video-search、video-clips、video-subtitles、video-edit、video-live、videodb），教授 agent 使用 VideoDB Python SDK；并托管一个提供 89 个工具的 MCP 端点。视频的上传、转写、搜索、剪辑、字幕、直播等处理全部在 VideoDB 服务器端完成，结果以 CDN 流链接或下载形式返回。支持一键接入 Claude/ChatGPT 插件，或通过 npx 安装到任意读取 SKILL.md 的编码 agent。需 VideoDB 账号与 API key。
 
 ## 筛选速览
 
@@ -15,31 +15,31 @@ VideoDB 团队维护的 agent 技能包，为 Claude Code、Cursor、Copilot 等
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 采集桌面屏幕/麦克风/系统音频与 RTSP 流，摄取 YouTube/URL/本地文件
-- 运行语音、场景、物体、OCR、品牌等分析器并索引，支持自然语言搜索时刻
-- 服务端剪辑、字幕、配音翻译与文本生成图像/视频/音乐，返回 HLS 播放链接
-- 提供 Claude Code 插件（含托管 MCP 服务器）与 npx skills 两种安装方式
+- 6 个技能覆盖搜索、剪辑、字幕、编辑、直播等视频工作流
+- 托管 MCP 服务器提供 89 个工具（Streamable HTTP + OAuth）
+- npx skills add 安装到 Claude Code、Cursor、Codex、Copilot 等编码 agent
+- 处理在服务器端进行，本地仅需 Python 3.9+ 的 SDK
 
 ## 适用场景
 
-- 让编码代理上传视频并生成可分享的播放链接或剪辑
-- 通过对话在视频中查找特定场景/台词并导出片段
-- 用代理监控 RTSP 摄像头画面并在检测到目标时记录告警
+- 粘贴 YouTube 链接让 agent 剪辑、加字幕、翻译
+- 对视频提问并返回带时间戳的片段
+- 接入摄像头直播流并在检测到人时触发 webhook
+- 录制会议并生成可分享的剪辑
 
 ## 场景标签
 
-`图像视频处理` `多模态` · 领域:感知与多模态
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L10: Works with **Claude Code**, **Cursor**, **Copilot**, and other AI agents
-> L16: This skill gives your agent one consistent interface to:
-> L103: VideoDB is the server side video stack for agents and apps.
+> L12: VideoDB does the video work on its servers. The agent asks for it in plain language.
+> L23: |**A coding agent with a shell** (Claude Code, Cursor, Codex, Copilot, others)|`npx skills add video-db/skills`|The
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5b5c2d423e19` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ed71175ee68f` · [字段定义](../../DATASET.md)*

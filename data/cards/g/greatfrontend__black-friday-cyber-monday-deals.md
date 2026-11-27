@@ -2,9 +2,9 @@
 
 ⭐ 218 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) · [官网](ctrlfriday.com) · 组织维护
 
-**面向开发者与设计师的黑五折扣清单汇总**
+**面向开发者与设计师的黑五/网一优惠清单**
 
-由 GreatFrontEnd 维护的年度 Black Friday / Cyber Monday 折扣汇总页，收录面向软件工程师、开发者与设计师的优惠条目，按技术面试备考、课程、UI 模板、开发者工具、书籍、效率工具、AI 工具、设计资源等类别组织成表格，条目含折扣码、有效期与最近核验日期。接受社区 PR 投稿，声明保留删除或重排低质量产品的权限，页面含联盟链接。纯 Markdown 清单，无安装或运行步骤。
+由 GreatFrontEnd 维护的黑五与网一（Black Friday/Cyber Monday 2026）优惠聚合清单，覆盖面试准备平台、课程、UI/起始套件、开发工具、书籍、生产力工具、AI 工具与设计资源等类目。每个条目对应 data/deals/2026/ 下的一个 JSON 文件，README 中的表格由 JSON 生成；社区可通过 PR 或 issue 表单提交与更新条目。清单为纯静态编目，不含安装或运行本产品自身的步骤。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 9 个类别组织的折扣条目表格，含折扣码与有效期
-- 标注最近核验日期（2026-11-23）
-- 开放社区 PR 投稿并声明可自行删除低质量条目
-- 含 AI 工具专区（BoltAI、inReels.ai、SharpAPI、GoStudio.ai）
+- 条目以 JSON 文件存储，表格自动生成
+- 覆盖面试准备、课程、UI 套件、开发工具、AI 工具等多个类目
+- 支持 PR 与 issue 表单两种贡献方式
+- 标注每条优惠的折扣码与有效期
 
 ## 适用场景
 
-- 黑五期间查找开发与设计类产品的折扣
-- 查询特定课程、模板或工具是否有限时优惠码
-- 投稿自己产品的黑五促销信息
+- 黑五期间查找开发工具与课程的折扣
+- 查询面试准备资源的优惠码
+- 为自己的产品提交黑五优惠条目
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L1: # Black Friday & Cyber Monday Deals 2026
 > L3: Black Friday and Cyber Monday 2026 deals for software engineers, developers, and designers. Find discounts on techni
-> L32: - 🤖 Jump to AI-powered tools
+> L7: Each product has its own JSON file in data/deals/2026/. To add or update a deal, follow the contribution guide or us
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `43eab201b820` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f98f4b8f8dd3` · [字段定义](../../DATASET.md)*

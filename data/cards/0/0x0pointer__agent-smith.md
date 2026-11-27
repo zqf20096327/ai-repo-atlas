@@ -1,10 +1,10 @@
 # 0x0pointer/agent-smith
 
-⭐ 159 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/0x0pointer/agent-smith) · [官网](https://discord.gg/Pg6gBbr2Vj) · 组织维护
+⭐ 159 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/0x0pointer/agent-smith) · [官网](https://discord.gg/Pg6gBbr2Vj) · 个人维护
 
-**AI 驱动的渗透测试框架：LLM 规划并执行授权安全测试**
+**面向授权渗透测试者的 LLM 驱动 Agent 框架**
 
-面向安全测试人员的渗透测试框架，将 LLM 作为决策大脑：技能（prompt）教授方法论而非固定 payload 库，由模型生成针对目标的攻击。提供 50+ 工具、35+ 技能（如 /pentester、/codebase ASVS 审查、/ai-redteam），技能间可自动链式调用。支持自带任意 LLM 客户端（Claude Code、Codex、OpenCode、任何 MCP 客户端，含 Ollama 等本地模型）。扫描器默认运行在临时 Docker 容器中沙箱化，服务端强制成本/时间/调用次数限制。通过 git clone 与安装脚本安装，产出报告、PoC、补丁、威胁模型与 CVE 提交包。仅限授权测试。
+以 MCP 服务器接入 Claude Code / Codex / OpenCode 等 LLM 客户端的渗透测试框架，提供 35+ 技能（如 /pentester 全流程扫描、/codebase 白盒 ASVS 审查、/ai-redteam、/remediate 补丁生成），由 LLM 决定攻击路径并聚合 50+ 工具输出。所有扫描器在临时 Docker 容器中运行，服务端强制成本/时间/调用次数限额；产出含 PoC、威胁模型、CVE 提交包等交付物，扫描过程以事件流形式留作训练数据，支持从先前扫描恢复与召回。要求 Docker Desktop、Poetry 与一个 LLM 客户端。
 
 ## 筛选速览
 
@@ -13,34 +13,34 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 35+ 技能（prompt 形式）教授方法论，LLM 生成实际攻击
-- 自带 LLM：Claude Code / Codex / OpenCode / 任意 MCP 客户端，可完全本地运行
-- 扫描器默认沙箱化于临时 Docker 容器，服务端强制预算限制
-- 每次扫描被动生成结构化事件流，可蒸馏为本地 LoRA 适配器
+- 技能即提示词：教 LLM 方法论，攻击路径由模型自行决定
+- 所有扫描器沙箱化于临时 Docker 容器，服务端强制成本/时间限额
+- Augmented/Autonomous 两种模式，localhost:7777 实时仪表盘可中途介入
+- 扫描事件流可作为行为克隆数据集，QLoRA 蒸馏出本地 LoRA 适配器
 
 ## 适用场景
 
-- 在授权目标上执行从侦察到报告的完整渗透测试
+- 对自有或获书面授权的系统执行端到端渗透测试
 - 对代码库做 OWASP ASVS 5.0 白盒审查
-- 对 LLM 应用做 OWASP LLM Top 10 红队测试
-- 中断/完成的扫描可快照恢复，跳过已测试部分
+- 对 LLM 应用做 OWASP LLM Top 10 / 提示注入红队测试
+- CI/CD 流水线中周期性红队演练与持续测试
 
 ## 场景标签
 
-`网络安全` `代码审查` · 领域:编码与开发
+`网络安全` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L16: - 🧠 **The LLM is the brain, not a payload library.** Skills teach *methodology*; the LLM invents the actual attacks
 > L18: - 🛠 **Bring your own LLM.** Claude Code, OpenAI Codex, OpenCode (any provider — OpenAI, Gemini, Ollama, OpenRouter,
-> L27: Most pentest automation ships a giant payload library and runs it linearly. agent-smith does the opposite. **Skills
+> L127:         └── MCP server (python -m mcp_server)
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `51ab47c68950` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f466d7516d66` · [字段定义](../../DATASET.md)*

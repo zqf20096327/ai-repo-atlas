@@ -2,9 +2,9 @@
 
 ⭐ 162 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sohaibt/product-mode) · [官网](https://sohaibthiab.me/product-mode/) · 个人维护
 
-**给编码 Agent 注入产品思维的 CLAUDE.md/AGENTS.md 指令文件**
+**给编码 agent 注入产品判断力的 CLAUDE.md/AGENTS.md 指令集**
 
-面向 PM 与工程团队的 MIT 许可指令文件：以 CLAUDE.md / AGENTS.md 形式供 Claude Code、Cursor、Codex 等编码代理读取，提供 7 条产品原则（问题框定、假设显性化、最小可行变更、权衡命名、以结果定义完成、发布前埋点、决策记录）及飞行前检查清单。可选 npm CLI 用于交互式保存检查清单与决策日志到 .product-mode/ 目录，要求 Node.js 20.19+。基于 karpathy 对 LLM 工程失效模式的观察，补充产品决策层面的指引。
+一组 MIT 许可的指令文件（CLAUDE.md/AGENTS.md），可直接放入使用 Claude Code、Cursor、Codex 等编码 agent 的项目，向 agent 注入七条产品原则：问题框定、假设显性化、最小可行变更、权衡命名、以结果定义完成、上线前埋点、决策日志；另含五问预检清单与可跳过严谨流程的判定表。可选的 npm CLI 提供交互式 checklist/decision 命令、trivial 变更检测与三个 slash 命令，产物保存在 .product-mode/ 目录。面向 PM+工程混合团队与独立创始人。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 7 条产品原则 + 5 问飞行前检查清单与跳过严格度的表格
-- 指令文件可直接 curl 下载或合并进现有 CLAUDE.md，无需 npm 安装
-- 可选 CLI 保存检查清单、决策日志并做琐碎变更检测
-- 附 6 个作者编写的评估用例，README 声明非实测性能证据
+- 七条产品原则指令文件，drop-in 兼容 CLAUDE.md/AGENTS.md 格式
+- 可选 npm CLI：checklist、decision、trivial 变更检测
+- init 安装 /preflight、/decision、/product-review 三个 agent slash 命令
+- 自带六个评估用例与 Node 20.19/22/24 的 CI 测试
 
 ## 适用场景
 
-- 让 AI 编码代理在写代码前先框定问题、明确用户与成功指标
-- 团队以决策日志和检查清单约束范围蔓延
-- PM 用 vibe-code 工具时希望代理以产品伙伴方式提问
+- AI 辅助开发前让 agent 先做问题框定与范围裁剪
+- 团队把预检清单和决策记录沉淀到仓库供后续 agent 读取
+- 用 trivial 检测判断小改动可否跳过完整流程
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
+> L5: **Give your coding agent product judgment before it starts building.**
 > L7: Free, MIT-licensed instructions for framing the problem, cutting scope, naming tradeoffs, and defining success. A dr
-> L79: **product-mode** adds the missing layer: problem framing, scope discipline, tradeoff articulation, outcome measurem
-> L99: The instruction files work on their own. The CLI provides interactive commands that save checklists and decision lo
+> L101: The instruction files work on their own. The CLI provides interactive commands that save checklists and decision l
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `98b27b1139d8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f65588abad02` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 152 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Decodo/decodo-openclaw-skill) · [官网](https://decodo.com) · 组织维护
 
-**为 OpenClaw agent 提供网页抓取工具的技能包（Decodo API）**
+**为 OpenClaw AI agent 提供网页抓取工具的技能包**
 
-将 Decodo Web Scraping API 封装为 OpenClaw 技能：通过 SKILL.md 暴露 7 个可被 agent 调用的工具，包括 Google 实时搜索（SERP）、任意网页转 Markdown、Amazon 商品页/搜索解析、YouTube 字幕提取、Reddit 帖子与版块抓取。依托 Decodo 代理基础设施处理 JavaScript 渲染、反爬与地理定位，输出结构化 JSON 或 Markdown。需 Python 3.9+、OpenClaw 运行时及 Decodo 账号（Base64 token 认证），使用 CLI 或 agent 自动发现调用。
+将 Decodo Web Scraping API 封装为 OpenClaw 技能（SKILL.md 格式），向 AI agent 暴露 5 个可调用工具：Google 搜索结构化结果、任意网页转 Markdown、Amazon 商品解析与搜索、YouTube 字幕提取。依赖 Decodo 的代理基础设施处理 JavaScript 渲染与验证码，输出结构化 JSON/Markdown。需要 Python 3.9+、Decodo 账号的 Base64 认证令牌，通过环境变量或 .env 配置；代码以 MIT 许可发布，但抓取服务本身依赖 Decodo 商业 API。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 7 个工具：Google 搜索、通用抓取、Amazon 商品/搜索、YouTube 字幕、Reddit 帖子/版块
-- SKILL.md 定义工具，OpenClaw 兼容 agent 自动发现调用
-- 输出结构化 JSON 或 Markdown
-- 依赖最少，仅需 Python 与 Requests
+- 5 个可被 agent 调用的工具：google_search、universal、amazon、amazon_search、youtube_subtitles
+- SKILL.md 格式，OpenClaw 兼容 agent 自动发现并调用工具
+- 返回结构化 JSON 或干净 Markdown，面向 LLM 处理
+- 单一 Base64 令牌认证，仅需 Python 与 Requests
 
 ## 适用场景
 
-- 让 AI agent 在工作流中实时检索 Google 并抓取网页
-- 为 RAG 管道采集与更新网页语料
-- 电商价格监控与商品数据解析
-- 提取 YouTube 字幕或 Reddit 内容做分析
+- 让 AI agent 实时检索 Google 搜索结果用于事实核查或 RAG
+- 抓取任意网页转 Markdown 供总结或构建数据集
+- 监控 Amazon 商品价格与竞品信息
+- 提取 YouTube 视频字幕做内容分析
 
 ## 场景标签
 
@@ -39,6 +39,8 @@
 ## 证据(README 行号)
 
 > L8: This OpenClaw skill integrates Decodo's Web Scraping API into any OpenClaw-compatible AI agent or LLM pipeline. It e
+> L67: This skill ships with a SKILL.md file that defines all tools in the OpenClaw skill format. OpenClaw-compatible agen
+> L42: - Decodo account with access to the Web Scraping API
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `ddb1eb6e9f5d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `1175b465701b` · [字段定义](../../DATASET.md)*

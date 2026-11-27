@@ -2,9 +2,9 @@
 
 ⭐ 7,142 · C++ · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/kvcache-ai/Mooncake) · [官网](https://kvcache-ai.github.io/Mooncake/) · 组织维护 · 中文 README
 
-**为 Kimi 提供服务的 KVCache 为中心 LLM 推理部署平台**
+**LLM 推理/训练的 KVCache 分离式服务基础设施**
 
-面向大规模 LLM 推理与训练的基础设施项目，核心是以 KVCache 为中心的分离式架构：将 prefill 与 decode 集群分离，并利用 GPU 集群中闲置的 CPU、DRAM 与 SSD 资源构建分布式 KVCache 池。包含三个组件：提供多协议、拓扑感知路由与自动故障切换的 Transfer Engine；分布式 KV cache 与模型权重管理 Store；面向弹性 MoE 服务的 Mooncake EP & PG。与 SGLang、vLLM 等推理框架集成，通过 PyPI 提供 CUDA/NPU/ROCm 等多种构建。
+Mooncake 是面向大规模 LLM 推理与训练的基础设施项目，也是 Moonshot AI 的 Kimi 服务所运行的平台。其核心是以 KVCache 为中心的分离式架构：将 prefill 与 decode 集群分离，并利用 GPU 集群中闲置的 CPU、DRAM 与 SSD 资源构建分布式 KV cache 池。组件包括 Transfer Engine（跨异构网络/加速器的低延迟数据传输）、Mooncake Store（分布式 KV cache 与模型权重管理）和 Mooncake EP & PG（弹性 MoE 服务），与 SGLang、vLLM 等推理框架深度集成。提供 PyPI 多硬件变体安装与文档。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- Transfer Engine：支持 TCP/RDMA/EFA/NVLink 等多种传输协议与多网卡带宽聚合
-- Mooncake Store：分布式 KV cache 与模型权重管理
-- Mooncake EP & PG 支持弹性 MoE 推理
-- 已集成进 SGLang、vLLM、TensorRT-LLM、LMDeploy 等推理栈
+- Transfer Engine 支持 RDMA 多 NIC 带宽聚合、拓扑感知路径选择与故障自动换路
+- Mooncake Store 提供分布式 KV cache 与模型权重管理
+- 已集成至 vLLM、SGLang、TensorRT-LLM、LMDeploy 等推理栈
+- 提供 CUDA/NPU/MUSA/ROCm 等 PyPI 安装变体
 
 ## 适用场景
 
-- 为大规模 LLM 推理搭建 PD 分离部署
-- 在多节点 GPU 集群间高速传输 KV cache 与模型权重
-- 构建跨实例共享的分布式 KV cache 池
-- 分布式 RL 训练中在 rollout 与训练间同步权重与张量
+- 为多节点 LLM 推理集群搭建分离式 prefill/decode 服务
+- 跨推理实例共享与复用 KV cache
+- 分布式 RL 训练中在 rollout 与训练节点间传输权重和状态
 
 ## 场景标签
 
@@ -40,7 +39,7 @@
 
 > L83: Mooncake is an infrastructure project for large-scale LLM inference and training. It features a KV cache-centric di
 > L85: Mooncake includes a high-performance Transfer Engine for low-latency data movement across heterogeneous networks an
-> L105: - **Widely adopted across the LLM ecosystem.** TE is used in production inference stacks such as SGLang, vLLM, Ten
+> L91: The core of Mooncake is the Transfer Engine (TE), a high-performance data transfer framework. TE offers a unified i
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0064bdf66f1e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ea8d92138f8e` · [字段定义](../../DATASET.md)*

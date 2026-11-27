@@ -2,9 +2,9 @@
 
 ⭐ 161 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/CAREamics/careamics) · [官网](https://careamics.github.io/) · 组织维护
 
-**面向显微图像去噪的 PyTorch 深度学习库：统一 Noise2Void 及变体**
+**面向科研用户的图像去噪/复原 PyTorch 库**
 
-CAREamics 是一个 PyTorch 库，将 Noise2Void 及其变体和相关方法（CARE、Noise2Noise、N2V2、P(P)N2V、HDN、muSplit 等）整合到单一包中，提供统一且简化的 API；后端依赖 PyTorch Lightning。README 说明其动机：n2v 包基于 TensorFlow，而较新的方法虽为 PyTorch 实现但缺少社区可用的附加功能。面向科研场景用户，承诺提供文档与教程；安装说明指向外部文档站点，未在 README 中给出具体命令。
+CAREamics 是一个基于 PyTorch 的显微图像复原库，将 Noise2Void 及其多个变体（CARE、Noise2Noise、N2V2、P(P)N2V、HDN、MicroSplit 等）统一到一个包中，提供简单一致的 API，后端依赖 PyTorch Lightning。动机是 `n2v` 包基于 TensorFlow，而更新的 PyTorch 去噪方法缺少社区可用的完整功能。项目还提供文档与教程，说明如何在科学场景中使用这些方法；安装指引见官方文档。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@ CAREamics 是一个 PyTorch 库，将 Noise2Void 及其变体和相关方法（C
 
 ## 能力要点
 
-- 整合 Noise2Void 及多种变体（CARE/N2N/N2V2/PPN2V/HDN/muSplit 等）
-- 基于 PyTorch Lightning 后端，提供统一 API
-- 以科学（科研显微成像）应用为目标场景
+- 统一实现 Noise2Void 及多种变体（CARE、N2V2、PPN2V、HDN、MicroSplit 等）
+- 基于 PyTorch Lightning 后端，提供一致的 API
+- 提供面向科学应用场景的文档与教程
 
 ## 适用场景
 
-- 用 Noise2Void 系方法对显微图像做去噪
-- 在一个 PyTorch 包内切换多种去噪算法而无需分别安装多个实现
-- 科研工作中按文档与教程应用自监督去噪方法
+- 对显微成像数据做去噪处理
+- 在科研流程中使用 Noise2Void 系列自监督去噪方法
+- 在 PyTorch 环境中替代 TensorFlow 版 n2v 包
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ CAREamics 是一个 PyTorch 库，将 Noise2Void 及其变体和相关方法（C
 
 > L14: CAREamics is a PyTorch library aimed at simplifying the use of Noise2Void and its many
 > L24: The aim of CAREamics is to provide a PyTorch library reuniting all the latest methods
-> L27: tutorials on how to best apply these methods in a scientific context.
+> L26: PyTorch Lightning as a back-end. In addition, we will provide extensive documentation and
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `8d150e234782` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `58ab5479c826` · [字段定义](../../DATASET.md)*

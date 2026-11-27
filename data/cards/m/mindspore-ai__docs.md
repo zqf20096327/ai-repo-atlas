@@ -2,9 +2,9 @@
 
 ⭐ 167 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/mindspore-ai/docs) · 组织维护 · 中文 README
 
-**MindSpore 官方文档源文件仓库：安装指南、教程与 API 文档**
+**MindSpore 框架官方文档源文件库：教程与 API 文档**
 
-托管 MindSpore 官网文档源文件的仓库，涵盖安装指南、教程、设计/规范/FAQ 技术文档及 API 生成配置，内容发布于 mindspore.cn。支持通过 Sphinx 构建：先安装 MindSpore 模块，克隆本仓库并安装 requirements.txt 依赖，配置 Makefile 的 SOURCEDIR/BUILDDIR 后 make html 生成中英文网页；构建不同组件 API 时需克隆对应仓库并设置环境变量，Lite API 需 Doxygen，教程类文档需 pandoc。2.10 版起使用 Python 3.12 构建。采用 Apache 2.0 许可，接受社区文档贡献。
+该仓库托管 MindSpore 官网的安装指南、教程及 API 文档源文件，内容覆盖 MindSpore、Lite、Transformers、Quantum 等组件。文档使用 Sphinx 工具构建，可分别生成中英文 HTML 页面；构建 API 文档前需先安装对应的 MindSpore 模块并克隆相关仓库、配置环境变量。仓库接受文档贡献，需遵循写作规范与流程规则，问题与建议通过 Issues 提交。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 提供 MindSpore 官网文档源文件与 API 生成配置
-- Sphinx 构建中英文文档（make html）
-- 列出各组件 API 构建所需的环境变量与对应仓库
-- Apache 2.0 许可并开放文档贡献流程
+- 提供安装指南、教程与 API 配置的文档源文件
+- 基于 Sphinx 构建中英文 API 文档（make html）
+- 覆盖 MindSpore、Lite、Transformers、Golden Stick、Quantum、MindScience 等组件
+- 中英文文档通过 Makefile 配置分别构建
 
 ## 适用场景
 
-- 本地构建 MindSpore 中英文文档与 API 参考
-- 查阅 MindSpore 安装指南与教程源文件
-- 为 MindSpore 文档提交修改或纠错
+- 查看或参与编写 MindSpore 官方教程与 API 文档
+- 本地构建中英文文档站点用于阅读或校对
+- 为 MindSpore 各组件文档提交修改贡献
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `441b8d010ffa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `484d23682dab` · [字段定义](../../DATASET.md)*

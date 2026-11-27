@@ -2,45 +2,43 @@
 
 ⭐ 162 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pandazki/pneuma-skills) · 个人维护 · 中文 README
 
-**人与代码 agent 协作的内容创作基础设施，含可视化环境与技能模式**
+**人类与代码代理共创内容的可视化环境与技能分发平台**
 
-面向开发者与内容创作者的协作基础设施：以磁盘文件为 agent 的工作面，为每个任务提供按领域渲染的实时查看器（幻灯片、画板、图表等），人类可直接插入编辑或结构化建议。会话可跨运行持久化，持久偏好跨会话携带，Evolution Agent 提出技能指引的增删建议供人工审阅。启动会话时在 Claude Code、Codex、Kimi Code 三种后端中选择，各后端经共享运行时提供能力；内置 20 个模式（幻灯片、排版、视频、图解等），支持 Mode Maker 创建并发布自定义模式到市场。提供桌面安装包（内置 Bun）与 CLI，源码运行需 Bun ≥1.3.14 及至少一个 agent CLI；图像工具需 OpenRouter API key，视频/语音等工具可能需 fal.ai key。
+构建在主流代码代理（Claude Code、Codex、Kimi Code）之上的共创基础设施：代理直接在磁盘文件中工作，Pneuma 提供按领域渲染的可视化播放器（幻灯片、画布、项目板），人类可在 UI 中直接编辑或提交结构化建议。核心机制为四大支柱：可视化环境、按模式注入的领域技能与持久会话、跨会话持续学习（Evolution Agent 提议技能增删）、通过 Mode Maker 制作并发布到市场分发。内置 20+ 模式覆盖网页、视频、排版、幻灯片、插画、动画等。图像/视频/语音工具需配置 OpenRouter 或 fal.ai 密钥。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 以磁盘文件为 agent 原生工作面，配按领域渲染的实时查看器
-- 启动时选择 Claude Code / Codex / Kimi Code 后端，经共享运行时提供能力
-- 内置 20 个模式（slide/kami/clipcraft/wordtaste 等），各自独立版本
-- Mode Maker 用 AI 创建自定义模式并发布到市场，`pneuma mode add` 分享
+- 四大支柱：可视化环境、技能注入、持续学习、模式分发
+- 内置 20+ 模式：网页开发、视频制作、幻灯片、插画、品牌、板书讲解等
+- 会话持久化，代理可跨运行接续工作
+- Mode Maker 用 AI 创建自定义模式并发布到市场
 
 ## 适用场景
 
-- 与代码 agent 协作制作幻灯片、排版文档、图表或视频等内容
-- 在 agent 工作过程中以可视化方式查看并适时介入编辑
-- 跨会话积累偏好与技能，持续改进协作方式
-- 创建并分发自定义工作模式给他人使用
+- 和代码代理一起制作幻灯片、网页、视频等内容
+- 让代理生成贴纸、动画素材并导出为微信/Telegram/LINE 格式
+- 搭建并分享自定义创作模式
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L40: When humans and code agents co-create content, they need more than a chat window — they need shared infrastructure.
-> L157: |**AgentBackend**|Launch, resume, kill, capability declaration|Other agents (Aider, etc.)|
-> L161: - Process lifecycle: `AgentBackend` owns launch, resume, exit, and capability declaration.
+> L53: |**webcraft**|Live web development with Impeccable AI design intelligence — 22 design commands, four visitor modes,
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `4bd529da7b17` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `abe1d9aa58e4` · [字段定义](../../DATASET.md)*

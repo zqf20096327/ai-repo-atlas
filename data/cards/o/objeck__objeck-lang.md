@@ -2,9 +2,9 @@
 
 ⭐ 167 · C++ · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/objeck/objeck-lang) · [官网](https://objeck.org) · 个人维护
 
-**带 JIT 虚拟机的面向对象语言，内置 ML/NLP/CV/LLM 标准库**
+**带 JIT VM 与内置 AI/LLM 库的面向对象编程语言**
 
-Objeck 是一门面向对象与函数式编程语言，配套 JIT 编译的虚拟机，支持 AMD64 与 ARM64。语言运行时以单一安装包分发，标准库内置 HTTP/1.1-3、WebSocket、线程、泛型、反射等能力，并自带 ML、NLP、计算机视觉与 LLM 客户端库（OpenAI、Anthropic、Gemini、Ollama、ONNX、OpenCV），无需第三方包管理器。提供 REPL、VSCode/Sublime/Kate 的 LSP 插件、DAP 调试器与浏览器 Playground（42 个示例）。主要面向开发者做 AI/ML 原型、计算机视觉与 Web 服务等用途。
+Objeck 是面向对象与函数式编程语言，配 JIT 编译虚拟机，支持 ARM64/AMD64 与 Linux/macOS/Windows。标准库内置 HTTP/1.1–3、WebSocket、SQL 查询、正则、集合等模块，并自带 OpenAI、Anthropic、Gemini、Ollama 客户端及 ONNX、OpenCV、ML、NLP 库，无需第三方包。v2026.11.4 提供 provider-neutral 的 Agent 工具调用循环、MCP 服务器/客户端（函数注解 @tool 即声明工具）、RAG 组件、Actor 与遥测。提供 REPL、LSP、DAP 调试器与浏览器 Playground。旧发行版需 glibc 2.38+ 或容器运行。
 
 ## 筛选速览
 
@@ -16,31 +16,31 @@ Objeck 是一门面向对象与函数式编程语言，配套 JIT 编译的虚�
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- JIT 编译虚拟机，支持 Linux/macOS/Windows 的 x64 与 ARM64
-- 标准库内置 OpenAI/Anthropic/Gemini/Ollama 客户端与 ONNX、OpenCV 接入
-- LSP 插件、DAP 调试器、REPL 与无需安装的在线 Playground
-- 内置 CNN 训练、LDA 主题建模、TF-IDF、统计与绘图库
+- 内置 OpenAI/Anthropic/Gemini/Ollama 客户端与 ONNX、OpenCV、ML/NLP 库，无第三方包
+- 函数文档注释 @tool/@resource 即声明 MCP 工具，obr --mcp 提供 stdio/HTTP 服务
+- API.Agent 提供 provider-neutral 工具调用循环，支持预算、取消与追踪；OllamaBackend 支持本地模型
+- 提供 42 个演示的在线 Playground、REPL、VSCode/Sublime/Kate 的 LSP 插件与 DAP 调试器
 
 ## 适用场景
 
-- 用一门语言快速做 AI/ML 原型而不引入第三方包
-- 编写内置 HTTP 服务器与网络协议的 Web 服务
-- 训练卷积网络或做文本分类与主题建模
-- 游戏开发中的博弈搜索（Minimax/MCTS）
+- 用 Objeck 编写接入多家 LLM 的 Agent 与 MCP 工具服务
+- AI/ML 原型与计算机视觉应用的快速开发
+- 构建 Web 服务与实时应用
+- 在本地 Ollama 模型上离线运行 Agent（数据不出机器）
 
 ## 场景标签
 
- · 领域:编程语言/开发工具
+`RAG` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L1: Object-oriented • JIT-compiled • AI-native • Robust APIs
+> L21: - 🚀 **JIT-compiled** for performance (ARM64/AMD64)
 > L22: - 🤖 **AI-native**: OpenAI, Anthropic, Gemini, Ollama, ONNX, OpenCV — no third-party packages
-> L29: AI/ML prototyping • Computer vision • Web services • Real-time applications • Game development
+> L26: - 🔧 **Full-featured**: Threads, generics, closures, reflection, serialization
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `1a608133dff8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `01c37485d059` · [字段定义](../../DATASET.md)*

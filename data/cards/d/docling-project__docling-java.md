@@ -2,9 +2,9 @@
 
 ⭐ 144 · Java · MIT · 推送 2026-11-25 · [GitHub](https://github.com/docling-project/docling-java) · [官网](https://docling-project.github.io/docling-java/) · 组织维护
 
-**Docling 文档转换能力的 Java API 与客户端库**
+**给 Java 开发者的 Docling 文档处理 API**
 
-为 Docling 文档处理项目提供 Java 接入：docling-core 提供 DoclingDocument 数据类型的 Java API，docling-serve-api 定义与 Docling Serve 后端交互的框架无关接口，docling-serve-client 基于 HttpClient 与 Jackson 给出参考实现，另含测试工具与 Testcontainers 模块（在 Docker 容器中运行 Docling）。文档转换本身由 Docling 后端执行，支持 PDF/DOCX/音频/图片等多格式解析与 Markdown/HTML/JSON 等导出，并提供 LangChain4j 集成。面向在 JVM 生态中接入 Docling 的开发者。
+Docling Java 提供 Java 语言的 API，用于使用 Docling 进行文档解析与转换：支持 PDF、DOCX、PPTX、XLSX、HTML、音视频与图片等多种格式的解析，包含 PDF 版面/表格/公式理解、OCR、ASR 及视觉语言模型支持，输出 Markdown、HTML、DocTags、JSON 等格式。项目由多个 Maven 构件组成，核心 API 面向 Docling Serve 后端交互，另提供 Testcontainers 模块以 Docker 容器方式运行 Docling。由 IBM Research Zurich 的 AI for knowledge 团队发起，MIT 许可。README 未给出完整安装命令，仅指向 Maven 构件与文档。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 四个 Maven 工件：core 数据类型 API、serve-api 接口、serve-client 参考实现、testcontainers 模块
-- 通过 DoclingServeApi.convertSource() 转换单个文档
-- 支持与 LangChain4j 即插即用集成
-- Testcontainers 模块可在 Docker 容器中运行 Docling
+- 多格式文档解析：PDF/DOCX/PPTX/XLSX/HTML/音频/图片
+- 高级 PDF 理解（版面、表格、公式）与 OCR 支持
+- docling-serve-client 通过 HttpClient 连接 Docling Serve 端点
+- docling-testcontainers 支持以 Docker 容器运行 Docling
 
 ## 适用场景
 
-- 在 Java 应用中调用 Docling Serve 做文档转换
-- 为 RAG 流水线准备 Markdown/HTML/JSON 格式文档
-- 用 Testcontainers 在集成测试中运行 Docling
+- 在 Java 应用中把各类文档转换为 Markdown/JSON 供下游使用
+- 为 RAG 流水线准备文档解析与结构化输出
+- 用 Testcontainers 在测试中以容器方式运行 Docling
 
 ## 场景标签
 
-`文档解析` · 领域:知识与检索
+`文档解析` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L5: This is the repository for Docling Java, a Java API for using Docling.
 > L42: - `docling-serve-api`: Java API for interacting with a Docling Serve backend. It's framework‑agnostic.
-> L43: * `docling-serve-client`: A reference implementation of the `docling-serve-api` using Java's `HttpClient` and Jacks
+> L80: The project was started by the AI for knowledge team at IBM Research Zurich.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9c867f73cb1d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `d5f2b182f9e5` · [字段定义](../../DATASET.md)*

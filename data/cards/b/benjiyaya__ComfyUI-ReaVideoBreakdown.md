@@ -2,9 +2,9 @@
 
 ⭐ 160 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/benjiyaya/ComfyUI-ReaVideoBreakdown) · 个人维护 · 中文 README
 
-**ComfyUI 节点：逐镜头拆解视频并生成文生视频提示词**
+**ComfyUI 节点：逐镜头解析视频并生成文生视频提示词**
 
-以单个 ComfyUI 自定义节点形式提供逐镜头视频逆向拆解：先用 OpenCV（HSV 直方图+像素差、自适应阈值）做镜头切分，再用 Lucas–Kanade 光流加 RANSAC 测量运镜（pan/zoom/手持），然后通过 ComfyUI 原生 CLIPLoader 加载的 VLM 文本编码器逐镜头生成制作方式判定、内容描述、镜头语言与可用的文生视频提示词，输出 VIDEO.md、结构化 JSON、分隔提示词与关键帧。支持 en/zh 报告；节点本身除 numpy/opencv 外无额外依赖。仅做视觉分析，不含音频/OCR。
+以两个 ComfyUI 自定义节点实现逐镜头视频逆向解析：节点 1 用 OpenCV 做镜头切分（HSV 直方图+像素差）与光流运动测量，再经 ComfyUI 原生 VLM 文本编码器路径（CLIPLoader，tokenize→generate→decode）对每个镜头输出来源类型、内容描述、镜头运动与可用文生视频提示词，输出 VIDEO.md、结构化 JSON 与分隔提示词；节点 2 将解析结果加参考图改写为 MiniMax H3 Ref2VA 格式提示词。安装仅需 git clone + pip（numpy/opencv），需较新版本 ComfyUI；不支持音频分析、OCR 与字幕导出。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 镜头切分与逐镜头分析（制作方式、内容、运镜测量）
-- 复用 ComfyUI 原生 VLM 文本编码器路径（CLIPLoader），节点零额外依赖
-- 输出 VIDEO.md、结构化 JSON、逐镜头分隔提示词与关键帧
-- 支持中英文报告与提示词切换
+- OpenCV 镜头检测（HSV 直方图距离+自适应阈值）与光流+RANSAC 运动测量
+- 经 ComfyUI 原生 VLM 文本编码器路径逐镜头生成描述与提示词，无需额外 API
+- 输出 VIDEO.md 报告、结构化 JSON 与按镜头分隔的文生视频提示词
+- 支持 en/zh 报告语言切换与离线 CPU 测试套件
 
 ## 适用场景
 
-- 把现有视频拆解为逐镜头提示词，接入 Wan/Kling/Veo/Sora 类节点重制
-- 分析一段视频由实拍、AI 生成还是 3D 渲染构成
-- 为剪辑流程提取镜头边界与时码顺序
+- 拆解一段视频的镜头构成、制作方式与运镜参数
+- 为每个镜头生成可直接投入文生视频模型的提示词
+- 带参考图改写整段视频为 MiniMax H3 Ref2VA 格式提示词
+- 用中文输出解析报告与提示词
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L8: **Shot-by-shot video reverse engineering** (the rea-video idea) as a single ComfyUI custom node.
-> L31: You load a **vision-language text encoder** with the core **CLIPLoader**
-> L48: video frames ──▶ shot detection (OpenCV, CPU) ──▶ per shot: sample N frames ──▶ native VLM ──▶ JSON record ──▶ VIDE
+> L8: **Shot-by-shot video reverse engineering** (the rea-video idea) as two ComfyUI nodes:
+> L10: 1. **Video Breakdown (Rea · native VLM)** — point it at any video and it splits the footage into shots, then for **
+> L14:  - **a ready-to-use text-to-video prompt** — one per shot, delimited and wired straight into your favourite video m
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `075eb70875e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `172b919525ef` · [字段定义](../../DATASET.md)*
