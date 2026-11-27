@@ -38,6 +38,18 @@ README 内容极简：声称提供一款追踪轮盘走势、分析统计数据�
 > L3: Read how it works and download here:
 > L12:  Full details, neural model overview, and **99.6%** accuracy stats are on the official page.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "IvoStellarander90361/Robrun-Roulette-AI-Analyzer-Statistics-Predictor-Tool-work 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-11-26 30 → 2026-11-27 30（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `47bc05aac521` · [字段定义](../../DATASET.md)*

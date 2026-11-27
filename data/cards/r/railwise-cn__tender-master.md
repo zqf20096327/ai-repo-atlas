@@ -1,6 +1,6 @@
 # railwise-cn/tender-master
 
-⭐ 13 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/railwise-cn/tender-master) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/railwise-cn/tender-master) · 组织维护 · 中文 README
 
 **供 coding agent 调用的招投标技术标编制 Skill 与智能体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "railwise-cn/tender-master 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 10, 11, 12, 13, 13]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 10, 11, 12, 13, 14]
 ```
 
-2026-10-24 10 → 2026-11-26 13（+3）
+2026-10-25 10 → 2026-11-27 14（+4）
 
 
 ---

@@ -42,6 +42,18 @@ TypeScript 编写的伪 3D 场景渲染库：接收纯对象/JSON 描述的场�
 > L15: **Use it from an AI model**: an MCP server lets Claude and other models write a scene, look at the picture and corr
 > L37: It is not a 3D engine. There is no perspective, no textures and no light to place, and shapes that cut deep into ea
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rxolve/zpup 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-26 25 → 2026-11-27 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `798d38a769d8` · [字段定义](../../DATASET.md)*

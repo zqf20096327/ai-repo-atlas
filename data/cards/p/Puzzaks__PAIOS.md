@@ -1,6 +1,6 @@
 # Puzzaks/PAIOS
 
-⭐ 173 · Dart · Unlicense · 推送 2026-11-20 · [GitHub](https://github.com/Puzzaks/PAIOS) · [官网](https://puzzak.page) · 个人维护
+⭐ 174 · Dart · Unlicense · 推送 2026-11-20 · [GitHub](https://github.com/Puzzaks/PAIOS) · [官网](https://puzzak.page) · 个人维护
 
 **离线运行 Gemini Nano 的 Android 端私人 AI 助手应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Puzzaks/PAIOS 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 168 --> 174
-    line [169, 170, 169, 171, 172, 173]
+    title "Puzzaks/PAIOS 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 168 --> 175
+    line [169, 170, 169, 171, 172, 173, 174]
 ```
 
-2026-10-24 169 → 2026-11-26 173（+4）
+2026-10-25 169 → 2026-11-27 174（+5）
 
 
 ---

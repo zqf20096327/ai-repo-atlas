@@ -1,6 +1,6 @@
 # NeuralNomadsAI/CodeNomad
 
-⭐ 2,682 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NeuralNomadsAI/CodeNomad) · [官网](https://neuralnomadsai.github.io/CodeNomad/) · 组织维护
+⭐ 2,683 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NeuralNomadsAI/CodeNomad) · [官网](https://neuralnomadsai.github.io/CodeNomad/) · 组织维护
 
 **面向 OpenCode V2 的桌面/浏览器编程 Agent 工作台**
 
@@ -45,13 +45,13 @@ CodeNomad 是为 OpenCode V2 提供的桌面与浏览器工作区，面向跨项
 
 ```mermaid
 xychart-beta
-    title "NeuralNomadsAI/CodeNomad 星数(近 13 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 2655 --> 2684
-    line [2657, 2663, 2667, 2669, 2670, 2672, 2677, 2676, 2675, 2676, 2678, 2680, 2682]
+    title "NeuralNomadsAI/CodeNomad 星数(近 14 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2655 --> 2685
+    line [2657, 2663, 2667, 2669, 2670, 2672, 2677, 2676, 2675, 2676, 2678, 2680, 2682, 2683]
 ```
 
-2026-11-02 2,657 → 2026-11-26 2,682（+25）
+2026-11-02 2,657 → 2026-11-27 2,683（+26）
 
 
 ---

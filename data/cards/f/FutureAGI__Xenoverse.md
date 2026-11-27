@@ -1,6 +1,6 @@
 # FutureAGI/Xenoverse
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/FutureAGI/Xenoverse) · [官网](https://futureagi.github.io/) · 组织维护 · 中文 README
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/FutureAGI/Xenoverse) · [官网](https://futureagi.github.io/) · 组织维护 · 中文 README
 
 **通用决策能力评测环境集合：随机世界基准生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FutureAGI/Xenoverse 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-24 24 → 2026-11-26 24（+0）
+2026-10-25 24 → 2026-11-27 24（+0）
 
 
 ---

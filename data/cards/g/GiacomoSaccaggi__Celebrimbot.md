@@ -45,13 +45,13 @@ IntelliJ 平台插件，在 IDE 内提供多 Agent 系统：按托尔金角色�
 
 ```mermaid
 xychart-beta
-    title "GiacomoSaccaggi/Celebrimbot 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "GiacomoSaccaggi/Celebrimbot 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 14
-    line [10, 12, 13]
+    line [10, 12, 13, 13]
 ```
 
-2026-10-24 10 → 2026-11-26 13（+3）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

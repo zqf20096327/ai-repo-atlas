@@ -1,6 +1,6 @@
 # sidequery/sqlctx
 
-⭐ 143 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/sidequery/sqlctx) · [官网](https://sidemantic.com) · 组织维护
+⭐ 145 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/sidequery/sqlctx) · [官网](https://sidemantic.com) · 组织维护
 
 **开源语义层运行时：一次定义指标，多端一致查询**
 
@@ -47,12 +47,12 @@ sqlctx 定位为语义运行时，将指标定义一次后供 SQL、CLI、Python
 ```mermaid
 xychart-beta
     title "sidequery/sqlctx 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 142 --> 144
-    line [143, 143]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 142 --> 146
+    line [143, 145]
 ```
 
-2026-11-25 143 → 2026-11-26 143（+0）
+2026-11-25 143 → 2026-11-27 145（+2）
 
 
 ---

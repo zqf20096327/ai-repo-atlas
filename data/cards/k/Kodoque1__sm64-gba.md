@@ -1,6 +1,6 @@
 # Kodoque1/sm64-gba
 
-⭐ 18 · C · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Kodoque1/sm64-gba) · 个人维护
+⭐ 19 · C · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Kodoque1/sm64-gba) · 个人维护
 
 **SM64 移动与碰撞代码的 GBA 移植，逐位一致，附可玩 demo**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kodoque1/sm64-gba 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 18, 15, 18, 18]
+    title "Kodoque1/sm64-gba 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 14 --> 20
+    line [15, 18, 15, 18, 19]
 ```
 
-2026-10-24 14 → 2026-11-26 18（+4）
+2026-10-25 15 → 2026-11-27 19（+4）
 
 
 ---

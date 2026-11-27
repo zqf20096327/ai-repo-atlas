@@ -1,6 +1,6 @@
 # CypherSisters/PuffPAIBuildBot
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/CypherSisters/PuffPAIBuildBot) · [官网](https://www.puffpai.com) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/CypherSisters/PuffPAIBuildBot) · [官网](https://www.puffpai.com) · 组织维护
 
 **本机自建私人 AI 机器人的构建向导：说需求，生成计划并搭建**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CypherSisters/PuffPAIBuildBot 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 7 --> 20
-    line [8, 10, 11, 12, 10, 13, 14, 15, 16, 17, 18, 19, 19]
+    title "CypherSisters/PuffPAIBuildBot 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 9 --> 20
+    line [10, 11, 12, 10, 13, 14, 15, 16, 17, 18, 19, 19]
 ```
 
-2026-10-24 8 → 2026-11-26 19（+11）
+2026-10-25 10 → 2026-11-27 19（+9）
 
 
 ---

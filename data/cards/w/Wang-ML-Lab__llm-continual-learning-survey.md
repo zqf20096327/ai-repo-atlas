@@ -45,13 +45,13 @@ ACM Computing Surveys 2025 论文 "Continual Learning of Large Language Models: 
 
 ```mermaid
 xychart-beta
-    title "Wang-ML-Lab/llm-continual-learning-survey 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "Wang-ML-Lab/llm-continual-learning-survey 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 566 --> 570
-    line [567, 568, 569]
+    line [567, 568, 569, 569]
 ```
 
-2026-10-24 567 → 2026-11-26 569（+2）
+2026-10-25 567 → 2026-11-27 569（+2）
 
 
 ---

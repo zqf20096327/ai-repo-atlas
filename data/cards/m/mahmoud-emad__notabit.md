@@ -1,6 +1,6 @@
 # mahmoud-emad/notabit
 
-⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mahmoud-emad/notabit) · [官网](https://mahmoud-emad.github.io/notabit/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mahmoud-emad/notabit) · [官网](https://mahmoud-emad.github.io/notabit/) · 个人维护
 
 **自托管的开源 NotebookLM 替代：把资料变成带引用的解说课件与音视频概览**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mahmoud-emad/notabit 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-25 14 → 2026-11-26 14（+0）
+2026-11-25 14 → 2026-11-27 14（+0）
 
 
 ---

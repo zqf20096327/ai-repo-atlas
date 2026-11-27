@@ -1,6 +1,6 @@
 # ofershap/tailwind-best-practices
 
-⭐ 13 · JavaScript · MIT · 推送 2026-02-20 · [GitHub](https://github.com/ofershap/tailwind-best-practices) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-02-20 · [GitHub](https://github.com/ofershap/tailwind-best-practices) · 个人维护
 
 **约束 AI 编码代理输出 Tailwind v4 语法的规则技能包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ofershap/tailwind-best-practices 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

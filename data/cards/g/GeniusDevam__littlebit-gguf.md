@@ -1,6 +1,6 @@
 # GeniusDevam/littlebit-gguf
 
-⭐ 4 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/GeniusDevam/littlebit-gguf) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/GeniusDevam/littlebit-gguf) · [官网](https://huggingface.co/DaddyDevam/littlebit-qwen3-0.6b) · 个人维护
 
 **在 llama.cpp 中以 Q1_0 格式运行 sub-1-bit LittleBit 模型**
 
@@ -40,6 +40,18 @@
 > L3: Run **sub-1-bit LittleBit and LittleBit-2 language models in llama.cpp**, using the 1-bit `Q1_0` tensor type llama.c
 > L50: |llama.cpp CPU patch|Done for Llama, Qwen2 and Qwen3 with projection inputs divisible by 128.|
 > L56: Until the changes are upstream, LittleBit GGUF files need the patched build from this repo. Stock llama.cpp, Ollama
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GeniusDevam/littlebit-gguf 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

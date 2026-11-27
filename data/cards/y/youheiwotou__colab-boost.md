@@ -41,6 +41,18 @@
 > L3: > **属于我们自己的 Google Colab 模型极速部署与算力护栏控制台** — 原生支持 Windows（免 WSL / 免外部 CLI）、多账号算力实时监控、显存保底自动重抽（如锁 80GB A100 / 96GB G4）
 > L16: |**开箱即用模型配方**|仅支持单一 GGUF 或每次手动执行繁琐编译脚本|内置 **5 套生产级部署配方**：`GGUF (llama.cpp 预编译 CUDA)`、`vLLM 高吞吐推理`、`ComfyUI 视觉/视频工作台
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "youheiwotou/colab-boost 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fc42ef5d89ec` · [字段定义](../../DATASET.md)*

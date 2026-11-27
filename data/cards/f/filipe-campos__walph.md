@@ -1,6 +1,6 @@
 # filipe-campos/walph
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/filipe-campos/walph) · [官网](https://filipe-campos.github.io/walph) · 个人维护
+⭐ 9 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/filipe-campos/walph) · [官网](https://filipe-campos.github.io/walph) · 个人维护
 
 **内建 Claude Code 面板的跨平台桌面 IDE**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "filipe-campos/walph 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-27"]
     y-axis "stars" 4 --> 10
     line [5, 8, 9, 9]
 ```
 
-2026-11-11 5 → 2026-11-26 9（+4）
+2026-11-11 5 → 2026-11-27 9（+4）
 
 
 ---

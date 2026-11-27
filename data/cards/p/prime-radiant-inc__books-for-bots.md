@@ -1,6 +1,6 @@
 # prime-radiant-inc/books-for-bots
 
-⭐ 147 · Rust · MIT · 推送 2026-08-06 · [GitHub](https://github.com/prime-radiant-inc/books-for-bots) · 组织维护
+⭐ 148 · Rust · MIT · 推送 2026-08-06 · [GitHub](https://github.com/prime-radiant-inc/books-for-bots) · 组织维护
 
 **把 EPUB 转成带章节偏移的 Markdown，供 LLM agent 定位阅读**
 
@@ -45,12 +45,12 @@ Rust 编写的 CLI 工具，将 EPUB 电子书转换为单一 Markdown 文件：
 ```mermaid
 xychart-beta
     title "prime-radiant-inc/books-for-bots 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 145 --> 148
-    line [146, 147, 147]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 145 --> 149
+    line [146, 147, 148]
 ```
 
-2026-10-24 146 → 2026-11-26 147（+1）
+2026-10-25 146 → 2026-11-27 148（+2）
 
 
 ---

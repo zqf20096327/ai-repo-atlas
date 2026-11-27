@@ -1,6 +1,6 @@
 # joeynyc/hermes-hudui
 
-⭐ 1,864 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/joeynyc/hermes-hudui) · 个人维护 · 中文 README
+⭐ 1,866 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/joeynyc/hermes-hudui) · 个人维护 · 中文 README
 
 **为 Hermes 记忆型 AI Agent 提供浏览器端监控仪表盘**
 
@@ -45,13 +45,13 @@ Hermes Agent 的 Web UI 监控面板：读取 ~/.hermes/ 数据目录与 hermes 
 
 ```mermaid
 xychart-beta
-    title "joeynyc/hermes-hudui 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
-    y-axis "stars" 1862 --> 1865
-    line [1863, 1864]
+    title "joeynyc/hermes-hudui 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1862 --> 1867
+    line [1863, 1864, 1866]
 ```
 
-2026-11-23 1,863 → 2026-11-26 1,864（+1）
+2026-11-23 1,863 → 2026-11-27 1,866（+3）
 
 
 ---

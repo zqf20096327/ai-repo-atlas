@@ -1,6 +1,6 @@
 # Under-Research-Labs/CONTINUUM
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Under-Research-Labs/CONTINUUM) · [官网](https://continuum-nu-six.vercel.app) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Under-Research-Labs/CONTINUUM) · [官网](https://continuum-nu-six.vercel.app) · 组织维护
 
 **为长时运行 AI agent 提供语义检查点与崩溃恢复的基础设施**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Under-Research-Labs/CONTINUUM 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-25", "2026-11-27"]
     y-axis "stars" 25 --> 28
     line [26, 27, 26, 26]
 ```
 
-2026-11-08 26 → 2026-11-26 26（+0）
+2026-11-08 26 → 2026-11-27 26（+0）
 
 
 ---

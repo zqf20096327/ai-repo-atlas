@@ -41,6 +41,18 @@
 > L15: We were not able to reproduce the original study’s results with publicly available data. Our algorithm’s area under
 > L70: To start training with default settings, run `$ python train.py`. The model with the highest validation AUC is save
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mikevoets/jama16-retina-replication 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 117 --> 119
+    line [118, 118]
+```
+
+2026-11-26 118 → 2026-11-27 118（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `8d6322f575c1` · [字段定义](../../DATASET.md)*

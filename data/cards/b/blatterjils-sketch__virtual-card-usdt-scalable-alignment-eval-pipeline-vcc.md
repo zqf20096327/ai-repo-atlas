@@ -1,6 +1,6 @@
 # blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc
 
-⭐ 86 · 推送 2026-11-16 · [GitHub](https://github.com/blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 100 · 推送 2026-11-16 · [GitHub](https://github.com/blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **用 CoreGold 虚拟卡为 AI 评估批跑提供预算限额与资金管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc 星数(近 7 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 94
-    line [6, 11, 15, 25, 37, 59, 86]
+    title "blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc 星数(近 8 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 109
+    line [6, 11, 15, 25, 37, 59, 86, 100]
 ```
 
-2026-11-16 6 → 2026-11-26 86（+80）
+2026-11-16 6 → 2026-11-27 100（+94）
 
 
 ---

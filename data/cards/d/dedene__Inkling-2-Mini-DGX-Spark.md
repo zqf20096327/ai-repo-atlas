@@ -41,6 +41,18 @@
 > L3: Serve Inkling 2 Mini from Thinking Machines on one NVIDIA DGX Spark with vLLM. One command downloads the pinned firs
 > L7: **Hardware:** DGX Spark (GB10, sm_121, aarch64), driver 580, CUDA 13, Docker with the NVIDIA Container Toolkit and C
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dedene/Inkling-2-Mini-DGX-Spark 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-26 7 → 2026-11-27 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b7126866533c` · [字段定义](../../DATASET.md)*

@@ -41,6 +41,18 @@
 > L30: ## Use in AI pipelines (RAG, search, VLM)
 > L23: It ships as a single pure-Rust binary or an 81 MB container, and runs offline
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aileron-tech/dwg2png 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-26 17 → 2026-11-27 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `1373b4684aac` · [字段定义](../../DATASET.md)*

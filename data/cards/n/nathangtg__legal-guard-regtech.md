@@ -47,12 +47,12 @@ IBM TechXchange Hackathon 2025 提交项目，基于 FastAPI + React/TypeScript 
 ```mermaid
 xychart-beta
     title "nathangtg/legal-guard-regtech 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 31 --> 34
     line [32, 33, 32, 33, 33]
 ```
 
-2026-10-24 32 → 2026-11-26 33（+1）
+2026-10-25 32 → 2026-11-27 33（+1）
 
 
 ---

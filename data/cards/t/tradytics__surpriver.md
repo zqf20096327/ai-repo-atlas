@@ -1,6 +1,6 @@
 # tradytics/surpriver
 
-⭐ 1,887 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/tradytics/surpriver) · [官网](https://www.tradytics.com/) · 组织维护
+⭐ 1,888 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/tradytics/surpriver) · [官网](https://www.tradytics.com/) · 组织维护
 
 **用异常检测在股价大波动前筛出异动股票的工具**
 
@@ -39,6 +39,18 @@
 
 > L2: Find high moving stocks before they move using anomaly detection and machine learning. Surpriver uses machine learni
 > L17: | detection_engine.py | Main module for running anomaly detection on data and finding stocks with most unusual pric
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tradytics/surpriver 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 1886 --> 1889
+    line [1887, 1888]
+```
+
+2026-11-26 1,887 → 2026-11-27 1,888（+1）
 
 
 ---

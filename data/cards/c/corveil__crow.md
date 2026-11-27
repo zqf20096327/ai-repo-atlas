@@ -1,6 +1,6 @@
 # corveil/crow
 
-⭐ 21 · Swift · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/corveil/crow) · 个人维护
+⭐ 21 · Swift · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/corveil/crow) · 个人维护
 
 **自托管 Web 会话管理器：并行编排多个 AI 编码 agent 与 git worktree**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "corveil/crow 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-24 20 → 2026-11-26 21（+1）
+2026-10-25 20 → 2026-11-27 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # JialingRichard/nextunit-bench
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/JialingRichard/nextunit-bench) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/JialingRichard/nextunit-bench) · 组织维护
 
 **面向 LLM coding agent 的 PHM 部署式基准（24 数据集）**
 
@@ -40,6 +40,18 @@
 > L25: Deployment-style evaluation. The agent sees the task description and the development units, works for two hours in 
 > L35: - **Any modeler:** LLM agents, AutoML, published methods, or your own pipeline are scored by the same evaluator.
 > L92: - Contains: the frozen benchmark definition (task descriptions, splits,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JialingRichard/nextunit-bench 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kuhumcst/DanNet
 
-⭐ 29 · Clojure · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kuhumcst/DanNet) · [官网](https://wordnet.dk) · 组织维护
+⭐ 29 · Clojure · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kuhumcst/DanNet) · [官网](https://wordnet.dk) · 组织维护
 
 **丹麦语 WordNet 词汇语义网络数据集与 RDF 知识图谱应用**
 
@@ -46,12 +46,12 @@ DanNet 是丹麦语的 WordNet，以 RDF 为原生表示，涵盖数据库层、
 ```mermaid
 xychart-beta
     title "kuhumcst/DanNet 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-24 29 → 2026-11-26 29（+0）
+2026-10-25 29 → 2026-11-27 29（+0）
 
 
 ---

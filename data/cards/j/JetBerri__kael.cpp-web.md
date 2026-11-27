@@ -40,6 +40,18 @@ kael.cpp 项目网站的源码，内容为一本逐层重建 kael C++ 深度学�
 > L3: Source of the kael.cpp website: the book that rebuilds the kael deep learning framework one layer at a time, design 
 > L20: content/book/        one page per chapter of the book
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JetBerri/kael.cpp-web 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4a56e643de28` · [字段定义](../../DATASET.md)*

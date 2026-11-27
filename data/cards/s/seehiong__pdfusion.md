@@ -1,6 +1,6 @@
 # seehiong/pdfusion
 
-⭐ 69 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/seehiong/pdfusion) · [官网](https://seehiong.github.io/pdfusion/) · 个人维护
+⭐ 70 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/seehiong/pdfusion) · [官网](https://seehiong.github.io/pdfusion/) · 个人维护
 
 **浏览器内 PDF 解析与 Markdown 转换工具（BYOK 视觉 OCR）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seehiong/pdfusion 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
-    y-axis "stars" 66 --> 70
-    line [67, 68, 67, 68, 69, 69]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-27"]
+    y-axis "stars" 66 --> 71
+    line [67, 68, 67, 68, 69, 70]
 ```
 
-2026-10-24 67 → 2026-11-26 69（+2）
+2026-10-25 67 → 2026-11-27 70（+3）
 
 
 ---

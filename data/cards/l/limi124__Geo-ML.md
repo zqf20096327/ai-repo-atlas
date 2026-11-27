@@ -1,6 +1,6 @@
 # limi124/Geo-ML
 
-⭐ 19 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/limi124/Geo-ML) · 个人维护 · 中文 README
+⭐ 23 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/limi124/Geo-ML) · 个人维护 · 中文 README
 
 **面向地理/GIS/遥感方向读者的中文机器学习实战教程（8 章 Notebook）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "limi124/Geo-ML 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 8 --> 20
-    line [9, 19]
+    title "limi124/Geo-ML 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 24
+    line [9, 19, 23]
 ```
 
-2026-11-25 9 → 2026-11-26 19（+10）
+2026-11-25 9 → 2026-11-27 23（+14）
 
 
 ---

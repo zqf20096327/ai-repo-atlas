@@ -41,6 +41,18 @@ ezBIDS 将神经生理（EEG/MEG/iEEG/NIRS/EMG）、神经影像（MRI/PET）与
 > L17: check and the BIDS validator before anything can be uploaded, and you review every decision. The AI model is
 > L41: Unlike other BIDS converters, ezBIDS eliminates the need for coding and command line interfaces (CLI), doing the bu
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "brainlife/ezbids 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 31 --> 33
+    line [32, 32]
+```
+
+2026-11-26 32 → 2026-11-27 32（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6c6c4c1fe149` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Sean-Hawks/slurmtop
 
-⭐ 23 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Sean-Hawks/slurmtop) · 组织维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Sean-Hawks/slurmtop) · 组织维护 · 中文 README
 
 **单文件 Python 脚本：跨节点查看 GPU 占用者与利用率**
 
@@ -45,13 +45,13 @@ slurmtop 是一个仅依赖 Python 标准库（3.8+）的单文件脚本，通�
 
 ```mermaid
 xychart-beta
-    title "Sean-Hawks/slurmtop 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 12 --> 24
-    line [13, 23]
+    title "Sean-Hawks/slurmtop 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 12 --> 25
+    line [13, 23, 24]
 ```
 
-2026-10-24 13 → 2026-11-26 23（+10）
+2026-10-25 13 → 2026-11-27 24（+11）
 
 
 ---

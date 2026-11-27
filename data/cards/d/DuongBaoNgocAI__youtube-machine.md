@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "DuongBaoNgocAI/youtube-machine 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    title "DuongBaoNgocAI/youtube-machine 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 10
-    line [3, 4, 9]
+    line [3, 4, 9, 9]
 ```
 
-2026-11-23 3 → 2026-11-26 9（+6）
+2026-11-23 3 → 2026-11-27 9（+6）
 
 
 ---

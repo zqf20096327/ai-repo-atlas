@@ -45,12 +45,12 @@ Milvus 官方维护的 Haystack Document Store 集成包：以 MilvusDocumentSto
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-haystack 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-24 24 → 2026-11-26 24（+0）
+2026-10-25 24 → 2026-11-27 24（+0）
 
 
 ---

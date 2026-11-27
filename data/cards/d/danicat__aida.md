@@ -41,6 +41,18 @@ AIDA 是运行在本机的应急诊断 Agent，通过 osquery 检查系统状态
 > L9: * **100% Local & Private**: Runs entirely on your machine using local LLMs (via Ollama) and on-device embedding mode
 > L20: * **LLM**: Supports **Gemini 2.5 Flash**, **Qwen 2.5**, and **GPT-OSS** (via Ollama) for reasoning and tool use.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "danicat/aida 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-26 15 → 2026-11-27 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ac7eb286c3cf` · [字段定义](../../DATASET.md)*

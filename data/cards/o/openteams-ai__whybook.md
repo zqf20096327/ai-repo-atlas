@@ -1,6 +1,6 @@
 # openteams-ai/whybook
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openteams-ai/whybook) · [官网](https://whybook.dev) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openteams-ai/whybook) · [官网](https://whybook.dev) · 组织维护
 
 **研究者向 JupyterLab 扩展：以提问驱动数据分析并披露每个结果的依据**
 
@@ -44,13 +44,13 @@ Whybook 是 JupyterLab 扩展，为笔记本提供一种提问式视图：分析
 
 ```mermaid
 xychart-beta
-    title "openteams-ai/whybook 星数(近 7 点)"
-    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 4 --> 13
-    line [5, 6, 5, 7, 8, 10, 12]
+    title "openteams-ai/whybook 星数(近 8 点)"
+    x-axis ["2026-10-19", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 15
+    line [5, 6, 5, 7, 8, 10, 12, 14]
 ```
 
-2026-10-19 5 → 2026-11-26 12（+7）
+2026-10-19 5 → 2026-11-27 14（+9）
 
 
 ---

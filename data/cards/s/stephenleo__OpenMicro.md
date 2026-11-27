@@ -1,6 +1,6 @@
 # stephenleo/OpenMicro
 
-⭐ 135 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/stephenleo/OpenMicro) · 个人维护
+⭐ 136 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/stephenleo/OpenMicro) · 个人维护
 
 **用游戏手柄驱动 Claude Code / Codex CLI 的 macOS 控制器工具**
 
@@ -46,12 +46,12 @@ OpenMicro 将 DualSense、GameSir 等游戏手柄接入 Claude Code 与 Codex CL
 ```mermaid
 xychart-beta
     title "stephenleo/OpenMicro 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 133 --> 136
-    line [134, 135, 135]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 133 --> 137
+    line [134, 135, 136]
 ```
 
-2026-10-24 134 → 2026-11-26 135（+1）
+2026-10-25 134 → 2026-11-27 136（+2）
 
 
 ---

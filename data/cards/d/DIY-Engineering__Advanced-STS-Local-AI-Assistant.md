@@ -1,6 +1,6 @@
 # DIY-Engineering/Advanced-STS-Local-AI-Assistant
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/DIY-Engineering/Advanced-STS-Local-AI-Assistant) · [官网](https://www.youtube.com/@DIY_Engineering/featured) · 个人维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/DIY-Engineering/Advanced-STS-Local-AI-Assistant) · [官网](https://www.youtube.com/@DIY_Engineering/featured) · 个人维护
 
 **全离线语音对话 AI 助手桌面应用：语音识别+本地 LLM+语音合成+RAG**
 
@@ -46,12 +46,12 @@ Windows 桌面应用，面向注重隐私的个人用户，实现端到端语音
 ```mermaid
 xychart-beta
     title "DIY-Engineering/Advanced-STS-Local-AI-Assistant 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 16（+0）
 
 
 ---

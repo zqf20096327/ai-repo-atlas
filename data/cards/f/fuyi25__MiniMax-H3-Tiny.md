@@ -1,6 +1,6 @@
 # fuyi25/MiniMax-H3-Tiny
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/fuyi25/MiniMax-H3-Tiny) · [官网](https://fuyi25.github.io/MiniMax-H3-Tiny/) · 个人维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/fuyi25/MiniMax-H3-Tiny) · [官网](https://fuyi25.github.io/MiniMax-H3-Tiny/) · 个人维护
 
 **MiniMax H3 结构化剪枝的 14B/17B 视频+音频生成模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fuyi25/MiniMax-H3-Tiny 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 35 --> 52
-    line [36, 39, 51]
+    title "fuyi25/MiniMax-H3-Tiny 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 33 --> 74
+    line [36, 39, 51, 71]
 ```
 
-2026-11-23 36 → 2026-11-26 51（+15）
+2026-11-23 36 → 2026-11-27 71（+35）
 
 
 ---

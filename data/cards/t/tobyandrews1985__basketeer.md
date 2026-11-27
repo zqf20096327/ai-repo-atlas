@@ -1,6 +1,6 @@
 # tobyandrews1985/basketeer
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/tobyandrews1985/basketeer) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tobyandrews1985/basketeer) · 个人维护
 
 **自动化个人 Tesco 网购账户的 TypeScript SDK（含 MCP/CLI）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tobyandrews1985/basketeer 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-26"]
+    title "tobyandrews1985/basketeer 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 14 --> 21
-    line [15, 16, 15, 17, 18, 19, 20, 19, 20]
+    line [15, 16, 15, 17, 18, 19, 20, 19, 20, 20]
 ```
 
-2026-10-24 15 → 2026-11-26 20（+5）
+2026-10-25 15 → 2026-11-27 20（+5）
 
 
 ---

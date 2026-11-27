@@ -1,6 +1,6 @@
 # sametkabay/agent-arena
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/sametkabay/agent-arena) · [官网](https://sametkabay.github.io/agent-arena/) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sametkabay/agent-arena) · [官网](https://sametkabay.github.io/agent-arena/) · 个人维护
 
 **浏览器端多智能体 3D 沙盒：在地图上放置 LLM 角色并对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sametkabay/agent-arena 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "sametkabay/agent-arena 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 13 --> 19
-    line [14, 15, 16, 14, 17, 18]
+    line [14, 15, 16, 14, 17, 18, 18]
 ```
 
-2026-10-24 14 → 2026-11-26 18（+4）
+2026-10-25 14 → 2026-11-27 18（+4）
 
 
 ---

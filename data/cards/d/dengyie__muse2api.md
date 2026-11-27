@@ -1,6 +1,6 @@
 # dengyie/muse2api
 
-⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dengyie/muse2api) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/dengyie/muse2api) · 个人维护 · 中文 README
 
 **把 muse.ai 网页端封装为 OpenAI 兼容 API 的反向代理网关**
 
@@ -40,6 +40,18 @@
 > L9: 将 **muse.ai** 网页端的前沿多模态能力逆向工程封装为标准的 **OpenAI 兼容 RESTful API**。通过无头浏览器 CDP 协议穿透、热备 WebSocket 隧道复用与动态 Session 管理，原生支持文
 > L55: - 💬 **标准对话接口（Chat Completions & Responses API）**
 > L66:  - 原生对接 Muse 顶配视频生成模型，可传递 5 秒 / 6 秒 / 8 秒 / 10 秒的时长请求（实际成片时长以 Muse 上游输出为准）及 `9:16` 竖屏 / `16:9` 横屏视频生成。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dengyie/muse2api 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -39,6 +39,18 @@
 > L10: This simple Model Context Protocol (MCP) client demonstrates the use of MCP server tools by LangChain ReAct Agent.
 > L18: It leverages a utility function `convert_mcp_to_langchain_tools()`. This function handles parallel initialization o
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datalayer/langchain-mcp-client 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `10ed050bf8f8` · [字段定义](../../DATASET.md)*

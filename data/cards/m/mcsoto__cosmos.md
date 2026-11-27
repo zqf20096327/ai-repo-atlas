@@ -1,6 +1,6 @@
 # mcsoto/cosmos
 
-⭐ 176 · Prolog · 推送 2026-11-24 · [GitHub](https://github.com/mcsoto/cosmos) · [官网](https://cosmos-lang.github.io/) · 个人维护
+⭐ 176 · Prolog · 推送 2026-11-26 · [GitHub](https://github.com/mcsoto/cosmos) · [官网](https://cosmos-lang.github.io/) · 个人维护
 
 **面向通用编程的多范式逻辑编程语言及其自举编译器**
 
@@ -45,12 +45,12 @@ Cosmos 是一种逻辑编程语言，v1 提供函数-逻辑核心，支持表格
 ```mermaid
 xychart-beta
     title "mcsoto/cosmos 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 175 --> 178
     line [177, 176, 176]
 ```
 
-2026-10-24 177 → 2026-11-26 176（-1）
+2026-10-25 177 → 2026-11-27 176（-1）
 
 
 ---

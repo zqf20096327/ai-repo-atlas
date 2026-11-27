@@ -1,6 +1,6 @@
 # solplum/high-confidence-mingli-skill
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/solplum/high-confidence-mingli-skill) · 个人维护 · 中文 README
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/solplum/high-confidence-mingli-skill) · 个人维护 · 中文 README
 
 **装进 agent CLI 的命理解读技能：三盘互译+置信度门禁**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "solplum/high-confidence-mingli-skill 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 11（+1）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

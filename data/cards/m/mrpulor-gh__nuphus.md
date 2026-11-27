@@ -1,6 +1,6 @@
 # mrpulor-gh/nuphus
 
-⭐ 102 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mrpulor-gh/nuphus) · [官网](https://github.com/mrpulor-gh/nuphus) · 个人维护 · 中文 README
+⭐ 103 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mrpulor-gh/nuphus) · [官网](https://github.com/mrpulor-gh/nuphus) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI Agent：屏幕识别与键鼠自动化+手机遥控**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mrpulor-gh/nuphus 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-27"]
     y-axis "stars" 88 --> 104
-    line [89, 95, 100, 103, 102, 102]
+    line [89, 95, 100, 103, 102, 103]
 ```
 
-2026-10-24 89 → 2026-11-26 102（+13）
+2026-10-25 89 → 2026-11-27 103（+14）
 
 
 ---

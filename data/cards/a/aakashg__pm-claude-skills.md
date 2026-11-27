@@ -1,6 +1,6 @@
 # aakashg/pm-claude-skills
 
-⭐ 117 · MIT · 推送 2026-08-08 · [GitHub](https://github.com/aakashg/pm-claude-skills) · [官网](https://www.news.aakashg.com/p/steal-6-of-my-claude-skills) · 个人维护
+⭐ 118 · MIT · 推送 2026-08-08 · [GitHub](https://github.com/aakashg/pm-claude-skills) · [官网](https://www.news.aakashg.com/p/steal-6-of-my-claude-skills) · 个人维护
 
 **给产品经理的 5 个 Claude Code 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aakashg/pm-claude-skills 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 112 --> 118
-    line [113, 114, 115, 116, 113, 116, 117, 117]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 112 --> 119
+    line [113, 114, 115, 116, 113, 116, 117, 118]
 ```
 
-2026-10-24 113 → 2026-11-26 117（+4）
+2026-10-25 113 → 2026-11-27 118（+5）
 
 
 ---

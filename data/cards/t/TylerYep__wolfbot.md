@@ -1,6 +1,6 @@
 # TylerYep/wolfbot
 
-⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TylerYep/wolfbot) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/TylerYep/wolfbot) · 个人维护
 
 **一晚终极狼人杀桌游的 AI 玩家实现与模拟器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TylerYep/wolfbot 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

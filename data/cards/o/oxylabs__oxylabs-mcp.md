@@ -1,6 +1,6 @@
 # oxylabs/oxylabs-mcp
 
-⭐ 105 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oxylabs/oxylabs-mcp) · [官网](https://oxylabs.io) · 组织维护
+⭐ 105 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/oxylabs/oxylabs-mcp) · [官网](https://oxylabs.io) · 组织维护
 
 **为 AI 模型接入网页抓取能力的 Oxylabs MCP 服务器**
 
@@ -45,12 +45,12 @@ Oxylabs 官方维护的 Model Context Protocol 服务器，作为 AI 助手与�
 ```mermaid
 xychart-beta
     title "oxylabs/oxylabs-mcp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-15", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-15", "2026-11-23", "2026-11-27"]
     y-axis "stars" 103 --> 107
     line [104, 105, 106, 105, 105]
 ```
 
-2026-10-23 104 → 2026-11-26 105（+1）
+2026-10-24 104 → 2026-11-27 105（+1）
 
 
 ---

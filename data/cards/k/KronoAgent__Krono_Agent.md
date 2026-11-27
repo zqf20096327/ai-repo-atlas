@@ -1,6 +1,6 @@
 # KronoAgent/Krono_Agent
 
-⭐ 3 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/KronoAgent/Krono_Agent) · [官网](https://kronoagent.github.io/Krono_Agent/) · 个人维护
+⭐ 3 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/KronoAgent/Krono_Agent) · [官网](https://kronoagent.github.io/Krono_Agent/) · 个人维护
 
 **Windows 原生 AI agent 工作台，集成本地模型与工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KronoAgent/Krono_Agent 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-26 3（+0）
+2026-11-25 3 → 2026-11-27 3（+0）
 
 
 ---

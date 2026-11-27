@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "100yenadmin/boardstate-hermes-plugin 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-26 11（+0）
+2026-11-10 11 → 2026-11-27 11（+0）
 
 
 ---

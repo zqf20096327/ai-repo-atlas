@@ -41,6 +41,18 @@
 > L45: - Python
 > L52: Currently in the initial preparation and dataset collection stage.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GabeSimanjuntak/benchmark-tbs-rf-detr-vs-yolo 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-11-26 16 → 2026-11-27 16（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `dcb02054c0ad` · [字段定义](../../DATASET.md)*

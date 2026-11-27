@@ -1,6 +1,6 @@
 # waylaidwanderer/PandoraAI
 
-⭐ 853 · Vue · MIT · 推送 2026-05-29 · [GitHub](https://github.com/waylaidwanderer/PandoraAI) · [官网](https://github.com/waylaidwanderer/node-chatgpt-api) · 个人维护
+⭐ 854 · Vue · MIT · 推送 2026-05-29 · [GitHub](https://github.com/waylaidwanderer/PandoraAI) · [官网](https://github.com/waylaidwanderer/node-chatgpt-api) · 个人维护
 
 **基于 node-chatgpt-api 的多 AI 网页聊天客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "waylaidwanderer/PandoraAI 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 852 --> 856
-    line [855, 854, 853, 854, 853, 853]
+    title "waylaidwanderer/PandoraAI 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 852 --> 855
+    line [854, 853, 854, 853, 854]
 ```
 
-2026-10-24 855 → 2026-11-26 853（-2）
+2026-10-25 854 → 2026-11-27 854（+0）
 
 
 ---

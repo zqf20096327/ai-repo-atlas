@@ -1,6 +1,6 @@
 # a7t-ai/poirot
 
-⭐ 217 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/a7t-ai/poirot) · [官网](https://poirot.fyi) · 个人维护
+⭐ 218 · Swift · MIT · 推送 2026-10-27 · [GitHub](https://github.com/a7t-ai/poirot) · [官网](https://poirot.fyi) · 个人维护
 
 **为 Claude Code 用户提供会话浏览/差异查看/命令重跑的 macOS 原生伴侣应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "a7t-ai/poirot 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-21", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 214 --> 218
-    line [215, 216, 217, 217]
+    x-axis ["2026-10-25", "2026-11-21", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 214 --> 219
+    line [215, 216, 217, 218]
 ```
 
-2026-10-24 215 → 2026-11-26 217（+2）
+2026-10-25 215 → 2026-11-27 218（+3）
 
 
 ---

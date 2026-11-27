@@ -1,6 +1,6 @@
 # monishmal3375/nova-vad
 
-⭐ 12 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/monishmal3375/nova-vad) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/monishmal3375/nova-vad) · 个人维护
 
 **面向噪声音频的轻量可解释语音活动检测器（VAD）**
 
@@ -46,12 +46,12 @@ NOVA-VAD 是基于特征与 scikit-learn 集成的语音活动检测器，面向
 ```mermaid
 xychart-beta
     title "monishmal3375/nova-vad 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

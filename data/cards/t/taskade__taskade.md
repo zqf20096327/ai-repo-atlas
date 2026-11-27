@@ -1,6 +1,6 @@
 # taskade/taskade
 
-⭐ 71 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/taskade/taskade) · [官网](https://www.taskade.com) · 组织维护
+⭐ 72 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/taskade/taskade) · [官网](https://www.taskade.com) · 组织维护
 
 **AI 原生工作区平台：一个提示词生成可运行应用与 AI agent**
 
@@ -45,12 +45,12 @@ Taskade 是公司运营的商业 SaaS 平台，本仓库托管公开文档、产
 ```mermaid
 xychart-beta
     title "taskade/taskade 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-27"]
     y-axis "stars" 70 --> 74
-    line [72, 73, 72, 71, 72, 71, 71]
+    line [72, 73, 72, 71, 72, 71, 72]
 ```
 
-2026-10-24 72 → 2026-11-26 71（-1）
+2026-10-25 72 → 2026-11-27 72（+0）
 
 
 ---

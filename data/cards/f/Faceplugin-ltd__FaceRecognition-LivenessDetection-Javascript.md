@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 115 --> 122
-    line [116, 118, 117, 118, 120, 118, 121, 121]
+    title "Faceplugin-ltd/FaceRecognition-LivenessDetection-Javascript 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 116 --> 122
+    line [118, 117, 118, 120, 118, 121, 121]
 ```
 
-2026-10-24 116 → 2026-11-26 121（+5）
+2026-10-25 118 → 2026-11-27 121（+3）
 
 
 ---

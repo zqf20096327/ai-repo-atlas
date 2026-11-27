@@ -1,6 +1,6 @@
 # Ryze-T/fiora
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Ryze-T/fiora) · 个人维护 · 中文 README
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Ryze-T/fiora) · 个人维护 · 中文 README
 
 **给开发者做代码漏洞审计的 CLI：规则扫描+AI 判定+证据链报告**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Ryze-T/fiora 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 13
-    line [3, 9, 10, 12, 12]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 2 --> 15
+    line [3, 9, 10, 12, 14]
 ```
 
-2026-11-20 3 → 2026-11-26 12（+9）
+2026-11-20 3 → 2026-11-27 14（+11）
 
 
 ---

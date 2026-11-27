@@ -1,6 +1,6 @@
 # AlphaLima/ha-drive-energy-doc
 
-⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AlphaLima/ha-drive-energy-doc) · [官网](https://github.com/AlphaLima/ha-drive-energy-doc) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AlphaLima/ha-drive-energy-doc) · [官网](https://github.com/AlphaLima/ha-drive-energy-doc) · 个人维护
 
 **Home Assistant 车辆加油/充电全自动记录集成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlphaLima/ha-drive-energy-doc 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "AlphaLima/ha-drive-energy-doc 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 7
-    line [3, 6]
+    line [3, 6, 6]
 ```
 
-2026-11-25 3 → 2026-11-26 6（+3）
+2026-11-25 3 → 2026-11-27 6（+3）
 
 
 ---

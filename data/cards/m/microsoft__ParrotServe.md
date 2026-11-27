@@ -1,6 +1,6 @@
 # microsoft/ParrotServe
 
-⭐ 229 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/ParrotServe) · 组织维护 · 中文 README
+⭐ 230 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/ParrotServe) · 组织维护 · 中文 README
 
 **面向 LLM 应用的多租户分布式 serving 系统（OSDI'24 原型）**
 
@@ -45,12 +45,12 @@ Parrot 是微软开源的 LLM 应用 serving 系统研究原型，通过 Semanti
 ```mermaid
 xychart-beta
     title "microsoft/ParrotServe 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 227 --> 230
-    line [228, 229, 229]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 227 --> 231
+    line [228, 229, 230]
 ```
 
-2026-10-23 228 → 2026-11-26 229（+1）
+2026-10-24 228 → 2026-11-27 230（+2）
 
 
 ---

@@ -47,12 +47,12 @@ Aisee Plugin 是面向 Codex 等 coding agent 的 OpenSpec companion 工具集�
 ```mermaid
 xychart-beta
     title "AISEE-LAB/aisee-plugin 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

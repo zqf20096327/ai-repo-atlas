@@ -1,6 +1,6 @@
 # Ayanami0730/paper-read-skill
 
-⭐ 17 · 推送 2026-07-02 · [GitHub](https://github.com/Ayanami0730/paper-read-skill) · 个人维护 · 中文 README
+⭐ 18 · 推送 2026-07-02 · [GitHub](https://github.com/Ayanami0730/paper-read-skill) · 个人维护 · 中文 README
 
 **供 AI Agent 深度阅读论文与博客的 prompt 技能集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ayanami0730/paper-read-skill 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 18（+1）
 
 
 ---

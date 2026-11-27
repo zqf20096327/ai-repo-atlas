@@ -1,6 +1,6 @@
 # manti-by/demetra
 
-⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/manti-by/demetra) · 个人维护
+⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/manti-by/demetra) · 个人维护
 
 **面向开发者的多 AI agent 协同自动化开发平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "manti-by/demetra 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-24 28 → 2026-11-26 28（+0）
+2026-10-25 28 → 2026-11-27 28（+0）
 
 
 ---

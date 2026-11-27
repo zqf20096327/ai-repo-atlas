@@ -1,6 +1,6 @@
 # Jubstaaa/hono-telescope
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jubstaaa/hono-telescope) · [官网](https://hono-telescope.ilkerbalcilar.com/telescope) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Jubstaaa/hono-telescope) · [官网](https://hono-telescope.ilkerbalcilar.com/telescope) · 个人维护
 
 **Hono 应用的 Telescope 式调试面板，附带供 AI agent 读取遥测的 MCP 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jubstaaa/hono-telescope 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-24 27 → 2026-11-26 27（+0）
+2026-10-25 27 → 2026-11-27 27（+0）
 
 
 ---

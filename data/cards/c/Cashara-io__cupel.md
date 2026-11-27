@@ -1,6 +1,6 @@
 # Cashara-io/cupel
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Cashara-io/cupel) · [官网](https://www.buildpaperless.com.au/eunomia) · 组织维护
+⭐ 15 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Cashara-io/cupel) · [官网](https://www.buildpaperless.com.au/eunomia) · 组织维护
 
 **自托管的 AI agent 共享记忆库：通过 MCP/REST 供各 AI 应用查询**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,6 +40,18 @@
 > L15: **Shared memory for the AI apps you already use.**
 > L245: **You don't need one.** Connected AI apps use their own model to read and write
 > L246: memories, and Cupel's search works on text and links. Adding an OpenAI-compatible
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Cashara-io/cupel 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-26 15 → 2026-11-27 15（+0）
 
 
 ---

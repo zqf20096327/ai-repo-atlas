@@ -1,6 +1,6 @@
 # TangGee/aiopsterm
 
-⭐ 224 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/TangGee/aiopsterm) · [官网](https://aiopsterm.com) · 组织维护 · 中文 README
+⭐ 289 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/TangGee/aiopsterm) · [官网](https://aiopsterm.com) · 组织维护 · 中文 README
 
 **面向人和 AI 的运维终端：终端/SSH/数据库/K8s 一体化桌面工作区**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TangGee/aiopsterm 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 245
-    line [11, 12, 13, 32, 65, 93, 153, 224]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 316
+    line [12, 13, 32, 65, 93, 153, 224, 289]
 ```
 
-2026-10-24 11 → 2026-11-26 224（+213）
+2026-10-25 12 → 2026-11-27 289（+277）
 
 
 ---

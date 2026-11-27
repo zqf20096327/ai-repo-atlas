@@ -1,6 +1,6 @@
 # microsoft/trident
 
-⭐ 33 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/trident) · 组织维护
+⭐ 33 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/trident) · 组织维护
 
 **面向 Azure Linux 的声明式安全优先 OS 生命周期代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/trident 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-27"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-23 32 → 2026-11-26 33（+1）
+2026-10-24 32 → 2026-11-27 33（+1）
 
 
 ---

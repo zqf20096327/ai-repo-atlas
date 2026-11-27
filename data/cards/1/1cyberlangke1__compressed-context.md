@@ -1,6 +1,6 @@
 # 1cyberlangke1/compressed-context
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/1cyberlangke1/compressed-context) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/1cyberlangke1/compressed-context) · 个人维护 · 中文 README
 
 **OpenCode 上下文压缩插件：把旧对话折叠成摘要块延长会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "1cyberlangke1/compressed-context 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-24 3 → 2026-11-26 3（+0）
+2026-10-25 3 → 2026-11-27 3（+0）
 
 
 ---

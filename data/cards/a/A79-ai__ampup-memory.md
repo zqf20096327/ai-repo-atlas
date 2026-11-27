@@ -1,6 +1,6 @@
 # A79-ai/ampup-memory
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/A79-ai/ampup-memory) · [官网](https://www.ampup.ai/ampup-memory) · 组织维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/A79-ai/ampup-memory) · [官网](https://www.ampup.ai/ampup-memory) · 组织维护
 
 **给 AI agent 用的记忆库：从成功运行中学习建议并在下次运行前提供**
 
@@ -40,6 +40,18 @@
 > L3: The memory for agents that gets better with use: it learns advice from the runs that went well and serves it
 > L9: A conversation is a session. Each task in it asks for advice (`get_advice`) and gets one skill for that kind of
 > L71: searches but learns nothing; any OpenAI-compatible, Anthropic, Bedrock or Vertex AI endpoint, or a local Ollama,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "A79-ai/ampup-memory 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

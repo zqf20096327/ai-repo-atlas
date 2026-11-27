@@ -42,6 +42,18 @@
 > L3: **LLM 服务端推理 · 端侧与通用模型推理**：仓库、书籍、课程、论文 —— 链接逐条实测可访问
 > L12: > 这不是链接堆砌。每一条都标了「为什么看」；动不了手的资料（纯 PPT、无代码、长期停更）不收录。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CacinieP/inference-optimization-index 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6dea1d7791a6` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # bjascob/amrlib
 
-⭐ 267 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/bjascob/amrlib) · 个人维护
+⭐ 268 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/bjascob/amrlib) · 个人维护
 
 **AMR 解析与生成的 Python 库：句子↔抽象意义表示图互转**
 
@@ -45,12 +45,12 @@ amrlib 提供 Abstract Meaning Representation（AMR）处理的 Python 模块：
 ```mermaid
 xychart-beta
     title "bjascob/amrlib 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 266 --> 268
-    line [267, 267]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 266 --> 269
+    line [267, 268]
 ```
 
-2026-10-24 267 → 2026-11-26 267（+0）
+2026-10-25 267 → 2026-11-27 268（+1）
 
 
 ---

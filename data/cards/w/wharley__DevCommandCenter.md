@@ -1,6 +1,6 @@
 # wharley/DevCommandCenter
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/wharley/DevCommandCenter) · [官网](https://www.devcommandcenter.com/) · 个人维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/wharley/DevCommandCenter) · [官网](https://www.devcommandcenter.com/) · 个人维护
 
 **本地优先的桌面 AI 编码工作台：统一管理多提供商 agent、审查与交付**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wharley/DevCommandCenter 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-27"]
     y-axis "stars" 12 --> 21
     line [13, 14, 13, 19, 20, 20]
 ```
 
-2026-10-24 13 → 2026-11-26 20（+7）
+2026-10-25 13 → 2026-11-27 20（+7）
 
 
 ---

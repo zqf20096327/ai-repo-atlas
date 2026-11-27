@@ -1,6 +1,6 @@
 # rabfulton/ChatGTK
 
-⭐ 12 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/rabfulton/ChatGTK) · [官网](https://github.com/rabfulton/ChatGTK) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rabfulton/ChatGTK) · [官网](https://github.com/rabfulton/ChatGTK) · 个人维护
 
 **Linux 桌面 GTK 多模型 AI 聊天客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rabfulton/ChatGTK 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

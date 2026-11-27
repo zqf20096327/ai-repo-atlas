@@ -41,6 +41,18 @@ Hugging Face transformers 库的 C# 移植，以 Unity 包形式发布，基于 
 > L12: This is essentially a C# port of Hugging Face’s [transformers] library.
 > L16: - To run small LLMs like SmolLM2 in Unity
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "julienkay/tools.doji.transformers 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-26 25 → 2026-11-27 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `24f596524511` · [字段定义](../../DATASET.md)*

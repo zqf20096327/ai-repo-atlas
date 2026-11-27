@@ -1,6 +1,6 @@
 # axisvela/praxo-core-rust
 
-⭐ 4 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core-rust) · [官网](https://axisvela.github.io/praxo-core/languages/rust/) · 组织维护
+⭐ 4 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/axisvela/praxo-core-rust) · [官网](https://axisvela.github.io/praxo-core/languages/rust/) · 组织维护
 
 **可嵌入的 Rust AI agent 框架：提供 agent 循环、工具调用与策略控制**
 
@@ -46,12 +46,12 @@ PRAXO-CORE 的原生 Rust 实现，以 crate 形式发布于 crates.io，进程�
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-rust 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-23", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-19 3 → 2026-11-26 4（+1）
+2026-11-19 3 → 2026-11-27 4（+1）
 
 
 ---

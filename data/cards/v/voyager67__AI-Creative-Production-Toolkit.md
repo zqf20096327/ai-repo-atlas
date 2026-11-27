@@ -1,6 +1,6 @@
 # voyager67/AI-Creative-Production-Toolkit
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/voyager67/AI-Creative-Production-Toolkit) · [官网](https://voyager67.github.io/AI-Creative-Production-Toolkit/) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/voyager67/AI-Creative-Production-Toolkit) · [官网](https://voyager67.github.io/AI-Creative-Production-Toolkit/) · 个人维护
 
 **给创作者的 219 个 AI agent 技能与本地媒体工具包**
 
@@ -40,6 +40,18 @@
 
 > L22: - **Agent skills** — focused, reusable `SKILL.md` workflows that give compatible AI agents structured procedures, p
 > L23: - **Python toolkit** — the `asg` command-line interface for practical local operations such as asset intake, hashin
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "voyager67/AI-Creative-Production-Toolkit 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # modelpack/model-spec
 
-⭐ 242 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelpack/model-spec) · [官网](https://modelpack.org) · 组织维护
+⭐ 242 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/modelpack/model-spec) · [官网](https://modelpack.org) · 组织维护
 
 **CNCF 主持的 LLM 打包分发开放规范标准**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelpack/model-spec 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
+    title "modelpack/model-spec 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26", "2026-11-27"]
     y-axis "stars" 236 --> 243
-    line [237, 238, 237, 240, 241, 242]
+    line [237, 238, 237, 240, 241, 242, 242]
 ```
 
-2026-10-24 237 → 2026-11-26 242（+5）
+2026-10-25 237 → 2026-11-27 242（+5）
 
 
 ---

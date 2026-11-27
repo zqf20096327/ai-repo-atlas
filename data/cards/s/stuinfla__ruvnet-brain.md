@@ -1,6 +1,6 @@
 # stuinfla/ruvnet-brain
 
-⭐ 85 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/stuinfla/ruvnet-brain) · [官网](https://isovision.ai/ruvnet-brain/) · 个人维护
+⭐ 85 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/stuinfla/ruvnet-brain) · [官网](https://isovision.ai/ruvnet-brain/) · 个人维护
 
 **给 Claude Code/Codex 的 RuvNet 生态源码检索知识包与 MCP 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stuinfla/ruvnet-brain 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 75 --> 86
-    line [76, 77, 78, 79, 80, 82, 77, 83, 84, 85, 84, 85, 85]
+    title "stuinfla/ruvnet-brain 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 76 --> 86
+    line [77, 78, 79, 80, 82, 77, 83, 84, 85, 84, 85, 85]
 ```
 
-2026-10-24 76 → 2026-11-26 85（+9）
+2026-10-25 77 → 2026-11-27 85（+8）
 
 
 ---

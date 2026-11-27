@@ -1,6 +1,6 @@
 # OneYoungMean/KimodoUnityBridge_FullDemo
 
-⭐ 26 · C# · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/OneYoungMean/KimodoUnityBridge_FullDemo) · 个人维护
+⭐ 26 · C# · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/OneYoungMean/KimodoUnityBridge_FullDemo) · 个人维护
 
 **KimodoUnityBridge 的 Unity 演示工程**
 
@@ -41,12 +41,12 @@ Kimodo Unity Demo 主题标签含 ai、animation、unity、kimodo，README 仅�
 ```mermaid
 xychart-beta
     title "OneYoungMean/KimodoUnityBridge_FullDemo 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-24 26 → 2026-11-26 26（+0）
+2026-10-25 26 → 2026-11-27 26（+0）
 
 
 ---

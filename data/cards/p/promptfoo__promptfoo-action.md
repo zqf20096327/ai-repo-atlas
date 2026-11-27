@@ -45,13 +45,13 @@ Promptfoo 官方 GitHub Action：当受监控文件变更时触发 Promptfoo 评
 
 ```mermaid
 xychart-beta
-    title "promptfoo/promptfoo-action 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 75 --> 82
-    line [76, 77, 78, 77, 81, 81]
+    title "promptfoo/promptfoo-action 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 76 --> 82
+    line [77, 78, 77, 81, 81]
 ```
 
-2026-10-24 76 → 2026-11-26 81（+5）
+2026-10-25 77 → 2026-11-27 81（+4）
 
 
 ---

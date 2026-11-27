@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MARKASCHARAN/BorrowIQ 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "MARKASCHARAN/BorrowIQ 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 14 --> 18
-    line [15, 17]
+    line [15, 17, 17]
 ```
 
-2026-11-25 15 → 2026-11-26 17（+2）
+2026-11-25 15 → 2026-11-27 17（+2）
 
 
 ---

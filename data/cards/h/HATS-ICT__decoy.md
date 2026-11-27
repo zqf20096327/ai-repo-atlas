@@ -42,6 +42,18 @@ DECOY 将 3D CS:GO 游戏转化为离散化模拟：使用在职业比赛数据�
 > L32: DECOY implements the PettingZoo AEC API and
 > L122: `marl/` contains a self-contained IPPO implementation (independent PPO with
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HATS-ICT/decoy 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fa70e0f453b2` · [字段定义](../../DATASET.md)*

@@ -40,6 +40,18 @@
 > L18: **AI VTuber Toolkit — AI VTuber Toolkit — ai and avatar in one tool** (`vtuber-avatar-ai`) ships as a native 64-bit
 > L24: |**Windows 10 / 11 (x64)**|**`vtuber-avatar-ai-v0.1.0-win64.zip`**|**Usage Guide (`docs/USAGE.md`)**|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LolabaHule20/vtuber-avatar-ai 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-11-26 41 → 2026-11-27 41（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `9e4f57ac7ef4` · [字段定义](../../DATASET.md)*

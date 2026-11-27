@@ -1,6 +1,6 @@
 # aws-solutions/konductor
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/aws-solutions/konductor) · [官网](https://aws-solutions.github.io/konductor/) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/aws-solutions/konductor) · [官网](https://aws-solutions.github.io/konductor/) · 组织维护
 
 **为开发者提供覆盖 SDLC 的多 AI agent 团队编排**
 
@@ -46,12 +46,12 @@ Konductor 以配置（提示词、技能、SOP）形式安装到 Kiro CLI 或 Cl
 ```mermaid
 xychart-beta
     title "aws-solutions/konductor 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

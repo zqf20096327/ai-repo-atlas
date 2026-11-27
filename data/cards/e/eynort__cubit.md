@@ -41,6 +41,18 @@
 > L32: - **Ready to use, not a library.** Install it, open the panel, create a bot, give it a job. You never write a line 
 > L63: - **Plain-language orders.** "mine 20 iron and bring it to me": the local AI turns it into commands. Optional, per 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eynort/cubit 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `70c4f3c6f689` · [字段定义](../../DATASET.md)*

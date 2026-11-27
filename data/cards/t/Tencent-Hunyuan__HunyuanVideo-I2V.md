@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HunyuanVideo-I2V
 
-⭐ 1,859 · Python · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V) · [官网](https://video.hunyuan.tencent.com/) · 组织维护 · 中文 README
+⭐ 1,858 · Python · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo-I2V) · [官网](https://video.hunyuan.tencent.com/) · 组织维护 · 中文 README
 
 **腾讯混元图生视频模型：基于参考图生成视频并支持 LoRA 定制训练**
 
@@ -45,13 +45,13 @@ HunyuanVideo 的图生视频扩展版本，官方 PyTorch 模型定义、预训�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HunyuanVideo-I2V 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-23", "2026-11-26"]
+    title "Tencent-Hunyuan/HunyuanVideo-I2V 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1848 --> 1860
-    line [1849, 1850, 1851, 1850, 1849, 1854, 1855, 1856, 1857, 1859]
+    line [1849, 1850, 1851, 1850, 1849, 1854, 1855, 1856, 1857, 1859, 1858]
 ```
 
-2026-10-24 1,849 → 2026-11-26 1,859（+10）
+2026-10-25 1,849 → 2026-11-27 1,858（+9）
 
 
 ---

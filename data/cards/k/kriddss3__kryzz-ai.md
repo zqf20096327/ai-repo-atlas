@@ -1,6 +1,6 @@
 # kriddss3/kryzz-ai
 
-⭐ 18 · Kotlin · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kriddss3/kryzz-ai) · [官网](https://github.com/kriddss3/kryzz-ai/releases/latest) · 个人维护
+⭐ 19 · Kotlin · MIT · 推送 2026-10-23 · [GitHub](https://github.com/kriddss3/kryzz-ai) · [官网](https://github.com/kriddss3/kryzz-ai/releases/latest) · 个人维护
 
 **Android 本地优先 AI 工作台：自带 API key 的聊天/语音/Agent**
 
@@ -45,13 +45,13 @@ Kotlin + Jetpack Compose 编写的 Android 应用，以 BYOK（自带 API key）
 
 ```mermaid
 xychart-beta
-    title "kriddss3/kryzz-ai 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 17, 19, 18, 18]
+    title "kriddss3/kryzz-ai 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 19, 18, 19]
 ```
 
-2026-10-24 16 → 2026-11-26 18（+2）
+2026-10-25 17 → 2026-11-27 19（+2）
 
 
 ---

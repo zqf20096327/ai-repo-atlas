@@ -1,6 +1,6 @@
 # lightning-uq-box/lightning-uq-box
 
-⭐ 232 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lightning-uq-box/lightning-uq-box) · [官网](https://lightning-uq-box.readthedocs.io/en/latest/) · 组织维护
+⭐ 232 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lightning-uq-box/lightning-uq-box) · [官网](https://lightning-uq-box.readthedocs.io/en/latest/) · 组织维护
 
 **基于 PyTorch Lightning 的神经网络不确定性量化方法库**
 
@@ -45,12 +45,12 @@ PyTorch 库，提供多种神经网络不确定性量化（UQ）方法实现，�
 ```mermaid
 xychart-beta
     title "lightning-uq-box/lightning-uq-box 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
     y-axis "stars" 230 --> 233
     line [231, 232, 232]
 ```
 
-2026-10-24 231 → 2026-11-26 232（+1）
+2026-10-25 231 → 2026-11-27 232（+1）
 
 
 ---

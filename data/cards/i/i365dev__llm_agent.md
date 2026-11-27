@@ -45,12 +45,12 @@ LLMAgent 是构建领域专用智能体的 Elixir 抽象库，基于 AgentForge 
 ```mermaid
 xychart-beta
     title "i365dev/llm_agent 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-24 27 → 2026-11-26 27（+0）
+2026-10-25 27 → 2026-11-27 27（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Python 包，提供多个时间序列基础模型（LPTM、MOMENT、TimesFM、Ch
 ```mermaid
 xychart-beta
     title "AdityaLab/Samay 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-24 36 → 2026-11-26 36（+0）
+2026-10-25 36 → 2026-11-27 36（+0）
 
 
 ---

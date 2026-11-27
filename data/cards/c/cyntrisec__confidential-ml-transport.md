@@ -45,13 +45,13 @@ Rust 库，在 TEE enclave 与客户端之间提供二进制分帧的加密通�
 
 ```mermaid
 xychart-beta
-    title "cyntrisec/confidential-ml-transport 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "cyntrisec/confidential-ml-transport 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-24 10 → 2026-11-26 11（+1）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

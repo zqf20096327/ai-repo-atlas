@@ -1,6 +1,6 @@
 # fei-aiart/courses
 
-⭐ 502 · HTML · 推送 2026-09-07 · [GitHub](https://github.com/fei-aiart/courses) · [官网](https://github.com/fei-aiart/courses) · 个人维护 · 中文 README
+⭐ 503 · HTML · 推送 2026-09-07 · [GitHub](https://github.com/fei-aiart/courses) · [官网](https://github.com/fei-aiart/courses) · 个人维护 · 中文 README
 
 **个人教学课件汇总：深度学习、CV、机器学习等课程讲义**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fei-aiart/courses 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 498 --> 503
-    line [499, 500, 501, 499, 502, 501, 502, 502]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 498 --> 504
+    line [499, 500, 501, 499, 502, 501, 502, 503]
 ```
 
-2026-10-24 499 → 2026-11-26 502（+3）
+2026-10-25 499 → 2026-11-27 503（+4）
 
 
 ---

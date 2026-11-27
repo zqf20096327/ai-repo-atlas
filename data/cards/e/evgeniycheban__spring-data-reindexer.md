@@ -1,6 +1,6 @@
 # evgeniycheban/spring-data-reindexer
 
-⭐ 24 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/evgeniycheban/spring-data-reindexer) · 个人维护
+⭐ 24 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/evgeniycheban/spring-data-reindexer) · 个人维护
 
 **面向 Reindexer 数据库的 Spring Data 访问模块**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "evgeniycheban/spring-data-reindexer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-27"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-23 24 → 2026-11-26 24（+0）
+2026-10-24 24 → 2026-11-27 24（+0）
 
 
 ---

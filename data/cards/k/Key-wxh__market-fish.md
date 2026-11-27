@@ -1,6 +1,6 @@
 # Key-wxh/market-fish
 
-⭐ 48 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Key-wxh/market-fish) · 个人维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-07-07 · [GitHub](https://github.com/Key-wxh/market-fish) · 个人维护 · 中文 README
 
 **多智能体市场模拟引擎：用 128+ AI 消费者模拟验证产品**
 
@@ -46,12 +46,12 @@ MarketFish 是一个多智能体市场模拟引擎，面向需要在发布前验
 ```mermaid
 xychart-beta
     title "Key-wxh/market-fish 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-15", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 45 --> 49
-    line [46, 47, 48, 48]
+    x-axis ["2026-10-25", "2026-11-15", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 45 --> 50
+    line [46, 47, 48, 49]
 ```
 
-2026-10-24 46 → 2026-11-26 48（+2）
+2026-10-25 46 → 2026-11-27 49（+3）
 
 
 ---

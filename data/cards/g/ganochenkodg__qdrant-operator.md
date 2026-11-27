@@ -1,6 +1,6 @@
 # ganochenkodg/qdrant-operator
 
-⭐ 69 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ganochenkodg/qdrant-operator) · 个人维护
+⭐ 68 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ganochenkodg/qdrant-operator) · 个人维护
 
 **K8s 运维者：声明式部署与运维 Qdrant 向量数据库集群**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ganochenkodg/qdrant-operator 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "ganochenkodg/qdrant-operator 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 54 --> 70
-    line [55, 69]
+    line [55, 69, 68]
 ```
 
-2026-11-25 55 → 2026-11-26 69（+14）
+2026-11-25 55 → 2026-11-27 68（+13）
 
 
 ---

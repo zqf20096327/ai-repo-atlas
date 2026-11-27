@@ -1,6 +1,6 @@
 # SunnyLich/OpenWand
 
-⭐ 17 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/SunnyLich/OpenWand) · [官网](https://sunnylich.github.io/OpenWand/) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/SunnyLich/OpenWand) · [官网](https://sunnylich.github.io/OpenWand/) · 个人维护 · 中文 README
 
 **桌面端 AI 协作工具：快捷键唤起，自动取上下文问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SunnyLich/OpenWand 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-10-24 15 → 2026-11-26 17（+2）
+2026-10-25 15 → 2026-11-27 18（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # daha1216/agy-plugin-collection
 
-⭐ 6 · 推送 2026-11-24 · [GitHub](https://github.com/daha1216/agy-plugin-collection) · 个人维护 · 中文 README
+⭐ 7 · 推送 2026-11-24 · [GitHub](https://github.com/daha1216/agy-plugin-collection) · 个人维护 · 中文 README
 
 **为 Google Antigravity 用户整理的第三方插件与工具索引清单**
 
@@ -38,6 +38,18 @@
 
 > L3: > Google Antigravity（AGY）自用第三方插件与配套工具推荐清单。
 > L8: 本仓库**仅整理自用推荐的第三方插件/工具清单与作者源仓库索引**，不托管、不打包任何源码。如需安装或更新，请直接点击表格中的**源仓库地址**，前往作者仓库拉取最新版本。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "daha1216/agy-plugin-collection 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-26 6 → 2026-11-27 7（+1）
 
 
 ---

@@ -45,12 +45,12 @@ FreeLlmRouter 以 OpenAI 兼容的 CLI/路由器形式运行，将请求路由�
 ```mermaid
 xychart-beta
     title "Karimk899/free-llm-router 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-11-25 65 → 2026-11-26 65（+0）
+2026-11-25 65 → 2026-11-27 65（+0）
 
 
 ---

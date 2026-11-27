@@ -1,6 +1,6 @@
 # alanhuangyoo/OpenJev
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/alanhuangyoo/OpenJev) · 组织维护 · 中文 README
+⭐ 74 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/alanhuangyoo/OpenJev) · 组织维护 · 中文 README
 
 **开源本地决策模型：为浏览器 agent 输出校准概率**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alanhuangyoo/OpenJev 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 65 --> 74
-    line [66, 67, 69, 66, 71, 72, 73, 73]
+    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 65 --> 75
+    line [66, 67, 69, 66, 71, 72, 73, 74]
 ```
 
-2026-10-24 66 → 2026-11-26 73（+7）
+2026-10-25 66 → 2026-11-27 74（+8）
 
 
 ---

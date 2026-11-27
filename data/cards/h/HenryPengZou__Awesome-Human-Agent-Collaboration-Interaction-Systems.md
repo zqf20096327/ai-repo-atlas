@@ -1,6 +1,6 @@
 # HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems
 
-⭐ 243 · 推送 2026-07-23 · [GitHub](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems) · [官网](https://arxiv.org/abs/2505.00753) · 组织维护 · 中文 README
+⭐ 244 · 推送 2026-07-23 · [GitHub](https://github.com/HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems) · [官网](https://arxiv.org/abs/2505.00753) · 组织维护 · 中文 README
 
 **LLM 人机协作与交互系统研究综述配套的论文资源清单**
 
@@ -46,12 +46,12 @@ ACL 2026 综述论文 'LLM-Based Human-Agent Collaboration and Interaction Syste
 ```mermaid
 xychart-beta
     title "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 239 --> 244
-    line [240, 241, 242, 240, 242, 243, 243]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 239 --> 245
+    line [240, 241, 242, 240, 242, 243, 244]
 ```
 
-2026-10-24 240 → 2026-11-26 243（+3）
+2026-10-25 240 → 2026-11-27 244（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # bdarwin/logsift
 
-⭐ 3 · Java · MIT · 推送 2026-11-25 · [GitHub](https://github.com/bdarwin/logsift) · [官网](https://bdarwin.github.io/logsift/) · 个人维护
+⭐ 3 · Java · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bdarwin/logsift) · [官网](https://bdarwin.github.io/logsift/) · 个人维护
 
 **给开发者的大日志分析与 JVM 诊断桌面工具，可接 AI 助手问答**
 
@@ -46,12 +46,12 @@ Logsift 是一款跨平台（Windows/macOS/Linux）桌面日志分析工具：�
 ```mermaid
 xychart-beta
     title "bdarwin/logsift 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-26 3（+0）
+2026-11-20 3 → 2026-11-27 3（+0）
 
 
 ---

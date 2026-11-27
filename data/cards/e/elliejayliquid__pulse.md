@@ -1,6 +1,6 @@
 # elliejayliquid/pulse
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/elliejayliquid/pulse) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/elliejayliquid/pulse) · 个人维护
 
 **本地/云端 AI 陪伴对象的常驻守护进程，经 Telegram 对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "elliejayliquid/pulse 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    title "elliejayliquid/pulse 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 11, 12, 13, 14]
+    line [11, 12, 11, 12, 13, 14, 14]
 ```
 
-2026-10-24 11 → 2026-11-26 14（+3）
+2026-10-25 11 → 2026-11-27 14（+3）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jawherr/machine-learning-algorithme 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "jawherr/machine-learning-algorithme 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 20 --> 29
-    line [22, 21, 28]
+    line [22, 21, 28, 28]
 ```
 
-2026-10-24 22 → 2026-11-26 28（+6）
+2026-10-25 22 → 2026-11-27 28（+6）
 
 
 ---

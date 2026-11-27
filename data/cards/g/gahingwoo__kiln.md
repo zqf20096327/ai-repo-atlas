@@ -41,6 +41,18 @@
 > L104: - **`kiln-serve`** — an **OpenAI-compatible** HTTP API for the LLM. Point the
 > L117: - **`kiln-chat`** — the interactive LLM CLI. Runs any RKLLM `.rkllm` model; the chat
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gahingwoo/kiln 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-26 12 → 2026-11-27 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `16088910016d` · [字段定义](../../DATASET.md)*

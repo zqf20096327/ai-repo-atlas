@@ -1,6 +1,6 @@
 # xin-yi33/RxyCode
 
-⭐ 10 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xin-yi33/RxyCode) · [官网](https://github.com/xin-yi33/RxyCode/releases/latest) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/xin-yi33/RxyCode) · [官网](https://github.com/xin-yi33/RxyCode/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的编码 Agent CLI，规划/执行/自检不只写代码**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xin-yi33/RxyCode 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

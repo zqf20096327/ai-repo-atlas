@@ -1,6 +1,6 @@
 # tranvanhuy-hichan/ai-nestor-agent
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/tranvanhuy-hichan/ai-nestor-agent) · 个人维护 · 中文 README
+⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/tranvanhuy-hichan/ai-nestor-agent) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 助手：终端/网页对话、文档问答与后台自动化**
 
@@ -41,6 +41,18 @@
 > L11: Nestor Agent is an open-source personal AI assistant that runs on your machine. Chat in the terminal or browser, as
 > L17: |**Your choice of models**|Run Ollama or another OpenAI-compatible local endpoint, or configure cloud providers suc
 > L22: |**Memory, skills, and tools**|Reuse Markdown memory and search past conversations. Install `SKILL.md` skills or co
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tranvanhuy-hichan/ai-nestor-agent 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

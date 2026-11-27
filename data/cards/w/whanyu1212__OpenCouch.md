@@ -1,6 +1,6 @@
 # whanyu1212/OpenCouch
 
-⭐ 38 · Python · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/whanyu1212/OpenCouch) · [官网](https://whanyu1212.github.io/OpenCouch/) · 个人维护
+⭐ 39 · Python · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/whanyu1212/OpenCouch) · [官网](https://whanyu1212.github.io/OpenCouch/) · 个人维护
 
 **心理自助聊天陪伴应用：情绪支持、引导练习与持久记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "whanyu1212/OpenCouch 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 36, 37, 38, 38]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 36, 37, 38, 39]
 ```
 
-2026-10-24 36 → 2026-11-26 38（+2）
+2026-10-25 36 → 2026-11-27 39（+3）
 
 
 ---

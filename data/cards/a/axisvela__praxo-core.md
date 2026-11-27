@@ -1,6 +1,6 @@
 # axisvela/praxo-core
 
-⭐ 14 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core) · [官网](https://axisvela.github.io/praxo-core/) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/axisvela/praxo-core) · [官网](https://axisvela.github.io/praxo-core/) · 组织维护 · 中文 README
 
 **可嵌入的 MIT 协议 Agent 框架：治理式 agent 循环与策略控制**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "axisvela/praxo-core 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 7 --> 15
-    line [8, 11, 12, 11, 13, 14, 14]
+    title "axisvela/praxo-core 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 13, 14, 14]
 ```
 
-2026-10-24 8 → 2026-11-26 14（+6）
+2026-10-25 11 → 2026-11-27 14（+3）
 
 
 ---

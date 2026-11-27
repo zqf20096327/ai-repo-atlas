@@ -1,6 +1,6 @@
 # BIDZZ-RAWR/OPENCODE-ANDROID
 
-⭐ 13 · Kotlin · MIT · 推送 2026-11-17 · [GitHub](https://github.com/BIDZZ-RAWR/OPENCODE-ANDROID) · 个人维护
+⭐ 14 · Kotlin · MIT · 推送 2026-11-17 · [GitHub](https://github.com/BIDZZ-RAWR/OPENCODE-ANDROID) · 个人维护
 
 **在 Android 手机上本地运行 OpenCode 编码 agent 的应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BIDZZ-RAWR/OPENCODE-ANDROID 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-11-08 13 → 2026-11-26 13（+0）
+2026-11-08 13 → 2026-11-27 14（+1）
 
 
 ---

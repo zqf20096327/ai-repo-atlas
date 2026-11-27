@@ -1,6 +1,6 @@
 # knowns-dev/knowns
 
-⭐ 254 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/knowns-dev/knowns) · [官网](http://knowns.sh) · 组织维护 · 中文 README
+⭐ 256 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/knowns-dev/knowns) · [官网](http://knowns.sh) · 组织维护 · 中文 README
 
 **为 AI 编码代理提供项目任务/文档/决策上下文层**
 
@@ -46,13 +46,13 @@ Knowns 是一个本地优先、可自托管的项目上下文层，用仓库内 
 
 ```mermaid
 xychart-beta
-    title "knowns-dev/knowns 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 249 --> 255
-    line [250, 251, 252, 251, 252, 253, 254]
+    title "knowns-dev/knowns 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 249 --> 257
+    line [250, 251, 252, 251, 252, 253, 254, 256]
 ```
 
-2026-10-24 250 → 2026-11-26 254（+4）
+2026-10-25 250 → 2026-11-27 256（+6）
 
 
 ---

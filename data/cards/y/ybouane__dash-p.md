@@ -44,13 +44,13 @@ CLI 与 TypeScript 库，通过伪终端启动官方 claude 命令的交互式 T
 
 ```mermaid
 xychart-beta
-    title "ybouane/dash-p 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "ybouane/dash-p 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 22 --> 25
-    line [23, 24]
+    line [23, 24, 24]
 ```
 
-2026-10-24 23 → 2026-11-26 24（+1）
+2026-10-25 23 → 2026-11-27 24（+1）
 
 
 ---

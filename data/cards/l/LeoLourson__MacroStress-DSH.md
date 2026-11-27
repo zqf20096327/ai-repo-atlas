@@ -1,6 +1,6 @@
 # LeoLourson/MacroStress-DSH
 
-⭐ 5 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/LeoLourson/MacroStress-DSH) · 个人维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LeoLourson/MacroStress-DSH) · 个人维护 · 中文 README
 
 **给投资组合做宏观压力测试的 MCP 服务器与 Python 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LeoLourson/MacroStress-DSH 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-26 5（+0）
+2026-11-08 5 → 2026-11-27 5（+0）
 
 
 ---

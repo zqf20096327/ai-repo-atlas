@@ -1,6 +1,6 @@
 # hanxiao/knowledge-graph-extractor
 
-⭐ 224 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/hanxiao/knowledge-graph-extractor) · [官网](https://hanxiao.io/knowledge-graph) · 个人维护
+⭐ 225 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/hanxiao/knowledge-graph-extractor) · [官网](https://hanxiao.io/knowledge-graph) · 个人维护
 
 **把文档/URL/zip 抽取为交互式知识图谱的自托管应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hanxiao/knowledge-graph-extractor 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 220 --> 225
-    line [221, 223, 224, 224]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 220 --> 226
+    line [221, 223, 224, 225]
 ```
 
-2026-10-24 221 → 2026-11-26 224（+3）
+2026-10-25 221 → 2026-11-27 225（+4）
 
 
 ---

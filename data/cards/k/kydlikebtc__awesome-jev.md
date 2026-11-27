@@ -1,10 +1,10 @@
 # kydlikebtc/awesome-jev
 
-⭐ 605 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/kydlikebtc/awesome-jev) · [官网](https://kydlikebtc.github.io/awesome-jev/) · 个人维护 · 中文 README
+⭐ 605 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/kydlikebtc/awesome-jev) · [官网](https://kydlikebtc.github.io/awesome-jev/) · 个人维护 · 中文 README
 
-**Jev 决策模型产品的发布榜与案例目录，附引用核查**
+**基于 Jev 决策模型的产品发布榜与公开用例目录**
 
-本仓库不是 Jev 本身，而是一个发布榜（launch board）叠加案例目录：收录基于 TypeSafe AI 的 Jev 决策模型构建的产品（当前记录 1,343 个），制作者每周提交发布、社区在 Discussions 投票排名。目录按决策模式组织公开示例，每行记录来源、调用点引用与原始声明，并区分人读过的代码与仅文本信号的情况；榜单独记录投票与证据，二者不相加。README 明确声明与 TypeSafe AI 无隶属，排名不代表运行时或性能背书。
+该仓库是一个发布看板叠加用例目录：收录基于 TypeSafe AI 的 Jev 决策模型构建的产品，制作者每周发布、用户在 Discussions 投票排名，另维护按决策模式组织的公开 Jev 用例索引（Jev Decision Atlas）。每条记录标注来源、调用点引文、由人还是模型核读，并区分投票数与证据记录；README 明确声明独立于 TypeSafe AI，排名不代表运行时或性能背书。提供 JSON 数据与 MCP 工具供程序化读取。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 发布榜：每周提交、投票、排名，60 天后可再次发布
-- Jev Decision Atlas：按决策模式组织的公开示例索引
-- 调用点引用核查：区分真人读码与仅文本信号
-- 提供 JSON 数据、MCP 服务器工具与自托管榜单方法
+- 每周发布看板：制作者提交、社区投票、60 天后可再次发布
+- 按决策模式组织的 Jev 公开用例目录，每行附来源与调用点引文
+- 记录每个调用点由人还是模型核读，投票与证据不相加
+- 提供 JSON 数据接口与 MCP 服务器工具（launch_board、top_launches）
 
 ## 适用场景
 
-- 我基于 Jev 构建了产品，想在发布榜上提交并获取投票
-- 我想查找某个决策模式下的 Jev 使用示例并核对来源
-- 我想给 agent 内环接入一个 Jev 判层类工具前先看已有案例
+- 找基于 Jev 决策模型的实际产品和用法示例
+- 为自己基于 Jev 构建的产品申请发布曝光
+- 在投票前查看某条目的代码核读记录再决定是否采信
 
 ## 场景标签
 
@@ -37,22 +37,21 @@
 
 ## 证据(README 行号)
 
-> L3:  awesome-jev — Jev Launches: 1,343 products built on Jev by 1,170 makers, with 1,460 call-site citation records. Cou
+> L169: - **Jev** is a decision model from TypeSafe AI. It does not write text — you hand it state plus typed questions an
 > L170: - **This repo** is a launch board over a catalogue. The board above: products built on Jev, launched by their make
-> L173: > [!NOTE]
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "kydlikebtc/awesome-jev 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
+    title "kydlikebtc/awesome-jev 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 592 --> 606
-    line [593, 594, 593, 594, 595, 596, 593, 599, 602, 603, 605]
+    line [593, 594, 593, 594, 595, 596, 593, 599, 602, 603, 605, 605]
 ```
 
-2026-10-24 593 → 2026-11-26 605（+12）
+2026-10-25 593 → 2026-11-27 605（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `281c73473ac2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e39fc7fac3ee` · [字段定义](../../DATASET.md)*

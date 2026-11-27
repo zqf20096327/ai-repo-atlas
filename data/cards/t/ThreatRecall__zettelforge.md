@@ -1,6 +1,6 @@
 # ThreatRecall/zettelforge
 
-⭐ 68 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ThreatRecall/zettelforge) · [官网](https://docs.threatrecall.ai/) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ThreatRecall/zettelforge) · [官网](https://docs.threatrecall.ai/) · 组织维护
 
 **面向网络威胁情报的 Python agent 记忆系统：STIX 知识图谱+离线 RAG**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ThreatRecall/zettelforge 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-25", "2026-11-27"]
     y-axis "stars" 65 --> 69
     line [66, 67, 68, 67, 68, 68]
 ```
 
-2026-10-24 66 → 2026-11-26 68（+2）
+2026-10-25 66 → 2026-11-27 68（+2）
 
 
 ---

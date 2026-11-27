@@ -44,13 +44,13 @@ Python 包，封装 Ross Quinlan 的 Cubist v2.07 规则回归模型，并以 sc
 
 ```mermaid
 xychart-beta
-    title "pjaselin/Cubist 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "pjaselin/Cubist 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 61 --> 65
-    line [62, 64]
+    line [62, 64, 64]
 ```
 
-2026-10-24 62 → 2026-11-26 64（+2）
+2026-10-25 62 → 2026-11-27 64（+2）
 
 
 ---

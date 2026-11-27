@@ -1,6 +1,6 @@
 # delvendahl/miniML
 
-⭐ 31 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/delvendahl/miniML) · [官网](https://delvendahl.github.io/miniML/) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/delvendahl/miniML) · [官网](https://delvendahl.github.io/miniML/) · 组织维护
 
 **神经科学工具：深度学习检测突触事件（mEPSC 等）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "delvendahl/miniML 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-24 31 → 2026-11-26 31（+0）
+2026-10-25 31 → 2026-11-27 31（+0）
 
 
 ---

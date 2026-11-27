@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SparkEngineAI/QuantClaw-plugin 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 114 --> 117
-    line [116, 115, 115]
+    title "SparkEngineAI/QuantClaw-plugin 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 114 --> 116
+    line [115, 115]
 ```
 
-2026-10-24 116 → 2026-11-26 115（-1）
+2026-10-25 115 → 2026-11-27 115（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mhurhangee/patrick
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/mhurhangee/patrick) · [官网](https://usepatrick.com) · 个人维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/mhurhangee/patrick) · [官网](https://usepatrick.com) · 个人维护
 
 **本地运行的专利申请文件起草与红线修订桌面 AI 助手**
 
@@ -45,12 +45,12 @@ Windows 桌面应用，AI agent 在用户自己的 .docx 文件中以 Word 原�
 ```mermaid
 xychart-beta
     title "mhurhangee/patrick 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-24 24 → 2026-11-26 24（+0）
+2026-10-25 24 → 2026-11-27 25（+1）
 
 
 ---

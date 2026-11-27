@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Rexoplanets/layout-studio-moss-image-comfy-node 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-25 5 → 2026-11-26 5（+0）
+2026-11-25 5 → 2026-11-27 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hazenix/interview-prep-skills
 
-⭐ 253 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Hazenix/interview-prep-skills) · 个人维护 · 中文 README
+⭐ 254 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Hazenix/interview-prep-skills) · 个人维护 · 中文 README
 
 **技术面试准备 Agent Skills 集合：简历提炼、出题与模拟面试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazenix/interview-prep-skills 星数(近 7 点)"
-    x-axis ["2026-11-13", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 242 --> 254
-    line [243, 246, 248, 249, 251, 252, 253]
+    title "Hazenix/interview-prep-skills 星数(近 8 点)"
+    x-axis ["2026-11-13", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 242 --> 255
+    line [243, 246, 248, 249, 251, 252, 253, 254]
 ```
 
-2026-11-13 243 → 2026-11-26 253（+10）
+2026-11-13 243 → 2026-11-27 254（+11）
 
 
 ---

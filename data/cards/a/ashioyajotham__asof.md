@@ -42,6 +42,18 @@
 > L24: Research ingestion, point-in-time storage, and paper simulation are strictly separated from live broker execution. 
 > L108: Supply a hosted Gemini project (`--vertex-project`) or a locally merged GGUF (`--gguf`, install `.[model]`) for op
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ashioyajotham/asof 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-11-26 30 → 2026-11-27 30（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fb51592f4e45` · [字段定义](../../DATASET.md)*

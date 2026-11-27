@@ -1,6 +1,6 @@
 # GHSaiMo/antigravity-mobile
 
-⭐ 34 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/GHSaiMo/antigravity-mobile) · [官网](https://mgy.jiuge.space/) · 个人维护 · 中文 README
+⭐ 40 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/GHSaiMo/antigravity-mobile) · [官网](https://mgy.jiuge.space/) · 个人维护 · 中文 README
 
 **Google Antigravity AI Agent 的开源原生移动伴侣客户端**
 
@@ -40,6 +40,18 @@
 > L5: > **The Full-Stack Mobile & Remote Companion for Google Antigravity AI Agent.**
 > L6: > 随时随地，在 iPhone、iPhone Duo、iPad、Android 或手机浏览器上实时对话、审批决策、调度多智能体工作流，并掌握上下文水位与配额消耗。
 > L138: 手机端 (iOS / Android / PWA) ──[LAN / Tailscale / Zero-Knowledge E2EE Relay / Cloudflare HTTPS]──▶ mgy Go 网关 ──▶ Anti
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GHSaiMo/antigravity-mobile 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 33 --> 41
+    line [34, 40]
+```
+
+2026-11-26 34 → 2026-11-27 40（+6）
 
 
 ---

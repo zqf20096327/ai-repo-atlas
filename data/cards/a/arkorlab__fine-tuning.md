@@ -46,12 +46,12 @@ Arkor 是一个 TypeScript 微调框架，含 SDK、CLI 与本地 Studio Web UI�
 ```mermaid
 xychart-beta
     title "arkorlab/fine-tuning 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-24 146 → 2026-11-26 146（+0）
+2026-10-25 146 → 2026-11-27 146（+0）
 
 
 ---

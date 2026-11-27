@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "WongiPark0628/Awesome-ComputerVision 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    title "WongiPark0628/Awesome-ComputerVision 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 128 --> 131
-    line [129, 130]
+    line [129, 130, 130]
 ```
 
-2026-11-08 129 → 2026-11-26 130（+1）
+2026-11-08 129 → 2026-11-27 130（+1）
 
 
 ---

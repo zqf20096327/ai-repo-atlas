@@ -41,6 +41,18 @@
 > L8: - **RAG-powered generation** — BM25 search over PineScript v6 docs and 285 example scripts, injected into every prom
 > L23: Open http://localhost:3000, pick your provider, paste your API key, and start generating.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "arturoabreuhd/pinescript-ai 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 375 --> 377
+    line [376, 376]
+```
+
+2026-11-26 376 → 2026-11-27 376（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `67adc3597aa3` · [字段定义](../../DATASET.md)*

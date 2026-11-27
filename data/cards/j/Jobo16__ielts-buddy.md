@@ -1,6 +1,6 @@
 # Jobo16/ielts-buddy
 
-⭐ 29 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Jobo16/ielts-buddy) · [官网](https://ieltsbuddy.igopx.cn/skills) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向本地 Agent 的雅思学习 Agent Skills 集合（脚本/技能/工作流）**
 
@@ -11,7 +11,7 @@ IELTS Buddy 面向 Codex、Claude Code、Cursor、WorkBuddy 等本地 Agent 分�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

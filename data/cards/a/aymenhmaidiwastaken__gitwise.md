@@ -46,12 +46,12 @@ Go 编写的 Git 命令行工具，读取暂存 diff 后由 LLM 生成 conventio
 ```mermaid
 xychart-beta
     title "aymenhmaidiwastaken/gitwise 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

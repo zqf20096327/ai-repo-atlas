@@ -1,10 +1,10 @@
 # mankidev/antialgorithm
 
-⭐ 878 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mankidev/antialgorithm) · 个人维护 · 中文 README
+⭐ 898 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mankidev/antialgorithm) · 个人维护
 
-**面向创意工作的 Agent 技能：让模型脱离首个平均化选择**
+**让 AI agent 远离平庸首选答案的创意技能包**
 
-一个安装到 Agent 技能目录的技能，作用于命名、故事、游戏创意、海报、UI 等创意任务：先让模型说出其第一个、最平均的候选，再基于项目理由主动偏离该选择。附带四个 Python 脚本：seed.py 用系统随机数生成视觉/文本/创意起点并记录历史避免重复，moves.py 记录并防止复用既往手法，rough.py 扰动 SVG 线条与间距制造手作感，check.py 渲染 SVG 并检查文字溢出、遮挡、对比度与尺寸。通过 skills CLI、git clone 或 Claude Code 插件安装。
+一个面向创意工作的 agent 技能：命名、故事、游戏点子、海报、UI。机制是让模型先说出其最初、最平均的选择，再基于项目理由移开。附四个 Python 脚本：seed.py 用系统随机性生成视觉/文本/创意起点并保存历史避免重复；moves.py 记录每次非默认答案的手法避免复用；rough.py 抖动 SVG 线条产生手作感；check.py 渲染 SVG 检查文字越界、遮挡、对比度等问题。支持 skills CLI、git clone 及 Claude Code 插件三种安装方式，脚本需 Python 3。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 先陈述首个平均化选择再基于项目理由偏离的工作机制
-- seed.py 生成视觉/文本/创意三类种子并保存历史去重
-- rough.py 扰动 SVG 使代码绘制的图形呈手作质感
-- check.py 渲染 SVG 并列出溢出、遮挡、低对比度、过小文字
+- 先暴露模型的平均首选，再依据项目理由主动偏离
+- seed.py 基于系统随机性生成起点并跨会话去重
+- rough.py 与 check.py 提供 SVG 手作化处理与排版检查
+- 支持 skills CLI 安装及 Claude Code 插件方式
 
 ## 适用场景
 
-- 让 Agent 为项目生成不落俗套的命名或口号
-- 用同一提示词批量产出风格差异更大的海报 SVG
-- 检查生成的 SVG 海报中文字溢出与对比度问题
-- 在 Cursor/Claude Code 等 Agent 中提升创意产出多样性
+- 给项目、产品或游戏起名时避免平庸选项
+- 让 agent 生成海报/SVG 时保持手作风格
+- 为创意写作或 UI 设计引入随机起点
 
 ## 场景标签
 
-`提示工程` `AI 写作` · 领域:Agent 开发
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L13: Agent skill for creative work: names, story, game ideas, posters, UI. It makes the model name its first, most avera
-> L19: ## Install
+> L21: The skills CLI puts it where your agent reads skills, for Codex, Cursor, OpenCode, Claude Code and others:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "mankidev/antialgorithm 星数(近 5 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 536 --> 909
-    line [567, 601, 688, 774, 878]
+    title "mankidev/antialgorithm 星数(近 6 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 534 --> 931
+    line [567, 601, 688, 774, 878, 898]
 ```
 
-2026-11-21 567 → 2026-11-26 878（+311）
+2026-11-21 567 → 2026-11-27 898（+331）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `dc693aa55b78` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `605f7ec2836c` · [字段定义](../../DATASET.md)*

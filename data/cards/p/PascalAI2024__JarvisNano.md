@@ -1,6 +1,6 @@
 # PascalAI2024/JarvisNano
 
-⭐ 10 · C · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PascalAI2024/JarvisNano) · 个人维护
+⭐ 10 · C · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/PascalAI2024/JarvisNano) · 个人维护
 
 **面向 Waveshare ESP32-S3 AMOLED 开发板的语音优先桌面 AI 伴侣固件**
 
@@ -39,6 +39,18 @@ JarvisNano 将 Waveshare ESP32-S3-Touch-AMOLED-1.75C 开发板固化为独立运
 
 > L3:  A voice-first J.A.R.V.I.S. desk companion on a round 466×466 AMOLED ESP32-S3.
 > L45: JarvisNano turns the **Waveshare ESP32-S3-Touch-AMOLED-1.75C** into a standalone, always-ready desk companion. No p
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PascalAI2024/JarvisNano 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

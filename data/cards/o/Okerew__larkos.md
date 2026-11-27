@@ -45,12 +45,12 @@ Larkos（Lattice-Associated Recursive Knowledge Organization System）是一个�
 ```mermaid
 xychart-beta
     title "Okerew/larkos 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 17（+0）
 
 
 ---

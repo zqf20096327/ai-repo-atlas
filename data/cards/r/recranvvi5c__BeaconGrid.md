@@ -1,6 +1,6 @@
 # recranvvi5c/BeaconGrid
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/recranvvi5c/BeaconGrid) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/recranvvi5c/BeaconGrid) · 个人维护
 
 **Agent 决策回放工作台：重放历史会话并对比修订后策略的差异**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "recranvvi5c/BeaconGrid 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 12 --> 24
-    line [22, 23, 22, 17, 16, 13]
+    title "recranvvi5c/BeaconGrid 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 24
+    line [22, 23, 22, 17, 16, 13, 12]
 ```
 
-2026-10-24 22 → 2026-11-26 13（-9）
+2026-10-25 22 → 2026-11-27 12（-10）
 
 
 ---

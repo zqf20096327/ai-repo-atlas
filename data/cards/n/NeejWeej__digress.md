@@ -1,6 +1,6 @@
 # NeejWeej/digress
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NeejWeej/digress) · [官网](https://neejweej.github.io/digress/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NeejWeej/digress) · [官网](https://neejweej.github.io/digress/) · 个人维护
 
 **自托管的分支式学习聊天应用：高亮提问生成旁支**
 
@@ -39,6 +39,18 @@
 
 > L3: **A branching chat for learning.** Highlight any words in an answer, ask about them, and the reply opens in its own 
 > L7: **Try the demo** in your browser, nothing to install. It's the real app with a sample reading and conversation, but 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NeejWeej/digress 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

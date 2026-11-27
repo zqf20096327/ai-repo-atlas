@@ -1,6 +1,6 @@
 # devlprkhan/universal-data-cleaner
 
-⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/devlprkhan/universal-data-cleaner) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/devlprkhan/universal-data-cleaner) · 个人维护
 
 **面向 pandas 表格数据的生产级 scikit-learn 兼容清洗转换器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "devlprkhan/universal-data-cleaner 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-15", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-31 3 → 2026-11-26 4（+1）
+2026-10-31 3 → 2026-11-27 4（+1）
 
 
 ---

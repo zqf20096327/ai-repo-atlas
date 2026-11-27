@@ -1,6 +1,6 @@
 # Dicklesworthstone/jeffreysprompts.com
 
-⭐ 119 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Dicklesworthstone/jeffreysprompts.com) · [官网](https://jeffreyspromptscom.vercel.app) · 个人维护
+⭐ 120 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Dicklesworthstone/jeffreysprompts.com) · [官网](https://jeffreyspromptscom.vercel.app) · 个人维护
 
 **面向 AI 编程 agent 的提示词策展平台，提供浏览/复制/导出与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/jeffreysprompts.com 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 119]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 117 --> 121
+    line [118, 119, 120]
 ```
 
-2026-10-24 118 → 2026-11-26 119（+1）
+2026-10-25 118 → 2026-11-27 120（+2）
 
 
 ---

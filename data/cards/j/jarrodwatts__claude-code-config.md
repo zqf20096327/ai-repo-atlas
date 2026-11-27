@@ -1,6 +1,6 @@
 # jarrodwatts/claude-code-config
 
-⭐ 1,064 · JavaScript · 推送 2026-01-21 · [GitHub](https://github.com/jarrodwatts/claude-code-config) · 个人维护
+⭐ 1,063 · JavaScript · 推送 2026-01-21 · [GitHub](https://github.com/jarrodwatts/claude-code-config) · 个人维护
 
 **Claude Code 个人配置集：规则、技能、子代理、命令与钩子**
 
@@ -45,13 +45,13 @@ Jarrod Watts 维护的个人 Claude Code 配置仓库，内容多取自社区：
 
 ```mermaid
 xychart-beta
-    title "jarrodwatts/claude-code-config 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-25", "2026-11-26"]
+    title "jarrodwatts/claude-code-config 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1061 --> 1066
-    line [1062, 1063, 1062, 1063, 1064, 1065, 1064]
+    line [1062, 1063, 1062, 1063, 1064, 1065, 1064, 1063]
 ```
 
-2026-10-24 1,062 → 2026-11-26 1,064（+2）
+2026-10-25 1,062 → 2026-11-27 1,063（+1）
 
 
 ---

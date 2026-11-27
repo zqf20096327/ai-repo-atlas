@@ -1,6 +1,6 @@
 # 2nd1st/api-log
 
-⭐ 14 · Go · MIT · 推送 2026-06-06 · [GitHub](https://github.com/2nd1st/api-log) · 个人维护 · 中文 README
+⭐ 15 · Go · MIT · 推送 2026-06-06 · [GitHub](https://github.com/2nd1st/api-log) · 个人维护 · 中文 README
 
 **LLM 网关流量录制代理：透明记录并索引 OpenAI/Anthropic/Gemini trace**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "2nd1st/api-log 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 12, 14, 14]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 12, 14, 15]
 ```
 
-2026-10-24 12 → 2026-11-26 14（+2）
+2026-10-25 12 → 2026-11-27 15（+3）
 
 
 ---

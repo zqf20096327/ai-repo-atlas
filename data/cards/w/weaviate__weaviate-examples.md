@@ -1,6 +1,6 @@
 # weaviate/weaviate-examples
 
-⭐ 331 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/weaviate/weaviate-examples) · 组织维护
+⭐ 330 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/weaviate/weaviate-examples) · 组织维护
 
 **Weaviate 向量数据库的示例与教程合集，面向学习者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-examples 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 330 --> 332
-    line [331, 331]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 329 --> 332
+    line [331, 330]
 ```
 
-2026-11-25 331 → 2026-11-26 331（+0）
+2026-11-25 331 → 2026-11-27 330（-1）
 
 
 ---

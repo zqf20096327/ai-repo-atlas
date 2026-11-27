@@ -1,6 +1,6 @@
 # aminoy77/HelloChusquis
 
-⭐ 16 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aminoy77/HelloChusquis) · [官网](https://aminoy77.github.io/HelloChusquis/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/aminoy77/HelloChusquis) · [官网](https://aminoy77.github.io/HelloChusquis/) · 个人维护
 
 **本地优先的终端 AI agent：对话、工具执行与记忆一体的工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aminoy77/HelloChusquis 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26"]
+    title "aminoy77/HelloChusquis 星数(近 6 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 11 --> 17
-    line [12, 13, 14, 15, 16]
+    line [12, 13, 14, 15, 16, 16]
 ```
 
-2026-11-19 12 → 2026-11-26 16（+4）
+2026-11-19 12 → 2026-11-27 16（+4）
 
 
 ---

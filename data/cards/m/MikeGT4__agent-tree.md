@@ -1,6 +1,6 @@
 # MikeGT4/agent-tree
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MikeGT4/agent-tree) · [官网](https://www.digitalroots.de/en/leistungen/software/agent-tree/) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/MikeGT4/agent-tree) · [官网](https://www.digitalroots.de/en/leistungen/software/agent-tree/) · 个人维护
 
 **Claude Code 终端侧栏：以实时树视图管理各终端中的 agents**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MikeGT4/agent-tree 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-11-25 24 → 2026-11-26 24（+0）
+2026-11-25 24 → 2026-11-27 25（+1）
 
 
 ---

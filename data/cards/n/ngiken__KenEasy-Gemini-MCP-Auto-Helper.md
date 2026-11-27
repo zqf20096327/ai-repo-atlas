@@ -1,6 +1,6 @@
 # ngiken/KenEasy-Gemini-MCP-Auto-Helper
 
-⭐ 21 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper) · [官网](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper/releases/latest) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper) · [官网](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper/releases/latest) · 个人维护 · 中文 README
 
 **为 Gemini 网页版自动放行 MCP 权限并连续点击的浏览器扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ngiken/KenEasy-Gemini-MCP-Auto-Helper 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    title "ngiken/KenEasy-Gemini-MCP-Auto-Helper 星数(近 5 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 14 --> 22
-    line [15, 16, 17, 21]
+    line [15, 16, 17, 21, 20]
 ```
 
-2026-11-22 15 → 2026-11-26 21（+6）
+2026-11-22 15 → 2026-11-27 20（+5）
 
 
 ---

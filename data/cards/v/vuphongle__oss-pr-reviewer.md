@@ -1,6 +1,6 @@
 # vuphongle/oss-pr-reviewer
 
-⭐ 113 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/vuphongle/oss-pr-reviewer) · 个人维护
+⭐ 112 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/vuphongle/oss-pr-reviewer) · 个人维护
 
 **面向开源维护者的 AI PR 审查 CLI：生成结构化 Markdown 报告**
 
@@ -46,12 +46,12 @@ TypeScript 编写的命令行工具，供开源仓库维护者审查单个 GitHu
 ```mermaid
 xychart-beta
     title "vuphongle/oss-pr-reviewer 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 112 --> 115
-    line [114, 113, 114, 113, 113]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 111 --> 115
+    line [114, 113, 114, 113, 112]
 ```
 
-2026-10-24 114 → 2026-11-26 113（-1）
+2026-10-25 114 → 2026-11-27 112（-2）
 
 
 ---

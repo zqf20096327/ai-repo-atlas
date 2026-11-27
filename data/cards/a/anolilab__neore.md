@@ -1,6 +1,6 @@
 # anolilab/neore
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/anolilab/neore) · 个人维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/anolilab/neore) · 个人维护
 
 **多模型 AI 聊天应用：网页端+浏览器扩展，自托管部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anolilab/neore 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 14（+1）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

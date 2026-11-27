@@ -1,6 +1,6 @@
 # sao-coding/sightline
 
-⭐ 15 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/sao-coding/sightline) · 个人维护 · 中文 README
+⭐ 17 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/sao-coding/sightline) · 个人维护 · 中文 README
 
 **给 Windows 上 AI 编码代理提供窗口截图与进程监控的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sao-coding/sightline 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 16
-    line [3, 15]
+    title "sao-coding/sightline 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 18
+    line [3, 15, 17]
 ```
 
-2026-11-25 3 → 2026-11-26 15（+12）
+2026-11-25 3 → 2026-11-27 17（+14）
 
 
 ---

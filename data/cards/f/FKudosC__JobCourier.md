@@ -1,6 +1,6 @@
 # FKudosC/JobCourier
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/FKudosC/JobCourier) · 个人维护 · 中文 README
+⭐ 7 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/FKudosC/JobCourier) · 个人维护 · 中文 README
 
 **本机运行的 BOSS 直聘 AI 智能投递助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "FKudosC/JobCourier 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-10-24 5 → 2026-11-26 6（+1）
+2026-10-25 5 → 2026-11-27 7（+2）
 
 
 ---

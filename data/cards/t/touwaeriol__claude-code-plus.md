@@ -44,13 +44,13 @@ IntelliJ IDEA 插件，将 Claude Code CLI 以图形界面嵌入 IDE：提供聊
 
 ```mermaid
 xychart-beta
-    title "touwaeriol/claude-code-plus 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "touwaeriol/claude-code-plus 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 140 --> 143
-    line [142, 141]
+    line [142, 141, 141]
 ```
 
-2026-10-24 142 → 2026-11-26 141（-1）
+2026-10-25 142 → 2026-11-27 141（-1）
 
 
 ---

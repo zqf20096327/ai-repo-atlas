@@ -1,6 +1,6 @@
 # Michael-Jiahao-Zhang/game-the-llm-reviewer
 
-⭐ 223 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer) · 个人维护 · 中文 README
+⭐ 224 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer) · 个人维护 · 中文 README
 
 **投稿前防御性润色 agent 技能：按 LLM 审稿偏好改写论文措辞**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Michael-Jiahao-Zhang/game-the-llm-reviewer 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 217 --> 224
-    line [218, 219, 220, 219, 220, 222, 223, 223]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 217 --> 225
+    line [218, 219, 220, 219, 220, 222, 223, 224]
 ```
 
-2026-10-24 218 → 2026-11-26 223（+5）
+2026-10-25 218 → 2026-11-27 224（+6）
 
 
 ---

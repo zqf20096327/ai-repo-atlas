@@ -1,6 +1,6 @@
 # friendliai/friendlilink
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/friendliai/friendlilink) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/friendliai/friendlilink) · 组织维护
 
 **将多种编码 agent 的配置切换为通过 FriendliAI 运行的 CLI 工具**
 
@@ -46,12 +46,12 @@ FriendliLink（frlink）是一个集成配置工具：检测本机已安装的�
 ```mermaid
 xychart-beta
     title "friendliai/friendlilink 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

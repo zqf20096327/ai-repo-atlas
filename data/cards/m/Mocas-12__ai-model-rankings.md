@@ -1,6 +1,6 @@
 # Mocas-12/ai-model-rankings
 
-⭐ 26 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Mocas-12/ai-model-rankings) · [官网](https://ai-model-rankings.streamlit.app/) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Mocas-12/ai-model-rankings) · [官网](https://ai-model-rankings.streamlit.app/) · 个人维护 · 中文 README
 
 **水墨风大模型实时战力榜：用量/基准/性价比可视化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mocas-12/ai-model-rankings 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "Mocas-12/ai-model-rankings 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 23 --> 27
-    line [24, 25, 26]
+    line [24, 25, 26, 26]
 ```
 
-2026-10-24 24 → 2026-11-26 26（+2）
+2026-10-25 24 → 2026-11-27 26（+2）
 
 
 ---

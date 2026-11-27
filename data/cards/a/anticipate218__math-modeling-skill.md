@@ -1,6 +1,6 @@
 # anticipate218/math-modeling-skill
 
-⭐ 59 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/anticipate218/math-modeling-skill) · 个人维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/anticipate218/math-modeling-skill) · 个人维护 · 中文 README
 
 **给 AI 助手的数学建模竞赛技能包：选题建模到论文合规全流程**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "anticipate218/math-modeling-skill 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 53 --> 60
-    line [54, 55, 56, 54, 59, 59]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 53 --> 61
+    line [54, 55, 56, 54, 59, 60]
 ```
 
-2026-10-24 54 → 2026-11-26 59（+5）
+2026-10-25 54 → 2026-11-27 60（+6）
 
 
 ---

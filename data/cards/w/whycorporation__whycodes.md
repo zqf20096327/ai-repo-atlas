@@ -1,6 +1,6 @@
 # whycorporation/whycodes
 
-⭐ 28 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/whycorporation/whycodes) · [官网](https://why.codes) · 组织维护 · 中文 README
+⭐ 28 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/whycorporation/whycodes) · [官网](https://why.codes) · 组织维护 · 中文 README
 
 **Rust 编写的终端编码 agent，支持多模型提供方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "whycorporation/whycodes 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 21 --> 29
     line [22, 23, 24, 22, 28, 28]
 ```
 
-2026-10-24 22 → 2026-11-26 28（+6）
+2026-10-25 22 → 2026-11-27 28（+6）
 
 
 ---

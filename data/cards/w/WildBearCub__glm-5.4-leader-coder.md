@@ -1,6 +1,6 @@
 # WildBearCub/glm-5.4-leader-coder
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/WildBearCub/glm-5.4-leader-coder) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/WildBearCub/glm-5.4-leader-coder) · 个人维护 · 中文 README
 
 **给 GLM-5.4 编码会话用的 Leader+Coder 双模型子智能体分工方案**
 
@@ -40,6 +40,18 @@
 > L1: # Leader + Coder：给 z.ai GLM-5.4 用的双模型子智能体分工方案
 > L5: **一句话**：不让 GLM-5.4 自己写代码，让它只做定方案、派单、审查三件事，代码交给 GLM-5.3-Flash 去写。
 > L17: |Leader（主会话上的一个技能）|GLM-5.4|定方案、派单、审查|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WildBearCub/glm-5.4-leader-coder 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

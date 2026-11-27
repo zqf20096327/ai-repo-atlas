@@ -1,6 +1,6 @@
 # mittal-parth/hackathon-curation-agent
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-05-03 · [GitHub](https://github.com/mittal-parth/hackathon-curation-agent) · [官网](https://webclub.nitk.ac.in/hackclub_nitk) · 组织维护
+⭐ 16 · Python · AGPL-3.0 · 推送 2026-05-03 · [GitHub](https://github.com/mittal-parth/hackathon-curation-agent) · [官网](https://webclub.nitk.ac.in/hackclub_nitk) · 组织维护
 
 **从 Gmail 通讯中自动筛选招 Hackathon 并推送到表格与 Twitter 的 AI 代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mittal-parth/hackathon-curation-agent 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 14, 15, 15]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16]
 ```
 
-2026-10-24 14 → 2026-11-26 15（+1）
+2026-10-25 14 → 2026-11-27 16（+2）
 
 
 ---

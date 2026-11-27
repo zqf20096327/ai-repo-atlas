@@ -1,6 +1,6 @@
 # Arvin-Mohammadi/Delta-Robot-Trajectory-Planning-V3
 
-⭐ 14 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Arvin-Mohammadi/Delta-Robot-Trajectory-Planning-V3) · 个人维护
+⭐ 15 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Arvin-Mohammadi/Delta-Robot-Trajectory-Planning-V3) · 个人维护
 
 **Delta 机器人轨迹规划方法的实验对比研究资料库**
 
@@ -40,6 +40,18 @@
 > L1: # Trajectory Planning Experimental Comparison Study
 > L61: 	Note: The solution is from the reference #1
 > L159: # Theoretical Study - Point-to-Point Trajectory Generation
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Arvin-Mohammadi/Delta-Robot-Trajectory-Planning-V3 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
+```
+
+2026-11-26 14 → 2026-11-27 15（+1）
 
 
 ---

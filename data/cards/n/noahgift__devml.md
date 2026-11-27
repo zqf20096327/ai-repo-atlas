@@ -46,12 +46,12 @@ Pragmatic AI Labs 赞助的 Python 工具库与 CLI（dml），可批量 clone �
 ```mermaid
 xychart-beta
     title "noahgift/devml 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-11-25 28 → 2026-11-26 28（+0）
+2026-11-25 28 → 2026-11-27 28（+0）
 
 
 ---

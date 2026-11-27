@@ -44,13 +44,13 @@ C#/.NET 9 编写的开源 Discord 机器人，功能覆盖审核处罚与防刷�
 
 ```mermaid
 xychart-beta
-    title "nadeko-bot/nadekobot 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    title "nadeko-bot/nadekobot 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 80 --> 83
-    line [81, 82]
+    line [81, 82, 82]
 ```
 
-2026-11-08 81 → 2026-11-26 82（+1）
+2026-11-08 81 → 2026-11-27 82（+1）
 
 
 ---

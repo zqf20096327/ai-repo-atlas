@@ -1,6 +1,6 @@
 # hegelai/prompttools
 
-⭐ 3,059 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/hegelai/prompttools) · [官网](http://prompttools.readthedocs.io) · 组织维护
+⭐ 3,060 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/hegelai/prompttools) · [官网](http://prompttools.readthedocs.io) · 组织维护
 
 **给开发者的 LLM 与向量数据库提示词测试评测工具集**
 
@@ -44,13 +44,13 @@ Hegel AI 维护的开源自托管 Python 库，用于实验、测试与评估 LL
 
 ```mermaid
 xychart-beta
-    title "hegelai/prompttools 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-26"]
+    title "hegelai/prompttools 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-27"]
     y-axis "stars" 3057 --> 3062
-    line [3059, 3060, 3061, 3060, 3061, 3060, 3059, 3058, 3059, 3059]
+    line [3060, 3061, 3060, 3061, 3060, 3059, 3058, 3059, 3060]
 ```
 
-2026-10-24 3,059 → 2026-11-26 3,059（+0）
+2026-10-25 3,060 → 2026-11-27 3,060（+0）
 
 
 ---

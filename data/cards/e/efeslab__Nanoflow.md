@@ -1,6 +1,6 @@
 # efeslab/Nanoflow
 
-⭐ 978 · Jupyter Notebook · 推送 2026-03-29 · [GitHub](https://github.com/efeslab/Nanoflow) · [官网](https://arxiv.org/abs/2408.12757) · 组织维护
+⭐ 979 · Jupyter Notebook · 推送 2026-03-29 · [GitHub](https://github.com/efeslab/Nanoflow) · [官网](https://arxiv.org/abs/2408.12757) · 组织维护
 
 **面向吞吐的 LLM 推理服务框架（研究原型，论文配套）**
 
@@ -45,12 +45,12 @@ NanoFlow 是 C++ 后端 + Python 前端（约 4K 行）的 LLM 服务框架，�
 ```mermaid
 xychart-beta
     title "efeslab/Nanoflow 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 975 --> 979
-    line [977, 976, 977, 976, 977, 978, 978]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 975 --> 980
+    line [977, 976, 977, 976, 977, 978, 979]
 ```
 
-2026-10-24 977 → 2026-11-26 978（+1）
+2026-10-25 977 → 2026-11-27 979（+2）
 
 
 ---

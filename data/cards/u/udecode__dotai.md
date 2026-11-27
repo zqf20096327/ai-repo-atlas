@@ -1,16 +1,16 @@
 # udecode/dotai
 
-⭐ 1,163 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/udecode/dotai) · 组织维护
+⭐ 1,164 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/udecode/dotai) · 组织维护
 
-**面向 AI agent 的共享技能集合，覆盖测试审计与 pstack 同步**
+**面向 coding agent 的共享技能集：审计、视频、同步等复用方法**
 
-dotai 是一组供 agent 使用的共享技能（skills）仓库，内容来自 pstack 插件未覆盖的部分：测试审计（test-audit）、截图走查与视频转录、pstack 的安装/同步/技能漂移审计（sync-pstack），以及无人值守 1Password 登录与 New-Machine 设置的 passwords 技能。工程方法依赖 pstack 插件且不自行 vendor 上游技能，通过 SKILLS.md 记录生成的清单、能力边界与上游技能的固定安装命令，并提供 validate-skills 与 build-workflow 脚本做校验与重建。
+udecode 的 ustack 仓库提供 pstack 插件未覆盖的共享 agent 技能：测试审计（test-audit）、技能与覆盖审计（skill-audit）、视频片段与转录，以及 pstack 的安装同步（sync-pstack）。技能通过 Skills CLI 安装并可指定目标 agent；仓库约定 skills/ 目录只放可复用方法，禁止包含产品名、私路径与凭据；配套 validate-skills 与 build-workflow.mjs 脚本做结构校验与目录再生成。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,38 +20,38 @@ dotai 是一组供 agent 使用的共享技能（skills）仓库，内容来自 
 
 ## 能力要点
 
-- test-audit/sync-pstack/passwords 等可安装的共享 agent 技能
-- npx skills add 命令按技能与 agent 指定安装
-- validate-skills 按 frontmatter 与变更可达性选择性运行技能测试
-- build-workflow 重建 SKILLS.md 与 workflow-manifest.json，含重复所有权检查与校验和
+- test-audit、skill-audit、sync-pstack 等共享技能
+- Skills CLI 一条命令按技能与 agent 安装（项目级/全局）
+- validate-skills 校验 frontmatter、体量预算并运行技能测试
+- build-workflow.mjs 再生成 SKILLS.md 并解析依赖与本地引用
 
 ## 适用场景
 
-- 为 codex/claude-code 等 agent 安装项目级或全局技能
-- 在多个项目中保持 pstack 插件配置一致
-- 审计仓库测试质量并生成截图/视频走查材料
+- 给 Codex / Claude Code 等 agent 安装可复用工程方法技能
+- 为多个项目统一 pstack 插件配置与覆盖块
+- 在团队仓库中隔离私有信息后再共享 agent 技能
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: Shared skills that the pstack plugin does not cover: test audits (`test-audit`, adapted from openclaw's), screenshot
-> L22: Install a skill with the Skills CLI, naming the skill and each agent, for example `npx skills add udecode/dotai --s
+> L3: Shared skills that the pstack plugin does not cover: test audits (`test-audit`, adapted from openclaw's), skill and 
+> L22: Install a skill with the Skills CLI, naming the skill and each agent, for example `npx skills add udecode/ustack --
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "udecode/dotai 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-27"]
     y-axis "stars" 1157 --> 1165
-    line [1158, 1161, 1158, 1164, 1163, 1164, 1163, 1163]
+    line [1158, 1161, 1158, 1164, 1163, 1164, 1163, 1164]
 ```
 
-2026-10-24 1,158 → 2026-11-26 1,163（+5）
+2026-10-25 1,158 → 2026-11-27 1,164（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `504d79a00c52` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `3c36a7096461` · [字段定义](../../DATASET.md)*

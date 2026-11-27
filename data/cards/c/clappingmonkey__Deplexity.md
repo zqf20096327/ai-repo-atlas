@@ -1,6 +1,6 @@
 # clappingmonkey/Deplexity
 
-⭐ 27 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/clappingmonkey/Deplexity) · 个人维护
+⭐ 27 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/clappingmonkey/Deplexity) · 个人维护
 
 **离线导出 Perplexity 对话、Spaces 与个人数据的 Go CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "clappingmonkey/Deplexity 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-27"]
     y-axis "stars" 22 --> 28
     line [23, 24, 23, 26, 27, 27]
 ```
 
-2026-10-24 23 → 2026-11-26 27（+4）
+2026-10-25 23 → 2026-11-27 27（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # khanhtq29vn/contextcraft
 
-⭐ 65 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/khanhtq29vn/contextcraft) · [官网](https://khanhtq29vn.github.io/contextcraft/) · 个人维护
+⭐ 66 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/khanhtq29vn/contextcraft) · [官网](https://khanhtq29vn.github.io/contextcraft/) · 个人维护
 
 **面向 LLM 的 AST 感知、token 预算约束的代码库压缩工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "khanhtq29vn/contextcraft 星数(近 12 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 26 --> 68
-    line [29, 39, 52, 54, 56, 60, 61, 62, 64, 39, 65, 65]
+    title "khanhtq29vn/contextcraft 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 37 --> 68
+    line [39, 52, 54, 56, 60, 61, 62, 64, 39, 65, 66]
 ```
 
-2026-10-24 29 → 2026-11-26 65（+36）
+2026-10-25 39 → 2026-11-27 66（+27）
 
 
 ---

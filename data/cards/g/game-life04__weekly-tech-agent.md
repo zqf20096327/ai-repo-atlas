@@ -1,6 +1,6 @@
 # game-life04/weekly-tech-agent
 
-⭐ 3 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/game-life04/weekly-tech-agent) · 组织维护 · 中文 README
+⭐ 3 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/game-life04/weekly-tech-agent) · 组织维护 · 中文 README
 
 **每日自动收集 AI/开源动态并生成日报周报的 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "game-life04/weekly-tech-agent 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-24 3 → 2026-11-26 3（+0）
+2026-10-25 3 → 2026-11-27 3（+0）
 
 
 ---

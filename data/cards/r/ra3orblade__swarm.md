@@ -1,6 +1,6 @@
 # ra3orblade/swarm
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/ra3orblade/swarm) · [官网](https://getswarm.vercel.app) · 个人维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ra3orblade/swarm) · [官网](https://getswarm.vercel.app) · 个人维护
 
 **本地优先的 AI agent 开发控制面板：实时观测会话、任务台账与规则管控**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ra3orblade/swarm 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "ra3orblade/swarm 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-24 13 → 2026-11-26 14（+1）
+2026-10-25 14 → 2026-11-27 15（+1）
 
 
 ---

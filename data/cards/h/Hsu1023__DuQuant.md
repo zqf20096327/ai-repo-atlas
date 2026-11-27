@@ -1,6 +1,6 @@
 # Hsu1023/DuQuant
 
-⭐ 190 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Hsu1023/DuQuant) · [官网](https://arxiv.org/abs/2406.01721) · 组织维护 · 中文 README
+⭐ 190 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Hsu1023/DuQuant) · [官网](https://arxiv.org/abs/2406.01721) · 组织维护 · 中文 README
 
 **LLM 4比特权重激活量化的算法实现库（NeurIPS 2024 Oral 论文代码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hsu1023/DuQuant 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
     y-axis "stars" 187 --> 191
     line [188, 189, 190, 190]
 ```
 
-2026-10-24 188 → 2026-11-26 190（+2）
+2026-10-25 188 → 2026-11-27 190（+2）
 
 
 ---

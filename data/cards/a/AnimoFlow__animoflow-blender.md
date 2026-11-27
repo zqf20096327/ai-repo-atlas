@@ -40,6 +40,18 @@
 > L3: Blender addon for AnimoFlow — generate character motion and import it straight into your scene. Supports all four An
 > L60: Generation runs on your own Hugging Face ZeroGPU quota (free ≈ 5 min GPU/day, PRO ≈ 25 min/day).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AnimoFlow/animoflow-blender 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d84a2c6a9cc8` · [字段定义](../../DATASET.md)*

@@ -41,6 +41,18 @@ thott.bot 提供一个远程 MCP 服务器（https://mcp.thott.bot/mcp），向�
 > L109: Yes, a remote MCP server at `https://mcp.thott.bot/mcp`. Your AI signs in with OAuth and gets read-only tools to
 > L136: There's no server code here: the plugins point your app at `https://mcp.thott.bot/mcp`.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thott-bot/wow-forever-ai-mcp 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4da2e91eb90c` · [字段定义](../../DATASET.md)*

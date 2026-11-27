@@ -1,6 +1,6 @@
 # bradlishman/awesome-inference-engines
 
-⭐ 4 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/bradlishman/awesome-inference-engines) · 个人维护
+⭐ 4 · Python · CC0-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/bradlishman/awesome-inference-engines) · 个人维护
 
 **LLM 推理引擎的精选技术参考清单，按硬件与负载检索**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "bradlishman/awesome-inference-engines 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-25 4 → 2026-11-26 4（+0）
+2026-11-25 4 → 2026-11-27 4（+0）
 
 
 ---

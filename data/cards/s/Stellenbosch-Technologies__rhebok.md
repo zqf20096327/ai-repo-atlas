@@ -1,6 +1,6 @@
 # Stellenbosch-Technologies/rhebok
 
-⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Stellenbosch-Technologies/rhebok) · [官网](https://stelltec.com/rhebok/) · 组织维护
+⭐ 8 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Stellenbosch-Technologies/rhebok) · [官网](https://stelltec.com/rhebok/) · 组织维护
 
 **为 AI 编码 agent 提供本地检索与记忆的 MCP server**
 
@@ -40,6 +40,18 @@
 > L10: MCP server
 > L22: rhebok indexes the folders you point it at, embeds them with a small model
 > L31: It works with Claude Code, Codex, Gemini CLI, Cursor and Claude Desktop. It
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Stellenbosch-Technologies/rhebok 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 9
+    line [4, 8]
+```
+
+2026-11-26 4 → 2026-11-27 8（+4）
 
 
 ---

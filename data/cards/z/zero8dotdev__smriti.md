@@ -1,6 +1,6 @@
 # zero8dotdev/smriti
 
-⭐ 40 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/zero8dotdev/smriti) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/zero8dotdev/smriti) · 个人维护
 
 **AI 编程团队的共享记忆层：跨 agent 捕获、索引、召回会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zero8dotdev/smriti 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41]
 ```
 
-2026-10-24 39 → 2026-11-26 40（+1）
+2026-10-25 39 → 2026-11-27 41（+2）
 
 
 ---

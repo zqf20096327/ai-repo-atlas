@@ -1,1 +1,76 @@
-{"fn": "dzianisv/opencode-mobile", "sha": "cecdb73ee3de", "source": "readme", "identity": {"one_liner": "Android 手机客户端：远程操作自托管 opencode 编码 agent", "review": "面向已自托管 opencode 服务器的开发者的 Android 客户端（React Native/Expo 构建），通过 opencode 的 HTTP + SSE API 提供会话浏览、逐 token 流式聊天、文件变更 diff 查看、工具调用审批与多连接管理。本身是薄客户端，所有模型调用由服务端完成，需用户自备 API key；支持经局域网、Cloudflare Tunnel、ngrok 或 Tailscale 连接，凭据存于 Android Keystore。提供离线演示模式；无 iOS 版本。", "highlights": ["通过 opencode HTTP+SSE API 实现流式聊天与文件变更事件订阅", "工具调用审批与内联 diff 查看器", "多连接管理：局域网/Cloudflare Tunnel/ngrok/Tailscale", "凭据经 Android Keystore 存储，含生物识别解锁"], "use_cases": ["在手机上查看和推进自托管 opencode 服务器上的编码会话", "外出时审批 agent 的工具调用并审查代码改动", "无服务器时用离线演示了解 agent 工作流程"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["移动客户端", "编码agent", "远程开发", "Android"], "domain": "开发者工具/移动客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L3: **The open-source Android client for the opencode AI coding agent.**", "L94: OpenCode Mobile is a thin client. It speaks the opencode HTTP + SSE API: listing sessions, sending messages, streaming r"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-26", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "dzianisv/opencode-mobile",
+ "sha": "cecdb73ee3de",
+ "source": "readme",
+ "identity": {
+  "one_liner": "Android 手机客户端：远程操作自托管 opencode 编码 agent",
+  "review": "面向已自托管 opencode 服务器的开发者的 Android 客户端（React Native/Expo 构建），通过 opencode 的 HTTP + SSE API 提供会话浏览、逐 token 流式聊天、文件变更 diff 查看、工具调用审批与多连接管理。本身是薄客户端，所有模型调用由服务端完成，需用户自备 API key；支持经局域网、Cloudflare Tunnel、ngrok 或 Tailscale 连接，凭据存于 Android Keystore。提供离线演示模式；无 iOS 版本。",
+  "highlights": [
+   "通过 opencode HTTP+SSE API 实现流式聊天与文件变更事件订阅",
+   "工具调用审批与内联 diff 查看器",
+   "多连接管理：局域网/Cloudflare Tunnel/ngrok/Tailscale",
+   "凭据经 Android Keystore 存储，含生物识别解锁"
+  ],
+  "use_cases": [
+   "在手机上查看和推进自托管 opencode 服务器上的编码会话",
+   "外出时审批 agent 的工具调用并审查代码改动",
+   "无服务器时用离线演示了解 agent 工作流程"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "移动客户端",
+   "编码agent",
+   "远程开发",
+   "Android"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "coding-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L3: **The open-source Android client for the opencode AI coding agent.**",
+   "L94: OpenCode Mobile is a thin client. It speaks the opencode HTTP + SSE API: listing sessions, sending messages, streaming r"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

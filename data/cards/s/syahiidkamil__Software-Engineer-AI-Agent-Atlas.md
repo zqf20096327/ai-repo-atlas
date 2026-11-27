@@ -44,13 +44,13 @@ SWE-ATLAS 是一个开源 Claude Code 模板与配置工具：通过 skills、su
 
 ```mermaid
 xychart-beta
-    title "syahiidkamil/Software-Engineer-AI-Agent-Atlas 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 402 --> 407
-    line [403, 404, 405, 406, 405, 406, 406]
+    title "syahiidkamil/Software-Engineer-AI-Agent-Atlas 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 403 --> 407
+    line [404, 405, 406, 405, 406, 406]
 ```
 
-2026-10-24 403 → 2026-11-26 406（+3）
+2026-10-25 404 → 2026-11-27 406（+2）
 
 
 ---

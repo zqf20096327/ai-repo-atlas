@@ -1,6 +1,6 @@
 # microsoft/upgrade-agent-plugins
 
-⭐ 55 · PowerShell · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/upgrade-agent-plugins) · 组织维护
+⭐ 55 · PowerShell · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/upgrade-agent-plugins) · 组织维护
 
 **GitHub Copilot 的应用升级插件：AI 助手升级语言与框架版本**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/upgrade-agent-plugins 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-26"]
+    title "microsoft/upgrade-agent-plugins 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 42 --> 56
-    line [43, 44, 43, 46, 49, 52, 54, 55]
+    line [43, 44, 43, 46, 49, 52, 54, 55, 55]
 ```
 
-2026-10-23 43 → 2026-11-26 55（+12）
+2026-10-24 43 → 2026-11-27 55（+12）
 
 
 ---

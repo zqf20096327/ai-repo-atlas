@@ -1,6 +1,6 @@
 # voltyx01/singularity
 
-⭐ 3 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/voltyx01/singularity) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/voltyx01/singularity) · 个人维护
 
 **协调 Claude Code 与 Antigravity CLI 多代理并行开发的桥接工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "voltyx01/singularity 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    title "voltyx01/singularity 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [4, 3, 3]
+    line [3, 4]
 ```
 
-2026-10-24 4 → 2026-11-26 3（-1）
+2026-10-25 3 → 2026-11-27 4（+1）
 
 
 ---

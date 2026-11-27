@@ -45,12 +45,12 @@ verifair 是一个自托管 Web 服务：编码 agent 通过 JSON API 推送 mar
 ```mermaid
 xychart-beta
     title "romanzdk/verifair 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-18 3 → 2026-11-26 4（+1）
+2026-11-18 3 → 2026-11-27 4（+1）
 
 
 ---

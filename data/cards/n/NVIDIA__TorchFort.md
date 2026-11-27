@@ -1,6 +1,6 @@
 # NVIDIA/TorchFort
 
-⭐ 200 · C++ · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/NVIDIA/TorchFort) · [官网](https://nvidia.github.io/TorchFort/) · 组织维护
+⭐ 201 · C++ · Apache-2.0 · 推送 2026-08-19 · [GitHub](https://github.com/NVIDIA/TorchFort) · [官网](https://nvidia.github.io/TorchFort/) · 组织维护
 
 **面向 HPC 的 DL 训练/推理接口库：Fortran/C++ 直接调用 PyTorch**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/TorchFort 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 197 --> 201
-    line [198, 199, 198, 199, 200]
+    title "NVIDIA/TorchFort 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 197 --> 202
+    line [198, 199, 198, 199, 200, 201]
 ```
 
-2026-10-24 198 → 2026-11-26 200（+2）
+2026-10-25 198 → 2026-11-27 201（+3）
 
 
 ---

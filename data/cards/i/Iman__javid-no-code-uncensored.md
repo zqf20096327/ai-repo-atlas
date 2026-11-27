@@ -1,6 +1,6 @@
 # Iman/javid-no-code-uncensored
 
-⭐ 20 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Iman/javid-no-code-uncensored) · 个人维护 · 中文 README
+⭐ 21 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Iman/javid-no-code-uncensored) · 个人维护 · 中文 README
 
 **本地无审查 LLM 选型与部署指南清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Iman/javid-no-code-uncensored 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 18 --> 21
-    line [19, 20]
+    title "Iman/javid-no-code-uncensored 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-11-25 19 → 2026-11-26 20（+1）
+2026-11-25 19 → 2026-11-27 21（+2）
 
 
 ---

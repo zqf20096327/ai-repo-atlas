@@ -1,6 +1,6 @@
 # revolover00/Bakloriya-AI-SKILLS
 
-⭐ 6 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/revolover00/Bakloriya-AI-SKILLS) · 个人维护
+⭐ 7 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/revolover00/Bakloriya-AI-SKILLS) · 个人维护
 
 **面向埃及 Bakloriya 课程体系的 AI 教师技能库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "revolover00/Bakloriya-AI-SKILLS 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-14 5 → 2026-11-26 6（+1）
+2026-11-14 5 → 2026-11-27 7（+2）
 
 
 ---

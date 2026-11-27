@@ -45,12 +45,12 @@ Perforce/BlazeMeter 官方发布的 MCP 服务器，把 AI 工具（VS Code、Cl
 ```mermaid
 xychart-beta
     title "Blazemeter/bzm-mcp 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-24 26 → 2026-11-26 27（+1）
+2026-10-25 26 → 2026-11-27 27（+1）
 
 
 ---

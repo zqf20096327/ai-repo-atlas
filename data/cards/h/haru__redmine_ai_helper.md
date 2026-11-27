@@ -1,6 +1,6 @@
 # haru/redmine_ai_helper
 
-⭐ 111 · Ruby · MIT · 推送 2026-11-25 · [GitHub](https://github.com/haru/redmine_ai_helper) · [官网](https://www.redmine.org/plugins/redmine_ai_helper) · 个人维护
+⭐ 111 · Ruby · MIT · 推送 2026-11-26 · [GitHub](https://github.com/haru/redmine_ai_helper) · [官网](https://www.redmine.org/plugins/redmine_ai_helper) · 个人维护
 
 **为 Redmine 加 AI 聊天、智能补全与向量搜索的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haru/redmine_ai_helper 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-25", "2026-11-27"]
     y-axis "stars" 106 --> 112
     line [107, 109, 111, 111]
 ```
 
-2026-10-24 107 → 2026-11-26 111（+4）
+2026-10-25 107 → 2026-11-27 111（+4）
 
 
 ---

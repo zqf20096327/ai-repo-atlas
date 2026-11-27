@@ -1,6 +1,6 @@
 # tudor-22/MetalML
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/tudor-22/MetalML) · [官网](https://www.tudoriustin.com/posts/metalml) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/tudor-22/MetalML) · [官网](https://www.tudoriustin.com/posts/metalml) · 个人维护
 
 **在 Mac 上用 Metal GPU 加速 scikit-learn 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tudor-22/MetalML 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-22", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-22", "2026-11-23", "2026-11-27"]
     y-axis "stars" 10 --> 34
-    line [12, 31, 32, 32]
+    line [12, 31, 32, 31]
 ```
 
-2026-11-08 12 → 2026-11-26 32（+20）
+2026-11-08 12 → 2026-11-27 31（+19）
 
 
 ---

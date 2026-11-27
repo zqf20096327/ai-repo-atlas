@@ -1,6 +1,6 @@
 # Adithya-Adi/eve-antigravity
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Adithya-Adi/eve-antigravity) · [官网](https://www.npmjs.com/package/eve-antigravity) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Adithya-Adi/eve-antigravity) · [官网](https://www.npmjs.com/package/eve-antigravity) · 个人维护
 
 **让开发者把 Antigravity CLI 登录接入 eve agents 的模型适配包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Adithya-Adi/eve-antigravity 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-26"]
+    x-axis ["2026-11-11", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-26 3（+0）
+2026-11-11 3 → 2026-11-27 3（+0）
 
 
 ---

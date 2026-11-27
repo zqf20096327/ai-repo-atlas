@@ -1,6 +1,6 @@
 # MohamedMostafa010/ExeRay
 
-⭐ 64 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/MohamedMostafa010/ExeRay) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-03-30 · [GitHub](https://github.com/MohamedMostafa010/ExeRay) · 个人维护
 
 **用机器学习检测 Windows 恶意可执行文件的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MohamedMostafa010/ExeRay 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 62 --> 65
-    line [63, 64, 64]
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 65]
 ```
 
-2026-10-24 63 → 2026-11-26 64（+1）
+2026-10-25 63 → 2026-11-27 65（+2）
 
 
 ---

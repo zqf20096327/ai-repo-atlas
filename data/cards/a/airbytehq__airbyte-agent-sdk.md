@@ -1,6 +1,6 @@
 # airbytehq/airbyte-agent-sdk
 
-⭐ 136 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/airbytehq/airbyte-agent-sdk) · [官网](https://airbyte.com/agents) · 组织维护
+⭐ 137 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/airbytehq/airbyte-agent-sdk) · [官网](https://airbyte.com/agents) · 组织维护
 
 **给 AI agent 提供第三方 API 连接器工具的 Python SDK**
 
@@ -45,12 +45,12 @@ Airbyte 公司维护的 Python SDK：将 50+ 第三方 API 连接器封装为带
 ```mermaid
 xychart-beta
     title "airbytehq/airbyte-agent-sdk 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 135 --> 138
+    line [136, 137]
 ```
 
-2026-10-24 136 → 2026-11-26 136（+0）
+2026-10-25 136 → 2026-11-27 137（+1）
 
 
 ---

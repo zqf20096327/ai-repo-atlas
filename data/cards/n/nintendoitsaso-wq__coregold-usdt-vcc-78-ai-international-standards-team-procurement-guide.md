@@ -1,6 +1,6 @@
 # nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide
 
-⭐ 6 · 推送 2026-11-25 · [GitHub](https://github.com/nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 19 · 推送 2026-11-25 · [GitHub](https://github.com/nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向出海团队的海外虚拟卡开卡与采购管理操作指南**
 
@@ -40,6 +40,18 @@
 > L2: 11 月 24 日至 25 日最新消息显示中国已牵头制定 78 项人工智能国际标准，全球 AI 产业规范化提速——聊聊出海技术公司与跨境团队怎么把海外 SaaS 采购、云账单和分卡报销做得规范透明。
 > L9: ### 🔍 实战干货：规范化管理团队海外用卡的 4 个实操标准
 > L22: ### 🧭 CoreGold 极简开卡与绑定教程（一看就会）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 20
+    line [6, 19]
+```
+
+2026-11-26 6 → 2026-11-27 19（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-naymul/BrowserPilot
 
-⭐ 181 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ai-naymul/BrowserPilot) · [官网](https://pilotbrowser.vercel.app/) · 个人维护
+⭐ 183 · TypeScript · MIT · 推送 2026-07-26 · [GitHub](https://github.com/ai-naymul/BrowserPilot) · [官网](https://pilotbrowser.vercel.app/) · 个人维护
 
 **自然语言驱动的浏览器抓取 agent，绕过反爬并输出结构化数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ai-naymul/BrowserPilot 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 178 --> 182
-    line [180, 179, 180, 179, 180, 181]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 178 --> 184
+    line [179, 180, 179, 180, 181, 183]
 ```
 
-2026-10-24 180 → 2026-11-26 181（+1）
+2026-10-25 179 → 2026-11-27 183（+4）
 
 
 ---

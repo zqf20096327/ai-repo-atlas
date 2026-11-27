@@ -1,6 +1,6 @@
 # sigstore/model-transparency
 
-⭐ 250 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sigstore/model-transparency) · 组织维护
+⭐ 250 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/sigstore/model-transparency) · 组织维护
 
 **为 ML 模型提供签名与验证的供应链安全库**
 
@@ -47,12 +47,12 @@ Sigstore 旗下的模型签名项目，为 ML 供应链提供可验证的完整�
 ```mermaid
 xychart-beta
     title "sigstore/model-transparency 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
     y-axis "stars" 248 --> 251
     line [249, 250, 250]
 ```
 
-2026-10-24 249 → 2026-11-26 250（+1）
+2026-10-25 249 → 2026-11-27 250（+1）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "royalpriest/northstar-baseball 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    title "royalpriest/northstar-baseball 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 20 --> 58
-    line [23, 55, 54]
+    line [23, 55, 54, 54]
 ```
 
-2026-11-23 23 → 2026-11-26 54（+31）
+2026-11-23 23 → 2026-11-27 54（+31）
 
 
 ---

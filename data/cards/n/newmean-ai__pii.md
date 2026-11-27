@@ -1,6 +1,6 @@
 # newmean-ai/pii
 
-⭐ 194 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/newmean-ai/pii) · [官网](https://pii.newmean.ai) · 组织维护
+⭐ 201 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/newmean-ai/pii) · [官网](https://pii.newmean.ai) · 组织维护
 
 **浏览器端多语言 PII 识别与脱敏 SDK，文本不出设备**
 
@@ -39,6 +39,18 @@
 
 > L5: **Browser-side PII redaction.** Detect and mask personal information (names, emails, phone numbers, addresses, IDs, 
 > L10: - Runs in WebAssembly: the SDK's own built-in engine (default, about 13 KB) or onnxruntime-web
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "newmean-ai/pii 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 193 --> 202
+    line [194, 201]
+```
+
+2026-11-26 194 → 2026-11-27 201（+7）
 
 
 ---

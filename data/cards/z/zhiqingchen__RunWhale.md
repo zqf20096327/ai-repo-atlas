@@ -1,6 +1,6 @@
 # zhiqingchen/RunWhale
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/zhiqingchen/RunWhale) · [官网](https://runwhale.dev/) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/zhiqingchen/RunWhale) · [官网](https://runwhale.dev/) · 个人维护 · 中文 README
 
 **在手机上创建、编辑、运行并迭代 Web 与 React Native 项目的编码 Agent**
 
@@ -46,12 +46,12 @@ RunWhale 是面向手机端的 AI 编码 Agent：用户可在移动设备上创�
 ```mermaid
 xychart-beta
     title "zhiqingchen/RunWhale 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-27"]
     y-axis "stars" 8 --> 11
     line [9, 10, 10]
 ```
 
-2026-10-18 9 → 2026-11-26 10（+1）
+2026-10-18 9 → 2026-11-27 10（+1）
 
 
 ---

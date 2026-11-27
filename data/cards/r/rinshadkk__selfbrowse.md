@@ -1,6 +1,6 @@
 # rinshadkk/selfbrowse
 
-⭐ 5 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rinshadkk/selfbrowse) · [官网](https://rinshadkk.github.io/selfbrowse/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rinshadkk/selfbrowse) · [官网](https://selfbrowse.ai/) · 个人维护
 
 **给开发者的低 token 浏览器 agent：以编号清单代替 DOM/截图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rinshadkk/selfbrowse 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-25 5 → 2026-11-26 5（+0）
+2026-11-25 5 → 2026-11-27 5（+0）
 
 
 ---

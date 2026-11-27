@@ -1,6 +1,6 @@
 # dborrull/DBS_SceneProjection
 
-⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dborrull/DBS_SceneProjection) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dborrull/DBS_SceneProjection) · 个人维护
 
 **给 VFX 合成师从单帧建立 Nuke 相机投影场景的 gizmo**
 
@@ -40,6 +40,18 @@ Nuke gizmo：从 plate 的单帧出发，通过 ComfyUI 调用 MoGe 2 获取深�
 > L7: Nuke gizmo: from one frame of a plate, builds a projection camera and geometry (floor, walls,
 > L18: Standalone: it talks to your ComfyUI directly (MoGe 2 for depth, SAM 3 for masks). It does
 > L21: With a tracked camera and its point cloud connected, the geometry is snapped to the tracker's
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dborrull/DBS_SceneProjection 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # momentic-ai/cli
 
-⭐ 14 · 推送 2026-11-25 · [GitHub](https://github.com/momentic-ai/cli) · [官网](https://momentic.ai/docs) · 组织维护
+⭐ 14 · 推送 2026-11-26 · [GitHub](https://github.com/momentic-ai/cli) · [官网](https://momentic.ai/docs) · 组织维护
 
 **Momentic 官方 CLI：用自然语言构建与运行端到端测试**
 
@@ -44,12 +44,12 @@ Momentic 公司发布的官方命令行工具：用户以自然语言提示词�
 ```mermaid
 xychart-beta
     title "momentic-ai/cli 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Spaceswalker/SmallWhale
 
-⭐ 35 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Spaceswalker/SmallWhale) · 个人维护 · 中文 README
+⭐ 45 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Spaceswalker/SmallWhale) · 个人维护 · 中文 README
 
 **给 QQ 用户一个带长期记忆与拟人语气的 AI 陪伴角色工程**
 
@@ -40,6 +40,18 @@
 > L3: An AI companion for QQ that keeps long-term memory, speaks in short human sentences, and occasionally comes to you o
 > L23: **Why it feels different.** Most "AI companion" projects stop at a system prompt. This one treats memory as a first
 > L77: - A working LLM API (any OpenAI-compatible endpoint) configured as an AstrBot provider
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Spaceswalker/SmallWhale 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 34 --> 46
+    line [35, 45]
+```
+
+2026-11-26 35 → 2026-11-27 45（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # literallydotdev/aeo
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/literallydotdev/aeo) · [官网](https://www.literally.dev) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/literallydotdev/aeo) · [官网](https://www.literally.dev) · 组织维护
 
 **本地运行的 AI 可见性（AEO）审计 CLI：检查 AI 助手是否提及并引用你的品牌**
 
@@ -46,12 +46,12 @@ literally-aeo 是一个本地运行的命令行审计工具，向 ChatGPT、Clau
 ```mermaid
 xychart-beta
     title "literallydotdev/aeo 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-27"]
     y-axis "stars" 5 --> 15
     line [6, 7, 14, 14]
 ```
 
-2026-11-08 6 → 2026-11-26 14（+8）
+2026-11-08 6 → 2026-11-27 14（+8）
 
 
 ---

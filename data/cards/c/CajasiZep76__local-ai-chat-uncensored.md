@@ -41,6 +41,18 @@
 > L3:  LocalAiChatUncensored — Local Unfiltered LLM Chat with Character Presets (Hot-Reload Config, Zero Dependencies): Pr
 > L26: 1. Download `local-ai-chat-uncensored-v0.1.0-win64.zip` using the download button above.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CajasiZep76/local-ai-chat-uncensored 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 51 --> 53
+    line [52, 52]
+```
+
+2026-11-26 52 → 2026-11-27 52（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `52df5c10fb8c` · [字段定义](../../DATASET.md)*

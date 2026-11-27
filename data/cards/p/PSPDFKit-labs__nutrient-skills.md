@@ -1,6 +1,6 @@
 # PSPDFKit-labs/nutrient-skills
 
-⭐ 18 · Python · 推送 2026-11-25 · [GitHub](https://github.com/PSPDFKit-labs/nutrient-skills) · [官网](https://www.nutrient.io/) · 组织维护
+⭐ 18 · Python · 推送 2026-11-26 · [GitHub](https://github.com/PSPDFKit-labs/nutrient-skills) · [官网](https://www.nutrient.io/) · 组织维护
 
 **面向 AI agent 的 Nutrient 文档处理技能包：转换/OCR/解析 PDF**
 
@@ -46,12 +46,12 @@ Nutrient（原 PSPDFKit）官方实验室维护的 agent 技能仓库：提供�
 ```mermaid
 xychart-beta
     title "PSPDFKit-labs/nutrient-skills 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

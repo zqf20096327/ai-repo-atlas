@@ -1,6 +1,6 @@
 # lian84/memora
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/lian84/memora) · 个人维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/lian84/memora) · 个人维护
 
 **自托管的文件优先个人 AI 助手，基于 Pi 构建**
 
@@ -40,6 +40,18 @@
 > L26: Memora is a self-hosted personal assistant built on
 > L64: - Streaming chat, persistent Pi sessions and background turns.
 > L68: - Memory Inbox with explicit approval by default and optional auto-save; optional LLM Memory Curator.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lian84/memora 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-26 3 → 2026-11-27 5（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # maikolsiragusaa/metrora
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-08 · [GitHub](https://github.com/maikolsiragusaa/metrora) · [官网](https://metrora.eu) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/maikolsiragusaa/metrora) · [官网](https://metrora.eu) · 个人维护
 
 **本地优先的 AI 辅助开发控制中心：观测用量成本、对比模型、内嵌 OpenCode**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "maikolsiragusaa/metrora 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # 6Kmfi6HP/nvidia-playgroud-go
 
-⭐ 25 · Go · 推送 2026-11-10 · [GitHub](https://github.com/6Kmfi6HP/nvidia-playgroud-go) · 个人维护 · 中文 README
+⭐ 26 · Go · 推送 2026-11-10 · [GitHub](https://github.com/6Kmfi6HP/nvidia-playgroud-go) · 个人维护 · 中文 README
 
 **逆向 NVIDIA Playground 的 Go 客户端与 OpenAI 兼容代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "6Kmfi6HP/nvidia-playgroud-go 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 18 --> 26
-    line [19, 20, 24, 25, 25]
+    title "6Kmfi6HP/nvidia-playgroud-go 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 19 --> 27
+    line [20, 24, 25, 26]
 ```
 
-2026-10-24 19 → 2026-11-26 25（+6）
+2026-10-25 20 → 2026-11-27 26（+6）
 
 
 ---

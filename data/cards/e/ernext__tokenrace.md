@@ -1,6 +1,6 @@
 # ernext/tokenrace
 
-⭐ 5 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ernext/tokenrace) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ernext/tokenrace) · 个人维护
 
 **在本地硬件上以统一计时对比各本地 LLM 推理服务器的测速工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ernext/tokenrace 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-26 5（+0）
+2026-11-08 5 → 2026-11-27 5（+0）
 
 
 ---

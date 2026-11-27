@@ -1,6 +1,6 @@
 # cxlinux-ai/cx-core
 
-⭐ 82 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cxlinux-ai/cx-core) · [官网](https://cxlinux.ai/) · 组织维护
+⭐ 83 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cxlinux-ai/cx-core) · [官网](https://cxlinux.ai/) · 组织维护
 
 **AI 原生 Linux 终端：自然语言执行 Ubuntu/Debian 系统管理**
 
@@ -40,6 +40,18 @@ CX Linux 定位为 AI 原生操作系统层，核心组件为 cx-terminal 终端
 > L44: CX Linux is an AI-native operating system that simplifies system administration through natural language. It provid
 > L72: |`cx ask`|Ask in natural language; shows the suggested commands (add `-d` to run AI suggestions after a `[y/N]` con
 > L91: |**APT package**|Ubuntu 24.04 LTS or newer, amd64 (the package needs glibc 2.39) — verified|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cxlinux-ai/cx-core 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
+```
+
+2026-11-26 82 → 2026-11-27 83（+1）
 
 
 ---

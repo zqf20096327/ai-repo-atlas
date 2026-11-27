@@ -41,6 +41,18 @@
 > L68: - **Deterministic listings — an LLM never touches a field a buyer pays against.**
 > L70:  improvising on the numbers a sale depends on. (Production adds an *optional* LLM
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ArtJack/sales-agent-showcase 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-11-26 29 → 2026-11-27 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a66bee5d0ae4` · [字段定义](../../DATASET.md)*

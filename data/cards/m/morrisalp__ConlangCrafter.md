@@ -1,6 +1,6 @@
 # morrisalp/ConlangCrafter
 
-⭐ 50 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/morrisalp/ConlangCrafter) · [官网](https://conlangcrafter.github.io) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/morrisalp/ConlangCrafter) · [官网](https://conlangcrafter.github.io) · 组织维护
 
 **多阶段 LLM 流水线自动构造人造语言（语音/语法/词汇/翻译）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "morrisalp/ConlangCrafter 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 51]
 ```
 
-2026-10-24 49 → 2026-11-26 50（+1）
+2026-10-25 49 → 2026-11-27 51（+2）
 
 
 ---

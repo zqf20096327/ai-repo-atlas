@@ -1,6 +1,6 @@
 # ronantakizawa/ja-ncm
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/ronantakizawa/ja-ncm) · [官网](https://huggingface.co/ronantakizawa/ja-ncm) · 个人维护
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/ronantakizawa/ja-ncm) · [官网](https://huggingface.co/ronantakizawa/ja-ncm) · 个人维护
 
 **为科研人员提供日语 Next-Concept 基础模型训练与评测代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ronantakizawa/ja-ncm 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-20", "2026-11-27"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-20 5 → 2026-11-26 5（+0）
+2026-11-20 5 → 2026-11-27 6（+1）
 
 
 ---

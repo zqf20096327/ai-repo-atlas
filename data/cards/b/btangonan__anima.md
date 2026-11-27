@@ -46,12 +46,12 @@ Tauri v2 + Rust 构建的 4MB macOS 桌面应用，将 Claude Code 作为子进�
 ```mermaid
 xychart-beta
     title "btangonan/anima 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

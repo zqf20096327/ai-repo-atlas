@@ -46,12 +46,12 @@ Neovim 插件，将 copilot、claude、opencode、aider 等任意命令行 AI �
 ```mermaid
 xychart-beta
     title "juhaku/aiwaku.nvim 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

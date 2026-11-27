@@ -1,6 +1,6 @@
 # aiqualitylab/ai-natural-language-tests
 
-⭐ 30 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/aiqualitylab/ai-natural-language-tests) · [官网](http://tests.aiqualitylab.org/) · 组织维护
+⭐ 32 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/aiqualitylab/ai-natural-language-tests) · [官网](http://tests.aiqualitylab.org/) · 组织维护
 
 **从自然语言需求生成并执行 E2E 测试的平台，面向测试/工程团队**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aiqualitylab/ai-natural-language-tests 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 24 --> 31
-    line [25, 26, 27, 25, 28, 30]
+    title "aiqualitylab/ai-natural-language-tests 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 24 --> 33
+    line [25, 26, 27, 25, 28, 30, 32]
 ```
 
-2026-10-24 25 → 2026-11-26 30（+5）
+2026-10-25 25 → 2026-11-27 32（+7）
 
 
 ---

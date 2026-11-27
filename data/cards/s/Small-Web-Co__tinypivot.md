@@ -1,6 +1,6 @@
 # Small-Web-Co/tinypivot
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Small-Web-Co/tinypivot) · [官网](https://tiny-pivot.com) · 组织维护
+⭐ 18 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Small-Web-Co/tinypivot) · [官网](https://tiny-pivot.com) · 组织维护
 
 **Vue/React 数据表格与透视表组件，Pro 版含 AI 数据分析**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Small-Web-Co/tinypivot 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 12 --> 18
-    line [13, 17]
+    title "Small-Web-Co/tinypivot 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 12 --> 19
+    line [13, 17, 18]
 ```
 
-2026-10-24 13 → 2026-11-26 17（+4）
+2026-10-25 13 → 2026-11-27 18（+5）
 
 
 ---

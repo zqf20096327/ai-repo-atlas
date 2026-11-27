@@ -1,6 +1,6 @@
 # sukhee-2626/plot-docs
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/sukhee-2626/plot-docs) · [官网](https://plotxyz.ai) · 个人维护
+⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/sukhee-2626/plot-docs) · [官网](https://plotxyz.ai) · 个人维护
 
 **面向个人用户的本地优先桌面办公套件，含可选 AI 面板与数据分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sukhee-2626/plot-docs 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-11-21", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7, 7]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-21", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 6, 7, 8]
 ```
 
-2026-10-26 4 → 2026-11-26 7（+3）
+2026-10-26 4 → 2026-11-27 8（+4）
 
 
 ---

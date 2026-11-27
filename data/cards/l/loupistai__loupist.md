@@ -1,6 +1,6 @@
 # loupistai/loupist
 
-⭐ 6 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/loupistai/loupist) · [官网](https://loupist.com) · 组织维护 · 中文 README
+⭐ 8 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/loupistai/loupist) · [官网](https://loupist.com) · 组织维护 · 中文 README
 
 **面向投资者的本地优先 AI 投资研究桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "loupistai/loupist 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 3 --> 7
-    line [4, 6]
+    title "loupistai/loupist 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 9
+    line [4, 6, 8]
 ```
 
-2026-11-25 4 → 2026-11-26 6（+2）
+2026-11-25 4 → 2026-11-27 8（+4）
 
 
 ---

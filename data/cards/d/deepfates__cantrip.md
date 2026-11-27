@@ -1,6 +1,6 @@
 # deepfates/cantrip
 
-⭐ 129 · Elixir · MIT · 推送 2026-07-24 · [GitHub](https://github.com/deepfates/cantrip) · [官网](https://deepwiki.com/deepfates/cantrip) · 个人维护
+⭐ 130 · Elixir · MIT · 推送 2026-07-24 · [GitHub](https://github.com/deepfates/cantrip) · [官网](https://deepwiki.com/deepfates/cantrip) · 个人维护
 
 **Elixir 多智能体运行时：以受限循环构建可复用的 LLM 智能体**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "deepfates/cantrip 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 127 --> 130
-    line [128, 129, 128, 129, 129]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 127 --> 131
+    line [128, 129, 128, 129, 130]
 ```
 
-2026-10-24 128 → 2026-11-26 129（+1）
+2026-10-25 128 → 2026-11-27 130（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # topoteretes/cognee-rs
 
-⭐ 76 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/topoteretes/cognee-rs) · [官网](https://www.cognee.ai) · 组织维护
+⭐ 76 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/topoteretes/cognee-rs) · [官网](https://www.cognee.ai) · 组织维护
 
 **Rust 实现的设备端 AI 记忆引擎：把文本/文件/URL 变为可查询知识图谱**
 
@@ -45,13 +45,13 @@ Cognee 的 Rust 实现：通过 remember/recall/improve/forget 四动词记忆 A
 
 ```mermaid
 xychart-beta
-    title "topoteretes/cognee-rs 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-26"]
+    title "topoteretes/cognee-rs 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 68 --> 77
-    line [69, 70, 71, 72, 73, 69, 73, 74, 75, 76]
+    line [69, 70, 71, 72, 73, 69, 73, 74, 75, 76, 76]
 ```
 
-2026-10-24 69 → 2026-11-26 76（+7）
+2026-10-25 69 → 2026-11-27 76（+7）
 
 
 ---

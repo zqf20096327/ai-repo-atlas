@@ -1,6 +1,6 @@
 # kilolonion/agent-vscreen
 
-⭐ 172 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kilolonion/agent-vscreen) · [官网](https://github.com/kilolonion/agent-vscreen/releases/latest) · 个人维护 · 中文 README
+⭐ 178 · Kotlin · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kilolonion/agent-vscreen) · [官网](https://github.com/kilolonion/agent-vscreen/releases/latest) · 个人维护 · 中文 README
 
 **安卓后台虚拟副屏，让任意 AI agent 操作手机应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "kilolonion/agent-vscreen 星数(近 15 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 37 --> 184
-    line [49, 56, 61, 65, 67, 78, 107, 125, 131, 152, 155, 162, 164, 171, 172]
+    title "kilolonion/agent-vscreen 星数(近 16 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 37 --> 190
+    line [49, 56, 61, 65, 67, 78, 107, 125, 131, 152, 155, 162, 164, 171, 172, 178]
 ```
 
-2026-11-10 49 → 2026-11-26 172（+123）
+2026-11-10 49 → 2026-11-27 178（+129）
 
 
 ---

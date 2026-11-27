@@ -41,6 +41,18 @@
 > L34: Local AI by content.
 > L38: No — only suggests.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "matthewgonzalez838/desk-cleanup-ai 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 41 --> 43
+    line [42, 42]
+```
+
+2026-11-26 42 → 2026-11-27 42（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c71ca014f06d` · [字段定义](../../DATASET.md)*

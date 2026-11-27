@@ -1,6 +1,6 @@
 # KeyArgo/hermes-omniscience
 
-⭐ 7 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/KeyArgo/hermes-omniscience) · 组织维护
+⭐ 7 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/KeyArgo/hermes-omniscience) · 组织维护
 
 **给 Hermes agent 的本地只读运行可视化与回放插件**
 
@@ -39,6 +39,18 @@
 
 > L20: Omniscience records what your Hermes agent does, as it happens, and draws it as a graph you can read at a glance. Y
 > L24: The graph is live and the replay is deterministic. Other tools import a finished trace or report on cost after the 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KeyArgo/hermes-omniscience 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-26 7 → 2026-11-27 7（+0）
 
 
 ---

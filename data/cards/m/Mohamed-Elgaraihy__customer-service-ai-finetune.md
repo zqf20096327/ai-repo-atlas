@@ -1,6 +1,6 @@
 # Mohamed-Elgaraihy/customer-service-ai-finetune
 
-⭐ 13 · Jupyter Notebook · 推送 2026-08-24 · [GitHub](https://github.com/Mohamed-Elgaraihy/customer-service-ai-finetune) · [官网](https://www.youtube.com/watch?v=cnkNQlqxg18) · 个人维护
+⭐ 14 · Jupyter Notebook · 推送 2026-08-24 · [GitHub](https://github.com/Mohamed-Elgaraihy/customer-service-ai-finetune) · [官网](https://www.youtube.com/watch?v=cnkNQlqxg18) · 个人维护
 
 **在 Colab 上用 Unsloth 微调 Qwen 2.5 客服助手的训练项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mohamed-Elgaraihy/customer-service-ai-finetune 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

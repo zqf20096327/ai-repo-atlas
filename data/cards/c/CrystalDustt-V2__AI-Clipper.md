@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CrystalDustt-V2/AI-Clipper 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "CrystalDustt-V2/AI-Clipper 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 24 --> 34
-    line [25, 33]
+    line [25, 33, 33]
 ```
 
-2026-11-25 25 → 2026-11-26 33（+8）
+2026-11-25 25 → 2026-11-27 33（+8）
 
 
 ---

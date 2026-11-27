@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Templates-For-Dynamics-365-Supply-Chain-Management-Demand-Forecasting-With-Azure-Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-23 17 → 2026-11-26 17（+0）
+2026-10-24 17 → 2026-11-27 17（+0）
 
 
 ---

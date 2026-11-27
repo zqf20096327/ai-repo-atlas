@@ -1,6 +1,6 @@
 # runesleo/claude-code-workflow
 
-⭐ 711 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/runesleo/claude-code-workflow) · [官网](https://leolabs.me) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 Claude Code/Codex/Cursor 加工作边界的轻量 AI 工作系统**
 
@@ -11,7 +11,7 @@ QuietHarness 是一套面向 AI 一人公司（OPC）工作流的开源系统，
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

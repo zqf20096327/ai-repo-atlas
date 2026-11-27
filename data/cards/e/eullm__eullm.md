@@ -1,6 +1,6 @@
 # eullm/eullm
 
-⭐ 61 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/eullm/eullm) · [官网](https://www.eullm.eu) · 组织维护
+⭐ 61 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/eullm/eullm) · [官网](https://www.eullm.eu) · 组织维护
 
 **本地优先的欧盟合规 LLM 推理引擎：单一 Rust 二进制，兼容 Ollama/OpenAI API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eullm/eullm 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-27"]
     y-axis "stars" 59 --> 64
     line [60, 61, 62, 63, 61, 61]
 ```
 
-2026-10-24 60 → 2026-11-26 61（+1）
+2026-10-25 60 → 2026-11-27 61（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # marcos2872/opencode-browser-extension
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/marcos2872/opencode-browser-extension) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/marcos2872/opencode-browser-extension) · 个人维护
 
 **把 Chrome 接入本地 OpenCode 的浏览器扩展：本地模型聊天+隔离标签页浏览**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "marcos2872/opencode-browser-extension 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 8
     line [3, 4, 6, 7, 7]
 ```
 
-2026-10-31 3 → 2026-11-26 7（+4）
+2026-10-31 3 → 2026-11-27 7（+4）
 
 
 ---

@@ -46,12 +46,12 @@ ST 官方发布的 STM32N6 入门软件包：在 MB1939 STM32N6570-DK 开发板�
 ```mermaid
 xychart-beta
     title "STMicroelectronics/STM32N6-GettingStarted-Audio 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
     y-axis "stars" 15 --> 18
     line [17, 16, 16]
 ```
 
-2026-10-24 17 → 2026-11-26 16（-1）
+2026-10-25 17 → 2026-11-27 16（-1）
 
 
 ---

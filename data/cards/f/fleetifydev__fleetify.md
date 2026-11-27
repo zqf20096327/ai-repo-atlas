@@ -1,6 +1,6 @@
 # fleetifydev/fleetify
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fleetifydev/fleetify) · [官网](https://fleetify.dev) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/fleetifydev/fleetify) · [官网](https://fleetify.dev) · 组织维护
 
 **在一个桌面应用中并行运行多个 AI 编码代理的控制中心**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "fleetifydev/fleetify 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 5 --> 14
-    line [6, 13]
+    title "fleetifydev/fleetify 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 16
+    line [6, 13, 15]
 ```
 
-2026-11-25 6 → 2026-11-26 13（+7）
+2026-11-25 6 → 2026-11-27 15（+9）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Simia-Agent-Training 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-26"]
-    y-axis "stars" 68 --> 71
-    line [69, 70, 70]
+    title "microsoft/Simia-Agent-Training 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-27"]
+    y-axis "stars" 69 --> 71
+    line [70, 70]
 ```
 
-2026-10-23 69 → 2026-11-26 70（+1）
+2026-10-24 70 → 2026-11-27 70（+0）
 
 
 ---

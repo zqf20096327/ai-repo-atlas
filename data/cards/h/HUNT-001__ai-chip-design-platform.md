@@ -1,6 +1,6 @@
 # HUNT-001/ai-chip-design-platform
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/HUNT-001/ai-chip-design-platform) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/HUNT-001/ai-chip-design-platform) · 组织维护
 
 **RISC-V RTL 多智能体验证平台，附验证结论可信度研究轨道**
 
@@ -45,12 +45,12 @@ AVA 读取 RTL 后运行语义分析、生成 testbench、将设计与 Spike ISS
 ```mermaid
 xychart-beta
     title "HUNT-001/ai-chip-design-platform 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

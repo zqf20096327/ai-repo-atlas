@@ -1,6 +1,6 @@
 # HugoRCD/nuxt-ui-chat
 
-⭐ 112 · Vue · 推送 2026-11-24 · [GitHub](https://github.com/HugoRCD/nuxt-ui-chat) · [官网](https://nuxt-ui-chat.hrcd.fr) · 个人维护
+⭐ 112 · Vue · 推送 2026-11-26 · [GitHub](https://github.com/HugoRCD/nuxt-ui-chat) · [官网](https://nuxt-ui-chat.hrcd.fr) · 个人维护
 
 **基于 Nuxt 与 Vercel AI SDK 的流式多模型 AI 聊天应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HugoRCD/nuxt-ui-chat 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-24 112 → 2026-11-26 112（+0）
+2026-10-25 112 → 2026-11-27 112（+0）
 
 
 ---

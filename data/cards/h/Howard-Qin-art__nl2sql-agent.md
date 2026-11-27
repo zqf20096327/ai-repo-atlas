@@ -1,6 +1,6 @@
 # Howard-Qin-art/nl2sql-agent
 
-⭐ 3 · Python · 推送 2026-10-28 · [GitHub](https://github.com/Howard-Qin-art/nl2sql-agent) · 个人维护 · 中文 README
+⭐ 4 · Python · 推送 2026-10-28 · [GitHub](https://github.com/Howard-Qin-art/nl2sql-agent) · 个人维护 · 中文 README
 
 **中文自然语言转 SQL 的只读查询 Agent，附评测体系**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Howard-Qin-art/nl2sql-agent 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-15", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-15 3 → 2026-11-26 3（+0）
+2026-11-15 3 → 2026-11-27 4（+1）
 
 
 ---

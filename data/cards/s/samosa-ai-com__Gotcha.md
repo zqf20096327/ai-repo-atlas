@@ -1,6 +1,6 @@
 # samosa-ai-com/Gotcha
 
-⭐ 27 · Kotlin · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/samosa-ai-com/Gotcha) · [官网](https://samosa-ai.com/gotcha) · 组织维护
+⭐ 28 · Kotlin · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/samosa-ai-com/Gotcha) · [官网](https://samosa-ai.com/gotcha) · 组织维护
 
 **安卓端上 AI 副驾：自然语言驱动的全设备操作应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "samosa-ai-com/Gotcha 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 19 --> 28
-    line [20, 21, 22, 20, 24, 27, 27]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 19 --> 29
+    line [20, 21, 22, 20, 24, 27, 28]
 ```
 
-2026-10-24 20 → 2026-11-26 27（+7）
+2026-10-25 20 → 2026-11-27 28（+8）
 
 
 ---

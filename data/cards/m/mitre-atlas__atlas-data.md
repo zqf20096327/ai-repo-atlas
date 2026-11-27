@@ -1,6 +1,6 @@
 # mitre-atlas/atlas-data
 
-⭐ 208 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mitre-atlas/atlas-data) · [官网](https://atlas.mitre.org) · 组织维护
+⭐ 209 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mitre-atlas/atlas-data) · [官网](https://atlas.mitre.org) · 组织维护
 
 **面向 AI 安全从业者：ATLAS 对抗 AI 系统 TTP 知识库的数据与工具**
 
@@ -46,12 +46,12 @@ MITRE ATLAS 的权威数据仓库：分发针对 AI 系统的对手战术与技�
 ```mermaid
 xychart-beta
     title "mitre-atlas/atlas-data 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 202 --> 209
-    line [203, 206, 207, 208, 207, 208, 208]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 202 --> 210
+    line [203, 206, 207, 208, 207, 208, 209]
 ```
 
-2026-10-24 203 → 2026-11-26 208（+5）
+2026-10-25 203 → 2026-11-27 209（+6）
 
 
 ---

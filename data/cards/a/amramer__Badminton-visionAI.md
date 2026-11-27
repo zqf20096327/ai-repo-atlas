@@ -1,6 +1,6 @@
 # amramer/Badminton-visionAI
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-04-05 · [GitHub](https://github.com/amramer/Badminton-visionAI) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-04-05 · [GitHub](https://github.com/amramer/Badminton-visionAI) · 个人维护
 
 **羽毛球比赛视频分析流水线：追踪、轨迹、击球分类与看板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amramer/Badminton-visionAI 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-11-13 11 → 2026-11-26 13（+2）
+2026-11-13 11 → 2026-11-27 14（+3）
 
 
 ---

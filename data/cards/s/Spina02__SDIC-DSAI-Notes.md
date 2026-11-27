@@ -1,6 +1,6 @@
 # Spina02/SDIC-DSAI-Notes
 
-⭐ 17 · TeX · 推送 2026-10-26 · [GitHub](https://github.com/Spina02/SDIC-DSAI-Notes) · 个人维护
+⭐ 17 · TeX · 推送 2026-11-26 · [GitHub](https://github.com/Spina02/SDIC-DSAI-Notes) · 个人维护
 
 **的里雅斯特大学 SDIC/DSAI 课程 LaTeX 笔记汇编（PDF）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Spina02/SDIC-DSAI-Notes 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 17（+0）
 
 
 ---

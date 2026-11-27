@@ -45,12 +45,12 @@ Qdrant 官方维护的 Java 客户端库，通过高层 QdrantClient 封装低�
 ```mermaid
 xychart-beta
     title "qdrant/java-client 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-24 100 → 2026-11-26 100（+0）
+2026-10-25 100 → 2026-11-27 100（+0）
 
 
 ---

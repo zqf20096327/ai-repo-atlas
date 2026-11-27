@@ -1,6 +1,6 @@
 # scccc6ut/npface
 
-⭐ 92 · TypeScript · MIT · 推送 2026-08-20 · [GitHub](https://github.com/scccc6ut/npface) · [官网](https://scccc6ut.github.io/npface/) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/scccc6ut/npface) · [官网](https://scccc6ut.github.io/npface/) · 个人维护 · 中文 README
 
 **AI agent 用的零依赖 SVG 头盔表情头像组件**
 
@@ -45,12 +45,12 @@ npface 是一个 TypeScript 前端库，渲染一个头盔形状的小脸（SVG�
 ```mermaid
 xychart-beta
     title "scccc6ut/npface 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 90 --> 93
     line [91, 92, 91, 92, 92]
 ```
 
-2026-10-24 91 → 2026-11-26 92（+1）
+2026-10-25 91 → 2026-11-27 92（+1）
 
 
 ---

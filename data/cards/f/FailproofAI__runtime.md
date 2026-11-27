@@ -1,6 +1,6 @@
 # FailproofAI/runtime
 
-⭐ 202 · Python · NOASSERTION · 推送 2026-08-20 · [GitHub](https://github.com/FailproofAI/runtime) · [官网](https://docs.exosphere.host/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 AI agent 的分布式可靠性运行时与工作流编排框架**
 
@@ -11,7 +11,7 @@ Exosphere 是一个轻量级运行时，用于构建、编排和管理 AI agent 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

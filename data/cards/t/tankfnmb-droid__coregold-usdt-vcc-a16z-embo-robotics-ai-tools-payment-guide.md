@@ -1,6 +1,6 @@
 # tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide
 
-⭐ 24 · 推送 2026-11-24 · [GitHub](https://github.com/tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 39 · 推送 2026-11-24 · [GitHub](https://github.com/tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **开发者海外订阅跨境支付教程：用 CoreGold 虚拟卡付款**
 
@@ -40,6 +40,18 @@
 > L2: 11 月 23 日 a16z 领投机器人基础模型公司 Embo 1.1 亿美元种子轮，具身智能与空间仿真开发全线提速——聊聊开发者在拉取海外数据集、订阅仿真软件和云开发套件时，如何用 CoreGold 虚拟卡 摆脱跨境支付障碍。
 > L22: ### 🧭 CoreGold 极简开卡与绑定教程（一看就会）
 > L25: 访问 **CoreGold 官方平台**：https://app.coregold.io/signup?invite_code=ADvlj9b，使用常用邮箱注册并登录进入用户后台。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 23 --> 40
+    line [24, 39]
+```
+
+2026-11-26 24 → 2026-11-27 39（+15）
 
 
 ---

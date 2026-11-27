@@ -1,6 +1,6 @@
 # rajveer43/VeloxQuant-MLX
 
-⭐ 37 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/rajveer43/VeloxQuant-MLX) · [官网](https://veloxquant.dev/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rajveer43/VeloxQuant-MLX) · [官网](https://veloxquant.dev/) · 个人维护
 
 **Apple Silicon 上 MLX 模型的 KV 缓存压缩库：更长上下文、更少内存**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rajveer43/VeloxQuant-MLX 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    title "rajveer43/VeloxQuant-MLX 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27"]
     y-axis "stars" 31 --> 38
-    line [32, 33, 32, 35, 36, 37]
+    line [32, 33, 32, 35, 36, 37, 37]
 ```
 
-2026-10-24 32 → 2026-11-26 37（+5）
+2026-10-25 32 → 2026-11-27 37（+5）
 
 
 ---

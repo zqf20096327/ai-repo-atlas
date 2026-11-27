@@ -1,6 +1,6 @@
 # ScrapeGraphAI/toonify
 
-⭐ 367 · Python · 推送 2026-02-06 · [GitHub](https://github.com/ScrapeGraphAI/toonify) · [官网](https://docs.scrapegraphai.com/services/toonify) · 组织维护
+⭐ 368 · Python · 推送 2026-02-06 · [GitHub](https://github.com/ScrapeGraphAI/toonify) · [官网](https://docs.scrapegraphai.com/services/toonify) · 组织维护
 
 **面向 LLM 的紧凑序列化格式，降低 token 用量**
 
@@ -46,12 +46,12 @@ TOON（Token-Oriented Object Notation）是 Python 序列化库与 CLI 工具，
 ```mermaid
 xychart-beta
     title "ScrapeGraphAI/toonify 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-23", "2026-11-27"]
     y-axis "stars" 363 --> 369
-    line [364, 366, 364, 367, 368, 367, 367]
+    line [364, 366, 364, 367, 368, 367, 368]
 ```
 
-2026-10-24 364 → 2026-11-26 367（+3）
+2026-10-25 364 → 2026-11-27 368（+4）
 
 
 ---

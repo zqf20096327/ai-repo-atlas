@@ -1,6 +1,6 @@
 # hongwei1-c/RF-AIagent
 
-⭐ 15 · Python · 推送 2026-08-31 · [GitHub](https://github.com/hongwei1-c/RF-AIagent) · 个人维护 · 中文 README
+⭐ 16 · Python · 推送 2026-08-31 · [GitHub](https://github.com/hongwei1-c/RF-AIagent) · 个人维护 · 中文 README
 
 **AI-Agent 驱动的射频设计系统，自动完成 HFSS 仿真闭环**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hongwei1-c/RF-AIagent 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 14, 15, 16]
 ```
 
-2026-10-24 12 → 2026-11-26 15（+3）
+2026-10-25 12 → 2026-11-27 16（+4）
 
 
 ---

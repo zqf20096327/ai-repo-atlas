@@ -1,6 +1,6 @@
 # wwoosshh/GeulPUv2
 
-⭐ 7 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/wwoosshh/GeulPUv2) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/wwoosshh/GeulPUv2) · 个人维护
 
 **在自有 GPU 上运行 GGUF 模型的本地 LLM 引擎，带确定性调试器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wwoosshh/GeulPUv2 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    title "wwoosshh/GeulPUv2 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27"]
     y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7]
+    line [4, 5, 6, 7, 7]
 ```
 
-2026-10-24 4 → 2026-11-26 7（+3）
+2026-10-25 4 → 2026-11-27 7（+3）
 
 
 ---

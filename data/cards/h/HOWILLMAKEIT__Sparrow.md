@@ -1,6 +1,6 @@
 # HOWILLMAKEIT/Sparrow
 
-⭐ 13 · Python · 推送 2026-04-09 · [GitHub](https://github.com/HOWILLMAKEIT/Sparrow) · 个人维护 · 中文 README
+⭐ 12 · Python · 推送 2026-04-09 · [GitHub](https://github.com/HOWILLMAKEIT/Sparrow) · 个人维护 · 中文 README
 
 **给 LLM 学习者的轻量 MoE 模型三阶段训练实验项目（196M/A106M）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HOWILLMAKEIT/Sparrow 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-27"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 11, 12, 13, 13]
+    line [11, 12, 11, 12, 13, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 13（+2）
+2026-10-25 11 → 2026-11-27 12（+1）
 
 
 ---

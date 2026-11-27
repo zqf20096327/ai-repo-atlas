@@ -1,6 +1,6 @@
 # leonyangdev/lc-studylab
 
-⭐ 409 · Python · MIT · 推送 2025-12-09 · [GitHub](https://github.com/leonyangdev/lc-studylab) · 个人维护 · 中文 README
+⭐ 408 · Python · MIT · 推送 2025-12-09 · [GitHub](https://github.com/leonyangdev/lc-studylab) · 个人维护 · 中文 README
 
 **基于 LangChain v1.0 的智能体学习与实践全栈示例平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leonyangdev/lc-studylab 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22", "2026-11-26"]
+    title "leonyangdev/lc-studylab 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 404 --> 410
-    line [405, 406, 405, 406, 407, 408, 409]
+    line [405, 406, 405, 406, 407, 408, 409, 408]
 ```
 
-2026-10-24 405 → 2026-11-26 409（+4）
+2026-10-25 405 → 2026-11-27 408（+3）
 
 
 ---

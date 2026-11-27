@@ -40,6 +40,18 @@ CVPR 2016 论文 Context Encoders 的官方训练代码：通过重建损失与�
 > L8: This is the training code for our CVPR 2016 paper on Context Encoders for learning deep feature representation in an
 > L64:   DATA_ROOT=dataset/train display_id=11 name=inpaintCenter overlapPred=4 wtl2=0.999 nBottleneck=4000 niter=500 load
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pathak22/context-encoder 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 904 --> 906
+    line [905, 905]
+```
+
+2026-11-26 905 → 2026-11-27 905（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b9b673ff44f7` · [字段定义](../../DATASET.md)*

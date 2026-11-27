@@ -44,13 +44,13 @@ EPITA 课程项目，由两个 n8n 工作流组成：08:00 构建工作流抓取
 
 ```mermaid
 xychart-beta
-    title "pursurer/one-page-is-all-you-need 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    title "pursurer/one-page-is-all-you-need 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 5 --> 8
-    line [6, 7]
+    line [6, 7, 7]
 ```
 
-2026-11-16 6 → 2026-11-26 7（+1）
+2026-11-16 6 → 2026-11-27 7（+1）
 
 
 ---

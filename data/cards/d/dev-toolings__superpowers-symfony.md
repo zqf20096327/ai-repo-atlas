@@ -1,6 +1,6 @@
 # dev-toolings/superpowers-symfony
 
-⭐ 234 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/dev-toolings/superpowers-symfony) · 组织维护
+⭐ 235 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/dev-toolings/superpowers-symfony) · 组织维护
 
 **给 AI 编程 agent 的 Symfony 专家技能库（44 技能/7 agent/13 命令）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dev-toolings/superpowers-symfony 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 225 --> 235
-    line [226, 227, 226, 231, 232, 233, 234, 234]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 225 --> 236
+    line [226, 227, 226, 231, 232, 233, 234, 235]
 ```
 
-2026-10-24 226 → 2026-11-26 234（+8）
+2026-10-25 226 → 2026-11-27 235（+9）
 
 
 ---

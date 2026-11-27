@@ -1,6 +1,6 @@
 # Ikomia-dev/IkomiaApi
 
-⭐ 246 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Ikomia-dev/IkomiaApi) · [官网](https://ikomia-dev.github.io/python-api-documentation/) · 组织维护
+⭐ 246 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Ikomia-dev/IkomiaApi) · [官网](https://ikomia-dev.github.io/python-api-documentation/) · 组织维护
 
 **数行代码部署计算机视觉算法的 Python 工作流库**
 
@@ -46,12 +46,12 @@ Ikomia API 是一个 Python 库，将研究算法封装为可部署任务：通�
 ```mermaid
 xychart-beta
     title "Ikomia-dev/IkomiaApi 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 245 --> 248
     line [247, 246, 246]
 ```
 
-2026-10-24 247 → 2026-11-26 246（-1）
+2026-10-25 247 → 2026-11-27 246（-1）
 
 
 ---

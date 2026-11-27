@@ -1,6 +1,6 @@
 # pixano/pixano
 
-⭐ 64 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/pixano/pixano) · [官网](https://pixano.github.io/) · 组织维护
+⭐ 64 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/pixano/pixano) · [官网](https://pixano.github.io/) · 组织维护
 
 **面向计算机视觉的数据探索与 AI 标注开源工具**
 
@@ -46,12 +46,12 @@ CEA List 开源的以数据为中心的 AI 工具：通过本地 Web 服务（�
 ```mermaid
 xychart-beta
     title "pixano/pixano 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-24 64 → 2026-11-26 64（+0）
+2026-10-25 64 → 2026-11-27 64（+0）
 
 
 ---

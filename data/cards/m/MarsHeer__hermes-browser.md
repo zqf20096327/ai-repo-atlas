@@ -41,6 +41,18 @@
 > L8: Hermes ──MCP (stdio)──▶ bridge/server.mjs ──WebSocket 127.0.0.1:8765 (token)──▶ Chrome extension ──CDP──▶ tabs
 > L11: - **`bridge/`**: a Node MCP server. Hermes launches it. It listens on localhost for the extension.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MarsHeer/hermes-browser 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c2e10013dff8` · [字段定义](../../DATASET.md)*

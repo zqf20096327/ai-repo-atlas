@@ -1,6 +1,6 @@
 # neuronaline/local-ai-cad-agent
 
-⭐ 16 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/neuronaline/local-ai-cad-agent) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/neuronaline/local-ai-cad-agent) · 个人维护
 
 **本地/云端对话式生成参数化 3D CAD 模型的 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neuronaline/local-ai-cad-agent 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 17（+1）
 
 
 ---

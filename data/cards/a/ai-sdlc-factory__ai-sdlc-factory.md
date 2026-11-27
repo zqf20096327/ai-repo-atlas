@@ -1,6 +1,6 @@
 # ai-sdlc-factory/ai-sdlc-factory
 
-⭐ 25 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ai-sdlc-factory/ai-sdlc-factory) · [官网](https://ai-sdlc-factory.com) · 组织维护
+⭐ 26 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ai-sdlc-factory/ai-sdlc-factory) · [官网](https://ai-sdlc-factory.com) · 组织维护
 
 **给工单打标签即产出已评审 PR 的 AI 软件流水线**
 
@@ -40,6 +40,18 @@
 
 > L3: **AI SDLC Factory** is an AI software factory built around a git host (Forgejo or GitHub), Temporal and disposable a
 > L12: |`feature`|analysis, a check that it is not already built, an optional design review, the implementation, the proje
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ai-sdlc-factory/ai-sdlc-factory 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
+```
+
+2026-11-26 25 → 2026-11-27 26（+1）
 
 
 ---

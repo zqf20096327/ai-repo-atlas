@@ -1,6 +1,6 @@
 # sniklaus/softmax-splatting
 
-⭐ 512 · Python · 推送 2026-11-15 · [GitHub](https://github.com/sniklaus/softmax-splatting) · 个人维护
+⭐ 513 · Python · 推送 2026-11-15 · [GitHub](https://github.com/sniklaus/softmax-splatting) · 个人维护
 
 **可微分前向变形 softmax splatting 算子的 PyTorch 参考实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sniklaus/softmax-splatting 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-27"]
     y-axis "stars" 511 --> 515
-    line [514, 513, 512, 512]
+    line [514, 513, 512, 513]
 ```
 
-2026-11-16 514 → 2026-11-26 512（-2）
+2026-11-16 514 → 2026-11-27 513（-1）
 
 
 ---

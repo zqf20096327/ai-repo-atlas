@@ -1,6 +1,6 @@
 # zimodzh/dsh-plugin-dev-skills
 
-⭐ 18 · MIT · 推送 2026-09-04 · [GitHub](https://github.com/zimodzh/dsh-plugin-dev-skills) · [官网](https://github.com/zimodzh/dsh-plugin-dev-skills) · 个人维护 · 中文 README
+⭐ 19 · MIT · 推送 2026-09-04 · [GitHub](https://github.com/zimodzh/dsh-plugin-dev-skills) · [官网](https://github.com/zimodzh/dsh-plugin-dev-skills) · 个人维护 · 中文 README
 
 **教 agent 开发 DeepSeek Harness 插件的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zimodzh/dsh-plugin-dev-skills 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 15, 16, 17, 18, 18]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 14 --> 20
+    line [15, 16, 15, 16, 17, 18, 19]
 ```
 
-2026-10-24 15 → 2026-11-26 18（+3）
+2026-10-25 15 → 2026-11-27 19（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # michaelthwan/searchGPT
 
-⭐ 709 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/michaelthwan/searchGPT) · 个人维护
+⭐ 710 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/michaelthwan/searchGPT) · 个人维护
 
 **基于 LLM 的有出处搜索引擎，支持网页与文件内容搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "michaelthwan/searchGPT 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21", "2026-11-26"]
+    title "michaelthwan/searchGPT 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21", "2026-11-27"]
     y-axis "stars" 708 --> 712
-    line [711, 710, 709, 710, 711, 710, 709, 709]
+    line [710, 709, 710, 711, 710, 709, 710]
 ```
 
-2026-10-24 711 → 2026-11-26 709（-2）
+2026-10-25 710 → 2026-11-27 710（+0）
 
 
 ---

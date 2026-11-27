@@ -44,13 +44,13 @@ EvalPort 是一个便携式 LLM 评测开放规范（v1.0.0-rc.5，Apache 2.0）
 
 ```mermaid
 xychart-beta
-    title "adhabnr-ux/evalport 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "adhabnr-ux/evalport 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 12（+1）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

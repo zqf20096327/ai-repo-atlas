@@ -1,6 +1,6 @@
 # alekstar79/ykassa-mcp-integrator
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alekstar79/ykassa-mcp-integrator) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/alekstar79/ykassa-mcp-integrator) · 个人维护
 
 **将自然语言请求转为 YooKassa 支付操作的 AI agent 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alekstar79/ykassa-mcp-integrator 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-25 3 → 2026-11-26 3（+0）
+2026-11-25 3 → 2026-11-27 5（+2）
 
 
 ---

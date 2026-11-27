@@ -1,6 +1,6 @@
 # CHB-learner/PaperPilot
 
-⭐ 169 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/CHB-learner/PaperPilot) · [官网](https://chb-learner.github.io/PaperPilot/) · 个人维护 · 中文 README
+⭐ 170 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/CHB-learner/PaperPilot) · [官网](https://chb-learner.github.io/PaperPilot/) · 个人维护 · 中文 README
 
 **AI 文献综述 CLI Agent：一次请求产出可溯源的中英双语综述报告**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CHB-learner/PaperPilot 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 166 --> 176
-    line [175, 172, 167, 168, 169, 169]
+    title "CHB-learner/PaperPilot 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 166 --> 173
+    line [172, 167, 168, 169, 170]
 ```
 
-2026-10-24 175 → 2026-11-26 169（-6）
+2026-10-25 172 → 2026-11-27 170（-2）
 
 
 ---

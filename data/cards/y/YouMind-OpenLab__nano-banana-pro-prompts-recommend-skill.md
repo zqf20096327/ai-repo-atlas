@@ -1,6 +1,6 @@
 # YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
 
-⭐ 1,918 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) · [官网](https://youmind.com/nano-banana-pro-prompts) · 组织维护
+⭐ 1,919 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill) · [官网](https://youmind.com/nano-banana-pro-prompts) · 组织维护
 
 **为 AI 助手提供 1 万+ Nano Banana Pro 图像提示词检索技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill 星数(近 17 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 1887 --> 1920
-    line [1889, 1891, 1892, 1893, 1894, 1895, 1889, 1899, 1906, 1908, 1909, 1913, 1912, 1914, 1915, 1916, 1918]
+    title "YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill 星数(近 18 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1886 --> 1922
+    line [1889, 1891, 1892, 1893, 1894, 1895, 1889, 1899, 1906, 1908, 1909, 1913, 1912, 1914, 1915, 1916, 1918, 1919]
 ```
 
-2026-10-24 1,889 → 2026-11-26 1,918（+29）
+2026-10-25 1,889 → 2026-11-27 1,919（+30）
 
 
 ---

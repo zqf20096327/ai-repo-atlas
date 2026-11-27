@@ -1,6 +1,6 @@
 # underworldhistory1-ctrl/minimax-h3-interface
 
-⭐ 37 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/underworldhistory1-ctrl/minimax-h3-interface) · [官网](https://underworldhistory1-ctrl.github.io/minimax-h3-interface/) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/underworldhistory1-ctrl/minimax-h3-interface) · [官网](https://underworldhistory1-ctrl.github.io/minimax-h3-interface/) · 组织维护
 
 **自托管 MiniMax H3 视频生成与 Qwen 图像创作的浏览器工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "underworldhistory1-ctrl/minimax-h3-interface 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 31 --> 38
-    line [32, 34, 35, 36, 37, 37]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 31 --> 39
+    line [32, 34, 35, 36, 37, 38]
 ```
 
-2026-11-08 32 → 2026-11-26 37（+5）
+2026-11-08 32 → 2026-11-27 38（+6）
 
 
 ---

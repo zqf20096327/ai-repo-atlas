@@ -1,6 +1,6 @@
 # saeed-vayghan/gemini-agent-skills
 
-⭐ 63 · TypeScript · MIT · 推送 2026-01-18 · [GitHub](https://github.com/saeed-vayghan/gemini-agent-skills) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-01-18 · [GitHub](https://github.com/saeed-vayghan/gemini-agent-skills) · 个人维护
 
 **面向 Gemini 的 agent 技能合集与 Claude 技能转换 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "saeed-vayghan/gemini-agent-skills 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 45 --> 64
-    line [46, 48, 49, 50, 51, 46, 55, 59, 60, 62, 63]
+    title "saeed-vayghan/gemini-agent-skills 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 45 --> 65
+    line [46, 48, 49, 50, 51, 46, 55, 59, 60, 62, 63, 64]
 ```
 
-2026-10-24 46 → 2026-11-26 63（+17）
+2026-10-25 46 → 2026-11-27 64（+18）
 
 
 ---

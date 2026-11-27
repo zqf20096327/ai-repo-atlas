@@ -41,6 +41,18 @@
 > L87: |**Office editing**|Native editors for Sheets, Modern/Paged Docs, Slides, Base, and Board.|
 > L93: |**Bring your own model**|Six provider adapters, streamed responses, and provider-supplied reasoning where availabl
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dream-num/univer-office-copilot 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c88f1667909e` · [字段定义](../../DATASET.md)*

@@ -41,6 +41,18 @@
 > L3: Claude Code plugins for zOne work: plan and build features, plan fixes for your Azure DevOps bugs, add Custom Report
 > L116: |**zDev**|`plan`, `new-trd`: nothing extra; Figma links need the Figma connector; HTML walkthroughs and the final 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "itsabhijithhere/zone-playground 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `8c37d06fb96d` · [字段定义](../../DATASET.md)*

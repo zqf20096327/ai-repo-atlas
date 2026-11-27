@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "m-bilal-ahmed/RescueMap-AI 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "m-bilal-ahmed/RescueMap-AI 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 16 --> 19
-    line [17, 18]
+    line [17, 18, 18]
 ```
 
-2026-10-24 17 → 2026-11-26 18（+1）
+2026-10-25 17 → 2026-11-27 18（+1）
 
 
 ---

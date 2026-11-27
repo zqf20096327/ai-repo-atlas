@@ -1,6 +1,6 @@
 # hy-ong/qwental
 
-⭐ 3 · C · MIT · 推送 2026-11-11 · [GitHub](https://github.com/hy-ong/qwental) · 个人维护
+⭐ 3 · C · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hy-ong/qwental) · 个人维护
 
 **面向开发者的本地 LLM 推理服务器：在 Apple M5 Max 上运行 Qwen3.8-Flash-Next**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hy-ong/qwental 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-26"]
+    x-axis ["2026-11-15", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-26 3（+0）
+2026-11-15 3 → 2026-11-27 3（+0）
 
 
 ---

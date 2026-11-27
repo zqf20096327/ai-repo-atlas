@@ -1,6 +1,6 @@
 # newdee/git-commit-helper
 
-⭐ 17 · Rust · MIT · 推送 2026-07-17 · [GitHub](https://github.com/newdee/git-commit-helper) · [官网](https://crates.io/crates/git-commit-helper) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-07-17 · [GitHub](https://github.com/newdee/git-commit-helper) · [官网](https://crates.io/crates/git-commit-helper) · 个人维护
 
 **用 LLM 分析 Git 变更并生成 commit 信息的命令行工具**
 
@@ -45,12 +45,12 @@ Rust 编写的 CLI 工具，读取 Git 暂存区的 diff，调用大语言模型
 ```mermaid
 xychart-beta
     title "newdee/git-commit-helper 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 18（+1）
 
 
 ---

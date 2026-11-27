@@ -1,6 +1,6 @@
 # Nikit117/kynex-harness
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/Nikit117/kynex-harness) · [官网](https://www.extractbench.ai/#leaderboard) · 个人维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/Nikit117/kynex-harness) · [官网](https://www.extractbench.ai/#leaderboard) · 个人维护
 
 **把 PDF、扫描件与表格转成符合 schema 的 JSON 的本地 agent**
 
@@ -46,12 +46,12 @@ KYNEX 是一个 agentic 文档抽取工具：对文档分页后让模型调用�
 ```mermaid
 xychart-beta
     title "Nikit117/kynex-harness 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-02", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-02 3 → 2026-11-26 4（+1）
+2026-11-02 3 → 2026-11-27 5（+2）
 
 
 ---

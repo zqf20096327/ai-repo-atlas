@@ -1,6 +1,6 @@
 # MaloneTalk/DataAgent
 
-⭐ 79 · Java · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/MaloneTalk/DataAgent) · 个人维护 · 中文 README
+⭐ 79 · Java · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/MaloneTalk/DataAgent) · 个人维护 · 中文 README
 
 **面向业务人员的自然语言数据分析智能体（Text-to-SQL）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MaloneTalk/DataAgent 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
     y-axis "stars" 76 --> 80
     line [77, 78, 79, 79]
 ```
 
-2026-11-08 77 → 2026-11-26 79（+2）
+2026-11-08 77 → 2026-11-27 79（+2）
 
 
 ---

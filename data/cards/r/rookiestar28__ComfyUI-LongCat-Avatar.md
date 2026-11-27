@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI-LongCat-Avatar
 
-⭐ 44 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/rookiestar28/ComfyUI-LongCat-Avatar) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rookiestar28/ComfyUI-LongCat-Avatar) · 个人维护
 
 **在 ComfyUI 中运行 LongCat Avatar 1.5 音频驱动数字人视频生成的自定义节点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rookiestar28/ComfyUI-LongCat-Avatar 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 42, 43, 44]
+    title "rookiestar28/ComfyUI-LongCat-Avatar 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 42, 43, 44, 45]
 ```
 
-2026-10-24 42 → 2026-11-26 44（+2）
+2026-10-25 42 → 2026-11-27 45（+3）
 
 
 ---

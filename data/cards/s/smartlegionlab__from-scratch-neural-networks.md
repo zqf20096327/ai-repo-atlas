@@ -1,6 +1,6 @@
 # smartlegionlab/from-scratch-neural-networks
 
-⭐ 4 · HTML · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/smartlegionlab/from-scratch-neural-networks) · [官网](https://smartlegionlab.github.io/interactive.html) · 组织维护
+⭐ 4 · JavaScript · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/smartlegionlab/from-scratch-neural-networks) · [官网](https://smartlegionlab.github.io/interactive.html) · 组织维护
 
 **浏览器内从零实现的 MLP 教学演示集（4 个单文件应用）**
 
@@ -41,6 +41,18 @@
 > L18: A collection of real multilayer perceptrons (MLPs) implemented **from scratch in pure JavaScript**. No frameworks, 
 > L22: This repository contains four independent, ready-to-run applications. Each one implements a complete training pipel
 > L24: The apps are designed as an educational demonstration: they show, in real time, how a small network reorganizes its
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "smartlegionlab/from-scratch-neural-networks 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

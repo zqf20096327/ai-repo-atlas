@@ -1,6 +1,6 @@
 # profullstack/c0mpute
 
-⭐ 12 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/profullstack/c0mpute) · [官网](https://c0mpute.com) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/profullstack/c0mpute) · [官网](https://c0mpute.com) · 组织维护
 
 **去中心化算力网络：一条命令跑节点，汇聚 CPU/GPU 服务开源模型推理**
 
@@ -46,12 +46,12 @@ Rust CLI 工具 c0mpute，通过一条 curl 安装命令加入 P2P 算力网络�
 ```mermaid
 xychart-beta
     title "profullstack/c0mpute 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

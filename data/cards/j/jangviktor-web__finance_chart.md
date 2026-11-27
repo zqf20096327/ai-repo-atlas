@@ -1,6 +1,6 @@
 # jangviktor-web/finance_chart
 
-⭐ 52 · Dart · 推送 2026-09-20 · [GitHub](https://github.com/jangviktor-web/finance_chart) · 个人维护 · 中文 README
+⭐ 53 · Dart · 推送 2026-09-20 · [GitHub](https://github.com/jangviktor-web/finance_chart) · 个人维护 · 中文 README
 
 **开源免费的 A 股量化分析 Android APP，含 AI 选股诊断**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jangviktor-web/finance_chart 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 39 --> 53
-    line [40, 41, 43, 40, 45, 47, 49, 50, 51, 52]
+    title "jangviktor-web/finance_chart 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 39 --> 54
+    line [40, 41, 43, 40, 45, 47, 49, 50, 51, 52, 53]
 ```
 
-2026-10-24 40 → 2026-11-26 52（+12）
+2026-10-25 40 → 2026-11-27 53（+13）
 
 
 ---

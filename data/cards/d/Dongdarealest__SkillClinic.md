@@ -1,6 +1,6 @@
 # Dongdarealest/SkillClinic
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Dongdarealest/SkillClinic) · [官网](https://dongdarealest.github.io/SkillClinic/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Dongdarealest/SkillClinic) · [官网](https://dongdarealest.github.io/SkillClinic/) · 个人维护
 
 **审计本机 AI skill 文件的零依赖安全检查 CLI**
 
@@ -40,6 +40,18 @@
 
 > L17: Skills are instruction files your AI loads and follows, often at the start of every conversation. Most people insta
 > L3:  One command audits every AI skill on your machine and gives each one a verdict:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dongdarealest/SkillClinic 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xCodeWraith/GoogleMapAIagent 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    title "xCodeWraith/GoogleMapAIagent 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 381 --> 384
-    line [382, 383]
+    line [382, 383, 383]
 ```
 
-2026-11-20 382 → 2026-11-26 383（+1）
+2026-11-20 382 → 2026-11-27 383（+1）
 
 
 ---

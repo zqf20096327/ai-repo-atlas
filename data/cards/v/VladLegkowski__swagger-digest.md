@@ -46,12 +46,12 @@ swagger-digest 是面向 AI 编码代理的 API 上下文引擎，提供两种�
 ```mermaid
 xychart-beta
     title "VladLegkowski/swagger-digest 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-10 5 → 2026-11-26 5（+0）
+2026-11-10 5 → 2026-11-27 5（+0）
 
 
 ---

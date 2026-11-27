@@ -1,6 +1,6 @@
 # vibexp/vibexp
 
-⭐ 10 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/vibexp/vibexp) · [官网](https://vibexp.io) · 组织维护
+⭐ 10 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/vibexp/vibexp) · [官网](https://vibexp.io) · 组织维护
 
 **团队共享 AI 知识库：让所有 AI 工具读写同一份上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vibexp/vibexp 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-26 10（+0）
+2026-11-08 10 → 2026-11-27 10（+0）
 
 
 ---

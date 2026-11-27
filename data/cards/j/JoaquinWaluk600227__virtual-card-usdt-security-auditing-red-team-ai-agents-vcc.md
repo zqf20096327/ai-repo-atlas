@@ -1,6 +1,6 @@
 # JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc
 
-⭐ 105 · 推送 2026-11-13 · [GitHub](https://github.com/JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 112 · 推送 2026-11-13 · [GitHub](https://github.com/JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向自主安全审计 agent 的虚拟卡付费隔离指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc 星数(近 9 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 114
-    line [9, 14, 25, 30, 33, 43, 57, 79, 105]
+    title "JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc 星数(近 10 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 122
+    line [9, 14, 25, 30, 33, 43, 57, 79, 105, 112]
 ```
 
-2026-11-13 9 → 2026-11-26 105（+96）
+2026-11-13 9 → 2026-11-27 112（+103）
 
 
 ---

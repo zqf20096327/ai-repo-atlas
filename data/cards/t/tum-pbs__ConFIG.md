@@ -1,6 +1,6 @@
 # tum-pbs/ConFIG
 
-⭐ 125 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/tum-pbs/ConFIG) · [官网](https://tum-pbs.github.io/ConFIG/) · 组织维护
+⭐ 126 · Python · MIT · 推送 2026-06-01 · [GitHub](https://github.com/tum-pbs/ConFIG) · [官网](https://tum-pbs.github.io/ConFIG/) · 组织维护
 
 **多损失项优化的无冲突梯度方向方法库（ICLR2025 Spotlight）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tum-pbs/ConFIG 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 123 --> 126
-    line [124, 125, 124, 125, 125]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 123 --> 127
+    line [124, 125, 124, 125, 126]
 ```
 
-2026-10-24 124 → 2026-11-26 125（+1）
+2026-10-25 124 → 2026-11-27 126（+2）
 
 
 ---

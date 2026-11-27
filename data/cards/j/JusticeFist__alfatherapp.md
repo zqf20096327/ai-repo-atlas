@@ -1,6 +1,6 @@
 # JusticeFist/alfatherapp
 
-⭐ 21 · Kotlin · MIT · 推送 2026-11-24 · [GitHub](https://github.com/JusticeFist/alfatherapp) · 个人维护
+⭐ 22 · Kotlin · MIT · 推送 2026-11-24 · [GitHub](https://github.com/JusticeFist/alfatherapp) · 个人维护
 
 **Hermes Agent 的原生 Android 与 Wear OS 客户端**
 
@@ -40,6 +40,18 @@
 > L9:  A native Android client for Hermes Agent, with a Wear OS companion.
 > L23: |**Chat**|Streaming replies with Markdown, code, LaTeX, Mermaid, images and files. Model and reasoning picker; queu
 > L49: - A Hermes host running the web dashboard (`hermes dashboard`, port 9119 by default) that your phone can reach
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JusticeFist/alfatherapp 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
+```
+
+2026-11-26 21 → 2026-11-27 22（+1）
 
 
 ---

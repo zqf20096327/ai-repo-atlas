@@ -1,6 +1,6 @@
 # Luwi-developers/Luwi
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Luwi-developers/Luwi) · [官网](https://github.com/Luwi-developers/Luwi/releases) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Luwi-developers/Luwi) · [官网](https://github.com/Luwi-developers/Luwi/releases) · 个人维护 · 中文 README
 
 **让 AI 操作安卓手机的端侧 Agent 应用（dsh 移植）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Luwi-developers/Luwi 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-27"]
     y-axis "stars" 7 --> 15
     line [8, 12, 13, 14, 14]
 ```
 
-2026-11-02 8 → 2026-11-26 14（+6）
+2026-11-02 8 → 2026-11-27 14（+6）
 
 
 ---

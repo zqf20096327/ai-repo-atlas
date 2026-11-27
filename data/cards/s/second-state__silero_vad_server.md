@@ -1,6 +1,6 @@
 # second-state/silero_vad_server
 
-⭐ 17 · Rust · GPL-3.0 · 推送 2025-12-06 · [GitHub](https://github.com/second-state/silero_vad_server) · [官网](https://echokit.dev/) · 组织维护
+⭐ 18 · Rust · GPL-3.0 · 推送 2025-12-06 · [GitHub](https://github.com/second-state/silero_vad_server) · [官网](https://echokit.dev/) · 组织维护
 
 **Rust 编写的 Silero VAD 语音活动检测 API 服务**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "second-state/silero_vad_server 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 16 --> 19
-    line [18, 17, 18, 17, 17]
+    line [18, 17, 18, 17, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 17（-1）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

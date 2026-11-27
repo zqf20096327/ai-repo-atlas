@@ -1,6 +1,6 @@
 # IvenKooLab/loci
 
-⭐ 102 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/IvenKooLab/loci) · 组织维护 · 中文 README
+⭐ 101 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/IvenKooLab/loci) · 组织维护 · 中文 README
 
 **AI 编码工具共享记忆库：本地混合检索与带引用问答**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvenKooLab/loci 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 96 --> 103
-    line [97, 100, 101, 100, 101, 102, 102]
+    title "IvenKooLab/loci 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 99 --> 103
+    line [100, 101, 100, 101, 102, 101]
 ```
 
-2026-10-24 97 → 2026-11-26 102（+5）
+2026-10-25 100 → 2026-11-27 101（+1）
 
 
 ---

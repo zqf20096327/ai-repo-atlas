@@ -1,6 +1,6 @@
 # cvfile/cv
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cvfile/cv) · [官网](https://cvfile.org) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cvfile/cv) · [官网](https://cvfile.org) · 组织维护
 
 **给求职者/开发者的一体化简历开放文件格式**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cvfile/cv 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

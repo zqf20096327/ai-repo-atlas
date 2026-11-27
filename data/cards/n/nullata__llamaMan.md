@@ -1,6 +1,6 @@
 # nullata/llamaMan
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/nullata/llamaMan) · [官网](https://nickscripts.com) · 个人维护 · 中文 README
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/nullata/llamaMan) · [官网](https://nickscripts.com) · 个人维护 · 中文 README
 
 **浏览器 UI 管理/集群化多个 llama.cpp server 实例并代理 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nullata/llamaMan 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-24 15 → 2026-11-26 16（+1）
+2026-10-25 15 → 2026-11-27 16（+1）
 
 
 ---

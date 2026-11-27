@@ -1,6 +1,6 @@
 # AntigmaLabs/ante
 
-⭐ 2,051 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/AntigmaLabs/ante) · [官网](https://ante.run) · 组织维护
+⭐ 2,052 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AntigmaLabs/ante) · [官网](https://ante.run) · 组织维护
 
 **终端里的自包含 Rust 编码 agent，可离线跑本地模型**
 
@@ -41,6 +41,18 @@ Ante 是一个以单一 Rust 可执行文件分发的终端编码 agent：内置
 > L5: **A ghost in your shell.** Ante is a self-contained coding agent that lives in your terminal and self-organizes. One
 > L7: It works like Claude Code or Codex, with none of their dependencies or model constraints. It can also be the optimiz
 > L53: Ante ships with its own managed inference engine. Point it at a local model and the whole loop runs on your machine
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AntigmaLabs/ante 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2050 --> 2053
+    line [2051, 2052]
+```
+
+2026-11-26 2,051 → 2026-11-27 2,052（+1）
 
 
 ---

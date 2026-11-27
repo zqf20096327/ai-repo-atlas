@@ -1,6 +1,6 @@
 # realmyang/MLView
 
-⭐ 466 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/realmyang/MLView) · [官网](https://github.com/realmyang/MLView#readme) · 个人维护
+⭐ 464 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/realmyang/MLView) · [官网](https://github.com/realmyang/MLView#readme) · 个人维护
 
 **编程助手生成 ML 工作流交互图并在 VS Code 中查看的工具**
 
@@ -45,13 +45,13 @@ MLView 由三部分组成：面向 GitHub Copilot、Codex 和 Claude Code 的 ag
 
 ```mermaid
 xychart-beta
-    title "realmyang/MLView 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 304 --> 484
-    line [319, 335, 354, 377, 393, 414, 430, 456, 469, 335, 465, 466, 466]
+    title "realmyang/MLView 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 322 --> 482
+    line [335, 354, 377, 393, 414, 430, 456, 469, 335, 465, 466, 464]
 ```
 
-2026-10-24 319 → 2026-11-26 466（+147）
+2026-10-25 335 → 2026-11-27 464（+129）
 
 
 ---

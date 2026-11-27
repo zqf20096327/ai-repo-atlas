@@ -1,6 +1,6 @@
 # ghostpengu/tokenhell
 
-⭐ 5 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ghostpengu/tokenhell) · [官网](https://ghostpengu.github.io/tokenhell/) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ghostpengu/tokenhell) · [官网](https://ghostpengu.github.io/tokenhell/) · 个人维护
 
 **在 macOS 菜单栏聚合各 AI 编码工具的 token 用量与计划额度**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ghostpengu/tokenhell 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-19", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-15", "2026-11-19", "2026-11-20", "2026-11-27"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    line [3, 4, 5, 4]
 ```
 
-2026-11-15 3 → 2026-11-26 5（+2）
+2026-11-15 3 → 2026-11-27 4（+1）
 
 
 ---

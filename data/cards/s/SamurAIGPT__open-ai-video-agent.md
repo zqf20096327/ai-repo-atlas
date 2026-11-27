@@ -1,6 +1,6 @@
 # SamurAIGPT/open-ai-video-agent
 
-⭐ 10 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/SamurAIGPT/open-ai-video-agent) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/SamurAIGPT/open-ai-video-agent) · 组织维护
 
 **给 AI 助手加载的开源视频制作技能工作流集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SamurAIGPT/open-ai-video-agent 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-29", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-10-29 10 → 2026-11-26 10（+0）
+2026-10-29 10 → 2026-11-27 12（+2）
 
 
 ---

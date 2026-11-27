@@ -1,6 +1,6 @@
 # minhqdao/fortran-mcp
 
-⭐ 12 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/minhqdao/fortran-mcp) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/minhqdao/fortran-mcp) · 个人维护
 
 **为 AI 编程助手提供带引用的 Fortran 文档检索 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "minhqdao/fortran-mcp 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 10, 12, 12]
 ```
 
-2026-10-25 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

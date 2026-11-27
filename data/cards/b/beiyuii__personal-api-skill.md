@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "beiyuii/personal-api-skill 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "beiyuii/personal-api-skill 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 80 --> 83
-    line [81, 82]
+    line [81, 82, 82]
 ```
 
-2026-10-24 81 → 2026-11-26 82（+1）
+2026-10-25 81 → 2026-11-27 82（+1）
 
 
 ---

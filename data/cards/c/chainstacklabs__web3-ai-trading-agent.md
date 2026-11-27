@@ -1,6 +1,6 @@
 # chainstacklabs/web3-ai-trading-agent
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/chainstacklabs/web3-ai-trading-agent) · [官网](https://chainstack.com) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/chainstacklabs/web3-ai-trading-agent) · [官网](https://chainstack.com) · 组织维护
 
 **教程：教开发者本地搭建 Web3 AI 交易代理**
 
@@ -40,6 +40,18 @@
 > L1: # Web3 AI trading agent—hands-on walkthrough
 > L13: This project builds a Web3 AI trading agent that operates on the ETH-USDC pair on BASE blockchain using Uniswap V4.
 > L9: ⚠️ NOT FOR PRODUCTION: This code is for learning purposes only. We assume no responsibility for the code or its usag
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chainstacklabs/web3-ai-trading-agent 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
+```
+
+2026-11-26 70 → 2026-11-27 71（+1）
 
 
 ---

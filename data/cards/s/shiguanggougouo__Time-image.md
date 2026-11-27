@@ -1,6 +1,6 @@
 # shiguanggougouo/Time-image
 
-⭐ 4 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/shiguanggougouo/Time-image) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/shiguanggougouo/Time-image) · 个人维护 · 中文 README
 
 **ComfyUI 的八个实用节点：提示词/尺寸、对齐、缓存、合成等**
 
@@ -46,13 +46,13 @@ Time image 是一组面向 ComfyUI 的八个自定义节点：提示词+参考�
 
 ```mermaid
 xychart-beta
-    title "shiguanggougouo/Time-image 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
+    title "shiguanggougouo/Time-image 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-18 3 → 2026-11-26 4（+1）
+2026-11-18 3 → 2026-11-27 4（+1）
 
 
 ---

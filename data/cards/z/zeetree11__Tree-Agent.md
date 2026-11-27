@@ -1,6 +1,6 @@
 # zeetree11/Tree-Agent
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zeetree11/Tree-Agent) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zeetree11/Tree-Agent) · 个人维护 · 中文 README
 
 **基于 pi 编码 agent 封装的个人助理运行时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zeetree11/Tree-Agent 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-26 4（+1）
+2026-11-08 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L15: Not a chatbot. Not a voice assistant that sets timers. A full AI system with access to your calendar, email, code, 
 > L155: **Key design principle:** The voice bot does not duplicate agent capabilities. Every voice request is forwarded to
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lancejames221b/openjarvis 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `988c1efea5ee` · [字段定义](../../DATASET.md)*

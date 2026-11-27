@@ -1,6 +1,6 @@
 # sherwinvishesh/OpenGSO
 
-⭐ 392 · JavaScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/sherwinvishesh/OpenGSO) · [官网](https://sherwinvishesh.github.io/OpenGSO/) · 个人维护
+⭐ 390 · JavaScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/sherwinvishesh/OpenGSO) · [官网](https://sherwinvishesh.github.io/OpenGSO/) · 个人维护
 
 **让网站对 AI agent 可读的评分与 Markdown 孪生生成工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sherwinvishesh/OpenGSO 星数(近 9 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    title "sherwinvishesh/OpenGSO 星数(近 10 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 125 --> 461
-    line [153, 432, 433, 409, 401, 399, 397, 395, 392]
+    line [153, 432, 433, 409, 401, 399, 397, 395, 392, 390]
 ```
 
-2026-11-14 153 → 2026-11-26 392（+239）
+2026-11-14 153 → 2026-11-27 390（+237）
 
 
 ---

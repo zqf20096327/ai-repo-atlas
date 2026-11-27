@@ -1,6 +1,6 @@
 # theonaai/Heron
 
-⭐ 25 · TypeScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/theonaai/Heron) · [官网](https://heron.ing) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-06-10 · [GitHub](https://github.com/theonaai/Heron) · [官网](https://heron.ing) · 组织维护
 
 **开源 AI agent 审计工具：核验 agent 声称的权限与实际访问**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "theonaai/Heron 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-24 25 → 2026-11-26 25（+0）
+2026-10-25 25 → 2026-11-27 26（+1）
 
 
 ---

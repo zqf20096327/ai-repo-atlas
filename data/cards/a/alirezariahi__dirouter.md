@@ -1,6 +1,6 @@
 # alirezariahi/dirouter
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/alirezariahi/dirouter) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/alirezariahi/dirouter) · 个人维护 · 中文 README
 
 **自托管 LLM 网关：多提供商路由、回退、限流与用量计费**
 
@@ -41,6 +41,18 @@
 > L12: DiRouter is a self-hosted gateway for Large Language Models. It exposes OpenAI- and Anthropic-compatible endpoints 
 > L3:  DiRouter · open-source LLM gateway for resilient routing, fallback, limits, budgets, and usage accounting
 > L55: |Needs to self-host|PostgreSQL, Valkey|PostgreSQL for keys; Redis with several instances|Nothing (stateless); Redis
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alirezariahi/dirouter 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

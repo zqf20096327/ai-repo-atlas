@@ -1,6 +1,6 @@
 # zhangxq0606-ctrl/PodDesk
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/zhangxq0606-ctrl/PodDesk) · [官网](https://poddesk.captainxq.me) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/zhangxq0606-ctrl/PodDesk) · [官网](https://poddesk.captainxq.me) · 个人维护 · 中文 README
 
 **本地优先的双语播客与视频 AI 问答工作台**
 
@@ -40,6 +40,18 @@
 > L7: 面向中英文播客与 YouTube 视频的本地优先 AI 工作台：多源取稿、本机离线转写、双语精译与在场感问答。
 > L26: - **三层字幕，音频不出本机**：优先拉取官方字幕；无字幕时可调用本机离线模型（`SenseVoice-Small` / `Qwen3-ASR 0.6B` / `1.7B`，基于 `CrispASR` + `Silero VAD
 > L28: - **把常用 AI Agent 请到收听现场**：自动探测并复用本机已登录的 6 款 CLI Agent（Claude Code、Codex、Antigravity CLI、Qwen Code、Kimi Code、OpenCod
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zhangxq0606-ctrl/PodDesk 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
 
 
 ---

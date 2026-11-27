@@ -1,6 +1,6 @@
 # NeuroDMRI/DDSurfer
 
-⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NeuroDMRI/DDSurfer) · 组织维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NeuroDMRI/DDSurfer) · 组织维护 · 中文 README
 
 **从扩散 MRI 重建皮层表面的弱监督深度学习管线**
 
@@ -46,12 +46,12 @@ DDSurfer 提供从扩散 MRI 重建白质与软膜皮层表面的完整工作流
 ```mermaid
 xychart-beta
     title "NeuroDMRI/DDSurfer 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-26 10（+0）
+2026-11-02 10 → 2026-11-27 10（+0）
 
 
 ---

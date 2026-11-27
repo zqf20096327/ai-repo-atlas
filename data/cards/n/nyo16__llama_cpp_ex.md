@@ -1,6 +1,6 @@
 # nyo16/llama_cpp_ex
 
-⭐ 10 · Elixir · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/nyo16/llama_cpp_ex) · 个人维护
+⭐ 10 · Elixir · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/nyo16/llama_cpp_ex) · 个人维护
 
 **给 Elixir 开发者本地运行 LLM 的 llama.cpp 绑定库**
 
@@ -41,6 +41,18 @@
 > L6: Elixir bindings for llama.cpp — run LLMs locally with Metal, CUDA, Vulkan, or CPU acceleration.
 > L8: Built with C++ NIFs using fine for ergonomic resource management and elixir_make for the build system.
 > L26: - Continuous batching server for concurrent inference
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nyo16/llama_cpp_ex 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

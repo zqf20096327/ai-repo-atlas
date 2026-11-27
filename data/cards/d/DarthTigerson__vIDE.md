@@ -1,6 +1,6 @@
 # DarthTigerson/vIDE
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DarthTigerson/vIDE) · [官网](https://vsuite.tech/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/DarthTigerson/vIDE) · [官网](https://vsuite.tech/) · 个人维护
 
 **面向终端 AI 编码代理的 Electron 桌面 IDE，支持本地模型**
 
@@ -46,12 +46,12 @@ Electron 桌面应用：将 Monaco 编辑器、真实终端与 git 工具（多�
 ```mermaid
 xychart-beta
     title "DarthTigerson/vIDE 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-26"]
+    x-axis ["2026-10-28", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-28 12 → 2026-11-26 12（+0）
+2026-10-28 12 → 2026-11-27 12（+0）
 
 
 ---

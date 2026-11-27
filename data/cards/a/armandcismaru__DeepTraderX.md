@@ -46,12 +46,12 @@ MEng 毕业项目的深度学习交易系统：在 Dave Cliff 的 Bristol Stock 
 ```mermaid
 xychart-beta
     title "armandcismaru/DeepTraderX 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-24 22 → 2026-11-26 22（+0）
+2026-10-25 22 → 2026-11-27 22（+0）
 
 
 ---

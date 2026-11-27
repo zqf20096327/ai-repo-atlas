@@ -1,6 +1,6 @@
 # breimanntools/aaanalysis
 
-⭐ 89 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/breimanntools/aaanalysis) · [官网](https://aaanalysis.readthedocs.io) · 个人维护
+⭐ 90 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/breimanntools/aaanalysis) · [官网](https://aaanalysis.readthedocs.io) · 个人维护
 
 **面向蛋白质预测的可解释特征工程 Python 框架**
 
@@ -45,12 +45,12 @@ AAanalysis 是基于序列的蛋白质预测 Python 框架，核心算法包括 
 ```mermaid
 xychart-beta
     title "breimanntools/aaanalysis 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 88 --> 91
+    line [89, 90]
 ```
 
-2026-10-24 89 → 2026-11-26 89（+0）
+2026-10-25 89 → 2026-11-27 90（+1）
 
 
 ---

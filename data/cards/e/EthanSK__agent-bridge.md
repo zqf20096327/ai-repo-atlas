@@ -1,6 +1,6 @@
 # EthanSK/agent-bridge
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/EthanSK/agent-bridge) · [官网](https://ethansk.github.io/agent-bridge/) · 个人维护
+⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/EthanSK/agent-bridge) · [官网](https://ethansk.github.io/agent-bridge/) · 个人维护
 
 **让多台机器上的 AI agent 会话通过 SSH 互通消息**
 
@@ -46,12 +46,12 @@ agent-bridge 让运行中的 agent harness 会话（Claude Code、OpenClaw、Cod
 ```mermaid
 xychart-beta
     title "EthanSK/agent-bridge 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

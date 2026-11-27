@@ -41,6 +41,18 @@
 > L8: 2. **Resume & Project Extraction**: Extracts skills, experience, education, **projects**, summary, and contact links
 > L9: 3. **4-Source Job Discovery**: Connects to **LinkedIn**, **Indeed**, **Google**, and **Greenhouse** using queries de
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nouman-io/Auto-Apply-AI 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-26 19 → 2026-11-27 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `adf6a015ecad` · [字段定义](../../DATASET.md)*

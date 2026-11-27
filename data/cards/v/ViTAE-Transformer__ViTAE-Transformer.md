@@ -45,12 +45,12 @@ NeurIPS'21 与 IJCV'22 论文的官方仓库，提供 ViTAE 与 ViTAEv2 的代�
 ```mermaid
 xychart-beta
     title "ViTAE-Transformer/ViTAE-Transformer 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 279 --> 282
     line [280, 281, 281]
 ```
 
-2026-10-24 280 → 2026-11-26 281（+1）
+2026-10-25 280 → 2026-11-27 281（+1）
 
 
 ---

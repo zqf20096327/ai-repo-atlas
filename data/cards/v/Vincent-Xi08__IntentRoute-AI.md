@@ -1,6 +1,6 @@
 # Vincent-Xi08/IntentRoute-AI
 
-⭐ 260 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Vincent-Xi08/IntentRoute-AI) · 个人维护 · 中文 README
+⭐ 259 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Vincent-Xi08/IntentRoute-AI) · 个人维护 · 中文 README
 
 **Windows 分应用代理路由工具：AI 起草 sing-box TUN 路由规则**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vincent-Xi08/IntentRoute-AI 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 259 --> 261
-    line [260, 260]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 258 --> 261
+    line [260, 259]
 ```
 
-2026-10-24 260 → 2026-11-26 260（+0）
+2026-10-25 260 → 2026-11-27 259（-1）
 
 
 ---

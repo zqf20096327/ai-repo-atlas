@@ -1,6 +1,6 @@
 # Leo0426/comfyUI-workflow
 
-⭐ 218 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/Leo0426/comfyUI-workflow) · 个人维护 · 中文 README
+⭐ 219 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/Leo0426/comfyUI-workflow) · 个人维护 · 中文 README
 
 **为 ComfyUI 用户提供 584 个多场景生图工作流的合集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Leo0426/comfyUI-workflow 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 216 --> 219
-    line [217, 218]
+    title "Leo0426/comfyUI-workflow 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 216 --> 220
+    line [217, 218, 219]
 ```
 
-2026-11-25 217 → 2026-11-26 218（+1）
+2026-11-25 217 → 2026-11-27 219（+2）
 
 
 ---

@@ -43,13 +43,13 @@ Python 3 封装库，经由 jpype 桥接在 Python 中调用 Java 机器学习�
 
 ```mermaid
 xychart-beta
-    title "fracpete/python-weka-wrapper3 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "fracpete/python-weka-wrapper3 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 147 --> 150
-    line [148, 149]
+    line [148, 149, 149]
 ```
 
-2026-10-24 148 → 2026-11-26 149（+1）
+2026-10-25 148 → 2026-11-27 149（+1）
 
 
 ---

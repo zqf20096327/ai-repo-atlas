@@ -1,6 +1,6 @@
 # B0yko/local-enough
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/B0yko/local-enough) · [官网](https://boiko.ai/work/local-enough/) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/B0yko/local-enough) · [官网](https://boiko.ai/work/local-enough/) · 个人维护
 
 **评测 AI 任务能否在本地硬件运行并测算千次成本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "B0yko/local-enough 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-26"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-22", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [11, 10]
 ```
 
-2026-11-22 11 → 2026-11-26 11（+0）
+2026-11-22 11 → 2026-11-27 10（-1）
 
 
 ---

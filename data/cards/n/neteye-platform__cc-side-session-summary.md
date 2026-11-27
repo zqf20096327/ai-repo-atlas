@@ -41,6 +41,18 @@
 > L53: - Claude Code **v2.1.287 or later** (the version that introduced mods;
 > L27: The mod registers a tool, `set_status`, and adds a short instruction to each
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "neteye-platform/cc-side-session-summary 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `562166a4a3f1` · [字段定义](../../DATASET.md)*

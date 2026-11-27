@@ -1,6 +1,6 @@
 # TVIEIL/RadioTranscribe-Store
 
-⭐ 3 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/TVIEIL/RadioTranscribe-Store) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/TVIEIL/RadioTranscribe-Store) · 个人维护
 
 **RTL-SDR 持续收听 FM 并实时转写归档的流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TVIEIL/RadioTranscribe-Store 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-26 3（+0）
+2026-11-14 3 → 2026-11-27 3（+0）
 
 
 ---

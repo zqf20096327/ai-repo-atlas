@@ -1,6 +1,6 @@
 # AdilShamim8/ML-Roadmap-and-Notes
 
-⭐ 51 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AdilShamim8/ML-Roadmap-and-Notes) · [官网](https://adilshamim8.github.io/) · 个人维护
+⭐ 51 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AdilShamim8/ML-Roadmap-and-Notes) · [官网](https://adilshamim8.github.io/) · 个人维护
 
 **机器学习学习路线图与笔记资源合集，覆盖入门到高级工程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdilShamim8/ML-Roadmap-and-Notes 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 48 --> 52
-    line [49, 50, 51, 51]
+    title "AdilShamim8/ML-Roadmap-and-Notes 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 49 --> 52
+    line [50, 51, 51]
 ```
 
-2026-10-24 49 → 2026-11-26 51（+2）
+2026-10-25 50 → 2026-11-27 51（+1）
 
 
 ---

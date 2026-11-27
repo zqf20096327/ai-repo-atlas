@@ -1,10 +1,10 @@
 # Interactive-Active-AI/NextTransformer
 
-⭐ 498 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Interactive-Active-AI/NextTransformer) · [官网](https://interactive-active-ai.github.io/NextTransformer/) · 组织维护 · 中文 README
+⭐ 504 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Interactive-Active-AI/NextTransformer) · [官网](https://interactive-active-ai.github.io/NextTransformer/) · 组织维护 · 中文 README
 
-**下一代 Transformer/LLM 的公平基准框架与自动架构研究平台**
+**面向研究者的下一代 Transformer 架构公平基准与自动研究平台**
 
-在固定训练预算下训练并比较多种语言模型架构（recurrent depth、稀疏/线性注意力、残差变体、混合结构与 MoE），所有模型使用相同数据、相同 tokens 数、相同理论 FLOPs 并在相同检查点评测；结果为可审计的文件化记录。提供统一训练器、数据管线、观测站（学习曲线/排行榜/模型卡）、MoE 赛道，以及支持 MCP 工具与计量算力的 agent 研究竞技场（Arena v2）。面向做架构研究的科研人员与 agent 开发者。运行环境要求 Linux、NVIDIA GPU 与 uv，数据集约 600 GB。
+在同一预算下训练与评估多种语言模型架构（recurrent depth、稀疏与线性注意力、残差变体、混合结构），所有模型共享同一数据（49.152B tokens）、优化器与评测点，训练算力按 ±1% 对齐并被审计记录。提供 observatory（学习曲线、排行榜、模型图谱）、模型 zoo（Hugging Face 权重）与 Arena v2：任何 LLM 可作为 agent 提交经 MCP 工具与计费算力的架构研究任务。支持单机 8 卡与多节点、Slurm 提交训练。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 统一协议的 compute-matched 基准：训练 FLOPs 偏差 ±1% 并全程审计
-- 多架构家族插件式接入：GQA、NSA、MoBA、GDN、KDA、Ouro、AttnRes 等
-- Agent-native Arena：任意 LLM 可在相同协议下提交自主发现的架构
-- 观测站提供学习曲线、排行榜、模型图集与训练回放
+- compute-matched 协议：所有模型同数据、同算力预算（±1%）并全程审计
+- 模型 zoo 覆盖 Residual/Looped/Sparse/Linear/Hybrid 等架构家族
+- Arena v2 支持任意 LLM 以 agent 身份端到端开展架构研究（MCP 工具、计量算力）
+- observatory 提供学习曲线、排行榜与 22 个 CORE 任务评测
 
 ## 适用场景
 
-- 在固定算力预算下对比不同注意力/深度架构的语言模型表现
-- 让 AI agent 在统一规则下自主研究并提交新架构
-- 查阅已审计的 46 次运行结果与 Hugging Face 模型权重
+- 在公平算力预算下对比不同注意力与残差架构的语言模型
+- 让 LLM agent 在统一协议下自动研究新 Transformer 架构
+- 下载已评测模型的权重并查看训练曲线与排行榜
 
 ## 场景标签
 
@@ -38,22 +38,21 @@
 ## 证据(README 行号)
 
 > L3:  The comprehensive, cutting-edge open-source framework, benchmark and auto-research platform for next-generation Tra
-> L22: **When the training budget is fixed, how should a language model spend its computation?** NextTransformer trains
-> L44: Agent-native research: hand the arena task to your agent; the full version, Arena v2, has been live since November 
-> L63: **1. Install** (Linux, NVIDIA GPUs, uv):
+> L25: result is an audited, file-backed record, and AI agents can research new architectures under the very same rules.
+> L45: Agent-native research: hand the arena task to your agent; the full version, Arena v2, has been live since November 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Interactive-Active-AI/NextTransformer 星数(近 18 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 546
-    line [16, 87, 393, 402, 404, 408, 411, 412, 421, 457, 476, 481, 483, 487, 489, 492, 493, 498]
+    title "Interactive-Active-AI/NextTransformer 星数(近 19 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 552
+    line [16, 87, 393, 402, 404, 408, 411, 412, 421, 457, 476, 481, 483, 487, 489, 492, 493, 498, 504]
 ```
 
-2026-11-01 16 → 2026-11-26 498（+482）
+2026-11-01 16 → 2026-11-27 504（+488）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a52b98625c45` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1b0b36b9da95` · [字段定义](../../DATASET.md)*

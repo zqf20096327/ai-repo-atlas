@@ -1,6 +1,6 @@
 # openbotx/openbotx
 
-⭐ 102 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/openbotx/openbotx) · [官网](https://openbotx.ai) · 个人维护
+⭐ 103 · Python · MIT · 推送 2026-03-03 · [GitHub](https://github.com/openbotx/openbotx) · [官网](https://openbotx.ai) · 个人维护
 
 **浏览器内编排 AI agent 的开源平台，一条命令启动**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openbotx/openbotx 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 94 --> 103
-    line [95, 101, 102, 102]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 94 --> 104
+    line [95, 101, 102, 103]
 ```
 
-2026-10-24 95 → 2026-11-26 102（+7）
+2026-10-25 95 → 2026-11-27 103（+8）
 
 
 ---

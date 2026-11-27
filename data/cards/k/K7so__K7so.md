@@ -1,6 +1,6 @@
 # K7so/K7so
 
-⭐ 6 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/K7so/K7so) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/K7so/K7so) · 个人维护 · 中文 README
 
 **给安全测试者的 Agent 自动化渗透测试平台**
 
@@ -40,6 +40,18 @@
 > L5: 给它一个域名，它自己抓页面、读前端脚本、理接口，按你勾选的能力逐项验证，最后交出带请求包和响应包的漏洞清单。整个过程用对话完成，不选模块、不配策略。
 > L25: - **智能工作**　一句「把 example.com 测一遍」就开始。模型自己决定发包顺序，能跑命令、跑脚本、发原始 HTTP 请求，每步留一条进展。
 > L94: 15 个连接器，Claude 与 Gemini 走原生协议，其余 OpenAI 兼容。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "K7so/K7so 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-26 6 → 2026-11-27 6（+0）
 
 
 ---

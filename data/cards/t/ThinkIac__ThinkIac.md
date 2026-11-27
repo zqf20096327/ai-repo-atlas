@@ -1,6 +1,6 @@
 # ThinkIac/ThinkIac
 
-⭐ 20 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/ThinkIac/ThinkIac) · 个人维护
+⭐ 20 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/ThinkIac/ThinkIac) · 个人维护
 
 **面向开发者的可组合 agent 运行时基础设施（IaC）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThinkIac/ThinkIac 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-26"]
+    title "ThinkIac/ThinkIac 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 6 --> 21
-    line [7, 13, 17, 19, 20]
+    line [7, 13, 17, 19, 20, 20]
 ```
 
-2026-11-13 7 → 2026-11-26 20（+13）
+2026-11-13 7 → 2026-11-27 20（+13）
 
 
 ---

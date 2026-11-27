@@ -1,6 +1,6 @@
 # Vecshield/Markwright
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Vecshield/Markwright) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Vecshield/Markwright) · 个人维护
 
 **LLM 文本水印的运营控制面：注册、密钥托管与校准验证**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Vecshield/Markwright 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 3 --> 10
-    line [4, 9, 9]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 3 --> 11
+    line [4, 9, 10]
 ```
 
-2026-11-16 4 → 2026-11-26 9（+5）
+2026-11-16 4 → 2026-11-27 10（+6）
 
 
 ---

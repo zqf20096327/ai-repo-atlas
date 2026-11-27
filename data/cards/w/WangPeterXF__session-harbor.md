@@ -1,6 +1,6 @@
 # WangPeterXF/session-harbor
 
-⭐ 86 · JavaScript · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/WangPeterXF/session-harbor) · [官网](https://wangpeterxf.github.io/session-harbor/) · 个人维护 · 中文 README
+⭐ 85 · JavaScript · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/WangPeterXF/session-harbor) · [官网](https://wangpeterxf.github.io/session-harbor/) · 个人维护 · 中文 README
 
 **本地优先的 Codex 会话备份/清理/恢复/跨设备上下文管理插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WangPeterXF/session-harbor 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 84 --> 87
+    line [86, 85]
 ```
 
-2026-10-24 86 → 2026-11-26 86（+0）
+2026-10-25 86 → 2026-11-27 85（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # duongthinh03/portfolio
 
-⭐ 83 · Python · 推送 2026-06-30 · [GitHub](https://github.com/duongthinh03/portfolio) · [官网](https://dqt-03.vercel.app/) · 个人维护
+⭐ 82 · Python · 推送 2026-06-30 · [GitHub](https://github.com/duongthinh03/portfolio) · [官网](https://dqt-03.vercel.app/) · 个人维护
 
 **个人作品集网站：展示全栈/.NET 开发者的项目与经历**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "duongthinh03/portfolio 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 82 --> 85
-    line [84, 83, 84, 83, 83]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 81 --> 85
+    line [84, 83, 84, 83, 82]
 ```
 
-2026-10-24 84 → 2026-11-26 83（-1）
+2026-10-25 84 → 2026-11-27 82（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mindspore-ai/mindquantum
 
-⭐ 105 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/mindspore-ai/mindquantum) · [官网](https://gitee.com/mindspore/mindquantum) · 组织维护 · 中文 README
+⭐ 105 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/mindspore-ai/mindquantum) · [官网](https://gitee.com/mindspore/mindquantum) · 组织维护 · 中文 README
 
 **面向科研与教学的量子机器学习框架：构建与训练量子神经网络**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mindspore-ai/mindquantum 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "mindspore-ai/mindquantum 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 101 --> 106
-    line [102, 103, 102, 104, 105]
+    line [102, 103, 102, 104, 105, 105]
 ```
 
-2026-10-24 102 → 2026-11-26 105（+3）
+2026-10-25 102 → 2026-11-27 105（+3）
 
 
 ---

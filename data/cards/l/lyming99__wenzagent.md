@@ -1,6 +1,6 @@
 # lyming99/wenzagent
 
-⭐ 64 · Dart · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/lyming99/wenzagent) · [官网](https://wenzflow.com) · 个人维护 · 中文 README
+⭐ 65 · Dart · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/lyming99/wenzagent) · [官网](https://wenzflow.com) · 个人维护 · 中文 README
 
 **纯 Dart 的 AI Agent 管理框架：生命周期·局域网·RPC**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lyming99/wenzagent 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 59 --> 65
-    line [60, 61, 60, 63, 64]
+    title "lyming99/wenzagent 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 59 --> 66
+    line [60, 61, 60, 63, 64, 65]
 ```
 
-2026-10-24 60 → 2026-11-26 64（+4）
+2026-10-25 60 → 2026-11-27 65（+5）
 
 
 ---

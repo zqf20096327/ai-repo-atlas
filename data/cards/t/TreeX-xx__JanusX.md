@@ -1,6 +1,6 @@
 # TreeX-xx/JanusX
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/TreeX-xx/JanusX) · [官网](https://treex-xx.github.io/JanusX/) · 个人维护 · 中文 README
+⭐ 8 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/TreeX-xx/JanusX) · [官网](https://treex-xx.github.io/JanusX/) · 个人维护 · 中文 README
 
 **AI 编程桌面工作区：集中管理项目、终端与 AI 助手会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TreeX-xx/JanusX 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-27"]
     y-axis "stars" 4 --> 9
     line [5, 6, 7, 8, 8]
 ```
 
-2026-11-02 5 → 2026-11-26 8（+3）
+2026-11-02 5 → 2026-11-27 8（+3）
 
 
 ---

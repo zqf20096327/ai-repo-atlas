@@ -1,6 +1,6 @@
 # davepartner/email-automation-AI-Agent-skill
 
-⭐ 5 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/davepartner/email-automation-AI-Agent-skill) · 个人维护
+⭐ 5 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/davepartner/email-automation-AI-Agent-skill) · 个人维护
 
 **让 AI agent 在应用管理后台搭建邮件自动化模块的技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "davepartner/email-automation-AI-Agent-skill 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-27"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-10 4 → 2026-11-26 5（+1）
+2026-11-10 4 → 2026-11-27 5（+1）
 
 
 ---

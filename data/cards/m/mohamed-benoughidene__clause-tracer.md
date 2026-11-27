@@ -1,6 +1,6 @@
 # mohamed-benoughidene/clause-tracer
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/mohamed-benoughidene/clause-tracer) · 个人维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/mohamed-benoughidene/clause-tracer) · 个人维护
 
 **本地优先的 AI 合同审查应用：自由职业者与小律所用自有 playbook 审查条款**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mohamed-benoughidene/clause-tracer 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-08 12 → 2026-11-26 12（+0）
+2026-11-08 12 → 2026-11-27 12（+0）
 
 
 ---

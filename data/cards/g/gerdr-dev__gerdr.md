@@ -1,6 +1,6 @@
 # gerdr-dev/gerdr
 
-⭐ 6 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gerdr-dev/gerdr) · [官网](https://gerdr.dev) · 个人维护
+⭐ 7 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gerdr-dev/gerdr) · [官网](https://gerdr.dev) · 个人维护
 
 **多编程 agent 统一窗口：分屏会话、审批卡片与手机远程**
 
@@ -40,6 +40,18 @@
 > L15: **One window for all your coding agents.**
 > L34: - **beyond Claude and Codex** — several accounts side by side, any ACP agent, and a built-in Gerdr Agent for GPT / 
 > L51: - Desktop app (macOS / Windows) or any browser; remote access via relay (pairing codes + passkeys); Android and iOS
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gerdr-dev/gerdr 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-26 6 → 2026-11-27 7（+1）
 
 
 ---

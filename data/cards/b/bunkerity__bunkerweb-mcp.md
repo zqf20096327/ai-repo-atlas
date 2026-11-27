@@ -1,6 +1,6 @@
 # bunkerity/bunkerweb-mcp
 
-⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bunkerity/bunkerweb-mcp) · [官网](https://www.bunkerweb.io) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bunkerity/bunkerweb-mcp) · [官网](https://www.bunkerweb.io) · 组织维护
 
 **向 MCP 客户端暴露 BunkerWeb API 的服务器**
 
@@ -46,12 +46,12 @@ BunkerWeb 官方 MCP 服务器：将 BunkerWeb 的 REST API 以 36 个工具、1
 ```mermaid
 xychart-beta
     title "bunkerity/bunkerweb-mcp 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-28", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-28 10 → 2026-11-26 10（+0）
+2026-10-28 10 → 2026-11-27 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AnsahMohammad/shots-studio
 
-⭐ 686 · Dart · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/AnsahMohammad/shots-studio) · [官网](https://ansahmohammad.github.io/shots-studio/) · 个人维护
+⭐ 687 · Dart · GPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/AnsahMohammad/shots-studio) · [官网](https://ansahmohammad.github.io/shots-studio/) · 个人维护
 
 **Android 截图管理应用：AI 搜索、自动打标签与整理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnsahMohammad/shots-studio 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-26"]
+    title "AnsahMohammad/shots-studio 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 681 --> 691
-    line [690, 688, 686, 685, 690, 685, 684, 682, 683, 684, 686]
+    line [690, 688, 686, 685, 690, 685, 684, 682, 683, 684, 686, 687]
 ```
 
-2026-10-24 690 → 2026-11-26 686（-4）
+2026-10-25 690 → 2026-11-27 687（-3）
 
 
 ---

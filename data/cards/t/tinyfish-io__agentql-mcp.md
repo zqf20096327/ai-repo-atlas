@@ -1,6 +1,6 @@
 # tinyfish-io/agentql-mcp
 
-⭐ 183 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tinyfish-io/agentql-mcp) · [官网](https://docs.agentql.com/integrations/mcp) · 组织维护
+⭐ 184 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tinyfish-io/agentql-mcp) · [官网](https://docs.agentql.com/integrations/mcp) · 组织维护
 
 **让 MCP 客户端调用 AgentQL 提取网页结构化数据的服务器**
 
@@ -45,12 +45,12 @@ AgentQL 官方的 Model Context Protocol 服务器，向支持 MCP 的客户端�
 ```mermaid
 xychart-beta
     title "tinyfish-io/agentql-mcp 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-27"]
     y-axis "stars" 180 --> 185
-    line [181, 183, 184, 183, 183]
+    line [181, 183, 184, 183, 184]
 ```
 
-2026-10-24 181 → 2026-11-26 183（+2）
+2026-10-25 181 → 2026-11-27 184（+3）
 
 
 ---

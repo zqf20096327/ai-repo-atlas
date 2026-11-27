@@ -1,6 +1,6 @@
 # AI-Hypercomputer/JetStream
 
-⭐ 473 · Python · Apache-2.0 · 推送 2026-01-05 · [GitHub](https://github.com/AI-Hypercomputer/JetStream) · 组织维护
+⭐ 474 · Python · Apache-2.0 · 推送 2026-01-05 · [GitHub](https://github.com/AI-Hypercomputer/JetStream) · 组织维护
 
 **XLA 设备（TPU）上吞吐与内存优化的 LLM 推理引擎**
 
@@ -44,12 +44,12 @@ Google 开源的 LLM 推理引擎，面向 XLA 设备（首发 TPU，GPU 在规�
 ```mermaid
 xychart-beta
     title "AI-Hypercomputer/JetStream 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-27"]
     y-axis "stars" 469 --> 475
-    line [470, 472, 470, 473, 474, 473, 473]
+    line [470, 472, 470, 473, 474, 473, 474]
 ```
 
-2026-10-24 470 → 2026-11-26 473（+3）
+2026-10-25 470 → 2026-11-27 474（+4）
 
 
 ---

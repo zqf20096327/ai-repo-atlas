@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "noahgift/data-engineering-and-dataops 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-11-25 72 → 2026-11-26 72（+0）
+2026-11-25 72 → 2026-11-27 72（+0）
 
 
 ---

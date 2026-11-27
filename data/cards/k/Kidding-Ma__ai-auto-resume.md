@@ -1,6 +1,6 @@
 # Kidding-Ma/ai-auto-resume
 
-⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Kidding-Ma/ai-auto-resume) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Kidding-Ma/ai-auto-resume) · 个人维护 · 中文 README
 
 **面向求职者，用 AI 一句话生成 LaTeX 简历 PDF**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kidding-Ma/ai-auto-resume 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-27"]
     y-axis "stars" 14 --> 25
     line [15, 22, 23, 24, 24]
 ```
 
-2026-11-02 15 → 2026-11-26 24（+9）
+2026-11-02 15 → 2026-11-27 24（+9）
 
 
 ---

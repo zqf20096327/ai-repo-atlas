@@ -41,6 +41,18 @@
 > L24: - **RMBG-3.0** is the newest model and the first one built on a generative foundation (Fibo 2.0). It gives the best
 > L116: - **Model type:** Background Removal
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Bria-AI/RMBG-3.0 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 353 --> 355
+    line [354, 354]
+```
+
+2026-11-26 354 → 2026-11-27 354（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8610d0a9fe68` · [字段定义](../../DATASET.md)*

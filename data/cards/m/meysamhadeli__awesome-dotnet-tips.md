@@ -1,6 +1,6 @@
 # meysamhadeli/awesome-dotnet-tips
 
-⭐ 1,308 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/meysamhadeli/awesome-dotnet-tips) · 个人维护
+⭐ 1,308 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/meysamhadeli/awesome-dotnet-tips) · 个人维护
 
 **.NET/架构/云原生/数据与 AI 资源的策展清单**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "meysamhadeli/awesome-dotnet-tips 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-27"]
     y-axis "stars" 1306 --> 1311
     line [1307, 1308, 1309, 1307, 1310, 1309, 1308, 1308]
 ```
 
-2026-10-24 1,307 → 2026-11-26 1,308（+1）
+2026-10-25 1,307 → 2026-11-27 1,308（+1）
 
 
 ---

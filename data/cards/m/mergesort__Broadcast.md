@@ -1,6 +1,6 @@
 # mergesort/Broadcast
 
-⭐ 50 · Swift · MIT · 推送 2026-10-17 · [GitHub](https://github.com/mergesort/Broadcast) · [官网](https://build.ms/broadcast/docs) · 个人维护
+⭐ 51 · Swift · MIT · 推送 2026-10-17 · [GitHub](https://github.com/mergesort/Broadcast) · [官网](https://build.ms/broadcast/docs) · 个人维护
 
 **面向 Swift 应用与编码代理的结构化日志库**
 
@@ -46,12 +46,12 @@ Swift 结构化日志库，提供 Log 类型与可组合的日志目的地（Con
 ```mermaid
 xychart-beta
     title "mergesort/Broadcast 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-24 50 → 2026-11-26 50（+0）
+2026-10-25 50 → 2026-11-27 51（+1）
 
 
 ---

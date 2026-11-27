@@ -1,6 +1,6 @@
 # SelinLee/ai-moe-atlas
 
-⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/SelinLee/ai-moe-atlas) · [官网](https://selinlee.github.io/ai-moe-atlas/) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/SelinLee/ai-moe-atlas) · [官网](https://selinlee.github.io/ai-moe-atlas/) · 个人维护 · 中文 README
 
 **AI 拟人角色图鉴与素材库：收录出处与二次创作资产**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SelinLee/ai-moe-atlas 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-23", "2026-11-26"]
+    title "SelinLee/ai-moe-atlas 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 7 --> 12
-    line [8, 10, 11]
+    line [8, 10, 11, 11]
 ```
 
-2026-11-08 8 → 2026-11-26 11（+3）
+2026-11-08 8 → 2026-11-27 11（+3）
 
 
 ---

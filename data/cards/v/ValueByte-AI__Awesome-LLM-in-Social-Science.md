@@ -1,6 +1,6 @@
 # ValueByte-AI/Awesome-LLM-in-Social-Science
 
-⭐ 652 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) · 组织维护 · 中文 README
+⭐ 653 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) · 组织维护 · 中文 README
 
 **为社科研究者整理 LLM 相关社科论文的清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ValueByte-AI/Awesome-LLM-in-Social-Science 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-27"]
     y-axis "stars" 650 --> 654
-    line [652, 653, 652, 653, 652, 651, 652, 652]
+    line [652, 653, 652, 653, 652, 651, 652, 653]
 ```
 
-2026-10-24 652 → 2026-11-26 652（+0）
+2026-10-25 652 → 2026-11-27 653（+1）
 
 
 ---

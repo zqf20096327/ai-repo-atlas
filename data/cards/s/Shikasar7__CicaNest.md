@@ -1,6 +1,6 @@
 # Shikasar7/CicaNest
 
-⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Shikasar7/CicaNest) · 个人维护 · 中文 README
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Shikasar7/CicaNest) · 个人维护 · 中文 README
 
 **自托管的 AI 伙伴：桌宠、小窝与多平台群聊 bot**
 
@@ -40,6 +40,18 @@
 > L1: CicaNest：给你的 AI 伙伴一个窝。陪你聊天，替你做事，也能去群里说话
 > L18: 不用任何平台账号就能建。名字、人设、头像都由你写，也能从别处写好的设定和回忆导入；想先试试，就请一位示例伙伴过来。可以发表情包、图片和语音，也可以把几个伙伴拉进同一个群。
 > L115: 模型支持 OpenAI 兼容接口（Chat Completions、Responses）、Anthropic，以及 ChatGPT 的 Codex 订阅。每个 bot 可以再设一个备用模型。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Shikasar7/CicaNest 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 12
+    line [4, 11]
+```
+
+2026-11-26 4 → 2026-11-27 11（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # ken-fs/awesome-ai-micro-drama
 
-⭐ 17 · 推送 2026-10-04 · [GitHub](https://github.com/ken-fs/awesome-ai-micro-drama) · [官网](https://openmicrodrama.com) · 个人维护 · 中文 README
+⭐ 18 · 推送 2026-10-04 · [GitHub](https://github.com/ken-fs/awesome-ai-micro-drama) · [官网](https://openmicrodrama.com) · 个人维护 · 中文 README
 
 **AI 竖屏短剧制作的开源工具、agent 技能与提示词策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ken-fs/awesome-ai-micro-drama 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 4 --> 18
-    line [5, 6, 5, 12, 15, 16, 17, 17]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 4 --> 19
+    line [5, 6, 5, 12, 15, 16, 17, 18]
 ```
 
-2026-10-24 5 → 2026-11-26 17（+12）
+2026-10-25 5 → 2026-11-27 18（+13）
 
 
 ---

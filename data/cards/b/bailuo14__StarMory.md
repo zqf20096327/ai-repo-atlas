@@ -42,6 +42,18 @@
 > L42: 断字回复（像真人一样一条一条发消息）——这是为"陪伴型/角色扮演型"用户做的记忆系统，
 > L117: 程序内置的 llama-server 是标准 OpenAI 兼容服务，**可以直接给 SillyTavern（酒馆）之类的前端用**：
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bailuo14/StarMory 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-26 11 → 2026-11-27 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `cf927d39f430` · [字段定义](../../DATASET.md)*

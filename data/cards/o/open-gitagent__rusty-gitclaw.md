@@ -45,12 +45,12 @@ GitClaw 的 Rust 移植版，采用 agent-as-a-repo 设计：agent 的模型配�
 ```mermaid
 xychart-beta
     title "open-gitagent/rusty-gitclaw 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

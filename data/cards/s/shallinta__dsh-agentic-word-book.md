@@ -1,6 +1,6 @@
 # shallinta/dsh-agentic-word-book
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/shallinta/dsh-agentic-word-book) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/shallinta/dsh-agentic-word-book) · 个人维护 · 中文 README
 
 **英语学习者的本地单词本插件，AI 一句话生成词卡**
 
@@ -40,6 +40,18 @@ DSH 侧栏插件形式的单词本：每词一页展示插图、音标、4 档�
 > L11: 一个词一页：插图、音标、发音、常用词组、例句都在上面，还有挖字母拼写练习和单词辨析选择题。切走再切回来，进度还在。
 > L27: 点「+单词」输入想加的内容，剩下的交给 AI：词条、插图、五条词组、例句和发音一次做完。
 > L35: 词条、插图、发音都是本地文件，住在一个目录里。插件包只带功能代码，不带词库。换电脑时把目录搬走即可。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shallinta/dsh-agentic-word-book 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

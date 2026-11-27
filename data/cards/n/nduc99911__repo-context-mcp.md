@@ -1,6 +1,6 @@
 # nduc99911/repo-context-mcp
 
-⭐ 104 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/nduc99911/repo-context-mcp) · 个人维护
+⭐ 103 · TypeScript · MIT · 推送 2026-08-12 · [GitHub](https://github.com/nduc99911/repo-context-mcp) · 个人维护
 
 **帮 AI 编程 agent 理解仓库的 MCP 上下文服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nduc99911/repo-context-mcp 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 103 --> 106
-    line [105, 104, 105, 104, 104]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 102 --> 106
+    line [105, 104, 105, 104, 103]
 ```
 
-2026-10-24 105 → 2026-11-26 104（-1）
+2026-10-25 105 → 2026-11-27 103（-2）
 
 
 ---

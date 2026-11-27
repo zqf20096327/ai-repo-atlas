@@ -1,10 +1,10 @@
 # biagiomaf/smart-comfyui-gallery
 
-⭐ 408 · HTML · MIT · 推送 2026-10-18 · [GitHub](https://github.com/biagiomaf/smart-comfyui-gallery) · [官网](https://smartgallerydam.com) · 个人维护
+⭐ 409 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/biagiomaf/smart-comfyui-gallery) · [官网](https://smartgallerydam.com) · 个人维护
 
-**面向 ComfyUI 用户的本地数字资产管理器：浏览、检索、管理与生成 AI 产出**
+**面向 ComfyUI 创作者的自托管数字资产管理与画廊系统**
 
-基于浏览器的本地优先（local-first）数字资产管理系统（DAM），面向使用 ComfyUI 的 AI 创作者与制作团队。功能包括：索引并浏览海量生成图片/视频/音频，按 prompt、模型、LoRA、日期、评论检索；Remix Engine 允许不打开 ComfyUI 界面直接提取工作流并提交生成队列；Queue Deck 实时监控生成进度与 GPU/VRAM 负载；提供客户端分享门户、状态标签、虚拟合集与角色协作。OmniQuery 支持用自然语言让 LLM 生成 SQL 查询图库。以独立进程运行，不依赖 ComfyUI 存活，支持 Windows/macOS/Linux/Docker。
+本地优先、浏览器访问的数字资产管理系统，针对 ComfyUI 及 AI 生成库：自动索引生成文件并关联工作流、提示词、模型与 LoRA 元数据，支持按提示词/模型/日期过滤、SQL 查询与自然语言检索（AI 生成 SQL 的 OmniQuery）。提供不打开 ComfyUI 画布的 Remix 生成界面、队列监控（GPU/VRAM 负载）、文件管理器、状态标签、评分、虚拟合集与面向客户的分享门户，支持视频音频与 FFmpeg 转码。独立进程运行，ComfyUI 卸载后仍可管理库。
 
 ## 筛选速览
 
@@ -20,41 +20,40 @@
 
 ## 能力要点
 
-- 索引 ComfyUI 生成资产并按 prompt/模型/LoRA/参数检索
-- Remix Engine 不打开 ComfyUI 界面即可生成与排队
-- OmniQuery 自然语言查询图库（LLM 生成 SQL）
-- LoRA Synergy 离线读取 safetensors 头校验 checkpoint 兼容性
-- 客户端分享门户与状态标签、虚拟合集
+- OmniQuery：用自然语言描述条件，AI 生成 SQL 检索媒体库
+- Remix Engine 无需打开 ComfyUI 即可生成与改工作流 JSON
+- Queue Deck 实时监控生成队列与 GPU/VRAM 负载
+- 支持 A1111、Forge、Civitai 图片元数据混合检索
 
 ## 适用场景
 
-- 管理数万条 ComfyUI 生成结果并快速定位所需素材
-- 在手机上浏览、筛选并触发生成任务
-- 向客户展示精选合集并收集评分与评论，不暴露工作流
-- 在未安装 ComfyUI 的机器上通过网络链接输出文件夹管理图库
+- 管理上万张 ComfyUI 生成图并按提示词/模型查找
+- 在手机上浏览、筛选并触发图像生成
+- 向客户展示合集审批作品而不暴露提示词与工作流
+- 在 NAS 或独立机器上自托管画廊
 
 ## 场景标签
 
-`图像生成` `数据分析` · 领域:效率与自动化
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L29: * 🎨 **Remix Engine & Nodepad**: Generate, edit node JSONs, and create variations through a clean native interface, 
-> L51: |🧠 **OmniQuery**|Search your gallery in plain English, any criteria. Let AI write complex SQL queries to find hyper
 > L68: SmartGallery DAM runs as a fully independent process, outside ComfyUI's environment. It keeps indexing and organizi
+> L97: **SmartGallery DAM** is the evolution of *SmartGallery for ComfyUI*. What started as a fast local gallery for brows
+> L51: |🧠 **OmniQuery**|Search your gallery in plain English, any criteria. Let AI write complex SQL queries to find hyper
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "biagiomaf/smart-comfyui-gallery 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 394 --> 409
-    line [395, 396, 399, 396, 402, 404, 405, 406, 407, 408, 408]
+    title "biagiomaf/smart-comfyui-gallery 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 395 --> 410
+    line [396, 399, 396, 402, 404, 405, 406, 407, 408, 409]
 ```
 
-2026-10-24 395 → 2026-11-26 408（+13）
+2026-10-25 396 → 2026-11-27 409（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4ee6d13b8a07` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0fbf9b5caf7f` · [字段定义](../../DATASET.md)*

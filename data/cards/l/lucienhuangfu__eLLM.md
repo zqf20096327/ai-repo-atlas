@@ -1,6 +1,6 @@
 # lucienhuangfu/eLLM
 
-⭐ 602 · Rust · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/lucienhuangfu/eLLM) · 个人维护 · 中文 README
+⭐ 602 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/lucienhuangfu/eLLM) · 个人维护 · 中文 README
 
 **让 CPU 服务器跑长程 Agent 推理的 LLM 框架**
 
@@ -41,6 +41,18 @@
 > L2: eLLM is an LLM inference framework for CPU servers. It adopts a "trade storage for computation" strategy, leveraging
 > L20: **eLLM**: an LLM inference framework for CPU servers
 > L24: - vLLM API compatible, plugs directly into the existing ecosystem
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lucienhuangfu/eLLM 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 601 --> 603
+    line [602, 602]
+```
+
+2026-11-26 602 → 2026-11-27 602（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # maxLWS/agy-memory
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/maxLWS/agy-memory) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/maxLWS/agy-memory) · 个人维护 · 中文 README
 
 **Antigravity 的本地零依赖跨会话记忆 MCP 插件**
 
@@ -40,6 +40,18 @@
 > L10: **agy-memory** is a local, zero-dependency MCP plugin for Google Antigravity (`agy` CLI, Desktop, and IDE). It lets
 > L46: Or paste into any Antigravity session:
 > L32: Requires **Node.js >= 20** (no `npm install` needed; pre-built ESM bundles live in `dist/`).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "maxLWS/agy-memory 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # alesha-pro/llm.asm
 
-⭐ 159 · Assembly · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alesha-pro/llm.asm) · 个人维护
+⭐ 1,455 · Assembly · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alesha-pro/llm.asm) · 个人维护
 
 **纯 x86-64 汇编实现的三个 LLM 项目：推理、裸机 OS、训练器**
 
@@ -40,6 +40,18 @@
 > L3: **Three complete LLM projects written in 100% pure x86-64 NASM assembly.**
 > L12: |**01-qwen3-inference/**|`build/asm-llm`|**14,712 B** *(14,008 B `FAST_Q8=0`)*|**0**|Static Linux ELF running `Qwen
 > L106: - **CPU:** x86-64 with **AVX2 + FMA + F16C** (Intel Haswell / AMD Excavator or newer).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alesha-pro/llm.asm 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 30 --> 1584
+    line [159, 1455]
+```
+
+2026-11-26 159 → 2026-11-27 1,455（+1,296）
 
 
 ---

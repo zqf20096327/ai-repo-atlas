@@ -1,6 +1,6 @@
 # gts360/django-mcp-server
 
-⭐ 390 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/gts360/django-mcp-server) · 组织维护
+⭐ 391 · Python · MIT · 推送 2026-03-10 · [GitHub](https://github.com/gts360/django-mcp-server) · 组织维护
 
 **Django 扩展：把 Django 应用暴露为 MCP 工具供 AI Agent 调用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gts360/django-mcp-server 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 381 --> 391
-    line [382, 383, 386, 387, 388, 390, 390]
+    title "gts360/django-mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 382 --> 392
+    line [383, 386, 387, 388, 390, 391]
 ```
 
-2026-10-24 382 → 2026-11-26 390（+8）
+2026-10-25 383 → 2026-11-27 391（+8）
 
 
 ---

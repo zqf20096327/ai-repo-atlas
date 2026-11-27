@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "woctezuma/deep-learning-resources 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    title "woctezuma/deep-learning-resources 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 44 --> 47
-    line [45, 46]
+    line [45, 46, 46]
 ```
 
-2026-11-08 45 → 2026-11-26 46（+1）
+2026-11-08 45 → 2026-11-27 46（+1）
 
 
 ---

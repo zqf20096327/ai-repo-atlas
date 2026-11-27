@@ -1,6 +1,6 @@
 # pdewost/coding-constitution
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/pdewost/coding-constitution) · 个人维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/pdewost/coding-constitution) · 个人维护
 
 **治理 AI 编程 agent 的宪法与 hook 强制层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pdewost/coding-constitution 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
     y-axis "stars" 12 --> 19
     line [13, 14, 16, 17, 18, 18]
 ```
 
-2026-10-24 13 → 2026-11-26 18（+5）
+2026-10-25 13 → 2026-11-27 18（+5）
 
 
 ---

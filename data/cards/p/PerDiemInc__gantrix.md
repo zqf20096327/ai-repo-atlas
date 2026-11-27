@@ -1,6 +1,6 @@
 # PerDiemInc/gantrix
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/PerDiemInc/gantrix) · [官网](https://perdieminc.github.io/gantrix/) · 组织维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PerDiemInc/gantrix) · [官网](https://perdieminc.github.io/gantrix/) · 组织维护
 
 **本地优先的多智能体编排器：规划-并行执行-评审目标达成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PerDiemInc/gantrix 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-26 3（+0）
+2026-11-10 3 → 2026-11-27 3（+0）
 
 
 ---

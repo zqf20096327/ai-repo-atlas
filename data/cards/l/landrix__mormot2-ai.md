@@ -42,6 +42,18 @@
 > L4: compiler range as mORMot2. It covers the Model Context Protocol, LLM clients, embeddings,
 > L38: |**LLM clients**|`mormot.ai.llm[.openai/.anthropic/.native/.sse/.structured]`|OpenAI wire as lingua franca (OpenAI,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "landrix/mormot2-ai 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-26 11 → 2026-11-27 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f0e0836124d0` · [字段定义](../../DATASET.md)*

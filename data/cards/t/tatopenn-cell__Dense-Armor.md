@@ -1,6 +1,6 @@
 # tatopenn-cell/Dense-Armor
 
-⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/tatopenn-cell/Dense-Armor) · [官网](https://tatopenn-cell.github.io/Dense-Armor/) · 个人维护
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/tatopenn-cell/Dense-Armor) · [官网](https://tatopenn-cell.github.io/Dense-Armor/) · 个人维护
 
 **给流式数据开发者的在线学习/信号防护原语库**
 
@@ -45,13 +45,13 @@ Python 工具库，提供三层原语：在线学习（逐样本 learn_one/score
 
 ```mermaid
 xychart-beta
-    title "tatopenn-cell/Dense-Armor 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26"]
+    title "tatopenn-cell/Dense-Armor 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13, 12]
+    line [11, 12, 13, 12, 12]
 ```
 
-2026-11-08 11 → 2026-11-26 12（+1）
+2026-11-08 11 → 2026-11-27 12（+1）
 
 
 ---

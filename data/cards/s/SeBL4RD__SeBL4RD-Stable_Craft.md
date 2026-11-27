@@ -1,6 +1,6 @@
 # SeBL4RD/SeBL4RD-Stable_Craft
 
-⭐ 8 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SeBL4RD/SeBL4RD-Stable_Craft) · 个人维护
+⭐ 9 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SeBL4RD/SeBL4RD-Stable_Craft) · 个人维护
 
 **PhotoCraft 套索编辑伴侣：经 ComfyUI 本地生成图像到新图层**
 
@@ -46,12 +46,12 @@ StableCraft 是 PhotoCraft 的伴侣应用：在 PhotoCraft 中用套索选中�
 ```mermaid
 xychart-beta
     title "SeBL4RD/SeBL4RD-Stable_Craft 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 2 --> 9
-    line [3, 4, 5, 6, 8, 8]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 2 --> 10
+    line [3, 4, 5, 6, 8, 9]
 ```
 
-2026-10-26 3 → 2026-11-26 8（+5）
+2026-10-26 3 → 2026-11-27 9（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # WeWorker/WeWorker
 
-⭐ 330 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/WeWorker/WeWorker) · [官网](https://www.weworker.cc) · 组织维护 · 中文 README
+⭐ 361 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/WeWorker/WeWorker) · [官网](https://www.weworker.cc) · 组织维护 · 中文 README
 
 **开源桌面 AI agent：用自然语言在网站执行真实操作**
 
@@ -45,13 +45,13 @@ Electron 桌面应用，将自然语言任务经 AI agent 选择 Adapter 并通�
 
 ```mermaid
 xychart-beta
-    title "WeWorker/WeWorker 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-26"]
-    y-axis "stars" 141 --> 347
-    line [158, 199, 200, 258, 266, 330]
+    title "WeWorker/WeWorker 星数(近 7 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 138 --> 381
+    line [158, 199, 200, 258, 266, 330, 361]
 ```
 
-2026-11-02 158 → 2026-11-26 330（+172）
+2026-11-02 158 → 2026-11-27 361（+203）
 
 
 ---

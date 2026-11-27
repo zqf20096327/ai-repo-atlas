@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "2843453580-star/mcd-performance-review 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 6 --> 10
-    line [7, 9, 9]
+    title "2843453580-star/mcd-performance-review 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
 ```
 
-2026-10-24 7 → 2026-11-26 9（+2）
+2026-10-25 9 → 2026-11-27 9（+0）
 
 
 ---

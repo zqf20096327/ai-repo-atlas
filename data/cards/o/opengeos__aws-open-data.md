@@ -1,6 +1,6 @@
 # opengeos/aws-open-data
 
-⭐ 71 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/opengeos/aws-open-data) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/opengeos/aws-open-data) · 个人维护
 
 **AWS 开放数据集清单：以 TSV/JSON 形式每日更新的数据集目录**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "opengeos/aws-open-data 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "opengeos/aws-open-data 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 68 --> 72
-    line [69, 71]
+    line [69, 71, 71]
 ```
 
-2026-10-24 69 → 2026-11-26 71（+2）
+2026-10-25 69 → 2026-11-27 71（+2）
 
 
 ---

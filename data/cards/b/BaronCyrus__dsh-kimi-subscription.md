@@ -1,6 +1,6 @@
 # BaronCyrus/dsh-kimi-subscription
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/BaronCyrus/dsh-kimi-subscription) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/BaronCyrus/dsh-kimi-subscription) · 个人维护 · 中文 README
 
 **DSH 插件：用 Kimi Code 订阅接入 DeepSeek Harness 并查看额度**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）的社区插件，通过订阅 API Key 或设备登录�
 ```mermaid
 xychart-beta
     title "BaronCyrus/dsh-kimi-subscription 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-11", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-11 10 → 2026-11-26 11（+1）
+2026-11-11 10 → 2026-11-27 12（+2）
 
 
 ---

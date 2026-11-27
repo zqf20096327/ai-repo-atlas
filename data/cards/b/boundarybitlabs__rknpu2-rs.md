@@ -1,6 +1,6 @@
 # boundarybitlabs/rknpu2-rs
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/boundarybitlabs/rknpu2-rs) · 组织维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/boundarybitlabs/rknpu2-rs) · 组织维护
 
 **Rockchip NPU 的 RKNN 运行时 Rust 绑定库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "boundarybitlabs/rknpu2-rs 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

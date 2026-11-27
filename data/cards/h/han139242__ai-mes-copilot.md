@@ -1,6 +1,6 @@
 # han139242/ai-mes-copilot
 
-⭐ 4 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/han139242/ai-mes-copilot) · 个人维护 · 中文 README
+⭐ 4 · Java · MIT · 推送 2026-11-26 · [GitHub](https://github.com/han139242/ai-mes-copilot) · 个人维护 · 中文 README
 
 **台灯制造 MES 的自然语言查询与办理 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "han139242/ai-mes-copilot 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-26 4（+1）
+2026-11-08 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # boranb/ennyn
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/boranb/ennyn) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/boranb/ennyn) · 个人维护
 
 **给 Claude Code 编码代理提供工作流程例行程序的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "boranb/ennyn 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "boranb/ennyn 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-25 3 → 2026-11-26 4（+1）
+2026-11-25 3 → 2026-11-27 4（+1）
 
 
 ---

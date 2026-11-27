@@ -1,6 +1,6 @@
 # galihru/MentalHealth
 
-⭐ 24 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/galihru/MentalHealth) · [官网](https://galihru.github.io/MentalHealth/) · 个人维护
+⭐ 24 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/galihru/MentalHealth) · [官网](https://galihru.github.io/MentalHealth/) · 个人维护
 
 **基于面部表情的情绪检测应用与 npm 包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "galihru/MentalHealth 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
     y-axis "stars" 21 --> 25
     line [22, 23, 22, 23, 24, 24]
 ```
 
-2026-10-24 22 → 2026-11-26 24（+2）
+2026-10-25 22 → 2026-11-27 24（+2）
 
 
 ---

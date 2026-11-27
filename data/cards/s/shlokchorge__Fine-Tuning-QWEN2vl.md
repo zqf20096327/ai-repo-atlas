@@ -1,6 +1,6 @@
 # shlokchorge/Fine-Tuning-QWEN2vl
 
-⭐ 47 · Jupyter Notebook · 推送 2026-06-25 · [GitHub](https://github.com/shlokchorge/Fine-Tuning-QWEN2vl) · [官网](https://huggingface.co/spaces/shlokchorge2929/visiontex) · 个人维护
+⭐ 48 · Jupyter Notebook · 推送 2026-06-25 · [GitHub](https://github.com/shlokchorge/Fine-Tuning-QWEN2vl) · [官网](https://huggingface.co/spaces/shlokchorge2929/visiontex) · 个人维护
 
 **微调 Qwen2-VL-7B 实现数学表达式图像转 LaTeX**
 
@@ -44,13 +44,13 @@ VisionTeX 是在 LaTeX OCR 数据集上用 Unsloth 与 LoRA 微调 Qwen2-VL-7B-I
 
 ```mermaid
 xychart-beta
-    title "shlokchorge/Fine-Tuning-QWEN2vl 星数(近 12 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 31 --> 48
-    line [33, 32, 34, 33, 37, 39, 40, 41, 43, 44, 45, 47]
+    title "shlokchorge/Fine-Tuning-QWEN2vl 星数(近 13 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 31 --> 49
+    line [33, 32, 34, 33, 37, 39, 40, 41, 43, 44, 45, 47, 48]
 ```
 
-2026-10-24 33 → 2026-11-26 47（+14）
+2026-10-25 33 → 2026-11-27 48（+15）
 
 
 ---

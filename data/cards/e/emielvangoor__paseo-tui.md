@@ -1,6 +1,6 @@
 # emielvangoor/paseo-tui
 
-⭐ 3 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/emielvangoor/paseo-tui) · 个人维护
+⭐ 4 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/emielvangoor/paseo-tui) · 个人维护
 
 **在终端运行并操控 Paseo 编码代理的键盘优先 TUI 客户端**
 
@@ -39,6 +39,18 @@
 
 > L13: Paseo runs AI coding agents (Claude Code, Codex, Copilot, OpenCode, Oh My Pi, and more) in isolated workspaces
 > L15: away. paseo-tui gives you the desktop app's model (**projects → workspaces → agent tabs**) as a snappy TUI.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "emielvangoor/paseo-tui 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

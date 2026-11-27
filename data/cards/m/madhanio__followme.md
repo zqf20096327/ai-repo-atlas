@@ -1,6 +1,6 @@
 # madhanio/followme
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/madhanio/followme) · [官网](https://followme-landing.vercel.app) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/madhanio/followme) · [官网](https://followme-landing.vercel.app) · 个人维护
 
 **自动发现并评估 GitHub 仓库的开发者社交增长工具**
 
@@ -47,12 +47,12 @@ FollowMe 是一个 GitHub 仓库自动发现与开发者社区互动工具：持
 ```mermaid
 xychart-beta
     title "madhanio/followme 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 20 --> 23
+    line [22, 21]
 ```
 
-2026-10-24 22 → 2026-11-26 22（+0）
+2026-10-25 22 → 2026-11-27 21（-1）
 
 
 ---

@@ -1,10 +1,10 @@
 # openonion/connectonion
 
-⭐ 1,567 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/openonion/connectonion) · [官网](https://docs.connectonion.com) · 组织维护
+⭐ 1,566 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/openonion/connectonion) · [官网](https://docs.connectonion.com) · 组织维护
 
-**给 AI agent 提供统一 CLI 的 harness：一条命令行接入邮件、浏览器与工具**
+**面向 AI agent 的命令行工具集：一条 co 命令接入邮件、浏览器与聊天工具**
 
-一个以 `co` 命令行为核心的 agent harness：将 Gmail、Outlook、Chrome、聊天应用、文件、issue 跟踪器等工具统一为带 `--help` 的命令，agent 按需发现并调用，无需 MCP 服务器或插件；co rem 子命令将邮件与编码会话上下文整理为本地链接 Markdown 页面供 agent 复用，支持把会话交接给他人 agent；亦提供 Python 框架用于构建自有 agent。凭 pip 或 install.sh 安装，co rem 的每日调度目前仅限 macOS。
+ConnectOnion 提供 CLI 工具 co，让用户和 AI agent 通过命令行访问 Gmail/Outlook、Chrome、文件、聊天应用与 issue 跟踪器等工具；agent 通过 --help 按需发现命令。附带 co rem 功能，将邮件与编码会话上下文整理为本机 Markdown 页面供后续任务复用。安装脚本使用 uv 隔离 Python 环境；每日调度目前要求 macOS；所选来源内容会发送给所配置的模型。另提供 Python 框架用于构建自有 agent。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 一条 `co` 命令行统一 Gmail、Outlook、浏览器、文件与聊天应用等工具，agent 经 `--help` 按需发现
-- co rem 将邮件与编码会话上下文整理为本地 Markdown 页面，支持跨任务复用
-- `co audit` 按 agent 阅读方式为 CLI 帮助页评分，并接入 CI
-- 提供 Python 框架供在同一 harness 上构建自有 agent
+- 单一 co 命令行统一访问邮件、日历、浏览器、聊天与 issue 工具
+- agent 经 --help 按需发现命令，工具 schema 不预占上下文
+- co rem 将邮件与编码会话整理为本机关联 Markdown 页面
+- co audit 依据 agent 阅读方式为 CLI 帮助页评分
 
 ## 适用场景
 
-- 让编码 agent（Codex/Claude Code）直接操作我的邮箱、日历和 Slack
-- 把散落在邮件与编码会话里的上下文串成本地笔记供 agent 复用
-- 夜间让 agent 起草待回复邮件并执行已批准的任务
+- 让 Claude Code/Codex 等编码 agent 直接操作我的收件箱和日历
+- 把邮件和编码会话的上下文沉淀成本地笔记供后续任务复用
+- 通过命令行管道与脚本组合自动化日常工作流
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` · 领域:Agent 开发
+`工作流自动化` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: **The agent CLI harness. CLI is all you need.**
-> L20:  CLI as your harness. No MCP servers, adapters or glue: a CLI
-> L279: ConnectOnion is also a Python framework for building your own agents on the
+> L277: ConnectOnion is also a Python framework for building your own agents on the
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "openonion/connectonion 星数(近 16 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-27"]
     y-axis "stars" 1495 --> 1573
-    line [1501, 1502, 1503, 1504, 1501, 1507, 1553, 1560, 1561, 1563, 1564, 1565, 1564, 1565, 1567, 1567]
+    line [1501, 1502, 1503, 1504, 1501, 1507, 1553, 1560, 1561, 1563, 1564, 1565, 1564, 1565, 1567, 1566]
 ```
 
-2026-10-24 1,501 → 2026-11-26 1,567（+66）
+2026-10-25 1,501 → 2026-11-27 1,566（+65）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `58af9fb1dced` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b93732fa61d1` · [字段定义](../../DATASET.md)*

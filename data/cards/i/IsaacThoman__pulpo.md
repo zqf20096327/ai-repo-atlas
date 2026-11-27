@@ -1,6 +1,6 @@
 # IsaacThoman/pulpo
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/IsaacThoman/pulpo) · [官网](https://pulpo.baby) · 个人维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/IsaacThoman/pulpo) · [官网](https://pulpo.baby) · 个人维护
 
 **自托管多端同步的 AI 聊天平台，覆盖 iOS/Android/Web**
 
@@ -40,6 +40,18 @@
 > L3: **Self-hosted chatbot for everyday use**
 > L20: Run open-weight models on your own GPUs, so conversations can stay on your network, or use the hosted APIs you alre
 > L22: Pulpo speaks the OpenAI Responses, OpenAI Chat Completions, Anthropic Messages, and Mistral APIs. That covers vLLM,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "IsaacThoman/pulpo 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-26 14 → 2026-11-27 14（+0）
 
 
 ---

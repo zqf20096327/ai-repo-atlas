@@ -1,6 +1,6 @@
 # StableCanvas/comfyui-client
 
-⭐ 151 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/StableCanvas/comfyui-client) · [官网](https://stablecanvas.github.io/comfyui-client/) · 个人维护
+⭐ 152 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/StableCanvas/comfyui-client) · [官网](https://stablecanvas.github.io/comfyui-client/) · 个人维护
 
 **ComfyUI 的 JS API 客户端，覆盖全部 REST/WebSocket 接口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "StableCanvas/comfyui-client 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 150 --> 153
-    line [152, 151, 151]
+    line [152, 151, 152]
 ```
 
-2026-10-24 152 → 2026-11-26 151（-1）
+2026-10-25 152 → 2026-11-27 152（+0）
 
 
 ---

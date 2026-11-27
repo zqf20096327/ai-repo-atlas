@@ -1,6 +1,6 @@
 # openamer/openamer
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/openamer/openamer) · [官网](https://openamer.com/) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/openamer/openamer) · [官网](https://openamer.com/) · 组织维护
 
 **自托管 AI agent：持久记忆、可扩展工具与后台桌面控制**
 
@@ -40,6 +40,18 @@
 > L5: **A self-hosted AI agent with persistent memory, extensible tools, and background desktop control.**
 > L7: OpenAmer runs through a terminal, a desktop app, a web interface, or a messaging
 > L51: A model endpoint is required. You can use a supported hosted provider or a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openamer/openamer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

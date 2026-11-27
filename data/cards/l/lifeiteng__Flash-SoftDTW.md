@@ -1,6 +1,6 @@
 # lifeiteng/Flash-SoftDTW
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lifeiteng/Flash-SoftDTW) · [官网](https://pypi.org/project/flash-softdtw-torch/) · 个人维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lifeiteng/Flash-SoftDTW) · [官网](https://pypi.org/project/flash-softdtw-torch/) · 个人维护 · 中文 README
 
 **PyTorch 的 soft-DTW 可微损失库：批量快速计算值与梯度**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lifeiteng/Flash-SoftDTW 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 6 --> 11
-    line [7, 9, 10]
+    title "lifeiteng/Flash-SoftDTW 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 12
+    line [7, 9, 10, 11]
 ```
 
-2026-11-23 7 → 2026-11-26 10（+3）
+2026-11-23 7 → 2026-11-27 11（+4）
 
 
 ---

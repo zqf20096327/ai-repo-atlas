@@ -44,12 +44,12 @@ DeepDream Maker 是包裹 Google Deep Dream 的 Web 应用（Flask + React），
 ```mermaid
 xychart-beta
     title "OverStruck/deep-dream-maker 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-24 55 → 2026-11-26 55（+0）
+2026-10-25 55 → 2026-11-27 55（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dotcoreai/dotcore
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dotcoreai/dotcore) · [官网](https://dotcore.ai) · 组织维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dotcoreai/dotcore) · [官网](https://dotcore.ai) · 组织维护
 
 **本地 AI 部署运行时：加载模型并提供统一端点**
 
@@ -40,6 +40,18 @@ Dotcore 在自有硬件上运行 AI 模型：加载模型并适配到本机硬�
 > L5: Dotcore runs AI on hardware you own. It loads models, fits them to your machines, and puts a single endpoint in fron
 > L7: - **Pick a model, get a running endpoint.** Dotcore starts it for you, on llama.cpp, vLLM, etc.
 > L9: - **One endpoint in front of everything.** Call every model through one OpenAI-compatible API. If a deployment is do
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dotcoreai/dotcore 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 12
+    line [7, 11]
+```
+
+2026-11-26 7 → 2026-11-27 11（+4）
 
 
 ---

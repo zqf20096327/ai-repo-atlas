@@ -1,6 +1,6 @@
 # lzehrung/codegraph
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lzehrung/codegraph) · [官网](https://github.com/lzehrung/codegraph#readme) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lzehrung/codegraph) · [官网](https://github.com/lzehrung/codegraph#readme) · 个人维护
 
 **为编码 agent 提供代码库符号与依赖地图的本地工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lzehrung/codegraph 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
+    title "lzehrung/codegraph 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-19 10 → 2026-11-26 11（+1）
+2026-11-19 10 → 2026-11-27 11（+1）
 
 
 ---

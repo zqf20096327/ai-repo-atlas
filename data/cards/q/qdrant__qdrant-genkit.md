@@ -44,12 +44,12 @@ Genkit 框架的 Qdrant 插件，提供 JS 与 Go 两种实现的 indexer 和 re
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-genkit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

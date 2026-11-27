@@ -1,6 +1,6 @@
 # jianger666/cursor-feedback-extension
 
-⭐ 31 · JavaScript · MIT · 推送 2026-07-15 · [GitHub](https://github.com/jianger666/cursor-feedback-extension) · 个人维护 · 中文 README
+⭐ 32 · JavaScript · MIT · 推送 2026-07-15 · [GitHub](https://github.com/jianger666/cursor-feedback-extension) · 个人维护 · 中文 README
 
 **Cursor 交互反馈 MCP 工具：单对话内多次人机交互并接飞书**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jianger666/cursor-feedback-extension 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    title "jianger666/cursor-feedback-extension 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 30 --> 33
-    line [32, 31, 31]
+    line [31, 32]
 ```
 
-2026-10-24 32 → 2026-11-26 31（-1）
+2026-10-25 31 → 2026-11-27 32（+1）
 
 
 ---

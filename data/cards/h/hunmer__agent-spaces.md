@@ -1,6 +1,6 @@
 # hunmer/agent-spaces
 
-⭐ 60 · TypeScript · 推送 2026-11-09 · [GitHub](https://github.com/hunmer/agent-spaces) · [官网](https://hunmer.github.io/agent-spaces/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **多 Agent 协作的可视化 DAG 工作流平台，编排 AI 任务自动化**
 

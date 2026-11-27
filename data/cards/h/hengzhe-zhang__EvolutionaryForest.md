@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hengzhe-zhang/EvolutionaryForest 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "hengzhe-zhang/EvolutionaryForest 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 167 --> 170
-    line [168, 169]
+    line [168, 169, 169]
 ```
 
-2026-10-24 168 → 2026-11-26 169（+1）
+2026-10-25 168 → 2026-11-27 169（+1）
 
 
 ---

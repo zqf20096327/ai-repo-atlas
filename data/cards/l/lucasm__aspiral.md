@@ -1,6 +1,6 @@
 # lucasm/aspiral
 
-⭐ 104 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/lucasm/aspiral) · [官网](https://aspiral.app) · 个人维护
+⭐ 104 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/lucasm/aspiral) · [官网](https://aspiral.app) · 个人维护
 
 **面向用户的多源聚合搜索门户，覆盖 Web 与 AI 内容**
 
@@ -39,6 +39,18 @@
 
 > L16: Aspiral is an open source search portal for Web content and AI, based on trusted sources.
 > L31: |**Protection**|View estimated level of Security, Carbon footprint and Privacy of selected search source|✅|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lucasm/aspiral 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 103 --> 105
+    line [104, 104]
+```
+
+2026-11-26 104 → 2026-11-27 104（+0）
 
 
 ---

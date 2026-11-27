@@ -1,6 +1,6 @@
 # modelship-ai/modelship
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/modelship-ai/modelship) · [官网](https://docs.model-ship.ai/) · 组织维护
+⭐ 55 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/modelship-ai/modelship) · [官网](https://docs.model-ship.ai/) · 组织维护
 
 **自托管 OpenAI 兼容推理网关：多模型共享 GPU，一个 /v1**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelship-ai/modelship 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-16", "2026-11-26"]
+    title "modelship-ai/modelship 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 53 --> 56
-    line [54, 55, 54, 55]
+    line [54, 55, 54, 55, 55]
 ```
 
-2026-10-24 54 → 2026-11-26 55（+1）
+2026-10-25 54 → 2026-11-27 55（+1）
 
 
 ---

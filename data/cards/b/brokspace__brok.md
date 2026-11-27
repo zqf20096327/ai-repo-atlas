@@ -1,6 +1,6 @@
 # brokspace/brok
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/brokspace/brok) · [官网](https://github.com/brokspace/brok) · 组织维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/brokspace/brok) · [官网](https://github.com/brokspace/brok) · 组织维护
 
 **开发者本地工作区的代码搜索与 agent 工具集**
 
@@ -40,6 +40,18 @@
 
 > L22: - **Your coding agent, Brokspace-aware.** `brok setup agents` gives Claude
 > L24:  (MCP) and a set of proven engineering **skills**.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "brokspace/brok 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-26 11 → 2026-11-27 11（+0）
 
 
 ---

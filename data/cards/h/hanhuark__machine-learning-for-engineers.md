@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hanhuark/machine-learning-for-engineers 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-21", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 53 --> 58
-    line [54, 55, 56, 57, 57]
+    title "hanhuark/machine-learning-for-engineers 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-21", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 54 --> 58
+    line [55, 56, 57, 57]
 ```
 
-2026-10-24 54 → 2026-11-26 57（+3）
+2026-10-25 55 → 2026-11-27 57（+2）
 
 
 ---

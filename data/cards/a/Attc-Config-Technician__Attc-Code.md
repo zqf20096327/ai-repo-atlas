@@ -45,13 +45,13 @@ Android 终端应用，通过 proot 在无 root 环境下启动真实 Ubuntu 24.
 
 ```mermaid
 xychart-beta
-    title "Attc-Config-Technician/Attc-Code 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26"]
+    title "Attc-Config-Technician/Attc-Code 星数(近 5 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 12 --> 19
-    line [13, 16, 17, 18]
+    line [13, 16, 17, 18, 18]
 ```
 
-2026-11-15 13 → 2026-11-26 18（+5）
+2026-11-15 13 → 2026-11-27 18（+5）
 
 
 ---

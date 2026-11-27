@@ -1,6 +1,6 @@
 # rclement/sqlite-ml
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rclement/sqlite-ml) · 个人维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/rclement/sqlite-ml) · 个人维护
 
 **SQLite 机器学习扩展：用 SQL 函数在库内训练模型并预测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rclement/sqlite-ml 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-24 56 → 2026-11-26 56（+0）
+2026-10-25 56 → 2026-11-27 56（+0）
 
 
 ---

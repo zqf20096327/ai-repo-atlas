@@ -1,6 +1,6 @@
 # JemaOS/hermes-onyx
 
-⭐ 12 · Kotlin · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/JemaOS/hermes-onyx) · [官网](https://jemaos.github.io/hermes-onyx/) · 组织维护 · 中文 README
+⭐ 12 · Kotlin · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/JemaOS/hermes-onyx) · [官网](https://jemaos.github.io/hermes-onyx/) · 组织维护 · 中文 README
 
 **自托管 Hermes agent 的 Android 客户端：流式聊天、机器人房间与语音**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JemaOS/hermes-onyx 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-27"]
     y-axis "stars" 5 --> 13
     line [6, 10, 11, 12, 12]
 ```
 
-2026-11-08 6 → 2026-11-26 12（+6）
+2026-11-08 6 → 2026-11-27 12（+6）
 
 
 ---

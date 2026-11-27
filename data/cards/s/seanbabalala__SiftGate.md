@@ -1,6 +1,6 @@
 # seanbabalala/SiftGate
 
-⭐ 680 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/seanbabalala/SiftGate) · [官网](https://github.com/seanbabalala/SiftGate/blob/main/docs/enterprise-overview.md) · 个人维护 · 中文 README
+⭐ 679 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/seanbabalala/SiftGate) · [官网](https://github.com/seanbabalala/SiftGate/blob/main/docs/enterprise-overview.md) · 个人维护 · 中文 README
 
 **自托管企业 AI 网关：密钥、策略、审计与路由集中管控**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "seanbabalala/SiftGate 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "seanbabalala/SiftGate 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 674 --> 681
-    line [675, 680]
+    line [675, 680, 679]
 ```
 
-2026-11-25 675 → 2026-11-26 680（+5）
+2026-11-25 675 → 2026-11-27 679（+4）
 
 
 ---

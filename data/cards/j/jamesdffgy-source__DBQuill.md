@@ -45,13 +45,13 @@ Windows 桌面 AI 数据库代理，将自然语言请求转换为经过审查�
 
 ```mermaid
 xychart-beta
-    title "jamesdffgy-source/DBQuill 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 29 --> 33
-    line [32, 31, 30, 30]
+    title "jamesdffgy-source/DBQuill 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 29 --> 32
+    line [31, 30, 30]
 ```
 
-2026-10-24 32 → 2026-11-26 30（-2）
+2026-10-25 31 → 2026-11-27 30（-1）
 
 
 ---

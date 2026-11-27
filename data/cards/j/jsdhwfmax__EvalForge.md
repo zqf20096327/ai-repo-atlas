@@ -1,6 +1,6 @@
 # jsdhwfmax/EvalForge
 
-⭐ 194 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jsdhwfmax/EvalForge) · 个人维护
+⭐ 193 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jsdhwfmax/EvalForge) · 个人维护
 
 **面向 CI 的 RAG/AI 评测证据与质量门禁工具，输出多格式报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jsdhwfmax/EvalForge 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 193 --> 195
-    line [194, 194]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 192 --> 195
+    line [194, 193]
 ```
 
-2026-10-24 194 → 2026-11-26 194（+0）
+2026-10-25 194 → 2026-11-27 193（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Wlaeg/antigravity-pet
 
-⭐ 6 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Wlaeg/antigravity-pet) · [官网](https://github.com/Wlaeg/antigravity-pet) · 个人维护 · 中文 README
+⭐ 6 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wlaeg/antigravity-pet) · [官网](https://github.com/Wlaeg/antigravity-pet) · 个人维护 · 中文 README
 
 **Google Antigravity 桌面像素宠物插件，实时显示 agent 任务状态**
 
@@ -40,6 +40,18 @@
 > L5: **A native Windows & macOS pixel desktop companion plugin for Google Antigravity — zero third-party runtime dependen
 > L18: **Antigravity Pet** brings a lightweight, reactive pixel-art companion directly to your Windows & macOS desktop whi
 > L63: |**4**|`Running`|Thinking, file edits, commands (`PreInvocation` / `PostToolUse`)|Cyan halo + busy working animatio
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Wlaeg/antigravity-pet 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-26 6 → 2026-11-27 6（+0）
 
 
 ---

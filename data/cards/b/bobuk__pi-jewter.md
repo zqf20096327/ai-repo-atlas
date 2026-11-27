@@ -1,6 +1,6 @@
 # bobuk/pi-jewter
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/bobuk/pi-jewter) · [官网](https://www.npmjs.com/package/pi-jewter) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/bobuk/pi-jewter) · [官网](https://www.npmjs.com/package/pi-jewter) · 个人维护
 
 **Pi 编码代理的模型路由扩展：按任务与角色自动选模型**
 
@@ -40,6 +40,18 @@ Jewter 是 Pi 编码代理的扩展插件，在会话推进时用 Jev 分类器�
 > L5: 🎯 **Use the right model for each task without switching models by hand.** Small questions rarely need your most expe
 > L7: 🔀 **Select `jewter/auto` once.** By default, before each agent step (including after tool results), Jewter uses the 
 > L15: Requires **Pi 1.5.0+**, **Node 22.19.0+**, a **TypeSafe or OpenRouter API key for Jev**, and at least one model you
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bobuk/pi-jewter 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-26 5 → 2026-11-27 6（+1）
 
 
 ---

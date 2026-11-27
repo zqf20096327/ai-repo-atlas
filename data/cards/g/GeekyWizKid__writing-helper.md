@@ -1,6 +1,6 @@
 # GeekyWizKid/writing-helper
 
-⭐ 646 · TypeScript · MIT · 推送 2026-02-06 · [GitHub](https://github.com/GeekyWizKid/writing-helper) · [官网](https://writing.chixitown.com/) · 个人维护 · 中文 README
+⭐ 645 · TypeScript · MIT · 推送 2026-02-06 · [GitHub](https://github.com/GeekyWizKid/writing-helper) · [官网](https://writing.chixitown.com/) · 个人维护 · 中文 README
 
 **基于 Next.js 的 AI 写作助手与 AI 文本风格优化器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GeekyWizKid/writing-helper 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-15", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-15", "2026-11-21", "2026-11-27"]
     y-axis "stars" 644 --> 647
-    line [646, 645, 646, 645, 646, 646]
+    line [646, 645, 646, 645, 646, 645]
 ```
 
-2026-10-24 646 → 2026-11-26 646（+0）
+2026-10-25 646 → 2026-11-27 645（-1）
 
 
 ---

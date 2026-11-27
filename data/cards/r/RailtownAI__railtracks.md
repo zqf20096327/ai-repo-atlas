@@ -1,6 +1,6 @@
 # RailtownAI/railtracks
 
-⭐ 234 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/RailtownAI/railtracks) · [官网](https://docs.railtracks.org/) · 组织维护
+⭐ 234 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/RailtownAI/railtracks) · [官网](https://docs.railtracks.org/) · 组织维护
 
 **纯 Python 智能体框架：开发者自组装智能体工具调用回路**
 
@@ -45,12 +45,12 @@ Railtracks 是一个 Python agent 框架，用于构建智能体与 harness。�
 ```mermaid
 xychart-beta
     title "RailtownAI/railtracks 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-27"]
     y-axis "stars" 232 --> 237
     line [234, 235, 236, 234, 235, 233, 234, 234]
 ```
 
-2026-10-24 234 → 2026-11-26 234（+0）
+2026-10-25 234 → 2026-11-27 234（+0）
 
 
 ---

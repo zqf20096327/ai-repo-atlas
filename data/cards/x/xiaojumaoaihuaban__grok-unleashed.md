@@ -1,6 +1,6 @@
 # xiaojumaoaihuaban/grok-unleashed
 
-⭐ 90 · Shell · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/xiaojumaoaihuaban/grok-unleashed) · 个人维护
+⭐ 89 · Shell · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/xiaojumaoaihuaban/grok-unleashed) · 个人维护
 
 **去除 x.ai 依赖与遥测的 grok-build CLI 补丁版，可接任意 OpenAI 兼容端点**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xiaojumaoaihuaban/grok-unleashed 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 88 --> 91
+    line [90, 89]
 ```
 
-2026-10-24 90 → 2026-11-26 90（+0）
+2026-10-25 90 → 2026-11-27 89（-1）
 
 
 ---

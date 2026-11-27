@@ -44,13 +44,13 @@ Noema 将声明式编程范式应用于语言模型：开发者用 Python 类型
 
 ```mermaid
 xychart-beta
-    title "AlbanPerli/Noema-Declarative-AI 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 79 --> 82
-    line [80, 81, 81]
+    title "AlbanPerli/Noema-Declarative-AI 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 80 --> 82
+    line [81, 81]
 ```
 
-2026-10-24 80 → 2026-11-26 81（+1）
+2026-10-25 81 → 2026-11-27 81（+0）
 
 
 ---

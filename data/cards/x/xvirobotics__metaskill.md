@@ -1,6 +1,6 @@
 # xvirobotics/metaskill
 
-⭐ 73 · Shell · MIT · 推送 2026-02-23 · [GitHub](https://github.com/xvirobotics/metaskill) · 组织维护
+⭐ 74 · Shell · MIT · 推送 2026-02-23 · [GitHub](https://github.com/xvirobotics/metaskill) · 组织维护
 
 **一条命令生成 Claude Code 多智能体团队的元技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xvirobotics/metaskill 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-27"]
     y-axis "stars" 72 --> 75
-    line [73, 74, 73, 73]
+    line [73, 74, 73, 74]
 ```
 
-2026-10-24 73 → 2026-11-26 73（+0）
+2026-10-25 73 → 2026-11-27 74（+1）
 
 
 ---

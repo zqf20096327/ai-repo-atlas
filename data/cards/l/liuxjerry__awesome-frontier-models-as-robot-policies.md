@@ -1,6 +1,6 @@
 # liuxjerry/awesome-frontier-models-as-robot-policies
 
-⭐ 6 · Python · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/liuxjerry/awesome-frontier-models-as-robot-policies) · 个人维护
+⭐ 7 · Python · CC0-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/liuxjerry/awesome-frontier-models-as-robot-policies) · 个人维护
 
 **前沿 LLM/VLM 作为机器人策略的论文与基准清单**
 
@@ -40,6 +40,18 @@
 > L1: # Awesome Frontier Models (LLMs / VLMs) as Robot Policies Awesome
 > L7: > A curated, data-driven list of papers, reports, benchmarks and critiques on frontier LLMs/VLMs controlling robots 
 > L28: - **2026-11-21** · List published with 72 entries; daily automated maintenance switched on.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liuxjerry/awesome-frontier-models-as-robot-policies 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-26 6 → 2026-11-27 7（+1）
 
 
 ---

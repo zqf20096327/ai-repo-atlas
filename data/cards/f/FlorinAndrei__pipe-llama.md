@@ -46,12 +46,12 @@ Go 编写的 CLI 工具 pllama，像 sed/awk 一样用 stdin/stdout：提示词�
 ```mermaid
 xychart-beta
     title "FlorinAndrei/pipe-llama 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

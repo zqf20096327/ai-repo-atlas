@@ -1,6 +1,6 @@
 # infercrane/infercrane
 
-⭐ 33 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/infercrane/infercrane) · [官网](https://infercrane.com/) · 组织维护
+⭐ 35 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/infercrane/infercrane) · [官网](https://infercrane.com/) · 组织维护
 
 **自托管模型推理的部署/观测/优化与证据门控发布系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "infercrane/infercrane 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 30 --> 56
-    line [54, 53, 42, 40, 32, 33, 33]
+    title "infercrane/infercrane 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 30 --> 55
+    line [53, 42, 40, 32, 33, 35]
 ```
 
-2026-10-24 54 → 2026-11-26 33（-21）
+2026-10-25 53 → 2026-11-27 35（-18）
 
 
 ---

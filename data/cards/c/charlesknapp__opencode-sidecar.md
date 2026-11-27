@@ -1,6 +1,6 @@
 # charlesknapp/opencode-sidecar
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/charlesknapp/opencode-sidecar) · [官网](https://www.opencodesidecar.com/) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/charlesknapp/opencode-sidecar) · [官网](https://www.opencodesidecar.com/) · 个人维护
 
 **VS Code/Cursor 侧边栏 GUI：可视化操作 OpenCode 编码代理**
 
@@ -39,6 +39,18 @@
 
 > L3: **An OpenCode chat sidebar and GUI for VS Code.** Sidecar for OpenCode is a free, open-source extension that puts th
 > L15: - **Built on OpenCode's own API.** Sidecar talks to the OpenCode 2 service on your machine through its v2 HTTP API.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "charlesknapp/opencode-sidecar 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

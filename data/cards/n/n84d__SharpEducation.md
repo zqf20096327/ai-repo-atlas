@@ -45,12 +45,12 @@ Sharp Research YouTube 频道配套的教学仓库，以 Jupyter 笔记本形式
 ```mermaid
 xychart-beta
     title "n84d/SharpEducation 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-24 55 → 2026-11-26 55（+0）
+2026-10-25 55 → 2026-11-27 55（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hitsz-ids/synthetic-data-generator
 
-⭐ 2,442 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/hitsz-ids/synthetic-data-generator) · 组织维护 · 中文 README
+⭐ 2,443 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/hitsz-ids/synthetic-data-generator) · 组织维护 · 中文 README
 
 **为开发者生成结构化表格合成数据的框架，保护隐私**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hitsz-ids/synthetic-data-generator 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-27"]
     y-axis "stars" 2440 --> 2444
-    line [2441, 2442, 2443, 2442, 2442]
+    line [2441, 2442, 2443, 2442, 2443]
 ```
 
-2026-10-24 2,441 → 2026-11-26 2,442（+1）
+2026-10-25 2,441 → 2026-11-27 2,443（+2）
 
 
 ---

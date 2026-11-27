@@ -44,13 +44,13 @@ AI Singapore 维护的东南亚语言大模型评测套件 SEA-HELM，覆盖 NLP
 
 ```mermaid
 xychart-beta
-    title "aisingapore/SEA-HELM 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "aisingapore/SEA-HELM 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 41 --> 44
-    line [42, 43]
+    line [42, 43, 43]
 ```
 
-2026-10-24 42 → 2026-11-26 43（+1）
+2026-10-25 42 → 2026-11-27 43（+1）
 
 
 ---

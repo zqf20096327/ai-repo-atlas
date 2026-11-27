@@ -1,6 +1,6 @@
 # qdrant/landing_page
 
-⭐ 63 · SCSS · 推送 2026-11-25 · [GitHub](https://github.com/qdrant/landing_page) · 组织维护
+⭐ 63 · SCSS · 推送 2026-11-26 · [GitHub](https://github.com/qdrant/landing_page) · 组织维护
 
 **qdrant.tech 官网的 Hugo 源码仓库与内容维护指南**
 
@@ -46,12 +46,12 @@ Qdrant 公司官网（qdrant.tech）落地页的源码仓库，基于 Hugo 静�
 ```mermaid
 xychart-beta
     title "qdrant/landing_page 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 61 --> 64
     line [62, 63, 62, 63, 63]
 ```
 
-2026-10-24 62 → 2026-11-26 63（+1）
+2026-10-25 62 → 2026-11-27 63（+1）
 
 
 ---

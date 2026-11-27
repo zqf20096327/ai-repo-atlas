@@ -45,12 +45,12 @@ UFERSA 计算机工程专业的神经网络课程（PEX0023）配套 GitHub 仓�
 ```mermaid
 xychart-beta
     title "roscibely/neural_networks 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-24 22 → 2026-11-26 22（+0）
+2026-10-25 22 → 2026-11-27 22（+0）
 
 
 ---

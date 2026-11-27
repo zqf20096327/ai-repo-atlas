@@ -1,6 +1,6 @@
 # Adineh55/RunRook
 
-⭐ 3 · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Adineh55/RunRook) · [官网](https://runrook.app) · 组织维护
+⭐ 3 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Adineh55/RunRook) · [官网](https://runrook.app) · 组织维护
 
 **监控 Mac 上 AI agent 会话的原生应用：及时提醒并代为回复**
 
@@ -39,6 +39,18 @@
 
 > L5:  See every AI agent running on your computers in one native Mac app.
 > L14: - **Every session in one list:** Claude Code and Codex (including sessions started before RunRook opened, and the l
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Adineh55/RunRook 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

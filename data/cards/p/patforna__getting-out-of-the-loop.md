@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "patforna/getting-out-of-the-loop 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 17 --> 22
-    line [18, 21, 21]
+    title "patforna/getting-out-of-the-loop 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
 ```
 
-2026-10-24 18 → 2026-11-26 21（+3）
+2026-10-25 21 → 2026-11-27 21（+0）
 
 
 ---

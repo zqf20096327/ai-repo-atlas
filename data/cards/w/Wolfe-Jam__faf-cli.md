@@ -1,6 +1,6 @@
 # Wolfe-Jam/faf-cli
 
-⭐ 46 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Wolfe-Jam/faf-cli) · [官网](https://faf.one) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wolfe-Jam/faf-cli) · [官网](https://faf.one) · 个人维护
 
 **为 AI 编码代理生成并版本化项目上下文文件的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Wolfe-Jam/faf-cli 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-27"]
     y-axis "stars" 41 --> 47
     line [42, 43, 42, 44, 45, 46, 46]
 ```
 
-2026-10-24 42 → 2026-11-26 46（+4）
+2026-10-25 42 → 2026-11-27 46（+4）
 
 
 ---

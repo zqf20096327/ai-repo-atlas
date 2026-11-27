@@ -1,6 +1,6 @@
 # fahmi0812/muse-rsi
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/fahmi0812/muse-rsi) · [官网](https://github.com/fahmi0812/muse-rsi/blob/main/setup/README.md) · 个人维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/fahmi0812/muse-rsi) · [官网](https://github.com/fahmi0812/muse-rsi/blob/main/setup/README.md) · 个人维护
 
 **经人工核验的 Muse agent 技能清单与一键安装系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fahmi0812/muse-rsi 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-21 5 → 2026-11-26 5（+0）
+2026-11-21 5 → 2026-11-27 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # geroldmeisinger/ComfyUI-outputlists-combiner
 
-⭐ 210 · Python · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/geroldmeisinger/ComfyUI-outputlists-combiner) · 个人维护
+⭐ 211 · Python · GPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/geroldmeisinger/ComfyUI-outputlists-combiner) · 个人维护
 
 **ComfyUI 自定义节点集：从表格/JSON/文本生成输出列表与组合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "geroldmeisinger/ComfyUI-outputlists-combiner 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 208 --> 211
-    line [209, 210, 210]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 208 --> 212
+    line [209, 210, 211]
 ```
 
-2026-10-24 209 → 2026-11-26 210（+1）
+2026-10-25 209 → 2026-11-27 211（+2）
 
 
 ---

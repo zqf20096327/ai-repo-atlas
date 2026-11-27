@@ -1,6 +1,6 @@
 # JangHyuckYun/mcp-youtube-intelligence
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/JangHyuckYun/mcp-youtube-intelligence) · 个人维护 · 中文 README
+⭐ 54 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/JangHyuckYun/mcp-youtube-intelligence) · 个人维护 · 中文 README
 
 **YouTube 转录提取与内容分析的 MCP 服务器 + CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JangHyuckYun/mcp-youtube-intelligence 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-26"]
-    y-axis "stars" 51 --> 54
-    line [53, 52, 53, 53]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-27"]
+    y-axis "stars" 51 --> 55
+    line [53, 52, 53, 54]
 ```
 
-2026-10-24 53 → 2026-11-26 53（+0）
+2026-10-25 53 → 2026-11-27 54（+1）
 
 
 ---

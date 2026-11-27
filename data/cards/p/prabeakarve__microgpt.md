@@ -1,6 +1,6 @@
 # prabeakarve/microgpt
 
-⭐ 51 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/prabeakarve/microgpt) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/prabeakarve/microgpt) · 个人维护 · 中文 README
 
 **给学习者的纯 NumPy 从零实现 GPT：可读可训练的语言模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prabeakarve/microgpt 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 31 --> 52
+    line [51, 32]
 ```
 
-2026-11-08 51 → 2026-11-26 51（+0）
+2026-11-08 51 → 2026-11-27 32（-19）
 
 
 ---

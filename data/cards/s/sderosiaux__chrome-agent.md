@@ -1,6 +1,6 @@
 # sderosiaux/chrome-agent
 
-⭐ 99 · Rust · MIT · 推送 2026-10-12 · [GitHub](https://github.com/sderosiaux/chrome-agent) · 个人维护 · 中文 README
+⭐ 100 · Rust · MIT · 推送 2026-10-12 · [GitHub](https://github.com/sderosiaux/chrome-agent) · 个人维护 · 中文 README
 
 **供 AI agent 驱动 Chrome 的 Rust CLI：执行操作并回报页面真实结果**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sderosiaux/chrome-agent 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 95 --> 100
-    line [96, 97, 98, 99, 99]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 95 --> 101
+    line [96, 97, 98, 99, 100]
 ```
 
-2026-10-24 96 → 2026-11-26 99（+3）
+2026-10-25 96 → 2026-11-27 100（+4）
 
 
 ---

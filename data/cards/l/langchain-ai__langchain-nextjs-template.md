@@ -1,6 +1,6 @@
 # langchain-ai/langchain-nextjs-template
 
-⭐ 2,552 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langchain-nextjs-template) · [官网](https://langchain-nextjs-template.vercel.app) · 组织维护
+⭐ 2,553 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langchain-nextjs-template) · [官网](https://langchain-nextjs-template.vercel.app) · 组织维护
 
 **LangChain.js + Next.js 起步模板：演示聊天/RAG/Agent 等用例**
 
@@ -44,13 +44,13 @@ LangChain 官方维护的 Next.js 起步应用模板，展示如何组合 LangCh
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-nextjs-template 星数(近 16 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 2542 --> 2553
-    line [2544, 2543, 2544, 2546, 2547, 2543, 2546, 2548, 2549, 2550, 2551, 2550, 2549, 2551, 2552, 2552]
+    title "langchain-ai/langchain-nextjs-template 星数(近 15 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 2542 --> 2554
+    line [2543, 2544, 2546, 2547, 2543, 2546, 2548, 2549, 2550, 2551, 2550, 2549, 2551, 2552, 2553]
 ```
 
-2026-10-24 2,544 → 2026-11-26 2,552（+8）
+2026-10-25 2,543 → 2026-11-27 2,553（+10）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yapengl490-cmd/order-policy-assistant 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "yapengl490-cmd/order-policy-assistant 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 39 --> 50
-    line [40, 49]
+    line [40, 49, 49]
 ```
 
-2026-11-25 40 → 2026-11-26 49（+9）
+2026-11-25 40 → 2026-11-27 49（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # xyangzhou/WorldLeague
 
-⭐ 19 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xyangzhou/WorldLeague) · [官网](https://xyangzhou.github.io/WorldLeague/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xyangzhou/WorldLeague) · [官网](https://xyangzhou.github.io/WorldLeague/) · 组织维护
 
 **具身 AI 基准：60 个模拟机器人任务上量化物理目标达成进度**
 
@@ -40,6 +40,18 @@
 > L20:  WorldLeague evaluates what an embodied agent can accomplish in 60 interactive household tasks.
 > L49: Which physical goals can today’s AI systems achieve on their own? WorldLeague compares VLMs, VLAs and WAMs on 60 si
 > L91: 1. Set up OmniGibson 3.7.1 with Isaac Sim 4.5.0, NVIDIA rendering support and the licensed BEHAVIOR-1K assets. Run 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xyangzhou/WorldLeague 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 18 --> 22
+    line [19, 21]
+```
+
+2026-11-26 19 → 2026-11-27 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # michaelChein/chatter-radar
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/michaelChein/chatter-radar) · 个人维护
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/michaelChein/chatter-radar) · 个人维护
 
 **自托管应用：从所选 WhatsApp 聊天中提取任务清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "michaelChein/chatter-radar 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-26 3（+0）
+2026-11-08 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # heyvaldemar/ollama-traefik-letsencrypt-docker-compose
 
-⭐ 26 · Shell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/heyvaldemar/ollama-traefik-letsencrypt-docker-compose) · [官网](https://www.heyvaldemar.com) · 个人维护
+⭐ 26 · Shell · MIT · 推送 2026-11-26 · [GitHub](https://github.com/heyvaldemar/ollama-traefik-letsencrypt-docker-compose) · [官网](https://www.heyvaldemar.com) · 个人维护
 
 **Ollama+Open WebUI+Traefik 的 Docker Compose 部署模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heyvaldemar/ollama-traefik-letsencrypt-docker-compose 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-24 26 → 2026-11-26 26（+0）
+2026-10-25 26 → 2026-11-27 26（+0）
 
 
 ---

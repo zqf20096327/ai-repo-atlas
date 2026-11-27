@@ -1,6 +1,6 @@
 # ellmos-ai/skills
 
-⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ellmos-ai/skills) · [官网](https://github.com/ellmos-ai/skills#readme) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ellmos-ai/skills) · [官网](https://github.com/ellmos-ai/skills#readme) · 组织维护
 
 **面向 Claude Code 类 agent 的可移植 SKILL.md 技能库**
 
@@ -47,12 +47,12 @@ ellmos 生态的可复用技能目录，收录 142 个公开技能（跟踪 380 
 ```mermaid
 xychart-beta
     title "ellmos-ai/skills 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-21 10 → 2026-11-26 10（+0）
+2026-11-21 10 → 2026-11-27 10（+0）
 
 
 ---

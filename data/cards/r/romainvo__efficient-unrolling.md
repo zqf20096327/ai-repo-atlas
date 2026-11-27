@@ -45,12 +45,12 @@ CVPR 2026 论文 'Efficient Unrolling for Large Scale 3D Inverse Problems' 的�
 ```mermaid
 xychart-beta
     title "romainvo/efficient-unrolling 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

@@ -45,12 +45,12 @@ TensorFlow eXtended（TFX）生态的共享基础库：为 TFX 组件及独立 T
 ```mermaid
 xychart-beta
     title "tensorflow/tfx-bsl 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-24 65 → 2026-11-26 65（+0）
+2026-10-25 65 → 2026-11-27 65（+0）
 
 
 ---

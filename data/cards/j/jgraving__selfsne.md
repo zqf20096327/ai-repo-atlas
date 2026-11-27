@@ -43,12 +43,12 @@ Self-SNE（Self-Supervised Noise Embeddings）是面向深度学习的自监督�
 ```mermaid
 xychart-beta
     title "jgraving/selfsne 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 159 --> 161
     line [160, 160]
 ```
 
-2026-10-24 160 → 2026-11-26 160（+0）
+2026-10-25 160 → 2026-11-27 160（+0）
 
 
 ---

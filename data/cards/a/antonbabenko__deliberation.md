@@ -1,6 +1,6 @@
 # antonbabenko/deliberation
 
-⭐ 188 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/antonbabenko/deliberation) · [官网](https://usedeliberation.com/) · 个人维护
+⭐ 188 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/antonbabenko/deliberation) · [官网](https://usedeliberation.com/) · 个人维护
 
 **为编码 agent 提供跨模型多评审共识的 MCP 服务器**
 
@@ -47,12 +47,12 @@ Deliberation 是一个 MCP 服务器和 Claude Code 插件：在 /consensus 流�
 ```mermaid
 xychart-beta
     title "antonbabenko/deliberation 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-27"]
     y-axis "stars" 177 --> 189
     line [178, 180, 178, 181, 182, 183, 184, 186, 187, 188, 188]
 ```
 
-2026-10-24 178 → 2026-11-26 188（+10）
+2026-10-25 178 → 2026-11-27 188（+10）
 
 
 ---

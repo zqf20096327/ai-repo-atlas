@@ -1,6 +1,6 @@
 # ELO-Digital-Office/ix-api-ai
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ELO-Digital-Office/ix-api-ai) · 组织维护
+⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ELO-Digital-Office/ix-api-ai) · 组织维护
 
 **面向 AI 编码代理的 ELO Indexserver REST API 文档与示例集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ELO-Digital-Office/ix-api-ai 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-26"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-11", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-11 4 → 2026-11-26 4（+0）
+2026-11-11 4 → 2026-11-27 5（+1）
 
 
 ---

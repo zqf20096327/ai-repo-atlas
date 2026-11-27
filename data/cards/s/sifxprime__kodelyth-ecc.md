@@ -1,6 +1,6 @@
 # sifxprime/kodelyth-ecc
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sifxprime/kodelyth-ecc) · [官网](https://ecc.kodelyth.com) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sifxprime/kodelyth-ecc) · [官网](https://ecc.kodelyth.com) · 个人维护
 
 **面向编码 AI 工具的本地 agent/技能工具包：70 个专家 agent 加意图路由**
 
@@ -46,12 +46,12 @@ Kodelyth ECC 是分发给多种 AI 编码工具的本地工具包：70 个专家
 ```mermaid
 xychart-beta
     title "sifxprime/kodelyth-ecc 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

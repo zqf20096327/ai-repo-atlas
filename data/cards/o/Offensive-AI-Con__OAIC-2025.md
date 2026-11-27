@@ -1,6 +1,6 @@
 # Offensive-AI-Con/OAIC-2025
 
-⭐ 15 · Python · 推送 2025-11-30 · [GitHub](https://github.com/Offensive-AI-Con/OAIC-2025) · [官网](https://www.offensiveaicon.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Offensive AI Con 2025 会议官方幻灯片公开仓库**
 

@@ -1,6 +1,6 @@
 # estebanmr99/lean-agents
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/estebanmr99/lean-agents) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/estebanmr99/lean-agents) · 个人维护
 
 **为多款编码 agent 一键安装共享规则、子代理与省 token 工具**
 
@@ -41,6 +41,18 @@
 > L11: A cross-agent, token-efficient AI coding setup: one command installs shared rules, cheap-by-default subagents, and 
 > L23: **What it changes on your machine:** rules (`AGENTS.md`), subagents, RTK and MCP tools (Context Mode, plus optional
 > L87: - **Cheap subagents:** exploration, research and review run on the cheapest fitting model tier.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "estebanmr99/lean-agents 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

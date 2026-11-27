@@ -1,6 +1,6 @@
 # lulakien/inkling2-mini-3090-recipe
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lulakien/inkling2-mini-3090-recipe) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lulakien/inkling2-mini-3090-recipe) · 个人维护
 
 **在 1-2 张 RTX 3090 上运行 Inkling-2-Mini 的 vLLM 配方**
 
@@ -40,6 +40,18 @@
 > L1: # Inkling 2 Mini on RTX 3090s: a vLLM recipe for 1 or 2 consumer Ampere GPUs
 > L8: The official `vllm/vllm-openai:inkling-2-mini` image only supports Hopper/Blackwell. This repo has small file
 > L118: Requirements: Linux, Docker with the NVIDIA Container Toolkit, an NVIDIA driver that supports CUDA 13
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lulakien/inkling2-mini-3090-recipe 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 7
+    line [4, 6]
+```
+
+2026-11-26 4 → 2026-11-27 6（+2）
 
 
 ---

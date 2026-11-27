@@ -1,6 +1,6 @@
 # khanhtran0111/mind-graph
 
-⭐ 4 · Python · 推送 2026-11-18 · [GitHub](https://github.com/khanhtran0111/mind-graph) · 个人维护
+⭐ 5 · Python · 推送 2026-11-18 · [GitHub](https://github.com/khanhtran0111/mind-graph) · 个人维护
 
 **把代码库或文档文件夹转成离线思维导图与 agent 复用项目地图的技能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "khanhtran0111/mind-graph 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-20", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-20 4 → 2026-11-26 4（+0）
+2026-11-20 4 → 2026-11-27 5（+1）
 
 
 ---

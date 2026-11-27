@@ -1,6 +1,6 @@
 # crajah/post-graph-rag
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/crajah/post-graph-rag) · [官网](https://crajah.github.io/post-graph-rag/) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/crajah/post-graph-rag) · [官网](https://crajah.github.io/post-graph-rag/) · 个人维护
 
 **Python GraphRAG 库：在 PostgreSQL 内做图+向量+全文混合检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "crajah/post-graph-rag 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-16 13 → 2026-11-26 13（+0）
+2026-11-16 13 → 2026-11-27 13（+0）
 
 
 ---

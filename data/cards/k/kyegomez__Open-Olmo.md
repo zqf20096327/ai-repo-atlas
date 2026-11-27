@@ -40,6 +40,18 @@
 > L29: **Unofficial** open-source PyTorch implementation of the OLMo Hybrid architecture introduced by the Allen Institute
 > L41: The two layer types are interleaved in a fixed **3 : 1 ratio** (three DeltaNet layers for every one attention layer
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kyegomez/Open-Olmo 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e0bf71a9ee1e` · [字段定义](../../DATASET.md)*

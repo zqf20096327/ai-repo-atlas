@@ -1,6 +1,6 @@
 # FujitsuResearch/OneCompression
 
-⭐ 446 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/FujitsuResearch/OneCompression) · [官网](https://fujitsuresearch.github.io/OneCompression/) · 组织维护
+⭐ 446 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/FujitsuResearch/OneCompression) · [官网](https://fujitsuresearch.github.io/OneCompression/) · 组织维护
 
 **面向开发者的 LLM 后训练量化压缩工具包**
 
@@ -47,12 +47,12 @@ Fujitsu 发布的 Python 包，将 LLM 压缩流程封装为单条命令：自�
 ```mermaid
 xychart-beta
     title "FujitsuResearch/OneCompression 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-27"]
     y-axis "stars" 442 --> 447
     line [443, 444, 445, 443, 445, 446, 445, 446, 446]
 ```
 
-2026-10-24 443 → 2026-11-26 446（+3）
+2026-10-25 443 → 2026-11-27 446（+3）
 
 
 ---

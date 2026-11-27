@@ -1,6 +1,6 @@
 # xdtbp/DaFeiYu
 
-⭐ 9 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/xdtbp/DaFeiYu) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/xdtbp/DaFeiYu) · 个人维护 · 中文 README
 
 **为手机用户提供的仿 DeepSeek App 第三方安卓对话客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xdtbp/DaFeiYu 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 6 --> 10
-    line [7, 9]
+    title "xdtbp/DaFeiYu 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 11
+    line [7, 9, 10]
 ```
 
-2026-11-25 7 → 2026-11-26 9（+2）
+2026-11-25 7 → 2026-11-27 10（+3）
 
 
 ---

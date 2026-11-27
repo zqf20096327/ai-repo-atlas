@@ -1,6 +1,6 @@
 # sangwook236/SWDT
 
-⭐ 18 · C++ · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/sangwook236/SWDT) · 个人维护
+⭐ 18 · C++ · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/sangwook236/SWDT) · 个人维护
 
 **个人积累的软硬件开发与测试知识仓库（代码+Wiki）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "sangwook236/SWDT 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

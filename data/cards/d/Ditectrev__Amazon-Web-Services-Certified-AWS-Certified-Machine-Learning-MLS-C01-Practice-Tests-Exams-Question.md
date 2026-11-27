@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Machine-Learning-MLS-C01-Practice-Tests-Exams-Question 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
     y-axis "stars" 83 --> 86
     line [84, 85, 85]
 ```
 
-2026-10-24 84 → 2026-11-26 85（+1）
+2026-10-25 84 → 2026-11-27 85（+1）
 
 
 ---

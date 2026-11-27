@@ -1,6 +1,6 @@
 # robbinpanda/Teacher-DB
 
-⭐ 20 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/robbinpanda/Teacher-DB) · [官网](https://teacherdb.cn) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向中小学教师的本地优先 AI 题库与智能组卷工具**
 

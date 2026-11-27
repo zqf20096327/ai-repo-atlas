@@ -1,6 +1,6 @@
 # wingsky-1/dsh-plugin-hub
 
-⭐ 32 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/wingsky-1/dsh-plugin-hub) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/wingsky-1/dsh-plugin-hub) · 个人维护 · 中文 README
 
 **DeepSeek Harness Web GUI 插件集：通知/用量/局域网代理/MCP 管理/隔离验证**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wingsky-1/dsh-plugin-hub 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 31, 32, 32]
+    title "wingsky-1/dsh-plugin-hub 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32, 32]
 ```
 
-2026-10-24 29 → 2026-11-26 32（+3）
+2026-10-25 30 → 2026-11-27 32（+2）
 
 
 ---

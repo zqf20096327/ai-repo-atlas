@@ -1,6 +1,6 @@
 # Xiaohao-Liu/Awesome-Multi-Token-Prediction
 
-⭐ 218 · 推送 2026-10-30 · [GitHub](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction) · 个人维护
+⭐ 220 · 推送 2026-10-30 · [GitHub](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction) · 个人维护
 
 **面向研究者的多 Token 预测（MTP）论文与资源清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xiaohao-Liu/Awesome-Multi-Token-Prediction 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 210 --> 219
-    line [211, 212, 211, 213, 214, 215, 216, 218]
+    title "Xiaohao-Liu/Awesome-Multi-Token-Prediction 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 210 --> 221
+    line [211, 212, 211, 213, 214, 215, 216, 218, 220]
 ```
 
-2026-10-24 211 → 2026-11-26 218（+7）
+2026-10-25 211 → 2026-11-27 220（+9）
 
 
 ---

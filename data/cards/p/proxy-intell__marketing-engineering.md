@@ -1,6 +1,6 @@
 # proxy-intell/marketing-engineering
 
-⭐ 4 · TypeScript · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/proxy-intell/marketing-engineering) · [官网](https://marketingengineering.dev/) · 组织维护
+⭐ 4 · TypeScript · CC0-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/proxy-intell/marketing-engineering) · [官网](https://marketingengineering.dev/) · 组织维护
 
 **按 agent 实际使用投票排序的营销工具榜单**
 
@@ -40,6 +40,18 @@
 > L7:  marketing engineering: ranked by use
 > L18: > tools for running marketing like software: ads, SEO and AEO, organic social, analytics, email, billing and the AI
 > L40: every entry says what it does and how you plug in: MCP server, API, CLI, SDK, plugin, skill or web app. skills and 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "proxy-intell/marketing-engineering 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

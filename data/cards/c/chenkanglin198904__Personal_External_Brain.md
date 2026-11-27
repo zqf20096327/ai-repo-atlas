@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenkanglin198904/Personal_External_Brain 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "chenkanglin198904/Personal_External_Brain 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 198 --> 202
-    line [199, 200, 201]
+    line [199, 200, 201, 201]
 ```
 
-2026-10-24 199 → 2026-11-26 201（+2）
+2026-10-25 199 → 2026-11-27 201（+2）
 
 
 ---

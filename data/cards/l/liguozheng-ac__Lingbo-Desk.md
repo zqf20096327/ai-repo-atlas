@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liguozheng-ac/Lingbo-Desk 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    title "liguozheng-ac/Lingbo-Desk 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 216 --> 219
-    line [217, 218]
+    line [217, 218, 218]
 ```
 
-2026-11-16 217 → 2026-11-26 218（+1）
+2026-11-16 217 → 2026-11-27 218（+1）
 
 
 ---

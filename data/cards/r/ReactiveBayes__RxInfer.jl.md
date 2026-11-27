@@ -1,6 +1,6 @@
 # ReactiveBayes/RxInfer.jl
 
-⭐ 425 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ReactiveBayes/RxInfer.jl) · [官网](https://rxinfer.com/) · 组织维护
+⭐ 425 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ReactiveBayes/RxInfer.jl) · [官网](https://rxinfer.com/) · 组织维护
 
 **Julia 贝叶斯推断包：因子图上的反应式消息传递推断**
 
@@ -45,13 +45,13 @@ RxInfer.jl 是面向 Julia 语言的自动贝叶斯推断包，基于因子图�
 
 ```mermaid
 xychart-beta
-    title "ReactiveBayes/RxInfer.jl 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-26"]
+    title "ReactiveBayes/RxInfer.jl 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 418 --> 426
-    line [419, 420, 419, 422, 423, 424, 425]
+    line [419, 420, 419, 422, 423, 424, 425, 425]
 ```
 
-2026-10-24 419 → 2026-11-26 425（+6）
+2026-10-25 419 → 2026-11-27 425（+6）
 
 
 ---

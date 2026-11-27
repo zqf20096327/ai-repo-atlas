@@ -45,13 +45,13 @@ Kroko ASR 的开源语音转文字引擎，基于 ONNX Runtime 运行转导模�
 
 ```mermaid
 xychart-beta
-    title "kroko-ai/kroko-onnx 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "kroko-ai/kroko-onnx 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 161 --> 164
-    line [162, 163]
+    line [162, 163, 163]
 ```
 
-2026-10-24 162 → 2026-11-26 163（+1）
+2026-10-25 162 → 2026-11-27 163（+1）
 
 
 ---

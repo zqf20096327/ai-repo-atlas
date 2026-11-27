@@ -1,6 +1,6 @@
 # airiclenz/capcom
 
-⭐ 3 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/airiclenz/capcom) · [官网](https://airiclenz.com/capcom/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI 编码 agent 及开发者的 git 原生 issue 跟踪与知识库**
 
@@ -11,7 +11,7 @@ capcom 是命令行 issue 跟踪器、任务管理器与项目知识库：issue 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

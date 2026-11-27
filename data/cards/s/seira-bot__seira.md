@@ -1,6 +1,6 @@
 # seira-bot/seira
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/seira-bot/seira) · [官网](https://seira.bot) · 组织维护
+⭐ 40 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/seira-bot/seira) · [官网](https://seira.bot) · 组织维护
 
 **把 Claude Code、Codex 等 25+ AI 引擎组队放进一个聊天桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "seira-bot/seira 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 21 --> 37
-    line [22, 24, 31, 36]
+    title "seira-bot/seira 星数(近 5 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 21 --> 41
+    line [22, 24, 31, 36, 40]
 ```
 
-2026-11-22 22 → 2026-11-26 36（+14）
+2026-11-22 22 → 2026-11-27 40（+18）
 
 
 ---

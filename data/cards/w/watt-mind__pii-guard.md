@@ -1,6 +1,6 @@
 # watt-mind/pii-guard
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/watt-mind/pii-guard) · [官网](https://guard.watt-mind.com) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/watt-mind/pii-guard) · [官网](https://guard.watt-mind.com) · 组织维护
 
 **AI agent 隐私网关：将个人数据替换为可逆占位符后再发给 LLM**
 
@@ -46,12 +46,12 @@ OpenAI 兼容的隐私网关：请求经网关时用规则加本地 NER（XLM-Ro
 ```mermaid
 xychart-beta
     title "watt-mind/pii-guard 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-27"]
     y-axis "stars" 6 --> 19
     line [7, 8, 18, 17, 17]
 ```
 
-2026-10-31 7 → 2026-11-26 17（+10）
+2026-10-31 7 → 2026-11-27 17（+10）
 
 
 ---

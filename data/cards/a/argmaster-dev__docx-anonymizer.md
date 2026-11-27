@@ -1,6 +1,6 @@
 # argmaster-dev/docx-anonymizer
 
-⭐ 10 · JavaScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/argmaster-dev/docx-anonymizer) · [官网](https://github.com/argmaster-dev/docx-anonymizer/releases/latest) · 个人维护
+⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/argmaster-dev/docx-anonymizer) · [官网](https://github.com/argmaster-dev/docx-anonymizer/releases/latest) · 个人维护
 
 **给需要向 AI 聊天上传文档的员工：本地匿名化个人与公司敏感信息后再发送**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "argmaster-dev/docx-anonymizer 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 2 --> 11
-    line [3, 9, 10, 10]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 2 --> 12
+    line [3, 9, 10, 11]
 ```
 
-2026-11-02 3 → 2026-11-26 10（+7）
+2026-11-02 3 → 2026-11-27 11（+8）
 
 
 ---

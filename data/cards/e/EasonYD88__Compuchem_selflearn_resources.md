@@ -1,6 +1,6 @@
 # EasonYD88/Compuchem_selflearn_resources
 
-⭐ 41 · MIT · 推送 2026-01-05 · [GitHub](https://github.com/EasonYD88/Compuchem_selflearn_resources) · 个人维护 · 中文 README
+⭐ 42 · MIT · 推送 2026-01-05 · [GitHub](https://github.com/EasonYD88/Compuchem_selflearn_resources) · 个人维护 · 中文 README
 
 **社区驱动的计算化学结构化学习资源库，覆盖入门到科研与博士申请**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "EasonYD88/Compuchem_selflearn_resources 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 40 --> 43
-    line [42, 41, 42, 41, 41]
+    line [42, 41, 42, 41, 42]
 ```
 
-2026-10-24 42 → 2026-11-26 41（-1）
+2026-10-25 42 → 2026-11-27 42（+0）
 
 
 ---

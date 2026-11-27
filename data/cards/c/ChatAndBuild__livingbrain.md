@@ -44,13 +44,13 @@ Living Brain 是一个面向 AI 工具的互操作持久记忆层：用户创建
 
 ```mermaid
 xychart-beta
-    title "ChatAndBuild/livingbrain 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    title "ChatAndBuild/livingbrain 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 5 --> 8
-    line [6, 7]
+    line [6, 7, 7]
 ```
 
-2026-11-08 6 → 2026-11-26 7（+1）
+2026-11-08 6 → 2026-11-27 7（+1）
 
 
 ---

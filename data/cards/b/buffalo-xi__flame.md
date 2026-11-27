@@ -1,6 +1,6 @@
 # buffalo-xi/flame
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/buffalo-xi/flame) · 个人维护 · 中文 README
+⭐ 4 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/buffalo-xi/flame) · 个人维护 · 中文 README
 
 **给团队用的多租户 AI agent 平台：构建/编排 agent 并以 MCP/RPC 暴露**
 
@@ -40,6 +40,18 @@ Go 编写的多租户 AI agent 平台，将 agent、技能、工具、工作流�
 > L5: A Go-based, multi-tenant AI agent platform. It manages agents, skills, tools and workflows as first-class build arti
 > L6: exposes them as callable endpoints (MCP / RPC), and shows everything currently running in a single runtime ledger.
 > L33: - **Endpoints** — expose an agent or a workflow as an MCP or RPC entry point, with a per-tenant "expose / retract" 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "buffalo-xi/flame 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

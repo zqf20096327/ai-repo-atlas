@@ -1,6 +1,6 @@
 # instructa/ai-prompts
 
-⭐ 1,103 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/instructa/ai-prompts) · [官网](http://instructa.ai/ai-prompts) · 组织维护
+⭐ 1,104 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/instructa/ai-prompts) · [官网](http://instructa.ai/ai-prompts) · 组织维护
 
 **面向开发者的 AI 编码提示词与规则策展仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "instructa/ai-prompts 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 1100 --> 1104
-    line [1103, 1102, 1101, 1102, 1103, 1102, 1103, 1103]
+    title "instructa/ai-prompts 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 1100 --> 1105
+    line [1102, 1101, 1102, 1103, 1102, 1103, 1104]
 ```
 
-2026-10-24 1,103 → 2026-11-26 1,103（+0）
+2026-10-25 1,102 → 2026-11-27 1,104（+2）
 
 
 ---

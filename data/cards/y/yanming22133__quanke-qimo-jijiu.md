@@ -46,12 +46,12 @@ ReviewCraft 是一套供 AI Agent 使用的工作流包（Skill），由 SKILL.m
 ```mermaid
 xychart-beta
     title "yanming22133/quanke-qimo-jijiu 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-27"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-21 4 → 2026-11-26 5（+1）
+2026-11-21 4 → 2026-11-27 5（+1）
 
 
 ---

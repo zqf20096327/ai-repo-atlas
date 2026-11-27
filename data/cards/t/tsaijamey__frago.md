@@ -1,6 +1,6 @@
 # tsaijamey/frago
 
-⭐ 114 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tsaijamey/frago) · [官网](https://github.com/tsaijamey/frago) · 个人维护 · 中文 README
+⭐ 114 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tsaijamey/frago) · [官网](https://github.com/tsaijamey/frago) · 个人维护 · 中文 README
 
 **面向 CLI AI agent 的宿主运行时：浏览器控制、持久记忆与可复用 Recipe 工作流**
 
@@ -46,12 +46,12 @@ frago 定位为 AI agent 操作系统（Agent OS），本体不产出模型，�
 ```mermaid
 xychart-beta
     title "tsaijamey/frago 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
     y-axis "stars" 112 --> 115
     line [114, 113, 114, 113, 114, 114]
 ```
 
-2026-10-24 114 → 2026-11-26 114（+0）
+2026-10-25 114 → 2026-11-27 114（+0）
 
 
 ---

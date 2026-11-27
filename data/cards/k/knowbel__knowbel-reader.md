@@ -1,6 +1,6 @@
 # knowbel/knowbel-reader
 
-⭐ 5 · TypeScript · 推送 2026-11-14 · [GitHub](https://github.com/knowbel/knowbel-reader) · [官网](https://knowbel.github.io/) · 个人维护
+⭐ 5 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/knowbel/knowbel-reader) · [官网](https://knowbel.github.io/) · 个人维护
 
 **面向学生研读教材与论文的 PDF/EPUB 阅读器，AI 解答绑定原文出处**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "knowbel/knowbel-reader 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 6
     line [3, 4, 3, 5, 5]
 ```
 
-2026-10-24 3 → 2026-11-26 5（+2）
+2026-10-25 3 → 2026-11-27 5（+2）
 
 
 ---

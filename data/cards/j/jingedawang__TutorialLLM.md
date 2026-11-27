@@ -1,6 +1,6 @@
 # jingedawang/TutorialLLM
 
-⭐ 91 · Jupyter Notebook · 推送 2026-08-18 · [GitHub](https://github.com/jingedawang/TutorialLLM) · [官网](https://jingedawang.gitbook.io/tutorialllm) · 个人维护 · 中文 README
+⭐ 92 · Jupyter Notebook · 推送 2026-08-18 · [GitHub](https://github.com/jingedawang/TutorialLLM) · [官网](https://jingedawang.gitbook.io/tutorialllm) · 个人维护 · 中文 README
 
 **从零训练 LLM 的中文教程：教材文本与可运行代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jingedawang/TutorialLLM 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 89 --> 92
-    line [90, 91, 91]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 89 --> 93
+    line [90, 91, 92]
 ```
 
-2026-10-24 90 → 2026-11-26 91（+1）
+2026-10-25 90 → 2026-11-27 92（+2）
 
 
 ---

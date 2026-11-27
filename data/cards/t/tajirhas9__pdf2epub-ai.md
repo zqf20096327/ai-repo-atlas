@@ -1,6 +1,6 @@
 # tajirhas9/pdf2epub-ai
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/tajirhas9/pdf2epub-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把数字版/扫描版 PDF 转成可重排 EPUB3 的转换器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

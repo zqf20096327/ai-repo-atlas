@@ -1,0 +1,45 @@
+# PanStudio/zulipchat-mcp
+
+⭐ 33 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PanStudio/zulipchat-mcp) · [官网](https://pypi.org/project/zulipchat-mcp/) · 个人维护
+
+**把 MCP 客户端 AI 助手接入 Zulip 聊天的服务器**
+
+基于 FastMCP 构建的 Model Context Protocol 服务器，将 Claude Code、Gemini CLI、Cursor 等 MCP 兼容客户端连接到用户的 Zulip 工作区。提供两级工具集：默认 13 个核心工具、扩展模式 45 个工具，覆盖消息收发、全文检索、用户解析、身份切换等；支持 read-only 工具档案、stdio/HTTP 两种传输、双身份（用户+机器人）、以及把 Zulip 机器人与本地 ACP 编码代理配对的 agents 桥接。凭据本地保存，声明不收集数据。以 PyPI 包分发，通过 uvx 运行。
+
+## 筛选速览
+
+| 维度 | 判定 | 备注 |
+|---|---|---|
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `permissive` | MIT |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
+
+## 能力要点
+
+- 13 个核心工具、扩展模式 45 个工具的两级注册机制
+- agents 桥接：每个编码代理配一个 Zulip 机器人，支持 ACP 协议
+- 支持 stdio 与带 Bearer 认证的 HTTP 传输、read-only 工具档案
+- 双身份切换：同一会话内以用户或机器人身份发消息
+
+## 适用场景
+
+- 让 Claude Code / Gemini CLI 等助手代为收发和检索 Zulip 消息
+- 从手机通过 Zulip DM 远程指挥本地编码代理
+- 向 AI 助手提问“今天 #engineering 频道发生了什么”并获摘要
+
+## 场景标签
+
+ · 领域:LLM 基础设施/MCP 工具集成
+
+## 证据(README 行号)
+
+> L3:  Model Context Protocol server for Zulip Chat. Connect Claude Code, Codex, PanCode, OpenCode, Copilot, Antigravity C
+> L36: ZulipChat MCP bridges any MCP-compatible AI assistant (Claude Code, Gemini CLI, Cursor, Windsurf, etc.) to your Zul
+
+
+---
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1d453ad9111c` · [字段定义](../../DATASET.md)*

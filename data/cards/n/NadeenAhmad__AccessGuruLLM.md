@@ -42,6 +42,18 @@ ASSETS '25 论文的配套仓库：结合 Axe-Playwright 无障碍测试引擎�
 > L19:  - `AccessGuruDetect`: Detect violations (Axe-Playwright + LLM) [SyntaxLayout Notebook] [Semantic Notebook]
 > L67: ## 📊 Our Dataset
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NadeenAhmad/AccessGuruLLM 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-26 17 → 2026-11-27 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `021f32761e4d` · [字段定义](../../DATASET.md)*

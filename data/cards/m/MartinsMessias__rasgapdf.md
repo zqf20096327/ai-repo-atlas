@@ -1,6 +1,6 @@
 # MartinsMessias/rasgapdf
 
-⭐ 21 · Rust · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/MartinsMessias/rasgapdf) · [官网](https://martinsmessias.github.io/rasgapdf/) · 个人维护
+⭐ 21 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/MartinsMessias/rasgapdf) · [官网](https://martinsmessias.github.io/rasgapdf/) · 个人维护
 
 **纯 Rust 实现的 2D 空间 PDF 解析库，输出精确坐标与结构化文档**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MartinsMessias/rasgapdf 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-27"]
     y-axis "stars" 18 --> 22
     line [19, 20, 21, 21]
 ```
 
-2026-11-08 19 → 2026-11-26 21（+2）
+2026-11-08 19 → 2026-11-27 21（+2）
 
 
 ---

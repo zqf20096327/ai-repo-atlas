@@ -1,6 +1,6 @@
 # Sidiora-Labs/hyperfide-oss
 
-⭐ 622 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Sidiora-Labs/hyperfide-oss) · [官网](https://www.hyperfide.com) · 组织维护
+⭐ 620 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Sidiora-Labs/hyperfide-oss) · [官网](https://www.hyperfide.com) · 组织维护
 
 **单二进制 agent 工作流引擎：管理任务规划、代码图谱与记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sidiora-Labs/hyperfide-oss 星数(近 7 点)"
-    x-axis ["2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 620 --> 638
-    line [637, 625, 624, 623, 622, 621, 622]
+    title "Sidiora-Labs/hyperfide-oss 星数(近 8 点)"
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 619 --> 638
+    line [637, 625, 624, 623, 622, 621, 622, 620]
 ```
 
-2026-11-16 637 → 2026-11-26 622（-15）
+2026-11-16 637 → 2026-11-27 620（-17）
 
 
 ---

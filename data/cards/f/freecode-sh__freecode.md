@@ -1,6 +1,6 @@
 # freecode-sh/freecode
 
-⭐ 14 · 推送 2026-09-11 · [GitHub](https://github.com/freecode-sh/freecode) · [官网](https://freecode.sh) · 组织维护
+⭐ 15 · 推送 2026-09-11 · [GitHub](https://github.com/freecode-sh/freecode) · [官网](https://freecode.sh) · 组织维护
 
 **面向初级/中级程序员的终端免费编码 agent**
 
@@ -45,12 +45,12 @@ freecode 是一个运行在终端里的编码 agent，定位为免费产品，�
 ```mermaid
 xychart-beta
     title "freecode-sh/freecode 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 12, 13, 14, 14]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-22", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 13, 14, 15]
 ```
 
-2026-10-24 10 → 2026-11-26 14（+4）
+2026-10-25 10 → 2026-11-27 15（+5）
 
 
 ---

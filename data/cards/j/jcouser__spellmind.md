@@ -1,6 +1,6 @@
 # jcouser/spellmind
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/jcouser/spellmind) · [官网](https://github.com/jcouser/spellmind) · 个人维护
+⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/jcouser/spellmind) · [官网](https://github.com/jcouser/spellmind) · 个人维护
 
 **给魔兽世界玩家用的游戏内 AI 问答伴侣插件+桌面应用**
 
@@ -40,6 +40,18 @@
 > L23: - **The addon**, in the game. It works on its own, with no app and no AI: a quest route built from your own quest l
 > L24: - **The free desktop app** (Windows 10 and 11). It sends your question, with the game data you allow, to **your own
 > L162: Pick your AI, its model and thinking level. It sits by the clock while you play, keeps the addon up to date and up
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jcouser/spellmind 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

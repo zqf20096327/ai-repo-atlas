@@ -1,6 +1,6 @@
 # matinsizen/ai-3d-animator-skill
 
-⭐ 82 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/matinsizen/ai-3d-animator-skill) · [官网](https://matinsizen.github.io/ai-3d-animator-skill/) · 个人维护
+⭐ 86 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/matinsizen/ai-3d-animator-skill) · [官网](https://matinsizen.github.io/ai-3d-animator-skill/) · 个人维护
 
 **让任意 LLM agent 掌握专业 3D 建模与动画制作的技能知识包**
 
@@ -39,6 +39,18 @@
 
 > L11: Format: Agent Skill
 > L20: **Pro 3D Animator** is a complete Agent Skill — a structured knowledge package (`SKILL.md` + 7 reference documents 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "matinsizen/ai-3d-animator-skill 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 81 --> 87
+    line [82, 86]
+```
+
+2026-11-26 82 → 2026-11-27 86（+4）
 
 
 ---

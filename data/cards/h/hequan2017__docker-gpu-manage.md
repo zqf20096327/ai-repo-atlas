@@ -1,6 +1,6 @@
 # hequan2017/docker-gpu-manage
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/hequan2017/docker-gpu-manage) · 个人维护 · 中文 README
+⭐ 17 · Go · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/hequan2017/docker-gpu-manage) · 个人维护 · 中文 README
 
 **企业级 Docker GPU 算力资源管理平台：纳管节点、创建与回收 GPU 容器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hequan2017/docker-gpu-manage 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 17（+1）
 
 
 ---

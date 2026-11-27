@@ -1,6 +1,6 @@
 # yinoni/verilays
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/yinoni/verilays) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/yinoni/verilays) · 个人维护
 
 **核验 agent 声称的数据库写操作是否真实发生的工具**
 
@@ -40,6 +40,18 @@
 > L5: An agent's "done" is a self-report. Verilays is an open-source tool that checks your database to see if what the age
 > L9: Your agent tells a customer "you're booked for Tuesday at 10:00". The tool returned success, the trace looks fine, a
 > L43: **Let your coding agent do it.** Add the skill, then ask Claude Code, Cursor or Codex to add Verilays to your agent
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yinoni/verilays 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
+```
+
+2026-11-26 9 → 2026-11-27 9（+0）
 
 
 ---

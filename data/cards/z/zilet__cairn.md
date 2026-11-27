@@ -1,6 +1,6 @@
 # zilet/cairn
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zilet/cairn) · [官网](https://codespaces.new/zilet/cairn) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zilet/cairn) · [官网](https://codespaces.new/zilet/cairn) · 个人维护
 
 **自托管健康教练系统：整合训练/饮食/睡眠/体检数据给出每日建议**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zilet/cairn 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 9 --> 13
     line [10, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # werner-duvaud/muzero-general
 
-⭐ 2,880 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/werner-duvaud/muzero-general) · [官网](https://github.com/werner-duvaud/muzero-general/wiki/MuZero-Documentation) · 个人维护
+⭐ 2,881 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/werner-duvaud/muzero-general) · [官网](https://github.com/werner-duvaud/muzero-general/wiki/MuZero-Documentation) · 个人维护
 
 **给研究者的 MuZero 教学级 PyTorch 实现，可接入 Gymnasium 环境训练**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "werner-duvaud/muzero-general 星数(近 9 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-26"]
+    title "werner-duvaud/muzero-general 星数(近 10 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2876 --> 2882
-    line [2877, 2878, 2880, 2879, 2880, 2881, 2877, 2878, 2880]
+    line [2877, 2878, 2880, 2879, 2880, 2881, 2877, 2878, 2880, 2881]
 ```
 
-2026-10-30 2,877 → 2026-11-26 2,880（+3）
+2026-10-30 2,877 → 2026-11-27 2,881（+4）
 
 
 ---

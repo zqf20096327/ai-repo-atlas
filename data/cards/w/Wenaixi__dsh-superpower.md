@@ -1,6 +1,6 @@
 # Wenaixi/dsh-superpower
 
-⭐ 30 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Wenaixi/dsh-superpower) · [官网](https://www.npmjs.com/package/@wenaixi/dsh-superpower) · 个人维护 · 中文 README
+⭐ 31 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Wenaixi/dsh-superpower) · [官网](https://www.npmjs.com/package/@wenaixi/dsh-superpower) · 个人维护 · 中文 README
 
 **DSH 插件：为 agent 运行时注入 15 个工程纪律技能，双语切换可开关**
 
@@ -45,12 +45,12 @@ obra/superpowers 的 DeepSeek Harness 移植插件，将 15 个工程方法论�
 ```mermaid
 xychart-beta
     title "Wenaixi/dsh-superpower 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 24 --> 31
-    line [25, 26, 25, 29, 30, 29, 30, 30]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 24 --> 32
+    line [25, 26, 25, 29, 30, 29, 30, 31]
 ```
 
-2026-10-24 25 → 2026-11-26 30（+5）
+2026-10-25 25 → 2026-11-27 31（+6）
 
 
 ---

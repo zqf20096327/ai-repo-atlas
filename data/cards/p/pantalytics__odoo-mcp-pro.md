@@ -1,6 +1,6 @@
 # pantalytics/odoo-mcp-pro
 
-⭐ 95 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/pantalytics/odoo-mcp-pro) · [官网](https://www.pantalytics.com/apps/odoo-mcp-server) · 组织维护
+⭐ 96 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/pantalytics/odoo-mcp-pro) · [官网](https://www.pantalytics.com/apps/odoo-mcp-server) · 组织维护
 
 **把 Odoo ERP 接入 AI 助手的 MCP 连接器（托管/自托管）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pantalytics/odoo-mcp-pro 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 87 --> 96
-    line [88, 89, 88, 91, 92, 93, 94, 95, 95]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 87 --> 97
+    line [88, 89, 88, 91, 92, 93, 94, 95, 96]
 ```
 
-2026-10-24 88 → 2026-11-26 95（+7）
+2026-10-25 88 → 2026-11-27 96（+8）
 
 
 ---

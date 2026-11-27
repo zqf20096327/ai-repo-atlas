@@ -1,6 +1,6 @@
 # argszero/emrg
 
-⭐ 14 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/argszero/emrg) · [官网](https://app.args.fun/emrg) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/argszero/emrg) · [官网](https://app.args.fun/emrg) · 个人维护 · 中文 README
 
 **自称可自我改进的终端/GUI 编程 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "argszero/emrg 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 14]
 ```
 
-2026-10-24 12 → 2026-11-26 14（+2）
+2026-10-25 12 → 2026-11-27 14（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # stoneskin/muse-thinktank
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/stoneskin/muse-thinktank) · [官网](https://github.com/stoneskin/muse-thinktank#readme) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **多模型辩论编排 CLI：一次提问多模型交叉验证出结论**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -40,6 +40,18 @@ Blank Engineers 团队发布的实验性语言模型 Clyffe（ARC-LB-01）：不
 > L13: **Clyffe** is an independently initialized, independently trained experimental language model built from random ini
 > L23: - **100% Offline Packed Inference:** Executes directly on `int32`-packed binary factors and FP16 scales via CLI (`r
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BlankEngineers/Clyffe 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a1d5e60f4245` · [字段定义](../../DATASET.md)*

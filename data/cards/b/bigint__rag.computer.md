@@ -1,6 +1,6 @@
 # bigint/rag.computer
 
-⭐ 100 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/bigint/rag.computer) · [官网](https://rag.computer) · 个人维护
+⭐ 100 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bigint/rag.computer) · [官网](https://rag.computer) · 个人维护
 
 **可自托管的 RAG 平台：文档摄取、嵌入与向量检索封装为 REST API**
 
@@ -46,12 +46,12 @@ bigRAG 是基于 Turbopuffer 的开源自托管 RAG 平台，通过统一 REST A
 ```mermaid
 xychart-beta
     title "bigint/rag.computer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-24 100 → 2026-11-26 100（+0）
+2026-10-25 100 → 2026-11-27 100（+0）
 
 
 ---

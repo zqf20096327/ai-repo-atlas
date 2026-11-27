@@ -1,6 +1,6 @@
 # UPC-ViRVIG/pymotion
 
-⭐ 68 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/UPC-ViRVIG/pymotion) · 组织维护
+⭐ 69 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/UPC-ViRVIG/pymotion) · 组织维护
 
 **面向角色动画神经网络的动作数据处理 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "UPC-ViRVIG/pymotion 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-24 68 → 2026-11-26 68（+0）
+2026-10-25 68 → 2026-11-27 69（+1）
 
 
 ---

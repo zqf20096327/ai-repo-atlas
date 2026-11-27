@@ -1,6 +1,6 @@
 # cebernic/deepnow
 
-⭐ 54 · C · 推送 2026-07-14 · [GitHub](https://github.com/cebernic/deepnow) · 个人维护 · 中文 README
+⭐ 53 · C · 推送 2026-07-14 · [GitHub](https://github.com/cebernic/deepnow) · 个人维护 · 中文 README
 
 **Go 编写的 LLM 算力网关：多模型聚合调度与内置本地 RAG**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cebernic/deepnow 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
     y-axis "stars" 52 --> 55
-    line [54, 53, 54, 54]
+    line [54, 53, 54, 53]
 ```
 
-2026-10-24 54 → 2026-11-26 54（+0）
+2026-10-25 54 → 2026-11-27 53（-1）
 
 
 ---

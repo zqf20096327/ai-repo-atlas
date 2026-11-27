@@ -1,6 +1,6 @@
 # meltforce/FreeReps
 
-⭐ 25 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/meltforce/FreeReps) · [官网](https://freereps.meltforce.org/) · 个人维护
+⭐ 27 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/meltforce/FreeReps) · [官网](https://freereps.meltforce.org/) · 个人维护
 
 **自托管健康/训练数据服务器，带可视化仪表盘与 MCP 接口**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "meltforce/FreeReps 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 19 --> 26
-    line [20, 21, 22, 20, 23, 24, 25]
+    title "meltforce/FreeReps 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 28
+    line [20, 21, 22, 20, 23, 24, 25, 27]
 ```
 
-2026-10-24 20 → 2026-11-26 25（+5）
+2026-10-25 20 → 2026-11-27 27（+7）
 
 
 ---

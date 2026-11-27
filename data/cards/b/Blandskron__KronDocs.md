@@ -41,6 +41,18 @@
 > L5: Aplicación de código abierto para la gestión y consulta documental, desarrollada por Blandskron. Permite cargar y or
 > L29: |`01:01 – 01:22`|**4. Chat documental RAG híbrido con citas**|`/`|Fusión `pgvector` HNSW + FTS con Reciprocal Rank 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Blandskron/KronDocs 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-26 12 → 2026-11-27 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9e01b0953c97` · [字段定义](../../DATASET.md)*

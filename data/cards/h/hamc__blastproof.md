@@ -45,13 +45,13 @@ Node.js CLI（Node >= 20.19）形式的 CI 端到端测试代理：以纯英文 
 
 ```mermaid
 xychart-beta
-    title "hamc/blastproof 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "hamc/blastproof 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
 ```
 
-2026-10-24 10 → 2026-11-26 11（+1）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

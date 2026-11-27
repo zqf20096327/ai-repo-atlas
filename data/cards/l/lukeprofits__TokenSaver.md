@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lukeprofits/TokenSaver 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-26"]
+    title "lukeprofits/TokenSaver 星数(近 4 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 3]
+    line [3, 4, 3, 3]
 ```
 
-2026-11-14 3 → 2026-11-26 3（+0）
+2026-11-14 3 → 2026-11-27 3（+0）
 
 
 ---

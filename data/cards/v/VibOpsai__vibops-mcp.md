@@ -1,6 +1,6 @@
 # VibOpsai/vibops-mcp
 
-⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VibOpsai/vibops-mcp) · [官网](https://vibops.ai) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/VibOpsai/vibops-mcp) · [官网](https://vibops.ai) · 组织维护
 
 **MCP 服务器：让 AI 助手操作 GPU 基础设施与 Agent FinOps**
 
@@ -46,12 +46,12 @@ vibops-mcp 是连接 AI 助手与 VibOps 平台的 MCP 服务器，通过 pip �
 ```mermaid
 xychart-beta
     title "VibOpsai/vibops-mcp 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 18 --> 21
     line [19, 20, 19, 20, 20]
 ```
 
-2026-10-24 19 → 2026-11-26 20（+1）
+2026-10-25 19 → 2026-11-27 20（+1）
 
 
 ---

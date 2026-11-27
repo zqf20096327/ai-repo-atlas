@@ -1,10 +1,10 @@
 # molly554/whiteboard-ai-tutor
 
-⭐ 567 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/molly554/whiteboard-ai-tutor) · [官网](https://molly554.github.io/whiteboard-ai-tutor/) · 个人维护 · 中文 README
+⭐ 571 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/molly554/whiteboard-ai-tutor) · [官网](https://molly554.github.io/whiteboard-ai-tutor/) · 个人维护 · 中文 README
 
-**在白板上边写边画的 AI 辅导应用与模型教学基准**
+**在白板上边写边画的 AI 家教，附六模型教学效果基准**
 
-仓库包含两部分：一个白板教学循环的参考实现——模型以 JSON 流式输出绘图指令，浏览器播放器将其渲染为手写过程，学生可随时打断，应用把当前板书回传模型继续；以及一个教学能力基准——同一冻结提示词、8 个场景（科学/数学/经济）、6 个模型、288 次生成，产出 64 块经盲评的板书。播放器支持回放、PDF 导出与模型对比视图；生成新课需自备 API key 运行 runner。项目明确说明不是托管辅导应用。
+项目包含两部分：一是「协议+播放器+运行器」的参考实现——LLM 按冻结提示词流式输出 JSON 绘图指令（write/line/rect/ellipse/path/erase 六种操作），浏览器播放器将其渲染为逐笔手写讲解，学生打断时把当前板书回传模型继续；二是基准评测——同一提示词、8 个场景、6 个模型、288 次生成、64 块盲评板书，附排行榜、自动指标与人工审计流程。播放器可回放课程并导出 PDF；生成新课程需自备 API key。提供中文协议提示词与评测方法文档。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 模型输出 6 种 JSON 操作（write/line/rect/ellipse/path/erase）渲染为白板手写动画
-- 学生打断时将板书对象状态回传模型，模型仅回复新步骤
-- 288 次运行、6 模型的盲评基准，64 块板书全部可回放
-- 导出 A4 横向 PDF，无需 API key 或服务端服务
+- 模型仅输出 JSON 绘图指令，播放器渲染为可打断的白板手写回放
+- 288 次生成、64 块盲评板书的六模型教学基准与排行榜
+- 打断机制：将板书对象（id/包围盒/文本）回传模型继续讲解
+- 课程可导出 A4 横版 PDF，无需服务端
 
 ## 适用场景
 
-- 回放并对比不同模型对同一问题的白板讲解
-- 复现基准流程评估自己的模型
-- 导出录制课程为 PDF 讲义
+- 给学生学习科学/数学/经济学概念的白板动画讲解
+- 对比不同 LLM 在同一问题上的板书教学质量
+- 复现或扩展白板教学协议的评测研究
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
-> L3: **An open-source AI tutor that teaches on a whiteboard — and a benchmark of which LLM does it best.**
-> L27: in — looks like a model capability. It isn't. It is a small protocol: the model streams drawing instructions as JSO
+> L30: So any LLM can be the tutor. This repository is two things:
+> L32: - **A reference implementation** of that loop: the protocol, a whiteboard player, and a runner for Claude, Gemini a
 > L34: - **A benchmark** of how well they teach: same prompt, same eight scenarios (science, maths, economics), six models
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "molly554/whiteboard-ai-tutor 星数(近 14 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 622
-    line [14, 53, 95, 137, 183, 208, 220, 256, 359, 453, 522, 548, 556, 567]
+    title "molly554/whiteboard-ai-tutor 星数(近 15 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 626
+    line [14, 53, 95, 137, 183, 208, 220, 256, 359, 453, 522, 548, 556, 567, 571]
 ```
 
-2026-11-11 14 → 2026-11-26 567（+553）
+2026-11-11 14 → 2026-11-27 571（+557）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `08fc3200c912` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4159a4c95bd6` · [字段定义](../../DATASET.md)*

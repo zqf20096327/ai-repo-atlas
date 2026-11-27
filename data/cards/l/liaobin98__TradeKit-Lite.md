@@ -1,6 +1,6 @@
 # liaobin98/TradeKit-Lite
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/liaobin98/TradeKit-Lite) · [官网](https://tradekit.utilcove.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给外贸人的轻量级单据工作台：制单、导出、打印免账号**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

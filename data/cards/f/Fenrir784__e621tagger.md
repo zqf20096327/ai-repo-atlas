@@ -1,6 +1,6 @@
 # Fenrir784/e621tagger
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Fenrir784/e621tagger) · [官网](https://tagger.fenrir784.app) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/Fenrir784/e621tagger) · [官网](https://tagger.fenrir784.app) · 个人维护
 
 **为 furry 作品自动生成 e621 标签的网页工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Fenrir784/e621tagger 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-28", "2026-11-10", "2026-11-27"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-10-28 10 → 2026-11-26 11（+1）
+2026-10-28 10 → 2026-11-27 10（+0）
 
 
 ---

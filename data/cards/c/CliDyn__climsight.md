@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CliDyn/climsight 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    title "CliDyn/climsight 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 65 --> 67
+    line [66, 66]
 ```
 
-2026-10-24 65 → 2026-11-26 66（+1）
+2026-10-25 66 → 2026-11-27 66（+0）
 
 
 ---

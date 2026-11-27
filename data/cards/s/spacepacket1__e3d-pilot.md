@@ -41,6 +41,18 @@ e3d-pilot 让多个已配置的 AI 模型回答同一问题：各模型独立作
 > L5: e3d-debate: independent AI models answer a question, critique each other across rounds, converge on a synthesis with
 > L9: It starts simply. Ask several configured models (Claude, Codex, Grok, Devin, or others you wire in) the same questio
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "spacepacket1/e3d-pilot 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `0b83e90ca81b` · [字段定义](../../DATASET.md)*

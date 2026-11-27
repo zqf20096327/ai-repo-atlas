@@ -1,6 +1,6 @@
 # takeshy/obsidian-llm-hub
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/takeshy/obsidian-llm-hub) · 个人维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/takeshy/obsidian-llm-hub) · 个人维护
 
 **Obsidian 多模型 AI 助手插件：聊天、工作流与语义搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "takeshy/obsidian-llm-hub 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 35 --> 44
-    line [36, 37, 38, 37, 40, 41, 43, 43]
+    title "takeshy/obsidian-llm-hub 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 36 --> 45
+    line [37, 38, 37, 40, 41, 43, 44]
 ```
 
-2026-10-24 36 → 2026-11-26 43（+7）
+2026-10-25 37 → 2026-11-27 44（+7）
 
 
 ---

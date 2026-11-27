@@ -1,6 +1,6 @@
 # LangerSword/hermes-igni
 
-⭐ 5 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/LangerSword/hermes-igni) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/LangerSword/hermes-igni) · 个人维护
 
 **Hermes Agent 的巫师风卡牌游戏插件：昆特牌与法力对决**
 
@@ -40,6 +40,18 @@
 > L3: **A Witcher-inspired card game plugin for Hermes Agent.** Igni runs two real,
 > L24: The opponent is a local rule-based AI. It sees its own hand and the public
 > L28: No API keys. No network. No model calls. The engine is Python standard library;
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LangerSword/hermes-igni 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-26 5 → 2026-11-27 6（+1）
 
 
 ---

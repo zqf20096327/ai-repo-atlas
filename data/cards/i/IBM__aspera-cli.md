@@ -1,6 +1,6 @@
 # IBM/aspera-cli
 
-⭐ 103 · Ruby · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/IBM/aspera-cli) · [官网](https://ibm.github.io/aspera-cli/) · 组织维护
+⭐ 103 · Ruby · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/IBM/aspera-cli) · [官网](https://ibm.github.io/aspera-cli/) · 组织维护
 
 **IBM Aspera 传输产品的命令行工具与 MCP 服务器**
 
@@ -44,13 +44,13 @@ IBM Aspera 的官方命令行接口 ascli，从终端或脚本驱动 Aspera on C
 
 ```mermaid
 xychart-beta
-    title "IBM/aspera-cli 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    title "IBM/aspera-cli 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 101 --> 104
-    line [102, 103]
+    line [102, 103, 103]
 ```
 
-2026-11-16 102 → 2026-11-26 103（+1）
+2026-11-16 102 → 2026-11-27 103（+1）
 
 
 ---

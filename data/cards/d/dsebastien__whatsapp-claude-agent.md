@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dsebastien/whatsapp-claude-agent 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    title "dsebastien/whatsapp-claude-agent 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-24 41 → 2026-11-26 43（+2）
+2026-10-25 42 → 2026-11-27 43（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # YHD-yhd-coder/nl2tex
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/YHD-yhd-coder/nl2tex) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/YHD-yhd-coder/nl2tex) · 个人维护 · 中文 README
 
 **把中英文公式描述/截图转成可编译 LaTeX 的本地工具**
 
@@ -40,6 +40,18 @@
 > L3: 用一句中文（或英文）描述一个公式，得到**能直接编译**的 LaTeX。
 > L35: 手写 LaTeX 的门槛不在语法，而在"想到那个符号叫什么"。你知道要写求和，但不确定是 `\sum_{k=1}^{n}` 还是 `\sum\limits_{k=1}^n`；你知道要写下标，但多字母下标忘了 `\mathrm{}`
 > L45: - **多家供应商**：DeepSeek / Kimi / 智谱 / 通义千问 / SiliconFlow / OpenRouter，或任何 OpenAI 兼容网关
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YHD-yhd-coder/nl2tex 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
+```
+
+2026-11-26 14 → 2026-11-27 15（+1）
 
 
 ---

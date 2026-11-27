@@ -1,6 +1,6 @@
 # Fuwn/faustus
 
-⭐ 10 · Go · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Fuwn/faustus) · 个人维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-02-27 · [GitHub](https://github.com/Fuwn/faustus) · 个人维护
 
 **管理 Claude Code 会话的终端 TUI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fuwn/faustus 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    title "Fuwn/faustus 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 12
-    line [11, 10, 10]
+    line [10, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 10（-1）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

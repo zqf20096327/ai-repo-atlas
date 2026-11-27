@@ -1,6 +1,6 @@
 # getalden/alden
 
-⭐ 96 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/getalden/alden) · [官网](https://getalden.dev) · 个人维护
+⭐ 94 · TypeScript · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/getalden/alden) · [官网](https://getalden.dev) · 个人维护
 
 **本地运行的 PR 审查助手：排序待审 PR 并定位需关注代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "getalden/alden 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 95 --> 99
-    line [98, 96, 96]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 93 --> 99
+    line [98, 96, 94]
 ```
 
-2026-10-24 98 → 2026-11-26 96（-2）
+2026-10-25 98 → 2026-11-27 94（-4）
 
 
 ---

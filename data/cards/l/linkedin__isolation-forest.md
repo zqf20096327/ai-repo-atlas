@@ -1,6 +1,6 @@
 # linkedin/isolation-forest
 
-⭐ 266 · Scala · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/linkedin/isolation-forest) · 组织维护
+⭐ 267 · Scala · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/linkedin/isolation-forest) · 组织维护
 
 **给数据工程师的 Spark/Scala 分布式孤立森林异常检测库**
 
@@ -45,12 +45,12 @@ LinkedIn 反滥用 AI 团队维护的 Scala/Spark 实现，提供标准孤立森
 ```mermaid
 xychart-beta
     title "linkedin/isolation-forest 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 264 --> 267
-    line [265, 266, 266]
+    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 264 --> 268
+    line [265, 266, 267]
 ```
 
-2026-10-24 265 → 2026-11-26 266（+1）
+2026-10-25 265 → 2026-11-27 267（+2）
 
 
 ---

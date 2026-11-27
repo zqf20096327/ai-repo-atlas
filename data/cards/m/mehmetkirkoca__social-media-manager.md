@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mehmetkirkoca/social-media-manager 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "mehmetkirkoca/social-media-manager 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 100 --> 103
-    line [101, 102]
+    line [101, 102, 102]
 ```
 
-2026-10-24 101 → 2026-11-26 102（+1）
+2026-10-25 101 → 2026-11-27 102（+1）
 
 
 ---

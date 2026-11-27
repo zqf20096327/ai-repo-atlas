@@ -1,6 +1,6 @@
 # theYahia/YaAll
 
-⭐ 16 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/theYahia/YaAll) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/theYahia/YaAll) · 个人维护
 
 **为 MCP 客户端提供 10 个 Yandex 服务 MCP 服务器合集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "theYahia/YaAll 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 9 --> 17
-    line [10, 12, 14, 15, 16, 16]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 9 --> 18
+    line [10, 12, 14, 15, 16, 17]
 ```
 
-2026-10-28 10 → 2026-11-26 16（+6）
+2026-10-28 10 → 2026-11-27 17（+7）
 
 
 ---

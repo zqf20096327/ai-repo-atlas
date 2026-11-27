@@ -1,6 +1,6 @@
 # 7tg/django-admin-mcp
 
-⭐ 33 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/7tg/django-admin-mcp) · [官网](https://7tg.github.io/django-admin-mcp/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/7tg/django-admin-mcp) · [官网](https://7tg.github.io/django-admin-mcp/) · 个人维护
 
 **把 Django Admin 模型暴露为 MCP 工具的 Python 包**
 
@@ -45,12 +45,12 @@ Django 应用，向 ModelAdmin 添加一个 mixin 即可为 MCP 客户端生成 
 ```mermaid
 xychart-beta
     title "7tg/django-admin-mcp 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
     y-axis "stars" 29 --> 34
     line [30, 31, 30, 31, 32, 33, 33]
 ```
 
-2026-10-24 30 → 2026-11-26 33（+3）
+2026-10-25 30 → 2026-11-27 33（+3）
 
 
 ---

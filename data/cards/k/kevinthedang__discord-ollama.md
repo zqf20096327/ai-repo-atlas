@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kevinthedang/discord-ollama 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "kevinthedang/discord-ollama 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 195 --> 198
-    line [196, 197]
+    line [196, 197, 197]
 ```
 
-2026-10-24 196 → 2026-11-26 197（+1）
+2026-10-25 196 → 2026-11-27 197（+1）
 
 
 ---

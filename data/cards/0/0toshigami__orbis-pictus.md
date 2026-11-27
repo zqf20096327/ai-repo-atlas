@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0toshigami/orbis-pictus 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "0toshigami/orbis-pictus 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 26 --> 29
-    line [28, 27]
+    line [28, 27, 27]
 ```
 
-2026-10-24 28 → 2026-11-26 27（-1）
+2026-10-25 28 → 2026-11-27 27（-1）
 
 
 ---

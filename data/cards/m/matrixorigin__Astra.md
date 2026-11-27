@@ -1,6 +1,6 @@
 # matrixorigin/Astra
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/matrixorigin/Astra) · 组织维护 · 中文 README
+⭐ 37 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/matrixorigin/Astra) · 组织维护 · 中文 README
 
 **面向企业的自托管 agent 运行时：治理上下文到执行的完整链路**
 
@@ -46,12 +46,12 @@ Astra 是一个用 Rust/TypeScript 实现的自托管长时 agent 运行时，�
 ```mermaid
 xychart-beta
     title "matrixorigin/Astra 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 34 --> 37
-    line [35, 36, 35, 36, 36]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 35, 36, 37]
 ```
 
-2026-10-24 35 → 2026-11-26 36（+1）
+2026-10-25 35 → 2026-11-27 37（+2）
 
 
 ---

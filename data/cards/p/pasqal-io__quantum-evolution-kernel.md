@@ -1,6 +1,6 @@
 # pasqal-io/quantum-evolution-kernel
 
-⭐ 59 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/pasqal-io/quantum-evolution-kernel) · [官网](https://pasqal-io.github.io/quantum-evolution-kernel/latest/) · 组织维护
+⭐ 60 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/pasqal-io/quantum-evolution-kernel) · [官网](https://pasqal-io.github.io/quantum-evolution-kernel/latest/) · 组织维护
 
 **量子计算图相似度核的图机器学习 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pasqal-io/quantum-evolution-kernel 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-24 59 → 2026-11-26 59（+0）
+2026-10-25 59 → 2026-11-27 60（+1）
 
 
 ---

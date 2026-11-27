@@ -1,6 +1,6 @@
 # systempromptio/systemprompt-template
 
-⭐ 30 · Rust · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/systempromptio/systemprompt-template) · [官网](https://systemprompt.io) · 组织维护
+⭐ 30 · Rust · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/systempromptio/systemprompt-template) · [官网](https://systemprompt.io) · 组织维护
 
 **自托管 AI 治理评估模板：网关认证、授权、限流与审计**
 
@@ -45,12 +45,12 @@ SystemPrompt 的本地评估模板，由 Core（Rust 编译运行时）加配置
 ```mermaid
 xychart-beta
     title "systempromptio/systemprompt-template 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-24 29 → 2026-11-26 30（+1）
+2026-10-25 29 → 2026-11-27 30（+1）
 
 
 ---

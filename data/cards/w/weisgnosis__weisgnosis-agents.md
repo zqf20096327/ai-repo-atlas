@@ -46,12 +46,12 @@ Scala 3 / ZIO 2 编写的 agent 运行时库：应用方提供模型与工具，
 ```mermaid
 xychart-beta
     title "weisgnosis/weisgnosis-agents 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-24 6 → 2026-11-26 6（+0）
+2026-10-25 6 → 2026-11-27 6（+0）
 
 
 ---

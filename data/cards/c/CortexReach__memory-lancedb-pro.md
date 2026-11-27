@@ -1,10 +1,10 @@
 # CortexReach/memory-lancedb-pro
 
-⭐ 4,446 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/CortexReach/memory-lancedb-pro) · [官网](https://www.bilibili.com/video/BV1iWwtztEQf/) · 个人维护 · 中文 README
+⭐ 4,447 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/CortexReach/memory-lancedb-pro) · [官网](https://www.bilibili.com/video/BV1zUf2BGEgn/) · 个人维护 · 中文 README
 
-**OpenClaw agent 的长期记忆插件：自动捕获并按需召回上下文**
+**为 OpenClaw Agent 提供长期记忆的 LanceDB 插件**
 
-基于 LanceDB 的 OpenClaw 记忆插件，自动从对话中捕获偏好、决策与项目上下文，按 6 类做 LLM 抽取，用 Weibull 衰减模型让噪声记忆自然淡出；检索采用向量+BM25 混合并经 cross-encoder 重排，回复前自动注入相关记忆，支持按 agent/用户/项目隔离记忆边界。提供 CLI、备份、迁移、导出导入等管理工具，需 CPU 支持 AVX 指令。面向使用 OpenClaw 的 agent 用户。
+面向 OpenClaw Agent 的记忆插件，以 LanceDB 为向量存储，自动从对话中捕获偏好、决策与项目上下文，并在后续会话中自动召回注入。机制包括 LLM 驱动的 6 类记忆分类、Weibull 衰减遗忘模型、向量+BM25 混合检索与 cross-encoder 重排、按 Agent/用户/项目的多范围隔离，并提供 CLI 备份、迁移、导出导入等管理工具。要求 OpenClaw 2026.3+，CPU 需支持 AVX 指令。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 向量+BM25 混合检索，cross-encoder 重排
-- LLM 6 类抽取与 Weibull 衰减的智能遗忘
-- 多作用域隔离（per-agent/per-user/per-project）
-- CLI、备份、迁移、导出导入完整工具链
+- 自动捕获 + LLM 6 类记忆分类（profiles/preferences/entities/events/cases/patterns）
+- 混合检索：Vector + BM25 融合 cross-encoder 重排
+- Weibull 衰减的智能遗忘与多范围记忆隔离
+- CLI 工具链：备份、迁移、升级、导出/导入
 
 ## 适用场景
 
-- 让 agent 跨会话记住我的编码偏好和项目决策
-- 多个 agent、多个项目之间隔离各自记忆
-- 生产环境中对 agent 记忆做备份和迁移
+- 让 Agent 记住我的编码偏好并在新会话自动应用
+- 查询团队过去讨论过的技术选型决策
+- 多个 Agent/项目各自维护独立的记忆边界
 
 ## 场景标签
 
@@ -38,20 +38,21 @@
 ## 证据(README 行号)
 
 > L9: A LanceDB-backed OpenClaw memory plugin that stores preferences, decisions, and project context, then auto-recalls t
-> L59: |**Multi-Scope Isolation**|Per-agent, per-user, per-project memory boundaries|
+> L28: **memory-lancedb-pro** is a production-grade long-term memory plugin for OpenClaw that turns your agent into an **A
+> L60: |**Any Provider**|OpenAI, Jina, Gemini, Ollama, or any OpenAI-compatible API|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "CortexReach/memory-lancedb-pro 星数(近 15 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-22", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-22", "2026-11-23", "2026-11-27"]
     y-axis "stars" 4445 --> 4455
-    line [4454, 4453, 4451, 4450, 4451, 4452, 4453, 4454, 4449, 4448, 4449, 4447, 4448, 4446, 4446]
+    line [4454, 4453, 4451, 4450, 4451, 4452, 4453, 4454, 4449, 4448, 4449, 4447, 4448, 4446, 4447]
 ```
 
-2026-10-24 4,454 → 2026-11-26 4,446（-8）
+2026-10-25 4,454 → 2026-11-27 4,447（-7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d387e2ff4ec1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4da9bedf5076` · [字段定义](../../DATASET.md)*

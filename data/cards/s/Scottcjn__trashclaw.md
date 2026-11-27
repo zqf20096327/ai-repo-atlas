@@ -1,6 +1,6 @@
 # Scottcjn/trashclaw
 
-⭐ 75 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/trashclaw) · [官网](https://rustchain.org) · 组织维护
+⭐ 74 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/trashclaw) · [官网](https://rustchain.org) · 组织维护
 
 **零依赖单文件本地 LLM 工具调用 agent，面向老旧硬件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/trashclaw 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 74 --> 78
-    line [75, 76, 77, 76, 75, 75]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 73 --> 78
+    line [75, 76, 77, 76, 75, 74]
 ```
 
-2026-10-29 75 → 2026-11-26 75（+0）
+2026-10-29 75 → 2026-11-27 74（-1）
 
 
 ---

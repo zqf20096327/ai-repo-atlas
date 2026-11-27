@@ -1,6 +1,6 @@
 # KazKozDev/cbt-assistant
 
-⭐ 21 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KazKozDev/cbt-assistant) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KazKozDev/cbt-assistant) · 个人维护
 
 **本地运行的 CBT 心理健康聊天机器人与自助日志应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KazKozDev/cbt-assistant 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 21, 21]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 21, 22]
 ```
 
-2026-10-24 18 → 2026-11-26 21（+3）
+2026-10-25 18 → 2026-11-27 22（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # genesiscosmos/downcity
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/genesiscosmos/downcity) · [官网](https://downcity.ai) · 组织维护 · 中文 README
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/genesiscosmos/downcity) · [官网](https://downcity.ai) · 组织维护 · 中文 README
 
 **给 AI 开发者的 Agent 基础设施运行时：统一管理多个 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "genesiscosmos/downcity 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-26 10（+0）
+2026-11-02 10 → 2026-11-27 10（+0）
 
 
 ---

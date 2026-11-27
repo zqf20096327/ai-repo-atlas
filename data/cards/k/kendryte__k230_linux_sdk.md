@@ -1,6 +1,6 @@
 # kendryte/k230_linux_sdk
 
-⭐ 68 · C · BSD-2-Clause · 推送 2026-11-25 · [GitHub](https://github.com/kendryte/k230_linux_sdk) · [官网](https://www.kendryte.com/zh/sdkResource/230linux) · 组织维护 · 中文 README
+⭐ 68 · C · BSD-2-Clause · 推送 2026-11-26 · [GitHub](https://github.com/kendryte/k230_linux_sdk) · [官网](https://www.kendryte.com/zh/sdkResource/230linux) · 组织维护 · 中文 README
 
 **K230 RISC-V 芯片的 Linux SDK：构建系统镜像与运行 AI Demo**
 
@@ -45,12 +45,12 @@ Canaan Kendryte 官方维护的 K230/K230D Linux 开发套件。基于 Buildroot
 ```mermaid
 xychart-beta
     title "kendryte/k230_linux_sdk 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-22", "2026-11-27"]
     y-axis "stars" 65 --> 69
     line [66, 67, 68, 68]
 ```
 
-2026-10-24 66 → 2026-11-26 68（+2）
+2026-10-25 66 → 2026-11-27 68（+2）
 
 
 ---

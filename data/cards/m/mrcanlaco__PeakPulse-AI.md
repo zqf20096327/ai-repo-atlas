@@ -1,6 +1,6 @@
 # mrcanlaco/PeakPulse-AI
 
-⭐ 98 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mrcanlaco/PeakPulse-AI) · [官网](https://pulse.freqpilot.dev) · 个人维护 · 中文 README
+⭐ 97 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mrcanlaco/PeakPulse-AI) · [官网](https://pulse.freqpilot.dev) · 个人维护 · 中文 README
 
 **金融衍生品市场的实时异常检测与时间序列 ML 引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mrcanlaco/PeakPulse-AI 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 96 --> 99
-    line [98, 97, 98, 97, 98, 98]
+    line [98, 97, 98, 97, 98, 97]
 ```
 
-2026-10-24 98 → 2026-11-26 98（+0）
+2026-10-25 98 → 2026-11-27 97（-1）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArtJack/second-brain 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    title "ArtJack/second-brain 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 41
-    line [11, 39]
+    line [11, 39, 39]
 ```
 
-2026-11-23 11 → 2026-11-26 39（+28）
+2026-11-23 11 → 2026-11-27 39（+28）
 
 
 ---

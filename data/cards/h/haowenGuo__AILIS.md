@@ -1,6 +1,6 @@
 # haowenGuo/AILIS
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/haowenGuo/AILIS) · [官网](https://150.109.13.189/Test/) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/haowenGuo/AILIS) · [官网](https://150.109.13.189/Test/) · 个人维护 · 中文 README
 
 **开源桌面 AI 伴侣：VRM 形象、语音、长期记忆与通用 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "haowenGuo/AILIS 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 10, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

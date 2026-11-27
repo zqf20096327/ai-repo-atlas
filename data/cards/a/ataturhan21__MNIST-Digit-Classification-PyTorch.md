@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ataturhan21/MNIST-Digit-Classification-PyTorch 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-26"]
+    x-axis ["2026-11-01", "2026-11-27"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-11-01 23 → 2026-11-26 23（+0）
+2026-11-01 23 → 2026-11-27 23（+0）
 
 
 ---

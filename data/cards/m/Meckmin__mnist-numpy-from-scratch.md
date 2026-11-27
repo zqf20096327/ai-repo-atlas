@@ -40,6 +40,18 @@
 > L3: A modular neural network built from scratch using only NumPy. No PyTorch, no TensorFlow, no scikit-learn or any othe
 > L9: - **Numerically verified.** A gradient check compares every analytic gradient with a central-difference estimate; th
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Meckmin/mnist-numpy-from-scratch 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `583758e2ec2d` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Prism-Shadow/model-message-stream-protocol
 
-⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Prism-Shadow/model-message-stream-protocol) · [官网](https://mmsp.penguin.ooo/) · 个人维护
+⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Prism-Shadow/model-message-stream-protocol) · [官网](https://mmsp.penguin.ooo/) · 个人维护
 
 **统一接入 1000+ LLM 的消息流协议 SDK（Python/TS）**
 
@@ -45,12 +45,12 @@ MMSP 提供 Python 与 TypeScript SDK，用统一的消息格式（UniMessage）
 ```mermaid
 xychart-beta
     title "Prism-Shadow/model-message-stream-protocol 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-23", "2026-11-27"]
     y-axis "stars" 114 --> 126
     line [115, 116, 119, 120, 115, 123, 124, 125, 124, 124]
 ```
 
-2026-10-24 115 → 2026-11-26 124（+9）
+2026-10-25 115 → 2026-11-27 124（+9）
 
 
 ---

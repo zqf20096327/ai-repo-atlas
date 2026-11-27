@@ -1,6 +1,6 @@
 # verl-project/laminar
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/verl-project/laminar) · [官网](https://doi.org/10.1145/3767295.3803580) · 组织维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/verl-project/laminar) · [官网](https://doi.org/10.1145/3767295.3803580) · 组织维护
 
 **面向 LLM 与长程 agent 的可扩展 RL 后训练框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "verl-project/laminar 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 10 --> 54
-    line [13, 51]
+    title "verl-project/laminar 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 69
+    line [13, 51, 64]
 ```
 
-2026-11-25 13 → 2026-11-26 51（+38）
+2026-11-25 13 → 2026-11-27 64（+51）
 
 
 ---

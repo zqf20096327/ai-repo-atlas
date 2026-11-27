@@ -42,6 +42,18 @@ TaleMondo Studio 是运行在 Mac 上的 AI 视频制作工作区，覆盖创意
 > L7: The documented generation route runs H3 through ComfyUI on your NVIDIA GPU. Studio also imports custom ComfyUI graph
 > L53: - **Render and review:** Queue generation on your GPU, inspect the resulting MP4, compare takes, and approve or rej
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Klimentios/talemondo-studio 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `37882a2fad41` · [字段定义](../../DATASET.md)*

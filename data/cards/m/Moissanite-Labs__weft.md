@@ -1,6 +1,6 @@
 # Moissanite-Labs/weft
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Moissanite-Labs/weft) · [官网](https://w3ft.org) · 组织维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Moissanite-Labs/weft) · [官网](https://w3ft.org) · 组织维护
 
 **在可检查约束内研究模型能力添加与迁移的开源研究项目**
 
@@ -46,12 +46,12 @@ Moissanite Labs 的研究仓库，研究向已训练网络添加能力或在独�
 ```mermaid
 xychart-beta
     title "Moissanite-Labs/weft 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-26 3（+0）
+2026-11-16 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -47,12 +47,12 @@ QA-Core 是基于 Claude 的 Playwright 测试生成 AI agent，通过 OpenClaw 
 ```mermaid
 xychart-beta
     title "sprintsynergyio/qa-core-agent 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-11-16 26 → 2026-11-26 26（+0）
+2026-11-16 26 → 2026-11-27 26（+0）
 
 
 ---

@@ -46,12 +46,12 @@ BlendSQL 是 SQL 的超集，允许在查询中嵌入 LLM 函数（LLMQA/LLMMap/
 ```mermaid
 xychart-beta
     title "parkervg/blendsql 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 168 --> 170
     line [169, 169]
 ```
 
-2026-10-24 169 → 2026-11-26 169（+0）
+2026-10-25 169 → 2026-11-27 169（+0）
 
 
 ---

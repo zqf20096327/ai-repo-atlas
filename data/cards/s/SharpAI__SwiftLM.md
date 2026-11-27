@@ -1,10 +1,10 @@
 # SharpAI/SwiftLM
 
-⭐ 803 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SharpAI/SwiftLM) · 组织维护
+⭐ 802 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SharpAI/SwiftLM) · 组织维护
 
-**面向 Apple Silicon 的原生 Swift LLM 推理服务器，提供 OpenAI 兼容 API**
+**Apple Silicon 原生 MLX Swift LLM 推理服务器，兼容 OpenAI API**
 
-以 Swift 编写的 MLX 模型推理服务器，编译为单个二进制文件，无 Python 运行时；对外暴露 OpenAI 兼容 API。支持从 SSD 直接流式读取超大 MoE 模型的专家层（--stream-experts）、TurboQuant KV 缓存压缩（--turbo-kv）、MTP 投机解码与提示缓存。提供 macOS 预编译包、源码构建脚本（cmake + Metal kernel 编译）及 iOS 端 SwiftBuddy 应用。README 附带 M6/M5 Pro 上多款模型的吞吐与显存占用基准。
+以单一二进制交付的原生 Swift 推理服务器，加载 MLX 格式模型并以严格 OpenAI 兼容 API 对外服务；无 Python 运行时依赖，Metal 内核随发布包捆绑。支持 --stream-experts 从 NVMe SSD 流式读取超大 MoE 专家层、--turbo-kv KV 缓存压缩、--mtp 投机解码等运行选项。README 大篇幅给出 Mac mini M6 32GB 与 M5 Pro 64GB 的基准表及多个已修复的内存问题记录。另有 iOS/iPhone 应用演示。仅面向 Apple Silicon macOS 平台。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 单二进制分发，含捆绑的 mlx.metallib，无需 Python 运行时
-- SSD 流式加载（--stream-experts）支持 100B+ MoE 模型
-- TurboQuant KV 缓存压缩与 MTP 投机解码
-- 提供 iOS 端 SwiftBuddy 应用
+- OpenAI 兼容 API 的原生 Swift 推理服务器，编译为单一自包含二进制
+- --stream-experts 支持从 SSD 流式运行超大 MoE 模型
+- --turbo-kv KV 缓存压缩与 --mtp 投机解码选项
+- 附带 iPhone 应用（SwiftBuddy）演示
 
 ## 适用场景
 
-- 在 Mac 上本地运行 LLM 并通过 OpenAI 兼容 API 接入应用
-- 在 32GB 统一内存的 Mac 上运行超大 MoE 模型
-- 在 iPhone 上进行端侧模型推理
+- 在 Apple Silicon Mac 上本地部署 MLX 模型并供 OpenAI 兼容客户端调用
+- 在 32GB/64GB 统一内存设备上运行超大 MoE 模型
+- 对 Swift/MLX 推理路径做基准测试与回归验证
 
 ## 场景标签
 
@@ -38,20 +38,20 @@
 ## 证据(README 行号)
 
 > L3: A blazingly fast, native Swift inference server that serves MLX models with a strict **OpenAI-compatible API**.
-> L5: No Python runtime, no Global Interpreter Lock (GIL), no unnecessary memory copies. Just bare-metal Apple Silicon per
+> L20: ./SwiftLM --model mlx-community/Qwen2.5-3B-Instruct-4bit --port 5413
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "SharpAI/SwiftLM 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-27"]
     y-axis "stars" 786 --> 804
-    line [787, 788, 790, 791, 792, 787, 797, 796, 798, 799, 801, 802, 803, 803]
+    line [787, 788, 790, 791, 792, 787, 797, 796, 798, 799, 801, 802, 803, 802]
 ```
 
-2026-10-24 787 → 2026-11-26 803（+16）
+2026-10-25 787 → 2026-11-27 802（+15）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `bf3238ecbcaf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `064db8016180` · [字段定义](../../DATASET.md)*

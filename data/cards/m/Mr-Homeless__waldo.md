@@ -1,6 +1,6 @@
 # Mr-Homeless/waldo
 
-⭐ 432 · Python · 推送 2026-02-20 · [GitHub](https://github.com/Mr-Homeless/waldo) · [官网](https://waldo.vision/) · 个人维护
+⭐ 433 · Python · 推送 2026-02-20 · [GitHub](https://github.com/Mr-Homeless/waldo) · [官网](https://waldo.vision/) · 个人维护
 
 **本地分析 CS2 游戏录像、检测作弊行为的视觉深度学习工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mr-Homeless/waldo 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 430 --> 433
-    line [431, 432, 432]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 430 --> 434
+    line [431, 432, 433]
 ```
 
-2026-10-24 431 → 2026-11-26 432（+1）
+2026-10-25 431 → 2026-11-27 433（+2）
 
 
 ---

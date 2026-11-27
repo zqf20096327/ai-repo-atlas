@@ -1,6 +1,6 @@
 # andrewalexeich/figma-to-vanilla
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/andrewalexeich/figma-to-vanilla) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/andrewalexeich/figma-to-vanilla) · 个人维护
 
 **面向 AI 编码代理的 Figma 转原生 HTML/CSS/JS 技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andrewalexeich/figma-to-vanilla 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 6 --> 10
-    line [7, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 6 --> 11
+    line [7, 8, 9, 10]
 ```
 
-2026-11-08 7 → 2026-11-26 9（+2）
+2026-11-08 7 → 2026-11-27 10（+3）
 
 
 ---

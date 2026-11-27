@@ -1,6 +1,6 @@
 # Anatomik5/codetovideo
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Anatomik5/codetovideo) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Anatomik5/codetovideo) · 个人维护
 
 **给开发者一句话生成 Web 应用演示/宣传视频的本地工具**
 
@@ -40,6 +40,18 @@ CTV 面向想为自己的 Web 应用制作演示或宣传视频的开发者：LL
 > L5: **Point it at any web app, write one sentence, get a demo or promo video. The AI directs; a real program records. Fr
 > L29: - Everything you see on screen is a **real recording of your real app**, driven by Playwright through ordinary DOM 
 > L30: - FFmpeg and Remotion assemble the result: deterministic, local, free.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Anatomik5/codetovideo 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 14
+    line [10, 13]
+```
+
+2026-11-26 10 → 2026-11-27 13（+3）
 
 
 ---

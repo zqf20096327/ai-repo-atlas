@@ -43,12 +43,12 @@ PyTorch 实现论文 Learning Humanoid Standing-up Control across Diverse Postur
 ```mermaid
 xychart-beta
     title "lucidrains/HoST-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-24 46 → 2026-11-26 46（+0）
+2026-10-25 46 → 2026-11-27 46（+0）
 
 
 ---

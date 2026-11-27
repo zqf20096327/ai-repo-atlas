@@ -1,6 +1,6 @@
 # Chaoses-Ib/ComfyScript
 
-⭐ 708 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/Chaoses-Ib/ComfyScript) · [官网](https://discord.gg/arqJbtEg7w) · 个人维护
+⭐ 709 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/Chaoses-Ib/ComfyScript) · [官网](https://discord.gg/arqJbtEg7w) · 个人维护
 
 **ComfyUI 的 Python 前端与库：以脚本编写、运行与转换工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Chaoses-Ib/ComfyScript 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 705 --> 709
-    line [707, 706, 707, 708, 707, 708, 708]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 705 --> 710
+    line [707, 706, 707, 708, 707, 708, 709]
 ```
 
-2026-10-24 707 → 2026-11-26 708（+1）
+2026-10-25 707 → 2026-11-27 709（+2）
 
 
 ---

@@ -44,13 +44,13 @@ Portkey 官方 Node.js SDK，构建在 OpenAI SDK 之上，保持 OpenAI 方法�
 
 ```mermaid
 xychart-beta
-    title "Portkey-AI/portkey-node-sdk 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-26"]
-    y-axis "stars" 55 --> 58
-    line [57, 56, 56]
+    title "Portkey-AI/portkey-node-sdk 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-27"]
+    y-axis "stars" 55 --> 57
+    line [56, 56]
 ```
 
-2026-10-23 57 → 2026-11-26 56（-1）
+2026-10-24 56 → 2026-11-27 56（+0）
 
 
 ---

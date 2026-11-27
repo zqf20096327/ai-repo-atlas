@@ -1,6 +1,6 @@
 # JehanneDussert/govllm
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/JehanneDussert/govllm) · [官网](https://arxiv.org/abs/2605.24737) · 个人维护
+⭐ 31 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/JehanneDussert/govllm) · [官网](https://arxiv.org/abs/2605.24737) · 个人维护
 
 **自托管 LLM 治理监控平台：面向欧盟 AI Act/GDPR/ANSSI 持续评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JehanneDussert/govllm 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 29 --> 32
-    line [31, 30, 31, 30, 30]
+    line [31, 30, 31, 30, 31]
 ```
 
-2026-10-24 31 → 2026-11-26 30（-1）
+2026-10-25 31 → 2026-11-27 31（+0）
 
 
 ---

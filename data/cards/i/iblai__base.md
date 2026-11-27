@@ -1,6 +1,6 @@
 # iblai/base
 
-⭐ 221 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
+⭐ 221 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
 
 **ibl.ai 平台的 vibe coding 技能包：快速搭建 AI 应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "iblai/base 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    title "iblai/base 星数(近 6 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 219 --> 235
-    line [234, 222, 221, 220, 221]
+    line [234, 222, 221, 220, 221, 221]
 ```
 
-2026-11-19 234 → 2026-11-26 221（-13）
+2026-11-19 234 → 2026-11-27 221（-13）
 
 
 ---

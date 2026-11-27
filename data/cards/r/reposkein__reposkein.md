@@ -44,13 +44,13 @@ RepoSkein 用 Tree-sitter 为代码库构建确定性的 Code Property Graph（�
 
 ```mermaid
 xychart-beta
-    title "reposkein/reposkein 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-26"]
+    title "reposkein/reposkein 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-26", "2026-11-27"]
     y-axis "stars" 11 --> 15
-    line [12, 13, 14, 13]
+    line [12, 13, 14, 13, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 13（+1）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

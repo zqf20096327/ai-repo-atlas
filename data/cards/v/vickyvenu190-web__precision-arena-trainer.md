@@ -1,6 +1,6 @@
 # vickyvenu190-web/precision-arena-trainer
 
-⭐ 55 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/vickyvenu190-web/precision-arena-trainer) · 个人维护
+⭐ 55 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/vickyvenu190-web/precision-arena-trainer) · 个人维护
 
 **浏览器内的 FPS 反应与瞄准训练应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vickyvenu190-web/precision-arena-trainer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-24 55 → 2026-11-26 55（+0）
+2026-10-25 55 → 2026-11-27 55（+0）
 
 
 ---

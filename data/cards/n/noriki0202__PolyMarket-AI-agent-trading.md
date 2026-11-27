@@ -1,6 +1,6 @@
 # noriki0202/PolyMarket-AI-agent-trading
 
-⭐ 23 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/noriki0202/PolyMarket-AI-agent-trading) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/noriki0202/PolyMarket-AI-agent-trading) · 个人维护
 
 **构建 Polymarket 预测市场 AI 自主交易 agent 的开发者框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "noriki0202/PolyMarket-AI-agent-trading 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-24 23 → 2026-11-26 23（+0）
+2026-10-25 23 → 2026-11-27 24（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gyrdym/ml_linalg
 
-⭐ 88 · Dart · BSD-2-Clause · 推送 2026-11-15 · [GitHub](https://github.com/gyrdym/ml_linalg) · 个人维护
+⭐ 88 · Dart · BSD-2-Clause · 推送 2026-11-26 · [GitHub](https://github.com/gyrdym/ml_linalg) · 个人维护
 
 **Dart 语言的 SIMD 向量/矩阵线性代数与统计运算库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gyrdym/ml_linalg 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-24 88 → 2026-11-26 88（+0）
+2026-10-25 88 → 2026-11-27 88（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mianwtt/prism
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mianwtt/prism) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mianwtt/prism) · 个人维护 · 中文 README
 
 **给决策者一个带依据可推演 What-if 分支的多 Agent 研究工具**
 
@@ -40,6 +40,18 @@ Prism 是一个本地运行的多 Agent 研究与决策工具：协调、研究�
 > L7: **让 Agent 找依据，让你推演每一个「如果」。**
 > L85: Prism 由四部分组成：**决策工作区、决策服务、模型与资料、本地数据与缓存**。多 Agent 负责研究资料，确定性内核负责条件推演，两者共同支撑有依据、可回溯的决策。
 > L111: Prism 将一次研究拆为 **协调、资料研究、证据审查、决策分析 4 种职责**，分别由独立的 LangGraph 子图承接。各角色只接收本轮所需的上下文和工具权限，通过结构化任务与结果交接。它们共用配置的模型服务、顺序执行；
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mianwtt/prism 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-26 4 → 2026-11-27 5（+1）
 
 
 ---

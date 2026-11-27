@@ -46,12 +46,12 @@ ACL 2026 论文的官方代码与数据仓库：提出 Data-centric Solution Pre
 ```mermaid
 xychart-beta
     title "zjunlp/predict-before-execute 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-24 25 → 2026-11-26 26（+1）
+2026-10-25 25 → 2026-11-27 26（+1）
 
 
 ---

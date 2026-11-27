@@ -1,6 +1,6 @@
 # gyunggyung/AGI-Papers
 
-⭐ 426 · MIT · 推送 2026-11-06 · [GitHub](https://github.com/gyunggyung/AGI-Papers) · [官网](https://www.linkedin.com/in/kiwoong-yeom/) · 个人维护
+⭐ 427 · MIT · 推送 2026-11-06 · [GitHub](https://github.com/gyunggyung/AGI-Papers) · [官网](https://www.linkedin.com/in/kiwoong-yeom/) · 个人维护
 
 **面向 AI 研究者与学习者的 AGI 方向论文/评论归档清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gyunggyung/AGI-Papers 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-27"]
     y-axis "stars" 422 --> 429
-    line [423, 425, 423, 426, 428, 426, 426]
+    line [423, 425, 423, 426, 428, 426, 427]
 ```
 
-2026-10-24 423 → 2026-11-26 426（+3）
+2026-10-25 423 → 2026-11-27 427（+4）
 
 
 ---

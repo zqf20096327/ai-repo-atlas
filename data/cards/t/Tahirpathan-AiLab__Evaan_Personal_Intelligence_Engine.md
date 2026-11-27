@@ -1,6 +1,6 @@
 # Tahirpathan-AiLab/Evaan_Personal_Intelligence_Engine
 
-⭐ 24 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/Tahirpathan-AiLab/Evaan_Personal_Intelligence_Engine) · [官网](https://mrtahirpathan.netlify.app/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/Tahirpathan-AiLab/Evaan_Personal_Intelligence_Engine) · [官网](https://mrtahirpathan.netlify.app/) · 个人维护
 
 **本地 CPU 运行的 AI 陪伴聊天机器人，带人设与持久记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tahirpathan-AiLab/Evaan_Personal_Intelligence_Engine 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 23, 24, 24]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 23, 24, 25]
 ```
 
-2026-10-24 23 → 2026-11-26 24（+1）
+2026-10-25 23 → 2026-11-27 25（+2）
 
 
 ---

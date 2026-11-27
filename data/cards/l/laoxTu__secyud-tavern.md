@@ -1,6 +1,6 @@
 # laoxTu/secyud-tavern
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/laoxTu/secyud-tavern) · [官网](https://github.com/laoxTu/secyud-tavern-docs) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/laoxTu/secyud-tavern) · [官网](https://github.com/laoxTu/secyud-tavern-docs) · 个人维护 · 中文 README
 
 **面向用户的 AI 角色扮演与互动叙事平台**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "laoxTu/secyud-tavern 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-27"]
     y-axis "stars" 29 --> 33
-    line [32, 30, 31, 31]
+    line [32, 30, 31, 32]
 ```
 
-2026-10-24 32 → 2026-11-26 31（-1）
+2026-10-25 32 → 2026-11-27 32（+0）
 
 
 ---

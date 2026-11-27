@@ -40,6 +40,18 @@
 > L3: Build an embeddable RAG Chatbot for your website using Cloudflare Workers. The JavaScript widget is stored locally f
 > L10: - /chat: Retrieve Top-K chunks + assemble prompt + call LLM to generate Chinese answers
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rootsongjc/rag-chatbot 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 60 --> 62
+    line [61, 61]
+```
+
+2026-11-26 61 → 2026-11-27 61（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1f80aef8af60` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ Chrome 扩展（Manifest V3），为 Coursera 用户提供一键式课程自动�
 
 ```mermaid
 xychart-beta
-    title "rajairfanahmed/coursera-automation-tool 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-26"]
+    title "rajairfanahmed/coursera-automation-tool 星数(近 3 点)"
+    x-axis ["2026-10-31", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-31 10 → 2026-11-26 11（+1）
+2026-10-31 10 → 2026-11-27 11（+1）
 
 
 ---

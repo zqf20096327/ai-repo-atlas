@@ -41,6 +41,18 @@
 > L19: An end-to-end **MLOps** system on AWS, written in **Python**, that forecasts hourly taxi pickups across 254 New Yor
 > L21: **XGBoost** and **LightGBM** regressors, built on **scikit-learn** and tuned with **Optuna**, forecast pickups per 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anandapurva55/nyc-taxi-forecasting 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 34 --> 36
+    line [35, 35]
+```
+
+2026-11-26 35 → 2026-11-27 35（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d9906deb8428` · [字段定义](../../DATASET.md)*

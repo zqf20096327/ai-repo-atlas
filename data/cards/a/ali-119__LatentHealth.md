@@ -1,6 +1,6 @@
 # ali-119/LatentHealth
 
-⭐ 11 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ali-119/LatentHealth) · 个人维护
+⭐ 12 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ali-119/LatentHealth) · 个人维护
 
 **面向公众的健康数据分析项目：从调查数据做患者表型分组与糖尿病风险打分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ali-119/LatentHealth 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-10 10 → 2026-11-26 11（+1）
+2026-11-10 10 → 2026-11-27 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kalpmodi/akira
 
-⭐ 23 · Dockerfile · MIT · 推送 2026-07-12 · [GitHub](https://github.com/kalpmodi/akira) · 个人维护
+⭐ 24 · Dockerfile · MIT · 推送 2026-07-12 · [GitHub](https://github.com/kalpmodi/akira) · 个人维护
 
 **在编码 Agent 内运行的 AI 渗透测试技能系统，覆盖侦察到报告全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kalpmodi/akira 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-24 23 → 2026-11-26 23（+0）
+2026-10-25 23 → 2026-11-27 24（+1）
 
 
 ---

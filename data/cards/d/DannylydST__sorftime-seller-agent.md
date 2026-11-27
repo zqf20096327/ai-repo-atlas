@@ -1,6 +1,6 @@
 # DannylydST/sorftime-seller-agent
 
-⭐ 51 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/DannylydST/sorftime-seller-agent) · [官网](https://open-intl.sorftime.com) · 组织维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/DannylydST/sorftime-seller-agent) · [官网](https://open-intl.sorftime.com) · 组织维护 · 中文 README
 
 **面向跨境电商卖家的 AI 选品与市场情报 MCP 工具集**
 
@@ -47,12 +47,12 @@ Sorftime 出品的开源 MCP 技能/工具层：向任意 MCP 兼容 AI agent（
 ```mermaid
 xychart-beta
     title "DannylydST/sorftime-seller-agent 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 38 --> 52
-    line [39, 40, 41, 42, 43, 39, 44, 45, 47, 48, 49, 50, 51, 51]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 38 --> 53
+    line [39, 40, 41, 42, 43, 39, 44, 45, 47, 48, 49, 50, 51, 52]
 ```
 
-2026-10-24 39 → 2026-11-26 51（+12）
+2026-10-25 39 → 2026-11-27 52（+13）
 
 
 ---

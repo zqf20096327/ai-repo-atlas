@@ -1,6 +1,6 @@
 # The-AI-Disclosures-Project/Open-Memory-Protocol
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/The-AI-Disclosures-Project/Open-Memory-Protocol) · [官网](https://openmemoryprotocol.org) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/The-AI-Disclosures-Project/Open-Memory-Protocol) · [官网](https://openmemoryprotocol.org) · 组织维护
 
 **多方共治的智能体记忆开放协议倡议：让记忆跨系统迁移共享**
 
@@ -44,13 +44,13 @@ Open Memory Protocol Initiative（OMPI）由 AI Disclosures Project 主办、IBM
 
 ```mermaid
 xychart-beta
-    title "The-AI-Disclosures-Project/Open-Memory-Protocol 星数(近 11 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 23 --> 51
-    line [25, 26, 31, 33, 35, 36, 37, 39, 40, 48, 49]
+    title "The-AI-Disclosures-Project/Open-Memory-Protocol 星数(近 12 点)"
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 23 --> 54
+    line [25, 26, 31, 33, 35, 36, 37, 39, 40, 48, 49, 52]
 ```
 
-2026-10-29 25 → 2026-11-26 49（+24）
+2026-10-29 25 → 2026-11-27 52（+27）
 
 
 ---

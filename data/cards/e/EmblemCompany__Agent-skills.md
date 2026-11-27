@@ -46,12 +46,12 @@ EmblemAI 官方维护的 Agent Skills 技能仓库：提供 emblem-ai 核心技�
 ```mermaid
 xychart-beta
     title "EmblemCompany/Agent-skills 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 13（+1）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

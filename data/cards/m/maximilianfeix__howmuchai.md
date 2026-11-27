@@ -1,6 +1,6 @@
 # maximilianfeix/howmuchai
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/maximilianfeix/howmuchai) · [官网](https://maximilianfeix.github.io/howmuchai/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/maximilianfeix/howmuchai) · [官网](https://maximilianfeix.github.io/howmuchai/) · 个人维护 · 中文 README
 
 **统计公开仓库提交与 PR 中 AI 编码代理签名的工具**
 
@@ -46,12 +46,12 @@ howmuchai 读取公开 GitHub 仓库最近 90 天的提交与 PR，统计携带 
 ```mermaid
 xychart-beta
     title "maximilianfeix/howmuchai 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-26 3（+0）
+2026-11-08 3 → 2026-11-27 3（+0）
 
 
 ---

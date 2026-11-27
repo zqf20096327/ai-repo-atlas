@@ -1,6 +1,6 @@
 # Hmission/pocketpal-ai-fork
 
-⭐ 10 · C++ · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/Hmission/pocketpal-ai-fork) · 个人维护 · 中文 README
+⭐ 11 · C++ · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/Hmission/pocketpal-ai-fork) · 个人维护 · 中文 README
 
 **手机离线运行的端侧开源 AI 伙伴：聊天、生图、语音、绘本、TRPG**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Hmission/pocketpal-ai-fork 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-25 10 → 2026-11-26 10（+0）
+2026-11-25 10 → 2026-11-27 11（+1）
 
 
 ---

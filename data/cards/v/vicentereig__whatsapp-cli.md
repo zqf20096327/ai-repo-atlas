@@ -1,6 +1,6 @@
 # vicentereig/whatsapp-cli
 
-⭐ 208 · Go · 推送 2026-08-08 · [GitHub](https://github.com/vicentereig/whatsapp-cli) · [官网](https://oss.vicente.services/whatsapp-cli/) · 个人维护
+⭐ 209 · Go · 推送 2026-08-08 · [GitHub](https://github.com/vicentereig/whatsapp-cli) · [官网](https://oss.vicente.services/whatsapp-cli/) · 个人维护
 
 **供人类与 LLM agent 使用的 WhatsApp 命令行工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vicentereig/whatsapp-cli 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 202 --> 209
-    line [203, 205, 203, 206, 207, 208, 208]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 202 --> 210
+    line [203, 205, 203, 206, 207, 208, 209]
 ```
 
-2026-10-24 203 → 2026-11-26 208（+5）
+2026-10-25 203 → 2026-11-27 209（+6）
 
 
 ---

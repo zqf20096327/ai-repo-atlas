@@ -1,6 +1,6 @@
 # ythx-101/async-issue-manager
 
-⭐ 13 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/async-issue-manager) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/async-issue-manager) · 个人维护 · 中文 README
 
 **给 AI Agent 用的纯本地异步任务管理：Markdown+Git 建 Issue**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ythx-101/async-issue-manager 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-11-12", "2026-11-27"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-11-12 13 → 2026-11-26 13（+0）
+2026-11-12 13 → 2026-11-27 14（+1）
 
 
 ---

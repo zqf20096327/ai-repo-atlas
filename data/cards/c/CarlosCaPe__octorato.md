@@ -1,6 +1,6 @@
 # CarlosCaPe/octorato
 
-⭐ 18 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CarlosCaPe/octorato) · [官网](https://www.dataqbs.com/octorato) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CarlosCaPe/octorato) · [官网](https://www.dataqbs.com/octorato) · 个人维护
 
 **给 AI 编程助手提供持久记忆与规则约束的纯文本 Agent OS**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CarlosCaPe/octorato 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-18", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-25", "2026-11-27"]
     y-axis "stars" 17 --> 20
     line [18, 19, 18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

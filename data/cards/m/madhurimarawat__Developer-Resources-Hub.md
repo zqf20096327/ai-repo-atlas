@@ -1,6 +1,6 @@
 # madhurimarawat/Developer-Resources-Hub
 
-⭐ 24 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/madhurimarawat/Developer-Resources-Hub) · 个人维护
+⭐ 24 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/madhurimarawat/Developer-Resources-Hub) · 个人维护
 
 **面向开发者的综合资源清单：求职、编程、前后端、AI/ML 等**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madhurimarawat/Developer-Resources-Hub 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-27"]
     y-axis "stars" 21 --> 25
     line [22, 23, 24, 24]
 ```
 
-2026-10-24 22 → 2026-11-26 24（+2）
+2026-10-25 22 → 2026-11-27 24（+2）
 
 
 ---

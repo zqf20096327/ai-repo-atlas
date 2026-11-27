@@ -1,6 +1,6 @@
 # cortesi/ruskel
 
-⭐ 30 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/cortesi/ruskel) · 个人维护
+⭐ 30 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/cortesi/ruskel) · 个人维护
 
 **生成 Rust crate 公共 API 骨架的命令行工具，可供 LLM 使用**
 
@@ -44,12 +44,12 @@ Ruskel 从 Rust crate 的 rustdoc JSON 生成保留文档注释、剥离实现�
 ```mermaid
 xychart-beta
     title "cortesi/ruskel 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-24 30 → 2026-11-26 30（+0）
+2026-10-25 30 → 2026-11-27 30（+0）
 
 
 ---

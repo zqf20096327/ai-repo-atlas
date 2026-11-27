@@ -1,6 +1,6 @@
 # mousebomb/mbai-platform
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mousebomb/mbai-platform) · 个人维护 · 中文 README
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/mousebomb/mbai-platform) · 个人维护 · 中文 README
 
 **本地自托管多模态 AI 能力平台，提供统一 REST/MCP 接口**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mousebomb/mbai-platform 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    title "mousebomb/mbai-platform 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-26 4（+1）
+2026-11-08 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # onexstack/onexai
 
-⭐ 3 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/onexstack/onexai) · [官网](https://onex.feizaonet.com/) · 个人维护 · 中文 README
+⭐ 3 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/onexstack/onexai) · [官网](https://onex.feizaonet.com/) · 个人维护 · 中文 README
 
 **企业智能体平台：将 Agent 能力与飞书机器人接入企业**
 
@@ -48,12 +48,12 @@ OneX 智能体平台是一个面向企业的智能体平台，包含智能对话
 ```mermaid
 xychart-beta
     title "onexstack/onexai 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-26"]
+    x-axis ["2026-11-15", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-26 3（+0）
+2026-11-15 3 → 2026-11-27 3（+0）
 
 
 ---

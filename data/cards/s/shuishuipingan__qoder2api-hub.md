@@ -1,10 +1,10 @@
 # shuishuipingan/qoder2api-hub
 
-⭐ 679 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/shuishuipingan/qoder2api-hub) · [官网](https://qoder2api-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
+⭐ 681 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/shuishuipingan/qoder2api-hub) · [官网](https://qoder2api-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
 
-**把 Qoder 国内/国际版封装成 OpenAI 兼容接口的多账号网关**
+**给开发者把 Qoder 双区账号封装为 OpenAI/Anthropic 兼容接口的网关**
 
-自托管的 Qoder 双区（qoder.com.cn / qoder.com）多账号反向代理网关：将 Qoder 封装为 OpenAI Chat Completions、Responses（Codex）与 Anthropic Messages（Claude Code）三种协议接口。机制包括国内/国际独立账号池与按模型自动选区、账号轮询与会话亲和、OAuth 设备授权与 PAT 导入、每日签到保活、COSY 签名与设备指纹对齐官方客户端、Web 看板展示账号与用量指标。仅用 Python 标准库实现，提供启动脚本与 Docker 镜像；声明为非官方工具，仅供个人在私有环境使用自己合法授权的账号。
+自托管的多账号反代网关，将 Qoder 国内版与国际版封装为 OpenAI Chat Completions、Responses API、Anthropic Messages 三种协议接口。账号池按模型自动选区，支持账号轮询、会话亲和、故障冷却换号；通过 OAuth 设备授权或 PAT 导入添加账号，自动签到领取 Credits 并刷新 Token。出站身份对齐官方客户端并可选并发闸门与请求节奏控制；提供 Web 看板管理账号、用量、请求流水与 API Key。仅依赖 Python 3.9+ 标准库，提供 amd64/arm64 Docker 镜像。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 三种协议接入：OpenAI Chat Completions、Responses（Codex）、Anthropic Messages（Claude Code）
-- 国内/国际双区账号池，账号轮询、会话亲和、故障冷却换号
-- OAuth 设备授权免客户端登录，自动签到与 Token 刷新
-- 零依赖纯 Python 标准库实现，附带 Web 监控看板与 Docker 镜像
+- 三种协议：OpenAI Chat Completions、Responses API（Codex）、Anthropic Messages（Claude Code）
+- 双区多账号池，按模型自动选区与轮询、故障冷却换号
+- OAuth 设备授权免客户端登录，自动签到与 Token 保活
+- Web 看板管理账号/用量/请求流水，支持 31 个客户端的一键配置
 
 ## 适用场景
 
-- 在 Cherry Studio、Chatbox 等标准 OpenAI 兼容客户端中使用 Qoder 账号
-- 让 Claude Code 或 Codex CLI 通过本地网关接入 Qoder 模型
-- 集中管理多个 Qoder 账号的额度、签到与用量监控
+- 用 OpenAI 兼容客户端（Cherry Studio、Chatbox 等）接入 Qoder 账号
+- 在 Codex CLI 或 Claude Code 中使用 Qoder 模型
+- 管理多个 Qoder 账号的额度与凭证生命周期
 
 ## 场景标签
 
@@ -39,19 +39,20 @@
 
 > L3:  把 Qoder 国内版（qoder.com.cn）与国际版（qoder.com）封装成 OpenAI / Anthropic 兼容接口的多账号网关
 > L15: - **三种协议**：OpenAI Chat Completions、Responses API（Codex）、Anthropic Messages（Claude Code）
+> L21: - **Web 看板**：账号、用量与性能指标、请求流水、限额护栏、智能体一键配置
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "shuishuipingan/qoder2api-hub 星数(近 26 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 320 --> 711
-    line [352, 362, 373, 400, 418, 440, 459, 476, 487, 492, 362, 536, 573, 579, 590, 597, 601, 610, 623, 636, 645, 650, 656, 660, 668, 679]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 331 --> 712
+    line [362, 373, 400, 418, 440, 459, 476, 487, 492, 362, 536, 573, 579, 590, 597, 601, 610, 623, 636, 645, 650, 656, 660, 668, 679, 681]
 ```
 
-2026-10-24 352 → 2026-11-26 679（+327）
+2026-10-25 362 → 2026-11-27 681（+319）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `6aaa398766ee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `15350c352428` · [字段定义](../../DATASET.md)*

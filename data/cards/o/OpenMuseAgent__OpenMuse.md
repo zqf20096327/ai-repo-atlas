@@ -1,6 +1,6 @@
 # OpenMuseAgent/OpenMuse
 
-⭐ 22 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/OpenMuseAgent/OpenMuse) · [官网](https://github.com/nano-muse/nanoMuse) · 组织维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/OpenMuseAgent/OpenMuse) · [官网](https://github.com/nano-muse/nanoMuse) · 组织维护 · 中文 README
 
 **自托管个人 AI agent：手机上的助手，执行任务而非问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenMuseAgent/OpenMuse 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 17 --> 23
-    line [18, 20, 18, 21, 22, 22]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 17 --> 24
+    line [18, 20, 18, 21, 22, 23]
 ```
 
-2026-10-24 18 → 2026-11-26 22（+4）
+2026-10-25 18 → 2026-11-27 23（+5）
 
 
 ---

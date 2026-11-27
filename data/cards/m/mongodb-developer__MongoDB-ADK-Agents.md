@@ -1,6 +1,6 @@
 # mongodb-developer/MongoDB-ADK-Agents
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/mongodb-developer/MongoDB-ADK-Agents) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/mongodb-developer/MongoDB-ADK-Agents) · 组织维护
 
 **用 Google ADK 和 MongoDB 向量搜索搭建的 AI 购物 agent 示例**
 
@@ -45,12 +45,12 @@ MongoDB 官方开发者组织发布的示例项目：基于 Google ADK 构建食
 ```mermaid
 xychart-beta
     title "mongodb-developer/MongoDB-ADK-Agents 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 47, 48, 48]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 47, 48, 49]
 ```
 
-2026-10-24 47 → 2026-11-26 48（+1）
+2026-10-25 47 → 2026-11-27 49（+2）
 
 
 ---

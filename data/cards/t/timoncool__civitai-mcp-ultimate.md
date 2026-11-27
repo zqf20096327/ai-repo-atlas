@@ -1,6 +1,6 @@
 # timoncool/civitai-mcp-ultimate
 
-⭐ 27 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/timoncool/civitai-mcp-ultimate) · [官网](https://pypi.org/project/civitai-mcp-ultimate/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/timoncool/civitai-mcp-ultimate) · [官网](https://pypi.org/project/civitai-mcp-ultimate/) · 个人维护
 
 **Civitai API 的 MCP 服务器：让 AI 助手搜索与下载模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "timoncool/civitai-mcp-ultimate 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 22 --> 28
-    line [23, 24, 26, 27, 27]
+    title "timoncool/civitai-mcp-ultimate 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 23 --> 28
+    line [24, 26, 27, 27]
 ```
 
-2026-10-24 23 → 2026-11-26 27（+4）
+2026-10-25 24 → 2026-11-27 27（+3）
 
 
 ---

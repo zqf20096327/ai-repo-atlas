@@ -1,6 +1,6 @@
 # zq52xy/glass-voice-orb-study
 
-⭐ 23 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/zq52xy/glass-voice-orb-study) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/zq52xy/glass-voice-orb-study) · 个人维护 · 中文 README
 
 **非商业 WebGL 液态玻璃语音球交互效果学习项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zq52xy/glass-voice-orb-study 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23]
+    title "zq52xy/glass-voice-orb-study 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 22, 23, 24]
 ```
 
-2026-10-24 20 → 2026-11-26 23（+3）
+2026-10-25 20 → 2026-11-27 24（+4）
 
 
 ---

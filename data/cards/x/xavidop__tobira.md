@@ -1,6 +1,6 @@
 # xavidop/tobira
 
-⭐ 5 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xavidop/tobira) · [官网](https://xavidop.github.io/tobira/) · 个人维护
+⭐ 5 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xavidop/tobira) · [官网](https://xavidop.github.io/tobira/) · 个人维护
 
 **一个终端客户端统一浏览/查询/解释多种数据库，内置只读防护**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xavidop/tobira 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-10-29 3 → 2026-11-26 5（+2）
+2026-10-29 3 → 2026-11-27 5（+2）
 
 
 ---

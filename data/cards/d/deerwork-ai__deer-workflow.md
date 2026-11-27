@@ -1,6 +1,6 @@
 # deerwork-ai/deer-workflow
 
-⭐ 562 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/deerwork-ai/deer-workflow) · [官网](https://deerwork-ai.github.io/deer-workflow/) · 组织维护 · 中文 README
+⭐ 563 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/deerwork-ai/deer-workflow) · [官网](https://deerwork-ai.github.io/deer-workflow/) · 组织维护 · 中文 README
 
 **TypeScript 编排的动态工作流运行时，节点内语义工作交给可替换 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deerwork-ai/deer-workflow 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 550 --> 563
-    line [552, 551, 552, 553, 551, 556, 557, 558, 559, 560, 561, 562, 562]
+    title "deerwork-ai/deer-workflow 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 550 --> 564
+    line [551, 552, 553, 551, 556, 557, 558, 559, 560, 561, 562, 563]
 ```
 
-2026-10-24 552 → 2026-11-26 562（+10）
+2026-10-25 551 → 2026-11-27 563（+12）
 
 
 ---

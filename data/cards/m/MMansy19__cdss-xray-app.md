@@ -1,6 +1,6 @@
 # MMansy19/cdss-xray-app
 
-⭐ 25 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/MMansy19/cdss-xray-app) · [官网](https://cdss-xray-app.vercel.app) · 个人维护
+⭐ 25 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/MMansy19/cdss-xray-app) · [官网](https://cdss-xray-app.vercel.app) · 个人维护
 
 **胸部 X 光肺炎检测的临床决策支持全栈应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MMansy19/cdss-xray-app 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-24 25 → 2026-11-26 25（+0）
+2026-10-25 25 → 2026-11-27 25（+0）
 
 
 ---

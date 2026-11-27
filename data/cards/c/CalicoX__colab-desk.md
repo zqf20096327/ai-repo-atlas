@@ -1,6 +1,6 @@
 # CalicoX/colab-desk
 
-⭐ 4 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/CalicoX/colab-desk) · 个人维护 · 中文 README
+⭐ 4 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CalicoX/colab-desk) · 个人维护 · 中文 README
 
 **macOS 原生工作台：图形化驱动 google-colab-cli 操作 Colab GPU**
 
@@ -40,6 +40,18 @@
 
 > L3: **A lightweight, native macOS desktop workbench & local web app for the official `google-colab-cli` (`colab`).**
 > L14: Colab Desk turns the official `google-colab-cli` (`colab` binary) into a complete visual GPU/TPU workbench. Drive G
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CalicoX/colab-desk 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

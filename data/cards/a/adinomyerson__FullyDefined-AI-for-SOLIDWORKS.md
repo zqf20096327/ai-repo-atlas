@@ -1,6 +1,6 @@
 # adinomyerson/FullyDefined-AI-for-SOLIDWORKS
 
-⭐ 4 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/adinomyerson/FullyDefined-AI-for-SOLIDWORKS) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/adinomyerson/FullyDefined-AI-for-SOLIDWORKS) · 个人维护
 
 **SOLIDWORKS 的 MCP 服务器：让 AI 应用按设计意图生成零件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adinomyerson/FullyDefined-AI-for-SOLIDWORKS 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "adinomyerson/FullyDefined-AI-for-SOLIDWORKS 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-18 3 → 2026-11-26 4（+1）
+2026-11-18 3 → 2026-11-27 5（+2）
 
 
 ---

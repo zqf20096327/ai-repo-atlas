@@ -1,6 +1,6 @@
 # PinWright/pinwright-ue
 
-⭐ 15 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/PinWright/pinwright-ue) · [官网](https://pinwright.com) · 组织维护
+⭐ 15 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PinWright/pinwright-ue) · [官网](https://pinwright.com) · 组织维护
 
 **Unreal 编辑器内的 MCP 服务器，让 AI 编程代理操作编辑器**
 
@@ -45,12 +45,12 @@ Unreal Engine 编辑器插件，在本地回环端口运行 MCP 服务器，把�
 ```mermaid
 xychart-beta
     title "PinWright/pinwright-ue 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-27"]
     y-axis "stars" 11 --> 16
     line [12, 13, 14, 15, 15]
 ```
 
-2026-10-24 12 → 2026-11-26 15（+3）
+2026-10-25 12 → 2026-11-27 15（+3）
 
 
 ---

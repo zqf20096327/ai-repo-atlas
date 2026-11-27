@@ -1,6 +1,6 @@
 # ApiMartAI/best-gpt-image-2-prompts
 
-⭐ 61 · Python · NOASSERTION · 推送 2026-04-22 · [GitHub](https://github.com/ApiMartAI/best-gpt-image-2-prompts) · [官网](https://apimart.ai) · 组织维护 · 中文 README
+⭐ 62 · Python · NOASSERTION · 推送 2026-04-22 · [GitHub](https://github.com/ApiMartAI/best-gpt-image-2-prompts) · [官网](https://apimart.ai) · 组织维护 · 中文 README
 
 **GPT-Image-2 提示词策展画廊（107 例，5 类）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ApiMartAI/best-gpt-image-2-prompts 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 53 --> 62
-    line [54, 55, 54, 59, 60, 61, 61]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 53 --> 63
+    line [54, 55, 54, 59, 60, 61, 62]
 ```
 
-2026-10-24 54 → 2026-11-26 61（+7）
+2026-10-25 54 → 2026-11-27 62（+8）
 
 
 ---

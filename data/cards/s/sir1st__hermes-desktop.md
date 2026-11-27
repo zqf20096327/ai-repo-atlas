@@ -45,13 +45,13 @@ Electron 打包壳：将独立 Python 运行时、hermes-agent（Nous Research �
 
 ```mermaid
 xychart-beta
-    title "sir1st/hermes-desktop 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
+    title "sir1st/hermes-desktop 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 71 --> 74
-    line [73, 72, 73, 73]
+    line [72, 73, 73]
 ```
 
-2026-10-24 73 → 2026-11-26 73（+0）
+2026-10-25 72 → 2026-11-27 73（+1）
 
 
 ---

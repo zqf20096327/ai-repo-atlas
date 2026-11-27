@@ -1,6 +1,6 @@
 # Tako-Research/TakoVM
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Tako-Research/TakoVM) · [官网](https://tako-research.github.io/TakoVM/) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Tako-Research/TakoVM) · [官网](https://tako-research.github.io/TakoVM/) · 组织维护
 
 **为 AI agent 提供安全代码执行与文件系统的自托管平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tako-Research/TakoVM 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 89 --> 92
+    line [90, 91]
 ```
 
-2026-10-24 90 → 2026-11-26 90（+0）
+2026-10-25 90 → 2026-11-27 91（+1）
 
 
 ---

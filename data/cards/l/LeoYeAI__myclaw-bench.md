@@ -1,6 +1,6 @@
 # LeoYeAI/myclaw-bench
 
-⭐ 222 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/LeoYeAI/myclaw-bench) · [官网](https://myclaw.ai) · 组织维护
+⭐ 223 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/LeoYeAI/myclaw-bench) · [官网](https://myclaw.ai) · 组织维护
 
 **评测哪些 LLM 运行 OpenClaw 表现最好的基准测试套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LeoYeAI/myclaw-bench 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 221 --> 223
-    line [222, 222]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 221 --> 224
+    line [222, 223]
 ```
 
-2026-10-24 222 → 2026-11-26 222（+0）
+2026-10-25 222 → 2026-11-27 223（+1）
 
 
 ---

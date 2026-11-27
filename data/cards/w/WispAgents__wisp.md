@@ -1,6 +1,6 @@
 # WispAgents/wisp
 
-⭐ 15 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/WispAgents/wisp) · [官网](https://trywisp.dev/) · 组织维护
+⭐ 16 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/WispAgents/wisp) · [官网](https://trywisp.dev/) · 组织维护
 
 **在后台并行运行编码 Agent，交付一屏报告而非完整转录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "WispAgents/wisp 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 8 --> 16
-    line [9, 10, 11, 12, 13, 14, 15]
+    title "WispAgents/wisp 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 17
+    line [9, 10, 11, 12, 13, 14, 15, 16]
 ```
 
-2026-11-10 9 → 2026-11-26 15（+6）
+2026-11-10 9 → 2026-11-27 16（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hoopoes/FastStart
 
-⭐ 34 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Hoopoes/FastStart) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Hoopoes/FastStart) · 个人维护
 
 **FastAPI 后端微服务模板库，多分支提供扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hoopoes/FastStart 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-24 34 → 2026-11-26 34（+0）
+2026-10-25 34 → 2026-11-27 35（+1）
 
 
 ---

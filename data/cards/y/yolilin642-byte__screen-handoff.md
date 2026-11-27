@@ -1,6 +1,6 @@
 # yolilin642-byte/screen-handoff
 
-⭐ 20 · JavaScript · LGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/yolilin642-byte/screen-handoff) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · LGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/yolilin642-byte/screen-handoff) · 个人维护 · 中文 README
 
 **自托管方案：让 AI 操作你的电脑，手机实时旁观并随时接手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yolilin642-byte/screen-handoff 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 19, 20, 20]
+    x-axis ["2026-11-10", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 15 --> 22
+    line [16, 17, 19, 20, 21]
 ```
 
-2026-11-10 16 → 2026-11-26 20（+4）
+2026-11-10 16 → 2026-11-27 21（+5）
 
 
 ---

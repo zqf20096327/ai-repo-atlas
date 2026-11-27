@@ -45,12 +45,12 @@ Django 库，通过 BM25Searchable Mixin 和 BM25Index 为模型提供 .search()
 ```mermaid
 xychart-beta
     title "FarhanAliRaza/django-hawkeye 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-24 79 → 2026-11-26 79（+0）
+2026-10-25 79 → 2026-11-27 79（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # wang5766171/jishu-hub
 
-⭐ 15 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/wang5766171/jishu-hub) · 个人维护 · 中文 README
+⭐ 15 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/wang5766171/jishu-hub) · 个人维护 · 中文 README
 
 **桌面端多 Agent 协作平台：统一管理 CLI 型 AI 编码代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wang5766171/jishu-hub 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

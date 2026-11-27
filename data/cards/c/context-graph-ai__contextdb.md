@@ -1,6 +1,6 @@
 # context-graph-ai/contextdb
 
-⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/context-graph-ai/contextdb) · [官网](https://contextdb.tech) · 组织维护
+⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/context-graph-ai/contextdb) · [官网](https://contextdb.tech) · 组织维护
 
 **面向 agentic memory 的嵌入式数据库：单文件统一关系/图/向量存储**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "context-graph-ai/contextdb 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-26"]
+    title "context-graph-ai/contextdb 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 23 --> 28
-    line [24, 26, 27]
+    line [24, 26, 27, 27]
 ```
 
-2026-10-23 24 → 2026-11-26 27（+3）
+2026-10-24 24 → 2026-11-27 27（+3）
 
 
 ---

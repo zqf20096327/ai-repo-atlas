@@ -1,10 +1,10 @@
 # LING71671/open-reverselab
 
-⭐ 1,391 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/LING71671/open-reverselab) · [官网](https://ling71671.github.io/open-reverselab/) · 个人维护 · 中文 README
+⭐ 1,397 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/LING71671/open-reverselab) · [官网](https://ling71671.github.io/open-reverselab/) · 个人维护
 
-**给逆向工程人员的 AI 工作区桌面应用**
+**面向逆向工程任务的 AI 工作台：桌面应用 + 知识库 + MCP 工具**
 
-面向目标驱动的逆向工程任务的 AI 桌面工作区：用户选定 red/blue/both 轨道，输入文件、目录或 URL 目标并下达 Goal，应用通过 OpenAI 兼容的 chat-completions 端点执行目标分诊、Python 动作与 MCP 工具（支持 Ghidra、Frida、x64dbg、Rizin），画布实时展示执行分支并保留日志、报告与健康视图。Windows x64 提供安装包与便携 ZIP；macOS/Linux 仅支持源码 CLI/MCP 流程。知识库（Web/CTF、Android/APK、Windows/PE 等）经 Git 子模块独立分发，需通过 Extensions 单独安装。
+以目标驱动的 AI 逆向工程工作台：桌面端按 red/blue/both 三种分析策略选择，用户输入文件、目录或 URL 目标并下达 Goal，画布展示执行分支，活动、日志、报告视图留存证据。Goals 默认无时限与 token 限制，可并行运行。知识库覆盖 Web/CTF、Android/APK、Windows/PE 与通用主题，通过 Extensions 页安装知识包；MCP 连接支持 stdio 与 Streamable HTTP。桌面包需另行安装 Python、Ghidra、Frida、x64dbg 等外部工具，并在设置中配置 OpenAI 兼容端点；Windows x64 为桌面打包目标，macOS/Linux 走源码 CLI/MCP 流程。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- red/blue/both 三轨独立分析策略，both 模式支持证据交换与组合验证
-- Goals 并发运行且默认无时间/token 限制
-- MCP 工具接入 Ghidra、Frida、x64dbg、Rizin（stdio 与 Streamable HTTP）
-- 知识库覆盖 Web/CTF、Android/APK、Windows/PE 与通用主题
+- red/blue/both 三策略独立分析与证据交叉验证机制
+- Goals 并行运行且默认无时限/ token 限制
+- 知识库覆盖 Web/CTF、Android/APK、Windows/PE 等领域，经 Extensions 安装
+- MCP 工具对接 Ghidra、Frida、x64dbg、Rizin，支持 stdio 与 Streamable HTTP
 
 ## 适用场景
 
-- 对 APK 或 PE 样本做目标驱动的逆向分析
-- CTF 题目解题辅助与知识检索
-- 红蓝两侧对照的安全分析与证据留存
+- 对样本或目标做红队/蓝队方向的 AI 辅助逆向分析
+- CTF 比赛或安全学习中按知识库条目执行工具脚本
+- 恶意软件分析的取证留存：日志、报告与执行历史
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 ## 证据(README 行号)
 
 > L5: **An AI workspace for target-based reverse engineering**
-> L37: 3. Open Settings and configure an OpenAI-compatible chat-completions endpoint and model, then enter a target and ob
 > L41: The desktop executes target triage, Python actions, and tools discovered through configured MCP connections, withou
+> L49: The knowledge base covers Web/CTF, Android/APK, Windows/PE, and general topics such as cryptography and protocols. 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "LING71671/open-reverselab 星数(近 26 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 1289 --> 1400
-    line [1298, 1299, 1301, 1307, 1311, 1319, 1323, 1326, 1327, 1326, 1299, 1352, 1358, 1364, 1368, 1370, 1372, 1370, 1374, 1376, 1379, 1382, 1385, 1386, 1388, 1391]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1290 --> 1406
+    line [1299, 1301, 1307, 1311, 1319, 1323, 1326, 1327, 1326, 1299, 1352, 1358, 1364, 1368, 1370, 1372, 1370, 1374, 1376, 1379, 1382, 1385, 1386, 1388, 1391, 1397]
 ```
 
-2026-10-24 1,298 → 2026-11-26 1,391（+93）
+2026-10-25 1,299 → 2026-11-27 1,397（+98）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `b1b9dd67db84` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `50ea19061048` · [字段定义](../../DATASET.md)*

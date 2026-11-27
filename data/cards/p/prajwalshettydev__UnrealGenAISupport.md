@@ -1,6 +1,6 @@
 # prajwalshettydev/UnrealGenAISupport
 
-⭐ 687 · C++ · MIT · 推送 2026-04-28 · [GitHub](https://github.com/prajwalshettydev/UnrealGenAISupport) · [官网](https://muddyterrain.com/docs/) · 个人维护
+⭐ 688 · C++ · MIT · 推送 2026-04-28 · [GitHub](https://github.com/prajwalshettydev/UnrealGenAISupport) · [官网](https://muddyterrain.com/docs/) · 个人维护
 
 **Unreal Engine 的 LLM/GenAI 接入插件与 MCP 服务器**
 
@@ -46,12 +46,12 @@ C++ 编写的 Unreal Engine 免费插件，把 LLM/GenAI API 集成层封装为�
 ```mermaid
 xychart-beta
     title "prajwalshettydev/UnrealGenAISupport 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 673 --> 688
-    line [674, 676, 675, 679, 678, 679, 674, 683, 685, 686, 687, 686, 687, 687]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 673 --> 689
+    line [674, 676, 675, 679, 678, 679, 674, 683, 685, 686, 687, 686, 687, 688]
 ```
 
-2026-10-24 674 → 2026-11-26 687（+13）
+2026-10-25 674 → 2026-11-27 688（+14）
 
 
 ---

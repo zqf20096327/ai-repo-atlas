@@ -1,6 +1,6 @@
 # Correia-jpv/fucking-awesome-datascience
 
-⭐ 14 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-datascience) · 个人维护
+⭐ 14 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Correia-jpv/fucking-awesome-datascience) · 个人维护
 
 **数据科学学习资源策展清单：课程、工具与 AI agent 框架收录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Correia-jpv/fucking-awesome-datascience 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 14（+0）
 
 
 ---

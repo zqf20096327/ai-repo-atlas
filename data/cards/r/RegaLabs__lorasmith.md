@@ -1,6 +1,6 @@
 # RegaLabs/lorasmith
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/RegaLabs/lorasmith) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/RegaLabs/lorasmith) · 个人维护
 
 **一条命令在自有数据上微调开源 LLM 的 Rust 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RegaLabs/lorasmith 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-22 3 → 2026-11-26 4（+1）
+2026-11-22 3 → 2026-11-27 4（+1）
 
 
 ---

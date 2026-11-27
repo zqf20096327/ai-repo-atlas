@@ -1,6 +1,6 @@
 # whale-devx/intelligent-model-router-skills
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/whale-devx/intelligent-model-router-skills) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/whale-devx/intelligent-model-router-skills) · 个人维护
 
 **给 agent 的模型选型技能：基于清单与证据生成路由决策**
 
@@ -40,6 +40,18 @@
 > L7: A provider-neutral Agent Skill that helps your
 > L93: The skill selects **among your available models**, not every model on a leaderboard.
 > L94: It is not a provider subscription, inference proxy, or agent runtime.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "whale-devx/intelligent-model-router-skills 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-26 4 → 2026-11-27 5（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MIC-DKFZ/image_classification
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/MIC-DKFZ/image_classification)
+⭐ 67 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/MIC-DKFZ/image_classification)
 
 **PyTorch 图像分类/回归训练框架，面向快速实验**
 
@@ -46,12 +46,12 @@ GloViTa 是德国癌症研究中心（MIC-DKFZ）开源的 PyTorch 视觉任务�
 ```mermaid
 xychart-beta
     title "MIC-DKFZ/image_classification 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-24 66 → 2026-11-26 66（+0）
+2026-10-25 66 → 2026-11-27 67（+1）
 
 
 ---

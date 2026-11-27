@@ -1,6 +1,6 @@
 # Vittuu/freecad-chatcad
 
-⭐ 3 · Python · LGPL-2.1 · 推送 2026-10-12 · [GitHub](https://github.com/Vittuu/freecad-chatcad) · [官网](https://vittuu-portfolio-ai.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **FreeCAD 侧边 AI 面板：对话方式生成参数化模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | LGPL-2.1 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # clawdotnet/SharpClawCode
 
-⭐ 110 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/clawdotnet/SharpClawCode) · 组织维护
+⭐ 110 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/clawdotnet/SharpClawCode) · 组织维护
 
 **.NET 10 的 C# coding-agent 运行时与嵌入式 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "clawdotnet/SharpClawCode 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 104 --> 111
     line [105, 106, 107, 105, 110, 110]
 ```
 
-2026-10-24 105 → 2026-11-26 110（+5）
+2026-10-25 105 → 2026-11-27 110（+5）
 
 
 ---

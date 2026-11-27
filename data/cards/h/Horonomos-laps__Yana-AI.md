@@ -1,6 +1,6 @@
 # Horonomos-laps/Yana-AI
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Horonomos-laps/Yana-AI) · [官网](https://yana.vutam.link/) · 组织维护 · 中文 README
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Horonomos-laps/Yana-AI) · [官网](https://yana.vutam.link/) · 组织维护 · 中文 README
 
 **给 AI agent 加治理控制层的本地运行时：限制其可执行的操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Horonomos-laps/Yana-AI 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-26"]
+    title "Horonomos-laps/Yana-AI 星数(近 3 点)"
+    x-axis ["2026-11-11", "2026-11-26", "2026-11-27"]
     y-axis "stars" 12 --> 15
-    line [13, 14]
+    line [13, 14, 14]
 ```
 
-2026-11-11 13 → 2026-11-26 14（+1）
+2026-11-11 13 → 2026-11-27 14（+1）
 
 
 ---

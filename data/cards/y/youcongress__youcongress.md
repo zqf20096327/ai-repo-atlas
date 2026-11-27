@@ -1,6 +1,6 @@
 # youcongress/youcongress
 
-⭐ 18 · Elixir · MIT · 推送 2026-11-25 · [GitHub](https://github.com/youcongress/youcongress) · [官网](https://youcongress.org) · 个人维护
+⭐ 18 · Elixir · MIT · 推送 2026-11-26 · [GitHub](https://github.com/youcongress/youcongress) · [官网](https://youcongress.org) · 个人维护
 
 **AI 治理领域有出处语录数据库，附流动民主参与层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "youcongress/youcongress 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

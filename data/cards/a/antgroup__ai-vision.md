@@ -1,6 +1,6 @@
 # antgroup/ai-vision
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/antgroup/ai-vision) · [官网](https://antgroup.github.io/ai-vision/) · 组织维护 · 中文 README
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/antgroup/ai-vision) · [官网](https://antgroup.github.io/ai-vision/) · 组织维护 · 中文 README
 
 **给 AI agent 提供自托管观测与诊断的平台**
 
@@ -46,13 +46,13 @@ Ant AI Vision 是蚂蚁集团可观测团队与 OceanBase 联合开发的开源�
 
 ```mermaid
 xychart-beta
-    title "antgroup/ai-vision 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 4 --> 8
-    line [5, 7]
+    title "antgroup/ai-vision 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 25
+    line [5, 7, 24]
 ```
 
-2026-11-25 5 → 2026-11-26 7（+2）
+2026-11-25 5 → 2026-11-27 24（+19）
 
 
 ---

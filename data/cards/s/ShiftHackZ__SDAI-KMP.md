@@ -1,10 +1,10 @@
 # ShiftHackZ/SDAI-KMP
 
-⭐ 1,299 · Kotlin · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/ShiftHackZ/SDAI-KMP) · [官网](https://sdai.moroz.cc) · 组织维护
+⭐ 1,300 · Kotlin · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/ShiftHackZ/SDAI-KMP) · [官网](https://sdai.moroz.cc) · 个人维护
 
-**Android/iOS 端 Stable Diffusion 图像生成客户端**
+**Android/iOS 开源 AI 图像生成客户端，多后端一键接入**
 
-Kotlin Multiplatform 编写的开源 AI 图像生成移动客户端，连接自建 AUTOMATIC1111、SwarmUI、Easy Diffusion、OpenAI 兼容图像服务器及多家托管 API（AI Horde、Hugging Face、OpenAI、Stability AI、Fal.ai、ArliAI），并在支持的设备上提供端侧生成（ONNX、MediaPipe、stable-diffusion.cpp SDXL、Core ML、PrismML Bonsai 等）。提供 prompt/seed/CFG/LoRA 等生成控制、本地相册、端侧性能基准测试。Android 分 playstore/full/foss 三种构建，应用无广告无遥测；部分端侧功能因构建渠道或平台而受限。
+Kotlin Multiplatform 编写的 Stable Diffusion 图像生成移动客户端，无广告、无遥测。支持连接自托管服务器（AUTOMATIC1111、SwarmUI、Easy Diffusion、OpenAI 兼容 API）、托管 API（Hugging Face、OpenAI、Stability AI、Fal.ai、ArliAI）、AI Horde 众包生成，以及在支持设备上的本地离线生成（ONNX、MediaPipe、stable-diffusion.cpp、Core ML、PrismML Bonsai）。提供 txt2img/img2img/局部重绘、LoRA/embeddings 选择器、本地画廊、设备基准测试等功能；Android 分 playstore/full/foss 三种构建。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Kotlin Multiplatform 编写的开源 AI 图像生成移动客户端，连接自�
 
 ## 能力要点
 
-- 单一应用支持十余种远程生成后端与多种端侧运行时
-- 端侧基准测试在重负载前检测设备适配性
-- Android 分 playstore/full/foss 三种构建渠道
-- 提供 txt2img、img2img、inpaint、批生成与本地相册导出
+- 接入 15+ 后端：自托管 WebUI、托管 API、AI Horde 与本地推理
+- 支持本地离线生成（ONNX/MediaPipe/SDXL/Core ML/Bonsai）并可设备基准测试
+- Android/iOS 共享同一移动端体验
+- 本地画廊、元数据查看、Civitai 发布与 zip 导出
 
 ## 适用场景
 
-- 手机上连接自己的 AUTOMATIC1111/SwarmUI 服务器生成图像
-- 无网络环境下用端侧模型离线生图
-- 用 AI Horde 众包算力免 key 生成图像
-- 将生成结果发布到 Civitai 画廊
+- 用自己的 AUTOMATIC1111/SwarmUI 服务器在手机上出图
+- 无网络时用手机本地模型离线生成图像
+- 用 AI Horde 众包资源匿名生成
+- 将生成图发布到 Civitai 画廊
 
 ## 场景标签
 
@@ -39,21 +39,20 @@ Kotlin Multiplatform 编写的开源 AI 图像生成移动客户端，连接自�
 ## 证据(README 行号)
 
 > L18: SDAI is an independent, open-source AI image generation client for Android and iOS. It brings self-hosted AUTOMATIC
-> L38: - Choose the backend that fits the moment: your own AUTOMATIC1111, SwarmUI, Easy Diffusion, or OpenAI-compatible im
 > L61: |Provider / backend|What it connects to|iOS|Android `playstore`|Android `full`|Android `foss`|Notes|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ShiftHackZ/SDAI-KMP 星数(近 12 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 1285 --> 1300
-    line [1286, 1287, 1288, 1289, 1291, 1294, 1297, 1298, 1296, 1295, 1296, 1299]
+    title "ShiftHackZ/SDAI-KMP 星数(近 13 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1285 --> 1301
+    line [1286, 1287, 1288, 1289, 1291, 1294, 1297, 1298, 1296, 1295, 1296, 1299, 1300]
 ```
 
-2026-11-08 1,286 → 2026-11-26 1,299（+13）
+2026-11-08 1,286 → 2026-11-27 1,300（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `2e15e1e4f2ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `98b3a44b117e` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Basekick-Labs/arc
 
-⭐ 696 · Go · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Basekick-Labs/arc) · [官网](https://basekick.net) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **SQL 时序数据库：为长期遥测数据提供高吞吐摄取与历史查询**
 
@@ -11,7 +11,7 @@ Arc 是一个开源 SQL 时序分析数据库，接受 InfluxDB Line Protocol �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

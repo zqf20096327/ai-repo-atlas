@@ -1,6 +1,6 @@
 # microsoft/NeuralInvariantRanker
 
-⭐ 13 · Slash · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/NeuralInvariantRanker) · 组织维护
+⭐ 14 · Slash · MIT · 推送 2026-10-26 · [GitHub](https://github.com/microsoft/NeuralInvariantRanker) · 组织维护
 
 **对 LLM 生成的循环不变式进行排序，用于程序验证**
 
@@ -45,12 +45,12 @@ EMNLP 2023 论文的官方代码发布：训练一个神经 ranker，对 GPT-3.5
 ```mermaid
 xychart-beta
     title "microsoft/NeuralInvariantRanker 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-26", "2026-11-27"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-26 13 → 2026-11-26 13（+0）
+2026-10-26 13 → 2026-11-27 14（+1）
 
 
 ---

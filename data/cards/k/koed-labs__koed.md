@@ -1,6 +1,6 @@
 # koed-labs/koed
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/koed-labs/koed) · [官网](https://koed.ai/) · 组织维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/koed-labs/koed) · [官网](https://koed.ai/) · 组织维护
 
 **为 Codex/Claude Code/Pi 提供本地长期记忆的代理记忆层**
 
@@ -40,6 +40,18 @@ Koed 是一个在后台自动捕获 AI 编码会话的记忆层，将决策、�
 > L18: Koed ends that. It captures your AI coding sessions in the background and gives
 > L23: searches it. Your AI Client writes the answers, so no extra LLM sits in the
 > L37: - **Recall with receipts.** The `memory_answer` MCP tool gives your AI Client
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "koed-labs/koed 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 14 --> 23
+    line [15, 22]
+```
+
+2026-11-26 15 → 2026-11-27 22（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # d4niel-fr/shdw-video-editor
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/d4niel-fr/shdw-video-editor) · [官网](https://github.com/d4niel-fr/shdw-video-editor/releases/latest) · 个人维护
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/d4niel-fr/shdw-video-editor) · [官网](https://github.com/d4niel-fr/shdw-video-editor/releases/latest) · 个人维护
 
 **开发者/创作者的开源 AI 视频编辑器：agent 写代码做动效**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "d4niel-fr/shdw-video-editor 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-26"]
-    y-axis "stars" 2 --> 13
-    line [3, 4, 5, 6, 3, 8, 9, 10, 12]
+    title "d4niel-fr/shdw-video-editor 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 14
+    line [3, 4, 5, 6, 3, 8, 9, 10, 12, 13]
 ```
 
-2026-10-24 3 → 2026-11-26 12（+9）
+2026-10-25 3 → 2026-11-27 13（+10）
 
 
 ---

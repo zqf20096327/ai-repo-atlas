@@ -44,13 +44,13 @@ OpenAI 发布的监测能力评测数据集，对应 Monitoring Monitorability �
 
 ```mermaid
 xychart-beta
-    title "openai/monitorability-evals 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-14", "2026-11-26"]
+    title "openai/monitorability-evals 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-14", "2026-11-26", "2026-11-27"]
     y-axis "stars" 107 --> 112
-    line [108, 109, 110, 111]
+    line [108, 109, 110, 111, 111]
 ```
 
-2026-10-24 108 → 2026-11-26 111（+3）
+2026-10-25 108 → 2026-11-27 111（+3）
 
 
 ---

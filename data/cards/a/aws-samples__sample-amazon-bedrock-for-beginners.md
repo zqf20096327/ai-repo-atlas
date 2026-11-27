@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-amazon-bedrock-for-beginners 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-26"]
+    title "aws-samples/sample-amazon-bedrock-for-beginners 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-14", "2026-11-26", "2026-11-27"]
     y-axis "stars" 58 --> 64
-    line [59, 61, 62, 63]
+    line [59, 61, 62, 63, 63]
 ```
 
-2026-10-24 59 → 2026-11-26 63（+4）
+2026-10-25 59 → 2026-11-27 63（+4）
 
 
 ---

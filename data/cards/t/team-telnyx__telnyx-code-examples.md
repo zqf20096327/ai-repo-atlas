@@ -1,6 +1,6 @@
 # team-telnyx/telnyx-code-examples
 
-⭐ 170 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
+⭐ 170 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
 
 **面向 Telnyx 平台开发者的可运行示例代码集**
 
@@ -45,12 +45,12 @@ Telnyx 平台的示例代码集合，每个示例为自包含项目，含可运�
 ```mermaid
 xychart-beta
     title "team-telnyx/telnyx-code-examples 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-27"]
     y-axis "stars" 162 --> 171
     line [163, 164, 165, 163, 166, 167, 168, 169, 170, 170]
 ```
 
-2026-10-24 163 → 2026-11-26 170（+7）
+2026-10-25 163 → 2026-11-27 170（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhanglongxiao111/indesign-cli
 
-⭐ 60 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/zhanglongxiao111/indesign-cli) · [官网](https://github.com/zhanglongxiao111/indesign-cli/releases/latest) · 个人维护 · 中文 README
+⭐ 61 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/zhanglongxiao111/indesign-cli) · [官网](https://github.com/zhanglongxiao111/indesign-cli/releases/latest) · 个人维护 · 中文 README
 
 **让 AI Agent 通过 CLI 直接操作 Adobe InDesign 的工具桥**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhanglongxiao111/indesign-cli 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 58 --> 61
-    line [59, 60, 59, 60, 60]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 58 --> 62
+    line [59, 60, 59, 60, 61]
 ```
 
-2026-10-24 59 → 2026-11-26 60（+1）
+2026-10-25 59 → 2026-11-27 61（+2）
 
 
 ---

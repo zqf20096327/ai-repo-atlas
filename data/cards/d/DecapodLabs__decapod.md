@@ -1,6 +1,6 @@
 # DecapodLabs/decapod
 
-⭐ 240 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DecapodLabs/decapod) · [官网](http://decapodlabs.ai) · 组织维护
+⭐ 240 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/DecapodLabs/decapod) · [官网](http://decapodlabs.ai) · 组织维护
 
 **为编码 agent 提供仓库级治理内核与验证证据追踪**
 
@@ -45,12 +45,12 @@ Decapod 是一个 Rust CLI 治理内核，为编码 agent 提供持久化状态�
 ```mermaid
 xychart-beta
     title "DecapodLabs/decapod 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23", "2026-11-27"]
     y-axis "stars" 236 --> 241
     line [237, 239, 238, 239, 240, 240]
 ```
 
-2026-10-24 237 → 2026-11-26 240（+3）
+2026-10-25 237 → 2026-11-27 240（+3）
 
 
 ---

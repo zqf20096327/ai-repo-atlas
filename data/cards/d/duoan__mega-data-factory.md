@@ -1,6 +1,6 @@
 # duoan/mega-data-factory
 
-⭐ 382 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/duoan/mega-data-factory) · 个人维护
+⭐ 383 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/duoan/mega-data-factory) · 个人维护
 
 **复现 SOTA 基座模型数据管线的分布式多模态处理框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "duoan/mega-data-factory 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 379 --> 383
-    line [380, 381, 382, 382]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 379 --> 384
+    line [380, 381, 382, 383]
 ```
 
-2026-10-24 380 → 2026-11-26 382（+2）
+2026-10-25 380 → 2026-11-27 383（+3）
 
 
 ---

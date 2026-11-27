@@ -46,12 +46,12 @@ Webeloper 是一组运行于 opencode 的 markdown 格式 agent 定义：三个 
 ```mermaid
 xychart-beta
     title "franfernandz/webeloper 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-26"]
+    x-axis ["2026-11-01", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-01 10 → 2026-11-26 10（+0）
+2026-11-01 10 → 2026-11-27 10（+0）
 
 
 ---

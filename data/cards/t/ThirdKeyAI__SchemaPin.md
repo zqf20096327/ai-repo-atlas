@@ -1,6 +1,6 @@
 # ThirdKeyAI/SchemaPin
 
-⭐ 16 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ThirdKeyAI/SchemaPin) · [官网](https://schemapin.org) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ThirdKeyAI/SchemaPin) · [官网](https://schemapin.org) · 组织维护
 
 **为 AI agent 工具 schema 提供加密签名与验签的开源协议**
 
@@ -45,12 +45,12 @@ SchemaPin 是一套防止 MCP/AI agent 工具供应链攻击（如 MCP Rug Pull�
 ```mermaid
 xychart-beta
     title "ThirdKeyAI/SchemaPin 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BrightSec/shainet
 
-⭐ 198 · Crystal · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BrightSec/shainet) · 组织维护
+⭐ 198 · Crystal · MIT · 推送 2026-11-26 · [GitHub](https://github.com/BrightSec/shainet) · 组织维护
 
 **纯 Crystal 神经网络库：训练与运行神经网络及 LLM 推理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BrightSec/shainet 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 197 --> 199
     line [198, 198]
 ```
 
-2026-10-24 198 → 2026-11-26 198（+0）
+2026-10-25 198 → 2026-11-27 198（+0）
 
 
 ---

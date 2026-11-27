@@ -1,6 +1,6 @@
 # cad-lab-ai/kompas-mcp
 
-⭐ 9 · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/cad-lab-ai/kompas-mcp) · [官网](https://cad-lab.xyz/app/?utm_source=github&utm_medium=referral&utm_campaign=desktop_download&utm_content=kompas-mcp-about#download) · 组织维护
+⭐ 10 · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/cad-lab-ai/kompas-mcp) · [官网](https://cad-lab.xyz/app/?utm_source=github&utm_medium=referral&utm_campaign=desktop_download&utm_content=kompas-mcp-about#download) · 组织维护
 
 **让 MCP 代理在已打开的 KOMPAS-3D 模型中设计与修改零件的连接器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cad-lab-ai/kompas-mcp 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 3 --> 10
-    line [4, 7, 8, 9]
+    title "cad-lab-ai/kompas-mcp 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 11
+    line [4, 7, 8, 9, 10]
 ```
 
-2026-11-02 4 → 2026-11-26 9（+5）
+2026-11-02 4 → 2026-11-27 10（+6）
 
 
 ---

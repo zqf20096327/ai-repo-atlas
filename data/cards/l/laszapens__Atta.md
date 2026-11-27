@@ -1,6 +1,6 @@
 # laszapens/Atta
 
-⭐ 41 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/laszapens/Atta) · 个人维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/laszapens/Atta) · 个人维护 · 中文 README
 
 **面向 LLM agent 的参数化 CAD 内核：JSON 规格生成可验证几何**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "laszapens/Atta 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 28 --> 42
-    line [29, 34, 35, 37, 38, 41]
+    title "laszapens/Atta 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 28 --> 43
+    line [29, 34, 35, 37, 38, 41, 42]
 ```
 
-2026-11-08 29 → 2026-11-26 41（+12）
+2026-11-08 29 → 2026-11-27 42（+13）
 
 
 ---

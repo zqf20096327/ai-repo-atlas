@@ -41,6 +41,18 @@
 > L34: |Modelo base|`unsloth/Qwen2.5-Coder-3B-Instruct-bnb-4bit` (3B, em 4 bits)|
 > L61: - Contra o gpt-4.1-mini **de 1 passo**, o resultado é um **empate estatístico**: 111 contra 107, p = 0,65. Ou seja,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "festinalli/qlora-reranker-3b 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-26 6 → 2026-11-27 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `679a448cd2d2` · [字段定义](../../DATASET.md)*

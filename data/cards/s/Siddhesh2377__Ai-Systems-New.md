@@ -1,6 +1,6 @@
 # Siddhesh2377/Ai-Systems-New
 
-⭐ 33 · C++ · MIT · 推送 2026-05-16 · [GitHub](https://github.com/Siddhesh2377/Ai-Systems-New) · 个人维护
+⭐ 33 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Siddhesh2377/Ai-Systems-New) · 个人维护
 
 **Android 端侧 AI SDK：LLM 推理、图像生成、图像处理与 TTS 模块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Siddhesh2377/Ai-Systems-New 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-24 33 → 2026-11-26 33（+0）
+2026-10-25 33 → 2026-11-27 33（+0）
 
 
 ---

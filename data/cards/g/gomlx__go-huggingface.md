@@ -1,6 +1,6 @@
 # gomlx/go-huggingface
 
-⭐ 93 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/gomlx/go-huggingface) · 组织维护
+⭐ 93 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/gomlx/go-huggingface) · 组织维护
 
 **Go 语言库：从 HuggingFace Hub 下载模型/分词器/数据集并导入 GoMLX**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gomlx/go-huggingface 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-27"]
     y-axis "stars" 91 --> 95
     line [92, 93, 94, 93, 93]
 ```
 
-2026-10-24 92 → 2026-11-26 93（+1）
+2026-10-25 92 → 2026-11-27 93（+1）
 
 
 ---

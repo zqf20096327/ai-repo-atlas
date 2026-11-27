@@ -45,13 +45,13 @@ DSH（DeepSeek Harness）插件：下载官方 OpenCode 二进制，在隔离环
 
 ```mermaid
 xychart-beta
-    title "XDTrees/dsh-opencode-xdbridge 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 12 --> 17
-    line [13, 15, 16, 15, 15]
+    title "XDTrees/dsh-opencode-xdbridge 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 15, 15]
 ```
 
-2026-10-24 13 → 2026-11-26 15（+2）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

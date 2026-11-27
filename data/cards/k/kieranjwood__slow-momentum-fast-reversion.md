@@ -1,6 +1,6 @@
 # kieranjwood/slow-momentum-fast-reversion
 
-⭐ 278 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/kieranjwood/slow-momentum-fast-reversion) · [官网](https://kieranjwood.github.io/publication/slow-momentum-fast-reversion/) · 组织维护
+⭐ 279 · Python · MIT · 推送 2026-03-19 · [GitHub](https://github.com/kieranjwood/slow-momentum-fast-reversion) · [官网](https://kieranjwood.github.io/publication/slow-momentum-fast-reversion/) · 组织维护
 
 **论文配套代码：深度学习+变点检测的动量交易策略**
 
@@ -45,12 +45,12 @@ Oxford 研究者论文《Slow Momentum with Fast Reversion: A Trading Strategy U
 ```mermaid
 xychart-beta
     title "kieranjwood/slow-momentum-fast-reversion 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 277 --> 279
-    line [278, 278]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 277 --> 280
+    line [278, 279]
 ```
 
-2026-10-24 278 → 2026-11-26 278（+0）
+2026-10-25 278 → 2026-11-27 279（+1）
 
 
 ---

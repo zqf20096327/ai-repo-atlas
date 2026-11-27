@@ -1,6 +1,6 @@
 # srtab/daiv
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/srtab/daiv) · [官网](https://daivagent.com) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/srtab/daiv) · [官网](https://daivagent.com) · 组织维护
 
 **自托管的 SWE AI agent，嵌入 Git 工作流自动修 issue 与 CI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "srtab/daiv 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-26"]
+    title "srtab/daiv 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 23 --> 32
-    line [24, 28, 29, 30, 31]
+    line [24, 28, 29, 30, 31, 31]
 ```
 
-2026-10-24 24 → 2026-11-26 31（+7）
+2026-10-25 24 → 2026-11-27 31（+7）
 
 
 ---

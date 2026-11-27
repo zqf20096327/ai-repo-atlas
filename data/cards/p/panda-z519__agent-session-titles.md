@@ -1,6 +1,6 @@
 # panda-z519/agent-session-titles
 
-⭐ 6 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/panda-z519/agent-session-titles) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/panda-z519/agent-session-titles) · 个人维护 · 中文 README
 
 **为 Codex/Claude Code/DeepSeek Harness 安装会话标题自动更新插件的安装器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "panda-z519/agent-session-titles 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-27"]
     y-axis "stars" 3 --> 7
     line [4, 5, 4, 5, 6, 6]
 ```
 
-2026-10-24 4 → 2026-11-26 6（+2）
+2026-10-25 4 → 2026-11-27 6（+2）
 
 
 ---

@@ -41,6 +41,18 @@
 > L86: - **Document parsing** of quantity surveys, from long PDFs and industry exchange formats into
 > L134: The source code is maintained in a private repository: OptiBuild is a commercial product with
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lightunicon/optibuild-showcase 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-26 8 → 2026-11-27 8（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0316c38d4a5a` · [字段定义](../../DATASET.md)*

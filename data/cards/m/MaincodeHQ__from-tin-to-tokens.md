@@ -1,6 +1,6 @@
 # MaincodeHQ/from-tin-to-tokens
 
-⭐ 30 · CC-BY-4.0 · 推送 2026-08-13 · [GitHub](https://github.com/MaincodeHQ/from-tin-to-tokens) · 组织维护
+⭐ 31 · CC-BY-4.0 · 推送 2026-08-13 · [GitHub](https://github.com/MaincodeHQ/from-tin-to-tokens) · 组织维护
 
 **用 Rust 从零构建 LLM 推理栈的免费教材**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MaincodeHQ/from-tin-to-tokens 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 29, 30, 30]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 30, 31]
 ```
 
-2026-10-24 29 → 2026-11-26 30（+1）
+2026-10-25 29 → 2026-11-27 31（+2）
 
 
 ---

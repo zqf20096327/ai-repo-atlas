@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vigorlee/eidra-agent 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "vigorlee/eidra-agent 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 88 --> 91
-    line [89, 90]
+    line [89, 90, 90]
 ```
 
-2026-10-24 89 → 2026-11-26 90（+1）
+2026-10-25 89 → 2026-11-27 90（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # TsinHzl/kiro2cc-proxy
 
-⭐ 365 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/TsinHzl/kiro2cc-proxy) · 个人维护 · 中文 README
+⭐ 365 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/TsinHzl/kiro2cc-proxy) · 个人维护 · 中文 README
 
 **把 Kiro 账号代理为 Anthropic/OpenAI 兼容 API 供 Claude Code 与 Codex 使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TsinHzl/kiro2cc-proxy 星数(近 7 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
+    title "TsinHzl/kiro2cc-proxy 星数(近 8 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 354 --> 366
-    line [355, 356, 357, 358, 360, 361, 365]
+    line [355, 356, 357, 358, 360, 361, 365, 365]
 ```
 
-2026-11-18 355 → 2026-11-26 365（+10）
+2026-11-18 355 → 2026-11-27 365（+10）
 
 
 ---

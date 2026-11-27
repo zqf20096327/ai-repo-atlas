@@ -42,6 +42,18 @@
 > L7: > 规则引擎 + 实体归一化 + 可选本地 NER / LLM，**离线可跑、全文实体一致、可审计还原**。
 > L148: |**本地 NER（可选）**|规则层覆盖不到的人名/公司/地址|spaCy / HuggingFace / Ollama|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lirunyi-123/legal-document-desensitizer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `549246ee7a63` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # DEEPX-AI/dx-compiler
 
-⭐ 24 · Shell · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/DEEPX-AI/dx-compiler) · [官网](https://developer.deepx.ai/tech-docs/) · 组织维护
+⭐ 24 · Shell · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/DEEPX-AI/dx-compiler) · [官网](https://developer.deepx.ai/tech-docs/) · 组织维护
 
 **DEEPX NPU 编译器：将 ONNX 模型转为 DX-M1 等 NPU 的 .dxnn 二进制**
 
@@ -45,12 +45,12 @@ DEEPX DXNN SDK 的编译器组件（DX-COM），运行在 x86_64 Linux 主机上
 ```mermaid
 xychart-beta
     title "DEEPX-AI/dx-compiler 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-27"]
     y-axis "stars" 20 --> 25
     line [21, 23, 24, 24]
 ```
 
-2026-11-08 21 → 2026-11-26 24（+3）
+2026-11-08 21 → 2026-11-27 24（+3）
 
 
 ---

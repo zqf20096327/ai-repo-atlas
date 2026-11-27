@@ -1,6 +1,6 @@
 # eth-sri/constrained-diffusion
 
-⭐ 61 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/eth-sri/constrained-diffusion) · [官网](https://constrained-diffusion.ai) · 组织维护
+⭐ 61 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/eth-sri/constrained-diffusion) · [官网](https://constrained-diffusion.ai) · 组织维护
 
 **用上下文无关语法对扩散 LLM 与填空模型做受限解码的库**
 
@@ -46,12 +46,12 @@ ETH Zurich SRI Lab 的研究代码，实现基于上下文无关文法（CFG）�
 ```mermaid
 xychart-beta
     title "eth-sri/constrained-diffusion 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-27"]
     y-axis "stars" 57 --> 62
     line [58, 59, 60, 61, 61]
 ```
 
-2026-10-24 58 → 2026-11-26 61（+3）
+2026-10-25 58 → 2026-11-27 61（+3）
 
 
 ---

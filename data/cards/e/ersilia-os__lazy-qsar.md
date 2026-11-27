@@ -1,6 +1,6 @@
 # ersilia-os/lazy-qsar
 
-⭐ 10 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/ersilia-os/lazy-qsar) · 组织维护
+⭐ 10 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/ersilia-os/lazy-qsar) · 组织维护
 
 **少配置快速构建监督 QSAR 模型的 Python 库**
 
@@ -39,6 +39,18 @@
 
 > L5: A Python library for building supervised QSAR models quickly, with minimal configuration. LazyQSAR automates chemica
 > L182: - **Heads** are linear (ridge), XGBoost, random forest and SVR, each with one preset chosen on a regression benchm
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ersilia-os/lazy-qsar 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

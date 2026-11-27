@@ -1,6 +1,6 @@
 # Custodian-Labs/custodian-labs-python-examples
 
-⭐ 18 · Python · 推送 2026-10-08 · [GitHub](https://github.com/Custodian-Labs/custodian-labs-python-examples) · [官网](https://www.custodianlabs.io/) · 组织维护
+⭐ 18 · Python · 推送 2026-11-26 · [GitHub](https://github.com/Custodian-Labs/custodian-labs-python-examples) · [官网](https://www.custodianlabs.io/) · 组织维护
 
 **用几行 Python 构建、托管 AI agent 的 SDK 示例集**
 
@@ -45,12 +45,12 @@ Custodian Labs Python SDK 的官方示例仓库：开发者以少量代码描述
 ```mermaid
 xychart-beta
     title "Custodian-Labs/custodian-labs-python-examples 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

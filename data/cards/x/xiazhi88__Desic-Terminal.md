@@ -1,6 +1,6 @@
 # xiazhi88/Desic-Terminal
 
-⭐ 39 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/xiazhi88/Desic-Terminal) · [官网](https://desicterminal.com/) · 个人维护 · 中文 README
+⭐ 41 · Rust · MIT · 推送 2026-10-07 · [GitHub](https://github.com/xiazhi88/Desic-Terminal) · [官网](https://desicterminal.com/) · 个人维护 · 中文 README
 
 **对接 OKX 永续的开源 AI 量化交易桌面工作台**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "xiazhi88/Desic-Terminal 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 35, 37, 38, 39, 39]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 34 --> 42
+    line [35, 36, 35, 37, 38, 39, 41]
 ```
 
-2026-10-24 35 → 2026-11-26 39（+4）
+2026-10-25 35 → 2026-11-27 41（+6）
 
 
 ---

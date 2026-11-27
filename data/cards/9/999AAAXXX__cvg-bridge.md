@@ -45,12 +45,12 @@ Node.js 编写的本地反向代理，将 Converge/enter.pro 上游网关转换�
 ```mermaid
 xychart-beta
     title "999AAAXXX/cvg-bridge 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-26"]
+    x-axis ["2026-10-26", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-26 4 → 2026-11-26 4（+0）
+2026-10-26 4 → 2026-11-27 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Essomero/soma
 
-⭐ 3 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/Essomero/soma) · [官网](https://soma.mayanja.dev/featured/why-i-built-soma) · 个人维护
+⭐ 3 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/Essomero/soma) · [官网](https://soma.mayanja.dev/featured/why-i-built-soma) · 个人维护
 
 **自托管的 AI 加速个人学习与发布平台**
 
@@ -45,12 +45,12 @@ Soma 是一个部署在自己基础设施上的学习、写作与发布平台，
 ```mermaid
 xychart-beta
     title "Essomero/soma 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-26 3（+0）
+2026-11-08 3 → 2026-11-27 3（+0）
 
 
 ---

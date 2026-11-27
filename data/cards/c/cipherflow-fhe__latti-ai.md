@@ -1,6 +1,6 @@
 # cipherflow-fhe/latti-ai
 
-⭐ 10 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/cipherflow-fhe/latti-ai) · 组织维护
+⭐ 10 · C++ · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cipherflow-fhe/latti-ai) · 组织维护
 
 **面向 AI 开发者的全同态加密模型推理部署框架**
 
@@ -46,12 +46,12 @@ LattiAI 是基于 CipherFlow 的 LattiSense FHE 框架构建的隐私保护 AI �
 ```mermaid
 xychart-beta
     title "cipherflow-fhe/latti-ai 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-26 10（+0）
+2026-11-10 10 → 2026-11-27 10（+0）
 
 
 ---

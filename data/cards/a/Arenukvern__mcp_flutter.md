@@ -1,6 +1,6 @@
 # Arenukvern/mcp_flutter
 
-⭐ 401 · Dart · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Arenukvern/mcp_flutter) · [官网](https://docs.page/arenukvern/mcp_flutter) · 个人维护
+⭐ 401 · Dart · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Arenukvern/mcp_flutter) · [官网](https://docs.page/arenukvern/mcp_flutter) · 个人维护
 
 **让 AI 代理检查并驱动运行中 Flutter 应用的 MCP 工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Arenukvern/mcp_flutter 星数(近 12 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 390 --> 402
-    line [391, 392, 393, 394, 392, 397, 398, 399, 398, 399, 401, 401]
+    title "Arenukvern/mcp_flutter 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 391 --> 402
+    line [392, 393, 394, 392, 397, 398, 399, 398, 399, 401, 401]
 ```
 
-2026-10-24 391 → 2026-11-26 401（+10）
+2026-10-25 392 → 2026-11-27 401（+9）
 
 
 ---

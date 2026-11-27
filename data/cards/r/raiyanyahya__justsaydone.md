@@ -1,6 +1,6 @@
 # raiyanyahya/justsaydone
 
-⭐ 33 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/raiyanyahya/justsaydone) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/raiyanyahya/justsaydone) · 个人维护
 
 **让 Claude Code 只回一个词的输出风格插件，省输出 token**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raiyanyahya/justsaydone 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-24 33 → 2026-11-26 33（+0）
+2026-10-25 33 → 2026-11-27 34（+1）
 
 
 ---

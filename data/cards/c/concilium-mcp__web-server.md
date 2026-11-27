@@ -42,6 +42,18 @@
 > L23: **Concilium is a real RAG backend, not an Obsidian vault with `.md` files.** Your team writes notes in a clean web 
 > L25: Agents also get a home: a profile (system prompt), persistent memory, session summaries and tasks, all stored in th
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "concilium-mcp/web-server 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-11-26 30 → 2026-11-27 30（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `720471f67e61` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # iamajmeena/neonclipping
 
-⭐ 2,627 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/iamajmeena/neonclipping) · 个人维护
+⭐ 2,718 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/iamajmeena/neonclipping) · 个人维护
 
 **把长视频本地转成带字幕竖屏短片段的剪辑引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iamajmeena/neonclipping 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 1624 --> 2718
-    line [1715, 2079, 2310, 2627]
+    title "iamajmeena/neonclipping 星数(近 5 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1615 --> 2818
+    line [1715, 2079, 2310, 2627, 2718]
 ```
 
-2026-11-22 1,715 → 2026-11-26 2,627（+912）
+2026-11-22 1,715 → 2026-11-27 2,718（+1,003）
 
 
 ---

@@ -1,6 +1,6 @@
 # vynci/harnesswalk
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vynci/harnesswalk) · [官网](https://harnesswalk.vynci.dev) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/vynci/harnesswalk) · [官网](https://harnesswalk.vynci.dev) · 个人维护
 
 **可交互的开源 AI agent harness 参考实现，用于理解与实验**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "vynci/harnesswalk 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-19 3 → 2026-11-26 4（+1）
+2026-11-19 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L28: - **Models:** choose several models on the Vercel AI Gateway and say what each one is for. Jev, a routing model, re
 > L62: You need Node 24, pnpm, Postgres 15 or later, Redis 6 or later, Docker, and an account with each service in What yo
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "usepersona-dev/persona 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c6d54410c48a` · [字段定义](../../DATASET.md)*

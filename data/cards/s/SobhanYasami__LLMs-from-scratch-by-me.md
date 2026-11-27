@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SobhanYasami/LLMs-from-scratch-by-me 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-24 5 → 2026-11-26 5（+0）
+2026-10-25 5 → 2026-11-27 5（+0）
 
 
 ---

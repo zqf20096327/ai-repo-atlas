@@ -1,6 +1,6 @@
 # doubletwisted/ComfyUI-Spool
 
-⭐ 13 · JavaScript · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/doubletwisted/ComfyUI-Spool) · 个人维护
+⭐ 14 · JavaScript · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/doubletwisted/ComfyUI-Spool) · 个人维护
 
 **给 ComfyUI 用户加视频时间线的生成式影片工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "doubletwisted/ComfyUI-Spool 星数(近 5 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 2 --> 14
-    line [3, 4, 12, 13, 13]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 2 --> 15
+    line [3, 4, 12, 13, 14]
 ```
 
-2026-11-01 3 → 2026-11-26 13（+10）
+2026-11-01 3 → 2026-11-27 14（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # easyeda/eext-easyeda-api-agent
 
-⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/easyeda/eext-easyeda-api-agent) · 组织维护 · 中文 README
+⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/easyeda/eext-easyeda-api-agent) · 组织维护 · 中文 README
 
 **嘉立创EDA专业版用户：自然语言/语音调用EDA扩展API的AI助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "easyeda/eext-easyeda-api-agent 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-12", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-02", "2026-11-12", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-02 10 → 2026-11-26 12（+2）
+2026-11-02 10 → 2026-11-27 13（+3）
 
 
 ---

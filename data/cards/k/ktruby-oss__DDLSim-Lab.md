@@ -1,6 +1,6 @@
 # ktruby-oss/DDLSim-Lab
 
-⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ktruby-oss/DDLSim-Lab) · [官网](https://ktruby-oss.github.io/DDLSIM/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ktruby-oss/DDLSim-Lab) · [官网](https://ktruby-oss.github.io/DDLSIM/) · 个人维护
 
 **用裸金属节点做分布式系统与安全研究的仿真环境**
 
@@ -40,6 +40,18 @@ DDLSim-Lab 是一个面向系统研究的开源分布式仿真环境，要求部
 
 > L29: DDLSim-Lab is an open-source research project that provides a distributed simulation environment using bare metal n
 > L58: - **High-performance computing (HPC) workload evaluation** – Evaluate MPI applications, scientific simulations, and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ktruby-oss/DDLSim-Lab 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 13 --> 18
+    line [14, 17]
+```
+
+2026-11-26 14 → 2026-11-27 17（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # pphothidaen/browser-edge-bridge-scaffolding
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pphothidaen/browser-edge-bridge-scaffolding) · [官网](https://github.com/pphothidaen/browser-edge-bridge-scaffolding) · 个人维护
+⭐ 6 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pphothidaen/browser-edge-bridge-scaffolding) · [官网](https://github.com/pphothidaen/browser-edge-bridge-scaffolding) · 个人维护
 
 **把已登录浏览器会话桥接为 OpenAI 兼容 API 与 MCP 服务器的脚手架**
 
@@ -40,6 +40,18 @@
 > L10: **A generic, domain-neutral scaffolding for bridging authenticated browser sessions into OpenAI-compatible REST API
 > L21: 2. **Remote MCP Server** over JSON-RPC 2.0 (`POST /mcp`) supporting standard tool discovery and execution.
 > L34: **English:** Requests flow from AI clients through the Cloudflare Worker Edge Gateway into the singleton Durable Ob
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pphothidaen/browser-edge-bridge-scaffolding 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-26 5 → 2026-11-27 6（+1）
 
 
 ---

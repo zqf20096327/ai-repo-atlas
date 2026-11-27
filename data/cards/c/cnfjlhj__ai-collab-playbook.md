@@ -1,6 +1,6 @@
 # cnfjlhj/ai-collab-playbook
 
-⭐ 475 · Python · 推送 2026-11-24 · [GitHub](https://github.com/cnfjlhj/ai-collab-playbook) · [官网](https://github.com/cnfjlhj/ai-collab-playbook/blob/main/docs/phd-ai-collab.md) · 个人维护 · 中文 README
+⭐ 476 · Python · 推送 2026-11-24 · [GitHub](https://github.com/cnfjlhj/ai-collab-playbook) · [官网](https://github.com/cnfjlhj/ai-collab-playbook/blob/main/docs/phd-ai-collab.md) · 个人维护 · 中文 README
 
 **面向博士生等研究者的 AI 协作方法论手册与可复用工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cnfjlhj/ai-collab-playbook 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 455 --> 476
-    line [456, 457, 458, 456, 464, 471, 472, 473, 474, 475, 475]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 454 --> 478
+    line [456, 457, 458, 456, 464, 471, 472, 473, 474, 475, 476]
 ```
 
-2026-10-24 456 → 2026-11-26 475（+19）
+2026-10-25 456 → 2026-11-27 476（+20）
 
 
 ---

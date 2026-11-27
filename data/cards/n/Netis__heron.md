@@ -1,6 +1,6 @@
 # Netis/heron
 
-⭐ 104 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Netis/heron) · [官网](https://heron-ai.pages.dev) · 组织维护 · 中文 README
+⭐ 104 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Netis/heron) · [官网](https://heron-ai.pages.dev) · 组织维护 · 中文 README
 
 **从网络流量被动重建 LLM/Agent 调用与指标的可观测性工具**
 
@@ -48,12 +48,12 @@ Rust 编写的 agent 与 LLM API 性能监控工具，通过 libpcap 抓包、.p
 ```mermaid
 xychart-beta
     title "Netis/heron 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 102 --> 105
     line [103, 104, 104]
 ```
 
-2026-10-24 103 → 2026-11-26 104（+1）
+2026-10-25 103 → 2026-11-27 104（+1）
 
 
 ---

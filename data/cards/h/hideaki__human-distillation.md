@@ -1,6 +1,6 @@
 # hideaki/human-distillation
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hideaki/human-distillation) · [官网](https://claude.ai/artifact/DT4Eotmtno3AZhJtxc7fA5) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hideaki/human-distillation) · [官网](https://claude.ai/artifact/DT4Eotmtno3AZhJtxc7fA5) · 个人维护
 
 **面向学习者的树状分支 AI 对话界面，可对答案任意部分追问**
 
@@ -40,6 +40,18 @@
 > L32: A prototype of an AI chat for understanding complex ideas, implemented as a Claude Artifact.
 > L102: The app runs as a Claude artifact, and that is the one way to use it for
 > L112: - `claude.use("sample")` asks Claude on the viewer's own account.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hideaki/human-distillation 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

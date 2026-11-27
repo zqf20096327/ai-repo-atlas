@@ -45,12 +45,12 @@ Daniel Bogdoll 在 KIT 完成的博士论文《Anomaly Detection for Autonomous 
 ```mermaid
 xychart-beta
     title "daniel-bogdoll/phd 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-24 45 → 2026-11-26 45（+0）
+2026-10-25 45 → 2026-11-27 45（+0）
 
 
 ---

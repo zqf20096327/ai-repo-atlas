@@ -1,6 +1,6 @@
 # jimezsa/opencolab
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jimezsa/opencolab) · [官网](https://opencolab.ai/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jimezsa/opencolab) · [官网](https://opencolab.ai/) · 个人维护
 
 **科研工作者的常驻自主实验室 agent 编排 CLI**
 
@@ -47,12 +47,12 @@ OpenColab 是一个以 CLI 和 Telegram 为控制面的科研 agent 编排工具
 ```mermaid
 xychart-beta
     title "jimezsa/opencolab 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

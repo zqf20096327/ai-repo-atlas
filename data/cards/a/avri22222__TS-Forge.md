@@ -1,6 +1,6 @@
 # avri22222/TS-Forge
 
-⭐ 54 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/avri22222/TS-Forge) · 组织维护
+⭐ 54 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/avri22222/TS-Forge) · 组织维护
 
 **自称开源 AI 训练程序：数据集、微调配方与可复现流水线集合**
 
@@ -44,13 +44,13 @@ README 自述为一个 Apache 2.0 许可（正文又声明 MIT，两处许可声
 
 ```mermaid
 xychart-beta
-    title "avri22222/TS-Forge 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    title "avri22222/TS-Forge 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 53 --> 55
+    line [54, 54]
 ```
 
-2026-10-24 53 → 2026-11-26 54（+1）
+2026-10-25 54 → 2026-11-27 54（+0）
 
 
 ---

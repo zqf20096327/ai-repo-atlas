@@ -1,6 +1,6 @@
 # vultur/comfyui-workflow
 
-⭐ 10 · 推送 2026-05-16 · [GitHub](https://github.com/vultur/comfyui-workflow) · 个人维护 · 中文 README
+⭐ 11 · 推送 2026-05-16 · [GitHub](https://github.com/vultur/comfyui-workflow) · 个人维护 · 中文 README
 
 **为 ComfyUI 用户整理的图像生成工作流模板与安装教程集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vultur/comfyui-workflow 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

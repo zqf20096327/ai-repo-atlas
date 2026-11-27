@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RikinParekh15147/EEG-Sleep-Classification 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-08 12 → 2026-11-26 12（+0）
+2026-11-08 12 → 2026-11-27 12（+0）
 
 
 ---

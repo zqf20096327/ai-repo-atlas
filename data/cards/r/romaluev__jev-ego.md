@@ -1,6 +1,6 @@
 # romaluev/jev-ego
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/romaluev/jev-ego) · 个人维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-09-17 · [GitHub](https://github.com/romaluev/jev-ego) · 个人维护
 
 **驱动 ego lite 浏览器的 TypeScript agent，供编码 agent 操控网页**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "romaluev/jev-ego 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 16 --> 20
+    line [17, 19]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 19（+2）
 
 
 ---

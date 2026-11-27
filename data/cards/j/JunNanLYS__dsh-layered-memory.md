@@ -1,6 +1,6 @@
 # JunNanLYS/dsh-layered-memory
 
-⭐ 23 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/JunNanLYS/dsh-layered-memory) · [官网](https://www.npmjs.com/package/dsh-layered-memory) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/JunNanLYS/dsh-layered-memory) · [官网](https://www.npmjs.com/package/dsh-layered-memory) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的跨会话长期记忆插件：分层蒸馏与自动召回注入**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JunNanLYS/dsh-layered-memory 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "JunNanLYS/dsh-layered-memory 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 19 --> 24
-    line [20, 21, 20, 22, 23]
+    line [20, 21, 20, 22, 23, 22]
 ```
 
-2026-10-24 20 → 2026-11-26 23（+3）
+2026-10-25 20 → 2026-11-27 22（+2）
 
 
 ---

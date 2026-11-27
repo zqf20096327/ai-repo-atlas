@@ -1,6 +1,6 @@
 # sandbase-lab/awesome-opus-5.5
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/sandbase-lab/awesome-opus-5.5) · [官网](https://www.sandbase.ai/lab/ai-videos/opus-5-5) · 组织维护 · 中文 README
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/sandbase-lab/awesome-opus-5.5) · [官网](https://www.sandbase.ai/lab/ai-videos/opus-5-5) · 组织维护 · 中文 README
 
 **Claude Opus 5.5 生成作品策展清单：视频、提示词与教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sandbase-lab/awesome-opus-5.5 星数(近 12 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-22", "2026-11-27"]
     y-axis "stars" 3 --> 19
     line [4, 5, 6, 7, 4, 11, 13, 14, 15, 16, 18, 18]
 ```
 
-2026-10-24 4 → 2026-11-26 18（+14）
+2026-10-25 4 → 2026-11-27 18（+14）
 
 
 ---

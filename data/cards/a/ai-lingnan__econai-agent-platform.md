@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-lingnan/econai-agent-platform 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "ai-lingnan/econai-agent-platform 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 38 --> 43
-    line [39, 41, 42]
+    line [39, 41, 42, 42]
 ```
 
-2026-10-24 39 → 2026-11-26 42（+3）
+2026-10-25 39 → 2026-11-27 42（+3）
 
 
 ---

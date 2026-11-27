@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shunnet/CopilotProxy 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "shunnet/CopilotProxy 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 39 --> 42
-    line [41, 40]
+    line [41, 40, 40]
 ```
 
-2026-10-24 41 → 2026-11-26 40（-1）
+2026-10-25 41 → 2026-11-27 40（-1）
 
 
 ---

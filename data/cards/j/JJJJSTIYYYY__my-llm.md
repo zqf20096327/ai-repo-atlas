@@ -1,6 +1,6 @@
 # JJJJSTIYYYY/my-llm
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/JJJJSTIYYYY/my-llm) · 个人维护 · 中文 README
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/JJJJSTIYYYY/my-llm) · 个人维护 · 中文 README
 
 **LLM 协议适配库：一种协议调用另一种协议的 API**
 
@@ -46,12 +46,12 @@ my-llm-py 是 Python 异步 LLM 协议适配库，支持 OpenAI Chat、OpenAI Re
 ```mermaid
 xychart-beta
     title "JJJJSTIYYYY/my-llm 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-26 3（+0）
+2026-11-19 3 → 2026-11-27 3（+0）
 
 
 ---

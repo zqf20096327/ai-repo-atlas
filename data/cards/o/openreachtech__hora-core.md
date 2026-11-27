@@ -45,12 +45,12 @@ Hora Kit 的核心模块容器：携带 agents 与 skills 定义（kit/ 目录�
 ```mermaid
 xychart-beta
     title "openreachtech/hora-core 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-11-08 56 → 2026-11-26 56（+0）
+2026-11-08 56 → 2026-11-27 56（+0）
 
 
 ---

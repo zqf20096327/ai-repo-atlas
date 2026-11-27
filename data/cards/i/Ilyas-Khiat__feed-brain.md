@@ -41,6 +41,18 @@
 > L27: |**2. Distill**|Claude writes a note sized to the video: a spoiler, 3 to 8 key claims each with an example and a ti
 > L83: A capture is one headless `claude -p` run inside the vault folder, driven by an editable prompt (`server/prompt.md`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ilyas-Khiat/feed-brain 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `34ac13f15035` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # shuyu-labs/Text2Sql.Net
 
-⭐ 139 · C# · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/shuyu-labs/Text2Sql.Net) · [官网](https://antsk.cn) · 个人维护 · 中文 README
+⭐ 138 · C# · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/shuyu-labs/Text2Sql.Net) · [官网](https://antsk.cn) · 个人维护 · 中文 README
 
 **.NET 自然语言转 SQL 工具，支持 MCP 集成 IDE**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shuyu-labs/Text2Sql.Net 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-26"]
-    y-axis "stars" 138 --> 140
-    line [139, 139]
+    x-axis ["2026-10-19", "2026-11-27"]
+    y-axis "stars" 137 --> 140
+    line [139, 138]
 ```
 
-2026-10-18 139 → 2026-11-26 139（+0）
+2026-10-19 139 → 2026-11-27 138（-1）
 
 
 ---

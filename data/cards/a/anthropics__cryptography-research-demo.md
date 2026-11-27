@@ -42,13 +42,13 @@ Anthropic 发布的密码分析研究产物，包含三个独立组件：AES、H
 
 ```mermaid
 xychart-beta
-    title "anthropics/cryptography-research-demo 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 70 --> 75
-    line [71, 72, 73, 74, 74]
+    title "anthropics/cryptography-research-demo 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 71 --> 75
+    line [72, 73, 74, 74]
 ```
 
-2026-10-24 71 → 2026-11-26 74（+3）
+2026-10-25 72 → 2026-11-27 74（+2）
 
 
 ---

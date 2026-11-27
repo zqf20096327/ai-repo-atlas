@@ -46,12 +46,12 @@ NeoBase 是开源自托管的数据库对话式分析工具：通过自然语言
 ```mermaid
 xychart-beta
     title "bhaskarblur/NeoBaseAI-Copilot-for-database 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-24 69 → 2026-11-26 69（+0）
+2026-10-25 69 → 2026-11-27 69（+0）
 
 
 ---

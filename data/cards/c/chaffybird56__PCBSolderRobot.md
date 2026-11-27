@@ -1,6 +1,6 @@
 # chaffybird56/PCBSolderRobot
 
-⭐ 10 · C · MIT · 推送 2026-06-10 · [GitHub](https://github.com/chaffybird56/PCBSolderRobot) · 组织维护
+⭐ 11 · C · MIT · 推送 2026-06-10 · [GitHub](https://github.com/chaffybird56/PCBSolderRobot) · 组织维护
 
 **面向 PCB 焊点质检的自主焊接机器人（本科毕设项目）**
 
@@ -46,12 +46,12 @@ McMaster University 团队的毕业设计项目：3 轴 CoreXY 定位平台配�
 ```mermaid
 xychart-beta
     title "chaffybird56/PCBSolderRobot 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-26 10（+0）
+2026-11-08 10 → 2026-11-27 11（+1）
 
 
 ---

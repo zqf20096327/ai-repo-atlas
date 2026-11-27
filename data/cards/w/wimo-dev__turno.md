@@ -1,6 +1,6 @@
 # wimo-dev/turno
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/wimo-dev/turno) · [官网](https://turno.wimo.dev) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/wimo-dev/turno) · [官网](https://turno.wimo.dev) · 组织维护
 
 **给编码 agent 用户的 CLI：多账号切换且保留会话、MCP 登录与浏览器**
 
@@ -47,12 +47,12 @@ turno 是面向同时使用工作与个人账号运行编码 agent 的开发者�
 ```mermaid
 xychart-beta
     title "wimo-dev/turno 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-27"]
     y-axis "stars" 5 --> 11
     line [6, 9, 10, 10]
 ```
 
-2026-11-20 6 → 2026-11-26 10（+4）
+2026-11-20 6 → 2026-11-27 10（+4）
 
 
 ---

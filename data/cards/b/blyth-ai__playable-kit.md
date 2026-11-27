@@ -41,6 +41,18 @@ Blyth Arcade 所依赖的工具包：包含 Play Kernel（HTML5 游戏内核，�
 > L12: reference games and **`SKILL.md`**, the workflow an AI agent follows to turn one sentence into a finished game.
 > L40: Open the folder in Claude Code, Codex, Cursor or any other coding agent and ask for a game:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "blyth-ai/playable-kit 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a3a427dc2646` · [字段定义](../../DATASET.md)*

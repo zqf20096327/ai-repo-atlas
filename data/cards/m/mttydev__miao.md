@@ -1,6 +1,6 @@
 # mttydev/miao
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mttydev/miao) · [官网](https://mtty.dev/miao) · 个人维护 · 中文 README
+⭐ 86 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mttydev/miao) · [官网](https://mtty.dev/miao) · 个人维护 · 中文 README
 
 **在终端与你协作的开源 AI 编码代理，自带模型选择与成本可见**
 
@@ -40,6 +40,18 @@
 
 > L9: **miao is an open-source AI agent that works with you in the terminal.** Use the models you choose to write code, re
 > L35: Use multiple providers in one interface, switch models within a session, and configure specialist agents with their
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mttydev/miao 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 16 --> 92
+    line [22, 86]
+```
+
+2026-11-26 22 → 2026-11-27 86（+64）
 
 
 ---

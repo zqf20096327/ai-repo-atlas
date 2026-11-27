@@ -1,6 +1,6 @@
 # Teriks/dgenerate
 
-⭐ 45 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/Teriks/dgenerate) · [官网](https://dgenerate.readthedocs.io) · 个人维护
+⭐ 45 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/Teriks/dgenerate) · [官网](https://dgenerate.readthedocs.io) · 个人维护
 
 **脚本化命令行图像/视频生成与编辑工具（Stable Diffusion 生态）**
 
@@ -47,12 +47,12 @@ dgenerate 是可脚本化的命令行工具兼 Python 库，用于图像生成�
 ```mermaid
 xychart-beta
     title "Teriks/dgenerate 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-27"]
     y-axis "stars" 43 --> 46
     line [45, 44, 45, 45]
 ```
 
-2026-10-24 45 → 2026-11-26 45（+0）
+2026-10-25 45 → 2026-11-27 45（+0）
 
 
 ---

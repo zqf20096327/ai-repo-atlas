@@ -45,12 +45,12 @@ Obsidian 社区插件，提取 YouTube 视频字幕并发送给 Gemini、OpenAI�
 ```mermaid
 xychart-beta
     title "mbramani/obsidian-yt-video-summarizer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-24 44 → 2026-11-26 44（+0）
+2026-10-25 44 → 2026-11-27 44（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # sifxprime/krouter
 
-⭐ 34 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sifxprime/krouter) · [官网](https://krouter.kodelyth.com) · 组织维护
+⭐ 34 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sifxprime/krouter) · [官网](https://krouter.kodelyth.com) · 组织维护
 
 **自托管通用 AI 路由网关：统一接入 95+ 提供商并自动故障切换**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sifxprime/krouter 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 29 --> 35
     line [30, 31, 32, 33, 30, 33, 34, 34]
 ```
 
-2026-10-24 30 → 2026-11-26 34（+4）
+2026-10-25 30 → 2026-11-27 34（+4）
 
 
 ---

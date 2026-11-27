@@ -44,13 +44,13 @@ Sparse VideoGen 1/2/EAR 是三个 training-free 框架，利用 3D 全注意力�
 
 ```mermaid
 xychart-beta
-    title "svg-project/Sparse-VideoGen 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "svg-project/Sparse-VideoGen 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 711 --> 714
-    line [712, 713]
+    line [712, 713, 713]
 ```
 
-2026-10-24 712 → 2026-11-26 713（+1）
+2026-10-25 712 → 2026-11-27 713（+1）
 
 
 ---

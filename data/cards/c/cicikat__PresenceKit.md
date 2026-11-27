@@ -1,6 +1,6 @@
 # cicikat/PresenceKit
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/cicikat/PresenceKit) · 个人维护 · 中文 README
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/cicikat/PresenceKit) · 个人维护 · 中文 README
 
 **单人 AI 伴侣后端运行时：人格、长期记忆、情绪与主动联系**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cicikat/PresenceKit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

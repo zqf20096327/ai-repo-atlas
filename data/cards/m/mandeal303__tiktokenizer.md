@@ -1,6 +1,6 @@
 # mandeal303/tiktokenizer
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/mandeal303/tiktokenizer) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/mandeal303/tiktokenizer) · 个人维护
 
 **在线对比不同语言模型分词效果的交互式 playground**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "mandeal303/tiktokenizer 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 28 --> 52
+    line [50, 30]
 ```
 
-2026-11-08 50 → 2026-11-26 50（+0）
+2026-11-08 50 → 2026-11-27 30（-20）
 
 
 ---

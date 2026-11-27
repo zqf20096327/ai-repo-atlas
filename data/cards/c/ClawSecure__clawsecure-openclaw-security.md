@@ -45,12 +45,12 @@ ClawSecure 是针对 OpenClaw 生态（AI agent 技能与工作流）的安全�
 ```mermaid
 xychart-beta
     title "ClawSecure/clawsecure-openclaw-security 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
     y-axis "stars" 37 --> 42
     line [38, 40, 41, 41]
 ```
 
-2026-10-24 38 → 2026-11-26 41（+3）
+2026-10-25 38 → 2026-11-27 41（+3）
 
 
 ---

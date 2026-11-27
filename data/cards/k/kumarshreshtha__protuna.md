@@ -1,6 +1,6 @@
 # kumarshreshtha/protuna
 
-⭐ 57 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/kumarshreshtha/protuna) · [官网](https://protuna.org) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kumarshreshtha/protuna) · [官网](https://protuna.org) · 个人维护
 
 **面向蛋白质工程的迭代优化框架：提出下一批待测变体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kumarshreshtha/protuna 星数(近 7 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-27"]
     y-axis "stars" 34 --> 59
     line [36, 41, 52, 55, 56, 57, 57]
 ```
 
-2026-10-31 36 → 2026-11-26 57（+21）
+2026-10-31 36 → 2026-11-27 57（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # paradedb/superkmeans-rs
 
-⭐ 16 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/paradedb/superkmeans-rs) · [官网](https://crates.io/crates/superkmeans-rs) · 组织维护
+⭐ 16 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/paradedb/superkmeans-rs) · [官网](https://crates.io/crates/superkmeans-rs) · 组织维护
 
 **SuperKMeans 论文的 Rust 移植：高维向量 k-means 聚类**
 
@@ -45,12 +45,12 @@ CWI SuperKMeans 论文的 Rust 实现，用于高维向量嵌入的 k-means 聚�
 ```mermaid
 xychart-beta
     title "paradedb/superkmeans-rs 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-27"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-24 14 → 2026-11-26 16（+2）
+2026-10-25 14 → 2026-11-27 16（+2）
 
 
 ---

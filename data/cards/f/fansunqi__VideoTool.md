@@ -45,12 +45,12 @@ NeurIPS 2025 论文 Tool-Augmented Spatiotemporal Reasoning 的官方代码库�
 ```mermaid
 xychart-beta
     title "fansunqi/VideoTool 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-24 23 → 2026-11-26 23（+0）
+2026-10-25 23 → 2026-11-27 23（+0）
 
 
 ---

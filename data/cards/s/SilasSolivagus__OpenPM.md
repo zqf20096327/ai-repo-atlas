@@ -1,6 +1,6 @@
 # SilasSolivagus/OpenPM
 
-⭐ 4 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SilasSolivagus/OpenPM) · [官网](https://silassolivagus.github.io/OpenPM/) · 个人维护 · 中文 README
+⭐ 4 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SilasSolivagus/OpenPM) · [官网](https://silassolivagus.github.io/OpenPM/) · 个人维护 · 中文 README
 
 **把产品想法编译成流程图+可点原型+PRD 单页 HTML 的规范工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SilasSolivagus/OpenPM 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-25 4 → 2026-11-26 4（+0）
+2026-11-25 4 → 2026-11-27 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide
 
-⭐ 4 · 推送 2026-11-25 · [GitHub](https://github.com/lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 17 · 推送 2026-11-25 · [GitHub](https://github.com/lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **海外 AI 会员订阅者的 USDT 虚拟卡开卡与防风控指南**
 
@@ -39,6 +39,18 @@
 > L2: 11 月 24 日最新报道曝光 OpenAI 与 Anthropic 内部员工正围绕下一代模型发布边界展开激烈讨论，平台审核机制也随之收紧——聊聊用户在订阅海外 AI 会员时，怎么避免账号因支付异常被误封。
 > L9: ### 🔍 实战干货：保护海外 AI 账号不被“支付风控误杀”的 4 个要点
 > L25: 访问 **CoreGold 官方平台**：https://app.coregold.io/signup?invite_code=ADvlj9b，使用常用邮箱注册并登录进入用户后台。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 18
+    line [4, 17]
+```
+
+2026-11-26 4 → 2026-11-27 17（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # tjamet/har-mcp
 
-⭐ 28 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tjamet/har-mcp) · 个人维护
+⭐ 28 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tjamet/har-mcp) · 个人维护
 
 **供 AI 助手解析分析 HAR 网络抓包文件的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tjamet/har-mcp 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-11-02 27 → 2026-11-26 28（+1）
+2026-11-02 27 → 2026-11-27 28（+1）
 
 
 ---

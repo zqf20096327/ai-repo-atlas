@@ -44,13 +44,13 @@ T-ASE 论文 HEIGHT 的官方代码：用异构时空图建模人-机器人-障�
 
 ```mermaid
 xychart-beta
-    title "Shuijing725/CrowdNav_HEIGHT 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "Shuijing725/CrowdNav_HEIGHT 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 120 --> 123
-    line [121, 122]
+    line [121, 122, 122]
 ```
 
-2026-10-24 121 → 2026-11-26 122（+1）
+2026-10-25 121 → 2026-11-27 122（+1）
 
 
 ---

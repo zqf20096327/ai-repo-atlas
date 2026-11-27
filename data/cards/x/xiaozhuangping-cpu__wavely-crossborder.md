@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaozhuangping-cpu/wavely-crossborder 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-26"]
+    title "xiaozhuangping-cpu/wavely-crossborder 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-11-21 3 → 2026-11-26 5（+2）
+2026-11-21 3 → 2026-11-27 5（+2）
 
 
 ---

@@ -45,13 +45,13 @@ ctrlb-decompose 将数百万行嘈杂日志归约为带类型变量、分位数�
 
 ```mermaid
 xychart-beta
-    title "ctrlb-hq/ctrlb-decompose 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "ctrlb-hq/ctrlb-decompose 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 304 --> 307
-    line [305, 306]
+    line [305, 306, 306]
 ```
 
-2026-10-24 305 → 2026-11-26 306（+1）
+2026-10-25 305 → 2026-11-27 306（+1）
 
 
 ---

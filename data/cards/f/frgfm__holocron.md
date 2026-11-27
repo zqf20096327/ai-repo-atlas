@@ -1,6 +1,6 @@
 # frgfm/holocron
 
-⭐ 327 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/frgfm/holocron) · [官网](https://frgfm.github.io/holocron) · 个人维护
+⭐ 327 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/frgfm/holocron) · [官网](https://frgfm.github.io/holocron) · 个人维护
 
 **PyTorch 计算机视觉模型与训练技巧研究实现库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "frgfm/holocron 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 326 --> 329
-    line [328, 327, 327]
+    title "frgfm/holocron 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 326 --> 328
+    line [327, 327]
 ```
 
-2026-10-24 328 → 2026-11-26 327（-1）
+2026-10-25 327 → 2026-11-27 327（+0）
 
 
 ---

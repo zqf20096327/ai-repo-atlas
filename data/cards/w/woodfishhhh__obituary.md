@@ -1,6 +1,6 @@
 # woodfishhhh/obituary
 
-⭐ 110 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/woodfishhhh/obituary) · [官网](obituary.woodfish.site) · 个人维护 · 中文 README
+⭐ 111 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/woodfishhhh/obituary) · [官网](obituary.woodfish.site) · 个人维护 · 中文 README
 
 **给 AI agent 产物做自动过期与可恢复删除的回收站工具**
 
@@ -41,6 +41,18 @@ Obituary 定位为 AI agent 的回收站：agent 通过 obit mark 给自己写�
 > L18: Obituary is the trash bin for AI agents: the agent and you decide what goes in. An agent gives the debug scripts, l
 > L32: - **The agent decides what goes in.** `obit init` adds Obituary to the agent's instructions (`OBIT.md`, an Agent Sk
 > L55:  Agents Obituary connects to: Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, Windsurf, Trae, Qoder, CodeBu
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "woodfishhhh/obituary 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 109 --> 112
+    line [110, 111]
+```
+
+2026-11-26 110 → 2026-11-27 111（+1）
 
 
 ---

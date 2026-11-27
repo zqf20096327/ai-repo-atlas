@@ -1,6 +1,6 @@
 # codelibs/fione
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/codelibs/fione) · [官网](https://fione.codelibs.org/) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/codelibs/fione) · [官网](https://fione.codelibs.org/) · 组织维护
 
 **面向 Fess 的企业 AutoML 扩展平台**
 
@@ -42,12 +42,12 @@ Fione 是搜索服务器 Fess 的 AutoML 扩展，定位为企业 AI 平台。RE
 ```mermaid
 xychart-beta
     title "codelibs/fione 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 17（+1）
 
 
 ---

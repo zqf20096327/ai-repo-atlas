@@ -44,13 +44,13 @@ Microsoft 维护的 MCP 服务器，以 npm 包 @microsoft/copilot-studio-mcp �
 
 ```mermaid
 xychart-beta
-    title "microsoft/copilot-studio-mcp 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-26"]
+    title "microsoft/copilot-studio-mcp 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27"]
     y-axis "stars" 12 --> 20
-    line [13, 16, 17, 19]
+    line [13, 16, 17, 19, 19]
 ```
 
-2026-11-02 13 → 2026-11-26 19（+6）
+2026-11-02 13 → 2026-11-27 19（+6）
 
 
 ---

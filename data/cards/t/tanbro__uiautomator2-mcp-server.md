@@ -1,6 +1,6 @@
 # tanbro/uiautomator2-mcp-server
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tanbro/uiautomator2-mcp-server) · 个人维护 · 中文 README
+⭐ 59 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/tanbro/uiautomator2-mcp-server) · 个人维护 · 中文 README
 
 **让 AI 通过 MCP 控制安卓设备的工具服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tanbro/uiautomator2-mcp-server 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 52 --> 59
-    line [53, 54, 53, 55, 56, 57, 58, 58]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 52 --> 60
+    line [53, 54, 53, 55, 56, 57, 58, 59]
 ```
 
-2026-10-24 53 → 2026-11-26 58（+5）
+2026-10-25 53 → 2026-11-27 59（+6）
 
 
 ---

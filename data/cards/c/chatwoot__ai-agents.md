@@ -44,13 +44,13 @@ Provider 无关的 Ruby AI Agents SDK，用于构建多 agent 工作流：提供
 
 ```mermaid
 xychart-beta
-    title "chatwoot/ai-agents 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 161 --> 165
-    line [162, 163, 164, 164]
+    title "chatwoot/ai-agents 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 162 --> 165
+    line [163, 164, 164]
 ```
 
-2026-10-24 162 → 2026-11-26 164（+2）
+2026-10-25 163 → 2026-11-27 164（+1）
 
 
 ---

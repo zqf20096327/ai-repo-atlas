@@ -1,6 +1,6 @@
 # Tools2U/AI-Website-Audit-CLI
 
-⭐ 64 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/Tools2U/AI-Website-Audit-CLI) · 个人维护
+⭐ 65 · Python · MIT · 推送 2026-06-07 · [GitHub](https://github.com/Tools2U/AI-Website-Audit-CLI) · 个人维护
 
 **网站审计 CLI：确定性规则检查加 OpenAI 生成改进报告**
 
@@ -45,12 +45,12 @@ Python 命令行工具，将公开网站 URL 转为结构化审计包：抓取�
 ```mermaid
 xychart-beta
     title "Tools2U/AI-Website-Audit-CLI 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 62 --> 65
-    line [63, 64, 63, 64, 64]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 63, 64, 65]
 ```
 
-2026-10-24 63 → 2026-11-26 64（+1）
+2026-10-25 63 → 2026-11-27 65（+2）
 
 
 ---

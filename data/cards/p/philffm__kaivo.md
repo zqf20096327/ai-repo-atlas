@@ -1,6 +1,6 @@
 # philffm/kaivo
 
-⭐ 25 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/philffm/kaivo) · [官网](http://kaivo.byphil.eu/) · 个人维护
+⭐ 26 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/philffm/kaivo) · [官网](http://kaivo.byphil.eu/) · 个人维护
 
 **浏览器阅读助手：本地或自选模型总结网页/PDF/YouTube**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "philffm/kaivo 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-11-25 25 → 2026-11-26 25（+0）
+2026-11-25 25 → 2026-11-27 26（+1）
 
 
 ---

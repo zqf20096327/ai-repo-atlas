@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ProprietaryLegal/DGX-sPLIce-DeepSeek-V4.1-Flash-2xDGX-Spark-2xRTX3090-drafter-x86-offload 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-26"]
+    title "ProprietaryLegal/DGX-sPLIce-DeepSeek-V4.1-Flash-2xDGX-Spark-2xRTX3090-drafter-x86-offload 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 8
-    line [3, 4, 6, 7]
+    line [3, 4, 6, 7, 7]
 ```
 
-2026-11-02 3 → 2026-11-26 7（+4）
+2026-11-02 3 → 2026-11-27 7（+4）
 
 
 ---

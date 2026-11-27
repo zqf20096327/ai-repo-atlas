@@ -1,6 +1,6 @@
 # roottron/roottron-ai
 
-⭐ 15 · 推送 2026-11-25 · [GitHub](https://github.com/roottron/roottron-ai) · [官网](https://www.roottron.com) · 个人维护
+⭐ 15 · 推送 2026-11-26 · [GitHub](https://github.com/roottron/roottron-ai) · [官网](https://www.roottron.com) · 个人维护
 
 **面向安全研究者的多 agent 网络安全 AI 助手平台**
 
@@ -46,12 +46,12 @@ RootTron 是一个面向安全研究人员、渗透测试者与数字取证调�
 ```mermaid
 xychart-beta
     title "roottron/roottron-ai 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-15", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-15", "2026-11-22", "2026-11-27"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-10-24 13 → 2026-11-26 15（+2）
+2026-10-25 13 → 2026-11-27 15（+2）
 
 
 ---

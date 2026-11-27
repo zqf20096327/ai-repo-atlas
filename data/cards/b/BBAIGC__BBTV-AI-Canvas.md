@@ -1,6 +1,6 @@
 # BBAIGC/BBTV-AI-Canvas
 
-⭐ 4 · 推送 2026-11-25 · [GitHub](https://github.com/BBAIGC/BBTV-AI-Canvas) · [官网](https://bbtv.ainivox.cn/) · 组织维护 · 中文 README
+⭐ 8 · 推送 2026-11-26 · [GitHub](https://github.com/BBAIGC/BBTV-AI-Canvas) · [官网](https://bbtv.ainivox.cn/) · 组织维护 · 中文 README
 
 **面向 Windows 创作者的本地 AI 无限画布：图片视频生成与放大**
 
@@ -40,6 +40,18 @@ Windows 本地运行的 AI 无限画布软件，把参考图、剧本、分镜�
 > L27: **BBTV AI Canvas（BBTV 无限画布）** 是 Windows 本地 AI 无限画布创作软件，支持 ComfyUI 图片与视频生成、智能分镜、高清放大及 MCP 智能体控制。本地功能永久免费，使用本地模型无需购买 
 > L54: **把想法、参考图、分镜和生成结果放进一张无限画布，接着创作。** BBTV 将常用的本地图片、视频与放大流程做成可以直接使用的操作：选择模型、提供参考、写下要求，无需手动搭建 ComfyUI 节点工作流。
 > L143: BBTV 提供标准 MCP，让智能体直接操作**正在打开的真实画布**。创建节点、填写提示词、连接素材、选择模型、加入生成队列，都会即时显示在软件里；生成结果也保存在同一画布中。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BBAIGC/BBTV-AI-Canvas 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 9
+    line [4, 8]
+```
+
+2026-11-26 4 → 2026-11-27 8（+4）
 
 
 ---

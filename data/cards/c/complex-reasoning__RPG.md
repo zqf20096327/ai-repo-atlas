@@ -46,12 +46,12 @@ ICLR 2026 论文 "On the Design of KL-Regularized Policy Gradient Algorithms for
 ```mermaid
 xychart-beta
     title "complex-reasoning/RPG 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-24 78 → 2026-11-26 78（+0）
+2026-10-25 78 → 2026-11-27 78（+0）
 
 
 ---

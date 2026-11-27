@@ -1,6 +1,6 @@
 # julianmb/halofpx
 
-⭐ 97 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/julianmb/halofpx) · [官网](https://huggingface.co/julianmb/Qwen-3.8-27B-ROCmFP4-FAST-GGUF) · 个人维护
+⭐ 98 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/julianmb/halofpx) · [官网](https://huggingface.co/julianmb/Qwen-3.8-27B-ROCmFP4-FAST-GGUF) · 个人维护
 
 **面向 AMD Strix Halo/Radeon GPU 的本地模型服务器与模型库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "julianmb/halofpx 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 93 --> 98
-    line [94, 95, 96, 97, 97]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 93 --> 99
+    line [94, 95, 96, 97, 98]
 ```
 
-2026-10-24 94 → 2026-11-26 97（+3）
+2026-10-25 94 → 2026-11-27 98（+4）
 
 
 ---

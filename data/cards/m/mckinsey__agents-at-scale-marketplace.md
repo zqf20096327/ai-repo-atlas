@@ -1,6 +1,6 @@
 # mckinsey/agents-at-scale-marketplace
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/mckinsey/agents-at-scale-marketplace) · [官网](https://mckinsey.github.io/agents-at-scale-marketplace/) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/mckinsey/agents-at-scale-marketplace) · [官网](https://mckinsey.github.io/agents-at-scale-marketplace/) · 组织维护
 
 **面向 Ark 平台的 AI 服务 Helm 应用市场：一键部署代理相关服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mckinsey/agents-at-scale-marketplace 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-18", "2026-11-26"]
+    title "mckinsey/agents-at-scale-marketplace 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22]
+    line [19, 20, 21, 22, 22]
 ```
 
-2026-10-24 19 → 2026-11-26 22（+3）
+2026-10-25 19 → 2026-11-27 22（+3）
 
 
 ---

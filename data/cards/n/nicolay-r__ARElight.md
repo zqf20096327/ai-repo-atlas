@@ -1,6 +1,6 @@
 # nicolay-r/ARElight
 
-⭐ 39 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nicolay-r/ARElight) · [官网](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_23) · 个人维护
+⭐ 39 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nicolay-r/ARElight) · [官网](https://link.springer.com/chapter/10.1007/978-3-031-56069-9_23) · 个人维护
 
 **从长文本中抽取命名实体间情感态度并生成图分析的应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nicolay-r/ARElight 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-24 39 → 2026-11-26 39（+0）
+2026-10-25 39 → 2026-11-27 39（+0）
 
 
 ---

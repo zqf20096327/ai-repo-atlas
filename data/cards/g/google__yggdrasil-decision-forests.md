@@ -1,6 +1,6 @@
 # google/yggdrasil-decision-forests
 
-⭐ 681 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/google/yggdrasil-decision-forests) · [官网](https://ydf.readthedocs.io/) · 组织维护
+⭐ 681 · C++ · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/google/yggdrasil-decision-forests) · [官网](https://ydf.readthedocs.io/) · 组织维护
 
 **训练、评估与部署决策森林模型（RF/GBDT）的库**
 
@@ -45,12 +45,12 @@ YDF（Yggdrasil Decision Forests）是 Google 开发的决策森林机器学习�
 ```mermaid
 xychart-beta
     title "google/yggdrasil-decision-forests 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
     y-axis "stars" 676 --> 682
     line [677, 678, 680, 681, 681]
 ```
 
-2026-10-24 677 → 2026-11-26 681（+4）
+2026-10-25 677 → 2026-11-27 681（+4）
 
 
 ---

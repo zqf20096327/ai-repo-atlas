@@ -1,6 +1,6 @@
 # cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide
 
-⭐ 8 · 推送 2026-11-25 · [GitHub](https://github.com/cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 23 · 推送 2026-11-25 · [GitHub](https://github.com/cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **用 CoreGold USDT 虚拟卡为 AI 开发订阅与 API 消费设预算上限的教程**
 
@@ -39,6 +39,18 @@
 
 > L2: 11 月 24 日 Anthropic 推出 Claude Ship 把 AI 编程延伸到 PR 自动审批，Eclipse 基金会也同步推进编程沙箱——聊聊全自动研发流水线里，怎么用 CoreGold 虚拟卡 给开发订阅和接口设好“
 > L22: ### 🧭 CoreGold 极简开卡与绑定教程（一看就会）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 24
+    line [8, 23]
+```
+
+2026-11-26 8 → 2026-11-27 23（+15）
 
 
 ---

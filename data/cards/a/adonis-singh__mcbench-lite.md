@@ -1,6 +1,6 @@
 # adonis-singh/mcbench-lite
 
-⭐ 3 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/adonis-singh/mcbench-lite) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/adonis-singh/mcbench-lite) · 个人维护
 
 **让 AI 模型以 Agent 方式在 Minecraft 世界中搭建并横向对比的本地应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adonis-singh/mcbench-lite 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-26 3（+0）
+2026-11-16 3 → 2026-11-27 3（+0）
 
 
 ---

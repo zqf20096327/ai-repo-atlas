@@ -1,6 +1,6 @@
 # Thiggel/economize
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Thiggel/economize) · [官网](https://thiggel.github.io/economize/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 Hugging Face 语言模型叠加可组合推理加速技术的 Python 库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

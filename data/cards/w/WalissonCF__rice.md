@@ -1,6 +1,6 @@
 # WalissonCF/rice
 
-⭐ 8 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/WalissonCF/rice) · [官网](https://ricenotes.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Mac/Windows 本地会议记录应用：本机转录、AI 生成笔记**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

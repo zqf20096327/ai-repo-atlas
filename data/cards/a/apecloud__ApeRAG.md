@@ -1,6 +1,6 @@
 # apecloud/ApeRAG
 
-⭐ 1,321 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/apecloud/ApeRAG) · [官网](https://apemind.ai) · 组织维护 · 中文 README
+⭐ 1,322 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/apecloud/ApeRAG) · [官网](https://apemind.ai) · 组织维护 · 中文 README
 
 **生产级 RAG 平台：构建知识图谱并支持多模态检索与 AI Agent**
 
@@ -46,13 +46,13 @@ ApeRAG 是一个生产就绪的 RAG 平台，组合 Graph RAG、向量检索与�
 
 ```mermaid
 xychart-beta
-    title "apecloud/ApeRAG 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 1316 --> 1322
-    line [1317, 1320, 1321]
+    title "apecloud/ApeRAG 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1316 --> 1323
+    line [1317, 1320, 1321, 1322]
 ```
 
-2026-11-23 1,317 → 2026-11-26 1,321（+4）
+2026-11-23 1,317 → 2026-11-27 1,322（+5）
 
 
 ---

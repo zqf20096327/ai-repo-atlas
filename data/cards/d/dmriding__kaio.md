@@ -1,6 +1,6 @@
 # dmriding/kaio
 
-⭐ 44 · Rust · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/dmriding/kaio) · [官网](https://crates.io/crates/kaio) · 个人维护
+⭐ 45 · Rust · Apache-2.0 · 推送 2026-06-12 · [GitHub](https://github.com/dmriding/kaio) · [官网](https://crates.io/crates/kaio) · 个人维护
 
 **Rust 原生 GPU kernel 编写框架：Rust 子集 DSL 编译为 PTX**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dmriding/kaio 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-24 44 → 2026-11-26 44（+0）
+2026-10-25 44 → 2026-11-27 45（+1）
 
 
 ---

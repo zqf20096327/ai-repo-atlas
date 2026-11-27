@@ -1,6 +1,6 @@
 # GeniusPilot2016/NeoBleeper
 
-⭐ 10 · C# · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/GeniusPilot2016/NeoBleeper) · [官网](https://geniuspilot2016.wordpress.com/neobleeper/) · 个人维护
+⭐ 10 · C# · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/GeniusPilot2016/NeoBleeper) · [官网](https://geniuspilot2016.wordpress.com/neobleeper/) · 个人维护
 
 **用主板 PC 喇叭作曲的软件，支持 Gemini 生成音乐**
 
@@ -46,12 +46,12 @@ NeoBleeper 是一款运行于 Windows 的乐曲创作软件，通过访问主板
 ```mermaid
 xychart-beta
     title "GeniusPilot2016/NeoBleeper 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-26"]
+    x-axis ["2026-11-12", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-12 10 → 2026-11-26 10（+0）
+2026-11-12 10 → 2026-11-27 10（+0）
 
 
 ---

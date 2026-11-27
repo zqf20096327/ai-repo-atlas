@@ -1,6 +1,6 @@
 # SAP/ai-sdk-java
 
-⭐ 45 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/SAP/ai-sdk-java) · 组织维护
+⭐ 45 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/SAP/ai-sdk-java) · 组织维护
 
 **面向 Java 应用接入 SAP AI Core 的官方 SDK**
 
@@ -44,13 +44,13 @@ SAP 官方的 Java SDK，用于将 SAP AI Core、Generative AI Hub 与 Orchestra
 
 ```mermaid
 xychart-beta
-    title "SAP/ai-sdk-java 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "SAP/ai-sdk-java 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 43 --> 46
-    line [44, 45]
+    line [44, 45, 45]
 ```
 
-2026-10-24 44 → 2026-11-26 45（+1）
+2026-10-25 44 → 2026-11-27 45（+1）
 
 
 ---

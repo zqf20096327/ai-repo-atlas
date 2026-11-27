@@ -41,6 +41,18 @@
 > L22: 1. **Ingest**: documents are split into chunks and embedded with a sentence-transformer model.
 > L25: 4. **Generate**: the best chunks are passed to llama3.2 as context to produce the answer.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "a-gun8591/Local-RAG-based-Research-Assistant 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `0fc5021ef6c7` · [字段定义](../../DATASET.md)*

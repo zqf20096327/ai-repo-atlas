@@ -1,6 +1,6 @@
 # pangolinsec/baobab
 
-⭐ 11 · TypeScript · 推送 2026-06-16 · [GitHub](https://github.com/pangolinsec/baobab) · [官网](https://pangolinsec.github.io/baobab/) · 组织维护
+⭐ 12 · TypeScript · 推送 2026-06-16 · [GitHub](https://github.com/pangolinsec/baobab) · [官网](https://pangolinsec.github.io/baobab/) · 组织维护
 
 **树状分支对话的浏览器端 LLM 客户端，多供应商接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pangolinsec/baobab 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 11（+1）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

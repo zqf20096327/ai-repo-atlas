@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agentic-sdlc-starter 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-26"]
+    title "microsoft/agentic-sdlc-starter 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 19 --> 25
-    line [20, 23, 24]
+    line [20, 23, 24, 24]
 ```
 
-2026-10-23 20 → 2026-11-26 24（+4）
+2026-10-24 20 → 2026-11-27 24（+4）
 
 
 ---

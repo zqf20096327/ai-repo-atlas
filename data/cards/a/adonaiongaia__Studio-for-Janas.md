@@ -1,6 +1,6 @@
 # adonaiongaia/Studio-for-Janas
 
-⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/adonaiongaia/Studio-for-Janas) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向小型硬件的本地桌面 LLM 工作室，双引擎驱动推理与 Agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

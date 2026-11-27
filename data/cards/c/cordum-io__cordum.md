@@ -1,10 +1,10 @@
 # cordum-io/cordum
 
-⭐ 507 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/cordum-io/cordum) · 组织维护
+⭐ 507 · Go · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/cordum-io/cordum) · 组织维护
 
-**AI agent 动作管控平面：风险工具调用前执行策略与人工审批**
+**AI Agent 行动的策略防火墙：执行前拦截、审批与审计**
 
-以 Source-Available 形式提供的 agent 控制平面：在 agent 动作派发边界处做策略判定，支持 ALLOW/DENY/REQUIRE_APPROVAL/THROTTLE/ALLOW_WITH_CONSTRAINTS 五种裁决，动作规范化后以 SHA-256 哈希绑定审批，审批需租户、approval_ref 与 action_hash 匹配。组件含 API 网关、调度器、Safety Kernel、工作流引擎、上下文引擎、仪表盘与 MCP 服务，用 YAML 声明策略，默认未匹配请求为 deny。Cordum Edge 以 hook 方式对 Claude Code 工具调用做元数据导出的策略评估。部署路径含源码脚本、docker compose、手动 go run 与 Helm。
+定位为 agent 控制平面：在工具调用、shell 命令、工作流与生产变更被分派前插入策略决策，输出 ALLOW/DENY/REQUIRE_APPROVAL/THROTTLE/ALLOW_WITH_CONSTRAINTS 五种裁决；动作经规范化并以 SHA-256 哈希绑定审批，未匹配请求默认拒绝，通过 CAP/MCP 集成与本地 Edge hook（当前支持 Claude Code）评估请求。组件含 API 网关、调度器、safety kernel、工作流/上下文引擎与仪表盘，以 Docker Compose、Helm 或源码方式部署；agent 风险分级功能需 Enterprise 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 五种显式裁决，未知裁决一律转为 DENY
-- SHA-256 哈希绑定审批，拒绝自批、过期与已消费的审批
-- 声明式 YAML 策略按租户、topic、能力、风险标签、actor 匹配
-- Cordum Edge 通过 cordumctl edge claude 对 Claude Code 工具调用做 hook 策略检查
+- 分派边界的策略裁决：五种显式 verdict，未知裁决按 DENY 处理
+- SHA-256 action_hash 绑定审批，拒绝自批准/过期/已消费的审批
+- 声明式 YAML 策略按 tenant/topic/capability/risk tags 等匹配，默认 deny
+- Edge hook 评估 Claude Code 工具调用，导出仅含元数据的会话证据
 
 ## 适用场景
 
-- 在 agent 执行 shell 命令或生产变更前强制策略与人工审批
-- 对敏感 agent 动作保留可审计的审批证据
-- 为编码类 agent（Claude Code）接入本地派发前策略检查
+- 在 Agent 执行删除、生产变更等敏感操作前强制人工审批
+- 为团队建立 Agent 操作的可审计留痕与合规证据
+- 通过本地 hook 对编码 Agent 的工具调用做策略检查
 
 ## 场景标签
 
@@ -39,20 +39,20 @@
 
 > L8:  The Source-Available Agent Control Plane for policy checks, approvals, and audit of the agent actions it mediates.
 > L261: Cordum puts a policy decision at that dispatch boundary:
-> L279: - **Cordum Edge.** A local hook evaluates coding-agent tool calls (Claude Code
+> L264:  MCP tool calls (tenant, server, tool, target path) and Cordum Edge evaluate
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "cordum-io/cordum 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-26"]
+    title "cordum-io/cordum 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 506 --> 512
-    line [511, 510, 509, 510, 511, 510, 509, 510, 507, 508, 507]
+    line [511, 510, 509, 510, 511, 510, 509, 510, 507, 508, 507, 507]
 ```
 
-2026-10-24 511 → 2026-11-26 507（-4）
+2026-10-25 511 → 2026-11-27 507（-4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `f09eac9b4a40` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `d6e5843b05ad` · [字段定义](../../DATASET.md)*

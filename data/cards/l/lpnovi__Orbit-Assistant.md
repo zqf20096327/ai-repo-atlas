@@ -1,6 +1,6 @@
 # lpnovi/Orbit-Assistant
 
-⭐ 14 · Java · MPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lpnovi/Orbit-Assistant) · 个人维护
+⭐ 14 · Java · MPL-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lpnovi/Orbit-Assistant) · 个人维护
 
 **Android 全局 AI 助手应用：侧键唤起、屏幕上下文与设备操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lpnovi/Orbit-Assistant 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-11-01", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-29", "2026-11-01", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-27"]
     y-axis "stars" 9 --> 15
     line [10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-29 10 → 2026-11-26 14（+4）
+2026-10-29 10 → 2026-11-27 14（+4）
 
 
 ---

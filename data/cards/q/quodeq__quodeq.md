@@ -1,6 +1,6 @@
 # quodeq/quodeq
 
-⭐ 32 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/quodeq/quodeq) · [官网](https://quodeq.ai) · 组织维护
+⭐ 32 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/quodeq/quodeq) · [官网](https://quodeq.ai) · 组织维护
 
 **本地运行的开源代码质量与安全扫描器，用自选 AI 模型审查代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "quodeq/quodeq 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "quodeq/quodeq 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 29 --> 33
-    line [30, 31, 32]
+    line [30, 31, 32, 32]
 ```
 
-2026-10-24 30 → 2026-11-26 32（+2）
+2026-10-25 30 → 2026-11-27 32（+2）
 
 
 ---

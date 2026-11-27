@@ -1,6 +1,6 @@
 # bensafifatima57-svg/perplexity-deep-research-applepay
 
-⭐ 110 · 推送 2026-11-06 · [GitHub](https://github.com/bensafifatima57-svg/perplexity-deep-research-applepay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 111 · 推送 2026-11-06 · [GitHub](https://github.com/bensafifatima57-svg/perplexity-deep-research-applepay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡以开通 Perplexity Pro 的支付指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "bensafifatima57-svg/perplexity-deep-research-applepay 星数(近 12 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 120
-    line [4, 25, 39, 44, 49, 48, 45, 46, 54, 66, 87, 110]
+    title "bensafifatima57-svg/perplexity-deep-research-applepay 星数(近 13 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 121
+    line [4, 25, 39, 44, 49, 48, 45, 46, 54, 66, 87, 110, 111]
 ```
 
-2026-11-08 4 → 2026-11-26 110（+106）
+2026-11-08 4 → 2026-11-27 111（+107）
 
 
 ---

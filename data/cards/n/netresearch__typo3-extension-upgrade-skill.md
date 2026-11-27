@@ -1,6 +1,6 @@
 # netresearch/typo3-extension-upgrade-skill
 
-⭐ 12 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/netresearch/typo3-extension-upgrade-skill) · 组织维护
+⭐ 12 · Shell · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/netresearch/typo3-extension-upgrade-skill) · 组织维护
 
 **给扩展开发者的 TYPO3 扩展升级 Agent 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/typo3-extension-upgrade-skill 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 12（+1）
+2026-10-25 11 → 2026-11-27 12（+1）
 
 
 ---

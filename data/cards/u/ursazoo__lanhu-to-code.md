@@ -1,6 +1,6 @@
 # ursazoo/lanhu-to-code
 
-⭐ 24 · Shell · 推送 2026-05-12 · [GitHub](https://github.com/ursazoo/lanhu-to-code) · 个人维护 · 中文 README
+⭐ 25 · Shell · 推送 2026-05-12 · [GitHub](https://github.com/ursazoo/lanhu-to-code) · 个人维护 · 中文 README
 
 **把蓝湖设计稿链接转成前端代码的 Claude Code Skills 工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ursazoo/lanhu-to-code 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-24 23 → 2026-11-26 24（+1）
+2026-10-25 23 → 2026-11-27 25（+2）
 
 
 ---

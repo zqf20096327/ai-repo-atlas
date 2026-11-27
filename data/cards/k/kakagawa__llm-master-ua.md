@@ -45,13 +45,13 @@ youngyangyang04/llm-master 的乌克兰语改编版，是有序的 LLM 工程学
 
 ```mermaid
 xychart-beta
-    title "kakagawa/llm-master-ua 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-26"]
+    title "kakagawa/llm-master-ua 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1 --> 33
-    line [3, 31]
+    line [3, 31, 31]
 ```
 
-2026-10-18 3 → 2026-11-26 31（+28）
+2026-10-18 3 → 2026-11-27 31（+28）
 
 
 ---

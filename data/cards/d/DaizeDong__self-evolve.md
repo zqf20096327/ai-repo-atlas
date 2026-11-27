@@ -1,6 +1,6 @@
 # DaizeDong/self-evolve
 
-⭐ 27 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/DaizeDong/self-evolve) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/DaizeDong/self-evolve) · 个人维护 · 中文 README
 
 **面向开发者的技能/仓库迭代改进与确定性评测工具**
 
@@ -45,12 +45,12 @@ self-evolve 是一个 Claude Code Skill，用于通过提议修改、在 Git wor
 ```mermaid
 xychart-beta
     title "DaizeDong/self-evolve 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-24 26 → 2026-11-26 27（+1）
+2026-10-25 26 → 2026-11-27 27（+1）
 
 
 ---

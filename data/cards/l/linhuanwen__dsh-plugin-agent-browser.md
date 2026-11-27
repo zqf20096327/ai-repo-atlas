@@ -1,6 +1,6 @@
 # linhuanwen/dsh-plugin-agent-browser
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/linhuanwen/dsh-plugin-agent-browser) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/linhuanwen/dsh-plugin-agent-browser) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 桌面端加一个 Agent 可操作的真浏览器侧栏插件**
 
@@ -46,13 +46,13 @@ DSH Desktop 插件，在右侧栏渲染 Electron `<webview>` 浏览器面板，�
 
 ```mermaid
 xychart-beta
-    title "linhuanwen/dsh-plugin-agent-browser 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 8
-    line [3, 7]
+    title "linhuanwen/dsh-plugin-agent-browser 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 11
+    line [3, 7, 10]
 ```
 
-2026-11-25 3 → 2026-11-26 7（+4）
+2026-11-25 3 → 2026-11-27 10（+7）
 
 
 ---

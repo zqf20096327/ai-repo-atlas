@@ -1,6 +1,6 @@
 # KRLabsOrg/rulechef
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/KRLabsOrg/rulechef) · [官网](https://krlabsorg.github.io/rulechef/) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/KRLabsOrg/rulechef) · [官网](https://krlabsorg.github.io/rulechef/) · 组织维护
 
 **从标注示例学习规则模型的Python库，用LLM合成、推理免调用**
 
@@ -46,12 +46,12 @@ Python 库，通过 LLM 合成从标注示例中学习 regex、Python 代码与 
 ```mermaid
 xychart-beta
     title "KRLabsOrg/rulechef 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-27"]
     y-axis "stars" 33 --> 39
     line [34, 35, 37, 38, 38]
 ```
 
-2026-10-24 34 → 2026-11-26 38（+4）
+2026-10-25 34 → 2026-11-27 38（+4）
 
 
 ---

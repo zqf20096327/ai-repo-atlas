@@ -46,12 +46,12 @@ TinyInference 是被 TinyHumans AI agent 运行时共享的 Rust 库，只负责
 ```mermaid
 xychart-beta
     title "tinyhumansai/tinyinference 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-23 10 → 2026-11-26 10（+0）
+2026-11-23 10 → 2026-11-27 10（+0）
 
 
 ---

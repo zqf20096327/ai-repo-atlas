@@ -1,6 +1,6 @@
 # NVIDIA-AI-Blueprints/retail-shopping-assistant
 
-⭐ 110 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant) · 组织维护
+⭐ 111 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant) · 组织维护
 
 **NVIDIA 出品的零售购物助手 AI 蓝图：多智能体导购应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/retail-shopping-assistant 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 102 --> 111
-    line [103, 104, 103, 108, 109, 110]
+    title "NVIDIA-AI-Blueprints/retail-shopping-assistant 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 102 --> 112
+    line [103, 104, 103, 108, 109, 110, 111]
 ```
 
-2026-10-24 103 → 2026-11-26 110（+7）
+2026-10-25 103 → 2026-11-27 111（+8）
 
 
 ---

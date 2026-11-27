@@ -1,6 +1,6 @@
 # Growth-Circle/cadis
 
-⭐ 61 · Rust · NOASSERTION · 推送 2026-08-19 · [GitHub](https://github.com/Growth-Circle/cadis) · [官网](https://github.com/Growth-Circle/cadis#readme) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **本地优先多 agent 运行时：守护进程编排 agent、工具策略与审批**
 
@@ -11,7 +11,7 @@ Rust 编写的本地优先多 agent 运行时：单一守护进程 cadisd 统一
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

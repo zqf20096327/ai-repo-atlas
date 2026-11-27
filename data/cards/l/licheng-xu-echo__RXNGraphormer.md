@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "licheng-xu-echo/RXNGraphormer 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
+    title "licheng-xu-echo/RXNGraphormer 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-26", "2026-11-27"]
     y-axis "stars" 59 --> 63
-    line [60, 61, 62]
+    line [60, 61, 62, 62]
 ```
 
-2026-10-24 60 → 2026-11-26 62（+2）
+2026-10-25 60 → 2026-11-27 62（+2）
 
 
 ---

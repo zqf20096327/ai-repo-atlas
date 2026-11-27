@@ -1,6 +1,6 @@
 # caterpi11ar/giclaw
 
-⭐ 10 · TypeScript · 推送 2026-10-19 · [GitHub](https://github.com/caterpi11ar/giclaw) · [官网](https://giclaw.cn) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **视觉 AI 代理自动完成云原神每日奖励领取**
 

@@ -1,6 +1,6 @@
 # KeithZ117/Comfyui-anima-sampler
 
-⭐ 61 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/KeithZ117/Comfyui-anima-sampler) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/KeithZ117/Comfyui-anima-sampler) · 个人维护
 
 **面向 Anima 模型的 ComfyUI 自定义采样器节点集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KeithZ117/Comfyui-anima-sampler 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 59 --> 64
-    line [62, 63, 62, 60, 61, 61]
+    line [62, 63, 62, 60, 61, 62]
 ```
 
-2026-10-24 62 → 2026-11-26 61（-1）
+2026-10-25 62 → 2026-11-27 62（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Arm Education 出品的 Mixture of Experts（MoE）动手课程，由 UT Austin 
 ```mermaid
 xychart-beta
     title "arm-education/Advanced-AI-Mixture-of-Experts 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 13（+1）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

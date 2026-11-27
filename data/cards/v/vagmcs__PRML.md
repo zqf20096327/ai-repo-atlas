@@ -1,6 +1,6 @@
 # vagmcs/PRML
 
-⭐ 45 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/vagmcs/PRML) · 个人维护
+⭐ 46 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/vagmcs/PRML) · 个人维护
 
 **Bishop《PRML》一书的笔记、证明与算法 Python 实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "vagmcs/PRML 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 43 --> 46
-    line [45, 44, 45, 45]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 43 --> 47
+    line [45, 44, 45, 46]
 ```
 
-2026-10-24 45 → 2026-11-26 45（+0）
+2026-10-25 45 → 2026-11-27 46（+1）
 
 
 ---

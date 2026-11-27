@@ -46,12 +46,12 @@ Python 包 skboost，提供 scikit-learn 范围之外的若干 boosting 算法�
 ```mermaid
 xychart-beta
     title "hbldh/skboost 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 14（+0）
 
 
 ---

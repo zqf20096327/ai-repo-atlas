@@ -1,6 +1,6 @@
 # bongomanuk/jobsquirrel
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bongomanuk/jobsquirrel) · [官网](https://bongomanuk.github.io/jobsquirrel/) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/bongomanuk/jobsquirrel) · [官网](https://bongomanuk.github.io/jobsquirrel/) · 个人维护
 
 **自托管求职申请流水线：代找职位、定制 CV、代投并跟踪回复**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bongomanuk/jobsquirrel 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 8 --> 10
     line [9, 9]
 ```
 
-2026-11-08 9 → 2026-11-26 9（+0）
+2026-11-08 9 → 2026-11-27 9（+0）
 
 
 ---

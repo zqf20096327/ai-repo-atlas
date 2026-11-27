@@ -1,6 +1,6 @@
 # sangshy-go/AgentOne
 
-⭐ 10 · Java · MIT · 推送 2026-09-01 · [GitHub](https://github.com/sangshy-go/AgentOne) · 组织维护 · 中文 README
+⭐ 11 · Java · MIT · 推送 2026-09-01 · [GitHub](https://github.com/sangshy-go/AgentOne) · 组织维护 · 中文 README
 
 **企业私有部署 AI Agent 中台：模型接入/RAG/Agent 一站式搭建**
 
@@ -41,6 +41,18 @@
 > L26: AgentOne 是一个**开箱即用的 AI Agent 中台**。它把构建 AI 助手所需的模型接入、知识库 RAG、Agent 编排、Skill 生态、MCP 集成、IM 接入、流式对话、多租户隔离和开放 API 等能力，封装
 > L44: |🔌 **多模型管理**|模型供应商与模型两层结构，兼容所有 OpenAI 协议服务（DashScope、DeepSeek、Ollama…）；Chat / Embedding 模型按工作空间配置；一键连通性检测|
 > L52: |🐳 **一键部署**|根目录 `docker compose up` 同时拉起 PostgreSQL、Redis、后端、前端；Flyway 自动建表迁移|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sangshy-go/AgentOne 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Erotemic/shitspotter
 
-⭐ 99 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/Erotemic/shitspotter) · 个人维护
+⭐ 100 · Python · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/Erotemic/shitspotter) · 个人维护
 
 **狗粪便图片检测算法与开放数据集，面向手机应用找屎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Erotemic/shitspotter 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-24 99 → 2026-11-26 99（+0）
+2026-10-25 99 → 2026-11-27 100（+1）
 
 
 ---

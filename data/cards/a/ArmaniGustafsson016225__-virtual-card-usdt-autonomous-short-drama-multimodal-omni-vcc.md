@@ -1,6 +1,6 @@
 # ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc
 
-⭐ 96 · 推送 2026-11-14 · [GitHub](https://github.com/ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 109 · 推送 2026-11-14 · [GitHub](https://github.com/ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡（VCC）+USDT 支付方案的营销文档，面向短剧出海团队**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc 星数(近 8 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 105
-    line [3, 15, 20, 24, 33, 47, 70, 96]
+    title "ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc 星数(近 9 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 119
+    line [3, 15, 20, 24, 33, 47, 70, 96, 109]
 ```
 
-2026-11-14 3 → 2026-11-26 96（+93）
+2026-11-14 3 → 2026-11-27 109（+106）
 
 
 ---

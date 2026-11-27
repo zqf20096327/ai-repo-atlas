@@ -41,6 +41,18 @@
 > L11: - **Inflate Image** turns a sketch or silhouette into a 3D base mesh in a second on the CPU, no GPU or model downlo
 > L16: The nodes run the free `sculptforge-cli` command-line tool, so they add no Python dependencies to ComfyUI.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "islandmed/ComfyUI-SculptForge 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1bb9c995f7ba` · [字段定义](../../DATASET.md)*

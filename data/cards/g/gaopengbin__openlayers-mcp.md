@@ -1,6 +1,6 @@
 # gaopengbin/openlayers-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gaopengbin/openlayers-mcp) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gaopengbin/openlayers-mcp) · 个人维护 · 中文 README
 
 **通过 MCP 让 AI Agent 用自然语言控制 OpenLayers 地图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gaopengbin/openlayers-mcp 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 11, 13, 13]
 ```
 
-2026-10-24 11 → 2026-11-26 13（+2）
+2026-10-25 11 → 2026-11-27 13（+2）
 
 
 ---

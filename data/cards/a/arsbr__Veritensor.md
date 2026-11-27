@@ -1,6 +1,6 @@
 # arsbr/Veritensor
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/arsbr/Veritensor) · [官网](https://www.veritensor.com) · 个人维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/arsbr/Veritensor) · [官网](https://www.veritensor.com) · 个人维护
 
 **AI 供应链安全扫描器：静态扫描模型、数据集、RAG 文档与笔记本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "arsbr/Veritensor 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 87 --> 91
-    line [88, 89, 90, 90]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 87 --> 92
+    line [88, 89, 90, 91]
 ```
 
-2026-10-24 88 → 2026-11-26 90（+2）
+2026-10-25 88 → 2026-11-27 91（+3）
 
 
 ---

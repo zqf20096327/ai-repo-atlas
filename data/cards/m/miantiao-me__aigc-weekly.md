@@ -1,6 +1,6 @@
 # miantiao-me/aigc-weekly
 
-⭐ 566 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/miantiao-me/aigc-weekly) · [官网](https://aigc-weekly.agi.li) · 个人维护 · 中文 README
+⭐ 567 · TypeScript · AGPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/miantiao-me/aigc-weekly) · [官网](https://aigc-weekly.agi.li) · 个人维护 · 中文 README
 
 **由 AI Agent 自动策展的 AIGC 周刊网站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "miantiao-me/aigc-weekly 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 560 --> 567
-    line [561, 562, 563, 561, 563, 564, 565, 566, 566]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 560 --> 568
+    line [561, 562, 563, 561, 563, 564, 565, 566, 567]
 ```
 
-2026-10-24 561 → 2026-11-26 566（+5）
+2026-10-25 561 → 2026-11-27 567（+6）
 
 
 ---

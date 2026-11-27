@@ -1,6 +1,6 @@
 # iflytek/dolphin-mcp-pilot
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/iflytek/dolphin-mcp-pilot) · 组织维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/iflytek/dolphin-mcp-pilot) · 组织维护 · 中文 README
 
 **让 AI agent 操作 Apache DolphinScheduler 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iflytek/dolphin-mcp-pilot 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-25", "2026-11-26"]
+    title "iflytek/dolphin-mcp-pilot 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 19 --> 27
-    line [20, 21, 22, 20, 22, 23, 24, 25, 26, 25]
+    line [20, 21, 22, 20, 22, 23, 24, 25, 26, 25, 25]
 ```
 
-2026-10-24 20 → 2026-11-26 25（+5）
+2026-10-25 20 → 2026-11-27 25（+5）
 
 
 ---

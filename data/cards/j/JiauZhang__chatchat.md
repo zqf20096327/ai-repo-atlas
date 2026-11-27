@@ -47,12 +47,12 @@ Python 编写的 agent 运行时，提供由多个 agent 组成的 Team（含工
 ```mermaid
 xychart-beta
     title "JiauZhang/chatchat 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

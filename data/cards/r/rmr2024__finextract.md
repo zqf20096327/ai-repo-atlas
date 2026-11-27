@@ -1,6 +1,6 @@
 # rmr2024/finextract
 
-⭐ 24 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rmr2024/finextract) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rmr2024/finextract) · 个人维护
 
 **基准+流水线：LLM 从 SEC 10-K 提取财务数字并测错因**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rmr2024/finextract 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-27"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-02 24 → 2026-11-26 24（+0）
+2026-11-02 24 → 2026-11-27 24（+0）
 
 
 ---

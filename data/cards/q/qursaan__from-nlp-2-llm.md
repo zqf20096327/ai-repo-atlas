@@ -45,13 +45,13 @@ Mahmmoud A. Mahdi 所著《From NLP to LLM: The Evolution of Language Intelligen
 
 ```mermaid
 xychart-beta
-    title "qursaan/from-nlp-2-llm 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 8 --> 13
-    line [9, 10, 11, 12, 10, 12, 12]
+    title "qursaan/from-nlp-2-llm 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12, 10, 12, 12]
 ```
 
-2026-10-24 9 → 2026-11-26 12（+3）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

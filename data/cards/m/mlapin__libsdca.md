@@ -1,6 +1,6 @@
 # mlapin/libsdca
 
-⭐ 33 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mlapin/libsdca) · [官网](https://mlapin.github.io/libsdca/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mlapin/libsdca) · [官网](https://mlapin.github.io/libsdca/) · 个人维护
 
 **多语言分类损失函数库：交叉熵、top-k、SVM、蒸馏损失与 SDCA 求解器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mlapin/libsdca 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-11-10 33 → 2026-11-26 33（+0）
+2026-11-10 33 → 2026-11-27 33（+0）
 
 
 ---

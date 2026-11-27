@@ -46,12 +46,12 @@ FastAPI 后端 + Streamlit 前端的检索增强问答服务：上传 PDF/DOCX/T
 ```mermaid
 xychart-beta
     title "gor802018-code/gigachat-rag-service 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-26 3（+0）
+2026-11-14 3 → 2026-11-27 3（+0）
 
 
 ---

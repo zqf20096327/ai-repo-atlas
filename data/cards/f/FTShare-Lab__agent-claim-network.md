@@ -45,12 +45,12 @@ Rust 编写的终端 TUI 通用 AI 助手（`acn`）：自然语言执行查资�
 ```mermaid
 xychart-beta
     title "FTShare-Lab/agent-claim-network 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-24 44 → 2026-11-26 44（+0）
+2026-10-25 44 → 2026-11-27 44（+0）
 
 
 ---

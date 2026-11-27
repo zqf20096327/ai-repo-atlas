@@ -41,6 +41,18 @@
 > L9: When an attack is detected, system input is blocked (`BlockInput`), a fullscreen lockscreen takes over, and typing a
 > L15: - 99.3% detection at 0.26% FPR under subject-held-out CV
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "m1ndl0ss/DuckyFence 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 45 --> 47
+    line [46, 46]
+```
+
+2026-11-26 46 → 2026-11-27 46（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d849467ec791` · [字段定义](../../DATASET.md)*

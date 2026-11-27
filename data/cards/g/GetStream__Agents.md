@@ -1,6 +1,6 @@
 # GetStream/Agents
 
-⭐ 8,220 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/GetStream/Agents) · [官网](https://visionagents.ai) · 组织维护
+⭐ 8,223 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/GetStream/Agents) · [官网](https://visionagents.ai) · 组织维护
 
 **Go 后端框架：构建文本/语音/视频 AI Agent**
 
@@ -46,13 +46,13 @@ Stream Agents 是用于构建文本、语音和视频 agent 的 Go 后端。Agen
 
 ```mermaid
 xychart-beta
-    title "GetStream/Agents 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-21", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 8214 --> 8221
-    line [8215, 8216, 8218, 8220]
+    title "GetStream/Agents 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 8214 --> 8224
+    line [8215, 8216, 8218, 8220, 8223]
 ```
 
-2026-11-18 8,215 → 2026-11-26 8,220（+5）
+2026-11-18 8,215 → 2026-11-27 8,223（+8）
 
 
 ---

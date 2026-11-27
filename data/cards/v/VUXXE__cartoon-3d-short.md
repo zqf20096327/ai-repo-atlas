@@ -1,6 +1,6 @@
 # VUXXE/cartoon-3d-short
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/VUXXE/cartoon-3d-short) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/VUXXE/cartoon-3d-short) · 个人维护
 
 **让 AI agent 生成 2D 角色入 3D 世界的动画故事短片的技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VUXXE/cartoon-3d-short 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 3 --> 10
-    line [4, 5, 6, 9]
+    title "VUXXE/cartoon-3d-short 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 11
+    line [4, 5, 6, 9, 10]
 ```
 
-2026-11-14 4 → 2026-11-26 9（+5）
+2026-11-14 4 → 2026-11-27 10（+6）
 
 
 ---

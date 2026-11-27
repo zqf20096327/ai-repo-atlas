@@ -1,6 +1,6 @@
 # DamaizLabs/lanternist
 
-⭐ 24 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/DamaizLabs/lanternist) · [官网](https://www.damaizlabs.com/portfolio/automatizar-videos-con-ia/) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/DamaizLabs/lanternist) · [官网](https://www.damaizlabs.com/portfolio/automatizar-videos-con-ia/) · 组织维护
 
 **在本地 GPU 上制作无真人出镜 YouTube 视频的生产引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DamaizLabs/lanternist 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 1 --> 26
-    line [3, 14, 22, 24, 24]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 1 --> 27
+    line [3, 14, 22, 24, 25]
 ```
 
-2026-10-31 3 → 2026-11-26 24（+21）
+2026-10-31 3 → 2026-11-27 25（+22）
 
 
 ---

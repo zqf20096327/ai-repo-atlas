@@ -1,6 +1,6 @@
 # UkisAI/Swift-Qwen3.8-27B-evals
 
-⭐ 13 · Python · 推送 2026-09-13 · [GitHub](https://github.com/UkisAI/Swift-Qwen3.8-27B-evals) · [官网](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) · 组织维护
+⭐ 14 · Python · 推送 2026-09-13 · [GitHub](https://github.com/UkisAI/Swift-Qwen3.8-27B-evals) · [官网](https://huggingface.co/ukisai/Swift-Qwen3.8-27b) · 组织维护
 
 **Swift-Qwen3.8-27B 模型评测原始日志数据集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "UkisAI/Swift-Qwen3.8-27B-evals 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

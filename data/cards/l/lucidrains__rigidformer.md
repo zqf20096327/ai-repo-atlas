@@ -45,12 +45,12 @@ MIT 与 Meta 合作的 RigidFormer（Learning Rigid Dynamics using Transformers�
 ```mermaid
 xychart-beta
     title "lucidrains/rigidformer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-24 32 → 2026-11-26 32（+0）
+2026-10-25 32 → 2026-11-27 32（+0）
 
 
 ---

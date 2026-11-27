@@ -1,6 +1,6 @@
 # dermatologist/pyomop
 
-⭐ 69 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/dermatologist/pyomop) · [官网](https://nuchange.ca/2025/08/vibe-coding-fhir-to-omop-cdm.html?github) · 个人维护
+⭐ 69 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/dermatologist/pyomop) · [官网](https://nuchange.ca/2025/08/vibe-coding-fhir-to-omop-cdm.html?github) · 个人维护
 
 **管理 OHDSI OMOP 临床数据库的 Python 工具库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dermatologist/pyomop 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-11", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-25", "2026-11-27"]
     y-axis "stars" 66 --> 70
     line [67, 68, 69, 69]
 ```
 
-2026-10-24 67 → 2026-11-26 69（+2）
+2026-10-25 67 → 2026-11-27 69（+2）
 
 
 ---

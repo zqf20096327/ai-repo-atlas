@@ -1,6 +1,6 @@
 # Tripstack-Corp/spyc
 
-⭐ 21 · Rust · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/Tripstack-Corp/spyc) · 组织维护
+⭐ 21 · Rust · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/Tripstack-Corp/spyc) · 组织维护
 
 **面向编码 agent 的终端文件指挥器：通过本地 MCP 共享工作集**
 
@@ -45,13 +45,13 @@ Rust 编写的双窗格终端程序：上方是 vim 风格、git 感知的键盘
 
 ```mermaid
 xychart-beta
-    title "Tripstack-Corp/spyc 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-26"]
+    title "Tripstack-Corp/spyc 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 16 --> 22
-    line [17, 18, 17, 18, 19, 20, 21]
+    line [17, 18, 17, 18, 19, 20, 21, 21]
 ```
 
-2026-10-24 17 → 2026-11-26 21（+4）
+2026-10-25 17 → 2026-11-27 21（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhexin233-ui/double11-radar
 
-⭐ 3 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/zhexin233-ui/double11-radar) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/zhexin233-ui/double11-radar) · 个人维护 · 中文 README
 
 **自托管双十一线报监控，AI 双级筛好价并推送**
 
@@ -40,6 +40,18 @@
 > L5: 为双十一准备、也适合日常长期运行的自托管线报监控与智能筛选系统。
 > L37: |**一级决策引擎**|兼容 TypeSafe Jev、Command Code、Liquid `d1.1` 及自建 Laya 等 SystemOne 协议端点；单条线报一次请求即可评估全部启用需求。|
 > L40: |**二级深度核验（Agent）**|可选对一级命中（及待确认）线报触发 OpenAI 兼容 LLM 二次核验，输出折后实付、单价公式、凑单步骤、历史比价与风险提示。|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zhexin233-ui/double11-radar 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BerriAI/litellm-pgvector
 
-⭐ 92 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/BerriAI/litellm-pgvector) · 组织维护
+⭐ 92 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/BerriAI/litellm-pgvector) · 组织维护
 
 **基于 PGVector 的 OpenAI 兼容向量存储 API 服务，供开发者自建向量库**
 
@@ -45,12 +45,12 @@ FastAPI 应用，提供 OpenAI Vector Stores 兼容的 HTTP 端点：创建/列�
 ```mermaid
 xychart-beta
     title "BerriAI/litellm-pgvector 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-27"]
     y-axis "stars" 87 --> 93
     line [88, 89, 90, 91, 88, 91, 92, 92]
 ```
 
-2026-10-24 88 → 2026-11-26 92（+4）
+2026-10-25 88 → 2026-11-27 92（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # mahatab/synode-council-of-ai-agents
 
-⭐ 60 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mahatab/synode-council-of-ai-agents) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mahatab/synode-council-of-ai-agents) · 个人维护
 
 **让多个 AI 模型组会讨论并由主模型给出结论的桌面应用**
 
@@ -41,6 +41,18 @@
 > L18: Synode is a desktop app for **macOS and Windows** that assembles a **council of AI models** to collaboratively tack
 > L32: - **8 cloud providers + local models** — Anthropic, OpenAI, Google, xAI, DeepSeek, Mistral, Together AI, Cohere, an
 > L90: ### Local Models (LM Studio)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mahatab/synode-council-of-ai-agents 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 59 --> 61
+    line [60, 60]
+```
+
+2026-11-26 60 → 2026-11-27 60（+0）
 
 
 ---

@@ -46,13 +46,13 @@ ReDefiNER 是 Jungroo AI Labs 发布的 0.8B 非生成式命名实体抽取模�
 
 ```mermaid
 xychart-beta
-    title "Jungroo-AI/redefiner 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-20", "2026-11-26"]
+    title "Jungroo-AI/redefiner 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 7 --> 11
-    line [8, 9, 10]
+    line [8, 9, 10, 10]
 ```
 
-2026-11-08 8 → 2026-11-26 10（+2）
+2026-11-08 8 → 2026-11-27 10（+2）
 
 
 ---

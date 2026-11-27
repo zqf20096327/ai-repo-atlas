@@ -1,6 +1,6 @@
 # sourangshupal/simple-rag-langchain
 
-⭐ 24 · Jupyter Notebook · 推送 2025-11-30 · [GitHub](https://github.com/sourangshupal/simple-rag-langchain) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向初/中级学习者的 LangChain RAG 七讲 Jupyter 课程**
 

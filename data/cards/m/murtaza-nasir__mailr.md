@@ -1,6 +1,6 @@
 # murtaza-nasir/mailr
 
-⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/murtaza-nasir/mailr) · [官网](https://murtaza-nasir.github.io/mailr/) · 个人维护
+⭐ 7 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/murtaza-nasir/mailr) · [官网](https://murtaza-nasir.github.io/mailr/) · 个人维护
 
 **自托管 webmail：邮件存储/日历/任务/笔记加 AI 助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "murtaza-nasir/mailr 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 7]
 ```
 
-2026-11-08 4 → 2026-11-26 5（+1）
+2026-11-08 4 → 2026-11-27 7（+3）
 
 
 ---

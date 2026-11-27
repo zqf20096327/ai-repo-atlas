@@ -1,10 +1,10 @@
 # promptdriven/pdd
 
-⭐ 990 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
+⭐ 1,030 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
 
-**以提示词为源码的开发工作流 CLI 与编码代理技能**
+**为开发者提供的提示优先开发工作流 CLI 与编码代理技能**
 
-PDD 提供 `pdd` 命令与一个可安装到 Codex、Claude Code、Gemini CLI 等编码代理的 `/pdd` 技能，实现提示词与 Story 先行的开发流程：先编写提示词与用户故事，通过远程 Prompt Interpreter 运行提示词以提前验证行为，再由编码代理据批准的提示词生成代码并以 `pdd prove` 验证。工作流含 lint（0 AI 调用）、Story 测试、人工审批与 PR 环节；AI 调用设有预算上限，测试步骤限时 10 分钟。需 Node.js 22.16+、Git、GitHub CLI，支持 macOS 与 Linux。
+PDD 提供一个 `pdd` 命令和 `/pdd` 代理技能：提示词文件与 Story 作为程序源，先在 Prompt Interpreter 上运行提示以在写代码前验证行为，再由编码代理依批准的提示生成代码并执行 `pdd prove`。工作流含 lint（离线、0 AI 调用）、Story 测试、聊天或 GitHub PR 人工审批，支持 Codex、Claude Code、Gemini CLI 等代理。依赖 Node.js 22.16.0+、Git、GitHub CLI；远程测试与直接运行需访问 PDD 解释器服务；仅在 macOS 与 Linux 上测试。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ PDD 提供 `pdd` 命令与一个可安装到 Codex、Claude Code、Gemini CLI �
 
 ## 能力要点
 
-- 提示词作为源文件：先审阅批准提示词，再由代理生成代码
-- `pdd` 可直接运行提示词，支持浏览器界面、CLI 参数与 HTTP 服务三种形态
-- 四类工作模式：product、bug、feature、small-change
-- `pdd lint` 离线运行，0 AI 调用与 0 网络调用
+- 提示词与 Story 作为源文件，写代码前可在 Prompt Interpreter 直接运行验证
+- 离线 `pdd lint` 执行结构/SVG/场景检查，0 AI 调用 0 网络调用
+- AI 调用预算机制：新会话默认 400 次，步骤默认上限 12 次
+- 支持 Autopilot 无头模式，人工必需审批仍保留
 
 ## 适用场景
 
-- 新功能开发前先以提示词验证预期行为
-- 通过 Story 验收测试在写代码前确认需求
-- 在聊天或 GitHub PR 中人工审阅提示词变更后开一个 PR
+- 在写实现代码前先以提示形式验证功能行为
+- 以 Story 与验收标准驱动代理生成并验证代码
+- 通过 GitHub PR 审批提示词变更而非直接审代码
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ PDD 提供 `pdd` 命令与一个可安装到 Codex、Claude Code、Gemini CLI �
 ## 证据(README 行号)
 
 > L5: In PDD, you write prompts and Stories first. Prompts are the source of truth for your owned modules; Stories describ
-> L16: PDD is the `pdd` command and one `/pdd` skill (`$pdd` in Codex, `/pdd` in Claude Code) with on-demand references fo
+> L20: You need Node.js 22.16.0 or newer (22.20.0+ for Autopilot), Git, and the GitHub CLI signed in with `gh auth login`.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "promptdriven/pdd 星数(近 15 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 904 --> 997
-    line [911, 913, 914, 916, 918, 923, 926, 913, 932, 934, 935, 936, 937, 938, 990]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 902 --> 1041
+    line [913, 914, 916, 918, 923, 926, 913, 932, 934, 935, 936, 937, 938, 990, 1030]
 ```
 
-2026-10-24 911 → 2026-11-26 990（+79）
+2026-10-25 913 → 2026-11-27 1,030（+117）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d52ff7dc6eb3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `2862f51979ef` · [字段定义](../../DATASET.md)*

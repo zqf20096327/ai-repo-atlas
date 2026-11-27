@@ -1,6 +1,6 @@
 # gravion-ux/gravion-hunter
 
-⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gravion-ux/gravion-hunter) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gravion-ux/gravion-hunter) · 个人维护
 
 **面向授权赏金猎人的自主漏洞挖掘 agent 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gravion-ux/gravion-hunter 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-25 4 → 2026-11-26 4（+0）
+2026-11-25 4 → 2026-11-27 4（+0）
 
 
 ---

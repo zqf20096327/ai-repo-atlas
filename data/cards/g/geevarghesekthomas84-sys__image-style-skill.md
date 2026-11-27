@@ -1,6 +1,6 @@
 # geevarghesekthomas84-sys/image-style-skill
 
-⭐ 5 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/geevarghesekthomas84-sys/image-style-skill) · [官网](https://glogee.online) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 AI 图像创作者提供 403 条斜杠命令生成各工具格式的提示词**
 
@@ -11,7 +11,7 @@ SlashFrame（原名 image-style）是一套提示词扩展命令集：用户在�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

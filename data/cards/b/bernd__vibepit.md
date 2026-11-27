@@ -1,6 +1,6 @@
 # bernd/vibepit
 
-⭐ 23 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bernd/vibepit) · [官网](https://vibepit.dev) · 个人维护
+⭐ 23 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/bernd/vibepit) · [官网](https://vibepit.dev) · 个人维护
 
 **在隔离容器中运行 AI 编程代理并做网络过滤的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bernd/vibepit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-24 23 → 2026-11-26 23（+0）
+2026-10-25 23 → 2026-11-27 23（+0）
 
 
 ---

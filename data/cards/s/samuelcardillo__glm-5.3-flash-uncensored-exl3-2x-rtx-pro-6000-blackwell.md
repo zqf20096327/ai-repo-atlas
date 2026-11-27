@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "samuelcardillo/glm-5.3-flash-uncensored-exl3-2x-rtx-pro-6000-blackwell 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-26 10（+0）
+2026-11-20 10 → 2026-11-27 10（+0）
 
 
 ---

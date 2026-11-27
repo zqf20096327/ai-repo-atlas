@@ -1,6 +1,6 @@
 # alinuo666/ComfyUI-Banzhang-All
 
-⭐ 87 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/alinuo666/ComfyUI-Banzhang-All) · [官网](https://space.bilibili.com/15838129) · 个人维护 · 中文 README
+⭐ 90 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/alinuo666/ComfyUI-Banzhang-All) · [官网](https://space.bilibili.com/15838129) · 个人维护 · 中文 README
 
 **面向 MiniMax H3 的 ComfyUI 中文节点包：三采工作流生成高清视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alinuo666/ComfyUI-Banzhang-All 星数(近 11 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 37 --> 91
-    line [41, 53, 62, 66, 70, 72, 74, 77, 80, 82, 87]
+    title "alinuo666/ComfyUI-Banzhang-All 星数(近 12 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 37 --> 94
+    line [41, 53, 62, 66, 70, 72, 74, 77, 80, 82, 87, 90]
 ```
 
-2026-11-12 41 → 2026-11-26 87（+46）
+2026-11-12 41 → 2026-11-27 90（+49）
 
 
 ---

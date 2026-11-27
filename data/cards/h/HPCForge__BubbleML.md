@@ -1,6 +1,6 @@
 # HPCForge/BubbleML
 
-⭐ 55 · Python · 推送 2026-02-02 · [GitHub](https://github.com/HPCForge/BubbleML) · [官网](https://openreview.net/forum?id=0Wmglu8zak) · 组织维护
+⭐ 56 · Python · 推送 2026-02-02 · [GitHub](https://github.com/HPCForge/BubbleML) · [官网](https://openreview.net/forum?id=0Wmglu8zak) · 组织维护
 
 **沸腾多相多物理场仿真数据集与科学机器学习基准（NeurIPS 2023）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HPCForge/BubbleML 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 54, 55, 55]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 54, 55, 56]
 ```
 
-2026-10-24 54 → 2026-11-26 55（+1）
+2026-10-25 54 → 2026-11-27 56（+2）
 
 
 ---

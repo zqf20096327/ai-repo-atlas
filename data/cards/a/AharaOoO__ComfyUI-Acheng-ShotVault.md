@@ -1,6 +1,6 @@
 # AharaOoO/ComfyUI-Acheng-ShotVault
 
-⭐ 8 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AharaOoO/ComfyUI-Acheng-ShotVault) · 个人维护 · 中文 README
+⭐ 9 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AharaOoO/ComfyUI-Acheng-ShotVault) · 个人维护 · 中文 README
 
 **ComfyUI 节点套件：MiniMax H3 多镜头视频的分镜规划与拼接**
 
@@ -41,6 +41,18 @@
 > L3: **Production-Grade ComfyUI Suite for MiniMax H3 Multi-Shot Planning, Lossless Context Continuation, Bidirectional Br
 > L45: |`ShotVaultH3Conditioning`|**ShotVault H3 Conditioning**|Builds per-shot MiniMax H3 multimodal conditioning from ac
 > L135: 4. **Generate & Resume**: Click **Run**. Each shot archives immediately upon completion; if interrupted, running a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AharaOoO/ComfyUI-Acheng-ShotVault 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 10
+    line [8, 9]
+```
+
+2026-11-26 8 → 2026-11-27 9（+1）
 
 
 ---

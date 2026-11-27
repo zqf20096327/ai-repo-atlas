@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LJungang/Awesome-Video-Reasoning-Landscape 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-25", "2026-11-26"]
+    title "LJungang/Awesome-Video-Reasoning-Landscape 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 193 --> 197
-    line [194, 195, 196, 195]
+    line [194, 195, 196, 195, 195]
 ```
 
-2026-10-24 194 → 2026-11-26 195（+1）
+2026-10-25 194 → 2026-11-27 195（+1）
 
 
 ---

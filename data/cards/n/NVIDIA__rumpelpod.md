@@ -44,13 +44,13 @@ NVIDIA 维护的编排工具：在 Docker/Podman 容器或 Kubernetes pod 中管
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/rumpelpod 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-26"]
+    title "NVIDIA/rumpelpod 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-26", "2026-11-27"]
     y-axis "stars" 21 --> 25
-    line [22, 24]
+    line [22, 24, 24]
 ```
 
-2026-10-23 22 → 2026-11-26 24（+2）
+2026-10-24 22 → 2026-11-27 24（+2）
 
 
 ---

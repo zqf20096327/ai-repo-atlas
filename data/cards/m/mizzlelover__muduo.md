@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mizzlelover/muduo 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-26"]
+    title "mizzlelover/muduo 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 8 --> 11
-    line [9, 10]
+    line [9, 10, 10]
 ```
 
-2026-10-18 9 → 2026-11-26 10（+1）
+2026-10-18 9 → 2026-11-27 10（+1）
 
 
 ---

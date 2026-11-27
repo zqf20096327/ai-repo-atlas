@@ -1,6 +1,6 @@
 # MisterBooo/llm-interview-questions
 
-⭐ 81 · CC-BY-SA-4.0 · 推送 2026-07-19 · [GitHub](https://github.com/MisterBooo/llm-interview-questions) · [官网](https://www.wushixiongai.com/questions) · 个人维护 · 中文 README
+⭐ 82 · CC-BY-SA-4.0 · 推送 2026-07-19 · [GitHub](https://github.com/MisterBooo/llm-interview-questions) · [官网](https://www.wushixiongai.com/questions) · 个人维护 · 中文 README
 
 **大模型面试题图解知识库：100 道题配 SVG 概念图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MisterBooo/llm-interview-questions 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 72 --> 82
-    line [73, 74, 77, 74, 79, 80, 81, 81]
+    title "MisterBooo/llm-interview-questions 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 73 --> 83
+    line [74, 77, 74, 79, 80, 81, 82]
 ```
 
-2026-10-24 73 → 2026-11-26 81（+8）
+2026-10-25 74 → 2026-11-27 82（+8）
 
 
 ---

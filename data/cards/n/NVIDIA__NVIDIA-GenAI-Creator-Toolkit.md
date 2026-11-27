@@ -1,6 +1,6 @@
 # NVIDIA/NVIDIA-GenAI-Creator-Toolkit
 
-⭐ 86 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/NVIDIA-GenAI-Creator-Toolkit) · 组织维护
+⭐ 87 · Python · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/NVIDIA/NVIDIA-GenAI-Creator-Toolkit) · 组织维护
 
 **面向创作者的 ComfyUI 生成式 AI 工作流合集（3D 资产与视觉）**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的 ComfyUI 预构建工作流合集，改编自 GTC 2026 DLI 课�
 ```mermaid
 xychart-beta
     title "NVIDIA/NVIDIA-GenAI-Creator-Toolkit 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 80 --> 87
-    line [81, 82, 83, 81, 84, 85, 86, 86]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 80 --> 88
+    line [81, 82, 83, 81, 84, 85, 86, 87]
 ```
 
-2026-10-23 81 → 2026-11-26 86（+5）
+2026-10-24 81 → 2026-11-27 87（+6）
 
 
 ---

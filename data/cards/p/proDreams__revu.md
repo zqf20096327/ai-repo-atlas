@@ -1,6 +1,6 @@
 # proDreams/revu
 
-⭐ 25 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/proDreams/revu) · [官网](https://pressanybutton.ru/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/proDreams/revu) · [官网](https://pressanybutton.ru/) · 个人维护
 
 **自托管的 AI Pull Request 代码评审服务**
 
@@ -45,13 +45,13 @@ ReVu 是自托管的 AI 代码评审工具，以两种方式运行：常驻服�
 
 ```mermaid
 xychart-beta
-    title "proDreams/revu 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "proDreams/revu 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
 ```
 
-2026-10-24 24 → 2026-11-26 25（+1）
+2026-10-25 25 → 2026-11-27 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenAgentHQ/openagent-eval
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenAgentHQ/openagent-eval) · [官网](https://openagenthq.github.io/openagent-eval/) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/OpenAgentHQ/openagent-eval) · [官网](https://openagenthq.github.io/openagent-eval/) · 组织维护
 
 **本地优先的 RAG 与 AI Agent 评测框架，CLI + SDK**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OpenAgentHQ/openagent-eval 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 16（+0）
 
 
 ---

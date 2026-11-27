@@ -1,6 +1,6 @@
 # jo-inc/pi-reflect
 
-⭐ 56 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/jo-inc/pi-reflect) · [官网](https://www.npmjs.com/package/@jo-inc/pi-reflect) · 组织维护
+⭐ 58 · TypeScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/jo-inc/pi-reflect) · [官网](https://www.npmjs.com/package/@jo-inc/pi-reflect) · 组织维护
 
 **pi 编码 agent 的行为文件自我改进扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jo-inc/pi-reflect 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 52 --> 57
-    line [53, 54, 55, 53, 56, 56]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 52 --> 59
+    line [53, 54, 55, 53, 56, 58]
 ```
 
-2026-10-24 53 → 2026-11-26 56（+3）
+2026-10-25 53 → 2026-11-27 58（+5）
 
 
 ---

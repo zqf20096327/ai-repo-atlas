@@ -1,6 +1,6 @@
 # bad-antics/marshall
 
-⭐ 26 · Rust · MIT · 推送 2026-02-22 · [GitHub](https://github.com/bad-antics/marshall) · [官网](https://github.com/bad-antics/marshall#-features) · 个人维护
+⭐ 27 · Rust · MIT · 推送 2026-02-22 · [GitHub](https://github.com/bad-antics/marshall) · [官网](https://github.com/bad-antics/marshall#-features) · 个人维护
 
 **面向隐私与安全研究者的 Rust+GTK 浏览器，内置 AI 助手侧栏**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bad-antics/marshall 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 23 --> 27
-    line [25, 24, 25, 26, 26]
+    title "bad-antics/marshall 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 27]
 ```
 
-2026-10-24 25 → 2026-11-26 26（+1）
+2026-10-25 24 → 2026-11-27 27（+3）
 
 
 ---

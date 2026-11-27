@@ -1,6 +1,6 @@
 # AnkleBreaker-Studio/unity-mcp-server
 
-⭐ 550 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · [官网](https://anklebreaker-studio.com) · 组织维护
+⭐ 551 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/AnkleBreaker-Studio/unity-mcp-server) · [官网](https://anklebreaker-studio.com) · 组织维护
 
 **通过 MCP 将 AI 助手接入 Unity 编辑器与 Hub 的服务器**
 
@@ -47,12 +47,12 @@ AnkleBreaker Studio 开发的 MCP 服务器，配合 Unity 插件把 AI 助手�
 ```mermaid
 xychart-beta
     title "AnkleBreaker-Studio/unity-mcp-server 星数(近 16 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 524 --> 552
-    line [526, 527, 529, 530, 531, 532, 526, 539, 541, 542, 543, 545, 548, 549, 550, 550]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 524 --> 553
+    line [526, 527, 529, 530, 531, 532, 526, 539, 541, 542, 543, 545, 548, 549, 550, 551]
 ```
 
-2026-10-24 526 → 2026-11-26 550（+24）
+2026-10-25 526 → 2026-11-27 551（+25）
 
 
 ---

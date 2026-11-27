@@ -1,6 +1,6 @@
 # EratoLab/erato
 
-⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/EratoLab/erato) · [官网](https://erato.chat/) · 组织维护
+⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/EratoLab/erato) · [官网](https://erato.chat/) · 组织维护
 
 **开源自托管 AI 聊天平台，面向私有化部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EratoLab/erato 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "EratoLab/erato 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 18 --> 21
-    line [19, 20]
+    line [19, 20, 20]
 ```
 
-2026-10-24 19 → 2026-11-26 20（+1）
+2026-10-25 19 → 2026-11-27 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Carer-Healthcare-AI/Hospilot
 
-⭐ 19 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Carer-Healthcare-AI/Hospilot) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Carer-Healthcare-AI/Hospilot) · 组织维护
 
 **医院运营的多智能体 AI 操作层，读 HIS 数据并协调执行**
 
@@ -47,12 +47,12 @@ Carer Healthcare AI 开源的医院运营智能体平台：通过 Fabric（FHIR 
 ```mermaid
 xychart-beta
     title "Carer-Healthcare-AI/Hospilot 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-14", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-14", "2026-11-25", "2026-11-27"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    line [17, 18, 19, 18]
 ```
 
-2026-10-24 17 → 2026-11-26 19（+2）
+2026-10-25 17 → 2026-11-27 18（+1）
 
 
 ---

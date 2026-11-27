@@ -1,6 +1,6 @@
 # Infini-AI-Lab/astraflow
 
-⭐ 114 · Python · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/Infini-AI-Lab/astraflow) · [官网](https://infini-ai-lab.github.io/astraflow/docs/) · 组织维护
+⭐ 115 · Python · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/Infini-AI-Lab/astraflow) · [官网](https://infini-ai-lab.github.io/astraflow/docs/) · 组织维护
 
 **面向（多）智能体 LLM 的数据流式强化学习训练系统**
 
@@ -46,12 +46,12 @@ AstraFlow 是一个以数据流（dataflow）为核心设计的 LLM 强化学习
 ```mermaid
 xychart-beta
     title "Infini-AI-Lab/astraflow 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 109 --> 115
-    line [110, 111, 112, 110, 114, 113, 114, 114]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 109 --> 116
+    line [110, 111, 112, 110, 114, 113, 114, 115]
 ```
 
-2026-10-24 110 → 2026-11-26 114（+4）
+2026-10-25 110 → 2026-11-27 115（+5）
 
 
 ---

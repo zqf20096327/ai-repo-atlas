@@ -1,6 +1,6 @@
 # ePlus-DEV/muse-invite-hub
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ePlus-DEV/muse-invite-hub) · [官网](https://muse.eplus.dev/) · 组织维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ePlus-DEV/muse-invite-hub) · [官网](https://muse.eplus.dev/) · 组织维护
 
 **社区共享的 Muse AI 邀请码目录站**
 
@@ -40,6 +40,18 @@
 > L3: **Share the spark.** An open-source directory of community-shared Muse invite codes, maintained by ePlus.DEV.
 > L13: - **One directory:** browse, search, filter and sort invite codes shared on GitHub, Threads, X (Twitter), Facebook 
 > L63: Static HTML, CSS and JavaScript — no backend or npm dependencies. To run the homepage locally:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ePlus-DEV/muse-invite-hub 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-26 3 → 2026-11-27 5（+2）
 
 
 ---

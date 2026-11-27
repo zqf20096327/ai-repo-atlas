@@ -1,6 +1,6 @@
 # juyterman1000/entroly
 
-⭐ 489 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/juyterman1000/entroly) · [官网](https://juyterman1000.github.io/entroly/docs/index.html) · 个人维护 · 中文 README
+⭐ 489 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/juyterman1000/entroly) · [官网](https://juyterman1000.github.io/entroly/docs/index.html) · 个人维护 · 中文 README
 
 **给 AI 编码工具提供可审计、可恢复的上下文压缩层**
 
@@ -47,12 +47,12 @@ Entroly 是本地优先的 AI token 效率与上下文保障层：在 token 预�
 ```mermaid
 xychart-beta
     title "juyterman1000/entroly 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-27"]
     y-axis "stars" 478 --> 490
     line [479, 480, 483, 479, 483, 485, 486, 488, 489, 489]
 ```
 
-2026-10-24 479 → 2026-11-26 489（+10）
+2026-10-25 479 → 2026-11-27 489（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # CIRISAI/CIRISAgent
 
-⭐ 58 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/CIRISAI/CIRISAgent) · [官网](https://ciris.ai) · 个人维护
+⭐ 58 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/CIRISAI/CIRISAgent) · [官网](https://ciris.ai) · 个人维护
 
 **可核查推理与人工升级机制的开源 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CIRISAI/CIRISAgent 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-20", "2026-11-27"]
     y-axis "stars" 57 --> 60
     line [58, 59, 58, 58]
 ```
 
-2026-10-24 58 → 2026-11-26 58（+0）
+2026-10-25 58 → 2026-11-27 58（+0）
 
 
 ---

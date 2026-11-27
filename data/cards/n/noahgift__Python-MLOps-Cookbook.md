@@ -1,6 +1,6 @@
 # noahgift/Python-MLOps-Cookbook
 
-⭐ 439 · Jupyter Notebook · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/noahgift/Python-MLOps-Cookbook) · [官网](https://www.coursera.org/learn/machine-learning-with-databricks-and-mlflow?utm_source=github&utm_medium=repo_website&utm_campaign=funnel_2026q4&utm_content=Python-MLOps-Cookbook) · 个人维护
+⭐ 440 · Jupyter Notebook · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/noahgift/Python-MLOps-Cookbook) · [官网](https://www.coursera.org/learn/machine-learning-with-databricks-and-mlflow?utm_source=github&utm_medium=repo_website&utm_campaign=funnel_2026q4&utm_content=Python-MLOps-Cookbook) · 个人维护
 
 **面向 MLOps 学习者的容器化 Flask 机器学习服务示例库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "noahgift/Python-MLOps-Cookbook 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 438 --> 440
-    line [439, 439]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 438 --> 441
+    line [439, 440]
 ```
 
-2026-11-25 439 → 2026-11-26 439（+0）
+2026-11-25 439 → 2026-11-27 440（+1）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "whewgg/skill-The-Twenty-Four-Histories-history 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 4 --> 12
-    line [5, 6, 7, 6, 11, 11]
+    title "whewgg/skill-The-Twenty-Four-Histories-history 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 5 --> 12
+    line [6, 7, 6, 11, 11]
 ```
 
-2026-10-21 5 → 2026-11-26 11（+6）
+2026-10-22 6 → 2026-11-27 11（+5）
 
 
 ---

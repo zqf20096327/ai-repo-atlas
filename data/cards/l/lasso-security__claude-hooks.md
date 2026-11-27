@@ -1,6 +1,6 @@
 # lasso-security/claude-hooks
 
-⭐ 273 · TypeScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/lasso-security/claude-hooks) · [官网](https://lasso.security) · 组织维护
+⭐ 274 · TypeScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/lasso-security/claude-hooks) · [官网](https://lasso.security) · 组织维护
 
 **给 Claude Code 用户的间接提示注入防御钩子集合**
 
@@ -46,12 +46,12 @@ Lasso Security 维护的 Claude Code hooks 集合，核心为 Prompt Injection D
 ```mermaid
 xychart-beta
     title "lasso-security/claude-hooks 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-27"]
     y-axis "stars" 268 --> 275
-    line [269, 270, 269, 273, 272, 274, 273, 273]
+    line [269, 270, 269, 273, 272, 274, 273, 274]
 ```
 
-2026-10-24 269 → 2026-11-26 273（+4）
+2026-10-25 269 → 2026-11-27 274（+5）
 
 
 ---

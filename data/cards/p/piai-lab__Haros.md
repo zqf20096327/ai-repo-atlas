@@ -1,6 +1,6 @@
 # piai-lab/Haros
 
-⭐ 193 · TypeScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/piai-lab/Haros) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **本地优先桌面工作台：在同一会话中接入并切换多种编码 Agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

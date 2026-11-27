@@ -1,6 +1,6 @@
 # iscyy/ultralyticsPro
 
-⭐ 2,955 · Python · 推送 2025-12-15 · [GitHub](https://github.com/iscyy/ultralyticsPro) · [官网](https://github.com/iscyy/ultralyticsPro) · 个人维护 · 中文 README
+⭐ 2,956 · Python · 推送 2025-12-15 · [GitHub](https://github.com/iscyy/ultralyticsPro) · [官网](https://github.com/iscyy/ultralyticsPro) · 个人维护 · 中文 README
 
 **YOLO 系列目标检测模型的改进版集合与模块库**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "iscyy/ultralyticsPro 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-26"]
+    title "iscyy/ultralyticsPro 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-27"]
     y-axis "stars" 2952 --> 2957
-    line [2954, 2953, 2954, 2955, 2956, 2955, 2955]
+    line [2953, 2954, 2955, 2956, 2955, 2956]
 ```
 
-2026-10-24 2,954 → 2026-11-26 2,955（+1）
+2026-10-25 2,953 → 2026-11-27 2,956（+3）
 
 
 ---

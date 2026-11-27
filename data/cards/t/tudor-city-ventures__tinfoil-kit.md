@@ -41,6 +41,18 @@
 > L5: - **Local AI** (llama.cpp) that answers from the library and cites its sources.
 > L45: |AI|`llama-server` (llama.cpp)|8080|Runs the AI model (Inkling 2 Mini by default). AI chat is its built-in chat pag
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tudor-city-ventures/tinfoil-kit 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `83b053ebcd27` · [字段定义](../../DATASET.md)*

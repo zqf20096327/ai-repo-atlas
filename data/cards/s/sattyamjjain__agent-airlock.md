@@ -1,6 +1,6 @@
 # sattyamjjain/agent-airlock
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/sattyamjjain/agent-airlock) · [官网](https://sattyamjjain.github.io/agent-airlock/) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/sattyamjjain/agent-airlock) · [官网](https://sattyamjjain.github.io/agent-airlock/) · 个人维护
 
 **AI agent 工具调用的进程内契约校验层，默认拒绝**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sattyamjjain/agent-airlock 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    title "sattyamjjain/agent-airlock 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-24 16 → 2026-11-26 18（+2）
+2026-10-25 17 → 2026-11-27 18（+1）
 
 
 ---

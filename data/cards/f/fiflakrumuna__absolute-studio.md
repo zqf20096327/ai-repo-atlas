@@ -1,6 +1,6 @@
 # fiflakrumuna/absolute-studio
 
-⭐ 6 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/fiflakrumuna/absolute-studio) · 个人维护
+⭐ 6 · TypeScript · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/fiflakrumuna/absolute-studio) · 个人维护
 
 **桌面端本地/云 LLM 自主编码 Agent，可编辑文件与执行终端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,6 +40,18 @@
 > L15: **Absolute Studio** bridges local and cloud Large Language Models with your local filesystem and terminal. Unlike s
 > L20:  - **Local Mode:** Native integration with **Ollama** (`qwen3.5:9b` or any locally pulled model) for 100% private, 
 > L22: - **🤖 Autonomous Workspace Agent:**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fiflakrumuna/absolute-studio 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-26 6 → 2026-11-27 6（+0）
 
 
 ---

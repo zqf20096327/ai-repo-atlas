@@ -1,6 +1,6 @@
 # g1304458637-afk/personal-investment-twin
 
-⭐ 40 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/g1304458637-afk/personal-investment-twin) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/g1304458637-afk/personal-investment-twin) · 个人维护 · 中文 README
 
 **个人投资者的本地 AI 投资决策教练：复盘历史、归因盈亏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "g1304458637-afk/personal-investment-twin 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 38 --> 41
-    line [39, 40, 39, 40, 40]
+    line [39, 40, 39, 40, 39]
 ```
 
-2026-10-24 39 → 2026-11-26 40（+1）
+2026-10-25 39 → 2026-11-27 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # trayders/trayd-mcp
 
-⭐ 41 · 推送 2026-06-26 · [GitHub](https://github.com/trayders/trayd-mcp) · 组织维护
+⭐ 42 · 推送 2026-06-26 · [GitHub](https://github.com/trayders/trayd-mcp) · 组织维护
 
 **通过 Claude 交易 Robinhood 的远程 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "trayders/trayd-mcp 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 40 --> 43
-    line [42, 41, 42, 41, 41]
+    line [42, 41, 42, 41, 42]
 ```
 
-2026-10-24 42 → 2026-11-26 41（-1）
+2026-10-25 42 → 2026-11-27 42（+0）
 
 
 ---

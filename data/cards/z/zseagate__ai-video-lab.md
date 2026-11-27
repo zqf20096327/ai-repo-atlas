@@ -42,6 +42,18 @@
 > L74: `lab/` 是一套可复现的**本地练习平台**，把「剧本 → 分镜 → 声音 → 合成 → QC」串成六个阶段，默认走零成本、低配可用的路径，任何一步都可单独重跑：
 > L92: > 视频引擎可插拔：`kenburns`（关键帧动效，纯 FFmpeg，无需模型）→ `footage`（实拍）→ `seedance`（云端）→ `wan_local`（本地草稿）→ `placeholder`。低配机器推荐 `
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zseagate/ai-video-lab 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `de4371577b37` · [字段定义](../../DATASET.md)*

@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "semiautomaticgit/remotior_sensus 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-24 40 → 2026-11-26 40（+0）
+2026-10-25 40 → 2026-11-27 40（+0）
 
 
 ---

@@ -43,12 +43,12 @@ Atishay Jain 的个人网站（atishay.me）源码，使用 Hugo、HTML 和 CSS 
 ```mermaid
 xychart-beta
     title "atishay/atishay.github.io 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-24 20 → 2026-11-26 20（+0）
+2026-10-25 20 → 2026-11-27 20（+0）
 
 
 ---

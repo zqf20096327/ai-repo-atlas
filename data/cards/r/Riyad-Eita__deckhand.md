@@ -47,12 +47,12 @@ Deckhand 是一款 iOS 应用，通过 QR 配对或密钥建立 SSH 连接，在
 ```mermaid
 xychart-beta
     title "Riyad-Eita/deckhand 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-26"]
+    x-axis ["2026-11-13", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-26 3（+0）
+2026-11-13 3 → 2026-11-27 3（+0）
 
 
 ---

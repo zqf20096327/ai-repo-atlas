@@ -1,6 +1,6 @@
 # CocoSgt/dsh-skills
 
-⭐ 15 · JavaScript · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/CocoSgt/dsh-skills) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/CocoSgt/dsh-skills) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的第三方技能中心插件：聚合分散技能到全局库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CocoSgt/dsh-skills 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

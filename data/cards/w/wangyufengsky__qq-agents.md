@@ -1,6 +1,6 @@
 # wangyufengsky/qq-agents
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/wangyufengsky/qq-agents) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/wangyufengsky/qq-agents) · 个人维护 · 中文 README
 
 **自托管多角色 QQ AI 机器人管理台：每角色绑定独立 QQ 号**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wangyufengsky/qq-agents 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-26 3（+0）
+2026-11-19 3 → 2026-11-27 3（+0）
 
 
 ---

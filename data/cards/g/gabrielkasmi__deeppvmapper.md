@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gabrielkasmi/deeppvmapper 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "gabrielkasmi/deeppvmapper 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 36 --> 41
-    line [37, 39, 40]
+    line [37, 39, 40, 40]
 ```
 
-2026-10-24 37 → 2026-11-26 40（+3）
+2026-10-25 37 → 2026-11-27 40（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Zrn59/ComfyUI-GGUF-Next
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Zrn59/ComfyUI-GGUF-Next) · [官网](https://zrn59.me) · 个人维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Zrn59/ComfyUI-GGUF-Next) · [官网](https://zrn59.me) · 个人维护
 
 **为 ComfyUI 提供 GGUF 量化模型加载节点的扩展**
 
@@ -40,6 +40,18 @@ city96/ComfyUI-GGUF 的 fork，为 ComfyUI 提供 GGUF 加载节点：在 torch 
 > L13: GGUF loader nodes for ComfyUI. This is a fork of city96/ComfyUI-GGUF with more quant types, more diffusion models a
 > L60: You need a working ComfyUI with Python 3.9 or newer. Remove or disable the original ComfyUI-GGUF first: both packs 
 > L64: git clone https://github.com/Zrn59/ComfyUI-GGUF-Next
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Zrn59/ComfyUI-GGUF-Next 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 8
+    line [5, 7]
+```
+
+2026-11-26 5 → 2026-11-27 7（+2）
 
 
 ---

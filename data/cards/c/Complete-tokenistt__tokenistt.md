@@ -1,6 +1,6 @@
 # Complete-tokenistt/tokenistt
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Complete-tokenistt/tokenistt) · [官网](tokenistt.com) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Complete-tokenistt/tokenistt) · [官网](tokenistt.com) · 组织维护
 
 **自托管 AI 成本治理网关：追踪 LLM 支出、预算与策略审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Complete-tokenistt/tokenistt 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-27"]
     y-axis "stars" 12 --> 17
     line [13, 14, 15, 16, 16]
 ```
 
-2026-11-08 13 → 2026-11-26 16（+3）
+2026-11-08 13 → 2026-11-27 16（+3）
 
 
 ---

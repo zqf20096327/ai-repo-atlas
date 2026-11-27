@@ -1,6 +1,6 @@
 # bqpro1/TheSystem
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/bqpro1/TheSystem) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/bqpro1/TheSystem) · 个人维护
 
 **单个 LLM 内用门控在选项决策与文本生成两模式间切换的模型**
 
@@ -40,6 +40,18 @@ TheSystem 基于 Qwen3.5-9B 冻结骨干，训练一个 <FAST> 门控按 prompt 
 > L14: TheSystem runs on Qwen3.5-9B and uses a learned **`<FAST>`** gate to choose between these two modes.
 > L63: I built **TheSystem**, whose learned internal gate, **`<FAST>`**, chooses once per prompt
 > L64: between selecting a supplied answer and using the model’s original text-generation path.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bqpro1/TheSystem 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 10
+    line [6, 9]
+```
+
+2026-11-26 6 → 2026-11-27 9（+3）
 
 
 ---

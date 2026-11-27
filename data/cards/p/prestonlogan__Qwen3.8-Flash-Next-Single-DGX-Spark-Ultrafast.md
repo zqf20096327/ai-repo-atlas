@@ -1,6 +1,6 @@
 # prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast
 
-⭐ 14 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast) · 个人维护
 
 **在单台 DGX Spark 上以 100+ tok/s 服务 Qwen3.8-Flash-Next 的部署配方**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 5 --> 15
-    line [6, 9, 14]
+    title "prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 29
+    line [6, 9, 14, 27]
 ```
 
-2026-11-23 6 → 2026-11-26 14（+8）
+2026-11-23 6 → 2026-11-27 27（+21）
 
 
 ---

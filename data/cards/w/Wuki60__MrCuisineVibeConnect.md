@@ -1,6 +1,6 @@
 # Wuki60/MrCuisineVibeConnect
 
-⭐ 82 · Kotlin · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Wuki60/MrCuisineVibeConnect) · [官网](https://toqueapp.org) · 个人维护
+⭐ 84 · Kotlin · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Wuki60/MrCuisineVibeConnect) · [官网](https://toqueapp.org) · 个人维护
 
 **给 Lidl Monsieur Cuisine Connect 厨师机的替代操作界面（含 AI 代理安装向导）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wuki60/MrCuisineVibeConnect 星数(近 9 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 10 --> 88
-    line [16, 36, 56, 58, 60, 63, 65, 72, 82]
+    title "Wuki60/MrCuisineVibeConnect 星数(近 10 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 90
+    line [16, 36, 56, 58, 60, 63, 65, 72, 82, 84]
 ```
 
-2026-11-16 16 → 2026-11-26 82（+66）
+2026-11-16 16 → 2026-11-27 84（+68）
 
 
 ---

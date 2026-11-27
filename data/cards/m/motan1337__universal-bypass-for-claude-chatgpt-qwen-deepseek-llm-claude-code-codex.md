@@ -1,6 +1,6 @@
 # motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex
 
-⭐ 37 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex) · 个人维护
+⭐ 38 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex) · 个人维护
 
 **针对多家前沿 LLM 的人工编写越狱提示词集合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex 星数(近 19 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 4 --> 40
-    line [7, 9, 11, 12, 13, 15, 18, 7, 26, 27, 29, 30, 33, 34, 35, 34, 35, 36, 37]
+    title "motan1337/universal-bypass-for-claude-chatgpt-qwen-deepseek-llm-claude-code-codex 星数(近 20 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 41
+    line [7, 9, 11, 12, 13, 15, 18, 7, 26, 27, 29, 30, 33, 34, 35, 34, 35, 36, 37, 38]
 ```
 
-2026-10-24 7 → 2026-11-26 37（+30）
+2026-10-25 7 → 2026-11-27 38（+31）
 
 
 ---

@@ -1,6 +1,6 @@
 # fieldpincocknxxc/prompt-poet
 
-⭐ 50 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/fieldpincocknxxc/prompt-poet) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/fieldpincocknxxc/prompt-poet) · 组织维护
 
 **低代码 LLM 提示词模板库：YAML+Jinja2、token 计数与缓存感知截断**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fieldpincocknxxc/prompt-poet 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 33 --> 51
+    line [50, 34]
 ```
 
-2026-11-08 50 → 2026-11-26 50（+0）
+2026-11-08 50 → 2026-11-27 34（-16）
 
 
 ---

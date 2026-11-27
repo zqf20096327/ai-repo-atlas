@@ -1,6 +1,6 @@
 # ayushcmd/atmos-grid
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayushcmd/atmos-grid) · [官网](https://atmosgrid.streamlit.app/) · 组织维护
+⭐ 61 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayushcmd/atmos-grid) · [官网](https://atmosgrid.streamlit.app/) · 组织维护
 
 **面向印度的卫星空气质量分析与 HCHO 热点检测平台**
 
@@ -40,6 +40,18 @@ AtmosGrid 结合地面监测数据、Sentinel-5P/TROPOMI 卫星观测与机器�
 > L15: AtmosGrid is a satellite-assisted environmental monitoring and research platform developed to explore two interconn
 > L56: - Train and evaluate an XGBoost regression model using historical AQI observations.
 > L128: AtmosGrid uses an XGBoost regression model trained on historical daily AQI observations.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ayushcmd/atmos-grid 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 50 --> 62
+    line [51, 61]
+```
+
+2026-11-26 51 → 2026-11-27 61（+10）
 
 
 ---

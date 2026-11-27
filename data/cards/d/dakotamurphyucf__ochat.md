@@ -46,12 +46,12 @@ Ochat 是以纯文本文件（ChatMarkdown）定义 AI agent 的工具包：在�
 ```mermaid
 xychart-beta
     title "dakotamurphyucf/ochat 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-24 31 → 2026-11-26 31（+0）
+2026-10-25 31 → 2026-11-27 31（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # aravpanwar/dsmai
 
-⭐ 67 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aravpanwar/dsmai) · [官网](https://dsmai.aravpanwar.com/) · 个人维护
+⭐ 71 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aravpanwar/dsmai) · [官网](https://dsmai.aravpanwar.com/) · 个人维护
 
 **现代 AI 概念依赖结构的交互式分层学习地图**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aravpanwar/dsmai 星数(近 5 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 6 --> 72
-    line [11, 37, 51, 53, 67]
+    title "aravpanwar/dsmai 星数(近 6 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 77
+    line [11, 37, 51, 53, 67, 71]
 ```
 
-2026-11-21 11 → 2026-11-26 67（+56）
+2026-11-21 11 → 2026-11-27 71（+60）
 
 
 ---

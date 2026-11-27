@@ -1,6 +1,6 @@
 # ashev87/propstack-mcp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ashev87/propstack-mcp) · [官网](https://www.npmjs.com/package/propstack-mcp-server) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ashev87/propstack-mcp) · [官网](https://www.npmjs.com/package/propstack-mcp-server) · 个人维护
 
 **通过 MCP 将 AI 助手接入 Propstack 房产 CRM**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ashev87/propstack-mcp 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-15", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-15 10 → 2026-11-26 10（+0）
+2026-11-15 10 → 2026-11-27 11（+1）
 
 
 ---

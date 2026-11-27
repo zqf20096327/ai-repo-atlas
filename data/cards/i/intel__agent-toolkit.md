@@ -1,6 +1,6 @@
 # intel/agent-toolkit
 
-⭐ 55 · Shell · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/intel/agent-toolkit) · 组织维护
+⭐ 56 · Shell · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/intel/agent-toolkit) · 组织维护
 
 **在 Intel Xeon 上部署企业级 Agentic AI 基础设施的工具包**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "intel/agent-toolkit 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
-    y-axis "stars" 53 --> 56
-    line [54, 55]
+    title "intel/agent-toolkit 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56]
 ```
 
-2026-11-20 54 → 2026-11-26 55（+1）
+2026-11-20 54 → 2026-11-27 56（+2）
 
 
 ---

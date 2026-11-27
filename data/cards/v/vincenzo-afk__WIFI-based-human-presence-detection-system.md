@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vincenzo-afk/WIFI-based-human-presence-detection-system 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 41 --> 47
-    line [42, 43, 44, 45, 43, 46, 46]
+    title "vincenzo-afk/WIFI-based-human-presence-detection-system 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 45, 43, 46, 46]
 ```
 
-2026-10-24 42 → 2026-11-26 46（+4）
+2026-10-25 43 → 2026-11-27 46（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # alacritree/alacritree
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/alacritree/alacritree) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/alacritree/alacritree) · 个人维护
 
 **把 Git worktree 变成工作区的原生终端（Alacritty 分叉）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alacritree/alacritree 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "alacritree/alacritree 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-24 17 → 2026-11-26 19（+2）
+2026-10-25 18 → 2026-11-27 19（+1）
 
 
 ---

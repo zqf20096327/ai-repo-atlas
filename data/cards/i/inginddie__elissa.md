@@ -1,6 +1,6 @@
 # inginddie/elissa
 
-⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/inginddie/elissa) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 Windows 等桌面用户一个带虚拟形象、可确认操作的语音 AI 助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

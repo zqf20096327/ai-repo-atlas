@@ -1,6 +1,6 @@
 # Private-Garden-Labs/garden-desk
 
-⭐ 249 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Private-Garden-Labs/garden-desk) · [官网](https://gardendesk.ai) · 组织维护
+⭐ 246 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Private-Garden-Labs/garden-desk) · [官网](https://gardendesk.ai) · 组织维护
 
 **处理本地文件的私有桌面 AI agent，全程本地运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Private-Garden-Labs/garden-desk 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 246 --> 250
-    line [247, 248, 247, 248, 249, 249]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 245 --> 250
+    line [247, 248, 247, 248, 249, 246]
 ```
 
-2026-10-24 247 → 2026-11-26 249（+2）
+2026-10-25 247 → 2026-11-27 246（-1）
 
 
 ---

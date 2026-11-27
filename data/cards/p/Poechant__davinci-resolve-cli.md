@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Poechant/davinci-resolve-cli 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    title "Poechant/davinci-resolve-cli 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-26", "2026-11-27"]
     y-axis "stars" 52 --> 56
-    line [53, 54, 55]
+    line [53, 54, 55, 55]
 ```
 
-2026-10-24 53 → 2026-11-26 55（+2）
+2026-10-25 53 → 2026-11-27 55（+2）
 
 
 ---

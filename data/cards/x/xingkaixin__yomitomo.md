@@ -1,6 +1,6 @@
 # xingkaixin/yomitomo
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xingkaixin/yomitomo) · [官网](https://yomitomo.app) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xingkaixin/yomitomo) · [官网](https://yomitomo.app) · 个人维护 · 中文 README
 
 **本地优先的 AI 阅读伴侣桌面应用：标注、问答与本地阅读记忆**
 
@@ -41,6 +41,18 @@
 > L5: Yomitomo is a local-first AI reading companion desktop app. The Electron desktop app handles web article, EPUB/AZW3/
 > L16: - Reading assistants: mention `@assistant` in a discussion, ask an assistant to add a thought under a highlight, or
 > L20: - Reading memory: a local multilingual embedding model indexes highlights, thoughts, discussions, and published dis
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xingkaixin/yomitomo 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-26 14 → 2026-11-27 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # T-Crypt/aphotic-hypr
 
-⭐ 108 · QML · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/T-Crypt/aphotic-hypr) · 个人维护
+⭐ 108 · QML · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/T-Crypt/aphotic-hypr) · 个人维护
 
 **基于 Quickshell 的模块化 Hyprland 桌面配置（dotfiles）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "T-Crypt/aphotic-hypr 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-23", "2026-11-27"]
     y-axis "stars" 104 --> 109
     line [105, 106, 105, 106, 107, 108, 108]
 ```
 
-2026-10-24 105 → 2026-11-26 108（+3）
+2026-10-25 105 → 2026-11-27 108（+3）
 
 
 ---

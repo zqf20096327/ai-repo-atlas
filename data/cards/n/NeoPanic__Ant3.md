@@ -1,6 +1,6 @@
 # NeoPanic/Ant3
 
-⭐ 9 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NeoPanic/Ant3) · 个人维护 · 中文 README
+⭐ 9 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NeoPanic/Ant3) · 个人维护 · 中文 README
 
 **用信息素协同机制自组织的多智能体 Rust 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NeoPanic/Ant3 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-23", "2026-11-26"]
+    title "NeoPanic/Ant3 星数(近 5 点)"
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 8 --> 11
-    line [10, 9, 10, 9]
+    line [10, 9, 10, 9, 9]
 ```
 
-2026-11-10 10 → 2026-11-26 9（-1）
+2026-11-10 10 → 2026-11-27 9（-1）
 
 
 ---

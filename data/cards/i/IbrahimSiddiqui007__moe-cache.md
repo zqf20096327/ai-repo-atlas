@@ -1,6 +1,6 @@
 # IbrahimSiddiqui007/moe-cache
 
-⭐ 22 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/IbrahimSiddiqui007/moe-cache) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/IbrahimSiddiqui007/moe-cache) · 个人维护
 
 **让普通 PC 在 RAM 不足时运行超内存的 MoE 大模型的 llama.cpp 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IbrahimSiddiqui007/moe-cache 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-27"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-11-10 21 → 2026-11-26 22（+1）
+2026-11-10 21 → 2026-11-27 22（+1）
 
 
 ---

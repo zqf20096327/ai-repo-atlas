@@ -1,6 +1,6 @@
 # bigduu/Bodhi-AI
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/bigduu/Bodhi-AI) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bigduu/Bodhi-AI) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI agent 窗口：管理 Bamboo 运行时执行任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bigduu/Bodhi-AI 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-27"]
     y-axis "stars" 16 --> 21
     line [17, 18, 19, 20, 20]
 ```
 
-2026-10-24 17 → 2026-11-26 20（+3）
+2026-10-25 17 → 2026-11-27 20（+3）
 
 
 ---

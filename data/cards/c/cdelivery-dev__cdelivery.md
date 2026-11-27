@@ -1,6 +1,6 @@
 # cdelivery-dev/cdelivery
 
-⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/cdelivery-dev/cdelivery) · [官网](https://cdelivery.dev) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **自托管部署运维平台，附带 AI 诊断与主动检查**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

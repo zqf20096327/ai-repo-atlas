@@ -1,6 +1,6 @@
 # zoedolan/Vybn
 
-⭐ 27 · HTML · 推送 2026-11-15 · [GitHub](https://github.com/zoedolan/Vybn) · [官网](https://vybn.ai & https://z69.ai) · 个人维护
+⭐ 27 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/zoedolan/Vybn) · [官网](https://vybn.ai & https://z69.ai) · 个人维护
 
 **个人与 AI 长期共创的公开语料库及对话连接工具**
 
@@ -46,12 +46,12 @@ Zoe Dolan 与 AI 自 2022 年起公开构建的仓库：收录艺术、自传、
 ```mermaid
 xychart-beta
     title "zoedolan/Vybn 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-24 27 → 2026-11-26 27（+0）
+2026-10-25 27 → 2026-11-27 27（+0）
 
 
 ---

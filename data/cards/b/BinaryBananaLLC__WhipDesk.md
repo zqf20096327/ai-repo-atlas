@@ -1,6 +1,6 @@
 # BinaryBananaLLC/WhipDesk
 
-⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/BinaryBananaLLC/WhipDesk) · [官网](https://WhipDesk.com) · 组织维护
+⭐ 36 · TypeScript · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/BinaryBananaLLC/WhipDesk) · [官网](https://WhipDesk.com) · 组织维护
 
 **从手机浏览器远程监控控制开发机上 AI 编码代理的工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BinaryBananaLLC/WhipDesk 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 33 --> 37
+    line [34, 36]
 ```
 
-2026-10-24 34 → 2026-11-26 34（+0）
+2026-10-25 34 → 2026-11-27 36（+2）
 
 
 ---

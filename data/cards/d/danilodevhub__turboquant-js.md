@@ -46,12 +46,12 @@ Google TurboQuant 论文（ICLR 2026）算法的 TypeScript 实现，提供三�
 ```mermaid
 xychart-beta
     title "danilodevhub/turboquant-js 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 19（+0）
 
 
 ---

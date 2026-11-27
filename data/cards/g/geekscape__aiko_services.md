@@ -1,6 +1,6 @@
 # geekscape/aiko_services
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/geekscape/aiko_services) · 个人维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/geekscape/aiko_services) · 个人维护
 
 **反射式分布式计算框架：面向 AI、机器人与 AIoT 的消息服务**
 
@@ -46,12 +46,12 @@ Aiko Services 是一个 Python 分布式服务框架，基于 Actor 模型与消
 ```mermaid
 xychart-beta
     title "geekscape/aiko_services 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-24 31 → 2026-11-26 32（+1）
+2026-10-25 31 → 2026-11-27 32（+1）
 
 
 ---

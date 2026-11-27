@@ -1,6 +1,6 @@
 # caru-ini/modal-comfyui
 
-⭐ 55 · Python · 推送 2026-10-31 · [GitHub](https://github.com/caru-ini/modal-comfyui) · 个人维护
+⭐ 56 · Python · 推送 2026-10-31 · [GitHub](https://github.com/caru-ini/modal-comfyui) · 个人维护
 
 **在 Modal 云上部署 ComfyUI 的脚手架：自动扩缩容与模型管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "caru-ini/modal-comfyui 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-14", "2026-11-26"]
-    y-axis "stars" 51 --> 56
-    line [52, 53, 54, 55]
+    x-axis ["2026-10-25", "2026-11-14", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 52 --> 57
+    line [53, 54, 55, 56]
 ```
 
-2026-10-24 52 → 2026-11-26 55（+3）
+2026-10-25 53 → 2026-11-27 56（+3）
 
 
 ---

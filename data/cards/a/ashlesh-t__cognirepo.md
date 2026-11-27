@@ -1,6 +1,6 @@
 # ashlesh-t/cognirepo
 
-⭐ 15 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ashlesh-t/cognirepo) · [官网](https://ashlesh-t.github.io/cognirepo-site/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ashlesh-t/cognirepo) · [官网](https://ashlesh-t.github.io/cognirepo-site/) · 个人维护
 
 **AI 编码代理的本地记忆与仓库索引基础设施（MCP 工具）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ashlesh-t/cognirepo 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

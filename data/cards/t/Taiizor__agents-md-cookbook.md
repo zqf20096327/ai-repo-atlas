@@ -1,6 +1,6 @@
 # Taiizor/agents-md-cookbook
 
-⭐ 29 · TypeScript · MIT · 推送 2026-08-08 · [GitHub](https://github.com/Taiizor/agents-md-cookbook) · [官网](https://agents.md) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-08-08 · [GitHub](https://github.com/Taiizor/agents-md-cookbook) · [官网](https://agents.md) · 个人维护
 
 **AGENTS.md 模板套件：跨工具的编码代理配置模板与迁移/检查工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Taiizor/agents-md-cookbook 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 23 --> 30
-    line [24, 27, 28, 29, 29]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 23 --> 31
+    line [24, 27, 28, 29, 30]
 ```
 
-2026-10-24 24 → 2026-11-26 29（+5）
+2026-10-25 24 → 2026-11-27 30（+6）
 
 
 ---

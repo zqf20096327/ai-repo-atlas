@@ -1,6 +1,6 @@
 # joybro/obsidian-similar-notes
 
-⭐ 109 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/joybro/obsidian-similar-notes) · 个人维护
+⭐ 109 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/joybro/obsidian-similar-notes) · 个人维护
 
 **Obsidian 笔记语义相似查找与语义搜索插件**
 
@@ -46,12 +46,12 @@ Obsidian 插件，在笔记下方实时展示语义相似笔记，并提供按�
 ```mermaid
 xychart-beta
     title "joybro/obsidian-similar-notes 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-24 109 → 2026-11-26 109（+0）
+2026-10-25 109 → 2026-11-27 109（+0）
 
 
 ---

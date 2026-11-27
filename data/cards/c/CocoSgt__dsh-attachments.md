@@ -1,6 +1,6 @@
 # CocoSgt/dsh-attachments
 
-⭐ 12 · JavaScript · 推送 2026-08-14 · [GitHub](https://github.com/CocoSgt/dsh-attachments) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/CocoSgt/dsh-attachments) · 个人维护 · 中文 README
 
 **DeepSeek Harness 第三方附件插件：任意文件带入对话，零类型拒绝**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CocoSgt/dsh-attachments 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

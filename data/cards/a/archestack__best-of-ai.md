@@ -1,6 +1,6 @@
 # archestack/best-of-ai
 
-⭐ 10 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/archestack/best-of-ai) · [官网](https://archestack.com/best-of-ai/) · 组织维护
+⭐ 13 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/archestack/best-of-ai) · [官网](https://archestack.com/best-of-ai/) · 组织维护
 
 **面向选型者的开源 AI 项目排名清单（1,801 个，21 类）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "archestack/best-of-ai 星数(近 8 点)"
-    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 3 --> 11
-    line [4, 5, 4, 6, 7, 8, 9, 10]
+    title "archestack/best-of-ai 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 14
+    line [4, 5, 4, 6, 7, 8, 9, 10, 13]
 ```
 
-2026-10-21 4 → 2026-11-26 10（+6）
+2026-10-22 4 → 2026-11-27 13（+9）
 
 
 ---

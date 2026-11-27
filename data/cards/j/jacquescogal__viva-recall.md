@@ -1,6 +1,6 @@
 # jacquescogal/viva-recall
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jacquescogal/viva-recall) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **桌面自主记忆闪卡应用：用 Decision 模型判分开放回答**
 
@@ -11,7 +11,7 @@ Viva Recall 是一款 Electron 桌面应用，面向开放式回忆的闪卡学�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # qingxueyanshang/qywork-qingyan-harness
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/qingxueyanshang/qywork-qingyan-harness) · [官网](https://qywork.io) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/qingxueyanshang/qywork-qingyan-harness) · [官网](https://qywork.io) · 个人维护 · 中文 README
 
 **给开发者的多模型多 Agent 协作桌面工作台（Agent Harness）**
 
@@ -41,6 +41,18 @@
 > L3: **多模型接入、多 Agent 协作的轻量化开源 Agent Harness。**
 > L5: Agent = Model + Harness。模型负责推理，qywork 提供工具执行、上下文管理、记忆、技能与任务编排，
 > L30: - 对话模型支持 **Anthropic Messages、OpenAI Chat Completions、OpenAI Responses** 三类接口，可接入官方服务与兼容这些协议的服务，包括本地模型服务。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qingxueyanshang/qywork-qingyan-harness 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 20 --> 24
+    line [21, 23]
+```
+
+2026-11-26 21 → 2026-11-27 23（+2）
 
 
 ---

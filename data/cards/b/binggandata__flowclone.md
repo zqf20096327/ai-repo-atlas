@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "binggandata/flowclone 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-26"]
+    title "binggandata/flowclone 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 12
-    line [3, 11]
+    line [3, 11, 11]
 ```
 
-2026-11-22 3 → 2026-11-26 11（+8）
+2026-11-22 3 → 2026-11-27 11（+8）
 
 
 ---

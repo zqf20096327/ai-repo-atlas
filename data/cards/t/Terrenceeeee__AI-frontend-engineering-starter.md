@@ -1,6 +1,6 @@
 # Terrenceeeee/AI-frontend-engineering-starter
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Terrenceeeee/AI-frontend-engineering-starter) · [官网](https://terrenceeeee.github.io/AI-frontend-engineering-starter/) · 个人维护 · 中文 README
+⭐ 58 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Terrenceeeee/AI-frontend-engineering-starter) · [官网](https://terrenceeeee.github.io/AI-frontend-engineering-starter/) · 个人维护 · 中文 README
 
 **前端工程化实战项目集：Vue3+TS 全链路 Demo 与 AI 辅助审查**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Terrenceeeee/AI-frontend-engineering-starter 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-24 58 → 2026-11-26 58（+0）
+2026-10-25 58 → 2026-11-27 58（+0）
 
 
 ---

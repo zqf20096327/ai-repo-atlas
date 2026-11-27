@@ -1,6 +1,6 @@
 # Momoyeyu/momo
 
-⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Momoyeyu/momo) · [官网](https://momoyeyu.github.io/momo/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **以相处、记忆与共同成长为核心的开源 AI 陪伴游戏**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

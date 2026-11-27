@@ -1,6 +1,6 @@
 # pgEdge/ai-dba-workbench
 
-⭐ 51 · Go · PostgreSQL · 推送 2026-11-25 · [GitHub](https://github.com/pgEdge/ai-dba-workbench) · [官网](https://docs.pgedge.com/ai-dba-workbench) · 组织维护
+⭐ 51 · Go · PostgreSQL · 推送 2026-11-26 · [GitHub](https://github.com/pgEdge/ai-dba-workbench) · [官网](https://docs.pgedge.com/ai-dba-workbench) · 组织维护
 
 **面向 PostgreSQL 实例的监控管理系统，含可选 AI agent**
 
@@ -45,12 +45,12 @@ pgEdge 公司维护的 PostgreSQL v14+ 监控与管理统一环境，兼容 Supa
 ```mermaid
 xychart-beta
     title "pgEdge/ai-dba-workbench 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
     y-axis "stars" 48 --> 52
     line [49, 50, 49, 50, 51, 51]
 ```
 
-2026-10-24 49 → 2026-11-26 51（+2）
+2026-10-25 49 → 2026-11-27 51（+2）
 
 
 ---

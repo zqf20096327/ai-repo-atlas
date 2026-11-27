@@ -41,6 +41,18 @@
 > L9: - 简体中文 AI 设计面板（OpenAI 兼容 API；无 Key 可离线规则设计）；
 > L10: - 自然语言/文档输入 → 机翼/尾翼/机身 sizing → OpenVSP 建模 → VSPAERO → 稳定性检查 → Word 报告；
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wccjitou-lgtm/openvsp-ai-r2 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a54bb86d3600` · [字段定义](../../DATASET.md)*

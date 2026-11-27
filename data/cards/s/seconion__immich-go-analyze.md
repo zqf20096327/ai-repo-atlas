@@ -42,6 +42,18 @@
 > L9: - **Automated AI Tagging:** Scans your library and fills in missing descriptions for thousands of images.
 > L10: - **Smart Search Optimization:** Prompts the AI to generate keyword-rich descriptions (e.g., "birthday party", "sun
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "seconion/immich-go-analyze 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `7beffa63cd85` · [字段定义](../../DATASET.md)*

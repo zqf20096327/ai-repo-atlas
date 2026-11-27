@@ -45,13 +45,13 @@ Flutter 桌面应用，记录并转写麦克风与系统音频，将简短笔记
 
 ```mermaid
 xychart-beta
-    title "teng-lin/open-foresight 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    title "teng-lin/open-foresight 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
 ```
 
-2026-10-24 3 → 2026-11-26 4（+1）
+2026-10-25 4 → 2026-11-27 4（+0）
 
 
 ---

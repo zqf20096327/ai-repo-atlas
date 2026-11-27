@@ -1,6 +1,6 @@
 # sluminositys/dsh-nested-followups
 
-⭐ 54 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sluminositys/dsh-nested-followups) · 个人维护 · 中文 README
+⭐ 55 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sluminositys/dsh-nested-followups) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：任意回答处递归分叉追问且不污染主任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sluminositys/dsh-nested-followups 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 48 --> 55
-    line [50, 49, 50, 49, 51, 52, 53, 54, 54]
+    title "sluminositys/dsh-nested-followups 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 48 --> 56
+    line [49, 50, 49, 51, 52, 53, 54, 55]
 ```
 
-2026-10-24 50 → 2026-11-26 54（+4）
+2026-10-25 49 → 2026-11-27 55（+6）
 
 
 ---

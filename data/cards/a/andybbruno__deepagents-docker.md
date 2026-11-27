@@ -44,13 +44,13 @@ deepagents-docker 是一个 Python 库，为 LangChain 的 Deep Agents 提供 Do
 
 ```mermaid
 xychart-beta
-    title "andybbruno/deepagents-docker 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "andybbruno/deepagents-docker 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 31 --> 35
-    line [32, 33, 34]
+    line [32, 33, 34, 34]
 ```
 
-2026-10-24 32 → 2026-11-26 34（+2）
+2026-10-25 32 → 2026-11-27 34（+2）
 
 
 ---

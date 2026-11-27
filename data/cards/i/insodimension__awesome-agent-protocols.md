@@ -1,6 +1,6 @@
 # insodimension/awesome-agent-protocols
 
-⭐ 11 · CC0-1.0 · 推送 2026-09-18 · [GitHub](https://github.com/insodimension/awesome-agent-protocols) · [官网](https://github.com/insodimension/awesome-agent-protocols) · 个人维护
+⭐ 10 · CC0-1.0 · 推送 2026-09-18 · [GitHub](https://github.com/insodimension/awesome-agent-protocols) · [官网](https://github.com/insodimension/awesome-agent-protocols) · 个人维护
 
 **按栈层级组织的 AI Agent 协议与标准策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "insodimension/awesome-agent-protocols 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    line [10, 11, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 11（+1）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pow505/tobub
 
-⭐ 37 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/pow505/tobub) · [官网](https://www.tobub.com) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **Tobub 桌面端的开源自动化 Skill 层：AI agent 驱动本地浏览器工作流**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

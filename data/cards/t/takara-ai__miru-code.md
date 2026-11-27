@@ -1,6 +1,6 @@
 # takara-ai/miru-code
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/takara-ai/miru-code) · [官网](https://takara.ai/miru) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/takara-ai/miru-code) · [官网](https://takara.ai/miru) · 组织维护
 
 **面向 AI 编程代理的混合代码搜索工具（MCP）**
 
@@ -46,12 +46,12 @@ Miru 是供 AI 编程代理使用的混合代码搜索服务：通过 MCP 提供
 ```mermaid
 xychart-beta
     title "takara-ai/miru-code 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

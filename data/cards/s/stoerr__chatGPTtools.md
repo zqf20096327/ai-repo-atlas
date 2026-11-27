@@ -1,6 +1,6 @@
 # stoerr/chatGPTtools
 
-⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/stoerr/chatGPTtools) · [官网](https://chatgpttools.stoerr.net/) · 个人维护
+⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/stoerr/chatGPTtools) · [官网](https://chatgpttools.stoerr.net/) · 个人维护
 
 **个人维护的 ChatGPT 命令行脚本、bookmarklet 与网页工具集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stoerr/chatGPTtools 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-24 26 → 2026-11-26 27（+1）
+2026-10-25 26 → 2026-11-27 27（+1）
 
 
 ---

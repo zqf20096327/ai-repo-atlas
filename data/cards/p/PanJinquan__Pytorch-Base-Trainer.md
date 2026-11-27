@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PanJinquan/Pytorch-Base-Trainer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-24 88 → 2026-11-26 88（+0）
+2026-10-25 88 → 2026-11-27 88（+0）
 
 
 ---

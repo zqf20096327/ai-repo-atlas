@@ -1,6 +1,6 @@
 # jingangdidi/chatsong
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/jingangdidi/chatsong) · 个人维护 · 中文 README
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/jingangdidi/chatsong) · 个人维护 · 中文 README
 
 **单文件 LLM 对话服务端：浏览器多模型聊天与工具调用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jingangdidi/chatsong 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 13（+1）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

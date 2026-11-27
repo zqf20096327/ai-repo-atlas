@@ -1,6 +1,6 @@
 # Ai-Eastern/reuse-before-build
 
-⭐ 99 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Ai-Eastern/reuse-before-build) · 个人维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Ai-Eastern/reuse-before-build) · 个人维护 · 中文 README
 
 **约束编程 Agent 先复用既有代码再新建的 Agent Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ai-Eastern/reuse-before-build 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-24 99 → 2026-11-26 99（+0）
+2026-10-25 99 → 2026-11-27 100（+1）
 
 
 ---

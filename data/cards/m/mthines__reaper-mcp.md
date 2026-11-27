@@ -1,6 +1,6 @@
 # mthines/reaper-mcp
 
-⭐ 40 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mthines/reaper-mcp) · [官网](https://reaper-mcp.vercel.app) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mthines/reaper-mcp) · [官网](https://reaper-mcp.vercel.app) · 个人维护
 
 **REAPER 内的 MCP 服务器：用对话让 AI 执行混音与母带**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mthines/reaper-mcp 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41]
 ```
 
-2026-11-21 39 → 2026-11-26 40（+1）
+2026-11-21 39 → 2026-11-27 41（+2）
 
 
 ---

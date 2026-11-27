@@ -1,6 +1,6 @@
 # humanethq/airgap-check
 
-⭐ 21 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/humanethq/airgap-check) · 组织维护
+⭐ 22 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/humanethq/airgap-check) · 组织维护
 
 **审计 AI 应用离线场景下崩溃与静默外联的 Go CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "humanethq/airgap-check 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-26"]
-    y-axis "stars" 12 --> 22
-    line [13, 17, 20, 21, 21]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-27"]
+    y-axis "stars" 12 --> 23
+    line [13, 17, 20, 21, 22]
 ```
 
-2026-11-10 13 → 2026-11-26 21（+8）
+2026-11-10 13 → 2026-11-27 22（+9）
 
 
 ---

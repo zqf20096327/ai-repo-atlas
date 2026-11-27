@@ -1,6 +1,6 @@
 # JiaRan027/PersonalMemoryX
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-10-11 · [GitHub](https://github.com/JiaRan027/PersonalMemoryX) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地优先的 AI Agent 跨会话记忆基础设施**
 
@@ -11,7 +11,7 @@ PersonalMemory 是本地优先、用户掌控的 AI 记忆系统：从授权的�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

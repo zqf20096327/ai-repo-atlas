@@ -1,6 +1,6 @@
 # EnesKaraosman/SwiftyChat
 
-⭐ 356 · Swift · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/EnesKaraosman/SwiftyChat) · [官网](https://swiftpackageindex.com/EnesKaraosman/SwiftyChat) · 个人维护
+⭐ 355 · Swift · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/EnesKaraosman/SwiftyChat) · [官网](https://swiftpackageindex.com/EnesKaraosman/SwiftyChat) · 个人维护
 
 **给 iOS/macOS 开发者的 SwiftUI 聊天界面组件库**
 
@@ -45,12 +45,12 @@ SwiftyChat 是一个 SwiftUI 聊天 UI 框架，提供 11 种内置消息类型�
 ```mermaid
 xychart-beta
     title "EnesKaraosman/SwiftyChat 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 354 --> 357
-    line [355, 356, 356]
+    line [355, 356, 355]
 ```
 
-2026-10-24 355 → 2026-11-26 356（+1）
+2026-10-25 355 → 2026-11-27 355（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rasbt/llm-architecture-gallery
 
-⭐ 1,613 · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/rasbt/llm-architecture-gallery) · [官网](https://sebastianraschka.com/llm-architecture-gallery/) · 个人维护
+⭐ 1,614 · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/rasbt/llm-architecture-gallery) · [官网](https://sebastianraschka.com/llm-architecture-gallery/) · 个人维护
 
 **LLM 架构图集的元数据公开快照库**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "rasbt/llm-architecture-gallery 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 1588 --> 1615
-    line [1590, 1591, 1592, 1590, 1601, 1602, 1604, 1607, 1608, 1609, 1610, 1612, 1613]
+    title "rasbt/llm-architecture-gallery 星数(近 14 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1588 --> 1616
+    line [1590, 1591, 1592, 1590, 1601, 1602, 1604, 1607, 1608, 1609, 1610, 1612, 1613, 1614]
 ```
 
-2026-10-24 1,590 → 2026-11-26 1,613（+23）
+2026-10-25 1,590 → 2026-11-27 1,614（+24）
 
 
 ---

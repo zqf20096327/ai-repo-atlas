@@ -1,6 +1,6 @@
 # MerlinStacks/overseek
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MerlinStacks/overseek) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/MerlinStacks/overseek) · 组织维护
 
 **WooCommerce 自托管运营仪表盘：订单、库存、分析与客服一体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MerlinStacks/overseek 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-24 29 → 2026-11-26 29（+0）
+2026-10-25 29 → 2026-11-27 29（+0）
 
 
 ---

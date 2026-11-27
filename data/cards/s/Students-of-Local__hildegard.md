@@ -1,6 +1,6 @@
 # Students-of-Local/hildegard
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Students-of-Local/hildegard) · [官网](https://dbaney.com/hildegard/) · 组织维护
+⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Students-of-Local/hildegard) · [官网](https://dbaney.com/hildegard/) · 组织维护
 
 **自有 GPU 上的本地 AI 创作工作室：视频、语音、角色、3D**
 
@@ -41,6 +41,18 @@
 > L3: ### Your own AI studio, on your own GPU.
 > L24: Hildegard directs open video models (LTX-2.5, LTX-2 and Wan 2.2) through ComfyUI with real camera language: bodies,
 > L210: Hildegard is an MCP server. Linked apps (Claude Code, Claude Desktop, Codex, OMP, Pi, Gemini CLI, OpenCode, Cursor
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Students-of-Local/hildegard 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

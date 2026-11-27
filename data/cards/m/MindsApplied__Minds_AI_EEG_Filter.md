@@ -45,12 +45,12 @@ MindsApplied 发布的 EEG 信号滤波 Python 包：基于空间耦合与频段
 ```mermaid
 xychart-beta
     title "MindsApplied/Minds_AI_EEG_Filter 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 17（+0）
 
 
 ---

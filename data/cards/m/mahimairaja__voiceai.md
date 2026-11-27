@@ -1,6 +1,6 @@
 # mahimairaja/voiceai
 
-⭐ 346 · Astro · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mahimairaja/voiceai) · [官网](https://voiceai.mahimai.ca) · 个人维护 · 中文 README
+⭐ 347 · Astro · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mahimairaja/voiceai) · [官网](https://voiceai.mahimai.ca) · 个人维护 · 中文 README
 
 **构建实时语音 AI Agent 的开发者学习资源清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mahimairaja/voiceai 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 336 --> 347
-    line [338, 337, 338, 339, 340, 341, 342, 343, 346]
+    title "mahimairaja/voiceai 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 336 --> 348
+    line [338, 337, 338, 339, 340, 341, 342, 343, 346, 347]
 ```
 
-2026-10-24 338 → 2026-11-26 346（+8）
+2026-10-25 338 → 2026-11-27 347（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # editor-code-assistant/eca-nvim
 
-⭐ 69 · Lua · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/editor-code-assistant/eca-nvim) · [官网](https://eca.dev) · 组织维护
+⭐ 69 · Lua · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/editor-code-assistant/eca-nvim) · [官网](https://eca.dev) · 组织维护
 
 **在 Neovim 中嵌入 ECA 代码助手的插件**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "editor-code-assistant/eca-nvim 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-27"]
     y-axis "stars" 67 --> 70
     line [69, 68, 69, 68, 69, 69]
 ```
 
-2026-10-24 69 → 2026-11-26 69（+0）
+2026-10-25 69 → 2026-11-27 69（+0）
 
 
 ---

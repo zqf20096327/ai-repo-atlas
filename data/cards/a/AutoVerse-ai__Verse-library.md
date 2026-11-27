@@ -45,12 +45,12 @@ UIUC Reliable Autonomy 研究组维护的 Python 库，用于创建、仿真并�
 ```mermaid
 xychart-beta
     title "AutoVerse-ai/Verse-library 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-24 39 → 2026-11-26 39（+0）
+2026-10-25 39 → 2026-11-27 39（+0）
 
 
 ---

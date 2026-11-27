@@ -41,6 +41,18 @@ Atlassian Labs 发布的 GitHub Action，用于在 GitHub Actions 工作流中�
 > L7: - 🤖 Run Rovo Dev CLI with custom prompts in GitHub Actions
 > L48: |`create_pr`|Whether to automatically create a PR with changes made by Rovo Dev|No|`false`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "atlassian-labs/rovo-dev-action 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `cc4ee355784a` · [字段定义](../../DATASET.md)*

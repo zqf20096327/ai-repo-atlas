@@ -1,6 +1,6 @@
 # explorium-ai/mcp-explorium
 
-⭐ 22 · Dockerfile · MIT · 推送 2026-03-03 · [GitHub](https://github.com/explorium-ai/mcp-explorium) · [官网](https://www.explorium.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **连接 Explorium B2B 商业数据 MCP 服务器的配置与接入仓库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

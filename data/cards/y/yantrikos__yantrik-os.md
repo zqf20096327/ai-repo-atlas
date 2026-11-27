@@ -1,6 +1,6 @@
 # yantrikos/yantrik-os
 
-⭐ 11 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/yantrikos/yantrik-os) · [官网](https://www.yantrikos.com) · 组织维护
+⭐ 11 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/yantrikos/yantrik-os) · [官网](https://www.yantrikos.com) · 组织维护
 
 **面向 AI agent 的 Debian Linux 桌面：agent 经类型化接口操作应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yantrikos/yantrik-os 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-15", "2026-11-21", "2026-11-27"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-15 10 → 2026-11-26 11（+1）
+2026-11-15 10 → 2026-11-27 11（+1）
 
 
 ---

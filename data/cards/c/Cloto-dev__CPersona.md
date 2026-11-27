@@ -1,6 +1,6 @@
 # Cloto-dev/CPersona
 
-⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Cloto-dev/CPersona) · [官网](https://pypi.org/project/cpersona/) · 组织维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Cloto-dev/CPersona) · [官网](https://pypi.org/project/cpersona/) · 组织维护 · 中文 README
 
 **MCP 服务器：为 AI agent 提供本地 SQLite 长期记忆**
 
@@ -40,6 +40,18 @@ CPersona 是一个 MCP 服务器，供 Claude Code、Codex、Claude Desktop、Cu
 > L5: CPersona is an MCP server that lets Claude Code, Codex, Claude Desktop, Cursor, VS Code
 > L23: - **No language model inside.** CPersona never calls a generative model to store or recall.
 > L27: - **Search that catches what vectors miss.** Vector search runs beside full-text and keyword
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Cloto-dev/CPersona 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

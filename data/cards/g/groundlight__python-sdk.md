@@ -44,12 +44,12 @@ Groundlight 公司的官方 Python SDK，用于接入其计算机视觉服务：
 ```mermaid
 xychart-beta
     title "groundlight/python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-24 57 → 2026-11-26 57（+0）
+2026-10-25 57 → 2026-11-27 57（+0）
 
 
 ---

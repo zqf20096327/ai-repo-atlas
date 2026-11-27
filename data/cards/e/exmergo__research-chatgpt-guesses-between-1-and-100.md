@@ -45,12 +45,12 @@ Exmergo 发布的开放研究项目：通过 OpenAI Responses API 以固定 syst
 ```mermaid
 xychart-beta
     title "exmergo/research-chatgpt-guesses-between-1-and-100 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-24 47 → 2026-11-26 47（+0）
+2026-10-25 47 → 2026-11-27 47（+0）
 
 
 ---

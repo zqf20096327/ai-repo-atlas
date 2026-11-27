@@ -40,6 +40,18 @@
 > L5: An open-source AI agent for Unreal Engine. Kismet runs inside the editor and
 > L30: Kismet is also a Model Context Protocol
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kismetai-io/Kismet 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-26 12 → 2026-11-27 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b30f201bf39f` · [字段定义](../../DATASET.md)*

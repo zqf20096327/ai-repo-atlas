@@ -1,6 +1,6 @@
 # QingGo/engram-peft
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/QingGo/engram-peft) · 个人维护 · 中文 README
+⭐ 54 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/QingGo/engram-peft) · 个人维护 · 中文 README
 
 **DeepSeek Engram 论文的非官方 PEFT 实现，为 LLM 注入条件记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QingGo/engram-peft 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 51 --> 55
+    line [52, 53, 54]
 ```
 
-2026-10-24 52 → 2026-11-26 53（+1）
+2026-10-25 52 → 2026-11-27 54（+2）
 
 
 ---

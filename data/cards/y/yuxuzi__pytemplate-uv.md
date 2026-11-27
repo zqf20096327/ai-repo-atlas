@@ -1,6 +1,6 @@
 # yuxuzi/pytemplate-uv
 
-⭐ 28 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yuxuzi/pytemplate-uv) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yuxuzi/pytemplate-uv) · 个人维护
 
 **面向 Python 开发者的 uv 项目脚手架生成器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yuxuzi/pytemplate-uv 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-11-19 28 → 2026-11-26 28（+0）
+2026-11-19 28 → 2026-11-27 28（+0）
 
 
 ---

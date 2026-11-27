@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment
 
-⭐ 37 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment) · [官网](https://github.com/Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment) · 个人维护
+⭐ 41 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment) · [官网](https://github.com/Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment) · 个人维护
 
 **面向学习者的机器学习实验 Jupyter Notebook 集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hazrat-Ali9/Machine-Learning-Project-Jupeter_Notebook-Experiment 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 21 --> 38
-    line [22, 23, 22, 28, 32, 34, 36, 37, 37]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 21 --> 42
+    line [22, 23, 22, 28, 32, 34, 36, 37, 41]
 ```
 
-2026-10-24 22 → 2026-11-26 37（+15）
+2026-10-25 22 → 2026-11-27 41（+19）
 
 
 ---

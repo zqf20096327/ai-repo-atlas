@@ -41,6 +41,18 @@
 > L22: And it's **agent‑first**: AI panes glow when their agent goes quiet, and an opt‑in **Control API /
 > L131: ## Install
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Eyalm321/hyperpanes 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `4f317ddf498d` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # AMDResearch/aup-ai-tutorials
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/AMDResearch/aup-ai-tutorials) · [官网](https://amdresearch.github.io/aup-ai-tutorials/) · 组织维护
+⭐ 17 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AMDResearch/aup-ai-tutorials) · [官网](https://amdresearch.github.io/aup-ai-tutorials/) · 组织维护
 
 **AMD 大学计划的 AI 动手教程集合**
 
@@ -43,12 +43,12 @@ AMD Research 维护的 AMD University Program（AUP）AI 教程仓库，内容�
 ```mermaid
 xychart-beta
     title "AMDResearch/aup-ai-tutorials 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-14", "2026-11-27"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-24 15 → 2026-11-26 17（+2）
+2026-10-25 15 → 2026-11-27 17（+2）
 
 
 ---

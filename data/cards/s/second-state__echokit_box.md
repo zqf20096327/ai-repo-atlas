@@ -1,6 +1,6 @@
 # second-state/echokit_box
 
-⭐ 218 · Rust · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/second-state/echokit_box) · [官网](https://echokit.dev/) · 组织维护
+⭐ 219 · Rust · GPL-3.0 · 推送 2026-05-05 · [GitHub](https://github.com/second-state/echokit_box) · [官网](https://echokit.dev/) · 组织维护
 
 **EchoKit 语音设备的 ESP32 固件（Rust 编写）**
 
@@ -44,12 +44,12 @@ Second State 维护的 EchoKit 语音设备固件，面向 ESP32-S3（xtensa-esp
 ```mermaid
 xychart-beta
     title "second-state/echokit_box 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 216 --> 219
-    line [217, 218, 217, 218, 217, 218, 218]
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 216 --> 220
+    line [217, 218, 217, 218, 217, 218, 219]
 ```
 
-2026-10-24 217 → 2026-11-26 218（+1）
+2026-10-25 217 → 2026-11-27 219（+2）
 
 
 ---

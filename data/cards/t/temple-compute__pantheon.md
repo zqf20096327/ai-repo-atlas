@@ -1,6 +1,6 @@
 # temple-compute/pantheon
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/temple-compute/pantheon) · [官网](https://templecompute.com) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/temple-compute/pantheon) · [官网](https://templecompute.com) · 组织维护
 
 **面向 Horus Runtime 的生产级科学计算工作流集合：MD、虚拟筛选、对接、LLM 训练等**
 
@@ -46,12 +46,12 @@ temple-compute/pantheon 收录面向 Horus Runtime 运行的多阶段科学计�
 ```mermaid
 xychart-beta
     title "temple-compute/pantheon 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

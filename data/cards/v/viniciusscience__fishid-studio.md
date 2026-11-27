@@ -1,6 +1,6 @@
 # viniciusscience/fishid-studio
 
-⭐ 26 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/viniciusscience/fishid-studio) · [官网](https://doi.org/10.5281/zenodo.24451918) · 组织维护
+⭐ 33 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/viniciusscience/fishid-studio) · [官网](https://doi.org/10.5281/zenodo.24451918) · 组织维护
 
 **面向科研与渔业的海水鱼种自动识别与视频生物测量平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "viniciusscience/fishid-studio 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 19 --> 27
-    line [20, 26]
+    title "viniciusscience/fishid-studio 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 34
+    line [20, 26, 33]
 ```
 
-2026-11-25 20 → 2026-11-26 26（+6）
+2026-11-25 20 → 2026-11-27 33（+13）
 
 
 ---

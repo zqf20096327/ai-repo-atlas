@@ -1,6 +1,6 @@
 # Project-AgML/AgML
 
-⭐ 355 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Project-AgML/AgML) · [官网](https://project-agml.github.io) · 组织维护
+⭐ 356 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Project-AgML/AgML) · [官网](https://project-agml.github.io) · 组织维护
 
 **面向农业机器学习研究者/开发者的数据集与基准框架**
 
@@ -46,12 +46,12 @@ AgML 是一个农业机器学习库，核心是提供公开农业深度学习数
 ```mermaid
 xychart-beta
     title "Project-AgML/AgML 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 349 --> 356
-    line [350, 352, 353, 354, 355, 355]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 349 --> 357
+    line [350, 352, 353, 354, 355, 356]
 ```
 
-2026-10-24 350 → 2026-11-26 355（+5）
+2026-10-25 350 → 2026-11-27 356（+6）
 
 
 ---

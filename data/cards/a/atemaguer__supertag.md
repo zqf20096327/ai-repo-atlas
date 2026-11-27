@@ -1,6 +1,6 @@
 # atemaguer/supertag
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/atemaguer/supertag) · 个人维护 · 中文 README
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/atemaguer/supertag) · 个人维护 · 中文 README
 
 **自托管基础设施：让 AI 代理持有持续职责并主动工作**
 
@@ -40,6 +40,18 @@ SuperTag 是开源的自托管基础设施，将 AI 代理称为 Tag：每个 Ta
 > L17: SuperTag is open infrastructure for always-on AI agents. SuperTag calls each one a **Tag**: a
 > L20: with your team and with other Tags. You give a Tag a job, and Claude Code, Codex, Cursor, or
 > L122: Jobs on a team overlap. Self-host one shared Control Plane, and your team works with Tags
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "atemaguer/supertag 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-26 6 → 2026-11-27 7（+1）
 
 
 ---

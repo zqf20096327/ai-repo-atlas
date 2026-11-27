@@ -1,6 +1,6 @@
 # xiaoxiao44443/DSH-Sugar
 
-⭐ 3 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/xiaoxiao44443/DSH-Sugar) · 个人维护 · 中文 README
+⭐ 3 · Kotlin · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xiaoxiao44443/DSH-Sugar) · 个人维护 · 中文 README
 
 **在 Android 手机上运行 DeepSeek Harness 的 AI Agent 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiaoxiao44443/DSH-Sugar 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-26 3（+0）
+2026-11-23 3 → 2026-11-27 3（+0）
 
 
 ---

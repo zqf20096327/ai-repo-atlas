@@ -1,6 +1,6 @@
 # NVIDIA-BioNeMo/BioReason-Pro-2
 
-⭐ 8 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA-BioNeMo/BioReason-Pro-2) · [官网](https://www.goodfire.com/research/building-stronger-biological-reasoning-models) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA-BioNeMo/BioReason-Pro-2) · [官网](https://www.goodfire.com/research/building-stronger-biological-reasoning-models) · 组织维护
 
 **给科研人员做蛋白质功能预测的多模态推理 LLM**
 
@@ -40,6 +40,18 @@
 > L14: Multimodal protein function prediction. A protein's ESM3 embedding and its biological context
 > L19: This repository holds the code that predicts with the models, scores them and trains them (supervised
 > L40: python predict.py --input data/examples/proteins.tsv --output runs/example/predictions.tsv
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA-BioNeMo/BioReason-Pro-2 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 15
+    line [8, 14]
+```
+
+2026-11-26 8 → 2026-11-27 14（+6）
 
 
 ---

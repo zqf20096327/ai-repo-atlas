@@ -1,6 +1,6 @@
 # traceopt-ai/traceml
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 190 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/traceopt-ai/traceml) · [官网](https://traceopt.ai/) · 组织维护
 
 **PyTorch 训练性能诊断工具：零代码定位慢训练瓶颈并在 CI 拦截性能回退**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "traceopt-ai/traceml 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 187 --> 190
-    line [189, 188, 189, 189]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 187 --> 191
+    line [189, 188, 189, 190]
 ```
 
-2026-10-23 189 → 2026-11-25 189（+0）
+2026-10-24 189 → 2026-11-27 190（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # freehul/sgme
 
-⭐ 17 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/freehul/sgme) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/freehul/sgme) · 个人维护 · 中文 README
 
 **给 AI 助手提供跨会话共享长期记忆的自托管记忆引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "freehul/sgme 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 17]
+    title "freehul/sgme 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-10-24 14 → 2026-11-26 17（+3）
+2026-10-25 15 → 2026-11-27 18（+3）
 
 
 ---

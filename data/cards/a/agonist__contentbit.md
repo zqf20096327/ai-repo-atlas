@@ -1,6 +1,6 @@
 # agonist/contentbit
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/agonist/contentbit) · [官网](https://contentbit.dev) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/agonist/contentbit) · [官网](https://contentbit.dev) · 组织维护
 
 **面向编码 agent 的程序化 SEO 内容契约与校验工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agonist/contentbit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rolter-ai/rolter
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/rolter-ai/rolter) · [官网](https://rolter-ai.github.io/rolter/) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/rolter-ai/rolter) · [官网](https://rolter-ai.github.io/rolter/) · 组织维护
 
 **Rust 编写的 OpenAI/Anthropic 兼容 AI 网关与负载均衡器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rolter-ai/rolter 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 9 --> 13
     line [10, 11, 10, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

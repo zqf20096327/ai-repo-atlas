@@ -1,6 +1,6 @@
 # zachmueller/notor
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/zachmueller/notor) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zachmueller/notor) · 个人维护
 
 **Obsidian 内的透明 AI 笔记助手插件，读写笔记并可控审批**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zachmueller/notor 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

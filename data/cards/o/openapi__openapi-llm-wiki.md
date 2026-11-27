@@ -46,12 +46,12 @@ Openapi 团队维护的 LLM 优化知识库：以 Markdown 与原始 OpenAPI 3 �
 ```mermaid
 xychart-beta
     title "openapi/openapi-llm-wiki 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

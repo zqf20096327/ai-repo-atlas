@@ -1,6 +1,6 @@
 # cloudcell/gnosislab
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cloudcell/gnosislab) · [官网](https://loop.cloudcell.workers.dev/docs) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cloudcell/gnosislab) · [官网](https://loop.cloudcell.workers.dev/docs) · 个人维护
 
 **面向 AI agent 的科学方法运行时：假设、实验、证据、结论全程可审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cloudcell/gnosislab 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-24 21 → 2026-11-26 21（+0）
+2026-10-25 21 → 2026-11-27 21（+0）
 
 
 ---

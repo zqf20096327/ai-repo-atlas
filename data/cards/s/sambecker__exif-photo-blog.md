@@ -1,6 +1,6 @@
 # sambecker/exif-photo-blog
 
-⭐ 1,730 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/sambecker/exif-photo-blog) · [官网](https://photos.sambecker.com) · 个人维护
+⭐ 1,729 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/sambecker/exif-photo-blog) · [官网](https://photos.sambecker.com) · 个人维护
 
 **摄影师自托管照片博客模板，每张图展示 EXIF 参数**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sambecker/exif-photo-blog 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-27"]
     y-axis "stars" 1727 --> 1731
-    line [1728, 1729, 1730, 1729, 1730, 1730]
+    line [1728, 1729, 1730, 1729, 1730, 1729]
 ```
 
-2026-10-24 1,728 → 2026-11-26 1,730（+2）
+2026-10-25 1,728 → 2026-11-27 1,729（+1）
 
 
 ---

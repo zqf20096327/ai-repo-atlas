@@ -1,6 +1,6 @@
 # AtlasCloudAI/awesome-seedance-2.5-prompts-skills
 
-⭐ 275 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) · [官网](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) · 组织维护 · 中文 README
+⭐ 276 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/AtlasCloudAI/awesome-seedance-2.5-prompts-skills) · [官网](https://www.atlascloud.ai/prompts-hub/seedance-2-5-prompt?utm_source=github&utm_campaign=awesome-seedance-2.5-prompts-skills) · 组织维护 · 中文 README
 
 **Seedance 2.5 视频提示词库与可安装的视频生成 Agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AtlasCloudAI/awesome-seedance-2.5-prompts-skills 星数(近 19 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 245 --> 277
-    line [247, 248, 249, 250, 252, 254, 247, 262, 264, 266, 267, 268, 269, 271, 272, 273, 274, 275, 275]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 245 --> 278
+    line [247, 248, 249, 250, 252, 254, 247, 262, 264, 266, 267, 268, 269, 271, 272, 273, 274, 275, 276]
 ```
 
-2026-10-24 247 → 2026-11-26 275（+28）
+2026-10-25 247 → 2026-11-27 276（+29）
 
 
 ---

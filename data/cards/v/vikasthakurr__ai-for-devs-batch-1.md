@@ -44,12 +44,12 @@ AI for Developers 课程仓库，内容涵盖 AI 工具使用、提示工程、a
 ```mermaid
 xychart-beta
     title "vikasthakurr/ai-for-devs-batch-1 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-11-20 25 → 2026-11-26 25（+0）
+2026-11-20 25 → 2026-11-27 25（+0）
 
 
 ---

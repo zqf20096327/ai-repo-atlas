@@ -1,6 +1,6 @@
 # ThinkFlowLab/agentdescent
 
-⭐ 221 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 个人维护
+⭐ 221 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 个人维护
 
 **面向开发者的 agent 自进化框架：并行提议 diff、聚合器合并进化 agent**
 
@@ -46,12 +46,12 @@ AgentDescent 是一个并行异步框架，将梯度下降类比用于 agent 参
 ```mermaid
 xychart-beta
     title "ThinkFlowLab/agentdescent 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-27"]
     y-axis "stars" 202 --> 222
     line [203, 206, 211, 215, 219, 221, 220, 221, 221]
 ```
 
-2026-11-08 203 → 2026-11-26 221（+18）
+2026-11-08 203 → 2026-11-27 221（+18）
 
 
 ---

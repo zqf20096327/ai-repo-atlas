@@ -1,6 +1,6 @@
 # nla-group/rote
 
-⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nla-group/rote) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nla-group/rote) · 组织维护
 
 **复杂度受控符号序列的学习与外推复现基准**
 
@@ -45,12 +45,12 @@ ROTE（Rollout Testing of Exact memorization）生成指定 LZW 复杂度的符�
 ```mermaid
 xychart-beta
     title "nla-group/rote 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # voyager67/kinoquence
 
-⭐ 3 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/voyager67/kinoquence) · [官网](https://voyager67.github.io/kinoquence/) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/voyager67/kinoquence) · [官网](https://voyager67.github.io/kinoquence/) · 个人维护
 
 **面向创作者的本地优先 AI 动画短片制作工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "voyager67/kinoquence 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-26 3（+0）
+2026-11-18 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Scalattice 推理网络（Robottik Ltd 产品）的 GPU agent：在有 GPU 的�
 ```mermaid
 xychart-beta
     title "scalattice/scalattice-agent 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-14", "2026-11-27"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-24 10 → 2026-11-26 11（+1）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

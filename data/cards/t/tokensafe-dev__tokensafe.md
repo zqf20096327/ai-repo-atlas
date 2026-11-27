@@ -1,6 +1,6 @@
 # tokensafe-dev/tokensafe
 
-⭐ 48 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tokensafe-dev/tokensafe) · [官网](https://tokensafe.dev) · 组织维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/tokensafe-dev/tokensafe) · [官网](https://tokensafe.dev) · 组织维护
 
 **面向 AI 编程代理的本地上下文防火墙与零丢失运行时**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tokensafe-dev/tokensafe 星数(近 8 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26"]
+    title "tokensafe-dev/tokensafe 星数(近 9 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 20 --> 50
-    line [22, 39, 41, 43, 44, 46, 47, 48]
+    line [22, 39, 41, 43, 44, 46, 47, 48, 48]
 ```
 
-2026-11-12 22 → 2026-11-26 48（+26）
+2026-11-12 22 → 2026-11-27 48（+26）
 
 
 ---

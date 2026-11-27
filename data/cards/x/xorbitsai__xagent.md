@@ -1,6 +1,6 @@
 # xorbitsai/xagent
 
-⭐ 310 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/xorbitsai/xagent) · [官网](https://docs.xagent.co) · 组织维护
+⭐ 310 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/xorbitsai/xagent) · [官网](https://docs.xagent.co) · 组织维护
 
 **企业自托管 agent 平台：构建、部署并运营 AI teammate**
 
@@ -45,12 +45,12 @@ Xagent 是可自托管的企业级 agent 平台，将面向特定岗位的可复
 ```mermaid
 xychart-beta
     title "xorbitsai/xagent 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-27"]
     y-axis "stars" 304 --> 311
     line [305, 306, 307, 305, 308, 309, 310, 310]
 ```
 
-2026-10-24 305 → 2026-11-26 310（+5）
+2026-10-25 305 → 2026-11-27 310（+5）
 
 
 ---

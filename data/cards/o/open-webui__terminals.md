@@ -1,6 +1,6 @@
 # open-webui/terminals
 
-⭐ 141 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/open-webui/terminals) · [官网](https://docs.openwebui.com/ecosystem/open-terminal) · 组织维护
+⭐ 141 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/open-webui/terminals) · [官网](https://docs.openwebui.com/ecosystem/open-terminal) · 组织维护
 
 **为 Open WebUI 用户编排隔离终端容器的服务层**
 
@@ -44,13 +44,13 @@ Terminals 是 Open WebUI 的终端容器编排服务：为每个用户自动创�
 
 ```mermaid
 xychart-beta
-    title "open-webui/terminals 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26"]
+    title "open-webui/terminals 星数(近 14 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 122 --> 142
-    line [123, 124, 123, 124, 125, 126, 123, 132, 136, 137, 138, 139, 141]
+    line [123, 124, 123, 124, 125, 126, 123, 132, 136, 137, 138, 139, 141, 141]
 ```
 
-2026-10-24 123 → 2026-11-26 141（+18）
+2026-10-25 123 → 2026-11-27 141（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # Raymondhou0917/ai-level-check
 
-⭐ 50 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Raymondhou0917/ai-level-check) · [官网](https://ai.lifehacker.tw/reports/ai-level-check-demo/) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Raymondhou0917/ai-level-check) · [官网](https://ai.lifehacker.tw/reports/ai-level-check-demo/) · 个人维护 · 中文 README
 
 **讀本機 AI agent 紀錄、產出 LV0–LV5 使用能力報告的 skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Raymondhou0917/ai-level-check 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
     y-axis "stars" 47 --> 52
-    line [48, 49, 50, 48, 51, 50, 50]
+    line [48, 49, 50, 48, 51, 50, 51]
 ```
 
-2026-10-24 48 → 2026-11-26 50（+2）
+2026-10-25 48 → 2026-11-27 51（+3）
 
 
 ---

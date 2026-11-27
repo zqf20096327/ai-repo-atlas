@@ -1,6 +1,6 @@
 # tatwan/ASAC_Data_Science
 
-⭐ 20 · HTML · 推送 2026-11-24 · [GitHub](https://github.com/tatwan/ASAC_Data_Science) · 个人维护
+⭐ 21 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/tatwan/ASAC_Data_Science) · 个人维护
 
 **面向分析师新手的 BigQuery/Power BI 数据分析课程资料库**
 
@@ -40,6 +40,18 @@ ASAC 2026/2027 数据科学与分析训练营的课程内容仓库：8 个模块
 > L3: # ASAC Data Science & Analytics - 2026/2027
 > L5: A beginner programme for analyst and business intelligence roles: SQL in BigQuery, machine learning in BigQuery ML, 
 > L23: |03 Machine learning and AI|18–29 Oct, 26 Nov|Regression, classification, clustering and trees in BigQuery ML; gene
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tatwan/ASAC_Data_Science 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
+```
+
+2026-11-26 20 → 2026-11-27 21（+1）
 
 
 ---

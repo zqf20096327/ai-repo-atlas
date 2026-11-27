@@ -1,6 +1,6 @@
 # floorianmb/tidywise
 
-⭐ 3 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/floorianmb/tidywise) · 个人维护 · 中文 README
+⭐ 9 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/floorianmb/tidywise) · 个人维护 · 中文 README
 
 **macOS 用户：用本地模型把散落文件自动归类到主题文件夹**
 
@@ -40,6 +40,18 @@
 > L5: Tidywise looks in folders like Downloads, Documents and Desktop for loose files, lets a
 > L6: local AI model read what each one is about, and suggests a topic. You confirm with one click (or let it move the
 > L134: - **Nothing leaves your Mac.** Tidywise only talks to Ollama on `127.0.0.1`. It needs the internet once:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "floorianmb/tidywise 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 10
+    line [3, 9]
+```
+
+2026-11-26 3 → 2026-11-27 9（+6）
 
 
 ---

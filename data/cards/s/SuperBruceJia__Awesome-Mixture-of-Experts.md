@@ -44,13 +44,13 @@ Awesome List 形式的论文与资源汇总，收录 Mixture of Experts (MoE) �
 
 ```mermaid
 xychart-beta
-    title "SuperBruceJia/Awesome-Mixture-of-Experts 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-26"]
+    title "SuperBruceJia/Awesome-Mixture-of-Experts 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 74 --> 79
-    line [75, 76, 77, 78, 77]
+    line [75, 76, 77, 78, 77, 77]
 ```
 
-2026-10-24 75 → 2026-11-26 77（+2）
+2026-10-25 75 → 2026-11-27 77（+2）
 
 
 ---

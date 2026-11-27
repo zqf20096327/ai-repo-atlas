@@ -1,6 +1,6 @@
 # kevinwatt/ffmpeg-mcp-lite
 
-⭐ 28 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/kevinwatt/ffmpeg-mcp-lite) · [官网](https://pypi.org/project/ffmpeg-mcp-lite/) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/kevinwatt/ffmpeg-mcp-lite) · [官网](https://pypi.org/project/ffmpeg-mcp-lite/) · 个人维护
 
 **让 AI 客户端通过自然语言调用 FFmpeg 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kevinwatt/ffmpeg-mcp-lite 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-24 28 → 2026-11-26 28（+0）
+2026-10-25 28 → 2026-11-27 29（+1）
 
 
 ---

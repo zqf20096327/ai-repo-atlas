@@ -1,6 +1,6 @@
 # sam-siavoshian/Morse
 
-⭐ 8 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/sam-siavoshian/Morse) · [官网](https://getmorse.vercel.app/) · 个人维护
+⭐ 8 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sam-siavoshian/Morse) · [官网](https://getmorse.vercel.app/) · 个人维护
 
 **用自然语言修改桌面应用与网页的本地 AI 工具（含闭源应用）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sam-siavoshian/Morse 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    title "sam-siavoshian/Morse 星数(近 6 点)"
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 5 --> 31
-    line [29, 15, 12, 7, 8]
+    line [29, 15, 12, 7, 8, 8]
 ```
 
-2026-10-29 29 → 2026-11-26 8（-21）
+2026-10-29 29 → 2026-11-27 8（-21）
 
 
 ---

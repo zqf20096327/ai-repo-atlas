@@ -1,6 +1,6 @@
 # anexplore/cnn_for_captcha
 
-⭐ 338 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/anexplore/cnn_for_captcha) · 个人维护 · 中文 README
+⭐ 339 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/anexplore/cnn_for_captcha) · 个人维护 · 中文 README
 
 **深度学习图片验证码识别方法集：覆盖五类验证码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anexplore/cnn_for_captcha 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-27"]
     y-axis "stars" 336 --> 340
-    line [337, 338, 339, 338, 338]
+    line [337, 338, 339, 338, 339]
 ```
 
-2026-10-24 337 → 2026-11-26 338（+1）
+2026-10-25 337 → 2026-11-27 339（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # agentcathq/agentcat-python-sdk
 
-⭐ 53 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/agentcathq/agentcat-python-sdk) · [官网](https://agentcat.com) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/agentcathq/agentcat-python-sdk) · [官网](https://agentcat.com) · 组织维护
 
 **MCP 服务器分析 SDK：一行代码追踪 agent 工具调用与意图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agentcathq/agentcat-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-24 53 → 2026-11-26 53（+0）
+2026-10-25 53 → 2026-11-27 53（+0）
 
 
 ---

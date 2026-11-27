@@ -1,6 +1,6 @@
 # splashdeluxe/ai-job-search-template
 
-⭐ 3 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/splashdeluxe/ai-job-search-template) · 个人维护
+⭐ 3 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/splashdeluxe/ai-job-search-template) · 个人维护
 
 **求职者的 Muse agent 求职系统：筛岗、评分、定制CV、一次投递与拒信反馈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "splashdeluxe/ai-job-search-template 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-26 3（+0）
+2026-11-10 3 → 2026-11-27 3（+0）
 
 
 ---

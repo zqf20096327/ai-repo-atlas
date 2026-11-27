@@ -1,6 +1,6 @@
 # MoriTranslates/rpgmaker-translator
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/MoriTranslates/rpgmaker-translator) · [官网](https://github.com/MoriTranslates/rpgmaker-translator/releases/latest) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/MoriTranslates/rpgmaker-translator) · [官网](https://github.com/MoriTranslates/rpgmaker-translator/releases/latest) · 个人维护
 
 **用本地或云端 LLM 翻译 RPG Maker 等引擎日文游戏的桌面工具**
 
@@ -46,12 +46,12 @@ GUI 桌面应用，支持 11 种游戏引擎（RPG Maker MV/MZ/VX Ace/2000/2003�
 ```mermaid
 xychart-beta
     title "MoriTranslates/rpgmaker-translator 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-27"]
     y-axis "stars" 9 --> 15
     line [10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-31 10 → 2026-11-26 14（+4）
+2026-10-31 10 → 2026-11-27 14（+4）
 
 
 ---

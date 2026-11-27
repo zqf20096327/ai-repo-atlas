@@ -1,6 +1,6 @@
 # CDragon123-code/geo-copilot
 
-⭐ 20 · JavaScript · 推送 2026-09-02 · [GitHub](https://github.com/CDragon123-code/geo-copilot) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · 推送 2026-09-02 · [GitHub](https://github.com/CDragon123-code/geo-copilot) · 个人维护 · 中文 README
 
 **面向产品 GEO 工作流的 Chrome 扩展：采集 LLM 回答并生成可发布文章**
 
@@ -46,12 +46,12 @@ Chrome/Edge（Manifest V3）扩展，用于以产品为中心的 GEO（生成式
 ```mermaid
 xychart-beta
     title "CDragon123-code/geo-copilot 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-27"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 20, 20]
+    line [20, 21, 20, 21]
 ```
 
-2026-10-24 20 → 2026-11-26 20（+0）
+2026-10-25 20 → 2026-11-27 21（+1）
 
 
 ---

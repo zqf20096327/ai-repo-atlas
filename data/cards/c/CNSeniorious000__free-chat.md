@@ -1,6 +1,6 @@
 # CNSeniorious000/free-chat
 
-⭐ 192 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/CNSeniorious000/free-chat) · [官网](https://endless-chat.vercel.app) · 个人维护 · 中文 README
+⭐ 192 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CNSeniorious000/free-chat) · [官网](https://endless-chat.vercel.app) · 个人维护 · 中文 README
 
 **基于 chatgpt-demo 分叉的 LLM 聊天 Web UI，通过环境变量配置**
 
@@ -43,13 +43,13 @@ Fork 自 anse-app/chatgpt-demo 的 LLM 聊天界面，提供线上站点 free-ch
 
 ```mermaid
 xychart-beta
-    title "CNSeniorious000/free-chat 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 191 --> 196
-    line [195, 194, 192, 192]
+    title "CNSeniorious000/free-chat 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 191 --> 195
+    line [194, 192, 192]
 ```
 
-2026-10-24 195 → 2026-11-26 192（-3）
+2026-10-25 194 → 2026-11-27 192（-2）
 
 
 ---

@@ -41,6 +41,18 @@
 > L110: `jaitensor` is GPU-first training: Metal-resident tensors, autograd, and a
 > L146: source --> lexer --> parser --> resolver --> type checker --> codegen --> VM
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "abhiramasonny/jaithon 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 44 --> 46
+    line [45, 45]
+```
+
+2026-11-26 45 → 2026-11-27 45（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `81fe99519503` · [字段定义](../../DATASET.md)*

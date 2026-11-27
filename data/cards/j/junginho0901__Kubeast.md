@@ -1,6 +1,6 @@
 # junginho0901/Kubeast
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/junginho0901/Kubeast) · [官网](https://junginho0901.github.io/Kubeast/) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/junginho0901/Kubeast) · [官网](https://junginho0901.github.io/Kubeast/) · 个人维护 · 中文 README
 
 **多集群 Kubernetes 控制台，内置按用户权限操作的 AI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "junginho0901/Kubeast 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-11-26"]
+    title "junginho0901/Kubeast 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-10-26 10 → 2026-11-26 12（+2）
+2026-10-26 10 → 2026-11-27 12（+2）
 
 
 ---

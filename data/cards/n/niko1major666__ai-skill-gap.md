@@ -1,6 +1,6 @@
 # niko1major666/ai-skill-gap
 
-⭐ 3 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/niko1major666/ai-skill-gap) · [官网](https://hdwqwu3howppf2z2xv9i2q.streamlit.app/) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/niko1major666/ai-skill-gap) · [官网](https://hdwqwu3howppf2z2xv9i2q.streamlit.app/) · 个人维护 · 中文 README
 
 **面向转行求职者的 AI 岗位技能差距分析与学习路径工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "niko1major666/ai-skill-gap 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-10", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-10 3 → 2026-11-26 3（+0）
+2026-11-10 3 → 2026-11-27 4（+1）
 
 
 ---

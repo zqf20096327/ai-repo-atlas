@@ -1,6 +1,6 @@
 # steveopen1/artex-ld
 
-⭐ 6 · Go · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/steveopen1/artex-ld) · 个人维护 · 中文 README
+⭐ 7 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/steveopen1/artex-ld) · 个人维护 · 中文 README
 
 **给授权渗透测试者的 AI 自主渗透平台，输出证据级报告**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "steveopen1/artex-ld 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 7
-    line [3, 6]
+    title "steveopen1/artex-ld 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 8
+    line [3, 6, 7]
 ```
 
-2026-11-25 3 → 2026-11-26 6（+3）
+2026-11-25 3 → 2026-11-27 7（+4）
 
 
 ---

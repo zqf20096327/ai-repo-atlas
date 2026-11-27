@@ -1,6 +1,6 @@
 # torchgeo/terratorch
 
-⭐ 886 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
+⭐ 887 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
 
 **地理空间基础模型微调的 Python 工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "torchgeo/terratorch 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 876 --> 887
-    line [877, 878, 877, 878, 879, 880, 881, 882, 883, 886]
+    title "torchgeo/terratorch 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 876 --> 888
+    line [877, 878, 877, 878, 879, 880, 881, 882, 883, 886, 887]
 ```
 
-2026-10-24 877 → 2026-11-26 886（+9）
+2026-10-25 877 → 2026-11-27 887（+10）
 
 
 ---

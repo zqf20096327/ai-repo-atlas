@@ -1,6 +1,6 @@
 # danfeistar/house-skills-kit
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/danfeistar/house-skills-kit) · [官网](https://clawhub.ai/skills/house-skills-kit) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/danfeistar/house-skills-kit) · [官网](https://clawhub.ai/skills/house-skills-kit) · 个人维护 · 中文 README
 
 **中文房地产行业的 AI 技能库：7 类角色 30 个技能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "danfeistar/house-skills-kit 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-25 10 → 2026-11-26 10（+0）
+2026-11-25 10 → 2026-11-27 10（+0）
 
 
 ---

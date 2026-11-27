@@ -1,10 +1,10 @@
 # kitfunso/hippo-memory
 
-⭐ 795 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kitfunso/hippo-memory) · [官网](https://hippo-memory.com) · 个人维护
+⭐ 796 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kitfunso/hippo-memory) · [官网](https://hippo-memory.com) · 个人维护
 
-**给编码 Agent 共享本地记忆库：一次教会，多端复用**
+**为多个编码 agent 提供共享本地记忆存储的工具**
 
-面向编码 Agent 的本地记忆管理工具：把你在某个 Agent（Claude Code、Codex、Cursor 等）会话中纠正过的规则与教训写入项目内的 .hippo/ 存储（SQLite + 可提交的 markdown 镜像），其他 Agent 通过 hooks、插件、扩展或 MCP 读取同一存储。默认路径零模型调用，检索用关键词加本地 Transformers.js 嵌入；支持记忆衰减、supersede 替换、outcome 反馈弱化、从 git 提交学习与导入既有笔记。依赖 Node.js 22.16+，无运行时依赖，通过 npm 安装。
+在仓库内创建 .hippo/ 存储（SQLite 加 markdown 镜像），把用户教给某一个编码 agent 的规则与教训写入该存储，其余 agent 读取同一存储。支持 Claude Code、Codex、Cursor、Gemini CLI 等及任意 MCP 客户端，可从 ChatGPT、CLAUDE.md、.cursorrules、Slack 导入。默认路径存储记忆时零模型调用，召回用关键词与本地嵌入混合检索；hippo sleep 在设置 ANTHROPIC_API_KEY 时调用模型，也可通过 HIPPO_LLM_BASE_URL 指向 OpenAI 兼容端点。需 Node.js 22.16+，零运行时依赖。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多 Agent 共享一个存储：hooks/插件/MCP 服务器三种接入方式
-- 默认路径零 LLM 调用存储记忆，检索无网络请求
-- 记忆机制：衰减、pinned、supersede、outcome 弱化
-- markdown 镜像可 grep、diff、提交进 git
+- 多 agent 共享一个记忆存储（SQLite + 可提交的 markdown 镜像）
+- 默认存储路径零 LLM 调用，关键词召回无模型与网络调用
+- 记忆衰减/固定/替代机制：unused 渐弱、pinned 不衰减、hippo supersede 替换
+- 可从 ChatGPT/Claude/Cursor/Slack/markdown 导入既有笔记
 
 ## 适用场景
 
-- 在 Claude Code 里教过的规则，切换到 Cursor 或 Codex 时不用重教
-- 团队把记忆 markdown 提交进仓库，在 PR 里评审编码规则
-- 团队通过共享服务器让成员使用同一份 Agent 记忆
+- 在 Claude Code 与 Cursor 等多个编码 agent 间共享项目规则记忆
+- 把团队编码规范以 markdown 形式提交并进行 PR 评审
+- 通过团队服务器让多人读取同一记忆存储
 
 ## 场景标签
 
@@ -37,21 +37,22 @@
 
 ## 证据(README 行号)
 
-> L16: Works with:    Claude Code, Codex, Cursor, Pi, OpenClaw, OpenCode, any MCP client
-> L154: |Any MCP client|`hippo mcp`, 13 tools|
+> L5: Inspired by the human hippocampus, hippo saves what you teach one coding agent in your repo, and your other agents r
+> L16: Works with:    Claude Code, Codex, Cursor, Pi, OpenClaw, OpenCode, Junie, Antigravity, Grok Build,
+> L160: |Any MCP client|`hippo mcp`, 13 tools|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "kitfunso/hippo-memory 星数(近 15 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 783 --> 796
-    line [784, 785, 786, 787, 788, 790, 784, 790, 792, 793, 794, 795, 794, 793, 795]
+    title "kitfunso/hippo-memory 星数(近 16 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 783 --> 797
+    line [784, 785, 786, 787, 788, 790, 784, 790, 792, 793, 794, 795, 794, 793, 795, 796]
 ```
 
-2026-10-24 784 → 2026-11-26 795（+11）
+2026-10-25 784 → 2026-11-27 796（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1fcfecd1b95b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `63bda57ef73b` · [字段定义](../../DATASET.md)*

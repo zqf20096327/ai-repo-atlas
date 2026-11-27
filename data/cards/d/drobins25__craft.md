@@ -1,6 +1,6 @@
 # drobins25/craft
 
-⭐ 74 · Shell · MIT · 推送 2026-11-24 · [GitHub](https://github.com/drobins25/craft) · [官网](https://darinbuilds.com/projects/craft-platform) · 个人维护
+⭐ 74 · Shell · MIT · 推送 2026-11-26 · [GitHub](https://github.com/drobins25/craft) · [官网](https://darinbuilds.com/projects/craft-platform) · 个人维护
 
 **Claude Code 插件：受控写入门禁+品味记忆的开发工作流框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "drobins25/craft 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    title "drobins25/craft 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
     y-axis "stars" 68 --> 75
-    line [70, 69, 70, 69, 73, 74, 74]
+    line [69, 70, 69, 73, 74, 74]
 ```
 
-2026-10-24 70 → 2026-11-26 74（+4）
+2026-10-25 69 → 2026-11-27 74（+5）
 
 
 ---

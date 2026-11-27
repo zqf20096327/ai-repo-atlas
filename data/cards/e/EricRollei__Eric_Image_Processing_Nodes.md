@@ -46,12 +46,12 @@ ComfyUI 自定义节点集合，提供小波去噪、非局部均值、同态滤
 ```mermaid
 xychart-beta
     title "EricRollei/Eric_Image_Processing_Nodes 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

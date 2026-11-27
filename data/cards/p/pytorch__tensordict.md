@@ -1,6 +1,6 @@
 # pytorch/tensordict
 
-⭐ 1,046 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/pytorch/tensordict) · [官网](https://docs.pytorch.org/tensordict) · 组织维护
+⭐ 1,046 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/pytorch/tensordict) · [官网](https://docs.pytorch.org/tensordict) · 组织维护
 
 **PyTorch 张量组容器库：像单个张量一样批量操作成组张量**
 
@@ -46,12 +46,12 @@ TensorDict 将成组共享批大小的 torch.Tensor（如训练批次、粒子�
 ```mermaid
 xychart-beta
     title "pytorch/tensordict 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-27"]
     y-axis "stars" 1041 --> 1047
     line [1043, 1042, 1043, 1044, 1045, 1046, 1046]
 ```
 
-2026-10-24 1,043 → 2026-11-26 1,046（+3）
+2026-10-25 1,043 → 2026-11-27 1,046（+3）
 
 
 ---

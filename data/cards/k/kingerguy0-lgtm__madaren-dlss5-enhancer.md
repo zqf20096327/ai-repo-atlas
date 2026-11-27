@@ -1,6 +1,6 @@
 # kingerguy0-lgtm/madaren-dlss5-enhancer
 
-⭐ 145 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/kingerguy0-lgtm/madaren-dlss5-enhancer) · 个人维护
+⭐ 145 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/kingerguy0-lgtm/madaren-dlss5-enhancer) · 个人维护
 
 **面向游戏玩家的 DLSS5 画面调节 mod**
 
@@ -39,6 +39,18 @@ Windows 平台的游戏视觉增强 mod，夹在游戏渲染管线与 DLSS 5 运
 
 > L35: Madaren Dlss5 Enhancer slips between your game's render pipeline and the DLSS 5 runtime like a well-placed shunt. I
 > L23: - **Tuned DLSS5 profile** — a hand-crafted preset that swaps the stock scaling curve for one built around motion cl
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kingerguy0-lgtm/madaren-dlss5-enhancer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 144 --> 146
+    line [145, 145]
+```
+
+2026-11-26 145 → 2026-11-27 145（+0）
 
 
 ---

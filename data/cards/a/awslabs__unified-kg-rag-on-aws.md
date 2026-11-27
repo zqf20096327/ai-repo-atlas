@@ -1,6 +1,6 @@
 # awslabs/unified-kg-rag-on-aws
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/awslabs/unified-kg-rag-on-aws) · 组织维护 · 中文 README
+⭐ 40 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/awslabs/unified-kg-rag-on-aws) · 组织维护 · 中文 README
 
 **AWS 原生知识图谱 RAG 框架，统一 GraphRAG 与 LightRAG 两种检索方法**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "awslabs/unified-kg-rag-on-aws 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "awslabs/unified-kg-rag-on-aws 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 35 --> 41
-    line [36, 37, 36, 39, 40]
+    line [36, 37, 36, 39, 40, 40]
 ```
 
-2026-10-24 36 → 2026-11-26 40（+4）
+2026-10-25 36 → 2026-11-27 40（+4）
 
 
 ---

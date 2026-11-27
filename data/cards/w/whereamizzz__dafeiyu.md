@@ -1,6 +1,6 @@
 # whereamizzz/dafeiyu
 
-⭐ 7 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/whereamizzz/dafeiyu) · 个人维护 · 中文 README
+⭐ 8 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/whereamizzz/dafeiyu) · 个人维护 · 中文 README
 
 **本地运行的微信群聊机器人：接话、插话、人格与情绪控制台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whereamizzz/dafeiyu 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 2 --> 8
-    line [3, 5, 6, 7, 7]
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 2 --> 9
+    line [3, 5, 6, 7, 8]
 ```
 
-2026-11-13 3 → 2026-11-26 7（+4）
+2026-11-13 3 → 2026-11-27 8（+5）
 
 
 ---

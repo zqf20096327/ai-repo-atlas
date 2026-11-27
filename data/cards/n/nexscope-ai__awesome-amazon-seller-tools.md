@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "nexscope-ai/awesome-amazon-seller-tools 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-26"]
+    title "nexscope-ai/awesome-amazon-seller-tools 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 47 --> 53
-    line [48, 49, 50, 52]
+    line [48, 49, 50, 52, 52]
 ```
 
-2026-10-24 48 → 2026-11-26 52（+4）
+2026-10-25 48 → 2026-11-27 52（+4）
 
 
 ---

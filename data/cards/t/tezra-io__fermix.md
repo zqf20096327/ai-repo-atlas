@@ -1,6 +1,6 @@
 # tezra-io/fermix
 
-⭐ 24 · Elixir · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tezra-io/fermix) · [官网](https://fermix.ai) · 组织维护
+⭐ 24 · Elixir · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tezra-io/fermix) · [官网](https://fermix.ai) · 组织维护
 
 **自托管的个人多 agent AI 守护进程：通过你已在用的聊天渠道触达**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tezra-io/fermix 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-28", "2026-10-29", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-27"]
     y-axis "stars" 10 --> 25
     line [11, 19, 22, 23, 24, 24]
 ```
 
-2026-10-28 11 → 2026-11-26 24（+13）
+2026-10-28 11 → 2026-11-27 24（+13）
 
 
 ---

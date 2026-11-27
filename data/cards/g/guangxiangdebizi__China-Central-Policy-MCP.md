@@ -47,12 +47,12 @@ MCP 服务器，连接中国政府网官方栏目与检索接口，提供政策�
 ```mermaid
 xychart-beta
     title "guangxiangdebizi/China-Central-Policy-MCP 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-11-25 29 → 2026-11-26 29（+0）
+2026-11-25 29 → 2026-11-27 29（+0）
 
 
 ---

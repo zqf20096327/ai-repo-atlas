@@ -43,12 +43,12 @@ Python 实现的本地 MCP 服务器，通过 Qonto 第三方 API 向 AI 模型�
 ```mermaid
 xychart-beta
     title "qonto/qonto-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-24 42 → 2026-11-26 42（+0）
+2026-10-25 42 → 2026-11-27 42（+0）
 
 
 ---

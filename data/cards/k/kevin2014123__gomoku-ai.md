@@ -1,6 +1,6 @@
 # kevin2014123/gomoku-ai
 
-⭐ 52 · JavaScript · GPL-3.0 · 推送 2026-07-04 · [GitHub](https://github.com/kevin2014123/gomoku-ai) · [官网](https://kevin2014123.github.io/gomoku-ai/) · 个人维护 · 中文 README
+⭐ 51 · JavaScript · GPL-3.0 · 推送 2026-07-04 · [GitHub](https://github.com/kevin2014123/gomoku-ai) · [官网](https://kevin2014123.github.io/gomoku-ai/) · 个人维护 · 中文 README
 
 **浏览器与安卓可玩的五子棋 AI 对弈游戏，含段位系统**
 
@@ -44,13 +44,13 @@ HTML5/JavaScript 实现的五子棋游戏，内置基于 Minimax 与 Alpha-Beta 
 
 ```mermaid
 xychart-beta
-    title "kevin2014123/gomoku-ai 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 51 --> 70
-    line [69, 64, 53, 52, 52]
+    title "kevin2014123/gomoku-ai 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 50 --> 65
+    line [64, 53, 52, 51]
 ```
 
-2026-10-24 69 → 2026-11-26 52（-17）
+2026-10-25 64 → 2026-11-27 51（-13）
 
 
 ---

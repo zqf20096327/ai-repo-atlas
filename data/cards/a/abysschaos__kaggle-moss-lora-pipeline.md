@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "abysschaos/kaggle-moss-lora-pipeline 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-23 5 → 2026-11-26 5（+0）
+2026-11-23 5 → 2026-11-27 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # x66ccff/liveideabench
 
-⭐ 40 · Jupyter Notebook · MIT · 推送 2026-04-21 · [GitHub](https://github.com/x66ccff/liveideabench) · [官网](https://liveideabench.com/) · 组织维护
+⭐ 41 · Jupyter Notebook · MIT · 推送 2026-04-21 · [GitHub](https://github.com/x66ccff/liveideabench) · [官网](https://liveideabench.com/) · 组织维护
 
 **评测 LLM 科学创造力与观点生成能力的基准框架**
 
@@ -46,12 +46,12 @@ LiveIdeaBench 是以极简上下文（关键词）评测 LLM 科学发散思维�
 ```mermaid
 xychart-beta
     title "x66ccff/liveideabench 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41]
 ```
 
-2026-10-24 39 → 2026-11-26 40（+1）
+2026-10-25 39 → 2026-11-27 41（+2）
 
 
 ---

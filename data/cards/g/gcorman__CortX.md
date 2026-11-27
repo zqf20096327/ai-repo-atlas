@@ -47,12 +47,12 @@ Electron 桌面应用，将 Claude Code 式的 agent 范式用于个人知识管
 ```mermaid
 xychart-beta
     title "gcorman/CortX 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-08 11 → 2026-11-26 11（+0）
+2026-11-08 11 → 2026-11-27 11（+0）
 
 
 ---

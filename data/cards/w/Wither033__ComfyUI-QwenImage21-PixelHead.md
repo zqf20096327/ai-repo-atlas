@@ -1,6 +1,6 @@
 # Wither033/ComfyUI-QwenImage21-PixelHead
 
-⭐ 7 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Wither033/ComfyUI-QwenImage21-PixelHead) · [官网](https://huggingface.co/pocis/Qwen-Image-2.1-PixelHead) · 个人维护 · 中文 README
+⭐ 8 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wither033/ComfyUI-QwenImage21-PixelHead) · [官网](https://huggingface.co/pocis/Qwen-Image-2.1-PixelHead) · 个人维护 · 中文 README
 
 **ComfyUI 的 Qwen-Image 2.1 RGBA 像素直出解码头节点**
 
@@ -39,6 +39,18 @@
 
 > L3: Direct RGBA pixel readout head (`v0.3` Haar Wavelet High-Fidelity & `v0.1` Fast `1x` / `2x`) for **Qwen-Image 2.1** 
 > L26: - **No `644.2 MiB` VAE required during sampling/decode**: Avoids `VAEDecode` intermediate VRAM spikes (`1.9–7.5 GB`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Wither033/ComfyUI-QwenImage21-PixelHead 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
+```
+
+2026-11-26 7 → 2026-11-27 8（+1）
 
 
 ---

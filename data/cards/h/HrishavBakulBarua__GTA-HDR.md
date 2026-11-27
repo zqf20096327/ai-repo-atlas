@@ -46,12 +46,12 @@ Monash 大学团队发表于 WACV 2025 的论文官方仓库，提出 GTA-HDR �
 ```mermaid
 xychart-beta
     title "HrishavBakulBarua/GTA-HDR 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-24 37 → 2026-11-26 37（+0）
+2026-10-25 37 → 2026-11-27 37（+0）
 
 
 ---

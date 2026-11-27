@@ -1,6 +1,6 @@
 # SeldonIO/MLServer
 
-⭐ 904 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/SeldonIO/MLServer) · [官网](https://mlserver.readthedocs.io/en/latest/) · 组织维护
+⭐ 904 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/SeldonIO/MLServer) · [官网](https://mlserver.readthedocs.io/en/latest/) · 组织维护
 
 **开源机器学习模型推理服务器：REST/gRPC 多框架多模型服务**
 
@@ -46,12 +46,12 @@ MLServer 是面向机器学习模型的推理服务器，通过 REST 与 gRPC �
 ```mermaid
 xychart-beta
     title "SeldonIO/MLServer 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-25", "2026-11-27"]
     y-axis "stars" 901 --> 905
     line [902, 903, 904, 903, 904, 904]
 ```
 
-2026-10-24 902 → 2026-11-26 904（+2）
+2026-10-25 902 → 2026-11-27 904（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy
 
-⭐ 282 · PowerShell · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) · [官网](http://JAMBOREE.rmccurdy.com) · 个人维护
+⭐ 283 · PowerShell · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) · [官网](http://JAMBOREE.rmccurdy.com) · 个人维护
 
 **给渗透测试者的免管理员 Windows 便携安全工具安装器**
 
@@ -46,12 +46,12 @@ JAMBOREE 是一个开源 PowerShell 脚本驱动的便携安装器：在无本�
 ```mermaid
 xychart-beta
     title "freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 281 --> 283
-    line [282, 282]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 281 --> 284
+    line [282, 283]
 ```
 
-2026-10-24 282 → 2026-11-26 282（+0）
+2026-10-25 282 → 2026-11-27 283（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # yes999zc/home-mate
 
-⭐ 65 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/yes999zc/home-mate) · [官网](https://mymate.homes) · 个人维护 · 中文 README
+⭐ 77 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/yes999zc/home-mate) · [官网](https://mymate.homes) · 个人维护 · 中文 README
 
 **自托管 Rust 语音管家核心：跑在智能音箱或 NAS 上**
 
@@ -40,6 +40,18 @@
 > L13: **Home Mate (小瑞)** is the next-generation evolution of rui (小瑞), rewritten from scratch in **pure Rust** with a thr
 > L19:  - The edge speaker handles low-latency wake, instant Q&A, music/stories/reminders, and closed-loop Home Assistant 
 > L106:  5. LLM, ASR, TTS &amp; Master Brain (<code>/services</code>) Primary/fallback LLMs (DeepSeek / GLM / OpenAI), Qwe
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yes999zc/home-mate 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 64 --> 78
+    line [65, 77]
+```
+
+2026-11-26 65 → 2026-11-27 77（+12）
 
 
 ---

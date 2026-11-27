@@ -1,6 +1,6 @@
 # Yamoon-jjang/comfyui-Ultra-MiniMax-H3-Prompt
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/Yamoon-jjang/comfyui-Ultra-MiniMax-H3-Prompt) · 个人维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/Yamoon-jjang/comfyui-Ultra-MiniMax-H3-Prompt) · 个人维护 · 中文 README
 
 **为 MiniMax H3 视频模型生成结构化提示词的 ComfyUI 自定义节点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yamoon-jjang/comfyui-Ultra-MiniMax-H3-Prompt 星数(近 8 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 7 --> 17
-    line [8, 10, 12, 13, 14, 15, 16, 16]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 7 --> 18
+    line [8, 10, 12, 13, 14, 15, 16, 17]
 ```
 
-2026-11-02 8 → 2026-11-26 16（+8）
+2026-11-02 8 → 2026-11-27 17（+9）
 
 
 ---

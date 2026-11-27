@@ -1,6 +1,6 @@
 # Wither033/FastFrames-PixelHead-Trainer
 
-⭐ 6 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Wither033/FastFrames-PixelHead-Trainer) · [官网](https://huggingface.co/collections/pocis/fastframes-zero-vae-direct-pixelheads-comfyui-6b031df8e9212f8bae294154) · 个人维护 · 中文 README
+⭐ 7 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wither033/FastFrames-PixelHead-Trainer) · [官网](https://huggingface.co/collections/pocis/fastframes-zero-vae-direct-pixelheads-comfyui-6b031df8e9212f8bae294154) · 个人维护 · 中文 README
 
 **为 ComfyUI 中 DiT 模型训练直接像素读取头的 PyTorch 工具包**
 
@@ -39,6 +39,18 @@
 
 > L3: Training code, model-adaptation notes, and single-GPU Colab L4/A100 notebooks for building direct pixel readout head
 > L14: Following the direct pixel readout formulation in *FastFrames: Video Generation at Interactive Latency* (`arXiv:261
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Wither033/FastFrames-PixelHead-Trainer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-26 6 → 2026-11-27 7（+1）
 
 
 ---

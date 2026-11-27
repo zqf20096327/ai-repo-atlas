@@ -1,6 +1,6 @@
 # VGonPa/xbrain
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/VGonPa/xbrain) · 个人维护
 
 **把 X 书签与推文转成可检索的 Obsidian 三层知识库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "VGonPa/xbrain 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-14 16 → 2026-11-25 16（+0）
+2026-11-14 16 → 2026-11-27 16（+0）
 
 
 ---

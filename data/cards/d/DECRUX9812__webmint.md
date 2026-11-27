@@ -41,6 +41,18 @@ Hermes Agent 插件：用宿主 agent 已接入的模型对目标网页做一次
 > L33: |**Model-agnostic**|The mint calls the host's own `ctx.llm`. Whatever provider/model your agent is on does the work
 > L44: |`webmint_run`|Execute a minted spec with new inputs (no model)|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DECRUX9812/webmint 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-26 7 → 2026-11-27 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `787dc7a974d0` · [字段定义](../../DATASET.md)*

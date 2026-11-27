@@ -1,6 +1,6 @@
 # fruggr/zendesk-mcp-server
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/fruggr/zendesk-mcp-server) · [官网](https://www.fruggr.io) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/fruggr/zendesk-mcp-server) · [官网](https://www.fruggr.io) · 组织维护
 
 **把 Zendesk 接入 AI 助手的 MCP 服务器：工单与帮助中心全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fruggr/zendesk-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-21", "2026-11-27"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-24 14 → 2026-11-26 16（+2）
+2026-10-25 14 → 2026-11-27 16（+2）
 
 
 ---

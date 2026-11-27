@@ -42,6 +42,18 @@ romdev 是一个通过 MCP 或 HTTP 暴露 38 个工具的服务器，供编码 
 > L13: romdev exposes 38 tools over MCP and plain HTTP. Each tool is a verb with an operation axis, such as `memory({op:'s
 > L33: The tools work just as well called by hand or from scripts.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "monteslu/romdev 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 51 --> 53
+    line [52, 52]
+```
+
+2026-11-26 52 → 2026-11-27 52（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8ccc758645bf` · [字段定义](../../DATASET.md)*

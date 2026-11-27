@@ -1,6 +1,6 @@
 # breskos/gopher-learn
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/breskos/gopher-learn) · 个人维护
+⭐ 13 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/breskos/gopher-learn) · 个人维护
 
 **纯 Go 无依赖的神经网络库：CSV 到分类回归预测**
 
@@ -40,6 +40,18 @@
 > L10: Neural networks in pure Go, with no dependencies outside the standard library. Fast enough for services and small e
 > L13: - Feed-forward networks (multi-layer perceptrons) with sigmoid, tanh, ReLU, linear and softmax activations, SGD, mo
 > L16: - Online learning for streams: test-then-train evaluation, bounded memory and concept drift detection (ADWIN, Page-
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "breskos/gopher-learn 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
+```
+
+2026-11-26 12 → 2026-11-27 13（+1）
 
 
 ---

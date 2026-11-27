@@ -1,6 +1,6 @@
 # erickluna015kmparaviaje374-crypto/coregold-usdt-vcc-predictable-global-payment-rails-guide
 
-⭐ 10 · 推送 2026-11-25 · [GitHub](https://github.com/erickluna015kmparaviaje374-crypto/coregold-usdt-vcc-predictable-global-payment-rails-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 25 · 推送 2026-11-25 · [GitHub](https://github.com/erickluna015kmparaviaje374-crypto/coregold-usdt-vcc-predictable-global-payment-rails-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向 AI 工具付费用户的 USDT 虚拟卡自注册操作指南**
 
@@ -39,6 +39,18 @@
 > L2: Ongoing November 2026 conversations around payment processing, network outages, and fee rules remind builders that h
 > L9: For developers, creators, and cross-border users paying for AI tools, app stores, or online services, **CoreGold** o
 > L27: ## Simple Step-by-Step Setup Tutorial
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "erickluna015kmparaviaje374-crypto/coregold-usdt-vcc-predictable-global-payment-rails-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 26
+    line [10, 25]
+```
+
+2026-11-26 10 → 2026-11-27 25（+15）
 
 
 ---

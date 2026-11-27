@@ -1,6 +1,6 @@
 # Lewin671/rawsmith
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Lewin671/rawsmith) · 个人维护 · 中文 README
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Lewin671/rawsmith) · 个人维护 · 中文 README
 
 **供 AI 助手调用的本地 RAW 照片显影 CLI，编辑即 JSON 配方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lewin671/rawsmith 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-11", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-11 3 → 2026-11-26 3（+0）
+2026-11-11 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -45,12 +45,12 @@ ACL 2026 findings 论文的官方实现：提出 GRIL（Grounded Reasoning via I
 ```mermaid
 xychart-beta
     title "ZJU-REAL/GRIL 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-24 25 → 2026-11-26 25（+0）
+2026-10-25 25 → 2026-11-27 25（+0）
 
 
 ---

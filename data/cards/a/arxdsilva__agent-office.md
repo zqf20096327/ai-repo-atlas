@@ -1,6 +1,6 @@
 # arxdsilva/agent-office
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/arxdsilva/agent-office) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/arxdsilva/agent-office) · 个人维护
 
 **为 AI 编码 agent 提供共享项目记忆与交接的桌面工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "arxdsilva/agent-office 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 2 --> 13
-    line [3, 6, 7, 8, 9, 10, 12]
+    title "arxdsilva/agent-office 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 14
+    line [3, 6, 7, 8, 9, 10, 12, 13]
 ```
 
-2026-10-24 3 → 2026-11-26 12（+9）
+2026-10-25 3 → 2026-11-27 13（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # rockbenben/thousand-lives
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/rockbenben/thousand-lives) · [官网](https://lives.newzone.top) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rockbenben/thousand-lives) · [官网](https://lives.newzone.top) · 个人维护 · 中文 README
 
 **10 个中文剧本的 AI 文字人生模拟器，浏览器即玩**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rockbenben/thousand-lives 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-26"]
+    title "rockbenben/thousand-lives 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 12, 13, 14]
+    line [10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-26 10 → 2026-11-26 14（+4）
+2026-10-26 10 → 2026-11-27 14（+4）
 
 
 ---

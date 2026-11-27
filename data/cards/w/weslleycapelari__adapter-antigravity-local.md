@@ -44,13 +44,13 @@ TypeScript 编写的 Paperclip AI 适配器，用于接入本地运行的 Google
 
 ```mermaid
 xychart-beta
-    title "weslleycapelari/adapter-antigravity-local 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-22", "2026-11-26"]
+    title "weslleycapelari/adapter-antigravity-local 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 16 --> 25
-    line [17, 20, 21, 22, 23, 24]
+    line [17, 20, 21, 22, 23, 24, 24]
 ```
 
-2026-10-24 17 → 2026-11-26 24（+7）
+2026-10-25 17 → 2026-11-27 24（+7）
 
 
 ---

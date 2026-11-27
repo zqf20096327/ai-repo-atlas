@@ -1,6 +1,6 @@
 # hosseinhezami/laravel-gemini
 
-⭐ 134 · PHP · MIT · 推送 2026-06-14 · [GitHub](https://github.com/hosseinhezami/laravel-gemini) · [官网](https://hosseinhezami.github.io/laravel-gemini) · 个人维护
+⭐ 135 · PHP · MIT · 推送 2026-06-14 · [GitHub](https://github.com/hosseinhezami/laravel-gemini) · [官网](https://hosseinhezami.github.io/laravel-gemini) · 个人维护
 
 **Laravel 框架接入 Google Gemini API 的 PHP 扩展包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hosseinhezami/laravel-gemini 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 133 --> 135
-    line [134, 134]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 133 --> 136
+    line [134, 135]
 ```
 
-2026-10-24 134 → 2026-11-26 134（+0）
+2026-10-25 134 → 2026-11-27 135（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ozgurcd/gograph
 
-⭐ 232 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ozgurcd/gograph) · [官网](https://gograph.identuum.ai) · 个人维护
+⭐ 233 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ozgurcd/gograph) · [官网](https://gograph.identuum.ai) · 个人维护
 
 **Go 代码静态分析 CLI，向 AI agent 提供 MCP 接口**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ozgurcd/gograph 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 229 --> 233
-    line [230, 231, 230, 231, 232, 232]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 229 --> 234
+    line [230, 231, 230, 231, 232, 233]
 ```
 
-2026-10-24 230 → 2026-11-26 232（+2）
+2026-10-25 230 → 2026-11-27 233（+3）
 
 
 ---

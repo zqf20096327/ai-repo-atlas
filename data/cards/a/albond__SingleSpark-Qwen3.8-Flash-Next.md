@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "albond/SingleSpark-Qwen3.8-Flash-Next 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 11 --> 14
-    line [13, 12, 12]
+    title "albond/SingleSpark-Qwen3.8-Flash-Next 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
 ```
 
-2026-10-24 13 → 2026-11-26 12（-1）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

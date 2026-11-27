@@ -1,6 +1,6 @@
 # rightcommit/rightcommit
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/rightcommit/rightcommit) · [官网](https://rightcommit.com) · 个人维护 · 中文 README
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/rightcommit/rightcommit) · [官网](https://rightcommit.com) · 个人维护 · 中文 README
 
 **AI 编码 agent 的自托管工作流引擎：编排运行与成本追踪**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rightcommit/rightcommit 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-18", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-26 3（+0）
+2026-11-18 3 → 2026-11-27 3（+0）
 
 
 ---

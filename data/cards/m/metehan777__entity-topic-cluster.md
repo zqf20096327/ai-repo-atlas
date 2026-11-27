@@ -1,6 +1,6 @@
 # metehan777/entity-topic-cluster
 
-⭐ 39 · JavaScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/metehan777/entity-topic-cluster) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-02-26 · [GitHub](https://github.com/metehan777/entity-topic-cluster) · 个人维护
 
 **浏览器内运行的开源实体主题聚类与知识图谱可视化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "metehan777/entity-topic-cluster 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-24 39 → 2026-11-26 39（+0）
+2026-10-25 39 → 2026-11-27 40（+1）
 
 
 ---

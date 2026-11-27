@@ -1,6 +1,6 @@
 # google/ml-compiler-opt
 
-⭐ 807 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google/ml-compiler-opt) · 组织维护
+⭐ 808 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google/ml-compiler-opt) · 组织维护
 
 **LLVM 的 MLGO 机器学习编译优化训练基础设施**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google/ml-compiler-opt 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-27"]
     y-axis "stars" 803 --> 809
-    line [804, 807, 808, 807, 807]
+    line [804, 807, 808, 807, 808]
 ```
 
-2026-10-23 804 → 2026-11-26 807（+3）
+2026-10-24 804 → 2026-11-27 808（+4）
 
 
 ---

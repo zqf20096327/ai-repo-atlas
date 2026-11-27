@@ -1,10 +1,10 @@
 # alvarolorentedev/opencode-mobile
 
-⭐ 382 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/alvarolorentedev/opencode-mobile) · [官网](https://getopencode.app/) · 个人维护
+⭐ 380 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/alvarolorentedev/opencode-mobile) · [官网](https://getopencode.app/) · 个人维护
 
-**移动端 OpenCode 客户端：随时随地管理 agent 会话**
+**远程连接 OpenCode 服务器的移动端 Agent 会话管理应用**
 
-面向 OpenCode 用户的非官方社区移动客户端，连接用户自建的 OpenCode 服务器，提供启动任务、查看进度、审批权限请求、审查 diff、打开终端、语音对话及管理多服务器/项目/会话等控制面。代码留在用户主机上，App 通过 HTTPS 隧道/VPN 远程连接服务器，无需托管服务。提供 Google Play、APK 与 iOS TestFlight 安装渠道，使用 React Native/Expo/TypeScript 构建。
+社区独立构建的移动端应用，连接自托管的 OpenCode 服务器：在手机上选择项目、worktree、agent 与模型后发送/fork/回退提示词，实时查看推理、工具调用、shell 输出与补丁，处理权限审批、查看 diff、打开终端，并支持语音口述提示与免提对话模式。代码保留在运行 OpenCode 的主机上，通过 LAN/VPN/HTTPS 隧道远程连接，使用 `opencode pair` 配对或扫码接入。Android 提供 Google Play 与 APK，iOS 经 TestFlight 分发；由 React Native/Expo/TypeScript 构建，非官方 OpenCode 产品。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 从手机选择项目、worktree、agent 与模型并发送/fork/revert 提示
-- 实时显示 reasoning、工具调用、shell 输出、补丁与 todos，并推送通知
-- 支持口述提示、朗读回复与免提交互模式
-- 支持多个服务器、项目、会话及主题/语言/小组件设置
+- 手机端运行/引导/审批 OpenCode agent 会话并支持语音免提模式
+- QR 扫码配对（链接 5 分钟一次性有效，连接持续 30 天）
+- 配置 providers、模型、MCP 服务器、插件与 Flowgraph 可视化
+- 代码留在自托管主机，支持多服务器/项目/会话管理
 
 ## 适用场景
 
-- 离开电脑时通过手机继续或审批 OpenCode agent 会话
-- 远程检查服务器上的 agent 进度与文件变更
-- 通过语音与 agent 进行免提对话
+- 离开电脑时在手机上跟进并引导 OpenCode agent 的任务进度
+- 在外出途中审批 agent 的权限请求并检查代码 diff
+- 用 VPN 或隧道安全访问家中/内网的 OpenCode 服务器
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
-> L25: It connects to the OpenCode server you already run and gives you a focused mobile control surface for the moments w
-> L41: - **Run sessions from your phone** — pick a project, worktree, agent, and model, then send, fork, or revert prompts
-> L151: - `@opencode/client` for native OpenCode 2; `@opencode-ai/sdk` isolated to OpenCode 1 compatibility
+> L23: OpenCode Mobile is an independent, community-built mobile companion for OpenCode.
+> L25: It connects directly to individual OpenCode servers and can continue existing sessions. It gives you a focused mobi
+> L45: - **Shape your setup** — providers, models, MCP servers, agents, commands, plugins, and visualizations like Flowgra
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "alvarolorentedev/opencode-mobile 星数(近 25 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 276 --> 391
-    line [285, 287, 288, 296, 299, 302, 304, 306, 309, 314, 287, 341, 343, 346, 353, 357, 361, 363, 367, 368, 370, 371, 373, 374, 382]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 278 --> 391
+    line [287, 288, 296, 299, 302, 304, 306, 309, 314, 287, 341, 343, 346, 353, 357, 361, 363, 367, 368, 370, 371, 373, 374, 382, 380]
 ```
 
-2026-10-24 285 → 2026-11-26 382（+97）
+2026-10-25 287 → 2026-11-27 380（+93）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2bf97729574b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `cff367b8c85b` · [字段定义](../../DATASET.md)*

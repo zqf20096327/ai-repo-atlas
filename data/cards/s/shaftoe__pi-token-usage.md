@@ -1,6 +1,6 @@
 # shaftoe/pi-token-usage
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/shaftoe/pi-token-usage) · [官网](https://www.npmjs.com/package/@alexanderfortin/pi-token-usage/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/shaftoe/pi-token-usage) · [官网](https://www.npmjs.com/package/@alexanderfortin/pi-token-usage/) · 个人维护
 
 **Pi coding agent 扩展：分析会话文件的 token 用量与成本**
 
@@ -46,12 +46,12 @@ Pi coding agent 的扩展，提供两个命令：/token-report 扫描 ~/.pi/agen
 ```mermaid
 xychart-beta
     title "shaftoe/pi-token-usage 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

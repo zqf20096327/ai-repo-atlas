@@ -1,6 +1,6 @@
 # ArnauMiro/pyLowOrder
 
-⭐ 36 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ArnauMiro/pyLowOrder) · [官网](https://arnaumiro.github.io/pyLowOrder/) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ArnauMiro/pyLowOrder) · [官网](https://arnaumiro.github.io/pyLowOrder/) · 组织维护
 
 **面向 CFD/流体力学的并行降阶模型与深度学习代理建模库**
 
@@ -45,12 +45,12 @@ pyLOM 是一个 Python 编写的降阶建模（ROM）库，面向流体动力学
 ```mermaid
 xychart-beta
     title "ArnauMiro/pyLowOrder 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-24 36 → 2026-11-26 36（+0）
+2026-10-25 36 → 2026-11-27 36（+0）
 
 
 ---

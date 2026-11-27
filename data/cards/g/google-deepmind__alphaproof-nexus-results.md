@@ -1,6 +1,6 @@
 # google-deepmind/alphaproof-nexus-results
 
-⭐ 329 · Lean · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/google-deepmind/alphaproof-nexus-results) · 组织维护
+⭐ 332 · Lean · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/google-deepmind/alphaproof-nexus-results) · 组织维护
 
 **AlphaProof Nexus 论文产出的 Lean 形式化证明与自然语言证明结果集**
 
@@ -45,12 +45,12 @@ Google DeepMind 发布的证明数据仓库：收录 AlphaProof Nexus 成功发�
 ```mermaid
 xychart-beta
     title "google-deepmind/alphaproof-nexus-results 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 321 --> 330
-    line [322, 323, 324, 325, 326, 327, 328, 329, 329]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 321 --> 333
+    line [322, 323, 324, 325, 326, 327, 328, 329, 332]
 ```
 
-2026-10-24 322 → 2026-11-26 329（+7）
+2026-10-25 322 → 2026-11-27 332（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # hwdsl2/embedcrate
 
-⭐ 10 · Shell · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/hwdsl2/embedcrate) · [官网](https://embedcrate.com) · 组织维护
+⭐ 11 · Shell · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/hwdsl2/embedcrate) · [官网](https://embedcrate.com) · 组织维护
 
 **自托管文本嵌入与重排 API 服务器，供开发者本地运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hwdsl2/embedcrate 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

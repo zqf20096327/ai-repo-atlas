@@ -1,6 +1,6 @@
 # NVIDIA/knavigator
 
-⭐ 88 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/knavigator) · 组织维护
+⭐ 88 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/NVIDIA/knavigator) · 组织维护
 
 **Kubernetes 上 AI/ML 调度系统的测试与优化工具包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/knavigator 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    title "NVIDIA/knavigator 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27"]
     y-axis "stars" 81 --> 89
-    line [82, 83, 84, 82, 86, 87, 88]
+    line [82, 83, 84, 82, 86, 87, 88, 88]
 ```
 
-2026-10-23 82 → 2026-11-26 88（+6）
+2026-10-24 82 → 2026-11-27 88（+6）
 
 
 ---

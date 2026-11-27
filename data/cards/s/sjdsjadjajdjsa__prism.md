@@ -1,6 +1,6 @@
 # sjdsjadjajdjsa/prism
 
-⭐ 21 · Go · MIT · 推送 2026-11-02 · [GitHub](https://github.com/sjdsjadjajdjsa/prism) · [官网](https://github.com/sjdsjadjajdjsa/prism/blob/main/docs/GUIDE.md) · 个人维护
+⭐ 22 · Go · MIT · 推送 2026-11-02 · [GitHub](https://github.com/sjdsjadjajdjsa/prism) · [官网](https://github.com/sjdsjadjajdjsa/prism/blob/main/docs/GUIDE.md) · 个人维护
 
 **免费终端/浏览器 AI 编码助手，跑免费模型或已有订阅**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sjdsjadjajdjsa/prism 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 1 --> 40
-    line [4, 5, 6, 7, 5, 37, 21, 21]
+    title "sjdsjadjajdjsa/prism 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 2 --> 40
+    line [5, 6, 7, 5, 37, 21, 22]
 ```
 
-2026-10-24 4 → 2026-11-26 21（+17）
+2026-10-25 5 → 2026-11-27 22（+17）
 
 
 ---

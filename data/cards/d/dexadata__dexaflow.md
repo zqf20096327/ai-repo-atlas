@@ -1,6 +1,6 @@
 # dexadata/dexaflow
 
-⭐ 64 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dexadata/dexaflow) · [官网](https://dexaflow.dexadata.ai/) · 组织维护
+⭐ 64 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dexadata/dexaflow) · [官网](https://dexaflow.dexadata.ai/) · 组织维护
 
 **Go 编写的 Airflow 兼容工作流编排器，单二进制控制平面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dexadata/dexaflow 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
     y-axis "stars" 49 --> 65
     line [50, 54, 56, 50, 56, 64, 64]
 ```
 
-2026-10-24 50 → 2026-11-26 64（+14）
+2026-10-25 50 → 2026-11-27 64（+14）
 
 
 ---

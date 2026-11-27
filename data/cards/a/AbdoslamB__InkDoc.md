@@ -1,6 +1,6 @@
 # AbdoslamB/InkDoc
 
-⭐ 62 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/AbdoslamB/InkDoc) · [官网](https://abdoslamb.github.io/InkDoc) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/AbdoslamB/InkDoc) · [官网](https://abdoslamb.github.io/InkDoc) · 个人维护
 
 **本地多引擎文档转 Markdown 的跨平台桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AbdoslamB/InkDoc 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 56 --> 63
-    line [57, 58, 59, 57, 60, 61, 62, 62]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 56 --> 64
+    line [57, 58, 59, 57, 60, 61, 62, 63]
 ```
 
-2026-10-24 57 → 2026-11-26 62（+5）
+2026-10-25 57 → 2026-11-27 63（+6）
 
 
 ---

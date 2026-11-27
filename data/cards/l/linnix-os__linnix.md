@@ -1,6 +1,6 @@
 # linnix-os/linnix
 
-⭐ 252 · Rust · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/linnix-os/linnix) · 组织维护
+⭐ 252 · Rust · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/linnix-os/linnix) · 组织维护
 
 **eBPF+PSI 的 Kubernetes 可观测性工具：定位哪个进程在拖慢谁**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "linnix-os/linnix 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 251 --> 253
     line [252, 252]
 ```
 
-2026-10-24 252 → 2026-11-26 252（+0）
+2026-10-25 252 → 2026-11-27 252（+0）
 
 
 ---

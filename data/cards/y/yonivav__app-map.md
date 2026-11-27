@@ -1,6 +1,6 @@
 # yonivav/app-map
 
-⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yonivav/app-map) · [官网](https://yonivav.github.io/app-map/) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yonivav/app-map) · [官网](https://yonivav.github.io/app-map/) · 个人维护
 
 **给移动开发者的 AI agent 技能：生成可点击的代码架构图**
 
@@ -41,6 +41,18 @@
 > L1: # App Map — an AI agent skill for mobile apps
 > L88: App Map is an Agent Skill: a `SKILL.md` with scripts, in the open
 > L64: |**While you code with an agent**|Every change the agent makes to a mapped module includes the map update: it runs 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yonivav/app-map 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 7
+    line [4, 6]
+```
+
+2026-11-26 4 → 2026-11-27 6（+2）
 
 
 ---

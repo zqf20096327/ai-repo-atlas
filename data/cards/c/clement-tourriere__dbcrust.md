@@ -46,12 +46,12 @@ psql 风格的数据库命令行工具：通过统一 URL 语法连接 PostgreSQ
 ```mermaid
 xychart-beta
     title "clement-tourriere/dbcrust 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-24 92 → 2026-11-26 92（+0）
+2026-10-25 92 → 2026-11-27 92（+0）
 
 
 ---

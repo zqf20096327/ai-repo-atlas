@@ -1,6 +1,6 @@
 # XztCloud/parse_video
 
-⭐ 15 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/XztCloud/parse_video) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/XztCloud/parse_video) · 个人维护 · 中文 README
 
 **短视频解析与 AI 剧本复刻的一键成片 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "XztCloud/parse_video 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 12, 14, 15, 15]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 12, 14, 15, 16]
 ```
 
-2026-10-24 12 → 2026-11-26 15（+3）
+2026-10-25 12 → 2026-11-27 16（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # bitrouter/bitrouter
 
-⭐ 240 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/bitrouter/bitrouter) · [官网](https://bitrouter.ai) · 组织维护
+⭐ 242 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/bitrouter/bitrouter) · [官网](https://bitrouter.ai) · 组织维护
 
 **可部署的模型网关：为 agent 工作负载提供可审计的路由**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bitrouter/bitrouter 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 234 --> 241
-    line [235, 236, 235, 239, 240, 240]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 234 --> 243
+    line [235, 236, 235, 239, 240, 242]
 ```
 
-2026-10-24 235 → 2026-11-26 240（+5）
+2026-10-25 235 → 2026-11-27 242（+7）
 
 
 ---

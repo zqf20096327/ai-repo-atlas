@@ -1,6 +1,6 @@
 # XiaomingX/awesome-llm
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/XiaomingX/awesome-llm) · [官网](https://x.com/seclink) · 个人维护 · 中文 README
+⭐ 67 · Python · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/XiaomingX/awesome-llm) · [官网](https://x.com/seclink) · 个人维护 · 中文 README
 
 **LLM 研究论文、工具与模型检查点的策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "XiaomingX/awesome-llm 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-24 66 → 2026-11-26 66（+0）
+2026-10-25 66 → 2026-11-27 67（+1）
 
 
 ---

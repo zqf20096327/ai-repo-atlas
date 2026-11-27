@@ -1,6 +1,6 @@
 # alan345/AI-Fullstack-SaaS-Boilerplate
 
-⭐ 1,439 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate) · [官网](https://alan345.github.io/AI-Fullstack-SaaS-Boilerplate/) · 个人维护
+⭐ 1,438 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/alan345/AI-Fullstack-SaaS-Boilerplate) · [官网](https://alan345.github.io/AI-Fullstack-SaaS-Boilerplate/) · 个人维护
 
 **基于 Fastify/tRPC/React 的全栈 SaaS 脚手架，含 AI 聊天**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alan345/AI-Fullstack-SaaS-Boilerplate 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 1433 --> 1441
-    line [1434, 1435, 1438, 1437, 1436, 1435, 1436, 1437, 1438, 1439, 1440, 1439, 1439]
+    title "alan345/AI-Fullstack-SaaS-Boilerplate 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 1434 --> 1441
+    line [1435, 1438, 1437, 1436, 1435, 1436, 1437, 1438, 1439, 1440, 1439, 1438]
 ```
 
-2026-10-24 1,434 → 2026-11-26 1,439（+5）
+2026-10-25 1,435 → 2026-11-27 1,438（+3）
 
 
 ---

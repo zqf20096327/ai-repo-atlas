@@ -1,6 +1,6 @@
 # GuqierMcl/MailX
 
-⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/GuqierMcl/MailX) · [官网](https://mailxapp.com) · 个人维护 · 中文 README
+⭐ 29 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/GuqierMcl/MailX) · [官网](https://mailxapp.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 邮件客户端：统一收件箱并整理邮件**
 
@@ -40,6 +40,18 @@
 > L5: The local-first, AI-native email client—lightweight, fast, and built to unite all your inboxes effortlessly.
 > L20: - **Local first** — Mail, drafts and attachments live on your own computer, so the app opens straight into what it 
 > L21: - **AI native** — The built-in assistant works on your mail directly: it finds what needs a reply across every acco
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GuqierMcl/MailX 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 26 --> 30
+    line [27, 29]
+```
+
+2026-11-26 27 → 2026-11-27 29（+2）
 
 
 ---

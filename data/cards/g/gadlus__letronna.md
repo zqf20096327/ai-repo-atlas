@@ -1,6 +1,6 @@
 # gadlus/letronna
 
-⭐ 26 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/gadlus/letronna) · [官网](https://letronna.ai) · 组织维护
+⭐ 26 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gadlus/letronna) · [官网](https://letronna.ai) · 组织维护
 
 **自带云与加密钱包的 Rust 编程 Agent 桌面/终端应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gadlus/letronna 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-11-08 25 → 2026-11-26 26（+1）
+2026-11-08 25 → 2026-11-27 26（+1）
 
 
 ---

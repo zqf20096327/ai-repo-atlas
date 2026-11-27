@@ -44,12 +44,12 @@ Devinterview.io 维护的机器学习面试知识仓库，围绕偏置（bias）
 ```mermaid
 xychart-beta
     title "Devinterview-io/bias-and-variance-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

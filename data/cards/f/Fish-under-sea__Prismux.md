@@ -1,6 +1,6 @@
 # Fish-under-sea/Prismux
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Fish-under-sea/Prismux) · [官网](https://github.com/Fish-under-sea/Prismux#readme) · 个人维护 · 中文 README
+⭐ 7 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Fish-under-sea/Prismux) · [官网](https://github.com/Fish-under-sea/Prismux#readme) · 个人维护 · 中文 README
 
 **给多 Agent 用户的纯本地桌面工作台，统一管理多家 Coding Agent**
 
@@ -41,6 +41,18 @@
 > L19:  Prismux · 纯本地零遥测的 8 分区液态玻璃 AI 超级工作台与 24 小时常驻秘书
 > L36: - **多 Agent 统一驾驭、Windows 原生 `dsh` 实连与订阅风控护栏**：Claude Code、Codex、Antigravity（官方 `agy acp` + 事件驱动按需额度刷新）、原生实机直连的 **`D
 > L81:  Electron 44 桌面端托管 24 小时守护进程 <code>@prismux/daemon</code>，支持 Claude Code、Codex、Antigravity（官方 <code>agy acp</code> 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Fish-under-sea/Prismux 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 8
+    line [4, 7]
+```
+
+2026-11-26 4 → 2026-11-27 7（+3）
 
 
 ---

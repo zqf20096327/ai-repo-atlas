@@ -1,6 +1,6 @@
 # qwwiwi/agent-jobs
 
-⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/qwwiwi/agent-jobs) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/qwwiwi/agent-jobs) · 个人维护
 
 **让 Claude Code 主会话把长任务派发为受管控的后台 claude -p 作业**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qwwiwi/agent-jobs 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-22", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-22", "2026-11-25", "2026-11-27"]
     y-axis "stars" 4 --> 11
     line [5, 7, 8, 9, 10, 10]
 ```
 
-2026-10-24 5 → 2026-11-26 10（+5）
+2026-10-25 5 → 2026-11-27 10（+5）
 
 
 ---

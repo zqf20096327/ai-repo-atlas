@@ -1,16 +1,16 @@
 # Neargye/hello_tf_c_api
 
-⭐ 472 · C++ · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Neargye/hello_tf_c_api) · 个人维护
+⭐ 472 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Neargye/hello_tf_c_api) · 个人维护
 
-**TensorFlow C API 的 C++ 示例集与轻量辅助库**
+**TensorFlow C API 的跨平台 C/C++ 示例集与小型辅助库**
 
-面向使用 TensorFlow C API 的 C/C++ 开发者：提供跨 Windows/Linux/macOS 的示例程序，覆盖加载图、创建张量、运行会话、批量与重复推理、图信息读取等操作，并附带一个小型 C++ 辅助库（tf_utils.hpp，如类型推断的 CreateTensor、返回 TF_Code 的错误安全读取重载）。构建基于 CMake，自动下载 TensorFlow wheel 并链接其原生库，无需在 Python 环境安装 TensorFlow；OpenCV 为可选依赖。MIT 许可。
+为 Windows/Linux/macOS 提供的 TensorFlow C API 示例集合，附带一个小型 C++ 辅助库（张量创建/分配、会话创建、错误状态读取等）。构建依赖 CMake 3.20+、C++17 编译器与 Python 3.10–3.13，CMake 自动下载 TensorFlow 2.21.0 wheel 并链接其原生库，无需将 TensorFlow 装入 Python 环境。含 OpenCV 可选示例。以 git clone + CMake 源码构建方式提供，无可安装的 CMake 包。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖加载图/张量创建/会话运行/批量推理的 C API 示例集
-- C++ 辅助库 hello_tf_utils 提供类型推断与错误安全的封装
-- CMake 自动下载 TensorFlow wheel 并链接原生库，支持用已有 wheel 提取物
-- 支持 Windows(Visual Studio)/Linux/macOS 三平台构建与 ctest 测试
+- 直接调用 TensorFlow C API 的原始 C 示例与简化封装的 C++ 示例
+- 辅助库提供 CreateTensor/AllocateTensor/CreateSession/RunSession 等接口
+- CMake 自动下载并链接 TensorFlow wheel，Windows 下复制运行时 DLL
+- OpenCV 可选集成，用于图像张量示例
 
 ## 适用场景
 
-- 学习 TensorFlow C API 的调用方式与常见操作
-- 在 C++ 项目中复用张量创建与会话运行的辅助封装
-- 作为 C API 推理工程的构建模板（含 OpenCV 图像张量示例）
+- 学习如何在 C/C++ 中通过 TensorFlow C API 加载图与运行推理
+- 在跨平台 C++ 项目中封装 TensorFlow C API 调用
+- 参考张量创建、批量与重复推理的实现方式
 
 ## 场景标签
 
@@ -38,20 +38,20 @@
 ## 证据(README 行号)
 
 > L5: TensorFlow C API examples for Windows, Linux, and macOS, with a small C++ helper library.
-> L61: See tf_utils.hpp for declarations. Within this CMake project, link the helpers with:
+> L54: - TensorFlow version, load a graph.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Neargye/hello_tf_c_api 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-27"]
     y-axis "stars" 471 --> 474
     line [472, 473, 472, 472]
 ```
 
-2026-10-24 472 → 2026-11-26 472（+0）
+2026-10-25 472 → 2026-11-27 472（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `633f2115b23e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c53e83b60a8b` · [字段定义](../../DATASET.md)*

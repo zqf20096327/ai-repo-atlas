@@ -1,6 +1,6 @@
 # hellokaton/game-copycat
 
-⭐ 21 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/hellokaton/game-copycat) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-07-17 · [GitHub](https://github.com/hellokaton/game-copycat) · 个人维护 · 中文 README
 
 **复刻休闲小游戏的 Agent Skill：一句 prompt 产出原创 web 游戏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hellokaton/game-copycat 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-24 20 → 2026-11-26 21（+1）
+2026-10-25 20 → 2026-11-27 22（+2）
 
 
 ---

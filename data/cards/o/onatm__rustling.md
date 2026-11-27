@@ -1,6 +1,6 @@
 # onatm/rustling
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/onatm/rustling) · 个人维护
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/onatm/rustling) · 个人维护
 
 **为 Inkling 2 Mini 模型在 Apple silicon 上提供本地推理的 Rust 引擎**
 
@@ -40,6 +40,18 @@
 > L3: A fast local inference engine for Inkling 2 Mini on
 > L4: Apple silicon, written in Rust and built for coding agents. It serves an OpenAI-compatible API that Codex, aider
 > L17: - An Apple silicon Mac. Nothing else is supported: the engine is built around Metal and tuned on these chips.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "onatm/rustling 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 8
+    line [3, 7]
+```
+
+2026-11-26 3 → 2026-11-27 7（+4）
 
 
 ---

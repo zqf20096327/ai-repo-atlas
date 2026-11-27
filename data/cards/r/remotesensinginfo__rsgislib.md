@@ -1,6 +1,6 @@
 # remotesensinginfo/rsgislib
 
-⭐ 177 · C++ · GPL-3.0 · 推送 2026-06-18 · [GitHub](https://github.com/remotesensinginfo/rsgislib) · [官网](http://www.rsgislib.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **遥感与 GIS 空间数据处理的 Python 工具库**
 
@@ -11,7 +11,7 @@ RSGISLib 是一套处理遥感与 GIS 数据集的 Python 模块工具集合，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

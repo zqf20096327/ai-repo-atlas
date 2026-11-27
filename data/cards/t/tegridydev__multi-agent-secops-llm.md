@@ -41,6 +41,18 @@ MASOP 把目录扫描或实时 telemetry 轮询的输入转化为安全发现队
 > L26: Start Ollama, LM Studio, llama.cpp or vLLM in its own app or terminal first. In MASOP, choose **Configure agents → 
 > L28: Assign profiles to general triage, identity, endpoint, vulnerability or reviewer roles. The rules always decide wha
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tegridydev/multi-agent-secops-llm 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `320faf53dc00` · [字段定义](../../DATASET.md)*

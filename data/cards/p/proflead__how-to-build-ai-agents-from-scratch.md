@@ -1,6 +1,6 @@
 # proflead/how-to-build-ai-agents-from-scratch
 
-⭐ 16 · Python · 推送 2025-12-07 · [GitHub](https://github.com/proflead/how-to-build-ai-agents-from-scratch) · [官网](https://proflead.dev/posts/how-to-build-ai-agents-from-scratch/) · 个人维护
+⭐ 17 · Python · 推送 2025-12-07 · [GitHub](https://github.com/proflead/how-to-build-ai-agents-from-scratch) · [官网](https://proflead.dev/posts/how-to-build-ai-agents-from-scratch/) · 个人维护
 
 **面向初学者的 Google ADK 构建 AI agent 入门教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "proflead/how-to-build-ai-agents-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-24 15 → 2026-11-26 16（+1）
+2026-10-25 15 → 2026-11-27 17（+2）
 
 
 ---

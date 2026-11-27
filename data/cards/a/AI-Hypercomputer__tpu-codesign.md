@@ -1,6 +1,6 @@
 # AI-Hypercomputer/tpu-codesign
 
-⭐ 102 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/AI-Hypercomputer/tpu-codesign) · [官网](https://ai-hypercomputer.github.io/tpu-codesign/) · 组织维护
+⭐ 104 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/AI-Hypercomputer/tpu-codesign) · [官网](https://ai-hypercomputer.github.io/tpu-codesign/) · 组织维护
 
 **面向 Google Cloud TPU 的模型架构设计与优化指南（在线书籍）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AI-Hypercomputer/tpu-codesign 星数(近 9 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 111
-    line [4, 18, 72, 88, 91, 93, 97, 101, 102]
+    title "AI-Hypercomputer/tpu-codesign 星数(近 10 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 114
+    line [4, 18, 72, 88, 91, 93, 97, 101, 102, 104]
 ```
 
-2026-11-16 4 → 2026-11-26 102（+98）
+2026-11-16 4 → 2026-11-27 104（+100）
 
 
 ---

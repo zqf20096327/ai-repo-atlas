@@ -1,6 +1,6 @@
 # Lord1Egypt/PocketClaw
 
-⭐ 17 · Go · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Lord1Egypt/PocketClaw) · [官网](https://github.com/Lord1Egypt/PocketClaw/releases/latest) · 个人维护 · 中文 README
+⭐ 18 · Go · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Lord1Egypt/PocketClaw) · [官网](https://github.com/Lord1Egypt/PocketClaw/releases/latest) · 个人维护 · 中文 README
 
 **运行在 Android 手机上的私人 AI agent：本地网关+工具，模型远端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lord1Egypt/PocketClaw 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 12 --> 18
-    line [13, 14, 13, 16, 17, 17]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 12 --> 19
+    line [13, 14, 13, 16, 17, 18]
 ```
 
-2026-10-24 13 → 2026-11-26 17（+4）
+2026-10-25 13 → 2026-11-27 18（+5）
 
 
 ---

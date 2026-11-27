@@ -1,6 +1,6 @@
 # rekursiv-ai/priml
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/rekursiv-ai/priml) · [官网](https://rekursiv.ai) · 组织维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/rekursiv-ai/priml) · [官网](https://rekursiv.ai) · 组织维护
 
 **强类型可配置 ML 训练实验构建块库，支持 A/B 测试**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rekursiv-ai/priml 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "rekursiv-ai/priml 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 51 --> 57
-    line [52, 55, 56]
+    line [52, 55, 56, 56]
 ```
 
-2026-10-24 52 → 2026-11-26 56（+4）
+2026-10-25 52 → 2026-11-27 56（+4）
 
 
 ---

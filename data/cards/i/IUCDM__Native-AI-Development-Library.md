@@ -1,6 +1,6 @@
 # IUCDM/Native-AI-Development-Library
 
-⭐ 5 · HTML · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/IUCDM/Native-AI-Development-Library) · [官网](https://iucdm.org/library/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **供 AI 阅读的心理发展类文本库与提示指南集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # b1rdmania/ghostclaw
 
-⭐ 67 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/b1rdmania/ghostclaw) · [官网](https://ghostclaw.io) · 个人维护
+⭐ 65 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/b1rdmania/ghostclaw) · [官网](https://ghostclaw.io) · 个人维护
 
 **运行在自有电脑上的 Telegram 个人 AI agent（NanoClaw 裸机分支）**
 
@@ -45,13 +45,13 @@ GhostClaw 是 NanoClaw 的分支，去除 Docker 容器，agent 以 Node.js 子�
 
 ```mermaid
 xychart-beta
-    title "b1rdmania/ghostclaw 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 66 --> 85
-    line [84, 78, 67, 68, 67, 67]
+    title "b1rdmania/ghostclaw 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 64 --> 79
+    line [78, 67, 68, 67, 65]
 ```
 
-2026-10-24 84 → 2026-11-26 67（-17）
+2026-10-25 78 → 2026-11-27 65（-13）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "murataslan1/cursor-ai-tips 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 243 --> 246
-    line [244, 245, 245]
+    title "murataslan1/cursor-ai-tips 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 244 --> 246
+    line [245, 245]
 ```
 
-2026-10-24 244 → 2026-11-26 245（+1）
+2026-10-25 245 → 2026-11-27 245（+0）
 
 
 ---

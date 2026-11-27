@@ -45,13 +45,13 @@ FinRisk 是从 SEC/XBRL 结构化数据与年报 PDF 中生成金融风险评估
 
 ```mermaid
 xychart-beta
-    title "siqiwang0712-commits/financial-risk-agent 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 74 --> 78
-    line [77, 76, 75, 75]
+    title "siqiwang0712-commits/financial-risk-agent 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 74 --> 77
+    line [76, 75, 75]
 ```
 
-2026-10-24 77 → 2026-11-26 75（-2）
+2026-10-25 76 → 2026-11-27 75（-1）
 
 
 ---

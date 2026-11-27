@@ -1,6 +1,6 @@
 # open4dfoundation/Open4D
 
-⭐ 118 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/open4dfoundation/Open4D) · [官网](https://open4dfoundation.github.io/) · 组织维护
+⭐ 121 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/open4dfoundation/Open4D) · [官网](https://open4dfoundation.github.io/) · 组织维护
 
 **4D 动态几何的编解码、重建与流式传输 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "open4dfoundation/Open4D 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 113 --> 119
-    line [114, 116, 118]
+    title "open4dfoundation/Open4D 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 113 --> 122
+    line [114, 116, 118, 121]
 ```
 
-2026-10-24 114 → 2026-11-26 118（+4）
+2026-10-25 114 → 2026-11-27 121（+7）
 
 
 ---

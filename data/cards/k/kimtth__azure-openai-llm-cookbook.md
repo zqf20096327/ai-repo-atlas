@@ -1,6 +1,6 @@
 # kimtth/azure-openai-llm-cookbook
 
-⭐ 16 · Jupyter Notebook · 推送 2026-01-16 · [GitHub](https://github.com/kimtth/azure-openai-llm-cookbook) · [官网](https://github.com/kimtth/awesome-azure-openai-llm) · 个人维护
+⭐ 15 · Jupyter Notebook · 推送 2026-01-16 · [GitHub](https://github.com/kimtth/azure-openai-llm-cookbook) · [官网](https://github.com/kimtth/awesome-azure-openai-llm) · 个人维护
 
 **面向开发者的 Azure OpenAI / LLM 示例代码策展库（100+ 样例）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kimtth/azure-openai-llm-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 15（-1）
 
 
 ---

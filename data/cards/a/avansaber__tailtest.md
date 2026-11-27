@@ -45,12 +45,12 @@ tailtest 是以 MIT 许可开源的 Claude Code 插件，作为 AI 编码过程�
 ```mermaid
 xychart-beta
     title "avansaber/tailtest 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

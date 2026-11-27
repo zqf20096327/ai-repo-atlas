@@ -1,6 +1,6 @@
 # gaopengbin/geod-agent
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/gaopengbin/geod-agent) · [官网](https://geod.laogao.xyz/agent) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/gaopengbin/geod-agent) · [官网](https://geod.laogao.xyz/agent) · 个人维护 · 中文 README
 
 **给 GIS 用户：用 AI 对话下载与处理地理数据的 Windows 桌面应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gaopengbin/geod-agent 星数(近 9 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 5 --> 11
-    line [6, 7, 6, 7, 8, 7, 8, 10, 10]
+    x-axis ["2026-10-18", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 5 --> 12
+    line [6, 7, 6, 7, 8, 7, 8, 10, 11]
 ```
 
-2026-10-18 6 → 2026-11-26 10（+4）
+2026-10-18 6 → 2026-11-27 11（+5）
 
 
 ---

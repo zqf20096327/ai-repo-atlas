@@ -1,6 +1,6 @@
 # LeoYeAI/openclaw-ultra-scraping
 
-⭐ 23 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/LeoYeAI/openclaw-ultra-scraping) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-06-21 · [GitHub](https://github.com/LeoYeAI/openclaw-ultra-scraping) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **OpenClaw agent 的自适应网页抓取技能包（已归档）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LeoYeAI/openclaw-ultra-scraping 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-24 23 → 2026-11-26 23（+0）
+2026-10-25 23 → 2026-11-27 24（+1）
 
 
 ---

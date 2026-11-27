@@ -1,10 +1,10 @@
 # mudler/LocalAI
 
-⭐ 50,543 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护
+⭐ 50,565 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护
 
-**本地运行多模态开源模型的 OpenAI 兼容 AI 引擎**
+**本地运行任意模型的推理服务端，兼容 OpenAI/Anthropic API**
 
-以 MIT 许可发布的本地推理服务：在同一 API 下以 OpenAI 与 Anthropic 格式运行文本、视觉、语音、图像、视频、嵌入与重排序等模型，内置 80 多个后端，多数封装上游引擎（llama.cpp、vLLM 等），其中 18 个为自研 C++/GGML 实现。附带聊天、Agent（工具/MCP/技能）、文件与团队共享、模型画廊和附加组件库。提供桌面应用、安装脚本、容器镜像与 Kubernetes 部署，可在 CPU 上运行，GPU 可加速。
+LocalAI 是一个可在自有机器上运行多种开源模型（文本、视觉、语音、图像、视频）的推理引擎，对外提供 OpenAI 与 Anthropic 格式的 API，并附带聊天界面、agent、文件与团队协作功能。核心机制是 80 余个可插拔后端（多为 llama.cpp、vLLM 等上游引擎的封装，另含 18 个自研 C++/GGML 后端），按需拉取镜像；后端可经模型画廊动态安装。支持 Docker Compose、脚本、桌面应用与 Kubernetes 部署；无 GPU 也能运行，GPU 仅加速。分布式模式依赖 PostgreSQL 与 NATS。
 
 ## 筛选速览
 
@@ -26,40 +26,39 @@
 
 ## 能力要点
 
-- 单 API 以 OpenAI/Anthropic 兼容格式提供文本、语音、图像、视频、嵌入等多模态能力
-- 80+ 后端，含 18 个自研 C++/GGML 后端（vllm.cpp、parakeet.cpp 等），推理无需 Python
-- 支持 CPU-only 运行，加速覆盖 NVIDIA/AMD/Intel/Apple Silicon/Vulkan/Jetson
-- 内置 Agent、MCP 客户端与服务端、模型画廊与分布式模式（PostgreSQL + NATS / P2P）
+- 80+ 可插拔后端，统一以 OpenAI/Anthropic 兼容 API 暴露文本、语音、图像、视频、嵌入与重排能力
+- 自研 18 个 C++/GGML 后端（vllm.cpp、parakeet.cpp、RF-DETR 检测、TTS/ASR 等），推理不含 Python
+- 支持 CPU-only 运行与 NVIDIA/AMD/Intel/Apple Silicon/Vulkan/Jetson 加速，模型与数据留在本机
+- 模型画廊与后端画廊动态安装，支持 MCP 客户端/服务端、分布式模式（PostgreSQL+NATS）与 P2P
 
 ## 适用场景
 
-- 在内网或个人机器上搭建不外发数据的模型服务
-- 用 OpenAI 兼容 API 接入现有应用并切换本地模型
-- 团队共享聊天、文件与 Agent，配合角色与配额管理
-- 在无 GPU 的 CPU 环境运行语音、视觉与文本模型
+- 在内网或离线环境用自有硬件搭建 OpenAI 兼容的模型推理服务
+- 为团队提供带权限、配额和共享目录的聊天与 agent 平台
+- 在无 GPU 的笔记本或服务器上运行本地 LLM 和语音/图像模型
 
 ## 场景标签
 
-`推理引擎` `图像生成` `语音合成` `目标检测` · 领域:内容生成
+`推理引擎` `图像生成` `语音合成` `语音识别` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L13: **LocalAI** runs open models for chat, images, speech and video on your own machines. The API speaks the OpenAI and
-> L17: - **Every kind of model, one API**: text, vision, speech to text, text to speech, images, video, music and sound, e
 > L20: LocalAI is a small core with an API, chats and agents, files, collections, team sharing, a model gallery and an MCP
+> L17: - **Every kind of model, one API**: text, vision, speech to text, text to speech, images, video, music and sound, e
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mudler/LocalAI 星数(近 27 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 49816 --> 50609
-    line [49882, 49918, 49946, 49982, 50007, 50026, 50056, 50079, 50092, 50113, 49918, 50256, 50296, 50325, 50340, 50354, 50367, 50377, 50394, 50419, 50440, 50454, 50474, 50491, 50499, 50514, 50543]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 49854 --> 50629
+    line [49918, 49946, 49982, 50007, 50026, 50056, 50079, 50092, 50113, 49918, 50256, 50296, 50325, 50340, 50354, 50367, 50377, 50394, 50419, 50440, 50454, 50474, 50491, 50499, 50514, 50543, 50565]
 ```
 
-2026-10-24 49,882 → 2026-11-26 50,543（+661）
+2026-10-25 49,918 → 2026-11-27 50,565（+647）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5ae90809ed3e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `abe2d05abaa5` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "diaoquesang/A-detailed-summarization-about-bone-suppression-in-Chest-X-rays 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-19", "2026-11-27"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-18 16 → 2026-11-26 18（+2）
+2026-10-19 16 → 2026-11-27 18（+2）
 
 
 ---

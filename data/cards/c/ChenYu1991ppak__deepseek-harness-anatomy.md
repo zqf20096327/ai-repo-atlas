@@ -1,6 +1,6 @@
 # ChenYu1991ppak/deepseek-harness-anatomy
 
-⭐ 11 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ChenYu1991ppak/deepseek-harness-anatomy) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ChenYu1991ppak/deepseek-harness-anatomy) · 个人维护 · 中文 README
 
 **DeepSeek Harness (dsh) 源码研读教程：18 章逐机制拆解**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ChenYu1991ppak/deepseek-harness-anatomy 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "ChenYu1991ppak/deepseek-harness-anatomy 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-25 10 → 2026-11-26 11（+1）
+2026-11-25 10 → 2026-11-27 12（+2）
 
 
 ---

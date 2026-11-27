@@ -1,6 +1,6 @@
 # luomufanye-cloud/luomu-cad
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/luomufanye-cloud/luomu-cad) · 个人维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/luomufanye-cloud/luomu-cad) · 个人维护 · 中文 README
 
 **为 Agent 装上建筑/机械制图能力的 CAD Skill 与 MCP 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "luomufanye-cloud/luomu-cad 星数(近 6 点)"
-    x-axis ["2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 6 --> 17
-    line [7, 9, 10, 13, 14, 16]
+    title "luomufanye-cloud/luomu-cad 星数(近 7 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 18
+    line [7, 9, 10, 13, 14, 16, 17]
 ```
 
-2026-11-15 7 → 2026-11-26 16（+9）
+2026-11-15 7 → 2026-11-27 17（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # AHHHZ975/Semantic-Visibility-UV-Param
 
-⭐ 19 · Python · 推送 2026-08-21 · [GitHub](https://github.com/AHHHZ975/Semantic-Visibility-UV-Param) · [官网](https://ahhhz975.github.io/Automatic3DMeshParameterization/) · 组织维护
+⭐ 20 · Python · 推送 2026-08-21 · [GitHub](https://github.com/AHHHZ975/Semantic-Visibility-UV-Param) · [官网](https://ahhhz975.github.io/Automatic3DMeshParameterization/) · 组织维护
 
 **ICLR 2026 论文官方代码：无监督 3D 网格 UV 参数化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AHHHZ975/Semantic-Visibility-UV-Param 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nlpodyssey/openai-agents-go
 
-⭐ 279 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nlpodyssey/openai-agents-go) · 组织维护
+⭐ 278 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nlpodyssey/openai-agents-go) · 组织维护
 
 **Go 开发者的多 Agent 工作流编排框架**
 
@@ -45,13 +45,13 @@ OpenAI Agents Python SDK 的 Go 移植版，行为与 API 尽量贴近原实现�
 
 ```mermaid
 xychart-beta
-    title "nlpodyssey/openai-agents-go 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 271 --> 280
-    line [272, 273, 274, 273, 277, 278, 279, 279]
+    title "nlpodyssey/openai-agents-go 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 272 --> 280
+    line [273, 274, 273, 277, 278, 279, 278]
 ```
 
-2026-10-24 272 → 2026-11-26 279（+7）
+2026-10-25 273 → 2026-11-27 278（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # khannoussi-malek/PaperLab
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/khannoussi-malek/PaperLab) · [官网](https://khannoussi-malek.github.io/PaperLab/) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/khannoussi-malek/PaperLab) · [官网](https://khannoussi-malek.github.io/PaperLab/) · 个人维护
 
 **研究者的本地优先 PDF 阅读器：笔记锚定页面，AI 回答引用原文**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "khannoussi-malek/PaperLab 星数(近 8 点)"
-    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25", "2026-11-26"]
+    title "khannoussi-malek/PaperLab 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 7 --> 16
-    line [8, 10, 8, 11, 12, 13, 14, 15]
+    line [8, 10, 8, 11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-21 8 → 2026-11-26 15（+7）
+2026-10-22 8 → 2026-11-27 15（+7）
 
 
 ---

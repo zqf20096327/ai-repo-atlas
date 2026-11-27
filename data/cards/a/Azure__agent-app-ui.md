@@ -1,6 +1,6 @@
 # Azure/agent-app-ui
 
-⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Azure/agent-app-ui) · [官网](https://aka.ms/agentlz) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Azure/agent-app-ui) · [官网](https://aka.ms/agentlz) · 组织维护
 
 **Agent Landing Zone 的 Chainlit 会话界面，流式展示代理响应与引用**
 
@@ -46,12 +46,12 @@ Agent Landing Zone 的 Web 客户端，基于 Chainlit 构建：流式显示代�
 ```mermaid
 xychart-beta
     title "Azure/agent-app-ui 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

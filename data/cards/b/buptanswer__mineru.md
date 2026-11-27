@@ -1,6 +1,6 @@
 # buptanswer/mineru
 
-⭐ 14 · Python · 推送 2026-05-27 · [GitHub](https://github.com/buptanswer/mineru) · 个人维护 · 中文 README
+⭐ 15 · Python · 推送 2026-05-27 · [GitHub](https://github.com/buptanswer/mineru) · 个人维护 · 中文 README
 
 **MinerU 在 AMD 显卡（ROCm + vLLM）上的本地部署方案与教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "buptanswer/mineru 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 13, 14, 14]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15]
 ```
 
-2026-10-24 13 → 2026-11-26 14（+1）
+2026-10-25 13 → 2026-11-27 15（+2）
 
 
 ---

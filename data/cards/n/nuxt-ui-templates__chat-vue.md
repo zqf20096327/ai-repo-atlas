@@ -1,6 +1,6 @@
 # nuxt-ui-templates/chat-vue
 
-⭐ 101 · Vue · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nuxt-ui-templates/chat-vue) · [官网](https://chat-vue-template.nuxt.dev) · 组织维护
+⭐ 102 · Vue · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nuxt-ui-templates/chat-vue) · [官网](https://chat-vue-template.nuxt.dev) · 组织维护
 
 **面向 Vue 开发者的 AI 聊天应用模板（Nuxt UI + AI SDK）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nuxt-ui-templates/chat-vue 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
     y-axis "stars" 100 --> 103
-    line [102, 101, 101]
+    line [102, 101, 102]
 ```
 
-2026-10-24 102 → 2026-11-26 101（-1）
+2026-10-25 102 → 2026-11-27 102（+0）
 
 
 ---

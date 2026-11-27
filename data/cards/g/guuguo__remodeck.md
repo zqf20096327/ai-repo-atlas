@@ -1,6 +1,6 @@
 # guuguo/remodeck
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/guuguo/remodeck) · [官网](https://hub.guuguo.top/agent-control) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/guuguo/remodeck) · [官网](https://hub.guuguo.top/agent-control) · 个人维护 · 中文 README
 
 **给 AI 编程 Agent 的手机远程控制与 3D 桌面控制台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guuguo/remodeck 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 10 --> 17
-    line [11, 16]
+    title "guuguo/remodeck 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 18
+    line [11, 16, 17]
 ```
 
-2026-11-25 11 → 2026-11-26 16（+5）
+2026-11-25 11 → 2026-11-27 17（+6）
 
 
 ---

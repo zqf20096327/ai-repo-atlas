@@ -1,6 +1,6 @@
 # fhiltscher/awesome-ai-coding-sandboxes
 
-⭐ 32 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) · [官网](https://fhiltscher.github.io/awesome-ai-coding-sandboxes/) · 个人维护
+⭐ 33 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) · [官网](https://fhiltscher.github.io/awesome-ai-coding-sandboxes/) · 个人维护
 
 **面向 AI 编程 agent 的沙箱/隔离方案安全态势清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fhiltscher/awesome-ai-coding-sandboxes 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 27, 28, 29, 31, 32, 32]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 26 --> 34
+    line [27, 28, 27, 28, 29, 31, 32, 33]
 ```
 
-2026-10-24 27 → 2026-11-26 32（+5）
+2026-10-25 27 → 2026-11-27 33（+6）
 
 
 ---

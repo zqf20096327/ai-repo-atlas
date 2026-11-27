@@ -1,6 +1,6 @@
 # kiyanstenke/cbase
 
-⭐ 5 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/kiyanstenke/cbase) · 个人维护
+⭐ 5 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/kiyanstenke/cbase) · 个人维护
 
 **自托管工作台：在隔离容器中长时运行 coding agents**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kiyanstenke/cbase 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-25 5 → 2026-11-26 5（+0）
+2026-11-25 5 → 2026-11-27 5（+0）
 
 
 ---

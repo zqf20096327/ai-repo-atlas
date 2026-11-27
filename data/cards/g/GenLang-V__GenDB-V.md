@@ -1,6 +1,6 @@
 # GenLang-V/GenDB-V
 
-⭐ 23 · Rust · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/GenLang-V/GenDB-V) · [官网](https://genlang-v.github.io/GenDB-V/) · 个人维护
+⭐ 24 · Rust · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/GenLang-V/GenDB-V) · [官网](https://genlang-v.github.io/GenDB-V/) · 个人维护
 
 **AI 生成并形式化验证的数据库引擎合成系统**
 
@@ -46,12 +46,12 @@ GenDB-V 用 AI agent（Claude Code）编写 Rust 查询引擎代码及其证明�
 ```mermaid
 xychart-beta
     title "GenLang-V/GenDB-V 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 17 --> 24
-    line [18, 21, 22, 23, 23]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 17 --> 25
+    line [18, 21, 22, 23, 24]
 ```
 
-2026-11-08 18 → 2026-11-26 23（+5）
+2026-11-08 18 → 2026-11-27 24（+6）
 
 
 ---

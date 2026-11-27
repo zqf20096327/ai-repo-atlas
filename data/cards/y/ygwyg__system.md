@@ -1,6 +1,6 @@
 # ygwyg/system
 
-⭐ 298 · TypeScript · 推送 2026-01-31 · [GitHub](https://github.com/ygwyg/system) · [官网](https://system.surf) · 个人维护
+⭐ 299 · TypeScript · 推送 2026-01-31 · [GitHub](https://github.com/ygwyg/system) · [官网](https://system.surf) · 个人维护
 
 **自托管 AI 助手：通过对话远程控制你的 Mac**
 
@@ -45,12 +45,12 @@ SYSTEM 是部署在自有基础设施上的 AI 助手，用自然语言操控 ma
 ```mermaid
 xychart-beta
     title "ygwyg/system 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 296 --> 299
-    line [297, 298, 298]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 296 --> 300
+    line [297, 298, 299]
 ```
 
-2026-10-24 297 → 2026-11-26 298（+1）
+2026-10-25 297 → 2026-11-27 299（+2）
 
 
 ---

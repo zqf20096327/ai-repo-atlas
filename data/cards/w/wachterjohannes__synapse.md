@@ -46,12 +46,12 @@ Synapse 将一个 markdown 笔记目录做成第二大脑：capture 类 agent �
 ```mermaid
 xychart-beta
     title "wachterjohannes/synapse 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-23 4 → 2026-11-26 4（+0）
+2026-11-23 4 → 2026-11-27 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # karailker/restorax
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/karailker/restorax) · [官网](https://karailker.github.io/restorax) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/karailker/restorax) · [官网](https://karailker.github.io/restorax) · 个人维护
 
 **开源 AI 视频/音频修复平台：老片与档案影像的复原管线**
 
@@ -41,6 +41,18 @@
 > L3: **Open-source AI video restoration toolkit for old films, home videos, and archival footage.**
 > L10: RestoraX combines 25 restoration models (11 fully work today, 4 more run through classical fallbacks — see Model st
 > L59: |`api`|<http://localhost:8000>|FastAPI — REST API + WebSocket progress|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "karailker/restorax 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

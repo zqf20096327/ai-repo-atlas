@@ -41,6 +41,18 @@
 > L3:  Hiring, attendance, payroll, tasks, video meetings, chats and a marketplace in one app.
 > L64: - **The local AI** needs an AMD or NVIDIA graphics card with about 16 GB of memory, a current driver, and about 60 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DHURJATI-JS/employee-management-system 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `b2523cb8078d` · [字段定义](../../DATASET.md)*

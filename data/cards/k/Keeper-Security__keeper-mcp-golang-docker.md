@@ -45,13 +45,13 @@ Keeper Secrets Manager 的 MCP 服务器实现，在 AI 语言模型（如 Claud
 
 ```mermaid
 xychart-beta
-    title "Keeper-Security/keeper-mcp-golang-docker 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "Keeper-Security/keeper-mcp-golang-docker 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 13
-    line [10, 12]
+    line [10, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

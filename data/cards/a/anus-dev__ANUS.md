@@ -1,6 +1,6 @@
 # anus-dev/ANUS
 
-⭐ 6,559 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/anus-dev/ANUS) · [官网](https://anus.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **终端免费编码 agent：自动在多个免费模型间路由请求**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

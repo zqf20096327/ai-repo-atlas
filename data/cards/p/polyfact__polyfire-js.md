@@ -44,13 +44,13 @@ Polyfire 的 JavaScript/TypeScript SDK，连接 Polyfire 托管 AI 后端，使�
 
 ```mermaid
 xychart-beta
-    title "polyfact/polyfire-js 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-15", "2026-11-26"]
-    y-axis "stars" 139 --> 143
-    line [140, 141, 142, 142]
+    title "polyfact/polyfire-js 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
+    y-axis "stars" 140 --> 143
+    line [141, 142, 142]
 ```
 
-2026-10-24 140 → 2026-11-26 142（+2）
+2026-10-25 141 → 2026-11-27 142（+1）
 
 
 ---

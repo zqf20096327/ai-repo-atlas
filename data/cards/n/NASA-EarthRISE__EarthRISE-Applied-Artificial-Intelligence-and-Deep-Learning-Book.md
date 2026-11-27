@@ -1,6 +1,6 @@
 # NASA-EarthRISE/EarthRISE-Applied-Artificial-Intelligence-and-Deep-Learning-Book
 
-⭐ 68 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/NASA-EarthRISE/EarthRISE-Applied-Artificial-Intelligence-and-Deep-Learning-Book) · [官网](https://nasa-earthrise.github.io/EarthRISE-Applied-Artificial-Intelligence-and-Deep-Learning-Book/) · 组织维护
+⭐ 69 · Jupyter Notebook · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/NASA-EarthRISE/EarthRISE-Applied-Artificial-Intelligence-and-Deep-Learning-Book) · [官网](https://nasa-earthrise.github.io/EarthRISE-Applied-Artificial-Intelligence-and-Deep-Learning-Book/) · 组织维护
 
 **NASA 出品的遥感深度学习实践指南（Quarto 电子书）**
 
@@ -45,12 +45,12 @@ NASA EarthRISE 计划出版的应用型开源电子书，面向遥感与地球�
 ```mermaid
 xychart-beta
     title "NASA-EarthRISE/EarthRISE-Applied-Artificial-Intelligence-and-Deep-Learning-Book 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-10-24 68 → 2026-11-26 68（+0）
+2026-10-25 68 → 2026-11-27 69（+1）
 
 
 ---

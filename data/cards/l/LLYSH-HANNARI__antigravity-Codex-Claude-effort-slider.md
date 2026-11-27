@@ -1,6 +1,6 @@
 # LLYSH-HANNARI/antigravity-Codex-Claude-effort-slider
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LLYSH-HANNARI/antigravity-Codex-Claude-effort-slider) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LLYSH-HANNARI/antigravity-Codex-Claude-effort-slider) · 个人维护 · 中文 README
 
 **给 Antigravity 桌面端/IDE 注入 Codex&Claude 风格推理档位滑条**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LLYSH-HANNARI/antigravity-Codex-Claude-effort-slider 星数(近 6 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 2 --> 13
-    line [3, 4, 6, 9, 11, 12]
+    title "LLYSH-HANNARI/antigravity-Codex-Claude-effort-slider 星数(近 7 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 14
+    line [3, 4, 6, 9, 11, 12, 13]
 ```
 
-2026-11-16 3 → 2026-11-26 12（+9）
+2026-11-16 3 → 2026-11-27 13（+10）
 
 
 ---

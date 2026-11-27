@@ -39,6 +39,18 @@
 > L4:  A Field Guide to Vibe Coding, AI IDEs & Agent Tooling
 > L6: A curated, living list of real communities, tools, and learning resources for anyone building software with AI, whet
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "House-of-Vibes/vibe-coding-community-and-learning-resources 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9668ff56bd40` · [字段定义](../../DATASET.md)*

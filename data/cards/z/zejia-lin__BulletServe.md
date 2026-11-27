@@ -46,12 +46,12 @@ BulletServe（Bullet）是面向 LLM serving 的系统，通过单设备内 pref
 ```mermaid
 xychart-beta
     title "zejia-lin/BulletServe 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
     y-axis "stars" 55 --> 58
     line [56, 57, 57]
 ```
 
-2026-10-24 56 → 2026-11-26 57（+1）
+2026-10-25 56 → 2026-11-27 57（+1）
 
 
 ---

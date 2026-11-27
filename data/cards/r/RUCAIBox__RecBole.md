@@ -1,6 +1,6 @@
 # RUCAIBox/RecBole
 
-⭐ 4,622 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RUCAIBox/RecBole) · [官网](https://recbole.io/) · 组织维护 · 中文 README
+⭐ 4,627 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RUCAIBox/RecBole) · [官网](https://recbole.io/) · 组织维护 · 中文 README
 
 **面向推荐算法研究的统一 PyTorch 实现库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "RUCAIBox/RecBole 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 4619 --> 4623
-    line [4620, 4622]
+    title "RUCAIBox/RecBole 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 4619 --> 4628
+    line [4620, 4622, 4627]
 ```
 
-2026-11-25 4,620 → 2026-11-26 4,622（+2）
+2026-11-25 4,620 → 2026-11-27 4,627（+7）
 
 
 ---

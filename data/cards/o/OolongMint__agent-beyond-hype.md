@@ -1,6 +1,6 @@
 # OolongMint/agent-beyond-hype
 
-⭐ 31 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/OolongMint/agent-beyond-hype) · 个人维护 · 中文 README
+⭐ 30 · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/OolongMint/agent-beyond-hype) · 个人维护 · 中文 README
 
 **AI Agent 使用者的思考文集与可复用任务模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OolongMint/agent-beyond-hype 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 1 --> 33
-    line [3, 4, 5, 28, 31, 31]
+    line [3, 4, 5, 28, 31, 30]
 ```
 
-2026-10-31 3 → 2026-11-26 31（+28）
+2026-10-31 3 → 2026-11-27 30（+27）
 
 
 ---

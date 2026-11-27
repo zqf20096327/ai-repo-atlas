@@ -1,6 +1,6 @@
 # HiAriesZhou/Howler
 
-⭐ 21 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HiAriesZhou/Howler) · [官网](https://howler.arieszhou.com) · 个人维护 · 中文 README
+⭐ 23 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/HiAriesZhou/Howler) · [官网](https://howler.arieszhou.com) · 个人维护 · 中文 README
 
 **macOS 菜单栏阅后即焚式 AI 问答信件应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HiAriesZhou/Howler 星数(近 9 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 3 --> 22
-    line [4, 6, 12, 19, 20, 21, 20, 21, 21]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 3 --> 24
+    line [4, 6, 12, 19, 20, 21, 20, 21, 23]
 ```
 
-2026-10-31 4 → 2026-11-26 21（+17）
+2026-10-31 4 → 2026-11-27 23（+19）
 
 
 ---

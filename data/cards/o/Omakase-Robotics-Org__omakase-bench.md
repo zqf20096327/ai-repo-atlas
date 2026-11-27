@@ -42,6 +42,18 @@ omakase-bench 是一个机器人任务基准与执行框架：指定模型后在
 > L15: It is a framework as much as a benchmark: bring a URDF and you have a robot; add a package and you have a
 > L49: |**Backend**|What executes the commands: MuJoCo (default, CPU), Isaac Sim, or a real robot. Simulators add reset an
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Omakase-Robotics-Org/omakase-bench 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7bcfa6479ee0` · [字段定义](../../DATASET.md)*

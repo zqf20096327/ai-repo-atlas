@@ -1,6 +1,6 @@
 # mevarx/Arana
 
-⭐ 7 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mevarx/Arana) · [官网](https://arana.mevarx.xyz/) · 个人维护 · 中文 README
+⭐ 9 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mevarx/Arana) · [官网](https://arana.mevarx.xyz/) · 个人维护 · 中文 README
 
 **给 AI Agent 和脚本提供只读网页访问的 Rust CLI 与本地 MCP**
 
@@ -46,13 +46,13 @@ Arana 是一个 Rust 编写的 CLI 工具，附带本地 MCP 服务器（stdio �
 
 ```mermaid
 xychart-beta
-    title "mevarx/Arana 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 4 --> 8
-    line [5, 7]
+    title "mevarx/Arana 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 10
+    line [5, 7, 9]
 ```
 
-2026-11-25 5 → 2026-11-26 7（+2）
+2026-11-25 5 → 2026-11-27 9（+4）
 
 
 ---

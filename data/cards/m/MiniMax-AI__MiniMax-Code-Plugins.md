@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-Code-Plugins
 
-⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Code-Plugins) · 组织维护 · 中文 README
+⭐ 28 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Code-Plugins) · 组织维护 · 中文 README
 
 **MiniMax Code 的社区插件注册表与贡献工具链**
 
@@ -45,12 +45,12 @@ MiniMax-AI 维护的 Agent Plugins 社区仓库：开发者将可移植插件放
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-Code-Plugins 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 20 --> 28
-    line [21, 22, 23, 21, 23, 24, 25, 26, 27, 27]
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 20 --> 29
+    line [21, 22, 23, 21, 23, 24, 25, 26, 27, 28]
 ```
 
-2026-10-24 21 → 2026-11-26 27（+6）
+2026-10-25 21 → 2026-11-27 28（+7）
 
 
 ---

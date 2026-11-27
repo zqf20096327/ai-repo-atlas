@@ -41,6 +41,18 @@
 > L36: GST Sutra is a focused demonstration of that idea and of building a grounded RAG system with Spring AI. The backend
 > L61: A general-purpose model may give outdated or incorrect GST rates. Retrieval-augmented generation limits the model t
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "smitroy4/GST-Sutra 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6368bdc99b35` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # wk544863858/dsh-plugin-magic-context
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/wk544863858/dsh-plugin-magic-context) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/wk544863858/dsh-plugin-magic-context) · 个人维护 · 中文 README
 
 **为 DSH 会话提供持久记忆与上下文回收的插件**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）桌面端的插件：将项目知识沉淀到插件自�
 ```mermaid
 xychart-beta
     title "wk544863858/dsh-plugin-magic-context 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-27"]
     y-axis "stars" 4 --> 10
     line [5, 7, 8, 9, 9]
 ```
 
-2026-11-08 5 → 2026-11-26 9（+4）
+2026-11-08 5 → 2026-11-27 9（+4）
 
 
 ---

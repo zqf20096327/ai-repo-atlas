@@ -1,6 +1,6 @@
 # leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide
 
-⭐ 65 · 推送 2026-11-19 · [GitHub](https://github.com/leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 78 · 推送 2026-11-19 · [GitHub](https://github.com/leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向电商与内容团队的虚拟卡（USDT 充值）开卡使用指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 10 --> 70
-    line [15, 38, 65]
+    title "leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 84
+    line [15, 38, 65, 78]
 ```
 
-2026-11-21 15 → 2026-11-26 65（+50）
+2026-11-21 15 → 2026-11-27 78（+63）
 
 
 ---

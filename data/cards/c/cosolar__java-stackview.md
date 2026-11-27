@@ -42,6 +42,18 @@
 > L103: **22 个板块，按「语言/算法 → 底层 → 框架 → 数据 → 分布式 → 架构 → 工程 → 方法论 → AI → 大数据 → 实战项目 → 面试」递进：**
 > L125: ||19 AI 与 LLM 工程化|7|RAG、Agent/MCP、LLM 应用架构、RAG 进阶、Prompt 工程与评测、向量库、模型选型与 Agent 评测护栏|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cosolar/java-stackview 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `effd16300d50` · [字段定义](../../DATASET.md)*

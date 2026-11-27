@@ -1,6 +1,6 @@
 # mlesnoff/JchemoData.jl
 
-⭐ 12 · Julia · 推送 2026-10-16 · [GitHub](https://github.com/mlesnoff/JchemoData.jl) · 个人维护
+⭐ 12 · Julia · 推送 2026-11-26 · [GitHub](https://github.com/mlesnoff/JchemoData.jl) · 个人维护
 
 **化学计量学数据集仓库：JLD2/CSV 格式的 NIR 光谱等数据**
 
@@ -45,12 +45,12 @@ Julia 数据包，收录化学计量学及相关领域数据集（JLD2、CSV 等
 ```mermaid
 xychart-beta
     title "mlesnoff/JchemoData.jl 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

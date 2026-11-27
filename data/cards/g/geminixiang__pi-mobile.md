@@ -1,6 +1,6 @@
 # geminixiang/pi-mobile
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/geminixiang/pi-mobile) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/geminixiang/pi-mobile) · 个人维护 · 中文 README
 
 **非官方 Android 客户端：在手机上运行 pi coding agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "geminixiang/pi-mobile 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-19", "2026-11-25", "2026-11-26"]
+    title "geminixiang/pi-mobile 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 5]
+    line [3, 4, 5, 6, 5, 5]
 ```
 
-2026-11-08 3 → 2026-11-26 5（+2）
+2026-11-08 3 → 2026-11-27 5（+2）
 
 
 ---

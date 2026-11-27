@@ -1,6 +1,6 @@
 # avibecoder42/Zotivity
 
-⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/avibecoder42/Zotivity) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/avibecoder42/Zotivity) · 个人维护
 
 **配合 Zotero 做文献检索、引用问答与文献综述的桌面应用**
 
@@ -46,12 +46,12 @@ Windows 桌面应用，与 Zotero 协同工作：通过 Zotero 本地 API 读取
 ```mermaid
 xychart-beta
     title "avibecoder42/Zotivity 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-27"]
     y-axis "stars" 21 --> 28
     line [22, 27, 27]
 ```
 
-2026-11-02 22 → 2026-11-26 27（+5）
+2026-11-02 22 → 2026-11-27 27（+5）
 
 
 ---

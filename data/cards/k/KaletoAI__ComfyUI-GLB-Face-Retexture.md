@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KaletoAI/ComfyUI-GLB-Face-Retexture 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-18", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-26 3（+0）
+2026-11-18 3 → 2026-11-27 3（+0）
 
 
 ---

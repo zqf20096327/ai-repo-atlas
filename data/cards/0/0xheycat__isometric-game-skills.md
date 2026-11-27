@@ -1,6 +1,6 @@
 # 0xheycat/isometric-game-skills
 
-⭐ 53 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/0xheycat/isometric-game-skills) · [官网](https://0xheycat.github.io/isometric-game-skills/demo/) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/0xheycat/isometric-game-skills) · [官网](https://0xheycat.github.io/isometric-game-skills/demo/) · 个人维护
 
 **等距游戏开发 AI agent 技能集（21 个 SKILL.md，覆盖美术到引擎）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xheycat/isometric-game-skills 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 38 --> 54
-    line [39, 40, 41, 42, 43, 40, 45, 46, 47, 48, 49, 51, 53, 53]
+    title "0xheycat/isometric-game-skills 星数(近 13 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 39 --> 55
+    line [40, 41, 42, 43, 40, 45, 46, 47, 48, 49, 51, 53, 54]
 ```
 
-2026-10-24 39 → 2026-11-26 53（+14）
+2026-10-25 40 → 2026-11-27 54（+14）
 
 
 ---

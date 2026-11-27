@@ -1,6 +1,6 @@
 # appclawhq/AppClaw
 
-⭐ 122 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/appclawhq/AppClaw) · [官网](https://appclaw.in/) · 组织维护
+⭐ 122 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/appclawhq/AppClaw) · [官网](https://appclaw.in/) · 组织维护
 
 **面向 Android/iOS 的自然语言移动自动化 Agent，LLM 驱动设备操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "appclawhq/AppClaw 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 117 --> 123
-    line [118, 119, 120, 119, 120, 122]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 118 --> 123
+    line [119, 120, 119, 120, 122, 122]
 ```
 
-2026-10-24 118 → 2026-11-26 122（+4）
+2026-10-25 119 → 2026-11-27 122（+3）
 
 
 ---

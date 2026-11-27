@@ -1,6 +1,6 @@
 # BSC-AppliedIntelligence/aplec-notetaker
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/BSC-AppliedIntelligence/aplec-notetaker) · 组织维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/BSC-AppliedIntelligence/aplec-notetaker) · 组织维护
 
 **团队自托管会议记录：录制会议并用本地 GPU 转写生成纪要**
 
@@ -41,6 +41,18 @@
 > L6: Self-hosted meeting notes for a team. Aplec records Google Meet, Microsoft Teams and
 > L8: structured notes (summary, decisions, action items with owners, open questions)
 > L21: - **Transcription** with whisper.cpp (large-v3), including meetings that switch
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BSC-AppliedIntelligence/aplec-notetaker 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-26 3 → 2026-11-27 5（+2）
 
 
 ---

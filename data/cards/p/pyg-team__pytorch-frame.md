@@ -1,6 +1,6 @@
 # pyg-team/pytorch-frame
 
-⭐ 802 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/pyg-team/pytorch-frame) · [官网](https://pytorch-frame.readthedocs.io) · 组织维护
+⭐ 801 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/pyg-team/pytorch-frame) · [官网](https://pytorch-frame.readthedocs.io) · 组织维护
 
 **面向异构表格数据的 PyTorch 深度学习框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pyg-team/pytorch-frame 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 800 --> 803
-    line [801, 802, 801, 802, 802]
+    line [801, 802, 801, 802, 801]
 ```
 
-2026-10-24 801 → 2026-11-26 802（+1）
+2026-10-25 801 → 2026-11-27 801（+0）
 
 
 ---

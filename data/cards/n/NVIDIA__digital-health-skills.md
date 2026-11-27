@@ -1,6 +1,6 @@
 # NVIDIA/digital-health-skills
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/NVIDIA/digital-health-skills) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-10-02 · [GitHub](https://github.com/NVIDIA/digital-health-skills) · 组织维护
 
 **面向医疗 AI 的 agent 技能与临床 ASR 评测工作流指南**
 
@@ -45,13 +45,13 @@ NVIDIA Digital Health 维护的仓库，提供 markdown 形式的 agent skills�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/digital-health-skills 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 10 --> 20
-    line [11, 12, 11, 13, 15, 16, 18, 19]
+    title "NVIDIA/digital-health-skills 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 21
+    line [11, 12, 11, 13, 15, 16, 18, 19, 20]
 ```
 
-2026-10-23 11 → 2026-11-26 19（+8）
+2026-10-24 11 → 2026-11-27 20（+9）
 
 
 ---

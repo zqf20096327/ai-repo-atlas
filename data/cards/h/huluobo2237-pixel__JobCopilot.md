@@ -1,6 +1,6 @@
 # huluobo2237-pixel/JobCopilot
 
-⭐ 145 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/huluobo2237-pixel/JobCopilot) · 个人维护 · 中文 README
+⭐ 146 · JavaScript · MIT · 推送 2026-06-18 · [GitHub](https://github.com/huluobo2237-pixel/JobCopilot) · 个人维护 · 中文 README
 
 **BOSS 直聘自动投递浏览器扩展：AI 筛岗位并生成招呼语**
 
@@ -44,13 +44,13 @@ Edge/Chrome 浏览器扩展（Manifest V3，原生 JavaScript），面向 BOSS �
 
 ```mermaid
 xychart-beta
-    title "huluobo2237-pixel/JobCopilot 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 139 --> 146
-    line [140, 141, 142, 143, 141, 145, 145]
+    title "huluobo2237-pixel/JobCopilot 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 140 --> 147
+    line [141, 142, 143, 141, 145, 146]
 ```
 
-2026-10-24 140 → 2026-11-26 145（+5）
+2026-10-25 141 → 2026-11-27 146（+5）
 
 
 ---

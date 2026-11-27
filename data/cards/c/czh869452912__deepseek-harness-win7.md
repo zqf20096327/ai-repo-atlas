@@ -1,6 +1,6 @@
 # czh869452912/deepseek-harness-win7
 
-⭐ 20 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/czh869452912/deepseek-harness-win7) · [官网](https://github.com/czh869452912/deepseek-harness-win7/releases/latest) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/czh869452912/deepseek-harness-win7) · [官网](https://github.com/czh869452912/deepseek-harness-win7/releases/latest) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Windows 7 Python 移植版，供 Win7 用户运行 AI 编程助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "czh869452912/deepseek-harness-win7 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "czh869452912/deepseek-harness-win7 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 18 --> 21
-    line [19, 20]
+    line [19, 20, 20]
 ```
 
-2026-11-25 19 → 2026-11-26 20（+1）
+2026-11-25 19 → 2026-11-27 20（+1）
 
 
 ---

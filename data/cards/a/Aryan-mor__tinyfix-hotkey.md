@@ -1,6 +1,6 @@
 # Aryan-mor/tinyfix-hotkey
 
-⭐ 3 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Aryan-mor/tinyfix-hotkey) · 个人维护
+⭐ 3 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Aryan-mor/tinyfix-hotkey) · 个人维护
 
 **给终端用户一键修正/翻译/改写所选文本的系统托盘工具**
 
@@ -40,6 +40,18 @@ C#/Avalonia 编写的桌面工具：在任何应用中选中文字后按快捷�
 
 > L5: TinyFix fixes, translates and rewrites the text you are typing, right where you type it: in chat, mail, your editor 
 > L17: - **Your model, your keys.** Google, OpenRouter or any OpenAI-compatible endpoint (including one running on your ow
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aryan-mor/tinyfix-hotkey 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -41,6 +41,18 @@ Kaleidosec 不提供扫描器或 payload 生成，注入的是一套决策协议
 > L14: Kaleidosec 以 Claude Code 插件的形式分发：一份常驻决策协议，加上两个生命周期 hook。
 > L51: 决策分层：硬边界由规则固定（高危操作人工确认、是否注入、基础盘必须执行），
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MWDLH/kaleidosec 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-26 25 → 2026-11-27 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c2effb54126c` · [字段定义](../../DATASET.md)*

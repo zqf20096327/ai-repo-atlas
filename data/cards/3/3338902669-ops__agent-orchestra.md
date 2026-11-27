@@ -1,6 +1,6 @@
 # 3338902669-ops/agent-orchestra
 
-⭐ 94 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/3338902669-ops/agent-orchestra) · 个人维护 · 中文 README
+⭐ 93 · JavaScript · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/3338902669-ops/agent-orchestra) · 个人维护 · 中文 README
 
 **多智能体协作治理协议：以代码强制八类契约与验证门**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "3338902669-ops/agent-orchestra 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 92 --> 95
-    line [93, 94, 94]
+    line [93, 94, 93]
 ```
 
-2026-10-24 93 → 2026-11-26 94（+1）
+2026-10-25 93 → 2026-11-27 93（+0）
 
 
 ---

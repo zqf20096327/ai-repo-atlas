@@ -41,6 +41,18 @@
 > L9: One line. It gives your coding agent (Claude Code, Codex, Antigravity) the skill:
 > L123: You need Node.js 18 or newer. No Python. The ffmpeg inside Remotion is used.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wonseokjung/connect-ai-video-motion 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4652cb91c3f1` · [字段定义](../../DATASET.md)*

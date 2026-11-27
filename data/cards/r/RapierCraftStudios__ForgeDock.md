@@ -1,6 +1,6 @@
 # RapierCraftStudios/ForgeDock
 
-⭐ 118 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/RapierCraftStudios/ForgeDock) · [官网](https://rapiercraftstudios.github.io/ForgeDock/) · 组织维护
+⭐ 117 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/RapierCraftStudios/ForgeDock) · [官网](https://rapiercraftstudios.github.io/ForgeDock/) · 组织维护
 
 **面向 Claude Code 的自主开发流水线：issue 进、合并 PR 出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RapierCraftStudios/ForgeDock 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-23", "2026-11-27"]
     y-axis "stars" 116 --> 120
-    line [119, 117, 118, 118]
+    line [119, 117, 118, 117]
 ```
 
-2026-10-24 119 → 2026-11-26 118（-1）
+2026-10-25 119 → 2026-11-27 117（-2）
 
 
 ---

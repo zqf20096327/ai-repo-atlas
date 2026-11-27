@@ -1,6 +1,6 @@
 # pylab-me/Codex-Shim
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/pylab-me/Codex-Shim) · [官网](https://github.com/pylab-me/codex-shim/releases/tag/preview-ui-2026-06-10-61) · 个人维护 · 中文 README
+⭐ 15 · Rust · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/pylab-me/Codex-Shim) · [官网](https://github.com/pylab-me/Codex-Shim/releases/tag/v0.6.x) · 个人维护 · 中文 README
 
 **Rust 编写的协议转换层：让 codex-cli 接入 OpenAI 兼容 Chat API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pylab-me/Codex-Shim 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

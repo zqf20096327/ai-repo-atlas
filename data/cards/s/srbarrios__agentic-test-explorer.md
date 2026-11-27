@@ -1,6 +1,6 @@
 # srbarrios/agentic-test-explorer
 
-⭐ 37 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/srbarrios/agentic-test-explorer) · [官网](https://oscarbarrios.tech/agentic-test-explorer/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/srbarrios/agentic-test-explorer) · [官网](https://oscarbarrios.tech/agentic-test-explorer/) · 个人维护
 
 **AI 驱动的通用 Web 探索性测试框架：多 agent 操控浏览器找 bug**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "srbarrios/agentic-test-explorer 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
+    title "srbarrios/agentic-test-explorer 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26", "2026-11-27"]
     y-axis "stars" 33 --> 38
-    line [34, 35, 36, 34, 35, 36, 37]
+    line [34, 35, 36, 34, 35, 36, 37, 37]
 ```
 
-2026-10-24 34 → 2026-11-26 37（+3）
+2026-10-25 34 → 2026-11-27 37（+3）
 
 
 ---

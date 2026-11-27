@@ -1,6 +1,6 @@
 # Cvar1984/sussyfinder
 
-⭐ 77 · PHP · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Cvar1984/sussyfinder) · 个人维护
+⭐ 78 · PHP · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Cvar1984/sussyfinder) · 个人维护
 
 **单文件 PHP webshell 扫描器：规则+统计+小型ML检测后门**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Cvar1984/sussyfinder 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 76 --> 78
-    line [77, 77]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 76 --> 79
+    line [77, 78]
 ```
 
-2026-10-24 77 → 2026-11-26 77（+0）
+2026-10-25 77 → 2026-11-27 78（+1）
 
 
 ---

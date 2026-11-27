@@ -1,6 +1,6 @@
 # jeszhou/montage-vlog-compiler
 
-⭐ 11 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/jeszhou/montage-vlog-compiler) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/jeszhou/montage-vlog-compiler) · 个人维护 · 中文 README
 
 **给 Vlog 创作者：把口播与素材编译成逐镜剪辑执行单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeszhou/montage-vlog-compiler 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-12", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-12 10 → 2026-11-26 11（+1）
+2026-11-12 10 → 2026-11-27 12（+2）
 
 
 ---

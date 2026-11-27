@@ -46,12 +46,12 @@ Noah Gift 所著《Pragmatic AI: An Introduction to Cloud-based Machine Learning
 ```mermaid
 xychart-beta
     title "noahgift/pragmaticai 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 139 --> 141
     line [140, 140]
 ```
 
-2026-11-25 140 → 2026-11-26 140（+0）
+2026-11-25 140 → 2026-11-27 140（+0）
 
 
 ---

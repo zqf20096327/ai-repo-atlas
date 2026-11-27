@@ -1,6 +1,6 @@
 # 8crsk/openclaw-android
 
-⭐ 20 · Kotlin · MIT · 推送 2026-10-14 · [GitHub](https://github.com/8crsk/openclaw-android) · [官网](https://4ais.in) · 个人维护
+⭐ 21 · Kotlin · MIT · 推送 2026-10-14 · [GitHub](https://github.com/8crsk/openclaw-android) · [官网](https://4ais.in) · 个人维护
 
 **在 Android 手机本地运行的 AI agent，通过读屏与模拟点击代办手机操作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "8crsk/openclaw-android 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 14 --> 21
-    line [15, 16, 18, 19, 20, 15, 20, 20]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 14 --> 22
+    line [15, 16, 18, 19, 20, 15, 20, 21]
 ```
 
-2026-10-24 15 → 2026-11-26 20（+5）
+2026-10-25 15 → 2026-11-27 21（+6）
 
 
 ---

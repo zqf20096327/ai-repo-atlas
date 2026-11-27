@@ -1,6 +1,6 @@
 # BerriAI/liteagents
 
-⭐ 42 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/BerriAI/liteagents) · [官网](https://www.litellm.ai/liteagents) · 组织维护
+⭐ 42 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/BerriAI/liteagents) · [官网](https://www.litellm.ai/liteagents) · 组织维护
 
 **跨 agent 框架的统一 Python SDK，一套代码切换六种 harness**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BerriAI/liteagents 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
     y-axis "stars" 39 --> 43
     line [40, 41, 40, 41, 42, 42]
 ```
 
-2026-10-24 40 → 2026-11-26 42（+2）
+2026-10-25 40 → 2026-11-27 42（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # anshuman-pandey/open-granola
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/anshuman-pandey/open-granola) · [官网](https://github.com/anshuman-pandey/open-granola) · 个人维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/anshuman-pandey/open-granola) · [官网](https://github.com/anshuman-pandey/open-granola) · 个人维护
 
 **本地优先的开源会议笔记桌面应用：本地 Whisper 转写加可选拆要模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anshuman-pandey/open-granola 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 15 --> 18
     line [17, 16, 17, 16, 16]
 ```
 
-2026-10-24 17 → 2026-11-26 16（-1）
+2026-10-25 17 → 2026-11-27 16（-1）
 
 
 ---

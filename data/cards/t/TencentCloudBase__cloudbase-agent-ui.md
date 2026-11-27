@@ -1,6 +1,6 @@
 # TencentCloudBase/cloudbase-agent-ui
 
-⭐ 99 · JavaScript · MIT · 推送 2026-01-29 · [GitHub](https://github.com/TencentCloudBase/cloudbase-agent-ui) · [官网](https://docs.cloudbase.net/ai/quickstart) · 组织维护 · 中文 README
+⭐ 98 · JavaScript · MIT · 推送 2026-01-29 · [GitHub](https://github.com/TencentCloudBase/cloudbase-agent-ui) · [官网](https://docs.cloudbase.net/ai/quickstart) · 组织维护 · 中文 README
 
 **微信小程序 AI 对话 UI 组件：开箱即用接入大模型与 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TencentCloudBase/cloudbase-agent-ui 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 97 --> 100
-    line [98, 99, 99]
+    line [98, 99, 98]
 ```
 
-2026-10-24 98 → 2026-11-26 99（+1）
+2026-10-25 98 → 2026-11-27 98（+0）
 
 
 ---

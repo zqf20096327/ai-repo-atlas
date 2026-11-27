@@ -1,6 +1,6 @@
 # Scottcjn/legend-of-elya-n64
 
-⭐ 139 · C · MIT · 推送 2026-08-30 · [GitHub](https://github.com/Scottcjn/legend-of-elya-n64) · [官网](https://hackaday.io/project/206401-transformers-on-retro-game-consoles) · 个人维护
+⭐ 138 · C · MIT · 推送 2026-08-30 · [GitHub](https://github.com/Scottcjn/legend-of-elya-n64) · [官网](https://hackaday.io/project/206401-transformers-on-retro-game-consoles) · 个人维护
 
 **在 N64 主机 CPU 上实时运行 transformer 的 AI NPC 游戏 ROM**
 
@@ -46,12 +46,12 @@ N64 自制游戏 ROM：塞尔达式地牢中玩家靠近 NPC Sophia Elya 按 A �
 ```mermaid
 xychart-beta
     title "Scottcjn/legend-of-elya-n64 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 138 --> 143
-    line [142, 140, 139, 139]
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 137 --> 143
+    line [142, 140, 139, 138]
 ```
 
-2026-10-29 142 → 2026-11-26 139（-3）
+2026-10-29 142 → 2026-11-27 138（-4）
 
 
 ---

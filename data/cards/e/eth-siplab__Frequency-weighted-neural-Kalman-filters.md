@@ -1,6 +1,6 @@
 # eth-siplab/Frequency-weighted-neural-Kalman-filters
 
-⭐ 12 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/eth-siplab/Frequency-weighted-neural-Kalman-filters) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-03-05 · [GitHub](https://github.com/eth-siplab/Frequency-weighted-neural-Kalman-filters) · 组织维护
 
 **面向科研的频域加权神经卡尔曼滤波器官方实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eth-siplab/Frequency-weighted-neural-Kalman-filters 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

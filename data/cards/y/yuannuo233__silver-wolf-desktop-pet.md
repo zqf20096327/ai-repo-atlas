@@ -1,6 +1,6 @@
 # yuannuo233/silver-wolf-desktop-pet
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/yuannuo233/silver-wolf-desktop-pet) · 个人维护 · 中文 README
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/yuannuo233/silver-wolf-desktop-pet) · 个人维护 · 中文 README
 
 **星穹铁道银狼主题 Windows 桌宠，可接 OpenAI 兼容接口聊天**
 
@@ -40,6 +40,18 @@
 > L10: 致敬《崩坏：星穹铁道》「银狼」的桌面伴侣（非官方粉丝作品，免费、非商业）：
 > L16: - 🐺 **桌面浮窗宠物**：永远置顶、单击说话、双击快问快答、右键菜单（动作 / 尺寸 / 主题开关）
 > L97: 不配置 AI 也完全可用（她说离线台词）。想跟她真聊，只需要一个 API 密钥：
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yuannuo233/silver-wolf-desktop-pet 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

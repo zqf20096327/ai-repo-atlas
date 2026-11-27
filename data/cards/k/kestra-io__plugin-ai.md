@@ -1,6 +1,6 @@
 # kestra-io/plugin-ai
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kestra-io/plugin-ai) · 组织维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/kestra-io/plugin-ai) · 组织维护
 
 **Kestra 编排平台的 AI 插件，在工作流中接入生成式 AI**
 
@@ -45,12 +45,12 @@ Kestra 事件驱动声明式编排平台的 AI 插件，基于 LangChain4j 在�
 ```mermaid
 xychart-beta
     title "kestra-io/plugin-ai 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

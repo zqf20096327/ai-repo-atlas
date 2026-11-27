@@ -42,6 +42,18 @@
 > L57: - **One API for every provider.** OpenAI format (`/v1/chat/completions`, `/v1/responses`,
 > L66: - **Lite and private.** Runs on your computer or server (Node.js and SQLite), near-zero CPU when
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "allswebtech/trouteai 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
+```
+
+2026-11-26 36 → 2026-11-27 36（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3da098b08f1a` · [字段定义](../../DATASET.md)*

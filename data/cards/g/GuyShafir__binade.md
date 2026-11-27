@@ -1,6 +1,6 @@
 # GuyShafir/binade
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/GuyShafir/binade) · [官网](https://huggingface.co/Binade) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/GuyShafir/binade) · [官网](https://huggingface.co/Binade) · 个人维护
 
 **BF16 LLM 权重无损压缩与加载运行库，输出逐位一致**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GuyShafir/binade 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 4 --> 11
     line [5, 10, 5, 10, 10]
 ```
 
-2026-10-24 5 → 2026-11-26 10（+5）
+2026-10-25 5 → 2026-11-27 10（+5）
 
 
 ---

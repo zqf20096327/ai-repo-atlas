@@ -1,6 +1,6 @@
 # agnosticeng/agx
 
-⭐ 263 · Svelte · MIT · 推送 2026-03-10 · [GitHub](https://github.com/agnosticeng/agx) · [官网](https://agx.app) · 组织维护
+⭐ 264 · Svelte · MIT · 推送 2026-03-10 · [GitHub](https://github.com/agnosticeng/agx) · [官网](https://agx.app) · 组织维护
 
 **桌面/网页数据查询分析工具，支持本地 Ollama 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agnosticeng/agx 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 260 --> 264
-    line [261, 262, 261, 262, 263, 263]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 260 --> 265
+    line [261, 262, 261, 262, 263, 264]
 ```
 
-2026-10-24 261 → 2026-11-26 263（+2）
+2026-10-25 261 → 2026-11-27 264（+3）
 
 
 ---

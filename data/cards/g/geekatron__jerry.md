@@ -1,6 +1,6 @@
 # geekatron/jerry
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/geekatron/jerry) · [官网](https://jerry.geekatron.org) · 个人维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/geekatron/jerry) · [官网](https://jerry.geekatron.org) · 个人维护
 
 **Claude Code 插件：为编码会话提供行为守则与知识沉淀**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "geekatron/jerry 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-24 37 → 2026-11-26 37（+0）
+2026-10-25 37 → 2026-11-27 37（+0）
 
 
 ---

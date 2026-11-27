@@ -1,6 +1,6 @@
 # betweentwomidnights/gary-localhost-installer
 
-⭐ 12 · Python · 推送 2026-11-25 · [GitHub](https://github.com/betweentwomidnights/gary-localhost-installer) · [官网](https://thecollabagepatch.com) · 个人维护
+⭐ 12 · Python · 推送 2026-11-26 · [GitHub](https://github.com/betweentwomidnights/gary-localhost-installer) · [官网](https://thecollabagepatch.com) · 个人维护
 
 **一键安装并管理 7 个本地音乐生成模型的 Windows 控制中心**
 
@@ -49,12 +49,12 @@ gary4local 是基于 Tauri、Rust 和 Svelte 的 Windows 控制中心，用于�
 ```mermaid
 xychart-beta
     title "betweentwomidnights/gary-localhost-installer 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 12（+1）
+2026-10-25 11 → 2026-11-27 12（+1）
 
 
 ---

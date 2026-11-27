@@ -45,13 +45,13 @@ MoonshotAI 发布的多模态大语言模型基准数据集：以 3,500 个 VQA 
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/WorldVQA 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "MoonshotAI/WorldVQA 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 122 --> 125
-    line [123, 124]
+    line [123, 124, 124]
 ```
 
-2026-10-24 123 → 2026-11-26 124（+1）
+2026-10-25 123 → 2026-11-27 124（+1）
 
 
 ---

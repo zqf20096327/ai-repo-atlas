@@ -1,6 +1,6 @@
 # oliveiracarlosadv/Lex-Vade-Mecum
 
-⭐ 3 · HTML · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/oliveiracarlosadv/Lex-Vade-Mecum) · 个人维护
+⭐ 4 · HTML · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/oliveiracarlosadv/Lex-Vade-Mecum) · 个人维护
 
 **面向 AI 与 RAG 使用场景的巴西法律 Markdown 语料库**
 
@@ -40,6 +40,18 @@
 > L3:  Leis brasileiras em Markdown, fiéis ao texto oficial e prontas para IA.
 > L7: Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicado no Portal da Legislação do Planalto
 > L89: - **Indexação vetorial (RAG):** divida os trechos pelos títulos `### Art.`. Cada artigo traz sua localização, o tex
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "oliveiracarlosadv/Lex-Vade-Mecum 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

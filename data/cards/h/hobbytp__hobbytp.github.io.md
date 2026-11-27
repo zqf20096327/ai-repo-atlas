@@ -1,6 +1,6 @@
 # hobbytp/hobbytp.github.io
 
-⭐ 15 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hobbytp/hobbytp.github.io) · [官网](https://hobbytp.github.io/) · 个人维护 · 中文 README
+⭐ 15 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hobbytp/hobbytp.github.io) · [官网](https://hobbytp.github.io/) · 个人维护 · 中文 README
 
 **个人 AI 技术博客：论文解读、技术分析与开源项目分享**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hobbytp/hobbytp.github.io 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "hobbytp/hobbytp.github.io 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-24 14 → 2026-11-26 15（+1）
+2026-10-25 14 → 2026-11-27 15（+1）
 
 
 ---

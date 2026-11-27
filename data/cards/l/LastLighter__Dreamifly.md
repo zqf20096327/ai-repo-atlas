@@ -1,6 +1,6 @@
 # LastLighter/Dreamifly
 
-⭐ 210 · TypeScript · 推送 2026-07-13 · [GitHub](https://github.com/LastLighter/Dreamifly) · [官网](https://imagifly.net/) · 个人维护 · 中文 README
+⭐ 211 · TypeScript · 推送 2026-07-13 · [GitHub](https://github.com/LastLighter/Dreamifly) · [官网](https://imagifly.net/) · 个人维护 · 中文 README
 
 **基于 Next.js 与 ComfyUI API 的 AI 图像生成 Web 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LastLighter/Dreamifly 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 205 --> 211
-    line [206, 207, 206, 208, 209, 210, 210]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 205 --> 212
+    line [206, 207, 206, 208, 209, 210, 211]
 ```
 
-2026-10-24 206 → 2026-11-26 210（+4）
+2026-10-25 206 → 2026-11-27 211（+5）
 
 
 ---

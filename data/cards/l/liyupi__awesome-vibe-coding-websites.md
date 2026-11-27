@@ -1,6 +1,6 @@
 # liyupi/awesome-vibe-coding-websites
 
-⭐ 303 · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/liyupi/awesome-vibe-coding-websites) · [官网](https://vibefather.ai) · 个人维护 · 中文 README
+⭐ 340 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/liyupi/awesome-vibe-coding-websites) · [官网](https://vibefather.ai) · 个人维护 · 中文 README
 
 **AI 生成网站模板库：324 套模板附原始提示词与设计文档**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liyupi/awesome-vibe-coding-websites 星数(近 10 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 332
-    line [10, 16, 17, 18, 19, 83, 96, 104, 141, 303]
+    title "liyupi/awesome-vibe-coding-websites 星数(近 11 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 373
+    line [10, 16, 17, 18, 19, 83, 96, 104, 141, 303, 340]
 ```
 
-2026-11-13 10 → 2026-11-26 303（+293）
+2026-11-13 10 → 2026-11-27 340（+330）
 
 
 ---

@@ -44,13 +44,13 @@ Carl Zeiss Microscopy 维护的开源工具集，用于在 ZEN Blue 显微成像
 
 ```mermaid
 xychart-beta
-    title "zeiss-microscopy/OAD 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "zeiss-microscopy/OAD 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 173 --> 176
-    line [174, 175]
+    line [174, 175, 175]
 ```
 
-2026-10-24 174 → 2026-11-26 175（+1）
+2026-10-25 174 → 2026-11-27 175（+1）
 
 
 ---

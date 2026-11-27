@@ -46,12 +46,12 @@ JevGPT 是构建在 TypeSafe AI `jev-latest` 决策模型上的聊天客户端�
 ```mermaid
 xychart-beta
     title "Bewinxed/jevgpt 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-24 32 → 2026-11-26 32（+0）
+2026-10-25 32 → 2026-11-27 32（+0）
 
 
 ---

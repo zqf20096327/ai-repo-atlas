@@ -1,6 +1,6 @@
 # open-mmlab/FoleyCrafter
 
-⭐ 666 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/open-mmlab/FoleyCrafter) · [官网](https://foleycrafter.github.io/) · 组织维护 · 中文 README
+⭐ 667 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/open-mmlab/FoleyCrafter) · [官网](https://foleycrafter.github.io/) · 组织维护 · 中文 README
 
 **为无声视频生成语义相关且同步音效的 video-to-audio 框架**
 
@@ -46,12 +46,12 @@ FoleyCrafter 是视频转音频生成框架，基于扩散模型的文本到音�
 ```mermaid
 xychart-beta
     title "open-mmlab/FoleyCrafter 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-11", "2026-11-12", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 664 --> 667
-    line [665, 666, 665, 666, 666]
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-12", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 664 --> 668
+    line [665, 666, 665, 666, 667]
 ```
 
-2026-10-24 665 → 2026-11-26 666（+1）
+2026-10-25 665 → 2026-11-27 667（+2）
 
 
 ---

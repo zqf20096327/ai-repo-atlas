@@ -1,6 +1,6 @@
 # Lawson13538/comfyui-flux-1-dev-gguf-nsfw-oneclick
 
-⭐ 28 · C# · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Lawson13538/comfyui-flux-1-dev-gguf-nsfw-oneclick) · [官网](https://Lawson13538.github.io/comfyui-flux-1-dev-gguf-nsfw-oneclick/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Windows 用户的 ComfyUI/FLUX.1 GGUF 一键部署包（含密码压缩档）**
 
@@ -11,7 +11,7 @@ README 提供一个 Windows 10/11 x64 平台的独立压缩包与可执行文件
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

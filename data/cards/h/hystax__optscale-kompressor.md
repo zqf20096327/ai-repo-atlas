@@ -1,6 +1,6 @@
 # hystax/optscale-kompressor
 
-⭐ 72 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hystax/optscale-kompressor) · 组织维护
+⭐ 74 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hystax/optscale-kompressor) · 组织维护
 
 **给编程 agent 压缩提示词、降低 API 账单的本地代理**
 
@@ -40,6 +40,18 @@
 > L9: OptScale Kompressor sits between a coding agent and its model provider. It
 > L20: kompressor wrap codex
 > L68: Kompressor's Anthropic profile answers it in three parts:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hystax/optscale-kompressor 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 71 --> 75
+    line [72, 74]
+```
+
+2026-11-26 72 → 2026-11-27 74（+2）
 
 
 ---

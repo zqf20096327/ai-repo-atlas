@@ -42,6 +42,18 @@
 > L146: **AI assistant (bring your own key)**
 > L151: - Fully optional — disable it entirely in Settings
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aetherion7/mosaic 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b4b80e06ad2d` · [字段定义](../../DATASET.md)*

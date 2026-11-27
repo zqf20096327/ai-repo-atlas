@@ -1,6 +1,6 @@
 # xiangwen-ctrl/awsquick2api
 
-⭐ 3 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xiangwen-ctrl/awsquick2api) · 个人维护 · 中文 README
+⭐ 3 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xiangwen-ctrl/awsquick2api) · 个人维护 · 中文 README
 
 **给开发者提供把 Amazon Quick 转为 OpenAI/Anthropic 兼容 API 的自托管网关**
 
@@ -39,6 +39,18 @@
 
 > L8: AWSQuick2API 是一个纯 Go 编写的自托管网关，可将 Amazon Quick 账号封装为标准的 OpenAI、Anthropic（Claude Code）与 Codex Responses 兼容 API，并内置单页 W
 > L12: - **多协议兼容**：支持 OpenAI (`/v1/chat/completions`)、Anthropic (`/v1/messages` 及 `count_tokens`) 与 Codex Responses (`/v1/
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xiangwen-ctrl/awsquick2api 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

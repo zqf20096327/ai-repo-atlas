@@ -1,6 +1,6 @@
 # ar27111994/penpot-mcp
 
-⭐ 31 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ar27111994/penpot-mcp) · [官网](https://www.skills.sh/ar27111994/penpot-mcp) · 个人维护
+⭐ 32 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ar27111994/penpot-mcp) · [官网](https://www.skills.sh/ar27111994/penpot-mcp) · 个人维护
 
 **让 AI agent 通过 Penpot MCP 创建与维护设计系统的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ar27111994/penpot-mcp 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32]
 ```
 
-2026-10-24 30 → 2026-11-26 31（+1）
+2026-10-25 30 → 2026-11-27 32（+2）
 
 
 ---

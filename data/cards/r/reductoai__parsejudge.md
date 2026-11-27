@@ -45,13 +45,13 @@ Parse Judge 将文档每页渲染为同一图像发送给多个解析服务商�
 
 ```mermaid
 xychart-beta
-    title "reductoai/parsejudge 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
+    title "reductoai/parsejudge 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 4 --> 7
-    line [5, 6]
+    line [5, 6, 6]
 ```
 
-2026-11-18 5 → 2026-11-26 6（+1）
+2026-11-18 5 → 2026-11-27 6（+1）
 
 
 ---

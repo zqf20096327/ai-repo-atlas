@@ -46,12 +46,12 @@ AgroMaster 是 University of Ruhuna 的机器学习课程/研究项目，基于 
 ```mermaid
 xychart-beta
     title "kaluarachchiteshan/agromaster-ml 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-16 5 → 2026-11-26 5（+0）
+2026-11-16 5 → 2026-11-27 5（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Next.js 构建的 Web 应用：上传 PDF（最大 4.5 MB）后选择难度，�
 ```mermaid
 xychart-beta
     title "Nour-yahyaoui/pdf-to-quiz 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-26"]
+    x-axis ["2026-11-01", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-01 3 → 2026-11-26 3（+0）
+2026-11-01 3 → 2026-11-27 3（+0）
 
 
 ---

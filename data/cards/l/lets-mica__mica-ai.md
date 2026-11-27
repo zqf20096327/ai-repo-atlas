@@ -1,6 +1,6 @@
 # lets-mica/mica-ai
 
-⭐ 33 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lets-mica/mica-ai) · [官网](https://www.dreamlu.net) · 组织维护 · 中文 README
+⭐ 33 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lets-mica/mica-ai) · [官网](https://www.dreamlu.net) · 组织维护 · 中文 README
 
 **面向 Java 生态的多模型 AI 推理工具箱，JVM 内直接运行**
 
@@ -46,12 +46,12 @@ Mica AI 为 Java 工程师提供纯 Java 推理的 AI 能力模块：基于 ONNX
 ```mermaid
 xychart-beta
     title "lets-mica/mica-ai 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-27"]
     y-axis "stars" 16 --> 34
     line [17, 18, 17, 28, 29, 31, 33, 33]
 ```
 
-2026-10-24 17 → 2026-11-26 33（+16）
+2026-10-25 17 → 2026-11-27 33（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # bencz/Llama3.FSharp
 
-⭐ 3 · F# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/bencz/Llama3.FSharp) · 个人维护
+⭐ 3 · F# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bencz/Llama3.FSharp) · 个人维护
 
 **给开发者的 Llama/Qwen 本地推理运行时（F#，CPU/GPU/混合）**
 
@@ -47,12 +47,12 @@ F# 编写的 Llama/Qwen 推理运行时，起源于 likejazz/llama3.cuda 的移�
 ```mermaid
 xychart-beta
     title "bencz/Llama3.FSharp 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-26"]
+    x-axis ["2026-11-22", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-26 3（+0）
+2026-11-22 3 → 2026-11-27 3（+0）
 
 
 ---

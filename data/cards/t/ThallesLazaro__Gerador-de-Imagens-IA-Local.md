@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThallesLazaro/Gerador-de-Imagens-IA-Local 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-26"]
+    title "ThallesLazaro/Gerador-de-Imagens-IA-Local 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 6]
+    line [3, 4, 6, 6]
 ```
 
-2026-11-02 3 → 2026-11-26 6（+3）
+2026-11-02 3 → 2026-11-27 6（+3）
 
 
 ---

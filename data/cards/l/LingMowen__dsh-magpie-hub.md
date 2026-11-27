@@ -1,6 +1,6 @@
 # LingMowen/dsh-magpie-hub
 
-⭐ 4 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/LingMowen/dsh-magpie-hub) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/LingMowen/dsh-magpie-hub) · 个人维护 · 中文 README
 
 **让 DSH 用户在 DeepSeek Harness 内直接运行 magpie 供应商插件**
 
@@ -40,6 +40,18 @@ DeepSeek Harness（DSH）的插件：实现 magpie 插件协议的宿主，使�
 > L3: 在 **DeepSeek Harness（DSH）进程内**直接运行 magpie 的供应商插件：登录、列模型、转发请求、看额度、签到、装插件。桌面与手机共用同一份数据。
 > L16: magpie 的价值在**插件生态**——一批国内外 AI 平台各自提供了供应商插件。那些插件是普通 ESM 模块，导出一个函数、返回一组钩子——本插件在 DSH 里实现这些钩子的宿主，于是**为 magpie 写的插件不改一行就
 > L21: |模型进 DSH|每个 provider 注册成 DSH 的一条模型路由|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LingMowen/dsh-magpie-hub 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-26 4 → 2026-11-27 5（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MuhammadUsmanGM/claude-code-best-practices
 
-⭐ 117 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MuhammadUsmanGM/claude-code-best-practices) · [官网](https://muhammadusmangm.github.io/claude-code-best-practices/) · 个人维护
+⭐ 118 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/MuhammadUsmanGM/claude-code-best-practices) · [官网](https://muhammadusmangm.github.io/claude-code-best-practices/) · 个人维护
 
 **Claude Code 使用最佳实践知识库：指南、模板与启动套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MuhammadUsmanGM/claude-code-best-practices 星数(近 15 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 97 --> 118
-    line [98, 100, 103, 104, 105, 98, 108, 109, 110, 111, 112, 113, 114, 116, 117]
+    title "MuhammadUsmanGM/claude-code-best-practices 星数(近 16 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 96 --> 120
+    line [98, 100, 103, 104, 105, 98, 108, 109, 110, 111, 112, 113, 114, 116, 117, 118]
 ```
 
-2026-10-24 98 → 2026-11-26 117（+19）
+2026-10-25 98 → 2026-11-27 118（+20）
 
 
 ---

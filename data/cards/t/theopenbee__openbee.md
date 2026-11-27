@@ -1,6 +1,6 @@
 # theopenbee/openbee
 
-⭐ 56 · Go · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/theopenbee/openbee) · [官网](https://www.theopenbee.com/) · 组织维护 · 中文 README
+⭐ 56 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/theopenbee/openbee) · [官网](https://www.theopenbee.com/) · 组织维护 · 中文 README
 
 **自托管服务：把 Claude Code/Codex/Pi 等 AI agent 接入聊天平台使用**
 
@@ -45,13 +45,13 @@ OpenBee 是一个自托管（self-hosted）的数字员工服务：将 Claude Co
 
 ```mermaid
 xychart-beta
-    title "theopenbee/openbee 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26"]
+    title "theopenbee/openbee 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 31 --> 58
-    line [34, 33, 42, 48, 49, 53, 54, 56]
+    line [34, 33, 42, 48, 49, 53, 54, 56, 56]
 ```
 
-2026-10-24 34 → 2026-11-26 56（+22）
+2026-10-25 34 → 2026-11-27 56（+22）
 
 
 ---

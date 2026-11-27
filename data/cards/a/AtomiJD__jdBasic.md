@@ -1,6 +1,6 @@
 # AtomiJD/jdBasic
 
-⭐ 19 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AtomiJD/jdBasic) · [官网](https://www.jdbasic.org) · 个人维护
+⭐ 19 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AtomiJD/jdBasic) · [官网](https://www.jdbasic.org) · 个人维护
 
 **BASIC 解释器/编译器：内置数组、图形、本地 LLM 与 MCP 服务**
 
@@ -47,12 +47,12 @@ BASIC 语言的现代实现：字节码 VM 与 APL 风格数组向量化（IOTA/
 ```mermaid
 xychart-beta
     title "AtomiJD/jdBasic 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 19（+0）
 
 
 ---

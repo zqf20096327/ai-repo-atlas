@@ -41,6 +41,18 @@ Python 工具包与应用的组合：通过在残差流中定位拒绝方向并�
 > L131: Three ways in (browser UI, CLI, Python API), one `Ablator` pipeline, no training.
 > L187: pip install ablate-llm          # the import name is still `ablate`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AIAnytime/ablate 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6079c799cd30` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # thienkhiykinh2832-source/coregold-usdt-vcc-xai-cofounders-epochal-prediction-agents-guide
 
-⭐ 9 · 推送 2026-11-25 · [GitHub](https://github.com/thienkhiykinh2832-source/coregold-usdt-vcc-xai-cofounders-epochal-prediction-agents-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 23 · 推送 2026-11-25 · [GitHub](https://github.com/thienkhiykinh2832-source/coregold-usdt-vcc-xai-cofounders-epochal-prediction-agents-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **借 AI 资讯推广 CoreGold 虚拟卡开卡绑定的中文教程**
 
@@ -38,6 +38,18 @@
 > L2: 11 月 24 日，xAI 三位联合创始人带着 1 亿美元融资官宣新公司 Epochal，主攻超人类预测智能体与历史网页回溯——聊聊开发者在跑多账号爬虫、数据接口和海外工具对比时，怎么用 CoreGold 虚拟卡 避免支付层关联。
 > L25: 访问 **CoreGold 官方平台**：https://app.coregold.io/signup?invite_code=ADvlj9b，使用常用邮箱注册并登录进入用户后台。
 > L46: ### 🚀 立即注册 CoreGold，搭建你的独立隔离测试卡库
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thienkhiykinh2832-source/coregold-usdt-vcc-xai-cofounders-epochal-prediction-agents-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 24
+    line [9, 23]
+```
+
+2026-11-26 9 → 2026-11-27 23（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # m4yk3ldev/notebooklm-mcp
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/m4yk3ldev/notebooklm-mcp) · [官网](https://github.com/m4yk3ldev/notebooklm-mcp#readme) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/m4yk3ldev/notebooklm-mcp) · [官网](https://github.com/m4yk3ldev/notebooklm-mcp#readme) · 个人维护
 
 **把 Google NotebookLM 接入 MCP 的本地服务器（27 个工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "m4yk3ldev/notebooklm-mcp 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 20, 23, 24, 24]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 19 --> 26
+    line [20, 21, 20, 23, 24, 25]
 ```
 
-2026-10-24 20 → 2026-11-26 24（+4）
+2026-10-25 20 → 2026-11-27 25（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # lktransformation/job-search-agents
 
-⭐ 4 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/lktransformation/job-search-agents) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/lktransformation/job-search-agents) · 个人维护
 
 **面向求职者的本地 AI agent：生成定制简历、求职信与面试准备材料**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lktransformation/job-search-agents 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-13", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-13 3 → 2026-11-26 4（+1）
+2026-11-13 3 → 2026-11-27 5（+2）
 
 
 ---

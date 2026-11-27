@@ -47,12 +47,12 @@ nonconform 是一个 Python 异常检测库：将现有检测器（PyOD、scikit
 ```mermaid
 xychart-beta
     title "OliverHennhoefer/nonconform 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-11-25 58 → 2026-11-26 58（+0）
+2026-11-25 58 → 2026-11-27 58（+0）
 
 
 ---

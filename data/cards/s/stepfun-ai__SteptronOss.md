@@ -1,6 +1,6 @@
 # stepfun-ai/SteptronOss
 
-⭐ 592 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/stepfun-ai/SteptronOss) · 组织维护 · 中文 README
+⭐ 591 · Python · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/stepfun-ai/SteptronOss) · 组织维护 · 中文 README
 
 **轻量级 LLM 训练框架：SFT/RLVR/评测的模块化实验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stepfun-ai/SteptronOss 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-27"]
     y-axis "stars" 588 --> 593
-    line [589, 590, 591, 592, 592]
+    line [589, 590, 591, 592, 591]
 ```
 
-2026-10-24 589 → 2026-11-26 592（+3）
+2026-10-25 589 → 2026-11-27 591（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Microck/discord.py-self-mcp
 
-⭐ 79 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Microck/discord.py-self-mcp) · [官网](https://www.npmjs.com/package/discord-selfbot-mcp) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Microck/discord.py-self-mcp) · [官网](https://www.npmjs.com/package/discord-selfbot-mcp) · 个人维护
 
 **让 AI 助手操作个人 Discord 账号的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Microck/discord.py-self-mcp 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 72 --> 80
-    line [73, 76, 77, 78, 79, 79]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 72 --> 81
+    line [73, 76, 77, 78, 79, 80]
 ```
 
-2026-10-24 73 → 2026-11-26 79（+6）
+2026-10-25 73 → 2026-11-27 80（+7）
 
 
 ---

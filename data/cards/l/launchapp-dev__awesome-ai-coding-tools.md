@@ -1,6 +1,6 @@
 # launchapp-dev/awesome-ai-coding-tools
 
-⭐ 13 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/launchapp-dev/awesome-ai-coding-tools) · [官网](https://github.com/launchapp-dev/awesome-ai-coding-tools) · 组织维护
+⭐ 13 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/launchapp-dev/awesome-ai-coding-tools) · [官网](https://github.com/launchapp-dev/awesome-ai-coding-tools) · 组织维护
 
 **AI 编程工具策展清单：编辑器、Agent、代码审查、测试等**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "launchapp-dev/awesome-ai-coding-tools 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-27"]
     y-axis "stars" 9 --> 14
     line [10, 11, 10, 12, 13, 13]
 ```
 
-2026-10-24 10 → 2026-11-26 13（+3）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

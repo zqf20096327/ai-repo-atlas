@@ -1,6 +1,6 @@
 # lattice-writer/lattice
 
-⭐ 563 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lattice-writer/lattice) · [官网](https://lattice-writer.github.io/lattice/) · 组织维护 · 中文 README
+⭐ 569 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lattice-writer/lattice) · [官网](https://lattice-writer.github.io/lattice/) · 组织维护 · 中文 README
 
 **macOS 本地优先 LaTeX 写作应用，集成 agent 编辑论文**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lattice-writer/lattice 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 547 --> 564
-    line [548, 550, 557, 563]
+    title "lattice-writer/lattice 星数(近 5 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 546 --> 571
+    line [548, 550, 557, 563, 569]
 ```
 
-2026-11-22 548 → 2026-11-26 563（+15）
+2026-11-22 548 → 2026-11-27 569（+21）
 
 
 ---

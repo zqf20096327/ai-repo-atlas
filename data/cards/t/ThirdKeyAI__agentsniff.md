@@ -45,13 +45,13 @@ Rust 编写的网络扫描工具，通过主动探测（端口扫描、AgentPin/
 
 ```mermaid
 xychart-beta
-    title "ThirdKeyAI/agentsniff 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "ThirdKeyAI/agentsniff 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-10-24 15 → 2026-11-26 16（+1）
+2026-10-25 15 → 2026-11-27 16（+1）
 
 
 ---

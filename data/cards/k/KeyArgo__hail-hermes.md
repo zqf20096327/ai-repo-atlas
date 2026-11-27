@@ -40,6 +40,18 @@ Hermes Agent 插件，包含 hub、桌面面板与手机/手表客户端，为�
 > L14: Hail Hermes is a Hermes Agent plugin: a hub, a desktop panel, and phone/watch clients, so your
 > L40: - **Any model, including local.** Hermes subscription, LM Studio, Ollama, vLLM — switch live, and the
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KeyArgo/hail-hermes 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-26 7 → 2026-11-27 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8f213f3f099b` · [字段定义](../../DATASET.md)*

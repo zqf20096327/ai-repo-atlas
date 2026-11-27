@@ -1,6 +1,6 @@
 # MinimalFuture/linkai-cli
 
-⭐ 20 · Go · MIT · 推送 2026-07-08 · [GitHub](https://github.com/MinimalFuture/linkai-cli) · [官网](https://link-ai.tech/) · 组织维护 · 中文 README
+⭐ 21 · Go · MIT · 推送 2026-07-08 · [GitHub](https://github.com/MinimalFuture/linkai-cli) · [官网](https://link-ai.tech/) · 组织维护 · 中文 README
 
 **终端里访问 LinkAI 智能体平台资源的命令行工具**
 
@@ -46,12 +46,12 @@ LinkAI 平台的官方 CLI，用 Go 编写、npm/脚本分发的预编译二进�
 ```mermaid
 xychart-beta
     title "MinimalFuture/linkai-cli 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-24 20 → 2026-11-26 20（+0）
+2026-10-25 20 → 2026-11-27 21（+1）
 
 
 ---

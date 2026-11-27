@@ -1,6 +1,6 @@
 # trustabl/agent-reliability-rules
 
-⭐ 73 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/trustabl/agent-reliability-rules) · 组织维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/trustabl/agent-reliability-rules) · 组织维护
 
 **AI agent SDK 可靠性/安全检测规则包，供 Trustabl 扫描器调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "trustabl/agent-reliability-rules 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 59 --> 74
-    line [60, 61, 62, 64, 61, 67, 68, 73]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 60 --> 74
+    line [61, 62, 64, 61, 67, 68, 73, 72]
 ```
 
-2026-10-24 60 → 2026-11-26 73（+13）
+2026-10-25 61 → 2026-11-27 72（+11）
 
 
 ---

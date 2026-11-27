@@ -1,6 +1,6 @@
 # landedjobs/ai-system-design-interview
 
-⭐ 4 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/landedjobs/ai-system-design-interview) · [官网](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-system-design-interview&utm_content=repo-about) · 组织维护
+⭐ 4 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/landedjobs/ai-system-design-interview) · [官网](https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-ai-system-design-interview&utm_content=repo-about) · 组织维护
 
 **AI 工程师的 LLM 系统设计面试题解集：16 篇完整答案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "landedjobs/ai-system-design-interview 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    title "landedjobs/ai-system-design-interview 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-20 3 → 2026-11-26 4（+1）
+2026-11-20 3 → 2026-11-27 4（+1）
 
 
 ---

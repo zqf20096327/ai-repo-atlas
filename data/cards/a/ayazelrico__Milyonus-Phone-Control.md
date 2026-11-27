@@ -45,12 +45,12 @@ Milyonus agent 的手机控制基础设施：Android 侧提供 adb 与 Companion
 ```mermaid
 xychart-beta
     title "ayazelrico/Milyonus-Phone-Control 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-25 4 → 2026-11-26 4（+0）
+2026-11-25 4 → 2026-11-27 4（+0）
 
 
 ---

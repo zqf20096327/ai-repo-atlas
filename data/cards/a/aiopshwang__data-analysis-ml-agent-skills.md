@@ -1,6 +1,6 @@
 # aiopshwang/data-analysis-ml-agent-skills
 
-⭐ 21 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/aiopshwang/data-analysis-ml-agent-skills) · [官网](https://aiopshwang.github.io/data-analysis-ml-agent-skills/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/aiopshwang/data-analysis-ml-agent-skills) · [官网](https://aiopshwang.github.io/data-analysis-ml-agent-skills/) · 个人维护
 
 **面向编码 agent 的数据科学方法论技能套件（7 个技能）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aiopshwang/data-analysis-ml-agent-skills 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 12 --> 22
-    line [13, 21, 21]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 12 --> 23
+    line [13, 21, 22]
 ```
 
-2026-10-24 13 → 2026-11-26 21（+8）
+2026-10-25 13 → 2026-11-27 22（+9）
 
 
 ---

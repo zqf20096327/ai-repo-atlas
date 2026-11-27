@@ -1,6 +1,6 @@
 # kknee-dev/recruit-hub
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kknee-dev/recruit-hub) · [官网](https://xiaozhaobao.com.cn) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kknee-dev/recruit-hub) · [官网](https://xiaozhaobao.com.cn) · 个人维护 · 中文 README
 
 **给应届生与 AI 助手的中国校招信息聚合站（MCP 只读检索）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kknee-dev/recruit-hub 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-18", "2026-11-27"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-25 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

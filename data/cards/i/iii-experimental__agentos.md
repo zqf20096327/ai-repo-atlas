@@ -1,6 +1,6 @@
 # iii-experimental/agentos
 
-⭐ 164 · Rust · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/iii-experimental/agentos) · [官网](https://agentsos.sh) · 组织维护
+⭐ 165 · Rust · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/iii-experimental/agentos) · [官网](https://agentsos.sh) · 组织维护
 
 **基于 iii 引擎的多 worker 自进化 agent 运行时（Rust）**
 
@@ -46,12 +46,12 @@ AgentOS 是运行在 iii 引擎之上的 agent 系统：65 个窄域 worker（64
 ```mermaid
 xychart-beta
     title "iii-experimental/agentos 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 161 --> 165
-    line [162, 164, 164]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 161 --> 166
+    line [162, 164, 165]
 ```
 
-2026-10-24 162 → 2026-11-26 164（+2）
+2026-10-25 162 → 2026-11-27 165（+3）
 
 
 ---

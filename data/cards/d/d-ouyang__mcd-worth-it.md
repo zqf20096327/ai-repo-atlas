@@ -1,6 +1,6 @@
 # d-ouyang/mcd-worth-it
 
-⭐ 106 · HTML · MIT · 推送 2026-10-13 · [GitHub](https://github.com/d-ouyang/mcd-worth-it) · [官网](https://github.com/d-ouyang/mcd-worth-it/) · 个人维护 · 中文 README
+⭐ 105 · HTML · MIT · 推送 2026-10-13 · [GitHub](https://github.com/d-ouyang/mcd-worth-it) · [官网](https://github.com/d-ouyang/mcd-worth-it/) · 个人维护 · 中文 README
 
 **麦当劳 MCP 权益精算 Skill：按档口与账户权益实时核价点单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "d-ouyang/mcd-worth-it 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 0 --> 117
-    line [7, 44, 107, 44, 106, 106]
+    title "d-ouyang/mcd-worth-it 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 38 --> 113
+    line [44, 107, 44, 106, 105]
 ```
 
-2026-10-24 7 → 2026-11-26 106（+99）
+2026-10-25 44 → 2026-11-27 105（+61）
 
 
 ---

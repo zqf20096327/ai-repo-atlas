@@ -45,13 +45,13 @@ IROS 2024 论文的代码发布：用不超过 70 亿参数的 LLM（llama2、ll
 
 ```mermaid
 xychart-beta
-    title "AIRLab-POLIMI/BTGenBot 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "AIRLab-POLIMI/BTGenBot 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 138 --> 141
-    line [140, 139]
+    line [140, 139, 139]
 ```
 
-2026-10-24 140 → 2026-11-26 139（-1）
+2026-10-25 140 → 2026-11-27 139（-1）
 
 
 ---

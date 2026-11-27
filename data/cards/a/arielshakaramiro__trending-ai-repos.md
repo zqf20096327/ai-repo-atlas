@@ -1,6 +1,6 @@
 # arielshakaramiro/trending-ai-repos
 
-⭐ 19 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/arielshakaramiro/trending-ai-repos) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/arielshakaramiro/trending-ai-repos) · 个人维护
 
 **每日追踪 GitHub 上 AI 仓库趋势并输出周报的数据仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arielshakaramiro/trending-ai-repos 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 4 --> 20
-    line [5, 6, 7, 9, 10, 13, 6, 17, 18, 19, 19]
+    title "arielshakaramiro/trending-ai-repos 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 5 --> 20
+    line [6, 7, 9, 10, 13, 6, 17, 18, 19, 19]
 ```
 
-2026-10-24 5 → 2026-11-26 19（+14）
+2026-10-25 6 → 2026-11-27 19（+13）
 
 
 ---

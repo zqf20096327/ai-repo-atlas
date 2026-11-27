@@ -1,6 +1,6 @@
 # doorman-dev/doorman
 
-⭐ 245 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/doorman-dev/doorman) · [官网](https://doorman.dev) · 组织维护
+⭐ 245 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/doorman-dev/doorman) · [官网](https://doorman.dev) · 组织维护
 
 **给企业团队用的自托管 AI 与 API 网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "doorman-dev/doorman 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
     y-axis "stars" 241 --> 246
     line [242, 243, 244, 245, 245]
 ```
 
-2026-10-24 242 → 2026-11-26 245（+3）
+2026-10-25 242 → 2026-11-27 245（+3）
 
 
 ---

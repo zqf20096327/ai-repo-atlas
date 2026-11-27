@@ -44,12 +44,12 @@ AAAI 2025 论文的官方实现：提供一种监督体素（supervoxel）损失
 ```mermaid
 xychart-beta
     title "AllenNeuralDynamics/supervoxel-loss 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

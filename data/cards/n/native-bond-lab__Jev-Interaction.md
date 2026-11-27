@@ -1,6 +1,6 @@
 # native-bond-lab/Jev-Interaction
 
-⭐ 147 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/native-bond-lab/Jev-Interaction) · [官网](https://pupunpu-jev-interaction.hf.space/) · 组织维护 · 中文 README
+⭐ 171 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/native-bond-lab/Jev-Interaction) · [官网](https://pupunpu-jev-interaction.hf.space/) · 组织维护 · 中文 README
 
 **全双工语音交互框架：用自然语言决策控制轮次切换**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "native-bond-lab/Jev-Interaction 星数(近 13 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 161
-    line [7, 25, 35, 42, 51, 52, 57, 70, 76, 79, 95, 127, 147]
+    title "native-bond-lab/Jev-Interaction 星数(近 14 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 187
+    line [7, 25, 35, 42, 51, 52, 57, 70, 76, 79, 95, 127, 147, 171]
 ```
 
-2026-11-11 7 → 2026-11-26 147（+140）
+2026-11-11 7 → 2026-11-27 171（+164）
 
 
 ---

@@ -41,6 +41,18 @@
 > L3: :zap: :books: Papers, courses, datasets and tools for getting started with **Neuro-AI**! :brain: :boom:
 > L7: > New here? Start with the Top 12, then pick an entry track.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ckaraneen/neuroaid 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 58 --> 60
+    line [59, 59]
+```
+
+2026-11-26 59 → 2026-11-27 59（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c50f7df73574` · [字段定义](../../DATASET.md)*

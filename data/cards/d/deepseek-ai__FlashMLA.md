@@ -1,10 +1,10 @@
 # deepseek-ai/FlashMLA
 
-⭐ 13,284 · C++ · MIT · 推送 2026-10-27 · [GitHub](https://github.com/deepseek-ai/FlashMLA) · 组织维护 · 中文 README
+⭐ 13,290 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/deepseek-ai/FlashMLA) · 组织维护 · 中文 README
 
-**DeepSeek 的高性能注意力算子库，支撑模型在 GPU/NPU 上推理**
+**面向大模型推理的 MLA 稀疏注意力算子库**
 
-DeepSeek 维护的优化注意力 kernel 库，用于 DeepSeek-V4.1 模型在 NVIDIA GPU 与华为昇腾 NPU 上的推理。提供 token 级稀疏注意力 prefill/decoding 算子（FP8/FP4 KV cache）、融合 Q-norm/Q-RoPE/attention/O-RoPE/FP8 cast 的融合 kernel，以及稠密注意力的 prefill 与反向传播算子。最新版本移除了 Hopper 架构与前代模型支持并更改 KV cache 格式，与旧版不兼容。源码编译安装，要求 SM100/SM103 GPU（CUDA 13.1+）或昇腾 950 NPU（CANN 9.2+）。
+DeepSeek 开源的优化注意力算子库，支撑 DeepSeek-V4.1 模型在 NVIDIA GPU 与华为昇腾 NPU 上的推理。包含 token 级稀疏注意力 prefill/decoding 算子（DSA）、融合 norm+RoPE+attention+cast 的单 kernel，以及稠密 attention 的 prefill 与反向传播算子。decoding 仅支持 FP8/FP4 KV cache 格式。通过 git clone 源码编译安装，构建时自动检测 CUDA/昇腾平台。2026.09.30 版本为破坏性变更，移除了 Hopper 架构与前代模型支持，需用旧格式者切换至指定 commit。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ DeepSeek 维护的优化注意力 kernel 库，用于 DeepSeek-V4.1 模型在 NV
 
 ## 能力要点
 
-- token 级稀疏注意力 prefill/decoding 算子（FP8/FP4 KV cache）
-- 融合 Q-norm、Q-RoPE、attention、O-RoPE 与 FP8 cast 的融合 kernel
+- token 级稀疏注意力（DSA）的 prefill 与 FP8/FP4 KV cache decoding 算子
+- 融合 Q-norm、Q-RoPE、attention、O-RoPE 与 FP8 cast 的单 kernel
 - 同时支持 NVIDIA SM100/SM103 GPU 与华为昇腾 950 NPU
-- 稠密注意力 MHA 的 prefill 与反向传播 kernel
+- CUDA wheel 基于 abi3，一次编译可跨 PyTorch 2.10+/CPython 3.10+ 使用
 
 ## 适用场景
 
-- 为 DeepSeek-V4.1 推理提供注意力 kernel
-- 在昇腾 NPU 上运行稀疏注意力计算
-- 基准测试与对比注意力算子性能
+- 为推理 DeepSeek-V4.1 模型接入 MLA 稀疏注意力算子
+- 在昇腾 950 NPU 上运行注意力计算
+- 为自研推理引擎集成高性能 decoding kernel
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ DeepSeek 维护的优化注意力 kernel 库，用于 DeepSeek-V4.1 模型在 NV
 ## 证据(README 行号)
 
 > L7: FlashMLA is DeepSeek's library of optimized attention kernels, powering inference of the DeepSeek-V4.1 model on NVID
-> L9: FlashMLA 是 DeepSeek 的高性能注意力算子库，支撑着 DeepSeek-V4.1 模型在 NVIDIA GPU 与华为昇腾 NPU 上的推理。该仓库支持 prefill 与使用了 FP8 或 FP4 格式的 KV 缓
+> L98: ## Installation
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "deepseek-ai/FlashMLA 星数(近 26 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 13159 --> 13295
-    line [13170, 13178, 13186, 13194, 13205, 13215, 13219, 13224, 13225, 13229, 13178, 13256, 13259, 13261, 13263, 13266, 13269, 13271, 13273, 13277, 13278, 13277, 13275, 13276, 13281, 13284]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 13167 --> 13301
+    line [13178, 13186, 13194, 13205, 13215, 13219, 13224, 13225, 13229, 13178, 13256, 13259, 13261, 13263, 13266, 13269, 13271, 13273, 13277, 13278, 13277, 13275, 13276, 13281, 13284, 13290]
 ```
 
-2026-10-24 13,170 → 2026-11-26 13,284（+114）
+2026-10-25 13,178 → 2026-11-27 13,290（+112）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `2002539abc5e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `3f880b1f4c9c` · [字段定义](../../DATASET.md)*

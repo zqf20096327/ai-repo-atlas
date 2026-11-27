@@ -41,6 +41,18 @@
 > L3: > 一线算法工程师持续维护的 **大模型（LLM）、Agentic AI 与搜广推（搜索/广告/推荐）** 全栈技术知识库、论文精读与工业界落地总结。
 > L6: > 🤖 **AI Agent 友好**：原生支持 `llms.txt` 索引及 MCP Server 接入，任意页面 URL 后加 `.md` 即可获取纯 Markdown。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "daiwk/collections 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 148 --> 150
+    line [149, 149]
+```
+
+2026-11-26 149 → 2026-11-27 149（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e276079d4fd2` · [字段定义](../../DATASET.md)*

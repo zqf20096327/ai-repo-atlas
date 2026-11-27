@@ -1,6 +1,6 @@
 # mergecrew/mergecrew
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/mergecrew/mergecrew) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/mergecrew/mergecrew) · 组织维护
 
 **多智能体软件开发生命周期平台，按日产出 PR 并有人工生产闸门**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mergecrew/mergecrew 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

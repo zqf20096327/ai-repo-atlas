@@ -1,6 +1,6 @@
 # ChenGan666/ZSN.AgentBrook
 
-⭐ 24 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ChenGan666/ZSN.AgentBrook) · [官网](https://agentbrook.com) · 个人维护 · 中文 README
+⭐ 24 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ChenGan666/ZSN.AgentBrook) · [官网](https://agentbrook.com) · 个人维护 · 中文 README
 
 **企业级 AI 智能体编排平台：可视化工作流+RAG+MCP**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ChenGan666/ZSN.AgentBrook 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-24 23 → 2026-11-26 24（+1）
+2026-10-25 23 → 2026-11-27 24（+1）
 
 
 ---

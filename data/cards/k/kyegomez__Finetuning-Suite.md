@@ -43,12 +43,12 @@ Python 微调工具包（ft-suite）：基于 QLoRA、BitsAndBytes、LoRA、PEFT
 ```mermaid
 xychart-beta
     title "kyegomez/Finetuning-Suite 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-24 59 → 2026-11-26 59（+0）
+2026-10-25 59 → 2026-11-27 59（+0）
 
 
 ---

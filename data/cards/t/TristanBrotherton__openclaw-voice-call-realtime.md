@@ -1,6 +1,6 @@
 # TristanBrotherton/openclaw-voice-call-realtime
 
-⭐ 109 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/TristanBrotherton/openclaw-voice-call-realtime) · 个人维护
+⭐ 109 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/TristanBrotherton/openclaw-voice-call-realtime) · 个人维护
 
 **给 OpenClaw 助手装上电话：经 Twilio+OpenAI Realtime 真人通话**
 
@@ -46,12 +46,12 @@ OpenClaw 插件，在网关内运行 HTTP 服务器，将 Twilio 媒体流的音
 ```mermaid
 xychart-beta
     title "TristanBrotherton/openclaw-voice-call-realtime 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-27"]
     y-axis "stars" 104 --> 110
     line [105, 106, 105, 106, 107, 109, 109]
 ```
 
-2026-10-24 105 → 2026-11-26 109（+4）
+2026-10-25 105 → 2026-11-27 109（+4）
 
 
 ---

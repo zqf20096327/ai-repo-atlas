@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Multiomics-Analytics-Group/course_protein_language_modeling 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "Multiomics-Analytics-Group/course_protein_language_modeling 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 51 --> 54
-    line [52, 53]
+    line [52, 53, 53]
 ```
 
-2026-10-24 52 → 2026-11-26 53（+1）
+2026-10-25 52 → 2026-11-27 53（+1）
 
 
 ---

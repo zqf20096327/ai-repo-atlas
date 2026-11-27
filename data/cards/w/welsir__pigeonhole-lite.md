@@ -41,6 +41,18 @@ Chrome 与 Edge 扩展，在下载时结合来源网页文字为附件命名，�
 > L121: 无需注册即可直接试用内置 AI（设体验与每日上限）。如果在设置中填入你自己的 DeepSeek、硅基流动等 OpenAI 兼容 API Key 或接入本地模型，AI 起名、AI 帮我找和一句话建规则全部免费且不限次数，请求直接发
 > L123: 本仓库公开文件鸽 Lite 版源码；完整版可从 Chrome 应用商店 或 Microsoft Edge 加载项 免费安装。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "welsir/pigeonhole-lite 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-26 6 → 2026-11-27 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5190fcdff95f` · [字段定义](../../DATASET.md)*

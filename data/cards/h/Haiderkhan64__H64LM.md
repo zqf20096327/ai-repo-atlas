@@ -1,6 +1,6 @@
 # Haiderkhan64/H64LM
 
-⭐ 19 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/Haiderkhan64/H64LM) · 个人维护
+⭐ 20 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-22 · [GitHub](https://github.com/Haiderkhan64/H64LM) · 个人维护
 
 **面向研究的从零实现 MoE LLM 训练栈（249M，PyTorch）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Haiderkhan64/H64LM 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 20（+1）
 
 
 ---

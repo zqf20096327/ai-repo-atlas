@@ -43,13 +43,13 @@ TheAlgorithms 社区维护的算法仓库的 Mojo 版本：以 Mojo 语言实现
 
 ```mermaid
 xychart-beta
-    title "TheAlgorithms/Mojo 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "TheAlgorithms/Mojo 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 61 --> 64
-    line [62, 63]
+    line [62, 63, 63]
 ```
 
-2026-10-24 62 → 2026-11-26 63（+1）
+2026-10-25 62 → 2026-11-27 63（+1）
 
 
 ---

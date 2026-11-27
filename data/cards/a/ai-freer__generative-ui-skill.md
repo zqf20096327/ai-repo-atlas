@@ -1,6 +1,6 @@
 # ai-freer/generative-ui-skill
 
-⭐ 12 · HTML · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ai-freer/generative-ui-skill) · 个人维护 · 中文 README
+⭐ 13 · HTML · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/ai-freer/generative-ui-skill) · 个人维护 · 中文 README
 
 **给任意 LLM 聊天机器人添加生成式 UI 的 Prompt skill 与渲染器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ai-freer/generative-ui-skill 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12, 12]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 11, 12, 13]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # traccia-ai/traccia-py
 
-⭐ 134 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/traccia-ai/traccia-py) · [官网](https://traccia.ai/) · 组织维护
+⭐ 136 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/traccia-ai/traccia-py) · [官网](https://traccia.ai/) · 组织维护
 
 **AI agent 可观测与治理 SDK：追踪、评测、运行时策略执行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "traccia-ai/traccia-py 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 126 --> 135
-    line [127, 128, 129, 127, 133, 134, 134]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 126 --> 137
+    line [127, 128, 129, 127, 133, 134, 136]
 ```
 
-2026-10-24 127 → 2026-11-26 134（+7）
+2026-10-25 127 → 2026-11-27 136（+9）
 
 
 ---

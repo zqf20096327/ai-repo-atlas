@@ -1,6 +1,6 @@
 # 6figr-com/jobgpt-mcp-server
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/6figr-com/jobgpt-mcp-server) · [官网](https://6figr.com/jobgpt-ai) · 组织维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/6figr-com/jobgpt-mcp-server) · [官网](https://6figr.com/jobgpt-ai) · 组织维护
 
 **连接 AI 助手与求职平台的 MCP 服务器：搜索、自动投递、简历生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "6figr-com/jobgpt-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-24 26 → 2026-11-26 27（+1）
+2026-10-25 26 → 2026-11-27 27（+1）
 
 
 ---

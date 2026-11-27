@@ -1,6 +1,6 @@
 # danieljustus/symaira-eraseme
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/danieljustus/symaira-eraseme) · [官网](https://symaira.com) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/danieljustus/symaira-eraseme) · [官网](https://symaira.com) · 个人维护
 
 **行使 GDPR/CCPA 删除权、向数据中介发起数据删除请求的本地 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "danieljustus/symaira-eraseme 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-23", "2026-11-25", "2026-11-26"]
+    title "danieljustus/symaira-eraseme 星数(近 5 点)"
+    x-axis ["2026-11-13", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 11]
+    line [10, 11, 12, 11, 11]
 ```
 
-2026-11-13 10 → 2026-11-26 11（+1）
+2026-11-13 10 → 2026-11-27 11（+1）
 
 
 ---

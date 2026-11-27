@@ -40,6 +40,18 @@
 > L13: Wan 2.2 image-to-video generation at 480 × 768, with 201 frames at 24 fps.
 > L19: **Price: $0 for this workflow.** It runs image/video inference on your own computer with locally installed models. 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "RebelTortuga/comfyui-free-local-wan-video-quality 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `36d921c6efae` · [字段定义](../../DATASET.md)*

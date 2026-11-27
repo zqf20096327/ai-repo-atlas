@@ -1,6 +1,6 @@
 # tigusigalpa/manus-ai-go
 
-⭐ 28 · Go · MIT · 推送 2026-10-04 · [GitHub](https://github.com/tigusigalpa/manus-ai-go) · 个人维护 · 中文 README
+⭐ 29 · Go · MIT · 推送 2026-10-04 · [GitHub](https://github.com/tigusigalpa/manus-ai-go) · 个人维护 · 中文 README
 
 **面向 Manus API v2 的 Go 语言社区 SDK**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tigusigalpa/manus-ai-go 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 21 --> 29
-    line [22, 23, 26, 27, 28, 28]
+    title "tigusigalpa/manus-ai-go 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 22 --> 30
+    line [23, 26, 27, 28, 29]
 ```
 
-2026-10-24 22 → 2026-11-26 28（+6）
+2026-10-25 23 → 2026-11-27 29（+6）
 
 
 ---

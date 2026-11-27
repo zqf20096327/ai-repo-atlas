@@ -1,6 +1,6 @@
 # naderelewa/Product-to-Prod
 
-⭐ 47 · Shell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/naderelewa/Product-to-Prod) · [官网](https://naderelewa.com) · 个人维护
+⭐ 47 · Shell · MIT · 推送 2026-11-26 · [GitHub](https://github.com/naderelewa/Product-to-Prod) · [官网](https://new.naderelewa.com) · 个人维护
 
 **面向 AI agent 的产品管理技能插件：从需求到发布产出证据标注文档**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "naderelewa/Product-to-Prod 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-27"]
     y-axis "stars" 42 --> 48
     line [43, 44, 45, 46, 47, 47]
 ```
 
-2026-11-08 43 → 2026-11-26 47（+4）
+2026-11-08 43 → 2026-11-27 47（+4）
 
 
 ---

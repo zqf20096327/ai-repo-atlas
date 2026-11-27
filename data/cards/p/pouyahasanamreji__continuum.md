@@ -1,6 +1,6 @@
 # pouyahasanamreji/continuum
 
-⭐ 84 · TypeScript · 推送 2026-05-14 · [GitHub](https://github.com/pouyahasanamreji/continuum) · 个人维护
+⭐ 83 · TypeScript · 推送 2026-05-14 · [GitHub](https://github.com/pouyahasanamreji/continuum) · 个人维护
 
 **面向编码 agent 的本地 MCP 服务器：共享向量记忆与编排**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pouyahasanamreji/continuum 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 81 --> 99
-    line [98, 92, 83, 82, 83, 84]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 81 --> 93
+    line [92, 83, 82, 83, 84, 83]
 ```
 
-2026-10-24 98 → 2026-11-26 84（-14）
+2026-10-25 92 → 2026-11-27 83（-9）
 
 
 ---

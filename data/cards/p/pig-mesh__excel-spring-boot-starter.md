@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "pig-mesh/excel-spring-boot-starter 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
+    title "pig-mesh/excel-spring-boot-starter 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 647 --> 651
-    line [650, 649, 648]
+    line [650, 649, 648, 648]
 ```
 
-2026-10-24 650 → 2026-11-26 648（-2）
+2026-10-25 650 → 2026-11-27 648（-2）
 
 
 ---

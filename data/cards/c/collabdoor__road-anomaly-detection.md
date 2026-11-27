@@ -1,6 +1,6 @@
 # collabdoor/road-anomaly-detection
 
-⭐ 25 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-19 · [GitHub](https://github.com/collabdoor/road-anomaly-detection) · [官网](https://road-anomaly-detection.streamlit.app/) · 组织维护
+⭐ 26 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-19 · [GitHub](https://github.com/collabdoor/road-anomaly-detection) · [官网](https://road-anomaly-detection.streamlit.app/) · 组织维护
 
 **用自训练 YOLOv8 模型检测路面裂缝、坑洼与颠簸**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "collabdoor/road-anomaly-detection 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-24 25 → 2026-11-26 25（+0）
+2026-10-25 25 → 2026-11-27 26（+1）
 
 
 ---

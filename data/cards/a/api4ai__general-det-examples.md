@@ -45,12 +45,12 @@ API4AI 官方维护的示例仓库，演示如何调用其云端 Object Detectio
 ```mermaid
 xychart-beta
     title "api4ai/general-det-examples 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

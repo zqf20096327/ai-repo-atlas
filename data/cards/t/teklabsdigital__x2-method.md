@@ -46,12 +46,12 @@ X2 是一套以 AI agent 为施工方的软件工程方法，以 Claude Code 插
 ```mermaid
 xychart-beta
     title "teklabsdigital/x2-method 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

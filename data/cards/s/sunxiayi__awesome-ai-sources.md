@@ -1,6 +1,6 @@
 # sunxiayi/awesome-ai-sources
 
-⭐ 10 · MIT · 推送 2026-11-09 · [GitHub](https://github.com/sunxiayi/awesome-ai-sources) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 AI 使用者的高信号信息源策展目录与 RSS feed**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

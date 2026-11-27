@@ -1,6 +1,6 @@
 # AXERA-TECH/pulsar2-docs
 
-⭐ 21 · JavaScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/AXERA-TECH/pulsar2-docs) · 组织维护 · 中文 README
+⭐ 22 · JavaScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/AXERA-TECH/pulsar2-docs) · 组织维护 · 中文 README
 
 **爱芯元智 Pulsar2 AI 工具链的官方用户手册文档**
 
@@ -44,12 +44,12 @@ AXERA-TECH 维护的 Pulsar2 工具链使用手册公共文档仓库，面向该
 ```mermaid
 xychart-beta
     title "AXERA-TECH/pulsar2-docs 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-11-02", "2026-11-27"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-11-02 21 → 2026-11-26 21（+0）
+2026-11-02 21 → 2026-11-27 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gravion-ux/local-slm-eval-kit
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gravion-ux/local-slm-eval-kit) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gravion-ux/local-slm-eval-kit) · 个人维护
 
 **对本地小语言模型运行可复现评测套件并生成报告的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gravion-ux/local-slm-eval-kit 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-23 4 → 2026-11-26 4（+0）
+2026-11-23 4 → 2026-11-27 4（+0）
 
 
 ---

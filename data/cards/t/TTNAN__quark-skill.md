@@ -1,6 +1,6 @@
 # TTNAN/quark-skill
 
-⭐ 7 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/TTNAN/quark-skill) · 个人维护 · 中文 README
+⭐ 8 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/TTNAN/quark-skill) · 个人维护 · 中文 README
 
 **让智能体一句话搜索并转存夸克网盘的 Agent Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TTNAN/quark-skill 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 7, 6, 7]
+    title "TTNAN/quark-skill 星数(近 6 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 7, 6, 7, 8]
 ```
 
-2026-11-14 3 → 2026-11-26 7（+4）
+2026-11-14 3 → 2026-11-27 8（+5）
 
 
 ---

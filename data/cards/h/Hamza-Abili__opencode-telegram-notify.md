@@ -1,6 +1,6 @@
 # Hamza-Abili/opencode-telegram-notify
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Hamza-Abili/opencode-telegram-notify) · [官网](https://www.npmjs.com/package/@hamzaabili/opencode-telegram-notify) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Hamza-Abili/opencode-telegram-notify) · [官网](https://www.npmjs.com/package/@hamzaabili/opencode-telegram-notify) · 个人维护
 
 **OpenCode 的 Telegram 通知插件：手机上点按钮批权限**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hamza-Abili/opencode-telegram-notify 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-26"]
+    x-axis ["2026-11-15", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-26 3（+0）
+2026-11-15 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # essmos/nonodb
 
-⭐ 23 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/essmos/nonodb) · [官网](https://nonodb.com) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/essmos/nonodb) · [官网](https://nonodb.com) · 个人维护
 
 **面向小型 VM 与边缘设备的 JSON 文档数据库（MongoDB 风格）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "essmos/nonodb 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-27"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-11-23 22 → 2026-11-26 23（+1）
+2026-11-23 22 → 2026-11-27 23（+1）
 
 
 ---

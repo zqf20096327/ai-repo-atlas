@@ -1,10 +1,10 @@
 # shootthesound/Fizgig
 
-⭐ 809 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
+⭐ 813 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
 
-**面向消费级 GPU 的 LoRA/微调训练工作室**
+**面向消费级 GPU 的图像/视频/音乐 LoRA 训练与微调工作台**
 
-针对 Klein 9B、Krea 2、MiniMax H3、Qwen Image 2.1、Z-Image Turbo、SDXL、Anima、ACE-Step 等图像/视频/音乐模型的训练与微调工作台：支持训练与提取 LoRA、LoKR、编辑 LoRA 与 slider LoRA，提供坏 LoRA 修复、按 epoch 浏览预览选优、训练热力图、AI 打标（JoyCaption、WD EVA02）、队列渲染 Studio。覆盖 8 GB 起的消费级 GPU 与 AMD 显卡，可在本机安装或部署到 RunPod 租赁硬件。版本新闻以 changelog 形式列出。
+针对 Klein 9B、Flux 3、Krea 2、MiniMax H3、Qwen Image 2.1、Z-Image、SDXL、Anima、ACE-Step 等模型的 LoRA/LoKR 训练工作室：提供数据集准备、自动与人工标注（JoyCaption、WD EVA02）、训练、LoRA 修复与隔离、epoch 预览对比（LoRA Royale）、热力图训练地图，以及独立的 Studio 渲染生成器。宣称可在 8 GB 起步的消费级 GPU 上训练，支持 NVIDIA 与 AMD 显卡，提供 RunPod 云端一键部署、Windows/Linux 安装器与视频教程。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 支持图像/视频/音乐多类模型的 LoRA 与 LoKR 训练、修复与提取
-- 官方部署入口支持 RunPod 租赁硬件一键运行，无需本机安装
-- 训练热力图与 trigger-word attention map 可视化学习效果
-- 支持 NVIDIA 与 AMD 显卡，低至 8 GB VRAM
+- 支持图像、视频、音乐与声音模型的 LoRA/LoKR 训练与修复
+- 训练预览热力图与 trigger-word 注意力地图逐 epoch 检视学习效果
+- JoyCaption 与 WD EVA02 标注器可从设置面板下载
+- 支持 RunPod 租赁 GPU 一键部署，无需本地安装
 
 ## 适用场景
 
-- 在消费级显卡上用自己的照片/视频/声音训练 LoRA
-- 修复训练效果不佳的已有 LoRA 而不重训
-- 在 RunPod 租赁的 GPU 上运行完整训练流程
+- 在消费级显卡上用自己的照片训练人物或风格 LoRA
+- 修复表现不佳的 LoRA 而不重新训练
+- 对比不同 epoch 的预览图挑出最佳产出
+- 训练视频生成与音乐生成模型的适配器
 
 ## 场景标签
 
-`微调` · 领域:训练与推理
+`微调` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L3:  Fine-tune base models on consumer GPUs — down to 8 GB. Fix broken LoRAs without retraining. Find the best epoch by 
+> L1: Fizgig — LoRA & Fine-tune Studio for Klein 9B, Flux 3 Image Klein, Fibo 2.0, Krea 2, MiniMax H3, Vimoo 1.0 Lite, Qwe
 > L4:  A train · fine-tune · repair · explore workbench built end-to-end for Flux 2 Klein 9B , Flux 3 Image Klein , Fibo 2
 
 ## 星数曲线
@@ -45,13 +46,13 @@
 ```mermaid
 xychart-beta
     title "shootthesound/Fizgig 星数(近 27 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 578 --> 830
-    line [599, 603, 610, 622, 629, 635, 642, 644, 651, 655, 603, 690, 714, 721, 730, 743, 748, 764, 771, 774, 776, 779, 785, 788, 799, 802, 809]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 582 --> 834
+    line [603, 610, 622, 629, 635, 642, 644, 651, 655, 603, 690, 714, 721, 730, 743, 748, 764, 771, 774, 776, 779, 785, 788, 799, 802, 809, 813]
 ```
 
-2026-10-24 599 → 2026-11-26 809（+210）
+2026-10-25 603 → 2026-11-27 813（+210）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `2932774e1af9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7029df2979d6` · [字段定义](../../DATASET.md)*

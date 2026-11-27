@@ -1,6 +1,6 @@
 # CommanderLake/LMStud
 
-⭐ 10 · C# · 推送 2026-11-08 · [GitHub](https://github.com/CommanderLake/LMStud) · 个人维护
+⭐ 10 · C# · 推送 2026-11-26 · [GitHub](https://github.com/CommanderLake/LMStud) · 个人维护
 
 **Windows 桌面客户端：用 llama.cpp 本地运行和编排 GGUF 大模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CommanderLake/LMStud 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

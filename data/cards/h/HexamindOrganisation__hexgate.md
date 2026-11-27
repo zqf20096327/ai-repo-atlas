@@ -1,6 +1,6 @@
 # HexamindOrganisation/hexgate
 
-⭐ 25 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HexamindOrganisation/hexgate) · [官网](https://hexgate.ai) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/HexamindOrganisation/hexgate) · [官网](https://hexgate.ai) · 组织维护
 
 **AI agent 工具调用的运行时授权与审计 SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HexamindOrganisation/hexgate 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-14", "2026-11-27"]
     y-axis "stars" 22 --> 26
     line [23, 24, 25, 25]
 ```
 
-2026-10-24 23 → 2026-11-26 25（+2）
+2026-10-25 23 → 2026-11-27 25（+2）
 
 
 ---

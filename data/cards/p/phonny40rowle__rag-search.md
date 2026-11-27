@@ -1,6 +1,6 @@
 # phonny40rowle/rag-search
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/phonny40rowle/rag-search) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/phonny40rowle/rag-search) · 个人维护
 
 **自托管的 RAG 搜索 API：联网检索、抽取、嵌入与答案生成**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "phonny40rowle/rag-search 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 50 --> 52
-    line [51, 51]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 27 --> 53
+    line [51, 29]
 ```
 
-2026-11-08 51 → 2026-11-26 51（+0）
+2026-11-08 51 → 2026-11-27 29（-22）
 
 
 ---

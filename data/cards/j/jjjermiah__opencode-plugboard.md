@@ -1,6 +1,6 @@
 # jjjermiah/opencode-plugboard
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jjjermiah/opencode-plugboard) · [官网](https://jjjermiah.github.io/opencode-plugboard/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **将 OpenCode 已登录模型以 OpenAI/Anthropic/Gemini API 形式对外提供**
 
@@ -11,7 +11,7 @@ OpenCode V2 插件：在 OpenCode 服务器内开启 HTTP 监听，把请求转�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

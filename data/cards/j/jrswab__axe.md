@@ -1,10 +1,10 @@
 # jrswab/axe
 
-⭐ 914 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/jrswab/axe) · [官网](https://docs.getaxe.dev) · 个人维护
+⭐ 914 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/jrswab/axe) · [官网](https://docs.getaxe.dev) · 个人维护
 
-**以 TOML 定义、从命令行运行单一职责 LLM agent 的 CLI**
+**用 TOML 定义并运行单一职责 LLM agent 的 CLI 工具**
 
-Go 编写的命令行工具，用于定义并运行 LLM 驱动的 agent：每个 agent 在 TOML 文件中声明系统提示、模型、技能文件、上下文、工作目录与持久记忆，可通过 stdin 管道、git hooks、cron 等既有 Unix 机制触发，不自带调度器或 GUI。内置沙箱化文件操作、shell 执行、URL 抓取与 web search 工具，支持子 agent 委托、token 预算、MCP 工具接入与 JSON 结构化输出。提供 Linux/macOS/Windows 预编译二进制、go install、源码构建与 Docker 镜像（含 compose 加固配置）。
+以 Unix 组合工具思路运行的 agent 执行器：每个 agent 用 TOML 文件定义系统提示、模型、技能文件、工作目录与持久记忆，通过命令行调用，可从 stdin 管道、git hooks、cron 或 CI 触发。支持子 agent 委派（深度限制与并行）、记忆垃圾回收、token 预算、SSRF 防护与 MCP 工具接入。定位为执行器而非调度器，无守护进程与 GUI；源码构建需 Go 1.26.11+，也可用预编译二进制或 Docker 镜像。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Go 编写的命令行工具，用于定义并运行 LLM 驱动的 agent：每个
 
 ## 能力要点
 
-- TOML 声明式 agent 配置，支持子 agent 委托与并行执行
-- stdin 管道输入（git diff | axe run reviewer）与 JSON 输出便于脚本化
-- 内置沙箱文件操作/shell/URL 抓取/web search，含 SSRF 防护与 token 预算
-- MCP 工具接入（SSE/streamable-HTTP）与 Docker 加固容器运行
+- TOML 声明式 agent 配置，支持 stdin 管道输入（git diff | axe run）
+- 子 agent 委派与并行执行、持久化 markdown 记忆及 LLM 辅助垃圾回收
+- 内置沙箱化文件操作、shell 执行、URL 抓取与 web 搜索工具，支持 MCP 服务器
+- token 预算、重试退避、dry-run 与 JSON 结构化输出
 
 ## 适用场景
 
-- 把代码审查、提交信息生成、日志分析做成可管道调用的命令行 agent
-- 用 cron 或 git hooks 在既有工作流中定时/自动触发 LLM 任务
-- 本地 Ollama 模型搭配 compose 容器运行隔离 agent
+- 在 CI 或 git hooks 中自动执行代码审查与提交信息生成
+- 用 cron 定时触发日志分析等一次性 agent 任务
+- 通过管道把命令行输出直接交给 agent 处理
+- 需要版本控制的声明式 agent 定义并接入 MCP 工具的团队
 
 ## 场景标签
 
@@ -37,22 +38,22 @@ Go 编写的命令行工具，用于定义并运行 LLM 驱动的 agent：每个
 
 ## 证据(README 行号)
 
-> L5: A CLI tool for managing and running LLM-powered agents.
+> L11: Axe treats LLM agents the same way Unix treats programs. Each agent does one thing well. You define it in a TOML fi
 > L15: Axe orchestrates LLM-powered agents defined via TOML configuration files. Each agent has its own system prompt, mod
-> L23: - **Multi-provider support** — Anthropic, OpenAI, Ollama (local models), OpenCode, and AWS Bedrock
+> L17: Axe is the executor, not the scheduler. It is designed to be composed with standard Unix tools — cron, git hooks, p
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "jrswab/axe 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-26"]
+    title "jrswab/axe 星数(近 14 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 897 --> 915
-    line [898, 905, 906, 907, 908, 910, 898, 909, 910, 911, 912, 913, 914]
+    line [898, 905, 906, 907, 908, 910, 898, 909, 910, 911, 912, 913, 914, 914]
 ```
 
-2026-10-24 898 → 2026-11-26 914（+16）
+2026-10-25 898 → 2026-11-27 914（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `633a785ae6a9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ca617a25e3ce` · [字段定义](../../DATASET.md)*

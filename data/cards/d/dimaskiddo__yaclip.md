@@ -1,6 +1,6 @@
 # dimaskiddo/yaclip
 
-⭐ 14 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/dimaskiddo/yaclip) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/dimaskiddo/yaclip) · 个人维护
 
 **把长 YouTube 视频自动切成竖屏短视频（Shorts/Reels/TikTok）的 CLI/WebUI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dimaskiddo/yaclip 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 15（+1）
 
 
 ---

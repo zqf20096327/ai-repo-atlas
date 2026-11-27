@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "t-kalinowski/deep-learning-with-r-code 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "t-kalinowski/deep-learning-with-r-code 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 65 --> 68
-    line [66, 67]
+    line [66, 67, 67]
 ```
 
-2026-10-24 66 → 2026-11-26 67（+1）
+2026-10-25 66 → 2026-11-27 67（+1）
 
 
 ---

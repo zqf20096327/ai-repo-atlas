@@ -1,6 +1,6 @@
 # Impertio-Studio/QGIS-Claude-Skill-Package
 
-⭐ 41 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Impertio-Studio/QGIS-Claude-Skill-Package) · 组织维护
+⭐ 42 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Impertio-Studio/QGIS-Claude-Skill-Package) · 组织维护
 
 **教 Claude 编写 QGIS/PyQGIS 代码的确定性技能包（19 项）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Impertio-Studio/QGIS-Claude-Skill-Package 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 35 --> 42
-    line [36, 37, 38, 36, 39, 40, 41]
+    title "Impertio-Studio/QGIS-Claude-Skill-Package 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 35 --> 43
+    line [36, 37, 38, 36, 39, 40, 41, 42]
 ```
 
-2026-10-24 36 → 2026-11-26 41（+5）
+2026-10-25 36 → 2026-11-27 42（+6）
 
 
 ---

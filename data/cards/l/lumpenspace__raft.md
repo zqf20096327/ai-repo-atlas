@@ -45,13 +45,13 @@ RAFT（Retrieval-Augmented Fine-Tuning）提供一个 CLI 工作流，从推文�
 
 ```mermaid
 xychart-beta
-    title "lumpenspace/raft 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 175 --> 179
-    line [176, 177, 178, 178]
+    title "lumpenspace/raft 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 176 --> 179
+    line [177, 178, 178]
 ```
 
-2026-10-24 176 → 2026-11-26 178（+2）
+2026-10-25 177 → 2026-11-27 178（+1）
 
 
 ---

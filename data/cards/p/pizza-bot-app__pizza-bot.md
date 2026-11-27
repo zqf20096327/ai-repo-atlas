@@ -1,10 +1,10 @@
 # pizza-bot-app/pizza-bot
 
-⭐ 578 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/pizza-bot-app/pizza-bot) · [官网](https://github.com/pizza-bot-app/pizza-bot/releases) · 组织维护
+⭐ 579 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pizza-bot-app/pizza-bot) · [官网](https://github.com/pizza-bot-app/pizza-bot/releases) · 组织维护
 
-**给开发者的长时 AI 任务本地收件箱与审批队列**
+**本地优先的 AI 长任务收件箱：离开后任务继续跑、回来验收**
 
-本地优先的桌面/浏览器/CLI 应用，将长时运行的 agent 任务组织为收件箱模式：完成的工作进入 Unread 队列，需要人工批准的决策进入 Action 队列。运行带有检查点，客户端断开后 api-server 继续执行任务；支持 cron 与 webhook 触发。通过 Settings > Providers 配置多家模型供应商；以 MCP 服务器、Agent Skills 和插件扩展。Apache-2.0 许可，在 Amazon 内部开发后开源。
+面向需要长时间运行 AI 任务的用户提供的本地收件箱应用：任务启动或定时触发后，客户端断开仍继续执行（checkpoint 续跑），完成结果进入 Unread 队列、待审批决策进入 Action 队列，并支持 cron/webhook 触发、技能子代理委派与 human-in-the-loop 审批。Electron 桌面、浏览器与 CLI 三种前端均通过 HTTP/SSE 连接 api-server。数据默认存于本地，需 Node.js 24+，运行需配置至少一个模型供应商。
 
 ## 筛选速览
 
@@ -20,27 +20,39 @@
 
 ## 能力要点
 
-- 断开后任务继续运行，检查点化且可由 cron/webhook 触发
-- 人工审批队列与长期记忆、桌面通知内置
-- 支持 11 家模型供应商，含 Amazon Bedrock 与 Ollama
-- Electron 桌面、浏览器与 CLI 三种前端共用同一 api-server
+- 断开后任务继续运行，checkpoint 恢复与 cron/webhook 触发
+- Unread/Action 双队列管理完成工作与审批请求
+- 技能封装为工具受限的子代理，进度在 Activity 面板展示
+- 支持 Amazon Bedrock、Anthropic、Gemini、OpenAI 等 12 个模型供应商接入
 
 ## 适用场景
 
-- 启动后台 agent 任务后离开，回来查看已完成结果
-- 对关键操作设置人工批准关卡
-- 在本地以收件箱方式管理多个并行 agent 会话
+- 启动长耗时 AI 任务后离开，回来在收件箱验收结果
+- 对涉及本地文件写入等关键操作设置人工审批
+- 把线程分文件夹组织，同时保留全局待办队列
 
 ## 场景标签
 
-`AI 助手` `工作流自动化` · 领域:效率与自动化
+`工作流自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L5:  An inbox for long-running AI work.
+> L5:  A local-first inbox for long-running AI work.
 > L45: - **Bring your model provider.** Amazon Bedrock, Anthropic, Google Gemini,
 > L97: A running api-server needs access to at least one model provider; HTTP clients
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pizza-bot-app/pizza-bot 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 577 --> 580
+    line [578, 579]
+```
+
+2026-11-26 578 → 2026-11-27 579（+1）
+
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0bec5acbc2d8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9e837c7de0c0` · [字段定义](../../DATASET.md)*

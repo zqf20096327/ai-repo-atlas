@@ -1,6 +1,6 @@
 # aDragon0707/sacp
 
-⭐ 106 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/aDragon0707/sacp) · 个人维护 · 中文 README
+⭐ 105 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/aDragon0707/sacp) · 个人维护 · 中文 README
 
 **核验 AI agent“已完成”声明的协议与 Python 引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aDragon0707/sacp 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 105 --> 107
-    line [106, 106]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 104 --> 107
+    line [106, 105]
 ```
 
-2026-10-24 106 → 2026-11-26 106（+0）
+2026-10-25 106 → 2026-11-27 105（-1）
 
 
 ---

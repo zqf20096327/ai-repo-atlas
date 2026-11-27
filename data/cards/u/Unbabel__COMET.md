@@ -1,6 +1,6 @@
 # Unbabel/COMET
 
-⭐ 791 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/Unbabel/COMET) · [官网](https://unbabel.github.io/COMET/html/index.html) · 组织维护
+⭐ 793 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/Unbabel/COMET) · [官网](https://unbabel.github.io/COMET/html/index.html) · 组织维护
 
 **机器翻译质量评测框架：为译文打分并定位错误**
 
@@ -46,12 +46,12 @@ Unbabel 维护的神经 MT 评测框架：基于 XLM-R/InfoXLM 等预训练模�
 ```mermaid
 xychart-beta
     title "Unbabel/COMET 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 784 --> 792
-    line [785, 786, 787, 788, 785, 789, 790, 791, 791]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 784 --> 794
+    line [785, 786, 787, 788, 785, 789, 790, 791, 793]
 ```
 
-2026-10-24 785 → 2026-11-26 791（+6）
+2026-10-25 785 → 2026-11-27 793（+8）
 
 
 ---

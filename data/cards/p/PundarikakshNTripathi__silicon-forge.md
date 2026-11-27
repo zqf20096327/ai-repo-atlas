@@ -42,6 +42,18 @@
 > L25:  agree. Every edge of the pipeline is decided by a tool verdict. The model only proposes.
 > L103: app (`python scripts/build_desktop.py`), the terminal UI (`siliconforge tui`) and an MCP server
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PundarikakshNTripathi/silicon-forge 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `88b9c8680095` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # vllm-project/vvm
 
-⭐ 15 · Rust · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/vllm-project/vvm) · 组织维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-08-02 · [GitHub](https://github.com/vllm-project/vvm) · 组织维护
 
 **vLLM 版本管理器：用隔离 venv 管理多个 vLLM 安装并即时切换**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vvm 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "vllm-project/vvm 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 13, 14, 15]
+    line [13, 14, 13, 14, 15, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 15（+2）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

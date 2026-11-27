@@ -42,6 +42,18 @@
 > L5: It is a plain git repo of markdown files. The agent reads them, keeps them current and commits every change, so the 
 > L12: There is no installer. The code is a few small scripts that need nothing beyond Python 3 and git, plus the memory h
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zucchini-chat/personal-agent-scaffold 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6aebc378065e` · [字段定义](../../DATASET.md)*

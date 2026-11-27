@@ -1,6 +1,6 @@
 # SusieCommons/pojia-xm
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SusieCommons/pojia-xm) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SusieCommons/pojia-xm) · 个人维护 · 中文 README
 
 **Windows 工具：替换四个 AI 客户端的内置系统提示词**
 
@@ -40,6 +40,18 @@
 > L3: **把你电脑上那几个 AI 客户端「自己改不到的内置提示词」，换成你自己写的那份 —— 点一个按钮的事。**
 > L6: 支持 **Codex / WorkBuddy / ZCode / DSH** 四个客户端，一份 `persona.md` 全管，口径一致。
 > L166: |`codex`|Codex（OpenAI CLI / 桌面端）|官方 `config.toml` 的 `model_instructions_file` 指向人格文件|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SusieCommons/pojia-xm 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 7
+    line [3, 6]
+```
+
+2026-11-26 3 → 2026-11-27 6（+3）
 
 
 ---

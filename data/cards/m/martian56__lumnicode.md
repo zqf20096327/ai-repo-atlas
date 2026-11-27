@@ -1,6 +1,6 @@
 # martian56/lumnicode
 
-⭐ 51 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/martian56/lumnicode) · [官网](https://lumnicode.ufazien.com) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/martian56/lumnicode) · [官网](https://lumnicode.ufazien.com) · 个人维护
 
 **BYOK 在线 AI 代码编辑器：自带 API key 的代码生成与辅助**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "martian56/lumnicode 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 37 --> 52
-    line [38, 39, 44, 45, 46, 50, 51]
+    title "martian56/lumnicode 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 37 --> 53
+    line [38, 39, 44, 45, 46, 50, 51, 52]
 ```
 
-2026-10-24 38 → 2026-11-26 51（+13）
+2026-10-25 38 → 2026-11-27 52（+14）
 
 
 ---

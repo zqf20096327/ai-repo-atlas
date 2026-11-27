@@ -1,6 +1,6 @@
 # LiYuanStudio/Papyrus_Desktop
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/LiYuanStudio/Papyrus_Desktop) · [官网](https://papyrus.liyuanstudio.com) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/LiYuanStudio/Papyrus_Desktop) · [官网](https://papyrus.liyuanstudio.com) · 个人维护 · 中文 README
 
 **键盘驱动、带 AI Agent 的间隔重复记忆复习桌面应用**
 
@@ -46,12 +46,12 @@ Electron 桌面端（Fastify 后端 + React 19 前端）的间隔重复（SRS）
 ```mermaid
 xychart-beta
     title "LiYuanStudio/Papyrus_Desktop 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 13 --> 16
-    line [15, 14, 15, 14, 14]
+    line [15, 14, 15, 14, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 14（-1）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

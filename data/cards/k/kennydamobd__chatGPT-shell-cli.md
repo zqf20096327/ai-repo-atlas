@@ -1,6 +1,6 @@
 # kennydamobd/chatGPT-shell-cli
 
-⭐ 50 · Shell · MIT · 推送 2026-11-05 · [GitHub](https://github.com/kennydamobd/chatGPT-shell-cli) · 个人维护
+⭐ 36 · Shell · MIT · 推送 2026-11-05 · [GitHub](https://github.com/kennydamobd/chatGPT-shell-cli) · 个人维护
 
 **终端调用 OpenAI 聊天与 DALL-E 图像生成的 shell 脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kennydamobd/chatGPT-shell-cli 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 35 --> 51
+    line [50, 36]
 ```
 
-2026-11-08 50 → 2026-11-26 50（+0）
+2026-11-08 50 → 2026-11-27 36（-14）
 
 
 ---

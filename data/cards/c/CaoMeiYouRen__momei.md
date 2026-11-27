@@ -1,6 +1,6 @@
 # CaoMeiYouRen/momei
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/CaoMeiYouRen/momei) · [官网](https://demo.momei.app/) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CaoMeiYouRen/momei) · [官网](https://demo.momei.app/) · 个人维护 · 中文 README
 
 **AI 驱动、原生国际化的开发者博客平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CaoMeiYouRen/momei 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

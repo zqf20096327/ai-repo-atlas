@@ -45,12 +45,12 @@ ISPRS 论文 "From Crowd to Herd Counting" 的官方代码：实现 HerdNet 模�
 ```mermaid
 xychart-beta
     title "Alexandre-Delplanque/HerdNet 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-24 58 → 2026-11-26 58（+0）
+2026-10-25 58 → 2026-11-27 58（+0）
 
 
 ---

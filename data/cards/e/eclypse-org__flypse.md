@@ -1,6 +1,6 @@
 # eclypse-org/flypse
 
-⭐ 26 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/eclypse-org/flypse) · [官网](https://flypse.readthedocs.io) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/eclypse-org/flypse) · [官网](https://flypse.readthedocs.io) · 组织维护
 
 **在云-边连续体上实验联邦学习的 Python 库**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "eclypse-org/flypse 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-27"]
     y-axis "stars" 22 --> 27
     line [23, 24, 25, 26, 26]
 ```
 
-2026-10-24 23 → 2026-11-26 26（+3）
+2026-10-25 23 → 2026-11-27 26（+3）
 
 
 ---

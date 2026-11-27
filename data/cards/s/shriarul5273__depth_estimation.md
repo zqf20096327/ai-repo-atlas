@@ -1,6 +1,6 @@
 # shriarul5273/depth_estimation
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shriarul5273/depth_estimation) · [官网](https://pypi.org/project/depth-estimation/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/shriarul5273/depth_estimation) · [官网](https://pypi.org/project/depth-estimation/) · 个人维护
 
 **单目深度估计统一 Python 库：14 模型族一个 API**
 
@@ -40,6 +40,18 @@
 
 > L14: `depth_estimation` is a unified model framework for monocular depth estimation. It provides one consistent API acro
 > L16: It covers the workflow end-to-end: run inference with one line, process video, visualize results, evaluate standard
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shriarul5273/depth_estimation 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

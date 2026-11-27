@@ -1,6 +1,6 @@
 # AbdulrahmanMasoud/comprende
 
-⭐ 65 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AbdulrahmanMasoud/comprende) · 个人维护 · 中文 README
+⭐ 65 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AbdulrahmanMasoud/comprende) · [官网](https://abdulrahmanmasoud.github.io/comprende/) · 个人维护 · 中文 README
 
 **AI 编码代理插件：解释其写的代码并在推送前问答验证理解**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AbdulrahmanMasoud/comprende 星数(近 9 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-27"]
     y-axis "stars" 0 --> 72
     line [4, 5, 44, 63, 64, 65, 66, 65, 65]
 ```
 
-2026-10-26 4 → 2026-11-26 65（+61）
+2026-10-26 4 → 2026-11-27 65（+61）
 
 
 ---

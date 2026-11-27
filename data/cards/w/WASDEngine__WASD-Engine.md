@@ -1,6 +1,6 @@
 # WASDEngine/WASD-Engine
 
-⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/WASDEngine/WASD-Engine) · [官网](https://wasdengine.com) · 组织维护
+⭐ 13 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/WASDEngine/WASD-Engine) · [官网](https://wasdengine.com) · 组织维护
 
 **给游戏开发者的 AI 代理开发工作台：整合 Godot/Blender 等工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "WASDEngine/WASD-Engine 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 4 --> 11
-    line [5, 9, 10, 10]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 4 --> 14
+    line [5, 9, 10, 13]
 ```
 
-2026-11-21 5 → 2026-11-26 10（+5）
+2026-11-21 5 → 2026-11-27 13（+8）
 
 
 ---

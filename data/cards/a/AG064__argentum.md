@@ -1,6 +1,6 @@
 # AG064/argentum
 
-⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AG064/argentum) · [官网](https://ag064.eu/argentum) · 个人维护
+⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/AG064/argentum) · [官网](https://ag064.eu/argentum) · 个人维护
 
 **本地优先的 Rust 原生 AI 编码 agent，覆盖桌面与手机**
 
@@ -39,6 +39,18 @@ Argentum 是运行在用户自己设备上的 AI 编码 agent：读取项目、�
 
 > L25: Argentum is an AI coding agent you run on your own machine, with the model you
 > L100: - **Any model:** more than 40 provider presets, local models, and any
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AG064/argentum 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

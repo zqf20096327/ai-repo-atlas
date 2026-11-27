@@ -1,6 +1,6 @@
 # Nicolas99-9/llm-agent-simulation-papers
 
-⭐ 19 · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Nicolas99-9/llm-agent-simulation-papers) · 个人维护
+⭐ 19 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Nicolas99-9/llm-agent-simulation-papers) · 个人维护
 
 **LLM 智能体仿真方向 arXiv 论文每日精选清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nicolas99-9/llm-agent-simulation-papers 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
     y-axis "stars" 15 --> 20
     line [16, 17, 18, 19, 19]
 ```
 
-2026-10-24 16 → 2026-11-26 19（+3）
+2026-10-25 16 → 2026-11-27 19（+3）
 
 
 ---

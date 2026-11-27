@@ -1,6 +1,6 @@
 # greypapl/shotrans
 
-⭐ 3 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/greypapl/shotrans) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/greypapl/shotrans) · 个人维护 · 中文 README
 
 **Windows 截图翻译工具：译文按原排版盖在原文上**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "greypapl/shotrans 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-26 3（+0）
+2026-11-20 3 → 2026-11-27 3（+0）
 
 
 ---

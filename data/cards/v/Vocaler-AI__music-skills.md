@@ -1,6 +1,6 @@
 # Vocaler-AI/music-skills
 
-⭐ 19 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Vocaler-AI/music-skills) · [官网](https://skills.vocaler.ai) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Vocaler-AI/music-skills) · [官网](https://skills.vocaler.ai) · 组织维护
 
 **为音乐创作者提供可在各 agent 中运行的音乐 AI 技能集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Vocaler-AI/music-skills 星数(近 7 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 20
-    line [3, 4, 8, 12, 16, 19, 19]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 2 --> 22
+    line [3, 4, 8, 12, 16, 19, 21]
 ```
 
-2026-11-19 3 → 2026-11-26 19（+16）
+2026-11-19 3 → 2026-11-27 21（+18）
 
 
 ---

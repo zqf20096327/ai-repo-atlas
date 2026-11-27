@@ -1,6 +1,6 @@
 # scrapfly/scrapfly-mcp
 
-⭐ 15 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/scrapfly/scrapfly-mcp) · [官网](https://scrapfly.io/mcp-cloud) · 组织维护
+⭐ 15 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/scrapfly/scrapfly-mcp) · [官网](https://scrapfly.io/mcp-cloud) · 组织维护
 
 **面向 MCP 客户端的网页抓取工具服务器，让 AI 实时访问网站数据**
 
@@ -47,12 +47,12 @@ Scrapfly 官方的 MCP 服务器，把网页抓取、云端浏览器会话、AI 
 ```mermaid
 xychart-beta
     title "scrapfly/scrapfly-mcp 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-24 14 → 2026-11-26 15（+1）
+2026-10-25 14 → 2026-11-27 15（+1）
 
 
 ---

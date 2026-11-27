@@ -1,6 +1,6 @@
 # tunabirgun/arf
 
-⭐ 25 · Svelte · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tunabirgun/arf) · [官网](https://tunabirgun.github.io/arf/) · 个人维护
+⭐ 25 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tunabirgun/arf) · [官网](https://tunabirgun.github.io/arf/) · 个人维护
 
 **本地优先的笔记/第二大脑应用，设备端模型提示笔记间联系**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tunabirgun/arf 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-24 25 → 2026-11-26 25（+0）
+2026-10-25 25 → 2026-11-27 25（+0）
 
 
 ---

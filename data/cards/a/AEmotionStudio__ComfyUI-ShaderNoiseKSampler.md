@@ -45,12 +45,12 @@ ComfyUI 的高级 KSampler 替换节点，将标准随机噪声与多阶段着�
 ```mermaid
 xychart-beta
     title "AEmotionStudio/ComfyUI-ShaderNoiseKSampler 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 68 --> 71
     line [70, 69, 69]
 ```
 
-2026-10-24 70 → 2026-11-26 69（-1）
+2026-10-25 70 → 2026-11-27 69（-1）
 
 
 ---

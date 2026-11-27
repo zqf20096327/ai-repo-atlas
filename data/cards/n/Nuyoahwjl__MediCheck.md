@@ -1,6 +1,6 @@
 # Nuyoahwjl/MediCheck
 
-⭐ 39 · Python · 推送 2026-05-26 · [GitHub](https://github.com/Nuyoahwjl/MediCheck) · [官网](https://medicheck01.streamlit.app) · 个人维护
+⭐ 38 · Python · 推送 2026-05-26 · [GitHub](https://github.com/Nuyoahwjl/MediCheck) · [官网](https://medicheck01.streamlit.app) · 个人维护
 
 **面向用户的多 Agent RAG 体检套餐推荐系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nuyoahwjl/MediCheck 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 38 --> 58
-    line [57, 51, 40, 39, 39]
+    title "Nuyoahwjl/MediCheck 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 37 --> 52
+    line [51, 40, 39, 38]
 ```
 
-2026-10-24 57 → 2026-11-26 39（-18）
+2026-10-25 51 → 2026-11-27 38（-13）
 
 
 ---

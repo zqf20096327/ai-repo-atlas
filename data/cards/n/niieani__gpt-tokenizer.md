@@ -1,6 +1,6 @@
 # niieani/gpt-tokenizer
 
-⭐ 862 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/niieani/gpt-tokenizer) · [官网](https://gpt-tokenizer.dev) · 个人维护
+⭐ 861 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/niieani/gpt-tokenizer) · [官网](https://gpt-tokenizer.dev) · 个人维护
 
 **TypeScript 实现的 OpenAI GPT 模型 BPE 分词器库**
 
@@ -45,12 +45,12 @@ gpt-tokenizer 是用 TypeScript 编写的字节对编码（BPE）分词/解码�
 ```mermaid
 xychart-beta
     title "niieani/gpt-tokenizer 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-27"]
     y-axis "stars" 855 --> 863
-    line [856, 857, 856, 857, 859, 860, 862, 862]
+    line [856, 857, 856, 857, 859, 860, 862, 861]
 ```
 
-2026-10-24 856 → 2026-11-26 862（+6）
+2026-10-25 856 → 2026-11-27 861（+5）
 
 
 ---

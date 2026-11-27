@@ -1,6 +1,6 @@
 # Hritikraj8804/Autotube
 
-⭐ 82 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/Hritikraj8804/Autotube) · 个人维护
+⭐ 83 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/Hritikraj8804/Autotube) · 个人维护
 
 **自动化 YouTube Shorts 生产流水线：主题到成片发布一站完成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hritikraj8804/Autotube 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 79 --> 83
-    line [80, 81, 82, 82]
+    title "Hritikraj8804/Autotube 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 80 --> 84
+    line [81, 82, 83]
 ```
 
-2026-10-24 80 → 2026-11-26 82（+2）
+2026-10-25 81 → 2026-11-27 83（+2）
 
 
 ---

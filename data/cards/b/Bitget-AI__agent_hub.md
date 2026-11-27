@@ -1,6 +1,6 @@
 # Bitget-AI/agent_hub
 
-⭐ 235 · JavaScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/Bitget-AI/agent_hub) · 组织维护
+⭐ 236 · JavaScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/Bitget-AI/agent_hub) · 组织维护
 
 **连接 AI 代理与 Bitget 交易所的官方开源工具集**
 
@@ -47,12 +47,12 @@ Bitget 官方 AI Agent 工具生态的中央入口仓库，由 5 个 MIT 许可�
 ```mermaid
 xychart-beta
     title "Bitget-AI/agent_hub 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 232 --> 236
-    line [233, 234, 233, 234, 235, 235]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 232 --> 237
+    line [233, 234, 233, 234, 235, 236]
 ```
 
-2026-10-24 233 → 2026-11-26 235（+2）
+2026-10-25 233 → 2026-11-27 236（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # jordenyt/stable_diffusion_sketch
 
-⭐ 128 · Java · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/jordenyt/stable_diffusion_sketch) · 个人维护
+⭐ 128 · Java · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/jordenyt/stable_diffusion_sketch) · 个人维护
 
 **Android 绘图客户端：连接自己的 ComfyUI 进行 AI 图像生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jordenyt/stable_diffusion_sketch 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 127 --> 129
     line [128, 128]
 ```
 
-2026-10-24 128 → 2026-11-26 128（+0）
+2026-10-25 128 → 2026-11-27 128（+0）
 
 
 ---

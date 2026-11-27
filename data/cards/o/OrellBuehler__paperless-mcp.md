@@ -1,6 +1,6 @@
 # OrellBuehler/paperless-mcp
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/OrellBuehler/paperless-mcp) · [官网](https://www.npmjs.com/package/@orellbuehler/paperless-mcp) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/OrellBuehler/paperless-mcp) · [官网](https://www.npmjs.com/package/@orellbuehler/paperless-mcp) · 个人维护
 
 **把 Paperless-ngx 暴露给 AI agent 的 MCP 服务器（115+ 工具）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OrellBuehler/paperless-mcp 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 9 --> 30
-    line [10, 11, 12, 13, 14, 16, 17, 10, 22, 23, 24, 25, 26, 29]
+    title "OrellBuehler/paperless-mcp 星数(近 15 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 33
+    line [10, 11, 12, 13, 14, 16, 17, 10, 22, 23, 24, 25, 26, 29, 31]
 ```
 
-2026-10-24 10 → 2026-11-26 29（+19）
+2026-10-25 10 → 2026-11-27 31（+21）
 
 
 ---

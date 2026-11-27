@@ -1,6 +1,6 @@
 # ziqipang/MR-Video
 
-⭐ 32 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/ziqipang/MR-Video) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-06-18 · [GitHub](https://github.com/ziqipang/MR-Video) · 个人维护
 
 **MapReduce 式长视频理解 agent 框架（NeurIPS 2025 论文代码）**
 
@@ -45,12 +45,12 @@ MR. Video 是围绕 MapReduce 模式构建的长视频理解 agent 框架：对�
 ```mermaid
 xychart-beta
     title "ziqipang/MR-Video 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-24 32 → 2026-11-26 32（+0）
+2026-10-25 32 → 2026-11-27 33（+1）
 
 
 ---

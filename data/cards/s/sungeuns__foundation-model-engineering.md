@@ -42,6 +42,18 @@
 > L29: Both editions have 108 published lessons across 20 chapters. The last four chapters include evaluation (7 lessons),
 > L66: ## Tech Stack
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sungeuns/foundation-model-engineering 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
+```
+
+2026-11-26 26 → 2026-11-27 26（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `bdaf229814c7` · [字段定义](../../DATASET.md)*

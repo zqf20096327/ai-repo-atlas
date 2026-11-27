@@ -1,6 +1,6 @@
 # ruvnet/ai-text-watermark
 
-⭐ 33 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ruvnet/ai-text-watermark) · [官网](https://ruv.io) · 个人维护
+⭐ 34 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/ruvnet/ai-text-watermark) · [官网](https://ruv.io) · 个人维护
 
 **给 LLM 生成文本嵌入与检测密钥可验证水印的 Rust/WASM 库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ruvnet/ai-text-watermark 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
-    y-axis "stars" 30 --> 34
-    line [31, 33, 33]
+    x-axis ["2026-10-25", "2026-11-14", "2026-11-27"]
+    y-axis "stars" 30 --> 35
+    line [31, 33, 34]
 ```
 
-2026-10-24 31 → 2026-11-26 33（+2）
+2026-10-25 31 → 2026-11-27 34（+3）
 
 
 ---

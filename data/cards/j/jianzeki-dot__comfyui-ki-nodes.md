@@ -1,6 +1,6 @@
 # jianzeki-dot/comfyui-ki-nodes
 
-⭐ 3 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/jianzeki-dot/comfyui-ki-nodes) · [官网](https://github.com/jianzeki-dot/comfyui-ki-nodes) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · 推送 2026-10-26 · [GitHub](https://github.com/jianzeki-dot/comfyui-ki-nodes) · [官网](https://github.com/jianzeki-dot/comfyui-ki-nodes) · 个人维护 · 中文 README
 
 **面向 ComfyUI 用户的 24 个自定义节点合集，覆盖视频续接、采样加速与调色**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jianzeki-dot/comfyui-ki-nodes 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-11", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-11 3 → 2026-11-26 3（+0）
+2026-11-11 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kartikkabadi/opencode-go-proxy
 
-⭐ 94 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/kartikkabadi/opencode-go-proxy) · [官网](https://opencode.ai/docs/go) · 个人维护
+⭐ 95 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/kartikkabadi/opencode-go-proxy) · [官网](https://opencode.ai/docs/go) · 个人维护
 
 **让 Codex 应用调用 OpenCode Go 订阅模型的本地协议桥接代理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "kartikkabadi/opencode-go-proxy 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 90 --> 95
-    line [91, 92, 93, 92, 93, 94, 94]
+    title "kartikkabadi/opencode-go-proxy 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 91 --> 96
+    line [92, 93, 92, 93, 94, 95]
 ```
 
-2026-10-24 91 → 2026-11-26 94（+3）
+2026-10-25 92 → 2026-11-27 95（+3）
 
 
 ---

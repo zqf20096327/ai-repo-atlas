@@ -1,6 +1,6 @@
 # lucidrains/SEA-pytorch
 
-⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lucidrains/SEA-pytorch) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lucidrains/SEA-pytorch) · 个人维护
 
 **复现 Scaling Empowered Agents 论文的 PyTorch 实验代码（wip）**
 
@@ -42,13 +42,13 @@ lucidrains 维护的论文复现仓库，围绕 Catherine Ji 等人（Benjamin E
 
 ```mermaid
 xychart-beta
-    title "lucidrains/SEA-pytorch 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "lucidrains/SEA-pytorch 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 6
-    line [3, 5]
+    line [3, 5, 5]
 ```
 
-2026-11-25 3 → 2026-11-26 5（+2）
+2026-11-25 3 → 2026-11-27 5（+2）
 
 
 ---

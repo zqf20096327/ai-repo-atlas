@@ -1,6 +1,6 @@
 # spidra-io/spidra-js
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/spidra-io/spidra-js) · [官网](https://spidra.io/) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/spidra-io/spidra-js) · [官网](https://spidra.io/) · 组织维护
 
 **Spidra 网页抓取/搜索服务的官方 Node.js SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spidra-io/spidra-js 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

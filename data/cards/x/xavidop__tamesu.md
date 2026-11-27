@@ -1,6 +1,6 @@
 # xavidop/tamesu
 
-⭐ 7 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xavidop/tamesu) · [官网](https://xavidop.github.io/tamesu/) · 个人维护
+⭐ 7 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xavidop/tamesu) · [官网](https://xavidop.github.io/tamesu/) · 个人维护
 
 **AI Agent 与 Web 应用的 YAML 化测试 CLI：CI 中模拟用户验证**
 
@@ -47,12 +47,12 @@ Go 编写的开源 agentic 测试框架与 CLI：用 YAML 定义 persona、scena
 ```mermaid
 xychart-beta
     title "xavidop/tamesu 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-27"]
     y-axis "stars" 3 --> 8
     line [4, 5, 6, 7, 7]
 ```
 
-2026-11-08 4 → 2026-11-26 7（+3）
+2026-11-08 4 → 2026-11-27 7（+3）
 
 
 ---

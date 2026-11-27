@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stealth-Coder44/ai-jailbreak-prompts 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "Stealth-Coder44/ai-jailbreak-prompts 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-10-24 3 → 2026-11-26 4（+1）
+2026-10-25 3 → 2026-11-27 4（+1）
 
 
 ---

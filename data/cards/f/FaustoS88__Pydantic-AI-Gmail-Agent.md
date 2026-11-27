@@ -40,6 +40,18 @@
 > L5: An intelligent, autonomous AI agent built with **Pydantic AI v2** to monitor, triage, and reply to Gmail messages.
 > L13:  - `gmail_tools`: 6 atomic Gmail actions (`fetch_starred_emails`, `get_thread_context`, `create_reply_draft`, `send
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FaustoS88/Pydantic-AI-Gmail-Agent 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-26 13 → 2026-11-27 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `901dce325b10` · [字段定义](../../DATASET.md)*

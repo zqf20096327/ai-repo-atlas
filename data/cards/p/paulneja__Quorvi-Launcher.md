@@ -1,6 +1,6 @@
 # paulneja/Quorvi-Launcher
 
-⭐ 3 · Kotlin · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/paulneja/Quorvi-Launcher) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Android 启动器：内置 AI 助手、Unix 终端与连接面板**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

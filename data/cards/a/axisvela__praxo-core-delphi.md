@@ -1,6 +1,6 @@
 # axisvela/praxo-core-delphi
 
-⭐ 3 · Pascal · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core-delphi) · [官网](https://axisvela.github.io/praxo-core/languages/delphi/) · 组织维护
+⭐ 3 · Pascal · MIT · 推送 2026-11-26 · [GitHub](https://github.com/axisvela/praxo-core-delphi) · [官网](https://axisvela.github.io/praxo-core/languages/delphi/) · 组织维护
 
 **Delphi/Free Pascal 可嵌入 AI agent 框架：内置工具、策略与检查点**
 
@@ -41,6 +41,18 @@
 > L3: PRAXO-CORE is an embeddable, MIT-licensed agent framework. This package is its native Delphi / Free Pascal Core: an 
 > L22: - OpenAI-compatible model: native
 > L117: PRAXO-CORE is not a hosted model, workflow engine, identity provider, or safety controller. Do not infer exactly-o
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axisvela/praxo-core-delphi 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

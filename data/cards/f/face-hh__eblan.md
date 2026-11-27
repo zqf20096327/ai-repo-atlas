@@ -1,6 +1,6 @@
 # face-hh/eblan
 
-⭐ 60 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/face-hh/eblan) · [官网](https://eblan.basaltlabs.org) · 个人维护
+⭐ 88 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/face-hh/eblan) · [官网](https://eblan.basaltlabs.org) · 个人维护
 
 **用 CS2 游戏聊天训练的娱乐用毒性聊天机器人及其基准**
 
@@ -40,6 +40,18 @@ EBLAN 是在 Counter-Strike 2 对局聊天上训练的小型语言模型，基�
 > L7: EBLAN is a small language model trained on Counter-Strike 2 match chat. It's a LoRA on Qwen3.5-4B-Base, refined to b
 > L9: You can talk to it on the website, for a limited time, by text or by voice. It's made for entertainment only, and it
 > L28: - `benchmark/` is the toxicity benchmark - 450 insults, the prompts, and a script that runs a model through them an
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "face-hh/eblan 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 58 --> 90
+    line [60, 88]
+```
+
+2026-11-26 60 → 2026-11-27 88（+28）
 
 
 ---

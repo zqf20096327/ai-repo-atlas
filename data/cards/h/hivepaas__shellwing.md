@@ -1,6 +1,6 @@
 # hivepaas/shellwing
 
-⭐ 192 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/hivepaas/shellwing) · [官网](https://shellwing.app) · 组织维护
+⭐ 194 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/hivepaas/shellwing) · [官网](https://shellwing.app) · 组织维护
 
 **面向 SSH 用户的客户端：让 AI 代理安全地操作服务器**
 
@@ -40,6 +40,18 @@
 > L7: Give Claude Code, Codex or any MCP agent the servers it needs, never your keys: it runs commands, reads your runbook
 > L20: AI agents reach the hosts you give them through shellwing, over the Model Context Protocol: Claude Code, Claude Des
 > L87: |`crates/core`|Sessions without a UI: connecting and reconnecting, prompts, saved secrets; AI access over MCP (`ai/
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hivepaas/shellwing 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 191 --> 195
+    line [192, 194]
+```
+
+2026-11-26 192 → 2026-11-27 194（+2）
 
 
 ---

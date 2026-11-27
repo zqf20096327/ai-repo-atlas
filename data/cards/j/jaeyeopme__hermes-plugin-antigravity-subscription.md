@@ -1,6 +1,6 @@
 # jaeyeopme/hermes-plugin-antigravity-subscription
 
-⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jaeyeopme/hermes-plugin-antigravity-subscription) · [官网](https://github.com/jaeyeopme/hermes-plugin-antigravity-subscription#readme) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jaeyeopme/hermes-plugin-antigravity-subscription) · [官网](https://github.com/jaeyeopme/hermes-plugin-antigravity-subscription#readme) · 个人维护
 
 **用 Google Antigravity 账号在 Hermes 中接入 Gemini/Claude/gpt-oss 模型的插件**
 
@@ -45,12 +45,12 @@ Hermes 的模型提供方插件：通过 Google Antigravity 账号的 OAuth 登�
 ```mermaid
 xychart-beta
     title "jaeyeopme/hermes-plugin-antigravity-subscription 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-25 12 → 2026-11-26 12（+0）
+2026-11-25 12 → 2026-11-27 12（+0）
 
 
 ---

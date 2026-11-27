@@ -1,6 +1,6 @@
 # mazamaka/llm-latency-tracker
 
-⭐ 11 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mazamaka/llm-latency-tracker) · [官网](https://llmlatency.dev) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mazamaka/llm-latency-tracker) · [官网](https://llmlatency.dev) · 个人维护
 
 **多区域 AI API 延迟与可用性测量：开放数据+JSON API+MCP**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mazamaka/llm-latency-tracker 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "mazamaka/llm-latency-tracker 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 10 --> 13
-    line [12, 11]
+    line [12, 11, 11]
 ```
 
-2026-10-24 12 → 2026-11-26 11（-1）
+2026-10-25 12 → 2026-11-27 11（-1）
 
 
 ---

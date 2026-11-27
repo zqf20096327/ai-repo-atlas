@@ -44,13 +44,13 @@ MIT 许可的工具包，让读取 markdown 的编码代理（Claude Code、Open
 
 ```mermaid
 xychart-beta
-    title "AftabIbrahimKazi/ai-dev-kit 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-18", "2026-11-20", "2026-11-26"]
+    title "AftabIbrahimKazi/ai-dev-kit 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-18", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 12, 14]
+    line [10, 11, 12, 14, 14]
 ```
 
-2026-11-02 10 → 2026-11-26 14（+4）
+2026-11-02 10 → 2026-11-27 14（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # mrw7/three-studio
 
-⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/mrw7/three-studio) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/mrw7/three-studio) · 个人维护 · 中文 README
 
 **开发者用对话生成 Three.js 3D 场景的本地工作台**
 
@@ -41,6 +41,18 @@
 > L7: self-contained Three.js scenes through tools, the preview renders them in a
 > L49: - **Bring your own model** — DeepSeek is built in; add, edit or delete any
 > L50:  OpenAI-compatible or Anthropic-compatible provider with its own API key, base
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mrw7/three-studio 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

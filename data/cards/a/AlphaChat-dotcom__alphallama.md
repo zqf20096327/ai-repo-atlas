@@ -1,6 +1,6 @@
 # AlphaChat-dotcom/alphallama
 
-⭐ 23 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/AlphaChat-dotcom/alphallama) · [官网](https://alphachat.com) · 组织维护
+⭐ 24 · C++ · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AlphaChat-dotcom/alphallama) · [官网](https://alphachat.com) · 组织维护
 
 **在消费级 GPU 上运行超出显存的大 MoE 模型的 llama.cpp 分支**
 
@@ -44,13 +44,13 @@ AlphaLlama 是 llama.cpp 的分支，保留 GGUF 格式、工具与 C API，新�
 
 ```mermaid
 xychart-beta
-    title "AlphaChat-dotcom/alphallama 星数(近 11 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 1 --> 25
-    line [3, 4, 10, 11, 13, 14, 16, 18, 20, 21, 23]
+    title "AlphaChat-dotcom/alphallama 星数(近 12 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1 --> 26
+    line [3, 4, 10, 11, 13, 14, 16, 18, 20, 21, 23, 24]
 ```
 
-2026-11-08 3 → 2026-11-26 23（+20）
+2026-11-08 3 → 2026-11-27 24（+21）
 
 
 ---

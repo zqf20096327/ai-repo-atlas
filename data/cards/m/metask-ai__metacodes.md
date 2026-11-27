@@ -1,6 +1,6 @@
 # metask-ai/metacodes
 
-⭐ 14 · Zig · MIT · 推送 2026-11-25 · [GitHub](https://github.com/metask-ai/metacodes) · [官网](https://app.metask-ai.com) · 组织维护
+⭐ 15 · Zig · MIT · 推送 2026-11-26 · [GitHub](https://github.com/metask-ai/metacodes) · [官网](https://app.metask-ai.com) · 组织维护
 
 **可嵌入任意宿主的 Zig 编码 agent 运行框架与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "metask-ai/metacodes 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 13, 14, 14]
+    x-axis ["2026-11-08", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 13, 14, 15]
 ```
 
-2026-11-08 10 → 2026-11-26 14（+4）
+2026-11-08 10 → 2026-11-27 15（+5）
 
 
 ---

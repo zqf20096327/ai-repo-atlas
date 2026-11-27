@@ -1,6 +1,6 @@
 # bcorfman/freytag-forge
 
-⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/bcorfman/freytag-forge) · [官网](https://bcorfman.github.io/freytag-forge/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bcorfman/freytag-forge) · [官网](https://bcorfman.github.io/freytag-forge/) · 个人维护
 
 **基于 LLM 叙事与事实校验世界模型的自由文字冒险引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bcorfman/freytag-forge 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-25", "2026-11-27"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

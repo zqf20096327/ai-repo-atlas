@@ -1,6 +1,6 @@
 # jtrackingai/analytics-tracking-automation
 
-⭐ 145 · TypeScript · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/jtrackingai/analytics-tracking-automation) · [官网](https://www.jtracking.ai/skills) · 组织维护
+⭐ 146 · TypeScript · Apache-2.0 · 推送 2026-04-29 · [GitHub](https://github.com/jtrackingai/analytics-tracking-automation) · [官网](https://www.jtracking.ai/skills) · 组织维护
 
 **让 AI agent 规划并交付 GA4+GTM 埋点方案的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jtrackingai/analytics-tracking-automation 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 143 --> 146
-    line [144, 145, 144, 145, 145]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 143 --> 147
+    line [144, 145, 144, 145, 146]
 ```
 
-2026-10-24 144 → 2026-11-26 145（+1）
+2026-10-25 144 → 2026-11-27 146（+2）
 
 
 ---

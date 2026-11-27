@@ -1,6 +1,6 @@
 # agent-sh/tools
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/agent-sh/tools) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/agent-sh/tools) · 个人维护
 
 **为 LLM agent 设计的文件/搜索/网络工具集（npm+Rust 双发布）**
 
@@ -40,6 +40,18 @@
 > L3: **Agent tools built for how LLMs actually call tools:** `read`, `write`/`edit`, `grep`, `glob`, `bash`, `webfetch`, 
 > L9: Most tool libraries are written for deterministic callers. The caller here is a model (Claude, GPT, Qwen, Gemini and
 > L83: Every tool exports a ready-made definition (`name`, `description`, JSON Schema `inputSchema`) to hand to the model,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agent-sh/tools 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

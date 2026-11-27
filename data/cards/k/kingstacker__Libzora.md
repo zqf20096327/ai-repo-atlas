@@ -1,6 +1,6 @@
 # kingstacker/Libzora
 
-⭐ 99 · C# · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/kingstacker/Libzora) · [官网](https://kkindle.stacker.beauty/) · 组织维护 · 中文 README
+⭐ 99 · C# · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/kingstacker/Libzora) · [官网](https://kkindle.stacker.beauty/) · 组织维护 · 中文 README
 
 **跨平台电子书与 Kindle 管理阅读器，含 AI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kingstacker/Libzora 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26"]
+    title "kingstacker/Libzora 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 89 --> 100
-    line [90, 94, 95, 96, 99]
+    line [90, 94, 95, 96, 99, 99]
 ```
 
-2026-11-13 90 → 2026-11-26 99（+9）
+2026-11-13 90 → 2026-11-27 99（+9）
 
 
 ---

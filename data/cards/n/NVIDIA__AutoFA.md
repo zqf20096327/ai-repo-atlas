@@ -1,6 +1,6 @@
 # NVIDIA/AutoFA
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/AutoFA) · 组织维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/NVIDIA/AutoFA) · 组织维护
 
 **面向 agent 评测运行的自动化失败分析工具包**
 
@@ -41,6 +41,18 @@ NVIDIA AutoFA 读取已完成的评测运行（本地 NeMo Gym、Harbor 目录�
 > L3: **Automated failure analysis for models and agent harnesses.**
 > L13: A reward tells you *that* an agent failed, not *why*. AutoFA is a toolkit for
 > L103: LLM judges and LLM detectors use an OpenAI-compatible endpoint that you configure
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NVIDIA/AutoFA 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

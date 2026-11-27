@@ -1,6 +1,6 @@
 # dusk-futile/mubsir
 
-⭐ 77 · C# · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/dusk-futile/mubsir) · 个人维护
+⭐ 79 · C# · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/dusk-futile/mubsir) · 个人维护
 
 **面向盲人与低视力者的 Windows 语音代理：按住一键用阿/英文操控整台电脑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dusk-futile/mubsir 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 70 --> 78
-    line [71, 73, 74, 77]
+    title "dusk-futile/mubsir 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 70 --> 80
+    line [71, 73, 74, 77, 79]
 ```
 
-2026-11-08 71 → 2026-11-26 77（+6）
+2026-11-08 71 → 2026-11-27 79（+8）
 
 
 ---

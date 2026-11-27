@@ -1,6 +1,6 @@
 # gravion-ux/preference-data-doctor
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gravion-ux/preference-data-doctor) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gravion-ux/preference-data-doctor) · 个人维护
 
 **诊断并修复 LLM 个性化偏好数据集的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gravion-ux/preference-data-doctor 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-23 4 → 2026-11-26 4（+0）
+2026-11-23 4 → 2026-11-27 4（+0）
 
 
 ---

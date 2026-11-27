@@ -1,6 +1,6 @@
 # qfzhao670/xhs-ads-agent
 
-⭐ 5 · JavaScript · 推送 2026-11-13 · [GitHub](https://github.com/qfzhao670/xhs-ads-agent) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/qfzhao670/xhs-ads-agent) · 个人维护 · 中文 README
 
 **本地优先的小红书图文内容生成桌面工作台**
 
@@ -40,6 +40,18 @@
 > L9:  一款本地优先的桌面工作台，覆盖素材沉淀、事实核对、选题策略、文案修订、双路线配图与终稿避重。
 > L133: ### 3. 生成文案，保留每一次修订
 > L229: |AI 套图与实拍 AI 装饰（可选）|支持图生图的图片模型；内置 DashScope Qwen Image 与 OpenAI 兼容协议配置。|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qfzhao670/xhs-ads-agent 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # polyant-ai/polyant
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/polyant-ai/polyant) · [官网](https://polyant.ai) · 组织维护
+⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/polyant-ai/polyant) · [官网](https://polyant.ai) · 组织维护
 
 **企业级多 Agent 运行平台：把 Agent 接入业务流程**
 
@@ -47,12 +47,12 @@ Exelab 开发的开源企业 AI 平台（AGPL-3.0-or-later），提供多 Agent 
 ```mermaid
 xychart-beta
     title "polyant-ai/polyant 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

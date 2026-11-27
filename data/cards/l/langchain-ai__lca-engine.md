@@ -47,12 +47,12 @@ LangChain Academy 课程配套仓库：包含一个招聘助理 Agent（职位�
 ```mermaid
 xychart-beta
     title "langchain-ai/lca-engine 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-24 21 → 2026-11-26 21（+0）
+2026-10-25 21 → 2026-11-27 21（+0）
 
 
 ---

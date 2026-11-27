@@ -1,6 +1,6 @@
 # COSS-India/VoicEra
 
-⭐ 318 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/COSS-India/VoicEra) · [官网](https://voicera.mintlify.app/docs/guides) · 组织维护
+⭐ 318 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/COSS-India/VoicEra) · [官网](https://voicera.mintlify.app/docs/guides) · 组织维护
 
 **自托管语音 AI 平台：组合 STT/TTS/LLM 与电话构建语音代理**
 
@@ -46,12 +46,12 @@ VoicEra 是一个开源的自托管实时语音 AI 基础设施层，面向需�
 ```mermaid
 xychart-beta
     title "COSS-India/VoicEra 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-27"]
     y-axis "stars" 315 --> 320
     line [318, 317, 316, 318, 317, 318, 319, 318, 318]
 ```
 
-2026-10-24 318 → 2026-11-26 318（+0）
+2026-10-25 318 → 2026-11-27 318（+0）
 
 
 ---

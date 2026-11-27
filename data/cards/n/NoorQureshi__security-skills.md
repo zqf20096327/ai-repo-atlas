@@ -1,6 +1,6 @@
 # NoorQureshi/security-skills
 
-⭐ 29 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/NoorQureshi/security-skills) · [官网](https://noorqureshi.github.io/security-skills/) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/NoorQureshi/security-skills) · [官网](https://noorqureshi.github.io/security-skills/) · 个人维护 · 中文 README
 
 **面向 AI agent 的 206 条安全技能库（渗透/赏金/CTF/逆向/防御）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NoorQureshi/security-skills 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 23 --> 30
-    line [24, 25, 26, 24, 27, 29, 29]
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 23 --> 31
+    line [24, 25, 26, 24, 27, 29, 30]
 ```
 
-2026-10-24 24 → 2026-11-26 29（+5）
+2026-10-25 24 → 2026-11-27 30（+6）
 
 
 ---

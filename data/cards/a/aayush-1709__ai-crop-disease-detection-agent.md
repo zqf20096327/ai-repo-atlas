@@ -45,12 +45,12 @@ AI Crop Doctor 是一个 Flask 全栈 Web 应用，服务农民、园艺爱好�
 ```mermaid
 xychart-beta
     title "aayush-1709/ai-crop-disease-detection-agent 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 16（+0）
 
 
 ---

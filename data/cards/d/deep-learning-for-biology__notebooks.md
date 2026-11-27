@@ -1,6 +1,6 @@
 # deep-learning-for-biology/notebooks
 
-⭐ 149 · Jupyter Notebook · 推送 2026-03-19 · [GitHub](https://github.com/deep-learning-for-biology/notebooks) · [官网](https://deep-learning-for-biology.com) · 组织维护
+⭐ 150 · Jupyter Notebook · 推送 2026-03-19 · [GitHub](https://github.com/deep-learning-for-biology/notebooks) · [官网](https://deep-learning-for-biology.com) · 组织维护
 
 **《Deep Learning for Biology》配套可执行代码笔记本（第2-6章）**
 
@@ -43,13 +43,13 @@ O'Reilly 图书《Deep Learning for Biology》的伴随仓库，提供第 2-6 �
 
 ```mermaid
 xychart-beta
-    title "deep-learning-for-biology/notebooks 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 147 --> 150
-    line [149, 148, 149, 148, 149, 149]
+    title "deep-learning-for-biology/notebooks 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 147 --> 151
+    line [148, 149, 148, 149, 150]
 ```
 
-2026-10-24 149 → 2026-11-26 149（+0）
+2026-10-25 148 → 2026-11-27 150（+2）
 
 
 ---

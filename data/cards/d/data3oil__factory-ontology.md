@@ -1,6 +1,6 @@
 # data3oil/factory-ontology
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/data3oil/factory-ontology) · 组织维护 · 中文 README
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/data3oil/factory-ontology) · 组织维护 · 中文 README
 
 **把工厂台账 CSV 变成带证据溯源的自然语言问答系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "data3oil/factory-ontology 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 16 --> 24
-    line [17, 19, 20, 21, 22, 23]
+    title "data3oil/factory-ontology 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 16 --> 25
+    line [17, 19, 20, 21, 22, 23, 24]
 ```
 
-2026-10-24 17 → 2026-11-26 23（+6）
+2026-10-25 17 → 2026-11-27 24（+7）
 
 
 ---

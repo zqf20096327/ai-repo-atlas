@@ -1,6 +1,6 @@
 # adithyanraj03/Qwen-3.8-Local-Benchmark
 
-⭐ 6 · HTML · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/adithyanraj03/Qwen-3.8-Local-Benchmark) · 个人维护
+⭐ 7 · HTML · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/adithyanraj03/Qwen-3.8-Local-Benchmark) · 个人维护
 
 **7 个 Qwen3.8 本地构建在 54 项真实任务上的基准报告**
 
@@ -40,6 +40,18 @@
 > L1: # Qwen3.8 local model benchmark — 7 builds, 54 real tasks
 > L11: Seven Qwen3.8 builds, each run alone through the same 54 hands-on tasks: games and 3D worlds, SVG and shaders, web 
 > L13: **Live report:** adithyanraj03.github.io/Qwen-3.8-Local-Benchmark. Scores, recordings, notes and playable demos for
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "adithyanraj03/Qwen-3.8-Local-Benchmark 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-26 6 → 2026-11-27 7（+1）
 
 
 ---

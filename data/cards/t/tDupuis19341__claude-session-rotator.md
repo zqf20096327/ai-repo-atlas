@@ -40,6 +40,18 @@
 > L18: **Claude Code Unlimited — Claude Code Unlimited — claude-code and llm in one tool** (`claude-session-rotator`) is a
 > L54: No. `ccu` is a wrapper — the original CLI stays untouched.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tDupuis19341/claude-session-rotator 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 65 --> 67
+    line [66, 66]
+```
+
+2026-11-26 66 → 2026-11-27 66（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `f31940b5542d` · [字段定义](../../DATASET.md)*

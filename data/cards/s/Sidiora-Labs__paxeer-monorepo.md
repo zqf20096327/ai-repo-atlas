@@ -1,6 +1,6 @@
 # Sidiora-Labs/paxeer-monorepo
 
-⭐ 436 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Sidiora-Labs/paxeer-monorepo) · [官网](https://paxeer.network) · 组织维护
+⭐ 435 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Sidiora-Labs/paxeer-monorepo) · [官网](https://paxeer.network) · 组织维护
 
 **面向机器与用户的分布式支付与意图路由区块链网络**
 
@@ -44,13 +44,13 @@ Sidiora Labs 开发的 Paxeer X Network，核心为运行在 paxd 节点内的 L
 
 ```mermaid
 xychart-beta
-    title "Sidiora-Labs/paxeer-monorepo 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 423 --> 584
-    line [571, 544, 541, 540, 541, 439, 436, 436]
+    title "Sidiora-Labs/paxeer-monorepo 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 425 --> 554
+    line [544, 541, 540, 541, 439, 436, 435]
 ```
 
-2026-10-24 571 → 2026-11-26 436（-135）
+2026-10-25 544 → 2026-11-27 435（-109）
 
 
 ---

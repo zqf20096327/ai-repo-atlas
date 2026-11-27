@@ -47,12 +47,12 @@ npm 安装的 Node-RED 扩展节点包，提供 mcp server/mcp tool/mcp resource
 ```mermaid
 xychart-beta
     title "TobiasLante/node-red-contrib-mcp 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-22", "2026-11-27"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-10-24 14 → 2026-11-26 16（+2）
+2026-10-25 14 → 2026-11-27 16（+2）
 
 
 ---

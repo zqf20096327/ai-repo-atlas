@@ -1,6 +1,6 @@
 # Nexis-AI/NexBench
 
-⭐ 79 · TypeScript · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/Nexis-AI/NexBench) · [官网](https://nex-t1.ai) · 组织维护
+⭐ 78 · TypeScript · Apache-2.0 · 推送 2026-07-17 · [GitHub](https://github.com/Nexis-AI/NexBench) · [官网](https://nex-t1.ai) · 组织维护
 
 **自主 Web3 agent 链上能力评测基准：214 任务、确定性分叉主网**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nexis-AI/NexBench 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 78 --> 94
-    line [93, 92, 80, 79, 79]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 77 --> 94
+    line [93, 92, 80, 79, 78]
 ```
 
-2026-10-24 93 → 2026-11-26 79（-14）
+2026-10-25 93 → 2026-11-27 78（-15）
 
 
 ---

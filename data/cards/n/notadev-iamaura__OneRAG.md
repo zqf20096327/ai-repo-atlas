@@ -1,6 +1,6 @@
 # notadev-iamaura/OneRAG
 
-⭐ 125 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/notadev-iamaura/OneRAG) · [官网](https://github.com/notadev-iamaura/OneRAG) · 个人维护 · 中文 README
+⭐ 126 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/notadev-iamaura/OneRAG) · [官网](https://github.com/notadev-iamaura/OneRAG) · 个人维护 · 中文 README
 
 **组件可插拔的 RAG 后端框架：一行配置切换向量库与 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "notadev-iamaura/OneRAG 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 124 --> 127
-    line [126, 125, 126, 125, 125]
+    line [126, 125, 126, 125, 126]
 ```
 
-2026-10-24 126 → 2026-11-26 125（-1）
+2026-10-25 126 → 2026-11-27 126（+0）
 
 
 ---

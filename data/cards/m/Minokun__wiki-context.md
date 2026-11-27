@@ -1,6 +1,6 @@
 # Minokun/wiki-context
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Minokun/wiki-context) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Minokun/wiki-context) · 个人维护 · 中文 README
 
 **为 AI Agent 提供离线编译知识库与零幻觉检索的 MCP 服务**
 
@@ -41,6 +41,18 @@
 > L10: Protocol: MCP
 > L17: - **Decoupled Write vs. Read Paths**: Heavy comprehension happens **offline** (native document extraction + AI-comp
 > L65: |**Online Latency & Token Cost**|1–5 s + Embedding/Rerank API calls|15–40 s (3–6 tool calls, ~30k–40k tokens)|**1 t
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Minokun/wiki-context 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

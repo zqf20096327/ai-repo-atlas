@@ -1,6 +1,6 @@
 # openslop/openslop
 
-⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/openslop/openslop) · [官网](https://openslop.ai) · 组织维护 · 中文 README
+⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/openslop/openslop) · [官网](https://openslop.ai) · 组织维护 · 中文 README
 
 **对话式 AI 视频制作工作室：从提示到成片一条工作流**
 
@@ -40,6 +40,18 @@
 > L4:  The open-source AI production studio. Chat your way to finished films, shows, audiobooks, YouTube videos, documenta
 > L30: OpenSlop wires all your favorite AI tools into one workflow so you can make good-looking video in minutes, no more 
 > L87: Hosted models come with your account. Paste a key for Anthropic, Runware, Cartesia, or ElevenLabs and their models 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openslop/openslop 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
+```
+
+2026-11-26 39 → 2026-11-27 39（+0）
 
 
 ---

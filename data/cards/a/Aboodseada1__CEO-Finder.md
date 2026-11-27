@@ -39,6 +39,18 @@
 > L3: Command-line tool that identifies the CEO, president, founder or owner of a company from public web search results. 
 > L20: - LLM providers: Google Gemini, OpenAI, Groq, Ollama (local). Optional model override, with a fallback list per pro
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aboodseada1/CEO-Finder 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-26 14 → 2026-11-27 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `325d10838bdb` · [字段定义](../../DATASET.md)*

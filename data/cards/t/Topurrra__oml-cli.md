@@ -41,6 +41,18 @@
 > L5: `oml` reads, changes, checks and reviews OutSystems 11 modules through the typed Model API of your installed Service
 > L76: Put the `skill/` folder in your project (`oml create` does it). It works with Claude Code, GitHub Copilot, Cursor, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Topurrra/oml-cli 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `af61d6e63187` · [字段定义](../../DATASET.md)*

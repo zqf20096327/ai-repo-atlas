@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 136 --> 141
-    line [137, 138, 139, 137, 139, 140]
+    line [137, 138, 139, 137, 139, 140, 140]
 ```
 
-2026-10-23 137 → 2026-11-26 140（+3）
+2026-10-24 137 → 2026-11-27 140（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # webfuse-com/awesome-webmcp
 
-⭐ 151 · 推送 2026-10-09 · [GitHub](https://github.com/webfuse-com/awesome-webmcp) · [官网](https://www.reddit.com/r/WebMCP_Developers/) · 个人维护
+⭐ 150 · 推送 2026-10-09 · [GitHub](https://github.com/webfuse-com/awesome-webmcp) · [官网](https://www.reddit.com/r/WebMCP_Developers/) · 个人维护
 
 **WebMCP（W3C 浏览器标准）资源策展清单：规范、库、工具与示例**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "webfuse-com/awesome-webmcp 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 149 --> 177
-    line [175, 174, 173, 174, 175, 151, 151]
+    title "webfuse-com/awesome-webmcp 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 148 --> 177
+    line [174, 173, 174, 175, 151, 150]
 ```
 
-2026-10-24 175 → 2026-11-26 151（-24）
+2026-10-25 174 → 2026-11-27 150（-24）
 
 
 ---

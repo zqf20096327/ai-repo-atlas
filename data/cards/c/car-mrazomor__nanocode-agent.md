@@ -1,6 +1,6 @@
 # car-mrazomor/nanocode-agent
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/car-mrazomor/nanocode-agent) · [官网](https://car-mrazomor.github.io/nanocode-agent/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/car-mrazomor/nanocode-agent) · [官网](https://car-mrazomor.github.io/nanocode-agent/) · 个人维护
 
 **单文件可读可改的终端编程 Agent，接 Claude 订阅、OpenRouter 或 Ollama 本地模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "car-mrazomor/nanocode-agent 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-26 3（+0）
+2026-11-10 3 → 2026-11-27 3（+0）
 
 
 ---

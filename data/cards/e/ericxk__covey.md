@@ -1,6 +1,6 @@
 # ericxk/covey
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ericxk/covey) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ericxk/covey) · 个人维护 · 中文 README
 
 **在飞书里调度编程 Agent 小队的自托管管家机器人**
 
@@ -40,6 +40,18 @@
 > L13: 你在飞书私聊里说一句话，管家把活分给 Claude Code、Codex、Antigravity 这些编程 Agent，在你自己的开发机上跑。每件事一个话题、一个会话，进度和结果都在卡片上。机器人重启、模型限流都接得上，要你拍板时
 > L51: - **换模型不用重开，换一家来复核。** 一个机器人接 Claude Code、Codex、Antigravity 和 DeepSeek Harness（dsh）；管家和专项负责人能跑在前三个里的任一个上，不绑死某一家。话题聊到
 > L144: 核心不按名字引用任何一个 Harness 之外的东西。扩展是一个带清单（`manifest` 模块）的包，放在运行的代码的 `extensions/` 下（固定 release 由 `scripts/deploy_bridge.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ericxk/covey 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

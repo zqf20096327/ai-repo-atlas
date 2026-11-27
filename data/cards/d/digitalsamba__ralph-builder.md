@@ -1,6 +1,6 @@
 # digitalsamba/ralph-builder
 
-⭐ 12 · Shell · 推送 2026-02-17 · [GitHub](https://github.com/digitalsamba/ralph-builder) · 组织维护
+⭐ 13 · Shell · 推送 2026-02-17 · [GitHub](https://github.com/digitalsamba/ralph-builder) · 组织维护
 
 **驱动 Claude Code 自主编码循环的 PRD 规划工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "digitalsamba/ralph-builder 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

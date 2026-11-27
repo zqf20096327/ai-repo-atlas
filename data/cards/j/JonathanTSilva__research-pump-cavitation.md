@@ -1,6 +1,6 @@
 # JonathanTSilva/research-pump-cavitation
 
-⭐ 11 · MATLAB · MIT · 推送 2026-11-24 · [GitHub](https://github.com/JonathanTSilva/research-pump-cavitation) · 个人维护
+⭐ 11 · MATLAB · MIT · 推送 2026-11-26 · [GitHub](https://github.com/JonathanTSilva/research-pump-cavitation) · 个人维护
 
 **基于电机电流分析的液压泵故障诊断研究项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JonathanTSilva/research-pump-cavitation 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-26"]
+    x-axis ["2026-11-13", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-13 11 → 2026-11-26 11（+0）
+2026-11-13 11 → 2026-11-27 11（+0）
 
 
 ---

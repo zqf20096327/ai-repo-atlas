@@ -1,6 +1,6 @@
 # earayu/Mingle
 
-⭐ 185 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
+⭐ 188 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
 
 **把你现有的 coding agent 接入聊天应用的本地运行层**
 
@@ -45,13 +45,13 @@ Mingle 在本地机器上创建具名、有角色与记忆目录的 agent，由 
 
 ```mermaid
 xychart-beta
-    title "earayu/Mingle 星数(近 7 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 37 --> 198
-    line [50, 51, 62, 74, 95, 110, 185]
+    title "earayu/Mingle 星数(近 8 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 37 --> 201
+    line [50, 51, 62, 74, 95, 110, 185, 188]
 ```
 
-2026-11-19 50 → 2026-11-26 185（+135）
+2026-11-19 50 → 2026-11-27 188（+138）
 
 
 ---

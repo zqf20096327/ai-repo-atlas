@@ -1,6 +1,6 @@
 # velloo-design/velloo
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/velloo-design/velloo) · [官网](https://velloo.design) · 个人维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/velloo-design/velloo) · [官网](https://velloo.design) · 个人维护
 
 **给 AI 编码 agent 用的本地优先设计画布，可回写代码**
 
@@ -45,12 +45,12 @@ Velloo 是一个本地运行的开源设计画布，定位在应用旁边：setu
 ```mermaid
 xychart-beta
     title "velloo-design/velloo 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

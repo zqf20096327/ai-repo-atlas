@@ -1,6 +1,6 @@
 # QYL66/labdesk
 
-⭐ 3 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/QYL66/labdesk) · 个人维护 · 中文 README
+⭐ 3 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/QYL66/labdesk) · 个人维护 · 中文 README
 
 **校内实验室的资料问答与设备预约助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QYL66/labdesk 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-18", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-26 3（+0）
+2026-11-18 3 → 2026-11-27 3（+0）
 
 
 ---

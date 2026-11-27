@@ -1,6 +1,6 @@
 # apache/skywalking-mcp
 
-⭐ 42 · Go · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/apache/skywalking-mcp) · [官网](https://skywalking.apache.org/) · 组织维护
+⭐ 42 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/apache/skywalking-mcp) · [官网](https://skywalking.apache.org/) · 组织维护
 
 **让 AI agent 查询 SkyWalking APM 数据的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Apache SkyWalking 官方的 Model Context Protocol (MCP) 服务器，用 Go 编�
 ```mermaid
 xychart-beta
     title "apache/skywalking-mcp 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 38 --> 43
     line [39, 40, 39, 41, 42, 42]
 ```
 
-2026-10-24 39 → 2026-11-26 42（+3）
+2026-10-25 39 → 2026-11-27 42（+3）
 
 
 ---

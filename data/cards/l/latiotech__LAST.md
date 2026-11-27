@@ -1,6 +1,6 @@
 # latiotech/LAST
 
-⭐ 184 · Python · GPL-3.0 · 推送 2026-05-28 · [GitHub](https://github.com/latiotech/LAST) · [官网](http://latio.tech/) · 组织维护
+⭐ 185 · Python · GPL-3.0 · 推送 2026-05-28 · [GitHub](https://github.com/latiotech/LAST) · [官网](http://latio.tech/) · 组织维护
 
 **CLI 代码安全扫描工具：用 OpenAI/Gemini 扫描安全与代码异味**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "latiotech/LAST 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 183 --> 188
-    line [187, 184, 184]
+    title "latiotech/LAST 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 183 --> 186
+    line [184, 185]
 ```
 
-2026-10-24 187 → 2026-11-26 184（-3）
+2026-10-25 184 → 2026-11-27 185（+1）
 
 
 ---

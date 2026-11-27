@@ -1,6 +1,6 @@
 # luohui1/CETPath
 
-⭐ 52 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/luohui1/CETPath) · [官网](https://yingyu-preview.vercel.app) · 个人维护 · 中文 README
+⭐ 74 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/luohui1/CETPath) · [官网](https://yingyu-preview.vercel.app) · 个人维护 · 中文 README
 
 **面向四六级/考研考生的 AI 真题研习工作台**
 
@@ -41,6 +41,18 @@
 > L7: AI 驱动的四六级与考研英语真题研习工作台：
 > L17:  免登录体验四级、六级、考研各一套完整样卷；可在「设置 → Agent 模型」填入自己的 OpenAI 兼容 Key 体验 AI 助教（仅存本地浏览器）。
 > L225: 可以。原卷做题、点词查词、手写笔记、听力同步与记忆树背词均在浏览器本地运行；配置后端后可接入 DeepSeek、Gemini、OpenAI 等任意 OpenAI 兼容接口开启 AI 助教与实时长难句剖析。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "luohui1/CETPath 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 50 --> 76
+    line [52, 74]
+```
+
+2026-11-26 52 → 2026-11-27 74（+22）
 
 
 ---

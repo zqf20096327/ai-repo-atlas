@@ -44,13 +44,13 @@ TypeScript 框架，用于开发以 LLM 为大脑、以 WhatsApp 传输层为身
 
 ```mermaid
 xychart-beta
-    title "sifenfisaha/wappajs 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 21 --> 24
-    line [23, 22, 22]
+    title "sifenfisaha/wappajs 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
 ```
 
-2026-10-24 23 → 2026-11-26 22（-1）
+2026-10-25 22 → 2026-11-27 22（+0）
 
 
 ---

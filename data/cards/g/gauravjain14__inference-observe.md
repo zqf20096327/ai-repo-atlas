@@ -41,6 +41,18 @@
 > L24: - **The proxy** sits in front of the engine's OpenAI-compatible API and times every request.
 > L25: - **The collector** merges both with GPU telemetry, streams them to the dashboard and records them to disk.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gauravjain14/inference-observe 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-26 12 → 2026-11-27 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `50bf8594c467` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # dcelisgarza/PortfolioOptimisers.jl
 
-⭐ 32 · Julia · EUPL-1.2 · 推送 2026-11-25 · [GitHub](https://github.com/dcelisgarza/PortfolioOptimisers.jl) · [官网](https://dcelisgarza.github.io/PortfolioOptimisers.jl/stable/) · 个人维护
+⭐ 32 · Julia · EUPL-1.2 · 推送 2026-11-26 · [GitHub](https://github.com/dcelisgarza/PortfolioOptimisers.jl) · [官网](https://dcelisgarza.github.io/PortfolioOptimisers.jl/stable/) · 个人维护
 
 **Julia 投资组合优化库：50+风险度量与多种组合构造算法**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dcelisgarza/PortfolioOptimisers.jl 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-27"]
     y-axis "stars" 24 --> 33
     line [25, 26, 27, 28, 25, 30, 31, 32, 32]
 ```
 
-2026-10-24 25 → 2026-11-26 32（+7）
+2026-10-25 25 → 2026-11-27 32（+7）
 
 
 ---

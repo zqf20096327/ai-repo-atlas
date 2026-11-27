@@ -1,6 +1,6 @@
 # inaridiy/webforai
 
-⭐ 82 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/inaridiy/webforai) · [官网](https://webforai.dev) · 个人维护
+⭐ 83 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/inaridiy/webforai) · [官网](https://webforai.dev) · 个人维护
 
 **将 HTML 转为 Markdown 的 TypeScript 库/CLI/托管 API，供人与 AI agent 使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inaridiy/webforai 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 80 --> 83
-    line [81, 82, 82]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 80 --> 84
+    line [81, 82, 83]
 ```
 
-2026-10-26 81 → 2026-11-26 82（+1）
+2026-10-26 81 → 2026-11-27 83（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # aixtin/nyral
 
-⭐ 10 · Kotlin · MIT · 推送 2026-11-21 · [GitHub](https://github.com/aixtin/nyral) · [官网](https://github.com/aixtin/nyral/releases/latest) · 个人维护 · 中文 README
+⭐ 11 · Kotlin · MIT · 推送 2026-11-21 · [GitHub](https://github.com/aixtin/nyral) · [官网](https://github.com/aixtin/nyral/releases/latest) · 个人维护 · 中文 README
 
 **运行在 Android 手机上的开源个人 AI Agent，本地记忆+自带模型密钥**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aixtin/nyral 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-26"]
-    y-axis "stars" 3 --> 11
-    line [4, 5, 6, 5, 10]
+    title "aixtin/nyral 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-29", "2026-11-06", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 12
+    line [4, 5, 6, 5, 10, 11]
 ```
 
-2026-10-18 4 → 2026-11-26 10（+6）
+2026-10-18 4 → 2026-11-27 11（+7）
 
 
 ---

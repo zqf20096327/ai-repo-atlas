@@ -1,6 +1,6 @@
 # YuvrajSingh-mist/Paper-Replications-and-Experiments
 
-⭐ 431 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/YuvrajSingh-mist/Paper-Replications-and-Experiments) · [官网](https://www.smolhub.com/) · 个人维护
+⭐ 431 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/YuvrajSingh-mist/Paper-Replications-and-Experiments) · [官网](https://www.smolhub.com/) · 个人维护
 
 **从零复现 AI/ML 论文的 PyTorch 代码与训练实验合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YuvrajSingh-mist/Paper-Replications-and-Experiments 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-27"]
     y-axis "stars" 428 --> 432
     line [429, 430, 431, 431]
 ```
 
-2026-11-08 429 → 2026-11-26 431（+2）
+2026-11-08 429 → 2026-11-27 431（+2）
 
 
 ---

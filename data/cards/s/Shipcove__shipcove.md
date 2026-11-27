@@ -1,6 +1,6 @@
 # Shipcove/shipcove
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Shipcove/shipcove) · [官网](https://shipcove.dev) · 组织维护 · 中文 README
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Shipcove/shipcove) · [官网](https://shipcove.dev) · 组织维护 · 中文 README
 
 **团队自托管的编码代理平台：沙箱中自主改码开 PR**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Shipcove/shipcove 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-20 5 → 2026-11-26 5（+0）
+2026-11-20 5 → 2026-11-27 5（+0）
 
 
 ---

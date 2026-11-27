@@ -1,6 +1,6 @@
 # purpleeddy/cladding
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/purpleeddy/cladding) · [官网](https://www.npmjs.com/package/cladding) · 个人维护 · 中文 README
 
 **包裹 AI 编码代理的验证层：事前注入意图，事后按 spec 验证**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "purpleeddy/cladding 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-27"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-27 16（+0）
 
 
 ---

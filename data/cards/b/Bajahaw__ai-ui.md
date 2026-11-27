@@ -1,6 +1,6 @@
 # Bajahaw/ai-ui
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Bajahaw/ai-ui) · [官网](https://bajahaw.com/blogs/better-ai-chat.html) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Bajahaw/ai-ui) · [官网](https://bajahaw.com/blogs/better-ai-chat.html) · 个人维护
 
 **轻量多用户 AI 聊天界面（React + Golang）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Bajahaw/ai-ui 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-26"]
+    x-axis ["2026-11-01", "2026-11-27"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-11-01 27 → 2026-11-26 27（+0）
+2026-11-01 27 → 2026-11-27 27（+0）
 
 
 ---

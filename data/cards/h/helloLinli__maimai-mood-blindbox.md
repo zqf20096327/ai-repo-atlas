@@ -1,6 +1,6 @@
 # helloLinli/maimai-mood-blindbox
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-11 · [GitHub](https://github.com/helloLinli/maimai-mood-blindbox) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **把心情与预算/忌口/热量约束翻译成麦当劳套餐与情绪小票的 AI 盲盒 Demo**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

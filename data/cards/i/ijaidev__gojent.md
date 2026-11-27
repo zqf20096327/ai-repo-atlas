@@ -1,6 +1,6 @@
 # ijaidev/gojent
 
-⭐ 7 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/ijaidev/gojent) · 个人维护
+⭐ 7 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ijaidev/gojent) · 个人维护
 
 **Go 开发者的强类型 agent 运行时库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ijaidev/gojent 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-20", "2026-11-27"]
     y-axis "stars" 2 --> 8
     line [3, 5, 6, 7, 7]
 ```
 
-2026-11-02 3 → 2026-11-26 7（+4）
+2026-11-02 3 → 2026-11-27 7（+4）
 
 
 ---

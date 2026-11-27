@@ -1,6 +1,6 @@
 # matthewmcq/upscalemp3_v2
 
-⭐ 26 · Jupyter Notebook · MIT · 推送 2026-09-08 · [GitHub](https://github.com/matthewmcq/upscalemp3_v2) · [官网](https://huggingface.co/spaces/matthewmcq/upscalemp3_v2/tree/main) · 个人维护
+⭐ 27 · Jupyter Notebook · MIT · 推送 2026-09-08 · [GitHub](https://github.com/matthewmcq/upscalemp3_v2) · [官网](https://huggingface.co/spaces/matthewmcq/upscalemp3_v2/tree/main) · 个人维护
 
 **去除 MP3 压缩伪影的深度学习音频修复模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "matthewmcq/upscalemp3_v2 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-24 26 → 2026-11-26 26（+0）
+2026-10-25 26 → 2026-11-27 27（+1）
 
 
 ---

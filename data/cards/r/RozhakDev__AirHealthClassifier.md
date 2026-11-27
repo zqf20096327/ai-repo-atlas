@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RozhakDev/AirHealthClassifier 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-21 12 → 2026-11-26 12（+0）
+2026-11-21 12 → 2026-11-27 12（+0）
 
 
 ---

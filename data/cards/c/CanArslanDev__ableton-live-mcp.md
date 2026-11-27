@@ -1,6 +1,6 @@
 # CanArslanDev/ableton-live-mcp
 
-⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CanArslanDev/ableton-live-mcp) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CanArslanDev/ableton-live-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 全面控制 Ableton Live 的服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "CanArslanDev/ableton-live-mcp 星数(近 12 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 2 --> 15
-    line [3, 4, 5, 6, 7, 4, 9, 10, 11, 13, 14, 14]
+    title "CanArslanDev/ableton-live-mcp 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 3 --> 15
+    line [4, 5, 6, 7, 4, 9, 10, 11, 13, 14, 14]
 ```
 
-2026-10-24 3 → 2026-11-26 14（+11）
+2026-10-25 4 → 2026-11-27 14（+10）
 
 
 ---

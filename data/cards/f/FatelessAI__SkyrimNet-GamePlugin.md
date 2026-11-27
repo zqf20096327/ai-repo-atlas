@@ -45,13 +45,13 @@ SkyrimNet 是将 Skyrim 中每个角色变为可交互 AI NPC 的游戏模组：
 
 ```mermaid
 xychart-beta
-    title "FatelessAI/SkyrimNet-GamePlugin 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "FatelessAI/SkyrimNet-GamePlugin 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 389 --> 392
-    line [390, 391]
+    line [390, 391, 391]
 ```
 
-2026-11-25 390 → 2026-11-26 391（+1）
+2026-11-25 390 → 2026-11-27 391（+1）
 
 
 ---

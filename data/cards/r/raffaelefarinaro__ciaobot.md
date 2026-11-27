@@ -1,6 +1,6 @@
 # raffaelefarinaro/ciaobot
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/raffaelefarinaro/ciaobot) · [官网](https://www.raffaelefarinaro.com/ciaobot/) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/raffaelefarinaro/ciaobot) · [官网](https://www.raffaelefarinaro.com/ciaobot/) · 个人维护
 
 **围绕 Claude Code/OpenCode 的个人助理与第二大脑工作区**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "raffaelefarinaro/ciaobot 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "raffaelefarinaro/ciaobot 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 9 --> 12
-    line [11, 10, 11, 10, 11, 11]
+    line [10, 11, 10, 11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

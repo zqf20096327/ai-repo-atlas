@@ -41,6 +41,18 @@
 > L5: **Which LLM providers offer zero data retention, how to turn it on, and what it still doesn't cover.**
 > L19: ## Provider guides
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "abubakarsiddik31/zdr 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 30 --> 32
+    line [31, 31]
+```
+
+2026-11-26 31 → 2026-11-27 31（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d4bfdd9c2502` · [字段定义](../../DATASET.md)*

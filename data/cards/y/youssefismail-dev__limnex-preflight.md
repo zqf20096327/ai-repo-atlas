@@ -41,6 +41,18 @@
 > L13: **Quick start:** `pip install limnex-preflight`, then `limnex-preflight path/to/model-or-folder`. Exit code 1 means
 > L59: * **Nothing is ever loaded or executed.** Pickles are walked with `pickletools.genops` plus a small symbolic stack 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "youssefismail-dev/limnex-preflight 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9f7a8e809db1` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Liao-Ke/everyday
 
-⭐ 70 · Markdown · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Liao-Ke/everyday) · [官网](https://liao-ke.github.io/everyday/) · 个人维护 · 中文 README
+⭐ 70 · Markdown · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Liao-Ke/everyday) · [官网](https://liao-ke.github.io/everyday/) · 个人维护 · 中文 README
 
 **基于金山每日一句用多个 LLM 并行生成故事的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Liao-Ke/everyday 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-24 70 → 2026-11-26 70（+0）
+2026-10-25 70 → 2026-11-27 70（+0）
 
 
 ---

@@ -44,12 +44,12 @@ scikit-learn-contrib 下的 Python 库，提供 LMNN、ITML、NCA、LFDA 等十�
 ```mermaid
 xychart-beta
     title "scikit-learn-contrib/metric-learn 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
     y-axis "stars" 1428 --> 1431
     line [1430, 1429, 1429]
 ```
 
-2026-10-24 1,430 → 2026-11-26 1,429（-1）
+2026-10-25 1,430 → 2026-11-27 1,429（-1）
 
 
 ---

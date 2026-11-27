@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Urban-Analytics-Technology-Platform/demoland-project 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-02 17 → 2026-11-26 17（+0）
+2026-11-02 17 → 2026-11-27 17（+0）
 
 
 ---

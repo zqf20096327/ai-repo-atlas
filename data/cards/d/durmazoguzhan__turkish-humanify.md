@@ -1,6 +1,6 @@
 # durmazoguzhan/turkish-humanify
 
-⭐ 19 · Shell · MIT · 推送 2026-09-04 · [GitHub](https://github.com/durmazoguzhan/turkish-humanify) · 个人维护
+⭐ 20 · Shell · MIT · 推送 2026-09-04 · [GitHub](https://github.com/durmazoguzhan/turkish-humanify) · 个人维护
 
 **面向 Claude 用户的土耳其语 AI 味文本人性化改写技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "durmazoguzhan/turkish-humanify 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 14 --> 20
-    line [15, 16, 19, 19]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 14 --> 21
+    line [15, 16, 19, 20]
 ```
 
-2026-11-08 15 → 2026-11-26 19（+4）
+2026-11-08 15 → 2026-11-27 20（+5）
 
 
 ---

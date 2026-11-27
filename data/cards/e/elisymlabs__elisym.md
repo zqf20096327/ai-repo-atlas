@@ -1,6 +1,6 @@
 # elisymlabs/elisym
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/elisymlabs/elisym) · [官网](https://elisym.network) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/elisymlabs/elisym) · [官网](https://elisym.network) · 组织维护
 
 **AI agent 间互相发现与支付的去中心化点对点基础设施**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "elisymlabs/elisym 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    title "elisymlabs/elisym 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 18 --> 21
+    line [19, 20, 20]
 ```
 
-2026-10-24 18 → 2026-11-26 20（+2）
+2026-10-25 19 → 2026-11-27 20（+1）
 
 
 ---

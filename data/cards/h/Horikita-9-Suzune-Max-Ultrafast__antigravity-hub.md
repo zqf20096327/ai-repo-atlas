@@ -1,6 +1,6 @@
 # Horikita-9-Suzune-Max-Ultrafast/antigravity-hub
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Horikita-9-Suzune-Max-Ultrafast/antigravity-hub) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Horikita-9-Suzune-Max-Ultrafast/antigravity-hub) · 个人维护 · 中文 README
 
 **Google Antigravity 的零依赖 MCP 控制中心：监控上下文与治理生态**
 
@@ -41,6 +41,18 @@
 > L5: **专为 Google Antigravity 打造的模块化原生控制中心（MCP App）：集上下文监控与累计用量统计、本地代码审查、生态治理与场景预设、本地壁纸引擎、零依赖界面汉化于一体**
 > L25: |**1. 上下文监控与记忆库** `Context Cache & Monitor`|对话变慢、缓存莫名击穿、上下文被什么占满看不清、跨会话累计消耗没总账|上下文 6 维构成透视、**跨会话累计用量统计看板（今日/24h/7d/
 > L147: ### 6. 生态治理与场景预设（Ecosystem & Harness Governance）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Horikita-9-Suzune-Max-Ultrafast/antigravity-hub 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-26 11 → 2026-11-27 12（+1）
 
 
 ---

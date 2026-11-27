@@ -1,10 +1,10 @@
 # electerm/electerm
 
-⭐ 15,712 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/electerm/electerm) · [官网](https://electerm.org) · 个人维护 · 中文 README
+⭐ 15,725 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/electerm/electerm) · [官网](https://electerm.org) · 个人维护 · 中文 README
 
-**跨平台开源终端/SSH/SFTP/RDP/VNC 客户端，带 AI 助手**
+**跨平台终端/SSH/SFTP/RDP/VNC 客户端，含 AI 助手与 MCP**
 
-基于 Electron 的开源终端与远程连接客户端，支持 ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice，覆盖 Windows、macOS、Linux、Android、HarmonyOS、iOS 及 UOS/麒麟/龙芯/RISC-V 等国产与旧系统。功能含书签同步、多认证方式、Zmodem/Trzsz 传输、隧道与代理、快捷命令等。AI 部分：集成多种 LLM API 格式（OpenAI Chat Completions/Responses、Anthropic Messages）的 AI 助手用于命令建议、脚本编写与 agent 模式执行终端操作，并提供 MCP widget 供外部工具接入。提供安装包、npm、各应用商店等多种分发渠道。
+基于 Electron 的开源终端与远程连接客户端，支持 ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice 协议，覆盖 Linux/Mac/Windows/Android/HarmonyOS/iOS 及 UOS、Kylin、LoongArch、RISC-V 等平台。功能包括文件管理、多种认证方式、Zmodem/Trzsz 传输、隧道与连接跳板、代理、书签同步等。AI 部分：内置 AI 助手（支持 OpenAI Chat Completions/Responses 与 Anthropic Messages API 格式）用于命令建议、脚本编写、解释终端内容以及 agent 模式直接执行终端操作，并提供 MCP widget 供外部 AI 工具接入。
 
 ## 筛选速览
 
@@ -27,16 +27,17 @@
 
 ## 能力要点
 
-- 支持 6 类远程协议与多平台（含鸿蒙/iOS/国产 CPU 架构）
-- AI 助手支持 OpenAI/Anthropic 多种 API 格式，含 agent 模式直接执行终端操作
+- 多协议远程连接：ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice
+- AI 助手支持 OpenAI 与 Anthropic API 格式，含 agent 模式执行终端操作
 - MCP widget 供 AI 助手与外部工具集成
-- 书签数据同步至 gist/webdav/自定义服务器/cloud
+- 广泛平台支持：含 HarmonyOS、UOS/Kylin/LoongArch/RISC-V/ppc64le
 
 ## 适用场景
 
-- 在多平台统一管理 SSH/SFTP/RDP 等远程连接
-- 用 AI 助手生成命令、解释终端输出并代为执行操作
-- 国产系统（UOS/麒麟/龙芯/RISC-V）下的终端工具选型
+- 统一管理多台服务器的 SSH/SFTP 连接与文件传输
+- 借助 AI 助手生成命令、编写脚本或解释终端输出
+- 通过 MCP 让外部 AI 工具操作终端
+- 在国产 Linux 发行版或老旧系统上使用终端客户端
 
 ## 场景标签
 
@@ -45,7 +46,6 @@
 ## 证据(README 行号)
 
 > L13: Open-sourced terminal/ssh/sftp/telnet/serialport/RDP/VNC/Spice/ftp client(Linux, Mac, Windows, Android, HarmonyOS, 
-> L39: - Works as a terminal/file manager, ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client
 > L52: - AI assistant integration (supporting multiple LLM API formats — OpenAI Chat Completions, OpenAI Responses, and An
 
 ## 星数曲线
@@ -53,13 +53,13 @@
 ```mermaid
 xychart-beta
     title "electerm/electerm 星数(近 27 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 15413 --> 15739
-    line [15440, 15448, 15454, 15465, 15475, 15491, 15501, 15506, 15513, 15519, 15448, 15574, 15597, 15610, 15615, 15625, 15631, 15638, 15645, 15656, 15661, 15662, 15671, 15675, 15682, 15693, 15712]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 15421 --> 15752
+    line [15448, 15454, 15465, 15475, 15491, 15501, 15506, 15513, 15519, 15448, 15574, 15597, 15610, 15615, 15625, 15631, 15638, 15645, 15656, 15661, 15662, 15671, 15675, 15682, 15693, 15712, 15725]
 ```
 
-2026-10-24 15,440 → 2026-11-26 15,712（+272）
+2026-10-25 15,448 → 2026-11-27 15,725（+277）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `11631eacd784` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `715b6995a802` · [字段定义](../../DATASET.md)*

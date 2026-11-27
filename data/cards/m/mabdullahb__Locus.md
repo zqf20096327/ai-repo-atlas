@@ -1,6 +1,6 @@
 # mabdullahb/Locus
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-09-15 · [GitHub](https://github.com/mabdullahb/Locus) · [官网](https://cloudzcomputing.com/software-products) · 个人维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/mabdullahb/Locus) · [官网](https://cloudzcomputing.com/software-products) · 个人维护
 
 **自托管 Google Maps 商户线索抓取与 AI 邮件富集工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mabdullahb/Locus 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-12", "2026-11-27"]
     y-axis "stars" 6 --> 12
     line [7, 10, 11, 11]
 ```
 
-2026-10-18 7 → 2026-11-26 11（+4）
+2026-10-18 7 → 2026-11-27 11（+4）
 
 
 ---

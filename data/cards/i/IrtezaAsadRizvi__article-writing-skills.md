@@ -1,6 +1,6 @@
 # IrtezaAsadRizvi/article-writing-skills
 
-⭐ 26 · MIT · 推送 2026-04-19 · [GitHub](https://github.com/IrtezaAsadRizvi/article-writing-skills) · 个人维护
+⭐ 27 · MIT · 推送 2026-04-19 · [GitHub](https://github.com/IrtezaAsadRizvi/article-writing-skills) · 个人维护
 
 **以知名工程师思维为范式的写作提示词/技能合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IrtezaAsadRizvi/article-writing-skills 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 24, 26, 26]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 24, 26, 27]
 ```
 
-2026-10-24 24 → 2026-11-26 26（+2）
+2026-10-25 24 → 2026-11-27 27（+3）
 
 
 ---

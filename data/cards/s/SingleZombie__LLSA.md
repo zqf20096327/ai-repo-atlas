@@ -1,6 +1,6 @@
 # SingleZombie/LLSA
 
-⭐ 94 · Python · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/SingleZombie/LLSA) · 组织维护
+⭐ 95 · Python · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/SingleZombie/LLSA) · 组织维护
 
 **CVPR 2026 论文 LLSA 官方实现：log-linear 稀疏注意力算子**
 
@@ -44,12 +44,12 @@ Log-linear Sparse Attention 的官方 PyTorch 实现，提供 Triton/torch 算�
 ```mermaid
 xychart-beta
     title "SingleZombie/LLSA 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 93 --> 95
-    line [94, 94]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 93 --> 96
+    line [94, 95]
 ```
 
-2026-10-24 94 → 2026-11-26 94（+0）
+2026-10-25 94 → 2026-11-27 95（+1）
 
 
 ---

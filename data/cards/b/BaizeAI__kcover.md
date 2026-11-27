@@ -1,6 +1,6 @@
 # BaizeAI/kcover
 
-⭐ 35 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/BaizeAI/kcover) · [官网](https://baizeai.github.io/talks/2024-08-21-kubecon-hk/#/1) · 组织维护
+⭐ 35 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/BaizeAI/kcover) · [官网](https://baizeai.github.io/talks/2024-08-21-kubecon-hk/#/1) · 组织维护
 
 **K8s 大规模 AI 训练负载的故障感知与快速恢复组件**
 
@@ -46,12 +46,12 @@ kcover 是部署在 Kubernetes 上的控制器加节点 Agent：通过给 Pytorc
 ```mermaid
 xychart-beta
     title "BaizeAI/kcover 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-24 35 → 2026-11-26 35（+0）
+2026-10-25 35 → 2026-11-27 35（+0）
 
 
 ---

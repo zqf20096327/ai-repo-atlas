@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Prediction-Fails-When-Systems-Move
 
-⭐ 18 · MIT · 推送 2025-12-13 · [GitHub](https://github.com/AmirhosseinHonardoust/Prediction-Fails-When-Systems-Move) · 个人维护
+⭐ 17 · MIT · 推送 2025-12-13 · [GitHub](https://github.com/AmirhosseinHonardoust/Prediction-Fails-When-Systems-Move) · 个人维护
 
 **分析性文章：论述预测模型在反身性系统中的失效**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/Prediction-Fails-When-Systems-Move 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 16 --> 19
+    line [18, 17]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 17（-1）
 
 
 ---

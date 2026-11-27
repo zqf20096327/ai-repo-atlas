@@ -1,6 +1,6 @@
 # Clemspace/Candide
 
-⭐ 14 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Clemspace/Candide) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Clemspace/Candide) · 组织维护
 
 **面向研究的透明 Transformer 训练框架，供研究者与学生使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Clemspace/Candide 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-21", "2026-11-27"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 14]
 ```
 
-2026-10-24 12 → 2026-11-26 14（+2）
+2026-10-25 12 → 2026-11-27 14（+2）
 
 
 ---

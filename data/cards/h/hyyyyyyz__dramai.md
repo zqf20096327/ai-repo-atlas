@@ -1,6 +1,6 @@
 # hyyyyyyz/dramai
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/hyyyyyyz/dramai) · [官网](https://hyyyyyyz.github.io/dramai/) · 个人维护 · 中文 README
+⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/hyyyyyyz/dramai) · [官网](https://hyyyyyyz.github.io/dramai/) · 个人维护 · 中文 README
 
 **浏览器内运行的 AI 短剧创作工具，文本到成片全流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hyyyyyyz/dramai 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 39 --> 46
-    line [40, 41, 42, 45, 44, 43, 44]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 40 --> 47
+    line [41, 42, 45, 44, 43, 44, 46]
 ```
 
-2026-10-24 40 → 2026-11-26 44（+4）
+2026-10-25 41 → 2026-11-27 46（+5）
 
 
 ---

@@ -45,12 +45,12 @@ commonplot.co 背后的摄取引擎（core）：以 Cloudflare Worker 形式运�
 ```mermaid
 xychart-beta
     title "chyyynh/commonplot 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-26 10（+0）
+2026-11-02 10 → 2026-11-27 10（+0）
 
 
 ---

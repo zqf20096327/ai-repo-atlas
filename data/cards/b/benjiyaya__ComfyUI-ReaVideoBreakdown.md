@@ -1,6 +1,6 @@
 # benjiyaya/ComfyUI-ReaVideoBreakdown
 
-⭐ 149 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/benjiyaya/ComfyUI-ReaVideoBreakdown) · 个人维护 · 中文 README
+⭐ 160 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/benjiyaya/ComfyUI-ReaVideoBreakdown) · 个人维护 · 中文 README
 
 **ComfyUI 节点：逐镜头拆解视频并生成文生视频提示词**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "benjiyaya/ComfyUI-ReaVideoBreakdown 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 1 --> 162
-    line [14, 113, 149]
+    title "benjiyaya/ComfyUI-ReaVideoBreakdown 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 174
+    line [14, 113, 149, 160]
 ```
 
-2026-11-23 14 → 2026-11-26 149（+135）
+2026-11-23 14 → 2026-11-27 160（+146）
 
 
 ---

@@ -1,6 +1,6 @@
 # sahmk-sa/sahmk-mcp
 
-⭐ 15 · Python · MIT · 推送 2026-08-25 · [GitHub](https://github.com/sahmk-sa/sahmk-mcp) · [官网](https://sahmk.sa/developers) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sahmk-sa/sahmk-mcp) · [官网](https://sahmk.sa/developers) · 组织维护
 
 **让 AI agent 查询沙特股市数据的 MCP 服务器**
 
@@ -46,12 +46,12 @@ SAHMK 官方发布的 Model Context Protocol 服务器，把沙特市场（TASI/
 ```mermaid
 xychart-beta
     title "sahmk-sa/sahmk-mcp 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 12 --> 16
     line [14, 13, 14, 15, 15]
 ```
 
-2026-10-24 14 → 2026-11-26 15（+1）
+2026-10-25 14 → 2026-11-27 15（+1）
 
 
 ---

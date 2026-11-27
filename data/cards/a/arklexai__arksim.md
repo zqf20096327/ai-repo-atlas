@@ -1,6 +1,6 @@
 # arklexai/arksim
 
-⭐ 240 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/arklexai/arksim) · [官网](https://docs.arklex.ai) · 组织维护
+⭐ 241 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/arklexai/arksim) · [官网](https://docs.arklex.ai) · 组织维护
 
 **在上线前用合成用户多轮对话测试 AI agent 并生成评测报告**
 
@@ -45,13 +45,13 @@ ArkSim 是面向 agent 开发者的多轮对话仿真与评测工具：用户定
 
 ```mermaid
 xychart-beta
-    title "arklexai/arksim 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 232 --> 241
-    line [233, 234, 233, 235, 236, 237, 240]
+    title "arklexai/arksim 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 232 --> 242
+    line [233, 234, 233, 235, 236, 237, 240, 241]
 ```
 
-2026-10-24 233 → 2026-11-26 240（+7）
+2026-10-25 233 → 2026-11-27 241（+8）
 
 
 ---

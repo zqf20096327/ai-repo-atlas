@@ -1,6 +1,6 @@
 # lynbyte/muse-gateway
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lynbyte/muse-gateway) · [官网](https://www.npmjs.com/package/muse-gateway) · 个人维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lynbyte/muse-gateway) · [官网](https://www.npmjs.com/package/muse-gateway) · 个人维护
 
 **把 muse.ai 账号转成 OpenAI 兼容 API 的本地网关**
 
@@ -40,6 +40,18 @@
 > L7: Turn your own muse.ai accounts into an **OpenAI-compatible API** that runs on your machine or VPS. Chat, images and 
 > L15: - **OpenAI-compatible:** `/v1/chat/completions`, `/v1/responses`, `/v1/images/generations`, `/v1/audio/speech`, `/v
 > L18: - **Account pool:** round-robin, failover or parallel across several Muse accounts, with automatic concurrency per 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lynbyte/muse-gateway 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
+```
+
+2026-11-26 7 → 2026-11-27 8（+1）
 
 
 ---

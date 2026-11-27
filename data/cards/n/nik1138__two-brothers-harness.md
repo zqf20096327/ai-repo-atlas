@@ -1,6 +1,6 @@
 # nik1138/two-brothers-harness
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nik1138/two-brothers-harness) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nik1138/two-brothers-harness) · 个人维护
 
 **双 AI 角色协作的 CLI harness：senior 与 junior 共享上下文做决策**
 
@@ -46,12 +46,12 @@ TypeScript 编写的 CLI harness，编排两个 AI agent 的协作：senior（�
 ```mermaid
 xychart-beta
     title "nik1138/two-brothers-harness 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-27"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-10 4 → 2026-11-26 5（+1）
+2026-11-10 4 → 2026-11-27 5（+1）
 
 
 ---

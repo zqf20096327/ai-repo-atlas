@@ -1,6 +1,6 @@
 # WhitzardAgent/AgentGuard
 
-⭐ 161 · Python · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/WhitzardAgent/AgentGuard) · [官网](https://whitzard.tech/AgentGuard/) · 组织维护 · 中文 README
+⭐ 161 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/WhitzardAgent/AgentGuard) · [官网](https://whitzard.tech/AgentGuard/) · 组织维护 · 中文 README
 
 **面向 AI agent 的零信任安全防护层：策略化的访问控制与审计**
 
@@ -46,12 +46,12 @@ AgentGuard 是部署在 LLM 规划引擎与工具之间的安全防护组件，�
 ```mermaid
 xychart-beta
     title "WhitzardAgent/AgentGuard 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-27"]
     y-axis "stars" 153 --> 162
     line [154, 155, 156, 154, 159, 160, 161, 161]
 ```
 
-2026-10-24 154 → 2026-11-26 161（+7）
+2026-10-25 154 → 2026-11-27 161（+7）
 
 
 ---

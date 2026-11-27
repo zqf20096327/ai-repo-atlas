@@ -1,6 +1,6 @@
 # ShivamGupta42/goals
 
-⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ShivamGupta42/goals) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ShivamGupta42/goals) · 个人维护
 
 **让 AI agent 长时间运行也能按计划完成目标的工作流插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ShivamGupta42/goals 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 17（+0）
 
 
 ---

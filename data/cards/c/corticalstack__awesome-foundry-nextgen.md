@@ -1,6 +1,6 @@
 # corticalstack/awesome-foundry-nextgen
 
-⭐ 30 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/corticalstack/awesome-foundry-nextgen) · 个人维护
+⭐ 31 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/corticalstack/awesome-foundry-nextgen) · 个人维护
 
 **Microsoft Foundry 平台动手实验集：Notebook+Bicep 覆盖全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "corticalstack/awesome-foundry-nextgen 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 30]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 31]
 ```
 
-2026-10-24 29 → 2026-11-26 30（+1）
+2026-10-25 29 → 2026-11-27 31（+2）
 
 
 ---

@@ -45,12 +45,12 @@ ESG Evidence Studio 是一个证据落地的 RAG 应用：FastAPI 后端 + Strea
 ```mermaid
 xychart-beta
     title "mominalix/ESG-Analysis-Using-Retrieval-Augmented-Generation-Engine 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-16", "2026-11-27"]
     y-axis "stars" 41 --> 45
     line [43, 44, 43, 42, 42]
 ```
 
-2026-10-24 43 → 2026-11-26 42（-1）
+2026-10-25 43 → 2026-11-27 42（-1）
 
 
 ---

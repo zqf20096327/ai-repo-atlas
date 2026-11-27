@@ -1,6 +1,6 @@
 # dibstern/conduit
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/dibstern/conduit) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/dibstern/conduit) · 个人维护
 
 **OpenCode 的浏览器 UI：手机/平板远程查看会话并一键审批权限**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dibstern/conduit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

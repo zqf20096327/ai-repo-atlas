@@ -1,6 +1,6 @@
 # pingfanfan/hello-dsh
 
-⭐ 109 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/pingfanfan/hello-dsh) · [官网](https://github.com/pingfanfan/hello-dsh/blob/main/docs/hello-dsh.md) · 个人维护 · 中文 README
+⭐ 110 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/pingfanfan/hello-dsh) · [官网](https://github.com/pingfanfan/hello-dsh/blob/main/docs/hello-dsh.md) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件开发零基础中文教程，含 22 个技能实例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pingfanfan/hello-dsh 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 101 --> 110
-    line [102, 103, 104, 105, 106, 103, 107, 108, 109, 109]
+    title "pingfanfan/hello-dsh 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 102 --> 111
+    line [103, 104, 105, 106, 103, 107, 108, 109, 110]
 ```
 
-2026-10-24 102 → 2026-11-26 109（+7）
+2026-10-25 103 → 2026-11-27 110（+7）
 
 
 ---

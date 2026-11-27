@@ -1,10 +1,10 @@
 # IncarnaMind/IncarnaMind
 
-⭐ 861 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
+⭐ 861 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
 
-**桌面应用：核对 AI agent 产出与本地文件逐句一致**
+**让 AI 写出的内容逐句对照你的文件核验的桌面应用**
 
-面向 macOS/Windows/Linux 的开源桌面应用，将 Claude Code 等 agent 或内置助手写入的 Note 逐句对照用户本地文件，标注支持程度并给出引用页码；表格数字按数值比较并由本地代码重算。文件库支持 PDF/Word/PowerPoint/Excel 原地读取与检索，提供本地会议转录、Word 编辑导出与文献引用管理。模型可接 ChatGPT 计划、自备 API key 或 Ollama 本地模型，无需注册账号，Alpha 阶段构建未签名。
+面向 macOS/Windows/Linux 的开源桌面应用，把用户文件集中在 Library 中排序与检索；接入 Claude Code 等 agent 或内置助手生成 Note，并对其逐句对照源文件核验，仅标出需人工查看的句子并给出对应页码；表格数字以代码在本机重算并展示过程。另提供本地会议转写、Word 编辑导出（支持八种引注格式脚注）、Zotero/BibTeX 等参考文献导入。模型可来自 ChatGPT 订阅、自有 API key 或 Ollama 本地模型，配合 Ollama 可完全离线。需注意核验无法发现文件本身的内容错误，也可能漏检语气义务变化。
 
 ## 筛选速览
 
@@ -16,29 +16,29 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Note/文档逐句对照本地文件核查并标记引用页码
-- 支持接入 Claude Code 等 agent，或内置助手起草与图表分析
-- Ollama 本地模型可完全离线运行，文件不离开电脑
-- Word 文件编辑导出保留未改动部分，支持八种引用格式脚注
+- 逐句核验：仅标记需查看的句子并一键打开决定性页面
+- 表格数字在本机以代码重算并展示计算过程
+- 支持 Claude Code 等 agent 接入，也可用 ChatGPT 计划、自有 key 或 Ollama 本地模型
+- Word 原样保留未改动部分并支持 tracked changes 导出
 
 ## 适用场景
 
-- 让 agent 起草备忘录后逐句核对其与原始文件是否一致
-- 集中管理 PDF/Word/Excel 文档并跨文档提问获得页码引用
-- 会议现场本地转录并生成标注发言人出处的纪要
-- 处理客户机密文件时保持本地存储、仅发送必要内容给所选模型
+- 让 AI 基于我的合同/财报写备忘录，并逐句核对是否有出处
+- 在本地离线环境中对保密文件做带引注的问答
+- 会议实时转写并生成标注发言人出处的纪要
+- 编辑并导出 Word 文件而不破坏未改动部分
 
 ## 场景标签
 
-`AI 助手` `文档问答` `知识库管理` `文档解析` · 领域:对话与助手
+`AI 助手` `文档问答` `语音识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L7:  A free, open-source desktop app for macOS, Windows and Linux. Your files in one Library, sorted and searchable, you
+> L5:  The artifact layer for any agent: what your AI writes, checked against your files.
 > L57: |**Check**|Check a Note, or a PDF, Word file, deck or workbook someone sent you, against your files, sentence by se
 > L64: Works fully offline with Ollama: nothing leaves your computer.
 
@@ -46,14 +46,14 @@
 
 ```mermaid
 xychart-beta
-    title "IncarnaMind/IncarnaMind 星数(近 12 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-26"]
+    title "IncarnaMind/IncarnaMind 星数(近 13 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 842 --> 862
-    line [843, 845, 847, 848, 843, 856, 857, 858, 860, 859, 860, 861]
+    line [843, 845, 847, 848, 843, 856, 857, 858, 860, 859, 860, 861, 861]
 ```
 
-2026-10-24 843 → 2026-11-26 861（+18）
+2026-10-25 843 → 2026-11-27 861（+18）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `47c5fbde8eb0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `1f08607a6ab4` · [字段定义](../../DATASET.md)*

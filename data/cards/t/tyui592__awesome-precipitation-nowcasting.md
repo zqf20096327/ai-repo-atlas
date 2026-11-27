@@ -40,6 +40,18 @@
 > L4: A curated list of papers, code, competitions, and datasets for precipitation nowcasting.
 > L15: :paperclip: Papers&Codes
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tyui592/awesome-precipitation-nowcasting 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 197 --> 199
+    line [198, 198]
+```
+
+2026-11-26 198 → 2026-11-27 198（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1ecbe40c8562` · [字段定义](../../DATASET.md)*

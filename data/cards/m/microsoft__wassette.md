@@ -1,6 +1,6 @@
 # microsoft/wassette
 
-⭐ 976 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/wassette) · [官网](https://microsoft.github.io/wassette/) · 组织维护
+⭐ 977 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/wassette) · [官网](https://microsoft.github.io/wassette/) · 组织维护
 
 **通过 MCP 安全运行 WebAssembly 组件的工具运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/wassette 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-26"]
-    y-axis "stars" 968 --> 978
-    line [969, 970, 971, 972, 970, 975, 976, 977, 976]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 969 --> 978
+    line [970, 971, 972, 970, 975, 976, 977, 976, 977]
 ```
 
-2026-10-23 969 → 2026-11-26 976（+7）
+2026-10-24 970 → 2026-11-27 977（+7）
 
 
 ---

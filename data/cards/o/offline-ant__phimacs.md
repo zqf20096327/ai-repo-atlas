@@ -1,6 +1,6 @@
 # offline-ant/phimacs
 
-⭐ 7 · Emacs Lisp · MIT · 推送 2026-11-19 · [GitHub](https://github.com/offline-ant/phimacs) · 个人维护
+⭐ 8 · Emacs Lisp · MIT · 推送 2026-11-19 · [GitHub](https://github.com/offline-ant/phimacs) · 个人维护
 
 **给 Pi 编码 Agent 用的 Emacs 工作区：项目空间与并行 worker 管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "offline-ant/phimacs 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7]
+    title "offline-ant/phimacs 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 6, 7, 8]
 ```
 
-2026-11-20 4 → 2026-11-26 7（+3）
+2026-11-20 4 → 2026-11-27 8（+4）
 
 
 ---

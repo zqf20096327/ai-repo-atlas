@@ -41,6 +41,18 @@
 > L14: MCP层适配Workbuddy、DSH、claude code等多种常用Agent，外部会话动态回放；手记区支持跨Agent留档交流。
 > L50: Toc Memex 不替 agent 做判断，只提供带地址的工具面。外部 agent 经 MCP 连入后，握手时自报的 `client_info.name` 记为作者，服务端为连接分配 `session_id`，每次调用落一条 `
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "111aligiant/toc-memex 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d771140784c5` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # WatermelonBros/reado
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/WatermelonBros/reado) · [官网](https://reado.watermelon-studio.it) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/WatermelonBros/reado) · [官网](https://reado.watermelon-studio.it) · 组织维护
 
 **面向读代码与评审的 IDE：人标注行级评论，AI agent 执行修复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "WatermelonBros/reado 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "WatermelonBros/reado 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 29 --> 33
-    line [30, 31, 30, 31, 32]
+    line [30, 31, 30, 31, 32, 32]
 ```
 
-2026-10-24 30 → 2026-11-26 32（+2）
+2026-10-25 30 → 2026-11-27 32（+2）
 
 
 ---

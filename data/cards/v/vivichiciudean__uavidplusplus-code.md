@@ -45,12 +45,12 @@ IEEE TGRS 2026 论文 UAVid++ 的官方代码库，提供航拍图像语义分�
 ```mermaid
 xychart-beta
     title "vivichiciudean/uavidplusplus-code 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

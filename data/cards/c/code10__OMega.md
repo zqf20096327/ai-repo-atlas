@@ -1,6 +1,6 @@
 # code10/OMega
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/code10/OMega) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/code10/OMega) · 个人维护
 
 **本地优先的 Node.js agent 运行时：构建并控制自有 agent**
 
@@ -40,6 +40,18 @@
 
 > L11: **OMega** is a lightweight, local-first agent harness you fully control | Runs offline on your hardware or routed a
 > L41: - **Multi-Model Routing & Local System 1**: `ModelRouter` handles retries, rate-limit/quota cooldowns, and automati
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "code10/OMega 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

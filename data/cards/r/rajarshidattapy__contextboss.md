@@ -41,6 +41,18 @@ ContextBoss 将上下文窗口当作预算管理：把 system、task、memory、
 > L21: contextboss treats the window as a budget. Hand it every candidate block (system prompt, task,
 > L27:  **MCP server** for Claude Code, Codex and ChatGPT:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rajarshidattapy/contextboss 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `07f3ab3960bd` · [字段定义](../../DATASET.md)*

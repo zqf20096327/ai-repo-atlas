@@ -1,6 +1,6 @@
 # Neotopia-Foundation/offline
 
-⭐ 4 · Shell · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Neotopia-Foundation/offline) · 组织维护
+⭐ 5 · Shell · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Neotopia-Foundation/offline) · 组织维护
 
 **一份 Markdown 指南，让 AI agent 为欧洲家庭构建离线应急资料库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Neotopia-Foundation/offline 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-25 4 → 2026-11-26 4（+0）
+2026-11-25 4 → 2026-11-27 5（+1）
 
 
 ---

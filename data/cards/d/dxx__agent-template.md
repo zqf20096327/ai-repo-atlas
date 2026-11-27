@@ -1,6 +1,6 @@
 # dxx/agent-template
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dxx/agent-template) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/dxx/agent-template) · 个人维护 · 中文 README
 
 **基于 LangChain/LangGraph 的 AI Agent 服务工程模板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dxx/agent-template 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
     y-axis "stars" 9 --> 12
     line [11, 10, 10]
 ```
 
-2026-10-24 11 → 2026-11-26 10（-1）
+2026-10-25 11 → 2026-11-27 10（-1）
 
 
 ---

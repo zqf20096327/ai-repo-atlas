@@ -1,6 +1,6 @@
 # carlosplanchon/betterhtmlchunking
 
-⭐ 57 · Python · MIT · 推送 2026-07-05 · [GitHub](https://github.com/carlosplanchon/betterhtmlchunking) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/carlosplanchon/betterhtmlchunking) · 个人维护
 
 **基于 DOM 树分析的 HTML 分块 Python 库**
 
@@ -46,12 +46,12 @@ Python 库，读取原始 HTML 构建 DOM 树表示，用 BFS 遍历检测内容
 ```mermaid
 xychart-beta
     title "carlosplanchon/betterhtmlchunking 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-24 57 → 2026-11-26 57（+0）
+2026-10-25 57 → 2026-11-27 57（+0）
 
 
 ---

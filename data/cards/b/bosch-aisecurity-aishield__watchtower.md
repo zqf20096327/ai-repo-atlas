@@ -1,6 +1,6 @@
 # bosch-aisecurity-aishield/watchtower
 
-⭐ 201 · PureBasic · Apache-2.0 · 推送 2026-03-03 · [GitHub](https://github.com/bosch-aisecurity-aishield/watchtower) · [官网](https://www.boschaishield.com/) · 组织维护
+⭐ 202 · PureBasic · Apache-2.0 · 推送 2026-03-03 · [GitHub](https://github.com/bosch-aisecurity-aishield/watchtower) · [官网](https://www.boschaishield.com/) · 组织维护
 
 **AI/ML 模型与 Jupyter notebook 的漏洞扫描工具**
 
@@ -44,13 +44,13 @@ Bosch AIShield 开源的安全扫描工具：自动发现仓库中的 AI/ML 模�
 
 ```mermaid
 xychart-beta
-    title "bosch-aisecurity-aishield/watchtower 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    title "bosch-aisecurity-aishield/watchtower 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 200 --> 203
-    line [202, 201, 201]
+    line [201, 202]
 ```
 
-2026-10-24 202 → 2026-11-26 201（-1）
+2026-10-25 201 → 2026-11-27 202（+1）
 
 
 ---

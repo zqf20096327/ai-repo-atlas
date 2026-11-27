@@ -1,6 +1,6 @@
 # starfall-org/generative
 
-⭐ 10 · Kotlin · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/starfall-org/generative) · [官网](https://starfall-org.github.io/generative/) · 组织维护
+⭐ 10 · Kotlin · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/starfall-org/generative) · [官网](https://starfall-org.github.io/generative/) · 组织维护
 
 **Android 原生 AI 客户端：BYOK 接入多家模型服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "starfall-org/generative 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-26 10（+0）
+2026-11-19 10 → 2026-11-27 10（+0）
 
 
 ---

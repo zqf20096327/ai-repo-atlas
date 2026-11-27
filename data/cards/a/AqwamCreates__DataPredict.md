@@ -1,6 +1,6 @@
 # AqwamCreates/DataPredict
 
-⭐ 27 · Lua · 推送 2026-11-23 · [GitHub](https://github.com/AqwamCreates/DataPredict) · [官网](https://aqwamcreates.github.io/DataPredict/) · 个人维护
+⭐ 27 · Lua · 推送 2026-11-26 · [GitHub](https://github.com/AqwamCreates/DataPredict) · [官网](https://aqwamcreates.github.io/DataPredict/) · 个人维护
 
 **Lua 机器/深度/强化学习库，含 109 个模型**
 
@@ -44,13 +44,13 @@ Aqwam 个人维护的 Lua 机器学习、深度学习与强化学习库（Aqwam-
 
 ```mermaid
 xychart-beta
-    title "AqwamCreates/DataPredict 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 24 --> 28
-    line [25, 26, 27, 27]
+    title "AqwamCreates/DataPredict 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-24 25 → 2026-11-26 27（+2）
+2026-10-25 26 → 2026-11-27 27（+1）
 
 
 ---

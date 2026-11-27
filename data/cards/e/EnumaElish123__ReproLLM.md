@@ -1,6 +1,6 @@
 # EnumaElish123/ReproLLM
 
-⭐ 270 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/EnumaElish123/ReproLLM) · 个人维护
+⭐ 269 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/EnumaElish123/ReproLLM) · 个人维护
 
 **LLM 实验可复现性工具：审计、锁存、记录与漂移比对**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "EnumaElish123/ReproLLM 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 269 --> 271
-    line [270, 270]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 268 --> 271
+    line [270, 269]
 ```
 
-2026-11-08 270 → 2026-11-26 270（+0）
+2026-11-08 270 → 2026-11-27 269（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # evandempsey/podcast-llm
 
-⭐ 153 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/evandempsey/podcast-llm) · [官网](https://evandempsey.github.io/podcast-llm/) · 个人维护
+⭐ 153 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/evandempsey/podcast-llm) · [官网](https://evandempsey.github.io/podcast-llm/) · 个人维护
 
 **仅凭标题自动生成 AI 对话播客的命令行/网页工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "evandempsey/podcast-llm 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 152 --> 154
     line [153, 153]
 ```
 
-2026-11-23 153 → 2026-11-26 153（+0）
+2026-11-23 153 → 2026-11-27 153（+0）
 
 
 ---

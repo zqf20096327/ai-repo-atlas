@@ -1,6 +1,6 @@
 # GUYI-AI/gugu-supabase
 
-⭐ 10 · PLpgSQL · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/GUYI-AI/gugu-supabase) · [官网](https://gugu.nextmind.space) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 Gugu 社区客户端提供自托管 Supabase 后端**
 
@@ -11,7 +11,7 @@ Gugu 社区版后端，部署在用户自己的 Supabase 项目上，提供身�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Mr-Infect/AI-cyber-range
 
-⭐ 14 · Python · 推送 2025-11-30 · [GitHub](https://github.com/Mr-Infect/AI-cyber-range) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **OWASP LLM Top 10 攻防靶场：Docker 化模拟 LLM 漏洞供练习**
 

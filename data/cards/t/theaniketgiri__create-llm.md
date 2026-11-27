@@ -1,6 +1,6 @@
 # theaniketgiri/create-llm
 
-⭐ 373 · TypeScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/theaniketgiri/create-llm) · [官网](https://www.npmjs.com/package/create-llm) · 个人维护
+⭐ 374 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/theaniketgiri/create-llm) · [官网](https://www.npmjs.com/package/create-llm) · 个人维护
 
 **脚手架 CLI：一条命令生成并训练自定义 LLM 的 PyTorch 工程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "theaniketgiri/create-llm 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 370 --> 374
-    line [373, 372, 371, 372, 373, 373]
+    title "theaniketgiri/create-llm 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 370 --> 375
+    line [372, 371, 372, 373, 374]
 ```
 
-2026-10-24 373 → 2026-11-26 373（+0）
+2026-10-25 372 → 2026-11-27 374（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # SeriousOldMan/Simulator-Controller
 
-⭐ 463 · AutoHotkey · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/SeriousOldMan/Simulator-Controller) · 个人维护
+⭐ 463 · AutoHotkey · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/SeriousOldMan/Simulator-Controller) · 个人维护
 
 **为模拟赛车玩家提供 AI 车组助手与外设控制的应用套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SeriousOldMan/Simulator-Controller 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 450 --> 464
-    line [451, 452, 453, 454, 452, 456, 457, 458, 459, 461, 463]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 451 --> 464
+    line [452, 453, 454, 452, 456, 457, 458, 459, 461, 463, 463]
 ```
 
-2026-10-24 451 → 2026-11-26 463（+12）
+2026-10-25 452 → 2026-11-27 463（+11）
 
 
 ---

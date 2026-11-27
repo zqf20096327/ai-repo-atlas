@@ -45,12 +45,12 @@ EAVIE 是一个企业级 agentic 视觉智能引擎，后端基于 FastAPI 异�
 ```mermaid
 xychart-beta
     title "Nikhil-creat/eavie 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-26 3（+0）
+2026-10-25 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # JasonYANG170/wch-dev-skill
 
-⭐ 26 · C · 推送 2026-10-04 · [GitHub](https://github.com/JasonYANG170/wch-dev-skill) · 个人维护 · 中文 README
+⭐ 27 · C · 推送 2026-10-04 · [GitHub](https://github.com/JasonYANG170/wch-dev-skill) · 个人维护 · 中文 README
 
 **WCH 全系列 MCU 固件开发 AI Skill：让 Agent 生成规范嵌入式代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JasonYANG170/wch-dev-skill 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 23 --> 27
-    line [24, 26, 24, 26, 26]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 23 --> 28
+    line [24, 26, 24, 26, 27]
 ```
 
-2026-10-24 24 → 2026-11-26 26（+2）
+2026-10-25 24 → 2026-11-27 27（+3）
 
 
 ---

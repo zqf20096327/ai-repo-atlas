@@ -46,12 +46,12 @@ Sunday 是一个开放的实验性 agent harness，围绕可替换模型封装�
 ```mermaid
 xychart-beta
     title "rithulkamesh/sunday 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-24 4 → 2026-11-26 4（+0）
+2026-10-25 4 → 2026-11-27 4（+0）
 
 
 ---

@@ -40,6 +40,18 @@
 > L3: **Yunzai / Miao-Yunzai 的模块化 AI Agent 插件** —— 不只是聊天机器人：
 > L25: 一个跑在 Yunzai / Miao-Yunzai 里的 AI Agent 插件：把大模型对话、工具调用、长期记忆、人设、多模态、MCP、群管、沙箱和 Web 管理面板做成一套完整运行时。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yunhai89/yunzai-agent-plugin 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `df77a20a5e23` · [字段定义](../../DATASET.md)*

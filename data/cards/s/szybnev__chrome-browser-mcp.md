@@ -42,6 +42,18 @@
 > L7: Hybrid Content Script + On-Demand CDP · Native WebMCP · Prompt-Injection Shield · Workflow Recorder · Multi-Profile 
 > L107: Chrome Browser MCP provides native GUI integrations with unified **Browser Control Deck** UX across all major desk
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "szybnev/chrome-browser-mcp 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d50fe31e3570` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # truffle-ai/dexto
 
-⭐ 661 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/truffle-ai/dexto) · [官网](https://dexto.ai) · 组织维护
+⭐ 661 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/truffle-ai/dexto) · [官网](https://dexto.ai) · 组织维护
 
 **Agent 编排框架：帮开发者构建可持久运行、调用工具的 AI agent**
 
@@ -46,12 +46,12 @@ Dexto 提供一个 agent harness，即把 LLM 编排为有状态 agent 的中间
 ```mermaid
 xychart-beta
     title "truffle-ai/dexto 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-27"]
     y-axis "stars" 656 --> 662
     line [657, 659, 657, 659, 660, 661, 661]
 ```
 
-2026-10-24 657 → 2026-11-26 661（+4）
+2026-10-25 657 → 2026-11-27 661（+4）
 
 
 ---

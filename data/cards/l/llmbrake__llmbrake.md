@@ -1,6 +1,6 @@
 # llmbrake/llmbrake
 
-⭐ 3 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/llmbrake/llmbrake) · [官网](https://llmbrake.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI 应用按客户加用量预算，超限自动降级或拦截**
 
@@ -11,7 +11,7 @@ TypeScript 库，包装 OpenAI 兼容的 chat.completions.create 调用：按返
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

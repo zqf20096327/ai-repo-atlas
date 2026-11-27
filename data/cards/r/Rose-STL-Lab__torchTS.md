@@ -44,12 +44,12 @@ TorchTS 是基于 PyTorch 与 PyTorch Lightning 构建的时间序列建模库�
 ```mermaid
 xychart-beta
     title "Rose-STL-Lab/torchTS 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-24 85 → 2026-11-26 85（+0）
+2026-10-25 85 → 2026-11-27 85（+0）
 
 
 ---

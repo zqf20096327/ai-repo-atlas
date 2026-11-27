@@ -1,6 +1,6 @@
 # JiayuJeff/PlanBench-XL
 
-⭐ 42 · Python · 推送 2026-09-19 · [GitHub](https://github.com/JiayuJeff/PlanBench-XL) · [官网](https://planbench-xl.github.io/) · 组织维护
+⭐ 41 · Python · 推送 2026-09-19 · [GitHub](https://github.com/JiayuJeff/PlanBench-XL) · [官网](https://planbench-xl.github.io/) · 组织维护
 
 **评测 LLM 工具调用 agent 长程规划能力的基准（1,665 工具）**
 
@@ -46,12 +46,12 @@ EMNLP 2026 论文官方仓库，提供零售领域基准：327 条查询、56 �
 ```mermaid
 xychart-beta
     title "JiayuJeff/PlanBench-XL 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 40 --> 43
+    line [42, 41]
 ```
 
-2026-10-24 42 → 2026-11-26 42（+0）
+2026-10-25 42 → 2026-11-27 41（-1）
 
 
 ---

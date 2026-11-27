@@ -1,6 +1,6 @@
 # LlamaToaster/LlamaToaster
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LlamaToaster/LlamaToaster) · [官网](https://llamatoaster.com) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LlamaToaster/LlamaToaster) · [官网](https://llamatoaster.com) · 组织维护
 
 **在自有硬件上实测 GGUF/llama.cpp 性能与可行性的基准平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "LlamaToaster/LlamaToaster 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-10 15 → 2026-11-26 15（+0）
+2026-11-10 15 → 2026-11-27 15（+0）
 
 
 ---

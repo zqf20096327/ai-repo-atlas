@@ -44,13 +44,13 @@ HPE 开发的去中心化、隐私保护机器学习框架：在数据源附近�
 
 ```mermaid
 xychart-beta
-    title "HewlettPackard/swarm-learning 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "HewlettPackard/swarm-learning 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 353 --> 356
-    line [354, 355]
+    line [354, 355, 355]
 ```
 
-2026-10-24 354 → 2026-11-26 355（+1）
+2026-10-25 354 → 2026-11-27 355（+1）
 
 
 ---

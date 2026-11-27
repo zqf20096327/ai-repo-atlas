@@ -1,6 +1,6 @@
 # op7418/guizang-magi2-skill
 
-⭐ 30 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/op7418/guizang-magi2-skill) · 个人维护 · 中文 README
+⭐ 62 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/op7418/guizang-magi2-skill) · 个人维护 · 中文 README
 
 **给 AI 助手装的视频生成工作流 Skill：视频转代码官网与代码控视频**
 
@@ -41,6 +41,18 @@
 > L9: Agent Skill
 > L30: 我把跑通这两套玩法的完整流程、踩坑总结出来的 **MAGI-2 提示词优化规则**，以及 **Antigravity 版 LibTV MCP 一键修复脚本** 全部打包进了这个 Skill。装上就能直接让你的 AI 照着做。
 > L128: |`SKILL.md`|AI 读取的主入口：流程判断、提示词硬规则、MCP 防坑铁律与验收表|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "op7418/guizang-magi2-skill 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 27 --> 65
+    line [30, 62]
+```
+
+2026-11-26 30 → 2026-11-27 62（+32）
 
 
 ---

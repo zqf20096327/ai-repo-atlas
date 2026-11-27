@@ -1,6 +1,6 @@
 # whataicc/doc-whataicc-api
 
-⭐ 38 · HTML · 推送 2026-05-13 · [GitHub](https://github.com/whataicc/doc-whataicc-api) · [官网](https://api.whatai.cc) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **商业 AI API 中转服务：统一接口代理 650+ 模型**
 

@@ -46,12 +46,12 @@ HumanEval 的 fork，将代码评测适配到生物图像分析领域：以 note
 ```mermaid
 xychart-beta
     title "haesleinhuepf/human-eval-bia 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-24 26 → 2026-11-26 26（+0）
+2026-10-25 26 → 2026-11-27 26（+0）
 
 
 ---

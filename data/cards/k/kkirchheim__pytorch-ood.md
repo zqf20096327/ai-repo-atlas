@@ -1,6 +1,6 @@
 # kkirchheim/pytorch-ood
 
-⭐ 354 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kkirchheim/pytorch-ood) · [官网](https://pytorch-ood.readthedocs.io/) · 个人维护
+⭐ 354 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/kkirchheim/pytorch-ood) · [官网](https://pytorch-ood.readthedocs.io/) · 个人维护
 
 **为深度学习研究者提供 PyTorch 实现的分布外检测方法库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kkirchheim/pytorch-ood 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 349 --> 355
     line [350, 351, 352, 353, 350, 354, 354]
 ```
 
-2026-10-24 350 → 2026-11-26 354（+4）
+2026-10-25 350 → 2026-11-27 354（+4）
 
 
 ---

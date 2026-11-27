@@ -40,6 +40,18 @@
 > L3: A small .NET 10 demo of retrieval-augmented generation with an AI agent, orchestrated by Aspire and built with Clean
 > L9: On startup the ingestion worker splits every page into chunks, embeds them with `nomic-embed-text` and stores them i
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tostisto/dotnet-aspire-rag 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `16e99c378322` · [字段定义](../../DATASET.md)*

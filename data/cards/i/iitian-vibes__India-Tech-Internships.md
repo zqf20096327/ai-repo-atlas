@@ -1,6 +1,6 @@
 # iitian-vibes/India-Tech-Internships
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/iitian-vibes/India-Tech-Internships) · [官网](https://iitianvibes.com/blog/deadline-desk/) · 组织维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iitian-vibes/India-Tech-Internships) · [官网](https://iitianvibes.com/blog/deadline-desk/) · 组织维护
 
 **面向印度工科学生的科技实习与竞赛每日更新清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iitian-vibes/India-Tech-Internships 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-25", "2026-11-27"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-16 4 → 2026-11-26 5（+1）
+2026-11-16 4 → 2026-11-27 5（+1）
 
 
 ---

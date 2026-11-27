@@ -45,12 +45,12 @@ Flask 后端加 React 前端的机器学习 Web 应用：用户输入症状，�
 ```mermaid
 xychart-beta
     title "Yash-Bandal/Medicine-Recommendation-System 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-24 21 → 2026-11-26 21（+0）
+2026-10-25 21 → 2026-11-27 21（+0）
 
 
 ---

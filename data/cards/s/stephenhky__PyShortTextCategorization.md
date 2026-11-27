@@ -46,13 +46,13 @@ Python 包 shorttext 支持对短文本进行监督与非监督学习：因短�
 
 ```mermaid
 xychart-beta
-    title "stephenhky/PyShortTextCategorization 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-20", "2026-11-26"]
+    title "stephenhky/PyShortTextCategorization 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 472 --> 476
-    line [473, 475, 474, 473]
+    line [473, 475, 474, 473, 473]
 ```
 
-2026-10-24 473 → 2026-11-26 473（+0）
+2026-10-25 473 → 2026-11-27 473（+0）
 
 
 ---

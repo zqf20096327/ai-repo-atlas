@@ -1,6 +1,6 @@
 # GuyAzene/folio
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/GuyAzene/folio) · [官网](https://github.com/GuyAzene/folio/releases/latest) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/GuyAzene/folio) · [官网](https://github.com/GuyAzene/folio/releases/latest) · 个人维护
 
 **本地优先的桌面课程学习空间，内置基于课程内容的 AI 导师**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GuyAzene/folio 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-26 3（+0）
+2026-11-08 3 → 2026-11-27 3（+0）
 
 
 ---

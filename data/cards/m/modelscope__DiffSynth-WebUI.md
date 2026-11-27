@@ -1,6 +1,6 @@
 # modelscope/DiffSynth-WebUI
 
-⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/modelscope/DiffSynth-WebUI) · 组织维护 · 中文 README
+⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/modelscope/DiffSynth-WebUI) · 组织维护 · 中文 README
 
 **浏览器中完成扩散模型 LoRA 微调全流程的可视化训练工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "modelscope/DiffSynth-WebUI 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 55 --> 61
-    line [56, 57, 58, 57, 59, 60, 60]
+    title "modelscope/DiffSynth-WebUI 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 56 --> 61
+    line [57, 58, 57, 59, 60, 60]
 ```
 
-2026-10-24 56 → 2026-11-26 60（+4）
+2026-10-25 57 → 2026-11-27 60（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # RohiRIK/OpenLtm
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/RohiRIK/OpenLtm) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/RohiRIK/OpenLtm) · 个人维护
 
 **给 AI 编程 agent 的长期记忆插件：跨会话语义记忆存取**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RohiRIK/OpenLtm 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "RohiRIK/OpenLtm 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-24 28 → 2026-11-26 30（+2）
+2026-10-25 29 → 2026-11-27 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # uttam-gelot/payo
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/uttam-gelot/payo) · [官网](https://payo.uttamgelot.com/) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/uttam-gelot/payo) · [官网](https://payo.uttamgelot.com/) · 个人维护
 
 **CLI 工具：通过问卷访谈生成项目定制的 AI 编程助手规则与技能文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "uttam-gelot/payo 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 29 --> 35
-    line [30, 34, 34]
+    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 29 --> 37
+    line [30, 34, 36]
 ```
 
-2026-10-24 30 → 2026-11-26 34（+4）
+2026-10-25 30 → 2026-11-27 36（+6）
 
 
 ---

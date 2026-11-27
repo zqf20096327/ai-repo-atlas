@@ -1,6 +1,6 @@
 # ThalesMMS/AutoComp
 
-⭐ 32 · Swift · Apache-2.0 · 推送 2026-08-18 · [GitHub](https://github.com/ThalesMMS/AutoComp) · 组织维护
+⭐ 32 · Swift · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ThalesMMS/AutoComp) · 组织维护
 
 **macOS 菜单栏 AI 自动补全应用：监听文本框并给出补全建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ThalesMMS/AutoComp 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-24 32 → 2026-11-26 32（+0）
+2026-10-25 32 → 2026-11-27 32（+0）
 
 
 ---

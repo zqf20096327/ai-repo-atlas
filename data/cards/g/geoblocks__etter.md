@@ -46,12 +46,12 @@ Python 库 etter（geoblocks 维护，Camptocamp 赞助）：借助 LLM 解析�
 ```mermaid
 xychart-beta
     title "geoblocks/etter 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-24 18 → 2026-11-26 19（+1）
+2026-10-25 18 → 2026-11-27 19（+1）
 
 
 ---

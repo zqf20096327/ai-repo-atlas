@@ -43,13 +43,13 @@ Python 库，逐章实现 Marcos López de Prado《Machine Learning for Asset Ma
 
 ```mermaid
 xychart-beta
-    title "emoen/Machine-Learning-for-Asset-Managers 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-26"]
+    title "emoen/Machine-Learning-for-Asset-Managers 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 673 --> 681
-    line [674, 676, 678, 679, 680, 679, 680]
+    line [674, 676, 678, 679, 680, 679, 680, 680]
 ```
 
-2026-10-24 674 → 2026-11-26 680（+6）
+2026-10-25 674 → 2026-11-27 680（+6）
 
 
 ---

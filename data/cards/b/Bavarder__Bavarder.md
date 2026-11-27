@@ -1,6 +1,6 @@
 # Bavarder/Bavarder
 
-⭐ 268 · Python · GPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Bavarder/Bavarder) · [官网](https://bavarder.github.io/) · 组织维护
+⭐ 269 · Python · GPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Bavarder/Bavarder) · [官网](https://bavarder.github.io/) · 组织维护
 
 **GNOME/Linux 桌面 AI 聊天应用，本地优先**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Bavarder/Bavarder 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 267 --> 269
-    line [268, 268]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 267 --> 270
+    line [268, 269]
 ```
 
-2026-10-24 268 → 2026-11-26 268（+0）
+2026-10-25 268 → 2026-11-27 269（+1）
 
 
 ---

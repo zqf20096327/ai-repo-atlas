@@ -1,6 +1,6 @@
 # rollroyces/deepcatch
 
-⭐ 89 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/rollroyces/deepcatch) · [官网](https://rollroyces.github.io/deepcatch/) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rollroyces/deepcatch) · [官网](https://rollroyces.github.io/deepcatch/) · 个人维护
 
 **cfDNA 多模态癌症早检研究基准框架，仅供方法学研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rollroyces/deepcatch 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
     y-axis "stars" 87 --> 90
-    line [88, 89, 89]
+    line [88, 89, 88]
 ```
 
-2026-10-24 88 → 2026-11-26 89（+1）
+2026-10-25 88 → 2026-11-27 88（+0）
 
 
 ---

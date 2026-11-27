@@ -47,12 +47,12 @@ Docker Compose 部署的 AI 基础设施骨架：FastAPI 网关串联 guardrails
 ```mermaid
 xychart-beta
     title "Nikhil-creat/vigilai-engine-mesh 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-26 3（+0）
+2026-10-25 3 → 2026-11-27 3（+0）
 
 
 ---

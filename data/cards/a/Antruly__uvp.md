@@ -1,6 +1,6 @@
 # Antruly/uvp
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Antruly/uvp) · [官网](https://ssvr.top/projects/uvp) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Antruly/uvp) · [官网](https://ssvr.top/projects/uvp) · 个人维护 · 中文 README
 
 **供开发者与 AI agent 用一个 CLI/MCP 构建、运行并验证 libuvcpp C++ Web 服务**
 
@@ -47,12 +47,12 @@ uvp 将一段 C++ Web 服务描述转换为完整的 CMake 工程，针对 libuv
 ```mermaid
 xychart-beta
     title "Antruly/uvp 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 3, 4, 4]
 ```
 
-2026-10-25 3 → 2026-11-26 4（+1）
+2026-10-25 3 → 2026-11-27 4（+1）
 
 
 ---

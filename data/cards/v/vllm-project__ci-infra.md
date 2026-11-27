@@ -1,6 +1,6 @@
 # vllm-project/ci-infra
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vllm-project/ci-infra) · 组织维护
+⭐ 66 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/vllm-project/ci-infra) · 组织维护
 
 **vLLM 项目的 CI 与性能基准基础设施代码仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vllm-project/ci-infra 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    title "vllm-project/ci-infra 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 60 --> 67
-    line [61, 62, 63, 61, 64, 65, 66]
+    line [61, 62, 63, 61, 64, 65, 66, 66]
 ```
 
-2026-10-24 61 → 2026-11-26 66（+5）
+2026-10-25 61 → 2026-11-27 66（+5）
 
 
 ---

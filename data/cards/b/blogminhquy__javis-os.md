@@ -1,16 +1,16 @@
 # blogminhquy/javis-os
 
-⭐ 920 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/blogminhquy/javis-os) · [官网](https://javisos.com) · 个人维护
+⭐ 926 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/blogminhquy/javis-os) · [官网](https://javisos.com) · 个人维护 · 中文 README
 
-**自托管的 AI 团队编排系统：把多个模型当作可替换的大脑共管**
+**自托管 AI 工作队仪表盘：多模型协作、共享记忆与后台任务**
 
-以 Python 3.12 与 Docker 部署、运行在自有机器或 VPS 的自托管 agentic AI 系统：通过订阅版 CLI（Claude Code、Codex、Grok Build、Antigravity）或 API 接入 14 个模型提供方，共享 MCP Hub、Skills、Second Brain（Markdown 记忆库 + 知识图谱）、Kanban 任务队列、定时 loops/reminders 与多 coworkers/团队机制。数据以 Markdown、SQLite、git commit 形式存于本地。README 警示用订阅套餐跑后台任务存在账号受限风险，建议改用 API key 或指定其他后台模型。
+以 Python/Docker 自托管的 agentic 应用，把 Claude、ChatGPT、Gemini、Grok 等订阅式 CLI 与 API 作为可替换的"大脑"接入统一工具箱（MCP Hub、技能、后台任务）。核心机制是 Second Brain：Obsidian 兼容的 markdown 记忆库与知识图谱，每次学习提交为 git 可撤销记录，模型切换不迁移数据。支持语音、Telegram/Slack/WhatsApp 等多渠道对话、Kanban 任务、定时循环与多 agent 团队。README 提示订阅账号长时间后台运行存在被服务商封号的风险。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 14 个模型提供方可随时切换，共享同一套记忆、技能与 MCP 工具
-- Second Brain 为 Obsidian 兼容 Markdown 库，学习过程以 git commit 记录、可一键回退
-- 后台 Kanban 任务、loops/reminders、coworkers 角色与团队协作
-- 语音交互与 Telegram/Slack/WhatsApp/Zalo 等多渠道接入
+- 15 个模型提供方接入，Models 页面一键切换，记忆/技能/工作流保持不变
+- Second Brain：markdown 记忆库 + 知识图谱，Obsidian 兼容，可同步 GitHub 私有仓库
+- 后台工作：Kanban 任务、定时循环与提醒、多 agent 团队协作
+- 语音输入输出、Telegram/Slack/WhatsApp/Zalo 等多渠道接入
 
 ## 适用场景
 
-- 在自有服务器上让多个 AI coworker 持续执行后台任务
-- 更换模型时不迁移记忆与工作流，保持知识资产本地化
-- 通过 WhatsApp/Telegram 等渠道向客户部署多渠道聊天机器人
+- 在自己的服务器上运行 24/7 的 AI 助手处理日常任务
+- 把业务数据接入后让多个 agent 分工协作并定期汇报
+- 随时切换底层模型而不丢失积累的记忆与配置
 
 ## 场景标签
 
-`聊天机器人` `知识库管理` `知识图谱` `Agent 框架` · 领域:Agent 开发
+`多智能体` `AI 助手` `知识库管理` `知识图谱` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L7: Javis OS turns **Claude, ChatGPT, Gemini, Grok** and the models you choose into one 24/7 workforce on your own machi
 > L57: Javis OS is **not** a chatbot. It is a **self-hosted agentic AI** that runs on your own machine or VPS: it reads an
-> L111: Pick the brain on the **Models** page and change it whenever you like. Javis supports **14 providers** today.
+> L111: Pick the brain on the **Models** page and change it whenever you like. Javis supports **15 providers** today.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "blogminhquy/javis-os 星数(近 27 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 214 --> 984
-    line [278, 281, 286, 330, 350, 371, 380, 401, 490, 513, 281, 714, 738, 743, 755, 764, 816, 826, 830, 839, 849, 853, 855, 884, 894, 906, 920]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 217 --> 990
+    line [281, 286, 330, 350, 371, 380, 401, 490, 513, 281, 714, 738, 743, 755, 764, 816, 826, 830, 839, 849, 853, 855, 884, 894, 906, 920, 926]
 ```
 
-2026-10-24 278 → 2026-11-26 920（+642）
+2026-10-25 281 → 2026-11-27 926（+645）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5909e7928412` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f7c6855b2f26` · [字段定义](../../DATASET.md)*

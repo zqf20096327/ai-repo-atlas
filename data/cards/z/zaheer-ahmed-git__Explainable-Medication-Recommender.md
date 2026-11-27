@@ -1,6 +1,6 @@
 # zaheer-ahmed-git/Explainable-Medication-Recommender
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/zaheer-ahmed-git/Explainable-Medication-Recommender) · 个人维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/zaheer-ahmed-git/Explainable-Medication-Recommender) · 个人维护
 
 **面向临床医生的可解释药物推荐研究流水线**
 
@@ -40,6 +40,18 @@
 > L3: Research software for a clinician-facing medication recommender that combines
 > L29: 1. **Conversational understanding:** an LLM extracts a structured patient profile.
 > L30: 2. **Hybrid recommendation:** a Transformer models patient-context and temporal
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zaheer-ahmed-git/Explainable-Medication-Recommender 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

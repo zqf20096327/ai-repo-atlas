@@ -42,6 +42,18 @@
 > L64: ## 功能
 > L79: 已验证开发环境为 Windows、Python 3.12、NVIDIA CUDA、ComfyUI 0.42.5、前端 1.55.18，使用 12 GB 显存笔记本。其他平台尚未验证。高分辨率与大参考图会增加内存、显存及时间开销。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lueluelue12138/ComfyUI-SHARP-Portrait 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-26 11 → 2026-11-27 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3f0fee72723f` · [字段定义](../../DATASET.md)*

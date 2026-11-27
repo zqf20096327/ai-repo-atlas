@@ -41,6 +41,18 @@
 > L52:   → 每天当地 20:00，把 24h 消息交给 LLM
 > L58: AI 只负责产内容，版面由模板锁死，样式永远统一。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wangmeng1663-svg/mianpalou-tg-digest 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c1b43ed75c96` · [字段定义](../../DATASET.md)*

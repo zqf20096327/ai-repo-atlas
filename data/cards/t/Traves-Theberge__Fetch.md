@@ -45,12 +45,12 @@ Fetch 将 WhatsApp 消息作为入口，把编码任务分派到沙箱 Docker �
 ```mermaid
 xychart-beta
     title "Traves-Theberge/Fetch 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

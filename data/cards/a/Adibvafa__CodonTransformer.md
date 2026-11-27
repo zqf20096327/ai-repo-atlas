@@ -1,6 +1,6 @@
 # Adibvafa/CodonTransformer
 
-⭐ 230 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Adibvafa/CodonTransformer) · [官网](https://adibvafa.github.io/CodonTransformer) · 个人维护
+⭐ 231 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Adibvafa/CodonTransformer) · [官网](https://adibvafa.github.io/CodonTransformer) · 个人维护
 
 **多物种密码子优化深度学习模型：为蛋白表达生成宿主特异性 DNA 序列**
 
@@ -39,6 +39,18 @@
 
 > L12: The genetic code is degenerate allowing a multitude of possible DNA sequences to encode the same protein. This dege
 > L22: from CodonTransformer.CodonPrediction import predict_dna_sequence
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Adibvafa/CodonTransformer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 229 --> 232
+    line [230, 231]
+```
+
+2026-11-26 230 → 2026-11-27 231（+1）
 
 
 ---

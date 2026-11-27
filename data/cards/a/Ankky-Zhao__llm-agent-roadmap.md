@@ -1,6 +1,6 @@
 # Ankky-Zhao/llm-agent-roadmap
 
-⭐ 13 · HTML · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/Ankky-Zhao/llm-agent-roadmap) · [官网](https://ankky-zhao.github.io/llm-agent-roadmap/) · 个人维护 · 中文 README
+⭐ 13 · HTML · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Ankky-Zhao/llm-agent-roadmap) · [官网](https://ankky-zhao.github.io/llm-agent-roadmap/) · 个人维护 · 中文 README
 
 **双语 LLM agent 学习路线图：26 模块、277 条资源与论文时间线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ankky-Zhao/llm-agent-roadmap 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

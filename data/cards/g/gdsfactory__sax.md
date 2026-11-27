@@ -1,6 +1,6 @@
 # gdsfactory/sax
 
-⭐ 138 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/gdsfactory/sax) · [官网](https://gdsfactory.github.io/sax/) · 组织维护
+⭐ 139 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/gdsfactory/sax) · [官网](https://gdsfactory.github.io/sax/) · 组织维护
 
 **基于 JAX 的 S 参数频域光子集成电路仿真与优化库**
 
@@ -46,12 +46,12 @@ SAX 是构建在 JAX 之上的散射参数（S-parameter）电路仿真器与优
 ```mermaid
 xychart-beta
     title "gdsfactory/sax 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 130 --> 139
-    line [131, 132, 134, 135, 131, 137, 138, 138]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 130 --> 140
+    line [131, 132, 134, 135, 131, 137, 138, 139]
 ```
 
-2026-10-24 131 → 2026-11-26 138（+7）
+2026-10-25 131 → 2026-11-27 139（+8）
 
 
 ---

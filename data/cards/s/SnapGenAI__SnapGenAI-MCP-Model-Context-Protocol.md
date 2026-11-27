@@ -1,6 +1,6 @@
 # SnapGenAI/SnapGenAI-MCP-Model-Context-Protocol
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/SnapGenAI/SnapGenAI-MCP-Model-Context-Protocol) · 组织维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/SnapGenAI/SnapGenAI-MCP-Model-Context-Protocol) · 组织维护
 
 **给 AI 编程助手接入 SnapGen 生成模型的 MCP 服务器**
 
@@ -45,12 +45,12 @@ SnapGen 官方的 MCP 服务器：通过 stdio（本地）或 Streamable HTTP（
 ```mermaid
 xychart-beta
     title "SnapGenAI/SnapGenAI-MCP-Model-Context-Protocol 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-13", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-29", "2026-11-13", "2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-29 3 → 2026-11-26 5（+2）
+2026-10-29 3 → 2026-11-27 5（+2）
 
 
 ---

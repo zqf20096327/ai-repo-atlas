@@ -1,6 +1,6 @@
 # mrjoshuak/godoc-mcp
 
-⭐ 128 · Go · MIT · 推送 2026-03-06 · [GitHub](https://github.com/mrjoshuak/godoc-mcp) · [官网](https://github.com/mrjoshuak) · 个人维护
+⭐ 130 · Go · MIT · 推送 2026-03-06 · [GitHub](https://github.com/mrjoshuak/godoc-mcp) · [官网](https://github.com/mrjoshuak) · 个人维护
 
 **为 AI 编程 agent 提供 Go 文档的 MCP 服务器，降低 token 消耗**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mrjoshuak/godoc-mcp 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-13", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 124 --> 129
-    line [125, 126, 127, 128, 128]
+    title "mrjoshuak/godoc-mcp 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 125 --> 131
+    line [126, 127, 128, 130]
 ```
 
-2026-10-24 125 → 2026-11-26 128（+3）
+2026-10-25 126 → 2026-11-27 130（+4）
 
 
 ---

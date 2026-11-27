@@ -1,6 +1,6 @@
 # adil-adysh/llama-cpp-android-node
 
-⭐ 6 · Kotlin · 推送 2026-10-14 · [GitHub](https://github.com/adil-adysh/llama-cpp-android-node) · 个人维护
+⭐ 7 · Kotlin · 推送 2026-10-14 · [GitHub](https://github.com/adil-adysh/llama-cpp-android-node) · 个人维护
 
 **把 Android 手机变成 llama.cpp 分布式推理 RPC 节点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adil-adysh/llama-cpp-android-node 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-11-08 3 → 2026-11-26 6（+3）
+2026-11-08 3 → 2026-11-27 7（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # ParsaBordbar/ctx3
 
-⭐ 22 · Go · MIT · 推送 2026-09-05 · [GitHub](https://github.com/ParsaBordbar/ctx3) · 个人维护
+⭐ 24 · Go · MIT · 推送 2026-09-05 · [GitHub](https://github.com/ParsaBordbar/ctx3) · 个人维护
 
 **为开发者与 LLM 生成代码库结构化上下文的 Go CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ParsaBordbar/ctx3 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 21 --> 25
+    line [22, 24]
 ```
 
-2026-10-24 22 → 2026-11-26 22（+0）
+2026-10-25 22 → 2026-11-27 24（+2）
 
 
 ---

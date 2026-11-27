@@ -1,6 +1,6 @@
 # bruc3van/dsh-market-pro
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/bruc3van/dsh-market-pro) · [官网](https://dsh-market-pro.com) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bruc3van/dsh-market-pro) · [官网](https://dsh-market-pro.com) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 AI 原生插件·技能·MCP 市场**
 
@@ -41,6 +41,18 @@
 > L14: > **DSH Market Pro** is an AI-native plugin, Agent Skills, and MCP marketplace for **DeepSeek Harness (DSH)** — fea
 > L22: - **面向 Agent 的 AI 原生选型与批量更新（统一内置 Skill `/market-pro` + 插件 · 技能 · MCP 三大工具）**：
 > L16: DeepSeek Harness（DSH）的 AI 原生第三方插件市场（官网与在线目录：dsh-market-pro.com）。基于每日核实的社区目录 awesome-dsh-plugin-pro（覆盖 29,000+ 社区插件）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bruc3van/dsh-market-pro 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-26 11 → 2026-11-27 11（+0）
 
 
 ---

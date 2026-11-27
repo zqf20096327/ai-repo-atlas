@@ -41,6 +41,18 @@ RA-L 2022 论文 PAAD 的 PyTorch 实现仓库：融合相机图像、LiDAR 扫�
 > L15: Despite the rapid advancement of navigation algorithms, mobile robots often produce anomalous behaviors that can le
 > L29: * `rosnode`: Contains a rosnode which performs proactive anomaly detection in real-time using PAAD.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tianchenji/PAAD 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-26 20 → 2026-11-27 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `058b1224914c` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # DrEden33773/adam-agent
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/DrEden33773/adam-agent) · [官网](https://github.com/DrEden33773/adam-agent) · 个人维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/DrEden33773/adam-agent) · [官网](https://github.com/DrEden33773/adam-agent) · 个人维护
 
 **Linux 终端本地编程 Agent：读改代码、审批命令、多代理协作**
 
@@ -45,12 +45,12 @@ TypeScript 编写的本地编程代理，面向 Linux 终端用户：读取/搜�
 ```mermaid
 xychart-beta
     title "DrEden33773/adam-agent 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-24 18 → 2026-11-26 19（+1）
+2026-10-25 18 → 2026-11-27 20（+2）
 
 
 ---

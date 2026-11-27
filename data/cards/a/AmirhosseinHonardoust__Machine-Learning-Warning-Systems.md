@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Machine-Learning-Warning-Systems
 
-⭐ 20 · MIT · 推送 2025-12-20 · [GitHub](https://github.com/AmirhosseinHonardoust/Machine-Learning-Warning-Systems) · 个人维护
+⭐ 19 · MIT · 推送 2025-12-20 · [GitHub](https://github.com/AmirhosseinHonardoust/Machine-Learning-Warning-Systems) · 个人维护
 
 **面向 ML 从业者的警告式系统设计长文与框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/Machine-Learning-Warning-Systems 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 18 --> 21
+    line [20, 19]
 ```
 
-2026-10-24 20 → 2026-11-26 20（+0）
+2026-10-25 20 → 2026-11-27 19（-1）
 
 
 ---

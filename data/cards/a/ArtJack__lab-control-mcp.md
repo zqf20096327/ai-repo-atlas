@@ -41,6 +41,18 @@
 > L3: An **MCP server that operates the home AI lab** — health checks, model management,
 > L18: |`lab_status`|read|Health of gateway (LAN + Tailscale), Ollama (M4 + GTX), Qdrant, Postgres exposure.|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ArtJack/lab-control-mcp 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 30 --> 32
+    line [31, 31]
+```
+
+2026-11-26 31 → 2026-11-27 31（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f6db3dc8e6db` · [字段定义](../../DATASET.md)*

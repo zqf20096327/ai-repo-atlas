@@ -1,6 +1,6 @@
 # ikevss/dsh-ima
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ikevss/dsh-ima) · [官网](https://www.npmjs.com/package/ik-dsh-ima) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ikevss/dsh-ima) · [官网](https://www.npmjs.com/package/ik-dsh-ima) · 个人维护 · 中文 README
 
 **把腾讯 ima 知识库接入 DeepSeek Harness 的插件：浏览/搜索/上传**
 
@@ -46,12 +46,12 @@ DeepSeek Harness 的 DSH 插件，在侧边栏展示用户绑定的腾讯 ima �
 ```mermaid
 xychart-beta
     title "ikevss/dsh-ima 星数(近 6 点)"
-    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 2 --> 13
-    line [3, 4, 8, 11, 12, 12]
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 2 --> 14
+    line [3, 4, 8, 11, 12, 13]
 ```
 
-2026-10-30 3 → 2026-11-26 12（+9）
+2026-10-30 3 → 2026-11-27 13（+10）
 
 
 ---

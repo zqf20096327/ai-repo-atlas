@@ -1,6 +1,6 @@
 # Timaga/noda-local-ai-notes
 
-⭐ 105 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Timaga/noda-local-ai-notes) · 个人维护 · 中文 README
+⭐ 104 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Timaga/noda-local-ai-notes) · 个人维护 · 中文 README
 
 **Windows 本地 AI 笔记应用：Markdown 知识库+图谱+语义搜索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Timaga/noda-local-ai-notes 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-22", "2026-11-23", "2026-11-26"]
+    title "Timaga/noda-local-ai-notes 星数(近 5 点)"
+    x-axis ["2026-11-15", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 103 --> 106
-    line [104, 105, 104, 105]
+    line [104, 105, 104, 105, 104]
 ```
 
-2026-11-15 104 → 2026-11-26 105（+1）
+2026-11-15 104 → 2026-11-27 104（+0）
 
 
 ---

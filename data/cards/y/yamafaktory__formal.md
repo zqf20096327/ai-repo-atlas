@@ -1,6 +1,6 @@
 # yamafaktory/formal
 
-⭐ 26 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yamafaktory/formal) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yamafaktory/formal) · 个人维护
 
 **基于 Lean 4 + Mathlib 的代码属性形式化验证服务，供 agent 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yamafaktory/formal 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-24 25 → 2026-11-26 26（+1）
+2026-10-25 25 → 2026-11-27 26（+1）
 
 
 ---

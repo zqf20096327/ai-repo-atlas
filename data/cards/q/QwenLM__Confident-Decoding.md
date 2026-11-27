@@ -1,6 +1,6 @@
 # QwenLM/Confident-Decoding
 
-⭐ 34 · Python · 推送 2026-06-30 · [GitHub](https://github.com/QwenLM/Confident-Decoding) · 组织维护
+⭐ 35 · Python · 推送 2026-06-30 · [GitHub](https://github.com/QwenLM/Confident-Decoding) · 组织维护
 
 **推理时逐 token 选取低熵中间层 logits 的解码方法（vLLM 分支）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/Confident-Decoding 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-24 34 → 2026-11-26 34（+0）
+2026-10-25 34 → 2026-11-27 35（+1）
 
 
 ---

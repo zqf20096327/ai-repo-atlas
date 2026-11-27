@@ -40,6 +40,18 @@
 > L3: A custom node for switching between character prompts and up to three LoRAs with a single selection. Designed for ma
 > L10: - Up to three LoRAs per character, with independent model and CLIP strengths and ON/OFF toggles.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "UNfukashigi/ComfyUI-Manga-Character-Preset 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e0d764bdd37f` · [字段定义](../../DATASET.md)*

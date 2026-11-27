@@ -46,12 +46,12 @@ Abluva 维护的 mcp-remote 分支：以 stdio 代理形式让仅支持本地 st
 ```mermaid
 xychart-beta
     title "abluva/mcp-remote 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-24 54 → 2026-11-26 54（+0）
+2026-10-25 54 → 2026-11-27 54（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # grimoire-rs/grimoire
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/grimoire-rs/grimoire) · [官网](https://grimoire.rs) · 组织维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/grimoire-rs/grimoire) · [官网](https://grimoire.rs) · 组织维护
 
 **AI agent 配置包管理器：将技能/规则/MCP 装入各编码 agent**
 
@@ -44,13 +44,13 @@ grim 是面向 AI 编码 agent 配置的包管理 CLI：一次性声明 skill、
 
 ```mermaid
 xychart-beta
-    title "grimoire-rs/grimoire 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    title "grimoire-rs/grimoire 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 13 --> 18
-    line [14, 15, 14, 15, 16, 17]
+    line [14, 15, 14, 15, 16, 17, 17]
 ```
 
-2026-10-24 14 → 2026-11-26 17（+3）
+2026-10-25 14 → 2026-11-27 17（+3）
 
 
 ---

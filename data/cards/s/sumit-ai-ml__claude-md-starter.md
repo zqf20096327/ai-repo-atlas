@@ -1,6 +1,6 @@
 # sumit-ai-ml/claude-md-starter
 
-⭐ 133 · MIT · 推送 2026-06-16 · [GitHub](https://github.com/sumit-ai-ml/claude-md-starter) · 个人维护
+⭐ 134 · MIT · 推送 2026-06-16 · [GitHub](https://github.com/sumit-ai-ml/claude-md-starter) · 个人维护
 
 **给 Claude Code 用的 CLAUDE.md 行为规则模板，含验证与自治规则**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sumit-ai-ml/claude-md-starter 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 129 --> 134
-    line [130, 131, 132, 130, 133, 133]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 129 --> 135
+    line [130, 131, 132, 130, 133, 134]
 ```
 
-2026-10-24 130 → 2026-11-26 133（+3）
+2026-10-25 130 → 2026-11-27 134（+4）
 
 
 ---

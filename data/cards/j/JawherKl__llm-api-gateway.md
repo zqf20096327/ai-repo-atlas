@@ -41,6 +41,18 @@
 > L14: It provides a unified API with built-in caching, rate limiting, authentication, logging, metrics, and production-re
 > L78: - **Adapters:** Microservices for each provider
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JawherKl/llm-api-gateway 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-11-26 29 → 2026-11-27 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ad4e849b76cd` · [字段定义](../../DATASET.md)*

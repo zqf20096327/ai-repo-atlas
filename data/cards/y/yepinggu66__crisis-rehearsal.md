@@ -1,6 +1,6 @@
 # yepinggu66/crisis-rehearsal
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/yepinggu66/crisis-rehearsal) · [官网](https://weixiayu.com/) · 个人维护 · 中文 README
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/yepinggu66/crisis-rehearsal) · [官网](https://weixiayu.com/) · 个人维护 · 中文 README
 
 **危机推演工具：在事件前 72 小时以群体模拟演练声誉危机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yepinggu66/crisis-rehearsal 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-26 3（+0）
+2026-11-25 3 → 2026-11-27 3（+0）
 
 
 ---

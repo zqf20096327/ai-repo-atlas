@@ -46,12 +46,12 @@ lucidrains 维护的论文复现库，实现 Self-Play Pretraining with Zero Dat
 ```mermaid
 xychart-beta
     title "lucidrains/self-play-pretrain-zero-data 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-23", "2026-11-27"]
     y-axis "stars" 9 --> 14
     line [10, 11, 13, 13]
 ```
 
-2026-10-24 10 → 2026-11-26 13（+3）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

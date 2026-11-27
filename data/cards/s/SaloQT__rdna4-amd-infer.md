@@ -1,6 +1,6 @@
 # SaloQT/rdna4-amd-infer
 
-⭐ 4 · C · 推送 2026-11-24 · [GitHub](https://github.com/SaloQT/rdna4-amd-infer) · [官网](https://saloqt.github.io/rdna4-amd-infer/) · 个人维护
+⭐ 10 · C · 推送 2026-11-26 · [GitHub](https://github.com/SaloQT/rdna4-amd-infer) · [官网](https://saloqt.github.io/rdna4-amd-infer/) · 个人维护
 
 **面向 RX 9070 XT 的本地 LLM 推理引擎，免装 Windows ROCm**
 
@@ -40,6 +40,18 @@
 > L1: # rdna4-amd-infer: RX 9070 XT LLM Engine
 > L3: **Fast local LLM inference engine for AMD Radeon RX 9070 XT (RDNA4 / `gfx1201`) built on top of Han Wang's `hanw/amd
 > L5: Base C11 engine & verified core by `hanw/amd.c` · Windows WDDM port + 310 custom `gfx1201` kernels + DSpark/shortlis
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SaloQT/rdna4-amd-infer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 11
+    line [4, 10]
+```
+
+2026-11-26 4 → 2026-11-27 10（+6）
 
 
 ---

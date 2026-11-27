@@ -1,6 +1,6 @@
 # ericgandrade/agentic-sdlc
 
-⭐ 95 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ericgandrade/agentic-sdlc) · [官网](https://www.npmjs.com/package/agentic-sdlc-method) · 个人维护
+⭐ 95 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ericgandrade/agentic-sdlc) · [官网](https://www.npmjs.com/package/agentic-sdlc-method) · 个人维护
 
 **给已用AI编码工具的团队提供可审计的代理化软件开发流程方法**
 
@@ -40,6 +40,18 @@
 > L11:  The definitive approach to AI-native software engineering. Agent-driven, human-governed, evidence-verified. 13 spe
 > L15: **It is for engineering teams that already use AI coding agents and need an audit trail:** who asked for what, what
 > L33: |Skill, router, bundle|A skill is a Markdown workflow an AI tool loads; the router skill picks the right one; a bun
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ericgandrade/agentic-sdlc 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 94 --> 96
+    line [95, 95]
+```
+
+2026-11-26 95 → 2026-11-27 95（+0）
 
 
 ---

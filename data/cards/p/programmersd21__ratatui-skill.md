@@ -1,6 +1,6 @@
 # programmersd21/ratatui-skill
 
-⭐ 14 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/programmersd21/ratatui-skill) · 个人维护
+⭐ 15 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/programmersd21/ratatui-skill) · 个人维护
 
 **让 AI 助手按当前 API 生成 ratatui 终端界面的 agent 技能**
 
@@ -40,6 +40,18 @@
 > L10:  Make your AI assistant write Ratatui apps that actually work.
 > L29: **ratatui-skill** replaces that with a fixed process and a tested template. The assistant looks up what is current,
 > L33: 1. Copy the skill into your assistant's skills directory. For Claude Code:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "programmersd21/ratatui-skill 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
+```
+
+2026-11-26 14 → 2026-11-27 15（+1）
 
 
 ---

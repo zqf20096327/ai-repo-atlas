@@ -1,6 +1,6 @@
 # lincolixavier/job-hunt-agent
 
-⭐ 30 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lincolixavier/job-hunt-agent) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lincolixavier/job-hunt-agent) · 个人维护
 
 **把 AI 编码代理改造成求职助理的工作流与 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lincolixavier/job-hunt-agent 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 20 --> 31
-    line [21, 26, 30]
+    title "lincolixavier/job-hunt-agent 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 20 --> 36
+    line [21, 26, 30, 35]
 ```
 
-2026-11-23 21 → 2026-11-26 30（+9）
+2026-11-23 21 → 2026-11-27 35（+14）
 
 
 ---

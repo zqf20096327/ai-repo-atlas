@@ -44,13 +44,13 @@ Ralph Wiggum 循环模式的生产化实现：从 GitHub issues、Linear 工单�
 
 ```mermaid
 xychart-beta
-    title "rubenmarcus/ralph-starter 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 106 --> 109
-    line [108, 107, 107]
+    title "rubenmarcus/ralph-starter 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 106 --> 108
+    line [107, 107]
 ```
 
-2026-10-24 108 → 2026-11-26 107（-1）
+2026-10-25 107 → 2026-11-27 107（+0）
 
 
 ---

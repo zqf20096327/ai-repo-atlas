@@ -46,12 +46,12 @@ dsh-mood 是 DeepSeek Harness 的插件：以六维状态机（valence/arousal/d
 ```mermaid
 xychart-beta
     title "lulu23316/dsh-mood 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-31 3 → 2026-11-26 4（+1）
+2026-10-31 3 → 2026-11-27 4（+1）
 
 
 ---

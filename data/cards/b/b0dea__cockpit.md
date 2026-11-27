@@ -1,6 +1,6 @@
 # b0dea/cockpit
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/b0dea/cockpit) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/b0dea/cockpit) · 个人维护
 
 **为多编码代理统一环境与守则的 CLI：一套配置驱动 Claude Code、Codex、OpenCode**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "b0dea/cockpit 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-26 4（+0）
+2026-11-08 4 → 2026-11-27 4（+0）
 
 
 ---

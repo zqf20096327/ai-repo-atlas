@@ -1,6 +1,6 @@
 # szdsdp/z000
 
-⭐ 23 · Java · 推送 2026-11-25 · [GitHub](https://github.com/szdsdp/z000) · [官网](https://www.szdsoft.cn) · 组织维护 · 中文 README
+⭐ 33 · Java · 推送 2026-11-25 · [GitHub](https://github.com/szdsdp/z000) · [官网](https://www.szdsoft.cn) · 组织维护 · 中文 README
 
 **给企业的低代码AI平台：拖拽搭建费控、报销、财务共享等应用**
 
@@ -39,6 +39,18 @@
 
 > L7: 尚智得企业数字化AI平台采用 SpringCloud 微服务架构，融合低代码、零代码能力，支持可视化拖拽配置，快速搭建费控、报销、财务共享、电子档案、SRM等各类企业应用。 平台结合Spring AI框架，全域接入AI能力，覆盖 A
 > L11: - ✅ 零代码可视化设计，低代码提供 Jar 包、组件库、模板项目，开包即用
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "szdsdp/z000 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 22 --> 34
+    line [23, 33]
+```
+
+2026-11-26 23 → 2026-11-27 33（+10）
 
 
 ---

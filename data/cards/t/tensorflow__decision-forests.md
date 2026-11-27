@@ -1,6 +1,6 @@
 # tensorflow/decision-forests
 
-⭐ 695 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/tensorflow/decision-forests) · 组织维护
+⭐ 694 · Python · Apache-2.0 · 推送 2026-05-19 · [GitHub](https://github.com/tensorflow/decision-forests) · 组织维护
 
 **在 TensorFlow/Keras 中训练、运行与解释决策森林模型的库**
 
@@ -44,13 +44,13 @@ TensorFlow Decision Forests（TF-DF）提供在 TensorFlow/Keras 中训练、服
 
 ```mermaid
 xychart-beta
-    title "tensorflow/decision-forests 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
+    title "tensorflow/decision-forests 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 691 --> 696
-    line [692, 693, 694, 693, 695]
+    line [692, 693, 694, 693, 695, 694]
 ```
 
-2026-10-24 692 → 2026-11-26 695（+3）
+2026-10-25 692 → 2026-11-27 694（+2）
 
 
 ---

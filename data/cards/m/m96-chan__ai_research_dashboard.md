@@ -1,6 +1,6 @@
 # m96-chan/ai_research_dashboard
 
-⭐ 13 · Astro · MIT · 推送 2026-11-25 · [GitHub](https://github.com/m96-chan/ai_research_dashboard) · [官网](https://ai.m96-chan.dev) · 个人维护
+⭐ 13 · Astro · MIT · 推送 2026-11-26 · [GitHub](https://github.com/m96-chan/ai_research_dashboard) · [官网](https://ai.m96-chan.dev) · 个人维护
 
 **每小时自动更新的 AI/ML 论文、模型、仓库与新闻聚合面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "m96-chan/ai_research_dashboard 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

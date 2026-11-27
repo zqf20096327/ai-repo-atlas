@@ -1,6 +1,6 @@
 # thisal-d/ai-verse
 
-⭐ 10 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/thisal-d/ai-verse) · [官网](https://ai-verse.pages.dev/) · 个人维护
+⭐ 10 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/thisal-d/ai-verse) · [官网](https://ai-verse.pages.dev/) · 个人维护
 
 **面向开发者/学生等的 AI 工具目录站点（147 个工具，15 类）**
 
@@ -46,12 +46,12 @@ AI Verse 是一个 AI 工具发现平台，收录 147 个精选工具，按文�
 ```mermaid
 xychart-beta
     title "thisal-d/ai-verse 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-26 10（+0）
+2026-10-24 10 → 2026-11-27 10（+0）
 
 
 ---

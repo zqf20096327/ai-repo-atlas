@@ -1,6 +1,6 @@
 # mirzayasirabdullahbaig07/Inside-the-Game
 
-⭐ 3 · Python · 推送 2026-10-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Inside-the-Game) · [官网](https://inside-the-game.streamlit.app/) · 个人维护
+⭐ 4 · Python · 推送 2026-10-26 · [GitHub](https://github.com/mirzayasirabdullahbaig07/Inside-the-Game) · [官网](https://inside-the-game.streamlit.app/) · 个人维护
 
 **多 Agent 足球比赛解说与复盘生成应用，基于合成赛事数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mirzayasirabdullahbaig07/Inside-the-Game 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-29", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-10-29 3 → 2026-11-26 3（+0）
+2026-10-29 3 → 2026-11-27 4（+1）
 
 
 ---

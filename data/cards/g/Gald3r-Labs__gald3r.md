@@ -1,6 +1,6 @@
 # Gald3r-Labs/gald3r
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/Gald3r-Labs/gald3r) · [官网](https://www.gald3r.ai/) · 组织维护
+⭐ 28 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Gald3r-Labs/gald3r) · [官网](https://www.gald3r.ai/) · 组织维护
 
 **给多个 AI 编程工具共享的持久化任务/计划“大脑”引擎**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Gald3r-Labs/gald3r 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-11", "2026-11-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 27, 28, 28]
 ```
 
-2026-10-24 27 → 2026-11-26 28（+1）
+2026-10-25 27 → 2026-11-27 28（+1）
 
 
 ---

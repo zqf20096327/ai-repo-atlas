@@ -40,6 +40,18 @@
 > L7: Kaggle gives you two T4 GPUs, but a standard PyTorch training loop uses only one of them, and every session ends aft
 > L11: - **Both GPUs train at once.** In the article's test, this was 1.9× faster than a single T4.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YounesToukal/kaggle-multi-gpu-training-resume 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f8b9dc16cf27` · [字段定义](../../DATASET.md)*

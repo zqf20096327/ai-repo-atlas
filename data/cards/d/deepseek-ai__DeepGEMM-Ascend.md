@@ -1,10 +1,10 @@
 # deepseek-ai/DeepGEMM-Ascend
 
-⭐ 648 · C++ · MIT · 推送 2026-10-14 · [GitHub](https://github.com/deepseek-ai/DeepGEMM-Ascend) · 组织维护 · 中文 README
+⭐ 649 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/deepseek-ai/DeepGEMM-Ascend) · 组织维护 · 中文 README
 
-**华为昇腾 NPU 上的 DeepGEMM 矩阵乘 kernel 库移植**
+**昇腾 NPU 上的 GEMM 矩阵乘 kernel 库，兼容 DeepGEMM API**
 
-deepseek-ai 维护的 GEMM kernel 库，将 DeepGEMM 移植到华为昇腾平台，完全兼容其 API，支持 BF16、FP8、FP4 GEMM、MQA logits 与 MegaMoE 算子。对昇腾 MAD 原语做轻量抽象，隐藏分形布局与对齐约束等细节，采用稀疏数据加载、协程流水线等优化，配套 JIT 编译运行时。要求昇腾 NPU（Ascend 950 系列验证）、CANN 9.20 工具包、torch_npu 与 Python 3.10+，源码构建需 C++20 编译器。
+将 DeepGEMM 移植到华为昇腾平台的矩阵乘法 kernel 库，与上游 DeepGEMM 完全 API 兼容，支持 BF16/FP8/FP4 GEMM、混合精度 GEMM、MQA logits 与 MegaMoE 算子。对昇腾 MAD 原语做轻量抽象，隐藏分形布局、对齐约束等底层细节，采用稀疏数据加载、协程流水线等平台优化，并提供 JIT 编译缓存与调试环境变量。面向在昇腾 950 系列上部署 DeepSeek 系列模型推理与训练工作负载的开发者。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ deepseek-ai 维护的 GEMM kernel 库，将 DeepGEMM 移植到华为昇腾平台
 
 ## 能力要点
 
-- BF16/FP8/FP4 GEMM、MQA logits、MegaMoE 算子，API 兼容 DeepGEMM
-- 对昇腾 MAD 原语的轻量抽象，隐藏分形布局与对齐约束
-- JIT 编译运行时，含缓存目录、调试与确定性算法开关等环境变量
-- Dense GEMM 在 Ascend 950DT 上实测达硬件上限 99.8%
+- 与 DeepGEMM 完全 API 兼容，沿用相同包名与开发流程
+- 支持 BF16/FP8/FP4 及混合 FP8×FP4 GEMM、MQA logits、MegaMoE 融合算子
+- 提供 set_num_sms、确定性算法开关等运行时控制工具函数
+- JIT 编译缓存目录、调试与超时等环境变量配置
 
 ## 适用场景
 
-- 在昇腾 NPU 上运行 DeepSeek 系列模型的推理与训练算子
-- 昇腾平台极致性能优化的参考实现
-- 沿用 DeepGEMM API 将现有 GEMM 工作流迁移到昇腾硬件
+- 在昇腾 NPU 上为 DeepSeek 模型推理提供 GEMM 算子
+- MoE 专家分组的 grouped GEMM 计算
+- 参考其实现做昇腾平台极致性能优化
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+ · 领域:AI 基础设施/计算算子
 
 ## 证据(README 行号)
 
 > L3: DeepGEMM Ascend is a port of DeepGEMM to the HUAWEI Ascend platform. It is fully API-compatible with DeepGEMM and su
 > L5: DeepGEMM Ascend provides a lightweight abstraction over the Ascend MAD (matrix multiply-add) primitives, hiding much
+> L25: - CANN 9.3.0 toolkit providing `bin/bisheng`, `bin/ld.lld`, with `aclnnGemmSyrk` headers and library installed
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "deepseek-ai/DeepGEMM-Ascend 星数(近 22 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 607 --> 651
-    line [610, 611, 614, 617, 621, 622, 623, 624, 625, 611, 633, 638, 639, 638, 639, 640, 641, 642, 643, 644, 647, 648]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 608 --> 652
+    line [611, 614, 617, 621, 622, 623, 624, 625, 611, 633, 638, 639, 638, 639, 640, 641, 642, 643, 644, 647, 648, 649]
 ```
 
-2026-10-24 610 → 2026-11-26 648（+38）
+2026-10-25 611 → 2026-11-27 649（+38）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d4d248ac4946` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `13b3339072f2` · [字段定义](../../DATASET.md)*

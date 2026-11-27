@@ -1,6 +1,6 @@
 # dimagi/open-chat-studio
 
-⭐ 47 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/dimagi/open-chat-studio) · [官网](https://docs.openchatstudio.com) · 组织维护
+⭐ 47 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/dimagi/open-chat-studio) · [官网](https://docs.openchatstudio.com) · 组织维护
 
 **构建、部署与评估 LLM 聊天应用的 Web 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dimagi/open-chat-studio 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-25", "2026-11-27"]
     y-axis "stars" 46 --> 49
     line [47, 48, 47, 47]
 ```
 
-2026-10-24 47 → 2026-11-26 47（+0）
+2026-10-25 47 → 2026-11-27 47（+0）
 
 
 ---

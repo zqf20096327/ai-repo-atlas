@@ -49,12 +49,12 @@ pi-ollama 是 pi coding agent 的 TypeScript 扩展，直接对接 Ollama 原生
 ```mermaid
 xychart-beta
     title "CaptCanadaMan/pi-ollama 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-15", "2026-11-27"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 14]
 ```
 
-2026-10-24 12 → 2026-11-26 14（+2）
+2026-10-25 12 → 2026-11-27 14（+2）
 
 
 ---

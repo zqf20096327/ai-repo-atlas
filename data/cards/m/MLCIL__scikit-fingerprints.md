@@ -1,6 +1,6 @@
 # MLCIL/scikit-fingerprints
 
-⭐ 406 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MLCIL/scikit-fingerprints) · [官网](https://scikit-fingerprints.readthedocs.io/latest/) · 组织维护
+⭐ 407 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MLCIL/scikit-fingerprints) · [官网](https://scikit-fingerprints.readthedocs.io/latest/) · 组织维护
 
 **面向化学信息学开发者的 scikit-learn 兼容分子指纹计算库**
 
@@ -47,12 +47,12 @@ scikit-learn 兼容的 Python 库，用于计算分子指纹、分子过滤器�
 ```mermaid
 xychart-beta
     title "MLCIL/scikit-fingerprints 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 400 --> 407
-    line [401, 402, 401, 403, 404, 405, 404, 405, 406, 406]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 400 --> 408
+    line [401, 402, 401, 403, 404, 405, 404, 405, 406, 407]
 ```
 
-2026-10-24 401 → 2026-11-26 406（+5）
+2026-10-25 401 → 2026-11-27 407（+6）
 
 
 ---

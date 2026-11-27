@@ -1,6 +1,6 @@
 # nirholas/vid2context
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nirholas/vid2context) · [官网](https://vid2context.com) · 个人维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/nirholas/vid2context) · [官网](https://vid2context.com) · 个人维护
 
 **把视频转成带时间戳上下文的 MCP 服务器与 CLI，供 AI agent 引用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nirholas/vid2context 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-26"]
+    x-axis ["2026-11-15", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-26 3（+0）
+2026-11-15 3 → 2026-11-27 3（+0）
 
 
 ---

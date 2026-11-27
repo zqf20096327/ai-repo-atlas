@@ -1,6 +1,6 @@
 # AAYUSH412/Real-Estate-Website
 
-⭐ 143 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/AAYUSH412/Real-Estate-Website) · [官网](https://buildestate.vercel.app) · 个人维护
+⭐ 144 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/AAYUSH412/Real-Estate-Website) · [官网](https://buildestate.vercel.app) · 个人维护
 
 **面向印度市场的房产网站+管理面板，附带 AI 房源搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AAYUSH412/Real-Estate-Website 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 141 --> 144
-    line [142, 143, 142, 143, 143]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 141 --> 145
+    line [142, 143, 142, 143, 144]
 ```
 
-2026-11-08 142 → 2026-11-26 143（+1）
+2026-11-08 142 → 2026-11-27 144（+2）
 
 
 ---

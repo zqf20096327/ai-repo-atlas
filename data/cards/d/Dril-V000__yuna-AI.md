@@ -1,6 +1,6 @@
 # Dril-V000/yuna-AI
 
-⭐ 10 · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Dril-V000/yuna-AI) · [官网](https://yunaai.online/) · 个人维护
+⭐ 10 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Dril-V000/yuna-AI) · [官网](https://yunaai.online/) · 个人维护
 
 **Windows 桌面 AI 伴侣：语音对话、Live2D 形象与本地模型**
 
@@ -40,6 +40,18 @@
 > L3: A Windows desktop AI companion that brings voice conversations, expressive Live2D characters, and customizable perso
 > L18: - 🤖 **Your choice of AI** — connect a local model through Ollama or use a supported cloud provider.
 > L36: - **Local models (Ollama):** run a supported model on your own computer. Performance depends on your hardware and t
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dril-V000/yuna-AI 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

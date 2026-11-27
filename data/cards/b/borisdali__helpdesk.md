@@ -1,6 +1,6 @@
 # borisdali/helpdesk
 
-⭐ 12 · Go · 推送 2026-11-25 · [GitHub](https://github.com/borisdali/helpdesk) · [官网](https://aiHelpDesk.biz) · 个人维护
+⭐ 12 · Go · 推送 2026-11-26 · [GitHub](https://github.com/borisdali/helpdesk) · [官网](https://aiHelpDesk.biz) · 个人维护
 
 **数据库故障响应的治理型 AI Agent 系统，供 DBA/SRE 使用**
 
@@ -46,12 +46,12 @@ aiHelpDesk 是面向生产数据库故障响应与修复的问责层：诊断事
 ```mermaid
 xychart-beta
     title "borisdali/helpdesk 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-23", "2026-11-27"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

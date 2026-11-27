@@ -1,6 +1,6 @@
 # HakaiInstitute/habitat-mapper
 
-⭐ 25 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HakaiInstitute/habitat-mapper) · [官网](https://habitat-mapper.readthedocs.io) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/HakaiInstitute/habitat-mapper) · [官网](https://habitat-mapper.readthedocs.io) · 组织维护
 
 **遥感无人机影像的生境/海藻语义分割工具**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "HakaiInstitute/habitat-mapper 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-24 24 → 2026-11-26 25（+1）
+2026-10-25 24 → 2026-11-27 25（+1）
 
 
 ---

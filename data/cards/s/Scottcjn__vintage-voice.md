@@ -1,6 +1,6 @@
 # Scottcjn/vintage-voice
 
-⭐ 41 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/vintage-voice) · [官网](https://elyanlabs.ai) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/vintage-voice) · [官网](https://elyanlabs.ai) · 个人维护
 
 **复刻历史语音风格的开源 TTS 微调模型（跨大西洋腔等）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/vintage-voice 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 40 --> 44
-    line [43, 42, 41, 41]
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 39 --> 44
+    line [43, 42, 41, 40]
 ```
 
-2026-10-29 43 → 2026-11-26 41（-2）
+2026-10-29 43 → 2026-11-27 40（-3）
 
 
 ---

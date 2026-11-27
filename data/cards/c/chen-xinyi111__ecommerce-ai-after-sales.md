@@ -1,6 +1,6 @@
 # chen-xinyi111/ecommerce-ai-after-sales
 
-⭐ 7 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/chen-xinyi111/ecommerce-ai-after-sales) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给电商用户与客服的 AI 售后咨询审批工作台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

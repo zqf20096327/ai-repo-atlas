@@ -1,6 +1,6 @@
 # jolovicdev/bowerbird
 
-⭐ 16 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jolovicdev/bowerbird) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jolovicdev/bowerbird) · 个人维护
 
 **开源本地优先研究笔记应用：问答 PDF/网页/视频，引文逐句核验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jolovicdev/bowerbird 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-26"]
-    y-axis "stars" 2 --> 17
-    line [3, 12, 15, 16, 16]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-27"]
+    y-axis "stars" 2 --> 18
+    line [3, 12, 15, 16, 17]
 ```
 
-2026-11-02 3 → 2026-11-26 16（+13）
+2026-11-02 3 → 2026-11-27 17（+14）
 
 
 ---

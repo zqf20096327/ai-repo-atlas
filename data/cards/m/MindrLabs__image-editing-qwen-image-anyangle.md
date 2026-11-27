@@ -1,6 +1,6 @@
 # MindrLabs/image-editing-qwen-image-anyangle
 
-⭐ 12 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MindrLabs/image-editing-qwen-image-anyangle) · 组织维护
+⭐ 13 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MindrLabs/image-editing-qwen-image-anyangle) · 组织维护
 
 **用 Qwen-Image 加 AnyAngle LoRA 按三维导向图改变照片视角的服务**
 
@@ -40,6 +40,18 @@
 > L5: This service changes the camera angle of a photo with Qwen-Image-2.1-Turbo and the AnyAngle LoRA. It takes the sourc
 > L7: Entering width, height, and seed in the gradio interface, uploading a source photo and a 60° guide, and getting the 
 > L40: The API is at http://localhost:8096/api and the Gradio UI at http://localhost:8097. It takes two images, a source p
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MindrLabs/image-editing-qwen-image-anyangle 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
+```
+
+2026-11-26 12 → 2026-11-27 13（+1）
 
 
 ---

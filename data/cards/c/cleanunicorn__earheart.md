@@ -1,6 +1,6 @@
 # cleanunicorn/earheart
 
-⭐ 34 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/cleanunicorn/earheart) · [官网](https://github.com/cleanunicorn/earheart/releases/latest) · 个人维护
+⭐ 34 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/cleanunicorn/earheart) · [官网](https://github.com/cleanunicorn/earheart/releases/latest) · 个人维护
 
 **本地离线语音听写工具：一键热键把语音转文字贴进编码代理**
 
@@ -45,12 +45,12 @@ Electron 桌面听写应用：按全局热键说话，语音在设备端经 NVID
 ```mermaid
 xychart-beta
     title "cleanunicorn/earheart 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 32 --> 36
     line [33, 34, 35, 33, 34, 34]
 ```
 
-2026-10-24 33 → 2026-11-26 34（+1）
+2026-10-25 33 → 2026-11-27 34（+1）
 
 
 ---

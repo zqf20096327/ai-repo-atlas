@@ -1,6 +1,6 @@
 # jjjane233/workbuddy-3in1
 
-⭐ 7 · Go · MIT · 推送 2026-10-11 · [GitHub](https://github.com/jjjane233/workbuddy-3in1) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **把 CodeBuddy/Trae/ZCode 三种账号收敛为一套 OpenAI 兼容 API 的自托管网关**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

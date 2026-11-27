@@ -1,6 +1,6 @@
 # huggingface/aisheets
 
-⭐ 1,656 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/aisheets) · [官网](https://huggingface.co/spaces/aisheets/sheets) · 组织维护
+⭐ 1,657 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/aisheets) · [官网](https://huggingface.co/spaces/aisheets/sheets) · 组织维护
 
 **无代码构建与增广数据集的 AI 电子表格工具**
 
@@ -45,12 +45,12 @@ Hugging Face 开源的电子表格式工具，用 AI 模型构建、增广和变
 ```mermaid
 xychart-beta
     title "huggingface/aisheets 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1651 --> 1658
-    line [1653, 1652, 1653, 1652, 1653, 1654, 1655, 1656, 1657, 1656]
+    line [1652, 1653, 1652, 1653, 1654, 1655, 1656, 1657, 1656, 1657]
 ```
 
-2026-10-24 1,653 → 2026-11-26 1,656（+3）
+2026-10-25 1,652 → 2026-11-27 1,657（+5）
 
 
 ---

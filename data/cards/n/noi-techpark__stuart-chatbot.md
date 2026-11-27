@@ -45,12 +45,12 @@ NOI Techpark 开发的 RAG 问答系统，在内部部署时读取 Open Data Hub
 ```mermaid
 xychart-beta
     title "noi-techpark/stuart-chatbot 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 14（+0）
 
 
 ---

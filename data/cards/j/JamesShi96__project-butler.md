@@ -1,6 +1,6 @@
 # JamesShi96/project-butler
 
-⭐ 377 · Shell · MIT · 推送 2026-07-29 · [GitHub](https://github.com/JamesShi96/project-butler) · 个人维护 · 中文 README
+⭐ 378 · Shell · MIT · 推送 2026-07-29 · [GitHub](https://github.com/JamesShi96/project-butler) · 个人维护 · 中文 README
 
 **为 AI 编码助手提供跨会话项目记忆的 Claude Code 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JamesShi96/project-butler 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 373 --> 378
-    line [374, 375, 376, 377, 377]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 373 --> 379
+    line [374, 375, 376, 377, 378]
 ```
 
-2026-10-24 374 → 2026-11-26 377（+3）
+2026-10-25 374 → 2026-11-27 378（+4）
 
 
 ---

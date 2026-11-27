@@ -40,6 +40,18 @@
 > L2: Cross-platform tool for labeling image data.
 > L6: - Supports a wide range of marker types:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "urobots-io/anno 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-26 14 → 2026-11-27 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `2b6fd0cad4b1` · [字段定义](../../DATASET.md)*

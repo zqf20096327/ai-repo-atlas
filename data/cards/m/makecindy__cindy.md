@@ -1,10 +1,10 @@
 # makecindy/cindy
 
-⭐ 10,631 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/makecindy/cindy) · [官网](https://cindy.app) · 组织维护 · 中文 README
+⭐ 10,696 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/makecindy/cindy) · [官网](https://cindy.app) · 组织维护 · 中文 README
 
-**开源开箱即用的 AI Agent 客户端，跨设备统一管理 agent**
+**跨设备统一管理多 Agent 与模型的开源桌面/移动客户端**
 
-Cindy 是一个开源 AI Agent 客户端，包含 Electron 桌面端与 React Native 移动端，以 pnpm monorepo 组织。它将 Claude Code、Codex 与 Pi 三种 agent harness 集成到统一界面下，提供多设备会话延续、跨设备模型提供方共享、手机端远程桌面控制、automations 定时任务、Skills/插件/MCP 扩展与多 agent 协作编排。客户端本身免费并采用 Apache-2.0 许可，默认连接官方云服务，也支持免登录本地模式；官方分发构建含 TapDB 统计，可在设置中关闭。
+开源的桌面与移动客户端（Electron + Expo/React Native，pnpm monorepo），把用户已有的电脑与手机连接为一个工作区：会话与文件可跨设备延续，可共享另一台机器上配置的模型订阅/API/本地模型，手机端内置远程桌面操作电脑。统一接入 Claude Code、Codex 与 Pi 三种 harness，提供多 Agent 协作、自动化例行任务、Slack/Telegram 通道、Skills/插件/MCP 扩展与记忆。客户端 Apache-2.0 免费，模型用量按各 provider 计费；默认连接官方云服务，Skip Sign-In 模式仅本地 Agent。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@ Cindy 是一个开源 AI Agent 客户端，包含 Electron 桌面端与 React Na
 
 ## 能力要点
 
-- 集成 Claude Code、Codex、Pi 三种 agent harness，可切换并保留会话
-- 多设备同一会话延续，跨设备共享模型提供方（订阅/API/本地模型）
-- 手机端内置远程桌面可操作连接的电脑，无需自建服务器
-- 支持 Skills、插件、MCP 扩展与多 agent 分工协作
+- 统一接入 Claude Code / Codex / Pi 三种 agent harness，可切换并保留会话
+- 跨设备延续会话与文件，共享其他设备上配置的模型与订阅
+- 手机端内置远程桌面，直接操作已连接电脑
+- 支持 automations、Slack/Telegram 通道与 Skills/plugins/MCP 扩展
 
 ## 适用场景
 
-- 在多台电脑与手机之间延续同一个 agent 会话
-- 把已有的 Claude Code/Codex 订阅接入统一客户端界面
-- 让多个 agent 分别负责规划、实现与独立评审
-- 通过 Slack/Telegram 通道或定时任务交接日常工作
+- 在手机上远程查看并继续电脑上正在进行的 Agent 任务
+- 把已有的 Claude Code / Codex 订阅接入统一客户端
+- 让多个 Agent 分工做规划、并行实现与独立审查
+- 把重复工作流固化为自动化或可分享的 Skill
 
 ## 场景标签
 
-`编码 Agent` `多智能体` `AI 助手` · 领域:Agent 开发
+`多智能体` `编码 Agent` `AI 助手` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L12: Cindy is an **open-source AI agent, ready out of the box and yours to shape**.
 > L41: Already using Claude Code or Codex? Cindy brings them together with **Pi**,
-> L109: This repository contains Cindy's open-source **desktop and mobile clients** and
+> L127: This repository contains Cindy's open-source **desktop and mobile clients** and
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "makecindy/cindy 星数(近 27 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 2677 --> 11354
-    line [3400, 3920, 4676, 6270, 7357, 7977, 8548, 8704, 8818, 8903, 3920, 9519, 9735, 9831, 9953, 10058, 10119, 10168, 10224, 10258, 10286, 10302, 10331, 10361, 10408, 10494, 10631]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3243 --> 11373
+    line [3920, 4676, 6270, 7357, 7977, 8548, 8704, 8818, 8903, 3920, 9519, 9735, 9831, 9953, 10058, 10119, 10168, 10224, 10258, 10286, 10302, 10331, 10361, 10408, 10494, 10631, 10696]
 ```
 
-2026-10-24 3,400 → 2026-11-26 10,631（+7,231）
+2026-10-25 3,920 → 2026-11-27 10,696（+6,776）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `469edabc4a47` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `873284749ee2` · [字段定义](../../DATASET.md)*

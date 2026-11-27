@@ -1,6 +1,6 @@
 # lingfish/ollama-deb
 
-⭐ 22 · HTML · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/lingfish/ollama-deb) · 个人维护
+⭐ 22 · HTML · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lingfish/ollama-deb) · 个人维护
 
 **为 ollama 构建 Debian 软件包的 APT 仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lingfish/ollama-deb 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 20 --> 23
     line [21, 22, 21, 22, 22]
 ```
 
-2026-10-24 21 → 2026-11-26 22（+1）
+2026-10-25 21 → 2026-11-27 22（+1）
 
 
 ---

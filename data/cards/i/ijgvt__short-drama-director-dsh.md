@@ -41,6 +41,18 @@
 > L5: 短剧制作导演是一个 **DeepSeek Harness / DSH Desktop 插件**，不是 DeepSeek 网页版功能，也不是通用 Agent 插件。它通过 Agent 调用本机或云端 ComfyUI，并在插件内提供资产
 > L7: 它适合不想从零搭 ComfyUI 工作流的单人创作者，也适合需要交接项目、复用资产和逐步返工的小团队。默认目标是让用户判断内容，插件负责资产绑定、工作流选择、任务提交、结果回收和归档。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ijgvt/short-drama-director-dsh 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9edd58fe5d86` · [字段定义](../../DATASET.md)*

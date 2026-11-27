@@ -44,12 +44,12 @@ yaak 维护的 Python 库，实现基于 TensorClass 样本的 PyTorch Dataset�
 ```mermaid
 xychart-beta
     title "yaak-ai/rbyte 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-24 42 → 2026-11-26 42（+0）
+2026-10-25 42 → 2026-11-27 42（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yaoleifly/monk-pi
 
-⭐ 11 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/yaoleifly/monk-pi) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/yaoleifly/monk-pi) · 个人维护 · 中文 README
 
 **零配置接入 Monk API 运行 Pi 终端编码代理的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yaoleifly/monk-pi 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

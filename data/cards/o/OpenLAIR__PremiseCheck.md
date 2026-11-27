@@ -46,12 +46,12 @@ PremiseCheck 是一个对同行评审意见（人类或 AI 生成）进行事实
 ```mermaid
 xychart-beta
     title "OpenLAIR/PremiseCheck 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-24 6 → 2026-11-26 6（+0）
+2026-10-25 6 → 2026-11-27 6（+0）
 
 
 ---

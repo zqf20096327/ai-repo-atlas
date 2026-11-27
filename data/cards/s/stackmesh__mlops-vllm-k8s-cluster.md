@@ -41,6 +41,18 @@
 > L7: **Stack:** Kubernetes, vLLM, Triton Inference Server, MLflow, Airflow, PyTorch, Qdrant.
 > L116: This is a local reference platform. CI plans and renders; it does not boot a GPU, NCCL, or Triton. The memory math
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "stackmesh/mlops-vllm-k8s-cluster 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4abb341c2fbe` · [字段定义](../../DATASET.md)*

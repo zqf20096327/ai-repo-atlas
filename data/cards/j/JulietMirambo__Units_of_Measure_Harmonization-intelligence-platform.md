@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JulietMirambo/Units_of_Measure_Harmonization-intelligence-platform 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 730 --> 733
     line [731, 732, 732]
 ```
 
-2026-10-24 731 → 2026-11-26 732（+1）
+2026-10-25 731 → 2026-11-27 732（+1）
 
 
 ---

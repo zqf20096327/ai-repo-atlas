@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LaRazaDelSol/AIEngineOnSmallUniMem 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-26"]
+    title "LaRazaDelSol/AIEngineOnSmallUniMem 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 10 --> 16
-    line [11, 13, 14, 15]
+    line [11, 13, 14, 15, 15]
 ```
 
-2026-11-18 11 → 2026-11-26 15（+4）
+2026-11-18 11 → 2026-11-27 15（+4）
 
 
 ---

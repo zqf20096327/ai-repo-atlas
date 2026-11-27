@@ -1,6 +1,6 @@
 # hirotomasato/omnirushapi
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hirotomasato/omnirushapi) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/hirotomasato/omnirushapi) · 个人维护
 
 **自托管 LLM 网关：多上游账号聚合为单一端点，轮询故障转移**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hirotomasato/omnirushapi 星数(近 6 点)"
-    x-axis ["2026-10-28", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-28", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-20", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4, 3, 3]
+    line [3, 4, 3, 4, 3, 4]
 ```
 
-2026-10-28 3 → 2026-11-26 3（+0）
+2026-10-28 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # longph3105/mon
 
-⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/longph3105/mon) · [官网](https://phlong3105.github.io/mon/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/longph3105/mon) · [官网](https://phlong3105.github.io/mon/) · 个人维护
 
 **计算机视觉研究 Monorepo：Python+PyTorch 多项目集合**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "longph3105/mon 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

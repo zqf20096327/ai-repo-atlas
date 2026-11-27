@@ -1,6 +1,6 @@
 # krispachi/aria
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/krispachi/aria) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **VS Code 内联审查扩展：逐条接受/拒绝终端 CLI 编码 agent 的文件改动**
 
@@ -11,7 +11,7 @@ ARIA 是运行在 VS Code 中的审查层：终端编码 agent（OpenCode、Clau
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

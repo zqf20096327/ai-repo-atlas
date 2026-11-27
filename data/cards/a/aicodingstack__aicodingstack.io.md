@@ -45,12 +45,12 @@ AI Coding Stack 是一个收录 AI 编程工具、模型与平台的目录网站
 ```mermaid
 xychart-beta
     title "aicodingstack/aicodingstack.io 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-24 31 → 2026-11-26 31（+0）
+2026-10-25 31 → 2026-11-27 31（+0）
 
 
 ---

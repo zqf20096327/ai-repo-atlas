@@ -1,6 +1,6 @@
 # Scottcjn/llama-cpp-power8
 
-⭐ 126 · C · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Scottcjn/llama-cpp-power8) · [官网](https://rustchain.org) · 个人维护
+⭐ 125 · C · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Scottcjn/llama-cpp-power8) · [官网](https://rustchain.org) · 个人维护
 
 **llama.cpp 的 IBM POWER8 优化补丁集：向量与缓存级提速推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/llama-cpp-power8 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 125 --> 131
-    line [130, 128, 126, 126]
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 124 --> 131
+    line [130, 128, 126, 125]
 ```
 
-2026-10-29 130 → 2026-11-26 126（-4）
+2026-10-29 130 → 2026-11-27 125（-5）
 
 
 ---

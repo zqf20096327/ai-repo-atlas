@@ -1,6 +1,6 @@
 # Lykhoyda/ask-llm
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Lykhoyda/ask-llm) · [官网](https://lykhoyda.github.io/ask-llm/) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Lykhoyda/ask-llm) · [官网](https://lykhoyda.github.io/ask-llm/) · 个人维护
 
 **MCP 服务器：让编码助手内咨询其他厂商模型做代码评审**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Lykhoyda/ask-llm 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
+    title "Lykhoyda/ask-llm 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 17 --> 22
-    line [18, 19, 18, 19, 20, 21, 20]
+    line [18, 19, 18, 19, 20, 21, 20, 20]
 ```
 
-2026-10-24 18 → 2026-11-26 20（+2）
+2026-10-25 18 → 2026-11-27 20（+2）
 
 
 ---

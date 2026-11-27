@@ -1,6 +1,6 @@
 # geek-fun/sqlkit
 
-⭐ 308 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/geek-fun/sqlkit) · [官网](https://www.geekfun.club/products/sqlkit/) · 组织维护 · 中文 README
+⭐ 309 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/geek-fun/sqlkit) · [官网](https://www.geekfun.club/products/sqlkit/) · 组织维护 · 中文 README
 
 **面向开发者的 70+ 数据库 AI 桌面 SQL 客户端与 GUI**
 
@@ -40,6 +40,18 @@
 > L26: SqlKit is an **agentic database client** — it doesn't just execute SQL, it understands your databases and acts on y
 > L127: Describe what you need in natural language — the agent reads your schema, writes queries, optimizes slow SQL, expl
 > L243: Advanced capabilities — AI agent (bring your own LLM), MCP server, ER diagrams, bulk import/export and cross-engin
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "geek-fun/sqlkit 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 307 --> 310
+    line [308, 309]
+```
+
+2026-11-26 308 → 2026-11-27 309（+1）
 
 
 ---

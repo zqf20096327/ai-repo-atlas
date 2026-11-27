@@ -1,6 +1,6 @@
 # xuiltul/animaworks
 
-⭐ 268 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/xuiltul/animaworks) · 组织维护 · 中文 README
+⭐ 268 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/xuiltul/animaworks) · 组织维护 · 中文 README
 
 **让 AI agent 组成 24/7 自主协作组织的框架**
 
@@ -46,12 +46,12 @@ AnimaWorks 是一个开源框架，将持久化 AI agent（Digital Animas）组�
 ```mermaid
 xychart-beta
     title "xuiltul/animaworks 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-14", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-14", "2026-11-20", "2026-11-27"]
     y-axis "stars" 267 --> 270
     line [268, 269, 268, 269, 268, 268]
 ```
 
-2026-10-24 268 → 2026-11-26 268（+0）
+2026-10-25 268 → 2026-11-27 268（+0）
 
 
 ---

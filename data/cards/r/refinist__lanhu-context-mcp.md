@@ -1,6 +1,6 @@
 # refinist/lanhu-context-mcp
 
-⭐ 51 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/refinist/lanhu-context-mcp) · [官网](https://lanhu.refineup.com) · 组织维护 · 中文 README
+⭐ 53 · TypeScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/refinist/lanhu-context-mcp) · [官网](https://lanhu.refineup.com) · 组织维护 · 中文 README
 
 **把蓝湖设计稿转成 AI 生成代码所需上下文的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "refinist/lanhu-context-mcp 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 46 --> 52
-    line [47, 48, 47, 49, 50, 51]
+    title "refinist/lanhu-context-mcp 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 46 --> 54
+    line [47, 48, 47, 49, 50, 51, 53]
 ```
 
-2026-10-24 47 → 2026-11-26 51（+4）
+2026-10-25 47 → 2026-11-27 53（+6）
 
 
 ---

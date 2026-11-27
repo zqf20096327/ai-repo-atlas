@@ -1,6 +1,6 @@
 # HemashreeVI/token-meter
 
-⭐ 3 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/HemashreeVI/token-meter) · [官网](https://hemashreevi.github.io/token-meter/) · 个人维护
+⭐ 3 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HemashreeVI/token-meter) · [官网](https://hemashreevi.github.io/token-meter/) · 个人维护
 
 **浏览器端 token 计数工具：查看消息用量与上下文余量**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HemashreeVI/token-meter 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-26 3（+0）
+2026-11-08 3 → 2026-11-27 3（+0）
 
 
 ---

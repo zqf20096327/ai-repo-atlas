@@ -1,6 +1,6 @@
 # wonseokjung/connect-ai-xr
 
-⭐ 6 · HTML · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wonseokjung/connect-ai-xr) · [官网](https://www.aicitybuilders.com/yahak/xr/) · 个人维护
+⭐ 7 · HTML · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wonseokjung/connect-ai-xr) · [官网](https://www.aicitybuilders.com/yahak/xr/) · 个人维护
 
 **给编码 agent 安装技能，一句话生成可跑在 Meta Quest 上的 WebXR 应用**
 
@@ -41,6 +41,18 @@ CONNECT AI LAB 出品的一个 agent 技能包，通过 npx 安装到 Claude Cod
 > L8: **Say one sentence to your coding agent. Get an XR app that opens on Meta Quest, and in 3D on any computer or phone.
 > L11: npx github:wonseokjung/connect-ai-xr install-skill
 > L14: Paste that line into Claude Code, Codex, Antigravity or Cursor and ask it to install. Then say: "Make me an XR app 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wonseokjung/connect-ai-xr 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-26 6 → 2026-11-27 7（+1）
 
 
 ---

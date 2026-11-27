@@ -1,6 +1,6 @@
 # langfuse/langfuse-js
 
-⭐ 180 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
+⭐ 180 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
 
 **面向 JS/TS 开发者的 Langfuse LLM 可观测性 SDK**
 
@@ -45,13 +45,13 @@ Langfuse JS/TS 客户端库的单仓多包仓库，v5 起重写并基于 OpenTel
 
 ```mermaid
 xychart-beta
-    title "langfuse/langfuse-js 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-26"]
+    title "langfuse/langfuse-js 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-27"]
     y-axis "stars" 172 --> 181
-    line [174, 173, 174, 175, 173, 178, 179, 180, 180]
+    line [173, 174, 175, 173, 178, 179, 180, 180]
 ```
 
-2026-10-24 174 → 2026-11-26 180（+6）
+2026-10-25 173 → 2026-11-27 180（+7）
 
 
 ---

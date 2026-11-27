@@ -46,12 +46,12 @@ aws-samples 维护的代码样例仓库，收录三类内容：Blueprints（含 
 ```mermaid
 xychart-beta
     title "aws-samples/generative-ai-ml-latam-samples 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-24 64 → 2026-11-26 64（+0）
+2026-10-25 64 → 2026-11-27 64（+0）
 
 
 ---

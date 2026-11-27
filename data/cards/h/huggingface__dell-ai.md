@@ -1,6 +1,6 @@
 # huggingface/dell-ai
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/huggingface/dell-ai) · [官网](https://dell.huggingface.co/) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/huggingface/dell-ai) · [官网](https://dell.huggingface.co/) · 组织维护
 
 **Dell Enterprise Hub 的 Python SDK 与 CLI：浏览、部署和管理 Dell 硬件上的 AI 模型**
 
@@ -45,12 +45,12 @@ Hugging Face 维护的 Dell Enterprise Hub（DEH）官方 Python SDK 与 CLI：�
 ```mermaid
 xychart-beta
     title "huggingface/dell-ai 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 15（+1）
 
 
 ---

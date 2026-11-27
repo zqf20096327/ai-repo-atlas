@@ -40,6 +40,18 @@
 > L3: A ComfyUI custom node pack. It lets Fuobe, an open creative studio, use the ComfyUI on your own
 > L62: - queue a workflow that passes Fuobe Connect's checks. Fuobe Connect checks every workflow here, in Python, before
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "workingprototype/ComfyUI-Fuobe-Connect 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ca5f5e1343a1` · [字段定义](../../DATASET.md)*

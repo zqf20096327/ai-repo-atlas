@@ -45,12 +45,12 @@ VEM（Value Environment Model）研究框架：通过离线数据预训练价值
 ```mermaid
 xychart-beta
     title "microsoft/GUI-Agent-RL 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-23 44 → 2026-11-26 44（+0）
+2026-10-24 44 → 2026-11-27 44（+0）
 
 
 ---

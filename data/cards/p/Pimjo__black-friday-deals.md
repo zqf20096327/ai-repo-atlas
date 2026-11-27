@@ -1,6 +1,6 @@
 # Pimjo/black-friday-deals
 
-⭐ 73 · 推送 2026-11-25 · [GitHub](https://github.com/Pimjo/black-friday-deals) · [官网](https://pimjo.com/black-friday-cyber-monday-deal) · 个人维护
+⭐ 77 · 推送 2026-11-26 · [GitHub](https://github.com/Pimjo/black-friday-deals) · [官网](https://pimjo.com/black-friday-cyber-monday-deal) · 个人维护
 
 **面向开发者与设计师的黑五促销清单：161+ 条工具折扣**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pimjo/black-friday-deals 星数(近 11 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 47 --> 75
-    line [49, 51, 53, 55, 56, 60, 63, 64, 63, 64, 73]
+    title "Pimjo/black-friday-deals 星数(近 12 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 47 --> 79
+    line [49, 51, 53, 55, 56, 60, 63, 64, 63, 64, 73, 77]
 ```
 
-2026-11-10 49 → 2026-11-26 73（+24）
+2026-11-10 49 → 2026-11-27 77（+28）
 
 
 ---

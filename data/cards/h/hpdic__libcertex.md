@@ -42,6 +42,18 @@
 > L20: it is a drop-in for cuVS (C++, C, and Python), Faiss, `torch.topk`, and the sparse-attention top-k of FlashInfer.
 > L26: pip install certex            # Linux, Python >= 3.11, CUDA 12, an NVIDIA GPU of compute capability >= 8.0
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hpdic/libcertex 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `06a2dd0bd8c6` · [字段定义](../../DATASET.md)*

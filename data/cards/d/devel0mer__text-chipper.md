@@ -42,6 +42,18 @@
 > L15: - **Token-exact budget (`token_count <= max_length` guaranteed).** In the default strict mode, every chunk is re-to
 > L25: Install from PyPI (pre-built `abi3` wheels for Python ≥ 3.9 include the Rust core and Hugging Face `tokenizers` sup
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "devel0mer/text-chipper 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1cdb83861e77` · [字段定义](../../DATASET.md)*

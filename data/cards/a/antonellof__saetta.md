@@ -1,6 +1,6 @@
 # antonellof/saetta
 
-⭐ 17 · C · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/antonellof/saetta) · [官网](https://saetta.dev) · 个人维护
+⭐ 20 · C · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/antonellof/saetta) · [官网](https://saetta.dev) · 个人维护
 
 **Mac 本地编码 agent 运行时：单二进制内置推理引擎跑开源编码模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "antonellof/saetta 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 11 --> 18
-    line [12, 17]
+    title "antonellof/saetta 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 21
+    line [12, 17, 20]
 ```
 
-2026-11-25 12 → 2026-11-26 17（+5）
+2026-11-25 12 → 2026-11-27 20（+8）
 
 
 ---

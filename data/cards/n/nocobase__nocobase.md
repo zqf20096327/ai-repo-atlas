@@ -1,6 +1,6 @@
 # nocobase/nocobase
 
-⭐ 25,007 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/nocobase/nocobase) · [官网](https://www.nocobase.com) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **AI 代理参与构建业务系统的开源无代码平台**
 
@@ -11,7 +11,7 @@ NocoBase 是一个用于构建、运行和演进业务系统的开源无代码�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

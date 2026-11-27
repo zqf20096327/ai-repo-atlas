@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "franzmoca/hy4-gufo-extension 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-26"]
+    title "franzmoca/hy4-gufo-extension 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 7
-    line [3, 5, 6]
+    line [3, 5, 6, 6]
 ```
 
-2026-11-22 3 → 2026-11-26 6（+3）
+2026-11-22 3 → 2026-11-27 6（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # NguyenTriBaoThang/SafeHome3DAI
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NguyenTriBaoThang/SafeHome3DAI) · [官网](https://nguyentribaothang.github.io/SafeHome3DAI/) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NguyenTriBaoThang/SafeHome3DAI) · [官网](https://nguyentribaothang.github.io/SafeHome3DAI/) · 个人维护
 
 **面向老年人居家跌倒风险评估的 AI 视觉与 3D 数字孪生平台**
 
@@ -41,6 +41,18 @@ Next.js 15 + Three.js 构建的 Web 应用，将居家跌倒风险管理组织�
 > L69: 2. **Thị giác máy tính đa tầng**: Quét không gian toàn cảnh phòng (`/ai-vision`) và **Hỗ trợ đánh giá yếu tố nguy c
 > L71: 4. **Động cơ luật hỗ trợ đánh giá yếu tố môi trường (Deterministic Rules)** tham chiếu WHO 2021 & CDC STEADI. Kết q
 > L146: - **Xử lý ảnh gia đình & Camera thiết bị (`LiveCameraCaptureModal`):** Hỗ trợ cả tải ảnh thực tế (`JPG`, `PNG`, `W
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NguyenTriBaoThang/SafeHome3DAI 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

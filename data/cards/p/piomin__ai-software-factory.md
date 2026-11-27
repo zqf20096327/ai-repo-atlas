@@ -1,6 +1,6 @@
 # piomin/ai-software-factory
 
-⭐ 211 · Dockerfile · 推送 2026-11-24 · [GitHub](https://github.com/piomin/ai-software-factory) · 个人维护
+⭐ 221 · Dockerfile · 推送 2026-11-24 · [GitHub](https://github.com/piomin/ai-software-factory) · 个人维护
 
 **在 Kubernetes/OpenShift 上将 GitHub issue 自动转为 PR 的自托管工厂**
 
@@ -41,6 +41,18 @@
 > L3: A self-hosted "software factory" that turns GitHub issues and comments into pull requests.
 > L40: |**vLLM**|High-throughput inference with continuous batching, so parallel agents share one GPU deployment. It serve
 > L42: |**OpenCode**|Open-source coding agent that works with any OpenAI-compatible endpoint, so it does not tie the facto
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "piomin/ai-software-factory 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 210 --> 222
+    line [211, 221]
+```
+
+2026-11-26 211 → 2026-11-27 221（+10）
 
 
 ---

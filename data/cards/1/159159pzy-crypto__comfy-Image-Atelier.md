@@ -1,6 +1,6 @@
 # 159159pzy-crypto/comfy-Image-Atelier
 
-⭐ 6 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/159159pzy-crypto/comfy-Image-Atelier) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/159159pzy-crypto/comfy-Image-Atelier) · 个人维护 · 中文 README
 
 **基于 ComfyUI 的本地 AI 生图工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "159159pzy-crypto/comfy-Image-Atelier 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-27"]
     y-axis "stars" 2 --> 7
     line [3, 4, 5, 6, 6]
 ```
 
-2026-10-31 3 → 2026-11-26 6（+3）
+2026-10-31 3 → 2026-11-27 6（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # steipete/camsnap
 
-⭐ 150 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/steipete/camsnap) · [官网](https://camsnap.ai) · 个人维护
+⭐ 151 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/steipete/camsnap) · [官网](https://camsnap.ai) · 个人维护
 
 **给开发者的摄像头命令行工具：抓拍、录像与场景变化触发动作**
 
@@ -45,12 +45,12 @@ camsnap 是一个 Go 编写的命令行工具，面向需要从 RTSP/RTSPS 网�
 ```mermaid
 xychart-beta
     title "steipete/camsnap 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-14", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 145 --> 151
-    line [146, 148, 149, 150, 150]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-14", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 145 --> 152
+    line [146, 148, 149, 150, 151]
 ```
 
-2026-10-24 146 → 2026-11-26 150（+4）
+2026-10-25 146 → 2026-11-27 151（+5）
 
 
 ---

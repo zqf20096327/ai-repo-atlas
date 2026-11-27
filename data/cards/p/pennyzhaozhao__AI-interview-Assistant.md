@@ -1,6 +1,6 @@
 # pennyzhaozhao/AI-interview-Assistant
 
-⭐ 18 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pennyzhaozhao/AI-interview-Assistant) · [官网](https://pennyzhaozhao.github.io/AI-interview-Assistant/) · 个人维护 · 中文 README
+⭐ 19 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pennyzhaozhao/AI-interview-Assistant) · [官网](https://pennyzhaozhao.github.io/AI-interview-Assistant/) · 个人维护 · 中文 README
 
 **给求职者的桌面端 AI 面试准备与实时辅助工具**
 
@@ -46,13 +46,13 @@ macOS（SwiftUI）与 Windows（WPF/.NET 10）双端桌面应用，功能覆盖�
 
 ```mermaid
 xychart-beta
-    title "pennyzhaozhao/AI-interview-Assistant 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 14 --> 19
-    line [15, 18]
+    title "pennyzhaozhao/AI-interview-Assistant 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 14 --> 20
+    line [15, 18, 19]
 ```
 
-2026-11-25 15 → 2026-11-26 18（+3）
+2026-11-25 15 → 2026-11-27 19（+4）
 
 
 ---

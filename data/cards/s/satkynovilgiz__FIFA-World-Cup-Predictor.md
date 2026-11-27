@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "satkynovilgiz/FIFA-World-Cup-Predictor 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
+    title "satkynovilgiz/FIFA-World-Cup-Predictor 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18]
+    line [15, 16, 17, 18, 18]
 ```
 
-2026-11-16 15 → 2026-11-26 18（+3）
+2026-11-16 15 → 2026-11-27 18（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # HarnessMD/munder-difflin
 
-⭐ 9,764 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HarnessMD/munder-difflin) · [官网](https://munderdiffl.in) · 组织维护
+⭐ 9,942 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/HarnessMD/munder-difflin) · [官网](https://munderdiffl.in) · 组织维护
 
 **桌面应用：在自有订阅的 CLI 上编排一支 AI agent 办公室团队**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HarnessMD/munder-difflin 星数(近 6 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9623 --> 9776
-    line [9635, 9661, 9682, 9695, 9703, 9764]
+    title "HarnessMD/munder-difflin 星数(近 7 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 9605 --> 9972
+    line [9635, 9661, 9682, 9695, 9703, 9764, 9942]
 ```
 
-2026-11-20 9,635 → 2026-11-26 9,764（+129）
+2026-11-20 9,635 → 2026-11-27 9,942（+307）
 
 
 ---

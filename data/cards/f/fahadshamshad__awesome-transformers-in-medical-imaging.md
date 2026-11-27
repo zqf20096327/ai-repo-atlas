@@ -1,10 +1,10 @@
 # fahadshamshad/awesome-transformers-in-medical-imaging
 
-⭐ 1,299 · 推送 2026-06-21 · [GitHub](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) · 组织维护
+⭐ 1,299 · 推送 2026-11-26 · [GitHub](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging) · 组织维护
 
-**医学影像 Transformer 论文与代码实现策展清单**
+**医学影像 Transformer 论文策展清单：按任务分类供检索**
 
-配合作者发表于 Medical Image Analysis 期刊的综述论文 Transformers in Medical Imaging: A Survey 维护的 awesome 清单：按综述、分割等类别，以时间顺序收录 Transformers 在医学影像应用的论文条目及 PDF 链接，部分条目附开源实现仓库链接，覆盖 2021-2023 年的脑肿瘤分割、皮肤病变、病理图像等方向。欢迎研究者通过 PR 补充新论文。仓库本身为纯文献列表，不含可安装代码。
+配套发表于 Medical Image Analysis 的综述《Transformers in Medical Imaging: A Survey》的论文清单，按 Survey、Segmentation 等类别以时间顺序收录论文条目，每条附作者、日期与 PDF/GitHub 链接，声明定期更新并接受社区 pull request 补充最新论文与开源实现。面向医学影像方向的研究者做文献检索与调研使用。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按时间顺序收录医学影像 Transformer 论文条目
-- 条目附 PDF 链接，部分附开源实现仓库
-- 由期刊综述论文作者维护并配套更新
+- 按任务类别组织、时间顺序排列的论文条目
+- 多数条目附 PDF 链接，部分附开源实现 GitHub 链接
+- 配套期刊综述论文
+- 接受研究者通过 PR 更新论文信息
 
 ## 适用场景
 
-- 查找医学影像分割方向的 Transformer 论文及代码
-- 跟进 Transformers 在医学影像的应用研究进展
-- 为综述写作收集文献线索
+- 调研 Transformer 在医学影像各任务中的应用进展
+- 按分割/分类等类别检索相关论文与开源代码
+- 综述写作时收集参考文献线索
 
 ## 场景标签
 
@@ -44,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "fahadshamshad/awesome-transformers-in-medical-imaging 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
     y-axis "stars" 1296 --> 1300
     line [1297, 1298, 1297, 1298, 1299, 1299]
 ```
 
-2026-10-24 1,297 → 2026-11-26 1,299（+2）
+2026-10-25 1,297 → 2026-11-27 1,299（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fcc3f210a7da` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b86b70325f55` · [字段定义](../../DATASET.md)*

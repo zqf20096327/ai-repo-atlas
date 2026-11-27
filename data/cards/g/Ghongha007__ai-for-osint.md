@@ -1,6 +1,6 @@
 # Ghongha007/ai-for-osint
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Ghongha007/ai-for-osint) · 个人维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Ghongha007/ai-for-osint) · 个人维护
 
 **面向开源调查记者与事实核查者的 AI 工具策展清单（146 条）**
 
@@ -40,6 +40,18 @@
 
 > L3: AI tools, models and agent tooling that open-source investigators and journalists use, with the limits written next 
 > L5: **146 entries. Every link was opened on 2026-11-16.**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ghongha007/ai-for-osint 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

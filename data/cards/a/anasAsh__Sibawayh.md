@@ -1,6 +1,6 @@
 # anasAsh/Sibawayh
 
-⭐ 9 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/anasAsh/Sibawayh) · 个人维护
+⭐ 9 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/anasAsh/Sibawayh) · 个人维护
 
 **让 AI agent 写出规范阿拉伯语并在回答前自查的技能与校对器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "anasAsh/Sibawayh 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    title "anasAsh/Sibawayh 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 6 --> 10
-    line [7, 9]
+    line [7, 9, 9]
 ```
 
-2026-11-23 7 → 2026-11-26 9（+2）
+2026-11-23 7 → 2026-11-27 9（+2）
 
 
 ---

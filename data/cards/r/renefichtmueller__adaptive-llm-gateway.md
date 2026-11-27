@@ -1,6 +1,6 @@
 # renefichtmueller/adaptive-llm-gateway
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/renefichtmueller/adaptive-llm-gateway) · 个人维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/renefichtmueller/adaptive-llm-gateway) · 个人维护
 
 **把包月 AI 订阅 CLI 转成统一 OpenAI/Anthropic 兼容 API 的自托管网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "renefichtmueller/adaptive-llm-gateway 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 14 --> 17
-    line [15, 16, 15, 16, 15, 16]
+    line [16, 15, 16, 15, 16, 16]
 ```
 
-2026-10-24 15 → 2026-11-26 16（+1）
+2026-10-25 16 → 2026-11-27 16（+0）
 
 
 ---

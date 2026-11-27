@@ -1,6 +1,6 @@
 # mofa-org/mofa
 
-⭐ 302 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mofa-org/mofa) · [官网](https://mofa.ai) · 组织维护 · 中文 README
+⭐ 303 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mofa-org/mofa) · [官网](https://mofa.ai) · 组织维护 · 中文 README
 
 **面向企业的 Agent 运行时与计费计量一体化 LLM 基础设施**
 
@@ -45,13 +45,13 @@ MoFA（Modular Framework for Agents）以 Rust 微内核为核心，通过 UniFF
 
 ```mermaid
 xychart-beta
-    title "mofa-org/mofa 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 298 --> 303
-    line [299, 300, 302]
+    title "mofa-org/mofa 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 298 --> 304
+    line [299, 300, 302, 303]
 ```
 
-2026-11-22 299 → 2026-11-26 302（+3）
+2026-11-22 299 → 2026-11-27 303（+4）
 
 
 ---

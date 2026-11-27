@@ -48,12 +48,12 @@ NMGC（Nested Manhattan Grid Codec）提供三种压缩变体：有损的 Nested
 ```mermaid
 xychart-beta
     title "reyxv16/nmgc-codec 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jmcquiggan/Deepfake-Workshop
 
-⭐ 7 · 推送 2026-11-25 · [GitHub](https://github.com/jmcquiggan/Deepfake-Workshop) · [官网](https://www.antisyphontraining.com/product/workshop-build-a-deepfake-learn-the-defense/) · 个人维护
+⭐ 8 · 推送 2026-11-25 · [GitHub](https://github.com/jmcquiggan/Deepfake-Workshop) · [官网](https://www.antisyphontraining.com/product/workshop-build-a-deepfake-learn-the-defense/) · 个人维护
 
 **Deepfake 研讨会的配套资源仓库**
 
@@ -40,12 +40,12 @@
 ```mermaid
 xychart-beta
     title "jmcquiggan/Deepfake-Workshop 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 4 --> 8
-    line [5, 6, 7, 7]
+    x-axis ["2026-11-18", "2026-11-23", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 4 --> 9
+    line [5, 6, 7, 8]
 ```
 
-2026-11-18 5 → 2026-11-26 7（+2）
+2026-11-18 5 → 2026-11-27 8（+3）
 
 
 ---

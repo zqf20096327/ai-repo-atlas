@@ -1,6 +1,6 @@
 # vorn-run/vorn
 
-⭐ 25 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/vorn-run/vorn) · [官网](https://vorn.run) · 组织维护
+⭐ 25 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/vorn-run/vorn) · [官网](https://vorn.run) · 组织维护
 
 **本地多智能体指挥中心：并行运行与编排 Claude/Copilot/Codex 等 CLI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vorn-run/vorn 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-24 25 → 2026-11-26 25（+0）
+2026-10-25 25 → 2026-11-27 25（+0）
 
 
 ---

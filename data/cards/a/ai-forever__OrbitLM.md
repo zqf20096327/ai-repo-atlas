@@ -1,6 +1,6 @@
 # ai-forever/OrbitLM
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ai-forever/OrbitLM) · [官网](https://huggingface.co/ai-forever/OrbitLM-1.8B-Thinking) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ai-forever/OrbitLM) · [官网](https://huggingface.co/ai-forever/OrbitLM-1.8B-Thinking) · 组织维护
 
 **1.8B 循环语言模型的完整训练与推理流水线**
 
@@ -39,6 +39,18 @@ OrbitLM-1.8B 是基于 Ouro-1.4B 架构与 Qwen3 分词器的循环语言模型�
 
 > L11: # OrbitLM-1.8B
 > L21: В репозитории лежит полный пайплайн обучения модели с нуля и скрипты инференса с budget forcing,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ai-forever/OrbitLM 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 33 --> 37
+    line [34, 36]
+```
+
+2026-11-26 34 → 2026-11-27 36（+2）
 
 
 ---

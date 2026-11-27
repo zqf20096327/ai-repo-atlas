@@ -1,6 +1,6 @@
 # UnravelSports/unravelsports
 
-⭐ 250 · Python · MPL-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/UnravelSports/unravelsports) · [官网](https://unravelsports.readthedocs.io) · 个人维护
+⭐ 251 · Python · MPL-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/UnravelSports/unravelsports) · [官网](https://unravelsports.readthedocs.io) · 个人维护
 
 **体育追踪数据分析 Python 库：数据转换、GNN 训练与足球战术指标计算**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "UnravelSports/unravelsports 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-27"]
     y-axis "stars" 248 --> 252
-    line [249, 250, 249, 250, 251, 250, 250]
+    line [249, 250, 249, 250, 251, 250, 251]
 ```
 
-2026-10-24 249 → 2026-11-26 250（+1）
+2026-10-25 249 → 2026-11-27 251（+2）
 
 
 ---

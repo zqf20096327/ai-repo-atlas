@@ -1,6 +1,6 @@
 # LintenAI/linten
 
-⭐ 241 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/LintenAI/linten) · [官网](https://linten.app) · 组织维护
+⭐ 242 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/LintenAI/linten) · [官网](https://linten.app) · 组织维护
 
 **自托管开源 AI 网关：统一 OpenAI 格式调用 100+ 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LintenAI/linten 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-26"]
+    title "LintenAI/linten 星数(近 6 点)"
+    x-axis ["2026-11-12", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 239 --> 243
-    line [242, 240, 241, 242, 241]
+    line [242, 240, 241, 242, 241, 242]
 ```
 
-2026-11-12 242 → 2026-11-26 241（-1）
+2026-11-12 242 → 2026-11-27 242（+0）
 
 
 ---

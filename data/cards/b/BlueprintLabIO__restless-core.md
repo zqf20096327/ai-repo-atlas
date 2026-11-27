@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "BlueprintLabIO/restless-core 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-26"]
+    title "BlueprintLabIO/restless-core 星数(近 4 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-26", "2026-11-27"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 11]
+    line [11, 12, 11, 11]
 ```
 
-2026-11-11 11 → 2026-11-26 11（+0）
+2026-11-11 11 → 2026-11-27 11（+0）
 
 
 ---

@@ -40,6 +40,18 @@ DeepMind 发布的 Python 强化学习环境接口包：定义 Environment 抽�
 > L6: This package describes an interface for Python reinforcement learning (RL)
 > L9: * `dm_env.Environment`: An abstract base class for RL environments.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-deepmind/dm_env 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 410 --> 412
+    line [411, 411]
+```
+
+2026-11-26 411 → 2026-11-27 411（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `df00e5391601` · [字段定义](../../DATASET.md)*

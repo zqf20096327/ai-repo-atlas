@@ -41,6 +41,18 @@ Lazy不学习 维护的 ComfyUI 自定义节点集，包含 Wan2.2 Remix 导演�
 > L3: Lazy不学习 的 ComfyUI 自定义节点。装进 `custom_nodes` 后重启即可在节点菜单里看到 `Lazy` 开头的节点。
 > L31: 节点本身不额外安装 Python 包，用的是 ComfyUI 自带的环境。部分功能要配合已有的模型节点，例如 MiniMax H3、Wan、Krea2、Qwen、YuE，以及超分 / RIFE 补帧。缺哪个，对应功能会在运行时提示
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hanava1002-blip/ComfyUI_Lazybuxuexi 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `835be6592566` · [字段定义](../../DATASET.md)*

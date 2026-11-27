@@ -1,6 +1,6 @@
 # MonitSharma/Learn-Quantum-Machine-Learning
 
-⭐ 91 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning) · [官网](https://monitsharma.github.io/Learn-Quantum-Machine-Learning/) · 个人维护
+⭐ 90 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning) · [官网](https://monitsharma.github.io/Learn-Quantum-Machine-Learning/) · 个人维护
 
 **量子机器学习课程：PennyLane/Qiskit 笔记本教程合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MonitSharma/Learn-Quantum-Machine-Learning 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
     y-axis "stars" 86 --> 92
-    line [87, 88, 90, 87, 90, 91, 91]
+    line [87, 88, 90, 87, 90, 91, 90]
 ```
 
-2026-10-24 87 → 2026-11-26 91（+4）
+2026-10-25 87 → 2026-11-27 90（+3）
 
 
 ---

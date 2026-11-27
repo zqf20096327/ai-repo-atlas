@@ -1,6 +1,6 @@
 # Scottcjn/ComfyUI-TurboQuant
 
-⭐ 43 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Scottcjn/ComfyUI-TurboQuant) · [官网](https://elyanlabs.ai) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Scottcjn/ComfyUI-TurboQuant) · [官网](https://elyanlabs.ai) · 个人维护
 
 **ComfyUI 节点：TQ3 三比特量化压缩注意力 KV cache**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/ComfyUI-TurboQuant 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 42 --> 45
-    line [44, 43, 43]
+    x-axis ["2026-11-08", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 41 --> 45
+    line [44, 43, 42]
 ```
 
-2026-11-08 44 → 2026-11-26 43（-1）
+2026-11-08 44 → 2026-11-27 42（-2）
 
 
 ---

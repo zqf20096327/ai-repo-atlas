@@ -45,13 +45,13 @@ ActiveCampaign 官方维护的 Model Context Protocol 服务器，把 Postmark �
 
 ```mermaid
 xychart-beta
-    title "ActiveCampaign/postmark-mcp 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 58 --> 65
-    line [59, 60, 63, 64, 64]
+    title "ActiveCampaign/postmark-mcp 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 59 --> 65
+    line [60, 63, 64, 64]
 ```
 
-2026-10-24 59 → 2026-11-26 64（+5）
+2026-10-25 60 → 2026-11-27 64（+4）
 
 
 ---

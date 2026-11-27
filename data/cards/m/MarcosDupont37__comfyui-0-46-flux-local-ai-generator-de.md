@@ -1,6 +1,6 @@
 # MarcosDupont37/comfyui-0-46-flux-local-ai-generator-de
 
-⭐ 139 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MarcosDupont37/comfyui-0-46-flux-local-ai-generator-de) · [官网](https://marcosdupont37.github.io/comfyui-0-46-flux-local-ai-generator-de/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **借 ComfyUI 名称分发的 Windows 游戏作弊工具（ESP/雷达/输入平滑）**
 
@@ -11,7 +11,7 @@ README 自称基于 ComfyUI 0.46 与 Flux.1 的本地 AI 工作流套件，但�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

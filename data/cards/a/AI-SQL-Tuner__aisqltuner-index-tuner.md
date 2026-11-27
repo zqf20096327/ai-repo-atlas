@@ -1,6 +1,6 @@
 # AI-SQL-Tuner/aisqltuner-index-tuner
 
-⭐ 10 · TSQL · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AI-SQL-Tuner/aisqltuner-index-tuner) · [官网](https://aisqltuner.com) · 组织维护
+⭐ 10 · TSQL · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AI-SQL-Tuner/aisqltuner-index-tuner) · [官网](https://aisqltuner.com) · 组织维护
 
 **在 SQL Server 内运行的 AI 索引调优存储过程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AI-SQL-Tuner/aisqltuner-index-tuner 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 3 --> 11
     line [4, 10, 10]
 ```
 
-2026-11-08 4 → 2026-11-26 10（+6）
+2026-11-08 4 → 2026-11-27 10（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # paulpierre/markdown-crawler
 
-⭐ 480 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/paulpierre/markdown-crawler) · [官网](https://pypi.org/project/markdown-crawler/) · 个人维护
+⭐ 481 · Python · MIT · 推送 2026-06-26 · [GitHub](https://github.com/paulpierre/markdown-crawler) · [官网](https://pypi.org/project/markdown-crawler/) · 个人维护
 
 **多线程网站爬虫：整站爬取并转为 Markdown，供 RAG 用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "paulpierre/markdown-crawler 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 476 --> 482
-    line [477, 478, 479, 480, 478, 480, 481, 480, 480]
+    title "paulpierre/markdown-crawler 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 477 --> 482
+    line [478, 479, 480, 478, 480, 481, 480, 481]
 ```
 
-2026-10-24 477 → 2026-11-26 480（+3）
+2026-10-25 478 → 2026-11-27 481（+3）
 
 
 ---

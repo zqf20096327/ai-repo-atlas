@@ -1,6 +1,6 @@
 # ruvnet/ruvllm
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/ruvnet/ruvllm) · [官网](https://ruv.io) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/ruvnet/ruvllm) · [官网](https://ruv.io) · 个人维护
 
 **面向开发/研究的模型权重编辑与配对评测治理工具**
 
@@ -46,12 +46,12 @@ RuVLLM 在不改原始权重的前提下，对开源语言模型训练 LoRA 适�
 ```mermaid
 xychart-beta
     title "ruvnet/ruvllm 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-25", "2026-11-27"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15, 14, 14]
+    line [13, 14, 15, 14, 15]
 ```
 
-2026-11-08 13 → 2026-11-26 14（+1）
+2026-11-08 13 → 2026-11-27 15（+2）
 
 
 ---

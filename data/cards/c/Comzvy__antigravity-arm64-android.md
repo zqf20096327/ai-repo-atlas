@@ -40,6 +40,18 @@
 > L4:  Run the Antigravity AI coding agent on Android (ARM64 APK).
 > L26: - **Multi-provider AI (BYOK)** — Gemini, OpenAI, Anthropic Claude, OpenRouter, Groq, DeepSeek, or any OpenAI/Anthro
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Comzvy/antigravity-arm64-android 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `19fb6b6302fc` · [字段定义](../../DATASET.md)*

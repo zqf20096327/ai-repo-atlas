@@ -40,6 +40,18 @@
 > L3: # Awesome Web3 AI Awesome
 > L11: > A curated list of Web3 AI tools, agent frameworks, protocols, infrastructure, and data resources.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "edwardtay/awesome-web3-ai 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5df1f2613632` · [字段定义](../../DATASET.md)*

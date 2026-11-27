@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SourceShift/InterLock 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-26"]
+    title "SourceShift/InterLock 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 6 --> 19
-    line [7, 18]
+    line [7, 18, 18]
 ```
 
-2026-10-18 7 → 2026-11-26 18（+11）
+2026-10-18 7 → 2026-11-27 18（+11）
 
 
 ---

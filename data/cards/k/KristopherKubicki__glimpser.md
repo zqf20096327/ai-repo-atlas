@@ -1,6 +1,6 @@
 # KristopherKubicki/glimpser
 
-⭐ 35 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/KristopherKubicki/glimpser) · [官网](https://glimpser.net) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/KristopherKubicki/glimpser) · [官网](https://glimpser.net) · 个人维护
 
 **实时摄像头/视频流监控应用：采集、运动检测并生成 AI 摘要与警报**
 
@@ -45,12 +45,12 @@ Python 编写的实时监控应用，从 IP 摄像头、仪表盘和视频流等
 ```mermaid
 xychart-beta
     title "KristopherKubicki/glimpser 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-24 34 → 2026-11-26 35（+1）
+2026-10-25 34 → 2026-11-27 35（+1）
 
 
 ---

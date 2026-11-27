@@ -44,13 +44,13 @@ C#/WPF 实现的《Magic: The Gathering》卡牌游戏，玩家在 Windows 上�
 
 ```mermaid
 xychart-beta
-    title "pinky39/grove 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "pinky39/grove 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 131 --> 134
-    line [132, 133]
+    line [132, 133, 133]
 ```
 
-2026-10-24 132 → 2026-11-26 133（+1）
+2026-10-25 132 → 2026-11-27 133（+1）
 
 
 ---

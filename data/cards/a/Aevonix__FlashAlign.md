@@ -1,6 +1,6 @@
 # Aevonix/FlashAlign
 
-⭐ 188 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
+⭐ 189 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
 
 **按请求对 LLM 施加对齐配置的运行时网关工具**
 
@@ -45,13 +45,13 @@ FlashAlign 由 Aevonix Research 发布，对已下载的基座或量化模型按
 
 ```mermaid
 xychart-beta
-    title "Aevonix/FlashAlign 星数(近 7 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 22 --> 203
-    line [37, 95, 125, 126, 128, 175, 188]
+    title "Aevonix/FlashAlign 星数(近 8 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 22 --> 204
+    line [37, 95, 125, 126, 128, 175, 188, 189]
 ```
 
-2026-11-01 37 → 2026-11-26 188（+151）
+2026-11-01 37 → 2026-11-27 189（+152）
 
 
 ---

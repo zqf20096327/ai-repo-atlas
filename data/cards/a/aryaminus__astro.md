@@ -1,6 +1,6 @@
 # aryaminus/astro
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/aryaminus/astro) · [官网](https://astro-api-a2rc.onrender.com) · 个人维护 · 中文 README
+⭐ 19 · Python · NOASSERTION · 推送 2026-06-08 · [GitHub](https://github.com/aryaminus/astro) · [官网](https://astro-api-a2rc.onrender.com) · 个人维护 · 中文 README
 
 **面向 AI agent 的多体系占星计算 MCP 服务器与 Agent Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aryaminus/astro 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 11 --> 19
-    line [12, 13, 12, 15, 16, 17, 18, 18]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 11 --> 20
+    line [12, 13, 12, 15, 16, 17, 18, 19]
 ```
 
-2026-10-24 12 → 2026-11-26 18（+6）
+2026-10-25 12 → 2026-11-27 19（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Taocrypt/MicMask
 
-⭐ 5 · Kotlin · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Taocrypt/MicMask) · [官网](https://micmask.taocrypt.com) · 个人维护 · 中文 README
+⭐ 22 · Kotlin · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Taocrypt/MicMask) · [官网](https://micmask.taocrypt.com) · 个人维护 · 中文 README
 
 **安卓本地实时 AI 变声应用，输出直接送入其他应用麦克风**
 
@@ -40,6 +40,18 @@ Android 端变声软件：通过 Shizuku 以 shell 身份注入麦克风，将 R
 > L3: **安卓端真正的原生实时 AI 变声软件**
 > L11: MicMask 在手机本地把你的声音实时转换成另一个音色，并直接送进 QQ、微信、游戏等应用的麦克风。对方听到的，就是变声后的声音。
 > L17: - **真·本地 AI 实时推理**：基于 RVC 音色转换，ONNX Runtime 在手机 CPU 上运行，录音全程不上传。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Taocrypt/MicMask 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 23
+    line [5, 22]
+```
+
+2026-11-26 5 → 2026-11-27 22（+17）
 
 
 ---

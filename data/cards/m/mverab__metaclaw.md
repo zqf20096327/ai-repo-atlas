@@ -45,12 +45,12 @@ MetaClaw Setup Architect 是一个 OpenClaw 技能（skill），充当多智能�
 ```mermaid
 xychart-beta
     title "mverab/metaclaw 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 31 --> 34
     line [33, 32, 32]
 ```
 
-2026-10-24 33 → 2026-11-26 32（-1）
+2026-10-25 33 → 2026-11-27 32（-1）
 
 
 ---

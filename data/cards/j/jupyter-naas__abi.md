@@ -1,6 +1,6 @@
 # jupyter-naas/abi
 
-⭐ 176 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jupyter-naas/abi) · [官网](https://naas.ai) · 组织维护
+⭐ 176 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jupyter-naas/abi) · [官网](https://naas.ai) · 组织维护
 
 **开源 AI 操作系统：以本体知识图谱为底座构建企业 agent 系统**
 
@@ -47,12 +47,12 @@ ABI（Agentic Brain Infrastructure）将 LLM 接入组织自身的本体，提�
 ```mermaid
 xychart-beta
     title "jupyter-naas/abi 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 173 --> 178
     line [174, 175, 174, 177, 176, 176]
 ```
 
-2026-10-24 174 → 2026-11-26 176（+2）
+2026-10-25 174 → 2026-11-27 176（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # tacshi/Leaflet
 
-⭐ 8 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tacshi/Leaflet) · [官网](https://leaflet.capyvibe.app) · 个人维护
+⭐ 9 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tacshi/Leaflet) · [官网](https://leaflet.capyvibe.app) · 个人维护
 
 **人们与 AI agent 共同编辑文档的原生多端笔记应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tacshi/Leaflet 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 5 --> 9
-    line [6, 7, 6, 8]
+    title "tacshi/Leaflet 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 10
+    line [6, 7, 6, 8, 9]
 ```
 
-2026-11-08 6 → 2026-11-26 8（+2）
+2026-11-08 6 → 2026-11-27 9（+3）
 
 
 ---

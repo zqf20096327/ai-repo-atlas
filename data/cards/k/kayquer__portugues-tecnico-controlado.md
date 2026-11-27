@@ -1,6 +1,6 @@
 # kayquer/portugues-tecnico-controlado
 
-⭐ 21 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kayquer/portugues-tecnico-controlado) · [官网](https://kayquer.github.io/portugues-tecnico-controlado/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kayquer/portugues-tecnico-controlado) · [官网](https://kayquer.github.io/portugues-tecnico-controlado/) · 个人维护
 
 **Claude Code 技能：按 9 条规则将巴西葡萄牙语技术文本改写为单义版本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kayquer/portugues-tecnico-controlado 星数(近 7 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 13 --> 22
-    line [14, 15, 18, 19, 20, 21, 21]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 13 --> 23
+    line [14, 15, 18, 19, 20, 21, 22]
 ```
 
-2026-10-31 14 → 2026-11-26 21（+7）
+2026-10-31 14 → 2026-11-27 22（+8）
 
 
 ---

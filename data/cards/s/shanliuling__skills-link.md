@@ -1,6 +1,6 @@
 # shanliuling/skills-link
 
-⭐ 188 · TypeScript · MIT · 推送 2026-05-14 · [GitHub](https://github.com/shanliuling/skills-link) · 个人维护 · 中文 README
+⭐ 187 · TypeScript · MIT · 推送 2026-05-14 · [GitHub](https://github.com/shanliuling/skills-link) · 个人维护 · 中文 README
 
 **跨 41+ AI 编码代理统一同步本地 skills 的 CLI 工具**
 
@@ -44,13 +44,13 @@ Node.js 命令行工具，将各 AI 编码代理（Claude Code、Cursor、Windsu
 
 ```mermaid
 xychart-beta
-    title "shanliuling/skills-link 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 187 --> 199
-    line [198, 197, 188, 188]
+    title "shanliuling/skills-link 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 186 --> 198
+    line [197, 188, 187]
 ```
 
-2026-10-24 198 → 2026-11-26 188（-10）
+2026-10-25 197 → 2026-11-27 187（-10）
 
 
 ---

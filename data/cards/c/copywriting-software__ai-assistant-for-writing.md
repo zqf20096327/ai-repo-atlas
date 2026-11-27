@@ -1,6 +1,6 @@
 # copywriting-software/ai-assistant-for-writing
 
-⭐ 11 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/copywriting-software/ai-assistant-for-writing) · [官网](https://copywriting-software.github.io/ai-assistant-for-writing/) · 个人维护
+⭐ 12 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/copywriting-software/ai-assistant-for-writing) · [官网](https://copywriting-software.github.io/ai-assistant-for-writing/) · 个人维护
 
 **macOS 系统级 AI 写作助手：ghost text 补全、语法/布局修复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "copywriting-software/ai-assistant-for-writing 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 12
-    line [3, 7, 9, 11]
+    title "copywriting-software/ai-assistant-for-writing 星数(近 5 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 13
+    line [3, 7, 9, 11, 12]
 ```
 
-2026-11-22 3 → 2026-11-26 11（+8）
+2026-11-22 3 → 2026-11-27 12（+9）
 
 
 ---

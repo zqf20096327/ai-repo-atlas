@@ -42,6 +42,18 @@
 > L20: **Tokens:** at session start only 22 one-line descriptions load. A skill's body loads only when
 > L156: The skills are plain Markdown. They run no scripts, make no network calls and collect no data.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "irfanzahoor/frappe_core_skills 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
+```
+
+2026-11-26 9 → 2026-11-27 9（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9d73cad59690` · [字段定义](../../DATASET.md)*

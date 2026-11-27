@@ -42,6 +42,18 @@ TraceForge 摄取遥测数据（自带 chaos 模拟器或通过 /api/ingest 接�
 > L23: 1. **Zero chatbot UI.** The LLM never appears in the interface. No prompt box, no assistant panel — it is an invisi
 > L43: |Hybrid anomaly detection — IsolationForest + per-feature robust z (median/MAD), adaptive threshold|`AnomalyDetecto
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Rusty-Hope/traceforge 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `addd86c16e52` · [字段定义](../../DATASET.md)*

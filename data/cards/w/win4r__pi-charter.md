@@ -1,6 +1,6 @@
 # win4r/pi-charter
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/win4r/pi-charter) · [官网](https://space.bilibili.com/3493277319825652) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/win4r/pi-charter) · [官网](https://www.youtube.com/@AIsuperdomain) · 个人维护 · 中文 README
 
 **为 Pi 编码 agent 提供规格驱动的多 agent 交付流水线**
 
@@ -45,12 +45,12 @@ Pi 编码 agent 的扩展：用户与模型共同起草一份变更契约（char
 ```mermaid
 xychart-beta
     title "win4r/pi-charter 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-27"]
     y-axis "stars" 2 --> 15
     line [3, 11, 12, 13, 14, 14]
 ```
 
-2026-11-13 3 → 2026-11-26 14（+11）
+2026-11-13 3 → 2026-11-27 14（+11）
 
 
 ---

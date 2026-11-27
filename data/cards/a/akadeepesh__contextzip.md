@@ -1,6 +1,6 @@
 # akadeepesh/contextzip
 
-⭐ 33 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/akadeepesh/contextzip) · [官网](https://www.contextzipcli.com) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/akadeepesh/contextzip) · [官网](https://www.contextzipcli.com) · 个人维护
 
 **为 AI 编码工具打包代码库并将 AI 改动写回的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "akadeepesh/contextzip 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-27"]
     y-axis "stars" 28 --> 35
     line [29, 30, 33, 34, 33, 32, 33, 33]
 ```
 
-2026-10-24 29 → 2026-11-26 33（+4）
+2026-10-25 29 → 2026-11-27 33（+4）
 
 
 ---

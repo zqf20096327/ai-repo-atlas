@@ -1,6 +1,6 @@
 # oxagast/Franklin
 
-⭐ 14 · Perl · NOASSERTION · 推送 2025-11-30 · [GitHub](https://github.com/oxagast/Franklin) · [官网](https://franklin.oxasploits.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **接入 Cohere API 的 IRC 聊天机器人（irssi Perl 脚本）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

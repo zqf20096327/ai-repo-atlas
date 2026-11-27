@@ -45,12 +45,12 @@ Precedent 从团队的 WhatsApp/Slack 导出或 JSONL 中挖掘问答线索并�
 ```mermaid
 xychart-beta
     title "burhan-mujahid/precedent 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-26 3（+0）
+2026-11-10 3 → 2026-11-27 3（+0）
 
 
 ---

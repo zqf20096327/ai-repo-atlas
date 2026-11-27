@@ -1,6 +1,6 @@
 # webmechanicx/kothon-52-bangla-tts
 
-⭐ 3 · Python · 推送 2026-10-15 · [GitHub](https://github.com/webmechanicx/kothon-52-bangla-tts) · [官网](https://kothon52.farhadurrahim.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为孟加拉语用户提供本地语音合成与声音克隆的桌面应用**
 

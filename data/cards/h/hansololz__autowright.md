@@ -1,6 +1,6 @@
 # hansololz/autowright
 
-⭐ 28 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hansololz/autowright) · [官网](https://autowright.ai) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hansololz/autowright) · [官网](https://autowright.ai) · 个人维护
 
 **让 AI agent 把日常桌面任务写成 Python 脚本并本地定时运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hansololz/autowright 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-27"]
     y-axis "stars" 20 --> 29
     line [21, 23, 21, 26, 27, 28, 28]
 ```
 
-2026-10-24 21 → 2026-11-26 28（+7）
+2026-10-25 21 → 2026-11-27 28（+7）
 
 
 ---

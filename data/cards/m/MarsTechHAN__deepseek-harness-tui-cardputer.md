@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarsTechHAN/deepseek-harness-tui-cardputer 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26"]
+    title "MarsTechHAN/deepseek-harness-tui-cardputer 星数(近 6 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 3 --> 10
-    line [4, 5, 7, 8, 9]
+    line [4, 5, 7, 8, 9, 9]
 ```
 
-2026-11-19 4 → 2026-11-26 9（+5）
+2026-11-19 4 → 2026-11-27 9（+5）
 
 
 ---

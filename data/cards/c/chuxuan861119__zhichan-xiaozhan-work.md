@@ -1,6 +1,6 @@
 # chuxuan861119/zhichan-xiaozhan-work
 
-⭐ 282 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/chuxuan861119/zhichan-xiaozhan-work) · [官网](https://zcxzz.cn/work/) · 组织维护 · 中文 README
+⭐ 294 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/chuxuan861119/zhichan-xiaozhan-work) · [官网](https://zcxzz.cn/work/) · 组织维护 · 中文 README
 
 **中国专利撰写工作台：五书、附图、CAD、修图一站式本地编辑**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "chuxuan861119/zhichan-xiaozhan-work 星数(近 7 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 3 --> 307
-    line [28, 71, 112, 140, 157, 209, 282]
+    title "chuxuan861119/zhichan-xiaozhan-work 星数(近 8 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 320
+    line [28, 71, 112, 140, 157, 209, 282, 294]
 ```
 
-2026-11-19 28 → 2026-11-26 282（+254）
+2026-11-19 28 → 2026-11-27 294（+266）
 
 
 ---

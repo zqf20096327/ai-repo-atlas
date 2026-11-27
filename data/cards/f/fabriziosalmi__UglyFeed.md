@@ -1,6 +1,6 @@
 # fabriziosalmi/UglyFeed
 
-⭐ 323 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/fabriziosalmi/UglyFeed) · [官网](https://fabriziosalmi.github.io/UglyFeed/) · 个人维护
+⭐ 323 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/fabriziosalmi/UglyFeed) · [官网](https://fabriziosalmi.github.io/UglyFeed/) · 个人维护
 
 **用 LLM 抓取、聚合、改写并发布 RSS 订阅源的应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fabriziosalmi/UglyFeed 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 320 --> 325
-    line [321, 322, 323, 322, 324, 323, 323]
+    title "fabriziosalmi/UglyFeed 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 321 --> 325
+    line [322, 323, 322, 324, 323, 323]
 ```
 
-2026-10-24 321 → 2026-11-26 323（+2）
+2026-10-25 322 → 2026-11-27 323（+1）
 
 
 ---

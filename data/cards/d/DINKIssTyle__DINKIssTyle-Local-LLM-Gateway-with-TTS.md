@@ -1,6 +1,6 @@
 # DINKIssTyle/DINKIssTyle-Local-LLM-Gateway-with-TTS
 
-⭐ 14 · Go · 推送 2026-11-25 · [GitHub](https://github.com/DINKIssTyle/DINKIssTyle-Local-LLM-Gateway-with-TTS) · 个人维护 · 中文 README
+⭐ 14 · Go · 推送 2026-11-26 · [GitHub](https://github.com/DINKIssTyle/DINKIssTyle-Local-LLM-Gateway-with-TTS) · 个人维护 · 中文 README
 
 **本地 LLM 聊天服务器：整合多模型供应商与 Supertonic TTS**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DINKIssTyle/DINKIssTyle-Local-LLM-Gateway-with-TTS 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 14（+1）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

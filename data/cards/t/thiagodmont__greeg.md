@@ -1,6 +1,6 @@
 # thiagodmont/greeg
 
-⭐ 330 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/thiagodmont/greeg) · [官网](https://thiagodmont.dev/) · 个人维护
+⭐ 353 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/thiagodmont/greeg) · [官网](https://thiagodmont.dev/) · 个人维护
 
 **为编码 agent 提供索引化代码搜索的 CLI 工具**
 
@@ -39,6 +39,18 @@ greeg 是一个 Rust 编写的命令行代码搜索工具，兼容 ripgrep 的�
 
 > L3: **Code search built for coding agents.** Your agent searches with `rg` and
 > L32: Works with Claude Code and Codex through a hook, and with any agent that can
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thiagodmont/greeg 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 328 --> 355
+    line [330, 353]
+```
+
+2026-11-26 330 → 2026-11-27 353（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # Lingximo/Lysmor
 
-⭐ 54 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Lingximo/Lysmor) · 个人维护 · 中文 README
+⭐ 55 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Lingximo/Lysmor) · 个人维护 · 中文 README
 
 **可自托管的 AI 伴侣系统：长期记忆、情绪模拟与多端界面**
 
@@ -45,13 +45,13 @@ Lysmor 将 AI 伴侣系统拆成可复用模块：长期记忆库（文档+向�
 
 ```mermaid
 xychart-beta
-    title "Lingximo/Lysmor 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 23 --> 56
-    line [25, 39, 54]
+    title "Lingximo/Lysmor 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 22 --> 58
+    line [25, 39, 54, 55]
 ```
 
-2026-11-23 25 → 2026-11-26 54（+29）
+2026-11-23 25 → 2026-11-27 55（+30）
 
 
 ---

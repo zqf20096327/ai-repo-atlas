@@ -46,12 +46,12 @@ Atlas Cloud 发布的 n8n 社区节点包，通过一个 OpenAI 兼容 API 在 n
 ```mermaid
 xychart-beta
     title "AtlasCloudAI/n8n-nodes-atlascloud 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 17（+0）
 
 
 ---

@@ -40,6 +40,18 @@
 > L3: A custom node/plugin for ComfyUI that automatically detects and fixes missing model paths in your workflow.
 > L7: - **Auto-Location**: Scans your loaded workflow for nodes with missing models (red nodes).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "squarewulf/ComfyUI-ModelFrisk 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `bccfb46b4629` · [字段定义](../../DATASET.md)*

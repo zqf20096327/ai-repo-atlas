@@ -1,6 +1,6 @@
 # langchain-samples/Persistent-Agent
 
-⭐ 32 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langchain-samples/Persistent-Agent) · 组织维护
+⭐ 141 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langchain-samples/Persistent-Agent) · 组织维护
 
 **给团队部署常驻 Slack 的目标导向 agent 机器人**
 
@@ -41,6 +41,18 @@
 > L9: Persistent Agent is a proactive, always-on, goal-oriented agent. Think Muse or Instinct, but
 > L25: - **Integrations**: uses LangSmith Tool Gateway to access tools such as Gmail, GitHub, Slack, and Linear
 > L82: uv run mda deploy
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "langchain-samples/Persistent-Agent 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 22 --> 151
+    line [32, 141]
+```
+
+2026-11-26 32 → 2026-11-27 141（+109）
 
 
 ---

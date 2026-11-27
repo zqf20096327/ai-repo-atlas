@@ -1,6 +1,6 @@
 # cyber-immortal/cyber-figures
 
-⭐ 79 · HTML · 推送 2026-04-10 · [GitHub](https://github.com/cyber-immortal/cyber-figures) · 个人维护 · 中文 README
+⭐ 80 · HTML · 推送 2026-04-10 · [GitHub](https://github.com/cyber-immortal/cyber-figures) · 个人维护 · 中文 README
 
 **AI 人物蒸馏 Skill 库：把中国互联网人物还原成可用的 Claude Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cyber-immortal/cyber-figures 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 73 --> 80
-    line [74, 75, 74, 76, 77, 78, 79]
+    title "cyber-immortal/cyber-figures 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 73 --> 81
+    line [74, 75, 74, 76, 77, 78, 79, 80]
 ```
 
-2026-10-24 74 → 2026-11-26 79（+5）
+2026-10-25 74 → 2026-11-27 80（+6）
 
 
 ---

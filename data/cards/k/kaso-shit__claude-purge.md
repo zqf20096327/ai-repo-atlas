@@ -1,6 +1,6 @@
 # kaso-shit/claude-purge
 
-⭐ 12 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/kaso-shit/claude-purge) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/kaso-shit/claude-purge) · 个人维护 · 中文 README
 
 **给个人学习者的 Claude Desktop 本地 harness 层补丁工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kaso-shit/claude-purge 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 4 --> 13
-    line [5, 6, 12, 12]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 4 --> 14
+    line [5, 6, 12, 13]
 ```
 
-2026-11-20 5 → 2026-11-26 12（+7）
+2026-11-20 5 → 2026-11-27 13（+8）
 
 
 ---

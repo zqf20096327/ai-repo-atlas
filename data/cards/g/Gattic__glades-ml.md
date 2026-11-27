@@ -1,6 +1,6 @@
 # Gattic/glades-ml
 
-⭐ 10 · C++ · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Gattic/glades-ml) · [官网](https://glades-ml.com) · 个人维护
+⭐ 10 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Gattic/glades-ml) · [官网](https://glades-ml.com) · 个人维护
 
 **C++ 深度前馈神经网络创建与管理库**
 
@@ -44,12 +44,12 @@ glades 是一个开源 C++ 机器学习库，专注于深度前馈神经网络�
 ```mermaid
 xychart-beta
     title "Gattic/glades-ml 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

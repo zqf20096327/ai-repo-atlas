@@ -1,6 +1,6 @@
 # flyersworder/agentic-data-contracts
 
-⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/flyersworder/agentic-data-contracts) · [官网](https://pypi.org/project/agentic-data-contracts/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/flyersworder/agentic-data-contracts) · [官网](https://pypi.org/project/agentic-data-contracts/) · 个人维护
 
 **面向 AI agent 的 YAML 数据契约库：先教业务域规则再写 SQL**
 
@@ -46,12 +46,12 @@ Python 库，用 YAML 契约向 agent 预先声明业务域、指标定义与治
 ```mermaid
 xychart-beta
     title "flyersworder/agentic-data-contracts 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12, 12]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 11, 12, 13]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

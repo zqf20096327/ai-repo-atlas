@@ -1,6 +1,6 @@
 # kind-ui/agent-ui
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kind-ui/agent-ui) · [官网](https://kindui.dev/docs/agent-ui/) · 组织维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kind-ui/agent-ui) · [官网](https://kindui.dev/docs/agent-ui/) · 组织维护
 
 **面向 React/Web Components 的 agent 界面组件库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kind-ui/agent-ui 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-22", "2026-11-25", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-22 3 → 2026-11-26 4（+1）
+2026-11-22 3 → 2026-11-27 4（+1）
 
 
 ---

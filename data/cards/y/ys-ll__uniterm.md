@@ -1,10 +1,10 @@
 # ys-ll/uniterm
 
-⭐ 1,282 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ys-ll/uniterm) · [官网](https://uniterm.net) · 个人维护 · 中文 README
+⭐ 1,289 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ys-ll/uniterm) · [官网](https://uniterm.net) · 个人维护 · 中文 README
 
-**覆盖 30+ 协议的一体化终端，内置可自主执行命令的 AI Agent**
+**面向运维者的多协议终端，内置可自主执行命令的 AI Agent**
 
-基于 Wails v3（Go 后端 + Vue 3 前端）的跨平台终端应用，覆盖 SSH/Telnet/Mosh/串口、SFTP/SCP/SMB/WebDAV/S3 文件传输、RDP/VNC/SPICE 远程桌面、9 类数据库客户端、Kubernetes 与 Docker/Podman/nerdctl 容器管理及服务器监控。AI 部分包括可在终端中多轮自主规划并执行 shell 命令的 Agent（四种执行管控模式）、MCP Server（供 Claude Code 等外部 agent 操作已保存连接）、技能工作流与智能补全。提供 Windows/macOS/Linux/Android 预编译包及 Docker 多租户 Web 部署，README 声明为个人业余维护项目。
+基于 Wails v3（Go + Vue 3）的跨平台桌面终端，覆盖 30+ 协议：SSH/Telnet/Mosh 终端、SFTP/SCP/SMB/WebDAV/S3 文件传输、RDP/VNC/SPICE 远程桌面、9 种数据库客户端、Kubernetes 与 Docker/Podman/containerd 容器管理及服务器监控。内置自主 AI Agent 可规划并迭代执行多轮 shell 命令，支持 Anthropic/OpenAI 兼容 API、MCP Server、技能工作流与执行权限分级。提供 Windows/macOS/Linux/Android 安装包及 Docker Web 多租户部署。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- AI Agent 多轮自主执行 shell 命令，四种权限管控模式（Bypass/仅危险/危险+写入/全部确认）
-- 内置 MCP Server，外部 AI agent 可操作已保存连接且凭据不出应用
-- 30+ 协议：SSH/RDP/SFTP/9 类数据库/K8s/Docker/Podman/nerdctl
-- 五种加密云同步模式与 11 语言 UI
+- AI Agent 多轮自主执行 shell 命令，提供 Bypass 到全部确认的权限分级
+- 内置 MCP Server，外部 AI 客户端可在保存的连接上执行命令与传输文件
+- 30+ 协议覆盖终端、文件传输、远程桌面、数据库与容器管理
+- 加密云同步支持 Git/WebDAV/SFTP/S3/SMB 五种模式
 
 ## 适用场景
 
-- 通过一个终端集中管理 SSH 服务器、数据库、容器集群
-- 让 AI Agent 在终端中自主完成多步运维命令
-- 部署 Docker Web 版给团队提供多租户浏览器访问终端
-- 从 MobaXterm/Xshell 导入既有连接配置
+- 一站式管理服务器 SSH 连接、SFTP 传文件与远程桌面
+- 通过对话让 AI Agent 在终端里代为执行运维命令
+- 浏览与管理 Kubernetes 集群资源和多类容器运行时
+- 用自然语言查询 MySQL/PostgreSQL 等数据库并编辑数据行
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+ · 领域:开发运维工具/终端
 
 ## 证据(README 行号)
 
-> L3:  All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more With a built-in AI Agen
-> L40: Autonomous AI Agent that independently plans and executes multi-turn shell commands directly in your terminal.
 > L29: Remote terminal, local & serial terminal, file transfer, remote desktop, database, containers, and server monitor —
+> L40: Autonomous AI Agent that independently plans and executes multi-turn shell commands directly in your terminal.
+> L3:  All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more With a built-in AI Agen
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ys-ll/uniterm 星数(近 27 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 871 --> 1319
-    line [908, 915, 935, 944, 954, 966, 975, 982, 988, 991, 915, 1102, 1137, 1155, 1170, 1175, 1178, 1181, 1189, 1202, 1219, 1227, 1230, 1239, 1248, 1264, 1282]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 878 --> 1326
+    line [915, 935, 944, 954, 966, 975, 982, 988, 991, 915, 1102, 1137, 1155, 1170, 1175, 1178, 1181, 1189, 1202, 1219, 1227, 1230, 1239, 1248, 1264, 1282, 1289]
 ```
 
-2026-10-24 908 → 2026-11-26 1,282（+374）
+2026-10-25 915 → 2026-11-27 1,289（+374）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `bc7e1cab1f51` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `64db000a3136` · [字段定义](../../DATASET.md)*

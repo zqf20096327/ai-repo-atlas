@@ -1,6 +1,6 @@
 # opus-arc/bBpiano
 
-⭐ 17 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/opus-arc/bBpiano) · [官网](https://opus-arc.github.io/bBpiano/) · 个人维护 · 中文 README
+⭐ 17 · C++ · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/opus-arc/bBpiano) · [官网](https://opus-arc.github.io/bBpiano/) · 个人维护 · 中文 README
 
 **受 Pianoteq 启发的物理建模钢琴合成引擎（研发阶段）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "opus-arc/bBpiano 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 13 --> 18
     line [14, 15, 14, 15, 17, 17]
 ```
 
-2026-10-24 14 → 2026-11-26 17（+3）
+2026-10-25 14 → 2026-11-27 17（+3）
 
 
 ---

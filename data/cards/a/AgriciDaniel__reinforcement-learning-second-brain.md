@@ -1,6 +1,6 @@
 # AgriciDaniel/reinforcement-learning-second-brain
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/reinforcement-learning-second-brain) · [官网](https://www.skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/AgriciDaniel/reinforcement-learning-second-brain) · [官网](https://www.skool.com/ai-marketing-hub-pro) · 个人维护
 
 **强化学习第二大脑：34 个溯源主题的 Obsidian 知识库 + Agent 操作层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/reinforcement-learning-second-brain 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 13, 13]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 13, 14]
 ```
 
-2026-10-24 11 → 2026-11-26 13（+2）
+2026-10-25 11 → 2026-11-27 14（+3）
 
 
 ---

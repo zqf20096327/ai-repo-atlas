@@ -1,6 +1,6 @@
 # KarpelesLab/oxinfer
 
-⭐ 3 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/KarpelesLab/oxinfer) · [官网](https://karpeleslab.github.io/oxinfer/) · 组织维护
+⭐ 4 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/KarpelesLab/oxinfer) · [官网](https://karpeleslab.github.io/oxinfer/) · 组织维护
 
 **纯 Rust 本地推理引擎：在任意设备上运行语言/视觉/图像/语音/嵌入模型**
 
@@ -41,6 +41,18 @@ oxinfer 用纯 Rust 实现本地推理，无需 BLAS 或机器学习框架，直
 > L8: Local inference in pure Rust for language, vision, image, speech and embedding models: run
 > L61: Supported models. No BLAS, no ML framework: weights are read straight out of
 > L34: The same address serves an OpenAI-compatible API (`/v1`) and Anthropic's (`/v1/messages`). The
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KarpelesLab/oxinfer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

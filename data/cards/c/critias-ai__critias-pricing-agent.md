@@ -46,12 +46,12 @@ Critias 是一个开源定价分析 agent，以本地浏览器应用形式运行
 ```mermaid
 xychart-beta
     title "critias-ai/critias-pricing-agent 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-26"]
+    x-axis ["2026-11-13", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-26 3（+0）
+2026-11-13 3 → 2026-11-27 3（+0）
 
 
 ---

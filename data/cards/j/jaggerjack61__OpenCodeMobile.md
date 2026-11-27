@@ -45,13 +45,13 @@ Kotlin + Jetpack Compose 编写的 Android 应用，接入 OpenCode Go 的 OpenA
 
 ```mermaid
 xychart-beta
-    title "jaggerjack61/OpenCodeMobile 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 13 --> 18
-    line [14, 16, 17, 17]
+    title "jaggerjack61/OpenCodeMobile 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 17]
 ```
 
-2026-10-24 14 → 2026-11-26 17（+3）
+2026-10-25 16 → 2026-11-27 17（+1）
 
 
 ---

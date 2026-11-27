@@ -1,6 +1,6 @@
 # embedder-dev/embedder-cli
 
-⭐ 28 · Shell · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/embedder-dev/embedder-cli) · [官网](https://embedder.com/) · 组织维护
+⭐ 28 · Shell · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/embedder-dev/embedder-cli) · [官网](https://embedder.com/) · 组织维护
 
 **面向嵌入式软件的企业 AI 平台：agent 直接对真实硬件写码烧录调试**
 
@@ -44,12 +44,12 @@ Embedder 是面向嵌入式软件开发的 AI 平台，整合代码仓库、硬�
 ```mermaid
 xychart-beta
     title "embedder-dev/embedder-cli 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-24 27 → 2026-11-26 28（+1）
+2026-10-25 27 → 2026-11-27 28（+1）
 
 
 ---

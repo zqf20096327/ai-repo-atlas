@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Carbon-Aware-AI
 
-⭐ 26 · 推送 2026-08-28 · [GitHub](https://github.com/Hazrat-Ali9/Carbon-Aware-AI) · [官网](https://github.com/Hazrat-Ali9/Carbon-Aware-AI) · 个人维护
+⭐ 30 · 推送 2026-08-28 · [GitHub](https://github.com/Hazrat-Ali9/Carbon-Aware-AI) · [官网](https://github.com/Hazrat-Ali9/Carbon-Aware-AI) · 个人维护
 
 **可持续 AI 研究项目：降低 AI 训练推理的能耗与碳排放**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hazrat-Ali9/Carbon-Aware-AI 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 27
-    line [10, 11, 15, 22, 25, 26, 26]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 8 --> 32
+    line [10, 11, 15, 22, 25, 26, 30]
 ```
 
-2026-11-08 10 → 2026-11-26 26（+16）
+2026-11-08 10 → 2026-11-27 30（+20）
 
 
 ---

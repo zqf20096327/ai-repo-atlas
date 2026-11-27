@@ -1,6 +1,6 @@
 # brucetoo/visual-agentic-dev
 
-⭐ 103 · TypeScript · NOASSERTION · 推送 2026-02-14 · [GitHub](https://github.com/brucetoo/visual-agentic-dev) · 个人维护
+⭐ 104 · TypeScript · NOASSERTION · 推送 2026-02-14 · [GitHub](https://github.com/brucetoo/visual-agentic-dev) · 个人维护
 
 **浏览器内点击定位元素并交给 AI agent 修改的沉浸式开发环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brucetoo/visual-agentic-dev 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 101 --> 104
-    line [103, 102, 103, 102, 103, 103]
+    title "brucetoo/visual-agentic-dev 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 101 --> 105
+    line [102, 103, 102, 103, 104]
 ```
 
-2026-10-24 103 → 2026-11-26 103（+0）
+2026-10-25 102 → 2026-11-27 104（+2）
 
 
 ---

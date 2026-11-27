@@ -45,13 +45,13 @@ Universal Intelligence（UIN）提出一套无框架的智能体协议，定义 
 
 ```mermaid
 xychart-beta
-    title "spacehendrix/universal-intelligence 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 62 --> 65
-    line [63, 64, 64]
+    title "spacehendrix/universal-intelligence 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 63 --> 65
+    line [64, 64]
 ```
 
-2026-10-24 63 → 2026-11-26 64（+1）
+2026-10-25 64 → 2026-11-27 64（+0）
 
 
 ---

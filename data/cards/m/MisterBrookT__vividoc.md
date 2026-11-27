@@ -41,6 +41,18 @@ ViviDoc 接受单个主题输入，生成自包含的交互式 HTML 教学文档
 > L24: Installs `/vividoc`, `/vividoc-learn`, and `/vividoc-slides` into `~/.claude/commands/`. Your harness is the model 
 > L16: > **Accepted at ACL 2026 System Demonstrations** — arXiv:2603.01912
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MisterBrookT/vividoc 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `7dea50505ed4` · [字段定义](../../DATASET.md)*

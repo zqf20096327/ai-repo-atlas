@@ -1,6 +1,6 @@
 # AnOversizedMooseWithSocks/leCore
 
-⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AnOversizedMooseWithSocks/leCore) · [官网](https://discoverleos.com/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AnOversizedMooseWithSocks/leCore) · [官网](https://discoverleos.com/) · 个人维护
 
 **纯 NumPy 的全息向量计算引擎：用超向量统一记忆、几何与物理**
 
@@ -47,12 +47,12 @@ leOS 抽出的核心引擎，用超向量（高维空间中的点）表示记忆
 ```mermaid
 xychart-beta
     title "AnOversizedMooseWithSocks/leCore 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

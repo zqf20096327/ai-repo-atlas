@@ -1,6 +1,6 @@
 # SolitudeZY/OpinionLens
 
-⭐ 38 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SolitudeZY/OpinionLens) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SolitudeZY/OpinionLens) · 个人维护 · 中文 README
 
 **给个人研究者与中小团队的社媒舆情采集与 AI 报告桌面端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SolitudeZY/OpinionLens 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 12 --> 40
-    line [14, 29, 37, 38, 38]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 12 --> 43
+    line [14, 29, 37, 38, 41]
 ```
 
-2026-11-20 14 → 2026-11-26 38（+24）
+2026-11-20 14 → 2026-11-27 41（+27）
 
 
 ---

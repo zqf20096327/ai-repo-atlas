@@ -1,6 +1,6 @@
 # Jamessdevops/micracode
 
-⭐ 300 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jamessdevops/micracode) · [官网](https://www.micracode.com/) · 个人维护
+⭐ 301 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jamessdevops/micracode) · [官网](https://www.micracode.com/) · 个人维护
 
 **本地运行的 AI 网页应用生成器：自然语言描述生成代码**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jamessdevops/micracode 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 293 --> 301
-    line [297, 296, 295, 294, 295, 296, 297, 298, 299, 300, 300]
+    title "Jamessdevops/micracode 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 293 --> 302
+    line [296, 295, 294, 295, 296, 297, 298, 299, 300, 301]
 ```
 
-2026-10-24 297 → 2026-11-26 300（+3）
+2026-10-25 296 → 2026-11-27 301（+5）
 
 
 ---

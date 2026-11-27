@@ -1,6 +1,6 @@
 # modelscope/entropack
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/modelscope/entropack) · 组织维护 · 中文 README
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/modelscope/entropack) · 组织维护 · 中文 README
 
 **PyTorch 张量压缩库：无损/有损压缩模型权重**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "modelscope/entropack 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 23 --> 31
-    line [24, 25, 24, 26, 28, 30, 30]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 23 --> 32
+    line [24, 25, 24, 26, 28, 30, 31]
 ```
 
-2026-10-24 24 → 2026-11-26 30（+6）
+2026-10-25 24 → 2026-11-27 31（+7）
 
 
 ---

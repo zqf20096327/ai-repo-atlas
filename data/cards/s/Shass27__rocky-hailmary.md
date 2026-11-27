@@ -1,6 +1,6 @@
 # Shass27/rocky-hailmary
 
-⭐ 10 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/Shass27/rocky-hailmary) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/Shass27/rocky-hailmary) · 个人维护
 
 **本地 Ollama 角色扮演 Rocky 的粉丝 AI 聊天项目**
 
@@ -38,6 +38,18 @@
 > L3: Local AI chat experience that roleplays Rocky (the Eridian engineer from
 > L18: - `model/ModelFile` - Rocky model definition and system prompt
 > L56: ollama create rocky -f model/ModelFile
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Shass27/rocky-hailmary 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

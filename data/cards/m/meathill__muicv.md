@@ -1,6 +1,6 @@
 # meathill/muicv
 
-⭐ 10 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/meathill/muicv) · [官网](https://muicv.com) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/meathill/muicv) · [官网](https://muicv.com) · 个人维护 · 中文 README
 
 **在 AI agent 里管理简历素材并生成求职简历的技能集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "meathill/muicv 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-26 10（+0）
+2026-11-10 10 → 2026-11-27 10（+0）
 
 
 ---

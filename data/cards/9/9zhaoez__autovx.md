@@ -40,6 +40,18 @@
 > L9: 帮你自动回复微信消息的程序。屏幕截图 + OCR 识字 + AI 生成回复 + 模拟键盘打字，不需要 hook 微信任何接口，就像一个人真的坐在电脑前帮你回消息。
 > L72: |🧠 AI 智能回复|DeepSeek / OpenAI / Ollama / SiliconFlow 四选一|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "9zhaoez/autovx 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `093d7f09d2f0` · [字段定义](../../DATASET.md)*

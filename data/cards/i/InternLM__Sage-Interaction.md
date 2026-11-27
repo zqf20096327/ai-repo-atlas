@@ -1,6 +1,6 @@
 # InternLM/Sage-Interaction
 
-⭐ 36 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/InternLM/Sage-Interaction) · 组织维护 · 中文 README
+⭐ 58 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/InternLM/Sage-Interaction) · 组织维护 · 中文 README
 
 **9B 全双工多模态交互模型，边对话边委派后台任务**
 
@@ -40,6 +40,18 @@
 
 > L34: We introduce **Sage-Interaction**, a **9B-parameter omni interaction model** built on **MiniCPM-o 4.5**. It combine
 > L81: The real-time voice demo runs Sage-Interaction as the frontend model and connects to an OpenAI-compatible API as th
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "InternLM/Sage-Interaction 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 34 --> 60
+    line [36, 58]
+```
+
+2026-11-26 36 → 2026-11-27 58（+22）
 
 
 ---

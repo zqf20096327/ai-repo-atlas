@@ -1,6 +1,6 @@
 # daniil-shmelev/pySigLib
 
-⭐ 28 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/daniil-shmelev/pySigLib) · [官网](https://pysiglib.readthedocs.io) · 个人维护
+⭐ 28 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/daniil-shmelev/pySigLib) · [官网](https://pysiglib.readthedocs.io) · 个人维护
 
 **路径签名/log签名/签名核计算库：PyTorch、JAX、CUDA 加速**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "daniil-shmelev/pySigLib 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-24 27 → 2026-11-26 28（+1）
+2026-10-25 27 → 2026-11-27 28（+1）
 
 
 ---

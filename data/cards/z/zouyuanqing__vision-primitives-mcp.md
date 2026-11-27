@@ -42,6 +42,18 @@
 > L7: > **项目定位**：通用视觉推理桥接层——文本模型 + **任意 VLM** 的通用视觉工作流，本地隐私 + 单文件轻量。**高泛化优先**：核心能力（定位/切块/放大/读取）全部是纯 VLM + PIL，专用检测器（YOLO/C
 > L11:     │  MCP 协议（stdio, JSON-RPC 2.0）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zouyuanqing/vision-primitives-mcp 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `63bfbd245604` · [字段定义](../../DATASET.md)*

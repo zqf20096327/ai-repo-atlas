@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ajaybhat/Tensorflow-For-Beginners 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-24 48 → 2026-11-26 48（+0）
+2026-10-25 48 → 2026-11-27 48（+0）
 
 
 ---

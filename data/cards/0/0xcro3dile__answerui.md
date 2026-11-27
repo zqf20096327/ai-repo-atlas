@@ -1,6 +1,6 @@
 # 0xcro3dile/answerui
 
-⭐ 42 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/0xcro3dile/answerui) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/0xcro3dile/answerui) · 个人维护
 
 **开源生成式 UI 聊天前端：以图表/3D 场景等界面回答提问**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "0xcro3dile/answerui 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 38 --> 43
-    line [39, 41, 42, 42]
+    title "0xcro3dile/answerui 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-24 39 → 2026-11-26 42（+3）
+2026-10-25 41 → 2026-11-27 43（+2）
 
 
 ---

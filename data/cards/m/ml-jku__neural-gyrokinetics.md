@@ -1,6 +1,6 @@
 # ml-jku/neural-gyrokinetics
 
-⭐ 39 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ml-jku/neural-gyrokinetics) · [官网](https://ml-jku.github.io/blog/2025/gyroswin/) · 组织维护
+⭐ 39 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ml-jku/neural-gyrokinetics) · [官网](https://ml-jku.github.io/blog/2025/gyroswin/) · 组织维护
 
 **加速等离子体湍流模拟的机器学习研究代码集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ml-jku/neural-gyrokinetics 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-24 39 → 2026-11-26 39（+0）
+2026-10-25 39 → 2026-11-27 39（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # victormunoz-sec/hebbmesh
 
-⭐ 4 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/victormunoz-sec/hebbmesh) · 个人维护 · 中文 README
+⭐ 8 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/victormunoz-sec/hebbmesh) · 个人维护 · 中文 README
 
 **为 AI Agent 提供零嵌入、零 LLM 调用的 Markdown 记忆引擎**
 
@@ -41,6 +41,18 @@
 > L8: > **What is HebbMesh?** Most AI agent memory stacks either dump raw Markdown into your prompt (burning tokens) or fo
 > L60: # CLI (great for Claude Code, Cursor, OpenCode, or Antigravity SessionStart hooks):
 > L71: const mem = activateNetwork('./my-memory', userMessage, { topK: 5 });
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "victormunoz-sec/hebbmesh 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 9
+    line [4, 8]
+```
+
+2026-11-26 4 → 2026-11-27 8（+4）
 
 
 ---

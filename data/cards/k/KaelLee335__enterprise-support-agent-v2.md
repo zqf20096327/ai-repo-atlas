@@ -41,6 +41,18 @@
 > L7: - **业务流程**：身份与租户校验 → FastAPI → LangGraph 路由 → 订单查询、政策 RAG、模拟物流或审批流程。
 > L20: |智能客服|订单查询、政策问答、引用证据和节点执行事件|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KaelLee335/enterprise-support-agent-v2 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 141 --> 143
+    line [142, 142]
+```
+
+2026-11-26 142 → 2026-11-27 142（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7885764611d6` · [字段定义](../../DATASET.md)*

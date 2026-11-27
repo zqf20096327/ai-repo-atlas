@@ -1,6 +1,6 @@
 # RohanMuppa/brightspace-mcp-server
 
-⭐ 69 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/RohanMuppa/brightspace-mcp-server) · [官网](https://www.npmjs.com/package/brightspace-mcp-server) · 个人维护
+⭐ 69 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/RohanMuppa/brightspace-mcp-server) · [官网](https://www.npmjs.com/package/brightspace-mcp-server) · 个人维护
 
 **让学生/教师通过 AI 应用查看 Brightspace 课程数据的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RohanMuppa/brightspace-mcp-server 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-27"]
     y-axis "stars" 58 --> 70
     line [59, 60, 61, 62, 59, 64, 65, 67, 68, 69, 69]
 ```
 
-2026-10-24 59 → 2026-11-26 69（+10）
+2026-10-25 59 → 2026-11-27 69（+10）
 
 
 ---

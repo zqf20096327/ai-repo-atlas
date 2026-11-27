@@ -1,6 +1,6 @@
 # sugarforever/chat-ollama
 
-⭐ 3,528 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/sugarforever/chat-ollama) · 组织维护
+⭐ 3,528 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/sugarforever/chat-ollama) · 组织维护
 
 **自托管 AI agent 对话应用：本地/托管模型加文档知识库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sugarforever/chat-ollama 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-21", "2026-11-26"]
+    title "sugarforever/chat-ollama 星数(近 5 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 3523 --> 3529
-    line [3524, 3528, 3527, 3528]
+    line [3524, 3528, 3527, 3528, 3528]
 ```
 
-2026-11-15 3,524 → 2026-11-26 3,528（+4）
+2026-11-15 3,524 → 2026-11-27 3,528（+4）
 
 
 ---

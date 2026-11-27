@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）的插件，注册单一工具 web_deepseek_solve：把
 ```mermaid
 xychart-beta
     title "zyygkg/deepseek-harness-harness 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-21", "2026-11-27"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 7]
 ```
 
-2026-10-24 5 → 2026-11-26 7（+2）
+2026-10-25 5 → 2026-11-27 7（+2）
 
 
 ---

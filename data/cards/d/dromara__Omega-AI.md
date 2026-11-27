@@ -1,16 +1,16 @@
 # dromara/Omega-AI
 
-⭐ 837 · Java · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/dromara/Omega-AI) · 个人维护 · 中文 README
+⭐ 837 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dromara/Omega-AI) · 组织维护 · 中文 README
 
-**Java 深度学习框架：从零搭建神经网络训练与推理**
+**给 Java 开发者的纯 Java 深度学习框架：搭建网络、训练与推理**
 
-纯 Java 实现的深度学习框架，提供自动微分、多线程与 CUDA/cuDNN GPU 加速，支持 BP、CNN、RNN、LSTM、Transformer、GPT、Llama、Diffusion、YOLO 等模型的构建与训练。面向 Java 开发者学习算法原理与接触 AI 领域。除 CUDA/cuDNN 相关依赖外不使用第三方 API，以 Maven 引擎包形式引入，自带 iris/mnist/cifar_10 数据集与多组示例代码；GPU 版本需安装与本机匹配的 CUDA，训练大模型需调整 JVM 内存参数。
+基于 Java 实现的深度学习框架，提供自动微分、多线程与 CUDA/cuDNN GPU 加速的引擎，除 CUDA 相关依赖外不使用第三方 API。内置全连接/卷积/循环/注意力等网络层、多种优化器与损失函数，README 展示了 yolo 目标识别、GAN、GPT2/llama 聊天与医疗问答、diffusion/stable diffusion 文生图等模型构建，并通过 Maven 引入 omega-engine 包使用。训练大参数模型需调整 JVM 内存；GPU 版需按 CUDA 版本匹配 jcuda 依赖。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 纯 Java 引擎，除 CUDA/cuDNN 外不依赖第三方包
-- 支持 CUDA/cuDNN 两种 GPU 加速与多 GPU 训练
-- 覆盖 GPT/Llama/Transformer/Diffusion/YOLO 等模型构建
-- 提供网络层、优化器、损失函数、学习率更新器等组件与示例代码
+- 纯 Java 实现引擎，除 CUDA/cuDNN 依赖外不使用第三方 API
+- 支持 BP/CNN/RNN/yolo/transformer/gpt/llama/diffusion/stable diffusion 等模型构建
+- 提供 18 类网络层、6 种优化器、多种损失函数与学习率更新器
+- 支持多 GPU 训练与 CUDA/cuDNN 加速
 
 ## 适用场景
 
-- Java 开发者在本语言内训练神经网络模型
-- 学习深度学习算法与模型实现原理
-- 做目标检测（口罩/安全帽/商品）、文生图等演示项目
+- 在 Java 项目中训练或推理神经网络模型
+- 实现 yolo 目标识别与追踪应用
+- 微调 GPT2/llama 模型做聊天机器人或医疗问答
+- 训练 diffusion/stable diffusion 做文生图
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+`聊天机器人` `图像生成` `目标检测` `微调` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L10: Omega-AI：基于java打造的深度学习框架，帮助你快速搭建神经网络，实现训练或测试模型，支持多GPU训练。框架目前支持BP神经网络、卷积神经网络、循环神经网络、vgg16、resnet、yolo、lstm、transform
-> L8: 从2016年开始利用空余时间研究深度学习的方面，由于工作的原因，最熟悉的编程语言就是java，所以框架的编程语言自然而然就使用了java。自己打造框架的初衷就是为了更加深入了解各个算法、模型、实现的原理和思路，同时让java开发者更
+> L289: ## 功能介绍
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "dromara/Omega-AI 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
+    title "dromara/Omega-AI 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 833 --> 838
-    line [835, 834, 835, 836, 837, 836, 837]
+    line [835, 834, 835, 836, 837, 836, 837, 837]
 ```
 
-2026-10-24 835 → 2026-11-26 837（+2）
+2026-10-25 835 → 2026-11-27 837（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `76e58942b0e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `bbd97900e5be` · [字段定义](../../DATASET.md)*

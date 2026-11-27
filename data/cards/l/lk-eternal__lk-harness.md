@@ -1,6 +1,6 @@
 # lk-eternal/lk-harness
 
-⭐ 13 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/lk-eternal/lk-harness) · [官网](https://lk-ai.top/harness) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/lk-eternal/lk-harness) · [官网](https://lk-ai.top/harness) · 个人维护 · 中文 README
 
 **桌面 Agent 宿主：让本地 Agent 经飞书/微信/手机随时受指挥**
 
@@ -40,6 +40,18 @@ Electron 桌面应用，在本机目录与仓库中运行 Agent，应用负责�
 > L10: LK Harness 是装在你电脑上的桌面应用。Agent 在你自己的目录和仓库里干活；你在应用内对话页、手机、飞书或微信里发一句话就能指挥它，过程实时回传，要拿主意时点一下就继续。
 > L24: - **引擎可换。** 接 Cursor SDK，或 OpenAI、Anthropic、DeepSeek 等大模型 API，或自定义的兼容网关。
 > L25: - **宿主管流程，AI 管干活。** 消息投递、重试、打断、续聊由应用的代码保证，不靠提示词。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lk-eternal/lk-harness 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-26 13 → 2026-11-27 13（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L41: |**GPU configuration**|tick every box of 48 GB or more, on both tabs **Previous generation** and **Latest generatio
 > L75: The same worker also runs on Modal — another serverless GPU service, billed by the second — from `modal_app.py` in 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "afterdark-workers/h3-eros-max 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8652d0063801` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # qualcomm/awesome-qualcomm-developer
 
-⭐ 11 · JavaScript · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/qualcomm/awesome-qualcomm-developer) · [官网](https://qualcomm.github.io/awesome-qualcomm-developer/) · 组织维护
+⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/qualcomm/awesome-qualcomm-developer) · [官网](https://qualcomm.github.io/awesome-qualcomm-developer/) · 组织维护
 
 **面向开发者的 Qualcomm 平台开源项目目录清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "qualcomm/awesome-qualcomm-developer 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-24 10 → 2026-11-26 11（+1）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

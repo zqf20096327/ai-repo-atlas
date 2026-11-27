@@ -1,6 +1,6 @@
 # mac999/AI_foundation_tutorial
 
-⭐ 24 · Jupyter Notebook · MIT · 推送 2026-04-06 · [GitHub](https://github.com/mac999/AI_foundation_tutorial) · 个人维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-04-06 · [GitHub](https://github.com/mac999/AI_foundation_tutorial) · 个人维护
 
 **AI 基础与趋势研讨课教程：代码+幻灯片+实训材料**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mac999/AI_foundation_tutorial 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-24 24 → 2026-11-26 24（+0）
+2026-10-25 24 → 2026-11-27 25（+1）
 
 
 ---

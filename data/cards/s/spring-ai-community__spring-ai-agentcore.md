@@ -1,6 +1,6 @@
 # spring-ai-community/spring-ai-agentcore
 
-⭐ 72 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/spring-ai-community/spring-ai-agentcore) · 组织维护
+⭐ 73 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/spring-ai-community/spring-ai-agentcore) · 组织维护
 
 **将 Amazon Bedrock AgentCore 能力接入 Spring AI 的集成库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spring-ai-community/spring-ai-agentcore 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 69 --> 73
-    line [70, 72, 72]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 69 --> 74
+    line [70, 72, 73]
 ```
 
-2026-10-24 70 → 2026-11-26 72（+2）
+2026-10-25 70 → 2026-11-27 73（+3）
 
 
 ---

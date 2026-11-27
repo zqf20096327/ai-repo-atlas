@@ -1,6 +1,6 @@
 # eth-sri/type-constrained-code-generation
 
-⭐ 106 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/eth-sri/type-constrained-code-generation) · [官网](https://pldi25.sigplan.org/details/pldi-2025-papers/25/Type-Constrained-Code-Generation-with-Language-Models) · 组织维护
+⭐ 107 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/eth-sri/type-constrained-code-generation) · [官网](https://pldi25.sigplan.org/details/pldi-2025-papers/25/Type-Constrained-Code-Generation-with-Language-Models) · 组织维护
 
 **类型约束 LLM 代码生成：约束采样只产出类型安全的 TypeScript 程序**
 
@@ -46,12 +46,12 @@ PLDI 2025 论文 Type-Constrained Code Generation with Language Models 的复现
 ```mermaid
 xychart-beta
     title "eth-sri/type-constrained-code-generation 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 104 --> 107
-    line [105, 106, 105, 106, 106]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 105, 106, 107]
 ```
 
-2026-10-24 105 → 2026-11-26 106（+1）
+2026-10-25 105 → 2026-11-27 107（+2）
 
 
 ---

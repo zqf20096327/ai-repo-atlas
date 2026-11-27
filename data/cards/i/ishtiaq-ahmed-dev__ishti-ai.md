@@ -1,6 +1,6 @@
 # ishtiaq-ahmed-dev/ishti-ai
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ishtiaq-ahmed-dev/ishti-ai) · [官网](https://github.com/ishtiaq-ahmed-dev/ishti-ai#readme) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ishtiaq-ahmed-dev/ishti-ai) · [官网](https://github.com/ishtiaq-ahmed-dev/ishti-ai#readme) · 个人维护
 
 **Windows 本地优先的个人 AI 助手：语音、记忆、120+ 技能与 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ishtiaq-ahmed-dev/ishti-ai 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-26 3（+0）
+2026-11-21 3 → 2026-11-27 3（+0）
 
 
 ---

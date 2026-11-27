@@ -1,6 +1,6 @@
 # Trustworthy-ML-Lab/when2tool
 
-⭐ 24 · Python · 推送 2026-11-05 · [GitHub](https://github.com/Trustworthy-ML-Lab/when2tool) · [官网](https://lilywenglab.github.io/when2tool/) · 组织维护
+⭐ 27 · Python · 推送 2026-11-05 · [GitHub](https://github.com/Trustworthy-ML-Lab/when2tool) · [官网](https://lilywenglab.github.io/when2tool/) · 组织维护
 
 **研究 LLM 何时需要调用工具的基准与探针框架**
 
@@ -39,6 +39,18 @@ NeurIPS 2026 论文的官方仓库，包含两部分：When2Tool 基准（15 个
 
 > L11: Tool-augmented LLM agents tend to call tools indiscriminately, even when the model can answer directly. We design *
 > L30: Our benchmark **When2Tool** is available on HuggingFace: cesun/When2Tool.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Trustworthy-ML-Lab/when2tool 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 23 --> 28
+    line [24, 27]
+```
+
+2026-11-26 24 → 2026-11-27 27（+3）
 
 
 ---

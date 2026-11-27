@@ -1,6 +1,6 @@
 # Yigtwxx/J.A.R.V.I.S
 
-⭐ 12 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Yigtwxx/J.A.R.V.I.S) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Yigtwxx/J.A.R.V.I.S) · 个人维护
 
 **本地运行的 OSINT 情报平台：抓取网络信息生成人物情报档案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yigtwxx/J.A.R.V.I.S 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-25 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

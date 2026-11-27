@@ -1,6 +1,6 @@
 # HKUST-KnowComp/AutoSchemaKG
 
-⭐ 851 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/HKUST-KnowComp/AutoSchemaKG) · [官网](https://hkust-knowcomp.github.io/AutoSchemaKG/) · 组织维护
+⭐ 852 · Python · MIT · 推送 2026-04-29 · [GitHub](https://github.com/HKUST-KnowComp/AutoSchemaKG) · [官网](https://hkust-knowcomp.github.io/AutoSchemaKG/) · 组织维护
 
 **面向开发者的自动知识图谱构建框架：LLM 抽取三元组并归纳 schema**
 
@@ -44,13 +44,13 @@ HKUST KnowComp 团队的知识图谱构建框架，采用两阶段方法：用 L
 
 ```mermaid
 xychart-beta
-    title "HKUST-KnowComp/AutoSchemaKG 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 841 --> 852
-    line [843, 842, 843, 845, 846, 842, 848, 849, 848, 849, 848, 849, 851, 851]
+    title "HKUST-KnowComp/AutoSchemaKG 星数(近 13 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 841 --> 853
+    line [842, 843, 845, 846, 842, 848, 849, 848, 849, 848, 849, 851, 852]
 ```
 
-2026-10-24 843 → 2026-11-26 851（+8）
+2026-10-25 842 → 2026-11-27 852（+10）
 
 
 ---

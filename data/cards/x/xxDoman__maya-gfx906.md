@@ -41,6 +41,18 @@
 > L23: dashboard (`serve/server.py`, unmodified) on top of the Strata engine built for `gfx906`, with the
 > L88: Then `http://<host>:8092/` for the dashboard, `/v1/chat/completions` and `/v1/messages` for clients,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xxDoman/maya-gfx906 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e544d5551c53` · [字段定义](../../DATASET.md)*

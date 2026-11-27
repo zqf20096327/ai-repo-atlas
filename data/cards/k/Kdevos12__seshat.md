@@ -1,6 +1,6 @@
 # Kdevos12/seshat
 
-⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Kdevos12/seshat) · 个人维护
+⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Kdevos12/seshat) · 个人维护
 
 **自主数学研究的 LLM agent 框架：Lean4 核验每条证明**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kdevos12/seshat 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-26"]
+    title "Kdevos12/seshat 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 6
-    line [3, 5, 4]
+    line [3, 5, 4, 4]
 ```
 
-2026-11-20 3 → 2026-11-26 4（+1）
+2026-11-20 3 → 2026-11-27 4（+1）
 
 
 ---

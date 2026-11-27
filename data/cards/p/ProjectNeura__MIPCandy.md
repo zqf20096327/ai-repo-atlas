@@ -42,13 +42,13 @@ Project Neura 维护的医学图像处理基础设施框架：预定义常见网
 
 ```mermaid
 xychart-beta
-    title "ProjectNeura/MIPCandy 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "ProjectNeura/MIPCandy 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 293 --> 296
-    line [294, 295]
+    line [294, 295, 295]
 ```
 
-2026-10-24 294 → 2026-11-26 295（+1）
+2026-10-25 294 → 2026-11-27 295（+1）
 
 
 ---

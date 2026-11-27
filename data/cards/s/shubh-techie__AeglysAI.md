@@ -1,6 +1,6 @@
 # shubh-techie/AeglysAI
 
-⭐ 44 · Python · 推送 2026-11-02 · [GitHub](https://github.com/shubh-techie/AeglysAI) · 个人维护
+⭐ 42 · Python · 推送 2026-11-02 · [GitHub](https://github.com/shubh-techie/AeglysAI) · 个人维护
 
 **实验性自适应授权研究平台：RBAC/ABAC/风险分级决策与行为异常检测探索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "shubh-techie/AeglysAI 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 28 --> 45
-    line [29, 36, 39, 36, 44, 44]
+    title "shubh-techie/AeglysAI 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 35 --> 45
+    line [36, 39, 36, 44, 42]
 ```
 
-2026-10-24 29 → 2026-11-26 44（+15）
+2026-10-25 36 → 2026-11-27 42（+6）
 
 
 ---

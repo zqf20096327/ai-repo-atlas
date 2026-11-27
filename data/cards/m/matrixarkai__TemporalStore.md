@@ -1,6 +1,6 @@
 # matrixarkai/TemporalStore
 
-⭐ 212 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/matrixarkai/TemporalStore) · [官网](https://github.com/matrixarkai/TemporalStore) · 组织维护
+⭐ 212 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/matrixarkai/TemporalStore) · [官网](https://github.com/matrixarkai/TemporalStore) · 组织维护
 
 **Rust 存储引擎：为 LLM 上下文与在线特征提供统一服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "matrixarkai/TemporalStore 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 211 --> 213
     line [212, 212]
 ```
 
-2026-10-24 212 → 2026-11-26 212（+0）
+2026-10-25 212 → 2026-11-27 212（+0）
 
 
 ---

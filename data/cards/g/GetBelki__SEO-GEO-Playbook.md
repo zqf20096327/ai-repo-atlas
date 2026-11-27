@@ -1,6 +1,6 @@
 # GetBelki/SEO-GEO-Playbook
 
-⭐ 8 · CC-BY-4.0 · 推送 2026-11-17 · [GitHub](https://github.com/GetBelki/SEO-GEO-Playbook) · [官网](https://getbelki.com) · 个人维护
+⭐ 8 · CC-BY-4.0 · 推送 2026-11-26 · [GitHub](https://github.com/GetBelki/SEO-GEO-Playbook) · [官网](https://getbelki.com) · 个人维护
 
 **面向电商的 SEO/GEO 知识库：AI 助手可引用的带出处参考**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GetBelki/SEO-GEO-Playbook 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-27"]
     y-axis "stars" 5 --> 9
     line [6, 8, 8]
 ```
 
-2026-10-31 6 → 2026-11-26 8（+2）
+2026-10-31 6 → 2026-11-27 8（+2）
 
 
 ---

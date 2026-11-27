@@ -1,6 +1,6 @@
 # Kugelaudio/curb.js
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Kugelaudio/curb.js) · [官网](https://curbjs.com) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Kugelaudio/curb.js) · [官网](https://curbjs.com) · 组织维护
 
 **生产级语音 agent 框架：用 React 组件写提示与工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kugelaudio/curb.js 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-19", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-19", "2026-11-25", "2026-11-27"]
     y-axis "stars" 8 --> 13
     line [9, 11, 12, 11, 11]
 ```
 
-2026-11-12 9 → 2026-11-26 11（+2）
+2026-11-12 9 → 2026-11-27 11（+2）
 
 
 ---

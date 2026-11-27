@@ -1,6 +1,6 @@
 # microsoft/deepRAG
 
-⭐ 107 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/microsoft/deepRAG) · 组织维护
+⭐ 106 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/microsoft/deepRAG) · 组织维护
 
 **扩展经典向量检索 RAG 的实验性检索增强项目**
 
@@ -43,12 +43,12 @@ deepRAG 项目在经典基于向量数据库的检索之外，引入其他搜索
 ```mermaid
 xychart-beta
     title "microsoft/deepRAG 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-27"]
     y-axis "stars" 103 --> 108
-    line [104, 105, 107, 107]
+    line [104, 105, 107, 106]
 ```
 
-2026-10-23 104 → 2026-11-26 107（+3）
+2026-10-24 104 → 2026-11-27 106（+2）
 
 
 ---

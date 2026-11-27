@@ -1,6 +1,6 @@
 # e-p-armstrong/augmentoolkit
 
-⭐ 1,876 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/e-p-armstrong/augmentoolkit) · 个人维护
+⭐ 1,877 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/e-p-armstrong/augmentoolkit) · 个人维护
 
 **用自有文档生成训练数据并微调领域专家 LLM 的工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "e-p-armstrong/augmentoolkit 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-26"]
+    title "e-p-armstrong/augmentoolkit 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-27"]
     y-axis "stars" 1869 --> 1878
-    line [1872, 1871, 1870, 1871, 1876, 1877, 1876, 1876]
+    line [1871, 1870, 1871, 1876, 1877, 1876, 1877]
 ```
 
-2026-10-24 1,872 → 2026-11-26 1,876（+4）
+2026-10-25 1,871 → 2026-11-27 1,877（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # adynrisy/agentqon
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/adynrisy/agentqon) · [官网](https://www.npmjs.com/package/agentqon) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地 agent 平台：双 agent 使命运行、证据核验与 BYOK/本地模型接入**
 
@@ -11,7 +11,7 @@ AgentQon 通过一条 npm 命令安装终端 harness 与本地平台服务器（
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

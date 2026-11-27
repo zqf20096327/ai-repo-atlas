@@ -41,6 +41,18 @@
 > L14: **Code Mode Antigravity** fixes that with a minimal, zero-dependency MCP server exposing a **live Python session** 
 > L62: * **Works everywhere** — built for **Antigravity**, also compatible with **Claude Code**, **Cursor**, and any stdio
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kninrin-droid/code-mode-antigravity 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `94f5c1a837ef` · [字段定义](../../DATASET.md)*

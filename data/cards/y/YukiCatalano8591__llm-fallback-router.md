@@ -41,6 +41,18 @@ Windows x64 便携版 LLM 运行时：将请求路由到多个免费层服务商
 > L59: Everything from Groq and Gemini free tiers to OpenRouter's free models — 15+ on day one.
 > L67: Yes — drop-in for any client that speaks the OpenAI chat format, including SDKs.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YukiCatalano8591/llm-fallback-router 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 58 --> 60
+    line [59, 59]
+```
+
+2026-11-26 59 → 2026-11-27 59（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6e0c1acdedd5` · [字段定义](../../DATASET.md)*

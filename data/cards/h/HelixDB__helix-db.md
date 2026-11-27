@@ -1,16 +1,16 @@
 # HelixDB/helix-db
 
-⭐ 6,313 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/HelixDB/helix-db) · [官网](https://helix-db.com) · 组织维护
+⭐ 6,315 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/HelixDB/helix-db) · [官网](https://helix-db.com) · 组织维护
 
-**为 AI 应用提供图+向量+全文检索的 Rust 图数据库**
+**面向 AI 应用的内建向量与全文检索的图数据库**
 
-用 Rust 编写的开源 OLTP 图数据库（Apache 2.0），在对象存储之上原生集成向量近似最近邻搜索与 BM25 全文检索，单引擎事务化存储实体、关系、嵌入与文本，一条查询可同时组合图遍历、向量相似与关键词搜索。面向 AI 应用的记忆与检索场景：agent 长期记忆、GraphRAG 与混合 RAG、知识图谱。通过 CLI 安装，本地实例依赖 Docker 或 Podman，支持嵌入式运行与 Helix Cloud 托管部署，提供 Rust/TypeScript/Python/Go 四种 SDK。
+以 Rust 编写、构建于对象存储之上的开源（Apache 2.0）OLTP 图数据库，将实体、关系、向量嵌入与文本放在同一事务引擎中，支持图遍历、近似最近邻向量检索与 BM25 关键词检索的联合查询。通过 Rust/TypeScript/Python/Go 四种语言的 SDK 以 JSON 请求查询本地实例，也提供内嵌模式、自托管服务器与托管云服务三种部署方式。本地实例默认内存存储，可用 --disk 持久化；源码构建还支持 openCypher 读写的兼容层。README 定位的使用场景是 AI 应用的长期记忆与检索（GraphRAG、混合 RAG、知识图谱）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 图遍历预过滤的向量近似最近邻搜索与 BM25 全文检索原生内建
-- 向量作为节点/边属性索引，图与向量写入同事务提交或回滚
-- 提供 Rust、TypeScript、Python、Go 四种 SDK 与嵌入式运行模式
-- helix chef 可安装技能与 docs MCP 并交接给编码 agent 脚手架项目
+- 图、向量、BM25 全文检索在单一事务引擎中联合查询
+- 向量检索可由图遍历预过滤，限定相似度搜索范围
+- Rust/TypeScript/Python/Go 四种语言 SDK 与内嵌模式
+- helix chef 命令安装查询技能与 docs MCP 并交接给编码 agent
 
 ## 适用场景
 
-- 为 agent 应用存储和检索长期记忆
-- 构建 GraphRAG 或混合 RAG 检索层
-- 搭建关联文档、人员、工具与决策的内部知识图谱
+- 为 agent 搭建长期记忆存储
+- 做 GraphRAG 或混合 RAG 的检索后端
+- 把文档、人员、工具和决策关联成内部知识图谱
+- 替换『图数据库 + 独立向量库』的双存储架构
 
 ## 场景标签
 
-`Agent 记忆` `知识图谱` `RAG` `向量数据库` · 领域:Agent 开发
+`向量数据库` `RAG` `知识图谱` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L174: Memory and retrieval for AI applications: long-term agent memory, GraphRAG and hybrid RAG, and
-> L82: Write queries with an SDK and send them to a running instance through `POST /v2/query`. There is
+> L17: HelixDB is an open-source (Apache 2.0) graph database with native vector search and BM25
+> L179: Memory and retrieval for AI applications: long-term agent memory, GraphRAG and hybrid RAG, and
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "HelixDB/helix-db 星数(近 25 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 6223 --> 6321
-    line [6231, 6235, 6239, 6238, 6239, 6251, 6255, 6256, 6263, 6235, 6274, 6281, 6282, 6287, 6290, 6294, 6296, 6298, 6301, 6305, 6304, 6308, 6309, 6311, 6313]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 6227 --> 6323
+    line [6235, 6239, 6238, 6239, 6251, 6255, 6256, 6263, 6235, 6274, 6281, 6282, 6287, 6290, 6294, 6296, 6298, 6301, 6305, 6304, 6308, 6309, 6311, 6313, 6315]
 ```
 
-2026-10-24 6,231 → 2026-11-26 6,313（+82）
+2026-10-25 6,235 → 2026-11-27 6,315（+80）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0155c9f860fe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1ada60552203` · [字段定义](../../DATASET.md)*

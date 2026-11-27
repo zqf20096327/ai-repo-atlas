@@ -1,6 +1,6 @@
 # leijux/acp-agent
 
-⭐ 3 · Go · 推送 2026-11-22 · [GitHub](https://github.com/leijux/acp-agent) · [官网](https://github.com/leijux/acp-agent/releases) · 个人维护 · 中文 README
+⭐ 3 · Go · 推送 2026-11-26 · [GitHub](https://github.com/leijux/acp-agent) · [官网](https://github.com/leijux/acp-agent/releases) · 个人维护 · 中文 README
 
 **Go 编写的单文件终端编码 agent：内置 shell/JS 与上下文压缩**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leijux/acp-agent 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-26"]
+    x-axis ["2026-11-01", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-01 3 → 2026-11-26 3（+0）
+2026-11-01 3 → 2026-11-27 3（+0）
 
 
 ---

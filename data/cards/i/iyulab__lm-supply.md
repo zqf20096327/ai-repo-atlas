@@ -1,6 +1,6 @@
 # iyulab/lm-supply
 
-⭐ 13 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/iyulab/lm-supply) · 组织维护
+⭐ 13 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iyulab/lm-supply) · 组织维护
 
 **.NET 本地 AI 推理库：按需下载模型，零内置模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iyulab/lm-supply 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 13（+1）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

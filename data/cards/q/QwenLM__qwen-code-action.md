@@ -1,6 +1,6 @@
 # QwenLM/qwen-code-action
 
-⭐ 43 · Shell · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/QwenLM/qwen-code-action) · 组织维护 · 中文 README
+⭐ 43 · Shell · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/QwenLM/qwen-code-action) · 组织维护 · 中文 README
 
 **将 Qwen Code 集成进 GitHub 工作流的 GitHub Action**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/qwen-code-action 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 41 --> 44
     line [42, 43, 42, 43, 43]
 ```
 
-2026-10-24 42 → 2026-11-26 43（+1）
+2026-10-25 42 → 2026-11-27 43（+1）
 
 
 ---

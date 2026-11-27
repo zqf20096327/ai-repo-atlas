@@ -1,6 +1,6 @@
 # johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction
 
-⭐ 637 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction) · 个人维护
+⭐ 638 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction) · 个人维护
 
 **用 LLM+OCR 从银行对账单 PDF 提取并做财务分析的应用**
 
@@ -46,12 +46,12 @@ BankAI 是一个面向个人银行对账单的文档自动化系统：PDF 经 YO
 ```mermaid
 xychart-beta
     title "johnsonhk88/AI-Bank-Statement-Document-Automation-By-LLM-And-Personal-Finanical-Analysis-Prediction 星数(近 12 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 627 --> 638
-    line [628, 629, 630, 629, 631, 633, 634, 635, 636, 635, 636, 637]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 628 --> 639
+    line [629, 630, 629, 631, 633, 634, 635, 636, 635, 636, 637, 638]
 ```
 
-2026-10-24 628 → 2026-11-26 637（+9）
+2026-10-25 629 → 2026-11-27 638（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # stimm-ai/stimm
 
-⭐ 53 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/stimm-ai/stimm) · [官网](https://stimm.ai/) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/stimm-ai/stimm) · [官网](https://stimm.ai/) · 组织维护
 
 **基于 LiveKit 的低延迟语音 agent 运行时（双 agent 协作）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stimm-ai/stimm 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 51 --> 54
     line [52, 53, 52, 53, 53]
 ```
 
-2026-10-24 52 → 2026-11-26 53（+1）
+2026-10-25 52 → 2026-11-27 53（+1）
 
 
 ---

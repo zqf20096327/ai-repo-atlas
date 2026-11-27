@@ -45,12 +45,12 @@ Pingala-8 是面向 llama.cpp 的 2-bit 量化格式，基于小状态格状编�
 ```mermaid
 xychart-beta
     title "Genrius-AI/pingala8-llm 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-26 3（+0）
+2026-10-25 3 → 2026-11-27 3（+0）
 
 
 ---

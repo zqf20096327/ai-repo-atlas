@@ -1,6 +1,6 @@
 # awslabs/AutoHelix
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/awslabs/AutoHelix) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/awslabs/AutoHelix) · 组织维护
 
 **让 AI agent 在验证回路中迭代改进代码与模型的工具**
 
@@ -45,13 +45,13 @@ AutoHelix 是一个轻量 harness，把 agent 放入验证改进回路：用户�
 
 ```mermaid
 xychart-beta
-    title "awslabs/AutoHelix 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-26"]
-    y-axis "stars" 31 --> 37
-    line [32, 33, 32, 33, 34, 35, 36]
+    title "awslabs/AutoHelix 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 31 --> 38
+    line [32, 33, 32, 33, 34, 35, 36, 37]
 ```
 
-2026-10-24 32 → 2026-11-26 36（+4）
+2026-10-25 32 → 2026-11-27 37（+5）
 
 
 ---

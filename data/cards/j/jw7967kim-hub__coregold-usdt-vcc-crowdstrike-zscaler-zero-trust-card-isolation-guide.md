@@ -1,6 +1,6 @@
 # jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide
 
-⭐ 20 · 推送 2026-11-24 · [GitHub](https://github.com/jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 34 · 推送 2026-11-24 · [GitHub](https://github.com/jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向出海运营团队的 CoreGold 虚拟卡开卡与多账号隔离教程**
 
@@ -39,6 +39,18 @@
 
 > L3: # ⚡ CrowdStrike 重磅收购 Zscaler 强化零信任安全！出海团队怎么搭建“零信任支付隔离网”？
 > L24: #### 第一步：注册 CoreGold 账号
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 35
+    line [20, 34]
+```
+
+2026-11-26 20 → 2026-11-27 34（+14）
 
 
 ---

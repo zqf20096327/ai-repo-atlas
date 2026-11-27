@@ -1,6 +1,6 @@
 # space-bacon/SRT
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/space-bacon/SRT) · 个人维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/space-bacon/SRT) · 个人维护
 
 **读取冻结 LLM 隐状态的可移植适配器与探针架构**
 
@@ -46,12 +46,12 @@ SRT-Adapter 是一个约 12-14.6M 参数的轻量模块，附着在完全冻结�
 ```mermaid
 xychart-beta
     title "space-bacon/SRT 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-24 38 → 2026-11-26 38（+0）
+2026-10-25 38 → 2026-11-27 39（+1）
 
 
 ---

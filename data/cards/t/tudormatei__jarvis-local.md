@@ -1,6 +1,6 @@
 # tudormatei/jarvis-local
 
-⭐ 13 · Python · 推送 2026-03-27 · [GitHub](https://github.com/tudormatei/jarvis-local) · 个人维护
+⭐ 14 · Python · 推送 2026-03-27 · [GitHub](https://github.com/tudormatei/jarvis-local) · 个人维护
 
 **本地全离线的语音/文本 AI 语音助手，注重隐私**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tudormatei/jarvis-local 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-21", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14]
 ```
 
-2026-11-08 10 → 2026-11-26 13（+3）
+2026-11-08 10 → 2026-11-27 14（+4）
 
 
 ---

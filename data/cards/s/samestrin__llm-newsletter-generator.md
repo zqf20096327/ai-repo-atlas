@@ -46,12 +46,12 @@ Python 包：读取 RSS/Atom 订阅源（也可配网页和 Hacker News），用
 ```mermaid
 xychart-beta
     title "samestrin/llm-newsletter-generator 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-02 15 → 2026-11-26 15（+0）
+2026-11-02 15 → 2026-11-27 15（+0）
 
 
 ---

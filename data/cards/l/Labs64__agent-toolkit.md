@@ -45,12 +45,12 @@ Labs64 发布的编码 agent 工具集，以 Claude Code 插件形式分发，la
 ```mermaid
 xychart-beta
     title "Labs64/agent-toolkit 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-26 3（+0）
+2026-11-08 3 → 2026-11-27 3（+0）
 
 
 ---

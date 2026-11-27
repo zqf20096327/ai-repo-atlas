@@ -1,6 +1,6 @@
 # huimeicloud/hm_editor
 
-⭐ 126 · HTML · LGPL-2.1 · 推送 2026-09-30 · [GitHub](https://github.com/huimeicloud/hm_editor) · [官网](https://editor.huimei.com/) · 组织维护 · 中文 README
+⭐ 126 · HTML · LGPL-2.1 · 推送 2026-11-26 · [GitHub](https://github.com/huimeicloud/hm_editor) · [官网](https://editor.huimei.com/) · 组织维护 · 中文 README
 
 **面向医疗信息化的开源电子病历编辑器内核，支持AI服务对接**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huimeicloud/hm_editor 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
     y-axis "stars" 123 --> 127
     line [124, 125, 124, 125, 126, 126]
 ```
 
-2026-10-24 124 → 2026-11-26 126（+2）
+2026-10-25 124 → 2026-11-27 126（+2）
 
 
 ---

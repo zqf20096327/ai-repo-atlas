@@ -1,6 +1,6 @@
 # iffiX/neutrino
 
-⭐ 71 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/iffiX/neutrino) · [官网](https://neutrinohub.net/) · 个人维护 · 中文 README
+⭐ 72 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iffiX/neutrino) · [官网](https://neutrinohub.net/) · 个人维护 · 中文 README
 
 **在个人电脑上一键部署 AI 应用并远程访问的面板**
 
@@ -41,6 +41,18 @@
 > L35: 微子·中枢是一个跨主流操作系统部署 AI 时代应用的面板，加一套安全的外部访问路由，给程序员和学生用。
 > L48: AI 工具更新快、配置多，有些默认源安装还慢。微子中枢点一下就帮你装好，模型和密钥统一从 AI 网关来；大家需要的新工具，微子中枢很快就跟上。Windows、macOS、Linux 同样的办法部署，多个下载源自动选最快的。
 > L88: - **AI 网关**：AI 提供方在中枢上配一次，每台电脑上的 Claude Code、Codex 都能用。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iffiX/neutrino 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 70 --> 73
+    line [71, 72]
+```
+
+2026-11-26 71 → 2026-11-27 72（+1）
 
 
 ---

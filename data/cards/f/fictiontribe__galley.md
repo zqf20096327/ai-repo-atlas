@@ -1,6 +1,6 @@
 # fictiontribe/galley
 
-⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fictiontribe/galley) · [官网](https://galleycms.com) · 组织维护
+⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/fictiontribe/galley) · [官网](https://galleycms.com) · 组织维护
 
 **面向静态站点的开源 AI CMS，Astro 优先，提示—校对—发布**
 
@@ -41,6 +41,18 @@ Galley 是一个面向静态站点（Astro 优先）的开源 CMS：内容存于
 > L29: Galley opens a site whose content lives in git and lets anyone change it — in
 > L64:  on the page, retyped in the live preview; or the assistant (Anthropic's
 > L97: - **Your own AI tool.** An MCP server gives Claude Desktop, Claude Code,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fictiontribe/galley 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

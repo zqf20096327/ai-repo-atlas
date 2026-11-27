@@ -1,6 +1,6 @@
 # saroj990/dockerAI
 
-⭐ 4 · Python · 推送 2026-11-05 · [GitHub](https://github.com/saroj990/dockerAI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向开发者：用自然语言/直接命令操作 Docker Engine 的本地 CLI agent**
 

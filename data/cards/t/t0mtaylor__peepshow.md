@@ -1,6 +1,6 @@
 # t0mtaylor/peepshow
 
-⭐ 70 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/t0mtaylor/peepshow) · 个人维护
+⭐ 70 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/t0mtaylor/peepshow) · 个人维护
 
 **把视频/动图抽成帧时间轴与音频转录，供 LLM 查看**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "t0mtaylor/peepshow 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 67 --> 71
-    line [68, 69, 70, 70]
+    title "t0mtaylor/peepshow 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 68 --> 71
+    line [69, 70, 70]
 ```
 
-2026-10-24 68 → 2026-11-26 70（+2）
+2026-10-25 69 → 2026-11-27 70（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # caioldcarvalho/whmcs-mcp
 
-⭐ 11 · JavaScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/caioldcarvalho/whmcs-mcp) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-07-27 · [GitHub](https://github.com/caioldcarvalho/whmcs-mcp) · 个人维护
 
 **面向 WHMCS 主机商的 MCP 服务器：让 Claude 管理客服与账务**
 
@@ -39,6 +39,18 @@
 
 > L3: MCP (Model Context Protocol) server for full integration with the WHMCS API.
 > L106: claude mcp add whmcs \
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "caioldcarvalho/whmcs-mcp 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-26 11 → 2026-11-27 12（+1）
 
 
 ---

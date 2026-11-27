@@ -1,6 +1,6 @@
 # onuralpszr/trackforge
 
-⭐ 37 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/onuralpszr/trackforge) · [官网](https://onuralpszr.github.io/trackforge/) · 个人维护
+⭐ 38 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/onuralpszr/trackforge) · [官网](https://onuralpszr.github.io/trackforge/) · 个人维护
 
 **Rust 实现的多目标跟踪库：统一 API 供 Python/Rust 调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "onuralpszr/trackforge 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 34 --> 38
-    line [35, 36, 37, 37]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 34 --> 39
+    line [35, 36, 37, 38]
 ```
 
-2026-10-24 35 → 2026-11-26 37（+2）
+2026-10-25 35 → 2026-11-27 38（+3）
 
 
 ---

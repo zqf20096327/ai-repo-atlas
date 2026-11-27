@@ -1,6 +1,6 @@
 # vishal-raaj-dnd/gemini-okf-compiler
 
-⭐ 14 · Python · MIT · 推送 2026-07-24 · [GitHub](https://github.com/vishal-raaj-dnd/gemini-okf-compiler) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/vishal-raaj-dnd/gemini-okf-compiler) · 个人维护
 
 **把企业文档编译为 RAG/Agent 用的跨链接知识图谱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vishal-raaj-dnd/gemini-okf-compiler 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
     y-axis "stars" 11 --> 15
     line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-24 12 → 2026-11-26 14（+2）
+2026-10-25 12 → 2026-11-27 14（+2）
 
 
 ---

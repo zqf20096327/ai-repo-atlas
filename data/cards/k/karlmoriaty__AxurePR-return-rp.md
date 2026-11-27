@@ -1,6 +1,6 @@
 # karlmoriaty/AxurePR-return-rp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/karlmoriaty/AxurePR-return-rp) · [官网](https://github.com/karlmoriaty/AxurePR-return-rp#quickstart) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/karlmoriaty/AxurePR-return-rp) · [官网](https://github.com/karlmoriaty/AxurePR-return-rp#quickstart) · 个人维护 · 中文 README
 
 **给 Axure 用户：截图/需求/RP源码生成可编辑 .rp 原型**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "karlmoriaty/AxurePR-return-rp 星数(近 6 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 4 --> 11
-    line [5, 6, 7, 8, 9, 10]
+    title "karlmoriaty/AxurePR-return-rp 星数(近 7 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 12
+    line [5, 6, 7, 8, 9, 10, 11]
 ```
 
-2026-11-15 5 → 2026-11-26 10（+5）
+2026-11-15 5 → 2026-11-27 11（+6）
 
 
 ---

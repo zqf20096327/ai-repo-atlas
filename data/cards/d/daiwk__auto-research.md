@@ -1,6 +1,6 @@
 # daiwk/auto-research
 
-⭐ 41 · Python · 推送 2026-11-25 · [GitHub](https://github.com/daiwk/auto-research) · [官网](https://daiwk.github.io/auto-research/) · 个人维护 · 中文 README
+⭐ 41 · Python · 推送 2026-11-26 · [GitHub](https://github.com/daiwk/auto-research) · [官网](https://daiwk.github.io/auto-research/) · 个人维护 · 中文 README
 
 **给 AI 研究者：410+ 论文代码实现、精读卡片与实验看板**
 
@@ -40,6 +40,18 @@
 > L1: # Auto Research：410+ 前沿 AI 论文代码实现、公开实验审计与自动进化平台
 > L17: 1. **拒绝“伪复现”，严格标注代码保真度（Fidelity Tiers）**：仓库目前注册 **410 个**论文 adapter。严格区分完整训练链路（`full_pipeline`）、核心算法机制（`core_mechan
 > L19: 3. **四层问答 + 跨论文专题精读（Deep Dives）**：每篇论文拆解为「基础理解 → 核心机制 → 方法对比 → 实现细节」四层交互卡片；按主题横向对比多篇论文的机制取舍，新论文入库时自动校验并增量更新专题卡片。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "daiwk/auto-research 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-11-26 41 → 2026-11-27 41（+0）
 
 
 ---

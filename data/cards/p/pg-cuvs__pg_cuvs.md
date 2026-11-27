@@ -1,6 +1,6 @@
 # pg-cuvs/pg_cuvs
 
-⭐ 10 · C · PostgreSQL · 推送 2026-11-25 · [GitHub](https://github.com/pg-cuvs/pg_cuvs) · 个人维护
+⭐ 10 · C · PostgreSQL · 推送 2026-11-26 · [GitHub](https://github.com/pg-cuvs/pg_cuvs) · 个人维护
 
 **PostgreSQL 的 GPU 向量检索扩展：由 NVIDIA cuVS 加速候选生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pg-cuvs/pg_cuvs 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-25 10 → 2026-11-26 10（+0）
+2026-11-25 10 → 2026-11-27 10（+0）
 
 
 ---

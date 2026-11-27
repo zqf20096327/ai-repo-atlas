@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hugo-DDT/clarify-intent 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 19 --> 27
-    line [26, 20, 20]
+    title "Hugo-DDT/clarify-intent 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
 ```
 
-2026-10-24 26 → 2026-11-26 20（-6）
+2026-10-25 20 → 2026-11-27 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rapttor/sparkbots
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/rapttor/sparkbots) · [官网](https://rapttor.github.io/sparkbots/) · 个人维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/rapttor/sparkbots) · [官网](https://rapttor.github.io/sparkbots/) · 个人维护
 
 **把多个 AI 编码 agent 会话可视化为 3D 办公室机器人**
 
@@ -39,6 +39,18 @@
 
 > L7: SparkBots turns the session history of your coding agents into a small low-poly campus you can walk around. Every **
 > L50: - Safety rails built in: a session open in a terminal is never written to (fork instead), one run per session at a 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rapttor/sparkbots 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
+```
+
+2026-11-26 7 → 2026-11-27 8（+1）
 
 
 ---

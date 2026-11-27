@@ -1,6 +1,6 @@
 # oracle-quickstart/oci-ai-blueprints
 
-⭐ 58 · HCL · UPL-1.0 · 推送 2026-04-23 · [GitHub](https://github.com/oracle-quickstart/oci-ai-blueprints) · 组织维护
+⭐ 59 · HCL · UPL-1.0 · 推送 2026-04-23 · [GitHub](https://github.com/oracle-quickstart/oci-ai-blueprints) · 组织维护
 
 **在自有人 OCI/OKE 集群上一键部署生成式 AI 工作负载的平台**
 
@@ -46,12 +46,12 @@ Oracle 提供的无代码部署平台，将生成式 AI 工作负载部署到租
 ```mermaid
 xychart-beta
     title "oracle-quickstart/oci-ai-blueprints 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 57 --> 59
-    line [58, 58]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
 ```
 
-2026-10-24 58 → 2026-11-26 58（+0）
+2026-10-25 58 → 2026-11-27 59（+1）
 
 
 ---

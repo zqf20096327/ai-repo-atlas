@@ -1,6 +1,6 @@
 # JamesPiggott/Ancient-Language-Decipherer
 
-⭐ 28 · Python · 推送 2025-11-30 · [GitHub](https://github.com/JamesPiggott/Ancient-Language-Decipherer) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **深度学习识别古埃及圣书体等古文字的研究项目**
 

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shahvatsalofficial/localsutra-ai 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-16 4 → 2026-11-26 4（+0）
+2026-11-16 4 → 2026-11-27 4（+0）
 
 
 ---

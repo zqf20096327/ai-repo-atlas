@@ -1,6 +1,6 @@
 # jebi-sh/jebi
 
-⭐ 25 · JavaScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/jebi-sh/jebi) · [官网](https://jebi.sh) · 组织维护
+⭐ 26 · JavaScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/jebi-sh/jebi) · [官网](https://jebi.sh) · 组织维护
 
 **带本地 AI 的 macOS 终端：错误解释、命令建议与 /ask 问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jebi-sh/jebi 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-24 25 → 2026-11-26 25（+0）
+2026-10-25 25 → 2026-11-27 26（+1）
 
 
 ---

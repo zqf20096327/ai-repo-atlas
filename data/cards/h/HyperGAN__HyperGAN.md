@@ -1,6 +1,6 @@
 # HyperGAN/HyperGAN
 
-⭐ 1,181 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HyperGAN/HyperGAN) · [官网](https://hypergan.github.io/HyperGAN/) · 组织维护
+⭐ 1,181 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/HyperGAN/HyperGAN) · [官网](https://hypergan.github.io/HyperGAN/) · 组织维护
 
 **面向开发者的 GAN 训练框架：TOML 配方训练、跟踪、导出生成模型**
 
@@ -46,12 +46,12 @@ HyperGAN 以 PyPI 包分发，从声明式 hypergan-model/1 TOML 配方训练生
 ```mermaid
 xychart-beta
     title "HyperGAN/HyperGAN 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
     y-axis "stars" 1180 --> 1184
     line [1183, 1181, 1181]
 ```
 
-2026-10-24 1,183 → 2026-11-26 1,181（-2）
+2026-10-25 1,183 → 2026-11-27 1,181（-2）
 
 
 ---

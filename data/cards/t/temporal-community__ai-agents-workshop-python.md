@@ -1,6 +1,6 @@
 # temporal-community/ai-agents-workshop-python
 
-⭐ 37 · Python · 推送 2026-06-05 · [GitHub](https://github.com/temporal-community/ai-agents-workshop-python) · 组织维护
+⭐ 38 · Python · 推送 2026-06-05 · [GitHub](https://github.com/temporal-community/ai-agents-workshop-python) · 组织维护
 
 **渐进式教程：用 OpenAI Agents SDK 与 Temporal 构建 AI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "temporal-community/ai-agents-workshop-python 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 36, 37, 37]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 35 --> 39
+    line [36, 37, 36, 37, 38]
 ```
 
-2026-10-24 36 → 2026-11-26 37（+1）
+2026-10-25 36 → 2026-11-27 38（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ttoss/soat
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ttoss/soat) · [官网](https://soat.ttoss.dev) · 个人维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ttoss/soat) · [官网](https://soat.ttoss.dev) · 个人维护
 
 **自托管 Node.js 服务器：为 AI agent 应用提供生产基础设施**
 
@@ -46,12 +46,12 @@ SOAT 是一个可自托管的开源 Node.js 服务器，为构建 AI 应用提�
 ```mermaid
 xychart-beta
     title "ttoss/soat 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-14 10 → 2026-11-26 10（+0）
+2026-11-14 10 → 2026-11-27 10（+0）
 
 
 ---

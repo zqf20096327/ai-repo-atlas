@@ -1,6 +1,6 @@
 # KerroKapple/BuildView
 
-⭐ 24 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/KerroKapple/BuildView) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/KerroKapple/BuildView) · 个人维护 · 中文 README
 
 **建筑工程领域的私有化 RAG 问答与项目智能分析平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KerroKapple/BuildView 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-24 24 → 2026-11-26 24（+0）
+2026-10-25 24 → 2026-11-27 25（+1）
 
 
 ---

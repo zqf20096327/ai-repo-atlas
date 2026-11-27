@@ -40,6 +40,18 @@
 > L5: > ComfyUI 技能包：建筑与室内效果图的 AI 增强三管线 —— **FLUX2-Klein 语义重绘**、**N卡 DLSS5 图像增强+放大**、**SeedVR2 生成式超分**。
 > L41: |显卡|NVIDIA RTX 30/40/50 系|DLSS5 离线运行时需 RTX；实测 4080 16GB / 5070 12GB|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zhoushimiaov/archviz-render-enhancer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8042b26152f1` · [字段定义](../../DATASET.md)*

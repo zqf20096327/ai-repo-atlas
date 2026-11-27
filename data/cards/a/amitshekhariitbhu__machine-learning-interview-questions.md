@@ -1,10 +1,10 @@
 # amitshekhariitbhu/machine-learning-interview-questions
 
-⭐ 466 · Markdown · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 467 · Markdown · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**机器学习面试问答速查表，覆盖 LLM 到深度学习**
+**面向机器学习求职者的面试问答速查清单**
 
-由 Outcome School 创始人 Amit Shekhar 维护的机器学习面试问答清单，按 AI Engineering、机器学习基础、算法、数据预处理与特征工程、优化、深度学习等主题组织问题，多数问题附带指向其博客文章的答案链接；覆盖 LLM、RAG、MCP、Agent、微调、量化等 AI 工程话题，以及 Transformer、VAE、GAN 等深度学习内容。README 声明会持续更新新问题和答案。纯文档型仓库，无安装或运行步骤。
+由 Outcome School 创始人 Amit Shekhar 维护的机器学习面试问答集合，覆盖 AI 工程（LLM、RAG、MCP、Agent、微调、量化）、机器学习基础、算法、数据预处理与特征工程、优化、深度学习等主题；多数条目附有指向作者博文的答案链接。声明会持续更新题目，面向 AI 工程师、MLOps、数据科学家等求职角色。README 未包含代码或安装说明，仅提供问题列表与外部答案链接。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 AI Engineering/机器学习基础/算法/特征工程/优化/深度学习分类的问题清单
-- 多数问题附指向博客文章的答案链接
-- 涵盖 LLM、RAG、MCP、Agent、微调、量化等 AI 工程话题
-- 声明持续更新问题与答案
+- 按主题组织的面试问答清单：ML 基础、算法、特征工程、优化、深度学习
+- AI 工程部分覆盖 LLM、RAG、MCP、Agent、微调与量化
+- 多数问题附作者博文形式的答案链接
+- 声明持续更新题目与答案
 
 ## 适用场景
 
-- 准备 AI 工程师、ML 工程师、数据科学家等岗位的面试
-- 按主题查漏补缺机器学习与深度学习概念
-- 通过答案链接深入阅读具体知识点
+- 准备机器学习/深度学习工程师岗位面试
+- 系统自查机器学习基础概念的掌握程度
+- 查找各面试题对应的讲解博文
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
-> L3: # Machine Learning Interview Questions and Answers
 > L5: > Machine Learning Interview Questions and Answers - Your Cheat Sheet For Machine Learning Interview
-> L17: ### Prepared and maintained by the **Founder** of Outcome School: Amit Shekhar
+> L7: > These interview questions and answers are helpful for roles such as:
+> L15: ## Table of Contents
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "amitshekhariitbhu/machine-learning-interview-questions 星数(近 15 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 444 --> 468
-    line [446, 448, 449, 450, 452, 446, 454, 455, 456, 458, 459, 460, 462, 464, 466]
+    title "amitshekhariitbhu/machine-learning-interview-questions 星数(近 16 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 444 --> 469
+    line [446, 448, 449, 450, 452, 446, 454, 455, 456, 458, 459, 460, 462, 464, 466, 467]
 ```
 
-2026-10-24 446 → 2026-11-26 466（+20）
+2026-10-25 446 → 2026-11-27 467（+21）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9a9184104fec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `61347bfc58d5` · [字段定义](../../DATASET.md)*

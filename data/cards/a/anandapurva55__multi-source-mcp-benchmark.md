@@ -41,6 +41,18 @@
 > L112: Architecture: a local agent model (Qwen 2.5 7B via Ollama) reaches MCP tools inside a no-network sandbox over dock
 > L128: 4. A second AI model, the judge (`gpt-4.1-mini` by default), reads that answer and checks it against the list of f
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anandapurva55/multi-source-mcp-benchmark 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-26 11 → 2026-11-27 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c9eb5326ca67` · [字段定义](../../DATASET.md)*

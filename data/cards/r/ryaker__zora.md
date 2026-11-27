@@ -1,6 +1,6 @@
 # ryaker/zora
 
-⭐ 78 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ryaker/zora) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ryaker/zora) · 个人维护
 
 **本地长期运行的个人 AI agent，带策略引擎与记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ryaker/zora 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-20", "2026-11-27"]
     y-axis "stars" 77 --> 81
     line [79, 80, 79, 78, 78]
 ```
 
-2026-10-24 79 → 2026-11-26 78（-1）
+2026-10-25 79 → 2026-11-27 78（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tiramisu-Compiler/tiramisu
 
-⭐ 963 · C++ · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Tiramisu-Compiler/tiramisu) · [官网](http://tiramisu-compiler.org) · 组织维护
+⭐ 965 · C++ · MIT · 推送 2026-07-21 · [GitHub](https://github.com/Tiramisu-Compiler/tiramisu) · [官网](http://tiramisu-compiler.org) · 组织维护
 
 **多面体编译器：用 C++ API 表达并优化数据并行算法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tiramisu-Compiler/tiramisu 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 962 --> 965
-    line [963, 964, 963, 964, 963, 963]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 962 --> 966
+    line [963, 964, 963, 964, 963, 965]
 ```
 
-2026-10-24 963 → 2026-11-26 963（+0）
+2026-10-25 963 → 2026-11-27 965（+2）
 
 
 ---

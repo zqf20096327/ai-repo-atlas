@@ -1,6 +1,6 @@
 # AlexandrYalovoy/Assistant_X
 
-⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AlexandrYalovoy/Assistant_X) · 个人维护
+⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/AlexandrYalovoy/Assistant_X) · 个人维护
 
 **把本地文档库接入 Claude 等 MCP 客户端的问答检索服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AlexandrYalovoy/Assistant_X 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-27"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-10-29 4 → 2026-11-26 5（+1）
+2026-10-29 4 → 2026-11-27 5（+1）
 
 
 ---

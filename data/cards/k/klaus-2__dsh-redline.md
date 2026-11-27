@@ -1,6 +1,6 @@
 # klaus-2/dsh-redline
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/klaus-2/dsh-redline) · [官网](https://www.npmjs.com/package/dsh-redline) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/klaus-2/dsh-redline) · [官网](https://www.npmjs.com/package/dsh-redline) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户的浏览器可视化反馈与设计评审插件**
 
@@ -46,12 +46,12 @@ dsh-redline 是 DeepSeek Harness 的插件，在 harness 浏览器渲染的页�
 ```mermaid
 xychart-beta
     title "klaus-2/dsh-redline 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-18", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-18 4 → 2026-11-26 4（+0）
+2026-11-18 4 → 2026-11-27 4（+0）
 
 
 ---

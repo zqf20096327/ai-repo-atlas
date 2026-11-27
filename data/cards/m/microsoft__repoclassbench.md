@@ -1,6 +1,6 @@
 # microsoft/repoclassbench
 
-⭐ 18 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/repoclassbench) · [官网](https://arxiv.org/abs/2405.01573) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/repoclassbench) · [官网](https://arxiv.org/abs/2405.01573) · 组织维护
 
 **仓库级类代码生成基准与 RRR 评测框架（ICML'24 DMLR）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/repoclassbench 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

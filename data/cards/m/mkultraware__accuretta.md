@@ -1,6 +1,6 @@
 # mkultraware/accuretta
 
-⭐ 89 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/mkultraware/accuretta) · [官网](https://www.sekura.se/accuretta) · 个人维护
+⭐ 90 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/mkultraware/accuretta) · [官网](https://www.sekura.se/accuretta) · 个人维护
 
 **本地 GGUF 模型的桌面 agent 工作区与微型 IDE**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mkultraware/accuretta 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 76 --> 90
-    line [77, 78, 79, 77, 83, 84, 85, 86, 89]
+    title "mkultraware/accuretta 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 76 --> 91
+    line [77, 78, 79, 77, 83, 84, 85, 86, 89, 90]
 ```
 
-2026-10-24 77 → 2026-11-26 89（+12）
+2026-10-25 77 → 2026-11-27 90（+13）
 
 
 ---

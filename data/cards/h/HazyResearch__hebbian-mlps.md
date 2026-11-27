@@ -1,6 +1,6 @@
 # HazyResearch/hebbian-mlps
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/HazyResearch/hebbian-mlps) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/HazyResearch/hebbian-mlps) · 组织维护
 
 **MLPs are Hebbians 论文实验复现代码库**
 
@@ -44,12 +44,12 @@ HazyResearch 发布的论文《MLPs are Hebbians: Constructing Efficient Fact-St
 ```mermaid
 xychart-beta
     title "HazyResearch/hebbian-mlps 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-24 34 → 2026-11-26 34（+0）
+2026-10-25 34 → 2026-11-27 35（+1）
 
 
 ---

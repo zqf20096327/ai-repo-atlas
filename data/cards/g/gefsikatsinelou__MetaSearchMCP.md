@@ -1,6 +1,6 @@
 # gefsikatsinelou/MetaSearchMCP
 
-⭐ 58 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/gefsikatsinelou/MetaSearchMCP) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 LLM agent 的 MCP 元搜索后端与结构化搜索 API**
 
@@ -11,7 +11,7 @@ Python FastAPI 实现的元搜索网关：并发聚合多个搜索提供商，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

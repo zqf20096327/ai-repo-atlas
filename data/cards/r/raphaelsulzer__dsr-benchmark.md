@@ -44,12 +44,12 @@ TPAMI 论文 A Survey and Benchmark for Automatic Surface Reconstruction from Po
 ```mermaid
 xychart-beta
     title "raphaelsulzer/dsr-benchmark 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 43 --> 47
     line [44, 45, 46, 46]
 ```
 
-2026-10-24 44 → 2026-11-26 46（+2）
+2026-10-25 44 → 2026-11-27 46（+2）
 
 
 ---

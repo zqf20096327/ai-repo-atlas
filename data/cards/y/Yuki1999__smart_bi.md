@@ -42,6 +42,18 @@ Smart BI 将连接器接入、语义数据集、可信指标、自然语言问�
 > L30: Smart BI 的核心卖点不是把一个聊天框放进 BI，而是把 AI 放在数据资产生产、治理、分析和行动闭环的主链路中。传统 BI 往往先要求数据团队建模、业务用户拖拽分析、再由人工解释和分发结果；Smart BI 则围绕“自然语
 > L96: |AI|OpenAI 兼容 API|支持 OpenAI、Azure OpenAI、本地网关和兼容模型。|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Yuki1999/smart_bi 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c8c40b7e23e1` · [字段定义](../../DATASET.md)*

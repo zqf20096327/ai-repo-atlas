@@ -1,6 +1,6 @@
 # dev-formata-io/limitr
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dev-formata-io/limitr) · [官网](https://limitr.dev) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dev-formata-io/limitr) · [官网](https://limitr.dev) · 组织维护
 
 **面向 AI 应用的用量计量与计费引擎：额度、上限与定价策略**
 
@@ -46,12 +46,12 @@ Limitr 是一个以库形式嵌入应用的开源引擎（TypeScript/JavaScript 
 ```mermaid
 xychart-beta
     title "dev-formata-io/limitr 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-24 10 → 2026-11-26 12（+2）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # mehdihadeli/code-assist
 
-⭐ 39 · C# · 推送 2026-11-25 · [GitHub](https://github.com/mehdihadeli/code-assist) · [官网](https://mehdihadeli.github.io/code-assist/) · 个人维护
+⭐ 38 · C# · 推送 2026-11-25 · [GitHub](https://github.com/mehdihadeli/code-assist) · [官网](https://mehdihadeli.github.io/code-assist/) · 个人维护
 
 **.NET 终端 AI 编程助手：CLI+VS Code 接本地/在线模型**
 
@@ -39,6 +39,18 @@
 
 > L3: A .NET 10 coding assistant with a command-line interface and a native VS Code extension. Both connect to the same lo
 > L54: SDK-backed provider components support OpenAI chat/Responses and compatible routes, Anthropic, Azure, Google/Gemini
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mehdihadeli/code-assist 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 37 --> 40
+    line [39, 38]
+```
+
+2026-11-26 39 → 2026-11-27 38（-1）
 
 
 ---

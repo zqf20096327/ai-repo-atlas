@@ -1,6 +1,6 @@
 # chenzheshushi-commits/dsh-evolve
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/chenzheshushi-commits/dsh-evolve) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/chenzheshushi-commits/dsh-evolve) · 个人维护
 
 **为 DeepSeek Harness 提供跨会话持久记忆与技能生命周期管理的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chenzheshushi-commits/dsh-evolve 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [11, 10, 11, 10, 11, 11]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [11, 10, 11, 10, 11, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 12（+1）
 
 
 ---

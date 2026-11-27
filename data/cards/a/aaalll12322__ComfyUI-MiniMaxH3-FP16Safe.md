@@ -1,6 +1,6 @@
 # aaalll12322/ComfyUI-MiniMaxH3-FP16Safe
 
-⭐ 22 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/aaalll12322/ComfyUI-MiniMaxH3-FP16Safe) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/aaalll12322/ComfyUI-MiniMaxH3-FP16Safe) · 个人维护 · 中文 README
 
 **让 MiniMax H3 在无 bf16 硬件（如 V100）上以 fp16 稳定运行的 ComfyUI 节点**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点，针对 MiniMax H3 音视频 DiT 官方不支持 fp16 �
 ```mermaid
 xychart-beta
     title "aaalll12322/ComfyUI-MiniMaxH3-FP16Safe 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-26"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22, 22]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-27"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 21, 22, 23]
 ```
 
-2026-10-24 19 → 2026-11-26 22（+3）
+2026-10-25 19 → 2026-11-27 23（+4）
 
 
 ---

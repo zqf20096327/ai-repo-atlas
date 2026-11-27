@@ -1,6 +1,6 @@
 # woojubb/robota
 
-⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/woojubb/robota) · [官网](https://robota.io) · 组织维护
+⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/woojubb/robota) · [官网](https://robota.io) · 组织维护
 
 **面向开发者的 TypeScript AI agent 构建框架与 CLI 编码助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "woojubb/robota 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    title "woojubb/robota 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-26", "2026-11-27"]
     y-axis "stars" 18 --> 22
-    line [19, 20, 21]
+    line [19, 20, 21, 21]
 ```
 
-2026-10-24 19 → 2026-11-26 21（+2）
+2026-10-25 19 → 2026-11-27 21（+2）
 
 
 ---

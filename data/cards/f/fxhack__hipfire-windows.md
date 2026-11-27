@@ -46,12 +46,12 @@ hipfire 是专为 AMD GPU 优化的 Rust 原生 LLM 推理引擎，默认仅支�
 ```mermaid
 xychart-beta
     title "fxhack/hipfire-windows 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-26 3（+0）
+2026-11-21 3 → 2026-11-27 3（+0）
 
 
 ---

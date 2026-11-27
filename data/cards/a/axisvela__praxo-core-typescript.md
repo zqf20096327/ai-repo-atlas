@@ -1,6 +1,6 @@
 # axisvela/praxo-core-typescript
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core-typescript) · [官网](https://axisvela.github.io/praxo-core/languages/typescript/) · 组织维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/axisvela/praxo-core-typescript) · [官网](https://axisvela.github.io/praxo-core/languages/typescript/) · 组织维护
 
 **面向开发者的无依赖 TypeScript AI agent 框架**
 
@@ -46,12 +46,12 @@ PRAXO-CORE 的 TypeScript 实现，是一个零运行时依赖、用于构建工
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-typescript 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-23", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-23 3 → 2026-11-26 3（+0）
+2026-11-23 3 → 2026-11-27 4（+1）
 
 
 ---

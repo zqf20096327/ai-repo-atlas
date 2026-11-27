@@ -1,6 +1,6 @@
 # 3441293738/wechat-mp-toolkit
 
-⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/3441293738/wechat-mp-toolkit) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/3441293738/wechat-mp-toolkit) · 个人维护 · 中文 README
 
 **个人资料归档：微信公众号历史文章协议采集与导出工具**
 
@@ -39,6 +39,18 @@
 
 > L8: 面向个人知识管理与资料归档的 **微信公众号历史文章协议采集、高清图文下载与多模板导出工具**，提供 **Windows 独立桌面版（`.exe` 免安装）** 与 **iOS 玻璃拟态 Web 工作台**。
 > L16: - **微信同源协议直采（Windows 微信 4.2+）**：免验证码分页拉取公众号历史文章清单、高清排版 HTML、Markdown 与本地图片，支持长 ID 防截断、自动去重与分页完整性审计。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "3441293738/wechat-mp-toolkit 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 7
+    line [4, 6]
+```
+
+2026-11-26 4 → 2026-11-27 6（+2）
 
 
 ---

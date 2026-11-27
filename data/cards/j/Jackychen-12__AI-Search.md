@@ -1,6 +1,6 @@
 # Jackychen-12/AI-Search
 
-⭐ 116 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Jackychen-12/AI-Search) · [官网](https://aisearches.cc/) · 个人维护 · 中文 README
+⭐ 116 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Jackychen-12/AI-Search) · [官网](https://aisearches.cc/) · 个人维护 · 中文 README
 
 **零服务器零数据库的 AI 行业资讯聚合站，每日自动抓取 40+ 源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jackychen-12/AI-Search 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 115 --> 118
     line [117, 116, 116]
 ```
 
-2026-10-24 117 → 2026-11-26 116（-1）
+2026-10-25 117 → 2026-11-27 116（-1）
 
 
 ---

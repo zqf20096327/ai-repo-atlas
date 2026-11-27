@@ -1,6 +1,6 @@
 # Goudu666/chatgpt-web-mcp
 
-⭐ 20 · JavaScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Goudu666/chatgpt-web-mcp) · 个人维护 · 中文 README
+⭐ 21 · JavaScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Goudu666/chatgpt-web-mcp) · 个人维护 · 中文 README
 
 **本地非官方 MCP Server：让 Codex 等客户端经持久浏览器操作 ChatGPT 网页**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Goudu666/chatgpt-web-mcp 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 17, 18, 19, 20, 20]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 17, 18, 19, 20, 21]
 ```
 
-2026-10-24 17 → 2026-11-26 20（+3）
+2026-10-25 17 → 2026-11-27 21（+4）
 
 
 ---

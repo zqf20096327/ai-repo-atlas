@@ -1,6 +1,6 @@
 # BCS1037/codian
 
-⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/BCS1037/codian) · 个人维护 · 中文 README
+⭐ 30 · TypeScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/BCS1037/codian) · 个人维护 · 中文 README
 
 **Obsidian 多本地编码 Agent 工作区插件**
 
@@ -45,12 +45,12 @@ Obsidian 插件，将笔记库与本地 CLI 编码 agent（claude/codex/kimi/gro
 ```mermaid
 xychart-beta
     title "BCS1037/codian 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 25 --> 30
-    line [26, 27, 28, 29, 29]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 25 --> 31
+    line [26, 27, 28, 29, 30]
 ```
 
-2026-10-24 26 → 2026-11-26 29（+3）
+2026-10-25 26 → 2026-11-27 30（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # VictorButoi/FleXray
 
-⭐ 119 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/VictorButoi/FleXray) · [官网](https://flexray.csail.mit.edu/) · 组织维护
+⭐ 120 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/VictorButoi/FleXray) · [官网](https://flexray.csail.mit.edu/) · 组织维护
 
 **通用临床 X 光解剖分割模型：CLI/Python/MCP 三种入口**
 
@@ -44,13 +44,13 @@ pip 包 flexray（import 名 fxr），对 PNG/JPEG/TIFF/BMP 及可选 DICOM 输�
 
 ```mermaid
 xychart-beta
-    title "VictorButoi/FleXray 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 105 --> 120
-    line [106, 107, 106, 109, 110, 106, 113, 117, 118, 119]
+    title "VictorButoi/FleXray 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 105 --> 121
+    line [106, 107, 106, 109, 110, 106, 113, 117, 118, 119, 120]
 ```
 
-2026-10-24 106 → 2026-11-26 119（+13）
+2026-10-25 106 → 2026-11-27 120（+14）
 
 
 ---

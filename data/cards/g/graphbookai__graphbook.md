@@ -1,6 +1,6 @@
 # graphbookai/graphbook
 
-⭐ 48 · Python · MIT · 推送 2026-05-03 · [GitHub](https://github.com/graphbookai/graphbook) · [官网](https://docs.graphbook.ai/) · 组织维护
+⭐ 49 · Python · MIT · 推送 2026-05-03 · [GitHub](https://github.com/graphbookai/graphbook) · [官网](https://docs.graphbook.ai/) · 组织维护
 
 **可视化构建与运行 AI 数据管道的 Python 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "graphbookai/graphbook 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
 ```
 
-2026-10-24 48 → 2026-11-26 48（+0）
+2026-10-25 48 → 2026-11-27 49（+1）
 
 
 ---

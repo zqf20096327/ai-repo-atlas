@@ -1,10 +1,10 @@
 # sh4den/Montscan
 
-⭐ 458 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sh4den/Montscan) · [官网](https://montscan.github.io) · 个人维护
+⭐ 458 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sh4den/Montscan) · [官网](https://montscan.github.io) · 个人维护
 
-**自托管扫描文档处理服务：本地视觉模型自动命名归档**
+**自托管扫描文档处理器：本地视觉模型自动命名归档**
 
-接收网络扫描仪发来的扫描件的 Rust 单二进制服务：通过 FTP、SFTP、SCP、轮询远程 SMB 共享或监听本地文件夹接收 PDF，用本地 Ollama 视觉模型读取内容并生成带日期的描述性文件名，再投递到 WebDAV（Nextcloud/ownCloud）、SMB 共享或本地文件夹。命名全程本地运行，文档不发给第三方 AI 服务，无需 API key。README 说明项目仍在开发中、未完全达到生产就绪，在 1000 份文档测试集上命名正确率 97.5%。
+自托管服务，通过网络扫描仪常用的 FTP/SFTP/SCP/SMB 协议或本地文件夹接收 PDF 扫描件，用本地 Ollama 视觉模型读取内容并生成带日期的描述性文件名，再投递到 WebDAV（Nextcloud/ownCloud）、SMB 共享或本地文件夹。命名全程本地运行，文档不发送第三方 AI 服务，无需 API key。Rust 实现的单二进制，运行时无外部程序与 C 库依赖；提供 Docker Compose 部署。README 声明项目仍在开发中，在 1000 份文档测试集上命名正确率 97.5%。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 五种入站方式：FTP/SFTP/SCP 服务端、SMB 轮询、本地文件夹监听
-- 本地 Ollama 视觉模型生成命名，无需 API key
-- 投递到 WebDAV/SMB/本地文件夹，单二进制运行无外部程序依赖
-- Docker Compose 部署，支持 CPU 或 NVIDIA GPU 配置
+- 支持 FTP/SFTP/SCP/SMB 轮询与本地文件夹监视五种接收方式
+- 本地 Ollama 视觉模型生成命名，文档不出本机
+- 单二进制交付，PDF 渲染在进程内完成，运行时无外部依赖
+- 支持投递 WebDAV（Nextcloud/ownCloud）、SMB 共享或本地目录
 
 ## 适用场景
 
-- 让扫描仪直接把文件发到 Nextcloud 并自动命名
-- 家庭/小团队自托管文档归档流程
-- 不希望扫描文档经过第三方 AI 服务的环境
+- 让扫描仪扫描后文件自动以可读名称进入 Nextcloud 文档库
+- 内网环境处理敏感文档，避免送往云端 AI 服务
+- 将 SMB 共享中的扫描件批量重命名并整理到本地目录
 
 ## 场景标签
 
@@ -45,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "sh4den/Montscan 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25", "2026-11-27"]
     y-axis "stars" 453 --> 459
     line [454, 456, 457, 456, 458, 458]
 ```
 
-2026-10-24 454 → 2026-11-26 458（+4）
+2026-10-25 454 → 2026-11-27 458（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a1ec3a4762b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4b5c02ec3996` · [字段定义](../../DATASET.md)*

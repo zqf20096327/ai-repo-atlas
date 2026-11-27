@@ -1,6 +1,6 @@
 # farhanshn/perceptron-from-scratch
 
-⭐ 45 · Jupyter Notebook · MIT · 推送 2026-11-15 · [GitHub](https://github.com/farhanshn/perceptron-from-scratch) · 个人维护
+⭐ 47 · Jupyter Notebook · MIT · 推送 2026-11-15 · [GitHub](https://github.com/farhanshn/perceptron-from-scratch) · 个人维护
 
 **纯 Python 从零实现感知算法并与 scikit-learn 对比**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "farhanshn/perceptron-from-scratch 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
-    y-axis "stars" 0 --> 49
-    line [4, 45]
+    title "farhanshn/perceptron-from-scratch 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 51
+    line [4, 45, 47]
 ```
 
-2026-11-19 4 → 2026-11-26 45（+41）
+2026-11-19 4 → 2026-11-27 47（+43）
 
 
 ---

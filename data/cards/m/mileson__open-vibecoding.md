@@ -1,6 +1,6 @@
 # mileson/open-vibecoding
 
-⭐ 147 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mileson/open-vibecoding) · 个人维护 · 中文 README
+⭐ 148 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mileson/open-vibecoding) · 个人维护 · 中文 README
 
 **为编码 Agent 提供可审查工作流的协作框架**
 
@@ -46,13 +46,13 @@ Open VibeCoding 是一个接入现有编码 Agent（Codex、Claude Code、Cursor
 
 ```mermaid
 xychart-beta
-    title "mileson/open-vibecoding 星数(近 6 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 40 --> 156
-    line [49, 135, 141, 142, 145, 147]
+    title "mileson/open-vibecoding 星数(近 7 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 40 --> 157
+    line [49, 135, 141, 142, 145, 147, 148]
 ```
 
-2026-11-20 49 → 2026-11-26 147（+98）
+2026-11-20 49 → 2026-11-27 148（+99）
 
 
 ---

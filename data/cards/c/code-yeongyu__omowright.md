@@ -1,6 +1,6 @@
 # code-yeongyu/omowright
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/code-yeongyu/omowright) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/code-yeongyu/omowright) · 个人维护
 
 **给 AI agent 用的 Playwright 形态浏览器自动化库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "code-yeongyu/omowright 星数(近 9 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-26"]
+    title "code-yeongyu/omowright 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 9 --> 21
-    line [10, 11, 12, 15, 16, 17, 18, 19, 20]
+    line [10, 11, 12, 15, 16, 17, 18, 19, 20, 20]
 ```
 
-2026-10-26 10 → 2026-11-26 20（+10）
+2026-10-26 10 → 2026-11-27 20（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # alibaba-damo-academy/K-Forcing
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-08-16 · [GitHub](https://github.com/alibaba-damo-academy/K-Forcing) · [官网](https://arxiv.org/abs/2606.10820) · 组织维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/alibaba-damo-academy/K-Forcing) · [官网](https://arxiv.org/abs/2606.10820) · 组织维护 · 中文 README
 
 **论文官方实现：一次前向联合解码 k 个 token 的语言建模范式**
 
@@ -46,12 +46,12 @@ K-Forcing 论文的官方代码库：将自回归语言模型蒸馏为 push-forw
 ```mermaid
 xychart-beta
     title "alibaba-damo-academy/K-Forcing 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 19（+0）
 
 
 ---

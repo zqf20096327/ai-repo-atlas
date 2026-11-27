@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IntelLabs/causality-lab 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "IntelLabs/causality-lab 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 252 --> 255
-    line [253, 254]
+    line [253, 254, 254]
 ```
 
-2026-10-24 253 → 2026-11-26 254（+1）
+2026-10-25 253 → 2026-11-27 254（+1）
 
 
 ---

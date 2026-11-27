@@ -1,6 +1,6 @@
 # Prajwal7-2002/servebench
 
-⭐ 5 · HTML · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Prajwal7-2002/servebench) · [官网](https://prajwal7-2002.github.io/servebench/) · 个人维护
+⭐ 5 · HTML · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Prajwal7-2002/servebench) · [官网](https://prajwal7-2002.github.io/servebench/) · 个人维护
 
 **给开发者一条命令压测本地 LLM 服务器的并发容量与延迟**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Prajwal7-2002/servebench 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-26"]
+    x-axis ["2026-10-26", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-26 5 → 2026-11-26 5（+0）
+2026-10-26 5 → 2026-11-27 5（+0）
 
 
 ---

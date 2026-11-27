@@ -1,6 +1,6 @@
 # AXERA-TECH/ax-samples
 
-⭐ 304 · CMake · BSD-3-Clause · 推送 2026-10-13 · [GitHub](https://github.com/AXERA-TECH/ax-samples) · 组织维护 · 中文 README
+⭐ 305 · CMake · BSD-3-Clause · 推送 2026-10-13 · [GitHub](https://github.com/AXERA-TECH/ax-samples) · 组织维护 · 中文 README
 
 **爱芯元智 AI SoC 上的深度学习算法示例代码集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AXERA-TECH/ax-samples 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-27"]
     y-axis "stars" 303 --> 306
-    line [305, 304, 305, 304, 304]
+    line [305, 304, 305, 304, 305]
 ```
 
-2026-10-24 305 → 2026-11-26 304（-1）
+2026-10-25 305 → 2026-11-27 305（+0）
 
 
 ---

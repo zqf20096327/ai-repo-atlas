@@ -1,6 +1,6 @@
 # use-brian/use-brian
 
-⭐ 28 · PLpgSQL · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/use-brian/use-brian) · [官网](https://usebrian.ai) · 组织维护
+⭐ 28 · PLpgSQL · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/use-brian/use-brian) · [官网](https://usebrian.ai) · 组织维护
 
 **自托管的公司大脑：为独立创始人与小团队记录与执行工作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "use-brian/use-brian 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-24 27 → 2026-11-26 28（+1）
+2026-10-25 27 → 2026-11-27 28（+1）
 
 
 ---

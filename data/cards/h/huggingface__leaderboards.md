@@ -43,12 +43,12 @@ huggingface 组织下的 leaderboards 仓库，README 仅包含文档构建说�
 ```mermaid
 xychart-beta
     title "huggingface/leaderboards 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-24 25 → 2026-11-26 26（+1）
+2026-10-25 25 → 2026-11-27 26（+1）
 
 
 ---

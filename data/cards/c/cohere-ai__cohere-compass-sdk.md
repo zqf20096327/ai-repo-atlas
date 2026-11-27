@@ -1,6 +1,6 @@
 # cohere-ai/cohere-compass-sdk
 
-⭐ 13 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cohere-ai/cohere-compass-sdk) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/cohere-ai/cohere-compass-sdk) · 组织维护
 
 **对接 Compass 文档解析与索引的 Python SDK**
 
@@ -45,12 +45,12 @@ Cohere 官方维护的 Python SDK，包含 CompassParserClient 与 CompassClient
 ```mermaid
 xychart-beta
     title "cohere-ai/cohere-compass-sdk 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

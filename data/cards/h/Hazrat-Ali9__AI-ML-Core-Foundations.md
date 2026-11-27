@@ -1,6 +1,6 @@
 # Hazrat-Ali9/AI-ML-Core-Foundations
 
-⭐ 69 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/Hazrat-Ali9/AI-ML-Core-Foundations) · [官网](https://github.com/Hazrat-Ali9/AI-ML-Core-Foundation) · 个人维护
+⭐ 73 · Jupyter Notebook · 推送 2026-11-26 · [GitHub](https://github.com/Hazrat-Ali9/AI-ML-Core-Foundations) · [官网](https://github.com/Hazrat-Ali9/AI-ML-Core-Foundation) · 个人维护
 
 **AI/ML 基础学习仓库：数学、算法与实践代码合集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Hazrat-Ali9/AI-ML-Core-Foundations 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 53 --> 70
-    line [54, 55, 54, 60, 64, 66, 68, 69, 69]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 53 --> 74
+    line [54, 55, 54, 60, 64, 66, 68, 69, 73]
 ```
 
-2026-10-24 54 → 2026-11-26 69（+15）
+2026-10-25 54 → 2026-11-27 73（+19）
 
 
 ---

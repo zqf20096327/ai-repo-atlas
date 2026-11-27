@@ -1,6 +1,6 @@
 # brianh014/inkandthread
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/brianh014/inkandthread) · 个人维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/brianh014/inkandthread) · 个人维护
 
 **单玩家 AI 视觉小说游戏：边玩边生成剧情与插画**
 
@@ -46,12 +46,12 @@ Ink & Thread 是一个在本地运行的单人故事游戏，玩法类似选择�
 ```mermaid
 xychart-beta
     title "brianh014/inkandthread 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-21 5 → 2026-11-26 5（+0）
+2026-11-21 5 → 2026-11-27 5（+0）
 
 
 ---

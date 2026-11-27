@@ -1,6 +1,6 @@
 # axisvela/praxo-core-perl
 
-⭐ 3 · Perl · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core-perl) · [官网](https://axisvela.github.io/praxo-core/languages/perl/) · 组织维护
+⭐ 3 · Perl · MIT · 推送 2026-11-26 · [GitHub](https://github.com/axisvela/praxo-core-perl) · [官网](https://axisvela.github.io/praxo-core/languages/perl/) · 组织维护
 
 **Perl 嵌入式 AI agent 框架：agent 循环、工具分发与策略控制**
 
@@ -45,12 +45,12 @@ PRAXO-CORE 的 Perl 实现，一个可嵌入的 MIT 许可 agent 框架：提供
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-perl 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-26 3（+0）
+2026-11-23 3 → 2026-11-27 3（+0）
 
 
 ---

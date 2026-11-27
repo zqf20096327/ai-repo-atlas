@@ -1,6 +1,6 @@
 # AnandChowdhary/continuous-claude
 
-⭐ 1,388 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AnandChowdhary/continuous-claude) · [官网](https://anandchowdhary.com/open-source/2025/continuous-claude) · 个人维护
+⭐ 1,389 · Shell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AnandChowdhary/continuous-claude) · [官网](https://anandchowdhary.com/open-source/2025/continuous-claude) · 个人维护
 
 **让 Claude Code 持续循环自主建 PR、等检查并合并的 CLI**
 
@@ -45,13 +45,13 @@ Bash/PowerShell 编排脚本，将 Claude Code 或 Codex CLI 置于循环中：�
 
 ```mermaid
 xychart-beta
-    title "AnandChowdhary/continuous-claude 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26"]
+    title "AnandChowdhary/continuous-claude 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1386 --> 1390
-    line [1387, 1388, 1389, 1387, 1388, 1389, 1387, 1388]
+    line [1387, 1388, 1389, 1387, 1388, 1389, 1387, 1388, 1389]
 ```
 
-2026-10-24 1,387 → 2026-11-26 1,388（+1）
+2026-10-25 1,387 → 2026-11-27 1,389（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # onnx/onnx-shape-inference
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/onnx/onnx-shape-inference) · [官网](https://pypi.org/project/onnx-shape-inference/) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/onnx/onnx-shape-inference) · [官网](https://pypi.org/project/onnx-shape-inference/) · 个人维护
 
 **ONNX 模型的符号形状推理库，直接在 IR 上推算张量形状**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "onnx/onnx-shape-inference 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-26"]
+    x-axis ["2026-10-26", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-26 10（+0）
+2026-10-26 10 → 2026-11-27 10（+0）
 
 
 ---

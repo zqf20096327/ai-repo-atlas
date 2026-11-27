@@ -46,12 +46,12 @@ Rust 编写的 CLI 与库（crate 名 llm-token-visualizer）：读取模型自�
 ```mermaid
 xychart-beta
     title "Mattbusel/LLM-Hallucination-Detection-Script 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-27"]
     y-axis "stars" 18 --> 21
     line [19, 20, 19, 19]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 19（+0）
 
 
 ---

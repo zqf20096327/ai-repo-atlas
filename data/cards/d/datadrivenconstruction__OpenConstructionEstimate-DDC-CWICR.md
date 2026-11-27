@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR
 
-⭐ 290 · HTML · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) · [官网](https://datadrivenconstruction.io/) · 组织维护
+⭐ 291 · HTML · NOASSERTION · 推送 2026-08-21 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR) · [官网](https://datadrivenconstruction.io/) · 组织维护
 
 **面向 AI Agent 的开放多语言工程造价数据库（5.5万+工作项）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR 星数(近 18 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 252 --> 293
-    line [255, 257, 258, 259, 260, 261, 262, 264, 257, 274, 279, 281, 282, 284, 285, 287, 289, 290]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 254 --> 294
+    line [257, 258, 259, 260, 261, 262, 264, 257, 274, 279, 281, 282, 284, 285, 287, 289, 290, 291]
 ```
 
-2026-10-24 255 → 2026-11-26 290（+35）
+2026-10-25 257 → 2026-11-27 291（+34）
 
 
 ---

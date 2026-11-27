@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Andy1314Chen/architecture-drawer 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "Andy1314Chen/architecture-drawer 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 46 --> 48
+    line [47, 47]
 ```
 
-2026-10-24 46 → 2026-11-26 47（+1）
+2026-10-25 47 → 2026-11-27 47（+0）
 
 
 ---

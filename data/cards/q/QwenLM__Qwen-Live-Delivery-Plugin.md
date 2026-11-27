@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Live-Delivery-Plugin
 
-⭐ 51 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/QwenLM/Qwen-Live-Delivery-Plugin) · 组织维护 · 中文 README
+⭐ 52 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/QwenLM/Qwen-Live-Delivery-Plugin) · 组织维护 · 中文 README
 
 **Codex CLI 长任务持续交付与人机协同插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen-Live-Delivery-Plugin 星数(近 9 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 31 --> 52
-    line [32, 42, 45, 46, 48, 49, 50, 51, 51]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 30 --> 54
+    line [32, 42, 45, 46, 48, 49, 50, 51, 52]
 ```
 
-2026-11-16 32 → 2026-11-26 51（+19）
+2026-11-16 32 → 2026-11-27 52（+20）
 
 
 ---

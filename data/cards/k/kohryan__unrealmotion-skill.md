@@ -1,6 +1,6 @@
 # kohryan/unrealmotion-skill
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/kohryan/unrealmotion-skill) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/kohryan/unrealmotion-skill) · 个人维护 · 中文 README
 
 **Codex 编程 agent 的提示词生成 3D 演示视频技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kohryan/unrealmotion-skill 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 15 --> 20
+    line [16, 17, 18, 19]
 ```
 
-2026-11-08 16 → 2026-11-26 18（+2）
+2026-11-08 16 → 2026-11-27 19（+3）
 
 
 ---

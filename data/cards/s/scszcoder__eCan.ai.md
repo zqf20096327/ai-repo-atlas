@@ -1,6 +1,6 @@
 # scszcoder/eCan.ai
 
-⭐ 23 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/scszcoder/eCan.ai) · [官网](https://www.ecan.ai) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/scszcoder/eCan.ai) · [官网](https://www.ecan.ai) · 个人维护 · 中文 README
 
 **面向跨境电商卖家的隐私优先 AI agent 应用：低代码编排与网络化运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "scszcoder/eCan.ai 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-24 22 → 2026-11-26 23（+1）
+2026-10-25 22 → 2026-11-27 23（+1）
 
 
 ---

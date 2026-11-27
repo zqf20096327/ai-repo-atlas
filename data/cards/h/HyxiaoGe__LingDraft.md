@@ -1,6 +1,6 @@
 # HyxiaoGe/LingDraft
 
-⭐ 22 · Python · 推送 2026-11-13 · [GitHub](https://github.com/HyxiaoGe/LingDraft) · [官网](https://lingdraft.seanfield.org) · 个人维护 · 中文 README
+⭐ 21 · Python · 推送 2026-11-13 · [GitHub](https://github.com/HyxiaoGe/LingDraft) · [官网](https://lingdraft.seanfield.org) · 个人维护 · 中文 README
 
 **面向用户的 AI 对话 agent：搜索、读文件、标来源、写成文档出版本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HyxiaoGe/LingDraft 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-23", "2026-11-27"]
     y-axis "stars" 9 --> 23
-    line [10, 20, 21, 22, 22]
+    line [10, 20, 21, 22, 21]
 ```
 
-2026-11-10 10 → 2026-11-26 22（+12）
+2026-11-10 10 → 2026-11-27 21（+11）
 
 
 ---

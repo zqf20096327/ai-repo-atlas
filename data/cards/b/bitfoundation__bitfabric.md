@@ -1,6 +1,6 @@
 # bitfoundation/bitfabric
 
-⭐ 3 · C# · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/bitfoundation/bitfabric) · [官网](https://bitfabric.co) · 组织维护
+⭐ 3 · C# · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/bitfoundation/bitfabric) · [官网](https://bitfabric.co) · 组织维护
 
 **为 .NET 开发者提供的 bit Fabric 平台、CLI 与项目模板**
 
@@ -39,6 +39,18 @@
 
 > L5:  Build with AI. Own everything.
 > L14: |`src/Cli`|bit CLI: creates a project, sets it up on any computer, makes its keys and keeps it up to date|`Bit.Cli`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bitfoundation/bitfabric 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

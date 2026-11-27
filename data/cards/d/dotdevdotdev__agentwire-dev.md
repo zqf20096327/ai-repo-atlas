@@ -1,6 +1,6 @@
 # dotdevdotdev/agentwire-dev
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dotdevdotdev/agentwire-dev) · [官网](https://agentwire.dev) · 个人维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dotdevdotdev/agentwire-dev) · [官网](https://agentwire.dev) · 个人维护
 
 **自托管键盘驱动的 Claude Code 多 agent 编排驾驶舱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dotdevdotdev/agentwire-dev 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-24 23 → 2026-11-26 23（+0）
+2026-10-25 23 → 2026-11-27 23（+0）
 
 
 ---

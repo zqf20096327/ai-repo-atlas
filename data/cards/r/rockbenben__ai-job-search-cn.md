@@ -1,6 +1,6 @@
 # rockbenben/ai-job-search-cn
 
-⭐ 51 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rockbenben/ai-job-search-cn) · [官网](https://github.com/rockbenben/ai-job-search-cn/blob/main/SETUP.md) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rockbenben/ai-job-search-cn) · [官网](https://github.com/rockbenben/ai-job-search-cn/blob/main/SETUP.md) · 个人维护 · 中文 README
 
 **本机运行的国内 AI 求职助手：搜岗、按国内门槛评分、出话术与简历**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rockbenben/ai-job-search-cn 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-26"]
+    title "rockbenben/ai-job-search-cn 星数(近 14 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 37 --> 52
-    line [38, 39, 40, 41, 42, 38, 44, 45, 47, 48, 49, 50, 51]
+    line [38, 39, 40, 41, 42, 38, 44, 45, 47, 48, 49, 50, 51, 51]
 ```
 
-2026-10-24 38 → 2026-11-26 51（+13）
+2026-10-25 38 → 2026-11-27 51（+13）
 
 
 ---

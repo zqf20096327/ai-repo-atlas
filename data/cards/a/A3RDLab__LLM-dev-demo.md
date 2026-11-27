@@ -1,6 +1,6 @@
 # A3RDLab/LLM-dev-demo
 
-⭐ 43 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/A3RDLab/LLM-dev-demo) · 组织维护 · 中文 README
+⭐ 43 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/A3RDLab/LLM-dev-demo) · 组织维护 · 中文 README
 
 **LLM 应用开发教程实验合集：Agent/RAG/MCP/Text2SQL 示例**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "A3RDLab/LLM-dev-demo 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-24 43 → 2026-11-26 43（+0）
+2026-10-25 43 → 2026-11-27 43（+0）
 
 
 ---

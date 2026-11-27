@@ -1,6 +1,6 @@
 # prism-oncology/omni
 
-⭐ 14 · Python · 推送 2026-10-19 · [GitHub](https://github.com/prism-oncology/omni) · [官网](https://sofiene-boutaj.github.io/omni/) · 组织维护
+⭐ 15 · Python · 推送 2026-10-19 · [GitHub](https://github.com/prism-oncology/omni) · [官网](https://sofiene-boutaj.github.io/omni/) · 组织维护
 
 **数字病理多教师蒸馏视觉编码器（10 个病理基础模型合一）**
 
@@ -45,12 +45,12 @@ OMNI 将 10 个病理基础模型蒸馏为单一紧凑视觉编码器：学生�
 ```mermaid
 xychart-beta
     title "prism-oncology/omni 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 12, 10, 13, 14, 14]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 10, 13, 14, 15]
 ```
 
-2026-10-24 10 → 2026-11-26 14（+4）
+2026-10-25 10 → 2026-11-27 15（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # gujord/OpenAPI-MCP
 
-⭐ 69 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/gujord/OpenAPI-MCP) · [官网](https://github.com/gujord/OpenAPI-MCP) · 个人维护
+⭐ 70 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/gujord/OpenAPI-MCP) · [官网](https://github.com/gujord/OpenAPI-MCP) · 个人维护
 
 **把 OpenAPI 规范动态转成 MCP 工具的代理服务器，供 AI agent 调外部 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gujord/OpenAPI-MCP 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 68 --> 70
-    line [69, 69]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 68 --> 71
+    line [69, 70]
 ```
 
-2026-10-24 69 → 2026-11-26 69（+0）
+2026-10-25 69 → 2026-11-27 70（+1）
 
 
 ---

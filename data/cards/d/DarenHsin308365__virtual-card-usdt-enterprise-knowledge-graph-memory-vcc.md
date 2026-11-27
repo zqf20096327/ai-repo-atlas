@@ -1,6 +1,6 @@
 # DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc
 
-⭐ 99 · 推送 2026-11-13 · [GitHub](https://github.com/DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 110 · 推送 2026-11-13 · [GitHub](https://github.com/DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **CoreGold 虚拟卡营销文：用 VCC 隔离 GraphRAG 服务的订阅扣款**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc 星数(近 8 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 108
-    line [7, 19, 22, 26, 36, 49, 72, 99]
+    title "DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc 星数(近 9 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 120
+    line [7, 19, 22, 26, 36, 49, 72, 99, 110]
 ```
 
-2026-11-14 7 → 2026-11-26 99（+92）
+2026-11-14 7 → 2026-11-27 110（+103）
 
 
 ---

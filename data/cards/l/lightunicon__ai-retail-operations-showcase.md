@@ -41,6 +41,18 @@
 > L60: An AI assistant that navigates the platform and performs real actions — create orders, print
 > L102: - **Operational assistant** — navigates the platform and performs real actions, with a hands-free
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lightunicon/ai-retail-operations-showcase 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-26 8 → 2026-11-27 8（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `f405e144df27` · [字段定义](../../DATASET.md)*

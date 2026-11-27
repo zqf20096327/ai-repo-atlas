@@ -1,6 +1,6 @@
 # nelsonwerd/idea-to-ship-skills
 
-⭐ 92 · Shell · MIT · 推送 2026-08-04 · [GitHub](https://github.com/nelsonwerd/idea-to-ship-skills) · 个人维护
+⭐ 93 · Shell · MIT · 推送 2026-08-04 · [GitHub](https://github.com/nelsonwerd/idea-to-ship-skills) · 个人维护
 
 **Claude/Codex 可复用技能套件：把想法经验证、规划推进到交付**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nelsonwerd/idea-to-ship-skills 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 89 --> 93
-    line [90, 91, 90, 91, 92, 92]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 89 --> 94
+    line [90, 91, 90, 91, 92, 93]
 ```
 
-2026-10-24 90 → 2026-11-26 92（+2）
+2026-10-25 90 → 2026-11-27 93（+3）
 
 
 ---

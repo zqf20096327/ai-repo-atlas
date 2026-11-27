@@ -1,6 +1,6 @@
 # 00200200/repro-lens
 
-⭐ 44 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/00200200/repro-lens) · [官网](https://00200200.github.io/repro-lens/) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/00200200/repro-lens) · [官网](https://00200200.github.io/repro-lens/) · 个人维护
 
 **ML 代码可复现性静态检查与实验回放比对工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "00200200/repro-lens 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-24 44 → 2026-11-26 44（+0）
+2026-10-25 44 → 2026-11-27 45（+1）
 
 
 ---

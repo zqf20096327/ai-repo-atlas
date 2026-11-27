@@ -1,6 +1,6 @@
 # 7wdn/7paws
 
-⭐ 82 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/7wdn/7paws) · 个人维护 · 中文 README
+⭐ 122 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/7wdn/7paws) · 个人维护 · 中文 README
 
 **Windows/macOS 的 3D 桌宠小猫，支持键鼠互动与 AI 定制配色**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "7wdn/7paws 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 20 --> 87
-    line [25, 82]
+    title "7wdn/7paws 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 16 --> 131
+    line [25, 82, 122]
 ```
 
-2026-11-25 25 → 2026-11-26 82（+57）
+2026-11-25 25 → 2026-11-27 122（+97）
 
 
 ---

@@ -1,6 +1,6 @@
 # upbit-official/upbit-agent-skills
 
-⭐ 38 · 推送 2026-09-01 · [GitHub](https://github.com/upbit-official/upbit-agent-skills) · 组织维护
+⭐ 38 · 推送 2026-11-26 · [GitHub](https://github.com/upbit-official/upbit-agent-skills) · 组织维护
 
 **让 AI agent 通过自然语言调用 Upbit 交易所 API 的技能包**
 
@@ -45,12 +45,12 @@ Upbit（Dunamu）官方发布的 AI agent 技能集：通过 npx skills 命令�
 ```mermaid
 xychart-beta
     title "upbit-official/upbit-agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-24 38 → 2026-11-26 38（+0）
+2026-10-25 38 → 2026-11-27 38（+0）
 
 
 ---

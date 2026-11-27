@@ -1,6 +1,6 @@
 # vllm-project/vllm-gr
 
-⭐ 137 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vllm-project/vllm-gr) · 组织维护 · 中文 README
+⭐ 173 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/vllm-project/vllm-gr) · 组织维护 · 中文 README
 
 **vLLM 的生成式推荐模型推理扩展，产出排序物品ID**
 
@@ -41,6 +41,18 @@ vLLM-GR 是 vLLM 的独立扩展，将 vLLM 从自回归文本生成扩展到生
 > L16: large language models that generate text autoregressively. vLLM-GR extends
 > L23: - **Model architectures.** The current implementation focuses on inference
 > L56: - Reuse vLLM's platform abstraction to support CUDA GPUs and Ascend NPUs with
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vllm-project/vllm-gr 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 134 --> 176
+    line [137, 173]
+```
+
+2026-11-26 137 → 2026-11-27 173（+36）
 
 
 ---

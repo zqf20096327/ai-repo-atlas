@@ -1,6 +1,6 @@
 # ronitgupta138/Agent-MemGC
 
-⭐ 4 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ronitgupta138/Agent-MemGC) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ronitgupta138/Agent-MemGC) · 个人维护
 
 **为 AI agent 指令文件提供审计、清理与缓存优化的 Rust 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ronitgupta138/Agent-MemGC 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-24 4 → 2026-11-26 4（+0）
+2026-10-25 4 → 2026-11-27 4（+0）
 
 
 ---

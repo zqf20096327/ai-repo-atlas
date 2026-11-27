@@ -1,6 +1,6 @@
 # OrderG-X/dsh-video-preview
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/OrderG-X/dsh-video-preview) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 DSH 对话加内联视频/音频播放的插件**
 
@@ -11,7 +11,7 @@ DeepSeek Harness（DSH）的插件，补上 DSH 渲染块缺失的 video 类型�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # aaalll12322/ComfyUI-MiniMaxH3-SolAttn-V100
 
-⭐ 35 · C++ · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/aaalll12322/ComfyUI-MiniMaxH3-SolAttn-V100) · 个人维护 · 中文 README
+⭐ 36 · C++ · NOASSERTION · 推送 2026-08-29 · [GitHub](https://github.com/aaalll12322/ComfyUI-MiniMaxH3-SolAttn-V100) · 个人维护 · 中文 README
 
 **MiniMax H3 在 V100 上的注意力稀疏加速 ComfyUI 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aaalll12322/ComfyUI-MiniMaxH3-SolAttn-V100 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 32 --> 36
-    line [34, 35, 34, 33, 34, 35, 35]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 32 --> 37
+    line [34, 35, 34, 33, 34, 35, 36]
 ```
 
-2026-10-24 34 → 2026-11-26 35（+1）
+2026-10-25 34 → 2026-11-27 36（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # eric11yothelast-Hwanshen/PhantomCheck
 
-⭐ 28 · Kotlin · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/eric11yothelast-Hwanshen/PhantomCheck) · [官网](https://github.com/eric11yothelast-Hwanshen/PhantomCheck/releases/latest) · 个人维护 · 中文 README
+⭐ 35 · Kotlin · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/eric11yothelast-Hwanshen/PhantomCheck) · [官网](https://github.com/eric11yothelast-Hwanshen/PhantomCheck/releases/latest) · 个人维护 · 中文 README
 
 **Android 反诈骗消息管理应用：拦截通知并做 AI 风险分析**
 
@@ -39,6 +39,18 @@
 
 > L5: An intelligent Android anti-scam message management app: intercepts notification previews without triggering read re
 > L22: - 🛡️ **Multi-Provider AI Scam Analysis, Per-Purpose Routing & Offline Retry Queue**: Supports multiple AI profiles 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eric11yothelast-Hwanshen/PhantomCheck 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 27 --> 36
+    line [28, 35]
+```
+
+2026-11-26 28 → 2026-11-27 35（+7）
 
 
 ---

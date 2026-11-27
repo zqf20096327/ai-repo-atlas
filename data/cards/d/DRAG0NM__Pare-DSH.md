@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）插件：将 Pare 磁盘调查核心接入 DSH 会话�
 ```mermaid
 xychart-beta
     title "DRAG0NM/Pare-DSH 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-26"]
+    x-axis ["2026-10-28", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-26 3（+0）
+2026-10-28 3 → 2026-11-27 3（+0）
 
 
 ---

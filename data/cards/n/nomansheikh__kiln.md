@@ -1,6 +1,6 @@
 # nomansheikh/kiln
 
-⭐ 3 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nomansheikh/kiln) · 个人维护
+⭐ 3 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nomansheikh/kiln) · 个人维护
 
 **本地运行图像/语音/3D 生成模型的 macOS 原生应用**
 
@@ -46,12 +46,12 @@ Kiln 是面向 Apple Silicon Mac 的本地模型应用：从 Hugging Face 下载
 ```mermaid
 xychart-beta
     title "nomansheikh/kiln 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-26 3（+0）
+2026-11-25 3 → 2026-11-27 3（+0）
 
 
 ---

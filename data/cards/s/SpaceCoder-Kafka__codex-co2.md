@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SpaceCoder-Kafka/codex-co2 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "SpaceCoder-Kafka/codex-co2 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 39 --> 46
-    line [40, 45]
+    line [40, 45, 45]
 ```
 
-2026-11-25 40 → 2026-11-26 45（+5）
+2026-11-25 40 → 2026-11-27 45（+5）
 
 
 ---

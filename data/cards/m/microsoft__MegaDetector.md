@@ -1,6 +1,6 @@
 # microsoft/MegaDetector
 
-⭐ 58 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/microsoft/MegaDetector) · [官网](https://microsoft.github.io/MegaDetector/) · 组织维护
+⭐ 59 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/microsoft/MegaDetector) · [官网](https://microsoft.github.io/MegaDetector/) · 组织维护
 
 **检测红外相机图像中动物/人/车辆的开源模型**
 
@@ -45,12 +45,12 @@ Microsoft AI for Good Lab 开源的相机陷阱图像检测模型 MegaDetector V
 ```mermaid
 xychart-beta
     title "microsoft/MegaDetector 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 54 --> 59
-    line [55, 56, 55, 57, 58, 58]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 54 --> 60
+    line [55, 56, 55, 57, 58, 59]
 ```
 
-2026-10-24 55 → 2026-11-26 58（+3）
+2026-10-25 55 → 2026-11-27 59（+4）
 
 
 ---

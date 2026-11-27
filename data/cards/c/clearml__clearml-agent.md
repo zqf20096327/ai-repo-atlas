@@ -1,6 +1,6 @@
 # clearml/clearml-agent
 
-⭐ 316 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/clearml/clearml-agent) · [官网](https://clear.ml/docs/) · 组织维护
+⭐ 316 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/clearml/clearml-agent) · [官网](https://clear.ml/docs/) · 组织维护
 
 **面向 ML/DL 研发与运维的实验调度与集群执行 Agent**
 
@@ -46,12 +46,12 @@ ClearML Agent 是监听 ClearML 任务队列、拉取实验、构建执行环境
 ```mermaid
 xychart-beta
     title "clearml/clearml-agent 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 313 --> 317
     line [314, 315, 314, 316, 316]
 ```
 
-2026-10-24 314 → 2026-11-26 316（+2）
+2026-10-25 314 → 2026-11-27 316（+2）
 
 
 ---

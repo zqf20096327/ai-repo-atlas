@@ -1,6 +1,6 @@
 # johnpsasser/lifeboat
 
-⭐ 48 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/johnpsasser/lifeboat) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/johnpsasser/lifeboat) · 个人维护
 
 **断网应急问答助手：本地 LLM + 200GB 离线资料库，附引用来源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "johnpsasser/lifeboat 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-27"]
     y-axis "stars" 41 --> 49
-    line [42, 43, 44, 45, 48, 48]
+    line [42, 43, 44, 45, 48, 47]
 ```
 
-2026-11-08 42 → 2026-11-26 48（+6）
+2026-11-08 42 → 2026-11-27 47（+5）
 
 
 ---

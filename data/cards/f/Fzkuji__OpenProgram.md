@@ -1,6 +1,6 @@
 # Fzkuji/OpenProgram
 
-⭐ 374 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Fzkuji/OpenProgram) · [官网](https://fzkuji.github.io/OpenProgram/) · 个人维护 · 中文 README
+⭐ 384 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Fzkuji/OpenProgram) · [官网](https://fzkuji.github.io/OpenProgram/) · 个人维护 · 中文 README
 
 **开源 agent harness：用 Python 编写可自我编程的 LLM 智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fzkuji/OpenProgram 星数(近 10 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 264 --> 384
-    line [274, 291, 314, 328, 342, 352, 354, 362, 366, 374]
+    title "Fzkuji/OpenProgram 星数(近 11 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 263 --> 395
+    line [274, 291, 314, 328, 342, 352, 354, 362, 366, 374, 384]
 ```
 
-2026-11-15 274 → 2026-11-26 374（+100）
+2026-11-15 274 → 2026-11-27 384（+110）
 
 
 ---

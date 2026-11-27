@@ -1,6 +1,6 @@
 # omnimux-ai/omnimux-client
 
-⭐ 89 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/omnimux-ai/omnimux-client) · [官网](https://omnimux.ai) · 组织维护 · 中文 README
+⭐ 138 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/omnimux-ai/omnimux-client) · [官网](https://omnimux.ai) · 组织维护 · 中文 README
 
 **本地 AI 商品视频工作台：营销视频与带货内容一站式生成剪辑**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "omnimux-ai/omnimux-client 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 23 --> 95
-    line [29, 89]
+    title "omnimux-ai/omnimux-client 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 148
+    line [29, 89, 138]
 ```
 
-2026-11-25 29 → 2026-11-26 89（+60）
+2026-11-25 29 → 2026-11-27 138（+109）
 
 
 ---

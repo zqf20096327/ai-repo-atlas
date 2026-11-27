@@ -1,6 +1,6 @@
 # gravion-ux/llm-redteam-kit
 
-⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gravion-ux/llm-redteam-kit) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gravion-ux/llm-redteam-kit) · 个人维护
 
 **面向开发者的 LLM 红队评测工具：注入/越狱探针与 CI 回归门禁**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gravion-ux/llm-redteam-kit 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-27"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-22 3 → 2026-11-26 4（+1）
+2026-11-22 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gaudot/SlicerDentalSegmentator
 
-⭐ 203 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/gaudot/SlicerDentalSegmentator) · 组织维护
+⭐ 204 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/gaudot/SlicerDentalSegmentator) · 组织维护
 
 **3D Slicer 扩展：自动分割颅颌面 CT/CBCT 牙科结构**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gaudot/SlicerDentalSegmentator 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 196 --> 204
-    line [197, 198, 197, 199, 200, 201, 202, 203, 203]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 196 --> 205
+    line [197, 198, 197, 199, 200, 201, 202, 203, 204]
 ```
 
-2026-10-24 197 → 2026-11-26 203（+6）
+2026-10-25 197 → 2026-11-27 204（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Telosnex/fonnx
 
-⭐ 297 · Dart · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Telosnex/fonnx) · [官网](https://telosnex.github.io/fonnx/) · 组织维护
+⭐ 297 · Dart · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Telosnex/fonnx) · [官网](https://telosnex.github.io/fonnx/) · 组织维护
 
 **在 Flutter 全平台本地运行 ONNX 模型的库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Telosnex/fonnx 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 296 --> 298
     line [297, 297]
 ```
 
-2026-10-24 297 → 2026-11-26 297（+0）
+2026-10-25 297 → 2026-11-27 297（+0）
 
 
 ---

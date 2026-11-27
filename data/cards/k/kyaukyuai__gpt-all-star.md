@@ -1,6 +1,6 @@
 # kyaukyuai/gpt-all-star
 
-⭐ 237 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kyaukyuai/gpt-all-star) · [官网](https://kyaukyuai.github.io/gpt-all-star/) · 个人维护
+⭐ 238 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kyaukyuai/gpt-all-star) · [官网](https://kyaukyuai.github.io/gpt-all-star/) · 个人维护
 
 **多 AI agent 协作从零生成 Web 应用的代码生成工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kyaukyuai/gpt-all-star 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
     y-axis "stars" 236 --> 240
-    line [239, 238, 239, 238, 237, 237]
+    line [239, 238, 239, 238, 237, 238]
 ```
 
-2026-10-24 239 → 2026-11-26 237（-2）
+2026-10-25 239 → 2026-11-27 238（-1）
 
 
 ---

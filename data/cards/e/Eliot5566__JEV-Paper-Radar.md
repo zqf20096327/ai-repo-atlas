@@ -1,6 +1,6 @@
 # Eliot5566/JEV-Paper-Radar
 
-⭐ 47 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Eliot5566/JEV-Paper-Radar) · [官网](https://eliot5566.github.io/JEV-Paper-Radar/try/) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Eliot5566/JEV-Paper-Radar) · [官网](https://eliot5566.github.io/JEV-Paper-Radar/try/) · 个人维护 · 中文 README
 
 **每日扫描 arXiv 新论文、按兴趣输出必读清单的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eliot5566/JEV-Paper-Radar 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-23", "2026-11-26"]
+    title "Eliot5566/JEV-Paper-Radar 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 34 --> 48
-    line [35, 37, 35, 39, 41, 42, 43, 45, 46, 47]
+    line [35, 37, 35, 39, 41, 42, 43, 45, 46, 47, 47]
 ```
 
-2026-10-24 35 → 2026-11-26 47（+12）
+2026-10-25 35 → 2026-11-27 47（+12）
 
 
 ---

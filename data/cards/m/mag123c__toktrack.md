@@ -1,6 +1,6 @@
 # mag123c/toktrack
 
-⭐ 196 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mag123c/toktrack) · [官网](https://www.npmjs.com/package/toktrack) · 个人维护
+⭐ 196 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mag123c/toktrack) · [官网](https://www.npmjs.com/package/toktrack) · 个人维护
 
 **追踪多种 AI 编码 CLI 的 token 用量与成本的工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mag123c/toktrack 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 195 --> 197
     line [196, 196]
 ```
 
-2026-10-24 196 → 2026-11-26 196（+0）
+2026-10-25 196 → 2026-11-27 196（+0）
 
 
 ---

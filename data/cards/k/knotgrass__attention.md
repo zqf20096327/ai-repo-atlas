@@ -1,6 +1,6 @@
 # knotgrass/attention
 
-⭐ 55 · Python · 推送 2026-01-02 · [GitHub](https://github.com/knotgrass/attention) · 个人维护
+⭐ 56 · Python · 推送 2026-01-02 · [GitHub](https://github.com/knotgrass/attention) · 个人维护
 
 **学习用 PyTorch 注意力模块集合：MHA/MQA/GQA/Linformer**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "knotgrass/attention 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 54 --> 57
+    line [55, 56]
 ```
 
-2026-10-24 55 → 2026-11-26 55（+0）
+2026-10-25 55 → 2026-11-27 56（+1）
 
 
 ---

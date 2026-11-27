@@ -45,12 +45,12 @@ Latte（LATent Tensor Evaluation）是跨框架的 Python 评测包，用于计�
 ```mermaid
 xychart-beta
     title "kwatcharasupat/latte 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-24 38 → 2026-11-26 38（+0）
+2026-10-25 38 → 2026-11-27 38（+0）
 
 
 ---

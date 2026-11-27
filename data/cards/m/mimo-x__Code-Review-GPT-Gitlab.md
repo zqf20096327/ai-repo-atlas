@@ -1,6 +1,6 @@
 # mimo-x/Code-Review-GPT-Gitlab
 
-⭐ 816 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mimo-x/Code-Review-GPT-Gitlab) · [官网](https://mimo-x.github.io/Code-Review-GPT-Gitlab/) · 组织维护 · 中文 README
+⭐ 816 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mimo-x/Code-Review-GPT-Gitlab) · [官网](https://mimo-x.github.io/Code-Review-GPT-Gitlab/) · 组织维护 · 中文 README
 
 **面向研发团队的 GitLab LLM 辅助 Code Review 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mimo-x/Code-Review-GPT-Gitlab 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-27"]
     y-axis "stars" 815 --> 819
     line [816, 817, 816, 817, 818, 817, 816, 816]
 ```
 
-2026-10-24 816 → 2026-11-26 816（+0）
+2026-10-25 816 → 2026-11-27 816（+0）
 
 
 ---

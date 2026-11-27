@@ -1,6 +1,6 @@
 # psa-systems/claude-run
 
-⭐ 5 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/psa-systems/claude-run) · 组织维护
+⭐ 5 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/psa-systems/claude-run) · 组织维护
 
 **YAML 驱动的 Claude Code 任务轮询运行器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "psa-systems/claude-run 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 3 --> 6
     line [4, 5, 4, 5, 5]
 ```
 
-2026-10-24 4 → 2026-11-26 5（+1）
+2026-10-25 4 → 2026-11-27 5（+1）
 
 
 ---

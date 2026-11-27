@@ -1,6 +1,6 @@
 # autonomous-ai/autonomous-grid
 
-⭐ 279 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/autonomous-ai/autonomous-grid) · [官网](https://www.autonomous.ai/grid) · 组织维护
+⭐ 280 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/autonomous-ai/autonomous-grid) · [官网](https://www.autonomous.ai/grid) · 组织维护
 
 **把家里多台电脑组成本地模型内网，统一 OpenAI 端点**
 
@@ -47,12 +47,12 @@ Grid 是一个本地分布式推理编排 CLI：将用户已有的多台电脑�
 ```mermaid
 xychart-beta
     title "autonomous-ai/autonomous-grid 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 268 --> 280
-    line [269, 272, 273, 269, 276, 277, 278, 279, 279]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 268 --> 281
+    line [269, 272, 273, 269, 276, 277, 278, 279, 280]
 ```
 
-2026-10-24 269 → 2026-11-26 279（+10）
+2026-10-25 269 → 2026-11-27 280（+11）
 
 
 ---

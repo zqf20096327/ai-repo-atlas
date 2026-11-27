@@ -1,6 +1,6 @@
 # mvanhorn/last30days-skill
 
-⭐ 75,051 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mvanhorn/last30days-skill) · 个人维护
+⭐ 75,698 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mvanhorn/last30days-skill) · 个人维护
 
 **AI agent 技能：跨多平台检索近 30 天舆情并合成简报**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mvanhorn/last30days-skill 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 73286 --> 75211
-    line [73446, 75051]
+    title "mvanhorn/last30days-skill 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 73221 --> 75923
+    line [73446, 75051, 75698]
 ```
 
-2026-11-25 73,446 → 2026-11-26 75,051（+1,605）
+2026-11-25 73,446 → 2026-11-27 75,698（+2,252）
 
 
 ---

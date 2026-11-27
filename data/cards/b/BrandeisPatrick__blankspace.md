@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BrandeisPatrick/blankspace 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "BrandeisPatrick/blankspace 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 110 --> 113
-    line [111, 112]
+    line [111, 112, 112]
 ```
 
-2026-10-24 111 → 2026-11-26 112（+1）
+2026-10-25 111 → 2026-11-27 112（+1）
 
 
 ---

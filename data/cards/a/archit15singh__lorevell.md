@@ -1,6 +1,6 @@
 # archit15singh/lorevell
 
-⭐ 25 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/archit15singh/lorevell) · [官网](https://archit15singh.github.io/posts/2026-02-28-designing-cli-tools-for-ai-agents/) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/archit15singh/lorevell) · [官网](https://archit15singh.github.io/posts/2026-02-28-designing-cli-tools-for-ai-agents/) · 个人维护
 
 **面向人类与编码代理的本地 Markdown 知识库 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "archit15singh/lorevell 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-26"]
+    x-axis ["2026-11-12", "2026-11-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-11-12 25 → 2026-11-26 25（+0）
+2026-11-12 25 → 2026-11-27 25（+0）
 
 
 ---

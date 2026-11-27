@@ -41,6 +41,18 @@ PlaceBench 是一个评测数据集与结果发布：围绕 121 个城市的 150
 > L39: |`data/grades.jsonl`|Every grade: question, assistant, try (1 to 3) and grade. 900 first answers, plus the 240 repe
 > L94: Claude Opus 5.5 grades each first answer against its key, and we hand-verified places to calibrate it. As a cross-c
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "voygr-tech/placebench 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `45bdb92326bf` · [字段定义](../../DATASET.md)*

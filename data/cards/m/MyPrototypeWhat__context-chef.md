@@ -46,13 +46,13 @@ TypeScript/JavaScript 库，在每次 LLM 调用前将 agent 状态编译为适�
 
 ```mermaid
 xychart-beta
-    title "MyPrototypeWhat/context-chef 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "MyPrototypeWhat/context-chef 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 30 --> 33
-    line [31, 32]
+    line [31, 32, 32]
 ```
 
-2026-10-24 31 → 2026-11-26 32（+1）
+2026-10-25 31 → 2026-11-27 32（+1）
 
 
 ---

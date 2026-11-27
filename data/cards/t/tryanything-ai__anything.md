@@ -1,6 +1,6 @@
 # tryanything-ai/anything
 
-⭐ 315 · Rust · 推送 2026-06-04 · [GitHub](https://github.com/tryanything-ai/anything) · [官网](https://tryanything.xyz) · 组织维护
+⭐ 316 · Rust · 推送 2026-06-04 · [GitHub](https://github.com/tryanything-ai/anything) · [官网](https://tryanything.xyz) · 组织维护
 
 **Rust 编写的全栈 AI 自动化工作流框架，面向用户**
 
@@ -45,12 +45,12 @@ Anything 是用 Rust 编写的全栈 AI 自动化框架，提供拖拽式 Workfl
 ```mermaid
 xychart-beta
     title "tryanything-ai/anything 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 312 --> 316
-    line [313, 314, 315, 315]
+    x-axis ["2026-10-25", "2026-11-22", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 312 --> 317
+    line [313, 314, 315, 316]
 ```
 
-2026-10-24 313 → 2026-11-26 315（+2）
+2026-10-25 313 → 2026-11-27 316（+3）
 
 
 ---

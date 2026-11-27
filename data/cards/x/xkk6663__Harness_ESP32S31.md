@@ -43,6 +43,18 @@
 > L274: ## 🧠 如何让 AI Agent 接管开发
 > L297: - [ ] 小智 AI 对话接入（方案已定稿：`docs/项目规划/小智AI对话接入实施方案.md`，未开工）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xkk6663/Harness_ESP32S31 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `56efc3ea5b72` · [字段定义](../../DATASET.md)*

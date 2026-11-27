@@ -1,6 +1,6 @@
 # Niketkumardheeryan/ML-CaPsule
 
-⭐ 686 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Niketkumardheeryan/ML-CaPsule) · 组织维护
+⭐ 687 · Jupyter Notebook · MIT · 推送 2026-09-16 · [GitHub](https://github.com/Niketkumardheeryan/ML-CaPsule) · 组织维护
 
 **面向自学者的机器学习实践项目合集与学习资源库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Niketkumardheeryan/ML-CaPsule 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-26"]
+    title "Niketkumardheeryan/ML-CaPsule 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-27"]
     y-axis "stars" 683 --> 690
-    line [685, 684, 688, 689, 688, 687, 686, 686]
+    line [684, 688, 689, 688, 687, 686, 687]
 ```
 
-2026-10-24 685 → 2026-11-26 686（+1）
+2026-10-25 684 → 2026-11-27 687（+3）
 
 
 ---

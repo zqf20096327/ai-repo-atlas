@@ -1,6 +1,6 @@
 # intel/intel-xpu-smartune
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/intel/intel-xpu-smartune) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/intel/intel-xpu-smartune) · 组织维护
 
 **AI NAS 平台资源治理与调优工具：监控压力、限流应用、基准测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "intel/intel-xpu-smartune 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-26 13（+0）
+2026-10-24 13 → 2026-11-27 13（+0）
 
 
 ---

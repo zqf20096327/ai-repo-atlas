@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MDVR9980/Golestan-Clustering 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 23 --> 27
-    line [26, 24, 24]
+    title "MDVR9980/Golestan-Clustering 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
 ```
 
-2026-10-24 26 → 2026-11-26 24（-2）
+2026-10-25 24 → 2026-11-27 24（+0）
 
 
 ---

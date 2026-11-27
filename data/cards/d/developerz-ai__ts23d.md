@@ -1,6 +1,6 @@
 # developerz-ai/ts23d
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/developerz-ai/ts23d) · [官网](https://developerz-ai.github.io/ts23d/) · 组织维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/developerz-ai/ts23d) · [官网](https://developerz-ai.github.io/ts23d/) · 组织维护
 
 **给编码 agent 的免费 3D 资产生成器：TS DSL 编译为游戏可用 glTF**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "developerz-ai/ts23d 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-26 3（+0）
+2026-11-20 3 → 2026-11-27 3（+0）
 
 
 ---

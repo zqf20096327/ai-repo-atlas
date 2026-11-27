@@ -1,6 +1,6 @@
 # jerry-token/serialbot
 
-⭐ 12 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/jerry-token/serialbot) · 个人维护 · 中文 README
+⭐ 14 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/jerry-token/serialbot) · [官网](http://serialbot.aiany.cc/) · 个人维护 · 中文 README
 
 **嵌入式开发者的串口调试助手，内置 MCP 让 AI agent 操作串口**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jerry-token/serialbot 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 3 --> 13
-    line [4, 5, 7, 12]
+    title "jerry-token/serialbot 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 15
+    line [4, 5, 7, 12, 14]
 ```
 
-2026-11-19 4 → 2026-11-26 12（+8）
+2026-11-19 4 → 2026-11-27 14（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # eric-tramel/slop-guard
 
-⭐ 169 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/eric-tramel/slop-guard) · [官网](https://eric-tramel.github.io/blog/2026-02-18-slop-guard/) · 个人维护
+⭐ 171 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/eric-tramel/slop-guard) · [官网](https://eric-tramel.github.io/blog/2026-02-18-slop-guard/) · 个人维护
 
 **规则式文风检查器：给文本的 AI 套话程度打分**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eric-tramel/slop-guard 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 166 --> 170
-    line [167, 168, 167, 168, 167, 168, 169, 169]
+    title "eric-tramel/slop-guard 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 166 --> 172
+    line [168, 167, 168, 167, 168, 169, 171]
 ```
 
-2026-10-24 167 → 2026-11-26 169（+2）
+2026-10-25 168 → 2026-11-27 171（+3）
 
 
 ---

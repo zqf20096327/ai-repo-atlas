@@ -46,12 +46,12 @@ ICCV 2023 论文 Multimodal Garment Designer 的官方仓库：基于 latent dif
 ```mermaid
 xychart-beta
     title "aimagelab/multimodal-garment-designer 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 444 --> 447
     line [445, 446, 446]
 ```
 
-2026-10-24 445 → 2026-11-26 446（+1）
+2026-10-25 445 → 2026-11-27 446（+1）
 
 
 ---

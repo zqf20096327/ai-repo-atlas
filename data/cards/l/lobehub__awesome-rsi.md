@@ -1,10 +1,10 @@
 # lobehub/awesome-rsi
 
-⭐ 1,107 · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/lobehub/awesome-rsi) · 组织维护
+⭐ 1,111 · CC0-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/lobehub/awesome-rsi) · 组织维护
 
-**递归自我改进（RSI）研究论文与系统的分类清单**
+**递归自我改进（RSI）研究的策展论文地图**
 
-一份社区维护的 RSI（递归自我改进）研究图谱，收录模型级自我改进、记忆与上下文演化、harness/scaffold 演化、具身自我改进、多智能体、自动化 AI 研究、基准与安全等工作。清单先给出 Self-refinement、Persistent self-improvement、Recursive self-improvement 等术语的操作性定义和三级证据标准（task/retained/improver gain），再按分类组织条目，每条附论文出处与年份。欢迎提交补充与修改分类法。
+以 awesome-list 形式组织的递归自我改进研究索引：用术语表区分自精炼、持续自我改进、递归自我改进与 RSI substrate，并提出 task gain / retained gain / improver gain 三级证据标准。内容按类别组织：入门三篇论文、综述与基础文献（1965 年至今）、模型层 RSI（自训练、自奖励、合成数据与自蒸馏）等，每条附一句话摘要与出处（arXiv/会议/年份）。面向追踪该方向的研究者与安全研究者。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 按术语学定义区分 bounded self-improvement 与严格意义的 RSI
-- task/retained/improver 三级证据标准作为收录依据
-- 覆盖从 1965 年智能爆炸论述到近期自我训练、自我博弈、自我蒸馏等方法
-- 涵盖模型级、具身、自动化 AI 研究与安全等多个章节
+- 按自精炼/持续改进/递归改进/substrate 的术语体系组织条目
+- 提出 task gain、retained gain、improver gain 三级证据区分标准
+- 覆盖模型级、agent、具身系统、自动 AI 研发、评测与安全等类别
+- 每条文献附摘要与出处（arXiv/会议/年份）
 
 ## 适用场景
 
-- 了解递归自我改进研究的代表性论文与脉络
-- 为自己的 agent 自我改进研究查找相关工作
-- 查考 RSI 相关的基准与安全文献
+- 快速了解递归自我改进方向的入门文献脉络
+- 查找自训练/合成数据等模型级自我改进方法论文
+- 调研自我进化 agent 的安全与评测工作
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: # Awesome RSI (Recursive Self-Improvement) Awesome
-> L9: Awesome RSI collects and organizes important work across these areas, including model-level self-improvement, contex
-> L15: This is a community-maintained and evolving list. Contributions, missing papers, new benchmarks, frameworks, and su
+> L1: Awesome RSI — A Research Map of Recursive Self-Improvement
+> L7: Recursive Self-Improvement (RSI) refers to processes in which AI systems improve their own capabilities and can also
+> L57: - A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence - Surveys what, when, and how foundati
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "lobehub/awesome-rsi 星数(近 27 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 838 --> 1131
-    line [862, 865, 867, 877, 888, 898, 909, 912, 914, 920, 865, 971, 985, 990, 1001, 1013, 1016, 1020, 1031, 1038, 1048, 1060, 1068, 1074, 1078, 1091, 1107]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 841 --> 1135
+    line [865, 867, 877, 888, 898, 909, 912, 914, 920, 865, 971, 985, 990, 1001, 1013, 1016, 1020, 1031, 1038, 1048, 1060, 1068, 1074, 1078, 1091, 1107, 1111]
 ```
 
-2026-10-24 862 → 2026-11-26 1,107（+245）
+2026-10-25 865 → 2026-11-27 1,111（+246）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a58cc27980a5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5367331f67e5` · [字段定义](../../DATASET.md)*

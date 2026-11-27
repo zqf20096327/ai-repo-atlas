@@ -44,13 +44,13 @@ EVO Method 是 BMad Method 的独立 fork，提供一套 AI 驱动的敏捷开�
 
 ```mermaid
 xychart-beta
-    title "evolution-foundation/EVO-METHOD 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "evolution-foundation/EVO-METHOD 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 38 --> 41
-    line [40, 39]
+    line [40, 39, 39]
 ```
 
-2026-10-24 40 → 2026-11-26 39（-1）
+2026-10-25 40 → 2026-11-27 39（-1）
 
 
 ---

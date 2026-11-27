@@ -1,6 +1,6 @@
 # MHJoy99/CCUsageX
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MHJoy99/CCUsageX) · [官网](https://mhjoy99.github.io/CCUsageX/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MHJoy99/CCUsageX) · [官网](https://mhjoy99.github.io/CCUsageX/) · 个人维护
 
 **本地仪表盘：从 Claude Code 日志统计每次提示的 token 与费用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MHJoy99/CCUsageX 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 5 --> 10
-    line [6, 7, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 5 --> 11
+    line [6, 7, 8, 9, 10]
 ```
 
-2026-11-08 6 → 2026-11-26 9（+3）
+2026-11-08 6 → 2026-11-27 10（+4）
 
 
 ---

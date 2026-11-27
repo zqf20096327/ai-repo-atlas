@@ -46,12 +46,12 @@ Node.js 流水线，从公司招聘页与职位板 RSS 采集入门级职位和�
 ```mermaid
 xychart-beta
     title "abchughtai786/automated-job-posting-pipeline 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-26 3（+0）
+2026-11-02 3 → 2026-11-27 3（+0）
 
 
 ---

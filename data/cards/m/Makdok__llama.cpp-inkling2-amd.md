@@ -1,6 +1,6 @@
 # Makdok/llama.cpp-inkling2-amd
 
-⭐ 5 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Makdok/llama.cpp-inkling2-amd) · 个人维护
+⭐ 7 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Makdok/llama.cpp-inkling2-amd) · 个人维护
 
 **在 AMD RDNA3 GPU 上加速 Inkling 2 Mini 推理的 llama.cpp 分支**
 
@@ -40,6 +40,18 @@
 > L14: > **This is not upstream llama.cpp.** This branch is the Unsloth llama.cpp release
 > L17: > Inkling 2 Mini fast on AMD GPUs under ROCm/HIP. It is
 > L29: Inkling 2 Mini (Thinking Machines, 26.4B parameters, mixture of experts with 128 experts and 8 per token, 24 stored
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Makdok/llama.cpp-inkling2-amd 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 8
+    line [5, 7]
+```
+
+2026-11-26 5 → 2026-11-27 7（+2）
 
 
 ---

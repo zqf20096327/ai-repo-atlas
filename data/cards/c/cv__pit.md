@@ -1,6 +1,6 @@
 # cv/pit
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cv/pit) · [官网](https://github.com/cv/pit/tree/main/docs/case_study) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/cv/pit) · [官网](https://github.com/cv/pit/tree/main/docs/case_study) · 个人维护
 
 **把 Pi 编码 agent 的工具箱替换为单一 TypeScript 工具的扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cv/pit 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-19", "2026-11-20", "2026-11-26"]
+    title "cv/pit 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21]
+    line [18, 19, 20, 21, 21]
 ```
 
-2026-10-24 18 → 2026-11-26 21（+3）
+2026-10-25 18 → 2026-11-27 21（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # step-review/step-review
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/step-review/step-review) · [官网](https://step-review.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **帮开发者借助 AI 分步审阅大型 PR 的工具**
 
@@ -11,7 +11,7 @@ Step Review 是一个 PR 审阅辅助工具：用户让编码 agent 按 SKILL.md
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

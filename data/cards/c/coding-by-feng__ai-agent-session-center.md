@@ -1,6 +1,6 @@
 # coding-by-feng/ai-agent-session-center
 
-⭐ 96 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/coding-by-feng/ai-agent-session-center) · [官网](https://aasc.work) · 个人维护
+⭐ 96 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/coding-by-feng/ai-agent-session-center) · [官网](https://aasc.work) · 个人维护
 
 **Claude Code/Codex 会话的实时监控面板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "coding-by-feng/ai-agent-session-center 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 91 --> 97
-    line [92, 93, 94, 93, 95, 96, 96]
+    title "coding-by-feng/ai-agent-session-center 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 92 --> 97
+    line [93, 94, 93, 95, 96, 96]
 ```
 
-2026-10-24 92 → 2026-11-26 96（+4）
+2026-10-25 93 → 2026-11-27 96（+3）
 
 
 ---

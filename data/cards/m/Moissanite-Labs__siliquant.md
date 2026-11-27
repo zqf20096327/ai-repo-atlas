@@ -1,6 +1,6 @@
 # Moissanite-Labs/siliquant
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Moissanite-Labs/siliquant) · [官网](https://moissanite-labs.github.io/siliquant/) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Moissanite-Labs/siliquant) · [官网](https://moissanite-labs.github.io/siliquant/) · 个人维护
 
 **模型权重量化的研究仓库：证明、计数与实验记录**
 
@@ -40,6 +40,18 @@
 > L3: Research on rounding model weights to a few bits each (quantisation), and on the mathematics around it. It sits besi
 > L5: The repository follows one rule from weft-loom: a path is closed only on a proof. So it keeps a table of proved limi
 > L18: |`experiments/`|One folder per study, each with its plan, program, output and limits. Index in experiments/README.m
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Moissanite-Labs/siliquant 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

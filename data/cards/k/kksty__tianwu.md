@@ -1,6 +1,6 @@
 # kksty/tianwu
 
-⭐ 3 · Go · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/kksty/tianwu) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向授权渗透测试的多 Agent 协同执行平台**
 
@@ -11,7 +11,7 @@ Go 服务端 + Web 控制台的单用户多项目安全测试平台，复用 cyb
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

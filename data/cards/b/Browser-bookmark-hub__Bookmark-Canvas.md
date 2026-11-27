@@ -1,6 +1,6 @@
 # Browser-bookmark-hub/Bookmark-Canvas
 
-⭐ 10 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Browser-bookmark-hub/Bookmark-Canvas) · 组织维护 · 中文 README
+⭐ 10 · JavaScript · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Browser-bookmark-hub/Bookmark-Canvas) · 组织维护 · 中文 README
 
 **基于 JSON Canvas 的 Chrome/Edge 书签可视化画布管理器**
 
@@ -46,12 +46,12 @@ Manifest V3 浏览器扩展，将浏览器书签呈现为画布工作区：永�
 ```mermaid
 xychart-beta
     title "Browser-bookmark-hub/Bookmark-Canvas 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-26"]
+    x-axis ["2026-11-11", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-26 10（+0）
+2026-11-11 10 → 2026-11-27 10（+0）
 
 
 ---

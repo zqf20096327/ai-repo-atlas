@@ -1,6 +1,6 @@
 # tinycomputers/tiny-tpu
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/tinycomputers/tiny-tpu) · [官网](https://tiny-tpu.vercel.app) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/tinycomputers/tiny-tpu) · [官网](https://tiny-tpu.vercel.app) · 个人维护
 
 **可在浏览器观看运行的 4×4 脉动阵列 TPU RTL 可视化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tinycomputers/tiny-tpu 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-18", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 17 --> 22
-    line [18, 20, 21, 21]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 17 --> 23
+    line [18, 20, 21, 22]
 ```
 
-2026-10-26 18 → 2026-11-26 21（+3）
+2026-10-26 18 → 2026-11-27 22（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # vinpatel/aeorank
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/vinpatel/aeorank) · [官网](https://aeorank.dev) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vinpatel/aeorank) · [官网](https://aeorank.dev) · 个人维护
 
 **网站 AI 可见性扫描 CLI：12 维打分并生成 8 个 AI 可读文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vinpatel/aeorank 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-14", "2026-11-27"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 20]
 ```
 
-2026-10-24 18 → 2026-11-26 20（+2）
+2026-10-25 18 → 2026-11-27 20（+2）
 
 
 ---

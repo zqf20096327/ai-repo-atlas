@@ -1,6 +1,6 @@
 # Mahiron-hq/ai-dns
 
-⭐ 9 · PowerShell · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Mahiron-hq/ai-dns) · 个人维护 · 中文 README
+⭐ 9 · PowerShell · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Mahiron-hq/ai-dns) · 个人维护 · 中文 README
 
 **Windows 用户一键筛选可用 smart DNS 访问 ChatGPT/Claude/Gemini**
 
@@ -45,12 +45,12 @@ Windows 平台的 PowerShell 批处理工具：从内置与远程列表合并的
 ```mermaid
 xychart-beta
     title "Mahiron-hq/ai-dns 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-25", "2026-11-27"]
     y-axis "stars" 2 --> 10
     line [3, 4, 5, 8, 9, 9]
 ```
 
-2026-11-08 3 → 2026-11-26 9（+6）
+2026-11-08 3 → 2026-11-27 9（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Data-Centric-AI-Community/fg-data-synthetic
 
-⭐ 1,661 · Jupyter Notebook · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-synthetic) · [官网](https://docs.sdk.ydata.ai) · 组织维护
+⭐ 1,662 · Jupyter Notebook · MIT · 推送 2026-09-03 · [GitHub](https://github.com/Data-Centric-AI-Community/fg-data-synthetic) · [官网](https://docs.sdk.ydata.ai) · 组织维护
 
 **生成合成表格与时序数据的 Python 库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Data-Centric-AI-Community/fg-data-synthetic 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    title "Data-Centric-AI-Community/fg-data-synthetic 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1660 --> 1665
-    line [1661, 1662, 1661, 1664, 1662, 1661]
+    line [1661, 1662, 1661, 1664, 1662, 1661, 1662]
 ```
 
-2026-10-24 1,661 → 2026-11-26 1,661（+0）
+2026-10-25 1,661 → 2026-11-27 1,662（+1）
 
 
 ---

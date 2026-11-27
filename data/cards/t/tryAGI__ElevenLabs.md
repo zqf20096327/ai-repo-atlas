@@ -1,6 +1,6 @@
 # tryAGI/ElevenLabs
 
-⭐ 14 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tryAGI/ElevenLabs) · [官网](https://tryagi.github.io/ElevenLabs/) · 组织维护
+⭐ 14 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tryAGI/ElevenLabs) · [官网](https://tryagi.github.io/ElevenLabs/) · 组织维护
 
 **ElevenLabs API 的 .NET/C# SDK：语音生成与转录接入**
 
@@ -45,12 +45,12 @@ tryAGI 维护的 ElevenLabs 官方风格 .NET SDK，由 AutoSDK 从 OpenAPI 规�
 ```mermaid
 xychart-beta
     title "tryAGI/ElevenLabs 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 14（+0）
 
 
 ---

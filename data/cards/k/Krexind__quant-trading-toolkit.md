@@ -1,6 +1,6 @@
 # Krexind/quant-trading-toolkit
 
-⭐ 10 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Krexind/quant-trading-toolkit) · 个人维护
+⭐ 10 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Krexind/quant-trading-toolkit) · 个人维护
 
 **为量化交易者提供技术指标策略脚本与可插拔回测框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Krexind/quant-trading-toolkit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

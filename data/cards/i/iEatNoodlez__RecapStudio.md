@@ -40,6 +40,18 @@
 > L22: Add the chapters, press **Make the recap**, and Recap Studio cuts the pages into panels, reads the text, works out 
 > L89: |Script|Writes the narration a chapter at a time, from the pictures and the text.|A local model (Ollama), Claude Co
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iEatNoodlez/RecapStudio 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a8dd0db8d1e3` · [字段定义](../../DATASET.md)*

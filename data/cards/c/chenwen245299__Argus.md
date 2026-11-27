@@ -1,6 +1,6 @@
 # chenwen245299/Argus
 
-⭐ 19 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/chenwen245299/Argus) · [官网](https://chenwen245299.github.io/Argus/) · 个人维护 · 中文 README
+⭐ 19 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/chenwen245299/Argus) · [官网](https://chenwen245299.github.io/Argus/) · 个人维护 · 中文 README
 
 **面向科研人员的本地优先 AI 原生文献阅读器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chenwen245299/Argus 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-27"]
     y-axis "stars" 16 --> 20
     line [17, 18, 17, 18, 19, 19]
 ```
 
-2026-10-24 17 → 2026-11-26 19（+2）
+2026-10-25 17 → 2026-11-27 19（+2）
 
 
 ---

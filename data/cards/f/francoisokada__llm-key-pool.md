@@ -40,6 +40,18 @@
 > L3:  LLM Key Rotator — Multi-Provider API Key Pool with Automatic 429 Rotation (Hot-Reload Config, Zero Dependencies): O
 > L18: **LLM Key Rotator — One endpoint, every free LLM key you own** (`llm-key-pool`) is a portable Windows 10/11 runtime
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "francoisokada/llm-key-pool 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 50 --> 52
+    line [51, 51]
+```
+
+2026-11-26 51 → 2026-11-27 51（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `da68db76d432` · [字段定义](../../DATASET.md)*

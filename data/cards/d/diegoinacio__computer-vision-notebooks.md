@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "diegoinacio/computer-vision-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 131 --> 133
     line [132, 132]
 ```
 
-2026-10-24 132 → 2026-11-26 132（+0）
+2026-10-25 132 → 2026-11-27 132（+0）
 
 
 ---

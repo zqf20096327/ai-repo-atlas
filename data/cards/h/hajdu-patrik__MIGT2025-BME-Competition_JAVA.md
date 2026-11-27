@@ -1,6 +1,6 @@
 # hajdu-patrik/MIGT2025-BME-Competition_JAVA
 
-⭐ 14 · Java · NOASSERTION · 推送 2026-09-25 · [GitHub](https://github.com/hajdu-patrik/MIGT2025-BME-Competition_JAVA) · [官网](https://vik.hk/verseny/mesterseges-intelligencia/) · 个人维护
+⭐ 14 · Java · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/hajdu-patrik/MIGT2025-BME-Competition_JAVA) · [官网](https://vik.hk/verseny/mesterseges-intelligencia/) · 个人维护
 
 **BME 2025 学生竞赛参赛解：USAR 多智能体协同策略**
 
@@ -45,12 +45,12 @@ BME 人工智能与系统工程系组织的 2025 学生竞赛的第三名参赛�
 ```mermaid
 xychart-beta
     title "hajdu-patrik/MIGT2025-BME-Competition_JAVA 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 14（+0）
 
 
 ---

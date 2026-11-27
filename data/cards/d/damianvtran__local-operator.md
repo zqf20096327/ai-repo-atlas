@@ -1,6 +1,6 @@
 # damianvtran/local-operator
 
-⭐ 229 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/damianvtran/local-operator) · [官网](https://local-operator.com) · 个人维护
+⭐ 229 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/damianvtran/local-operator) · [官网](https://local-operator.com) · 个人维护
 
 **本机运行的 AI agent 协作中枢：托管、监督并连接多 agent**
 
@@ -45,12 +45,12 @@ Local Operator 是一个运行时/中枢，用于在用户本机托管、监督�
 ```mermaid
 xychart-beta
     title "damianvtran/local-operator 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 217 --> 232
     line [218, 223, 226, 229, 230, 231, 218, 229, 229]
 ```
 
-2026-10-24 218 → 2026-11-26 229（+11）
+2026-10-25 218 → 2026-11-27 229（+11）
 
 
 ---

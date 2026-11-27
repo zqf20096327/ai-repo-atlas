@@ -1,6 +1,6 @@
 # blazux/prism
 
-⭐ 13 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/blazux/prism) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/blazux/prism) · 个人维护
 
 **自托管的自主 AI agent 仪表盘：本地/云端模型驱动个人助理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "blazux/prism 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 13（+1）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

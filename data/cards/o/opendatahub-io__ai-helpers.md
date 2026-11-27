@@ -45,13 +45,13 @@ OpenDataHub 维护的协作仓库，收录按领域组织的 AI 插件（Skills�
 
 ```mermaid
 xychart-beta
-    title "opendatahub-io/ai-helpers 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "opendatahub-io/ai-helpers 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 38 --> 41
-    line [39, 40]
+    line [39, 40, 40]
 ```
 
-2026-10-24 39 → 2026-11-26 40（+1）
+2026-10-25 39 → 2026-11-27 40（+1）
 
 
 ---

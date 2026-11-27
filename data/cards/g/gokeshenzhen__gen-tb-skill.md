@@ -1,6 +1,6 @@
 # gokeshenzhen/gen-tb-skill
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/gokeshenzhen/gen-tb-skill) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-07-14 · [GitHub](https://github.com/gokeshenzhen/gen-tb-skill) · 个人维护
 
 **从 IP 规格与寄存器表生成 UVM 测试平台脚手架的 agent 技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gokeshenzhen/gen-tb-skill 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-24 27 → 2026-11-26 28（+1）
+2026-10-25 27 → 2026-11-27 29（+2）
 
 
 ---

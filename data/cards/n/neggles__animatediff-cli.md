@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "neggles/animatediff-cli 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "neggles/animatediff-cli 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 270 --> 273
-    line [271, 272]
+    line [271, 272, 272]
 ```
 
-2026-10-24 271 → 2026-11-26 272（+1）
+2026-10-25 271 → 2026-11-27 272（+1）
 
 
 ---

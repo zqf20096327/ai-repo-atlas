@@ -1,6 +1,6 @@
 # hoangsonww/EstateWise-Chapel-Hill-Chatbot
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot) · [官网](https://estatewise.vercel.app) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot) · [官网](https://estatewise.vercel.app) · 个人维护
 
 **北卡教堂山地区房产 AI 聊天助手与数据分析全栈应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hoangsonww/EstateWise-Chapel-Hill-Chatbot 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-24 41 → 2026-11-26 41（+0）
+2026-10-25 41 → 2026-11-27 42（+1）
 
 
 ---

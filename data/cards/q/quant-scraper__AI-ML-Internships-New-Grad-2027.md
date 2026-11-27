@@ -1,6 +1,6 @@
 # quant-scraper/AI-ML-Internships-New-Grad-2027
 
-⭐ 8 · 推送 2026-11-25 · [GitHub](https://github.com/quant-scraper/AI-ML-Internships-New-Grad-2027) · [官网](https://quant-scraper.com/ai?for=students) · 组织维护
+⭐ 8 · 推送 2026-11-26 · [GitHub](https://github.com/quant-scraper/AI-ML-Internships-New-Grad-2027) · [官网](https://quant-scraper.com/ai?for=students) · 组织维护
 
 **面向求职学生的 31 家 AI 公司实习与应届岗位清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "quant-scraper/AI-ML-Internships-New-Grad-2027 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-27"]
     y-axis "stars" 2 --> 9
     line [3, 4, 6, 7, 8, 8]
 ```
 
-2026-11-10 3 → 2026-11-26 8（+5）
+2026-11-10 3 → 2026-11-27 8（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # iinukami/whalelife
 
-⭐ 38 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/iinukami/whalelife) · 个人维护 · 中文 README
+⭐ 39 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/iinukami/whalelife) · 个人维护 · 中文 README
 
 **给想要有延续记忆 AI 伙伴的用户，提供本地运行的伙伴框架**
 
@@ -39,6 +39,18 @@ WhaleLife 是本地运行的 AI 伙伴框架，主干承载人格、会话与记
 
 > L7: WhaleLife 是以**自我的连续性**为核心、本地运行的 AI 伙伴框架。主干承载人格、会话与记忆，插件让同一个主体获得新的交流、感知和行动方式。
 > L27: 需要自行配置可用的模型服务。支持云端或本地的 OpenAI 兼容接口，模型与服务需支持所用的对话和工具调用能力；云端 API 费用由服务商收取。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iinukami/whalelife 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
+```
+
+2026-11-26 38 → 2026-11-27 39（+1）
 
 
 ---

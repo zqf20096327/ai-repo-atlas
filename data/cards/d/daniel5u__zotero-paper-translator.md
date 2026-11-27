@@ -1,6 +1,6 @@
 # daniel5u/zotero-paper-translator
 
-⭐ 15 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/daniel5u/zotero-paper-translator) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/daniel5u/zotero-paper-translator) · 个人维护 · 中文 README
 
 **Zotero 插件：用自有 OpenAI 兼容 API 整页翻译 PDF 论文并保留版式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "daniel5u/zotero-paper-translator 星数(近 7 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 3 --> 16
-    line [4, 6, 12, 13, 14, 15, 15]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 3 --> 17
+    line [4, 6, 12, 13, 14, 15, 16]
 ```
 
-2026-11-01 4 → 2026-11-26 15（+11）
+2026-11-01 4 → 2026-11-27 16（+12）
 
 
 ---

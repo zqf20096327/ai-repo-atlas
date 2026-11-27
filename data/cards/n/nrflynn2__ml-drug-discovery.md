@@ -1,6 +1,6 @@
 # nrflynn2/ml-drug-discovery
 
-⭐ 123 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/nrflynn2/ml-drug-discovery) · [官网](https://www.manning.com/books/machine-learning-for-drug-discovery) · 个人维护
+⭐ 124 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/nrflynn2/ml-drug-discovery) · [官网](https://www.manning.com/books/machine-learning-for-drug-discovery) · 个人维护
 
 **《Machine Learning for Drug Discovery》图书配套代码与数据仓库**
 
@@ -44,13 +44,13 @@ Manning 出版书籍 Build AI Drug Discovery Pipelines 的官方配套仓库，�
 
 ```mermaid
 xychart-beta
-    title "nrflynn2/ml-drug-discovery 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 110 --> 124
-    line [111, 112, 113, 114, 116, 117, 112, 119, 120, 121, 122, 123, 123]
+    title "nrflynn2/ml-drug-discovery 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 111 --> 125
+    line [112, 113, 114, 116, 117, 112, 119, 120, 121, 122, 123, 124]
 ```
 
-2026-10-24 111 → 2026-11-26 123（+12）
+2026-10-25 112 → 2026-11-27 124（+12）
 
 
 ---

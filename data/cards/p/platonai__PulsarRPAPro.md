@@ -1,6 +1,6 @@
 # platonai/PulsarRPAPro
 
-⭐ 141 · Kotlin · AGPL-3.0 · 推送 2026-06-08 · [GitHub](https://github.com/platonai/PulsarRPAPro) · [官网](https://platon.ai) · 组织维护 · 中文 README
+⭐ 140 · Kotlin · AGPL-3.0 · 推送 2026-06-08 · [GitHub](https://github.com/platonai/PulsarRPAPro) · [官网](https://platon.ai) · 组织维护 · 中文 README
 
 **AI 驱动的浏览器自动化与网页数据抽取工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "platonai/PulsarRPAPro 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 140 --> 143
-    line [142, 141, 141]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 139 --> 143
+    line [142, 141, 140]
 ```
 
-2026-10-24 142 → 2026-11-26 141（-1）
+2026-10-25 142 → 2026-11-27 140（-2）
 
 
 ---

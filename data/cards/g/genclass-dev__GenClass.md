@@ -1,6 +1,6 @@
 # genclass-dev/GenClass
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/genclass-dev/GenClass) · [官网](https://genclass.dev) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/genclass-dev/GenClass) · [官网](https://genclass.dev) · 组织维护
 
 **浏览器内 10MB 模型：检测 Web 应用竞态与陈旧响应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "genclass-dev/GenClass 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-27"]
     y-axis "stars" 6 --> 12
     line [7, 8, 10, 11, 11]
 ```
 
-2026-11-02 7 → 2026-11-26 11（+4）
+2026-11-02 7 → 2026-11-27 11（+4）
 
 
 ---

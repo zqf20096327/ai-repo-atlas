@@ -1,6 +1,6 @@
 # hemangjoshi37a/PersonalGoalAssistant
 
-⭐ 22 · JavaScript · MIT · 推送 2026-05-02 · [GitHub](https://github.com/hemangjoshi37a/PersonalGoalAssistant) · [官网](https://hjlabs.in/AIML/services/agentic-ai/) · 个人维护
+⭐ 23 · JavaScript · MIT · 推送 2026-05-02 · [GitHub](https://github.com/hemangjoshi37a/PersonalGoalAssistant) · [官网](https://hjlabs.in/AIML/services/agentic-ai/) · 个人维护
 
 **AI 目标规划与习惯追踪的 Web 应用（SPA）**
 
@@ -44,13 +44,13 @@ Flask 后端加 Vite 前端的单页应用，调用 Gemini 1.5 Flash 进行战�
 
 ```mermaid
 xychart-beta
-    title "hemangjoshi37a/PersonalGoalAssistant 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    title "hemangjoshi37a/PersonalGoalAssistant 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 21 --> 24
-    line [23, 22, 22]
+    line [22, 23]
 ```
 
-2026-10-24 23 → 2026-11-26 22（-1）
+2026-10-25 22 → 2026-11-27 23（+1）
 
 
 ---

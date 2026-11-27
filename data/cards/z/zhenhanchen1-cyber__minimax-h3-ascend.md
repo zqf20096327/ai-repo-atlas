@@ -1,6 +1,6 @@
 # zhenhanchen1-cyber/minimax-h3-ascend
 
-⭐ 9 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/zhenhanchen1-cyber/minimax-h3-ascend) · [官网](https://gitcode.com/nxxwjbl/minimax-h3-nvidia-uncensored) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **在昇腾 NPU 上本地部署 MiniMax-H3 视频生成的脚本方案**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-24g` | |

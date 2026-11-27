@@ -1,6 +1,6 @@
 # zoan37/llm-verification
 
-⭐ 3 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/zoan37/llm-verification) · [官网](https://zoan.space/llm-verification/) · 个人维护
+⭐ 4 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zoan37/llm-verification) · [官网](https://zoan.space/llm-verification/) · 个人维护
 
 **审计 LLM API 端点真伪并提供可验证推理回执协议**
 
@@ -39,6 +39,18 @@
 
 > L12: - **Black-box audits** of any OpenAI-compatible endpoint (e.g. every provider of a model on OpenRouter). A
 > L36: At every step a language model assigns probabilities to every possible next token. A referee running the claimed
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zoan37/llm-verification 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

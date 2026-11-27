@@ -1,6 +1,6 @@
 # AtlasCloudAI/atlas-marketing-studio
 
-⭐ 55 · TypeScript · 推送 2026-10-16 · [GitHub](https://github.com/AtlasCloudAI/atlas-marketing-studio) · [官网](https://atlas-saas-starter.atlascloudai.workers.dev/) · 组织维护
+⭐ 57 · TypeScript · 推送 2026-10-16 · [GitHub](https://github.com/AtlasCloudAI/atlas-marketing-studio) · [官网](https://atlas-saas-starter.atlascloudai.workers.dev/) · 组织维护
 
 **面向电商的 AI 视频广告生成工作室，可自托管**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AtlasCloudAI/atlas-marketing-studio 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 44 --> 56
-    line [45, 46, 49, 52, 53, 55, 55]
+    title "AtlasCloudAI/atlas-marketing-studio 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 45 --> 58
+    line [46, 49, 52, 53, 55, 57]
 ```
 
-2026-10-24 45 → 2026-11-26 55（+10）
+2026-10-25 46 → 2026-11-27 57（+11）
 
 
 ---

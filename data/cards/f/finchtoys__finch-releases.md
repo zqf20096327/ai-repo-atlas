@@ -1,6 +1,6 @@
 # finchtoys/finch-releases
 
-⭐ 85 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/finchtoys/finch-releases) · [官网](https://www.finchwork.app) · 组织维护 · 中文 README
+⭐ 86 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/finchtoys/finch-releases) · [官网](https://www.finchwork.app) · 组织维护 · 中文 README
 
 **Finch Agent 桌面 AI 应用的发布中心：版本资产与扩展社区注册表**
 
@@ -46,12 +46,12 @@ Finch Agent 是面向 macOS/Windows/Linux 的桌面 AI agent，用户以自然�
 ```mermaid
 xychart-beta
     title "finchtoys/finch-releases 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-27"]
     y-axis "stars" 56 --> 88
-    line [58, 59, 66, 58, 84, 85, 86, 85, 85]
+    line [58, 59, 66, 58, 84, 85, 86, 85, 86]
 ```
 
-2026-10-24 58 → 2026-11-26 85（+27）
+2026-10-25 58 → 2026-11-27 86（+28）
 
 
 ---

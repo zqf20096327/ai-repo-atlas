@@ -1,6 +1,6 @@
 # UpstageAI/korean-tax-calc-mcp
 
-⭐ 102 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/UpstageAI/korean-tax-calc-mcp) · [官网](https://upstageai.github.io/korean-tax-mcp/) · 组织维护
+⭐ 102 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/UpstageAI/korean-tax-calc-mcp) · [官网](https://upstageai.github.io/korean-tax-mcp/) · 组织维护
 
 **韩国税务计算 MCP 服务器：为 AI agent 提供税额计算与税务调整工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "UpstageAI/korean-tax-calc-mcp 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
+    title "UpstageAI/korean-tax-calc-mcp 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 0 --> 111
-    line [3, 48, 85, 87, 93, 95, 3, 97, 98, 100, 102]
+    line [3, 48, 85, 87, 93, 95, 3, 97, 98, 100, 102, 102]
 ```
 
-2026-10-24 3 → 2026-11-26 102（+99）
+2026-10-25 3 → 2026-11-27 102（+99）
 
 
 ---

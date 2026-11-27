@@ -1,6 +1,6 @@
 # supabase-community/nextjs-openai-doc-search
 
-⭐ 1,725 · TypeScript · Apache-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/supabase-community/nextjs-openai-doc-search) · [官网](https://supabase.com/blog/chatgpt-supabase-docs) · 组织维护
+⭐ 1,724 · TypeScript · Apache-2.0 · 推送 2026-05-12 · [GitHub](https://github.com/supabase-community/nextjs-openai-doc-search) · [官网](https://supabase.com/blog/chatgpt-supabase-docs) · 组织维护
 
 **基于 Next.js+OpenAI+Supabase 的文档问答搜索模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "supabase-community/nextjs-openai-doc-search 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 1724 --> 1728
-    line [1726, 1725, 1726, 1725, 1727, 1726, 1725, 1725]
+    title "supabase-community/nextjs-openai-doc-search 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 1723 --> 1728
+    line [1725, 1726, 1725, 1727, 1726, 1725, 1724]
 ```
 
-2026-10-24 1,726 → 2026-11-26 1,725（-1）
+2026-10-25 1,725 → 2026-11-27 1,724（-1）
 
 
 ---

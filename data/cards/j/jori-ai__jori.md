@@ -1,6 +1,6 @@
 # jori-ai/jori
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/jori-ai/jori) · [官网](https://getjori.ai) · 组织维护
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/jori-ai/jori) · [官网](https://getjori.ai) · 组织维护
 
 **运行在已有 Claude 订阅上的常驻个人/团队 AI 助手**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jori-ai/jori 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-26"]
+    title "jori-ai/jori 星数(近 6 点)"
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-26", "2026-11-27"]
     y-axis "stars" 8 --> 15
-    line [9, 11, 12, 13, 14]
+    line [9, 11, 12, 13, 14, 14]
 ```
 
-2026-11-10 9 → 2026-11-26 14（+5）
+2026-11-10 9 → 2026-11-27 14（+5）
 
 
 ---

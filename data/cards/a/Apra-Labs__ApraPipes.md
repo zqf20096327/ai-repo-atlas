@@ -1,6 +1,6 @@
 # Apra-Labs/ApraPipes
 
-⭐ 38 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Apra-Labs/ApraPipes) · 组织维护
+⭐ 38 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Apra-Labs/ApraPipes) · 组织维护
 
 **面向视频/图像处理应用的 C++ 流水线框架，含 AI 推理模块**
 
@@ -45,12 +45,12 @@ ApraPipes 是用于开发视频与图像处理应用的流水线框架，支持�
 ```mermaid
 xychart-beta
     title "Apra-Labs/ApraPipes 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-23", "2026-11-27"]
     y-axis "stars" 34 --> 39
     line [35, 37, 38, 38]
 ```
 
-2026-10-24 35 → 2026-11-26 38（+3）
+2026-10-25 35 → 2026-11-27 38（+3）
 
 
 ---

@@ -41,6 +41,18 @@ Walid Slimani（ELTE 布达佩斯 AI 方向博士生）的个人作品集源码�
 > L22: This repository is the source of my portfolio site. The site makes one point: **the domain changes, the method is A
 > L93: |3D|Three.js r180 with custom `ShaderMaterial`; GLSL vertex and fragment shaders|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LEX310Dex/walid-slimani-ai-portfolio 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-26 8 → 2026-11-27 8（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7289ffaa6521` · [字段定义](../../DATASET.md)*

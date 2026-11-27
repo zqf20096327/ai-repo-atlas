@@ -1,6 +1,6 @@
 # doofinder/doofinder-magento2
 
-⭐ 13 · PHP · MIT · 推送 2026-11-25 · [GitHub](https://github.com/doofinder/doofinder-magento2) · [官网](https://www.doofinder.com/en/solutions/magento) · 组织维护
+⭐ 13 · PHP · MIT · 推送 2026-11-26 · [GitHub](https://github.com/doofinder/doofinder-magento2) · [官网](https://www.doofinder.com/en/solutions/magento) · 组织维护
 
 **Magento 2 商店的 Doofinder AI 搜索集成插件**
 
@@ -46,12 +46,12 @@ Doofinder 官方维护的 Magento 2 搜索模块：将商店目录自动索引�
 ```mermaid
 xychart-beta
     title "doofinder/doofinder-magento2 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 13（+0）
 
 
 ---

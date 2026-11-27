@@ -1,6 +1,6 @@
 # in100tiva/KeyHybrid
 
-⭐ 4 · Svelte · MIT · 推送 2026-11-24 · [GitHub](https://github.com/in100tiva/KeyHybrid) · [官网](https://in100tiva.github.io/KeyHybrid/) · 个人维护
+⭐ 4 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/in100tiva/KeyHybrid) · [官网](https://in100tiva.github.io/KeyHybrid/) · 个人维护
 
 **本地 AI 密钥保险库与 OpenAI 兼容网关，避免真实密钥泄露**
 
@@ -44,13 +44,13 @@ KeyHybrid 是一个桌面密钥保险库，集中保存 OpenRouter、Google Gemi
 
 ```mermaid
 xychart-beta
-    title "in100tiva/KeyHybrid 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "in100tiva/KeyHybrid 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-25 3 → 2026-11-26 4（+1）
+2026-11-25 3 → 2026-11-27 4（+1）
 
 
 ---

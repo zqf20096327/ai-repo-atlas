@@ -1,6 +1,6 @@
 # langchain-ai/terraform
 
-⭐ 24 · HCL · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/langchain-ai/terraform) · 组织维护
+⭐ 24 · HCL · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/langchain-ai/terraform) · 组织维护
 
 **在企业自有云上部署 LangSmith 自托管版的 Terraform 模块集**
 
@@ -45,12 +45,12 @@ LangChain 官方仓库，以可复用 Terraform 模块打包 LangSmith Self-Host
 ```mermaid
 xychart-beta
     title "langchain-ai/terraform 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-27"]
     y-axis "stars" 20 --> 25
     line [21, 22, 21, 23, 24, 24]
 ```
 
-2026-10-24 21 → 2026-11-26 24（+3）
+2026-10-25 21 → 2026-11-27 24（+3）
 
 
 ---

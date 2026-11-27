@@ -46,13 +46,13 @@ chrome-agent 是一个 CLI 工具，为 AI 编码代理提供对 Chrome DevTools
 
 ```mermaid
 xychart-beta
-    title "captivus/chrome-agent 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    title "captivus/chrome-agent 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 309 --> 312
-    line [310, 311]
+    line [310, 311, 311]
 ```
 
-2026-11-16 310 → 2026-11-26 311（+1）
+2026-11-16 310 → 2026-11-27 311（+1）
 
 
 ---

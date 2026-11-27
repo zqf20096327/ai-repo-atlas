@@ -1,6 +1,6 @@
 # Ikomia-dev/IkomiaStudio
 
-⭐ 63 · C++ · AGPL-3.0 · 推送 2026-05-07 · [GitHub](https://github.com/Ikomia-dev/IkomiaStudio) · [官网](https://www.ikomia.ai/studio) · 组织维护
+⭐ 63 · C++ · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Ikomia-dev/IkomiaStudio) · [官网](https://www.ikomia.ai/studio) · 组织维护
 
 **开源计算机视觉桌面应用：可视化搭建图像/视频处理工作流**
 
@@ -45,12 +45,12 @@ Ikomia 公司开发的计算机视觉桌面软件，配套 Ikomia API Python 库
 ```mermaid
 xychart-beta
     title "Ikomia-dev/IkomiaStudio 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
     y-axis "stars" 61 --> 64
     line [63, 62, 63, 63]
 ```
 
-2026-10-24 63 → 2026-11-26 63（+0）
+2026-10-25 63 → 2026-11-27 63（+0）
 
 
 ---

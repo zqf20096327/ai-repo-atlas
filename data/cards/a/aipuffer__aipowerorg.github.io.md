@@ -1,6 +1,6 @@
 # aipuffer/aipowerorg.github.io
 
-⭐ 29 · JavaScript · 推送 2026-03-19 · [GitHub](https://github.com/aipuffer/aipowerorg.github.io) · [官网](https://docs.aipower.org) · 组织维护
+⭐ 28 · JavaScript · 推送 2026-03-19 · [GitHub](https://github.com/aipuffer/aipowerorg.github.io) · [官网](https://docs.aipower.org) · 组织维护
 
 **AI Power WordPress 插件的官方文档站点仓库**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "aipuffer/aipowerorg.github.io 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 27 --> 30
+    line [29, 28]
 ```
 
-2026-10-24 29 → 2026-11-26 29（+0）
+2026-10-25 29 → 2026-11-27 28（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # RicherTunes/Brainarr
 
-⭐ 45 · C# · MIT · 推送 2026-09-14 · [GitHub](https://github.com/RicherTunes/Brainarr) · 个人维护
+⭐ 44 · C# · MIT · 推送 2026-09-14 · [GitHub](https://github.com/RicherTunes/Brainarr) · 个人维护
 
 **Lidarr 的本地优先 AI 音乐推荐导入清单插件**
 
@@ -46,12 +46,12 @@ Brainarr 是嵌入 Lidarr 导入清单工作流的插件，用 AI 生成专辑/�
 ```mermaid
 xychart-beta
     title "RicherTunes/Brainarr 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 44 --> 47
-    line [46, 45, 46, 45, 45]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 43 --> 47
+    line [46, 45, 46, 45, 44]
 ```
 
-2026-10-24 46 → 2026-11-26 45（-1）
+2026-10-25 46 → 2026-11-27 44（-2）
 
 
 ---

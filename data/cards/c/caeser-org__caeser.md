@@ -1,6 +1,6 @@
 # caeser-org/caeser
 
-⭐ 28 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/caeser-org/caeser) · 组织维护
+⭐ 32 · Go · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/caeser-org/caeser) · [官网](caeser.yaxh.tech) · 组织维护
 
 **为 Go 开发者将 CI 失败转为结构化代码调查报告**
 
@@ -41,6 +41,18 @@ Caeser 是 Go CI 失败调查引擎：读取失败运行的日志与工件，关
 > L51: investigation tools through MCP for an agent client. Model analysis is an
 > L82: To build locally, you need Go 1.26, Git, and a C compiler for SQLite. Docker is
 > L89: go build -o "$HOME/.local/bin/caeser" ./cmd/caeser
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "caeser-org/caeser 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 27 --> 33
+    line [28, 32]
+```
+
+2026-11-26 28 → 2026-11-27 32（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # junforge-dev/voxplane
 
-⭐ 308 · Python · 推送 2026-11-23 · [GitHub](https://github.com/junforge-dev/voxplane) · [官网](https://junforge-dev.github.io/voxplane/) · 组织维护 · 中文 README
+⭐ 307 · Python · 推送 2026-11-23 · [GitHub](https://github.com/junforge-dev/voxplane) · [官网](https://junforge-dev.github.io/voxplane/) · 组织维护 · 中文 README
 
 **跨平台 DICOM 阅片工作台：为 CT/MR/PET 提供重建、融合与本地 AI 分割**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "junforge-dev/voxplane 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-20", "2026-11-27"]
     y-axis "stars" 305 --> 309
-    line [306, 307, 308, 308]
+    line [306, 307, 308, 307]
 ```
 
-2026-11-11 306 → 2026-11-26 308（+2）
+2026-11-11 306 → 2026-11-27 307（+1）
 
 
 ---

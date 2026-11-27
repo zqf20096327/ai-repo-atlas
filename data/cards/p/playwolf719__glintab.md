@@ -1,6 +1,6 @@
 # playwolf719/glintab
 
-⭐ 64 · TypeScript · 推送 2026-11-12 · [GitHub](https://github.com/playwolf719/glintab) · 个人维护 · 中文 README
+⭐ 63 · TypeScript · 推送 2026-11-12 · [GitHub](https://github.com/playwolf719/glintab) · 个人维护 · 中文 README
 
 **浏览器阅读助手插件：网页旁用自选 AI 模型摘要与追问**
 
@@ -47,12 +47,12 @@ Chrome 浏览器扩展（MV3，需 Chrome 116+），在网页旁对正文生成�
 ```mermaid
 xychart-beta
     title "playwolf719/glintab 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-27"]
     y-axis "stars" 35 --> 66
-    line [37, 59, 64, 64]
+    line [37, 59, 64, 63]
 ```
 
-2026-11-08 37 → 2026-11-26 64（+27）
+2026-11-08 37 → 2026-11-27 63（+26）
 
 
 ---

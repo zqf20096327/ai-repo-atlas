@@ -1,6 +1,6 @@
 # vcache-project/vCache
 
-⭐ 85 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/vcache-project/vCache) · 组织维护
+⭐ 86 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/vcache-project/vCache) · 组织维护
 
 **带错误率上界保证的 LLM 语义提示缓存库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vcache-project/vCache 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 82 --> 86
-    line [83, 84, 83, 84, 85, 85]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 82 --> 87
+    line [83, 84, 83, 84, 85, 86]
 ```
 
-2026-10-24 83 → 2026-11-26 85（+2）
+2026-10-25 83 → 2026-11-27 86（+3）
 
 
 ---

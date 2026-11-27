@@ -1,6 +1,6 @@
 # jiang198012/workbuddian
 
-⭐ 76 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jiang198012/workbuddian) · [官网](https://obsidian.md/plugins?id=workbuddian) · 个人维护 · 中文 README
+⭐ 77 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jiang198012/workbuddian) · [官网](https://obsidian.md/plugins?id=workbuddian) · 个人维护 · 中文 README
 
 **把 CodeBuddy CLI/Hermes agent 变成 Obsidian 内 AI 聊天的插件**
 
@@ -45,13 +45,13 @@ Obsidian 社区插件，将本地 CodeBuddy CLI（WorkBuddy 桌面版内置）�
 
 ```mermaid
 xychart-beta
-    title "jiang198012/workbuddian 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 65 --> 77
-    line [66, 68, 69, 66, 71, 72, 73, 74, 75, 76]
+    title "jiang198012/workbuddian 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 65 --> 78
+    line [66, 68, 69, 66, 71, 72, 73, 74, 75, 76, 77]
 ```
 
-2026-10-24 66 → 2026-11-26 76（+10）
+2026-10-25 66 → 2026-11-27 77（+11）
 
 
 ---

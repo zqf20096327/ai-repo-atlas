@@ -1,6 +1,6 @@
 # beyondtahir/beyondgtaclips
 
-⭐ 159 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/beyondtahir/beyondgtaclips) · 个人维护
+⭐ 163 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/beyondtahir/beyondgtaclips) · 个人维护
 
 **让 Claude/ChatGPT 自动把 GTA 6 直播切成 9:16 短视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "beyondtahir/beyondgtaclips 星数(近 6 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 38 --> 170
-    line [49, 97, 121, 133, 150, 159]
+    title "beyondtahir/beyondgtaclips 星数(近 7 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 38 --> 174
+    line [49, 97, 121, 133, 150, 159, 163]
 ```
 
-2026-11-20 49 → 2026-11-26 159（+110）
+2026-11-20 49 → 2026-11-27 163（+114）
 
 
 ---

@@ -1,6 +1,6 @@
 # gabe00122/mapox-trainer
 
-⭐ 17 · Python · 推送 2026-11-25 · [GitHub](https://github.com/gabe00122/mapox-trainer) · 个人维护
+⭐ 17 · Python · 推送 2026-11-26 · [GitHub](https://github.com/gabe00122/mapox-trainer) · 个人维护
 
 **JAX 多智能体强化学习训练框架：Transformer 智能体+PPO**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gabe00122/mapox-trainer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-24 17 → 2026-11-26 17（+0）
+2026-10-25 17 → 2026-11-27 17（+0）
 
 
 ---

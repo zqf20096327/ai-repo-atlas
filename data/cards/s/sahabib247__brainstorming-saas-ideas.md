@@ -40,6 +40,18 @@
 > L3: **A free Claude skill that brainstorms unique SaaS & app ideas, not the usual "AI tool for X".**
 > L13: This skill makes Claude brainstorm like a sceptical founder instead of a hype machine. It covers **SaaS, web apps, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sahabib247/brainstorming-saas-ideas 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ae9da331a37e` · [字段定义](../../DATASET.md)*

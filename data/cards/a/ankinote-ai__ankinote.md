@@ -1,6 +1,6 @@
 # ankinote-ai/ankinote
 
-⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ankinote-ai/ankinote) · 组织维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ankinote-ai/ankinote) · 组织维护 · 中文 README
 
 **为 Anki 用户用 AI 自动生成单词/句子/理科题卡片**
 
@@ -40,6 +40,18 @@ AnkiNote 是一个 AI 驱动的 Anki 卡片制作工具：输入单词、短语�
 > L16: Making great Anki cards shouldn't take longer than reviewing them. **AnkiNote** is an AI-powered Anki card studio t
 > L22: - **Works with Your Existing Anki** — Sends cards straight into Anki Desktop via AnkiConnect with no duplicate coll
 > L54: 1. **AI Provider** — Paste a Gemini API key (covers text, image, and speech) or expand **Advanced** for OpenAI, Cla
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ankinote-ai/ankinote 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-26 12 → 2026-11-27 12（+0）
 
 
 ---

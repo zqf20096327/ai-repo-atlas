@@ -1,6 +1,6 @@
 # jeepjeepjeep/reinfors
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/jeepjeepjeep/reinfors) · 个人维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/jeepjeepjeep/reinfors) · 个人维护
 
 **给 Python RL 使用者的高吞吐 Rust 搜索与采样后端**
 
@@ -46,12 +46,12 @@ Rust 编写的强化学习搜索与采样库：游戏动态运行、树搜索、
 ```mermaid
 xychart-beta
     title "jeepjeepjeep/reinfors 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

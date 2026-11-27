@@ -1,6 +1,6 @@
 # Inineo/TUYUL-Orchestra
 
-⭐ 3 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/Inineo/TUYUL-Orchestra) · [官网](https://github.com/Inineo/TUYUL-Orchestra) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **多智能体 AI 虚拟办公室：7 角色协作完成开发任务**
 

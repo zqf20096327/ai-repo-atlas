@@ -1,6 +1,6 @@
 # agustinsacco/phosphor
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/agustinsacco/phosphor) · [官网](https://phosphor.saccolabs.com) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/agustinsacco/phosphor) · [官网](https://phosphor.saccolabs.com) · 个人维护
 
 **基于 pi 编码代理的开源多代理桌面 IDE**
 
@@ -46,12 +46,12 @@ Phosphor 是构建在 pi coding agent 之上的 Electron 桌面 IDE（macOS/Linu
 ```mermaid
 xychart-beta
     title "agustinsacco/phosphor 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-27"]
     y-axis "stars" 10 --> 18
     line [11, 12, 13, 11, 15, 16, 17, 17]
 ```
 
-2026-10-24 11 → 2026-11-26 17（+6）
+2026-10-25 11 → 2026-11-27 17（+6）
 
 
 ---

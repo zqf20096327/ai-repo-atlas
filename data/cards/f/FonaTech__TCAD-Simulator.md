@@ -1,6 +1,6 @@
 # FonaTech/TCAD-Simulator
 
-⭐ 13 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/FonaTech/TCAD-Simulator) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/FonaTech/TCAD-Simulator) · 个人维护 · 中文 README
 
 **面向半导体工艺研发的体素化 TCAD-like 工艺仿真平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FonaTech/TCAD-Simulator 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-22", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14]
 ```
 
-2026-11-08 10 → 2026-11-26 13（+3）
+2026-11-08 10 → 2026-11-27 14（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # LJMStark/Colab-Tools
 
-⭐ 3 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/LJMStark/Colab-Tools) · 个人维护 · 中文 README
+⭐ 7 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LJMStark/Colab-Tools) · 个人维护 · 中文 README
 
 **给 Colab 用户一键部署 H3 视频模型并管理 GPU 账单的桌面工具**
 
@@ -41,6 +41,18 @@
 > L5: **One-click H3 video model deployment, polite GPU queueing, and auto-shutdown money saver for Google Colab (macOS & 
 > L7: No manual scripts or terminal juggling · Pick **H3 Original** or **H3 Flash** (or any custom weight) and click Start
 > L49: Need a cloud GPU to power your local AI coding tools? Switch the recipe to **大模型代理 (LLM Proxy)** in the Deploy tab:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LJMStark/Colab-Tools 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 8
+    line [3, 7]
+```
+
+2026-11-26 3 → 2026-11-27 7（+4）
 
 
 ---

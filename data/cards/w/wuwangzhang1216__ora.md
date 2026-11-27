@@ -1,6 +1,6 @@
 # wuwangzhang1216/ora
 
-⭐ 65 · Swift · MIT · 推送 2026-11-15 · [GitHub](https://github.com/wuwangzhang1216/ora) · [官网](https://main.d1cdtuylr567og.amplifyapp.com/) · 个人维护 · 中文 README
+⭐ 66 · Swift · MIT · 推送 2026-11-15 · [GitHub](https://github.com/wuwangzhang1216/ora) · [官网](https://main.d1cdtuylr567og.amplifyapp.com/) · 个人维护 · 中文 README
 
 **macOS 菜单栏实时本地语音翻译应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wuwangzhang1216/ora 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 59 --> 66
-    line [60, 61, 60, 63, 64, 65, 65]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 59 --> 67
+    line [60, 61, 60, 63, 64, 65, 66]
 ```
 
-2026-10-24 60 → 2026-11-26 65（+5）
+2026-10-25 60 → 2026-11-27 66（+6）
 
 
 ---

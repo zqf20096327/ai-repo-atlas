@@ -1,6 +1,6 @@
 # Batev/XAI-Analytics
 
-⭐ 12 · HTML · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/Batev/XAI-Analytics) · 组织维护
+⭐ 12 · HTML · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/Batev/XAI-Analytics) · 组织维护
 
 **面向用户的机器学习可解释性分析 Jupyter 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Batev/XAI-Analytics 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-26"]
+    x-axis ["2026-11-01", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-01 12 → 2026-11-26 12（+0）
+2026-11-01 12 → 2026-11-27 12（+0）
 
 
 ---

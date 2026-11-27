@@ -41,6 +41,18 @@
 > L32: - **Document Ingestion:** Supports ingesting documents from both the file system and websites
 > L38: - **Orchestration:** LangChain and LangGraph for the complete RAG workflow
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mafzaal/lets-talk 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e392e87c3be5` · [字段定义](../../DATASET.md)*

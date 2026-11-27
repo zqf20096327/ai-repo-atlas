@@ -1,6 +1,6 @@
 # Prompthon-IO/agent-systems-handbook
 
-⭐ 314 · MDX · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Prompthon-IO/agent-systems-handbook) · [官网](https://labs.prompthon.io/) · 组织维护
+⭐ 315 · MDX · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/Prompthon-IO/agent-systems-handbook) · [官网](https://labs.prompthon.io/) · 组织维护
 
 **面向学习者/从业者/开发者的 AI agent 系统实践手册**
 
@@ -45,13 +45,13 @@ Prompthon Agentic Labs 发布的 agent 系统领域指南（handbook），主题
 
 ```mermaid
 xychart-beta
-    title "Prompthon-IO/agent-systems-handbook 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-26"]
+    title "Prompthon-IO/agent-systems-handbook 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
     y-axis "stars" 312 --> 316
-    line [315, 313, 314, 315, 314]
+    line [315, 313, 314, 315, 314, 315]
 ```
 
-2026-10-24 315 → 2026-11-26 314（-1）
+2026-10-25 315 → 2026-11-27 315（+0）
 
 
 ---

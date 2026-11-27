@@ -1,6 +1,6 @@
 # linkedin/venice
 
-⭐ 622 · Java · BSD-2-Clause · 推送 2026-11-25 · [GitHub](https://github.com/linkedin/venice) · [官网](https://venicedb.org) · 组织维护
+⭐ 622 · Java · BSD-2-Clause · 推送 2026-11-26 · [GitHub](https://github.com/linkedin/venice) · [官网](https://venicedb.org) · 组织维护
 
 **面向在线推断的衍生数据存储平台，支撑特征存储**
 
@@ -45,12 +45,12 @@ LinkedIn 开源的衍生数据存储平台：从批处理（Hadoop/Spark）与�
 ```mermaid
 xychart-beta
     title "linkedin/venice 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-27"]
     y-axis "stars" 616 --> 624
     line [617, 620, 621, 622, 623, 622, 622]
 ```
 
-2026-10-24 617 → 2026-11-26 622（+5）
+2026-10-25 617 → 2026-11-27 622（+5）
 
 
 ---

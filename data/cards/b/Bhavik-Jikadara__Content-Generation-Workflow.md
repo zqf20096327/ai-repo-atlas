@@ -41,6 +41,18 @@
 > L41: * Crew AI framework
 > L42: * Streamlit - User Interface(UI)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Bhavik-Jikadara/Content-Generation-Workflow 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-11-26 29 → 2026-11-27 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `55a093d9860b` · [字段定义](../../DATASET.md)*

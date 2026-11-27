@@ -1,6 +1,6 @@
 # microsoft/TypeChat
 
-⭐ 8,695 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/TypeChat) · [官网](https://microsoft.github.io/TypeChat/) · 组织维护 · 中文 README
+⭐ 8,695 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/TypeChat) · [官网](https://microsoft.github.io/TypeChat/) · 组织维护 · 中文 README
 
 **用类型定义构建自然语言界面的 TypeScript 库**
 
@@ -46,12 +46,12 @@ TypeChat 是一个让开发者用类型（schema）构建自然语言界面的�
 ```mermaid
 xychart-beta
     title "microsoft/TypeChat 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
     y-axis "stars" 8690 --> 8696
-    line [8692, 8691, 8692, 8693, 8692, 8691, 8692, 8693, 8695]
+    line [8691, 8692, 8693, 8692, 8691, 8692, 8693, 8695, 8695]
 ```
 
-2026-10-24 8,692 → 2026-11-26 8,695（+3）
+2026-10-25 8,691 → 2026-11-27 8,695（+4）
 
 
 ---

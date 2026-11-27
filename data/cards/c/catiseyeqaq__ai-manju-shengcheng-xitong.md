@@ -41,6 +41,18 @@
 > L7: 面向 **AI 出图 / 出视频 / 电影级写实短片生成** 的本地部署工程。基于 ComfyUI 工作流框架，集成 **MiniMax-H3** 音视频联合生成模型，并配套 **Qwen3.6** 提示词润色服务，支持文生视频（T
 > L92: |加速硬件|8× PPU-ZW810E（单卡 96GB，合计约 768GB 显存）|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "catiseyeqaq/ai-manju-shengcheng-xitong 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4b54d854a4f9` · [字段定义](../../DATASET.md)*

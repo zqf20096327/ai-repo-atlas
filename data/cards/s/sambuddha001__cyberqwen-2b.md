@@ -1,6 +1,6 @@
 # sambuddha001/cyberqwen-2b
 
-⭐ 7 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/sambuddha001/cyberqwen-2b) · 个人维护
+⭐ 7 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/sambuddha001/cyberqwen-2b) · 个人维护
 
 **离线运行的 2B 网络安全小模型：漏洞分诊、CTF 与载荷分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sambuddha001/cyberqwen-2b 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-27"]
     y-axis "stars" 2 --> 8
     line [3, 5, 6, 7, 7]
 ```
 
-2026-11-15 3 → 2026-11-26 7（+4）
+2026-11-15 3 → 2026-11-27 7（+4）
 
 
 ---

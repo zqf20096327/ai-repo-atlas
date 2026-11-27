@@ -1,6 +1,6 @@
 # cjinhuo/blazwitcher
 
-⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/cjinhuo/blazwitcher) · [官网](https://blazwitcher.vercel.app/) · 个人维护 · 中文 README
+⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cjinhuo/blazwitcher) · [官网](https://blazwitcher.vercel.app/) · 个人维护 · 中文 README
 
 **Chrome/Edge 标签、书签、历史的拼音模糊搜索扩展，带 AI 标签分组**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cjinhuo/blazwitcher 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-27"]
     y-axis "stars" 102 --> 107
     line [103, 104, 105, 106, 106]
 ```
 
-2026-10-24 103 → 2026-11-26 106（+3）
+2026-10-25 103 → 2026-11-27 106（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # waw666waw666/RegisterHub
 
-⭐ 390 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/waw666waw666/RegisterHub) · [官网](https://waw666waw666.github.io/registerhub-demo/) · 个人维护 · 中文 README
+⭐ 400 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/waw666waw666/RegisterHub) · [官网](https://waw666waw666.github.io/registerhub-demo/) · 个人维护 · 中文 README
 
 **面向开发者的账号自动化注册框架，内置自主写适配器的 AI Agent**
 
@@ -40,6 +40,18 @@
 > L3:  零依赖可视化 Web 工作台 · 全自主流式 AI Agent · 工业级账号自动化注册框架
 > L27: 传统自动化脚本往往只有命令行黑框、硬绑死单个网站、或者强依赖一整套 Docker / 第三方收费打码接码平台。**RegisterHub 开源社区版** 把整套生产级工作台做成**零 Docker、零 Node.js、纯 Pyth
 > L30: - **真能自主跑通新站的内置流式 AI Agent**：
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "waw666waw666/RegisterHub 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 389 --> 401
+    line [390, 400]
+```
+
+2026-11-26 390 → 2026-11-27 400（+10）
 
 
 ---

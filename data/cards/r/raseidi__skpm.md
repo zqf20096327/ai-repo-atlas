@@ -1,6 +1,6 @@
 # raseidi/skpm
 
-⭐ 28 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/raseidi/skpm) · [官网](https://skpm.readthedocs.io/en/latest/) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/raseidi/skpm) · [官网](https://skpm.readthedocs.io/en/latest/) · 个人维护
 
 **基于 scikit-learn 的过程挖掘库：把事件日志变成无泄漏的监督学习问题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raseidi/skpm 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-24 27 → 2026-11-26 28（+1）
+2026-10-25 27 → 2026-11-27 28（+1）
 
 
 ---

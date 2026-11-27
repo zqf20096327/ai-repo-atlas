@@ -1,6 +1,6 @@
 # BerriAI/shin-watcher-oss
 
-⭐ 11 · TypeScript · 推送 2026-10-06 · [GitHub](https://github.com/BerriAI/shin-watcher-oss) · 组织维护
+⭐ 11 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/BerriAI/shin-watcher-oss) · 组织维护
 
 **自动复现并评审 LiteLLM GitHub issue 的 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BerriAI/shin-watcher-oss 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

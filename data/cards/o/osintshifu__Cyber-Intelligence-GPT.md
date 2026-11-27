@@ -1,6 +1,6 @@
 # osintshifu/Cyber-Intelligence-GPT
 
-⭐ 120 · 推送 2026-10-09 · [GitHub](https://github.com/osintshifu/Cyber-Intelligence-GPT) · [官网](https://chatgpt.com/g/g-65xhTBjZu-cyber-intelligence-gpt) · 个人维护
+⭐ 122 · 推送 2026-10-09 · [GitHub](https://github.com/osintshifu/Cyber-Intelligence-GPT) · [官网](https://chatgpt.com/g/g-65xhTBjZu-cyber-intelligence-gpt) · 个人维护
 
 **面向调查员的网络情报 Custom GPT：OSINT/DFIR/威胁情报调查与报告**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "osintshifu/Cyber-Intelligence-GPT 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-26"]
-    y-axis "stars" 119 --> 122
-    line [121, 120, 121, 120]
+    title "osintshifu/Cyber-Intelligence-GPT 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 119 --> 123
+    line [121, 120, 121, 120, 122]
 ```
 
-2026-10-24 121 → 2026-11-26 120（-1）
+2026-10-25 121 → 2026-11-27 122（+1）
 
 
 ---

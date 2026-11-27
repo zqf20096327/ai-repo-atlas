@@ -1,6 +1,6 @@
 # khangdh0202/SillyTavern-Storyline
 
-⭐ 4 · JavaScript · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/khangdh0202/SillyTavern-Storyline) · 个人维护
+⭐ 5 · JavaScript · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/khangdh0202/SillyTavern-Storyline) · 个人维护
 
 **SillyTavern 扩展：AI 叙事者讲述你的角色故事**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "khangdh0202/SillyTavern-Storyline 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-08 4 → 2026-11-26 4（+0）
+2026-11-08 4 → 2026-11-27 5（+1）
 
 
 ---

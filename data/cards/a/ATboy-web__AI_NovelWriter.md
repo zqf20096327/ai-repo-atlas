@@ -1,6 +1,6 @@
 # ATboy-web/AI_NovelWriter
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ATboy-web/AI_NovelWriter) · [官网](https://github.com/ATboy-web/AI_NovelWriter/releases/latest) · 个人维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/ATboy-web/AI_NovelWriter) · [官网](https://github.com/ATboy-web/AI_NovelWriter/releases/latest) · 个人维护 · 中文 README
 
 **AI 长篇小说创作工坊：5 Agent 协作自动生成与管理小说**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ATboy-web/AI_NovelWriter 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
+    title "ATboy-web/AI_NovelWriter 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 11 --> 18
-    line [12, 13, 14, 15, 17]
+    line [12, 13, 14, 15, 17, 17]
 ```
 
-2026-10-24 12 → 2026-11-26 17（+5）
+2026-10-25 12 → 2026-11-27 17（+5）
 
 
 ---

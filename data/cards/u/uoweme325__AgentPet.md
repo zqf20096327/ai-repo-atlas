@@ -1,6 +1,6 @@
 # uoweme325/AgentPet
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/uoweme325/AgentPet) · [官网](https://uoweme325.github.io/) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/uoweme325/AgentPet) · [官网](https://uoweme325.github.io/) · 个人维护 · 中文 README
 
 **Windows 桌宠，实时联动显示 AI Agent 状态与额度余额**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "uoweme325/AgentPet 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-26 3（+0）
+2026-11-14 3 → 2026-11-27 3（+0）
 
 
 ---

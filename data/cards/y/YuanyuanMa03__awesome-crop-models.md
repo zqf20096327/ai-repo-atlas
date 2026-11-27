@@ -1,6 +1,6 @@
 # YuanyuanMa03/awesome-crop-models
 
-⭐ 7 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/YuanyuanMa03/awesome-crop-models) · [官网](https://yuanyuanma03.github.io/awesome-crop-models/) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/YuanyuanMa03/awesome-crop-models) · [官网](https://yuanyuanma03.github.io/awesome-crop-models/) · 个人维护 · 中文 README
 
 **面向农业科研的开源作物与农业过程模型策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YuanyuanMa03/awesome-crop-models 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-08", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-08", "2026-11-16", "2026-11-27"]
     y-axis "stars" 2 --> 8
     line [3, 4, 6, 7, 7]
 ```
 
-2026-10-29 3 → 2026-11-26 7（+4）
+2026-10-29 3 → 2026-11-27 7（+4）
 
 
 ---

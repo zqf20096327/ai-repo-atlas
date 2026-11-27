@@ -1,10 +1,10 @@
 # dosco/deeporg
 
-⭐ 3,238 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dosco/deeporg) · [官网](https://deeporg.io) · 个人维护
+⭐ 3,239 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dosco/deeporg) · [官网](https://deeporg.io) · 个人维护
 
-**面向企业的组织级 AI agent：统一访问数据库、API、文件与代码**
+**企业级 AI 代理：跨数据库、API、文件与代码回答和执行操作**
 
-DeepORG（原 GraphJin）是一个 AI agent，用自然语言提问即可查询并修改企业已有系统：数据库、数据仓库、API、文件与源码。机制上不为每个任务手写工具，而是为 agent 提供所连接系统的可检索地图，由 agent 自行生成查询，引擎将其编译为单条数据库查询并按用户访问规则校验执行；变更默认需用户批准。底层是开源引擎 GraphJin，也可作为 GraphQL API 服务器与 Go 库使用；提供 benchmark 与 RL 训练环境，通过 MCP 与 Claude 等 client 集成。
+前身为 GraphJin 的 AI 代理，用自然语言查询和变更企业已有系统：数据库、数据仓库、API、文件与源码。底层引擎将请求编译为单一数据库查询，并按访问规则校验，默认变更需人工批准。提供基准测试榜单与可从自有系统生成评分任务用于评测或强化学习训练的环境。可通过安装脚本、npm、brew、Windows 包或 Docker 部署，并支持经 MCP 接入 Claude Code 等客户端。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@ DeepORG（原 GraphJin）是一个 AI agent，用自然语言提问即可查询�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 无需手写工具：为 agent 提供连接系统的可检索地图，agent 自行生成查询
-- 查询经访问规则校验后编译为单条高效数据库查询，变更默认等待批准
-- 提供组织级 agent benchmark 及可生成评分任务的训练环境（支持 RL）
-- 以 MCP 服务器形式供 Claude、Codex 等客户端调用
+- 无需手工构建工具，自动生成并校验数据库查询
+- 访问规则控制可见与可改范围，变更默认等待批准
+- 组织基准测试与可用于评测/强化学习的 agent 环境
+- 经 MCP 接入 Claude Code 等客户端
 
 ## 适用场景
 
-- 用自然语言查询公司数据库、仓库、API 与文件并获得带数据的回答
-- 把已有业务系统接入 MCP，供 Claude/Codex 等 agent 客户端使用
-- 在自己组织的数据上评测或通过强化学习训练 agent
+- 用自然语言查询公司数据库与数据仓库并获取答案
+- 让代理在访问规则约束下安全地修改企业系统数据
+- 在自有企业系统上评测或训练 agent
 
 ## 场景标签
 
@@ -39,20 +39,20 @@ DeepORG（原 GraphJin）是一个 AI agent，用自然语言提问即可查询�
 
 > L11: DeepORG is an AI agent that answers questions and makes changes across the
 > L41: Underneath is GraphJin, the open-source engine that compiles each query into a
-> L43: own right.
+> L82: claude mcp add --transport http --scope user deeporg http://127.0.0.1:8080/api/v1/mcp
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "dosco/deeporg 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-26"]
+    title "dosco/deeporg 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 3237 --> 3240
-    line [3239, 3238]
+    line [3239, 3238, 3239]
 ```
 
-2026-11-22 3,239 → 2026-11-26 3,238（-1）
+2026-11-22 3,239 → 2026-11-27 3,239（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b2af60363b9b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e139c469c34f` · [字段定义](../../DATASET.md)*

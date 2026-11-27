@@ -43,13 +43,13 @@ GraphNeT 是面向中微子望远镜（IceCube、KM3NeT 等）的开源 Python �
 
 ```mermaid
 xychart-beta
-    title "graphnet-team/graphnet 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "graphnet-team/graphnet 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 117 --> 122
-    line [118, 120, 121]
+    line [118, 120, 121, 121]
 ```
 
-2026-10-24 118 → 2026-11-26 121（+3）
+2026-10-25 118 → 2026-11-27 121（+3）
 
 
 ---

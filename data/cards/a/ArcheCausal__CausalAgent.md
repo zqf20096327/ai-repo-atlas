@@ -1,6 +1,6 @@
 # ArcheCausal/CausalAgent
 
-⭐ 39 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/ArcheCausal/CausalAgent) · 组织维护 · 中文 README
+⭐ 39 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/ArcheCausal/CausalAgent) · 组织维护 · 中文 README
 
 **面向表格数据的因果分析多智能体应用，产出报告与因果图**
 
@@ -45,13 +45,13 @@ CausalAgent 是面向表格数据的因果分析 Web 应用：用户上传数据
 
 ```mermaid
 xychart-beta
-    title "ArcheCausal/CausalAgent 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 37, 36, 39, 39]
+    title "ArcheCausal/CausalAgent 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 36, 39, 39]
 ```
 
-2026-10-24 35 → 2026-11-26 39（+4）
+2026-10-25 36 → 2026-11-27 39（+3）
 
 
 ---

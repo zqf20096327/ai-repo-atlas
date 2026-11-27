@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DylanTartarini1996/knowledge-graphs 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "DylanTartarini1996/knowledge-graphs 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 33 --> 37
-    line [34, 36]
+    line [34, 36, 36]
 ```
 
-2026-10-24 34 → 2026-11-26 36（+2）
+2026-10-25 34 → 2026-11-27 36（+2）
 
 
 ---

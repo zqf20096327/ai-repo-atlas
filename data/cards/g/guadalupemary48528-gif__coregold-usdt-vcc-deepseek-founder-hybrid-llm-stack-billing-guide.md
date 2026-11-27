@@ -1,6 +1,6 @@
 # guadalupemary48528-gif/coregold-usdt-vcc-deepseek-founder-hybrid-llm-stack-billing-guide
 
-⭐ 7 · 推送 2026-11-25 · [GitHub](https://github.com/guadalupemary48528-gif/coregold-usdt-vcc-deepseek-founder-hybrid-llm-stack-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 20 · 推送 2026-11-25 · [GitHub](https://github.com/guadalupemary48528-gif/coregold-usdt-vcc-deepseek-founder-hybrid-llm-stack-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向 AI 工具付费场景的 CoreGold 虚拟卡开通教程**
 
@@ -38,6 +38,18 @@
 
 > L2: 11 月 24 日最新财富榜单显示 DeepSeek 创始人以 550 亿美元身家登顶全球 AI 模型创始人首富，国产与海外模型协同混用已成常态——聊聊一套兼顾国内外工具的顺手付费方案。
 > L25: 访问 **CoreGold 官方平台**：https://app.coregold.io/signup?invite_code=ADvlj9b，使用常用邮箱注册并登录进入用户后台。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "guadalupemary48528-gif/coregold-usdt-vcc-deepseek-founder-hybrid-llm-stack-billing-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 21
+    line [7, 20]
+```
+
+2026-11-26 7 → 2026-11-27 20（+13）
 
 
 ---

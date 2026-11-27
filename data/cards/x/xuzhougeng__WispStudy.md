@@ -1,6 +1,6 @@
 # xuzhougeng/WispStudy
 
-⭐ 32 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xuzhougeng/WispStudy) · [官网](https://xuzhougeng.github.io/WispStudy/) · 个人维护 · 中文 README
+⭐ 35 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xuzhougeng/WispStudy) · [官网](https://xuzhougeng.github.io/WispStudy/) · 个人维护 · 中文 README
 
 **本地优先的文献管理与阅读工具，支持向文献库提问**
 
@@ -40,6 +40,18 @@
 > L7:  A local-first literature library: collect, screen and read papers, and ask your library questions.
 > L34: **🐋 Import broadly first, then let the assistant help you screen.** Save search queries for PubMed, Europe PMC, Cro
 > L100: Asking, the library wizard, screening, translation and the model's sectioning on the Writing page need a model pro
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xuzhougeng/WispStudy 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 31 --> 36
+    line [32, 35]
+```
+
+2026-11-26 32 → 2026-11-27 35（+3）
 
 
 ---

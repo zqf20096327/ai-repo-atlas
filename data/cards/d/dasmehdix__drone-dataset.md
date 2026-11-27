@@ -40,6 +40,18 @@
 > L4: This dataset prepared for academical and competition purpose. Main idea of this dataset is to guide our drone to oth
 > L41: This dataset is now officially archived on Zenodo and has a permanent Digital Object Identifier (DOI).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dasmehdix/drone-dataset 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 136 --> 138
+    line [137, 137]
+```
+
+2026-11-26 137 → 2026-11-27 137（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `09017b8b6eed` · [字段定义](../../DATASET.md)*

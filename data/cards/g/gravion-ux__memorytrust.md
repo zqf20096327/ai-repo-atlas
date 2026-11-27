@@ -1,6 +1,6 @@
 # gravion-ux/memorytrust
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gravion-ux/memorytrust) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gravion-ux/memorytrust) · 个人维护
 
 **审计 AI agent 记忆库中不可信内容的命令行工具**
 
@@ -46,12 +46,12 @@ MemoryTrust 读取 agent 的记忆存储文件，按规则目录检查其中无�
 ```mermaid
 xychart-beta
     title "gravion-ux/memorytrust 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-23 4 → 2026-11-26 4（+0）
+2026-11-23 4 → 2026-11-27 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Aluminium0926/doc-tree
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Aluminium0926/doc-tree) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Aluminium0926/doc-tree) · 个人维护 · 中文 README
 
 **给读文档的人用：划词向 AI 提问且问答锚定原文可回看**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Aluminium0926/doc-tree 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-26 3（+0）
+2026-11-14 3 → 2026-11-27 3（+0）
 
 
 ---

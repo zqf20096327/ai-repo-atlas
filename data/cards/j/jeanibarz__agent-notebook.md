@@ -1,6 +1,6 @@
 # jeanibarz/agent-notebook
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jeanibarz/agent-notebook) · [官网](https://www.npmjs.com/package/agent-notebook) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jeanibarz/agent-notebook) · [官网](https://www.npmjs.com/package/agent-notebook) · 个人维护
 
 **给 AI Agent 提供纯文本跨任务记忆的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jeanibarz/agent-notebook 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-26 3（+0）
+2026-11-25 3 → 2026-11-27 3（+0）
 
 
 ---

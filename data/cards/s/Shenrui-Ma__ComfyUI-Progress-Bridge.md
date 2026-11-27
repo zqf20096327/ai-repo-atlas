@@ -1,6 +1,6 @@
 # Shenrui-Ma/ComfyUI-Progress-Bridge
 
-⭐ 21 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Shenrui-Ma/ComfyUI-Progress-Bridge) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Shenrui-Ma/ComfyUI-Progress-Bridge) · 个人维护 · 中文 README
 
 **ComfyUI 执行进度监控桥：多端点面板+UDP 镜像+完成提醒**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shenrui-Ma/ComfyUI-Progress-Bridge 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-26"]
-    y-axis "stars" 9 --> 22
-    line [10, 21]
+    title "Shenrui-Ma/ComfyUI-Progress-Bridge 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 27
+    line [10, 21, 26]
 ```
 
-2026-10-18 10 → 2026-11-26 21（+11）
+2026-10-18 10 → 2026-11-27 26（+16）
 
 
 ---

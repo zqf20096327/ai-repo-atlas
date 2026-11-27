@@ -1,6 +1,6 @@
 # Ashutosh0428/pi-agent
 
-⭐ 10 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/Ashutosh0428/pi-agent) · [官网](https://mj3ivlmagpfgsjpxirxbpv.streamlit.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向开发者的终端 AI 编码代理：LLM 工具循环读写运行代码**
 
@@ -11,7 +11,7 @@ pi-agent 是一个运行在终端的 AI 编码代理，通过 provider 中立的
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

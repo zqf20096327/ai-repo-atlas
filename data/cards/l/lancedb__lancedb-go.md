@@ -1,6 +1,6 @@
 # lancedb/lancedb-go
 
-⭐ 62 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lancedb/lancedb-go) · 组织维护
+⭐ 62 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lancedb/lancedb-go) · 组织维护
 
 **LanceDB 的 Go SDK：预编译原生库三步接入向量数据库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lancedb/lancedb-go 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-24 62 → 2026-11-26 62（+0）
+2026-10-25 62 → 2026-11-27 62（+0）
 
 
 ---

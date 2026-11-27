@@ -45,12 +45,12 @@ VS Code 扩展，为 Claude Code 提供类似 Cursor 的 'Add to chat' 操作：
 ```mermaid
 xychart-beta
     title "mythril-tech-com/Claude_Code_Helper 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-26"]
+    x-axis ["2026-11-01", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-01 3 → 2026-11-26 3（+0）
+2026-11-01 3 → 2026-11-27 3（+0）
 
 
 ---

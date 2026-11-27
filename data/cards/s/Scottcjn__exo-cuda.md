@@ -1,6 +1,6 @@
 # Scottcjn/exo-cuda
 
-⭐ 92 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Scottcjn/exo-cuda) · [官网](https://rustchain.org) · 个人维护
+⭐ 91 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Scottcjn/exo-cuda) · [官网](https://rustchain.org) · 个人维护
 
 **exo 的 CUDA 分支：用 tinygrad 在多块 NVIDIA GPU 上分布式运行 LLM**
 
@@ -46,12 +46,12 @@ exo 的社区分支，通过 tinygrad 后端恢复对 NVIDIA CUDA 的支持，�
 ```mermaid
 xychart-beta
     title "Scottcjn/exo-cuda 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 91 --> 95
-    line [94, 92, 92]
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 90 --> 95
+    line [94, 92, 91]
 ```
 
-2026-10-29 94 → 2026-11-26 92（-2）
+2026-10-29 94 → 2026-11-27 91（-3）
 
 
 ---

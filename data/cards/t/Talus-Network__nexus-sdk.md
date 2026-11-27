@@ -46,12 +46,12 @@ Nexus SDK 是一组帮助开发者基于 Nexus（Agentic Workflow Engine）构�
 ```mermaid
 xychart-beta
     title "Talus-Network/nexus-sdk 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
     y-axis "stars" 176 --> 180
     line [179, 177, 177]
 ```
 
-2026-10-24 179 → 2026-11-26 177（-2）
+2026-10-25 179 → 2026-11-27 177（-2）
 
 
 ---

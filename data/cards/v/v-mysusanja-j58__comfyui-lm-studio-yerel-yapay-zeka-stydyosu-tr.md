@@ -1,6 +1,6 @@
 # v-mysusanja-j58/comfyui-lm-studio-yerel-yapay-zeka-stydyosu-tr
 
-⭐ 123 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/v-mysusanja-j58/comfyui-lm-studio-yerel-yapay-zeka-stydyosu-tr) · [官网](https://v-mysusanja-j58.github.io/comfyui-lm-studio-yerel-yapay-zeka-stydyosu-tr/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **分发 Windows x64 单文件 exe 的压缩包仓库，内容自称 game cheat 工具**
 
@@ -11,7 +11,7 @@ README 提供一个 4.8 MB 的 zip 安装包与 win64.exe 可执行文件，解�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -42,6 +42,18 @@ Spring Boot + React 19 构建的自托管智能体平台，核心为单一 Agent
 > L14: - Single reasoning loop: plan → tool call → feed results back → continue, up to `app.agent.max-turns` rounds
 > L58: - **`backend`**: agent orchestration, skill packs, extension runtime, datasource/API management, auth
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "StevewJin/biz-agent 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `862f5b7cc40b` · [字段定义](../../DATASET.md)*

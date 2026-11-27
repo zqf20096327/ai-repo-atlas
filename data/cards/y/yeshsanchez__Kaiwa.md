@@ -1,6 +1,6 @@
 # yeshsanchez/Kaiwa
 
-⭐ 16 · JavaScript · AGPL-3.0 · 推送 2026-08-14 · [GitHub](https://github.com/yeshsanchez/Kaiwa) · [官网](https://yeshsanchez.github.io/Kaiwa/) · 个人维护
+⭐ 17 · JavaScript · AGPL-3.0 · 推送 2026-08-14 · [GitHub](https://github.com/yeshsanchez/Kaiwa) · [官网](https://yeshsanchez.github.io/Kaiwa/) · 个人维护
 
 **本地运行的日语会话 AI 导师：聊天、语音、角色扮演与复习**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yeshsanchez/Kaiwa 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 12, 14, 15, 16]
+    title "yeshsanchez/Kaiwa 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 12, 14, 15, 16, 17]
 ```
 
-2026-10-24 12 → 2026-11-26 16（+4）
+2026-10-25 12 → 2026-11-27 17（+5）
 
 
 ---

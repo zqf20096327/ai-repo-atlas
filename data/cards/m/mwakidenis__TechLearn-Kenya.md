@@ -1,6 +1,6 @@
 # mwakidenis/TechLearn-Kenya
 
-⭐ 16 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/mwakidenis/TechLearn-Kenya) · [官网](https://tech-genesis-academy.vercel.app/) · 个人维护
+⭐ 16 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/mwakidenis/TechLearn-Kenya) · [官网](https://tech-genesis-academy.vercel.app/) · 个人维护
 
 **面向非洲青年的在线学习管理系统，含 AI 助学与 M-PESA 支付**
 
@@ -44,13 +44,13 @@ React/TypeScript/Vite 前端 + Supabase/PostgreSQL 后端的学习管理系统�
 
 ```mermaid
 xychart-beta
-    title "mwakidenis/TechLearn-Kenya 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    title "mwakidenis/TechLearn-Kenya 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
 ```
 
-2026-10-24 15 → 2026-11-26 16（+1）
+2026-10-25 16 → 2026-11-27 16（+0）
 
 
 ---

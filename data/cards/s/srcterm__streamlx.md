@@ -1,6 +1,6 @@
 # srcterm/streamlx
 
-⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/srcterm/streamlx) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/srcterm/streamlx) · 个人维护
 
 **在 Apple Silicon 上用 SSD 流式读取运行超大 MoE 模型的推理引擎**
 
@@ -40,6 +40,18 @@
 > L15: That is an OpenAI-compatible server on `http://localhost:8080/v1` for a coding agent or any client. The model is a 
 > L28: - **Stock models and checkpoints.** Only the expert layer is swapped; checkpoints are read in place and the server 
 > L103: - Apple Silicon with macOS 14 or later (MLX's requirement), one request at a time, local checkpoint directories.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "srcterm/streamlx 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

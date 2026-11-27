@@ -1,6 +1,6 @@
 # lightfeed/extractor
 
-⭐ 321 · TypeScript · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/lightfeed/extractor) · [官网](https://lightfeed.ai) · 组织维护
+⭐ 322 · TypeScript · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/lightfeed/extractor) · [官网](https://lightfeed.ai) · 组织维护
 
 **给开发者的 TypeScript 库：用 LLM 从网页提取结构化数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lightfeed/extractor 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-25", "2026-11-27"]
     y-axis "stars" 320 --> 323
-    line [321, 322, 321, 322, 321, 321]
+    line [321, 322, 321, 322, 321, 322]
 ```
 
-2026-10-24 321 → 2026-11-26 321（+0）
+2026-10-25 321 → 2026-11-27 322（+1）
 
 
 ---

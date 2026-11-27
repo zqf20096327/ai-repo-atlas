@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceLivenessDetection-Android
 
-⭐ 46 · Kotlin · 推送 2026-11-25 · [GitHub](https://github.com/Faceplugin-ltd/FaceLivenessDetection-Android) · [官网](https://faceplugin.com/face-liveness-detection/) · 组织维护
+⭐ 47 · Kotlin · 推送 2026-11-26 · [GitHub](https://github.com/Faceplugin-ltd/FaceLivenessDetection-Android) · [官网](https://faceplugin.com/face-liveness-detection/) · 组织维护
 
 **面向 Android 开发者的设备端人脸活体检测 SDK 演示应用**
 
@@ -45,12 +45,12 @@ FacePlugin 的 Android 活体检测 SDK 演示仓库：运行时为闭源 AAR（
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceLivenessDetection-Android 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
     y-axis "stars" 45 --> 48
-    line [47, 46, 46]
+    line [47, 46, 47]
 ```
 
-2026-10-24 47 → 2026-11-26 46（-1）
+2026-10-25 47 → 2026-11-27 47（+0）
 
 
 ---

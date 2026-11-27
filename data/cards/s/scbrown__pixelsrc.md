@@ -1,6 +1,6 @@
 # scbrown/pixelsrc
 
-⭐ 10 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/scbrown/pixelsrc) · [官网](https://scbrown.github.io/pixelsrc/) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/scbrown/pixelsrc) · [官网](https://scbrown.github.io/pixelsrc/) · 个人维护
 
 **面向 GenAI 的语义化像素画文本格式与编译器**
 
@@ -47,12 +47,12 @@ pixelsrc 是一种 JSON5 文本格式及 Rust 编写的编译器（CLI 工具 px
 ```mermaid
 xychart-beta
     title "scbrown/pixelsrc 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-26 10（+0）
+2026-11-16 10 → 2026-11-27 10（+0）
 
 
 ---

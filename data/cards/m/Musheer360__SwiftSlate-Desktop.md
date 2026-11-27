@@ -1,6 +1,6 @@
 # Musheer360/SwiftSlate-Desktop
 
-⭐ 35 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Musheer360/SwiftSlate-Desktop) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/Musheer360/SwiftSlate-Desktop) · 个人维护
 
 **Windows 全局 AI 文本改写工具：任意应用内触发词即时替换文本**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Musheer360/SwiftSlate-Desktop 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 33 --> 36
-    line [35, 34, 35, 35]
+    title "Musheer360/SwiftSlate-Desktop 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-24 35 → 2026-11-26 35（+0）
+2026-10-25 34 → 2026-11-27 36（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ItamarZand88/awesome-agent-conventions
 
-⭐ 39 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/ItamarZand88/awesome-agent-conventions) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/ItamarZand88/awesome-agent-conventions) · 个人维护
 
 **AI agent 约定文件策展清单：22 种约定、11 类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ItamarZand88/awesome-agent-conventions 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-25", "2026-11-27"]
     y-axis "stars" 34 --> 40
-    line [35, 36, 37, 38, 39, 39]
+    line [35, 36, 37, 38, 39, 38]
 ```
 
-2026-10-24 35 → 2026-11-26 39（+4）
+2026-10-25 35 → 2026-11-27 38（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Autonion/Automation-Companion
 
-⭐ 10 · Kotlin · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/Autonion/Automation-Companion) · [官网](https://play.google.com/store/apps/details?id=com.autonion.automationcompanion) · 组织维护
+⭐ 10 · Kotlin · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Autonion/Automation-Companion) · [官网](https://play.google.com/store/apps/details?id=com.autonion.automationcompanion) · 组织维护
 
 **免 root 的离线优先 Android 自动化应用，支持本地/云端 LLM 驱动任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Autonion/Automation-Companion 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

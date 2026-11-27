@@ -1,6 +1,6 @@
 # ForeverBlue816/PhysioWave
 
-⭐ 298 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ForeverBlue816/PhysioWave) · [官网](https://huggingface.co/ForeverBlue) · 个人维护
+⭐ 287 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ForeverBlue816/PhysioWave) · [官网](https://huggingface.co/ForeverBlue) · 个人维护
 
 **面向 EEG/ECG/sEMG 的小波基础模型与多模态融合代码库**
 
@@ -46,13 +46,13 @@ NeurIPS 2025 论文 PhysioWave-T 的官方实现：提供 EEG、ECG、sEMG 三�
 
 ```mermaid
 xychart-beta
-    title "ForeverBlue816/PhysioWave 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-26"]
+    title "ForeverBlue816/PhysioWave 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-26", "2026-11-27"]
     y-axis "stars" 185 --> 308
-    line [195, 215, 247, 256, 296, 297, 298]
+    line [195, 215, 247, 256, 296, 297, 298, 287]
 ```
 
-2026-11-08 195 → 2026-11-26 298（+103）
+2026-11-08 195 → 2026-11-27 287（+92）
 
 
 ---

@@ -1,10 +1,10 @@
 # fajarhide/contexere
 
-⭐ 381 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
+⭐ 381 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
 
-**为多个 AI 编码代理压缩工具输出并脱敏凭证的 CLI 中间层**
+**压缩 Agent 上下文并脱敏凭证的 CLI 中间层**
 
-以 hook 方式嵌入 Claude Code、Codex、Cursor 等编码代理的工具执行链路：在模型读取前改写工具输出，移除进度噪声、用句柄替代重复读取的文件、将输出中的令牌/密码替换为 [REDACTED]，失败命令原文透传；被移除内容保留在本机可恢复。支持三级集成（完整改写、handoff、仅 MCP 记忆），提供 doctor 检查与 stats 统计，单命令约 21ms 开销。目前交付上下文缩减部分，技能/密钥/记忆功能在建。
+作为一层嵌入 Claude Code、Codex、Cursor 等编码 Agent 与模型之间的工具：在模型读取前改写工具输出，移除进度噪音、折叠已读文件为单行句柄，并将输出中的 token/密码替换为 [REDACTED]，原始内容保留在本机可回查。支持 Full/Handoff-first/MCP-only 三档接入层级，提供 init/doctor/stats 子命令与 hook 自检。当前发布的是上下文与 token 压缩部分；技能、密钥托管与跨机记忆功能尚未发布。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 改写工具输出：保留结果与失败、丢弃进度噪声
-- 输出中的凭证以 [REDACTED] 脱敏后再交给模型
-- 已读文件以句柄引用替代重复传输
-- contexere doctor 检查各代理 hook 与脱敏生效情况
+- 改写工具输出：去进度噪音、已读文件折叠为句柄
+- 输出中的凭证替换为 [REDACTED]，原内容留在本机
+- 三种接入层级覆盖十余个编码 Agent
+- 每条命令约 21 ms 开销，提供 stats 统计实际节省
 
 ## 适用场景
 
-- 降低编码代理的 token 消耗与账单
-- 防止构建/测试输出中的密钥泄露给模型
-- 在同一套工作流下使用多个编码代理工具
+- 降低编码 Agent 的 token 消耗与成本
+- 防止命令输出中的密钥进入模型上下文
+- 在多个 Agent 间保持一致的上下文处理行为
 
 ## 场景标签
 
- · 领域:开发者工具/AI 代理基础设施
+ · 领域:开发者工具/Agent 基础设施
 
 ## 证据(README 行号)
 
@@ -45,14 +45,14 @@
 
 ```mermaid
 xychart-beta
-    title "fajarhide/contexere 星数(近 7 点)"
-    x-axis ["2026-10-30", "2026-11-02", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
+    title "fajarhide/contexere 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-11-02", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 374 --> 382
-    line [375, 378, 377, 378, 379, 380, 381]
+    line [375, 378, 377, 378, 379, 380, 381, 381]
 ```
 
-2026-10-30 375 → 2026-11-26 381（+6）
+2026-10-30 375 → 2026-11-27 381（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9c0337e57c46` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `503c66db7d45` · [字段定义](../../DATASET.md)*

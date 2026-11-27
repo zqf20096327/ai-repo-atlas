@@ -1,6 +1,6 @@
 # shallinta/dsh-agentic-notes
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/shallinta/dsh-agentic-notes) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/shallinta/dsh-agentic-notes) · 个人维护 · 中文 README
 
 **DSH 本地笔记插件：随手记、AI 自动归档与成文**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "shallinta/dsh-agentic-notes 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-26 3（+0）
+2026-11-19 3 → 2026-11-27 3（+0）
 
 
 ---

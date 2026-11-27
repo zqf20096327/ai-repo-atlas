@@ -1,6 +1,6 @@
 # linus-sch/Mind-Map-Wizard
 
-⭐ 361 · JavaScript · NOASSERTION · 推送 2026-07-19 · [GitHub](https://github.com/linus-sch/Mind-Map-Wizard) · [官网](https://mindmapwizard.com) · 个人维护
+⭐ 360 · JavaScript · NOASSERTION · 推送 2026-07-19 · [GitHub](https://github.com/linus-sch/Mind-Map-Wizard) · [官网](https://mindmapwizard.com) · 个人维护
 
 **浏览器内运行的 AI 文本生成思维导图工具**
 
@@ -46,12 +46,12 @@ mindmapwizard.com 背后的开源项目：用户输入主题或上传文件，�
 ```mermaid
 xychart-beta
     title "linus-sch/Mind-Map-Wizard 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-27"]
     y-axis "stars" 357 --> 362
-    line [358, 359, 358, 360, 361, 361]
+    line [358, 359, 358, 360, 361, 360]
 ```
 
-2026-10-24 358 → 2026-11-26 361（+3）
+2026-10-25 358 → 2026-11-27 360（+2）
 
 
 ---

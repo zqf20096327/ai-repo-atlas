@@ -1,6 +1,6 @@
 # langchain-ai/macaw-design-system
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langchain-ai/macaw-design-system) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/langchain-ai/macaw-design-system) · 组织维护
 
 **LangChain 产品套件共享的 React 设计系统与组件库**
 
@@ -45,12 +45,12 @@ LangChain 官方维护的共享 UI 与设计基础库，以三个 npm 包发布�
 ```mermaid
 xychart-beta
     title "langchain-ai/macaw-design-system 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-27"]
     y-axis "stars" 9 --> 14
     line [10, 11, 10, 12, 13, 13]
 ```
 
-2026-10-24 10 → 2026-11-26 13（+3）
+2026-10-25 10 → 2026-11-27 13（+3）
 
 
 ---

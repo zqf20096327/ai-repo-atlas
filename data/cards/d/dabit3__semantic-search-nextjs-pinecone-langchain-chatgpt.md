@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 759 --> 761
     line [760, 760]
 ```
 
-2026-10-24 760 → 2026-11-26 760（+0）
+2026-10-25 760 → 2026-11-27 760（+0）
 
 
 ---

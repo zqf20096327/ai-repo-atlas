@@ -42,12 +42,12 @@ TensorFlow 官方仓库，收录多个 TensorFlow codelab（实操教程）的�
 ```mermaid
 xychart-beta
     title "tensorflow/codelabs 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-24 44 → 2026-11-26 44（+0）
+2026-10-25 44 → 2026-11-27 44（+0）
 
 
 ---

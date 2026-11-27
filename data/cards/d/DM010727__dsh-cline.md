@@ -46,12 +46,12 @@ DSH Cline 是基于 DeepSeek Harness 的 VS Code 扩展，使用 DSH 运行时�
 ```mermaid
 xychart-beta
     title "DM010727/dsh-cline 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
+    x-axis ["2026-11-18", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-18 10 → 2026-11-26 10（+0）
+2026-11-18 10 → 2026-11-27 10（+0）
 
 
 ---

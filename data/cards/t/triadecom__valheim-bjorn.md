@@ -1,6 +1,6 @@
 # triadecom/valheim-bjorn
 
-⭐ 7 · C# · MIT · 推送 2026-10-12 · [GitHub](https://github.com/triadecom/valheim-bjorn) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Valheim 的 AI 维京伙伴 Mod：Claude 驱动，可对话、作战、采集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

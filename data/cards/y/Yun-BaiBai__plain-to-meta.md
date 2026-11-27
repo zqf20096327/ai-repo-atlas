@@ -1,6 +1,6 @@
 # Yun-BaiBai/plain-to-meta
 
-⭐ 5 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Yun-BaiBai/plain-to-meta) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Yun-BaiBai/plain-to-meta) · 个人维护 · 中文 README
 
 **给 AI 编程用户的元知识提示词库：把大白话转译为专业方法钥匙**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yun-BaiBai/plain-to-meta 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-23", "2026-11-25", "2026-11-26"]
+    title "Yun-BaiBai/plain-to-meta 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 5]
+    line [3, 4, 5, 6, 5, 6]
 ```
 
-2026-11-16 3 → 2026-11-26 5（+2）
+2026-11-16 3 → 2026-11-27 6（+3）
 
 
 ---

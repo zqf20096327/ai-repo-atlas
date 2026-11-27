@@ -38,6 +38,18 @@
 > L1: # AI Resume Builder — AI Resume Builder — AI resume builder: ATS-optimized CVs in minutes. (Hot-Reload Config, Zero 
 > L18: **AI Resume Builder — AI Resume Builder — resume tool x suite** (`resume-tool-x`) is a portable Windows 10/11 runti
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TaroloCu37/resume-tool-x 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-11-26 41 → 2026-11-27 41（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `28cf14720fa4` · [字段定义](../../DATASET.md)*

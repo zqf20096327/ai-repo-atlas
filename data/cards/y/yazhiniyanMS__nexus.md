@@ -1,6 +1,6 @@
 # yazhiniyanMS/nexus
 
-⭐ 4 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yazhiniyanMS/nexus) · [官网](https://yazhiniyanms.github.io/nexus/) · 个人维护
+⭐ 5 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yazhiniyanMS/nexus) · [官网](https://yazhiniyanms.github.io/nexus/) · 个人维护
 
 **本地优先的桌面代码库理解工作台，AI 改动需人工审批**
 
@@ -41,6 +41,18 @@
 > L5: An open-source desktop workspace for macOS, Windows and Linux. It maps any local project without AI,
 > L28: - **Agents that ask first.** An agent researches, plans, writes in a separate Git worktree, runs tests and reviews 
 > L103: A Tauri 2 app: a Rust core (SQLite, Git, pseudo-terminals, process sandboxing, the code index and the agent engine
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yazhiniyanMS/nexus 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-26 4 → 2026-11-27 5（+1）
 
 
 ---

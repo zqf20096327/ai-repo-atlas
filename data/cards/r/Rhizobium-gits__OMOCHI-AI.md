@@ -1,6 +1,6 @@
 # Rhizobium-gits/OMOCHI-AI
 
-⭐ 4 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Rhizobium-gits/OMOCHI-AI) · 个人维护
+⭐ 4 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Rhizobium-gits/OMOCHI-AI) · 个人维护
 
 **在 Mac 桌面统一管理并组队多个 AI CLI 代理的应用**
 
@@ -40,6 +40,18 @@
 > L13:  いろいろな AI エージェントをデスクトップで一元管理し、エージェント同士をつないでチームとして動かせる macOS アプリです。
 > L81: - 仲間はそれぞれの AI の公式の CLI を、あなたのログインのまま動かします。チャットのタイトルと返答の見出しに、その仲間の AI（ここでは ChatGPT（Codex））が出ます
 > L91: - 次の AI の CLI のどれか 1 つ以上（使う AI とアカウント）。いちばん多くの機能が使えるのは Claude Code です。入っていなくても、アプリから許可して入れられます
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Rhizobium-gits/OMOCHI-AI 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

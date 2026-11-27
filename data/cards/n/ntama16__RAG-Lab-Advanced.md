@@ -42,6 +42,18 @@
 > L34: The navigation follows the work: **Setup** (Models) → **Build** (Corpus, Chunking, Vector space) → **Run** (Normali
 > L124: - **No LangChain / LlamaIndex.** In a lab the algorithm is the thing being studied. Each technique is a short,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ntama16/RAG-Lab-Advanced 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b30c24ba73c5` · [字段定义](../../DATASET.md)*

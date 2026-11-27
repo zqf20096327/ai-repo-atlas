@@ -1,6 +1,6 @@
 # manuelgscom/rumor-village
 
-⭐ 33 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/manuelgscom/rumor-village) · [官网](https://manuelgs.com/en/rumor-village/) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/manuelgscom/rumor-village) · [官网](https://manuelgs.com/en/rumor-village/) · 个人维护 · 中文 README
 
 **用本地微调 LLM 驱动 100 个村民的谣言传播模拟游戏**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "manuelgscom/rumor-village 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 16 --> 34
-    line [17, 33]
+    title "manuelgscom/rumor-village 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 16 --> 35
+    line [17, 33, 34]
 ```
 
-2026-11-25 17 → 2026-11-26 33（+16）
+2026-11-25 17 → 2026-11-27 34（+17）
 
 
 ---

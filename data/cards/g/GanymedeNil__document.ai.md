@@ -1,6 +1,6 @@
 # GanymedeNil/document.ai
 
-⭐ 3,664 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/GanymedeNil/document.ai) · 个人维护 · 中文 README
+⭐ 3,665 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/GanymedeNil/document.ai) · 个人维护 · 中文 README
 
 **可溯源、带版本与时效判断的企业知识库问答系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GanymedeNil/document.ai 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 3658 --> 3665
-    line [3659, 3660, 3662, 3664]
+    title "GanymedeNil/document.ai 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3658 --> 3666
+    line [3659, 3660, 3662, 3664, 3665]
 ```
 
-2026-11-16 3,659 → 2026-11-26 3,664（+5）
+2026-11-16 3,659 → 2026-11-27 3,665（+6）
 
 
 ---

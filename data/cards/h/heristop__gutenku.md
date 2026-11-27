@@ -1,6 +1,6 @@
 # heristop/gutenku
 
-⭐ 12 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/heristop/gutenku) · [官网](https://gutenku.xyz) · 个人维护
+⭐ 12 · TypeScript · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/heristop/gutenku) · [官网](https://gutenku.xyz) · 个人维护
 
 **从古腾堡公版书生成俳句诗歌的 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "heristop/gutenku 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

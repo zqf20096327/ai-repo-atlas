@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/swarms-tools
 
-⭐ 39 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/The-Swarm-Corporation/swarms-tools) · [官网](https://docs.swarms.world) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/The-Swarm-Corporation/swarms-tools) · [官网](https://docs.swarms.world) · 组织维护
 
 **面向 agent 与多智能体系统的预构建工具库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/swarms-tools 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-24 39 → 2026-11-26 39（+0）
+2026-10-25 39 → 2026-11-27 40（+1）
 
 
 ---

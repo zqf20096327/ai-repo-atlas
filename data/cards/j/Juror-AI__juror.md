@@ -1,6 +1,6 @@
 # Juror-AI/juror
 
-⭐ 100 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Juror-AI/juror) · [官网](https://jays.fyi/blog/how-i-removed-greptile) · 组织维护
+⭐ 101 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/Juror-AI/juror) · [官网](https://jays.fyi/blog/how-i-removed-greptile) · 组织维护
 
 **多模型并行评审 PR 的 GitHub Action 与 CLI**
 
@@ -44,13 +44,13 @@ Juror 以 GitHub Action 或 npx CLI 形式运行：将 PR diff 分发给多个�
 
 ```mermaid
 xychart-beta
-    title "Juror-AI/juror 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 99 --> 119
-    line [118, 117, 102, 101, 100, 100]
+    title "Juror-AI/juror 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 99 --> 118
+    line [117, 102, 101, 100, 101]
 ```
 
-2026-10-24 118 → 2026-11-26 100（-18）
+2026-10-25 117 → 2026-11-27 101（-16）
 
 
 ---

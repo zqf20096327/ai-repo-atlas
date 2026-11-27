@@ -41,6 +41,18 @@
 > L14: plans the steps, uses tools (web, files, code, a shell, mail, MCP servers), recovers from its own
 > L19: their own box. The agent loop and the LLM layer are native code (no third-party agent framework),
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "theselfruleorg/polyrob 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-26 13 → 2026-11-27 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1cd5bbbf18db` · [字段定义](../../DATASET.md)*

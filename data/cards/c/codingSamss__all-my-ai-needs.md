@@ -1,6 +1,6 @@
 # codingSamss/all-my-ai-needs
 
-⭐ 14 · Python · 推送 2026-11-17 · [GitHub](https://github.com/codingSamss/all-my-ai-needs) · 个人维护 · 中文 README
+⭐ 14 · Python · 推送 2026-11-26 · [GitHub](https://github.com/codingSamss/all-my-ai-needs) · 个人维护 · 中文 README
 
 **管理 Claude Code 与 Codex 双平台 skills 的 dotfiles 真源仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codingSamss/all-my-ai-needs 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 12 --> 15
     line [13, 14, 13, 14, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 14（+1）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

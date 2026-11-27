@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "benedekrozemberczki/spatiotemporal_datasets 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-24 64 → 2026-11-26 64（+0）
+2026-10-25 64 → 2026-11-27 64（+0）
 
 
 ---

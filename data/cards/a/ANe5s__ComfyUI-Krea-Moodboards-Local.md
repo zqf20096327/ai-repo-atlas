@@ -46,12 +46,12 @@ ComfyUI 自定义节点，内嵌 3,549 个 Krea moodboard 与 60 个 Andro.Meta 
 ```mermaid
 xychart-beta
     title "ANe5s/ComfyUI-Krea-Moodboards-Local 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-26"]
+    x-axis ["2026-10-29", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-29 3 → 2026-11-26 3（+0）
+2026-10-29 3 → 2026-11-27 3（+0）
 
 
 ---

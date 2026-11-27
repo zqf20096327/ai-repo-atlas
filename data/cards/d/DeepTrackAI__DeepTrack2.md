@@ -1,6 +1,6 @@
 # DeepTrackAI/DeepTrack2
 
-⭐ 250 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/DeepTrackAI/DeepTrack2) · [官网](https://deeptrackai.github.io/DeepTrack2/) · 组织维护
+⭐ 250 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/DeepTrackAI/DeepTrack2) · [官网](https://deeptrackai.github.io/DeepTrack2/) · 组织维护
 
 **面向显微成像的深度学习图像管线 Python 库**
 
@@ -47,12 +47,12 @@ DeepTrack2 是一个模块化 Python 库，用于生成、处理和分析面向�
 ```mermaid
 xychart-beta
     title "DeepTrackAI/DeepTrack2 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
     y-axis "stars" 246 --> 251
     line [247, 248, 249, 247, 249, 250, 250]
 ```
 
-2026-10-24 247 → 2026-11-26 250（+3）
+2026-10-25 247 → 2026-11-27 250（+3）
 
 
 ---

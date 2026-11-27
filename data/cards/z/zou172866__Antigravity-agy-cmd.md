@@ -1,6 +1,6 @@
 # zou172866/Antigravity-agy-cmd
 
-⭐ 55 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/zou172866/Antigravity-agy-cmd) · 个人维护 · 中文 README
+⭐ 66 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/zou172866/Antigravity-agy-cmd) · 个人维护 · 中文 README
 
 **Google Antigravity 的指令路由与多智能体调度插件**
 
@@ -41,6 +41,18 @@
 > L15: `agy-cmd` is a workflow plugin for **Google Antigravity Desktop / IDE**.
 > L19: - **Auto-route built-in workflows by task**: matches `/grill-me`, `/plan`, `/run-workflow`, and related workflows b
 > L25: - **Live right-hand Sidecar control panel**: lets you toggle retry limits, trigger scope, and free-tier protection 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zou172866/Antigravity-agy-cmd 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 54 --> 67
+    line [55, 66]
+```
+
+2026-11-26 55 → 2026-11-27 66（+11）
 
 
 ---

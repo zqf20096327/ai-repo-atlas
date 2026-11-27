@@ -1,6 +1,6 @@
 # clayrune-io/clayrune
 
-⭐ 18 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/clayrune-io/clayrune) · [官网](https://clayrune.io) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/clayrune-io/clayrune) · [官网](https://clayrune.io) · 组织维护
 
 **本地运行多个 Claude Code agent 的统一仪表盘与调度管理面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "clayrune-io/clayrune 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-27"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-24 16 → 2026-11-26 18（+2）
+2026-10-25 16 → 2026-11-27 18（+2）
 
 
 ---

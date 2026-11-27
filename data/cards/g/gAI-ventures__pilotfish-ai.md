@@ -1,6 +1,6 @@
 # gAI-ventures/pilotfish-ai
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gAI-ventures/pilotfish-ai) · [官网](https://pilotfish.gai.ventures/docs/open) · 组织维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gAI-ventures/pilotfish-ai) · [官网](https://pilotfish.gai.ventures/docs/open) · 组织维护
 
 **给 MCP agent 提供本机真实 Chrome 的浏览器自动化 MCP 服务器**
 
@@ -46,12 +46,12 @@ pilotfish 是浏览器自动化 MCP 服务器与 SDK 集合：本地版在本机
 ```mermaid
 xychart-beta
     title "gAI-ventures/pilotfish-ai 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-25", "2026-11-27"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 7]
 ```
 
-2026-11-21 5 → 2026-11-26 7（+2）
+2026-11-21 5 → 2026-11-27 7（+2）
 
 
 ---

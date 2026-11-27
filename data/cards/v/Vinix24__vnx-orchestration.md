@@ -1,6 +1,6 @@
 # Vinix24/vnx-orchestration
 
-⭐ 62 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Vinix24/vnx-orchestration) · [官网](https://github.com/Vinix24/vnx-orchestration/blob/main/docs/QUICKSTART.md) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Vinix24/vnx-orchestration) · [官网](https://github.com/Vinix24/vnx-orchestration/blob/main/docs/QUICKSTART.md) · 个人维护
 
 **面向治理的 AI 编码 CLI 编排运行时：并行 worker、审计回执、质量门**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vinix24/vnx-orchestration 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
     y-axis "stars" 61 --> 64
     line [62, 63, 62, 63, 62, 62]
 ```
 
-2026-10-24 62 → 2026-11-26 62（+0）
+2026-10-25 62 → 2026-11-27 62（+0）
 
 
 ---

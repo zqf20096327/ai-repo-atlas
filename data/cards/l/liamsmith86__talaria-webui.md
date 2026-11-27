@@ -44,13 +44,13 @@ Talaria WebUI 是一个轻量的 Web 前端，通过 Hermes Agent 的 API server
 
 ```mermaid
 xychart-beta
-    title "liamsmith86/talaria-webui 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-24", "2026-11-14", "2026-11-26"]
+    title "liamsmith86/talaria-webui 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-10-24", "2026-11-14", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 12
-    line [3, 4, 10, 11]
+    line [3, 4, 10, 11, 11]
 ```
 
-2026-10-18 3 → 2026-11-26 11（+8）
+2026-10-18 3 → 2026-11-27 11（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # huichengh/smartpark-ai-prototype
 
-⭐ 95 · Python · 推送 2026-11-06 · [GitHub](https://github.com/huichengh/smartpark-ai-prototype) · [官网](https://smartpark-prototype.app.workbuddy.host/) · 个人维护 · 中文 README
+⭐ 94 · Python · 推送 2026-11-06 · [GitHub](https://github.com/huichengh/smartpark-ai-prototype) · [官网](https://smartpark-prototype.app.workbuddy.host/) · 个人维护 · 中文 README
 
 **多园区多租户产业园区运营平台原型，含 AI Agent 编排验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huichengh/smartpark-ai-prototype 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 93 --> 96
+    line [95, 94]
 ```
 
-2026-10-24 95 → 2026-11-26 95（+0）
+2026-10-25 95 → 2026-11-27 94（-1）
 
 
 ---

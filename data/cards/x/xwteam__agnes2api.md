@@ -1,6 +1,6 @@
 # xwteam/agnes2api
 
-⭐ 10 · Rust · MIT · 推送 2026-09-14 · [GitHub](https://github.com/xwteam/agnes2api) · 个人维护 · 中文 README
+⭐ 11 · Rust · MIT · 推送 2026-09-14 · [GitHub](https://github.com/xwteam/agnes2api) · 个人维护 · 中文 README
 
 **自托管多协议 AI 网关：四协议接入 Agnes 上游**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xwteam/agnes2api 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-02", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-02 10 → 2026-11-26 10（+0）
+2026-11-02 10 → 2026-11-27 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # starci183/starci-harness
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/starci183/starci-harness) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/starci183/starci-harness) · 个人维护 · 中文 README
 
 **给 AI 编码代理的任务加契约与干净校验的 CLI 工具**
 
@@ -45,12 +45,12 @@ starci 是一个命令行工具，为 AI 代理的每项工作写入任务契约
 ```mermaid
 xychart-beta
     title "starci183/starci-harness 星数(近 6 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-27"]
     y-axis "stars" 3 --> 18
     line [4, 5, 9, 14, 17, 17]
 ```
 
-2026-11-16 4 → 2026-11-26 17（+13）
+2026-11-16 4 → 2026-11-27 17（+13）
 
 
 ---

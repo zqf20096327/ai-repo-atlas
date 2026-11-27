@@ -1,6 +1,6 @@
 # inter-co/science-codeevolve
 
-⭐ 158 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/inter-co/science-codeevolve) · [官网](https://arxiv.org/abs/2510.14150) · 组织维护
+⭐ 159 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/inter-co/science-codeevolve) · [官网](https://arxiv.org/abs/2510.14150) · 组织维护
 
 **开源 LLM+遗传算法的代码进化优化框架，用于算法发现与优化**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "inter-co/science-codeevolve 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 152 --> 159
-    line [153, 154, 157, 158]
+    title "inter-co/science-codeevolve 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 152 --> 160
+    line [153, 154, 157, 158, 159]
 ```
 
-2026-10-24 153 → 2026-11-26 158（+5）
+2026-10-25 153 → 2026-11-27 159（+6）
 
 
 ---

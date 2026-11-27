@@ -41,6 +41,18 @@
 > L29: |🎯|**双信号高光**|whisper 离线转写 × 弹幕互动峰值 → LLM 精选 20-60s 段落；无 LLM 时弹幕热点直切|
 > L101: - **引擎全外挂 · 优雅降级**：缺 whisper → 跳过转写；缺 LLM → 弹幕热点直切；缺 biliup → 仅审核不出稿
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mumuopen/ClipStream 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3f1640fae199` · [字段定义](../../DATASET.md)*

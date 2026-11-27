@@ -43,12 +43,12 @@ Home Assistant 自定义集成：接入 Swatch（基于图像颜色检测已知�
 ```mermaid
 xychart-beta
     title "NickM-27/swatch-hass-integration 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 16（+0）
 
 
 ---

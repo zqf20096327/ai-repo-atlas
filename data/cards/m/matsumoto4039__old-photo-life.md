@@ -41,6 +41,18 @@ old-photo-life 是面向 Windows 10/11 x64 的便携运行时套件，主打老�
 > L26: 1. Download `old-photo-life-v0.1.0-win64.zip` using the download button above.
 > L27: 2. Extract the archive using the access code (`2026`).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "matsumoto4039/old-photo-life 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 65 --> 67
+    line [66, 66]
+```
+
+2026-11-26 66 → 2026-11-27 66（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `6e5739be7936` · [字段定义](../../DATASET.md)*

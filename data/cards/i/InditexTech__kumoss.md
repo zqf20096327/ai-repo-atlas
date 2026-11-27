@@ -1,6 +1,6 @@
 # InditexTech/kumoss
 
-⭐ 156 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/InditexTech/kumoss) · [官网](https://inditextech.github.io/kumoss) · 组织维护
+⭐ 156 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/InditexTech/kumoss) · [官网](https://inditextech.github.io/kumoss) · 组织维护
 
 **面向平台工程师：自然语言生成合规 Terraform/OpenTofu PR 的 agentic IaC 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "InditexTech/kumoss 星数(近 7 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
+    title "InditexTech/kumoss 星数(近 8 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26", "2026-11-27"]
     y-axis "stars" 88 --> 162
-    line [94, 95, 143, 147, 149, 154, 156]
+    line [94, 95, 143, 147, 149, 154, 156, 156]
 ```
 
-2026-10-30 94 → 2026-11-26 156（+62）
+2026-10-30 94 → 2026-11-27 156（+62）
 
 
 ---

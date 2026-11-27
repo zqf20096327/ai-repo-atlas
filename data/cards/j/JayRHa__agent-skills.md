@@ -1,6 +1,6 @@
 # JayRHa/agent-skills
 
-⭐ 14 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/JayRHa/agent-skills) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/JayRHa/agent-skills) · 个人维护
 
 **面向编码 agent 的技能合集：74 个 SKILL.md 即插即用包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JayRHa/agent-skills 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15]
 ```
 
-2026-10-24 12 → 2026-11-26 14（+2）
+2026-10-25 12 → 2026-11-27 15（+3）
 
 
 ---

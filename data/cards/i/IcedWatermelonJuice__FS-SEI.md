@@ -38,6 +38,18 @@
 > L7: |RFD|Rotation Feature Decoupling|Few-Shot Specific Emitter Identification Method Using Rotation Feature Decoupling f
 > L8: |PSPD|Phase Shift Prediction and Decoupling|Enhanced Few-Shot Specific Emitter Identification via Phase Shift Predic
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "IcedWatermelonJuice/FS-SEI 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-11-26 24 → 2026-11-27 24（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `af9c24507273` · [字段定义](../../DATASET.md)*

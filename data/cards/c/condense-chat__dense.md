@@ -45,12 +45,12 @@ dense 是 Condense 的开源 CLI：启动 Claude Code、Codex 或 OpenCode 编�
 ```mermaid
 xychart-beta
     title "condense-chat/dense 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-27"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-10 16 → 2026-11-26 16（+0）
+2026-11-10 16 → 2026-11-27 16（+0）
 
 
 ---

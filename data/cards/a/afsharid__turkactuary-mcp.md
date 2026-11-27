@@ -1,6 +1,6 @@
 # afsharid/turkactuary-mcp
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/afsharid/turkactuary-mcp) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/afsharid/turkactuary-mcp) · 个人维护
 
 **面向土耳其保险/精算从业者的 MCP 服务器：法规检索与精算计算**
 
@@ -40,6 +40,18 @@
 > L5: Türkiye sigortacılık mevzuatı araması ve aktüeryal hesap araçları için bir **MCP sunucusu**.
 > L6: İstediğiniz modeli ya da ajanı kullanın: LM Studio, Claude Code, Codex, VS Code, Claude Desktop, Cursor ve MCP deste
 > L61: ## Kurulum
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "afsharid/turkactuary-mcp 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

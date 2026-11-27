@@ -1,6 +1,6 @@
 # Haruhi764/OmniCAD-Skill
 
-⭐ 71 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Haruhi764/OmniCAD-Skill) · 个人维护 · 中文 README
+⭐ 160 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Haruhi764/OmniCAD-Skill) · 个人维护 · 中文 README
 
 **让 Codex 代理生成可编辑 DXF 工程图并做证据验收的 Skill**
 
@@ -39,6 +39,18 @@
 
 > L15: OmniCAD 是我为 Codex 开发的开源 CAD 自动绘图 Skill。它可以根据明确的尺寸和绘图要求生成可编辑 DXF，并在支持的 AutoCAD 环境中输出 DWG 和 PDF。
 > L40: - DXF 局部修改、差异检查与 OQA 验收。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Haruhi764/OmniCAD-Skill 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 63 --> 168
+    line [71, 160]
+```
+
+2026-11-26 71 → 2026-11-27 160（+89）
 
 
 ---

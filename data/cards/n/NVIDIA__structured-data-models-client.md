@@ -1,6 +1,6 @@
 # NVIDIA/structured-data-models-client
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA/structured-data-models-client) · [官网](https://github.com/NVIDIA/structured-data-models-client) · 组织维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/NVIDIA/structured-data-models-client) · [官网](https://github.com/NVIDIA/structured-data-models-client) · 组织维护
 
 **面向 NVIDIA 表格/关系型基础模型的预测查询 Python 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NVIDIA/structured-data-models-client 星数(近 10 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-27"]
     y-axis "stars" 3 --> 15
     line [4, 6, 7, 8, 10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-26 4 → 2026-11-26 14（+10）
+2026-10-26 4 → 2026-11-27 14（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # whataicc/gpt-image-2
 
-⭐ 10 · 推送 2026-04-22 · [GitHub](https://github.com/whataicc/gpt-image-2) · [官网](https://api.whatai.cc) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向国内开发者的 gpt-image-2 中转 API 接入服务**
 

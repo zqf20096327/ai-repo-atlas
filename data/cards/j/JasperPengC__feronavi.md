@@ -1,6 +1,6 @@
 # JasperPengC/feronavi
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/JasperPengC/feronavi) · [官网](https://feronavi.com) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/JasperPengC/feronavi) · [官网](https://feronavi.com) · 个人维护 · 中文 README
 
 **给团队与 Agent 的自托管项目协作平台，内置 MCP Server 与 RAG**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JasperPengC/feronavi 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    title "JasperPengC/feronavi 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-11-20 4 → 2026-11-26 5（+1）
+2026-11-20 4 → 2026-11-27 5（+1）
 
 
 ---

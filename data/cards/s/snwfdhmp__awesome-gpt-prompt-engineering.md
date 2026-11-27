@@ -1,6 +1,6 @@
 # snwfdhmp/awesome-gpt-prompt-engineering
 
-⭐ 1,648 · Python · NOASSERTION · 推送 2026-02-23 · [GitHub](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) · 个人维护
+⭐ 1,649 · Python · NOASSERTION · 推送 2026-02-23 · [GitHub](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) · 个人维护
 
 **GPT 提示工程资源策展清单：指南/论文/工具/社区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "snwfdhmp/awesome-gpt-prompt-engineering 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 1638 --> 1649
-    line [1639, 1640, 1641, 1643, 1639, 1648, 1647, 1648, 1647, 1648]
+    title "snwfdhmp/awesome-gpt-prompt-engineering 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1638 --> 1650
+    line [1639, 1640, 1641, 1643, 1639, 1648, 1647, 1648, 1647, 1648, 1649]
 ```
 
-2026-10-24 1,639 → 2026-11-26 1,648（+9）
+2026-10-25 1,639 → 2026-11-27 1,649（+10）
 
 
 ---

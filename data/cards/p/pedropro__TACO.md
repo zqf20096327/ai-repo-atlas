@@ -1,6 +1,6 @@
 # pedropro/TACO
 
-⭐ 783 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pedropro/TACO) · [官网](http://tacodataset.org) · 组织维护
+⭐ 784 · Jupyter Notebook · MIT · 推送 2026-10-20 · [GitHub](https://github.com/pedropro/TACO) · [官网](http://tacodataset.org) · 组织维护
 
 **野外垃圾图像数据集与工具包：训练评估垃圾检测算法**
 
@@ -44,13 +44,13 @@ TACO（Trash Annotations in Context）是持续扩充的野外垃圾图像数据
 
 ```mermaid
 xychart-beta
-    title "pedropro/TACO 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 774 --> 784
-    line [775, 776, 775, 779, 780, 781, 783]
+    title "pedropro/TACO 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 774 --> 785
+    line [775, 776, 775, 779, 780, 781, 783, 784]
 ```
 
-2026-10-24 775 → 2026-11-26 783（+8）
+2026-10-25 775 → 2026-11-27 784（+9）
 
 
 ---

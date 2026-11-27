@@ -1,6 +1,6 @@
 # mwell70/node2vec
 
-⭐ 49 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/mwell70/node2vec) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/mwell70/node2vec) · 个人维护
 
 **node2vec 算法的 Python 实现：为网络节点生成向量嵌入**
 
@@ -45,12 +45,12 @@ node2vec 算法（Grover & Leskovec, KDD 2016）的 Python3 实现，通过有�
 ```mermaid
 xychart-beta
     title "mwell70/node2vec 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 48 --> 51
-    line [50, 49, 49]
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 32 --> 51
+    line [50, 49, 33]
 ```
 
-2026-11-08 50 → 2026-11-26 49（-1）
+2026-11-08 50 → 2026-11-27 33（-17）
 
 
 ---

@@ -1,16 +1,16 @@
 # BoardUI/boardui
 
-⭐ 1,278 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/BoardUI/boardui) · [官网](https://www.boardui.com) · 组织维护
+⭐ 1,282 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/BoardUI/boardui) · [官网](https://www.boardui.com) · 组织维护
 
-**面向 AI 产品的 React 组件设计系统，含自带模型 Key 的聊天应用首页**
+**面向 AI Agent 界面的 React 设计系统，组件以源码形式安装**
 
-面向 agent 产品的 React 设计系统：以源码形式将 69 个免费组件（Agent Chat、Agent Log、思考指示器、数据表格、侧栏等）复制进用户项目，基于 React Aria Components 与 Tailwind CSS v4，提供 400+ 语义 token、明暗主题与 RTL（阿拉伯语/希伯来语）支持。仓库首页是一个自带 API Key（BYOK）即可运行的 AI 聊天应用：服务端读取 Key 并流式返回，按 Key 前缀识别 Anthropic/OpenRouter/OpenAI/Groq/xAI 等提供商，也支持任意 OpenAI 兼容服务（Ollama/vLLM 等）。另提供 MCP server、CLI（npx boardui add）与 agent 安装规则。本仓库为免费层，不接受 PR。
+BoardUI 为 AI 产品提供 React 组件库：Agent 聊天、思考指示器、Agent 日志、输入框等界面部件与数据表格、卡片、表单等常规仪表盘部件共用一套视觉语言，以源码文件形式复制进用户项目而非作为依赖包引入。仓库含 90 个免费组件、一个自托管聊天应用首页（读取用户自己的模型密钥、服务端流式回复、聊天记录存浏览器）以及 MCP server 和 agent skill，支持 Claude Code、Cursor 等编码代理自动浏览目录并安装组件。底层基于 React Aria Components 与 Tailwind CSS v4，支持 RTL 布局。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 69 个免费组件以源码形式复制进项目（npx boardui add），非 npm 依赖
-- 首页为 BYOK 的可运行 AI 聊天应用，按 Key 前缀识别 7 类提供商，Key 仅存服务端
-- MCP server + AGENTS.md 规则，供 Claude Code/Cursor 等 coding agent 直接安装组件
-- RTL 方向感知布局与 React Aria 无障碍组件
+- 90 个免费组件以源码形式通过 npx boardui add 复制进项目
+- 内置 MCP server、agent skill 与 AGENTS.md 规则，供编码代理构建界面
+- BYO-key 聊天应用：密钥仅服务端读取，按密钥前缀自动识别供应商
+- RTL 支持：阿拉伯语、希伯来语等从右到左布局与键盘导航
 
 ## 适用场景
 
-- 为 AI/agent 产品快速搭建聊天、侧栏、数据表格等界面
-- 一键部署一个用自己模型 Key 的聊天应用作为产品首页
-- 让 coding agent 通过 MCP 按需安装和接线组件
+- 为 AI Agent 产品搭建聊天与仪表盘界面
+- 让 Claude Code/Cursor 等编码代理自动安装并按设计规范写组件
+- 用自有 API 密钥部署一个无数据库的自托管聊天页
+- 构建阿拉伯语/希伯来语等 RTL 界面
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+ · 领域:前端开发/UI 组件
 
 ## 证据(README 行号)
 
 > L11: BoardUI is a React design system for agentic interfaces: the parts an AI product needs and the parts every dashboar
-> L21: - **Built for agent products.** Chat, thinking indicator, agent log, composer and sidebar, next to the tables, card
+> L22: - **Source, not a dependency.** `npx boardui add` copies the files into your project. Change anything.
 > L26: - **Agent-native.** MCP server, agent skill, `AGENTS.md` rules and `llms.txt`, so coding agents build with the syst
 
 ## 星数曲线
@@ -46,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "BoardUI/boardui 星数(近 26 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 583 --> 1341
-    line [646, 661, 664, 666, 669, 675, 679, 682, 685, 661, 1098, 1140, 1149, 1161, 1166, 1169, 1180, 1199, 1214, 1223, 1228, 1241, 1245, 1253, 1262, 1278]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 599 --> 1344
+    line [661, 664, 666, 669, 675, 679, 682, 685, 661, 1098, 1140, 1149, 1161, 1166, 1169, 1180, 1199, 1214, 1223, 1228, 1241, 1245, 1253, 1262, 1278, 1282]
 ```
 
-2026-10-24 646 → 2026-11-26 1,278（+632）
+2026-10-25 661 → 2026-11-27 1,282（+621）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8b36c0d20c77` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `9605c957b134` · [字段定义](../../DATASET.md)*

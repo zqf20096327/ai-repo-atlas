@@ -1,6 +1,6 @@
 # IEZhu/Agents
 
-⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/IEZhu/Agents) · [官网](https://agents-core.ai) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/IEZhu/Agents) · [官网](https://agents-core.ai) · 个人维护
 
 **为 AI 编码客户端提供专家角色、工作流与项目记忆的本地 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IEZhu/Agents 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-24 14 → 2026-11-26 14（+0）
+2026-10-25 14 → 2026-11-27 14（+0）
 
 
 ---

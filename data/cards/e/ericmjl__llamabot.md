@@ -47,12 +47,12 @@ LlamaBot 提供 Python 风格的类接口来调用 LLM，面向在 Jupyter noteb
 ```mermaid
 xychart-beta
     title "ericmjl/llamabot 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 182 --> 184
     line [183, 183]
 ```
 
-2026-10-24 183 → 2026-11-26 183（+0）
+2026-10-25 183 → 2026-11-27 183（+0）
 
 
 ---

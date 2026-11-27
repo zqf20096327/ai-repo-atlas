@@ -1,6 +1,6 @@
 # google-deepmind/tf2jax
 
-⭐ 125 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/google-deepmind/tf2jax) · 组织维护
+⭐ 125 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/google-deepmind/tf2jax) · 组织维护
 
 **将 TensorFlow 函数/图转换为 JAX 函数的实验性转换库**
 
@@ -46,12 +46,12 @@ Google DeepMind 维护的转换库：通过追踪 tf.function 生成 GraphDef，
 ```mermaid
 xychart-beta
     title "google-deepmind/tf2jax 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 124 --> 126
     line [125, 125]
 ```
 
-2026-10-24 125 → 2026-11-26 125（+0）
+2026-10-25 125 → 2026-11-27 125（+0）
 
 
 ---

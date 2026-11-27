@@ -42,6 +42,18 @@
 > L21: - 🎯 **高精度分割** — 基于 UNet + ResNet34，CubiCasa5K 数据集 mIoU 达 **0.787**
 > L23: - ⚡ **CPU 部署** — 提供 ONNX Runtime 推理方案，无需 GPU，单张推理 < 1.5s
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Chunling1/OpenBIM-FloorPlan-AI 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1bbbd0d19254` · [字段定义](../../DATASET.md)*

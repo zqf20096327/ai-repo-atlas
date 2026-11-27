@@ -45,12 +45,12 @@ LyricEcho AI 是 Android 与 Windows 平台的音乐伴侣应用：检测受支�
 ```mermaid
 xychart-beta
     title "shinigami6669/LyricEcho-AI 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-26 3（+0）
+2026-11-14 3 → 2026-11-27 3（+0）
 
 
 ---

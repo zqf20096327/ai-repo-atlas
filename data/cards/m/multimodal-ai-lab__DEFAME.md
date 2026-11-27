@@ -1,6 +1,6 @@
 # multimodal-ai-lab/DEFAME
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/multimodal-ai-lab/DEFAME) · 组织维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-05-21 · [GitHub](https://github.com/multimodal-ai-lab/DEFAME) · 组织维护
 
 **多模态事实核查系统：验证图文声明的真实性**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "multimodal-ai-lab/DEFAME 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64]
 ```
 
-2026-10-24 62 → 2026-11-26 63（+1）
+2026-10-25 62 → 2026-11-27 64（+2）
 
 
 ---

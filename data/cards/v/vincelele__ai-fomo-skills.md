@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vincelele/ai-fomo-skills 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "vincelele/ai-fomo-skills 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 244 --> 247
-    line [246, 245]
+    line [246, 245, 245]
 ```
 
-2026-10-24 246 → 2026-11-26 245（-1）
+2026-10-25 246 → 2026-11-27 245（-1）
 
 
 ---

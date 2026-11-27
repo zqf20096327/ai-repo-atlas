@@ -1,6 +1,6 @@
 # anewgithubname/Juzhen
 
-⭐ 10 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/anewgithubname/Juzhen) · 个人维护
+⭐ 10 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/anewgithubname/Juzhen) · 个人维护
 
 **面向 C++ 开发者的矩阵运算 API，封装 BLAS/CUDA 等数值后端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anewgithubname/Juzhen 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

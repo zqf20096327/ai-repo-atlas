@@ -1,6 +1,6 @@
 # pathbit/AgentModelKit
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/pathbit/AgentModelKit) · [官网](https://www.pathbit.com.br) · 组织维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/pathbit/AgentModelKit) · [官网](https://www.pathbit.com.br) · 组织维护
 
 **为 OpenCode、VS Code 与 Copilot CLI 配置 AI 模型 provider 的 CLI**
 
@@ -38,6 +38,18 @@
 ## 证据(README 行号)
 
 > L6: O AgentModelKit configura providers e modelos de IA no **OpenCode**, no **VS Code** e no **GitHub Copilot CLI**. O C
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pathbit/AgentModelKit 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

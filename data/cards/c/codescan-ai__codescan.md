@@ -1,6 +1,6 @@
 # codescan-ai/codescan
 
-⭐ 69 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/codescan-ai/codescan) · [官网](https://pypi.org/project/codescanai) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/codescan-ai/codescan) · [官网](https://pypi.org/project/codescanai) · 组织维护
 
 **用 LLM 扫描代码库安全漏洞的 CLI/CI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codescan-ai/codescan 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 66 --> 70
-    line [67, 68, 67, 68, 69, 69]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 66 --> 71
+    line [67, 68, 67, 68, 69, 70]
 ```
 
-2026-10-24 67 → 2026-11-26 69（+2）
+2026-10-25 67 → 2026-11-27 70（+3）
 
 
 ---

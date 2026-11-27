@@ -1,6 +1,6 @@
 # yuna0x0/hackmd-mcp
 
-⭐ 68 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/yuna0x0/hackmd-mcp) · [官网](https://www.npmjs.com/package/hackmd-mcp) · 个人维护
+⭐ 69 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/yuna0x0/hackmd-mcp) · [官网](https://www.npmjs.com/package/hackmd-mcp) · 个人维护
 
 **连接 HackMD 笔记平台的 MCP 服务器，供 LLM 客户端操作笔记**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuna0x0/hackmd-mcp 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 66 --> 69
-    line [68, 67, 68, 68]
+    title "yuna0x0/hackmd-mcp 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 66 --> 70
+    line [67, 68, 69]
 ```
 
-2026-10-24 68 → 2026-11-26 68（+0）
+2026-10-25 67 → 2026-11-27 69（+2）
 
 
 ---

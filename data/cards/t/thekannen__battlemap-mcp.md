@@ -1,6 +1,6 @@
 # thekannen/battlemap-mcp
 
-⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/thekannen/battlemap-mcp) · [官网](https://knownframe.com/battlemap-mcp/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/thekannen/battlemap-mcp) · [官网](https://knownframe.com/battlemap-mcp/) · 个人维护
 
 **本地 MCP 桥：让 AI 助手用已有素材构建 Dungeondraft 战役地图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thekannen/battlemap-mcp 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 5 --> 13
-    line [6, 7, 6, 11, 12, 12]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 5 --> 14
+    line [6, 7, 6, 11, 12, 13]
 ```
 
-2026-10-24 6 → 2026-11-26 12（+6）
+2026-10-25 6 → 2026-11-27 13（+7）
 
 
 ---

@@ -44,13 +44,13 @@ EMNLP 2025 论文 ThinkEdit 的官方代码库。提供两套流程：一是从 
 
 ```mermaid
 xychart-beta
-    title "Trustworthy-ML-Lab/ThinkEdit 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "Trustworthy-ML-Lab/ThinkEdit 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
 ```
 
-2026-10-24 20 → 2026-11-26 21（+1）
+2026-10-25 21 → 2026-11-27 21（+0）
 
 
 ---

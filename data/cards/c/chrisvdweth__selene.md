@@ -1,6 +1,6 @@
 # chrisvdweth/selene
 
-⭐ 269 · Jupyter Notebook · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/chrisvdweth/selene) · 组织维护
+⭐ 268 · Jupyter Notebook · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/chrisvdweth/selene) · 组织维护
 
 **面向 AI 等主题的开放交互式学习教科书平台（Jupyter 笔记本集）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chrisvdweth/selene 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-27"]
     y-axis "stars" 265 --> 270
-    line [266, 267, 266, 267, 268, 269, 269]
+    line [266, 267, 266, 267, 268, 269, 268]
 ```
 
-2026-10-24 266 → 2026-11-26 269（+3）
+2026-10-25 266 → 2026-11-27 268（+2）
 
 
 ---

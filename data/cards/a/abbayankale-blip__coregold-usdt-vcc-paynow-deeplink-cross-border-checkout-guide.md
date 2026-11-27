@@ -1,6 +1,6 @@
 # abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide
 
-⭐ 63 · 推送 2026-11-19 · [GitHub](https://github.com/abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 78 · 推送 2026-11-19 · [GitHub](https://github.com/abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向跨境付款用户的 CoreGold USDT 虚拟卡开卡与绑卡教程**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 8 --> 68
-    line [13, 36, 63]
+    title "abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 84
+    line [13, 36, 63, 78]
 ```
 
-2026-11-21 13 → 2026-11-26 63（+50）
+2026-11-21 13 → 2026-11-27 78（+65）
 
 
 ---

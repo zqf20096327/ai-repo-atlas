@@ -41,6 +41,18 @@
 > L29: - **多种引擎**：在同一个工作台中，按任务选择 Codex、Gemini / Antigravity，或显式配置的宿主 Claude Code。
 > L156:     app --> tenant["隔离租户 → Codex CLI"]
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Raytto/codex-web 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9023a31ef231` · [字段定义](../../DATASET.md)*

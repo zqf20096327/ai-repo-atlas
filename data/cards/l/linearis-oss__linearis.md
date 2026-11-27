@@ -1,6 +1,6 @@
 # linearis-oss/linearis
 
-⭐ 267 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/linearis-oss/linearis) · [官网](https://npmjs.com/package/linearis) · 组织维护
+⭐ 267 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/linearis-oss/linearis) · [官网](https://npmjs.com/package/linearis) · 组织维护
 
 **面向 AI agent 的 Linear.app JSON CLI：省 token 地操作工单**
 
@@ -46,12 +46,12 @@ Linear 的命令行接口，仅输出 JSON，为 LLM agent 与偏好结构化数
 ```mermaid
 xychart-beta
     title "linearis-oss/linearis 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-27"]
     y-axis "stars" 260 --> 269
     line [261, 262, 261, 264, 265, 267, 268, 267, 267]
 ```
 
-2026-10-24 261 → 2026-11-26 267（+6）
+2026-10-25 261 → 2026-11-27 267（+6）
 
 
 ---

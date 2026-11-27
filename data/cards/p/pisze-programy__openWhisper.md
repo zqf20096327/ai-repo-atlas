@@ -41,6 +41,18 @@ macOS 菜单栏应用（iOS 端开发中），按住全局快捷键即可在任�
 > L90: |STT (iOS)|Parakeet TDT 0.6B v3 -> Core ML via parakeet-coreml-ios (vendored at `Packages/`)|
 > L91: |AI formatting & translation|OpenRouter (optional, needs API key)|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pisze-programy/openWhisper 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a02ae65fbf41` · [字段定义](../../DATASET.md)*

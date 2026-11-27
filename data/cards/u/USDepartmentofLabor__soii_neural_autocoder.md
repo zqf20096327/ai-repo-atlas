@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "USDepartmentofLabor/soii_neural_autocoder 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-11-21 23 → 2026-11-26 23（+0）
+2026-11-21 23 → 2026-11-27 23（+0）
 
 
 ---

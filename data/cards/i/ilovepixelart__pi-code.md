@@ -1,6 +1,6 @@
 # ilovepixelart/pi-code
 
-⭐ 40 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ilovepixelart/pi-code) · [官网](https://npmjs.com/package/pi-code) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ilovepixelart/pi-code) · [官网](https://npmjs.com/package/pi-code) · 个人维护
 
 **为 pi 编码 agent 复用 Claude Code 配置与功能的扩展包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ilovepixelart/pi-code 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 35 --> 41
-    line [36, 38, 37, 36, 37, 38, 39, 40]
+    title "ilovepixelart/pi-code 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 35 --> 42
+    line [36, 38, 37, 36, 37, 38, 39, 40, 41]
 ```
 
-2026-10-24 36 → 2026-11-26 40（+4）
+2026-10-25 36 → 2026-11-27 41（+5）
 
 
 ---

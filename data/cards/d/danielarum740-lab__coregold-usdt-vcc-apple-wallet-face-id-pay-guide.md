@@ -1,6 +1,6 @@
 # danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide
 
-⭐ 68 · 推送 2026-11-19 · [GitHub](https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 83 · 推送 2026-11-19 · [GitHub](https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **将 CoreGold USDT 虚拟卡添加至美区 Apple Wallet 的教程**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 1 --> 74
-    line [7, 21, 41, 68]
+    title "danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 90
+    line [7, 21, 41, 68, 83]
 ```
 
-2026-11-20 7 → 2026-11-26 68（+61）
+2026-11-20 7 → 2026-11-27 83（+76）
 
 
 ---

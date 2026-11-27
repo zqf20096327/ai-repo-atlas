@@ -1,6 +1,6 @@
 # stepfun-ai/GEBench
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/stepfun-ai/GEBench) · 组织维护 · 中文 README
+⭐ 51 · Python · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/stepfun-ai/GEBench) · 组织维护 · 中文 README
 
 **图像生成模型作为 GUI 环境的生成能力基准测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stepfun-ai/GEBench 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 50 --> 53
+    line [52, 51]
 ```
 
-2026-10-24 52 → 2026-11-26 52（+0）
+2026-10-25 52 → 2026-11-27 51（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # felixsim/bonsai-memory
 
-⭐ 30 · Shell · MIT · 推送 2026-03-15 · [GitHub](https://github.com/felixsim/bonsai-memory) · 个人维护
+⭐ 31 · Shell · MIT · 推送 2026-03-15 · [GitHub](https://github.com/felixsim/bonsai-memory) · 个人维护
 
 **AI agent 持久记忆重构工具：把扁平 MEMORY.md 改为分层树以降低 token**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "felixsim/bonsai-memory 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-24 30 → 2026-11-26 30（+0）
+2026-10-25 30 → 2026-11-27 31（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-MT3
 
-⭐ 73 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT3) · 组织维护 · 中文 README
+⭐ 91 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT3) · 组织维护 · 中文 README
 
 **开源多语言翻译模型系列：覆盖102种语言的文本翻译**
 
@@ -41,6 +41,18 @@
 > L13: Hy-MT3 is the third generation of the Tencent Hy multilingual translation model family. It includes three model siz
 > L60: |**Default Translation**|将以下文本翻译为 `{target_lang}`，注意**只需要输出翻译后的结果，不要额外解释**： `{source_text}`|Translate the following
 > L103: Build vLLM from source:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tencent-Hunyuan/Hy-MT3 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 72 --> 92
+    line [73, 91]
+```
+
+2026-11-26 73 → 2026-11-27 91（+18）
 
 
 ---

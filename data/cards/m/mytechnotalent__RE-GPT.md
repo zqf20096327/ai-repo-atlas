@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mytechnotalent/RE-GPT 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "mytechnotalent/RE-GPT 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 28 --> 31
-    line [29, 30]
+    line [29, 30, 30]
 ```
 
-2026-10-24 29 → 2026-11-26 30（+1）
+2026-10-25 29 → 2026-11-27 30（+1）
 
 
 ---

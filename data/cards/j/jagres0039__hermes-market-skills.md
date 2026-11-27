@@ -1,6 +1,6 @@
 # jagres0039/hermes-market-skills
 
-⭐ 10 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/jagres0039/hermes-market-skills) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-05-30 · [GitHub](https://github.com/jagres0039/hermes-market-skills) · 个人维护
 
 **为 Hermes AI agent 提供加密货币/印尼股票/外汇大宗商品市场分析技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jagres0039/hermes-market-skills 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-26 10（+0）
+2026-11-08 10 → 2026-11-27 11（+1）
 
 
 ---

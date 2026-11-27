@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RobinOscillate/tensor-inspect 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
+    title "RobinOscillate/tensor-inspect 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 4 --> 20
-    line [18, 19, 5, 5]
+    line [19, 5, 5]
 ```
 
-2026-10-24 18 → 2026-11-26 5（-13）
+2026-10-25 19 → 2026-11-27 5（-14）
 
 
 ---

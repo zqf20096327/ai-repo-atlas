@@ -1,6 +1,6 @@
 # BerriAI/self-improving-agent
 
-⭐ 41 · TypeScript · MIT · 推送 2026-05-05 · [GitHub](https://github.com/BerriAI/self-improving-agent) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/BerriAI/self-improving-agent) · 组织维护
 
 **给 AI agent 加自改进循环的工具库：提案 diff、人批准、开草稿 PR**
 
@@ -44,13 +44,13 @@ npm 安装的 TypeScript 库，向任意 AI 编码 agent 追加两个工具：wr
 
 ```mermaid
 xychart-beta
-    title "BerriAI/self-improving-agent 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 35 --> 42
-    line [36, 37, 38, 40, 37, 41, 41]
+    title "BerriAI/self-improving-agent 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 36 --> 42
+    line [37, 38, 40, 37, 41, 41]
 ```
 
-2026-10-24 36 → 2026-11-26 41（+5）
+2026-10-25 37 → 2026-11-27 41（+4）
 
 
 ---

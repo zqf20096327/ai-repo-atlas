@@ -1,6 +1,6 @@
 # mattoddie/bluelink-mcp
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mattoddie/bluelink-mcp) · [官网](https://bluelink-mcp.mattoddie.dev) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mattoddie/bluelink-mcp) · [官网](https://bluelink-mcp.mattoddie.dev) · 个人维护
 
 **让 Claude 等 AI 助手查询和控制现代/起亚车辆的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mattoddie/bluelink-mcp 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-23", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-26 3（+0）
+2026-11-23 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -42,6 +42,18 @@
 > L88: - **Zero-shot:** each model scores each finding with its own method, with no training on the evaluation labels.
 > L93: - **Segmentation:** a linear head and a small decoder are trained on the feature map of EchoAlign, EchoPrime, PanEc
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BioMedIA-MBZUAI/EchoAlign 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9020243327c0` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # two35s/reclaude
 
-⭐ 26 · Python · 推送 2026-10-23 · [GitHub](https://github.com/two35s/reclaude) · 个人维护 · 中文 README
+⭐ 27 · Python · 推送 2026-10-23 · [GitHub](https://github.com/two35s/reclaude) · 个人维护 · 中文 README
 
 **复用浏览器会话在终端直连 Claude.ai/ChatGPT/Meta AI 的客户端与代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "two35s/reclaude 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 22 --> 27
-    line [23, 24, 26, 23, 26, 26]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 26, 23, 26, 27]
 ```
 
-2026-10-24 23 → 2026-11-26 26（+3）
+2026-10-25 23 → 2026-11-27 27（+4）
 
 
 ---

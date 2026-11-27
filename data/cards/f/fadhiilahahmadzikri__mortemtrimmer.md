@@ -1,6 +1,6 @@
 # fadhiilahahmadzikri/mortemtrimmer
 
-⭐ 16 · Python · MIT · 推送 2026-06-11 · [GitHub](https://github.com/fadhiilahahmadzikri/mortemtrimmer) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/fadhiilahahmadzikri/mortemtrimmer) · [官网](https://mortemtrimmer.pages.dev) · 个人维护
 
 **给内容创作者的 Python CLI：一键去除音视频静音并降噪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fadhiilahahmadzikri/mortemtrimmer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-24 16 → 2026-11-26 16（+0）
+2026-10-25 16 → 2026-11-27 17（+1）
 
 
 ---

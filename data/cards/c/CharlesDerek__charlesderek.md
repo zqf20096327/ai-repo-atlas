@@ -1,6 +1,6 @@
 # CharlesDerek/charlesderek
 
-⭐ 15 · 推送 2025-12-07 · [GitHub](https://github.com/CharlesDerek/charlesderek) · [官网](https://www.charlesderek.com) · 个人维护
+⭐ 16 · 推送 2025-12-07 · [GitHub](https://github.com/CharlesDerek/charlesderek) · [官网](https://www.charlesderek.com) · 个人维护
 
 **个人 GitHub 主页 README：安全工程师的自我介绍**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "CharlesDerek/charlesderek 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 16（+1）
 
 
 ---

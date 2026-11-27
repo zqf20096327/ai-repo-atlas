@@ -45,12 +45,12 @@ Devinterview.io 维护的机器学习面试准备资料仓库，收录 50 道 sc
 ```mermaid
 xychart-beta
     title "Devinterview-io/scikit-learn-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-24 38 → 2026-11-26 39（+1）
+2026-10-25 38 → 2026-11-27 39（+1）
 
 
 ---

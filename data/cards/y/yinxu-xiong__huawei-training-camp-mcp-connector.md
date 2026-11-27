@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yinxu-xiong/huawei-training-camp-mcp-connector 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-26"]
+    title "yinxu-xiong/huawei-training-camp-mcp-connector 星数(近 6 点)"
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-26", "2026-11-27"]
     y-axis "stars" 11 --> 18
-    line [12, 13, 14, 15, 17]
+    line [12, 13, 14, 15, 17, 17]
 ```
 
-2026-10-29 12 → 2026-11-26 17（+5）
+2026-10-29 12 → 2026-11-27 17（+5）
 
 
 ---

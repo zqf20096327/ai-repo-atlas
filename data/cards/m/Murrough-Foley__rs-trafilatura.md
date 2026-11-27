@@ -1,6 +1,6 @@
 # Murrough-Foley/rs-trafilatura
 
-⭐ 71 · Rust · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/Murrough-Foley/rs-trafilatura) · 个人维护
+⭐ 72 · Rust · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/Murrough-Foley/rs-trafilatura) · 个人维护
 
 **Rust 网页正文抽取库：分类页面类型并输出净内容与置信度**
 
@@ -44,13 +44,13 @@ trafilatura 的 Rust 移植，从网页 HTML 中去除样板、导航与广告�
 
 ```mermaid
 xychart-beta
-    title "Murrough-Foley/rs-trafilatura 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 65 --> 72
-    line [66, 67, 69, 70, 71, 71]
+    title "Murrough-Foley/rs-trafilatura 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 66 --> 73
+    line [67, 69, 70, 71, 72]
 ```
 
-2026-10-24 66 → 2026-11-26 71（+5）
+2026-10-25 67 → 2026-11-27 72（+5）
 
 
 ---

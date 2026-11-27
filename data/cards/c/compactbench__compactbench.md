@@ -1,6 +1,6 @@
 # compactbench/compactbench
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/compactbench/compactbench) · [官网](https://compactbench.github.io/compactbench/) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/compactbench/compactbench) · [官网](https://compactbench.github.io/compactbench/) · 组织维护
 
 **LLM 上下文压缩方法的评测基准：测量压缩后保留了什么**
 
@@ -40,6 +40,18 @@ CompactBench 是一个评测 LLM agent 上下文压缩方法的开源基准：�
 > L12: Long-running LLM agents compact their history — summarize it, extract state, keep a ledger — and then carry on with
 > L16: - **It measures the compaction layer, not the model.** The reader only ever sees your artifact.
 > L22: - **Hidden ranked set.** Public Starter and Practice suites for development; ranked scores come from a hidden Elite
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "compactbench/compactbench 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

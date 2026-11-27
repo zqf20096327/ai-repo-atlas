@@ -1,6 +1,6 @@
 # stdlogits/neuron-lens.com
 
-⭐ 27 · Svelte · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/stdlogits/neuron-lens.com) · [官网](https://neuron-lens.com) · 组织维护
+⭐ 26 · Svelte · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/stdlogits/neuron-lens.com) · [官网](https://neuron-lens.com) · 组织维护
 
 **浏览 Qwen3-8B 与 Gemma 4 12B 各神经元/注意力头激活语义的网站**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stdlogits/neuron-lens.com 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-26"]
+    title "stdlogits/neuron-lens.com 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1 --> 29
-    line [3, 4, 19, 23, 24, 26, 27]
+    line [3, 4, 19, 23, 24, 26, 27, 26]
 ```
 
-2026-11-08 3 → 2026-11-26 27（+24）
+2026-11-08 3 → 2026-11-27 26（+23）
 
 
 ---

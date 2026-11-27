@@ -1,6 +1,6 @@
 # lightpanda-io/zenai
 
-⭐ 14 · Zig · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lightpanda-io/zenai) · 组织维护
+⭐ 14 · Zig · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lightpanda-io/zenai) · 组织维护
 
 **Zig 编写的多 AI API 客户端库：统一接口访问 LLM/搜索/判断模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lightpanda-io/zenai 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 11 --> 15
     line [12, 13, 12, 14, 14]
 ```
 
-2026-10-24 12 → 2026-11-26 14（+2）
+2026-10-25 12 → 2026-11-27 14（+2）
 
 
 ---

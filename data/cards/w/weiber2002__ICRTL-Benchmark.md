@@ -1,6 +1,6 @@
 # weiber2002/ICRTL-Benchmark
 
-⭐ 35 · SystemVerilog · 推送 2026-07-03 · [GitHub](https://github.com/weiber2002/ICRTL-Benchmark) · 组织维护 · 中文 README
+⭐ 36 · SystemVerilog · 推送 2026-07-03 · [GitHub](https://github.com/weiber2002/ICRTL-Benchmark) · 组织维护 · 中文 README
 
 **给EDA/LLM研究者的工业级Verilog RTL基准测试集（10题）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "weiber2002/ICRTL-Benchmark 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-24 35 → 2026-11-26 35（+0）
+2026-10-25 35 → 2026-11-27 36（+1）
 
 
 ---

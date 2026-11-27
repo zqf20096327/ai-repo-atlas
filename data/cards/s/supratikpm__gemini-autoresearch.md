@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "supratikpm/gemini-autoresearch 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "supratikpm/gemini-autoresearch 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 45 --> 48
-    line [46, 47]
+    line [46, 47, 47]
 ```
 
-2026-10-24 46 → 2026-11-26 47（+1）
+2026-10-25 46 → 2026-11-27 47（+1）
 
 
 ---

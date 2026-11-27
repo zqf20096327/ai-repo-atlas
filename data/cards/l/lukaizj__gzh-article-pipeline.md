@@ -1,6 +1,6 @@
 # lukaizj/gzh-article-pipeline
 
-⭐ 21 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lukaizj/gzh-article-pipeline) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lukaizj/gzh-article-pipeline) · 个人维护 · 中文 README
 
 **面向公众号运营者的 AI 创作发布闭环 Skill 流水线**
 
@@ -40,6 +40,18 @@
 > L14:  从选题、剧情封面、千字短段排版到草稿直推与后台复盘的公众号 Skill 流水线
 > L15:  基于「奇点造物所」近 180 篇实操数据打磨，支持 Codex / Antigravity / Claude Code 直接调用。
 > L31: - **双高选题 & 标题门禁**：核查项目近况防推僵尸仓，按高 eCPM 赛道选品；标题 `<= 26` 字四维打分（`< 75` 分打回），剔除劝退黑话。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lukaizj/gzh-article-pipeline 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-11-26 21 → 2026-11-27 21（+0）
 
 
 ---

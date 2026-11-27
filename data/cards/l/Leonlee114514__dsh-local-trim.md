@@ -1,6 +1,6 @@
 # Leonlee114514/dsh-local-trim
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Leonlee114514/dsh-local-trim) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Leonlee114514/dsh-local-trim) · 个人维护 · 中文 README
 
 **给本地小模型提供轻量裁剪的 DSH 插件**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）的插件，面向本地模型场景：通过工具白�
 ```mermaid
 xychart-beta
     title "Leonlee114514/dsh-local-trim 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-26 3（+0）
+2026-11-20 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Onion-L/holt
 
-⭐ 22 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Onion-L/holt) · [官网](https://holtagent.cc) · 个人维护 · 中文 README
+⭐ 22 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Onion-L/holt) · [官网](https://holtagent.cc) · 个人维护 · 中文 README
 
 **macOS 本地编码 agent 桌面应用：崩溃恢复与任意步骤回退**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Onion-L/holt 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    title "Onion-L/holt 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27"]
     y-axis "stars" 17 --> 23
-    line [18, 19, 18, 20, 21, 22]
+    line [18, 19, 18, 20, 21, 22, 22]
 ```
 
-2026-10-24 18 → 2026-11-26 22（+4）
+2026-10-25 18 → 2026-11-27 22（+4）
 
 
 ---

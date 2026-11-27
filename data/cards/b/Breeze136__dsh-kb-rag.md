@@ -1,6 +1,6 @@
 # Breeze136/dsh-kb-rag
 
-⭐ 22 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Breeze136/dsh-kb-rag) · [官网](https://www.npmjs.com/package/dsh-kb-rag) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Breeze136/dsh-kb-rag) · [官网](https://www.npmjs.com/package/dsh-kb-rag) · 个人维护 · 中文 README
 
 **DSH 插件：本地文献知识库 RAG，答案定位到段落/页码/DOI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Breeze136/dsh-kb-rag 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-27"]
     y-axis "stars" 14 --> 23
-    line [15, 16, 17, 15, 19, 20, 21, 22, 22]
+    line [15, 16, 17, 15, 19, 20, 21, 22, 21]
 ```
 
-2026-10-24 15 → 2026-11-26 22（+7）
+2026-10-25 15 → 2026-11-27 21（+6）
 
 
 ---

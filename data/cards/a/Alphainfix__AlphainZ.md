@@ -1,6 +1,6 @@
 # Alphainfix/AlphainZ
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/Alphainfix/AlphainZ) · [官网](https://alphain.app/z/) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Alphainfix/AlphainZ) · [官网](https://alphain.app/z/) · 个人维护 · 中文 README
 
 **Zotero 内的文献研究助手，用你自己的模型与 API key**
 
@@ -47,12 +47,12 @@ Zotero 7 插件形态的研究助手：将库内 PDF 切分为段落并嵌入，
 ```mermaid
 xychart-beta
     title "Alphainfix/AlphainZ 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-27"]
     y-axis "stars" 3 --> 12
     line [4, 7, 9, 10, 11, 11]
 ```
 
-2026-11-02 4 → 2026-11-26 11（+7）
+2026-11-02 4 → 2026-11-27 11（+7）
 
 
 ---

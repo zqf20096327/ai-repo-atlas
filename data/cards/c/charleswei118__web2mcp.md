@@ -1,6 +1,6 @@
 # charleswei118/web2mcp
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/charleswei118/web2mcp) · [官网](https://web2mcp.cwei59969.workers.dev) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/charleswei118/web2mcp) · [官网](https://web2mcp.cwei59969.workers.dev) · 个人维护 · 中文 README
 
 **开发者将任意网站/REST API 以配置方式转为 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "charleswei118/web2mcp 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-02 3 → 2026-11-26 5（+2）
+2026-11-02 3 → 2026-11-27 5（+2）
 
 
 ---

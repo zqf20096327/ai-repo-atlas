@@ -1,6 +1,6 @@
 # LeeFly-cn/TripStar-Java
 
-⭐ 66 · JavaScript · GPL-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/LeeFly-cn/TripStar-Java) · 个人维护 · 中文 README
+⭐ 67 · JavaScript · GPL-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/LeeFly-cn/TripStar-Java) · 个人维护 · 中文 README
 
 **面向旅行者的多智能体旅行攻略生成系统（Java 后端）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LeeFly-cn/TripStar-Java 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 62 --> 67
-    line [63, 64, 63, 65, 66, 66]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 62 --> 68
+    line [63, 64, 63, 65, 66, 67]
 ```
 
-2026-10-24 63 → 2026-11-26 66（+3）
+2026-10-25 63 → 2026-11-27 67（+4）
 
 
 ---

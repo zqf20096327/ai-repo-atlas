@@ -42,6 +42,18 @@
 > L29: Boogie is a single-binary Windows voice assistant written from scratch in **pure Rust**. Instead of bundling Electr
 > L37: |**46 Native Windows Tools**|App launcher (Win32 / Start Menu / Registry), real browser automation, screen vision, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thodark/Boogie-AI-Assistant 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ef56cf2dbbad` · [字段定义](../../DATASET.md)*

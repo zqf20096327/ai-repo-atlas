@@ -1,6 +1,6 @@
 # Students-of-Local/smoothstone
 
-⭐ 82 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Students-of-Local/smoothstone) · 个人维护
+⭐ 82 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Students-of-Local/smoothstone) · 个人维护
 
 **让小模型本地生成可打印 3D 零件的技能与 CLI**
 
@@ -40,6 +40,18 @@ smoothstone 提供一个名为 stone 的命令行工具与 agent 技能：模型
 
 > L5: I wanted a small model running on my own computer to make 3D printable parts that actually look good, so I tested LF
 > L125: For a local model on llama.cpp, give it one tool named `stone` that runs a stone command line, and put `skill/tier
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Students-of-Local/smoothstone 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 81 --> 83
+    line [82, 82]
+```
+
+2026-11-26 82 → 2026-11-27 82（+0）
 
 
 ---

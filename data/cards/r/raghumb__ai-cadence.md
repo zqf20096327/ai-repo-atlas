@@ -40,6 +40,18 @@
 > L11: From foundation models and AI tools to agent frameworks, infrastructure, research, and emerging innovations, 'AI Ca
 > L41: Through hand-curated developments across the AI ecosystem, the aim is to broaden awareness, uncover emerging ideas,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "raghumb/ai-cadence 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b82b5ec93650` · [字段定义](../../DATASET.md)*

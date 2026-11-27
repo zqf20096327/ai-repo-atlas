@@ -1,6 +1,6 @@
 # openwizdev/OpenWiz
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/openwizdev/OpenWiz) · [官网](https://openwiz.dev) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/openwizdev/OpenWiz) · [官网](https://openwiz.dev) · 组织维护
 
 **agent 工厂的开放内核：驱动代理编写、构建、审查并合并**
 
@@ -44,13 +44,13 @@ OpenWiz 自称 agent 工厂的开放内核，本仓库为内核本体，其他�
 
 ```mermaid
 xychart-beta
-    title "openwizdev/OpenWiz 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 3 --> 12
-    line [4, 5, 6, 11]
+    title "openwizdev/OpenWiz 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 14
+    line [4, 5, 6, 11, 13]
 ```
 
-2026-11-21 4 → 2026-11-26 11（+7）
+2026-11-21 4 → 2026-11-27 13（+9）
 
 
 ---

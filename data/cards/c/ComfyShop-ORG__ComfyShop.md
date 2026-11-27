@@ -1,6 +1,6 @@
 # ComfyShop-ORG/ComfyShop
 
-⭐ 4 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ComfyShop-ORG/ComfyShop) · 组织维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ComfyShop-ORG/ComfyShop) · 组织维护 · 中文 README
 
 **ComfyUI 团队的开源自托管工作流生成平台**
 
@@ -40,6 +40,18 @@
 > L8: **RunningHub 的开源自托管替代方案，面向使用 ComfyUI 的团队。**
 > L10: 把调好的 ComfyUI 工作流发布成同事可以直接使用的生成表单。在同一个网页提交图片或视频生成任务、跟踪每次执行、找到原始成品，再用已有参数发起下一轮。个人和团队空间均可使用本空间的 ComfyUI 工作机、RunningHub
 > L23: 2. **从网页提交生成。** 选择工作流，填写提示词、参考素材和其他参数。ComfyUI 工作流使用自己的在线工作机，RunningHub 工作流使用自己在相应站点的连接，官方模型由平台分配工作机。提交后可以跟踪排队和执行进度。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ComfyShop-ORG/ComfyShop 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

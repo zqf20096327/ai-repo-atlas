@@ -1,6 +1,6 @@
 # DPIRD-DMA/OmniWaterMask
 
-⭐ 52 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/DPIRD-DMA/OmniWaterMask) · 组织维护
+⭐ 53 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/DPIRD-DMA/OmniWaterMask) · 组织维护
 
 **遥感与航拍影像的高精度水体分割 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DPIRD-DMA/OmniWaterMask 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 49 --> 53
-    line [50, 51, 52, 50, 52, 52]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 49 --> 54
+    line [50, 51, 52, 50, 52, 53]
 ```
 
-2026-10-24 50 → 2026-11-26 52（+2）
+2026-10-25 50 → 2026-11-27 53（+3）
 
 
 ---

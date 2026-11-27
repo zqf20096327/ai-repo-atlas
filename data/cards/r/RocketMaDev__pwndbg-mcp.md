@@ -1,6 +1,6 @@
 # RocketMaDev/pwndbg-mcp
 
-⭐ 38 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/RocketMaDev/pwndbg-mcp) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-04-07 · [GitHub](https://github.com/RocketMaDev/pwndbg-mcp) · 个人维护 · 中文 README
 
 **让 AI agent 通过 MCP 调用 pwndbg 调试 ELF 的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RocketMaDev/pwndbg-mcp 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-10", "2026-11-12", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-10", "2026-11-12", "2026-11-27"]
     y-axis "stars" 37 --> 40
-    line [38, 39, 38, 39, 38, 38]
+    line [38, 39, 38, 39, 38, 39]
 ```
 
-2026-10-24 38 → 2026-11-26 38（+0）
+2026-10-25 38 → 2026-11-27 39（+1）
 
 
 ---

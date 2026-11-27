@@ -1,6 +1,6 @@
 # liuyanghejerry/Clausura
 
-⭐ 205 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/liuyanghejerry/Clausura) · 个人维护 · 中文 README
+⭐ 205 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/liuyanghejerry/Clausura) · 个人维护 · 中文 README
 
 **面向 CI/CD 流水线的 LLM agent CLI，用确定性规则给出门禁判定**
 
@@ -46,12 +46,12 @@ Clausura 是一个跨平台的 agent CLI 工具，嵌入 CI/CD 流水线：运�
 ```mermaid
 xychart-beta
     title "liuyanghejerry/Clausura 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 203 --> 206
     line [204, 205, 205]
 ```
 
-2026-10-24 204 → 2026-11-26 205（+1）
+2026-10-25 204 → 2026-11-27 205（+1）
 
 
 ---

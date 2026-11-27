@@ -45,12 +45,12 @@ Packt 出版的《The Deep Learning with Keras Workshop》一书配套仓库，�
 ```mermaid
 xychart-beta
     title "PacktWorkshops/The-Deep-Learning-with-Keras-Workshop 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 50 --> 52
     line [51, 51]
 ```
 
-2026-10-24 51 → 2026-11-26 51（+0）
+2026-10-25 51 → 2026-11-27 51（+0）
 
 
 ---

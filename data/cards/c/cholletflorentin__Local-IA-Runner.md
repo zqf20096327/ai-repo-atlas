@@ -1,6 +1,6 @@
 # cholletflorentin/Local-IA-Runner
 
-⭐ 3 · C# · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cholletflorentin/Local-IA-Runner) · 个人维护
+⭐ 3 · C# · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cholletflorentin/Local-IA-Runner) · 个人维护
 
 **Windows 桌面应用：本地运行 GGUF 对话与图像生成**
 
@@ -40,6 +40,18 @@
 
 > L3: Application Windows WinForms (.NET 10) pour exécuter des modèles GGUF avec llama.cpp et générer des images avec stab
 > L7: - Génération locale à partir de fichiers `.gguf`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cholletflorentin/Local-IA-Runner 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

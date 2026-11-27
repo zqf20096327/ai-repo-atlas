@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JawherKl/ai-models-integration 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "JawherKl/ai-models-integration 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 37 --> 46
-    line [38, 45]
+    line [38, 45, 45]
 ```
 
-2026-10-24 38 → 2026-11-26 45（+7）
+2026-10-25 38 → 2026-11-27 45（+7）
 
 
 ---

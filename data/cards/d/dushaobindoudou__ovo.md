@@ -1,6 +1,6 @@
 # dushaobindoudou/ovo
 
-⭐ 11 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/dushaobindoudou/ovo) · [官网](https://github.com/dushaobindoudou/ovo#readme) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/dushaobindoudou/ovo) · [官网](https://github.com/dushaobindoudou/ovo#readme) · 个人维护 · 中文 README
 
 **macOS 主动式 AI 桌面助手：观察屏幕并主动建议与执行操作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dushaobindoudou/ovo 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 11, 11]
+    title "dushaobindoudou/ovo 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 11, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 11（+1）
+2026-10-25 11 → 2026-11-27 12（+1）
 
 
 ---

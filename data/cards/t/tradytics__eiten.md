@@ -1,6 +1,6 @@
 # tradytics/eiten
 
-⭐ 3,331 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/tradytics/eiten) · [官网](https://www.tradytics.com/) · 组织维护
+⭐ 3,332 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/tradytics/eiten) · [官网](https://www.tradytics.com/) · 组织维护
 
 **为投资者生成统计与算法投资组合的开源工具包**
 
@@ -39,6 +39,18 @@ Tradytics 开源的投资组合构建工具包，实现特征组合、最小方�
 
 > L2: Eiten is an open source toolkit by Tradytics that implements various statistical and algorithmic investing strategie
 > L80: 4. **Genetic Algorithm (GA) based Portfolio**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tradytics/eiten 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3330 --> 3333
+    line [3331, 3332]
+```
+
+2026-11-26 3,331 → 2026-11-27 3,332（+1）
 
 
 ---

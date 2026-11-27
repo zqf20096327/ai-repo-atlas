@@ -1,6 +1,6 @@
 # jamesmoore/SDMeta
 
-⭐ 20 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jamesmoore/SDMeta) · 个人维护
+⭐ 20 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jamesmoore/SDMeta) · 个人维护
 
 **批量提取并检索 Stable Diffusion 生成图片元数据的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jamesmoore/SDMeta 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 19 --> 22
     line [21, 20, 20]
 ```
 
-2026-10-24 21 → 2026-11-26 20（-1）
+2026-10-25 21 → 2026-11-27 20（-1）
 
 
 ---

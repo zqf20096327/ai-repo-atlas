@@ -1,6 +1,6 @@
 # sanbei101/blog
 
-⭐ 85 · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sanbei101/blog) · [官网](https://blog.sanbei101.cn) · 个人维护 · 中文 README
+⭐ 84 · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sanbei101/blog) · [官网](https://blog.sanbei101.cn) · 个人维护 · 中文 README
 
 **Go 全栈工程师的 AI 人机协同工程实践博客**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sanbei101/blog 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 84 --> 86
-    line [85, 85]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 83 --> 86
+    line [85, 84]
 ```
 
-2026-10-24 85 → 2026-11-26 85（+0）
+2026-10-25 85 → 2026-11-27 84（-1）
 
 
 ---

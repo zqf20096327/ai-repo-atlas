@@ -45,12 +45,12 @@ Ollama 是在 macOS、Windows、Linux 与 Docker 上本地运行大语言模型�
 ```mermaid
 xychart-beta
     title "loong64/ollama 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

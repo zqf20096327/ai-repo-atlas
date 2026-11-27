@@ -1,6 +1,6 @@
 # 47thtechcorner/RayCodes_LightOnOCR-3-4B
 
-⭐ 4 · Python · 推送 2026-10-11 · [GitHub](https://github.com/47thtechcorner/RayCodes_LightOnOCR-3-4B) · [官网](https://youtu.be/5uZurgx1Drs) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地 OCR 流水线：单模型提取页面文本、版面坐标与图表表格**
 

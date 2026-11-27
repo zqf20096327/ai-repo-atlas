@@ -1,6 +1,6 @@
 # aieng-abdullah/production-rag-assistant
 
-⭐ 55 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/aieng-abdullah/production-rag-assistant) · [官网](https://groundedai-frontend.onrender.com) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/aieng-abdullah/production-rag-assistant) · [官网](https://groundedai-frontend.onrender.com) · 个人维护
 
 **面向法律/学术的引用强制核验 RAG 研究助手**
 
@@ -45,13 +45,13 @@ GroundedAI 是一个引用核验型 RAG 问答应用：上传 PDF 后提问，�
 
 ```mermaid
 xychart-beta
-    title "aieng-abdullah/production-rag-assistant 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 54 --> 72
-    line [71, 65, 56, 55, 55]
+    title "aieng-abdullah/production-rag-assistant 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 53 --> 66
+    line [65, 56, 55, 54]
 ```
 
-2026-10-24 71 → 2026-11-26 55（-16）
+2026-10-25 65 → 2026-11-27 54（-11）
 
 
 ---

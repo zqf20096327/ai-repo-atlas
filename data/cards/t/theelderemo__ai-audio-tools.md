@@ -1,6 +1,6 @@
 # theelderemo/ai-audio-tools
 
-⭐ 29 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/theelderemo/ai-audio-tools) · [官网](ai-audio-tools.com) · 个人维护
+⭐ 29 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/theelderemo/ai-audio-tools) · [官网](ai-audio-tools.com) · 个人维护
 
 **AI 音频与音乐工具社区策展清单，按任务分类导航**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "theelderemo/ai-audio-tools 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
     y-axis "stars" 26 --> 30
     line [27, 28, 27, 28, 29, 29]
 ```
 
-2026-10-24 27 → 2026-11-26 29（+2）
+2026-10-25 27 → 2026-11-27 29（+2）
 
 
 ---

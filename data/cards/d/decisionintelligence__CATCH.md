@@ -1,6 +1,6 @@
 # decisionintelligence/CATCH
 
-⭐ 209 · Python · 推送 2025-12-30 · [GitHub](https://github.com/decisionintelligence/CATCH) · [官网](https://arxiv.org/pdf/2410.12261) · 组织维护
+⭐ 210 · Python · 推送 2025-12-30 · [GitHub](https://github.com/decisionintelligence/CATCH) · [官网](https://arxiv.org/pdf/2410.12261) · 组织维护
 
 **多变量时间序列异常检测框架（ICLR 2025 论文官方实现）**
 
@@ -45,12 +45,12 @@ CATCH 是 ICLR 2025 论文的官方 PyTorch 实现，面向多变量时间序列
 ```mermaid
 xychart-beta
     title "decisionintelligence/CATCH 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 206 --> 210
-    line [207, 208, 209, 207, 209, 209]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 206 --> 211
+    line [207, 208, 209, 207, 209, 210]
 ```
 
-2026-10-24 207 → 2026-11-26 209（+2）
+2026-10-25 207 → 2026-11-27 210（+3）
 
 
 ---

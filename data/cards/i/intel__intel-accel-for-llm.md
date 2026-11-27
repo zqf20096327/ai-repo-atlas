@@ -1,6 +1,6 @@
 # intel/intel-accel-for-llm
 
-⭐ 19 · C · 推送 2026-11-23 · [GitHub](https://github.com/intel/intel-accel-for-llm) · 组织维护
+⭐ 20 · C · 推送 2026-11-23 · [GitHub](https://github.com/intel/intel-accel-for-llm) · 组织维护
 
 **利用 Intel 硬件加速器提升 LLM 推理性能的 IAXL 库**
 
@@ -45,12 +45,12 @@ Intel 维护的 LLM 推理加速库：通过 QAT/IAA 硬件压缩 KV cache（DEF
 ```mermaid
 xychart-beta
     title "intel/intel-accel-for-llm 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 20]
 ```
 
-2026-10-23 17 → 2026-11-26 19（+2）
+2026-10-24 17 → 2026-11-27 20（+3）
 
 
 ---

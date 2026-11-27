@@ -1,6 +1,6 @@
 # maestro-press/grajo
 
-⭐ 29 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/maestro-press/grajo) · [官网](https://maestro.press/software/crow/) · 组织维护
+⭐ 29 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/maestro-press/grajo) · [官网](https://maestro.press/software/crow/) · 组织维护
 
 **自托管的 agentic 框架与 MCP 平台，个人可搭建运行 AI agents**
 
@@ -46,12 +46,12 @@ Crow 是一个自托管的模块化 agentic 框架与 MCP 平台，基于 Model 
 ```mermaid
 xychart-beta
     title "maestro-press/grajo 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-20", "2026-11-23", "2026-11-25", "2026-11-27"]
     y-axis "stars" 26 --> 30
     line [27, 28, 29, 29]
 ```
 
-2026-11-20 27 → 2026-11-26 29（+2）
+2026-11-20 27 → 2026-11-27 29（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # answerLoops/answerLoops
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/answerLoops/answerLoops) · [官网](https://answerloops.com) · 组织维护
+⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/answerLoops/answerLoops) · [官网](https://answerloops.com) · 组织维护
 
 **面向社区的自托管 AI 客服系统：来源支撑回答+双 Agent 审核**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "answerLoops/answerLoops 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 21 --> 32
-    line [22, 23, 28, 29, 28, 29, 30, 31, 31]
+    title "answerLoops/answerLoops 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 22 --> 32
+    line [23, 28, 29, 28, 29, 30, 31, 31]
 ```
 
-2026-10-24 22 → 2026-11-26 31（+9）
+2026-10-25 23 → 2026-11-27 31（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # Biohub/VisCy
 
-⭐ 109 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/Biohub/VisCy) · [官网](https://biohub.github.io/VisCy/) · 组织维护
+⭐ 109 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/Biohub/VisCy) · [官网](https://biohub.github.io/VisCy/) · 组织维护
 
 **显微镜图像单细胞表型的计算机视觉模型训练部署管线**
 
@@ -44,12 +44,12 @@ VisCy 是用于单细胞分辨率图像表型的深度学习训练与部署管�
 ```mermaid
 xychart-beta
     title "Biohub/VisCy 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-27"]
     y-axis "stars" 104 --> 110
     line [105, 107, 108, 109, 109]
 ```
 
-2026-11-08 105 → 2026-11-26 109（+4）
+2026-11-08 105 → 2026-11-27 109（+4）
 
 
 ---

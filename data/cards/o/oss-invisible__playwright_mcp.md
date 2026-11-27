@@ -1,6 +1,6 @@
 # oss-invisible/playwright_mcp
 
-⭐ 819 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oss-invisible/playwright_mcp) · [官网](https://github.com/feder-cr/invisible_playwright_mcp/wiki) · 个人维护
+⭐ 813 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oss-invisible/playwright_mcp) · [官网](https://github.com/feder-cr/invisible_playwright_mcp/wiki) · 个人维护
 
 **给 AI 助手接入反检测隐身 Firefox 的浏览器自动化 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oss-invisible/playwright_mcp 星数(近 10 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 814 --> 880
-    line [864, 865, 868, 869, 867, 868, 870, 872, 875, 819]
+    title "oss-invisible/playwright_mcp 星数(近 11 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 807 --> 881
+    line [864, 865, 868, 869, 867, 868, 870, 872, 875, 819, 813]
 ```
 
-2026-11-13 864 → 2026-11-26 819（-45）
+2026-11-13 864 → 2026-11-27 813（-51）
 
 
 ---

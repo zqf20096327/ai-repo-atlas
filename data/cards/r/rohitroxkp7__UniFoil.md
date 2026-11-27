@@ -1,6 +1,6 @@
 # rohitroxkp7/UniFoil
 
-⭐ 15 · Python · CC-BY-SA-4.0 · 推送 2026-04-07 · [GitHub](https://github.com/rohitroxkp7/UniFoil) · [官网](https://doi.org/10.7910/DVN/VQGWC4) · 组织维护
+⭐ 16 · Python · CC-BY-SA-4.0 · 推送 2026-04-07 · [GitHub](https://github.com/rohitroxkp7/UniFoil) · [官网](https://doi.org/10.7910/DVN/VQGWC4) · 组织维护
 
 **50 万条翼型流场仿真数据集及存取接口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rohitroxkp7/UniFoil 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 16（+1）
 
 
 ---

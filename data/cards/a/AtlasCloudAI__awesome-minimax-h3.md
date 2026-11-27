@@ -1,6 +1,6 @@
 # AtlasCloudAI/awesome-minimax-h3
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AtlasCloudAI/awesome-minimax-h3) · 组织维护 · 中文 README
+⭐ 24 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/AtlasCloudAI/awesome-minimax-h3) · 组织维护 · 中文 README
 
 **MiniMax H3 开源生态策展清单：权重、量化、LoRA 与工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AtlasCloudAI/awesome-minimax-h3 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-27"]
     y-axis "stars" 16 --> 25
-    line [17, 20, 17, 21, 23, 24, 23, 23]
+    line [17, 20, 17, 21, 23, 24, 23, 24]
 ```
 
-2026-10-24 17 → 2026-11-26 23（+6）
+2026-10-25 17 → 2026-11-27 24（+7）
 
 
 ---

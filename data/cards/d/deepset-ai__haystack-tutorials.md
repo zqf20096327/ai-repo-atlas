@@ -45,12 +45,12 @@ deepset 维护的 Haystack 框架配套教程仓库，收录全部官方教程�
 ```mermaid
 xychart-beta
     title "deepset-ai/haystack-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 377 --> 379
     line [378, 378]
 ```
 
-2026-10-24 378 → 2026-11-26 378（+0）
+2026-10-25 378 → 2026-11-27 378（+0）
 
 
 ---

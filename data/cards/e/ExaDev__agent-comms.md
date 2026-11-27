@@ -1,6 +1,6 @@
 # ExaDev/agent-comms
 
-⭐ 40 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ExaDev/agent-comms) · [官网](https://www.npmjs.com/package/agent-comms) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ExaDev/agent-comms) · [官网](https://www.npmjs.com/package/agent-comms) · 个人维护
 
 **跨 harness 的 LLM agent 通信网格：房间、私聊与在线状态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ExaDev/agent-comms 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 33 --> 41
-    line [34, 35, 34, 36, 37, 38, 39, 40, 40]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 33 --> 42
+    line [34, 35, 34, 36, 37, 38, 39, 40, 41]
 ```
 
-2026-10-24 34 → 2026-11-26 40（+6）
+2026-10-25 34 → 2026-11-27 41（+7）
 
 
 ---

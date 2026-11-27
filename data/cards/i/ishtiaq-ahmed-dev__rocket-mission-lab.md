@@ -1,6 +1,6 @@
 # ishtiaq-ahmed-dev/rocket-mission-lab
 
-⭐ 3 · HTML · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ishtiaq-ahmed-dev/rocket-mission-lab) · 个人维护
+⭐ 3 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ishtiaq-ahmed-dev/rocket-mission-lab) · 个人维护
 
 **神经网络全程驾驶的猎鹰9级发射回收浏览器仿真实验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ishtiaq-ahmed-dev/rocket-mission-lab 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-26 3（+0）
+2026-11-21 3 → 2026-11-27 3（+0）
 
 
 ---

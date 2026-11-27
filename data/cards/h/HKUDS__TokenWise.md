@@ -1,6 +1,6 @@
 # HKUDS/TokenWise
 
-⭐ 2,292 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HKUDS/TokenWise) · 组织维护 · 中文 README
+⭐ 2,293 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HKUDS/TokenWise) · 组织维护 · 中文 README
 
 **面向 9 种编码 Agent 的上下文压缩插件，减少 token 消耗**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HKUDS/TokenWise 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 2289 --> 2293
-    line [2290, 2292]
+    title "HKUDS/TokenWise 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2289 --> 2294
+    line [2290, 2292, 2293]
 ```
 
-2026-11-25 2,290 → 2026-11-26 2,292（+2）
+2026-11-25 2,290 → 2026-11-27 2,293（+3）
 
 
 ---

@@ -40,6 +40,18 @@ GeoZL 在 OpenZL 基础上为地球观测数据添加空间预测、NoData 处�
 > L13: GeoZL extends OpenZL with codecs designed
 > L57: Install the GeoZL skill so coding agents know its graph recipes, bounded-error rules and codec internals.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "asterisk-labs/geozl 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-26 11 → 2026-11-27 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d11cb059c60d` · [字段定义](../../DATASET.md)*

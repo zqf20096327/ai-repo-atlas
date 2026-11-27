@@ -1,6 +1,6 @@
 # GMSSH/GMClaw
 
-⭐ 25 · Vue · AGPL-3.0 · 推送 2026-03-17 · [GitHub](https://github.com/GMSSH/GMClaw) · [官网](https://www.gmssh.com/?ks=Github) · 组织维护 · 中文 README
+⭐ 25 · Vue · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/GMSSH/GMClaw) · [官网](https://www.gmssh.com/?ks=Github) · 组织维护 · 中文 README
 
 **个人 AI 助手/Agent 的可视化管理面板，基于 GMSSH 生态**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GMSSH/GMClaw 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-24 25 → 2026-11-26 25（+0）
+2026-10-25 25 → 2026-11-27 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # devotuoma/Mall-Customers-Segmentation
 
-⭐ 14 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/devotuoma/Mall-Customers-Segmentation) · 个人维护
+⭐ 14 · Jupyter Notebook · 推送 2026-11-26 · [GitHub](https://github.com/devotuoma/Mall-Customers-Segmentation) · 个人维护
 
 **K-means 客户分群教学项目：对商场客户数据聚类**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "devotuoma/Mall-Customers-Segmentation 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 14（+1）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PratikRai0101/tally
 
-⭐ 4 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PratikRai0101/tally) · [官网](https://tally-site.vercel.app) · 个人维护
+⭐ 5 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PratikRai0101/tally) · [官网](https://tally-site.vercel.app) · 个人维护
 
 **macOS 菜单栏应用：汇总 AI 编码订阅的额度、重置与花费**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PratikRai0101/tally 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-25 4 → 2026-11-26 4（+0）
+2026-11-25 4 → 2026-11-27 5（+1）
 
 
 ---

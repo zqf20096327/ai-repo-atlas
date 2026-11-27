@@ -1,6 +1,6 @@
 # LeoYeAI/openclaw-guardian
 
-⭐ 570 · Shell · MIT · 推送 2026-07-14 · [GitHub](https://github.com/LeoYeAI/openclaw-guardian) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 571 · Shell · MIT · 推送 2026-07-14 · [GitHub](https://github.com/LeoYeAI/openclaw-guardian) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **OpenClaw Gateway 的看护脚本：监控健康并自愈回滚**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeoYeAI/openclaw-guardian 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 566 --> 571
-    line [568, 567, 568, 567, 569, 570, 570]
+    title "LeoYeAI/openclaw-guardian 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 566 --> 572
+    line [567, 568, 567, 569, 570, 571]
 ```
 
-2026-10-24 568 → 2026-11-26 570（+2）
+2026-10-25 567 → 2026-11-27 571（+4）
 
 
 ---

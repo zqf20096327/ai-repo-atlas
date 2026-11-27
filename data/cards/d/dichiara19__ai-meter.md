@@ -1,6 +1,6 @@
 # dichiara19/ai-meter
 
-⭐ 5 · C# · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dichiara19/ai-meter) · 个人维护
+⭐ 5 · C# · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dichiara19/ai-meter) · 个人维护
 
 **在 Windows 11 任务栏显示各 AI 服务用量与限额的监控工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dichiara19/ai-meter 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-27"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-08 4 → 2026-11-26 5（+1）
+2026-11-08 4 → 2026-11-27 5（+1）
 
 
 ---

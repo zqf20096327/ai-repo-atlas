@@ -45,13 +45,13 @@ AgentMail（面向 AI agent 的邮件 API）官方维护的示例仓库：提供
 
 ```mermaid
 xychart-beta
-    title "agentmail-to/agentmail-examples 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
+    title "agentmail-to/agentmail-examples 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 42 --> 47
-    line [43, 44, 45, 46]
+    line [43, 44, 45, 46, 46]
 ```
 
-2026-10-24 43 → 2026-11-26 46（+3）
+2026-10-25 43 → 2026-11-27 46（+3）
 
 
 ---

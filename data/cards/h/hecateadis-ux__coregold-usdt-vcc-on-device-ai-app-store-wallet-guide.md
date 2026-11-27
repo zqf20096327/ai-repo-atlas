@@ -1,6 +1,6 @@
 # hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide
 
-⭐ 48 · 推送 2026-11-20 · [GitHub](https://github.com/hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 63 · 推送 2026-11-20 · [GitHub](https://github.com/hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向移动应用付费用户的 CoreGold 虚拟卡绑卡与钱包设置指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 21 --> 50
-    line [23, 48]
+    title "hecateadis-ux/coregold-usdt-vcc-on-device-ai-app-store-wallet-guide 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 67
+    line [23, 48, 63]
 ```
 
-2026-11-25 23 → 2026-11-26 48（+25）
+2026-11-25 23 → 2026-11-27 63（+40）
 
 
 ---

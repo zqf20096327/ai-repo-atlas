@@ -1,6 +1,6 @@
 # YichengYang-Ethan/Market-Bubble-Index-Dashboard
 
-⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) · [官网](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) · [官网](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) · 个人维护
 
 **给投资者的市场泡沫风险仪表盘：7 指标综合指数与回撤概率**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YichengYang-Ethan/Market-Bubble-Index-Dashboard 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-26"]
+    x-axis ["2026-11-02", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-26 10（+0）
+2026-11-02 10 → 2026-11-27 10（+0）
 
 
 ---

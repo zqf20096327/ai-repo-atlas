@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jianzhnie/awesome-instruction-datasets 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    title "jianzhnie/awesome-instruction-datasets 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27"]
     y-axis "stars" 749 --> 755
-    line [750, 752, 753, 754]
+    line [750, 752, 753, 754, 754]
 ```
 
-2026-10-24 750 → 2026-11-26 754（+4）
+2026-10-25 750 → 2026-11-27 754（+4）
 
 
 ---

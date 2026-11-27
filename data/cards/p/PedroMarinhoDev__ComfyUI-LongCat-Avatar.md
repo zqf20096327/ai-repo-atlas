@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-LongCat-Avatar
 
-⭐ 22 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-LongCat-Avatar) · [官网](https://huggingface.co/PedroMarinhoDev/LongCat-Video-Avatar-1.6-ComfyUI) · 个人维护
+⭐ 24 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-LongCat-Avatar) · [官网](https://huggingface.co/PedroMarinhoDev/LongCat-Video-Avatar-1.6-ComfyUI) · 个人维护
 
 **在 ComfyUI 原生运行 LongCat 数字人视频生成的节点包**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点，接入美团 LongCat-Video-Avatar 1.6 模型：从起�
 ```mermaid
 xychart-beta
     title "PedroMarinhoDev/ComfyUI-LongCat-Avatar 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 9 --> 23
-    line [10, 16, 18, 22, 22]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 9 --> 25
+    line [10, 16, 18, 22, 24]
 ```
 
-2026-11-20 10 → 2026-11-26 22（+12）
+2026-11-20 10 → 2026-11-27 24（+14）
 
 
 ---

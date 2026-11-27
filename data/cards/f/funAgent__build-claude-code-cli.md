@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "funAgent/build-claude-code-cli 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "funAgent/build-claude-code-cli 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 62 --> 65
-    line [64, 63]
+    line [64, 63, 63]
 ```
 
-2026-10-24 64 → 2026-11-26 63（-1）
+2026-10-25 64 → 2026-11-27 63（-1）
 
 
 ---

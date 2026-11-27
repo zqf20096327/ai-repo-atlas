@@ -1,6 +1,6 @@
 # skyer-now/carlos-flow
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/skyer-now/carlos-flow) · [官网](https://github.com/skyer-now/carlos-flow#readme) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/skyer-now/carlos-flow) · [官网](https://github.com/skyer-now/carlos-flow#readme) · 个人维护 · 中文 README
 
 **为 AI 编码 Agent 提供机械门禁的工作流工具，约束执行范围与验证**
 
@@ -39,6 +39,18 @@
 
 > L22: **Carlos 工作流是面向 Windows 的 AI 编程卫士**，为现有 AI 编程工具提供**“机械防撞护栏”**、**“通信优化保护”**与**“通俗智能向导”**。
 > L92: 直接使用标准 MCP 协议，通过对话让 AI 助手调用门禁工具链。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "skyer-now/carlos-flow 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

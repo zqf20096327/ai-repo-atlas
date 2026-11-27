@@ -1,10 +1,10 @@
 # best-of-ai/best-of-ai
 
-⭐ 783 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/best-of-ai/best-of-ai) · [官网](https://bestofai.io) · 组织维护
+⭐ 785 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/best-of-ai/best-of-ai) · [官网](https://bestofai.io) · 组织维护
 
-**AI 工具社区目录：143 类收录 2209+ 工具供选型查找**
+**面向找工具用户的 AI 工具策展目录（143 类 2213+ 条）**
 
-一个社区维护的 AI 工具目录，覆盖 143 个类别、跟踪 2209+ 个工具，按质量、创新与实用性筛选并排名，收录条目附评级标签与免费/付费标识。README 展示前 108 名排行榜及 Productivity、Chatbots、Academia、Audio 等类别的条目摘录；完整交互式目录（搜索、过滤、详细评测）托管在 bestofai.io。社区可提交工具。以清单形式提供，不含安装或运行步骤。
+由社区驱动的 AI 工具策展目录，收录 143 个类别、2213+ 款工具，README 中提供按质量排名的 Top 107 榜单及 Productivity、Chatbots、Academia、Audio、Automation、Customer Support、Data、Food、Gaming、Graphic Design 等分类样例，每条附简短说明与定价模式标注。完整交互式目录（搜索、过滤、详细评测）托管在 bestofai.io，接受工具提交并按规则定期更新；README 本身不含安装或运行内容。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 143 个类别、跟踪 2209+ 个 AI 工具
-- 条目经人工筛选与排名并标注定价模式
-- 按职业（设计师/开发者/营销）组织工具集
-- 提供 bestofai.io 交互式目录与工具提交通道
+- 143 个类别、2213+ 款工具的策展目录
+- Top 107 排名榜单附定位标签与定价模式
+- 按职业提供精选工具栈（设计/开发/营销等）
+- 多语言 README 与完整站内搜索/过滤入口
 
 ## 适用场景
 
-- 按类别查找特定用途的 AI 工具
-- 为设计师/开发者等职业找配套工具栈
+- 为项目寻找合适的 AI 编码或生产力工具
+- 按职业浏览精选 AI 工具组合
 - 提交自己的 AI 工具进入目录
 
 ## 场景标签
@@ -37,21 +37,21 @@
 
 ## 证据(README 行号)
 
-> L16: **Best of AI** is a curated, community-driven directory of the best AI tools across 143 categories. We track 2209+ 
-> L20: - **Quality over quantity** — every tool is reviewed and ranked, not just scraped from a list
+> L16: **Best of AI** is a curated, community-driven directory of the best AI tools across 143 categories. We track 2213+ 
+> L26: Visit **bestofai.io** for the full interactive directory with search, filters, and detailed reviews.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "best-of-ai/best-of-ai 星数(近 22 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 741 --> 786
-    line [745, 744, 747, 748, 747, 745, 754, 756, 757, 758, 759, 760, 762, 763, 765, 768, 770, 771, 774, 775, 777, 783]
+    title "best-of-ai/best-of-ai 星数(近 23 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 740 --> 789
+    line [745, 744, 747, 748, 747, 745, 754, 756, 757, 758, 759, 760, 762, 763, 765, 768, 770, 771, 774, 775, 777, 783, 785]
 ```
 
-2026-10-24 745 → 2026-11-26 783（+38）
+2026-10-25 745 → 2026-11-27 785（+40）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `df44a7dcde61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `29460f6356d7` · [字段定义](../../DATASET.md)*

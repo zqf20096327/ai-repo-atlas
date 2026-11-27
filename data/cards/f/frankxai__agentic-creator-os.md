@@ -1,6 +1,6 @@
 # frankxai/agentic-creator-os
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/frankxai/agentic-creator-os) · [官网](https://frankx.ai/products/agentic-creator-os) · 个人维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/frankxai/agentic-creator-os) · [官网](https://frankx.ai/products/agentic-creator-os) · 个人维护
 
 **面向创作者工作流的可复用 AI 技能/命令/代理目录与本地安装工具**
 
@@ -46,12 +46,12 @@ ACOS 是一个可本地安装的开源 AI 工作流仓库：包含 176 个技能
 ```mermaid
 xychart-beta
     title "frankxai/agentic-creator-os 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14]
 ```
 
-2026-10-24 12 → 2026-11-26 13（+1）
+2026-10-25 12 → 2026-11-27 14（+2）
 
 
 ---

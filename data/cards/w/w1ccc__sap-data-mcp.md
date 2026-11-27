@@ -1,6 +1,6 @@
 # w1ccc/sap-data-mcp
 
-⭐ 151 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/w1ccc/sap-data-mcp) · 个人维护 · 中文 README
+⭐ 174 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/w1ccc/sap-data-mcp) · 个人维护 · 中文 README
 
 **给 AI 助手开只读账号查 SAP S/4HANA 的 MCP 服务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "w1ccc/sap-data-mcp 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 12 --> 163
-    line [24, 92, 151]
+    title "w1ccc/sap-data-mcp 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 189
+    line [24, 92, 151, 174]
 ```
 
-2026-11-23 24 → 2026-11-26 151（+127）
+2026-11-23 24 → 2026-11-27 174（+150）
 
 
 ---

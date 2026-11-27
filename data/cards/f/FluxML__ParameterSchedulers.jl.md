@@ -40,6 +40,18 @@ ParameterSchedulers.jl 提供 ML 常见超参数调度器：实现 Step、Exp、
 > L6: ParameterSchedulers.jl provides common machine learning (ML) schedulers for hyper-parameters. Though this package is
 > L16: This is a table of the common schedules implemented, but ParameterSchedulers provides utilities for creating more e
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FluxML/ParameterSchedulers.jl 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-11-26 41 → 2026-11-27 41（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8586b77d829a` · [字段定义](../../DATASET.md)*

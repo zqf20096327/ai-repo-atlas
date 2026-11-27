@@ -1,6 +1,6 @@
 # redouble-ai/nucleo
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/redouble-ai/nucleo) · [官网](https://docs.redouble.ai) · 组织维护
+⭐ 18 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/redouble-ai/nucleo) · [官网](https://docs.redouble.ai) · 组织维护
 
 **嵌入 Java 应用进程内运行 AI agent 的运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "redouble-ai/nucleo 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

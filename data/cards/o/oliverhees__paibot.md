@@ -1,6 +1,6 @@
 # oliverhees/paibot
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/oliverhees/paibot) · [官网](https://paibot.de) · 个人维护
+⭐ 18 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/oliverhees/paibot) · [官网](https://paibot.de) · 个人维护
 
 **自托管个人 KI-Agent 团队：本地/EU 模型+数据脱敏闸门**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "oliverhees/paibot 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 6 --> 18
-    line [7, 10, 12, 13, 14, 15, 17]
+    title "oliverhees/paibot 星数(近 8 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 19
+    line [7, 10, 12, 13, 14, 15, 17, 18]
 ```
 
-2026-11-10 7 → 2026-11-26 17（+10）
+2026-11-10 7 → 2026-11-27 18（+11）
 
 
 ---

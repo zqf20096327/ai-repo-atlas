@@ -1,6 +1,6 @@
 # apoorwa-induwara/code-and-carousel
 
-⭐ 56 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/apoorwa-induwara/code-and-carousel) · 个人维护
+⭐ 56 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/apoorwa-induwara/code-and-carousel) · 个人维护
 
 **面向 IT 从业者的实践技能学习平台，含 AI 虚拟学员陪练**
 
@@ -45,12 +45,12 @@ CogniForge 是一个 Web 端技能训练平台，面向 IT 从业者、自学者
 ```mermaid
 xychart-beta
     title "apoorwa-induwara/code-and-carousel 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-24 56 → 2026-11-26 56（+0）
+2026-10-25 56 → 2026-11-27 56（+0）
 
 
 ---

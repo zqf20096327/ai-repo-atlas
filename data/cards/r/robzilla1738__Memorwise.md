@@ -1,6 +1,6 @@
 # robzilla1738/Memorwise
 
-⭐ 48 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/robzilla1738/Memorwise) · [官网](https://memorwise.com) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-06-09 · [GitHub](https://github.com/robzilla1738/Memorwise) · [官网](https://memorwise.com) · 个人维护
 
 **本地优先的开源 NotebookLM 替代品：用任意 LLM 对话文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "robzilla1738/Memorwise 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-15", "2026-11-26"]
-    y-axis "stars" 45 --> 49
-    line [46, 47, 48, 48]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-15", "2026-11-27"]
+    y-axis "stars" 45 --> 50
+    line [46, 47, 48, 49]
 ```
 
-2026-10-24 46 → 2026-11-26 48（+2）
+2026-10-25 46 → 2026-11-27 49（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # YanYaoyuan/omniTerm
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/YanYaoyuan/omniTerm) · 个人维护 · 中文 README
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/YanYaoyuan/omniTerm) · 个人维护 · 中文 README
 
 **面向开发者：集成 Codex Agent 的跨平台终端工作台**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，把本地 shell 标签、分屏、SSH、图形化 SFTP �
 ```mermaid
 xychart-beta
     title "YanYaoyuan/omniTerm 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-31 3 → 2026-11-26 3（+0）
+2026-10-31 3 → 2026-11-27 3（+0）
 
 
 ---

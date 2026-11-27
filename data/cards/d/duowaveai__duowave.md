@@ -1,6 +1,6 @@
 # duowaveai/duowave
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/duowaveai/duowave) · [官网](https://duowave.ai) · 组织维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/duowaveai/duowave) · [官网](https://duowave.ai) · 组织维护
 
 **为 root 过的 Yandex 音箱与电脑提供开源语音 AI 助手**
 
@@ -41,6 +41,18 @@
 > L11:  An open-source voice assistant for a rooted Yandex Station and your computer: any AI model, your own voice, apps
 > L25: - **Любая модель.** Claude, ChatGPT, Gemini, DeepSeek, YandexGPT и другие: по своему ключу, через OpenRouter или по
 > L31: - **Приложения голосом.** Скажите «Алиса, сделай виджет с курсом биткоина», и он появится на столе. Готовые
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "duowaveai/duowave 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-26 4 → 2026-11-27 5（+1）
 
 
 ---

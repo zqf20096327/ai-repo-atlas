@@ -1,6 +1,6 @@
 # Vincentqyw/image-matching-webui
 
-⭐ 1,313 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Vincentqyw/image-matching-webui) · [官网](https://huggingface.co/spaces/Realcat/image-matching-webui) · 个人维护
+⭐ 1,314 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Vincentqyw/image-matching-webui) · [官网](https://huggingface.co/spaces/Realcat/image-matching-webui) · 个人维护
 
 **给研究者的多算法图像关键点匹配 WebUI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Vincentqyw/image-matching-webui 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-26"]
+    title "Vincentqyw/image-matching-webui 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1311 --> 1315
-    line [1313, 1314, 1313, 1314, 1313, 1312, 1314, 1313, 1312, 1313]
+    line [1313, 1314, 1313, 1314, 1313, 1312, 1314, 1313, 1312, 1313, 1314]
 ```
 
-2026-10-24 1,313 → 2026-11-26 1,313（+0）
+2026-10-25 1,313 → 2026-11-27 1,314（+1）
 
 
 ---

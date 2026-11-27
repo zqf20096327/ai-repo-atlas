@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "irthomasthomas/llm-consortium 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "irthomasthomas/llm-consortium 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 408 --> 411
-    line [409, 410]
+    line [409, 410, 410]
 ```
 
-2026-10-24 409 → 2026-11-26 410（+1）
+2026-10-25 409 → 2026-11-27 410（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NovaShang/BimDown
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NovaShang/BimDown) · [官网](https://bim.jouledown.com) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NovaShang/BimDown) · [官网](https://bim.jouledown.com) · 个人维护 · 中文 README
 
 **给建筑师与 AI agent 用的纯文本 BIM 文件格式及配套工具**
 
@@ -47,12 +47,12 @@ BimDown 定义一种开放纯文本 BIM 格式：一栋建筑是按楼层组织�
 ```mermaid
 xychart-beta
     title "NovaShang/BimDown 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-11-21 18 → 2026-11-26 18（+0）
+2026-11-21 18 → 2026-11-27 18（+0）
 
 
 ---

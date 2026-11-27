@@ -1,6 +1,6 @@
 # applypack/applypack
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/applypack/applypack) · [官网](https://applypack.dev) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/applypack/applypack) · [官网](https://applypack.dev) · 个人维护
 
 **自托管的求职全流程 AI 控制台：找岗位、验真伪、改简历、写信、跟踪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "applypack/applypack 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 28 --> 35
-    line [29, 30, 29, 32, 33, 34, 34]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 28 --> 36
+    line [29, 30, 29, 32, 33, 34, 35]
 ```
 
-2026-10-24 29 → 2026-11-26 34（+5）
+2026-10-25 29 → 2026-11-27 35（+6）
 
 
 ---

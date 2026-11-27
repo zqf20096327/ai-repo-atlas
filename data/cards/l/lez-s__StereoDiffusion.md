@@ -44,12 +44,12 @@ StereoDiffusion 是一篇 CVPR 论文的官方实现：在原始 Stable Diffusio
 ```mermaid
 xychart-beta
     title "lez-s/StereoDiffusion 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-24 98 → 2026-11-26 98（+0）
+2026-10-25 98 → 2026-11-27 98（+0）
 
 
 ---

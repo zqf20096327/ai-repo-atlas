@@ -1,6 +1,6 @@
 # DumiFlex/ComfyUI-Wildcard-Pipeline
 
-⭐ 15 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/DumiFlex/ComfyUI-Wildcard-Pipeline) · [官网](https://wp.dumiflex.dev) · 组织维护
+⭐ 15 · TypeScript · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/DumiFlex/ComfyUI-Wildcard-Pipeline) · [官网](https://wp.dumiflex.dev) · 组织维护
 
 **ComfyUI 模块化提示词生成扩展：按上下文逐步构建随机提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DumiFlex/ComfyUI-Wildcard-Pipeline 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-27"]
     y-axis "stars" 11 --> 16
     line [12, 13, 12, 13, 14, 15, 15]
 ```
 
-2026-10-24 12 → 2026-11-26 15（+3）
+2026-10-25 12 → 2026-11-27 15（+3）
 
 
 ---

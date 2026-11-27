@@ -1,6 +1,6 @@
 # shawnxie94/lumina
 
-⭐ 101 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shawnxie94/lumina) · [官网](https://lumina.shawnxie.top) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/shawnxie94/lumina) · [官网](https://lumina.shawnxie.top) · 个人维护 · 中文 README
 
 **个人阅读与信息管理工作台：网页采集+AI 摘要+知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shawnxie94/lumina 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 99 --> 102
-    line [100, 101, 101]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 99 --> 103
+    line [100, 101, 102]
 ```
 
-2026-10-24 100 → 2026-11-26 101（+1）
+2026-10-25 100 → 2026-11-27 102（+2）
 
 
 ---

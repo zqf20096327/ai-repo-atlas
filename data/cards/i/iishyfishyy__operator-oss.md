@@ -1,6 +1,6 @@
 # iishyfishyy/operator-oss
 
-⭐ 211 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/iishyfishyy/operator-oss) · [官网](https://getoperator.dev) · 个人维护
+⭐ 211 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/iishyfishyy/operator-oss) · [官网](https://getoperator.dev) · 个人维护
 
 **一个网页控制台，并行管理多项目 Claude Code/Codex 会话**
 
@@ -45,13 +45,13 @@ Operator 是基于 Web 的编码 agent 编排工作台：每个任务在隔离�
 
 ```mermaid
 xychart-beta
-    title "iishyfishyy/operator-oss 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    title "iishyfishyy/operator-oss 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
     y-axis "stars" 206 --> 212
-    line [208, 207, 208, 207, 210, 211, 211]
+    line [207, 208, 207, 210, 211, 211]
 ```
 
-2026-10-24 208 → 2026-11-26 211（+3）
+2026-10-25 207 → 2026-11-27 211（+4）
 
 
 ---

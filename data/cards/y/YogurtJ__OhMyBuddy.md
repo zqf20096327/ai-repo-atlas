@@ -1,6 +1,6 @@
 # YogurtJ/OhMyBuddy
 
-⭐ 83 · JavaScript · ISC · 推送 2026-11-12 · [GitHub](https://github.com/YogurtJ/OhMyBuddy) · [官网](https://github.com/YogurtJ/OhMyBuddy#readme) · 个人维护 · 中文 README
+⭐ 83 · JavaScript · ISC · 推送 2026-11-26 · [GitHub](https://github.com/YogurtJ/OhMyBuddy) · [官网](https://github.com/YogurtJ/OhMyBuddy#readme) · 个人维护 · 中文 README
 
 **自托管个人 AI 助理：带可见长期记忆，浏览器/手机/微信可用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YogurtJ/OhMyBuddy 星数(近 11 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-27"]
     y-axis "stars" 59 --> 85
     line [61, 62, 66, 68, 76, 81, 82, 81, 82, 83, 83]
 ```
 
-2026-10-30 61 → 2026-11-26 83（+22）
+2026-10-30 61 → 2026-11-27 83（+22）
 
 
 ---

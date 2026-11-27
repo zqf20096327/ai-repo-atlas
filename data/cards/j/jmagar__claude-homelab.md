@@ -1,6 +1,6 @@
 # jmagar/claude-homelab
 
-⭐ 88 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/jmagar/claude-homelab) · 个人维护
+⭐ 89 · Shell · MIT · 推送 2026-09-30 · [GitHub](https://github.com/jmagar/claude-homelab) · 个人维护
 
 **面向家庭实验室的 Claude Code/Codex/Gemini 插件与技能仓库**
 
@@ -46,12 +46,12 @@ homelab-core 插件的 monorepo，以 Claude Code 插件形式（并镜像到 Co
 ```mermaid
 xychart-beta
     title "jmagar/claude-homelab 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
-    y-axis "stars" 85 --> 89
-    line [86, 87, 86, 87, 88, 88]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
+    y-axis "stars" 85 --> 90
+    line [86, 87, 86, 87, 88, 89]
 ```
 
-2026-10-24 86 → 2026-11-26 88（+2）
+2026-10-25 86 → 2026-11-27 89（+3）
 
 
 ---

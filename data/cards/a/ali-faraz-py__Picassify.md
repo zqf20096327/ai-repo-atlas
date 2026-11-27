@@ -1,6 +1,6 @@
 # ali-faraz-py/Picassify
 
-⭐ 30 · Python · 推送 2026-09-17 · [GitHub](https://github.com/ali-faraz-py/Picassify) · [官网](https://picassify-art.streamlit.app/) · 个人维护
+⭐ 31 · Python · 推送 2026-09-17 · [GitHub](https://github.com/ali-faraz-py/Picassify) · [官网](https://picassify-art.streamlit.app/) · 个人维护
 
 **给普通用户的神经风格迁移图像生成 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ali-faraz-py/Picassify 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-24 30 → 2026-11-26 30（+0）
+2026-10-25 30 → 2026-11-27 31（+1）
 
 
 ---

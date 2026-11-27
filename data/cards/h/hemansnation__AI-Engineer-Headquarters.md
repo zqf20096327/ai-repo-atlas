@@ -1,6 +1,6 @@
 # hemansnation/AI-Engineer-Headquarters
 
-⭐ 3,782 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/hemansnation/AI-Engineer-Headquarters) · [官网](https://www.masterdexter.io/ai-engineer-hq) · 个人维护
+⭐ 3,783 · Jupyter Notebook · 推送 2026-10-28 · [GitHub](https://github.com/hemansnation/AI-Engineer-Headquarters) · [官网](https://www.masterdexter.io/ai-engineer-hq) · 个人维护
 
 **面向数据与 AI 工程师的学习路线与训练资源库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "hemansnation/AI-Engineer-Headquarters 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 3774 --> 3783
-    line [3775, 3776, 3777, 3775, 3776, 3775, 3777, 3776, 3780, 3779, 3780, 3781, 3782, 3782]
+    title "hemansnation/AI-Engineer-Headquarters 星数(近 13 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 3774 --> 3784
+    line [3776, 3777, 3775, 3776, 3775, 3777, 3776, 3780, 3779, 3780, 3781, 3782, 3783]
 ```
 
-2026-10-24 3,775 → 2026-11-26 3,782（+7）
+2026-10-25 3,776 → 2026-11-27 3,783（+7）
 
 
 ---

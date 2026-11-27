@@ -45,12 +45,12 @@ sd.go 是 stable-diffusion.cpp（基于 ggml）的纯 Go（无 cgo）封装库�
 ```mermaid
 xychart-beta
     title "seasonjs/stable-diffusion 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
     y-axis "stars" 71 --> 74
     line [73, 72, 72]
 ```
 
-2026-10-24 73 → 2026-11-26 72（-1）
+2026-10-25 73 → 2026-11-27 72（-1）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Abhishek-Rnjn/evalsi 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    title "Abhishek-Rnjn/evalsi 星数(近 3 点)"
+    x-axis ["2026-11-14", "2026-11-26", "2026-11-27"]
     y-axis "stars" 3 --> 11
-    line [4, 10]
+    line [4, 10, 10]
 ```
 
-2026-11-14 4 → 2026-11-26 10（+6）
+2026-11-14 4 → 2026-11-27 10（+6）
 
 
 ---

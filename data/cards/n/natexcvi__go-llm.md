@@ -41,6 +41,18 @@
 > L89: |models|Streaming OpenAI Chat Completions, OpenAI Responses, Anthropic Messages, and model fallback.|
 > L91: |integrations|MCP tool discovery and execution, hosted service adapters, and search providers for research agents.|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "natexcvi/go-llm 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 157 --> 159
+    line [158, 158]
+```
+
+2026-11-26 158 → 2026-11-27 158（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5cff0ca12928` · [字段定义](../../DATASET.md)*

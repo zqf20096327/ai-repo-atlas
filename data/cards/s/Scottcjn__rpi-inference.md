@@ -1,6 +1,6 @@
 # Scottcjn/rpi-inference
 
-⭐ 39 · C · AGPL-3.0 · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/rpi-inference) · [官网](https://rustchain.org) · 个人维护
+⭐ 38 · C · AGPL-3.0 · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/rpi-inference) · [官网](https://rustchain.org) · 个人维护
 
 **零乘法文本生成引擎：用置换表查表替代矩阵乘法，可做LLM投机草稿**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Scottcjn/rpi-inference 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 38 --> 41
-    line [40, 39, 39]
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 37 --> 41
+    line [40, 39, 38]
 ```
 
-2026-10-29 40 → 2026-11-26 39（-1）
+2026-10-29 40 → 2026-11-27 38（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # rome-os/rome-apps
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/rome-os/rome-apps) · [官网](https://romeos.cc) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rome-os/rome-apps) · [官网](https://romeos.cc) · 组织维护
 
 **面向 Rome 代理 OS 的一方可安装 AI 应用集合（monorepo）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rome-os/rome-apps 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-26"]
+    x-axis ["2026-11-12", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-12 10 → 2026-11-26 10（+0）
+2026-11-12 10 → 2026-11-27 10（+0）
 
 
 ---

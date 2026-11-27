@@ -1,6 +1,6 @@
 # voyager67/Reasoningai.studio
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/voyager67/Reasoningai.studio) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/voyager67/Reasoningai.studio) · 个人维护
 
 **面向 AI agent 与科研人员的循证研究技能包：64 个技能覆盖科研全流程**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "voyager67/Reasoningai.studio 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-26 3（+0）
+2026-11-18 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BioinfoMachineLearning/FlowDock
 
-⭐ 147 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/BioinfoMachineLearning/FlowDock) · 组织维护
+⭐ 148 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/BioinfoMachineLearning/FlowDock) · 组织维护
 
 **几何流匹配模型：生成蛋白质-配体复合物结构并预测亲和力**
 
@@ -45,12 +45,12 @@ ISMB 2025 论文 FlowDock 的官方 PyTorch/Lightning/Hydra 代码库。模型�
 ```mermaid
 xychart-beta
     title "BioinfoMachineLearning/FlowDock 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 145 --> 148
-    line [146, 147, 147]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 145 --> 149
+    line [146, 147, 148]
 ```
 
-2026-10-24 146 → 2026-11-26 147（+1）
+2026-10-25 146 → 2026-11-27 148（+2）
 
 
 ---

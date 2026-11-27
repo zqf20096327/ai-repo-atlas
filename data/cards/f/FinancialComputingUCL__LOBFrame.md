@@ -1,6 +1,6 @@
 # FinancialComputingUCL/LOBFrame
 
-⭐ 265 · Python · 推送 2026-11-17 · [GitHub](https://github.com/FinancialComputingUCL/LOBFrame) · 组织维护
+⭐ 266 · Python · 推送 2026-11-17 · [GitHub](https://github.com/FinancialComputingUCL/LOBFrame) · 组织维护
 
 **限价订单簿（LOB）深度学习预测的实验复现框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FinancialComputingUCL/LOBFrame 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 260 --> 266
-    line [261, 263, 264, 265, 265]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 260 --> 267
+    line [261, 263, 264, 265, 266]
 ```
 
-2026-11-18 261 → 2026-11-26 265（+4）
+2026-11-18 261 → 2026-11-27 266（+5）
 
 
 ---

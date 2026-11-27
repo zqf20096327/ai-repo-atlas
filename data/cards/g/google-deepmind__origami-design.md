@@ -1,6 +1,6 @@
 # google-deepmind/origami-design
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-deepmind/origami-design) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/google-deepmind/origami-design) · 组织维护
 
 **把 3D 树状骨架转为可平折折纸折痕图与 3D 模型的 Python 管线**
 
@@ -40,6 +40,18 @@ COrigami 论文的配套 Python 库与 CLI：将度量 3D 树骨架经 prepare/p
 > L51: `bp_pipeline` (`bp`) is a standalone Python library and CLI accompanying the
 > L81: 6. **3D Origami Shaping, Pose Recipes & Bundled Agent Design Skills**:
 > L87:  (`bp.build_folded_mesh_3d()`), and portable AI agent skills under
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-deepmind/origami-design 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-27 11（+1）
 
 
 ---

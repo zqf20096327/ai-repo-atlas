@@ -1,6 +1,6 @@
 # Keutonim/VulnDog
 
-⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Keutonim/VulnDog) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Keutonim/VulnDog) · 个人维护
 
 **给漏洞猎手的本地被动代理：标记流量中值得追查的请求**
 
@@ -40,6 +40,18 @@
 > L13: it, and scores each request against an offline knowledge base of 456k CVE/CWE/exploit
 > L18: Zero dependencies, stdlib Python, local Ollama embeddings for semantic matching,
 > L71:  There is no chat completion, no prompt, no per-request LLM verdict anywhere in
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Keutonim/VulnDog 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 13
+    line [8, 12]
+```
+
+2026-11-26 8 → 2026-11-27 12（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/CL-bench
 
-⭐ 596 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/Tencent-Hunyuan/CL-bench) · 组织维护 · 中文 README
+⭐ 597 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/Tencent-Hunyuan/CL-bench) · 组织维护 · 中文 README
 
 **腾讯混元团队的语言模型上下文学习能力评测基准集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/CL-bench 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 588 --> 597
-    line [589, 590, 589, 593, 594, 595, 596, 596]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 588 --> 598
+    line [589, 590, 589, 593, 594, 595, 596, 597]
 ```
 
-2026-10-24 589 → 2026-11-26 596（+7）
+2026-10-25 589 → 2026-11-27 597（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # YoMosa2009/Axiom
 
-⭐ 28 · C# · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/YoMosa2009/Axiom) · [官网](https://yomosa2009.github.io/Axiom/) · 个人维护
+⭐ 28 · C# · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/YoMosa2009/Axiom) · [官网](https://yomosa2009.github.io/Axiom/) · 个人维护
 
 **Windows 本地优先 AI 助手与多智能体工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YoMosa2009/Axiom 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-24 28 → 2026-11-26 28（+0）
+2026-10-25 28 → 2026-11-27 28（+0）
 
 
 ---

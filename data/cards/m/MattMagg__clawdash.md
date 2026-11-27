@@ -1,6 +1,6 @@
 # MattMagg/clawdash
 
-⭐ 13 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/MattMagg/clawdash) · [官网](https://github.com/openclaw) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-05-23 · [GitHub](https://github.com/MattMagg/clawdash) · [官网](https://github.com/openclaw) · 个人维护
 
 **OpenClaw 的实时控制面板：监控与管理 AI agent 与网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MattMagg/clawdash 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # catzoidhub/DevCatz
 
-⭐ 23 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/catzoidhub/DevCatz) · [官网](https://catzoid.com/devcatz) · 个人维护
+⭐ 25 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/catzoidhub/DevCatz) · [官网](https://catzoid.com/devcatz) · 个人维护
 
 **macOS/Windows/Linux 本地开发环境应用：自动识别技术栈并一站管理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "catzoidhub/DevCatz 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 10 --> 24
-    line [11, 14, 15, 17, 20, 22, 23]
+    title "catzoidhub/DevCatz 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 26
+    line [11, 14, 15, 17, 20, 22, 23, 25]
 ```
 
-2026-11-08 11 → 2026-11-26 23（+12）
+2026-11-08 11 → 2026-11-27 25（+14）
 
 
 ---

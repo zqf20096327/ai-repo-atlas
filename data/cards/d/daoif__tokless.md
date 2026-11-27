@@ -1,6 +1,6 @@
 # daoif/tokless
 
-⭐ 61 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/daoif/tokless) · [官网](https://www.npmjs.com/package/tokless) · 个人维护 · 中文 README
+⭐ 67 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/daoif/tokless) · [官网](https://www.npmjs.com/package/tokless) · 个人维护 · 中文 README
 
 **给 AI 编程 Agent 削减盲目读取与 Token 消耗的省流套件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "daoif/tokless 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 65
-    line [13, 27, 41, 61]
+    title "daoif/tokless 星数(近 5 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 72
+    line [13, 27, 41, 61, 67]
 ```
 
-2026-11-22 13 → 2026-11-26 61（+48）
+2026-11-22 13 → 2026-11-27 67（+54）
 
 
 ---

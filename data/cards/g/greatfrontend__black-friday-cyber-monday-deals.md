@@ -1,6 +1,6 @@
 # greatfrontend/black-friday-cyber-monday-deals
 
-⭐ 209 · 推送 2026-11-24 · [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) · 组织维护
+⭐ 218 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/greatfrontend/black-friday-cyber-monday-deals) · [官网](ctrlfriday.com) · 组织维护
 
 **面向开发者与设计师的黑五折扣清单汇总**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "greatfrontend/black-friday-cyber-monday-deals 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 174 --> 212
-    line [177, 178, 179, 178, 184, 185, 186, 187, 209]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 174 --> 222
+    line [178, 179, 178, 184, 185, 186, 187, 209, 218]
 ```
 
-2026-10-24 177 → 2026-11-26 209（+32）
+2026-10-25 178 → 2026-11-27 218（+40）
 
 
 ---

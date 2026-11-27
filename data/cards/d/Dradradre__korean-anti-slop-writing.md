@@ -41,6 +41,18 @@
 > L10: 보고서, 업무 메일, 고객 메신저 회신, 화면 문구, 탐지 룰 설명, 블로그 글을 다룹니다. Claude Code와 Codex에서 스킬로 씁니다. 검사 스크립트만 따로 돌려도 됩니다.
 > L39: python scripts/lint_korean_slop.py 보고서.md
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dradradre/korean-anti-slop-writing 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `98e1ad2ff882` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # naimkatiman/continuous-improvement
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/naimkatiman/continuous-improvement) · [官网](https://continuous-improvement.dev) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/naimkatiman/continuous-improvement) · [官网](https://continuous-improvement.dev) · 个人维护
 
 **给 Claude Code 加纪律与跨会话记忆的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "naimkatiman/continuous-improvement 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-23", "2026-11-27"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-19 10 → 2026-11-26 11（+1）
+2026-11-19 10 → 2026-11-27 11（+1）
 
 
 ---

@@ -46,12 +46,12 @@ TypeScript/yarn 构建的实验性 AI agent 框架，支持自主社交媒体互
 ```mermaid
 xychart-beta
     title "autonomys/autonomys-agents 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-24 30 → 2026-11-26 30（+0）
+2026-10-25 30 → 2026-11-27 30（+0）
 
 
 ---

@@ -1,10 +1,10 @@
 # win4r/AISuperDomain
 
-⭐ 1,999 · C# · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/win4r/AISuperDomain) · [官网](https://space.bilibili.com/3493277319825652) · 个人维护 · 中文 README
+⭐ 2,000 · C# · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/win4r/AISuperDomain) · [官网](https://www.bilibili.com/video/BV1gM411L7K3/) · 个人维护 · 中文 README
 
-**一次提问同时获取多个 AI 回答的桌面聚合客户端**
+**桌面多 AI 聚合客户端：一次提问同时获取多个 AI 回答**
 
-跨 Windows、macOS、Android 的桌面应用，将多个 AI 聊天服务整合到一个界面：用户提问后可同时收到多个 AI 的回答。支持可配置的模型列表，通过 JSON 配置文件添加新 AI、修改提示词；可设置同时显示 1/2/3/4/6 个 AI 的回答，提供全屏查看、'/'提示建议、'#'持久提示等交互方式。安装方式为下载 Releases 安装包，Windows 需预装 .NET 8 并安装提供的证书。
+Aila 是一款桌面应用，将多个 AI 聊天服务整合到一个界面：用户输入一个问题，可同时收到多个 AI 的回答，并可选择同时显示 1/2/3/4/6 个 AI 的回复窗口。支持全屏查看单个回答、提示词建议与持久提示、JSON 配置文件自定义模型与提示词，还可通过浏览器 devtool 检查网页输入框并编写脚本接入任意新 AI。通过 Releases 下载安装包安装，Windows 需预装 .NET 8 并安装证书。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 一次提问同时获取 10+ 个 AI 的回答
-- 通过 JSON 配置文件自定义 AI 列表与提示词，可按网页输入框 HTML 编写脚本接入新 AI
-- 可配置同时显示的回答数量与全屏查看
-- 提供 '/' 提示建议与 '#' 持久提示交互
+- 一次提问同时获取多个 AI 模型的回答
+- 可配置同时显示 1/2/3/4/6 个 AI 回复窗口
+- 通过 JSON 配置文件添加新 AI 模型与修改提示词
+- 提供用 ChatGPT 辅助生成接入脚本的流程
 
 ## 适用场景
 
-- 把同一个问题同时发给多个 AI 并排比较回答
-- 在一个客户端里集中使用多个 AI 聊天服务
-- 通过配置文件添加自定义的 AI 网页入口
+- 同时对比多个 AI 对同一问题的回答
+- 将常用 AI 服务集中到一个桌面界面使用
+- 通过脚本接入列表之外的 AI 网站
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 ## 证据(README 行号)
 
 > L13: Welcome to the Aila Desktop Application GitHub repository! This innovative software integrates multiple leading AI 
+> L18: Aila sets itself apart by allowing users to pose a question and receive simultaneous answers from a variety of AI m
 > L21: Aila currently supports the following AI models:
-> L79: Windows users must ensure that their system has .NET 8 installed prior to installation. Additionally, you will need
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "win4r/AISuperDomain 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 1994 --> 2000
-    line [1998, 1997, 1998, 1995, 1996, 1997, 1998, 1999]
+    title "win4r/AISuperDomain 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1994 --> 2001
+    line [1998, 1997, 1998, 1995, 1996, 1997, 1998, 1999, 2000]
 ```
 
-2026-10-24 1,998 → 2026-11-26 1,999（+1）
+2026-10-25 1,998 → 2026-11-27 2,000（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c1546c096ceb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9cb9450f1e94` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # aws-samples/sample-mobile-ai-assistant
 
-⭐ 871 · TypeScript · MIT-0 · 推送 2026-11-12 · [GitHub](https://github.com/aws-samples/sample-mobile-ai-assistant) · 组织维护
+⭐ 871 · TypeScript · MIT-0 · 推送 2026-11-26 · [GitHub](https://github.com/aws-samples/sample-mobile-ai-assistant) · 组织维护
 
 **React Native 跨平台移动 AI 聊天与创作 App（Amazon Bedrock 驱动）**
 
@@ -46,13 +46,13 @@ aws-samples 提供的示例应用，用 React Native 构建，覆盖 Android、i
 
 ```mermaid
 xychart-beta
-    title "aws-samples/sample-mobile-ai-assistant 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 861 --> 873
-    line [862, 863, 864, 863, 868, 869, 870, 871, 872, 871, 871]
+    title "aws-samples/sample-mobile-ai-assistant 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 862 --> 873
+    line [863, 864, 863, 868, 869, 870, 871, 872, 871, 871]
 ```
 
-2026-10-24 862 → 2026-11-26 871（+9）
+2026-10-25 863 → 2026-11-27 871（+8）
 
 
 ---

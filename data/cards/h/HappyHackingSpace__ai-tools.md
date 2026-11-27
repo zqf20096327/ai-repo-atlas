@@ -1,6 +1,6 @@
 # HappyHackingSpace/ai-tools
 
-⭐ 11 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HappyHackingSpace/ai-tools) · 个人维护
+⭐ 12 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HappyHackingSpace/ai-tools) · 个人维护
 
 **按用例分类的 AI 应用策展清单，方便快速查找工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "HappyHackingSpace/ai-tools 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [11, 10, 11, 10, 11, 11]
+    title "HappyHackingSpace/ai-tools 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

@@ -45,12 +45,12 @@ Rubyx-py 是一个 Ruby gem，通过 Rust（magnus + rb-sys 架构）实现 Ruby
 ```mermaid
 xychart-beta
     title "yinho999/rubyx 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-24 34 → 2026-11-26 34（+0）
+2026-10-25 34 → 2026-11-27 34（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # novalo-dev/Prestashop-MCP-Server
 
-⭐ 3 · PHP · AFL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/novalo-dev/Prestashop-MCP-Server) · [官网](https://github.com/novalo-dev/Prestashop-MCP-Server/wiki) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **把 PrestaShop 店铺变成 MCP 服务器的免费模块**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AFL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

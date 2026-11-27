@@ -1,6 +1,6 @@
 # yamadashy/pdfvision
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yamadashy/pdfvision) · [官网](https://pdfvision.dev) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yamadashy/pdfvision) · [官网](https://pdfvision.dev) · 个人维护
 
 **面向 AI agent 的 PDF 提取工具：CLI/MCP/TS 库，暴露提取失败**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yamadashy/pdfvision 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-26"]
+    title "yamadashy/pdfvision 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-27"]
     y-axis "stars" 23 --> 28
-    line [25, 24, 25, 26, 27, 27]
+    line [24, 25, 26, 27, 27]
 ```
 
-2026-10-24 25 → 2026-11-26 27（+2）
+2026-10-25 24 → 2026-11-27 27（+3）
 
 
 ---

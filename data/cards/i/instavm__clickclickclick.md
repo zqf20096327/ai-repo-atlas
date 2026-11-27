@@ -1,6 +1,6 @@
 # instavm/clickclickclick
 
-⭐ 717 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/instavm/clickclickclick) · [官网](https://instavm.io) · 组织维护
+⭐ 718 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/instavm/clickclickclick) · [官网](https://instavm.io) · 组织维护
 
 **用任意 LLM 驱动 Android 与计算机自主操作的开源框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "instavm/clickclickclick 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-26"]
+    title "instavm/clickclickclick 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 714 --> 719
-    line [715, 716, 715, 716, 717, 718, 717]
+    line [715, 716, 715, 716, 717, 718, 717, 718]
 ```
 
-2026-10-24 715 → 2026-11-26 717（+2）
+2026-10-25 715 → 2026-11-27 718（+3）
 
 
 ---

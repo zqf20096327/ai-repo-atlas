@@ -1,6 +1,6 @@
 # JasonLovesDoggo/Flow
 
-⭐ 11 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/JasonLovesDoggo/Flow) · [官网](https://gowithflow.tech) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/JasonLovesDoggo/Flow) · [官网](https://gowithflow.tech) · 个人维护
 
 **macOS 原生语音听写工具：按住按键说话，输出格式化文本**
 
@@ -46,12 +46,12 @@ macOS 原生听写应用：按住 Fn 键说话，松开后文本插入光标处�
 ```mermaid
 xychart-beta
     title "JasonLovesDoggo/Flow 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 12（+1）
 
 
 ---

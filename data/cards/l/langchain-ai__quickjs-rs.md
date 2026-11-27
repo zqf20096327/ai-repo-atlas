@@ -1,6 +1,6 @@
 # langchain-ai/quickjs-rs
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/quickjs-rs) · 组织维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/langchain-ai/quickjs-rs) · 组织维护
 
 **在 WebAssembly 沙箱中执行 JavaScript 的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/quickjs-rs 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 12 --> 16
     line [13, 14, 13, 15, 15]
 ```
 
-2026-10-24 13 → 2026-11-26 15（+2）
+2026-10-25 13 → 2026-11-27 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # MLGroupJLU/LLM-eval-survey
 
-⭐ 1,616 · 推送 2026-11-18 · [GitHub](https://github.com/MLGroupJLU/LLM-eval-survey) · [官网](https://arxiv.org/abs/2307.03109) · 组织维护 · 中文 README
+⭐ 1,617 · 推送 2026-11-18 · [GitHub](https://github.com/MLGroupJLU/LLM-eval-survey) · [官网](https://arxiv.org/abs/2307.03109) · 组织维护 · 中文 README
 
 **面向研究者的 LLM 评测论文集合**
 
@@ -46,13 +46,13 @@ _survey on Evaluation of Large Language Models_ 论文的官方 GitHub 页面，
 
 ```mermaid
 xychart-beta
-    title "MLGroupJLU/LLM-eval-survey 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-15", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 1614 --> 1617
-    line [1615, 1616, 1615, 1616]
+    title "MLGroupJLU/LLM-eval-survey 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-15", "2026-11-21", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1614 --> 1618
+    line [1615, 1616, 1615, 1616, 1617]
 ```
 
-2026-10-24 1,615 → 2026-11-26 1,616（+1）
+2026-10-25 1,615 → 2026-11-27 1,617（+2）
 
 
 ---

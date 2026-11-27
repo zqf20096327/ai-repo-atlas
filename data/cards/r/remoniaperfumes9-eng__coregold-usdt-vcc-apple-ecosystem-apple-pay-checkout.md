@@ -1,6 +1,6 @@
 # remoniaperfumes9-eng/coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout
 
-⭐ 38 · 推送 2026-11-23 · [GitHub](https://github.com/remoniaperfumes9-eng/coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 53 · 推送 2026-11-23 · [GitHub](https://github.com/remoniaperfumes9-eng/coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向 Apple 用户的教程：USDT 开虚拟卡绑定 Apple Pay 付费**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "remoniaperfumes9-eng/coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 10 --> 40
-    line [12, 38]
+    title "remoniaperfumes9-eng/coregold-usdt-vcc-apple-ecosystem-apple-pay-checkout 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 8 --> 57
+    line [12, 38, 53]
 ```
 
-2026-11-25 12 → 2026-11-26 38（+26）
+2026-11-25 12 → 2026-11-27 53（+41）
 
 
 ---

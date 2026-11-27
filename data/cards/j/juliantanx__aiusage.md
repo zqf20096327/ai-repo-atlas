@@ -1,6 +1,6 @@
 # juliantanx/aiusage
 
-⭐ 146 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/juliantanx/aiusage) · [官网](https://www.npmjs.com/package/@juliantanx/aiusage) · 个人维护 · 中文 README
+⭐ 147 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/juliantanx/aiusage) · [官网](https://www.npmjs.com/package/@juliantanx/aiusage) · 个人维护 · 中文 README
 
 **本地优先的 AI 编码助手用量追踪面板**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "juliantanx/aiusage 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 135 --> 147
-    line [136, 137, 138, 139, 136, 141, 142, 143, 144, 146]
+    title "juliantanx/aiusage 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 135 --> 148
+    line [136, 137, 138, 139, 136, 141, 142, 143, 144, 146, 147]
 ```
 
-2026-10-24 136 → 2026-11-26 146（+10）
+2026-10-25 136 → 2026-11-27 147（+11）
 
 
 ---

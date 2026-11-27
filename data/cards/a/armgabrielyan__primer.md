@@ -46,12 +46,12 @@ Rust 编写的 primer CLI 面向用 AI 编程代理（Claude Code、Codex、Open
 ```mermaid
 xychart-beta
     title "armgabrielyan/primer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

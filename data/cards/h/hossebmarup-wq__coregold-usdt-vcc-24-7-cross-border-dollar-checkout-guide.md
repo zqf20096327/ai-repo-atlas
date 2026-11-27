@@ -1,6 +1,6 @@
 # hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide
 
-⭐ 27 · 推送 2026-11-23 · [GitHub](https://github.com/hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 41 · 推送 2026-11-23 · [GitHub](https://github.com/hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向独立开发者与跨境卖家的 USDT+虚拟卡美元支付流程指南**
 
@@ -40,6 +40,18 @@
 > L2: On November 20, 2026, DBS and J.P. Morgan launched 24/7 cross-border tokenized USD settlement for institutions—here 
 > L9: ## Practical Knowledge: Running a 24/7 Self-Serve Dollar Payment Pipeline
 > L27: ### Step 1: Register on CoreGold
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 26 --> 42
+    line [27, 41]
+```
+
+2026-11-26 27 → 2026-11-27 41（+14）
 
 
 ---

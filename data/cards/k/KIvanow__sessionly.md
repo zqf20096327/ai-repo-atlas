@@ -1,6 +1,6 @@
 # KIvanow/sessionly
 
-⭐ 189 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/KIvanow/sessionly) · [官网](https://sessionly.dev) · 组织维护
+⭐ 189 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/KIvanow/sessionly) · [官网](https://sessionly.dev) · 组织维护
 
 **本地优先的编码 agent 会话台账：记录成本与代码留存率**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KIvanow/sessionly 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "KIvanow/sessionly 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 86 --> 198
-    line [95, 189]
+    line [95, 189, 189]
 ```
 
-2026-11-25 95 → 2026-11-26 189（+94）
+2026-11-25 95 → 2026-11-27 189（+94）
 
 
 ---

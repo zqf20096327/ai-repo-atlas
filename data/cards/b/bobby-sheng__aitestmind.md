@@ -1,6 +1,6 @@
 # bobby-sheng/aitestmind
 
-⭐ 75 · TypeScript · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/bobby-sheng/aitestmind) · 个人维护 · 中文 README
+⭐ 76 · TypeScript · NOASSERTION · 推送 2026-06-22 · [GitHub](https://github.com/bobby-sheng/aitestmind) · 个人维护 · 中文 README
 
 **AI 驱动的可视化 API 测试编排平台，自然语言生成测试用例**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bobby-sheng/aitestmind 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 66 --> 76
-    line [67, 68, 67, 69, 71, 72, 74, 75]
+    title "bobby-sheng/aitestmind 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 66 --> 77
+    line [67, 68, 67, 69, 71, 72, 74, 75, 76]
 ```
 
-2026-10-24 67 → 2026-11-26 75（+8）
+2026-10-25 67 → 2026-11-27 76（+9）
 
 
 ---

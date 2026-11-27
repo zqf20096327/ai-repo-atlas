@@ -1,6 +1,6 @@
 # huggingface/serge
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/serge) · [官网](https://huggingface.github.io/serge/) · 组织维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/huggingface/serge) · [官网](https://huggingface.github.io/serge/) · 组织维护
 
 **用 OpenAI 兼容 LLM 审查 GitHub PR 的评审机器人**
 
@@ -45,12 +45,12 @@ serge 是 Hugging Face 维护的 GitHub 评审机器人：调用任意 OpenAI �
 ```mermaid
 xychart-beta
     title "huggingface/serge 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-24 54 → 2026-11-26 54（+0）
+2026-10-25 54 → 2026-11-27 54（+0）
 
 
 ---

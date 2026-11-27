@@ -1,6 +1,6 @@
 # mturac/awesome-jev-alternatives
 
-⭐ 10 · Python · CC0-1.0 · 推送 2026-09-27 · [GitHub](https://github.com/mturac/awesome-jev-alternatives) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为需要开源替代方案的开发者提供 Jev 式决策模型的开源组件清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Bearisbug/Quilt
 
-⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Bearisbug/Quilt) · 个人维护 · 中文 README
+⭐ 105 · TypeScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Bearisbug/Quilt) · 个人维护 · 中文 README
 
 **本地运行的 AI 原型设计工具：一句话生成多屏 HTML 原型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bearisbug/Quilt 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 101 --> 107
-    line [102, 104, 105, 104, 105, 106, 106]
+    title "Bearisbug/Quilt 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 103 --> 107
+    line [104, 105, 104, 105, 106, 105]
 ```
 
-2026-10-24 102 → 2026-11-26 106（+4）
+2026-10-25 104 → 2026-11-27 105（+1）
 
 
 ---

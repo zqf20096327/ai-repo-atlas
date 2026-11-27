@@ -45,13 +45,13 @@ Home Assistant 的 HACS 自定义集成，将用户自己的 Hermes Agent 注册
 
 ```mermaid
 xychart-beta
-    title "ericgla/hermes-agent-home-assistant-voice 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "ericgla/hermes-agent-home-assistant-voice 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 3 --> 11
-    line [4, 5, 4, 7, 10]
+    line [4, 5, 4, 7, 10, 10]
 ```
 
-2026-10-18 4 → 2026-11-26 10（+6）
+2026-10-18 4 → 2026-11-27 10（+6）
 
 
 ---

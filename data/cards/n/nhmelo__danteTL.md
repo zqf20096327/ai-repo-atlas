@@ -1,6 +1,6 @@
 # nhmelo/danteTL
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nhmelo/danteTL) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/nhmelo/danteTL) · 个人维护
 
 **Windows 实时游戏屏幕翻译工具：OCR 叠加层读取游戏文字并翻译**
 
@@ -40,6 +40,18 @@
 > L3: DanteTL translates on-screen game text in a click-through Windows overlay. It reads Japanese
 > L15:  - **Local models** starts with the recommended translator selected. Choose **None** to skip the local translator. 
 > L61: Manage translators in **Settings → Models**. For GPU acceleration, open **Settings →
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nhmelo/danteTL 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 18 --> 27
+    line [19, 26]
+```
+
+2026-11-26 19 → 2026-11-27 26（+7）
 
 
 ---

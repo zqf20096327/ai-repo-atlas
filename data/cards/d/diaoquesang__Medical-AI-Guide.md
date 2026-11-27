@@ -1,6 +1,6 @@
 # diaoquesang/Medical-AI-Guide
 
-⭐ 50 · MIT · 推送 2026-09-15 · [GitHub](https://github.com/diaoquesang/Medical-AI-Guide) · 个人维护 · 中文 README
+⭐ 51 · MIT · 推送 2026-09-15 · [GitHub](https://github.com/diaoquesang/Medical-AI-Guide) · 个人维护 · 中文 README
 
 **面向医学AI初学者与科研人员的系统化学习科研指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "diaoquesang/Medical-AI-Guide 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 47, 49, 50, 50]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-27"]
+    y-axis "stars" 46 --> 52
+    line [47, 48, 47, 49, 50, 51]
 ```
 
-2026-10-24 47 → 2026-11-26 50（+3）
+2026-10-25 47 → 2026-11-27 51（+4）
 
 
 ---

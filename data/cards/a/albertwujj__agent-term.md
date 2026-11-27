@@ -1,6 +1,6 @@
 # albertwujj/agent-term
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/albertwujj/agent-term) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/albertwujj/agent-term) · 个人维护
 
 **把 AI CLI 会话变成可视化工作区的 Electron 终端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "albertwujj/agent-term 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

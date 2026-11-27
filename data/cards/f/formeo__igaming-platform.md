@@ -1,6 +1,6 @@
 # formeo/igaming-platform
 
-⭐ 12 · Go · MIT · 推送 2026-09-21 · [GitHub](https://github.com/formeo/igaming-platform) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/formeo/igaming-platform) · 个人维护
 
 **面向在线博彩/投注的微服务平台：钱包、奖金与反欺诈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "formeo/igaming-platform 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 12（+1）
+2026-10-25 11 → 2026-11-27 12（+1）
 
 
 ---

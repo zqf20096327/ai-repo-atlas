@@ -1,6 +1,6 @@
 # huggingface/legion
 
-⭐ 24 · Python · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/legion) · 组织维护
+⭐ 79 · Python · 推送 2026-11-26 · [GitHub](https://github.com/huggingface/legion) · 组织维护
 
 **在容器中协作运行多智能体团队并汇报进度的编排工具**
 
@@ -39,6 +39,18 @@ Legion 是 Hugging Face 开源的多智能体协作编排 CLI：每个 agent 运
 
 > L5: Run collaborating teams of agents on Harbor tasks. Each agent works in its own
 > L20: Legion coordinates Harbor agent trials, task environments, inference, and shared resources; the controller tracks s
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/legion 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 84
+    line [24, 79]
+```
+
+2026-11-26 24 → 2026-11-27 79（+55）
 
 
 ---

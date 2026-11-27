@@ -1,6 +1,6 @@
 # bubbleptr/aoa
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/bubbleptr/aoa) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bubbleptr/aoa) · 个人维护 · 中文 README
 
 **基于 Bun 的 Always-on Agent 框架 SDK，24x7 常驻运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bubbleptr/aoa 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-27"]
     y-axis "stars" 5 --> 13
     line [6, 12, 12]
 ```
 
-2026-11-18 6 → 2026-11-26 12（+6）
+2026-11-18 6 → 2026-11-27 12（+6）
 
 
 ---

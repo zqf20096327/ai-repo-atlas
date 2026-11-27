@@ -41,6 +41,18 @@
 > L9: 本仓库放**把服务跑起来所必需的全部东西**：启动脚本、systemd 单元、看门狗、监控面板，
 > L23: |接口|`http://<host>:18082/v1`（OpenAI 与 Anthropic 双协议），`--model-id qwen3.8-27b-gsq-rco-iq3s`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xunying7860/Ninfer-3080-IQ3_S 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `eefcedb617d0` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # edwarddn/dinosaur-edward-game
 
-⭐ 19 · Java · 推送 2026-06-23 · [GitHub](https://github.com/edwarddn/dinosaur-edward-game) · 个人维护
+⭐ 19 · Java · MIT · 推送 2026-11-26 · [GitHub](https://github.com/edwarddn/dinosaur-edward-game) · 个人维护
 
 **Java 复刻 Chrome 恐龙游戏，内置遗传算法训练的神经网络 AI**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "edwarddn/dinosaur-edward-game 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 19（+0）
 
 
 ---

@@ -1,10 +1,10 @@
 # yetone/magpie
 
-⭐ 41,464 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
+⭐ 42,006 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
 
-**菜单栏本地网关：给各 AI 编码代理统一切换模型与账号**
+**把多个已付费订阅池化的本地网关，供各 agent 共用**
 
-magpie 是一个本地网关与菜单栏应用，把各代理工具各自的模型配置收拢到一处：用户在列表里为任一代理任选 provider/model，magpie 原子化改写代理自身配置；本地网关（127.0.0.1:3425）翻译 OpenAI Chat/Responses、Anthropic Messages 与 Gemini 协议，含流式、工具调用与推理内容。支持多账号配额耗尽自动切换（smart/order/rotate/usage/pace 等路由模式）、订阅复用、隐私掩码（默认关闭）与 npm 插件。面向同时使用多个代理、多个 provider 或多个账号的用户；单一代理单一订阅的用户无需它。
+magpie 是一个本地网关应用：将用户购买的多个模型订阅与 API key（Claude、ChatGPT、Copilot、GLM、Kimi Code 等）汇聚为一个池，通过 127.0.0.1:3425 的网关以 OpenAI Chat/Responses、Anthropic Messages、Gemini 协议对外提供服务，供 80+ 个 agent 客户端按需选用任意模型。核心机制包括配额耗尽时的多账户/路由组接管（smart/order/rotate/usage/pace 五种策略）、订阅登录信息读取、可选的本机隐私掩码（默认关闭，密钥/邮箱等在请求离开前替换为占位符）、插件系统（运行于 Bun）。提供 GUI、TUI、CLI、Docker 与 Termux 形态。
 
 ## 筛选速览
 
@@ -26,40 +26,38 @@ magpie 是一个本地网关与菜单栏应用，把各代理工具各自的模�
 
 ## 能力要点
 
-- 本地网关翻译并转发 OpenAI/Anthropic/Gemini 三类协议，含流式、工具调用与 reasoning
-- 路由组在多个模型/账号间切换，代理不感知配额报错
-- 本地隐私掩码：密钥/邮箱等在请求发出前替换为占位符并回填
-- 支持 macOS/Windows/Linux/Docker/Termux，GUI、TUI、Web UI 与 CLI 多形态
+- 本地网关翻译 OpenAI/Anthropic/Gemini 协议，含流式、工具调用与推理
+- 路由组在订阅配额耗尽时按 5 种策略切换账户/模型
+- 可选隐私掩码：本机替换敏感值并在回复中还原，仅驻内存
+- 支持 80+ agent 与任意 OpenAI/Anthropic 兼容 base URL 接入
 
 ## 适用场景
 
-- 为 Claude Code、Codex、Gemini CLI 等代理统一挑选和切换模型
-- 配额耗尽时在多个账号/模型间自动接管，避免中断
-- 在多个代理间复用同一份订阅或 API key
-- 在本地掩码提示词中的密钥后再发给厂商
+- 同时使用多个 agent 客户端并复用已有付费订阅
+- 单个订阅配额用尽后自动切换到下一个账户/模型继续工作
+- 在发送给厂商的请求前掩码提示中的密钥与个人数据
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`模型网关` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L8: Switch any of them from the menu bar. One local gateway serves them all,
-> L78: The gateway at `127.0.0.1:3425` speaks OpenAI Chat, OpenAI Responses, Anthropic Messages and Gemini, and translates
-> L35: It's for you if you use more than one agent, more than one provider, or more than one account. If you use one agent
+> L28: Each agent keeps its model in its own file, in its own format, with its own keys and base URLs. A subscription you 
+> L37: Runs on macOS, Windows and Linux (menu bar app, window, TUI, web UI and CLI), in Docker, and on Termux.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "yetone/magpie 星数(近 27 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 18029 --> 43594
-    line [20159, 20686, 21370, 22527, 23537, 24534, 25336, 26200, 26878, 27524, 20686, 32220, 33845, 34669, 35387, 36082, 36512, 36907, 37542, 38079, 38600, 39040, 39507, 39767, 40014, 40485, 41464]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 18554 --> 44138
+    line [20686, 21370, 22527, 23537, 24534, 25336, 26200, 26878, 27524, 20686, 32220, 33845, 34669, 35387, 36082, 36512, 36907, 37542, 38079, 38600, 39040, 39507, 39767, 40014, 40485, 41464, 42006]
 ```
 
-2026-10-24 20,159 → 2026-11-26 41,464（+21,305）
+2026-10-25 20,686 → 2026-11-27 42,006（+21,320）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `091fc36cf29d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `d47f42264385` · [字段定义](../../DATASET.md)*

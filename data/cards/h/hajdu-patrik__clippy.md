@@ -1,6 +1,6 @@
 # hajdu-patrik/clippy
 
-⭐ 68 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/hajdu-patrik/clippy) · [官网](https://hajdu-patrik.github.io/clippy/) · 个人维护
+⭐ 70 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/hajdu-patrik/clippy) · [官网](https://hajdu-patrik.github.io/clippy/) · 个人维护
 
 **本地 AI 剪辑工具：长视频/播客进，竖屏 9:16 带字幕短视频出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hajdu-patrik/clippy 星数(近 9 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 34 --> 71
-    line [37, 41, 48, 53, 55, 57, 60, 65, 68]
+    title "hajdu-patrik/clippy 星数(近 10 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 34 --> 73
+    line [37, 41, 48, 53, 55, 57, 60, 65, 68, 70]
 ```
 
-2026-11-16 37 → 2026-11-26 68（+31）
+2026-11-16 37 → 2026-11-27 70（+33）
 
 
 ---

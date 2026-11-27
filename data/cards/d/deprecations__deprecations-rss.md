@@ -1,6 +1,6 @@
 # deprecations/deprecations-rss
 
-⭐ 18 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/deprecations/deprecations-rss) · [官网](http://deprecations.info/) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/deprecations/deprecations-rss) · [官网](http://deprecations.info/) · 组织维护
 
 **AI 厂商模型弃用公告的 RSS/JSON 聚合订阅源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deprecations/deprecations-rss 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

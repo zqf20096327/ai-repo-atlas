@@ -1,6 +1,6 @@
 # mangopy/SearchLM
 
-⭐ 213 · Python · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/mangopy/SearchLM) · [官网](https://arxiv.org/abs/2505.20128) · 组织维护
+⭐ 214 · Python · Apache-2.0 · 推送 2026-01-14 · [GitHub](https://github.com/mangopy/SearchLM) · [官网](https://arxiv.org/abs/2505.20128) · 组织维护
 
 **NeurIPS 2025 论文官方代码：EM 迭代训练 LLM 搜索代理**
 
@@ -46,12 +46,12 @@ NeurIPS 2025 论文《Iterative Self-Incentivization Empowers Large Language Mod
 ```mermaid
 xychart-beta
     title "mangopy/SearchLM 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-18", "2026-11-27"]
     y-axis "stars" 212 --> 217
-    line [216, 214, 213, 213]
+    line [216, 214, 213, 214]
 ```
 
-2026-10-24 216 → 2026-11-26 213（-3）
+2026-10-25 216 → 2026-11-27 214（-2）
 
 
 ---

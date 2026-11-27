@@ -1,6 +1,6 @@
 # Threadsmith-NET/Threadsmith.NET
 
-⭐ 10 · C# · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Threadsmith-NET/Threadsmith.NET) · 个人维护
+⭐ 10 · C# · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Threadsmith-NET/Threadsmith.NET) · 个人维护
 
 **面向 .NET 开发者的终端编码 agent 工具：编译器语义托管 AI 改码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Threadsmith-NET/Threadsmith.NET 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-26"]
+    x-axis ["2026-11-11", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-26 10（+0）
+2026-11-11 10 → 2026-11-27 10（+0）
 
 
 ---

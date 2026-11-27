@@ -1,6 +1,6 @@
 # hshiKoi/hsMuse
 
-⭐ 5 · 推送 2026-11-25 · [GitHub](https://github.com/hshiKoi/hsMuse) · [官网](https://www.patreon.com/c/hshiKoi) · 个人维护 · 中文 README
+⭐ 6 · 推送 2026-11-25 · [GitHub](https://github.com/hshiKoi/hsMuse) · [官网](https://www.patreon.com/c/hshiKoi) · 个人维护 · 中文 README
 
 **零显存本地 AI 绘画提示词生成与 Tag 清洗工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hshiKoi/hsMuse 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 3 --> 6
-    line [4, 5]
+    title "hshiKoi/hsMuse 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-25 4 → 2026-11-26 5（+1）
+2026-11-25 4 → 2026-11-27 6（+2）
 
 
 ---

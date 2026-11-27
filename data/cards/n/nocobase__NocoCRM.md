@@ -1,6 +1,6 @@
 # nocobase/NocoCRM
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/nocobase/NocoCRM) · [官网](https://www.nocobase.com/solution-crm) · 组织维护 · 中文 README
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/nocobase/NocoCRM) · [官网](https://www.nocobase.com/solution-crm) · 组织维护 · 中文 README
 
 **基于 NocoBase 的开源 B2B 销售 CRM，内置 6 个销售 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nocobase/NocoCRM 星数(近 8 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-26"]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-27"]
     y-axis "stars" 2 --> 14
     line [3, 4, 6, 7, 11, 12, 13, 13]
 ```
 
-2026-10-28 3 → 2026-11-26 13（+10）
+2026-10-28 3 → 2026-11-27 13（+10）
 
 
 ---

@@ -46,12 +46,12 @@ Pragmatic AI Labs 出品的课程配套资料库，包含 Colab 笔记本与教�
 ```mermaid
 xychart-beta
     title "noahgift/managed_ml_systems_and_iot 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-11-25 41 → 2026-11-26 41（+0）
+2026-11-25 41 → 2026-11-27 41（+0）
 
 
 ---

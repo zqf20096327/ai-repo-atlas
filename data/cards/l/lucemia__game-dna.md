@@ -1,6 +1,6 @@
 # lucemia/game-dna
 
-⭐ 5 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lucemia/game-dna) · [官网](https://game-dna.pages.dev) · 个人维护
+⭐ 5 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lucemia/game-dna) · [官网](https://game-dna.pages.dev) · 个人维护
 
 **给 coding agent 用的 102 个浏览器游戏元素：模块+提示词+演示**
 
@@ -40,6 +40,18 @@
 > L5: **102 game elements for your coding agent. Pick one, bring your browser game, and the agent wires it into your code,
 > L36: Game DNA gives the agent three things instead of a guess:
 > L39: - **a prompt** (at most 600 words) that says where to hook it into *your* game, what not to touch and the usual mis
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lucemia/game-dna 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
 
 
 ---

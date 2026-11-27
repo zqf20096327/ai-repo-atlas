@@ -45,12 +45,12 @@ Babel Street Analytics（原 Rosette）的官方 Python 客户端库，通过 AP
 ```mermaid
 xychart-beta
     title "rosette-api/python 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-24 38 → 2026-11-26 38（+0）
+2026-10-25 38 → 2026-11-27 38（+0）
 
 
 ---

@@ -43,12 +43,12 @@ Jesse Moses（Cre4T3Tiv3，ByteStack Labs 创始人）的 GitHub 个人主页 RE
 ```mermaid
 xychart-beta
     title "Cre4T3Tiv3/Cre4T3Tiv3 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
     y-axis "stars" 48 --> 51
     line [50, 49, 49]
 ```
 
-2026-10-24 50 → 2026-11-26 49（-1）
+2026-10-25 50 → 2026-11-27 49（-1）
 
 
 ---

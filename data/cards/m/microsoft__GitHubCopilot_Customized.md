@@ -46,12 +46,12 @@ GitHub Universe 2025 的配套演示仓库：一个 TypeScript 电商应用（Re
 ```mermaid
 xychart-beta
     title "microsoft/GitHubCopilot_Customized 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-27"]
     y-axis "stars" 64 --> 67
     line [66, 65, 65]
 ```
 
-2026-10-23 66 → 2026-11-26 65（-1）
+2026-10-24 66 → 2026-11-27 65（-1）
 
 
 ---

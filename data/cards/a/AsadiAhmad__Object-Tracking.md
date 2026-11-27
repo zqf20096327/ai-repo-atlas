@@ -1,6 +1,6 @@
 # AsadiAhmad/Object-Tracking
 
-⭐ 13 · Jupyter Notebook · MIT · 推送 2025-12-25 · [GitHub](https://github.com/AsadiAhmad/Object-Tracking) · 个人维护
+⭐ 12 · Jupyter Notebook · MIT · 推送 2025-12-25 · [GitHub](https://github.com/AsadiAhmad/Object-Tracking) · 个人维护
 
 **用预训练 Mask R-CNN 检测并跟踪视频中最大物体的笔记本项目**
 
@@ -43,12 +43,12 @@ Jupyter Notebook/Google Colab 项目：加载预训练 Mask R-CNN 模型对视�
 ```mermaid
 xychart-beta
     title "AsadiAhmad/Object-Tracking 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [13, 12]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 12（-1）
 
 
 ---

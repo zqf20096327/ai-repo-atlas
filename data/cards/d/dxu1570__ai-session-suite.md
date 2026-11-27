@@ -39,6 +39,18 @@
 > L3:  AI Session Suite — AI Session Suite — Session rotation suite for ALL AI services — one binary. (Portable x64 Build,
 > L18: **AI Session Suite — Session rotation suite for ALL AI services — one binary** (`ai-session-suite`) is a dedicated,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dxu1570/ai-session-suite 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 65 --> 67
+    line [66, 66]
+```
+
+2026-11-26 66 → 2026-11-27 66（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `e082a092ba2a` · [字段定义](../../DATASET.md)*

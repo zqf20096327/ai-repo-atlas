@@ -42,6 +42,18 @@
 > L157: AI 会读取对应技能的 `SKILL.md`，按步骤调用 `scripts/` 下的本地脚本，最后把 Excel 和报告交给你。
 > L173: ├─ scripts/          # 确定性计算：解析、匹配、校验、出表
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Crazy-cc001/ai-audit-skills 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e9f54c5eb009` · [字段定义](../../DATASET.md)*

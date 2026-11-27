@@ -1,6 +1,6 @@
 # vanshyadav1408/Omentir
 
-⭐ 56 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vanshyadav1408/Omentir) · [官网](https://omentir.com) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/vanshyadav1408/Omentir) · [官网](https://omentir.com) · 个人维护
 
 **开源自托管的 LinkedIn 外联销售工作台（HeyReach 替代）**
 
@@ -45,12 +45,12 @@ Next.js 构建的 LinkedIn 潜在客户寻找、上下文外联草稿（Gemini/V
 ```mermaid
 xychart-beta
     title "vanshyadav1408/Omentir 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-22", "2026-11-27"]
     y-axis "stars" 50 --> 57
     line [51, 52, 53, 51, 54, 55, 56, 56]
 ```
 
-2026-10-24 51 → 2026-11-26 56（+5）
+2026-10-25 51 → 2026-11-27 56（+5）
 
 
 ---

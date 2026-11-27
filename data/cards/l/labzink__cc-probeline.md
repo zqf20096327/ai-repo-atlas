@@ -1,6 +1,6 @@
 # labzink/cc-probeline
 
-⭐ 12 · Go · MIT · 推送 2026-08-12 · [GitHub](https://github.com/labzink/cc-probeline) · [官网](https://github.com/labzink/cc-probeline) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-08-12 · [GitHub](https://github.com/labzink/cc-probeline) · [官网](https://github.com/labzink/cc-probeline) · 个人维护
 
 **给 Claude Code 用户的成本监控状态栏：为每轮对话实时标价**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "labzink/cc-probeline 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 13（+1）
 
 
 ---

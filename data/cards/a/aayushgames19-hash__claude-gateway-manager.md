@@ -1,6 +1,6 @@
 # aayushgames19-hash/claude-gateway-manager
 
-⭐ 119 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/aayushgames19-hash/claude-gateway-manager) · 个人维护 · 中文 README
+⭐ 119 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/aayushgames19-hash/claude-gateway-manager) · 个人维护 · 中文 README
 
 **Anthropic Messages API 的多账号代理网关：统一接入与负载调度**
 
@@ -46,12 +46,12 @@ OpusFlow 是一个包裹 Anthropic Messages API 的代理/编排层：接收标�
 ```mermaid
 xychart-beta
     title "aayushgames19-hash/claude-gateway-manager 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-27"]
     y-axis "stars" 117 --> 120
     line [119, 118, 119, 118, 119, 119]
 ```
 
-2026-10-24 119 → 2026-11-26 119（+0）
+2026-10-25 119 → 2026-11-27 119（+0）
 
 
 ---

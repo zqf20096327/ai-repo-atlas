@@ -1,6 +1,6 @@
 # openrmm-project/openrmm
 
-⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/openrmm-project/openrmm) · [官网](https://openrmm.io) · 个人维护
+⭐ 12 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/openrmm-project/openrmm) · [官网](https://openrmm.io) · 个人维护
 
 **自托管开源 RMM：内置需人工审批的 AI 运维助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "openrmm-project/openrmm 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-25", "2026-11-27"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-11-25 11 → 2026-11-26 11（+0）
+2026-11-25 11 → 2026-11-27 12（+1）
 
 
 ---

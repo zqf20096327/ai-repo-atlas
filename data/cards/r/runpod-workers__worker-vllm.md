@@ -1,6 +1,6 @@
 # runpod-workers/worker-vllm
 
-⭐ 475 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/runpod-workers/worker-vllm) · 组织维护
+⭐ 475 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/runpod-workers/worker-vllm) · 组织维护
 
 **RunPod Serverless 上基于 vLLM 的 LLM 端点部署模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "runpod-workers/worker-vllm 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "runpod-workers/worker-vllm 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 473 --> 476
-    line [474, 475]
+    line [474, 475, 475]
 ```
 
-2026-10-24 474 → 2026-11-26 475（+1）
+2026-10-25 474 → 2026-11-27 475（+1）
 
 
 ---

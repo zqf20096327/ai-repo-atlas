@@ -41,6 +41,18 @@
 > L27: - **No model in CI.** The model picks an operation and an element number; code builds every selector and fills ever
 > L148: Only for `explore` and `do:` steps. Plain YAML tests need none. Local models work too: see AI providers.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "atalantahq/atalanta 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0324887cccf1` · [字段定义](../../DATASET.md)*

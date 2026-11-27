@@ -1,6 +1,6 @@
 # MarcelRoozekrans/Rag.NET
 
-⭐ 23 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MarcelRoozekrans/Rag.NET) · [官网](https://marcelroozekrans.github.io/Rag.NET/) · 个人维护
+⭐ 23 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/MarcelRoozekrans/Rag.NET) · [官网](https://marcelroozekrans.github.io/Rag.NET/) · 个人维护
 
 **.NET 开发者的模块化 RAG 流水线库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "MarcelRoozekrans/Rag.NET 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-16", "2026-11-26"]
+    title "MarcelRoozekrans/Rag.NET 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-16", "2026-11-26", "2026-11-27"]
     y-axis "stars" 11 --> 24
-    line [12, 20, 21, 23]
+    line [12, 20, 21, 23, 23]
 ```
 
-2026-11-02 12 → 2026-11-26 23（+11）
+2026-11-02 12 → 2026-11-27 23（+11）
 
 
 ---

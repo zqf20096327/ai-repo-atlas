@@ -1,6 +1,6 @@
 # arorarishi/Prompt-Engineering-Jumpstart
 
-⭐ 222 · MIT · 推送 2025-12-23 · [GitHub](https://github.com/arorarishi/Prompt-Engineering-Jumpstart) · 个人维护
+⭐ 223 · MIT · 推送 2025-12-23 · [GitHub](https://github.com/arorarishi/Prompt-Engineering-Jumpstart) · 个人维护
 
 **面向初学者的提示工程开源电子书（14 章）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arorarishi/Prompt-Engineering-Jumpstart 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 218 --> 223
-    line [219, 220, 219, 221, 222, 222]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 218 --> 224
+    line [219, 220, 219, 221, 222, 223]
 ```
 
-2026-10-24 219 → 2026-11-26 222（+3）
+2026-10-25 219 → 2026-11-27 223（+4）
 
 
 ---

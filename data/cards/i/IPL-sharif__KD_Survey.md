@@ -1,6 +1,6 @@
 # IPL-sharif/KD_Survey
 
-⭐ 83 · 推送 2026-06-08 · [GitHub](https://github.com/IPL-sharif/KD_Survey) · 组织维护
+⭐ 84 · 推送 2026-06-08 · [GitHub](https://github.com/IPL-sharif/KD_Survey) · 组织维护
 
 **知识蒸馏综述论文的配套资源仓库**
 
@@ -44,12 +44,12 @@ TMLR 2025 综述论文《A Comprehensive Survey on Knowledge Distillation》的�
 ```mermaid
 xychart-beta
     title "IPL-sharif/KD_Survey 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 82, 83, 83]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 82, 83, 84]
 ```
 
-2026-10-24 82 → 2026-11-26 83（+1）
+2026-10-25 82 → 2026-11-27 84（+2）
 
 
 ---

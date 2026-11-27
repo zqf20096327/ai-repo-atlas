@@ -1,6 +1,6 @@
 # v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko
 
-⭐ 121 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko) · [官网](https://v-mysusanja-j58.github.io/comfyui-0-46-invokeai-6-14-local-ai-studio-ko/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko) · [官网](https://v-mysusanja-j58.github.io/comfyui-0-46-invokeai-6-14-local-ai-studio-ko/) · 个人维护 · 中文 README
 
 **面向 Windows x64 的游戏作弊工具，借 ComfyUI/InvokeAI 命名分发**
 
@@ -37,6 +37,18 @@ README 提供一个名为 comfyui-0-46-invokeai-6-14-local-ai-studio-ko 的 Wind
 
 > L57: Because `comfyui-0-46-invokeai-6-14-local-ai-studio-ko-v1.2.0-win64.exe` (build `3DD1B7`) is an independent `game c
 > L80:  `comfyui` · `invokeai` · `local-ai-studio` · `generative-ai` · `vram-optimization` · `windows-11` · `windows` · `w
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 5 --> 131
+    line [121, 15]
+```
+
+2026-11-26 121 → 2026-11-27 15（-106）
 
 
 ---

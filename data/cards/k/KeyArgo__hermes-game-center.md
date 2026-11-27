@@ -46,13 +46,13 @@ Hermes Agent 插件，提供 11 种 Play 棋牌游戏（国际象棋、围棋、
 
 ```mermaid
 xychart-beta
-    title "KeyArgo/hermes-game-center 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "KeyArgo/hermes-game-center 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 3 --> 9
-    line [4, 8]
+    line [4, 8, 8]
 ```
 
-2026-11-25 4 → 2026-11-26 8（+4）
+2026-11-25 4 → 2026-11-27 8（+4）
 
 
 ---

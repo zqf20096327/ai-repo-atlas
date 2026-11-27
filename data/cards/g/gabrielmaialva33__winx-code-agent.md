@@ -1,6 +1,6 @@
 # gabrielmaialva33/winx-code-agent
 
-⭐ 40 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gabrielmaialva33/winx-code-agent) · [官网](https://crates.io/crates/winx-code-agent) · 个人维护 · 中文 README
+⭐ 41 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gabrielmaialva33/winx-code-agent) · [官网](https://crates.io/crates/winx-code-agent) · 个人维护 · 中文 README
 
 **Rust 编写的 MCP 运行时：给 AI 编码代理提供持久 shell 与文件编辑**
 
@@ -46,12 +46,12 @@ Winx 是一个用 Rust 实现的 remote-first MCP runtime，为 AI 编码代理�
 ```mermaid
 xychart-beta
     title "gabrielmaialva33/winx-code-agent 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 40, 40]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 40, 41]
 ```
 
-2026-10-24 38 → 2026-11-26 40（+2）
+2026-10-25 38 → 2026-11-27 41（+3）
 
 
 ---

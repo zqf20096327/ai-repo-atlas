@@ -1,6 +1,6 @@
 # kagan-sh/kagan
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kagan-sh/kagan) · [官网](https://kagan.sh) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/kagan-sh/kagan) · [官网](https://kagan.sh) · 个人维护
 
 **运行 AI 编码 agent 的开源跨平台桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kagan-sh/kagan 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-10 3 → 2026-11-26 5（+2）
+2026-11-10 3 → 2026-11-27 5（+2）
 
 
 ---

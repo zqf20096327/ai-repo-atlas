@@ -1,10 +1,10 @@
 # openaccountants/openaccountants
 
-⭐ 509 · HTML · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/openaccountants/openaccountants) · [官网](https://www.openaccountants.com/connect) · 组织维护
+⭐ 511 · HTML · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/openaccountants/openaccountants) · [官网](https://www.openaccountants.com/connect) · 组织维护
 
-**给 AI 客户端接入带出处引用的各国税务技能库**
+**面向 AI 的 190+ 国家/地区税收技能库，数字逐条引证法律来源**
 
-以 skill 文件形式提供 283 个国家/州/地区的税务知识包，每条税率、起征点、截止日期均链接官方来源；PR 时自动核验数字是否出现在来源页并重算示例。技能由注册会计师署名批准（当前 34 名、28 个辖区，超 100 条获批），批准信息经 MCP 插件展示而非仓库。可通过 MCP 地址接入 Claude/ChatGPT/Cursor 等，或从 packages/ 手动下载上传。仓库声明为通用参考而非税务建议。
+以 SKILL/Markdown 包形式组织的税务知识库，覆盖 283 个国家、州与地区；每条税率、起征点、期限均链接官方来源页，PR 上自动核验数字是否存在于来源页并重算示例。由执业会计师逐条署名审批（当前 34 名会计师批准 100+ 条），审批状态通过其 MCP 插件呈现。使用方式为向 ChatGPT/Claude/Cursor 等添加其 MCP 地址、自托管 Python MCP 服务器或手动上传 packages/ 下的辖区文件。仓库声明为一般参考而非税务建议。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 每项数字链接官方法律/税务局页面并经自动核验
-- PR 级来源核查与来源页快照存档（evidence 仓库）
-- 34 名署名注册会计师批准机制，文本变更即清除批准
-- 支持 MCP 接入、Python MCP server 自托管与手动文件上传
+- 数字逐条链接官方法律/税务机关页面，PR 自动核验数字与重算示例
+- 执业会计师署名审批机制，文本变更即清除审批
+- 提供 MCP 端点、Python MCP 服务器与手动下载 packages/ 三种接入方式
+- evidence 仓库保存来源页快照以便溯源
 
 ## 适用场景
 
-- 让 ChatGPT/Claude 回答税务问题时引用官方法条而非凭记忆
-- 自托管 MCP server 供内部使用税务技能
-- 会计师认领并批准本国技能署名
+- 让 ChatGPT/Claude 回答各辖区税率、起征点与申报期限并给出法律出处
+- 自由职业者判断是否达到 VAT 注册门槛
+- 会计师为本国税项技能做署名审批或纠错
 
 ## 场景标签
 
@@ -37,21 +37,22 @@
 
 ## 证据(README 行号)
 
-> L3: > Every skill here is written from the official law and the tax authority's own pages, with each figure linked to it
+> L5: **Tax skills for AI, written from the law and approved by named accountants.** Your AI answers tax questions from me
 > L44: Add this address to Claude, ChatGPT, Cursor, Windsurf or any AI that takes a connector:
+> L56: - **Python MCP server:** install the tested GitHub revision. The current PyPI release is older and has no bundled s
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "openaccountants/openaccountants 星数(近 24 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 454 --> 514
-    line [459, 460, 461, 462, 463, 465, 468, 469, 460, 478, 483, 485, 486, 489, 492, 494, 496, 497, 499, 501, 500, 501, 503, 509]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 455 --> 516
+    line [460, 461, 462, 463, 465, 468, 469, 460, 478, 483, 485, 486, 489, 492, 494, 496, 497, 499, 501, 500, 501, 503, 509, 511]
 ```
 
-2026-10-24 459 → 2026-11-26 509（+50）
+2026-10-25 460 → 2026-11-27 511（+51）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `7cf21fc1f9fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0ae264ffa2b4` · [字段定义](../../DATASET.md)*

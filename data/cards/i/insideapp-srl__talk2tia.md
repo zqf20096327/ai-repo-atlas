@@ -1,6 +1,6 @@
 # insideapp-srl/talk2tia
 
-⭐ 4 · C# · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/insideapp-srl/talk2tia) · [官网](https://talk2tia.insideapp.it) · 组织维护
+⭐ 4 · C# · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/insideapp-srl/talk2tia) · [官网](https://talk2tia.insideapp.it) · 组织维护
 
 **MCP 服务器：让 AI 助手通过 Openness 操作 TIA Portal 工程**
 
@@ -40,6 +40,18 @@
 
 > L5:  Talk to TIA Portal. An MCP server that lets your AI assistant work inside Siemens TIA Portal V21 through the offici
 > L24: Talk2Tia exposes **123 MCP tools** to Claude Code, Claude Desktop or any MCP client, so you can work on a TIA Porta
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "insideapp-srl/talk2tia 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

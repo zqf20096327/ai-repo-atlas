@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "piyushdotcomm/Editron 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-26"]
+    title "piyushdotcomm/Editron 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-26", "2026-11-27"]
     y-axis "stars" 66 --> 69
-    line [67, 68]
+    line [67, 68, 68]
 ```
 
-2026-11-01 67 → 2026-11-26 68（+1）
+2026-11-01 67 → 2026-11-27 68（+1）
 
 
 ---

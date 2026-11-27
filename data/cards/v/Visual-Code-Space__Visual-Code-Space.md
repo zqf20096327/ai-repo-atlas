@@ -1,6 +1,6 @@
 # Visual-Code-Space/Visual-Code-Space
 
-⭐ 697 · Kotlin · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Visual-Code-Space/Visual-Code-Space) · [官网](http://visualcodespace.com.br/) · 组织维护
+⭐ 698 · Kotlin · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Visual-Code-Space/Visual-Code-Space) · [官网](http://visualcodespace.com.br/) · 组织维护
 
 **Android 平台的代码编辑器，支持插件与内置终端**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Visual-Code-Space/Visual-Code-Space 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 688 --> 698
-    line [689, 690, 691, 692, 693, 694, 693, 691, 696, 697, 696, 697, 697]
+    title "Visual-Code-Space/Visual-Code-Space 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-27"]
+    y-axis "stars" 689 --> 699
+    line [690, 691, 692, 693, 694, 693, 691, 696, 697, 696, 697, 698]
 ```
 
-2026-10-23 689 → 2026-11-26 697（+8）
+2026-10-24 690 → 2026-11-27 698（+8）
 
 
 ---

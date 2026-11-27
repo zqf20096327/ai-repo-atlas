@@ -45,12 +45,12 @@ Mill.jl（Multiple Instance Learning Library）是基于 Flux.jl 的 Julia 机�
 ```mermaid
 xychart-beta
     title "CTUAvastLab/Mill.jl 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-24 93 → 2026-11-26 93（+0）
+2026-10-25 93 → 2026-11-27 93（+0）
 
 
 ---

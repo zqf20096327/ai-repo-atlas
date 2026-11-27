@@ -1,6 +1,6 @@
 # ifm-ai/xllm
 
-⭐ 143 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ifm-ai/xllm) · [官网](https://ifm.ai/) · 组织维护
+⭐ 143 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ifm-ai/xllm) · [官网](https://ifm.ai/) · 组织维护
 
 **长上下文 LLM 预训练框架：分布式训练与数据处理一体化**
 
@@ -45,13 +45,13 @@ xLLM 是基于 PyTorch 的长上下文语言建模训练框架，将分布式训
 
 ```mermaid
 xychart-beta
-    title "ifm-ai/xllm 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    title "ifm-ai/xllm 星数(近 4 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 137 --> 144
-    line [138, 141, 143]
+    line [138, 141, 143, 143]
 ```
 
-2026-11-23 138 → 2026-11-26 143（+5）
+2026-11-23 138 → 2026-11-27 143（+5）
 
 
 ---

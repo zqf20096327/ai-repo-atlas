@@ -1,6 +1,6 @@
 # endink/Mediapipe4u-plugin
 
-⭐ 512 · 推送 2026-09-04 · [GitHub](https://github.com/endink/Mediapipe4u-plugin) · 个人维护 · 中文 README
+⭐ 513 · 推送 2026-09-04 · [GitHub](https://github.com/endink/Mediapipe4u-plugin) · 个人维护 · 中文 README
 
 **给 UE 开发者的 AI 能力插件：动作/表情捕捉、TTS、ASR、LLM 集成**
 
@@ -45,13 +45,13 @@ Unreal Engine 插件（支持 UE 5.1-5.8，Windows/Android，Linux 标注即将�
 
 ```mermaid
 xychart-beta
-    title "endink/Mediapipe4u-plugin 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 509 --> 514
-    line [510, 511, 512, 513, 511, 513, 512, 512]
+    title "endink/Mediapipe4u-plugin 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 510 --> 514
+    line [511, 512, 513, 511, 513, 512, 513]
 ```
 
-2026-10-24 510 → 2026-11-26 512（+2）
+2026-10-25 511 → 2026-11-27 513（+2）
 
 
 ---

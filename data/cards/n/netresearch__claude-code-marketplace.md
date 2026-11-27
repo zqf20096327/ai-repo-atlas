@@ -1,6 +1,6 @@
 # netresearch/claude-code-marketplace
 
-⭐ 95 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/netresearch/claude-code-marketplace) · [官网](https://netresearch.github.io/claude-code-marketplace/) · 组织维护
+⭐ 96 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/netresearch/claude-code-marketplace) · [官网](https://netresearch.github.io/claude-code-marketplace/) · 组织维护
 
 **面向 AI 编程 agent 的技能市场：39 个可移植 Agent Skills 目录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/claude-code-marketplace 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 62 --> 98
-    line [65, 76, 83, 84, 85, 86, 65, 89, 90, 91, 92, 93, 95, 95]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-22", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 62 --> 99
+    line [65, 76, 83, 84, 85, 86, 65, 89, 90, 91, 92, 93, 95, 96]
 ```
 
-2026-10-24 65 → 2026-11-26 95（+30）
+2026-10-25 65 → 2026-11-27 96（+31）
 
 
 ---

@@ -1,6 +1,6 @@
 # icelab-research/icelab
 
-⭐ 21 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/icelab-research/icelab) · [官网](https://icelab.sh/products/raidzero) · 组织维护
+⭐ 22 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/icelab-research/icelab) · [官网](https://icelab.sh) · 组织维护
 
 **RaidZero 媒体可观测性产品的多语言客户端 SDK 集合**
 
@@ -41,13 +41,13 @@ Ice Lab 维护的 RaidZero 媒体可观测性产品的官方 SDK 仓库，提供
 
 ```mermaid
 xychart-beta
-    title "icelab-research/icelab 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-26"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 21]
+    title "icelab-research/icelab 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 21, 22]
 ```
 
-2026-11-16 18 → 2026-11-26 21（+3）
+2026-11-16 18 → 2026-11-27 22（+4）
 
 
 ---

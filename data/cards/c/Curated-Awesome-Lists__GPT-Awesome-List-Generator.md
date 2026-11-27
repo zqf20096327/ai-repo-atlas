@@ -45,12 +45,12 @@ Python 程序：输入关键词与描述，从 GitHub、Google Scholar、YouTube
 ```mermaid
 xychart-beta
     title "Curated-Awesome-Lists/GPT-Awesome-List-Generator 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-24 44 → 2026-11-26 44（+0）
+2026-10-25 44 → 2026-11-27 44（+0）
 
 
 ---

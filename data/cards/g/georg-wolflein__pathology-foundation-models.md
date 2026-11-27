@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "georg-wolflein/pathology-foundation-models 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "georg-wolflein/pathology-foundation-models 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 207 --> 210
-    line [208, 209]
+    line [208, 209, 209]
 ```
 
-2026-10-24 208 → 2026-11-26 209（+1）
+2026-10-25 208 → 2026-11-27 209（+1）
 
 
 ---

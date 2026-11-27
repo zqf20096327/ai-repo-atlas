@@ -1,6 +1,6 @@
 # faith-ogun/second-brain
 
-⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/faith-ogun/second-brain) · [官网](https://faith-ogun.github.io/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/faith-ogun/second-brain) · [官网](https://faith-ogun.github.io/) · 个人维护
 
 **供 AI agent 读写导航的纯 Markdown 第二大脑模板**
 
@@ -41,6 +41,18 @@
 > L7:  A plain-markdown brain that an AI agent can actually read, write to, and find its way around.
 > L35: This is the other fix. You give the model a **place to remember**: a folder of markdown files,
 > L41: pipeline, no RAG service. It is directories and text files, which means you can read it, grep it,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "faith-ogun/second-brain 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

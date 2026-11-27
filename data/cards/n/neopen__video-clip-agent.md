@@ -1,6 +1,6 @@
 # neopen/video-clip-agent
 
-⭐ 46 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/neopen/video-clip-agent) · [官网](https://clip.helpenx.com/) · 个人维护 · 中文 README
+⭐ 47 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/neopen/video-clip-agent) · [官网](https://clip.helpenx.com/) · 个人维护 · 中文 README
 
 **自然语言驱动的视频混剪智能体：分析、筛选、裁剪、合成多个视频**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neopen/video-clip-agent 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 42 --> 47
-    line [43, 44, 43, 45, 46, 46]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 42 --> 48
+    line [43, 44, 43, 45, 46, 47]
 ```
 
-2026-10-24 43 → 2026-11-26 46（+3）
+2026-10-25 43 → 2026-11-27 47（+4）
 
 
 ---

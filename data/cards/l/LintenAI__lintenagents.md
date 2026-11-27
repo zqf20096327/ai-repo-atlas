@@ -1,6 +1,6 @@
 # LintenAI/lintenagents
 
-⭐ 241 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/LintenAI/lintenagents) · [官网](https://linten.app/lintenagent) · 组织维护
+⭐ 242 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/LintenAI/lintenagents) · [官网](https://linten.app/lintenagent) · 组织维护
 
 **统一 Python SDK，跨 DeepAgents/Pydantic AI/Claude Agent SDK 等切换 agent 框架与模型**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "LintenAI/lintenagents 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-26"]
+    title "LintenAI/lintenagents 星数(近 6 点)"
+    x-axis ["2026-11-12", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 239 --> 243
-    line [242, 240, 241, 242, 241]
+    line [242, 240, 241, 242, 241, 242]
 ```
 
-2026-11-12 242 → 2026-11-26 241（-1）
+2026-11-12 242 → 2026-11-27 242（+0）
 
 
 ---

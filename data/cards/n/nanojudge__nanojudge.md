@@ -1,6 +1,6 @@
 # nanojudge/nanojudge
 
-⭐ 30 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nanojudge/nanojudge) · [官网](https://nanojudge.ai/) · 组织维护
+⭐ 30 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nanojudge/nanojudge) · [官网](https://nanojudge.ai/) · 组织维护
 
 **用 LLM 裁判对任意列表按自定义标准排序的排行引擎**
 
@@ -46,12 +46,12 @@ Rust 实现的排序引擎：用户给出评价标准（如“哪个更健康”
 ```mermaid
 xychart-beta
     title "nanojudge/nanojudge 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-24 29 → 2026-11-26 30（+1）
+2026-10-25 29 → 2026-11-27 30（+1）
 
 
 ---

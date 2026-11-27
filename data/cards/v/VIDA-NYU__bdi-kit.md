@@ -1,6 +1,6 @@
 # VIDA-NYU/bdi-kit
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/VIDA-NYU/bdi-kit) · [官网](https://bdi-kit.readthedocs.io) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/VIDA-NYU/bdi-kit) · [官网](https://bdi-kit.readthedocs.io) · 组织维护
 
 **生物医学数据整合与模式 Harmon 化 Python 工具库**
 
@@ -46,12 +46,12 @@ VIDA-NYU（纽约大学）维护的生物医学数据整合工具库，提供模
 ```mermaid
 xychart-beta
     title "VIDA-NYU/bdi-kit 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 26]
+    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-10-24 25 → 2026-11-26 26（+1）
+2026-10-25 25 → 2026-11-27 27（+2）
 
 
 ---

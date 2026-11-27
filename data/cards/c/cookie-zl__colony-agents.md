@@ -41,6 +41,18 @@
 > L20: 一句话：**把 DeepSeek Harness（下称 dsh）部署到云上，做成一套多租户的 Agent 基础设施——团队共用、能力可装、群里可用。**
 > L35: 它不重写 Agent，也不做新的聊天前端。它是 Agent 的**物业**——门禁、水电、保洁、消防。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cookie-zl/colony-agents 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-26 7 → 2026-11-27 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `41d7039a4988` · [字段定义](../../DATASET.md)*

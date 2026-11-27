@@ -1,6 +1,6 @@
 # yaoyouzhong/boss-resume-filter
 
-⭐ 24 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/yaoyouzhong/boss-resume-filter) · [官网](https://yaoyouzhong.github.io/boss-resume-filter/) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yaoyouzhong/boss-resume-filter) · [官网](https://yaoyouzhong.github.io/boss-resume-filter/) · 个人维护 · 中文 README
 
 **面向招聘团队的本地桌面简历筛选与候选人跟进工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yaoyouzhong/boss-resume-filter 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-24 24 → 2026-11-26 24（+0）
+2026-10-25 24 → 2026-11-27 24（+0）
 
 
 ---

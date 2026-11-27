@@ -1,6 +1,6 @@
 # zhebrak/llm-cluster-simulator
 
-⭐ 38 · TypeScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/zhebrak/llm-cluster-simulator) · [官网](https://simulator.zhebrak.io/) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/zhebrak/llm-cluster-simulator) · [官网](https://simulator.zhebrak.io/) · 个人维护
 
 **浏览器内模拟分布式 LLM 训练/推理的算力规划模拟器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhebrak/llm-cluster-simulator 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 36 --> 39
+    line [38, 37]
 ```
 
-2026-10-24 38 → 2026-11-26 38（+0）
+2026-10-25 38 → 2026-11-27 37（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # x-tabdeveloping/turftopic
 
-⭐ 128 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/x-tabdeveloping/turftopic) · [官网](https://x-tabdeveloping.github.io/turftopic/) · 组织维护
+⭐ 128 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/x-tabdeveloping/turftopic) · [官网](https://x-tabdeveloping.github.io/turftopic/) · 组织维护
 
 **基于 Transformer 表征的主题建模 Python 库，供文本分析者提取与解读主题**
 
@@ -45,12 +45,12 @@ Turftopic 是一个主题建模库，使用 sentence-transformers 产生的上�
 ```mermaid
 xychart-beta
     title "x-tabdeveloping/turftopic 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 127 --> 129
     line [128, 128]
 ```
 
-2026-10-24 128 → 2026-11-26 128（+0）
+2026-10-25 128 → 2026-11-27 128（+0）
 
 
 ---

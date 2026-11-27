@@ -1,6 +1,6 @@
 # vins13pattar/gh-stars-organizer
 
-⭐ 13 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/vins13pattar/gh-stars-organizer) · [官网](https://vinodspattar.in/gh-stars-organizer/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/vins13pattar/gh-stars-organizer) · [官网](https://vinodspattar.in/gh-stars-organizer/) · 个人维护
 
 **用 LLM 与嵌入把 GitHub stars 整理成可检索知识库的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vins13pattar/gh-stars-organizer 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-27 14（+1）
 
 
 ---

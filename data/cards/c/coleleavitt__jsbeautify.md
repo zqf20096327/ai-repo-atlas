@@ -41,6 +41,18 @@
 > L19: These days agents, not people, read most deobfuscated code. jsbeautify is
 > L112: 3. **Autonomous refinement.** Agents improve the tool they rely on. The repo
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "coleleavitt/jsbeautify 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-26 11 → 2026-11-27 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8029f852d60c` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # AKzar1el/mcp-geo
 
-⭐ 51 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/AKzar1el/mcp-geo) · [官网](https://geo-mcp.digestseo.com/audit) · 个人维护
+⭐ 55 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AKzar1el/mcp-geo) · [官网](https://geo-mcp.digestseo.com/audit) · 个人维护
 
 **追踪品牌在七个 AI 搜索平台被引用情况的可自托管 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AKzar1el/mcp-geo 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 37 --> 52
-    line [38, 39, 38, 40, 39, 40, 51]
+    title "AKzar1el/mcp-geo 星数(近 8 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 37 --> 56
+    line [38, 39, 38, 40, 39, 40, 51, 55]
 ```
 
-2026-10-24 38 → 2026-11-26 51（+13）
+2026-10-25 38 → 2026-11-27 55（+17）
 
 
 ---

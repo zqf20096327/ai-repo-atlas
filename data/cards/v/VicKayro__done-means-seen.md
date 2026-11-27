@@ -41,6 +41,18 @@
 > L61: Claude Code runs Stop hooks when the model is about to end its turn. `verify_on_stop.py`:
 > L86: Every complaint about one of your agents gets logged with its cause and its fix. If the same problem comes back, th
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VicKayro/done-means-seen 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-26 7 → 2026-11-27 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `c5a2ea548e5d` · [字段定义](../../DATASET.md)*

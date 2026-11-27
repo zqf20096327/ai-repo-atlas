@@ -1,6 +1,6 @@
 # Just-Curieous/Curie
 
-⭐ 374 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Just-Curieous/Curie) · [官网](https://www.just-curieous.com/) · 组织维护
+⭐ 374 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Just-Curieous/Curie) · [官网](https://www.just-curieous.com/) · 组织维护
 
 **给科研人员的 AI 实验自动化代理：从假设到报告端到端执行**
 
@@ -40,6 +40,18 @@
 > L10: Curie is the first AI-agent framework designed for automated and rigorous scientific experimentation.
 > L22: - 🚀 Automated Experimentation – From hypothesis formulation, experiment implementation, experiment execution, resul
 > L11: Curie helps answer your curiosity through end-to-end experimentation automation, ensuring that every step—from hypo
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Just-Curieous/Curie 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 373 --> 375
+    line [374, 374]
+```
+
+2026-11-26 374 → 2026-11-27 374（+0）
 
 
 ---

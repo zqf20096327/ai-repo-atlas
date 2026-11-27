@@ -1,10 +1,10 @@
 # amitshekhariitbhu/llm-internals
 
-⭐ 1,775 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/amitshekhariitbhu/llm-internals) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 1,778 · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/amitshekhariitbhu/llm-internals) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**面向开发者的 LLM 内部原理系列教程（分词→注意力→推理优化）**
+**面向工程师的 LLM 原理系列教程（博客+视频索引）**
 
-由 Outcome School 创始人 Amit Shekhar 编写的 LLM 原理学习资料索引，以博客与视频形式逐步讲解分词、BPE、注意力机制（Q/K/V 数学、√dₖ 缩放、因果掩码）、Transformer 架构、反向传播与交叉熵损失、KV Cache、Paged Attention、Flash Attention 等主题，每篇附带 covered 目录。仓库本身不含可运行代码产品，内容持续增长中，定位为系统学习 LLM 内部机制的教程集合。
+由 Outcome School 创始人 Amit Shekhar 维护的 LLM 内部原理学习索引，按主题组织为一系列博客与视频的目录：涵盖 LLM 工作流程、tokenization 与 BPE、Stop Token、Attention 的 Q/K/V 数学、√dₖ 缩放、因果掩码、反向传播与交叉熵损失、logprobs、约束解码、Transformer 架构、FFN、归一化、KV Cache 与 Paged Attention。README 本身不包含完整教学内容，仅提供各篇的目录说明与入口链接，且声明系列会持续扩充。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖从 tokenization 到 attention 再到推理优化（KV Cache/Paged Attention/Flash Attention）的系列文章与视频
-- 注意力 Q/K/V、√dₖ 缩放、因果掩码均附逐步数值示例
-- 包含反向传播与交叉熵损失的数学推导与 Python 实现
-- 每篇列出详细 covered 目录便于按主题检索
+- 按主题组织的系列博客/视频索引，从 tokenization 到推理优化
+- 每篇附详细知识点清单（如 BPE 步骤、注意力公式推导）
+- 含逐步数值示例的数学讲解（注意力、反向传播、交叉熵）
+- 覆盖 KV Cache 与 Paged Attention 等推理优化主题
 
 ## 适用场景
 
 - 系统学习 LLM 从分词到推理优化的内部原理
-- 通过数值示例理解注意力与反向传播的数学细节
-- 为团队培训寻找 LLM 基础教学材料
+- 理解注意力机制背后的数学推导
+- 查阅 KV Cache、约束解码等概念的教学材料
 
 ## 场景标签
 
@@ -39,19 +39,20 @@
 
 > L5: **Learn LLM internals step by step - from tokenization to attention to inference optimization.**
 > L7: Prepared and maintained by the **Founder** of Outcome School: Amit Shekhar
+> L9: **Note: This series will continue to grow as I write more blogs and create more videos on new topics. Keep learning.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "amitshekhariitbhu/llm-internals 星数(近 16 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 1766 --> 1776
-    line [1767, 1768, 1770, 1771, 1772, 1773, 1772, 1768, 1770, 1771, 1772, 1773, 1774, 1773, 1774, 1775]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1767 --> 1779
+    line [1768, 1770, 1771, 1772, 1773, 1772, 1768, 1770, 1771, 1772, 1773, 1774, 1773, 1774, 1775, 1778]
 ```
 
-2026-10-24 1,767 → 2026-11-26 1,775（+8）
+2026-10-25 1,768 → 2026-11-27 1,778（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b42f6e9fcdbd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `26d5af3d6388` · [字段定义](../../DATASET.md)*

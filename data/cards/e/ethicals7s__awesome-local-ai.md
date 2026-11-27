@@ -1,6 +1,6 @@
 # ethicals7s/awesome-local-ai
 
-⭐ 120 · CC0-1.0 · 推送 2025-11-30 · [GitHub](https://github.com/ethicals7s/awesome-local-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地运行 LLM 的开源工具策展清单（152 个工具，7 类）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

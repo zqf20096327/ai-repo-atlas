@@ -46,12 +46,12 @@ Inclusive Code Comments 浏览器扩展的配套机器学习项目：训练一�
 ```mermaid
 xychart-beta
     title "jonathanpeppers/inclusive-code-reviews-ml 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-26 18（+0）
+2026-10-25 18 → 2026-11-27 18（+0）
 
 
 ---

@@ -43,12 +43,12 @@ Elixir/Phoenix LiveView 组件库：在服务端渲染 markdown，token 流式�
 ```mermaid
 xychart-beta
     title "dannote/phoenix_streamdown 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-24 26 → 2026-11-26 26（+0）
+2026-10-25 26 → 2026-11-27 26（+0）
 
 
 ---

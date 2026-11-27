@@ -46,12 +46,12 @@ InfiniteZero 是一个开放协议：参与者在本地设备上用联邦学习�
 ```mermaid
 xychart-beta
     title "InfiniteZeroFoundation/DevNet 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-26"]
+    x-axis ["2026-10-28", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-28 10 → 2026-11-26 10（+0）
+2026-10-28 10 → 2026-11-27 10（+0）
 
 
 ---

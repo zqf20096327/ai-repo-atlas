@@ -1,6 +1,6 @@
 # cgilbert61/G1-Docket
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cgilbert61/G1-Docket) · [官网](https://g1163rt.ai) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cgilbert61/G1-Docket) · [官网](https://g1163rt.ai/docket) · 个人维护
 
 **为企业和安全团队提供数据溯源证明与AI网关预校验**
 
@@ -40,6 +40,18 @@
 > L17: **Cryptographic Data Attestation Framework & Zero-DB-Call AI Gateway Prevalidator (`v1.0.2`) — G1163RT Security Lab
 > L24: 4. **The Zero-DB Prevalidator Gateway (`prevalidator/`)** — A sub-millisecond reverse proxy placed in front of any 
 > L26: 6. **The Developer Client SDK & Forensic Watermarking (`docket/`)** — Standalone Python client SDK (`G1-Docket-SDK`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cgilbert61/G1-Docket 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

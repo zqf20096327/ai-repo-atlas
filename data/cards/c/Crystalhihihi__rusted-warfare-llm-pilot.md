@@ -1,6 +1,6 @@
 # Crystalhihihi/rusted-warfare-llm-pilot
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/Crystalhihihi/rusted-warfare-llm-pilot) · 个人维护 · 中文 README
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/Crystalhihihi/rusted-warfare-llm-pilot) · 个人维护 · 中文 README
 
 **把 LLM 接入铁锈战争的单机 AI 指挥链研究项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Crystalhihihi/rusted-warfare-llm-pilot 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "Crystalhihihi/rusted-warfare-llm-pilot 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 13 --> 18
-    line [14, 15, 14, 16, 17]
+    line [14, 15, 14, 16, 17, 16]
 ```
 
-2026-10-24 14 → 2026-11-26 17（+3）
+2026-10-25 14 → 2026-11-27 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # LlmKira/novelai-python
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/LlmKira/novelai-python) · [官网](https://novelai.net) · 个人维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/LlmKira/novelai-python) · [官网](https://novelai.net) · 个人维护
 
 **访问 NovelAI API 的异步 Python SDK（图像/文本/语音）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LlmKira/novelai-python 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 48 --> 51
     line [49, 50, 50]
 ```
 
-2026-10-24 49 → 2026-11-26 50（+1）
+2026-10-25 49 → 2026-11-27 50（+1）
 
 
 ---

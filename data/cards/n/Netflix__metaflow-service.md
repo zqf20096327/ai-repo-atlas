@@ -1,6 +1,6 @@
 # Netflix/metaflow-service
 
-⭐ 228 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Netflix/metaflow-service) · [官网](http://www.metaflow.org) · 组织维护
+⭐ 229 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Netflix/metaflow-service) · [官网](http://www.metaflow.org) · 组织维护
 
 **Metaflow 的元数据追踪与 UI 服务，记录 Flow/Run/Task 元数据**
 
@@ -45,12 +45,12 @@ Netflix 维护的 Metaflow 元数据服务：对数据库的薄封装，记录�
 ```mermaid
 xychart-beta
     title "Netflix/metaflow-service 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 227 --> 229
-    line [228, 228]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 227 --> 230
+    line [228, 229]
 ```
 
-2026-10-24 228 → 2026-11-26 228（+0）
+2026-10-25 228 → 2026-11-27 229（+1）
 
 
 ---

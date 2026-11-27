@@ -1,6 +1,6 @@
 # pax-beehive/dsh-hub-cli
 
-⭐ 274 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/pax-beehive/dsh-hub-cli) · [官网](https://dshpluginhub.ai) · 组织维护 · 中文 README
+⭐ 273 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/pax-beehive/dsh-hub-cli) · [官网](https://dshpluginhub.ai) · 组织维护 · 中文 README
 
 **DeepSeek Harness 插件的版本化分享与安装 CLI（Preset/Profile 管理）**
 
@@ -46,12 +46,12 @@ DSH Plugin Hub 的开源客户端，面向 DeepSeek Harness（DSH）插件生态
 ```mermaid
 xychart-beta
     title "pax-beehive/dsh-hub-cli 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 273 --> 278
-    line [277, 276, 277, 274, 274]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 272 --> 278
+    line [277, 276, 277, 274, 273]
 ```
 
-2026-10-24 277 → 2026-11-26 274（-3）
+2026-10-25 277 → 2026-11-27 273（-4）
 
 
 ---

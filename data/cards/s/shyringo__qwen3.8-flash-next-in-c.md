@@ -1,6 +1,6 @@
 # shyringo/qwen3.8-flash-next-in-c
 
-⭐ 24 · C · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/shyringo/qwen3.8-flash-next-in-c) · [官网](https://shyringo.github.io/shyringo/) · 个人维护 · 中文 README
+⭐ 25 · C · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/shyringo/qwen3.8-flash-next-in-c) · [官网](https://shyringo.github.io/shyringo/) · 个人维护 · 中文 README
 
 **纯 C 实现的 Qwen3.8-Flash-Next CPU 本地推理引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shyringo/qwen3.8-flash-next-in-c 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-24 23 → 2026-11-26 24（+1）
+2026-10-25 23 → 2026-11-27 25（+2）
 
 
 ---

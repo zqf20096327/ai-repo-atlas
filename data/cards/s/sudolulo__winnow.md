@@ -1,6 +1,6 @@
 # sudolulo/winnow
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/sudolulo/winnow) · [官网](https://github.com/sudolulo/winnow/wiki) · 个人维护
+⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/sudolulo/winnow) · [官网](https://github.com/sudolulo/winnow/wiki) · 个人维护
 
 **从 Immich 照片库筛选多样化人脸训练数据供 Frigate 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sudolulo/winnow 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
     y-axis "stars" 14 --> 18
     line [15, 17, 17]
 ```
 
-2026-10-24 15 → 2026-11-26 17（+2）
+2026-10-25 15 → 2026-11-27 17（+2）
 
 
 ---

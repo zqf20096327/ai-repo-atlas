@@ -45,12 +45,12 @@ OpenFleet 以 CLI 工具形式协调一个大型变更在多个仓库、monorepo
 ```mermaid
 xychart-beta
     title "yashicon21/openfleet-tools 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-14 4 → 2026-11-26 4（+0）
+2026-11-14 4 → 2026-11-27 4（+0）
 
 
 ---

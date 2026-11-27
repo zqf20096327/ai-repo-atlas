@@ -1,6 +1,6 @@
 # abram7200/ibn-office
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/abram7200/ibn-office) · [官网](https://abram7200.github.io/ibn-office/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/abram7200/ibn-office) · [官网](https://abram7200.github.io/ibn-office/) · 个人维护
 
 **把本机多个 AI 编码代理编排成团队协作的办公室层**
 
@@ -40,6 +40,18 @@ IBN Office 在 Windows 上运行，把用户已装的 AI 代理（Claude Code、
 > L4: A Manager plans, a Deputy checks, a Secretary records, and every AI agent on your computer gets a desk —
 > L34: operating layer on top of Windows: it finds every program, tool, plug-in and agent on the PC, learns how each works
 > L60: **IBN Office turns them into a team.** It does not replace your agents: it organises them. You keep typing to your
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "abram7200/ibn-office 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

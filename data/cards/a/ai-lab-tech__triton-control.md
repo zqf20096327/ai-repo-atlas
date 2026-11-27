@@ -1,6 +1,6 @@
 # ai-lab-tech/triton-control
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ai-lab-tech/triton-control) · [官网](https://ailabtech.net/) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ai-lab-tech/triton-control) · [官网](https://ailabtech.net/) · 组织维护
 
 **为 Kubernetes 上的 NVIDIA Triton 推理服务器提供统一 Web 管理界面**
 
@@ -46,12 +46,12 @@ Triton Control 是面向 NVIDIA Triton Inference Server 的开源控制面 Web U
 ```mermaid
 xychart-beta
     title "ai-lab-tech/triton-control 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

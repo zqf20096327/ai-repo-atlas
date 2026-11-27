@@ -1,6 +1,6 @@
 # asf0/libstrix
 
-⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/asf0/libstrix) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/asf0/libstrix) · 个人维护
 
 **AMD Strix Halo 上加速 vLLM 推理的 HIP 内核插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "asf0/libstrix 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-18", "2026-11-20", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-18", "2026-11-20", "2026-11-23", "2026-11-27"]
     y-axis "stars" 20 --> 25
     line [21, 22, 23, 24, 24]
 ```
 
-2026-11-08 21 → 2026-11-26 24（+3）
+2026-11-08 21 → 2026-11-27 24（+3）
 
 
 ---

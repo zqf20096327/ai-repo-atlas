@@ -1,6 +1,6 @@
 # microsoft/Conversation-Knowledge-Mining-Solution-Accelerator
 
-⭐ 481 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator) · 组织维护
+⭐ 481 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/Conversation-Knowledge-Mining-Solution-Accelerator) · 组织维护
 
 **面向企业分析师的对话数据挖掘方案：提取洞察并支持自然语言交互探索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Conversation-Knowledge-Mining-Solution-Accelerator 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-23", "2026-11-26"]
+    title "microsoft/Conversation-Knowledge-Mining-Solution-Accelerator 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 477 --> 482
-    line [478, 479, 480, 481, 480, 481]
+    line [478, 479, 480, 481, 480, 481, 481]
 ```
 
-2026-10-23 478 → 2026-11-26 481（+3）
+2026-10-24 478 → 2026-11-27 481（+3）
 
 
 ---

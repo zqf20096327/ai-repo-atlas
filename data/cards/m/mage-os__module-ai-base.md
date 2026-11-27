@@ -1,6 +1,6 @@
 # mage-os/module-ai-base
 
-⭐ 10 · PHP · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/mage-os/module-ai-base) · 组织维护
+⭐ 10 · PHP · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/mage-os/module-ai-base) · 组织维护
 
 **Magento 统一配置与管理 AI 供应商及用量的基础模块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mage-os/module-ai-base 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-26"]
+    x-axis ["2026-10-31", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-31 10 → 2026-11-26 10（+0）
+2026-10-31 10 → 2026-11-27 10（+0）
 
 
 ---

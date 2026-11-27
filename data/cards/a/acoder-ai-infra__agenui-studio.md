@@ -1,6 +1,6 @@
 # acoder-ai-infra/agenui-studio
 
-⭐ 80 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/acoder-ai-infra/agenui-studio) · 组织维护 · 中文 README
+⭐ 81 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/acoder-ai-infra/agenui-studio) · 组织维护 · 中文 README
 
 **自托管工作台：用 AI agent 生成可执行的数据绑定界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "acoder-ai-infra/agenui-studio 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 78 --> 81
-    line [79, 80, 80]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 78 --> 82
+    line [79, 80, 81]
 ```
 
-2026-10-24 79 → 2026-11-26 80（+1）
+2026-10-25 79 → 2026-11-27 81（+2）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arthurflor23/handwritten-text-recognition 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-26"]
+    title "arthurflor23/handwritten-text-recognition 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-26", "2026-11-27"]
     y-axis "stars" 306 --> 309
-    line [307, 308, 307, 308]
+    line [307, 308, 307, 308, 308]
 ```
 
-2026-10-24 307 → 2026-11-26 308（+1）
+2026-10-25 307 → 2026-11-27 308（+1）
 
 
 ---

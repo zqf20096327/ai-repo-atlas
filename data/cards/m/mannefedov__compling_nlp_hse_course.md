@@ -1,6 +1,6 @@
 # mannefedov/compling_nlp_hse_course
 
-⭐ 191 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/mannefedov/compling_nlp_hse_course) · 组织维护
+⭐ 191 · Jupyter Notebook · 推送 2026-11-26 · [GitHub](https://github.com/mannefedov/compling_nlp_hse_course) · 组织维护
 
 **HSE 计算语言学课程的教学材料合集（Jupyter 笔记本）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mannefedov/compling_nlp_hse_course 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
     y-axis "stars" 189 --> 192
     line [190, 191, 191]
 ```
 
-2026-10-24 190 → 2026-11-26 191（+1）
+2026-10-25 190 → 2026-11-27 191（+1）
 
 
 ---

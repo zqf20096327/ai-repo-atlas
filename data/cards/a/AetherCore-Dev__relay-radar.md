@@ -1,6 +1,6 @@
 # AetherCore-Dev/relay-radar
 
-⭐ 152 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/AetherCore-Dev/relay-radar) · [官网](https://aethercore-dev.github.io/relay-radar/) · 组织维护 · 中文 README
+⭐ 154 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/AetherCore-Dev/relay-radar) · [官网](https://aethercore-dev.github.io/relay-radar/) · 组织维护 · 中文 README
 
 **AI 中转站质量检测工具：验模型真假、审计 Token 计费**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AetherCore-Dev/relay-radar 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-18", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 147 --> 153
-    line [149, 148, 149, 150, 151, 152, 152]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-18", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 147 --> 155
+    line [149, 148, 149, 150, 151, 152, 154]
 ```
 
-2026-10-24 149 → 2026-11-26 152（+3）
+2026-10-25 149 → 2026-11-27 154（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # SnoobieJunes/goose-deuce
 
-⭐ 3 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SnoobieJunes/goose-deuce) · 个人维护
+⭐ 4 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SnoobieJunes/goose-deuce) · 个人维护
 
 **约束 AI 编码代理工作流的纯 Markdown 操作手册套件**
 
@@ -41,6 +41,18 @@
 > L3: **A plain-markdown operating system that keeps AI coding agents from improvising
 > L107: |Harness|How it loads the law|Notes|
 > L109: |**Codex / Cursor / OpenCode**|Reads `AGENTS.md` natively|—|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SnoobieJunes/goose-deuce 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

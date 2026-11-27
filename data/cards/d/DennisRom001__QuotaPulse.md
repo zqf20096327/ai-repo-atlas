@@ -1,6 +1,6 @@
 # DennisRom001/QuotaPulse
 
-⭐ 3 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DennisRom001/QuotaPulse) · [官网](https://github.com/DennisRom001/QuotaPulse/releases/latest) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DennisRom001/QuotaPulse) · [官网](https://github.com/DennisRom001/QuotaPulse/releases/latest) · 个人维护
 
 **Windows/macOS/Linux 桌面端 AI 配额监控器：汇总多工具余量与重置时间**
 
@@ -40,6 +40,18 @@
 > L5: **Real-time AI quota monitor for Windows, macOS and Linux — every plan's remaining usage and reset time, at a glance
 > L22: - **Native and light.** Tauri 2 + Rust + React. The Rust core uses about 30 MB of memory; the UI runs on the system
 > L23: - **100% local, no telemetry.** It reuses the sessions your CLIs already have on this machine and talks **directly*
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DennisRom001/QuotaPulse 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-26 3 → 2026-11-27 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dashitongzhi/MingJian
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/dashitongzhi/MingJian) · 组织维护 · 中文 README
+⭐ 34 · Python · Apache-2.0 · 推送 2026-08-11 · [GitHub](https://github.com/dashitongzhi/MingJian) · 组织维护 · 中文 README
 
 **多智能体决策支持平台：证据采集、辩论与情景仿真生成可审计建议**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dashitongzhi/MingJian 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 32 --> 35
-    line [34, 33, 34, 33, 33]
+    line [34, 33, 34, 33, 34]
 ```
 
-2026-10-24 34 → 2026-11-26 33（-1）
+2026-10-25 34 → 2026-11-27 34（+0）
 
 
 ---

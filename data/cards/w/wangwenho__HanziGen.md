@@ -1,6 +1,6 @@
 # wangwenho/HanziGen
 
-⭐ 171 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/wangwenho/HanziGen) · [官网](https://deepwiki.com/wangwenho/HanziGen) · 个人维护 · 中文 README
+⭐ 172 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/wangwenho/HanziGen) · [官网](https://deepwiki.com/wangwenho/HanziGen) · 个人维护 · 中文 README
 
 **漢字字型生成與補全系統：為缺字字型生成風格一致字形**
 
@@ -46,12 +46,12 @@ ICCE-Taiwan 2026 論文〈HanziGen〉官方實作，以潛在擴散模型（VQ-V
 ```mermaid
 xychart-beta
     title "wangwenho/HanziGen 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 164 --> 172
-    line [166, 165, 166, 168, 169, 170, 171, 171]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 164 --> 173
+    line [166, 165, 166, 168, 169, 170, 171, 172]
 ```
 
-2026-10-24 166 → 2026-11-26 171（+5）
+2026-10-25 166 → 2026-11-27 172（+6）
 
 
 ---

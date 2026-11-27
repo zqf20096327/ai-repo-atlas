@@ -1,6 +1,6 @@
 # huggingface/gym-aloha
 
-⭐ 222 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/gym-aloha) · 组织维护
+⭐ 221 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/gym-aloha) · 组织维护
 
 **ALOHA 双臂机器人操作的 Gymnasium 仿真环境**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/gym-aloha 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-13", "2026-11-26"]
-    y-axis "stars" 221 --> 224
-    line [222, 223, 222, 222]
+    title "huggingface/gym-aloha 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    y-axis "stars" 220 --> 224
+    line [223, 222, 221]
 ```
 
-2026-10-24 222 → 2026-11-26 222（+0）
+2026-10-25 223 → 2026-11-27 221（-2）
 
 
 ---

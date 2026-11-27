@@ -1,10 +1,10 @@
 # brightdata/brightdata-mcp
 
-⭐ 2,738 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
+⭐ 2,739 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
 
-**给 AI 代理提供网页搜索、抓取与浏览器自动化的 MCP 服务器**
+**为 AI 代理提供网页搜索、抓取与浏览器自动化的 MCP 服务器**
 
-Bright Data 出品的 MCP 服务器，向 AI 代理与 MCP 兼容客户端提供 31 个工具：网页搜索（Bing/Google 结果结构化）、任意 URL 转 Markdown/HTML/JSON-LD、1,200+ 预构建爬虫的结构化 JSON 输出、远程浏览器自动化，以及收集 ChatGPT/Perplexity 回答。支持托管远程服务器（URL 接入、免安装）与本地 npx 两种部署方式，可通过 GROUPS/TOOLS 参数按需加载工具组。每月免费 5,000 请求，超出后按量计费。
+Bright Data 的 MCP 服务器，向 AI 代理与 LLM 客户端暴露 30 余个工具：Bing/Google 搜索返回结构化数据、任意 URL 转 Markdown/HTML/JSON-LD、1,200+ 预建爬虫输出平台结构化 JSON、远程浏览器会话内点击输入截图、向 ChatGPT 发送 prompt 收集回答。支持托管远程服务器（URL 接入）与本地 npx 实例两种部署；工具按分组加载以减少上下文占用。含每月 5,000 次免费额度，超出后按量计费。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Bright Data 出品的 MCP 服务器，向 AI 代理与 MCP 兼容客户端提供
 
 ## 能力要点
 
-- 31 个工具覆盖搜索、抓取、结构化数据、浏览器自动化
-- 1,200+ 预构建爬虫输出干净 JSON，覆盖 Amazon、LinkedIn、TikTok 等
-- 托管远程（一个 URL）与本地 npx 两种部署方式
-- 工具分组机制（GROUPS/TOOLS）减少代理上下文占用
+- 30 个 MCP 工具：搜索、网页抓取、结构化数据、浏览器自动化
+- 1,200+ 预建爬虫覆盖 Amazon/LinkedIn/TikTok/YouTube 等平台
+- 托管远程 URL 与本地 npx 两种部署方式
+- 工具分组（GROUPS/TOOLS）按需加载以控制上下文
 
 ## 适用场景
 
-- 让 AI 代理用实时网页数据回答问题而非仅依赖训练数据
-- 电商比价与产品数据结构化采集
-- 为编码代理按需获取 npm/PyPI/GitHub 包信息
-- 社交平台账号与帖子的结构化监控
+- 让 AI 代理用实时网页数据回答问题而非依赖训练数据
+- 电商比价与商品评论的结构化采集
+- 为编程代理按需获取 npm/PyPI 包与 GitHub 仓库数据
+- 监控社交平台账号的帖子与互动数据
 
 ## 场景标签
 
@@ -39,21 +39,21 @@ Bright Data 出品的 MCP 服务器，向 AI 代理与 MCP 兼容客户端提供
 ## 证据(README 行号)
 
 > L7:  Web search, page scraping, structured data extraction, and browser automation for AI agents and LLMs over the Model
-> L26: The Bright Data MCP server gives AI agents real-time access to public web data. It exposes **31 tools** covering:
+> L26: The Bright Data MCP server gives AI agents real-time access to public web data. It exposes **30 tools** covering:
 > L35: Two deployment options: a hosted remote server (one URL, no installation) or a local instance via `npx @brightdata/
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "brightdata/brightdata-mcp 星数(近 23 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 2681 --> 2743
-    line [2686, 2687, 2691, 2693, 2695, 2696, 2698, 2703, 2686, 2715, 2718, 2722, 2724, 2726, 2727, 2729, 2728, 2730, 2733, 2732, 2733, 2734, 2738]
+    title "brightdata/brightdata-mcp 星数(近 24 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2681 --> 2744
+    line [2686, 2687, 2691, 2693, 2695, 2696, 2698, 2703, 2686, 2715, 2718, 2722, 2724, 2726, 2727, 2729, 2728, 2730, 2733, 2732, 2733, 2734, 2738, 2739]
 ```
 
-2026-10-24 2,686 → 2026-11-26 2,738（+52）
+2026-10-25 2,686 → 2026-11-27 2,739（+53）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a7df49905a81` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `b21b98bb92af` · [字段定义](../../DATASET.md)*

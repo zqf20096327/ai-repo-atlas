@@ -1,6 +1,6 @@
 # openagentidentityprotocol/agentidentityprotocol
 
-⭐ 38 · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/openagentidentityprotocol/agentidentityprotocol) · [官网](https://github.com/openagentidentityprotocol/openagentidentityprotocol#readme) · 个人维护
+⭐ 39 · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/openagentidentityprotocol/agentidentityprotocol) · [官网](https://github.com/openagentidentityprotocol/openagentidentityprotocol#readme) · 个人维护
 
 **AI agent 的零信任身份与授权协议及 MCP 策略执行代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openagentidentityprotocol/agentidentityprotocol 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-24 38 → 2026-11-26 38（+0）
+2026-10-25 38 → 2026-11-27 39（+1）
 
 
 ---

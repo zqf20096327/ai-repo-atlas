@@ -1,6 +1,6 @@
 # google/doubleml-pipeline
 
-⭐ 123 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/google/doubleml-pipeline) · [官网](https://pypi.org/project/doubleml-pipeline/) · 组织维护
+⭐ 123 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/google/doubleml-pipeline) · [官网](https://pypi.org/project/doubleml-pipeline/) · 组织维护
 
 **自动 DoubleML+AutoML 因果推断库，估算营销增量与 ROI**
 
@@ -45,13 +45,13 @@ Google APAC 营销效果工作组维护的 Python 库，基于 DoubleML 与 FLAM
 
 ```mermaid
 xychart-beta
-    title "google/doubleml-pipeline 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26"]
+    title "google/doubleml-pipeline 星数(近 10 点)"
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 74 --> 127
-    line [78, 84, 86, 78, 105, 108, 109, 110, 123]
+    line [78, 84, 86, 78, 105, 108, 109, 110, 123, 123]
 ```
 
-2026-10-24 78 → 2026-11-26 123（+45）
+2026-10-25 78 → 2026-11-27 123（+45）
 
 
 ---

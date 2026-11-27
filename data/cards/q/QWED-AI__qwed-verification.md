@@ -1,6 +1,6 @@
 # QWED-AI/qwed-verification
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/QWED-AI/qwed-verification) · [官网](https://docs.qwedai.tech) · 个人维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/QWED-AI/qwed-verification) · [官网](https://docs.qwedai.tech) · 个人维护
 
 **LLM/AI 输出的确定性验证层：生产执行前判定可否放行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QWED-AI/qwed-verification 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 60 --> 81
-    line [61, 63, 64, 61, 64, 73, 77, 78, 79, 80]
+    title "QWED-AI/qwed-verification 星数(近 11 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 59 --> 83
+    line [61, 63, 64, 61, 64, 73, 77, 78, 79, 80, 81]
 ```
 
-2026-10-24 61 → 2026-11-26 80（+19）
+2026-10-25 61 → 2026-11-27 81（+20）
 
 
 ---

@@ -46,12 +46,12 @@ docs.token173.net 的 GitHub 镜像文档仓库，内容为 Token173.net 中转 
 ```mermaid
 xychart-beta
     title "Token173/doc-token173-api 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-27"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-11-19 29 → 2026-11-26 29（+0）
+2026-11-19 29 → 2026-11-27 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # nutstore/eo2weave
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nutstore/eo2weave) · [官网](https://weave.eo2suite.com) · 组织维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nutstore/eo2weave) · [官网](https://weave.eo2suite.com) · 组织维护 · 中文 README
 
 **本地优先的浏览器端 AI 创作与多智能体协作平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nutstore/eo2weave 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-24 17 → 2026-11-26 18（+1）
+2026-10-25 17 → 2026-11-27 18（+1）
 
 
 ---

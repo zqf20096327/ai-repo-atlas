@@ -1,6 +1,6 @@
 # nemmusu/llm-capacity-planner
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nemmusu/llm-capacity-planner) · [官网](https://github.com/nemmusu/llm-capacity-planner) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/nemmusu/llm-capacity-planner) · [官网](https://github.com/nemmusu/llm-capacity-planner) · 个人维护
 
 **为工程师估算 LLM 推理所需 GPU 显存与并发容量的 CLI 计算器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nemmusu/llm-capacity-planner 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-21", "2026-11-27"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-21 3 → 2026-11-26 3（+0）
+2026-11-21 3 → 2026-11-27 4（+1）
 
 
 ---

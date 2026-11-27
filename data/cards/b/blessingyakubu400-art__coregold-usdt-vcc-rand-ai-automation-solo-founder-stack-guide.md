@@ -1,6 +1,6 @@
 # blessingyakubu400-art/coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide
 
-⭐ 21 · 推送 2026-11-24 · [GitHub](https://github.com/blessingyakubu400-art/coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 36 · 推送 2026-11-24 · [GitHub](https://github.com/blessingyakubu400-art/coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向一人公司的虚拟卡开通与订阅支付操作教程**
 
@@ -39,6 +39,18 @@
 
 > L9: ### 🔍 核心干货：超级个体与一人公司的 4 个极简用卡法则
 > L22: ### 🧭 CoreGold 极简开卡与绑定教程（一看就会）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "blessingyakubu400-art/coregold-usdt-vcc-rand-ai-automation-solo-founder-stack-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 20 --> 37
+    line [21, 36]
+```
+
+2026-11-26 21 → 2026-11-27 36（+15）
 
 
 ---

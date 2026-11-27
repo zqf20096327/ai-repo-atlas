@@ -1,6 +1,6 @@
 # garge33limer/imbalanced-dataset-sampler
 
-⭐ 51 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/garge33limer/imbalanced-dataset-sampler) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/garge33limer/imbalanced-dataset-sampler) · 个人维护
 
 **PyTorch 训练采样器：重采样缓解类别不平衡**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "garge33limer/imbalanced-dataset-sampler 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 35 --> 52
+    line [50, 51, 36]
 ```
 
-2026-11-08 50 → 2026-11-26 51（+1）
+2026-11-08 50 → 2026-11-27 36（-14）
 
 
 ---

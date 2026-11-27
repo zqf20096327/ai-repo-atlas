@@ -1,6 +1,6 @@
 # openai/planttalk
 
-⭐ 317 · TypeScript · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/openai/planttalk) · 组织维护
+⭐ 318 · TypeScript · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/openai/planttalk) · 组织维护
 
 **可对话的盆栽项目：用 ChatGPT 让植物开口说话**
 
@@ -44,13 +44,13 @@ OpenAI 发布的 DIY 硬件项目：通过电脑摄像头与麦克风结合 Open
 
 ```mermaid
 xychart-beta
-    title "openai/planttalk 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-10", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 313 --> 318
-    line [314, 315, 314, 315, 316, 317, 317]
+    title "openai/planttalk 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-02", "2026-11-10", "2026-11-19", "2026-11-27"]
+    y-axis "stars" 313 --> 319
+    line [315, 314, 315, 316, 317, 318]
 ```
 
-2026-10-24 314 → 2026-11-26 317（+3）
+2026-10-25 315 → 2026-11-27 318（+3）
 
 
 ---

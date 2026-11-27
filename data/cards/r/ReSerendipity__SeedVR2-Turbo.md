@@ -1,6 +1,6 @@
 # ReSerendipity/SeedVR2-Turbo
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ReSerendipity/SeedVR2-Turbo) · [官网](https://reserendipity.github.io/SeedVR2-Turbo/) · 个人维护 · 中文 README
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ReSerendipity/SeedVR2-Turbo) · [官网](https://reserendipity.github.io/SeedVR2-Turbo/) · 个人维护 · 中文 README
 
 **本地视频与图像超分 Web 应用，上传即修复、数据不出机**
 
@@ -39,6 +39,18 @@
 
 > L23: SeedVR2-Lite 把字节跳动 Seed 团队与南洋理工大学 S-Lab 联合开源的 SeedVR2 单步扩散修复模型，包装成一个**独立运行的本地 Web 应用**：上传一张图片或一段视频，即可完成超分辨率与细节增强，数据
 > L29: - **视频与图像修复**：基于单步扩散模型的超分辨率与细节增强，本地推理、数据不出机器。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ReSerendipity/SeedVR2-Turbo 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-26 20 → 2026-11-27 20（+0）
 
 
 ---

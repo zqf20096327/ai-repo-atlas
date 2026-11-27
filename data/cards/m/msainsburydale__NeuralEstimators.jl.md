@@ -1,6 +1,6 @@
 # msainsburydale/NeuralEstimators.jl
 
-⭐ 63 · Julia · MIT · 推送 2026-11-25 · [GitHub](https://github.com/msainsburydale/NeuralEstimators.jl) · 个人维护
+⭐ 63 · Julia · MIT · 推送 2026-11-26 · [GitHub](https://github.com/msainsburydale/NeuralEstimators.jl) · 个人维护
 
 **面向似然不可解场景的 Julia 神经网络仿真推断包**
 
@@ -46,12 +46,12 @@ Julia 语言包，提供基于神经网络的仿真式（似然无关）参数�
 ```mermaid
 xychart-beta
     title "msainsburydale/NeuralEstimators.jl 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 59 --> 64
     line [60, 63, 63]
 ```
 
-2026-10-24 60 → 2026-11-26 63（+3）
+2026-10-25 60 → 2026-11-27 63（+3）
 
 
 ---

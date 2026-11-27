@@ -1,6 +1,6 @@
 # aliasfoxkde/FireCraft
 
-⭐ 31 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/aliasfoxkde/FireCraft) · [官网](https://artcraft-webos.pages.dev/) · 个人维护
+⭐ 31 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/aliasfoxkde/FireCraft) · [官网](https://artcraft-webos.pages.dev/) · 个人维护
 
 **Rust 编写的开源矢量+位图混合图形编辑器，复刻 Fireworks 工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aliasfoxkde/FireCraft 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
+    title "aliasfoxkde/FireCraft 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 19 --> 32
-    line [20, 22, 23, 24, 25, 26, 27, 28, 29, 31]
+    line [20, 22, 23, 24, 25, 26, 27, 28, 29, 31, 31]
 ```
 
-2026-11-08 20 → 2026-11-26 31（+11）
+2026-11-08 20 → 2026-11-27 31（+11）
 
 
 ---

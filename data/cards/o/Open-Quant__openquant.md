@@ -1,6 +1,6 @@
 # Open-Quant/openquant
 
-⭐ 56 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Open-Quant/openquant) · [官网](https://open-quant.github.io/openquant/) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Open-Quant/openquant) · [官网](https://open-quant.github.io/openquant/) · 组织维护
 
 **Rust 实现金融机器学习方法（AFML）并带 Python 绑定的库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Open-Quant/openquant 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 51 --> 57
-    line [52, 53, 52, 56, 56]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 51 --> 58
+    line [52, 53, 52, 56, 57]
 ```
 
-2026-10-24 52 → 2026-11-26 56（+4）
+2026-10-25 52 → 2026-11-27 57（+5）
 
 
 ---

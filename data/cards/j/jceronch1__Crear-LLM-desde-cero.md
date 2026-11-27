@@ -1,6 +1,6 @@
 # jceronch1/Crear-LLM-desde-cero
 
-⭐ 5 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jceronch1/Crear-LLM-desde-cero) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jceronch1/Crear-LLM-desde-cero) · 个人维护
 
 **西语教学项目：从零构建并训练自己的 LLM（含 13 课课程）**
 
@@ -40,6 +40,18 @@
 > L5: Herramienta docente en español · funciona en CPU o en GPU · curso de 13 clases incluido
 > L20: Un proyecto para **aprender cómo funciona un LLM construyendo uno**: sin descargar ningún modelo
 > L28: |📚 **El curso** · `curso/`|13 clases en Jupyter con 11 ejercicios que se corrigen solos, guía del profesor y soluci
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jceronch1/Crear-LLM-desde-cero 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-26 5 → 2026-11-27 6（+1）
 
 
 ---

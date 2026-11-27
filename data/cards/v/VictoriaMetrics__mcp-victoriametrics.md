@@ -1,6 +1,6 @@
 # VictoriaMetrics/mcp-victoriametrics
 
-⭐ 249 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/VictoriaMetrics/mcp-victoriametrics) · [官网](https://victoriametrics.com/) · 组织维护
+⭐ 248 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/VictoriaMetrics/mcp-victoriametrics) · [官网](https://victoriametrics.com/) · 组织维护
 
 **VictoriaMetrics 的 MCP 服务器：让 MCP 客户端操作监控实例**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "VictoriaMetrics/mcp-victoriametrics 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 238 --> 250
-    line [239, 240, 241, 240, 241, 240, 243, 244, 245, 246, 247, 249, 249]
+    title "VictoriaMetrics/mcp-victoriametrics 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-27"]
+    y-axis "stars" 239 --> 250
+    line [240, 241, 240, 241, 240, 243, 244, 245, 246, 247, 249, 248]
 ```
 
-2026-10-24 239 → 2026-11-26 249（+10）
+2026-10-25 240 → 2026-11-27 248（+8）
 
 
 ---

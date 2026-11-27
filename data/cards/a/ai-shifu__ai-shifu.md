@@ -1,6 +1,6 @@
 # ai-shifu/ai-shifu
 
-⭐ 333 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ai-shifu/ai-shifu) · [官网](https://ai-shifu.com) · 组织维护 · 中文 README
+⭐ 333 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ai-shifu/ai-shifu) · [官网](https://ai-shifu.com) · 组织维护 · 中文 README
 
 **给创作者/教师提供可自托管的一对一 AI 教学 agent**
 
@@ -45,13 +45,13 @@ AI-Shifu 是面向创作者、教师与企业培训团队的可扩展一对一�
 
 ```mermaid
 xychart-beta
-    title "ai-shifu/ai-shifu 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 325 --> 334
-    line [326, 327, 329, 330, 327, 332, 333, 333]
+    title "ai-shifu/ai-shifu 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 326 --> 334
+    line [327, 329, 330, 327, 332, 333, 333]
 ```
 
-2026-10-24 326 → 2026-11-26 333（+7）
+2026-10-25 327 → 2026-11-27 333（+6）
 
 
 ---

@@ -40,6 +40,18 @@
 > L18: **AI Session Suite — AI Session Suite — ai session rotator tool** (`ai-session-rotator`) ships as a native 64-bit W
 > L50: 10+ AI services.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hassany30/ai-session-rotator 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
+```
+
+2026-11-26 48 → 2026-11-27 48（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a22bf4570cf4` · [字段定义](../../DATASET.md)*

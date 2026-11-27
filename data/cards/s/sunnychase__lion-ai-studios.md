@@ -1,6 +1,6 @@
 # sunnychase/lion-ai-studios
 
-⭐ 4 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sunnychase/lion-ai-studios) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 NVIDIA DGX Spark 提供本地运行的 AI 视频/图像/音乐/配音生成工作室**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # inite-ai/inite-brain-service
 
-⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/inite-ai/inite-brain-service) · [官网](https://brain.inite.ai) · 组织维护
+⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/inite-ai/inite-brain-service) · [官网](https://brain.inite.ai) · 组织维护
 
 **给 AI agent 的双时态知识图谱长期记忆服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "inite-ai/inite-brain-service 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 41 --> 44
     line [42, 43, 42, 43, 43]
 ```
 
-2026-10-24 42 → 2026-11-26 43（+1）
+2026-10-25 42 → 2026-11-27 43（+1）
 
 
 ---

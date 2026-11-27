@@ -1,6 +1,6 @@
 # TholeG/typesafe-chess
 
-⭐ 10 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/TholeG/typesafe-chess) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/TholeG/typesafe-chess) · 个人维护
 
 **让两个 Jev 模型对弈国际象棋的演示项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TholeG/typesafe-chess 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 11（+1）
 
 
 ---

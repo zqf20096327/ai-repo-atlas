@@ -44,13 +44,13 @@ MaIN.NET（Modular Artificial Intelligence Network）是发布在 NuGet 的 .NET
 
 ```mermaid
 xychart-beta
-    title "mobitouchOS/MaIN.NET 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "mobitouchOS/MaIN.NET 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 198 --> 201
-    line [200, 199]
+    line [200, 199, 199]
 ```
 
-2026-10-24 200 → 2026-11-26 199（-1）
+2026-10-25 200 → 2026-11-27 199（-1）
 
 
 ---

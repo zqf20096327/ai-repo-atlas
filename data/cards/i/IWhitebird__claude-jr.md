@@ -1,6 +1,6 @@
 # IWhitebird/claude-jr
 
-⭐ 3 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/IWhitebird/claude-jr) · [官网](https://claudejr.iwhitebird.com) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/IWhitebird/claude-jr) · [官网](https://claudejr.iwhitebird.com) · 个人维护
 
 **终端里的轻量编码 agent：Rust 单二进制替代 Claude Code**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "IWhitebird/claude-jr 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-26"]
+    x-axis ["2026-11-14", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-26 3（+0）
+2026-11-14 3 → 2026-11-27 3（+0）
 
 
 ---

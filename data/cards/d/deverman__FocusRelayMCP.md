@@ -1,6 +1,6 @@
 # deverman/FocusRelayMCP
 
-⭐ 60 · Swift · MIT · 推送 2026-11-01 · [GitHub](https://github.com/deverman/FocusRelayMCP) · 个人维护
+⭐ 60 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/deverman/FocusRelayMCP) · 个人维护
 
 **让 AI 助手读写 OmniFocus 任务的 macOS MCP 服务器与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deverman/FocusRelayMCP 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
     y-axis "stars" 54 --> 61
     line [55, 56, 57, 58, 55, 58, 59, 60, 60]
 ```
 
-2026-10-24 55 → 2026-11-26 60（+5）
+2026-10-25 55 → 2026-11-27 60（+5）
 
 
 ---

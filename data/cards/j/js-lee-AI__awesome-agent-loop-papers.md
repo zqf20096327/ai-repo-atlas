@@ -1,6 +1,6 @@
 # js-lee-AI/awesome-agent-loop-papers
 
-⭐ 12 · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/js-lee-AI/awesome-agent-loop-papers) · [官网](https://github.com/js-lee-AI/awesome-llm-agent-papers) · 个人维护
+⭐ 13 · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/js-lee-AI/awesome-agent-loop-papers) · [官网](https://github.com/js-lee-AI/awesome-llm-agent-papers) · 个人维护
 
 **面向 agent 研究者与工程师的 agent loop 论文与开源资源阅读清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "js-lee-AI/awesome-agent-loop-papers 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-08 10 → 2026-11-26 12（+2）
+2026-11-08 10 → 2026-11-27 13（+3）
 
 
 ---

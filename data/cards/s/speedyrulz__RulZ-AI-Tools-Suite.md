@@ -1,6 +1,6 @@
 # speedyrulz/RulZ-AI-Tools-Suite
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/speedyrulz/RulZ-AI-Tools-Suite) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/speedyrulz/RulZ-AI-Tools-Suite) · 个人维护
 
 **统一安装、更新和启动整套 RulZ AI 桌面工具的 Windows 启动器**
 
@@ -40,6 +40,18 @@ Electron 桌面启动器，集中管理 13 个 RulZ 应用（LoRA 训练器、�
 > L5: One launcher for the RulZ apps. Browse every tool with screenshots and its full README, install it with one
 > L20: |RulzTrainer|LoRA trainer for nine image models (MOSS-Image, FIBO 2.0, Krea 2, Qwen-Image 2.1, MiniMax-H3-Image and
 > L60: - **Prerequisites** (Python, FFmpeg, Git, an NVIDIA GPU, .NET Framework) are checked on each app's page. When you
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "speedyrulz/RulZ-AI-Tools-Suite 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
 
 
 ---

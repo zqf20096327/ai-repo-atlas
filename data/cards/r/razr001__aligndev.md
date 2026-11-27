@@ -1,6 +1,6 @@
 # razr001/aligndev
 
-⭐ 36 · TypeScript · 推送 2026-06-25 · [GitHub](https://github.com/razr001/aligndev) · [官网](https://aligndev.dev) · 个人维护
+⭐ 37 · TypeScript · 推送 2026-06-25 · [GitHub](https://github.com/razr001/aligndev) · [官网](https://aligndev.dev) · 个人维护
 
 **前端团队规范生成器：7 步向导产出规范文档与 SKILL.md**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "razr001/aligndev 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 35 --> 39
-    line [38, 36, 37, 36, 36]
+    title "razr001/aligndev 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 35 --> 38
+    line [36, 37, 36, 37]
 ```
 
-2026-10-24 38 → 2026-11-26 36（-2）
+2026-10-25 36 → 2026-11-27 37（+1）
 
 
 ---

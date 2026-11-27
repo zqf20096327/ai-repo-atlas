@@ -1,18 +1,18 @@
 # penecho/penecho
 
-⭐ 2,524 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/penecho/penecho) · [官网](https://penecho.ai) · 组织维护 · 中文 README
+⭐ 2,524 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/penecho/penecho) · [官网](https://penecho.ai) · 组织维护
 
-**面向学习与思考者的手写画布，AI 以图表和可运行组件呈现答案**
+**多 agent 协作画布：手绘圈注派活、互审与任务编排**
 
-PenEcho 是一个支持手写、公式、文本与图像的无限画布，内置 PenEchoLLM 在用户停笔时建议下一步动作（求解、排版、绘图、整理为笔记），答案直接落在书写位置。圈选手写内容可生成知识卡并收入可检索的 Library。产品同时作为 MCP 服务器运行，Codex、Claude Code、Kimi、Cursor 等客户端的 agent 可在画布上绘制并读取用户批注。提供 macOS/Windows 桌面安装包、npm 全局安装（需 Node.js 22.19+）与 penecho.ai 托管版本；模型可通过账户积分、自有 API key 或已登录的 agent CLI 接入。
+桌面/浏览器端的多 agent 协作工作台：以共享 Canvas 和 Line 组织任务，用户可圈注截图、手绘原型与图表后派给 agent，任务可直发单个 agent 或由 Orchestrator 拆分并按历史记录挑选 agent，一个 agent 构建另一个一键审查、修改回传。任务记录以纯 Markdown（MEMORY.md、lines、works）保存在用户项目文件夹。接入 Claude Code、Codex、Kimi、OpenCode 等既有 agent 会话并同步续接。提供桌面安装包、npm 与浏览器三种使用方式，AGPL-3.0 并另有商业许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `dual` | AGPL-3.0 |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,40 +20,40 @@ PenEcho 是一个支持手写、公式、文本与图像的无限画布，内置
 
 ## 能力要点
 
-- PenEchoLLM 停笔建议：求解/排版/绘图/生成图表等动作一键落地
-- 圈选手写内容生成知识卡，自动归类入可检索 Library
-- 作为 MCP 服务器接入 Codex/Claude Code/Kimi/Cursor 等 agent 客户端
-- 架构图、时序图、流程图自动布局并导出 SVG/PNG
+- Orchestrator 拆分任务、按 agent 真实记录挑选并逐次评分
+- 一键审查与 Send fixes：一个 agent 构建、另一个审查并回传修改
+- 圈注截图/手绘/公式/图表，agent 结合标记与文字理解任务
+- 同步 Claude Code、Codex、Kimi、OpenCode 等会话并可互相续接
 
 ## 适用场景
 
-- 手写数学题或草图后让 AI 直接给出求解与图表
-- 让 AI agent 把讨论中的架构或流程画在画布上并接受我的批注修改
-- 把课堂笔记和公式整理成可检索复习的知识卡
-- 生成带交互组件的计算器、测验或演示原型
+- 在画布上圈注截图或草图后直接派活给 coding agent
+- 让多个 agent 分工完成同一任务并互相审查成果
+- 把所有 agent 会话统一到本地 Markdown 记录里管理
+- 通过链接与队友共享 Canvas 并在浏览器批注
 
 ## 场景标签
 
-`知识库管理` · 领域:知识与检索
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5:  Bring a question, a sketch, or your notes. PenEcho's built-in AI — or Codex, Claude Code and any MCP client — shows
-> L48:  Pause after writing and PenEchoLLM ranks what you need next: Solve, Typeset, Plot graph, Make diagram, Organize as
-> L95: Keep talking in the agent you already use. PenEcho gives the work a place to live — your agent draws on the canvas,
+> L68:  How a job reaches your agents: PenEcho sends a direct job to one agent, or an Orchestrator job that is split into 
+> L84:  Sessions from Claude Code, Codex, Kimi, OpenCode and more sync in. Continue any of them with any agent.
+> L98: Works with Claude Code, Codex, OpenCode, Antigravity, Kimi, Pi, DeepSeek Harness, omp, and PenEcho's built-in runne
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "penecho/penecho 星数(近 16 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 2491 --> 2527
-    line [2494, 2498, 2499, 2500, 2504, 2509, 2512, 2513, 2498, 2517, 2518, 2520, 2519, 2521, 2523, 2524]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2496 --> 2526
+    line [2498, 2499, 2500, 2504, 2509, 2512, 2513, 2498, 2517, 2518, 2520, 2519, 2521, 2523, 2524, 2524]
 ```
 
-2026-10-24 2,494 → 2026-11-26 2,524（+30）
+2026-10-25 2,498 → 2026-11-27 2,524（+26）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a459a0f9cd57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `fffdf5eb94b7` · [字段定义](../../DATASET.md)*

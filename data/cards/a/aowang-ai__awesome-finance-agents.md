@@ -1,6 +1,6 @@
 # aowang-ai/awesome-finance-agents
 
-⭐ 111 · JavaScript · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/aowang-ai/awesome-finance-agents) · [官网](https://finance-agents.dev) · 个人维护 · 中文 README
+⭐ 110 · JavaScript · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/aowang-ai/awesome-finance-agents) · [官网](https://finance-agents.dev) · 个人维护 · 中文 README
 
 **开源金融 AI agent 双语策展清单：按金融职能与可靠性组织**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aowang-ai/awesome-finance-agents 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-25", "2026-11-26"]
+    title "aowang-ai/awesome-finance-agents 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 0 --> 121
-    line [4, 26, 44, 60, 72, 78, 88, 96, 109, 110, 111]
+    line [4, 26, 44, 60, 72, 78, 88, 96, 109, 110, 111, 110]
 ```
 
-2026-10-24 4 → 2026-11-26 111（+107）
+2026-10-25 4 → 2026-11-27 110（+106）
 
 
 ---

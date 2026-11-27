@@ -45,12 +45,12 @@ THUNDER 是发表于 NeurIPS 2025 D&B Track（Spotlight）的 tile 级数字病�
 ```mermaid
 xychart-beta
     title "MICS-Lab/thunder 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
     y-axis "stars" 49 --> 52
     line [51, 50, 50]
 ```
 
-2026-10-24 51 → 2026-11-26 50（-1）
+2026-10-25 51 → 2026-11-27 50（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Xuepoo/carryctx
 
-⭐ 28 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Xuepoo/carryctx) · [官网](https://carryctx.xuepoo.xyz) · 个人维护 · 中文 README
+⭐ 28 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Xuepoo/carryctx) · [官网](https://carryctx.xuepoo.xyz) · 个人维护 · 中文 README
 
 **本地优先的编码代理项目状态持久化与管理 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Xuepoo/carryctx 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-24 27 → 2026-11-26 28（+1）
+2026-10-25 27 → 2026-11-27 28（+1）
 
 
 ---

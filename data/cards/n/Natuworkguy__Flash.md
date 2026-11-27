@@ -1,6 +1,6 @@
 # Natuworkguy/Flash
 
-⭐ 19 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Natuworkguy/Flash) · [官网](https://flashproject.dev) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Natuworkguy/Flash) · [官网](https://flashproject.dev) · 个人维护
 
 **本地优先的终端 AI Agent 外壳：对话驱动执行命令与编辑文件**
 
@@ -47,12 +47,12 @@ FLASH（Fast Local Agent Shell）是一个命令行 AI agent 界面，通过本�
 ```mermaid
 xychart-beta
     title "Natuworkguy/Flash 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 17, 19, 19]
 ```
 
-2026-10-24 17 → 2026-11-26 19（+2）
+2026-10-25 17 → 2026-11-27 19（+2）
 
 
 ---

@@ -44,12 +44,12 @@ Vector Institute 维护的机器学习技术与算法实现仓库目录，将收
 ```mermaid
 xychart-beta
     title "VectorInstitute/implementation-catalog 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 10（+0）
 
 
 ---

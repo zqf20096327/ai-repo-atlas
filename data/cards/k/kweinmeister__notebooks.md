@@ -1,6 +1,6 @@
 # kweinmeister/notebooks
 
-⭐ 23 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-18 · [GitHub](https://github.com/kweinmeister/notebooks) · 个人维护
+⭐ 22 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-18 · [GitHub](https://github.com/kweinmeister/notebooks) · 个人维护
 
 **Google Cloud AI/ML 工具演示与学习的 Jupyter 笔记本合集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kweinmeister/notebooks 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 21 --> 24
+    line [23, 22]
 ```
 
-2026-10-24 23 → 2026-11-26 23（+0）
+2026-10-25 23 → 2026-11-27 22（-1）
 
 
 ---

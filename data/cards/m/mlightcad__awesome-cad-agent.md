@@ -1,6 +1,6 @@
 # mlightcad/awesome-cad-agent
 
-⭐ 11 · 推送 2026-11-17 · [GitHub](https://github.com/mlightcad/awesome-cad-agent) · 组织维护
+⭐ 12 · 推送 2026-11-26 · [GitHub](https://github.com/mlightcad/awesome-cad-agent) · 组织维护
 
 **连接 CAD 与 AI agent 的开源项目策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlightcad/awesome-cad-agent 星数(近 7 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 2 --> 12
-    line [3, 4, 7, 8, 9, 10, 11]
+    title "mlightcad/awesome-cad-agent 星数(近 8 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 13
+    line [3, 4, 7, 8, 9, 10, 11, 12]
 ```
 
-2026-11-12 3 → 2026-11-26 11（+8）
+2026-11-12 3 → 2026-11-27 12（+9）
 
 
 ---

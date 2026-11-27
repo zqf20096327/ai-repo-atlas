@@ -1,6 +1,6 @@
 # GH05TCREW/eidolon
 
-⭐ 20 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/GH05TCREW/eidolon) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/GH05TCREW/eidolon) · 个人维护
 
 **把网络扫描结果存入 Neo4j 图库并用自然语言操作的安全工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "GH05TCREW/eidolon 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 18 --> 21
-    line [20, 19, 20, 20]
+    title "GH05TCREW/eidolon 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-24 20 → 2026-11-26 20（+0）
+2026-10-25 19 → 2026-11-27 21（+2）
 
 
 ---

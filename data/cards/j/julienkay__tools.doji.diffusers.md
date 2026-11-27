@@ -41,6 +41,18 @@
 > L14: This is essentially a port of Hugging Face’s [diffusers] library.
 > L42: - List `files` only when the repository holds more than the pipeline reads, for example PyTorch weights, both `.onn
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "julienkay/tools.doji.diffusers 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 65 --> 67
+    line [66, 66]
+```
+
+2026-11-26 66 → 2026-11-27 66（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5f8c0a8a1add` · [字段定义](../../DATASET.md)*

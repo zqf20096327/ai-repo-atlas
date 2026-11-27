@@ -1,10 +1,10 @@
 # epam/ai-dial-core
 
-⭐ 662 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
+⭐ 662 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
 
-**企业级 LLM 网关：统一 API 接入聊天/嵌入模型与应用**
+**DIAL 核心组件：为聊天补全/嵌入模型与应用提供统一 API 的 HTTP 代理**
 
-DIAL Core 是 AI DIAL 平台的主组件，以 HTTP 代理形式为不同 chat completion 与 embedding 模型、助手及应用提供统一 REST API；基于 Java 25 与 Eclipse Vert.x 构建，自动生成 OpenAPI 3.0 规范描述全部端点。提供静态/动态两层配置、插件加载机制、per-request API key、分析日志（含 claims/headers 采集与脱敏黑名单）、OTel GenAI 追踪等企业级运维能力；通过 Gradle 构建或 Helm chart 部署到 Kubernetes。
+AI DIAL 的主组件，作为 HTTP 代理向不同聊天补全与嵌入模型、助手及应用程序提供统一 REST API，基于 Java 25 与 Eclipse Vert.x 构建。自动从源码生成 OpenAPI 3.0 规范描述全部端点；支持 Gradle 构建与运行，或通过 Helm chart 部署到 Kubernetes（可部署完整 DIAL 组件栈或仅 Core）。配置分静态设置（启动时读取，含环境变量、文件与默认资源三级优先级）与动态设置；构建需提供 GitHub 凭据以访问 JClouds packages。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ DIAL Core 是 AI DIAL 平台的主组件，以 HTTP 代理形式为不同 chat c
 
 ## 能力要点
 
-- 为聊天补全、嵌入模型与应用提供统一 API 的 HTTP 代理
+- 向聊天补全/嵌入模型、助手与应用提供统一 API 的 HTTP 代理
 - 自动生成 OpenAPI 3.0 规范，实验性端点带 x-preview 标记
-- 静态/动态配置体系与插件目录加载机制
-- OTel GenAI 追踪与分析日志，支持敏感头过滤与堆占用限制
+- 静态/动态两类配置，支持环境变量、设置文件与默认资源文件
+- 提供 Helm chart 部署到 Kubernetes
 
 ## 适用场景
 
-- 在企业内部为多个 LLM 模型与应用提供统一 API 入口
-- 在 Kubernetes 上集中部署和管理 LLM 网关组件
-- 需要对话追踪、分析日志与 API key 管理的 LLM 平台运维
+- 在企业内为多个模型与应用架设统一 API 网关
+- 通过 Helm 将 DIAL 组件部署到 Kubernetes 集群
+- 需要 OpenAPI 规范生成客户端代码的集成场景
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ DIAL Core 是 AI DIAL 平台的主组件，以 HTTP 代理形式为不同 chat c
 ## 证据(README 行号)
 
 > L16: > HTTP Proxy provides unified API to different chat completion and embedding models and applications.
-> L17: > Written in Java 25 and built on top of Eclipse Vert.x.
+> L64: Build the project with Gradle and Java 25:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "epam/ai-dial-core 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    title "epam/ai-dial-core 星数(近 6 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 660 --> 664
-    line [661, 662, 661, 663, 662]
+    line [661, 662, 661, 663, 662, 662]
 ```
 
-2026-10-24 661 → 2026-11-26 662（+1）
+2026-10-25 661 → 2026-11-27 662（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `8ed5e092c1fe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `ba152da34bee` · [字段定义](../../DATASET.md)*

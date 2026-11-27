@@ -1,6 +1,6 @@
 # IMLIULIAN/zeromem
 
-⭐ 7 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/IMLIULIAN/zeromem) · 个人维护 · 中文 README
+⭐ 7 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/IMLIULIAN/zeromem) · 个人维护 · 中文 README
 
 **面向 Qwen3.5-4B-Memory-V2 的零依赖本地 LLM 记忆引擎**
 
@@ -46,13 +46,13 @@ ZeroMem 是一个仅依赖 Python 3.9+ 标准库的本地记忆引擎，为开�
 
 ```mermaid
 xychart-beta
-    title "IMLIULIAN/zeromem 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    title "IMLIULIAN/zeromem 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 8
-    line [3, 7]
+    line [3, 7, 7]
 ```
 
-2026-11-25 3 → 2026-11-26 7（+4）
+2026-11-25 3 → 2026-11-27 7（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # 6missedcalls/personal-finance-skill
 
-⭐ 32 · TypeScript · MIT · 推送 2026-02-27 · [GitHub](https://github.com/6missedcalls/personal-finance-skill) · [官网](https://agentskills.io) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-02-27 · [GitHub](https://github.com/6missedcalls/personal-finance-skill) · [官网](https://agentskills.io) · 个人维护
 
 **面向 AI agent 的个人金融技能包：75 个工具覆盖银行/交易/税务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "6missedcalls/personal-finance-skill 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 26 --> 33
-    line [27, 28, 27, 29, 30, 31, 32, 32]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 26 --> 34
+    line [27, 28, 27, 29, 30, 31, 32, 33]
 ```
 
-2026-10-24 27 → 2026-11-26 32（+5）
+2026-10-25 27 → 2026-11-27 33（+6）
 
 
 ---

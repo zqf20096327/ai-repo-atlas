@@ -1,6 +1,6 @@
 # tiettuo/claude-bid-gen
 
-⭐ 10 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tiettuo/claude-bid-gen) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tiettuo/claude-bid-gen) · 个人维护 · 中文 README
 
 **给工程投标方用 AI 管道生成施工组织设计技术标**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tiettuo/claude-bid-gen 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-16", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-11-16 10 → 2026-11-26 10（+0）
+2026-11-16 10 → 2026-11-27 12（+2）
 
 
 ---

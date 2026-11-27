@@ -1,6 +1,6 @@
 # mir-group/allegro
 
-⭐ 507 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mir-group/allegro) · [官网](https://nequip.readthedocs.io/projects/allegro) · 组织维护
+⭐ 508 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mir-group/allegro) · [官网](https://nequip.readthedocs.io/projects/allegro) · 组织维护
 
 **面向计算化学的 E(3) 等变机器学习原子间势模型包**
 
@@ -44,13 +44,13 @@ Allegro 是 NequIP 框架的扩展包，实现 E(3) 等变机器学习原子间�
 
 ```mermaid
 xychart-beta
-    title "mir-group/allegro 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 504 --> 509
-    line [505, 506, 507, 508, 507, 507]
+    title "mir-group/allegro 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 505 --> 509
+    line [506, 507, 508, 507, 508]
 ```
 
-2026-10-24 505 → 2026-11-26 507（+2）
+2026-10-25 506 → 2026-11-27 508（+2）
 
 
 ---

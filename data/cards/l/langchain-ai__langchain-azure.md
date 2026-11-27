@@ -1,6 +1,6 @@
 # langchain-ai/langchain-azure
 
-⭐ 148 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langchain-ai/langchain-azure) · 组织维护
+⭐ 148 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/langchain-ai/langchain-azure) · 组织维护
 
 **LangChain 的 Azure 集成包集合：接入微软 Foundry 模型与 Azure 服务**
 
@@ -45,12 +45,12 @@ langchain-ai 组织维护的 Azure 集成仓库，含 7 个包：langchain-azure
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-azure 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-27"]
     y-axis "stars" 145 --> 149
     line [147, 146, 147, 148, 148]
 ```
 
-2026-10-24 147 → 2026-11-26 148（+1）
+2026-10-25 147 → 2026-11-27 148（+1）
 
 
 ---

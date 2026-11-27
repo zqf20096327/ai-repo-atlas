@@ -41,6 +41,18 @@
 > L12: 2. Can I predict the rating I would give a film I haven't seen yet?
 > L67: - Evaluation: 5-fold cross-validation repeated 10 times (50 splits). Every model sees the same splits.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Kutaykabak/letterboxd-film-taste 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `f77da8a89603` · [字段定义](../../DATASET.md)*

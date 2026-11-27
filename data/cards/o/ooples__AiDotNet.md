@@ -1,6 +1,6 @@
 # ooples/AiDotNet
 
-⭐ 75 · C# · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ooples/AiDotNet) · [官网](https://www.aidotnet.dev) · 个人维护
+⭐ 75 · C# · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/ooples/AiDotNet) · [官网](https://www.aidotnet.dev) · 个人维护
 
 **.NET 平台的全功能 AI/ML 算法库：分类/回归/视觉/音频/RL 等**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ooples/AiDotNet 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-27"]
     y-axis "stars" 60 --> 76
     line [61, 68, 71, 75, 75]
 ```
 
-2026-10-24 61 → 2026-11-26 75（+14）
+2026-10-25 61 → 2026-11-27 75（+14）
 
 
 ---

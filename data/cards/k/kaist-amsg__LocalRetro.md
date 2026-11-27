@@ -44,13 +44,13 @@ KAIST/SNU 团队论文 JACS Au 2021 的官方代码实现：基于局部反应�
 
 ```mermaid
 xychart-beta
-    title "kaist-amsg/LocalRetro 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 121 --> 124
-    line [122, 123, 123]
+    title "kaist-amsg/LocalRetro 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 122 --> 124
+    line [123, 123]
 ```
 
-2026-10-24 122 → 2026-11-26 123（+1）
+2026-10-25 123 → 2026-11-27 123（+0）
 
 
 ---

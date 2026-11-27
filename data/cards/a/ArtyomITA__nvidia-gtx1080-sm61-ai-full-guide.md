@@ -40,6 +40,18 @@
 > L16: Everything I measured, patched and trained to make current AI models run fast on one GeForce GTX 1080 (Pascal, comp
 > L90: 1. LLM inference kernels in llama.cpp: CUDA graphs, ternary mat-vec, MiniCPM5 kernels, f16 KV cache, dead KV slots,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ArtyomITA/nvidia-gtx1080-sm61-ai-full-guide 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e7c3f363214c` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # alexhawat/mergeCraft
 
-⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alexhawat/mergeCraft) · [官网](https://github.com/alexhawat/mergeCraft#-get-started-in-3-steps) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/alexhawat/mergeCraft) · [官网](https://github.com/alexhawat/mergeCraft#-get-started-in-3-steps) · 个人维护
 
 **BYOK 自托管的 AI 代码审查引擎，以 GitHub Action 运行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "alexhawat/mergeCraft 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

@@ -41,6 +41,18 @@ Aukalo 是一个 Claude Code 插件与本地后台服务的组合：当 Claude C
 > L69:   A["Claude Code / Codex session"] -- "needs you" --> B["Aukalo hooks"]
 > L76: Everything runs on your machine: a small background service and the plugin's hooks. There is no Aukalo server and n
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dzotyara/aukalo 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `621c696ebb6a` · [字段定义](../../DATASET.md)*

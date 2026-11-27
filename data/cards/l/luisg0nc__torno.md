@@ -1,6 +1,6 @@
 # luisg0nc/torno
 
-⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/luisg0nc/torno) · [官网](https://torno.luisg.me) · 个人维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/luisg0nc/torno) · [官网](https://torno.luisg.me) · 个人维护
 
 **配合 Claude Code 的桌面 CAD 工作台，保存即重建模型**
 
@@ -45,13 +45,13 @@ Electron + three.js 桌面应用，用于以 AI 编码代理生成参数化 CAD 
 
 ```mermaid
 xychart-beta
-    title "luisg0nc/torno 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 6 --> 10
-    line [7, 8, 9, 8]
+    title "luisg0nc/torno 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 6 --> 12
+    line [7, 8, 9, 8, 11]
 ```
 
-2026-11-08 7 → 2026-11-26 8（+1）
+2026-11-08 7 → 2026-11-27 11（+4）
 
 
 ---

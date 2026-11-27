@@ -1,6 +1,6 @@
 # Moonbot-Tech/MoonDoc
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/Moonbot-Tech/MoonDoc) · [官网](https://moonbot.pro) · 组织维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Moonbot-Tech/MoonDoc) · [官网](https://moonbot.pro) · 组织维护
 
 **面向加密货币剥头皮交易者的 Moonbot 终端文档知识库**
 
@@ -46,12 +46,12 @@ Moonbot 加密剥头皮交易终端的官方文档仓库，内容分三部分：
 ```mermaid
 xychart-beta
     title "Moonbot-Tech/MoonDoc 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-27"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-26 4（+1）
+2026-11-10 3 → 2026-11-27 4（+1）
 
 
 ---

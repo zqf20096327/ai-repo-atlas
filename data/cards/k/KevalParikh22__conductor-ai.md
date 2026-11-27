@@ -45,12 +45,12 @@ conductor-ai 以用户使用的编码 agent（Claude Code、Codex CLI、Antigrav
 ```mermaid
 xychart-beta
     title "KevalParikh22/conductor-ai 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-26"]
+    x-axis ["2026-11-21", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-26 3（+0）
+2026-11-21 3 → 2026-11-27 3（+0）
 
 
 ---

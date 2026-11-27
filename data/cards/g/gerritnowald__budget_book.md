@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gerritnowald/budget_book 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    title "gerritnowald/budget_book 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 48 --> 50
+    line [49, 49]
 ```
 
-2026-10-24 48 → 2026-11-26 49（+1）
+2026-10-25 49 → 2026-11-27 49（+0）
 
 
 ---

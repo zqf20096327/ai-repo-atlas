@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PennyLaneAI/pennylane-cirq 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "PennyLaneAI/pennylane-cirq 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 62 --> 66
-    line [65, 63]
+    line [65, 63, 63]
 ```
 
-2026-10-24 65 → 2026-11-26 63（-2）
+2026-10-25 65 → 2026-11-27 63（-2）
 
 
 ---

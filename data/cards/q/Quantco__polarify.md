@@ -44,13 +44,13 @@ QuantCo 维护的 Python 库，核心是 @polarify 装饰器：解析函数的 A
 
 ```mermaid
 xychart-beta
-    title "Quantco/polarify 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 144 --> 148
-    line [145, 147, 147]
+    title "Quantco/polarify 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 146 --> 148
+    line [147, 147]
 ```
 
-2026-10-24 145 → 2026-11-26 147（+2）
+2026-10-25 147 → 2026-11-27 147（+0）
 
 
 ---

@@ -45,13 +45,13 @@ OneKey Gateway 提供统一网关，让开发者与 AI Agent 以一次认证接�
 
 ```mermaid
 xychart-beta
-    title "aiagenta2z/onekey-gateway 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 50 --> 53
-    line [51, 52, 52]
+    title "aiagenta2z/onekey-gateway 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 51 --> 53
+    line [52, 52]
 ```
 
-2026-10-24 51 → 2026-11-26 52（+1）
+2026-10-25 52 → 2026-11-27 52（+0）
 
 
 ---

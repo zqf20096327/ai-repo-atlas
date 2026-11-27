@@ -46,12 +46,12 @@ MIR 2022 论文『Video Polyp Segmentation: A Deep Learning Perspective』的官
 ```mermaid
 xychart-beta
     title "GewelsJI/VPS 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 223 --> 225
     line [224, 224]
 ```
 
-2026-10-24 224 → 2026-11-26 224（+0）
+2026-10-25 224 → 2026-11-27 224（+0）
 
 
 ---

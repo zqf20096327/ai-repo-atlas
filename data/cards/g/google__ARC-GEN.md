@@ -44,13 +44,13 @@ Google 发布的 Abstraction and Reasoning Corpus（ARC）仿生程序化基准�
 
 ```mermaid
 xychart-beta
-    title "google/ARC-GEN 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
+    title "google/ARC-GEN 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-14", "2026-11-26", "2026-11-27"]
     y-axis "stars" 56 --> 59
-    line [58, 57, 58]
+    line [58, 57, 58, 58]
 ```
 
-2026-10-24 58 → 2026-11-26 58（+0）
+2026-10-25 58 → 2026-11-27 58（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # skegdb/skeg
 
-⭐ 37 · Rust · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/skegdb/skeg) · 组织维护
+⭐ 37 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/skegdb/skeg) · 组织维护
 
 **面向多租户的高内存效率向量数据库，兼容 Redis 协议**
 
@@ -46,12 +46,12 @@ Rust 编写的单进程向量数据库兼键值存储，对外讲 Redis（RESP3�
 ```mermaid
 xychart-beta
     title "skegdb/skeg 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
     y-axis "stars" 34 --> 38
     line [35, 37, 37]
 ```
 
-2026-10-24 35 → 2026-11-26 37（+2）
+2026-10-25 35 → 2026-11-27 37（+2）
 
 
 ---

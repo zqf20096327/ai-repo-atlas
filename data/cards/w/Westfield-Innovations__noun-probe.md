@@ -41,6 +41,18 @@ noun-probe 是 Noun Probe 工具的读取器包：从官方地址 azus.ai 实时
 > L9: The words of the Noun Probe live only at that address. People read them there. Programs read them there through this
 > L17: It needs nothing beyond Python 3.11 or later.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Westfield-Innovations/noun-probe 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `985282597394` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # microsoft/responsible-ai-toolbox
 
-⭐ 1,861 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/responsible-ai-toolbox) · [官网](https://responsibleaitoolbox.ai/) · 组织维护
+⭐ 1,862 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/responsible-ai-toolbox) · [官网](https://responsibleaitoolbox.ai/) · 组织维护
 
 **面向开发者的模型评估调试仪表盘套件：错误分析、公平性、可解释性与因果推断**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/responsible-ai-toolbox 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 1847 --> 1862
-    line [1848, 1850, 1851, 1848, 1853, 1855, 1856, 1857, 1858, 1860, 1861]
+    title "microsoft/responsible-ai-toolbox 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1847 --> 1863
+    line [1848, 1850, 1851, 1848, 1853, 1855, 1856, 1857, 1858, 1860, 1861, 1862]
 ```
 
-2026-10-24 1,848 → 2026-11-26 1,861（+13）
+2026-10-25 1,848 → 2026-11-27 1,862（+14）
 
 
 ---

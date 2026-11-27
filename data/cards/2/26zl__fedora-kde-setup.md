@@ -1,6 +1,6 @@
 # 26zl/fedora-kde-setup
 
-⭐ 15 · Shell · MIT · 推送 2026-11-14 · [GitHub](https://github.com/26zl/fedora-kde-setup) · 个人维护
+⭐ 16 · Shell · MIT · 推送 2026-11-14 · [GitHub](https://github.com/26zl/fedora-kde-setup) · 个人维护
 
 **Fedora 45 KDE 装机后自动配置脚本集：按硬件适配游戏与桌面环境**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "26zl/fedora-kde-setup 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-14", "2026-11-26"]
-    y-axis "stars" 9 --> 16
-    line [10, 14, 15, 15]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-14", "2026-11-27"]
+    y-axis "stars" 9 --> 17
+    line [10, 14, 15, 16]
 ```
 
-2026-10-28 10 → 2026-11-26 15（+5）
+2026-10-28 10 → 2026-11-27 16（+6）
 
 
 ---

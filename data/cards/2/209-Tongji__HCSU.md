@@ -1,6 +1,6 @@
 # 209-Tongji/HCSU
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/209-Tongji/HCSU) · [官网](https://ihanzi.net/static/HCSU) · 组织维护 · 中文 README
+⭐ 12 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/209-Tongji/HCSU) · [官网](https://ihanzi.net/static/HCSU) · 组织维护 · 中文 README
 
 **面向研究者的历史中文书法细粒度风格数据集与基准**
 
@@ -46,12 +46,12 @@ HCSU 提供一个 10K–100K 量级的历史中文书法细粒度风格理解数
 ```mermaid
 xychart-beta
     title "209-Tongji/HCSU 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-10-24 10 → 2026-11-26 10（+0）
+2026-10-25 10 → 2026-11-27 12（+2）
 
 
 ---

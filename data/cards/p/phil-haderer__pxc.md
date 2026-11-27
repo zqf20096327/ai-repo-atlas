@@ -1,6 +1,6 @@
 # phil-haderer/pxc
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/phil-haderer/pxc) · 个人维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/phil-haderer/pxc) · 个人维护
 
 **为 PhotoCraft 用户提供本地 AI 生图与图像编辑的伴随应用**
 
@@ -40,6 +40,18 @@
 > L7: **A companion app that brings Photoshop-style generative AI to PhotoCraft, running on your own PC.**
 > L8: Pick a function, type a prompt, press Generate: the result arrives as a new layer in your document.
 > L90: - **PxC** (this companion app, a small window of its own next to PhotoCraft) sits between them: it sends your pictu
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "phil-haderer/pxc 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 25 --> 76
+    line [29, 72]
+```
+
+2026-11-26 29 → 2026-11-27 72（+43）
 
 
 ---

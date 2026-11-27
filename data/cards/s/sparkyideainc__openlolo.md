@@ -1,6 +1,6 @@
 # sparkyideainc/openlolo
 
-⭐ 50 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/sparkyideainc/openlolo) · [官网](https://openlolo.com) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/sparkyideainc/openlolo) · [官网](https://openlolo.com) · 组织维护
 
 **通过 ARM64 Linux 盒子让 AI agent 观察和操作 iPhone 的开源服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sparkyideainc/openlolo 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-26"]
-    y-axis "stars" 22 --> 52
-    line [24, 25, 28, 35, 37, 38, 24, 49, 50, 49, 50]
+    title "sparkyideainc/openlolo 星数(近 12 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 22 --> 53
+    line [24, 25, 28, 35, 37, 38, 24, 49, 50, 49, 50, 51]
 ```
 
-2026-10-24 24 → 2026-11-26 50（+26）
+2026-10-25 24 → 2026-11-27 51（+27）
 
 
 ---

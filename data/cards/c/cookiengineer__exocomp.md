@@ -1,6 +1,6 @@
 # cookiengineer/exocomp
 
-⭐ 25 · Go · 推送 2026-11-20 · [GitHub](https://github.com/cookiengineer/exocomp) · [官网](https://cookie.engineer/projects/agentic-research/exocomp.html) · 个人维护
+⭐ 25 · Go · 推送 2026-11-26 · [GitHub](https://github.com/cookiengineer/exocomp) · [官网](https://cookie.engineer/projects/agentic-research/exocomp.html) · 个人维护
 
 **面向 Golang 的自托管多 Agent 开发与渗透测试环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cookiengineer/exocomp 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 21 --> 27
-    line [22, 23, 25, 23, 25, 26, 25, 25]
+    title "cookiengineer/exocomp 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 22 --> 27
+    line [23, 25, 23, 25, 26, 25, 25]
 ```
 
-2026-10-24 22 → 2026-11-26 25（+3）
+2026-10-25 23 → 2026-11-27 25（+2）
 
 
 ---

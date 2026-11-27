@@ -1,6 +1,6 @@
 # amosproj/amos2026ws02-engineering-knowledge-advisor
 
-⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/amosproj/amos2026ws02-engineering-knowledge-advisor) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向工程师的工程知识组织与 AI 检索原型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

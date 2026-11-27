@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moabualruz/claude-code-cli-acp 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    title "moabualruz/claude-code-cli-acp 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
     y-axis "stars" 18 --> 22
-    line [19, 20, 21]
+    line [19, 20, 21, 21]
 ```
 
-2026-10-24 19 → 2026-11-26 21（+2）
+2026-10-25 19 → 2026-11-27 21（+2）
 
 
 ---

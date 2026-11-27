@@ -1,6 +1,6 @@
 # microsoft/Copilot-Managed-Runtime
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/Copilot-Managed-Runtime) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/Copilot-Managed-Runtime) · 组织维护
 
 **为 Copilot Managed Runtime 应用提供模板与编码代理插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Copilot-Managed-Runtime 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 9 --> 16
-    line [10, 13, 14, 15]
+    title "microsoft/Copilot-Managed-Runtime 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-22", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 17
+    line [10, 13, 14, 15, 16]
 ```
 
-2026-11-14 10 → 2026-11-26 15（+5）
+2026-11-14 10 → 2026-11-27 16（+6）
 
 
 ---

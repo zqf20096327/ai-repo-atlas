@@ -1,6 +1,6 @@
 # hany-liu/comfy-director
 
-⭐ 10 · JavaScript · 推送 2026-09-02 · [GitHub](https://github.com/hany-liu/comfy-director) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · 推送 2026-09-02 · [GitHub](https://github.com/hany-liu/comfy-director) · 个人维护 · 中文 README
 
 **给本地 ComfyUI 用户的浏览器长视频导演台：故事拆段生成拼接成片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hany-liu/comfy-director 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-26"]
-    y-axis "stars" 5 --> 11
-    line [6, 10, 10]
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-27"]
+    y-axis "stars" 5 --> 12
+    line [6, 10, 11]
 ```
 
-2026-10-18 6 → 2026-11-26 10（+4）
+2026-10-18 6 → 2026-11-27 11（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Protocol-zero-0/evolution-kernel
 
-⭐ 123 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Protocol-zero-0/evolution-kernel) · [官网](https://evolution-kernel.joulebeat.com/) · 个人维护 · 中文 README
+⭐ 120 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Protocol-zero-0/evolution-kernel) · [官网](https://evolution-kernel.joulebeat.com/) · 个人维护 · 中文 README
 
 **开源进化循环内核：让编码 agent 按可测目标自我改进任意 git 仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Protocol-zero-0/evolution-kernel 星数(近 13 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
+    title "Protocol-zero-0/evolution-kernel 星数(近 14 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
     y-axis "stars" 0 --> 360
-    line [29, 184, 275, 299, 324, 328, 329, 330, 329, 274, 121, 122, 123]
+    line [29, 184, 275, 299, 324, 328, 329, 330, 329, 274, 121, 122, 123, 120]
 ```
 
-2026-11-02 29 → 2026-11-26 123（+94）
+2026-11-02 29 → 2026-11-27 120（+91）
 
 
 ---

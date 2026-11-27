@@ -1,6 +1,6 @@
 # cpuguy96/StepCOVNet
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cpuguy96/StepCOVNet) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cpuguy96/StepCOVNet) · 个人维护
 
 **用深度学习从音频自动生成 StepMania 谱面的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cpuguy96/StepCOVNet 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-24 22 → 2026-11-26 22（+0）
+2026-10-25 22 → 2026-11-27 22（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # panelalpha/panelalpha-single-server
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/panelalpha/panelalpha-single-server) · [官网](https://www.panelalpha.com/documentation/single-server-edition/) · 组织维护
+⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/panelalpha/panelalpha-single-server) · [官网](https://www.panelalpha.com/documentation/single-server-edition/) · 组织维护
 
 **自托管 VPS 的网站托管面板：WordPress、Git 部署、域名、备份与暂存**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "panelalpha/panelalpha-single-server 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-20 4 → 2026-11-26 5（+1）
+2026-11-20 4 → 2026-11-27 6（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AtlasCloudAI/awesome-seedance-2-prompts
 
-⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
+⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
 
 **Seedance 2.0 视频生成提示词合集（2706 条，含预览视频）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AtlasCloudAI/awesome-seedance-2-prompts 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

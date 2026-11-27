@@ -1,6 +1,6 @@
 # icppWorld/icpp_llm
 
-⭐ 19 · C++ · MIT · 推送 2026-01-09 · [GitHub](https://github.com/icppWorld/icpp_llm) · [官网](https://icgpt.onicai.com) · 组织维护
+⭐ 19 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/icppWorld/icpp_llm) · [官网](https://icgpt.onicai.com) · 组织维护
 
 **在 Internet Computer 区块链容器中运行 LLM 的项目（llama2）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "icppWorld/icpp_llm 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 19（+0）
 
 
 ---

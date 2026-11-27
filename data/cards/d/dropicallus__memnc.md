@@ -1,6 +1,6 @@
 # dropicallus/memnc
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dropicallus/memnc) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dropicallus/memnc) · 个人维护
 
 **自托管多节点多智能体协作框架，数据不出本地网络**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dropicallus/memnc 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-26"]
+    x-axis ["2026-11-11", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-26 3（+0）
+2026-11-11 3 → 2026-11-27 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TryllEngine/tryll-unity-plugin
 
-⭐ 11 · C# · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/TryllEngine/tryll-unity-plugin) · [官网](https://www.tryllengine.com) · 组织维护
+⭐ 12 · C# · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/TryllEngine/tryll-unity-plugin) · [官网](https://www.tryllengine.com) · 组织维护
 
 **Unity 插件：在玩家本机运行 LLM 与语音模型驱动游戏 NPC**
 
@@ -46,12 +46,12 @@ Tryll for Unity 是 Unity 包 com.tryll.client（0.10.2），通过 Package Mana
 ```mermaid
 xychart-beta
     title "TryllEngine/tryll-unity-plugin 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-27"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-11 10 → 2026-11-26 11（+1）
+2026-11-11 10 → 2026-11-27 12（+2）
 
 
 ---

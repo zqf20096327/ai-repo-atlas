@@ -1,6 +1,6 @@
 # EthanChan050430/Saki-Panel
 
-⭐ 184 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/EthanChan050430/Saki-Panel) · [官网](https://dreamstarry.top/saki-panel/) · 个人维护 · 中文 README
+⭐ 183 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/EthanChan050430/Saki-Panel) · [官网](https://dreamstarry.top/saki-panel/) · 个人维护 · 中文 README
 
 **面向运维/homelab 用户的服务器面板，内置 SRE Agent 辅助诊断**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "EthanChan050430/Saki-Panel 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    title "EthanChan050430/Saki-Panel 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 182 --> 185
-    line [183, 184, 184]
+    line [184, 183]
 ```
 
-2026-10-24 183 → 2026-11-26 184（+1）
+2026-10-25 184 → 2026-11-27 183（-1）
 
 
 ---

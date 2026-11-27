@@ -1,6 +1,6 @@
 # TaiRuiQu/oh-my-paper
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/TaiRuiQu/oh-my-paper) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向K12教师与学校的开源AI教学阅卷平台**
 
@@ -11,7 +11,7 @@ Oh My Paper 是面向 K12 教师、学生和学校的开源教学平台：上传
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

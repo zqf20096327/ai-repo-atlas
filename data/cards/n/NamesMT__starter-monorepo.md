@@ -1,6 +1,6 @@
 # NamesMT/starter-monorepo
 
-⭐ 191 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/NamesMT/starter-monorepo) · [官网](https://starter-monorepo.isthe.top) · 个人维护
+⭐ 192 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/NamesMT/starter-monorepo) · [官网](https://starter-monorepo.isthe.top) · 个人维护
 
 **带自托管 LLM Chat 的全栈 Monorepo 启动模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NamesMT/starter-monorepo 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
-    y-axis "stars" 189 --> 192
-    line [190, 191, 191]
+    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    y-axis "stars" 189 --> 193
+    line [190, 191, 192]
 ```
 
-2026-10-24 190 → 2026-11-26 191（+1）
+2026-10-25 190 → 2026-11-27 192（+2）
 
 
 ---

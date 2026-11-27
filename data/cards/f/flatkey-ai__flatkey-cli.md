@@ -1,6 +1,6 @@
 # flatkey-ai/flatkey-cli
 
-⭐ 868 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/flatkey-ai/flatkey-cli) · [官网](https://flatkey.ai/?utm_source=github&utm_medium=repo_homepage&utm_campaign=flatkey_cli) · 组织维护 · 中文 README
+⭐ 866 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/flatkey-ai/flatkey-cli) · [官网](https://flatkey.ai/?utm_source=github&utm_medium=repo_homepage&utm_campaign=flatkey_cli) · 组织维护 · 中文 README
 
 **媒体团队的终端媒体生成 CLI：统一密钥与额度生成图/视频/音频/文本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "flatkey-ai/flatkey-cli 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 867 --> 877
-    line [876, 875, 876, 869, 868, 868]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 865 --> 877
+    line [876, 875, 876, 869, 868, 866]
 ```
 
-2026-10-24 876 → 2026-11-26 868（-8）
+2026-10-25 876 → 2026-11-27 866（-10）
 
 
 ---

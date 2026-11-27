@@ -1,6 +1,6 @@
 # abhisheks008/DL-Simplified
 
-⭐ 598 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/abhisheks008/DL-Simplified) · [官网](https://quine.sh/repo/abhisheks008-DL-Simplified-499023976) · 个人维护
+⭐ 599 · Jupyter Notebook · MIT · 推送 2026-10-23 · [GitHub](https://github.com/abhisheks008/DL-Simplified) · [官网](https://quine.sh/repo/abhisheks008-DL-Simplified-499023976) · 个人维护
 
 **面向贡献者的深度学习入门项目合集仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "abhisheks008/DL-Simplified 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 597 --> 601
-    line [600, 599, 598, 599, 598, 599, 598, 598]
+    title "abhisheks008/DL-Simplified 星数(近 7 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-27"]
+    y-axis "stars" 597 --> 600
+    line [599, 598, 599, 598, 599, 598, 599]
 ```
 
-2026-10-24 600 → 2026-11-26 598（-2）
+2026-10-25 599 → 2026-11-27 599（+0）
 
 
 ---

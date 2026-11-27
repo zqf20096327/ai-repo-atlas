@@ -1,6 +1,6 @@
 # AndriiShramko/4dgs-human-avatar-comfyui-nodes-dataset
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AndriiShramko/4dgs-human-avatar-comfyui-nodes-dataset) · [官网](https://comfyui-4dgs-volumetric-node.eu/) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AndriiShramko/4dgs-human-avatar-comfyui-nodes-dataset) · [官网](https://comfyui-4dgs-volumetric-node.eu/) · 个人维护
 
 **尚未发布的 ComfyUI 4DGS 人体体积视频节点与扫描数据集仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AndriiShramko/4dgs-human-avatar-comfyui-nodes-dataset 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-27"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 11, 11]
+    line [11, 12, 11, 12]
 ```
 
-2026-10-24 11 → 2026-11-26 11（+0）
+2026-10-25 11 → 2026-11-27 12（+1）
 
 
 ---

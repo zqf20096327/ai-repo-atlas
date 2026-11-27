@@ -1,6 +1,6 @@
 # Chocapikk/cewlai
 
-⭐ 14 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Chocapikk/cewlai) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Chocapikk/cewlai) · 个人维护
 
 **AI 增强的渗透测试字典生成与目标侦察 Go 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Chocapikk/cewlai 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 13 --> 16
-    line [15, 14, 15, 14, 14]
+    line [15, 14, 15, 14, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 14（-1）
+2026-10-25 15 → 2026-11-27 15（+0）
 
 
 ---

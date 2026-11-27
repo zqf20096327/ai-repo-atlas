@@ -43,12 +43,12 @@ quantumPDB (qp) 是一个 Python 工具包，围绕蛋白质数据库工作：�
 ```mermaid
 xychart-beta
     title "davidkastner/quantumPDB 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-24 19 → 2026-11-26 19（+0）
+2026-10-25 19 → 2026-11-27 19（+0）
 
 
 ---

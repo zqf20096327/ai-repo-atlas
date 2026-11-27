@@ -1,6 +1,6 @@
 # microsoft/agentsleague
 
-⭐ 284 · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/agentsleague) · 组织维护
+⭐ 283 · MIT · 推送 2026-08-24 · [GitHub](https://github.com/microsoft/agentsleague) · 组织维护
 
 **微软主办的两周 AI agent 开发者竞赛（已结束）**
 
@@ -45,13 +45,13 @@ Microsoft 在 GitHub 举办的 Agents League 开发者挑战赛仓库：2026 年
 
 ```mermaid
 xychart-beta
-    title "microsoft/agentsleague 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-26"]
-    y-axis "stars" 283 --> 287
-    line [286, 285, 284]
+    title "microsoft/agentsleague 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 282 --> 287
+    line [286, 285, 284, 283]
 ```
 
-2026-10-23 286 → 2026-11-26 284（-2）
+2026-10-24 286 → 2026-11-27 283（-3）
 
 
 ---

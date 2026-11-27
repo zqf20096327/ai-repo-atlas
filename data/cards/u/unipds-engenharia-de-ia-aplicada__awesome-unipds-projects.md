@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "unipds-engenharia-de-ia-aplicada/awesome-unipds-projects 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
     y-axis "stars" 259 --> 263
     line [260, 262, 262]
 ```
 
-2026-10-24 260 → 2026-11-26 262（+2）
+2026-10-25 260 → 2026-11-27 262（+2）
 
 
 ---

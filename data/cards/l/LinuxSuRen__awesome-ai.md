@@ -1,6 +1,6 @@
 # LinuxSuRen/awesome-ai
 
-⭐ 18 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/LinuxSuRen/awesome-ai) · [官网](https://linuxsuren.github.io/awesome-ai/) · 个人维护 · 中文 README
+⭐ 18 · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/LinuxSuRen/awesome-ai) · [官网](https://linuxsuren.github.io/awesome-ai/) · 个人维护 · 中文 README
 
 **AI 工具分类收录清单：对话、编程、开发、图像生成等 82+ 条**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "LinuxSuRen/awesome-ai 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-27"]
     y-axis "stars" 14 --> 19
     line [15, 17, 15, 17, 18, 18]
 ```
 
-2026-10-24 15 → 2026-11-26 18（+3）
+2026-10-25 15 → 2026-11-27 18（+3）
 
 
 ---

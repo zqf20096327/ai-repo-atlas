@@ -1,6 +1,6 @@
 # mikusnuz/agent-link-mcp
 
-⭐ 12 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mikusnuz/agent-link-mcp) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mikusnuz/agent-link-mcp) · 个人维护 · 中文 README
 
 **MCP 服务器：让任一 agent CLI 生成并与其他 agent 双向协作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mikusnuz/agent-link-mcp 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-24 11 → 2026-11-26 12（+1）
+2026-10-25 11 → 2026-11-27 13（+2）
 
 
 ---

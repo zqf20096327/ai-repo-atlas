@@ -1,6 +1,6 @@
 # Nikhil-creat/careflow
 
-⭐ 3 · Python · 推送 2026-10-11 · [GitHub](https://github.com/Nikhil-creat/careflow) · [官网](https://nikhil-creat.github.io/careflow/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **医院管理自动化演示项目：分诊、预约、床位与药房代理**
 

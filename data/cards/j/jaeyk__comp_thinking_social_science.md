@@ -1,6 +1,6 @@
 # jaeyk/comp_thinking_social_science
 
-⭐ 73 · TeX · CC0-1.0 · 推送 2026-02-01 · [GitHub](https://github.com/jaeyk/comp_thinking_social_science) · [官网](https://jaeyk.github.io/comp_thinking_social_science/) · 个人维护
+⭐ 72 · TeX · CC0-1.0 · 推送 2026-02-01 · [GitHub](https://github.com/jaeyk/comp_thinking_social_science) · [官网](https://jaeyk.github.io/comp_thinking_social_science/) · 个人维护
 
 **面向社会科学家的计算思维开源教材项目**
 
@@ -45,12 +45,12 @@ Jekyll 静态站点形式的在线书籍仓库，帮助社会科学家建立计�
 ```mermaid
 xychart-beta
     title "jaeyk/comp_thinking_social_science 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 72 --> 74
-    line [73, 73]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 71 --> 74
+    line [73, 72]
 ```
 
-2026-10-24 73 → 2026-11-26 73（+0）
+2026-10-25 73 → 2026-11-27 72（-1）
 
 
 ---

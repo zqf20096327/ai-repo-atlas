@@ -1,6 +1,6 @@
 # 123angmish/ai-virality-predictor
 
-⭐ 15 · JavaScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/123angmish/ai-virality-predictor) · [官网](https://ai-virality-predictor.vercel.app/) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/123angmish/ai-virality-predictor) · [官网](https://ai-virality-predictor.vercel.app/) · 个人维护
 
 **给短视频创作者做发布前病毒式传播预测的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "123angmish/ai-virality-predictor 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-26"]
-    y-axis "stars" 9 --> 16
-    line [10, 12, 13, 14, 15, 15]
+    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-27"]
+    y-axis "stars" 9 --> 17
+    line [10, 12, 13, 14, 15, 16]
 ```
 
-2026-11-10 10 → 2026-11-26 15（+5）
+2026-11-10 10 → 2026-11-27 16（+6）
 
 
 ---

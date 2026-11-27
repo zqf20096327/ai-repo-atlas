@@ -1,6 +1,6 @@
 # anasfik/openai
 
-⭐ 664 · Dart · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anasfik/openai) · [官网](https://pub.dev/packages/dart_openai) · 个人维护
+⭐ 665 · Dart · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anasfik/openai) · [官网](https://pub.dev/packages/dart_openai) · 个人维护
 
 **给 Dart/Flutter 开发者的类型化 OpenAI API SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anasfik/openai 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-27"]
     y-axis "stars" 663 --> 666
-    line [664, 665, 664, 665, 664, 665, 664, 664]
+    line [664, 665, 664, 665, 664, 665, 664, 665]
 ```
 
-2026-10-24 664 → 2026-11-26 664（+0）
+2026-10-25 664 → 2026-11-27 665（+1）
 
 
 ---

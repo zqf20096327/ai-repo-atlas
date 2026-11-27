@@ -40,6 +40,18 @@ Ballerina 语言的 OpenAI 连接器包（ballerinax/openai），封装 OpenAI A
 > L10: The `ballerinax/openai` package offers APIs to easily connect and interact with OpenAI API v2.3.0 endpoints, enabli
 > L47: To use the `OpenAI` connector in your Ballerina application, update the `.bal` file as follows:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ballerina-platform/module-ballerinax-openai 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-26 13 → 2026-11-27 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f423beb6cf75` · [字段定义](../../DATASET.md)*

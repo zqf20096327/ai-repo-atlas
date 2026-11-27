@@ -1,6 +1,6 @@
 # pixie-agent/forge
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/pixie-agent/forge) · [官网](https://app.1forgen.site) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向用户用自然语言生成多文件 React 应用的开源 AI 平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

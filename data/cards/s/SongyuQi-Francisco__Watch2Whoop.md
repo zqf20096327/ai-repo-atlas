@@ -1,6 +1,6 @@
 # SongyuQi-Francisco/Watch2Whoop
 
-⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SongyuQi-Francisco/Watch2Whoop) · 个人维护 · 中文 README
+⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/SongyuQi-Francisco/Watch2Whoop) · 个人维护 · 中文 README
 
 **自托管的 Apple Watch 健康分析服务器，向任意 AI 开放 MCP 数据层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SongyuQi-Francisco/Watch2Whoop 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
     y-axis "stars" 2 --> 6
     line [3, 4, 3, 5, 5]
 ```
 
-2026-10-24 3 → 2026-11-26 5（+2）
+2026-10-25 3 → 2026-11-27 5（+2）
 
 
 ---

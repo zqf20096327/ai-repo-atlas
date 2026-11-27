@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "STMicroelectronics/STM32AI_Overall_Offer 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-16", "2026-11-22", "2026-11-26"]
-    y-axis "stars" 61 --> 66
-    line [62, 63, 64, 65, 65]
+    title "STMicroelectronics/STM32AI_Overall_Offer 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-22", "2026-11-27"]
+    y-axis "stars" 62 --> 66
+    line [63, 64, 65, 65]
 ```
 
-2026-10-24 62 → 2026-11-26 65（+3）
+2026-10-25 63 → 2026-11-27 65（+2）
 
 
 ---

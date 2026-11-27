@@ -1,6 +1,6 @@
 # gahingwoo/charsiu
 
-⭐ 10 · C · GPL-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/gahingwoo/charsiu) · 个人维护 · 中文 README
+⭐ 10 · C · GPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/gahingwoo/charsiu) · 个人维护 · 中文 README
 
 **RK3576 NPU 上的主线上游 LLM 运行时，绕过厂商库**
 
@@ -40,6 +40,18 @@
 > L3: An open LLM runtime for the RK3576 NPU on a mainline Linux kernel. It drives the
 > L72: It loads llama, qwen2, qwen3, gemma3, gemma4, phi3 and smollm3 gguf files.
 > L81: An RK3576 board (tested on the ArmSoM CM5-IO and the Radxa ROCK 4D) and a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gahingwoo/charsiu 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

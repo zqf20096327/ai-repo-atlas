@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Kainotomic/agent-chief-of-staff 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-26"]
+    title "Kainotomic/agent-chief-of-staff 星数(近 4 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-26", "2026-11-27"]
     y-axis "stars" 4 --> 9
-    line [5, 6, 8]
+    line [5, 6, 8, 8]
 ```
 
-2026-11-13 5 → 2026-11-26 8（+3）
+2026-11-13 5 → 2026-11-27 8（+3）
 
 
 ---

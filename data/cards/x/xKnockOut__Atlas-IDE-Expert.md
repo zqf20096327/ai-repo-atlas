@@ -1,6 +1,6 @@
 # xKnockOut/Atlas-IDE-Expert
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 10 · Pascal · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xKnockOut/Atlas-IDE-Expert) · 个人维护
 
 **给 Delphi 开发者的 RAD Studio 插件：代码分析、补全与 MCP 接入**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -40,6 +40,18 @@
 > L7: Atlas is an expert for RAD Studio (Delphi/Object Pascal). It replaces the built-in Code Insight with its own windows
 > L52: |`Atlas.IDE.Assistants`|AI assistants: builds through `build_project` and changes to open files by MCP clients, own
 > L69: - **AI ghost text (opt-in):** when no learned suggestion fits, Atlas can ask an AI provider after Enter (first prov
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xKnockOut/Atlas-IDE-Expert 星数(近 2 点)"
+    x-axis ["2026-11-22", "2026-11-27"]
+    y-axis "stars" 7 --> 11
+    line [8, 10]
+```
+
+2026-11-22 8 → 2026-11-27 10（+2）
 
 
 ---

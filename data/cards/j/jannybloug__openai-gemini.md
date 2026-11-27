@@ -1,6 +1,6 @@
 # jannybloug/openai-gemini
 
-⭐ 50 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/jannybloug/openai-gemini) · 个人维护
+⭐ 34 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/jannybloug/openai-gemini) · 个人维护
 
 **把 Gemini API 代理为 OpenAI 兼容接口的 serverless 转发层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jannybloug/openai-gemini 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-11-08", "2026-11-27"]
+    y-axis "stars" 33 --> 51
+    line [50, 34]
 ```
 
-2026-11-08 50 → 2026-11-26 50（+0）
+2026-11-08 50 → 2026-11-27 34（-16）
 
 
 ---

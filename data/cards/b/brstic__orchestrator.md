@@ -1,6 +1,6 @@
 # brstic/orchestrator
 
-⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/brstic/orchestrator) · [官网](https://office-demo.sparkcan.com) · 个人维护
+⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/brstic/orchestrator) · [官网](https://office-demo.sparkcan.com) · 个人维护
 
 **以 3D 办公室形式管理真实 Claude Code 会话的多代理协作工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "brstic/orchestrator 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-27"]
     y-axis "stars" 3 --> 7
     line [4, 5, 6, 6]
 ```
 
-2026-11-16 4 → 2026-11-26 6（+2）
+2026-11-16 4 → 2026-11-27 6（+2）
 
 
 ---

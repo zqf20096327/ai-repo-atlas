@@ -1,6 +1,6 @@
 # datawhalechina/easy-data-x-ai
 
-⭐ 225 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/datawhalechina/easy-data-x-ai) · [官网](https://datawhalechina.github.io/easy-data-x-ai/) · 组织维护 · 中文 README
+⭐ 226 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/datawhalechina/easy-data-x-ai) · [官网](https://datawhalechina.github.io/easy-data-x-ai/) · 组织维护 · 中文 README
 
 **面向 AI 爱好者的数据与 AI 基础入门教程**
 
@@ -45,13 +45,13 @@ Datawhale 出品的中文开源课程，从数据驱动视角学习构建 AI Age
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/easy-data-x-ai 星数(近 14 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26"]
-    y-axis "stars" 191 --> 228
-    line [194, 196, 195, 197, 194, 202, 203, 213, 214, 216, 219, 220, 222, 225]
+    title "datawhalechina/easy-data-x-ai 星数(近 15 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 191 --> 229
+    line [194, 196, 195, 197, 194, 202, 203, 213, 214, 216, 219, 220, 222, 225, 226]
 ```
 
-2026-10-24 194 → 2026-11-26 225（+31）
+2026-10-25 194 → 2026-11-27 226（+32）
 
 
 ---

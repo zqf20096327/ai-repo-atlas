@@ -1,6 +1,6 @@
 # zuisong/gemini-openai-proxy
 
-⭐ 434 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/zuisong/gemini-openai-proxy) · [官网](https://gemini-openai-proxy.zuisong.workers.dev) · 个人维护
+⭐ 436 · TypeScript · MIT · 推送 2026-04-02 · [GitHub](https://github.com/zuisong/gemini-openai-proxy) · [官网](https://gemini-openai-proxy.zuisong.workers.dev) · 个人维护
 
 **把 OpenAI API 协议调用转换为 Google Gemini 协议的代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zuisong/gemini-openai-proxy 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 432 --> 436
-    line [435, 434, 433, 434, 434]
+    title "zuisong/gemini-openai-proxy 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 432 --> 437
+    line [434, 433, 434, 436]
 ```
 
-2026-10-24 435 → 2026-11-26 434（-1）
+2026-10-25 434 → 2026-11-27 436（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Use-Refract/Refract
 
-⭐ 8 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Use-Refract/Refract) · 组织维护
+⭐ 8 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Use-Refract/Refract) · 组织维护
 
 **自托管 LaTeX 工作区：AI 以 diff 提案方式协助写作**
 
@@ -39,6 +39,18 @@
 
 > L3: A self-hosted LaTeX workspace with an AI assistant that proposes changes you review as diffs.
 > L31: - **Use the AI you already pay for.** Your ChatGPT plan, your own API keys (OpenAI, Anthropic, Gemini, OpenRouter a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Use-Refract/Refract 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-26 8 → 2026-11-27 8（+0）
 
 
 ---

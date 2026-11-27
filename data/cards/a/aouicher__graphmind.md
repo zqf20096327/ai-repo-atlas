@@ -1,6 +1,6 @@
 # aouicher/graphmind
 
-⭐ 218 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/aouicher/graphmind) · [官网](https://getgraphmind.com) · 个人维护
+⭐ 219 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/aouicher/graphmind) · [官网](https://getgraphmind.com) · 个人维护
 
 **把代码库转为知识图谱供 AI 助手查询的本地代码智能工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aouicher/graphmind 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 214 --> 219
-    line [216, 215, 216, 217, 216, 218, 218]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 214 --> 220
+    line [216, 215, 216, 217, 216, 218, 219]
 ```
 
-2026-10-24 216 → 2026-11-26 218（+2）
+2026-10-25 216 → 2026-11-27 219（+3）
 
 
 ---

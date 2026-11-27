@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/MixGRPO
 
-⭐ 1,186 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/Tencent-Hunyuan/MixGRPO) · [官网](https://tulvgengenr.github.io/MixGRPO-Project-Page/) · 组织维护 · 中文 README
+⭐ 1,187 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/Tencent-Hunyuan/MixGRPO) · [官网](https://tulvgengenr.github.io/MixGRPO-Project-Page/) · 组织维护 · 中文 README
 
 **面向流式扩散模型的混合 ODE-SDE GRPO 强化学习后训练算法**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/MixGRPO 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
-    y-axis "stars" 1182 --> 1187
-    line [1183, 1184, 1183, 1184, 1185, 1186, 1185, 1186]
+    title "Tencent-Hunyuan/MixGRPO 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 1182 --> 1188
+    line [1183, 1184, 1183, 1184, 1185, 1186, 1185, 1186, 1187]
 ```
 
-2026-10-24 1,183 → 2026-11-26 1,186（+3）
+2026-10-25 1,183 → 2026-11-27 1,187（+4）
 
 
 ---

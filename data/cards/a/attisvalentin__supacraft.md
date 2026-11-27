@@ -1,6 +1,6 @@
 # attisvalentin/supacraft
 
-⭐ 18 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/attisvalentin/supacraft) · 个人维护
+⭐ 18 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/attisvalentin/supacraft) · 个人维护
 
 **单二进制声明式后端：AI Agent 经 MCP 生成 supacraft.json 并运行 REST API**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "attisvalentin/supacraft 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-27"]
     y-axis "stars" 6 --> 19
     line [7, 14, 15, 16, 17, 18, 18]
 ```
 
-2026-11-08 7 → 2026-11-26 18（+11）
+2026-11-08 7 → 2026-11-27 18（+11）
 
 
 ---

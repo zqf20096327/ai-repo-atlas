@@ -1,6 +1,6 @@
 # jeremy341/MIRA-AI
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jeremy341/MIRA-AI) · [官网](mira-vision.vercel.app) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jeremy341/MIRA-AI) · [官网](mira-vision.vercel.app) · 个人维护
 
 **基于 YOLO11n 的废弃物检测管线：识别玻璃/金属/纸/塑料/垃圾**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeremy341/MIRA-AI 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-24 12 → 2026-11-26 12（+0）
+2026-10-25 12 → 2026-11-27 12（+0）
 
 
 ---

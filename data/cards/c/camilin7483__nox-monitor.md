@@ -41,6 +41,18 @@
 > L8: Nox vincula WhatsApp Web en un perfil de navegador dedicado. Desde el monitor puedes probar modelos, editar el promp
 > L20: 2. En **Modelos**, conecta **Ollama** o **LM Studio**, o añade tu clave de **OpenAI**, **Anthropic**, **Gemini**, *
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "camilin7483/nox-monitor 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-26 3 → 2026-11-27 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6eb127b19717` · [字段定义](../../DATASET.md)*

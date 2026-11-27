@@ -41,6 +41,18 @@
 > L6: - **Live transcription** of your calls with whisper.cpp on your GPU, for rehearsing interviews or following along wi
 > L120: A **Python/FastAPI engine** does capture, STT, RAG and LLM orchestration, and broadcasts
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PSYEONE/interviewr-ai 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `04e7defa6156` · [字段定义](../../DATASET.md)*

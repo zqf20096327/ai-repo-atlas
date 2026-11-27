@@ -1,6 +1,6 @@
 # OpenDemon/Pilipili-AutoVideo
 
-⭐ 211 · Python · 推送 2026-03-25 · [GitHub](https://github.com/OpenDemon/Pilipili-AutoVideo) · 组织维护 · 中文 README
+⭐ 212 · Python · 推送 2026-03-25 · [GitHub](https://github.com/OpenDemon/Pilipili-AutoVideo) · 组织维护 · 中文 README
 
 **本地部署的全自动 AI 视频代理：一句话生成带字幕成片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OpenDemon/Pilipili-AutoVideo 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 207 --> 212
-    line [208, 209, 211, 211]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 207 --> 213
+    line [208, 209, 211, 212]
 ```
 
-2026-10-24 208 → 2026-11-26 211（+3）
+2026-10-25 208 → 2026-11-27 212（+4）
 
 
 ---

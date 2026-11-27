@@ -43,12 +43,12 @@ AWS 官方示例项目：以 Amazon OpenSearch Service 作向量知识库存储 
 ```mermaid
 xychart-beta
     title "aws-samples/rag-with-amazon-opensearch-and-sagemaker 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-24 31 → 2026-11-26 31（+0）
+2026-10-25 31 → 2026-11-27 31（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pierridotite/explore-compile-replay
 
-⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/pierridotite/explore-compile-replay) · 个人维护
+⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pierridotite/explore-compile-replay) · 个人维护
 
 **AI agent 探索一次、编译为标准测试、在 CI 无模型回放的工具**
 
@@ -40,6 +40,18 @@ ECR 是一个确定性的 agent 测试模式与开放契约：agent 按角色探
 > L18:  Explore once with an agent. The trace is compiled to a test file that runs without ECR and is replayed in CI with 
 > L76: ECR is meant to be a standard that anyone can implement, not one tool.
 > L97: - **Works today:** the `ecr` command (`validate`, `compile`, `replay`, `repair`, `conformance`), a reference adapte
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pierridotite/explore-compile-replay 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
 
 
 ---

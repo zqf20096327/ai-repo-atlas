@@ -1,6 +1,6 @@
 # Boom-Vitt/data-factory
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Boom-Vitt/data-factory) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Boom-Vitt/data-factory) · 个人维护
 
 **把多个 AI Agent 对话汇总为本地 JSONL 库，供搜索与微调**
 
@@ -41,6 +41,18 @@
 > L13: - **One file, zero dependencies.** `factory.py` is plain Python standard library (3.9 or newer) and runs on macOS, 
 > L17: - **One MCP server**, connected to all your agents with one command.
 > L93: Any client that can launch a local (stdio) MCP server works. The command is `python3 /path/to/data-factory/factory.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Boom-Vitt/data-factory 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-26 3 → 2026-11-27 5（+2）
 
 
 ---

@@ -45,12 +45,12 @@ KirishimaRin 开发的第三方 Magpie 插件，将用户在 Magpie 中配置的
 ```mermaid
 xychart-beta
     title "KirishimaRin/magpie-agent-dsbot 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-26"]
+    x-axis ["2026-11-19", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-26 3（+0）
+2026-11-19 3 → 2026-11-27 3（+0）
 
 
 ---

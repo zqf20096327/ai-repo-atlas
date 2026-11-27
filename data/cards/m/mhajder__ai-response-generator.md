@@ -41,6 +41,18 @@
 > L17: An AI assistant plugin for **osTicket 1.17 / 1.18+ (PHP 8.2–8.4)** that brings reply drafting, ticket summarization
 > L48: |**Ollama Native**|`ollama`|`.../api/chat`|Streaming NDJSON (`stream: true`) & non-streaming chat with `options.tem
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mhajder/ai-response-generator 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-26 13 → 2026-11-27 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b868d8ce3e86` · [字段定义](../../DATASET.md)*

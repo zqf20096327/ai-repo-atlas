@@ -45,13 +45,13 @@ Themis 将 Kubernetes 告警转为事件，从集群收集证据，并对修复�
 
 ```mermaid
 xychart-beta
-    title "hzerrad/themis 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-26"]
+    title "hzerrad/themis 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-26 4（+1）
+2026-11-10 3 → 2026-11-27 4（+1）
 
 
 ---

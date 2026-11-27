@@ -1,6 +1,6 @@
 # amaze-labs/MazeDNS
 
-⭐ 17 · Go · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/amaze-labs/MazeDNS) · 组织维护
+⭐ 18 · Go · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/amaze-labs/MazeDNS) · 组织维护
 
 **多站点自托管 DNS 过滤解析器，可选 AI 域名分类**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amaze-labs/MazeDNS 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 12 --> 18
-    line [13, 14, 15, 17, 17]
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-27"]
+    y-axis "stars" 12 --> 19
+    line [13, 14, 15, 17, 18]
 ```
 
-2026-10-29 13 → 2026-11-26 17（+4）
+2026-10-29 13 → 2026-11-27 18（+5）
 
 
 ---

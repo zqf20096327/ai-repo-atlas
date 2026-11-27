@@ -1,6 +1,6 @@
 # phantom5125/onyx-infer
 
-⭐ 3 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/phantom5125/onyx-infer) · [官网](https://phantom5125.github.io/onyx-infer/) · 个人维护 · 中文 README
+⭐ 3 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/phantom5125/onyx-infer) · [官网](https://phantom5125.github.io/onyx-infer/) · 个人维护 · 中文 README
 
 **在 Apple Silicon 上本地运行 MiniMax H3 生成 4096×4096 图像的推理引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "phantom5125/onyx-infer 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-26 3（+0）
+2026-11-25 3 → 2026-11-27 3（+0）
 
 
 ---

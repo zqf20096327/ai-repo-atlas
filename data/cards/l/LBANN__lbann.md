@@ -43,13 +43,13 @@ Livermore Big Artificial Neural Network (LBANN) 是 Lawrence Livermore 国家实
 
 ```mermaid
 xychart-beta
-    title "LBANN/lbann 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    title "LBANN/lbann 星数(近 3 点)"
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
     y-axis "stars" 230 --> 233
-    line [231, 232]
+    line [231, 232, 232]
 ```
 
-2026-10-24 231 → 2026-11-26 232（+1）
+2026-10-25 231 → 2026-11-27 232（+1）
 
 
 ---

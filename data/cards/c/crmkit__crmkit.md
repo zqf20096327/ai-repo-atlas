@@ -1,6 +1,6 @@
 # crmkit/crmkit
 
-⭐ 43 · Go · MIT · 推送 2026-08-13 · [GitHub](https://github.com/crmkit/crmkit) · [官网](https://crmkit.ai) · 组织维护
+⭐ 44 · Go · MIT · 推送 2026-08-13 · [GitHub](https://github.com/crmkit/crmkit) · [官网](https://crmkit.ai) · 组织维护
 
 **面向 AI agent 的无界面 CRM 后端：纯 HTTP API 驱动**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "crmkit/crmkit 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-24 43 → 2026-11-26 43（+0）
+2026-10-25 43 → 2026-11-27 44（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Obsidian 社区插件，提供分屏阅读：左侧原笔记，右侧 AI 生成�
 ```mermaid
 xychart-beta
     title "fancive/obsidian-parallel-reader 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-24 21 → 2026-11-26 21（+0）
+2026-10-25 21 → 2026-11-27 21（+0）
 
 
 ---

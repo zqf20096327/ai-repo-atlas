@@ -1,6 +1,6 @@
 # hermoso-ai/hermoso
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hermoso-ai/hermoso) · [官网](https://hermoso.ai/mcp/) · 组织维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hermoso-ai/hermoso) · [官网](https://hermoso.ai/mcp/) · 组织维护
 
 **AI 营销 agent 的 MCP server 与 CLI：从调研到投放广告**
 
@@ -41,6 +41,18 @@ Hermoso 将自身暴露为 MCP server、CLI 与 Claude 技能包，供 Claude Co
 > L1: # Hermoso: AI marketing agent and AI ad generator for Claude, ChatGPT and Cursor (MCP server, CLI and skills)
 > L3: **The AI marketing agent with an AI ad generator built in**, run from **any AI agent**: Claude Code, Claude.ai, Curs
 > L37: - **AI ad generator API.** Image, video and UGC avatar ads with your real product, copy and CTA, from `render_ad`,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hermoso-ai/hermoso 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-26 10 → 2026-11-27 10（+0）
 
 
 ---

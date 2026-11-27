@@ -1,6 +1,6 @@
 # EricRhysTaylor/radial-timeline
 
-⭐ 55 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/EricRhysTaylor/radial-timeline) · [官网](http://www.radialtimeline.com) · 个人维护
+⭐ 56 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/EricRhysTaylor/radial-timeline) · [官网](http://www.radialtimeline.com) · 个人维护
 
 **面向小说作者的 Obsidian 径向时间线可视化插件**
 
@@ -45,12 +45,12 @@ Obsidian 桌面端插件：将手稿场景按幕、支线剧情、叙事或时�
 ```mermaid
 xychart-beta
     title "EricRhysTaylor/radial-timeline 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 54 --> 56
-    line [55, 55]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 54 --> 57
+    line [55, 56]
 ```
 
-2026-10-24 55 → 2026-11-26 55（+0）
+2026-10-25 55 → 2026-11-27 56（+1）
 
 
 ---

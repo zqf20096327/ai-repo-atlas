@@ -1,6 +1,6 @@
 # pivanov/ctx-wire
 
-⭐ 94 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pivanov/ctx-wire) · [官网](https://www.ctx-wire.dev/) · 组织维护
+⭐ 95 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pivanov/ctx-wire) · [官网](https://www.ctx-wire.dev/) · 组织维护
 
 **压缩 AI 编程 agent 命令输出的 CLI 工具：省 token、防泄密**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pivanov/ctx-wire 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 87 --> 95
-    line [88, 90, 91, 90, 94, 93, 94]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 89 --> 96
+    line [90, 91, 90, 94, 93, 94, 95]
 ```
 
-2026-10-24 88 → 2026-11-26 94（+6）
+2026-10-25 90 → 2026-11-27 95（+5）
 
 
 ---

@@ -45,12 +45,12 @@ Feld 是一个与 harness 无关的 Agent Loop 控制平面，面向同时运行
 ```mermaid
 xychart-beta
     title "crestai-labs/feld 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-26"]
+    x-axis ["2026-10-29", "2026-11-27"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-29 10 → 2026-11-26 10（+0）
+2026-10-29 10 → 2026-11-27 10（+0）
 
 
 ---

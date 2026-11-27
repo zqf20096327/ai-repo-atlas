@@ -1,6 +1,6 @@
 # evalshift/evalshift-cli
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/evalshift/evalshift-cli) · [官网](https://www.evalshift.dev) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/evalshift/evalshift-cli) · [官网](https://www.evalshift.dev) · 组织维护
 
 **为 AI agent 提供 LLM 迁移与回归测试的 CLI 工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "evalshift/evalshift-cli 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-19", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 14, 15, 16]
+    title "evalshift/evalshift-cli 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 14, 15, 16, 17]
 ```
 
-2026-11-08 12 → 2026-11-26 16（+4）
+2026-11-08 12 → 2026-11-27 17（+5）
 
 
 ---

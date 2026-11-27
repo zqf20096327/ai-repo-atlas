@@ -1,6 +1,6 @@
 # kldhsh123/Afterglow
 
-⭐ 328 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/kldhsh123/Afterglow) · [官网](https://afterglow.kldhsh.top) · 个人维护 · 中文 README
+⭐ 327 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/kldhsh123/Afterglow) · [官网](https://afterglow.kldhsh.top) · 个人维护 · 中文 README
 
 **用真实聊天记录经 RAG 构建本地 AI 陪伴应用**
 
@@ -46,12 +46,12 @@ Afterglow 是一个本地托管的 AI 陪伴应用：从 QQ、微信、抖音、
 ```mermaid
 xychart-beta
     title "kldhsh123/Afterglow 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
-    y-axis "stars" 318 --> 329
-    line [319, 323, 324, 325, 323, 327, 328]
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 322 --> 329
+    line [323, 324, 325, 323, 327, 328, 327]
 ```
 
-2026-10-24 319 → 2026-11-26 328（+9）
+2026-10-25 323 → 2026-11-27 327（+4）
 
 
 ---

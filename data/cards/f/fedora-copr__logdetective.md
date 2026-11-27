@@ -1,6 +1,6 @@
 # fedora-copr/logdetective
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fedora-copr/logdetective) · 组织维护
+⭐ 46 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/fedora-copr/logdetective) · 组织维护
 
 **面向 RPM 构建日志的 LLM 分析服务与 RHEL 流程集成**
 
@@ -46,12 +46,12 @@ Fedora COPR 维护的日志分析服务：通过 HTTP API 提交构建日志，�
 ```mermaid
 xychart-beta
     title "fedora-copr/logdetective 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
     y-axis "stars" 43 --> 47
     line [44, 45, 44, 45, 46, 46]
 ```
 
-2026-10-24 44 → 2026-11-26 46（+2）
+2026-10-25 44 → 2026-11-27 46（+2）
 
 
 ---

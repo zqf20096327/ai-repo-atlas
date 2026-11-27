@@ -1,6 +1,6 @@
 # Eternaldeath/AIProductHome
 
-⭐ 1,186 · 推送 2026-11-21 · [GitHub](https://github.com/Eternaldeath/AIProductHome) · [官网](https://eternaldeath.github.io/AIProductHome/) · 个人维护 · 中文 README
+⭐ 1,188 · 推送 2026-11-21 · [GitHub](https://github.com/Eternaldeath/AIProductHome) · [官网](https://eternaldeath.github.io/AIProductHome/) · 个人维护 · 中文 README
 
 **AI 产品一站式索引：收录、分类并标注各类 AI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Eternaldeath/AIProductHome 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
     y-axis "stars" 1185 --> 1191
-    line [1186, 1188, 1189, 1190, 1188, 1189, 1188, 1187, 1186]
+    line [1188, 1189, 1190, 1188, 1189, 1188, 1187, 1186, 1188]
 ```
 
-2026-10-23 1,186 → 2026-11-26 1,186（+0）
+2026-10-24 1,188 → 2026-11-27 1,188（+0）
 
 
 ---

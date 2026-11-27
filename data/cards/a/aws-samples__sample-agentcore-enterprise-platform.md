@@ -1,6 +1,6 @@
 # aws-samples/sample-agentcore-enterprise-platform
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/aws-samples/sample-agentcore-enterprise-platform) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/aws-samples/sample-agentcore-enterprise-platform) · 组织维护
 
 **面向企业团队的 Amazon Bedrock AgentCore 平台部署加速器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aws-samples/sample-agentcore-enterprise-platform 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-21", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-21", "2026-11-27"]
     y-axis "stars" 16 --> 29
     line [17, 22, 17, 23, 25, 26, 27, 28, 28]
 ```
 
-2026-10-24 17 → 2026-11-26 28（+11）
+2026-10-25 17 → 2026-11-27 28（+11）
 
 
 ---

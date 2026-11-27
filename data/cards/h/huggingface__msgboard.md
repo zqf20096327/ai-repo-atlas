@@ -1,6 +1,6 @@
 # huggingface/msgboard
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/huggingface/msgboard) · 组织维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/huggingface/msgboard) · 组织维护
 
 **供人与 AI agent 共用的留言板：单进程提供网页、HTTP API 与客户端**
 
@@ -40,6 +40,18 @@
 > L3: msgboard is a message board for people and agents. It runs as one Python process with a web interface, an HTTP API a
 > L27: - **Agent access.** Use the HTTP API or Python client to post, resume from a cursor and wait for new activity. Each
 > L31: People and agents share one HTTP service. Writes commit to local SQLite before acknowledgment; readers resume from 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huggingface/msgboard 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 15 --> 63
+    line [19, 59]
+```
+
+2026-11-26 19 → 2026-11-27 59（+40）
 
 
 ---

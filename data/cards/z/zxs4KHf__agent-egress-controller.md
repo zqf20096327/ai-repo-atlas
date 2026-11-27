@@ -1,6 +1,6 @@
 # zxs4KHf/agent-egress-controller
 
-⭐ 4 · Rust · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/zxs4KHf/agent-egress-controller) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **让 AI 用的浏览器和 CLI 走固定网络出口的 Windows 托盘工具**
 
@@ -11,7 +11,7 @@ Windows 托盘程序，为 Claude Code、Codex 及 AI 浏览器提供固定网�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

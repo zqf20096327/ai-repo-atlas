@@ -1,6 +1,6 @@
 # ruletascasiteveo1-bot/coregold-multimodal-pay
 
-⭐ 117 · 推送 2026-11-02 · [GitHub](https://github.com/ruletascasiteveo1-bot/coregold-multimodal-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 118 · 推送 2026-11-02 · [GitHub](https://github.com/ruletascasiteveo1-bot/coregold-multimodal-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向视频 AI 订阅付费的商业虚拟卡服务推广**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruletascasiteveo1-bot/coregold-multimodal-pay 星数(近 11 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 128
-    line [6, 35, 57, 69, 73, 78, 77, 74, 77, 91, 117]
+    title "ruletascasiteveo1-bot/coregold-multimodal-pay 星数(近 12 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 129
+    line [6, 35, 57, 69, 73, 78, 77, 74, 77, 91, 117, 118]
 ```
 
-2026-11-02 6 → 2026-11-26 117（+111）
+2026-11-02 6 → 2026-11-27 118（+112）
 
 
 ---

@@ -1,6 +1,6 @@
 # zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend
 
-⭐ 116 · 推送 2026-10-30 · [GitHub](https://github.com/zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 117 · 推送 2026-10-30 · [GitHub](https://github.com/zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **CoreGold 海外虚拟卡服务的推广页：USDT 充值按需开卡付海外订阅**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend 星数(近 11 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-26"]
-    y-axis "stars" 0 --> 126
-    line [8, 12, 52, 72, 85, 90, 95, 92, 93, 95, 116]
+    title "zeusolimpiano749-bot/coregold-payment-toolkit-Disposable-Virtual-Cards-for-Global-SaaS-Ad-Spend 星数(近 12 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 127
+    line [8, 12, 52, 72, 85, 90, 95, 92, 93, 95, 116, 117]
 ```
 
-2026-10-31 8 → 2026-11-26 116（+108）
+2026-10-31 8 → 2026-11-27 117（+109）
 
 
 ---

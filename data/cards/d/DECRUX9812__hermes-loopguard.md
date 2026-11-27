@@ -41,6 +41,18 @@
 > L14: LoopGuard puts those decisions on a cheap, typed path before the agent wakes.
 > L126: LoopGuard evaluates gate questions using a fast, cheap backend. `backend: auto` evaluates
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DECRUX9812/hermes-loopguard 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-26 5 → 2026-11-27 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `cc19f26cacc9` · [字段定义](../../DATASET.md)*

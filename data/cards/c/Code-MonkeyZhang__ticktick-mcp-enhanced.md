@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Code-MonkeyZhang/ticktick-mcp-enhanced 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-24 33 → 2026-11-26 33（+0）
+2026-10-25 33 → 2026-11-27 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # surendramaran/YOLO
 
-⭐ 212 · Kotlin · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/surendramaran/YOLO) · [官网](https://www.surendramaran.com/) · 个人维护
+⭐ 213 · Kotlin · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/surendramaran/YOLO) · [官网](https://www.surendramaran.com/) · 个人维护
 
 **在 Android 与 iOS 应用中集成 YOLO 模型的示例仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "surendramaran/YOLO 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
-    y-axis "stars" 209 --> 213
-    line [210, 211, 210, 211, 212, 212]
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    y-axis "stars" 209 --> 214
+    line [210, 211, 210, 211, 212, 213]
 ```
 
-2026-10-24 210 → 2026-11-26 212（+2）
+2026-10-25 210 → 2026-11-27 213（+3）
 
 
 ---

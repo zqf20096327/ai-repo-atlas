@@ -45,12 +45,12 @@ UnfilteredAiChat 是一个以本地方式运行的 LLM 聊天工具，提供 Win
 ```mermaid
 xychart-beta
     title "TekihiXac52/unfiltered-ai-chat 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
+    x-axis ["2026-11-25", "2026-11-27"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-11-25 66 → 2026-11-26 66（+0）
+2026-11-25 66 → 2026-11-27 66（+0）
 
 
 ---

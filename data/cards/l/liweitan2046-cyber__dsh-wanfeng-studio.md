@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liweitan2046-cyber/dsh-wanfeng-studio 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-26"]
+    title "liweitan2046-cyber/dsh-wanfeng-studio 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-15 3 → 2026-11-26 4（+1）
+2026-11-15 3 → 2026-11-27 4（+1）
 
 
 ---

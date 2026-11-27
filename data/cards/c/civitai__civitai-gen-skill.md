@@ -46,12 +46,12 @@ Civitai 官方维护的 AgentSkills 格式技能：以零 npm 依赖的 Node.js 
 ```mermaid
 xychart-beta
     title "civitai/civitai-gen-skill 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-24 18 → 2026-11-26 19（+1）
+2026-10-25 18 → 2026-11-27 19（+1）
 
 
 ---

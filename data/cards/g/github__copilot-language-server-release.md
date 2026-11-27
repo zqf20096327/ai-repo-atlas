@@ -1,6 +1,6 @@
 # github/copilot-language-server-release
 
-⭐ 296 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/github/copilot-language-server-release) · [官网](https://www.npmjs.com/package/@github/copilot-language-server) · 组织维护
+⭐ 296 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/github/copilot-language-server-release) · [官网](https://www.npmjs.com/package/@github/copilot-language-server) · 组织维护
 
 **让任意编辑器/IDE 通过 LSP 接入 GitHub Copilot 的语言服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "github/copilot-language-server-release 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-27"]
     y-axis "stars" 291 --> 297
     line [292, 294, 295, 296, 296]
 ```
 
-2026-10-24 292 → 2026-11-26 296（+4）
+2026-10-25 292 → 2026-11-27 296（+4）
 
 
 ---

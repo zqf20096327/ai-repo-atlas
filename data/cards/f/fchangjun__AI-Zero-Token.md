@@ -1,6 +1,6 @@
 # fchangjun/AI-Zero-Token
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/fchangjun/AI-Zero-Token) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/fchangjun/AI-Zero-Token) · 个人维护 · 中文 README
 
 **本地 OpenAI 兼容网关：把 ChatGPT/Codex OAuth 账号转成本地 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fchangjun/AI-Zero-Token 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-27"]
     y-axis "stars" 26 --> 30
     line [27, 28, 27, 28, 29, 29]
 ```
 
-2026-10-24 27 → 2026-11-26 29（+2）
+2026-10-25 27 → 2026-11-27 29（+2）
 
 
 ---

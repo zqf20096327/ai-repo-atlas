@@ -1,6 +1,6 @@
 # kue02/Krss
 
-⭐ 23 · TypeScript · GPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kue02/Krss) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · GPL-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/kue02/Krss) · 个人维护 · 中文 README
 
 **自托管 RSS 阅读器：单二进制+SQLite，内置 AI 摘要翻译与 MCP**
 
@@ -40,6 +40,18 @@
 
 > L7: 一个跑在自己服务器上的 RSS 阅读器：单个二进制 + SQLite，一条命令即可启动。订阅、已读、星标和规则数据都在自己手里；界面参照 Folo 的文章 / 社交 / 通知 / 图片四视图形态，并内置插件系统、自动化规则、AI 摘
 > L63: ### AI 摘要与翻译（自备 API Key，不配也能翻译）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kue02/Krss 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 22 --> 27
+    line [23, 26]
+```
+
+2026-11-26 23 → 2026-11-27 26（+3）
 
 
 ---

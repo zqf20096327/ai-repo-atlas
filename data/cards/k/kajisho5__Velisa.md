@@ -1,6 +1,6 @@
 # kajisho5/Velisa
 
-⭐ 14 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kajisho5/Velisa) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kajisho5/Velisa) · 个人维护
 
 **为独立视频生产 Skill/Agent 提供开放契约与共享执行基础设施**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kajisho5/Velisa 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 12, 14]
+    title "kajisho5/Velisa 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 14, 15]
 ```
 
-2026-11-21 10 → 2026-11-26 14（+4）
+2026-11-21 10 → 2026-11-27 15（+5）
 
 
 ---

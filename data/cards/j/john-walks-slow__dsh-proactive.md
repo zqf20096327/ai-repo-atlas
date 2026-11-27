@@ -1,6 +1,6 @@
 # john-walks-slow/dsh-proactive
 
-⭐ 17 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/john-walks-slow/dsh-proactive) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/john-walks-slow/dsh-proactive) · 个人维护 · 中文 README
 
 **DSH 插件：让 AI 模型自设宿主级定时闹钟唤醒冷会话**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的插件，为模型注册 6 个 host 级工具，可�
 ```mermaid
 xychart-beta
     title "john-walks-slow/dsh-proactive 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-26"]
-    y-axis "stars" 6 --> 18
-    line [7, 15, 16, 17, 17]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-27"]
+    y-axis "stars" 6 --> 19
+    line [7, 15, 16, 17, 18]
 ```
 
-2026-10-18 7 → 2026-11-26 17（+10）
+2026-10-18 7 → 2026-11-27 18（+11）
 
 
 ---

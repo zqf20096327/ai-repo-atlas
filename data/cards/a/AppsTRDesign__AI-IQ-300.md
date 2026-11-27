@@ -1,6 +1,6 @@
 # AppsTRDesign/AI-IQ-300
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AppsTRDesign/AI-IQ-300) · [官网](https://wplugins.shop) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AppsTRDesign/AI-IQ-300) · [官网](https://wplugins.shop) · 个人维护
 
 **本地与云端 LLM 的自主开发与自动化命令中心**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AppsTRDesign/AI-IQ-300 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-20", "2026-11-26"]
+    title "AppsTRDesign/AI-IQ-300 星数(近 4 点)"
+    x-axis ["2026-11-10", "2026-11-20", "2026-11-26", "2026-11-27"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-11-10 3 → 2026-11-26 5（+2）
+2026-11-10 3 → 2026-11-27 5（+2）
 
 
 ---

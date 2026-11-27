@@ -1,6 +1,6 @@
 # tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide
 
-⭐ 38 · 推送 2026-11-23 · [GitHub](https://github.com/tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 54 · 推送 2026-11-23 · [GitHub](https://github.com/tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向科研团队的海外虚拟卡（CoreGold）使用教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 9 --> 40
-    line [11, 38]
+    title "tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 7 --> 58
+    line [11, 38, 54]
 ```
 
-2026-11-25 11 → 2026-11-26 38（+27）
+2026-11-25 11 → 2026-11-27 54（+43）
 
 
 ---

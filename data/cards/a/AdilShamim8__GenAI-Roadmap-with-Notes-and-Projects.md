@@ -1,6 +1,6 @@
 # AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects
 
-⭐ 108 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects) · 个人维护
+⭐ 108 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects) · 个人维护
 
 **面向生产级 GenAI 工程师的 12 级学习路线图与项目集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AdilShamim8/GenAI-Roadmap-with-Notes-and-Projects 星数(近 11 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-22", "2026-11-25", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-22", "2026-11-25", "2026-11-27"]
     y-axis "stars" 97 --> 109
     line [98, 99, 101, 102, 98, 104, 106, 105, 106, 108, 108]
 ```
 
-2026-10-24 98 → 2026-11-26 108（+10）
+2026-10-25 98 → 2026-11-27 108（+10）
 
 
 ---

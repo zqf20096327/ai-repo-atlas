@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/frontiertour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-11", "2026-11-26"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 15, 16, 16]
+    title "microsoft/frontiertour27-ILL344-turning-data-into-agent-ready-knowledge-with-microsoft-iq 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-27"]
+    y-axis "stars" 12 --> 17
+    line [13, 15, 16, 16]
 ```
 
-2026-10-23 12 → 2026-11-26 16（+4）
+2026-10-24 13 → 2026-11-27 16（+3）
 
 
 ---

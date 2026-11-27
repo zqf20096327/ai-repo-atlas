@@ -46,12 +46,12 @@ DevChestra 是面向无头编码 CLI agent 的本地工作流构建器：在画�
 ```mermaid
 xychart-beta
     title "Pranav-Official/Dev-Chestra 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-26"]
+    x-axis ["2026-11-08", "2026-11-27"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-08 6 → 2026-11-26 6（+0）
+2026-11-08 6 → 2026-11-27 6（+0）
 
 
 ---

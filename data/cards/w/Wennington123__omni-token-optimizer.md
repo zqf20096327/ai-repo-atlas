@@ -1,6 +1,6 @@
 # Wennington123/omni-token-optimizer
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Wennington123/omni-token-optimizer) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wennington123/omni-token-optimizer) · 个人维护
 
 **给 AI agent 用的本地 token 优化套件：hooks+行为 skill 降消耗**
 
@@ -40,6 +40,18 @@
 > L43: 1. **Zero-Token Local Middleware (Hooks)**: Filtra e trunca saídas brutas de ferramentas (terminal, CSVs, respostas
 > L181: - **Claude Code / Command Code**: a skill é auto-descoberta na pasta de skills; para o `context_monitor.py` (que f
 > L182: - **OpenCode (v2)**: suporte completo via skill + plugin local — veja Integração OpenCode.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Wennington123/omni-token-optimizer 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-26 15 → 2026-11-27 15（+0）
 
 
 ---

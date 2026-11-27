@@ -1,10 +1,10 @@
 # wh000wh000/awesome-jev-live
 
-⭐ 380 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 个人维护 · 中文 README
+⭐ 379 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 个人维护 · 中文 README
 
-**面向开发者的 Jev 模型生态分级收录索引，每 2 小时自动重建**
+**Jev/System One 生态的证据分级索引，每两小时自动重建**
 
-围绕 TypeSafe 的 System One 模型 Jev 构建的自动化清单：流水线每两小时采集并复核条目，当前收录 786 条，覆盖官方 SDK、社区客户端、MCP 工具、agent、应用与开源复现，按 official/observed/inferred/unverified 四级标注验证程度，并以 20 种语言呈现。站点以 MIT 许可发布，条目附带星数、最近推送、首次收录时间等元数据，并明示 Jev 的已知缺陷类别与校准提示。
+围绕 TypeSafe 的 System One 模型 Jev 构建的策展索引：收录 778 个条目，覆盖官方 SDK、社区客户端、MCP 工具、Agent 应用与开源复现，按 official/observed/inferred/unverified 四级证据等级标注验证程度，并列出九类已知缺陷（jaggedness）。索引由仓库内流水线每两小时自动采集重建，条目含星标、语言、更新时间等来自数据源的字段，站点提供 20 种语言界面。内容以清单形式呈现，不含本产品的安装或运行说明。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 流水线每 2 小时自动重建，条目 786 条、实现语言 26 种
-- 四级证据分级（official/observed/inferred/unverified）可过滤
-- 每类目按证据等级与星数重算精选条目
-- 20 种语言版本，MIT 许可
+- 778 个条目按四级证据等级（official/observed/inferred/unverified）分级标注
+- 流水线每两小时自动重建，数据来自源头而非手工快照
+- 收录官方 SDK、社区客户端、MCP 工具、应用与开源模型等类别
+- 界面提供 20 种语言版本
 
 ## 适用场景
 
-- 查找 Jev / TypeSafe System One API 的官方 SDK 与工具
-- 按验证程度筛选社区客户端与 MCP 工具
-- 跟踪 Jev 生态新增项目（每次更新列出新增条目）
+- 查找接入 TypeSafe Jev System One API 的 SDK 或客户端
+- 筛选经源码核验（observed 级）的 Jev 生态工具
+- 了解 Jev 模型的已知缺陷类别与官方建议
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 ## 证据(README 行号)
 
 > L5:  The evidence-graded Jev index that rebuilds itself every two hours.
-> L80: Most lists in this space assert inclusion. This one says how much it actually verified, then lets you filter accord
-> L82: |Grade|What it means|
+> L68: Jev is TypeSafe AI's first **System One model**. It does not write prose. It takes a state plus questions whose ans
+> L84: |`official`|Published by TypeSafe AI itself.|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "wh000wh000/awesome-jev-live 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-27"]
     y-axis "stars" 375 --> 381
-    line [376, 377, 378, 376, 378, 379, 380, 380]
+    line [376, 377, 378, 376, 378, 379, 380, 379]
 ```
 
-2026-10-24 376 → 2026-11-26 380（+4）
+2026-10-25 376 → 2026-11-27 379（+3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `e5bd5d05b12b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `4c32ee6297a1` · [字段定义](../../DATASET.md)*

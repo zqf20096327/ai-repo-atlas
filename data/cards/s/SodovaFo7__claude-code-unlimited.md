@@ -1,6 +1,6 @@
 # SodovaFo7/claude-code-unlimited
 
-⭐ 68 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SodovaFo7/claude-code-unlimited) · [官网](https://github.com/SodovaFo7/claude-code-unlimited/releases) · 个人维护
+⭐ 69 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SodovaFo7/claude-code-unlimited) · [官网](https://github.com/SodovaFo7/claude-code-unlimited/releases) · 个人维护
 
 **为 Claude Code CLI 自动轮换会话以规避用量限制的封装工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SodovaFo7/claude-code-unlimited 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 74
-    line [3, 68]
+    title "SodovaFo7/claude-code-unlimited 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 75
+    line [3, 68, 69]
 ```
 
-2026-11-25 3 → 2026-11-26 68（+65）
+2026-11-25 3 → 2026-11-27 69（+66）
 
 
 ---

@@ -40,6 +40,18 @@
 > L19: **DeepSeek for Android (`v0.2.2-r4`)** brings the official **DeepSeek Harness Desktop (`@deepseek-ai/dsh`)** autono
 > L37: |**Desktop-Identical DeepSeek Experience**|Runs the authentic `@deepseek-ai/dsh-web-app` & Cordis plugin architectu
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Yhoanes/deepseek-android 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-27"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-26 4 → 2026-11-27 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f79a95607e57` · [字段定义](../../DATASET.md)*

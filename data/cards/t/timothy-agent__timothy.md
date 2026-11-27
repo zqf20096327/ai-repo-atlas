@@ -1,6 +1,6 @@
 # timothy-agent/timothy
 
-⭐ 61 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/timothy-agent/timothy) · [官网](https://timothy-agent.github.io/docs/) · 组织维护
+⭐ 61 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/timothy-agent/timothy) · [官网](https://timothy-agent.github.io/docs/) · 组织维护
 
 **自托管的个人 AI agent 控制平面，私域运行多模型智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "timothy-agent/timothy 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-24 61 → 2026-11-26 61（+0）
+2026-10-25 61 → 2026-11-27 61（+0）
 
 
 ---

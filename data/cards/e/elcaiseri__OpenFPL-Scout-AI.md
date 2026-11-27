@@ -1,6 +1,6 @@
 # elcaiseri/OpenFPL-Scout-AI
 
-⭐ 30 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/elcaiseri/OpenFPL-Scout-AI) · [官网](https://openfpl.kassem.dev) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/elcaiseri/OpenFPL-Scout-AI) · [官网](https://openfpl.kassem.dev) · 个人维护
 
 **FPL（英超梦幻联赛）球员积分预测与阵容选择应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "elcaiseri/OpenFPL-Scout-AI 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-22", "2026-11-26"]
+    title "elcaiseri/OpenFPL-Scout-AI 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-22", "2026-11-26", "2026-11-27"]
     y-axis "stars" 28 --> 32
-    line [29, 30, 31, 30]
+    line [29, 30, 31, 30, 30]
 ```
 
-2026-10-24 29 → 2026-11-26 30（+1）
+2026-10-25 29 → 2026-11-27 30（+1）
 
 
 ---

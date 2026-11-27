@@ -1,58 +1,58 @@
 # NerverDevs/nervecenter
 
-⭐ 657 · TypeScript · NOASSERTION · 推送 2026-10-24 · [GitHub](https://github.com/NerverDevs/nervecenter) · [官网](https://nvcenter.cc) · 组织维护 · 中文 README
+⭐ 680 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NerverDevs/nervecenter) · [官网](https://nvcenter.cc) · 组织维护 · 中文 README
 
-**new-api/sub2api 中转站账号的闭源托管管理控制台**
+**面向 CLI 用户的多厂商模型代理服务器与账号接入管理**
 
-面向中转站站长和多站点用户的 Web 服务：将各 new-api / sub2api 面板账号作为“渠道”接入，定时同步余额、上游 API Key、用量日志与分组倍率，提供模型比价、倍率变更时间线、余额预警与 Telegram/Webhook 推送，支持工作区、角色权限与个人 API 令牌。登录由用户本人通过 F12 复制凭据、浏览器扩展或云浏览器完成；上游凭据以 AES-256-GCM 加密存储。注意：本仓库仅为产品介绍与少量前端代码，服务本身闭源，代码无法构建运行、未授予开源许可。
+CLIProxyAPI 是一个代理服务器，为本地与多账号场景提供 OpenAI/Gemini/Claude/Grok 兼容的 API 接口，供任意兼容客户端或 SDK 访问 Kimi、OpenAI、Anthropic、Gemini、xAI、Meta、Devin 等厂商模型。支持 OAuth 登录接入 Codex/Claude Code/Grok Build，多账号轮询负载均衡，流式/非流式/WebSocket 响应，函数调用与多模态输入；内置用量统计自 v6.10.0 起移除，改由第三方面板承担。提供 Go SDK 供嵌入，另有 EasyCLIProxyAPI 桌面客户端提供图形化配置。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多站点余额、Key、用量与分组倍率集中同步（渠道制接入）
-- 模型比价与倍率/模型变更时间线（默认 10/30 分钟比对）
-- 余额预警等通知推送至站内、Telegram 与 HMAC-SHA256 签名 Webhook
-- 凭据 AES-256-GCM 加密、全程审计与个人 API 令牌
+- 提供 OpenAI/Gemini/Claude/Grok 兼容 API 端点
+- OAuth 登录接入 Codex、Claude Code、Grok Build
+- 多账号轮询负载均衡与 CLI 认证流程
+- 可复用 Go SDK 供嵌入代理功能
 
 ## 适用场景
 
-- 我有多个中转站账号，想在一处查余额、比价格
-- 站长集中管理上游 Key 与用量，及时收到余额不足提醒
-- 追踪各站点倍率与模型上下架变化
+- 用已有订阅账号给本地 AI 编码工具提供模型接口
+- 在多个厂商账号间做轮询与配额分摊
+- 通过 SDK 把代理能力嵌入自己的应用
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3:  new-api / sub2api 中转站账号管理中心：多站点的余额、API Key、用量、分组倍率和提醒，放在一个控制台里。
-> L22: - **中转站站长**：手上有一串上游账号，每个面板都要单独登录。查余额要一个个点开，Key 散在各处，倍率调了不知道，余额见底往往是用户报错才发现。
-> L151: NerveCenter brings your accounts on many **new-api** and **sub2api** relay panels (中转站) into one console: balances
+> L7: CLIProxyAPI is a proxy server that provides OpenAI/Gemini/Claude/Codex/Grok compatible API interfaces for CLI.
+> L39: - OpenAI/Gemini/Claude/Grok compatible API endpoints for CLI models
+> L46: - Multiple accounts with round-robin load balancing (Gemini, OpenAI, Claude, Grok)
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "NerverDevs/nervecenter 星数(近 26 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
-    y-axis "stars" 0 --> 722
-    line [3, 36, 57, 72, 92, 115, 131, 152, 174, 3, 316, 352, 374, 394, 414, 433, 457, 475, 496, 517, 537, 555, 572, 590, 616, 657]
+    title "NerverDevs/nervecenter 星数(近 27 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    y-axis "stars" 0 --> 747
+    line [3, 36, 57, 72, 92, 115, 131, 152, 174, 3, 316, 352, 374, 394, 414, 433, 457, 475, 496, 517, 537, 555, 572, 590, 616, 657, 680]
 ```
 
-2026-10-25 3 → 2026-11-26 657（+654）
+2026-10-25 3 → 2026-11-27 680（+677）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `9da51fe89e94` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `61fd5edd8897` · [字段定义](../../DATASET.md)*

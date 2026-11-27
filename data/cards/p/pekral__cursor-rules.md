@@ -1,6 +1,6 @@
 # pekral/cursor-rules
 
-⭐ 12 · PHP · MIT · 推送 2026-10-03 · [GitHub](https://github.com/pekral/cursor-rules) · [官网](https://pekral.cz) · 个人维护
+⭐ 11 · PHP · MIT · 推送 2026-10-03 · [GitHub](https://github.com/pekral/cursor-rules) · [官网](https://pekral.cz) · 个人维护
 
 **为 PHP/Laravel 项目安装 Cursor/Claude/Codex 规则与 Agent 技能的 Composer 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pekral/cursor-rules 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-14", "2026-11-27"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    line [11, 12, 11]
 ```
 
-2026-10-24 11 → 2026-11-26 12（+1）
+2026-10-25 11 → 2026-11-27 11（+0）
 
 
 ---

@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "JesperDramsch/70-Years-of-Machine-Learning-in-Geoscience-in-Review 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-27"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-24 37 → 2026-11-26 37（+0）
+2026-10-25 37 → 2026-11-27 37（+0）
 
 
 ---

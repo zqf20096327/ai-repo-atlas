@@ -1,6 +1,6 @@
 # Moissanite-Labs/exo
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Moissanite-Labs/exo) · [官网](https://exo.askaconsult.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向个人的终端与浏览器编码 agent，跨会话保持单一连续记忆**
 
@@ -11,7 +11,7 @@ Exo 是一个以 Python 编写的独立 agent 系统，在终端（exo tui）与
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Ryanditko/federated-learning-at-cybersecurity
 
-⭐ 31 · Python · 推送 2026-05-04 · [GitHub](https://github.com/Ryanditko/federated-learning-at-cybersecurity) · 组织维护
+⭐ 32 · Python · 推送 2026-05-04 · [GitHub](https://github.com/Ryanditko/federated-learning-at-cybersecurity) · 组织维护
 
 **科研项目：检测并缓解联邦学习中的投毒攻击**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ryanditko/federated-learning-at-cybersecurity 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-25", "2026-11-27"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-24 31 → 2026-11-26 31（+0）
+2026-10-25 31 → 2026-11-27 32（+1）
 
 
 ---
