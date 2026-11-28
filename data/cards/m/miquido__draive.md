@@ -2,9 +2,9 @@
 
 ⭐ 111 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/miquido/draive) · [官网](https://www.miquido.com/) · 组织维护
 
-**构建生产级 LLM agent 与工作流的 Python 框架**
+**Python LLM 框架：构建带类型化输出与可观测性的生产级 agent**
 
-由 Miquido 开发的 Python 框架，面向开发团队构建 GenAI 系统：提供类型化输出（State 模型）、工具编排（任意 Python 函数转为 LLM 可调用工具）、多模态内容处理、检索（内置 embeddings 与 VectorIndex）、评测、guardrails 与 OpenTelemetry 可观测性。执行模型基于 ctx.scope 提供状态管理与依赖生命周期控制。可选集成 OpenAI、Anthropic、Gemini、Mistral、Ollama、vLLM、Bedrock 等多种模型服务，以及 Postgres、Qdrant、SurrealDB、RabbitMQ 等。要求 Python 3.14 或更新版本，MIT 许可。
+Draive 是由 Miquido 开发的 Python 框架，面向开发者构建 LLM agent 与工作流。核心机制包括：默认生成经过校验的类型化 State 对象、通过 ctx.scope 提供显式状态与依赖生命周期、以 Python 函数加注解方式定义工具、内置 embeddings 与 VectorIndex 支持 RAG、提供 guardrails（moderation 与运行时评估）以及 OpenTelemetry 兼容的日志/指标/追踪。要求 Python 3.15+，通过 pip 安装，各第三方服务以可选 extras 集成。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 类型化结构化输出，生成经验证的 State 对象
-- 任意 Python 函数可注解为 LLM 工具
-- 内置评测、guardrails 与 OpenTelemetry 可观测性钩子
-- 通过可选 extras 接入 OpenAI/Anthropic/Gemini/Mistral/Ollama/vLLM/Bedrock 等提供商
+- 类型化输出：生成经校验的 State 对象而非字符串
+- Python 函数加注解即定义 LLM 可调用工具
+- 内置 embeddings 与 VectorIndex 支持 RAG 工作流
+- 可选 extras 集成 OpenAI/Anthropic/Gemini/Mistral/Cohere/Ollama/vLLM/Bedrock 等
 
 ## 适用场景
 
-- 构建自主 agent 或文档信息抽取应用
-- 在不同模型提供商间切换而无需重写业务流程
-- 为 LLM 应用搭建带评测与监控的 CI 流程
-- 构建带检索（RAG）的工作流
+- 构建自主 agent 与可复用的 Step 工作流管道
+- 文档信息抽取、音频与图像等多模态处理
+- 为 LLM 应用接入评估、guardrails 与遥测监控
 
 ## 场景标签
 
-`Agent 框架` `RAG` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: 🏎️ Build production-ready GenAI systems with strict typing, clean architecture, and fast iteration.
-> L45: Draive is built for developers who want clarity, flexibility, and control when working with LLMs.
+> L11: Draive helps teams move from prompt experiments to dependable AI features: typed outputs, tool
 > L74: - **Model-Agnostic by Design**: Built-in support for major hosted and self-hosted providers.
 
 ## 星数曲线
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `808deed7c317` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `a11e2635e5ae` · [字段定义](../../DATASET.md)*

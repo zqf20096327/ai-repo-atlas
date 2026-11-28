@@ -2,9 +2,9 @@
 
 ⭐ 128 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/darshi1337/apogee) · [官网](https://darshi1337.github.io/apogee/) · 个人维护
 
-**浏览器本地 AI 摘要扩展：离线总结网页/视频/PDF**
+**本地优先的浏览器 AI 摘要扩展：为网页/视频/PDF/DOCX 生成摘要**
 
-Chrome/Firefox 浏览器扩展，在本地对文章、YouTube/Bilibili 视频、PDF、DOCX 与粘贴文本生成摘要和问答。推理在浏览器内经 WebGPU（GPU）或 WebAssembly（CPU）完成，也可连接本地 Ollama 或 llama.cpp 的 llama-server（仅限 127.0.0.1 回环）。无需账号、API key 或云端上传，首次运行下载模型后可离线缓存。支持选中文本摘要、带时间轴的视频摘要、来源句高亮定位、32 种语言翻译。受已停产的 Mozilla Orbit 启发，MIT 许可。
+离线优先的浏览器扩展，对文章、视频、PDF、DOCX 与粘贴文本生成摘要与问答。浏览器内生成走 WebGPU（Chromium）或 WebAssembly（Firefox 默认），也可连接本机 Ollama 或 llama-server；远程生成（OpenRouter/OpenCode）需单独同意并使用用户自己的 key。提供 37 种输出语言翻译、来源句高亮回跳、时间戳视频时间线、敏感站点缓存排除。通过 Chrome Web Store 与 Firefox Add-ons 安装，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Chrome/Firefox 浏览器扩展，在本地对文章、YouTube/Bilibili 视频、
 
 ## 能力要点
 
-- WebGPU/WebAssembly 浏览器内推理，无需后端或 API key
-- 可直连本地 Ollama 或 llama.cpp 的 llama-server（限回环地址）
-- 支持文章、视频、PDF/DOCX、社交讨论串与选中文本的摘要及问答
-- 摘要要点可定位回原文出处句（Chromium）
+- 本地生成默认运行：分词、推理、检索、缓存均在设备端
+- WebGPU/WASM 浏览器内推理，或 127.0.0.1 回环连接 Ollama 与 llama-server
+- 摘要要点点击可滚动到页面来源句（grounding）
+- 支持 37 种输出语言翻译与自定义提示指令
 
 ## 适用场景
 
-- 浏览网页或看视频时快速生成本地摘要
-- 在无网络或注重隐私的环境下总结文档与邮件外内容
-- 连接自家 Ollama/llama.cpp 服务使用更大的模型
+- 在浏览器里本地总结文章、PDF、DOCX 与粘贴文本
+- 为 YouTube/Bilibili 视频生成交互式时间线并跳转关键片段
+- 对长文档做本地检索问答
+- 在无网络环境下使用已缓存模型进行摘要
 
 ## 场景标签
 
-`文档问答` · 领域:知识与检索
+`文档问答` `AI 写作` `文档解析` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L5: A private AI summarizer in your browser for articles, videos, PDFs, DOCX files, and pasted text. It runs on WebGPU, 
-> L19: Apogee is an AI browser assistant for articles, videos, emails, and more. It runs fully in your browser. It uses yo
-> L25: > **In short:** Apogee summarizes pages, videos, PDFs, DOCX files, and pasted text locally. It needs no account, AP
+> L5: A local-by-default AI summarizer in your browser for articles, videos, PDFs, DOCX files, and pasted text. It runs on
+> L19: Apogee is an AI browser assistant for articles, videos, emails, and more. In-browser generation uses your GPU with 
+> L25: > Apogee summarizes pages, videos, PDFs, DOCX files, and pasted text locally by default. Local generation needs no 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `6b688959cf74` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `ac853f7fa6ba` · [字段定义](../../DATASET.md)*

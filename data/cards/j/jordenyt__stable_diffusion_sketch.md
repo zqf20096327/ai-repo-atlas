@@ -2,9 +2,9 @@
 
 ⭐ 128 · Java · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/jordenyt/stable_diffusion_sketch) · 个人维护
 
-**Android 绘图客户端：连接自己的 ComfyUI 进行 AI 图像生成**
+**安卓手绘草图客户端：连接自建 ComfyUI 生成 AI 图像**
 
-面向 Android 用户的草图/照片绘制与 AI 图像生成应用：通过 RESTful API 连接用户自建的 ComfyUI 服务器（需另行部署 ComfyuiGW API 网关），支持彩色素描、相机取图、放大、标注、批量处理等。生成参数支持五级配置（工作流 JSON、服务器、应用默认、模式、Prompt 内键值覆盖），可设置尺寸、CFG、步数、去噪强度等。APK 直接安装，另有 A1111 版本分支。
+面向 Android 的客户端应用，通过 ComfyUI Restful API Gateway（ComfyuiGW）与用户自建的 ComfyUI 服务器通信，应用本身不内嵌 Stable Diffusion 后端。提供画笔绘制、拍照/相册/分享四种图像输入方式，支持文生图、图生图、局部重绘、参考引导生成、放大与视频等由网关发布的工作流模式，另含 prompt 增写文本工作流。生成任务经网关提交、轮询进度并取回结果，EXIF 元数据写入导出 JPEG。前置条件为服务器上运行 ComfyUI 与 ComfyuiGW，设备需 Android 8.0+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 通过 RESTful API 连接自建 ComfyUI 服务器
-- 彩色素描、相机取图、放大、标注、批量处理等绘图工具
-- 五级参数配置体系（工作流/服务器/应用/模式/Prompt）
-- 4 种画布比例与设置导入导出
+- 通过 ComfyuiGW 网关调用任意已发布的 ComfyUI 工作流（txt2img/img2img/inpainting 等模式）
+- 画笔绘图支持调色板、取色器、撤销/重做、缩放平移，可从画布/相机/相册/分享四种方式开始
+- 生成参数支持工作流 JSON、服务器配置、应用默认值、模式 JSON、prompt 内联标签五级配置
+- 前台通知显示节点进度与队列位置，导出 JPEG 写入 prompt/steps/相机等 EXIF 元数据
 
 ## 适用场景
 
-- 在手机上绘制草图并交由自建 ComfyUI 生成图像
-- 通过相机或其他应用图片作为输入进行 AI 变换
-- 在移动端配置与管理生成参数（尺寸/CFG/步数等）
+- 在安卓平板/手机上手绘草图并用自建 ComfyUI 生图
+- 通过局域网或路由器端口转发远程使用自己的 ComfyUI 服务器
+- 按项目整理生成结果并保留完整参数元数据
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: Transform your sketches and photos with Stable Diffusion on Android. This app integrates with ComfyUI via a RESTful 
-> L11: - 🎨 **Sketch with color** using intuitive drawing tools
-> L12: - ✨ **AI-powered enhancements** via ComfyUI workflows
+> L3: Sketch on your Android phone and turn your drawing into an AI image. The app talks to ComfyUI through the ComfyUI Re
+> L30: 1. ComfyUI running on a server
+> L49: The app does not embed any Stable Diffusion backend. It picks a **mode** published by the gateway, fills the mode's
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ad475471147d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ed429fa86977` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 119 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/taladb/taladb) · [官网](https://taladb.dev) · 组织维护
 
-**面向本地优先 AI 应用的嵌入式文档+向量数据库**
+**内嵌式文档与向量数据库：支撑本地优先 AI 应用**
 
-以同一 Rust 内核驱动的嵌入式数据库，将 JSON 文档存储、元数据过滤与向量相似度检索合并到一个引擎中，覆盖浏览器（WASM/OPFS）、Node.js、React Native、Android（Kotlin）与 iOS/macOS（Swift），无需服务端。提供 BM25 全文检索、倒排秩融合的混合检索、过滤优先的向量搜索、ACID 事务、live queries 与变更 webhook，可配合 transformers.js、ONNX Runtime Web 等端侧嵌入模型使用。限制：不做复制，webhook 仅由 TypeScript 客户端投递且至多一次。
+以 Rust 为核心的内嵌数据库，在应用进程内存储 JSON 文档与向量嵌入，无服务器、无云端往返。查询接口采用 MongoDB 风格过滤与二级索引，支持精确 k-NN 与可选 HNSW 向量检索、BM25 全文检索及 RRF 混合检索，写入具备 ACID 事务，可选 AES-GCM-256 静态加密，并提供实时订阅查询与数据迁移。同一 Rust 内核通过 WebAssembly、napi-rs、JNI、C FFI 等绑定运行于浏览器、Node.js、React Native、Android、iOS、macOS 与 Rust。MIT OR Apache-2.0 双许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 文档+向量单引擎，同一 Rust 内核跨浏览器/Node/RN/Kotlin/Swift
-- 精确 k-NN 向量搜索（cosine/dot/euclidean）+ 可选 HNSW
-- BM25 全文检索与 RRF 混合检索，元数据过滤先于排序
-- ACID 事务（redb）、live queries、静态加密与 schema 迁移
+- 单引擎同时存储 JSON 文档与向量嵌入，进程内运行无服务器
+- 向量 k-NN（cosine/dot/euclidean）、可选 HNSW、BM25 与 RRF 混合检索
+- ACID 事务（基于 redb）、可选 AES-GCM-256 静态加密、实时订阅查询
+- 六平台包（浏览器/Node/React Native/Android/iOS/macOS/Rust）共享同一 Rust 内核
 
 ## 适用场景
 
-- 离线/本地优先应用中做语义与关键词混合检索
-- 端侧 RAG：与 transformers.js 等本地嵌入模型搭配构建检索层
-- 移动应用（Android/iOS）内嵌文档与向量存储，无需后端数据库
-- 本地写入后通过 webhook 通知后端系统
+- 本地优先的移动端或浏览器应用离线存储与检索数据
+- 为端侧 AI 应用提供向量检索与混合搜索能力
+- 在无后端场景下用 webhook 将本地变更推送给服务端
 
 ## 场景标签
 
-`向量数据库` · 领域:知识与检索
+`向量数据库` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L3: **An open-source embedded vector and document database for building local-first AI applications.**
-> L19: TalaDB combines a document database and a vector database in one embedded engine. Store JSON-like documents, query 
+> L21: TalaDB stores JSON documents and their vector embeddings in one embedded engine. You
+> L62: - **Vector search.** Exact k-NN (cosine, dot, euclidean) by default, optional HNSW, and
+> L64: - **Full-text and hybrid search.** BM25 ranking with `searchText`, and `hybridSearch`
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 high · 依据 README sha `d535a789aaca` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e4b01713df45` · [字段定义](../../DATASET.md)*

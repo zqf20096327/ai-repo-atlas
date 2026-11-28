@@ -2,9 +2,9 @@
 
 ⭐ 160 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/RouteWorks/RouterArena) · [官网](https://routeworks.github.io/) · 组织维护
 
-**面向 LLM 路由器的开放评测平台与在线排行榜**
+**LLM 路由器的开源评测平台与实时排行榜**
 
-RouterArena 提供针对 LLM 路由器（为查询自动选模型的系统）的标准化评测：数据集覆盖 9 领域 44 类别、三档难度，指标含准确率、成本、最优性、鲁棒性、延迟五项。用户继承 BaseRouter 类实现 _get_prediction() 生成路由决策文件，经 LLM 推理与评测脚本后可通过 PR 提交至自动评测流程并上榜。明确声明为仅限评测的数据集，禁止用于训练或调优路由器组件。联系方式为 Rice 大学邮箱，附 arXiv 论文与 Hugging Face 数据集。
+RouterArena 面向 LLM 路由系统提供标准化评测：构建覆盖 9 个领域 44 个类别、含难度分级的数据集，定义准确率、成本、最优性、鲁棒性、延迟五项指标，并提供自动化评测流程——用户继承 BaseRouter 实现路由类、生成预测文件、运行推理与评测脚本，结果提交至实时排行榜。评测仅限评估用途，禁止用其数据训练或拟合路由器。通过 uv 安装，数据集从 Hugging Face 下载，支持商业与开源路由器接入。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ RouterArena 提供针对 LLM 路由器（为查询自动选模型的系统）的
 
 ## 能力要点
 
-- 9 领域 44 类别、三档难度的评测数据集（sub_10/full/robustness 三个切分）
-- 五项路由关键指标：准确率、成本、最优选择、鲁棒性、延迟
-- PR 提交触发 /evaluate 自动评测工作流，结果更新在线排行榜
-- 继承 BaseRouter 自定义路由器类即可接入评测流程
+- 9 领域 44 类别、含难度分级的评测数据集
+- 五项指标：准确率、成本、最优性、鲁棒性、延迟
+- 自动化评测框架与实时排行榜
+- 反作弊规则：禁止用评测数据训练或拟合路由器
 
 ## 适用场景
 
-- 评测自研 LLM 路由器在准确率与成本上的表现
-- 将路由器提交到公开排行榜与其他方案对比
-- 用鲁棒性数据集测试路由决策对提示扰动的稳定性
+- 为自研 LLM 路由器获取标准化基准分数并提交排行榜
+- 对比开源与商业路由器在准确率与成本上的权衡表现
+- 对路由器做鲁棒性评测
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ RouterArena 提供针对 LLM 路由器（为查询自动选模型的系统）的
 ## 证据(README 行号)
 
 > L11: **RouterArena** is an open evaluation platform and leaderboard for **LLM routers**—systems that automatically selec
-> L13: RouterArena bridges this gap by providing an open evaluation platform and benchmarking framework for both open-sour
 > L17: - ⚙️ **Automated Evaluation**: An automated evaluation framework to simplify the evaluation process for open-source
+> L20: *We aim for RouterArena to serve as a foundation for the community to evaluate, understand, and advance LLM routing
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `86f8ae471f0c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `e7fd4e224ff3` · [字段定义](../../DATASET.md)*

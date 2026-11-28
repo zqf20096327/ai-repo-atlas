@@ -2,9 +2,9 @@
 
 ⭐ 214 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/OWASP/www-project-agent-memory-guard) · [官网](https://owasp.org/projects/agent-memory-guard) · 组织维护
 
-**给 AI agent 做内存投毒运行时防御的安全库**
+**给 AI agent 的记忆投毒运行时防御库（OWASP ASI06）**
 
-OWASP 官方 Lab 项目，针对 ASI06（内存与上下文投毒）的参考实现：位于 agent 与其记忆存储之间，对每次写入运行检测器管道（提示注入、密钥/PII 泄漏、受保护键篡改、尺寸异常、自我强化循环），按 YAML 策略执行 allow/redact/quarantine/block，并输出结构化 SecurityEvent 支持取证与回滚。无需 API key、无外部调用、本地运行；提供 LangChain 中间件及 OpenAI Agents/AutoGen/mem0/CrewAI 集成示例，附带 amg-bench 基准工具。
+OWASP 官方 Lab 项目，作为 ASI06（Memory & Context Poisoning）的参考实现，在 agent 与其记忆存储之间拦截每次读写操作：内置 prompt 注入、敏感数据泄露、受保护键篡改、尺寸异常与自我强化循环检测器，配合 YAML 声明式策略执行 allow/redact/quarantine/block 动作。本地运行、无需 API key，中位延迟 62 µs；每个决策输出结构化 SecurityEvent，支持快照回滚、来源分类溯源与 OpenTelemetry 导出。提供 LangChain 中间件、OpenAI Agents/AutoGen/mem0/CrewAI 集成示例，以及独立的记忆系统安全基准 amg-bench。
 
 ## 筛选速览
 
@@ -20,24 +20,23 @@ OWASP 官方 Lab 项目，针对 ASI06（内存与上下文投毒）的参考实
 
 ## 能力要点
 
-- 内存写入级检测管道与 YAML 策略（allow/redact/quarantine/block）
-- 无 API key、无外部调用，本地运行，中位延迟 62 µs
-- LangChain GuardedChatMessageHistory/Middleware 中间件与多框架集成
-- AMSB 框架中立基准，三方法适配器即可为任意记忆系统打分
+- 运行时拦截 agent 记忆读写，检测可跨上下文重置存活的投毒
+- 内置 5 类检测器 + YAML 策略（allow/redact/quarantine/block）
+- 为 LangChain 提供 GuardedChatMessageHistory 与中间件包，覆盖 OpenAI Agents/AutoGen/mem0/CrewAI 集成示例
+- 附带框架无关的 AMSB 基准（amg-bench）可给任意记忆系统评分
 
 ## 适用场景
 
-- 为持久化记忆的 agent 加装内存投毒防线
-- 用 amg-bench 给自己的记忆系统做韧性评级
-- 通过 SecurityEvent 接入 SIEM 做审计取证
+- 为持久化记忆的 agent 加上记忆写入/读取安全筛查
+- 按 NIST AI RMF / EU AI Act 映射落地 agent 记忆治理
+- 用 amg-bench 评估自建记忆系统对投毒攻击的韧性
 
 ## 场景标签
 
-`Agent 记忆` `网络安全` · 领域:Agent 开发
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L9:  🏆 Official OWASP Lab Project · reference implementation for ASI06: Memory &amp; Context Poisoning
 > L83: Agent Memory Guard sits between the agent and its memory store, screening every operation through a pipeline of det
 > L149: - **Drop-in middleware** — ships with `GuardedChatMessageHistory` for LangChain; framework-agnostic `MemoryStore` 
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5e46503b7154` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `cfa3295095fd` · [字段定义](../../DATASET.md)*

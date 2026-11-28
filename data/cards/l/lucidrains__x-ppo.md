@@ -2,9 +2,9 @@
 
 ⭐ 132 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lucidrains/x-ppo) · 个人维护
 
-**PyTorch 的 PPO 强化学习算法实现库，供 RL 研究与训练使用**
+**研究者的 PyTorch PPO 强化学习算法实现库**
 
-lucidrains 维护的 PyTorch 版 PPO（近端策略优化）实现，包含 clipped surrogate actor loss、clipped value critic loss、GAE 优势估计、多 critic 优势分组归一与组合，以及 SPO actor loss、improved value clipping 等可替换损失。另提供 DAgger 蒸馏模块 DaggerDistiller，可把任意教师模型蒸馏到学生模型，支持复合动作空间与表征对齐。训练入口为 train.py，各组件均以 Python 函数形式导入使用，README 附大量论文引用。
+以 PyTorch 实现的近端策略优化（PPO）库，汇集多篇近期论文的改进：PPO/SPO/HPO actor 损失、序列级 GSPO 损失、clipped value critic、广义优势估计（含有限时间修正与 Semi-Markov GAE）、多 critic 分组优势组合，以及无需环境的 DAgger 蒸馏模块。提供训练示例脚本与 gymnasium 环境对接；作者声明移除了 phasic 部分。面向 RL 研究与实验用户。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ lucidrains 维护的 PyTorch 版 PPO（近端策略优化）实现，包含 clip
 
 ## 能力要点
 
-- PPO actor/critic 损失与 GAE 的 PyTorch 模块化实现
-- 多 critic 结构：按奖励组独立归一化优势后再组合
-- spo_actor_loss / improved_value_clipping_fn 等可替换损失
-- DaggerDistiller：任意教师到学生的 DAgger 蒸馏，无需环境
+- 提供 ppo/spo/hpo 三种 actor 损失及序列级 GSPO 损失
+- calc_gae 支持有限时间修正、Semi-Markov GAE 与 gymnasium 信号
+- 多 critic：按奖励组归一化优势再组合
+- DaggerDistiller 支持任意 teacher→student 蒸馏与复合动作空间
 
 ## 适用场景
 
-- 在 PyTorch 项目中直接调用 PPO 损失函数训练 RL 策略
-- 多奖励组的策略训练与优势组合
-- 将教师策略蒸馏到学生模型（DAgger 循环）
+- 在 gymnasium 环境中训练策略梯度强化学习智能体
+- 对 PPO 类算法的不同改进做对照实验
+- 把已有 teacher 策略蒸馏到任意结构的 student 网络
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ lucidrains 维护的 PyTorch 版 PPO（近端策略优化）实现，包含 clip
 ## 证据(README 行号)
 
 > L7: An implementation of PPO with recent random improvements
-> L33: Clipped surrogate - Schulman et al.
+> L31: $ python train.py
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1d6f81c9027e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `eac8b2556f90` · [字段定义](../../DATASET.md)*

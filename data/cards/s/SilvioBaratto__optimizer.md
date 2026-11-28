@@ -2,9 +2,9 @@
 
 ⭐ 177 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/SilvioBaratto/optimizer) · 个人维护
 
-**LLM 选基、skfolio 算权的组合优化工作区，人工审批模拟交易**
+**给量化研究者的组合优化 uv 工作区，含 LLM 基金代理与模拟交易**
 
-由四个 Python 包组成的 uv workspace：可组合的 skfolio/scikit-learn 优化库 portopt-core（26 个子模块、15 种优化器构建器）、定时拉取行情的 PostgreSQL 采集守护进程、共享数据库层，以及一个 LLM 驱动的基金桥（deepagents/langgraph），由 LLM 决策、优化器计算权重、模拟交易经人工审批后执行。库本体零 Docker/数据库依赖可独立安装；采集与 fund 组件需 Docker + PostgreSQL 16。安装走 uv、安装向导脚本或 pip editable。
+由四个 Python 包组成的 uv workspace：纯 Python 的 skfolio/scikit-learn 组合优化库 portopt-core（26 个子模块、15 种优化器构建器、VaR/回测/期权/信用模型等研究工具）、定时抓取行情的 ingestion 守护进程（PostgreSQL 存储）、共享数据库层，以及 portopt-fund 桥接——由 LLM 选择策略、优化器计算权重、模拟交易经人工审批门执行。优化库无需 Docker/数据库即可用；守护进程与 fund 需 Docker + PostgreSQL 16 及聊天模型端点。面向量化开发与研究者。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 15 种优化器构建器：Mean-Risk、HRP、HERC、NCO、DR-CVaR 等
-- 26 个研究子模块：VaR 回测、Kelly 工具、Black-Scholes 定价、Merton 信用模型等
-- LLM 决策 + 优化器计算 + 人工审批门控的模拟交易流程
-- 优化库零 Docker/DB 依赖，可单独 pip 安装
+- sklearn/skfolio 风格的可组合优化原语：15 种优化器构建器与 26 个子模块
+- 内置风险（VaR/回测）、衍生品、信用、统计套利等 8 个研究工具
+- LLM 驱动的基金代理：LLM 决策、优化器计算、模拟交易等待人工审批
+- 库可零 Docker/数据库安装运行，CLI 提供安装向导与生命周期管理
 
 ## 适用场景
 
-- 在自己的量化代码里构建和调参组合优化 pipeline
-- 定时维护一套本地行情/基本面/宏观数据库
-- 用 LLM 管理模拟盘基金并在审批门下执行调仓
+- 在自己的代码里构建和调优组合优化 pipeline
+- 定时维护 PostgreSQL 中的行情/基本面/宏观数据
+- 用 LLM 代理生成模拟交易组合并人工审批
+- 回测动量/均线策略并计算 VaR、有效前沿等风险指标
 
 ## 场景标签
 
-`Agent 框架` `金融量化` · 领域:Agent 开发
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: > Portfolio optimization in one **uv workspace**: a composable skfolio /
+> L5: > daemon** that keeps PostgreSQL fresh, a shared **database layer**, and an agentic
 > L6: > **fund** where an LLM chooses, the optimizer computes, and paper trades wait
 > L25: |Run an LLM-driven fund manager that decides and lets the optimizer compute|the **`fund`** bridge (`portopt-fund`)|
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `4b96003c13ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c7f0f3947a1b` · [字段定义](../../DATASET.md)*

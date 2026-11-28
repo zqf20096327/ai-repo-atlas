@@ -2,9 +2,9 @@
 
 ⭐ 581 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/raids-lab/crater) · [官网](https://raids-lab.github.io/crater/en/) · 组织维护 · 中文 README
 
-**Kubernetes 原生的共享 AI 算力集群管理平台**
+**面向 GPU 集群共享团队的 Kubernetes AI 训练推理管控平台**
 
-面向高校、科研机构与企业 AI 团队的共享 GPU 集群控制平面：在 Kubernetes 与 Volcano 之上提供多租户治理（账户/队列/配额/审批）、策略感知调度、训练与推理作业生命周期管理、容器化 Jupyter/WebIDE 交互开发、数据集与模型资产管理，以及 LLM 快速部署与推理网关。通过 Web 控制台、CLI、HTTP API 和 agent 命令技能操作，并以 Helm Chart 部署，集成 Prometheus/Grafana 观测。支持 NVIDIA GPU、国产加速卡与 vGPU 类资源。
+构建在 Kubernetes 与 Volcano 之上的控制平面，用于运营多团队共享的 GPU 集群：提供用户/账户/队列/配额/审批等治理，基于队列的准入与优先级调度，作业模板与提交、克隆、停止等生命周期管理，Jupyter/WebIDE 交互式开发环境，数据集/模型/镜像资产管理，以及指标、日志、Grafana 面板的观测能力。支持 NVIDIA GPU、国产加速卡、vGPU 类资源的异构调度。通过 Helm 部署，提供 Web 控制台、CLI、HTTP API 与面向 Agent 的命令技能。面向高校、科研机构、企业 AI 团队与内部平台团队。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 多租户治理：账户、队列、配额、审批与计费导向的资源可见性
-- 基于 Kubernetes 与 Volcano 的队列准入、优先级与异构资源调度
-- LLM 训练/推理快速部署模板与推理网关
-- Web/CLI/HTTP API/agent 命令技能多入口操作
+- 多租户治理：用户、账户、队列、配额、审批与成本可见性
+- 基于 Kubernetes 与 Volcano 的队列准入与优先级调度
+- 异构加速器：NVIDIA GPU、国产加速卡、vGPU 类资源与 DRA/CDI 设备集成
+- Web 控制台、CLI、HTTP API 与面向 Agent 的命令技能四种操作界面
 
 ## 适用场景
 
-- 高校或研究所把共享 GPU 集群变成可问责的多团队服务
-- 企业内部平台团队统一管理训练、推理与交互式开发作业
-- 快速部署 LLM 微调与推理服务并治理算力配额
+- 高校实验室多团队共享 GPU 集群的配额与队列管理
+- 为大模型微调与推理服务提供快速部署模板
+- 课程教学场景下的学生账号、配额与 Web 作业提交
+- 数据集准备与离线批处理管线的调度与观测
 
 ## 场景标签
 
- · 领域:AI 基础设施/云原生平台
+ · 领域:AI 基础设施/集群管控平台
 
 ## 证据(README 行号)
 
-> L7: Operate shared **GPU clusters**, **LLM training and serving workloads**, **developer environments**, and **data/mode
+> L5: ### A Kubernetes-native control plane for shared AI computing clusters
 > L37: **Crater** is a Kubernetes-native platform for operating shared AI computing clusters. It helps organizations manag
-> L96:  🤖 LLM &amp; AI Service Platform
+> L39: Crater is designed for environments where different teams and workloads share the same GPU cluster: long-running tr
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `393e7aaa26fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `b23aa01d12fa` · [字段定义](../../DATASET.md)*

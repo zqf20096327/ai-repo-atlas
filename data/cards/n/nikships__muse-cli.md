@@ -2,9 +2,9 @@
 
 ⭐ 130 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/nikships/muse-cli) · [官网](https://muse-cli-web.web.app) · 个人维护
 
-**muse.ai 个人 AI agent 的终端命令行客户端**
+**在终端访问个人 muse.ai AI agent 的命令行客户端**
 
-命令行工具，用于从终端与用户的 muse.ai 个人 AI agent 对话并管理 side chats、feed、goals、ideas、sessions 等数据，无需打开浏览器。直接实现 muse.ai 网关协议：HTTPS 认证后经加密 Noise-XX WebSocket 连接个人 VM；登录依赖从 Chrome 导出 cookie（借助 npm 的 agent-browser），也支持手工复制 cookie。所有命令输出 JSON，便于管道与脚本化，另附 258 个网关方法的 raw 逃生通道和供编码 agent 使用的技能文件。限制：依赖逆向的未版本化内部 API，可能变化。
+muse-cli 是连接 muse.ai 个人 AI agent 的命令行客户端：通过 HTTPS 认证加 Noise-XX 加密 WebSocket 直连用户的个人 VM，无需浏览器即可聊天、管理侧聊、feed、目标、想法与会话。所有命令输出 JSON，可管道进 jq、cron 或其他 AI agent；附带 agent skill 供编码 agent 代为驱动。全屏界面基于 OpenTUI，需 Bun 运行；登录依赖从浏览器导出的 muse.ai cookies。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 直接实现 muse.ai 网关协议（HTTPS 认证 + Noise-XX 加密 WebSocket）
-- 全部命令输出 JSON，可管道进 jq、cron 或其他 AI agent
-- raw 命令可调用全部 258 个网关方法
-- 附带 agent skill，编码 agent 可代替用户驱动 muse.ai agent
+- 全部命令输出 JSON，可脚本化并管道给 jq/cron/其他 agent
+- 覆盖 402 个 gateway 方法，raw 命令可直调任意方法
+- 附带 agent skill，编码 agent 可代为执行只读命令
+- HTTPS 认证后经 Noise-XX 加密 WebSocket 直连个人 VM
 
 ## 适用场景
 
-- 在终端与 muse.ai 个人 agent 对话而不用浏览器
-- 用脚本/cron 自动化 agent 交互并解析 JSON 输出
-- 让编码 agent 通过技能代为操作自己的 muse.ai agent
+- 不开浏览器，在终端与个人 muse.ai agent 聊天
+- 用脚本/cron 自动化调用 agent 任务
+- 让编码 agent 通过 skill 代为查询 agent 状态与目标
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`AI 助手` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L16: A command-line client for your personal muse.ai AI agent: chat from the terminal, automate it with scripts, and man
-> L18: - **Chat from the shell:** send a message and get the agent's reply back as JSON.
-> L21: - **Agent-ready:** ships an agent skill so coding agents can drive your muse.ai agent for you.
+> L19: - **Chat from the shell:** send a message and get the agent's reply back as JSON.
+> L22: - **Agent-ready:** ships an agent skill so coding agents can drive your muse.ai agent for you.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `93f143f62d99` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `446de3c17cc4` · [字段定义](../../DATASET.md)*

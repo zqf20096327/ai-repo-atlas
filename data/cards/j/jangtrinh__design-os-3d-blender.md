@@ -2,9 +2,9 @@
 
 ⭐ 122 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/jangtrinh/design-os-3d-blender) · [官网](https://jangtrinh.github.io/design-os-3d-blender/) · 个人维护
 
-**供 AI 编码代理调用的 Blender 参数化 3D 机械零件生成技能**
+**让编码 agent 通过 MCP 在 Blender 中建模并交付可打印零件**
 
-以 Claude Code 插件/Codex/Gemini CLI 等编码代理技能（SKILL.md）形式分发，驱动 Blender 的 Python API（bpy）与 Three.js：从英文描述或 JSON 参数生成齿轮、外壳、机架与爆炸装配体，导出 glTF/STL 等格式，并附带交互式浏览器 CAD 查看器页面。产出经确定性验证门（非流形边检查、包围盒尺寸校验、self_check.py）。声明零遥测、100% 本地执行；许可证为 PolyForm Shield 1.0.0，禁止转售或构建竞争产品。
+面向 Blender 5.2 的 MCP 服务器与 agent 技能：编码 agent（Claude Code、Codex、Gemini CLI 等）通过四个工具查询 bpy 知识库、校验毫米锁定规格、执行无头 bpy 脚本，并以 AGENT_OK/AGENT_FAIL 单行判定结果；3D 打印生产门检查流形几何、壁厚与尺寸边界，导出 STL 与 glTF。提供 /doctor 诊断与离线自检脚本；声明所有执行在本地进行，不外发数据。不适用的范围包括钣金折迭、有机角色雕刻与 2D UI 动效。
 
 ## 筛选速览
 
@@ -12,33 +12,34 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 从英文/JSON 参数生成参数化 bpy 零件脚本并导出 glTF/STL
-- 生成自带 Three.js 交互 CAD 查看器的单文件 HTML
-- 确定性验证门：非流形边、包围盒、self_check.py 校验
-- 声明零遥测、全本地执行（PRIVACY.md 审计）
+- 四个 MCP 工具：运行时状态、bpy 5.2 知识库检索、规格校验、无头执行
+- AGENT_OK/AGENT_FAIL 机器可读执行契约
+- 3D 打印生产门：流形、壁厚、毫米锁定边界检查
+- 同一 SKILL.md 兼容 Claude Code / Codex / Gemini CLI / Cursor 等
 
 ## 适用场景
 
-- 让编码代理按规格生成可 3D 打印的机械零件并导出 STL
-- 为零件搭建可爆炸视图交互的浏览器 CAD 展示页
-- 对导出网格做拓扑与尺寸容差审计
+- 让编码 agent 从照片和规格生成可打印机械零件
+- 3D 打印前自动检查流形几何与壁厚
+- 为 bpy 脚本编写检索已验证的 Blender 5.2 知识库
 
 ## 场景标签
 
- · 领域:3D/CAD 生成工具
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L168: 1. **Intent Routing** — Your AI agent matches your request against `skills/design-os-3d-blender/SKILL.md` frontmat
-> L79: Choose the setup that matches your AI coding agent. Every option installs the same canonical skill (`skills/design-
+> L5: **An MCP server and agent skill for Blender 5.2.** Your coding agent models, renders and checks mechanical parts on 
+> L71: The MCP server exposes **four tools**. That is the count in `src/design_os_3d_blender_mcp/server.py` on this branch
+> L84: The Claude Code, Codex and other agent plugins install the same skill, `skills/design-os-3d-blender/SKILL.md`. `/do
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `a2e263859112` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e00b90e9a389` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 124 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/guzhou079-arch/deepseek-harness-android) · [官网](https://github.com/guzhou079-arch/deepseek-harness-android/releases) · 个人维护 · 中文 README
 
-**DeepSeek Harness 的安卓 APK 移植版，手机上跑 AI 自动化与自编译发版**
+**把 DeepSeek Harness 打包成免 root 直装的安卓 APK**
 
-把 DeepSeek Harness 打包为可直接安装的安卓 APK：读屏、点击、输入、虚拟屏、通知读取与定时任务均在 App 内运行，随包含 21 款技能（本地 RAG、Office 批处理、语音交互等），填入模型 API Key 即可使用。相对上游安卓壳骨架加入 25 条适配补丁与界面改造；另支持在手机内完成 javac→d8→重打包→签名→发版的完整出包链路（构建环境约 193MB 按需下载）。虚拟屏实现移植自 Operit（LGPL-3.0），引擎内核来自 deepseek-ai/dsh。
+DeepSeek Harness 的安卓移植增强版：通过 APK 安装后填 API Key 即可使用，无需 Termux、root 或电脑。基于上游安卓壳骨架叠加 25 条适配补丁，提供无障碍读屏/点击/输入、虚拟屏中操作其他 App、通知读取、定时任务，27 款技能随包；特色是在手机内完成 javac→d8→打包→签名→发版的自构建链路（构建环境约 193MB 按需下载）。需 Android 8.0+，仅可从本仓库 Releases 更新以免签名冲突丢数据。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 无障碍读屏/点击/输入、虚拟屏、通知读取、定时任务在 App 内运行
-- 21 款技能随包，填 API Key 即用，无需 Termux/root/电脑
-- 手机内完成 javac→d8→重打包→签名→发版的自身出包链路
-- Release 提供 SHA-256 校验与国内加速直链
+- 27 款技能随包（本地 RAG、Office 批处理、深度调研等）
+- 虚拟屏运行 AI 任务，主屏不受占用
+- 手机内自构建：javac→d8→重打包→签名→发版
+- 25 条安卓适配补丁含 Shizuku 特权通道与安全加固
 
 ## 适用场景
 
-- 在安卓手机上不装 Termux 直接使用 DeepSeek Harness 的 AI 自动化能力
-- 让 AI 在虚拟屏里操作其他 App，主屏不受干扰
-- 在手机上修改代码后自行编译、签名并发布新版 APK
+- 在手机上让 AI 读取屏幕并代替操作其他 App
+- 手机端跑定时任务和本地 RAG 等离线能力
+- 不用电脑即可在手机上构建、签名并发布 APK
 
 ## 场景标签
 
-`GUI 自动化` · 领域:效率与自动化
+`RAG` `GUI 自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L14: 读屏、点击、输入、虚拟屏、定时任务都在 App 内跑，21 款技能随包，装上填个 API Key 就能用。
-> L25: |🧩 **21 款技能随包**|架构图 · 演示稿 · 短视频分镜 · 记忆中枢 · Office 批处理 · Word/公文 · Excel 多表 · 会议纪要 · 邮件公函 · 本地 RAG · 全站备份 · 跨厂商会审 · 
-> L66: 本发布包是 **DeepSeek Harness 的安卓移植与增强版**，由个人制作。
+> L17: **DeepSeek Harness 装进安卓：一个 APK，不用 Termux、不用 root、不用电脑。**
+> L36: |📱 **手机自动化**|无障碍读屏 / 点击 / 输入、虚拟屏、通知读取、定时任务；AI 在虚拟屏里干活，你的主屏照常用|
+> L131: |项目|**@deepseek-ai/dsh**（DeepSeek Harness）|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `8b2b9a9332e9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `6ddd81b1558d` · [字段定义](../../DATASET.md)*

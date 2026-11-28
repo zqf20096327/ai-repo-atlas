@@ -2,9 +2,9 @@
 
 ⭐ 123 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/QwenLM/RecreationWorld) · [官网](https://recreation-bench.cc) · 组织维护 · 中文 README
 
-**面向混合计算机操作 agent 的五平台可验证评测环境与基准**
+**面向混合计算机使用 agent 的五平台可验证环境与基准**
 
-提供覆盖 Ubuntu/macOS/Windows/Android/Web 五平台各 50 个任务的框架，用于研究与训练混合型 computer-use agent：agent 以运行中的参考应用为可执行判据，循环执行 GUI 探索、编码实现与视觉验证，最终由冻结的程序化断言与视觉断言打分，评分基于可观察行为而非源码相似度。附带 RecreationBench 250 个保留任务及多模型成绩表。运行需 uv 安装、任务包、预配置执行环境与模型/评判端点，MIT 许可。
+五平台（Ubuntu/macOS/Windows/Android/Web）框架，用于研究与改进能交替进行 GUI 探索、编码工具实现与视觉验证的混合计算机使用 agent。以运行中的参考应用为可执行 oracle，将开源应用转化为可扩展、可验证的训练经验；配套 RecreationBench 提供 250 个 held-out 任务，通过程序化与视觉断言按可观察行为评分。任务包来自 Hugging Face/ModelScope，运行需模型与 judge 端点，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 五平台（Ubuntu/macOS/Windows/Android/Web）各 50 个任务，评估接口含 AT-SPI、AXUIElement、UI Automation、UiAutomator、浏览器断言
-- explore–implement–verify 循环式任务框架，agent 可用 GUI 控制与软件开发工具
-- 参考验证的程序化与视觉双断言评测，不依赖源码相似度
-- RecreationBench 250 个保留任务与多模型成本/分数榜单
+- 覆盖 Ubuntu/macOS/Windows/Android/Web 五平台的重建任务环境
+- explore–implement–verify 循环式 agent 工作流
+- RecreationBench：250 个任务，基于隐藏的功能与视觉断言评分
+- 评分取决于可观察行为，实现语言与框架不限
 
 ## 适用场景
 
-- 评测与比较各模型在跨平台计算机操作任务上的表现
-- 为 computer-use agent 生成可验证的训练经验
-- 研究 GUI 操作与编码工具交替的混合 agent 行为
+- 评测混合计算机使用 agent 在五个平台上的任务完成率
+- 为 agent 生成可验证的训练经验并测其在域外基准的迁移
+- 按程序化与视觉双指标对比各模型表现
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L11: RecreationWorld is a five-platform framework for studying and improving **hybrid computer-use agents** that autonom
-> L21: The final candidate is evaluated by a frozen suite of reference-validated programmatic and visual assertions. Scori
-> L23: ## RecreationBench Results
+> L17: Each task gives the agent a high-level request, interactive access to a running reference, and both GUI-control and
+> L49: A scored run also needs a matching frozen task bundle from Hugging Face or ModelScope, a prepared execution environ
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `7dd2ec89011d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `b5d94aba7950` · [字段定义](../../DATASET.md)*

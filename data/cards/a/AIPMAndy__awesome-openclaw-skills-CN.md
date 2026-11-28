@@ -2,9 +2,9 @@
 
 ⭐ 131 · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-skills-CN) · [官网](https://github.com/AIPMAndy/awesome-openclaw-skills-CN/blob/main/CHINESE-MODELS.md) · 个人维护 · 中文 README
 
-**面向中文开发者的 OpenClaw Skills 精选清单（2,868 个）**
+**面向中文开发者的 OpenClaw Skills 中文分类目录与接入指南**
 
-基于 VoltAgent/awesome-openclaw-skills 翻译制作的中文策展清单：从 ClawHub 官方注册表 5,705 个社区技能中过滤垃圾、加密货币、重复及恶意条目后收录 2,868 个，按分类组织。特色内容为国产大模型（DeepSeek/通义千问/GLM/Moonshot/豆包）接入指南与中文开发者推荐 Skills（飞书/企业微信/小红书等）。提供 ClawHub CLI 与手动复制两种安装方式，并附国内 npm 镜像配置。声明为人工整理而非安全审计。
+基于 VoltAgent/awesome-openclaw-skills 翻译制作的技能精选目录，从 ClawHub 注册表的 5,705 个社区技能中过滤垃圾、加密货币、重复与恶意条目后收录 2,868 个，按分类整理并保留原文条目。面向想快速上手 OpenClaw 的中文开发者，附 DeepSeek、通义千问、GLM、Moonshot、豆包等国产模型接入指南及飞书/企业微信等推荐 Skills。安装支持 ClawHub CLI（npx）、手动复制到 skills 目录及国内 npm 镜像加速。MIT 许可，声明为人工整理而非安全审计。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 从 ClawHub 5,705 个技能中过滤后收录 2,868 个，附过滤明细
-- 国产大模型（DeepSeek/通义千问/GLM/Moonshot/豆包）接入指南
-- 中文开发者推荐 Skills（飞书/企业微信/小红书/知乎/B站）
-- 国内 npm 镜像加速配置说明
+- 收录 ClawHub 2,868 个社区 Skills，含过滤明细（剔除 2,748 条）
+- 国产大模型接入指南：DeepSeek/通义千问/GLM/Moonshot/豆包
+- 三种安装路径：ClawHub CLI、手动复制、对话式安装
+- 国内 npm 镜像（npmmirror）加速与本地化阅读
 
 ## 适用场景
 
-- 中文开发者查找 OpenClaw 技能并了解安装方式
-- 为 OpenClaw 接入 DeepSeek/通义千问等国产模型
-- 了解 ClawHub 技能的过滤标准与安全注意事项
+- 中文开发者快速查找并安装 OpenClaw Skills
+- 为 OpenClaw 接入国产大模型寻找配置指南
+- 按分类浏览社区技能生态，了解哪些条目被过滤及原因
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L1: 🇨🇳 发现 2868 个社区构建的 OpenClaw Skills，按分类整理，面向中文开发者友好阅读。
-> L9: **想找 OpenClaw Skills 中文资料？** 这里把 ClawHub 上 2,868 个社区 Skills 按分类整理好，还附了国产大模型（DeepSeek、通义千问、GLM、Moonshot、豆包）接入指南和中文开发者
-> L79: 截至 **2026 年 2 月 7 日**，OpenClaw 官方公开注册表（ClawHub）包含 **5,705** 个社区技能；本列表收录 **2,868** 个。以下是过滤掉的部分：
+> L7: > **TL;DR｜一句话**：awesome-openclaw-skills-CN 是 AI 酋长 Andy 整理的 OpenClaw Skills 中文精选目录。适合想快速找到并安装 OpenClaw Skills 的中文开发者
+> L13: **想找 OpenClaw Skills 中文资料？** 这里把 ClawHub 上 2,868 个社区 Skills 按分类整理好，还附了国产大模型（DeepSeek、通义千问、GLM、Moonshot、豆包）接入指南和中文开发
+> L56: OpenClaw（曾用名 Moltbot / Clawdbot）是一个运行在本地机器上的 AI 助手。Skill 可以扩展它的能力，让它连接外部服务、自动化工作流并执行专用任务。
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `f1ced9b6ce4b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `9395f4ff5113` · [字段定义](../../DATASET.md)*

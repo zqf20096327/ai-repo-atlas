@@ -2,9 +2,9 @@
 
 ⭐ 118 · JavaScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/SonarSource/sonarqube-agent-plugins) · 组织维护
 
-**让 AI 编码代理接入 SonarQube 代码质量检查的插件集**
+**为 AI 编码代理接入 SonarQube 质量检测的插件集合**
 
-SonarSource 官方发布的多平台代理插件仓库，覆盖 Claude Code、GitHub Copilot CLI、Cursor、Codex、Antigravity、Factory Droid、Kiro 与 Gemini CLI（legacy）。插件将代理连接到 SonarQube CLI 与 SonarQube MCP Server，提供问题检测、质量门禁、覆盖率、重复度与依赖风险查询等斜杠命令；Claude Code、Copilot、Codex、Antigravity 可安装 secrets 扫描与 Vortex 分析 hook，在代理循环内每次编辑后自动运行分析。前置条件为 SonarQube 账号、SonarQube CLI 与容器运行时。
+SonarSource 官方发布的 SonarQube 代理集成插件，帮助 Claude Code、Copilot CLI、Codex、Cursor、Antigravity、Devin 等编码代理连接 SonarQube CLI 与 MCP Server，用于检测问题、查看测试覆盖率与重复度、获取依赖风险、检查质量门禁，以及在代理循环内运行 secrets 扫描与 Vortex 分析（按账号权益）。每个代理有对应插件包与安装命令，并提供 sonar-integrate、sonar-fix-issue、sonar-quality-gate 等斜杠技能。需要已有 SonarQube 账号（Cloud/Server/Community Build）、SonarQube CLI 与容器运行时。许可证为 SSAL-1.0。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ SonarSource 官方发布的多平台代理插件仓库，覆盖 Claude Code、Gi
 
 ## 能力要点
 
-- 支持 8 种代理/C 客户端的插件包与接入流程
-- 通过 MCP Server 提供问题、质量门禁、覆盖率、依赖风险等查询
-- Claude/Copilot/Codex/Antigravity 可装 secrets 扫描与 Vortex 分析 hook
-- 提供 sonarqube-reviewer 代理做 PR/diff 综合审查
+- 支持 9 种代理客户端的插件安装（Claude Code/Copilot CLI/Codex/Cursor/Antigravity/Factory Droid/Devin/Kiro/OpenCode/Pi）
+- 通过 SonarQube MCP Server 提供 issue 检测、覆盖率、重复度、依赖风险等查询
+- 在代理循环内安装 secrets 扫描与 Vortex 分析 hooks（部分客户端支持）
+- 提供 sonarqube-reviewer 代理将质量门禁、问题、依赖风险等组合为单次 PR/diff 审查（Claude Code/Copilot CLI/Cursor）
 
 ## 适用场景
 
-- 在代理编码流程中自动检查代码问题与泄露密钥
-- 让 AI 代理查询项目的质量门禁与测试覆盖率状态
-- 按规则号让代理定位并修复 SonarQube 问题
+- 让编码代理在提交前检查质量门禁与漏洞
+- 在代理会话中用自然语言查询项目的 SonarQube 问题
+- 代理每次编辑后自动运行代码分析
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+`编码 Agent` `代码审查` `网络安全` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L5: SonarQube is the AI code quality and security verification platform used by millions of developers to catch bugs, vu
 > L11: The Plugin helps agents connect to SonarQube CLI and SonarQube MCP Server for issue detection, checking project met
-> L196: On **Claude Code**, **GitHub Copilot CLI**, and **Cursor**, the plugin also ships a **`sonarqube-reviewer`** agent
+> L13: How to use: Run `/sonarqube:sonar-integrate` after installation to walk through setup — CLI installation, authentic
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `9d8822581742` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ba79f57b51db` · [字段定义](../../DATASET.md)*

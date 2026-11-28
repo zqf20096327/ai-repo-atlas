@@ -2,9 +2,9 @@
 
 ⭐ 142 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/ShadowSwaps/REA-Reconstruction-Companion) · 个人维护
 
-**面向 Claude Code/Codex 的软件逆向重建 Agent 技能插件**
+**给 AI agent 用的 REA 软件重建技能：理解、规划、重建并验证软件**
 
-开源、模型无关的 Agent Skill，与逆向工程技能 REA 配合使用：把逆向证据转化为需求、架构、实施路线图与可测试代码。支持理解规划、限域重建、单一功能调查、既有重建改进与断点续作等模式，强调证据链接、区分观察与推断、报告差异。通过 node install.mjs 安装到 Claude Code、Codex 或通用客户端的 skills 目录；便携核心不依赖任何模型 SDK 或付费 API，与 REA 的集成为可选项。
+以 Agent Skills 格式（纯 Markdown 指令与参考文档）分发的开源技能，供能读取本地技能文件的 agent 使用，配合 REA 工具或其提供的证据完成四类工作：从观察/文件/录像提取行为与需求、制定重建计划与验收标准、按请求增量实现、对照证据做差分模糊测试与变异测试等验证。不绑定特定模型或 AI 提供商，无 SDK、Python 依赖与遥测；安装器需 Node.js 20+，仅用标准库、无需 npm install。安装器默认禁止触发可能产生费用的操作。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 把逆向证据转化为需求、架构、路线图与可测试实现
-- 便携核心无模型 SDK/付费 API 依赖，集成为可选
-- 支持 Claude Code、Codex 与通用客户端（--skills-dir）安装
-- 提供 --dry-run/--check 安装检查与断点续作（checkpoint）机制
+- 纯 Markdown Agent Skills 格式，无模型 SDK、付费 API、Python 依赖与遥测
+- 支持 Claude Code、Codex 及通过 --skills-dir 的通用客户端安装
+- 可选 REA 集成规则与默认关闭的每周更新检查，均需用户批准
+- 安装命令提供 --dry-run 预览与 --check 校验，含备份与路径冲突检查
 
 ## 适用场景
 
-- 在重建旧软件前先获得有证据支撑的行为与需求文档
-- 让 agent 按限定范围重建类似工具并验证行为
-- 调查单一功能或格式，产出输入/输出/错误的契约与验收用例
-- 改动既有重建时选择受影响的回归检查并保留历史结果
+- 分析一个既有软件的行为、需求与未解问题并形成文档
+- 规划并按请求增量重建某个工作流、文件格式或函数
+- 对重建结果做证据对照、失败测试与性能测量验证
 
 ## 场景标签
 
@@ -38,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7: An open-source, model-independent Agent Skill that works with REA. Turn reverse-engineering evidence into requiremen
-> L18: **Start with the installation prompt below**, or use the manual commands. The portable core has no model SDK or pai
+> L7: An open-source skill for AI agents, designed to work with REA. A skill is a set of instructions and reference guides
+> L48: Use an agent that can read local skill files and, for installation or live investigation, run local commands. The c
+> L64: Codex and Claude Code both support filesystem skills. Their discovery locations and invocation syntax differ; the i
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `0d206a6f1a68` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `d00684b7c917` · [字段定义](../../DATASET.md)*

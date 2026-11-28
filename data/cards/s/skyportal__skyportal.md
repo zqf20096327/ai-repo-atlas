@@ -2,15 +2,15 @@
 
 ⭐ 135 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/skyportal/skyportal) · [官网](https://skyportal.io) · 组织维护
 
-**时域天文协作数据平台，供天文学家共享分析瞬变源数据**
+**面向天文研究团队的时域天文数据协作平台**
 
-面向时域天文学研究的天文数据平台，支持瞬变源、变星等时域天文数据的协作管理与数据科学分析；README 指向项目主页与文档获取安装使用说明。项目由 Moore 基金会与 NSF（A3D3）资助开发，配套发表论文（JOSS 与 ApJS），主题标签含 machine-learning 与 LSST。README 本身不含具体功能与安装命令细节，主要信息需从文档获取。
+SkyPortal 是一个天文数据平台，为时域天文学研究提供协作功能，支持团队围绕暂现源与变星等天文事件开展数据查看与管理。README 本身内容简短，安装与使用方式均指向外部项目文档，未在页面内给出具体命令；项目附有 JOSS 论文与配套论文供引用，经费来源包括 Moore 基金会与 NSF 的 A3D3 研究所。主题标签包含 machine-learning，但 README 未说明 ML 功能细节。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,24 +20,24 @@
 
 ## 能力要点
 
-- 时域天文（瞬变源/变星）数据平台
-- 面向天文学者的协作研究平台
-- 配套 JOSS/ApJS 发表论文
+- 面向时域天文学的协作式数据平台
+- 提供 JOSS 论文与配套论文的引用信息（含 BibTeX）
 - 由 Moore 基金会与 NSF A3D3 资助
 
 ## 适用场景
 
-- 天文学团队协作管理时域巡天数据
-- 瞬变源与变星的观测数据分析
-- 作为天文数据科学研究的平台基础设施
+- 天文团队协作浏览和管理暂现源观测数据
+- 为 LSST 等巡天项目的天象事件跟进提供平台
+- 学术发表时按官方 BibTeX 引用该平台
 
 ## 场景标签
 
- · 领域:天文学/科研数据平台
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L9: An Astronomical Data Platform
+> L23: When utilizing this code for a publication, kindly make a reference to the package by its name, SkyPortal, and cita
 > L37: We gratefully acknowledge previous and current support from the Gordon and Betty Moore Foundation, through both the
 
 ## 星数曲线
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `df50d0b9f2d3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 low · 依据 README sha `b653a5fa580d` · [字段定义](../../DATASET.md)*

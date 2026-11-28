@@ -2,9 +2,9 @@
 
 ⭐ 155 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ldbumble/taskuary) · [官网](https://taskuary.com) · 个人维护 · 中文 README
 
-**把邮件、聊天、工单汇成一个列表，由 agent 处理、用户按键批准后发出**
+**把邮件/聊天/工单合并成待办列表并由 Agent 代办的本地工具**
 
-Taskuary 将 Gmail/Outlook 邮件、Slack/Teams/WhatsApp/Telegram 聊天、GitHub 与定时报告汇入同一工作列表，由 agent 逐项研究、起草回复、生成表格或填写表单，所有外发动作需用户按下 Send/Pay/Post 才执行。自带提示注入防护：分诊阶段模型无工具、陌生发件人不自动触发 agent、凭据在送入托管模型前被移除。数据存于本机单文件，可搭配本地模型使用。v0.4.6.4 为早期版本，1.0 前可能存在破坏性变更。
+Taskuary 将邮件（Gmail、Outlook）、聊天（Slack、Teams、WhatsApp、Telegram）、GitHub、告警与定时报告汇入单一列表，每个条目由 agent 处理：读线程、查询、操作浏览器、产出回复/表格/支付草稿，最终以 Send/Pay/Post 按钮等待用户批准后才会发出。支持 Claude Code、Codex、Gemini、API key 或本地模型作为 AI 后端；内置提示注入缓解机制（分诊无工具、陌生发件人不自动启动 agent、凭据不进入提示）；数据存于本地单文件，可经 WhatsApp/Telegram 远程处理。当前 v0.4.6.13，1.0 前可能存在破坏性变更。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Taskuary 将 Gmail/Outlook 邮件、Slack/Teams/WhatsApp/Telegram 聊天、GitHu
 
 ## 能力要点
 
-- 邮件/聊天/工单/报告汇入一个排序列表
-- agent 执行实际工作（浏览器操作、填表、生成文件），非仅摘要
-- 每条外发动作等待用户一键批准，批准时再次检查
-- LEARNED.md 记录从用户修改草稿中学到的偏好
+- 邮件/聊天/工单/报告汇入单列表并按需处理分级
+- agent 产出成品草稿，发出前需用户按键批准
+- 提示注入缓解：分诊模型无工具、不可逆操作等待确认、凭据从提示中移除
+- 本地运行，数据存单文件；用本地模型时数据不出本机
 
 ## 适用场景
 
-- 让 agent 起草邮件和帖子回复，确认后一键发出
-- 用手机通过 WhatsApp/Telegram 处理工作列表
-- 整合多个收件渠道，减少逐一查看多个应用
+- 用一个界面处理多个邮箱、群聊与工单来源
+- 让 agent 起草回复/帖子/支付，人工批准后再发出
+- 通过 WhatsApp 或 Telegram 在手机上处理待办列表
 
 ## 场景标签
 
-`AI 助手` `浏览器自动化` · 领域:效率与自动化
+`工作流自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L13: Taskuary pulls mail, chats, tickets and reports into one list. An agent works each item - researches, drafts the
-> L71: Every email, post, push and payment waits as a card. Edit it, send it, or say no. Nothing leaves until you press.
-> L110: Your data stays in one file on your computer. Only what a task needs goes to the AI you chose; with a local model,
+> L11: **AI agents that work your inbox. You approve what leaves.**
+> L17: Runs on your computer. Free, open source, bring your own AI (Claude Code, Codex, Gemini, an API key, or a local
+> L91: Taskuary reads text written by strangers, so it assumes some of it is written to steer the AI. No model reliably
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e164b5f22815` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ac62b4ff1524` · [字段定义](../../DATASET.md)*

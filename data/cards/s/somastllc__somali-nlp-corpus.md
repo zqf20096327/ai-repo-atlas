@@ -2,9 +2,9 @@
 
 ⭐ 115 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/somastllc/somali-nlp-corpus) · [官网](https://huggingface.co/datasets/somast/somali-nlp-corpus) · 组织维护
 
-**索马里语 NLP 语料库与 Rust 数据处理管线，产出训练用 JSONL**
+**索马里语文本语料库与数据处理管线，面向 NLP 研究**
 
-面向索马里语这一低资源语言的开放文本语料库项目：用 Rust 实现的流式管线下载 14 个公共数据集（HPLT、mC4、OPUS、Wikipedia 等），经合并、精确去重、清洗、语言识别、MinHash/LSH 近重去除后产出 8.27 亿词、11.3 亿 subword token 的训练用 JSONL；每条记录携带来源、许可、内容哈希与质量元数据，并按记录自身许可导出 open/non-commercial 两个 Parquet 层。附带 48k 词表 ByteLevel BPE 分词器及可复现训练脚本。语料以 gated 数据集形式发布于 Hugging Face，完整构建约需 45 GB 磁盘。
+由 Rust 编写的可复现数据处理管线：从 HPLT、CC100、mC4、OPUS 等 14 个公开来源下载索马里语文本，经合并去重、规范化、语言识别、MinHash/LSH 近似去重等阶段，输出训练用 JSONL 并生成逐记录来源与许可证元数据。1.0.0 版含 791 万文档、约 8.3 亿词。配套的 ByteLevel BPE 分词器独立维护在 Somali-Tokenizer 仓库，语料成品发布在 Hugging Face（gated 数据集）。完整构建需约 45 GB 磁盘、Rust 1.75+ 及 Hugging Face token。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 14 个公共来源合并去重后产出 791 万文档 / 8.27 亿词的训练就绪 JSONL
-- 记录级来源、许可、内容哈希与去重元数据，按许可字段导出 open/non-commercial 双层
-- 48k 词表 ByteLevel BPE 分词器，round-trip fidelity 1.000，含可复现训练与评测脚本
-- Rust 流式管线，各阶段留存率与拒绝统计可审计
+- 14 个公开来源的下载器与流式处理管线，输出训练用 JSONL
+- 逐记录携带来源、许可证、哈希与去重元数据
+- 按记录自身许可证导出 open 与 non-commercial 两档 Parquet
+- 配套 48k ByteLevel BPE 分词器（独立仓库，含 Rust/CLI/Python 包）
 
 ## 适用场景
 
-- 为索马里语 LLM 预训练或微调获取语料
-- 研究低资源语言的数据清洗与去重管线
-- 按商业/非商业许可分层选用语料子集
+- 为低资源语言（索马里语）模型训练准备清洗后的语料
+- 研究数据管线中的去重、语言识别与许可分层方法
+- 在 Hugging Face 上下载带逐记录许可信息的索马里语数据集
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+ · 领域:NLP/语言资源
 
 ## 证据(README 行号)
 
+> L3:  A reproducible Somali text corpus and data-processing pipeline for NLP and language-model research.
 > L8: Somali NLP Corpus downloads public Somali datasets, normalizes and filters their text,
-> L9: removes exact and near duplicates, and emits training-ready JSONL. The repository also
+> L16: Version **1.0.0** is the build of **2026-10-19**, combining **14 public sources**:
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `3976cf27ff96` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `cc81d8e9d4b5` · [字段定义](../../DATASET.md)*

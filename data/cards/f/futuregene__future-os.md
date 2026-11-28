@@ -2,9 +2,9 @@
 
 ⭐ 119 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/futuregene/future-os) · [官网](https://future-os.cn) · 组织维护 · 中文 README
 
-**跨终端/桌面/移动/IM 的个人 AI 代理，Rust 单核多端**
+**跨终端/桌面/手机/IM 的统一个人 AI agent（Rust）**
 
-以单一 Rust gRPC Agent 后端驱动 TUI、桌面 GUI、Android/iOS 移动端、CLI 与 IM 机器人的多端 AI 代理应用，会话、记忆与技能各端共享。支持 BYOK 接入内置目录中的主流模型商及任意 OpenAI/Anthropic 兼容端点，或登录 FutureOS 托管服务由其配发密钥。提供文件访问审批与 OS 沙箱分级（off/manual/sandbox）、24 小时以上长程任务的 goal 控制面、定时任务、会话 fork/clone、技能包安装等。安装脚本校验 SHA-256 后安装签名应用；默认桌面审批级别为 Unrestricted（off）。
+以单个 Rust 核心（二进制 + gRPC agent）驱动终端 TUI、桌面应用、移动端、CLI 与 IM 机器人的个人 AI agent 平台，各端共享会话、记忆与技能。提供四档工具执行边界（off/manual/sandbox/auto）、macOS Seatbelt/Linux Bubblewrap 沙箱、面向 24+ 小时长任务的 goal 控制平面（事件溯源状态、验证门）、定时任务、15+ 内置技能与可 fork 的会话历史。安装为平台脚本（macOS/Linux/Windows），移动端 pairing 需账号，中继可自托管。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 单 gRPC Agent 后端驱动 TUI/桌面/移动/CLI/IM 五类客户端，会话与记忆共享
-- 工具审批规则与三档 OS 沙箱（macOS Seatbelt / Linux Bubblewrap / Windows 受限令牌）
-- 长程任务的 goal 控制面：持久目标、事件溯源状态、验证门，支持 24 小时以上运行
-- BYOK 支持内置模型目录与任意 OpenAI/Anthropic 兼容端点（models.json）
+- 单一 gRPC agent 驱动 TUI/桌面/移动/CLI/IM 机器人，共享会话与技能
+- 四档工具执行边界（off/manual/sandbox/auto）与 OS 级沙箱
+- 面向 24+ 小时长任务的 goal 控制平面与验证门
+- 端到端加密的 phone↔host 通道，中继可自托管
 
 ## 适用场景
 
-- 在终端、桌面与手机上继续同一个 AI 代理会话
-- 配置审批与沙箱后让代理执行文件读写与 shell 工具
-- 设置夜间定时运行的长程研究任务并在手机上查看结果
-- 通过技能包扩展代理的图像、PDF 解析、浏览器控制等能力
+- 在手机上查看和控制家中/实验室桌面上的 agent 会话
+- 夜间启动长时研究任务，次日手机上审阅结果
+- 按计划定时运行带完整权限的重复任务
+- 通过 TUI 以树状结构查看工具调用与思考过程
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`AI 助手` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3:  One AI agent, everywhere you work.
-> L25: - **One backend, every surface.** A single gRPC agent drives the terminal UI, desktop app, mobile apps, CLI, and IM
-> L34: |**Model Flexibility**|**Bring your own key**: the built-in catalog covers the major providers, and any OpenAI- or 
+> L24: - **One backend, every surface.** A single gRPC agent drives the terminal UI, desktop app, mobile apps, CLI, and IM
+> L35: |**Model Flexibility**|**Bring your own key**: the built-in catalog covers the major providers, and any OpenAI- or 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `655d3fcadd0a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `636635d4c23d` · [字段定义](../../DATASET.md)*

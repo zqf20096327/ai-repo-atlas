@@ -2,9 +2,9 @@
 
 ⭐ 1,579 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/qdrant/mcp-server-qdrant) · [官网](https://qdrant.tech) · 组织维护
 
-**给 MCP 客户端提供 Qdrant 语义记忆存取的官方服务器**
+**给 MCP 客户端提供 Qdrant 语义记忆存取的服务器**
 
-Qdrant 官方的 Model Context Protocol 服务器，在 Qdrant 向量数据库之上提供语义记忆层：暴露 qdrant-store 与 qdrant-find 两个工具，分别用于存入和按语义检索信息。通过环境变量配置 Qdrant URL/本地路径、默认集合、嵌入模型（仅支持 FastEmbed）、只读模式等；支持 stdio、SSE、streamable-http 三种传输协议。可用 uvx 直接运行或 Docker 构建运行，README 给出 Claude Desktop、Cursor、Windsurf、Claude Code、VS Code 的接入配置。
+Qdrant 官方的 Model Context Protocol 服务器实现，在 Qdrant 向量数据库之上提供语义记忆层，暴露 qdrant-store 与 qdrant-find 两个工具供 MCP 客户端存储和检索信息。通过环境变量配置（Qdrant 服务器 URL/API key 或本地数据库路径、嵌入模型、默认集合、只读模式等），嵌入仅支持 FastEmbed 模型，默认 all-MiniLM-L6-v2。支持 stdio/SSE/streamable-http 三种传输协议，README 另给出将其配置为 Cursor/Windsurf/Claude Code 语义代码搜索工具的定制说明。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Qdrant 官方的 Model Context Protocol 服务器，在 Qdrant 向量数据库�
 
 ## 能力要点
 
-- 提供 qdrant-store 与 qdrant-find 两个 MCP 工具，实现信息存取与语义检索
-- 支持 stdio/SSE/streamable-http 三种传输协议，可本地或远程运行
-- 支持 Qdrant 远程服务器与本地数据库路径两种存储方式
-- 可自定义工具描述，用作 Cursor/Windsurf/Claude Code 的代码语义搜索工具
+- 提供 qdrant-store / qdrant-find 两个 MCP 工具存取语义记忆
+- 支持 stdio、SSE、streamable-http 三种传输协议
+- 支持远程 Qdrant 服务器或 QDRANT_LOCAL_PATH 本地数据库两种后端
+- 可自定义工具描述以适配 Cursor/Windsurf 代码搜索场景
 
 ## 适用场景
 
-- 为 Claude Desktop 等支持 MCP 的客户端添加可持久化的语义记忆
-- 在 Cursor/Windsurf/Claude Code 中对代码片段做自然语言语义检索
-- 团队通过 SSE 在云端共享同一个 Qdrant 记忆服务
+- 为支持 MCP 的客户端接入 Qdrant 语义记忆存取
+- 在 Cursor/Windsurf/Claude Code 中做代码片段语义搜索
+- 通过 SSE 在团队或云端共享记忆服务器
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ Qdrant 官方的 Model Context Protocol 服务器，在 Qdrant 向量数据库�
 
 > L10: This repository is an example of how to create a MCP server for Qdrant, a vector search engine.
 > L14: An official Model Context Protocol server for keeping and retrieving memories in the Qdrant vector search engine.
-> L15: It acts as a semantic memory layer on top of the Qdrant database.
+> L194: This MCP server can be used with any MCP-compatible client. For example, you can use it with
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a4e99faa1e25` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `1848f3c424c8` · [字段定义](../../DATASET.md)*

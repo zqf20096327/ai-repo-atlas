@@ -2,9 +2,9 @@
 
 ⭐ 113 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/Agent365-Samples) · 组织维护
 
-**微软 Agent 365 SDK 的示例 agent 与提示词集合**
+**微软 Agent 365 SDK 的示例代理与提示词集**
 
-微软官方维护的样例仓库：提供 C#/.NET、Python、Node.js/TypeScript、Salesforce/Apex 四种语言的示例 agent，演示可观测性、通知、工具与托管模式，目标平台包括 M365、Teams、Copilot Studio 与 Webchat；另附面向 Cursor IDE 等 AI 开发工具的提示词。README 详细记录 S2S 可观测性导出到 /otlp 路由的 token 契约与配置限制（如 Python/Node 样例仅含 client-secret 流程、无托管标识选项）。
+微软官方仓库，包含用于 Microsoft Agent 365 SDK 的示例代理与提示词。SDK 在 Microsoft 365 Agents SDK 基础上扩展可观测性、通知、运行时工具与开发工具，帮助开发者构建面向 M365、Teams、Copilot Studio 和 Webchat 平台的生产级代理。示例覆盖 C#/.NET、Python、Node.js/TypeScript、Salesforce/Apex 四种语言；另含供 Cursor IDE 等 AI 开发工具使用的提示词。README 主要说明可观测性 S2S 导出的令牌要求与 SDK 版本查看方式，本仓库未提供独立安装命令。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 四种语言的生产就绪示例 agent（可观测性/通知/工具/托管）
-- S2S 可观测性导出到 /otlp 路由的 token 契约与验证记录
-- 面向 Cursor IDE 等 AI 开发工具的提示词
-- E2E 工作流记录各样例使用的 SDK 版本
+- 覆盖 C#/.NET、Python、Node.js/TypeScript、Salesforce/Apex 的端到端示例代理
+- 可观测性 S2S OTLP 导出的令牌契约与验证说明
+- 提供用于 Cursor IDE 等 AI 开发工具的提示词
+- 通过 E2E 工作流日志展示各示例解析的 SDK 版本
 
 ## 适用场景
 
-- 学习 Agent 365 SDK 的 agent 构建模式
-- 参考 S2S 可观测性导出的认证配置
-- 配合 Cursor IDE 加速 agent 开发
+- 参考示例在 Microsoft 365 平台上构建企业级代理
+- 为代理配置符合要求的可观测性遥测导出
+- 用提示词加速基于 SDK 的代理开发
 
 ## 场景标签
 
-`提示工程` `LLM 可观测性` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: This repository contains sample agents and prompts for building with the Microsoft Agent 365 SDK. The Microsoft Agen
-> L42: - **Sample Agents**: Production-ready examples in C#/.NET, Python, Node.js/TypeScript, and Salesforce/Apex demonstr
+> L42: - **Sample Agents**: Complete, end-to-end examples in C#/.NET, Python, Node.js/TypeScript, and Salesforce/Apex demo
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2c4f262e8108` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8ef47a541c90` · [字段定义](../../DATASET.md)*

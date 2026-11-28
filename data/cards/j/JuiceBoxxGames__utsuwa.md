@@ -2,9 +2,9 @@
 
 ⭐ 157 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/JuiceBoxxGames/utsuwa) · [官网](https://www.utsuwa.ai) · 组织维护
 
-**开源虚拟 AI 陪伴应用：3D VRM 角色聊天、记忆与养成**
+**开源虚拟 AI 伴侣应用：3D VRM 形象陪你聊天、成长**
 
-Utsuwa 是一个开源 AI 陪伴平台（自称 Grok Companion 的开源替代），以 3D VRM 头像呈现虚拟伴侣，支持聊天、心情表情、语音输入与 TTS 朗读、口型同步、AR 摆放与拍照模式。内置 dating sim 式养成系统：五维关系追踪、8 个关系阶段、语义记忆（本地 Transformers.js 向量检索）、记忆图谱与定时任务。数据经 IndexedDB 全本地存储。接入 8 家 LLM 提供商并支持 MCP 工具调用；可选 Ollama/LM Studio 实现全离线运行。提供 macOS/Windows/Linux 桌面安装包与浏览器版。
+自称 Grok Companion 的开源替代品：以 3D VRM 头像为载体的 AI 伴侣应用，提供聊天（流式输出、3D 气泡）、情绪表达、语音输入/输出、拍照模式、AR 展示、恋爱养成式关系系统（8 个关系阶段、多轴关系值、语义记忆）。数据经 IndexedDB 本地存储；支持 8 个 LLM 提供方（含 Ollama/LM Studio 本地模型）与 MCP 工具接入；可整体离线运行（本地 LLM+本地 STT+本地 TTS）。提供浏览器版与基于 Tauri 的 macOS/Windows/Linux 桌面版（beta，未签名），需 Node.js 22+ 环境。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ Utsuwa 是一个开源 AI 陪伴平台（自称 Grok Companion 的开源替代�
 
 ## 能力要点
 
-- 支持 8 家 LLM 提供商及任意 OpenAI 兼容端点，本地模型可直接发现
-- VRM 3D 头像渲染：表情、动画、物理、口型同步、AR 模式与拍照模式
-- dating sim 式养成：五维关系、8 阶段进度、视觉小说事件
-- 语义记忆本地向量检索（Transformers.js，无 API 调用）与 MCP 工具接入
+- 3D VRM 头像：触控反应、情绪表情、口型同步、AR/拍照模式
+- 支持 8 个 LLM 提供方，含 Ollama/LM Studio 本地模型发现与 OpenAI 兼容端点
+- 语音输入经本地 Whisper 服务器、Groq 或浏览器 Web Speech API；TTS 支持 ElevenLabs/OpenAI/Fish Audio/本地 OmniVoice
+- 恋爱养成系统：8 个关系阶段、多轴关系值、Transformers.js 本地语义记忆
 
 ## 适用场景
 
-- 想要一个可长期陪伴、带记忆与关系养成的虚拟 AI 伙伴
-- 用本地 LLM 与本地语音模型搭建完全离线的桌面陪伴应用
-- 给 VRM 头像加载自定义模型、动作与语音进行展示
-- 通过 MCP 让陪伴角色调用 Home Assistant 等外部工具
+- 在本地设备上运行一个隐私优先的虚拟 AI 伴侣
+- 用 Ollama/LM Studio 本地模型跑通全离线的陪伴对话与语音
+- 通过 MCP 让伴侣调用 Home Assistant、网页搜索等外部工具
 
 ## 场景标签
 
-`聊天机器人` `语音合成` · 领域:对话与助手
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L35: **Utsuwa is an open-source AI companion with 3D VRM avatars.** A platform where you can have a virtual companion th
-> L60: - **LLM Integration**: Support for 8 LLM providers: OpenAI, Anthropic, Google, xAI, DeepSeek, Ollama, LM Studio, an
-> L64: - **Fully Local Option**: Run the whole stack offline: local LLM (Ollama/LM Studio), local TTS, and local Whisper S
+> L41: **Utsuwa is an open-source AI companion with 3D VRM avatars.** A platform where you can have a virtual companion th
+> L66: - **LLM Integration**: Support for 8 LLM providers: OpenAI, Anthropic, Google, xAI, DeepSeek, Ollama, LM Studio, an
+> L82: - **Desktop App** *(beta)*: Native desktop app for macOS, Windows, and Linux with transparent overlay mode, so your
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2f7401d93fd1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `40bf7a4f785f` · [字段定义](../../DATASET.md)*

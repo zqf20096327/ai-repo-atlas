@@ -1,10 +1,10 @@
 # SlavaSexton/ComfyUI-Agent-Kit
 
-⭐ 125 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/SlavaSexton/ComfyUI-Agent-Kit) · [官网](https://chronicleofbrothers.com/) · 组织维护
+⭐ 125 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/SlavaSexton/ComfyUI-Agent-Kit) · [官网](https://chronicleofbrothers.com/) · 个人维护
 
-**让 AI 编码代理驱动本地 ComfyUI 的技能与 MCP 工具包**
+**让 AI 编码代理驱动本地 ComfyUI 生成图像/视频/音频的技能包**
 
-面向 Claude Code、Codex、Gemini CLI、Qwen Code 四类 AI 编码代理的本地 ComfyUI 驱动套件：一个共享核心（知识库 + 约 90 工具的 comfyui-mcp MCP 驱动）加每代理一个薄适配器，克隆后运行安装器即可接线。功能包括生成图像/视频/音频、构建并校验工作流（581 官方模板 + 94 子图蓝图）、按 VRAM/RAM/磁盘做硬件感知的模型选型、自动启动 ComfyUI、把生成图写入画布并保存。附带 75 条模型提示词配方（覆盖 68 个模型）、ComfyUI-OCIO 九节点调色工具及 seedance/krea/minimax-h3 独立技能。Apache-2.0，本地运行，无云端账户。
+一个装进 Claude Code、Codex、Gemini CLI、Qwen Code 技能目录的 ComfyUI 操作套件，由共享核心（知识文件 + MCP 驱动器）加每代理适配层组成。约 90 个 MCP 工具让代理直接生成、搭建/校验工作流图、排队、下载模型、管理显存与诊断；附带 75 条模型提示词配方（68 个命名模型）、581 个官方模板索引、94 个 Subgraph Blueprints，并按显存/内存/磁盘推荐模型变体（fp8/offload/量化），装不下会拒绝下载。v2 增加 ComfyUI-OCIO 九个 OpenColorIO 节点。本地优先，无托管服务，Apache-2.0。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 约 90 工具的 MCP 驱动：生成、构建/校验图、队列、下载模型、读日志
-- 75 条模型提示词配方覆盖 68 个命名模型（图像/视频/音频/3D）
-- 硬件感知模型选型：检测 VRAM/RAM/磁盘并推荐适配变体
-- 581 官方工作流模板 + 94 子图蓝图，含模型 shootout 对比流程
+- 约 90 工具的 MCP 驱动器：代理直接生成、建图、排队、下载模型、管理显存
+- 硬件感知选型：检测 VRAM/RAM/磁盘后推荐变体并拒绝装不下的下载
+- 75 条按模型拆分的提示词配方 + 581 模板库与按哈希获取共享工作流
+- 四个代理共用一个核心，一个安装器自动检测并接线
 
 ## 适用场景
 
-- 用 Claude Code 等编码代理直接在本地 ComfyUI 上生成图像和视频
-- 让代理按自己 GPU 显存挑选合适的模型变体再下载
-- 复用官方模板库组装并校验新工作流
-- 在 ComfyUI 内做 ACES 调色与 ProRes 输出的 VFX 流程
+- 让 Claude Code 在本机端到端生成图像和视频
+- 把 VFX 调色（ACES/OCIO）流水线交给代理操作
+- 按本机显存自动挑选能跑的模型变体
+- 把整套 ComfyUI + 代理配置一条命令交给他人
 
 ## 场景标签
 
-`图像生成` `视频生成` · 领域:内容生成
+`编码 Agent` `图像生成` `视频生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L11: Make Claude Code, Codex, Gemini CLI, or Qwen Code drive **ComfyUI** at full power on your own machine - generate
+> L5: **Local-first ComfyUI for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code).**
 > L21: This is the portable, machine-independent, **multi-agent** version of a working ComfyUI setup. One shared core
-> L40: - **~90-tool MCP driver.** The agent operates ComfyUI directly: generate, build / edit / validate graphs, queue,
+> L89: |2|**MCP driver** ~90 structured tools so the agent operates ComfyUI directly|`comfyui-mcp` (npm) + per-agent MCP r
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `10ce9fb830d5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `956596285914` · [字段定义](../../DATASET.md)*

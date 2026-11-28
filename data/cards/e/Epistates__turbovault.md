@@ -2,9 +2,9 @@
 
 ⭐ 161 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Epistates/turbovault) · 个人维护
 
-**让 AI agent 安全读写 Obsidian 笔记库的 MCP 服务器与 Rust crate**
+**给 AI agent 提供安全读写 Obsidian 笔记库的 MCP 服务器**
 
-TurboVault 是一个单一二进制的 MCP 服务器，配套一组处理 Obsidian Flavored Markdown 的 Rust crate，为 AI agent 提供对 Obsidian vault 的读写访问。写入统一走原子重命名（hash 前置条件）或 Git 后端（每次写一个提交），移动笔记时同步改写指向它的各类链接；搜索/图谱/相似度结果服务前先对比并增量更新索引，覆盖外部编辑与云同步场景。提供约 40 个工具（搜索、链接图谱、SQL 查询 frontmatter、canvas、任务、审计回滚等）及安全边界（vault 注册受限、网络传输需认证、只读模式）。安装方式为 GitHub 预编译二进制、cargo install 或 Docker。
+Rust 编写的 MCP 服务器加一组处理 Obsidian Flavored Markdown 的 crate，以单二进制形态运行，无运行时依赖。为 AI agent 提供笔记读写、全文搜索、链接图谱、相似度、frontmatter SQL、canvas/任务/周期笔记等 40 余个工具；写入走原子重命名加哈希前置条件或 Git 提交路径，服务前比对增量索引，破坏性操作在客户端支持时请求用户确认，并带审计日志与回滚。提供预编译二进制、cargo 安装与 Docker 镜像。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ TurboVault 是一个单一二进制的 MCP 服务器，配套一组处理 Obsidi
 
 ## 能力要点
 
-- 单一二进制、无运行时依赖，含 40 余个知识库操作工具
-- 直连后端原子重命名+hash 前置条件，Git 后端每次写入对应一个提交
-- 写入统一路径：移动笔记时改写 wikilinks/Markdown 链接/canvas 引用
-- hash 链审计日志、按操作 ID 回滚、vault 注册与网络传输的安全限制
+- 40+ MCP 工具：笔记读写、BM25 搜索、链接图谱、相似度、frontmatter SQL
+- 单二进制无运行时依赖，原子写入/每次写入一个 Git 提交，含审计日志与回滚
+- 服务前比对增量，可感知 Obsidian、同步客户端或 git pull 造成的外部编辑
+- 安全机制：路径限制、受保护目录、网络传输认证、read-only 档位
 
 ## 适用场景
 
-- 让 Claude 等 agent 客户端安全读写我的 Obsidian 笔记库
-- 通过 MCP 对笔记库做搜索、图谱分析和 frontmatter SQL 查询
-- 用 Git 后端保证 agent 批量修改可审计、可回滚
-- 在 CI 中用 okf_validate 校验知识库格式
+- 让 Claude Desktop/Code 等 MCP 客户端直接读写和管理我的 Obsidian 笔记库
+- 用 agent 做笔记库的断链修复、质量体检与结构分析
+- 在 Git 支持的库上让 agent 批量改写并保持链接一致
 
 ## 场景标签
 
@@ -39,7 +38,6 @@ TurboVault 是一个单一二进制的 MCP 服务器，配套一组处理 Obsidi
 ## 证据(README 行号)
 
 > L11: TurboVault is an MCP server that gives AI agents safe, fast access to Obsidian vaults, and a set of Rust crates for
-> L13: - **Writes you can trust.** Every change goes through one write path: atomic renames with hash preconditions on a p
 > L16: - **Built for agents.** Every tool has parameter descriptions, annotations, a typed output schema, paged results an
 
 ## 星数曲线
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `375e1864a973` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f4f9cb263ae7` · [字段定义](../../DATASET.md)*

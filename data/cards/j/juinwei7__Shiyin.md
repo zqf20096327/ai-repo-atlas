@@ -2,9 +2,9 @@
 
 ⭐ 196 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/juinwei7/Shiyin) · [官网](https://shiyin.weibuilds.com) · 个人维护 · 中文 README
 
-**Mac 上的本地会议记录应用：录音、本地转写、AI 生成带时间戳的笔记**
+**macOS 会议记录应用：本地转录录音并生成带时间戳的会议纪要**
 
-面向 macOS 用户的会议笔记应用：录制线下或线上会议（Zoom/Meet/Teams 声音经系统音频采集，无需 bot），实时显示转写草稿，会后在本机完成转写与说话人识别，再由用户自配的 Claude Code、Codex CLI 或各家 API 生成含摘要、决策、行动项的笔记，每条内容带可点击回跳录音的时间戳。录音与转写全部本地进行，不上传录音；摘要需联网及用户已有账号或 API key。要求 Apple Silicon 与 macOS 26，模型约 1.7 GB 首次使用时下载。
+面向 macOS 用户的会议记录应用：录制线上或线下会议并显示实时转写，结束后在本机用 whisper.cpp/Breeze ASR 等模型转录、识别说话人，再由 Claude Code、Codex CLI 或各家 API/OpenAI 兼容接口生成含摘要、决定、行动项的纪要，每条内容带可点击回放的时间戳。录音不上传；支持导入音视频与字幕、Markdown/PDF/Word 导出、MCP 只读接口、声纹记忆与术语表校正。要求 Apple Silicon 与 macOS 26，模型约 1.7 GB 首次下载。
 
 ## 筛选速览
 
@@ -20,21 +20,20 @@
 
 ## 能力要点
 
-- whisper.cpp + Breeze ASR 25 本地转写，可切换 llama.cpp + Qwen3-ASR 或 macOS 内置识别
-- 说话人识别与声纹记忆，声纹仅保存在本机
-- 摘要器可选 Claude Code、Codex CLI、Anthropic/OpenAI/Gemini API 或 OpenAI 兼容 API（含本机 Ollama/LM Studio）
-- 提供 MCP 只读接口，供 AI 工具检索会议记录
+- 录音、转录与说话人识别全部本地运行，录音不上传
+- whisper.cpp + Breeze ASR 25 本地转录，可切换 llama.cpp + Qwen3-ASR 或 macOS 内置识别
+- 纪要生成支持 Claude Code、Codex CLI、Anthropic/OpenAI/Gemini API 及 OpenAI 兼容接口（含本地 Ollama/LM Studio）
+- 支持 MCP：让 Claude Code/Claude Desktop 等工具跨会议只读检索
 
 ## 适用场景
 
-- 线上会议不开 bot 也能拿到双方发言的转写与纪要
-- 会议内容敏感、希望录音不出本机的团队
-- 中英日多语言会议的转写与纪要整理
-- 会后用自然语言向会议记录提问并回听原话
+- 无机器人录制 Zoom/Meet/Teams 会议并本地转写
+- 生成带时间戳、可点击回放原文的会议纪要
+- 多语言会议（中/英/日）的说话人分离与术语校正
 
 ## 场景标签
 
-`语音识别` `文档问答` · 领域:知识与检索
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c55eb4e239f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f6024a2b92ba` · [字段定义](../../DATASET.md)*

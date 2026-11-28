@@ -2,9 +2,9 @@
 
 ⭐ 112 · Jupyter Notebook · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/NVlabs/neural_rx) · 组织维护
 
-**5G NR 多用户 MIMO 神经接收机的设计训练与实时推理代码**
+**5G NR 多用户 MIMO 神经接收机的 PyTorch 训练与部署库**
 
-NVIDIA 实验室发布的科研代码库：基于 Sionna 链路级仿真库与 TensorFlow，设计、训练并评估 5G NR PUSCH 多用户 MIMO 神经接收机（CGNN 架构），联合执行信道估计、均衡与解映射，支持可变 PRB/用户数/MCS。训练后的模型可经 TensorRT/ONNX 导出用于实时推理，论文报告在 NVIDIA A100 GPU 上 1 ms 内完成推理。提供教程 notebook、预训练权重与训练/评估脚本。运行要求 Sionna 0.18、Python 3.10、TensorFlow 2.15，推荐 Ubuntu 22.04。已在 MWC 2023/2024 做演示。
+提供 5G NR 多用户 MIMO 神经接收机的 PyTorch 实现，覆盖设计、训练、评估与导出：接收机对完整 PUSCH OFDM 时隙联合执行信道估计、均衡与解映射，支持多用户 MIMO、UMi/UMa/TDL/AWGN/Sionna RT 信道模型、载波频偏、可变激活用户数、站点级微调与免导频端到端星座学习。训练好的接收机可导出 ONNX 用于实时推理，并支持 Aerial/TensorRT 部署。提供 neural-rx CLI 完成训练、评估与导出，附预训练检查点与教程 notebook。
 
 ## 筛选速览
 
@@ -12,34 +12,33 @@ NVIDIA 实验室发布的科研代码库：基于 Sionna 链路级仿真库与 T
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 5G NR 兼容的多用户 MIMO PUSCH 神经接收机（CGNN 架构）
-- TensorRT / ONNX 模型导出，用于实时推理
-- 可变 PRB/用户数/MCS，无需重新训练
-- 基于 SionnaRT 光线追踪的站点特定训练
+- 对 PUSCH OFDM 时隙联合执行信道估计、均衡与解映射
+- 支持多用户 MIMO、UMi/UMa/TDL/AWGN/Sionna RT 信道与载波频偏
+- 导出 ONNX，含 Aerial 兼容 profile 与 TensorRT 部署基准
+- 提供预训练检查点、多组实验配置与教程 notebook
 
 ## 适用场景
 
-- 研究 5G NR 神经接收机的端到端训练与评估
-- 复现论文中的实时推理实验
-- 站点特定场景下训练接收机模型
+- 训练并评估 5G NR 神经接收机的 BER/BLER 性能
+- 将接收机导出 ONNX 并在 TensorRT 上做实时推理
+- 基于 Sionna RT 射线追踪数据做站点级微调
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+`微调` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L3: The code in this repository allows to design, train, and evaluate [neural
-> L31: We introduce a neural network (NN)-based multi-user multiple-input
-> L44: such that the receiver can be executed within 1 ms latency on an NVIDIA A100
+> L10: This repository provides PyTorch implementations for designing, training, and
+> L15: The receiver operates on a complete PUSCH OFDM slot and jointly performs channel
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `516c2496a0d5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `5d5fb391f99a` · [字段定义](../../DATASET.md)*

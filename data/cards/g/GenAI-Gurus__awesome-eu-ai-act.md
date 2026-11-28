@@ -2,9 +2,9 @@
 
 ⭐ 149 · CC0-1.0 · 推送 2026-11-08 · [GitHub](https://github.com/GenAI-Gurus/awesome-eu-ai-act) · [官网](https://github.com/GenAI-Gurus/awesome-eu-ai-act#readme) · 组织维护
 
-**欧盟 AI 法案合规资源策展清单：官方文本、工具与开源项目**
+**面向 AI Act 合规需求的官方资源与工具清单**
 
-面向需应对 EU AI Act 的组织与开发者，收录官方来源（EUR-Lex 法规原文、欧盟委员会指南、AI Office 平台、GPAI 行为准则）、商业合规平台（Holistic AI、Credo AI 等）、开源合规工具（风险分级器、Annex IV 文档生成、MCP 服务器）、AI agent 治理项目与律所指南，按类别组织条目并附简介。本体为 awesome 类策展清单，不提供可运行的软件本体。
+围绕欧盟 AI Act 合规的聚合清单：收录 EUR-Lex 法规文本、欧盟委员会与 AI Office 指南等官方来源，以及商业治理平台、AI Act 专用工具、开源合规项目（风险分级、Annex IV 文档生成、MCP 服务器）、风险评估工具与 agent 治理参考实现。面向需要理解和落地 AI Act 义务的开发者与企业合规人员，按类别组织链接并提供各条目的一句话说明。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 覆盖官方法规文本、委员会指南与 GPAI Code of Practice 的官方来源汇编
-- 收录 10+ 个 EU AI Act 专用开源工具（风险分级、Annex IV 生成、合规检查）
-- 包含 AI agent 治理与 AGT 映射参考（OWASP Agentic Top 10、NIST AI RMF）
-- 按官方来源/合规平台/开源项目/法律指南分层组织
+- 官方来源：法规全文、委员会指南、GPAI Code of Practice 等链接汇总
+- 收录 10+ 个开源 AI Act 合规平台与风险分级工具
+- 覆盖 agent 治理工具及与 NIST AI RMF、SOC 2 等框架的映射
+- 包含面向初创与中小企业的交互式指南与教育资源
 
 ## 适用场景
 
-- 查找 EU AI Act 官方法规文本与实施指南
-- 为组织选型 AI 治理与合规平台
-- 寻找开源风险分级与 Annex IV 文档生成工具
-- 了解 AI agent 治理与法规映射的参考实现
+- 查找我的 AI 系统适用哪些 AI Act 风险等级与义务
+- 为企业合规流程选型治理平台或开源工具
+- 了解 GPAI 模型提供者的透明度与版权义务
+- 为 AI agent 的运行时治理寻找开源方案
 
 ## 场景标签
 
@@ -39,7 +39,8 @@
 ## 证据(README 行号)
 
 > L1: # Awesome EU AI Act Awesome
-> L3: > EU regulation governing the development and deployment of artificial intelligence systems, establishing a risk-bas
+> L5: ## Contents
+> L90: ## Open-Source Projects
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `e8441835d79c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `1e25dd611516` · [字段定义](../../DATASET.md)*

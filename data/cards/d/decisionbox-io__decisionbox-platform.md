@@ -2,9 +2,9 @@
 
 ⭐ 123 · Go · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/decisionbox-io/decisionbox-platform) · [官网](https://decisionbox.io) · 组织维护
 
-**面向数据仓库的自主 AI 数据洞察发现平台**
+**连接数据仓库的自主 AI 数据发现分析平台**
 
-连接 BigQuery、Redshift、Snowflake、PostgreSQL、Databricks、SQL Server 等数据仓库，由 AI agent 自主决定调查方向，编写并执行 SQL（每次发现运行 50–100+ 条查询），产出经独立复验的洞察与排序建议，全程记录 SQL 与推理步骤。支持 Qdrant 向量语义搜索与 RAG 式 Ask Insights 问答；领域包机制按行业适配分析（内置电商、社交、游戏）。LLM 支持 Claude、OpenAI、Ollama 本地、Vertex AI、Bedrock、Azure AI Foundry、LiteLLM，可自托管（AGPL v3），提供 Docker Compose、Helm、Terraform 部署。需 MongoDB 与 Qdrant 等组件。
+自托管的开源数据发现平台：接入数据仓库后，自主 agent 决定调查方向、编写并执行 SQL（每次运行 50–100+ 条查询），每条结论经独立复核查询验证后交付带置信度排序的洞察与建议，全过程查询与推理步骤留痕可审计。支持 RAG 问答、向量语义搜索（Qdrant）、领域包定制（电商/社交/游戏内置）与插件扩展。通过 Docker Compose、Helm 或 Terraform 部署，LLM 与数据仓库均可按项目配置。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 自主 agent 编写并执行 SQL，每次运行 50–100+ 条查询，无需提问
-- 每条洞察经独立复核查询验证后才输出，SQL 与推理全程留痕
-- 内置电商/社交/游戏领域包，可在仪表盘创建与导入自定义包
-- Qdrant 语义搜索与带引用的 RAG 问答（Ask Insights）
+- 自主 agent 循环：无需提问即编写并执行 SQL 产出洞察与建议
+- 每条结论经独立复核查询验证，SQL 与推理步骤全程留痕
+- RAG 问答与向量语义搜索（Qdrant + HNSW）带引用
+- 领域包机制：电商/社交/游戏内置，可从仪表盘创建/导入
 
 ## 适用场景
 
-- 让 AI 自动在数据仓库中发现业务洞察和建议
-- 用本地或自有 LLM 在自有基础设施上做数据分析
-- 为特定行业定制领域包进行专项数据分析
+- 电商运营自动发现转化漏斗与购物车弃单问题
+- 对仓库数据做定期无人值守的自动分析并收到行动建议
+- SaaS 团队排查留存与激活模式
+- 用自然语言提问并引用洞察来源
 
 ## 场景标签
 
-`数据分析` `RAG` · 领域:效率与自动化
+`数据分析` `RAG` `语义搜索` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L13: **Autonomous AI data discovery on your data warehouse.** DecisionBox connects to your warehouse, runs an agent that
-> L21: - **Autonomous, not a copilot.** The agent picks what to investigate. 50–100+ SQL queries per discovery run, unatte
-> L45: - **Autonomous agent loop** — AI writes and executes SQL, iterates on results, and produces insights + ranked recom
+> L36: 1. **Connect** your data warehouse (BigQuery, Redshift, Snowflake, PostgreSQL, Databricks, Microsoft SQL Server)
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `cbba69894202` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `45a7bdfa987e` · [字段定义](../../DATASET.md)*

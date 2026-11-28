@@ -2,9 +2,9 @@
 
 ⭐ 119 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/LGDiMaggio/predictive-maintenance-mcp) · [官网](https://lgdimaggio.github.io/predictive-maintenance-mcp/) · 个人维护
 
-**面向可靠性工程师的振动诊断 MCP 服务器**
+**给可靠性工程师提供振动诊断能力的 MCP 服务器**
 
-开源 Python MCP 服务器，把 LLM 变成设备状态监测助手：提供 41 个本地运行的 MCP 端点（38 工具+3 提示词），覆盖频谱分析、轴承故障频率匹配、ISO 20816-3 严重度评估、交互式 HTML 报告生成、异常检测训练与设备健康台账。设计规则为不做臆测：故障判定要求谱证据匹配，报告措辞由服务器生成。另以 Claude Code 插件形式提供 8 个诊断技能、2 个 agent 与 3 个命令。数据不离开本地基础设施，支持任意 MCP 客户端。
+面向可靠性/维护工程师的 MCP 服务器，将振动信号分析接入 AI 助手：提供 48 个本地运行的 MCP 端点（44 工具+4 提示词），覆盖包络谱故障频率匹配、ISO 20816-3 严重度分级、异常检测模型训练与资产健康台账。核心设计为「不猜测」——故障判定须有谱证据支撑，报告措辞由服务器而非模型生成。支持 Claude Desktop/Claude Code 插件（9 技能），生成 HTML/Word 报告，原始数据不出本地。需 Python 3.11+、uv 与 MCP 客户端。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 41 个 MCP 端点（38 工具+3 提示词）本地运行振动诊断
-- 故障判定要求谱证据匹配，严重度引用 ISO 20816-3，服务器拒绝臆测
-- 附 Claude Code 插件：8 技能、2 agent、3 命令
-- CWRU 数据集盲测基准，结果绑定可复现工件并由 CI 防漂移
+- 48 个本地 MCP 端点，信号以 signal_id 句柄从加载贯通到报告
+- 故障判定要求谱证据匹配，严重度引用 ISO 20816-3，措辞由服务器撰写
+- 附带可复现的 CWRU 轴承基准测试（CI 守护、盲测协议）
+- 提供 Claude Code 插件，含 9 个自动激活的诊断技能
 
 ## 适用场景
 
 - 用自然语言对轴承振动信号做故障检测与严重度评估
-- 从设备手册提取轴承型号并核对实测故障频率
-- 在健康基线上训练异常检测器并跟踪设备状态变化
+- 在健康基线数据上训练异常检测模型并标记离群信号
+- 生成含频谱图表与 ISO 分级的交互式诊断报告
+- 跟踪设备自基线以来各指标的变化
 
 ## 场景标签
 
- · 领域:工业设备/预测性维护
+ · 领域:工业物联网/预测性维护
 
 ## 证据(README 行号)
 
-> L10: LGDiMaggio/predictive-maintenance-mcp MCP server
-> L42: The AI doesn't guess: it calls **41 specialized MCP endpoints** (38 tools + 3 prompts) running locally on your mach
-> L179: - **LLM-agnostic** — works with Claude, ChatGPT, Microsoft Copilot Studio, or any MCP-compatible client. Use Ollam
+> L14: An open-source MCP server that turns LLMs into condition monitoring assistants for reliability engineers. Its core 
+> L36: The AI doesn't guess: it calls **48 specialized MCP endpoints** (44 tools + 4 prompts) running locally on your mach
+> L174: - **LLM-agnostic** — works with Claude, ChatGPT, Microsoft Copilot Studio, or any MCP-compatible client. Use Ollam
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `888c3916c08a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e8ae5b53bf5e` · [字段定义](../../DATASET.md)*

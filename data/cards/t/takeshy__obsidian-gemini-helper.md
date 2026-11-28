@@ -2,9 +2,9 @@
 
 ⭐ 117 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/takeshy/obsidian-gemini-helper) · 个人维护
 
-**Obsidian 的 Gemini AI 助手插件：对话、工作流与 RAG**
+**Obsidian 插件：接入 Gemini 的聊天、工作流自动化与知识库 RAG**
 
-面向 Obsidian 用户的免费开源插件，以 Google Gemini 为后端提供流式 AI 对话（支持文件附件、斜杠命令、@ 提及、语音输入与朗读）、可视化节点式工作流自动化（24 种节点类型、MCP 工具支持）、基于 Google File Search 的库内 RAG 语义检索（支持 Markdown/PDF/Office 文档）、OKF 知识包与 Agent 技能扩展。AI 可通过函数调用读写笔记库（编辑/删除需确认、带 diff 历史与加密），并可限制可访问文件夹。需自备 Gemini API key，免费 key 下 RAG 受限、无图像生成，桌面与移动端均可用。
+面向 Obsidian 用户的免费开源 AI 助手插件，基于 Google Gemini API key 运行，支持桌面端与移动端。功能包括流式 AI 聊天（文件附件、@ 引用笔记/PDF、斜杠命令模板）、24 种节点的可视化工作流构建器、跨 vault 语义检索（RAG）、OKF 知识源加载，以及通过 function calling 执行读写笔记、搜索、重命名等 vault 操作。提供聊天历史与工作流日志加密、AI 修改的 diff 追踪还原、API 用量与成本统计，并可与 MCP 工具、Dashboard Hub、Discussion Hub 插件集成。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 流式 AI 对话，支持附件（图片/PDF/音视频）、斜杠命令与语音对话
-- 可视化节点编辑器的工作流自动化（24 种节点类型，支持 MCP 工具）
-- 基于 Google File Search 的 RAG 库内检索，支持增量同步
-- AI 笔记操作带确认对话框、diff 编辑历史与聊天记录加密
+- AI 聊天支持流式输出、文件附件、@ 引用与斜杠命令模板
+- 可视化节点编辑器的工作流自动化（24 种节点类型）
+- vault 级 RAG 语义检索与 OKF 知识源按需加载
+- function calling 提供 14+ 种 vault 操作工具，支持权限分级与加密、diff 追踪
 
 ## 适用场景
 
-- 在 Obsidian 内与 Gemini 对话并让其读写笔记库
-- 用可视化工作流自动化多步骤笔记任务
-- 对整个笔记库做语义搜索（RAG）
+- 在 Obsidian 笔记库中直接与 Gemini 对话并让它代为整理笔记
+- 用可视化工作流自动化多步骤笔记处理任务
+- 对整个 vault 做语义检索找回笔记内容
+- 通过语音与 Gemini 实时对话并将转录保存进聊天记录
 
 ## 场景标签
 
-`RAG` `工作流自动化` `聊天机器人` · 领域:效率与自动化
+`AI 助手` `知识库管理` `RAG` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L5: **Free and open-source** AI assistant for Obsidian with **Chat**, **Workflow Automation**, and **RAG** powered by Go
+> L17: - **RAG** - Retrieval-Augmented Generation for intelligent search across your vault
 > L49: The AI Chat feature provides an interactive conversation interface with Google Gemini, integrated with your Obsidia
 
 ## 星数曲线
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `1f536d7e6980` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `c55a613870fe` · [字段定义](../../DATASET.md)*

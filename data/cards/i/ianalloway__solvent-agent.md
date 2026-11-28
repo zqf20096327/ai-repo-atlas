@@ -2,9 +2,9 @@
 
 ⭐ 115 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ianalloway/solvent-agent) · [官网](https://pypi.org/project/solvent-agent/) · 个人维护
 
-**离线优先的 Python AI 代理：自主运营研究接单业务并自负盈亏**
+**离线优先的 Python AI agent：模拟经营一个自带利润门控的小型研究业务**
 
-CLI/FastAPI 形式的 Python 代理，模拟一个微型研究生意闭环：报价前先核算成本并执行利润门槛（不达标则拒单或发出反报价）、经 Stripe 收款、由 NVIDIA Nemotron 完成研究交付、在支出策略沙箱（供应商白名单、单笔上限、24h 滚动预算）内向供应商付款并记账。无 API key 时全流程用确定性离线 stub 运行，设置 NVIDIA/Stripe key 后接入真实推理与测试模式支付。提供 pip/pipx 安装、批处理/交互/生产（webhooks+worker）三种模式与 HTML 财务仪表盘。
+SOLVENT 是一个 CLI 形式的 AI agent，模拟研究业务的完整商业闭环：对每个任务先按自身成本报价，低于利润下限即拒单并给出反向报价，通过 Stripe（测试模式/模拟）收款、在支出策略内支付供应商账单，并记录损益。默认无 API key 时以确定性 stub 离线运行；可选启用 NVIDIA Nemotron 真实推理、Stripe test-mode Payment Links、FastAPI webhook 与 Telegram 通道。内置 SQLite 账本、支出策略沙箱（供应商白名单、单笔上限、24h 滚动预算）与 HTML 仪表盘。所有金额为模拟数据，非真实收入。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ CLI/FastAPI 形式的 Python 代理，模拟一个微型研究生意闭环：报
 
 ## 能力要点
 
-- 利润门槛报价：先核算单位成本，低于下限的订单不进入 Stripe
-- 支出策略沙箱：供应商白名单、单笔与单供应商 24h 上限、最低现金储备
-- 零依赖离线演示：无 key 无网络即可跑通 5 个样本任务
-- 拒单自动生成反报价（缩范围或最低可行价）
+- 利润门控：margin 低于下限的任务在触碰 Stripe 前即拒单并给出反向报价
+- NemoClaw 风格支出策略沙箱：供应商白名单、单笔上限、滚动 24h 预算、最低现金储备
+- 离线优先：无 key 时以确定性 stub 跑通完整演示，30 秒完成 5 个任务
+- SQLite 账本与审计追踪：checkout session 与 PaymentIntent ID 全量记录
 
 ## 适用场景
 
-- 探索能自主收款、履约、付款并记账的 agent 业务闭环
-- 研究带支出护栏的 agent 财务安全机制
-- 在浏览器/本地离线体验无 key 的完整业务模拟
+- 演示一个带支出约束与利润门控的自主 agent 闭环
+- 作为 SpendAudit 基准的标签来源研究 LLM 审计行为
+- 本地复现 agent 收支流程并查看损益仪表盘
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L3: **A Python agent that runs a tiny research business: it quotes each job against its own costs, gets paid through Str
-> L142: |**Analyst / reasoning**|NVIDIA Nemotron (Llama-3.1-Nemotron-Ultra)|`solvent/nemotron.py`|
-> L153: - **Offline-first** — without API keys the demo runs on deterministic stubs. Add `NVIDIA_API_KEY` + `STRIPE_API_KE
+> L147: |**Analyst / reasoning**|NVIDIA Nemotron (Llama-3.1-Nemotron-Ultra)|`solvent/nemotron.py`|
+> L159: - **Offline-first** — without API keys the demo runs on deterministic stubs. Add `NVIDIA_API_KEY` + `STRIPE_API_KE
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `8df4e9a02c6a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e405232ca91e` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 149 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/DFKHelper/token-goat) · [官网](https://www.npmjs.com/package/token-goat) · 个人维护
 
-**面向 AI 编码代理的 token 与成本削减拦截工具**
+**为 AI 编程工具削减 token 成本与上下文占用的 CLI 优化层**
 
-以 hooks/MCP 方式介于 AI 编码代理与工具输出之间：拦截重复文件读取并给出提示或窄切片、压缩截图、剥离构建日志噪音、在 PDF/Office/CSV/Markdown 读取时只注入标题树或列预览、压缩前后注入会话清单以保留记忆、缓存与压缩技能体、并以不可信内容围栏防 prompt injection。支持 Claude Code、Codex CLI、Gemini CLI、Aider、Cursor 等 17 种客户端。npm 一条命令安装，需 Node.js，支持 Windows 10/11 与 Linux/WSL，macOS 标注未测试。
+以 hook 形式插入 AI 编程代理与工具之间的 CLI 层：拦截重复文件读取并改为单行提示或窄切片、压缩截图、将 pytest/npm 等命令输出裁剪到失败项、在 PDF/CSV/大文档被读取前只交付标题树或列预览、压缩前注入会话清单、拦截重复 skill 加载并提供缓存紧凑版，同时把抓取的页面与工具结果包进不可信内容围栏以防御 prompt injection。支持 Claude Code、Gemini CLI、Codex CLI 等多个代理，npm 全局安装，需 Node.js。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 255+ 过滤与拦截规则，重复读取/命令输出/技能加载拦截
-- 图像压缩（README 称截图可缩小 97.4%）与外科式符号级读取
-- compact 前注入结构化会话清单，缓存已加载技能（约 400 token 紧凑形式）
-- 对所有抓取页面与工具结果加不可信内容围栏防 prompt injection
+- 255+ 过滤与拦截规则，覆盖重复读取、截图压缩、命令输出裁剪
+- PDF/Office/CSV/Markdown 文件拦截，仅注入标题树、页数或列预览
+- 压缩前注入结构化会话清单，skill 缓存紧凑版（约 400 token）
+- 不可信内容围栏扫描以防御 prompt injection，可一行配置关闭
 
 ## 适用场景
 
-- 减少 Claude Code/Codex 等代理会话的 token 与费用
-- 长会话压缩后保留已编辑文件与关键符号的记忆
-- 防止代理反复读取同一文件浪费轮次
-- 在代理工作流中拦截不可信内容防 prompt injection
+- 长会话中反复读取同一批大文件导致成本累积时
+- 让 AI 代理读取 PDF/CSV 时只取结构摘要而非全文
+- 压缩 /compact 后恢复被遗忘的已编辑文件与已加载 skill
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+ · 领域:开发者工具/AI 编程辅助
 
 ## 证据(README 行号)
 
 > L20: Token-Goat sits silently between your AI and your tools. Re-read a file? It gets a one-line hint and a narrow-slice
 > L33: Works with **Claude Code**, **Gemini CLI**, **Qwen Code**, **Codex CLI**, **Aider**, **Cursor**, **Cline**, **Winds
-> L35: **Ask your AI to install it fully (give it this GitHub link), or install in one command:**
+> L38: npm install -g token-goat && token-goat install
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `c743d9a7dd6a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `06fd4d9ab1fa` · [字段定义](../../DATASET.md)*

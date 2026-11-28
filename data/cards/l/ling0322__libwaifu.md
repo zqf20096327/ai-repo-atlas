@@ -2,9 +2,9 @@
 
 ⭐ 113 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ling0322/libwaifu) · 个人维护
 
-**本地 GPU 文生图与语音库：SDXL/Qwen-Image 出图，IndexTTS/CosyVoice 语音**
+**本地 GPU 上的 AI 图像生成与语音推理库**
 
-Rust + C++ 实现的本地推理库与终端程序：文生图支持 SDXL、Anima、Krea 2、Qwen-Image 四种架构，语音支持 IndexTTS 2.5 与 Fun-CosyVoice3（含语音转换），通过 C API 供 macOS 应用调用。无需 API key，全部在本机运行；自动选设备（CUDA→Metal→Vulkan→CPU），低内存模式下权重按需换入换出，模型大于显存仍可出图。从源码用 CMake 构建，提供 Rust API 示例。
+Rust + C++ 编写的本地推理库：输入提示词生成图片（SDXL/Anima/Krea 2/Qwen-Image 四个架构、多种微调与 FP8 量化版本），并通过 C API 与 macOS 应用提供 IndexTTS/CosyVoice 语音合成、变声、Qwen3-ASR 语音识别及插画分层导出 PSD。支持 CUDA/Metal/Vulkan/CPU 多后端与低显存模式（超显卡容量的模型仍可运行）。终端交互选模型出图，模型经清单按名拉取到本地缓存；MIT 许可。
 
 ## 筛选速览
 
@@ -14,32 +14,33 @@ Rust + C++ 实现的本地推理库与终端程序：文生图支持 SDXL、Anim
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | `cpu-ok` | |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 四种文生图架构（SDXL/Anima/Krea 2/Qwen-Image）本地推理
-- IndexTTS 2.5 与 Fun-CosyVoice3 文本转语音及语音转换，经 C API 提供
-- CUDA/Metal/Vulkan/CPU 多后端，自动选择设备
-- 低内存模式：权重超出显存时按需换入换出，模型大于显卡仍可出图
+- 四个图像生成架构（SDXL/Anima/Krea 2/Qwen-Image），含 FP8 量化版本
+- 语音合成（IndexTTS 2.5/CosyVoice3）、变声、ASR（30 种语言）与 40ms 逐帧口型输出
+- CUDA/Metal/Vulkan/CPU 自动选择后端，低显存模式支持超容量模型
+- Rust API 与 C API 双接口，See-through 分层导出深度排序 PSD
 
 ## 适用场景
 
-- 在自有 GPU 上离线生成图片，不经过云服务
-- 用自己的录音克隆声音做文本转语音或语音转换
-- 作为 Rust 库或 C API 嵌入其他应用做本地图像/语音生成
+- 无 API key 在本地 GPU 上以提示词生成插画图像
+- 本地文本转语音并驱动虚拟形象口型
+- 为插画拆分头发/五官/服装等图层导出 PSD
+- 本地录音转写与变声处理
 
 ## 场景标签
 
-`图像生成` `语音合成` · 领域:内容生成
+`图像生成` `语音合成` `语音识别` `图像视频处理` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L5: libwaifu is an image generator that runs start to finish on your own machine. A prompt in, a
-> L6: picture out -- SDXL, Anima, Krea 2 or Qwen-Image, painted by the GPU you already have, as fast as the
-> L128: |OS|Platform|CUDA|Metal|Vulkan|avx2|avx512|asimdhp|asimdfhm|
+> L78: `-device cuda`, `-device vulkan` and `-device metal` keep as many of the model's weights on the
+> L169: |OS|Platform|CUDA|Metal|Vulkan|avx2|avx512|asimdhp|asimdfhm|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `c6bd7f4fb545` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `baafa52f28b2` · [字段定义](../../DATASET.md)*

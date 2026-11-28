@@ -2,9 +2,9 @@
 
 ⭐ 132 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/hemanth/piragi) · [官网](https://hemanth.github.io/piragi/) · 个人维护
 
-**面向开发者的本地优先 RAG Python 库：一行构建可问答知识库**
+**本地优先的 Python RAG 接口库：读取多源文档并生成带引用的回答**
 
-以 Ragi 类为核心的 RAG 库：传入本地目录、S3/GCS/Azure/HDFS/SFTP 远程路径或网站 URL（支持 /** 递归爬取）即自动完成摄取、切块、索引与问答。内置向量存储、embeddings、引用来源与后台自动更新，默认使用免费本地模型、零配置。支持可插拔向量后端（LanceDB/PostgreSQL/Pinecone/Supabase）、HyDE 与混合检索、知识图谱抽取、异步 API，也可仅作检索层使用（无 LLM）。通过 pip 安装，MIT 许可。
+Python 库形式的 RAG 接口，内置向量存储、嵌入与引用生成，默认本地运行。支持读取本地文件、S3/GCS/Azure/HDFS/SFTP 远程存储（glob 模式）与递归网页抓取；文档格式覆盖 PDF、Word、Excel、Markdown、代码、图片、音频。检索侧提供 HyDE、混合搜索、重排序、语义分块、知识图谱抽取，可插拔后端包括 LanceDB、PostgreSQL、Pinecone、Supabase。提供异步 API、独立检索模式、RED/USE 指标与分布式追踪，可通过 pip 安装并附带 playground。声明其基准成绩来自 AIR-Bench 与 BRIGHT。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 多格式摄入（PDF/Word/Excel/Markdown/代码/URL/图片/音频）与 S3/GCS/Azure/HDFS/SFTP 远程 glob 读取
-- 内置向量库、引用来源、后台自动更新，默认免费本地模型零配置
-- 可插拔向量后端与 HyDE/混合检索/交叉编码器重排
-- AsyncRagi 异步 API 与独立 LLMClient 统一客户端
+- 内置向量存储、嵌入、引用与后台自动更新，默认本地免费运行
+- 多源读取：本地目录、S3/GCS/Azure/HDFS/SFTP glob 模式、递归网页抓取
+- 可插拔向量存储后端（LanceDB/PostgreSQL/Pinecone/Supabase）与 HyDE/混合搜索/重排序
+- 内置 RED/USE 指标、W3C 追踪、结构化 JSON 日志，零配置
 
 ## 适用场景
 
-- 给本地文档目录或云端存储快速搭建带引用的知识库问答
-- 作为无 LLM 的检索层嵌入自己的应用
-- 爬取文档站点建立自动更新的问答知识库
+- 对本地或云端文档库做检索增强问答并附带来源引用
+- 把 S3 等对象存储中的文档接入知识库并后台自动刷新
+- 在异步 Web 框架中以非阻塞方式集成 RAG 能力
+- 仅用 retrieve() 做纯检索层而不接 LLM
 
 ## 场景标签
 
-`RAG` `语义搜索` · 领域:知识与检索
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L12: Built-in vector store, embeddings, citations, and auto-updates. Free & local by default.
-> L141: Use piragi as a retrieval layer without LLM:
+> L6: from piragi import Ragi
+> L8: kb = Ragi(["./docs", "s3://bucket/data/**/*.pdf", "https://api.example.com/docs"])
+> L9: answer = kb.ask("How do I deploy this?")
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bef6fe19f730` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `0fcbdf7e914b` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 136 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/stephenleo/OpenMicro) · 个人维护
 
-**用游戏手柄驱动 Claude Code / Codex CLI 的 macOS 控制器工具**
+**把游戏手柄连接到 Claude Code 和 Codex CLI 的控制工具**
 
-OpenMicro 将 DualSense、GameSir 等游戏手柄接入 Claude Code 与 Codex CLI（含 Codex 桌面 App）：按键/摇杆手势映射为提交、中断、新建会话、推杆说话、思考深度调节与 review/debug/refactor 等工作流提示；支持六个可重映射控制层、多会话切换、DualSense 灯条状态反馈，并一等集成 herdr（空间与 agent 切换）。通过 hooks 读取 agent 状态。macOS 优先，其他平台未测试；npm 全局安装。提供 harness 与控制器输入的嵌入 API。
+OpenMicro 通过 npm 全局安装，将游戏手柄按键映射为编码代理 CLI 的操作：提交/中断/新建会话、方向键导航 TUI、摇杆触发 review/debug/refactor/测试等工作流提示、右摇杆调节思考深度、按键通话语音输入。支持 DualSense 光条状态显示、六层可重映射按键、多会话焦点切换，并作为 herdr 的一等环境集成。目前 macOS 优先，其他平台未测试；语音与思考深度功能因 harness 而异。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@ OpenMicro 将 DualSense、GameSir 等游戏手柄接入 Claude Code 与 Codex CL
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 手柄按键/摇杆手势驱动 Claude Code 与 Codex CLI 的完整交互
-- 六个可重映射控制层与 stick 触发的工作流提示（review/debug/refactor/测试）
-- DualSense 灯条跟随会话状态（执行/等待/停止/错误）
-- herdr 一等集成：空间切换、agent 轮换与状态上报
+- 手柄按键映射为代理操作：提交、中断、新建会话、TUI 导航
+- 摇杆手势触发工作流提示与思考深度调节（六层可重映射）
+- DualSense 光条实时显示会话执行/等待/完成/错误状态
+- 提供 openmicro/harness 与 openmicro/controller 公开 API 供扩展
 
 ## 适用场景
 
-- 用一只手柄在多个终端会话间切换并响应 agent
-- 摇杆一键触发 review/debug/refactor 等编码工作流
-- 在 herdr 工作区中用手柄切换空间与 agent
+- 不用切终端标签页，用手柄直接操控多个编码代理会话
+- 摇杆一拨即启动 review PR、debug、重构、写测试工作流
+- 在 herdr 工作区中用手柄在多个代理间切换焦点
 
 ## 场景标签
 
- · 领域:开发者工具/agent 交互
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L1: OpenMicro connects game controllers to Claude Code and Codex CLI
 > L9: You need macOS, Node.js 22 or newer, Claude Code or Codex CLI, and a connected controller. OpenMicro is macOS-first;
-> L77: |Capability|Claude Code|Codex CLI|
+> L120: Layers, workflows, navigation, and session switching are handled by OpenMicro itself. Harness-specific gaps are le
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d9a0dd7da014` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8fa4ce54a2f1` · [字段定义](../../DATASET.md)*

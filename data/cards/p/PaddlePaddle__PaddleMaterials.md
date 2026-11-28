@@ -1,10 +1,10 @@
 # PaddlePaddle/PaddleMaterials
 
-⭐ 131 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PaddlePaddle/PaddleMaterials) · [官网](https://paddlepaddle.github.io/PaddleMaterials/) · 组织维护 · 中文 README
+⭐ 131 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PaddlePaddle/PaddleMaterials) · [官网](https://paddlepaddle.github.io/PaddleMaterials/) · 组织维护
 
-**材料科学 AI 工具包：性质预测/结构生成/势函数/光谱解析**
+**材料科学研究者的端到端深度学习工具包**
 
-基于 PaddlePaddle 深度学习框架的端到端 AI4Materials 工具包，面向材料科学研究者，用于开发和部署材料科学基础模型。覆盖六大任务：性质预测、晶体结构生成（扩散模型）、机器学习原子间势（DFT 代理模型）、电子结构预测、NMR 光谱结构解析与显微/光谱信号增强。提供 50+ 预训练模型与多套数据集，支持分布式训练、混合精度与断点恢复，需 Python 3.10+，经 PyPI（ppmat）分发，Apache 2.0 许可。
+基于 PaddlePaddle 框架构建的 AI4Materials 工具包，定位为材料科学基础模型开发与部署平台。覆盖六类任务：性能预测（形成能、带隙、弹性模量）、晶体结构生成、机器学习原子间势、电子结构预测、NMR 谱图解析结构、显微与谱图信号增强。内置 50+ 预训练模型（MEGNet、MatterGen、CHGNet、DiffNMR 等）与多套数据集，支持分布式训练、混合精度与断点恢复；安装文档按硬件环境区分。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 50+ 预训练模型覆盖 PP/SG/MLIP/ES/SE/SPEN 六类任务
-- 每类任务提供命令行推理与训练入口（预训练权重直接加载）
-- 多硬件支持：NVIDIA GPU、MetaX GPU、Intel CPU
-- 收录 MEGNet、MatterGen、DiffCSP、CHGNet、MatterSim 等模型实现
+- 六类任务统一框架：PP/SG/MLIP/ES/SE/SPEN
+- 50+ 预训练模型可直接推理，附各任务示例命令
+- 支持 NVIDIA GPU、MetaX GPU 与 Intel CPU
+- 支持无晶体与有机分子（含小分子与部分聚合物）数据集与模型
 
 ## 适用场景
 
-- 用预训练模型从晶体结构预测形成能、带隙等性质
-- 用扩散模型生成新晶体结构做逆向设计
-- 用 ML 势替代 DFT 跑分子动力学模拟
-- 从 NMR 谱重建分子结构或增强 STEM 图像
+- 从晶体结构预测形成能、带隙等材料性质
+- 用扩散模型生成新颖晶体结构做逆向设计
+- 训练机器学习势跑分子动力学模拟替代 DFT
+- 从 NMR 谱图重构分子结构或增强 STEM 图像
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+`模型训练` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L27: **PaddleMaterials** is an end-to-end AI4Materials toolkit built on the **PaddlePaddle** deep learning framework. De
-> L31: |Task|Description|Typical Applications|
 > L33: |**Property Prediction (PP)**|Predict material properties from structure|Forward design or predict formation energy
+> L86: Predict material formation energy using a pretrained MEGNet model:
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `128b08296a62` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `b26c8c3f4b55` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 128 · Shell · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/JosephHampton/awesome-gemini-cli-subagents) · [官网](https://josephhampton.github.io/awesome-gemini-cli-subagents/) · 个人维护
 
-**面向 Gemini CLI/Antigravity 的 81 个子代理提示词策展库**
+**为 Gemini CLI / Antigravity CLI 提供的 81 个子代理清单库**
 
-策展式子代理集合：为 Gemini CLI 与 Antigravity CLI 提供 81 个以 Markdown+YAML frontmatter 编写的专家子代理，覆盖核心开发、17 种语言专家、DevOps、测试、安全、数据/AI 与产品编排等类别。每个子代理拥有独立系统提示词、工具白名单与上下文窗口，主代理按描述路由委派。提供 curl 一行安装脚本、git clone 与 Antigravity 插件安装三种方式，格式转换由 CI 自动校验；限制是 Gemini 格式的代理文件需经转换才能用于 Antigravity。
+策展的开源子代理库：每个子代理是单个 Markdown 文件，含系统提示词、工具范围与守则，覆盖代码审查、安全审计、测试、DevOps、数据/AI 与 17 种语言框架专家等类别。每个文件同时提供 Gemini CLI 与 Antigravity CLI 两种格式，改动经 CI 自动校验；通过 curl 一行脚本或 git clone 安装到用户级/项目级目录，由主代理委派或以 @名称直接调用。许可证为 CC0-1.0。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 81 个子代理以双格式（Gemini/Antigravity）提供并在 CI 中自动校验
-- 每个代理为单 Markdown 文件，含系统提示词、工具白名单与上下文隔离
-- 提供 tech-lead-orchestrator 等组合工作流 Recipes
-- curl 一行安装脚本、git clone 与 agy 插件三种安装途径
+- 81 个子代理按核心开发、语言、DevOps、安全、数据/AI 等 8 类组织
+- 每个子代理同时提供 Gemini CLI 与 Antigravity CLI 两种格式并经 CI 校验
+- 工具范围隔离：审查类代理无文件写入工具，仅报告问题
+- curl 一行安装脚本与 agy plugin 安装方式
 
 ## 适用场景
 
-- 为 Gemini CLI/Antigravity CLI 按需安装代码评审、安全审计等专家子代理
-- 通过编排代理将大任务拆解并委派给多个专家子代理
-- 参考子代理格式（frontmatter 字段、工具白名单）编写自定义代理
+- 给 Gemini CLI 项目按需装一组代码审查/安全审计子代理
+- 从 Gemini CLI 迁移到 Antigravity 时转换代理配置格式
+- 按 Recipes 组合多个子代理完成安全预检或重构流程
 
 ## 场景标签
 
-`精选清单` `提示工程` · 领域:Agent 开发
+`精选清单` `编码 Agent` `代码审查` `网络安全` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L18: Gemini CLI and Antigravity CLI both support **subagents**: specialist assistants the main agent hands work to. Each
-> L20: This repo is a curated library of them. Every agent is a single Markdown file with a real, opinionated system promp
+> L19: Gemini CLI and Antigravity CLI both support **subagents**: specialist AI coding assistants the main agent delegates
+> L21: This repo is a curated, open-source library of production-ready subagents. Every agent is a single Markdown file wi
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `234910eaaa1b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `18b818110bf3` · [字段定义](../../DATASET.md)*

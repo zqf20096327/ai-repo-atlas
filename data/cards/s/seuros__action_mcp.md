@@ -2,9 +2,9 @@
 
 ⭐ 125 · Ruby · MIT · 推送 2026-11-23 · [GitHub](https://github.com/seuros/action_mcp) · 个人维护
 
-**为 Rails 应用提供 MCP 服务器能力的 Ruby gem**
+**给 Rails 应用提供 MCP 服务器能力的 Ruby gem**
 
-面向 Rails 开发者的 Ruby gem，将 Ruby on Rails 应用接入 Model Context Protocol（MCP），主要作为服务器端：提供 Prompt、Tool、ResourceTemplate 三个基类抽象，处理 MCP 2025-11-25 协议的 JSON-RPC 2.0 传输、能力协商、会话管理、Tasks 异步执行、敏感操作的用户同意（consent）流程与结构化输出。内置 Streamable HTTP 端点，明确不支持 STDIO 传输，面向生产网络部署。客户端功能仅支持连接远程 MCP 服务器。要求 Ruby 3.4.8+/Rails 8.1.1+ 及 PostgreSQL、MySQL 或 SQLite3 数据库。
+ActionMCP 是一个 Ruby gem，以 Rails Engine 形式为 Rails 应用提供 Model Context Protocol 服务端能力，面向生产环境的网络部署，明确不支持 STDIO 传输。它提供 Prompt、Tool、ResourceTemplate 等基类，处理 JSON-RPC 2.0 传输、能力协商、会话管理、敏感操作的用户同意流程、异步任务与进度上报等协议细节。要求 Ruby 3.4.8+/Rails 8.1.1+，数据库支持 PostgreSQL、MySQL 或 SQLite3。客户端功能仅用于连接远程 MCP 服务器，不支持本地进程。
 
 ## 筛选速览
 
@@ -20,21 +20,20 @@
 
 ## 能力要点
 
-- 实现 MCP 2025-11-25 协议：JSON-RPC 2.0、能力协商、有状态会话、错误码处理
-- Prompt / Tool / ResourceTemplate 三类基类抽象，含参数校验与多种内容类型返回
-- 敏感工具的 consent 管理流程（JSON-RPC -32002，会话级授权可撤销）
-- MCP Tasks 异步执行：进度上报、tasks/get / tasks/result / tasks/cancel 轮询
+- 实现 MCP 2025-11-25 协议：JSON-RPC 2.0 传输、能力协商、有状态会话管理
+- 通过继承 Prompt/Tool/ResourceTemplate 基类暴露应用能力给 LLM
+- 敏感工具的会话级用户同意管理（错误码 -32002）
+- MCP Tasks 异步执行，支持进度上报、轮询与取消
 
 ## 适用场景
 
-- 把 Rails 应用的功能以 MCP 工具/资源形式暴露给 LLM 客户端
-- 为 AI 助手提供带用户授权确认的敏感操作接口
-- 在 Rails 应用中托管生产级、网络化的 MCP 服务器端点
-- 从 Rails 客户端连接远程 MCP 服务器
+- 让 Rails 应用的功能通过 MCP 协议暴露给 AI 助手调用
+- 为需要用户同意的敏感工具调用实现授权流程
+- 需要异步执行并汇报进度的长时间工具任务
 
 ## 场景标签
 
- · 领域:LLM 基础设施/MCP 协议框架
+ · 领域:LLM 基础设施/MCP 协议
 
 ## 证据(README 行号)
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `128a547b1f03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `b31160c5a272` · [字段定义](../../DATASET.md)*

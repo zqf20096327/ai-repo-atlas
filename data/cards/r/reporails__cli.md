@@ -2,9 +2,9 @@
 
 ⭐ 131 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/reporails/cli) · [官网](https://reporails.com/) · 组织维护
 
-**给开发者的 AI 编码代理指令质量诊断 CLI**
+**为 AI 编码代理的指令文件做诊断与修复的 CLI 工具**
 
-面向使用 Claude、Codex、Copilot、Cursor、Antigravity 等编码代理的开发者的命令行诊断工具：以 120+ 规则、六套规则包（核心 + 每代理）校验整个代理指令系统，输出单一 Quality 分数与发现清单；提供 CI Action 集成（PR 门禁、可设最低分与 strict 退出），并在安装时向 Claude Code 与 Codex 注入 reporails 插件。本地模型约 275 MB，首跑下载。免费与匿名账户共享完整诊断，Pro 付费订阅解锁修复写入（heal）、提升配额与逐行重复定位。许可为 BUSL 1.1，各版本发布三年后转为 Apache 2.0。
+针对 Claude、Codex、Copilot、Cursor、Antigravity 等编码代理，用 120+ 条规则（核心包+各代理专属包）检查 agentic 指令系统，输出 Quality 分数与问题清单。提供 xray 本地页面展示 Claude Code 会话上下文窗口的占用来源；可安装为各代理插件，Pro 账户支持自动改写指令文件；提供 GitHub Action 在 PR 中做回归检查，分析模型（约 275 MB）可缓存于 Actions cache。许可为 BUSL 1.1，每版发布三年后转 Apache 2.0。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 120+ 规则、六套规则包（核心 + 每代理）校验代理指令系统
-- npx/uvx 免安装运行，也可永久安装并注入 Claude Code/Codex 插件
-- GitHub Action 在 PR 上拦截指令质量回归，可设 min-score 与 strict
-- CI 中通过 Actions 缓存约 275 MB 分析模型
+- 120+ 规则、六类规则包检查 AI 指令文件质量
+- xray 从 ~/.claude/projects 转录生成上下文占用视图
+- GitHub Action 集成，支持 strict/min-score 阈值退出
+- Claude Code 与 Codex 可自动安装插件，Pro 支持自动修复
 
 ## 适用场景
 
-- 在 PR 流水线中像测试/lint 一样拦截指令质量回归
-- 对团队的 AGENTS.md/CLAUDE.md 等指令文件做评分与体检
-- 统一管理多个编码代理（Claude/Codex/Copilot/Cursor）的指令规范
+- 在 CI 中像 lint 一样拦截指令质量回退
+- 排查 Claude Code 会话上下文窗口被什么占满
+- 检查并修写跨文件重复、含糊或过大的 agent 指令
 
 ## 场景标签
 
- · 领域:开发者工具/AI 代理配置质量
+ · 领域:开发者工具/AI 编码辅助
 
 ## 证据(README 行号)
 
 > L3: > **AI Instruction Diagnostics for coding agents. Validates the entire agentic instruction system against 120+ rules
-> L32: Puts `ails` on your PATH, installs the reporails plugin into Claude Code and Codex when they are on your machine, a
-> L47: Run on every PR so instruction-quality regressions (vague or buried instructions, oversized files, weak reinforceme
+> L46: Puts `ails` on your PATH, installs the reporails plugin into Claude Code and Codex when they are on your machine, a
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `eb09948d60a9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `3c7dc31cecfb` · [字段定义](../../DATASET.md)*

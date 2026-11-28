@@ -1,10 +1,10 @@
 # gojargo/jargo
 
-⭐ 116 · Go · BSD-2-Clause · 推送 2026-11-27 · [GitHub](https://github.com/gojargo/jargo) · [官网](https://gojargo.dev/) · 组织维护
+⭐ 116 · Go · BSD-2-Clause · 推送 2026-11-27 · [GitHub](https://github.com/gojargo/jargo) · [官网](https://gojargo.dev/) · 个人维护
 
-**Go 语言的 WebRTC 实时语音 Agent 框架**
+**给 Go 开发者的实时语音 agent 框架：STT→LLM→TTS 流水线**
 
-用 Go 编写的实时语音对话 Agent 框架，是 Pipecat 的 Go 移植。提供 WebRTC/WebSockets/LiveKit 传输、STT→LLM→TTS 流式管线、语音到语音单模型通道、轮次切换与打断（Silero VAD + Smart Turn，本地 ONNX 并内嵌于二进制）、Twilio 电话接入等。每类服务可插拔替换，STT/LLM/TTS 各支持十余家提供商。默认构建无 cgo，运行时按需加载 ONNX Runtime 与 RNNoise 共享库，Docker 基础镜像内置这些库。
+jargo 是 Go 语言的实时语音 agent 框架，Pipecat 的 Go 移植版。提供 WebRTC（Pion）、WebSocket、LiveKit、电话媒体流等传输层，串起流式 STT→LLM→TTS 或单模型 speech-to-speech 流水线，内嵌 Silero VAD 与 Smart Turn v3（本地 ONNX）实现轮次切换与插话打断。50+ 服务商通过小接口接入可互换；默认构建 cgo-free，输出单个静态二进制；README 附与 Pipecat 的框架开销对比基准。语音机器人运行需运行时加载 ONNX Runtime（打断功能）。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- STT→LLM→TTS 流式语音管线，支持轮次切换与打断
-- Silero VAD + Smart Turn v3 以本地 ONNX 运行并内嵌于二进制
-- STT/LLM/TTS 各类提供商可插拔替换（LLM 支持 20 家）
-- 默认构建无 cgo，编译为单一静态二进制；支持 WebRTC/WebSockets/LiveKit/Twilio 电话
+- STT→LLM→TTS 流式流水线与 speech-to-speech 单模型 agent
+- Silero VAD + Smart Turn v3 本地 ONNX 实现轮次切换与插话打断，模型内嵌于二进制
+- 50+ 服务商接入，STT/LLM/TTS 可独立替换
+- 默认 cgo-free 构建，纯 Go 音频处理（Opus 编解码）
 
 ## 适用场景
 
-- 构建实时语音 Agent 服务端，处理多并发会话
-- 替换 Python 语音管线，部署为单二进制服务
-- 接入 Twilio 做电话外呼/呼入语音机器人
+- 用 Go 构建浏览器 WebRTC 实时语音机器人
+- 接入 Twilio/Telnyx 等电话媒体流做语音外呼/呼入 agent
+- 从 Python/Pipecat 迁移语音 agent 到单二进制部署
+- 按项目需要更换 STT/LLM/TTS 服务商组合
 
 ## 场景标签
 
-`Agent 框架` `语音 Agent` · 领域:Agent 开发
+`语音 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L13: **jargo** is a framework for real-time voice agents in Go: audio in over WebRTC,
-> L39: - **Streaming voice pipeline**: STT → LLM → TTS, with prompt caching.
+> L73: - **Streaming voice pipeline**: STT → LLM → TTS, with prompt caching and function calling.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `6670a559627c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c1598e08c871` · [字段定义](../../DATASET.md)*

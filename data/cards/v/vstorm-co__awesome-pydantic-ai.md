@@ -2,9 +2,9 @@
 
 ⭐ 111 · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/vstorm-co/awesome-pydantic-ai) · [官网](https://vstorm-co.github.io/awesome-pydantic-ai/) · 组织维护
 
-**Pydantic AI 生态资源策展清单：框架、库、教程与案例**
+**Pydantic AI 框架的资源策展清单：查找配套库与教程**
 
-围绕 Python agent 框架 Pydantic AI 的 awesome 清单，收录官方资源、第三方框架与库（如 pai-agent-sdk、pydantic-deep、pydantic-ai-shields、pydantic-collab 等）、项目模板、示例教程、可观测性工具（Logfire、OrcaReplay）、文章与案例研究。条目按类别组织，每条附一句功能描述。面向使用 Pydantic AI 构建生产级生成式 AI 应用的开发者，用于发现扩展库与学习资源。内容采用 CC BY 4.0 许可。
+围绕 Pydantic AI（Python agent 框架）整理的 awesome 清单，按官方资源、框架与库、模板、示例教程、可观测性、文章与案例研究分类收录条目。覆盖 agent 编排、guardrails、记忆、沙箱、工具授权、LLM-judge、观测追踪等方向的第三方库，以及交互式笔记本、课程与博客。以链接列表形式维护，采用 CC BY 4.0 许可。
 
 ## 筛选速览
 
@@ -20,24 +20,24 @@
 
 ## 能力要点
 
-- 收录 20+ 个 Pydantic AI 扩展框架与库（编排、护栏、记忆、沙箱、审计等）
-- 包含官方文档/仓库与 Logfire 可观测性工具条目
-- 提供示例教程与文章条目（含 Ollama 本地模型示例、RealPython 教程）
+- 收录 20+ 个基于 Pydantic AI 的框架与库条目
+- 分类覆盖编排、guardrails、记忆、沙箱、观测等方向
+- 包含教程、课程与交互式笔记本资源
 
 ## 适用场景
 
-- 为 Pydantic AI 项目寻找多智能体编排、护栏或沙箱等扩展库
-- 学习 Pydantic AI 的类型安全 agent 开发模式
-- 了解 Pydantic AI 生态中的模板与可观测性方案
+- 为 Pydantic AI 项目查找多智能体编排或记忆管理库
+- 学习 Pydantic AI 的类型安全 agent 开发教程
+- 为 Pydantic AI agent 选择可观测性平台
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: > An opinionated list of awesome Pydantic AI frameworks, libraries, software and resources.
-> L5: Pydantic AI is a Python agent framework designed to make it easier to build production-grade applications with Gener
+> L7: ## Contents
 
 ## 星数曲线
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `d29bf06f3d2b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `b2ab92c677d4` · [字段定义](../../DATASET.md)*

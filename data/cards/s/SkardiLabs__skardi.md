@@ -2,9 +2,9 @@
 
 ⭐ 112 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/SkardiLabs/skardi) · [官网](https://skardi.ai) · 组织维护
 
-**面向 AI agent 的自进化上下文框架：记录查询意图并固化为工具**
+**给 AI agent 提供自改进数据上下文的 Rust 框架**
 
-Rust 编写的上下文服务框架：通过一个 DataFusion 进程将 Postgres、Parquet/S3、MongoDB、Lance 等数据源统一为联邦 SQL 查询入口；agent 每次查询通过 ai_context 声明 purpose/session，写入 SQLite（或 Postgres）审计账本；反复出现的查询被提升为参数化 pipeline（YAML），同一 pipeline 以 shell、REST 与 MCP（本地 stdio 与远程 HTTP）多种绑定暴露，供 Claude Code、Cursor 等 agent 宿主调用。附带 auto-context/retrieval/graph-source/graph-rag 四个技能，支持本地混合检索与多种 embedding 后端（含 gguf/llama.cpp）。提供安装脚本、预编译 CLI、Docker 镜像与源码构建；自声明 Beta，API 可能变动；账本含原始 SQL 字面量，交给托管 LLM 分析需自行权衡。
+Skardi 是一个面向 agent 的自改进上下文框架：agent 通过统一 SQL 查询已注册的数据源并在请求中声明用途，框架将每次查询连同意图写入审计账本；反复出现的查询可被提升为命名 pipeline，反复出现的意图可成为定时 routine。提升产物为可读、可回滚的 YAML。服务器为单 Rust 进程（内嵌 DataFusion），账本为 SQLite 或 Postgres；工具以 shell、REST 与 MCP 两种传输绑定暴露，并可安装到 Claude Code、Codex、Cursor 等 Agent Skills 宿主。README 标注处于 Beta，API 可能变动。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Rust 编写的上下文服务框架：通过一个 DataFusion 进程将 Postgres
 
 ## 能力要点
 
-- 联邦 SQL：一条语句跨所有注册数据源查询
-- ai_context 意图账本：记录每次查询的 purpose/session/task
-- 递归查询提升为 pipeline，同一绑定暴露为 shell/REST/MCP
-- 四个 Agent Skills（auto-context/retrieval/graph-source/graph-rag），混合检索（向量+FTS+RRF）
+- 查询带 ai_context 意图声明，写入可审计账本（SQLite/Postgres）
+- 反复查询自动提升为 pipeline，支持 shell/REST/MCP 多绑定
+- 四个 Agent Skills：auto-context、retrieval、graph-source、graph-rag
+- 内置 access_mode 门控 DML、拒绝 DDL、日志不含字面值
 
 ## 适用场景
 
-- 让 agent 用统一 SQL 入口查询我分散在多个库和对象存储里的数据
-- 从查询账本发现反复出现的意图并固化为可复用工具
-- 把文件夹或已有数据存储变为带治理的检索上下文供 agent 使用
+- 让 agent 用联邦 SQL 跨 Postgres/S3 Parquet/SaaS API 查询数据
+- 把 agent 反复手写的查询沉淀为可复用 pipeline
+- 为 agent 提供文档库或图数据的检索上下文（RAG）
+- 通过 MCP 把数据工具接入 Claude Code、Cursor 等宿主
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Rust 编写的上下文服务框架：通过一个 DataFusion 进程将 Postgres
 
 ## 证据(README 行号)
 
-> L30: guessed wrong. Skardi inverts that. The agent gets one general way in, and the
+> L3: **Skardi is an open-source self-improving context framework.**
 > L80: **4 — The agent has a new tool.** One definition, every binding — shell, REST,
-> L136: **One line** installs the CLI, then offers to set up the Claude Code, Codex
+> L163: searchable context served over HTTP by `skardi-server`: hybrid search (vector +
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `0415588edc67` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `7fba94861e30` · [字段定义](../../DATASET.md)*

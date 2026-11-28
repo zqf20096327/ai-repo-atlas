@@ -2,9 +2,9 @@
 
 ⭐ 113 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/CCharlie-xiu/aoci-wuch) · [官网](https://skill.wuch-ai.net/) · 个人维护 · 中文 README
 
-**面向 AI 编程代理的任务优先技能库**
+**面向 AI 编码 agent 的任务优先技能库**
 
-以任务为索引组织的 agent 技能库：按『用户任务→读目录→匹配→仅加载命中指南』的方式供 AI 编程助手按需读取，避免一次性灌入全部内容。技能分 Stable 与 Experimental 两级，覆盖 GitHub 授权、移动端应用、Excel 后端、视频抽帧、UI 风格设计、SSO 等类别；公共技能托管于 GitHub，另有通过订阅鉴权获取的 PRO 技能。安装方式是将仓库作为可复用 Agent Skill 引入（如 Cursor），并提供本地校验与更新脚本。许可证为保留所有权利，仅限个人查看与使用，不接受外部贡献。
+为 AI 编码助手设计的可复用技能库：收录工作流、推理方法、MCP 配置、UI 设计、移动端、Excel、视频处理等能力，通过目录索引机制让助手按任务匹配条目、只加载命中的指南而非全量注入上下文。技能分 Stable 与 Experimental 两级标注成熟度；公开技能托管在 GitHub，PRO 技能需经站点订阅认证后使用。安装方式为将仓库作为 Agent Skill 装入 Cursor 等支持 SKILL.md 的助手，附本地校验与更新脚本。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 任务→目录→单技能的按需加载索引机制
-- Stable / Experimental 双索引区分成熟度
-- 免费公共技能 + 订阅制 PRO 技能（站点鉴权）
-- 提供 validate.py 校验与 update_skills.py 更新脚本
+- 任务→目录→命中单个技能的按需加载机制
+- Stable/Experimental 双索引标注技能成熟度
+- GitHub 公开技能 + 站点订阅 PRO 技能的分发模式
+- 提供 validate.py 校验与 update_skills.py 增量更新脚本
 
 ## 适用场景
 
-- 为 Cursor 等 AI 编程助手安装可复用技能库
-- 让助手按任务匹配并只加载所需工作流指南
-- 订阅获取 PRO 技能（移动端模板、TestFlight 发布等）
+- 为 Cursor 等 agent 安装可复用的编码技能集
+- 让 AI 助手按任务自动匹配并加载对应工作流指南
+- 查阅 MCP 数据库接入、UI 风格生成等能力的操作指南
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L9: **A task-first skill library for AI coding agents.**
-> L41: User task → Read catalog → Select a match → Load its guide → Do the work
+> L11: Reusable workflows, reasoning methods, MCP setup, UI design, mobile, Excel, and video—indexed so the assistant find
+> L44: The assistant should **not** load every capability body up front. Use capabilities/index.md (and the experimental i
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `d36f186e78bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8195cc41f8d0` · [字段定义](../../DATASET.md)*

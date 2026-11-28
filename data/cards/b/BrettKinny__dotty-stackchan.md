@@ -1,10 +1,10 @@
 # BrettKinny/dotty-stackchan
 
-⭐ 135 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/BrettKinny/dotty-stackchan) · [官网](https://www.youtube.com/@dotty-stackchan) · 个人维护 · 中文 README
+⭐ 135 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/BrettKinny/dotty-stackchan) · [官网](https://www.youtube.com/@dotty-stackchan) · 个人维护
 
-**M5Stack StackChan 桌面机器人的全自托管语音助手栈**
+**自托管语音助手栈：让 M5Stack StackChan 桌面机器人本地运行对话**
 
-面向 M5Stack StackChan 桌面机器人的自托管语音助手：开源固件跑在 ESP32-S3 设备上，服务器侧由 xiaozhi-esp32-server（语音 I/O）、pi agent 容器（大脑）、行为服务和管理面板四个 Docker 容器组成。ASR 默认 FunASR SenseVoiceSmall（GPU 主机自动切换 WhisperLocal），TTS 可选 Piper 离线或 EdgeTTS 云端；LLM 后端可插拔，推荐 llama-swap，可换 Ollama 或 OpenAI 兼容云端 API。默认开启儿童模式（人设引导 + 屏蔽词过滤，作者声明可绕过、不替代监护）。作者明确声明这是 hobby 级进行中项目，不稳定且回归频繁。
+面向 M5Stack StackChan 桌面机器人的自托管语音栈：开源固件运行在机器人上，xiaozhi-esp32-server 处理语音 I/O（ASR/TTS），本地 pi 编码 agent 作为大脑，LLM 可插拔，支持 llama-swap、Ollama 或任意 OpenAI 兼容 API。默认运行 Kid Mode，通过系统提示规则与屏蔽词过滤输出适龄回复，作者声明该过滤可被绕过。服务端四个组件以 Docker 容器运行于单台主机，附 Web 仪表盘。项目当前因作者硬件电源问题暂停开发，作者声明仅在自有机器人上端到端验证过。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- ASR/TTS/会话状态全部本地运行，可路由到云端 LLM
-- 默认 Kid Mode：人设 + 逐轮提示引导与屏蔽词过滤
-- 硬件绑定隐私 LED（麦克风绿/摄像头红，RAII 保证）
-- 六状态互斥机与 12 像素 LED 环状态显示
+- ASR/TTS/会话状态全部在自有硬件上运行，云端 LLM 调用可通过配置切换为本地模型
+- 默认 Kid Mode：系统提示规则加屏蔽词过滤替换不匹配的语音回复
+- 六个状态（idle/talk/story_time/security/sleep/dance）由固件 StateManager 管理，12 像素 LED 环显示
+- 语音流式回复：模型输出逐句进入 TTS，回复未生成完毕即开始说话
 
 ## 适用场景
 
-- 给家里孩子搭建一个不把音频传出局域网的桌面语音机器人
-- 在自有硬件上拥有可逐层理解、可替换各组件的语音助手
-- 基于 StackChan 硬件做黑客式扩展（换 LLM/TTS/ASR/agent 框架）
+- 为孩子搭建一个不依赖云服务的桌面语音机器人
+- 本地化托管家庭麦克风/摄像头语音助手以控制数据流向
+- 作为自托管 StackChan 助手项目的起始模板
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L13: Dotty is a fully self-hosted voice stack for the M5Stack StackChan desktop robot. Open-source firmware on the robot
-> L32: - **Local ASR** — FunASR SenseVoiceSmall by default, no cloud transcription. WhisperLocal auto-selects on GPU hosts
+> L16: Dotty is a fully self-hosted voice stack for the M5Stack StackChan desktop robot. Open-source firmware runs on the 
+> L18: Out of the box, Dotty runs in **Kid Mode**. The persona and the Kid Mode rules in pi's system prompt steer replies 
+> L14: > **Status:** a hobby project with one maintainer, built with heavy AI assistance (AI_TRANSPARENCY.md). It runs end
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `ea80e673384b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f5760cfce3bc` · [字段定义](../../DATASET.md)*

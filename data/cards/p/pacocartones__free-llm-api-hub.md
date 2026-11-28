@@ -1,10 +1,10 @@
 # pacocartones/free-llm-api-hub
 
-⭐ 133 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/pacocartones/free-llm-api-hub) · [官网](https://freellmapihub.com/) · 组织维护
+⭐ 133 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/pacocartones/free-llm-api-hub) · [官网](https://freellmapihub.com/) · 个人维护
 
-**持续验证的免费 LLM API 数据集：供开发者选型免费模型 API**
+**面向开发者的免费档 LLM API 持续核验数据集**
 
-社区维护的免费 LLM 及相邻模型 API（图像、语音、嵌入、rerank、OCR）开放数据集：每条条目标注验证日期并链接到提供商官方文档，未确认项标记 ⚠️；数据以 data/providers.json 为唯一事实源，经 schema 校验后生成 README、徽章与网站。新鲜度按 90 天 SLA 对最旧一次复验计算并随维护衰减。覆盖 68 个提供商，提供交互式浏览器与按需筛选集合（无信用卡、可商用、OpenAI 兼容等），并给出基于数据计算的前十榜单。项目声明独立维护、与任何提供商无关联。
+收录 96 家提供免费层、试用额度或零成本配额的 LLM 及相邻模型 API（语音、图像、嵌入、rerank、OCR）的数据集，每次核验标注日期并溯源至提供商官方文档，未能确认的条目予以标记。数据以 providers.json 机器可读格式发布，提供按需求筛选的交互式浏览器、评分排行与六问推荐流程，并附 API 端点可查询。维护方声明为社区独立维护，与所列提供商无关联；条目含 OpenAI 兼容性、是否需信用卡/手机验证、商用限制等字段。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 条目逐条标注验证日期并链接提供商官方文档，未确认项显式标记
-- data/providers.json 为唯一事实源，README/徽章/网站均由其生成
-- 按无信用卡、无手机验证、可商用、OpenAI 兼容等维度提供筛选集合
-- 前十榜单由 67 个已验证提供商的数据计算生成，非手工排序
+- 96 家提供商条目均标注核验日期并溯源至官方文档
+- 数据以 data/providers.json 机器可读格式发布，附公开 API 端点
+- 按需求组织的集合：免卡、免手机验证、免账户、可商用、OpenAI 兼容等
+- 含 'Not free' 章节，列明 OpenAI/Anthropic 等无免费 API 档的事实
 
 ## 适用场景
 
-- 原型开发前比较各免费 LLM API 的额度、限制与条款细节
-- 筛选不需要信用卡或手机验证的免费 API
-- 确认某免费层是否允许商用或仅为评估用途
+- 为副业项目找不要信用卡的免费 LLM API
+- 挑一个 OpenAI 兼容的免费端点替换 base_url
+- 查某家提供商的免费层是否限商用或需手机验证
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: Free LLM APIs plus adjacent model APIs — image, speech, embeddings, rerank and OCR. Free tiers, trial credits and no
-> L29: This project treats the list as a **maintained open dataset**, not a blog post:
-> L35: - **The data is the source of truth.** `data/providers.json` is validated against a schema; this README, the badge 
+> L7: A continuously-verified dataset of free LLM & AI-model APIs.
+> L49: > Independent, community-maintained dataset — **not affiliated with, endorsed by, or sponsored by any provider belo
+> L92: Primarily **free LLM (text) APIs** — plus the adjacent model APIs a builder reaches for next: **image generation, s
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `03951cd74cd4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e947797add6d` · [字段定义](../../DATASET.md)*

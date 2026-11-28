@@ -2,9 +2,9 @@
 
 ⭐ 125 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dssg/mlforpublicpolicylab) · [官网](https://dssg.github.io/mlforpublicpolicylab/) · 组织维护
 
-**CMU 机器学习实践研究生课程仓库（公共政策方向）**
+**CMU 公共政策机器学习实践课程的材料仓库**
 
-Carnegie Mellon University Heinz College 的项目制研究生课程（Fall 2026）课程资料仓库，主题是用机器学习解决公共政策与社会公益领域的实际问题。内容包含课程日程、教学大纲、项目作业说明、评分与政策、技术环境配置说明等课程文档；课程覆盖问题定义、建模、部署影响评估、算法偏见与可解释性等主题。课程使用共享的 PostgreSQL 数据基础设施和 triage 机器学习流水线包，资料以 MIT 许可发布。
+卡内基梅隆大学 Heinz 学院研究生课程 94889 的仓库，存放课程表、教学大纲、项目要求与评分政策等材料。课程以项目制方式训练学生用机器学习解决公共政策与社会公益领域的实际问题，覆盖问题定义、数据清洗、建模、模型可解释性、算法偏见识别与缓解、部署后影响评估等环节。课程使用共享 PostgreSQL 数据库，建模采用 triage 机器学习流水线包，作业经 Canvas 提交。先修要求包括 Python、SQL 与研究生机器学习课程。材料以 MIT 许可发布。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Carnegie Mellon University Heinz College 的项目制研究生课程（Fall 2026
 
 ## 能力要点
 
-- 项目制课程：学生构建端到端机器学习系统解决公共政策问题
-- 覆盖模型可解释性、算法偏见缓解、部署影响评估等主题
-- 课程使用共享 PostgreSQL 数据基础设施与 triage ML 流水线包
-- 课程资料以 MIT 许可发布，可供改编教学
+- 项目制课程：端到端构建公共政策领域的机器学习系统
+- 内容涵盖模型可解释性、算法偏见与伦理议题
+- 课程基础设施基于 PostgreSQL 与 triage 建模流水线包
+- 课程材料以 MIT 许可发布
 
 ## 适用场景
 
-- 作为学生选修该课程并获取日程、作业与技术说明
-- 教育者改编课程资料开设同类机器学习实践课程
-- 参考公共政策领域机器学习课程的项目组织方式
+- 旁听或自学公共政策方向的机器学习课程材料
+- 教师参考该课程结构设计类似的实践型教学
+- 了解机器学习在公共服务项目中的落地流程
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Carnegie Mellon University Heinz College 的项目制研究生课程（Fall 2026
 ## 证据(README 行号)
 
 > L24: This is a project-based course designed to provide training and experience in solving real-world problems using mac
-> L26: Through lectures, discussions, readings, and project assignments, students will learn about and get hands-on experi
+> L42: Project work uses a shared data and ML infrastructure provided for the class. Data lives in a PostgreSQL database; 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `ae0d66a57e97` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `047537143923` · [字段定义](../../DATASET.md)*

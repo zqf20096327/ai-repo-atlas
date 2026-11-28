@@ -2,15 +2,15 @@
 
 ⭐ 118 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hiruhiru2005/sync-strata) · 个人维护
 
-**在单台家用 PC 上一键运行 125B MoE 模型的本地 LLM 应用**
+**在家庭单机上一键运行 Qwen3.8-Flash-Next 量化模型的应用**
 
-基于 Strata 引擎 fork 的本地推理发行版，随附 Sync-XS/S/M 三档再量化模型与聊天应用 dsh；安装程序按 GPU 自动下载匹配引擎，按内存自动选模型。桌面、手机（同 Wi-Fi 扫码）、命令行与 OpenAI/Anthropic 兼容 API 均可访问。仅支持 Windows 10/11 与 glibc 2.28+ Linux，需 AVX2 CPU 与 ≥8GB 显存 GPU；模型与引擎格式不兼容上游 Strata 与 llama.cpp。实验性项目，Mac 不支持。
+面向 Windows/Linux 家庭 PC 用户：运行 125B MoE 模型 Qwen3.8-Flash-Next 的再量化版本（Sync-XS/S/M），引擎为 Strata 的 fork。安装器检测 GPU 并下载匹配引擎，应用按内存自动选择模型档位；附带聊天应用 dsh，可通过桌面应用、手机（同 Wi-Fi 扫码或 Tailscale）、命令行及 OpenAI/Anthropic 兼容 API 使用。README 标注为实验性，模型与引擎格式不兼容上游 Strata 或 llama.cpp。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 按 GPU 自动下载匹配引擎，按 RAM 自动选择 XS/S/M 模型
-- 提供 OpenAI 兼容 /v1 与 Anthropic 兼容 /v1/messages API
-- 手机扫码接入（一次性 3 分钟有效的通行码）
-- tail skip（R4/R7/R10）与 KV 量化（k8v4/k4）可调
+- 提供 Sync-XS/S/M 三档量化模型，按内存档位自动推荐
+- 附 dsh 聊天应用，支持桌面、手机扫码、CLI 与 API 四种入口
+- 提供 OpenAI 兼容 /v1 与 Anthropic 兼容 /v1/messages 端点
+- 内存挤压、会话状态保存、上下文与 KV 量化自动配置
 
 ## 适用场景
 
-- 在带 RTX 30/40 显卡家用电脑上本地运行大模型对话
-- 同一 Wi-Fi 下用手机访问家里 PC 上的模型
-- 通过本地 OpenAI 兼容 API 接入自己的应用
+- 在单张消费级 GPU 的家用 PC 上运行大参数本地模型
+- 通过手机在局域网或 Tailscale 下与本地模型聊天
+- 以 OpenAI 兼容 API 接入其他程序调用本地模型
 
 ## 场景标签
 
-`推理引擎` `模型量化` · 领域:训练与推理
+`推理引擎` `模型量化` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
+> L5: Sync-Strata runs Qwen3.8-Flash-Next (a 125B MoE model) on a single home PC.
 > L6: The engine is a fork of Strata, and the models, **Sync-XS, Sync-S and Sync-M**, are re-quantized to run faster than 
-> L73: - **API**: `http://127.0.0.1:8080/v1` (8080 is the default port; if another program is using it, the app moves to a
+> L7: A chat app (dsh) comes with the engine, and you can use it from the desktop app, your phone, the command line or an 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `992000be6191` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e4f39f459da3` · [字段定义](../../DATASET.md)*

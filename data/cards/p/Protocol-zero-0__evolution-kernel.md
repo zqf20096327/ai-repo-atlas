@@ -2,9 +2,9 @@
 
 ⭐ 123 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Protocol-zero-0/evolution-kernel) · [官网](https://evolution-kernel.joulebeat.com/) · 个人维护 · 中文 README
 
-**开源进化循环内核：让编码 agent 按可测目标自我改进任意 git 仓库**
+**给 git 仓库运行自动改进进化循环：Agent 提改、评分留优汰劣**
 
-面向任意 git 仓库的自改进运行时：设定可测量目标后循环执行观察（运行指标命令或拉取 HTTP 端点状态）→规划（LLM 读取指标与历史）→执行（Aider 或 Claude Code 在隔离 git worktree + firejail 沙箱中改代码）→评估（LLM 决定接受或回滚），接受者成为真实 git commit。全程写入可审计 ledger，支持预算硬停（USD/token）、k 分支并行探索与空模型对照检验。单一运行时依赖 PyYAML，Python ≥3.10；README 明示 SWE-bench 走廊为推演目标而非实测结果。
+面向任意 git 仓库的自动化改进运行时：用户提供可度量的目标，由 LLM 规划、编码 Agent（Aider 或 Claude Code）在隔离 git worktree 与 firejail 沙箱内执行修改，再依据指标重跑结果由 LLM 判定接受或回滚；每次尝试写入完整 ledger，接受项为可回滚的 git 提交。核心 Governor 为零 LLM 调用的编排层，三个角色脚本可替换。支持预算硬停（美元/Token/迭代数）与空模型消融对照门禁。安装后 Python ≥ 3.10，运行时仅依赖 PyYAML。
 
 ## 筛选速览
 
@@ -16,30 +16,29 @@
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Observe→Plan→Execute→Evaluate→Commit/rollback 闭环循环
-- Aider 与 Claude Code 执行器适配器，Anthropic/OpenAI 规划与评估适配器
-- 每步写入 ledger 审计记录，回滚即 git reset 到基线 commit
-- max_total_usd / max_total_tokens 预算守卫与 firejail OS 级沙箱
+- Observe→Plan→Execute→Evaluate 闭环，k 分支并行探索（FunSearch/AlphaEvolve 式）
+- 每次尝试记录完整 ledger，所有决策可从 ledger 重建
+- git worktree + firejail 双层沙箱，scope 强制限定 allowed_paths
+- 预算硬停与空模型消融对照，避免只优化指标本身
 
 ## 适用场景
 
-- 让小参数模型配合进化出的 harness 追近前沿模型在基准上的表现
-- 对自有代码仓库按可测指标自动提出并筛选改进提交
-- 需要全程可审计、可回滚的自动化代码实验流水线
+- 给自己的 agent 项目自动进化 harness 并保留可审计记录
+- 在预算上限内让编码 Agent 持续尝试优化指定指标
+- 对同一模型批量产出可迁移到同参数级模型的 harness
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L76: Point Evolution Kernel at any git repository and give it a measurable goal. It runs a closed loop:
 > L82: |🔨 **Execute**|Coding agent (Aider or Claude Code) applies the plan inside an isolated git worktree, wrapped in a f
-> L83: |⚖️ **Evaluate**|Re-run your metric; LLM decides accept or reject|
+> L101: |Anthropic and OpenAI planner/evaluator adapters|✅|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `bd45f224a9a3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `0fca2c29121c` · [字段定义](../../DATASET.md)*

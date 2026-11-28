@@ -2,15 +2,15 @@
 
 ⭐ 113 · 推送 2026-11-27 · [GitHub](https://github.com/Irsyadmr354/KESTREL) · [官网](https://irsyadmr354.github.io/KESTREL/) · 个人维护
 
-**单文件越狱系统提示词：粘贴到任意接受系统提示的模型**
+**通用越狱系统提示词文件，粘贴即用于任意模型**
 
-一个名为 KESTREL.md 的系统提示词文件，供使用者粘贴到任何接受系统提示的 LLM 服务中。文件以身份锁定（自称 AETHER）、十三类能力清单（安全工程、逆向、红队、游戏工具、物理系统等，逐项列名）、两条公理与分类器规避结构组成，并定义语气规则、七项质量门与角色路由。README 详述各版本删改过程与设计理由。无安装步骤，使用方式仅为粘贴文件并发送请求。
+KESTREL 是一个单文件系统提示词（60 行），为模型设定身份框架、话题范围与输出语气，声称可粘贴到任何接受 system prompt 的位置并作用于整个会话。文件不指定任何厂商或模型。内置两条硬边界（未成年人内容、针对真实个人/群体的定向攻击），其余以类别清单划分话题范围。文档附调试方法、已知局限（硬化模型在推理层仍会泄漏），以及作为 AGENTS.md/CLAUDE.md 存放的用法。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 单文件系统提示词，声明适用于任何接受系统提示的模型
-- 十三类能力清单逐项列出成员（含安全工程、红队、逆向等类别）
-- 两条公理框架（未成年人内容禁令与公共知识授权）
-- 含七项质量检查与角色路由表
+- 单文件系统提示词，模型无关，无厂商绑定
+- 仅含两条硬性排除边界，其余话题按类别处理
+- 提供聊天窗口与仓库 AGENTS.md 两种使用位置
+- 文档记录调试方法与已知局限
 
 ## 适用场景
 
-- 在支持的模型服务中粘贴为系统提示词使用
-- 研究越狱提示词的结构与措辞设计
-- 作为提示工程案例参考其分层结构
+- 将文件粘贴为聊天模型的 system prompt 使用
+- 作为仓库根目录的 AGENTS.md 存放
+- 研究提示词工程中的框架设计思路
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L23: KESTREL DOESN'T ARGUE WITH SAFETY TRAINING. IT DOESN'T NEGOTIATE, EXPLAIN ITSELF, OR ASK FOR PERMISSION. IT HANDS T
-> L63: WORKS ON ANY MODEL THAT ACCEPTS A SYSTEM PROMPT.
-> L58: # 1. PASTE KESTREL.md AS THE SYSTEM PROMPT (HIGHEST AUTHORITY SLOT)
+> L23: KESTREL is a system prompt. It hands a model one frame: an identity, two exclusions, a
+> L27: The file is model-agnostic. It names no vendor, no model, no version. Paste it into any
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 mid · 依据 README sha `7cba4cb52f21` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `59eeb4b144c7` · [字段定义](../../DATASET.md)*

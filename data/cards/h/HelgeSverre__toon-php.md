@@ -2,9 +2,9 @@
 
 ⭐ 134 · PHP · MIT · 推送 2026-11-06 · [GitHub](https://github.com/HelgeSverre/toon-php) · [官网](https://github.com/HelgeSverre/toon-php) · 个人维护
 
-**PHP 库：TOON 紧凑数据格式编解码，降低发给 LLM 的 token 消耗**
+**PHP 开发者的 TOON 格式库：压缩发往 LLM 的结构化数据**
 
-toon-format/toon 的 PHP 移植，提供 TOON 格式的编码与双向解码：PHP 数组可编码为 TOON 字符串、也可解码还原。均匀对象数组采用表头式表格式编码（字段名声明一次），声明在此获得相比 JSON 更大的 token 节省。支持验证、DateTime/Enum 自动转换、全局辅助函数、缩进配置等。要求 PHP 8.1+，通过 Composer 安装。README 明确其面向 LLM 上下文优化，不作为 API 或存储中 JSON 的替代。附带 OpenAI PHP、Laravel+Prism、Anthropic/Claude、Ollama 等集成教程。
+toon-format/toon 的 PHP 移植实现，提供 TOON（Token-Oriented Object Notation）格式的双向编码与解码：将 PHP 数组/对象序列化为对 LLM 上下文更省 token 的紧凑文本，也可将 TOON 字符串解码回关联数组并支持不解码的校验。核心机制包括统一对象数组的表头/行式表格格式、可配置缩进、字符串按需加引号、DateTime 与 PHP enum 的自动归一化，并可通过 EncodeOptions/DecodeOptions 显式选择 3.3/4.1/4.4 三个规范版本。通过 Composer 安装，要求 PHP 8.1+；README 注明不适用于替代 JSON 做通用 API 或数据存储。
 
 ## 筛选速览
 
@@ -20,26 +20,28 @@ toon-format/toon 的 PHP 移植，提供 TOON 格式的编码与双向解码：P
 
 ## 能力要点
 
-- TOON 格式的编码、双向解码与验证 API
-- 均匀对象数组的表格式编码：字段名在表头声明一次
-- DateTime 转 ISO 8601、PHP Enum 自动规范化、非有限数值转 null
-- 提供 OpenAI/Laravel+Prism/Anthropic/Ollama 集成教程
+- 双向转换：编码为 TOON 与解码回 PHP 关联数组，另有不解码的输入校验 API
+- 表头声明字段、行式数据的表格格式，对统一对象数组实现 token 节省
+- 通过 EncodeOptions/DecodeOptions 显式切换 3.3/4.1/4.4 三个规范版本
+- 自动处理字符串引号、DateTime ISO 8601、PHP enum 与非有限数值
 
 ## 适用场景
 
-- 把结构化数据压缩后放进 LLM prompt，减少 token 花费
-- 提高 LLM 上下文窗口的利用率
-- 让 AI 对话中的数据更易读
+- 在 LLM 提示词中发送结构化数据并减少 token 消耗
+- 降低调用语言模型 API 时的 token 成本
+- 提高上下文窗口中的数据利用率
+- 配合 Ollama/OpenAI 客户端构建 RAG 管线时压缩输入数据
 
 ## 场景标签
 
- · 领域:LLM 基础设施/数据序列化
+ · 领域:LLM 基础设施/数据格式
 
 ## 证据(README 行号)
 
 > L8: A PHP port of toon-format/toon - a compact data format designed to reduce token
-> L252: - Sending structured data in LLM prompts
-> L257: **Note**: TOON is optimized for LLM contexts and is not intended as a replacement for JSON in APIs or data storage
+> L9: consumption when sending structured data to Large Language Models.
+> L269: - Sending structured data in LLM prompts
+> L274: **Note**: TOON is optimized for LLM contexts and is not intended as a replacement for JSON in APIs or data storage
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c8b40845affb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `382194992f97` · [字段定义](../../DATASET.md)*

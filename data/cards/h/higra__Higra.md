@@ -2,9 +2,9 @@
 
 ⭐ 118 · C++ · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/higra/Higra) · [官网](https://higra.readthedocs.io/) · 组织维护
 
-**C++/Python 层次图分析库：高效层次聚类与图像分析**
+**面向稀疏图与层次化聚类分析的 C++/Python 库**
 
-面向稀疏图分析的 C++/Python 库，核心围绕层次化方法：树（树状图）与显著性图双表示、多种凝聚聚类（单/平均/完全连接、Ward 等）、分量树、层级操作与属性计算、层级优化切割、图算法及监督式聚类评估，并提供面向网格图、形状树与 Mumford-Shah 能量优化的图像工具箱。数据结构与数据解耦，权重直接用 numpy/xtensor 数组。pip 安装，支持 Linux/macOS/Windows 64 位与 Python 3.10-3.14。
+Higra 提供 C++/Python 双接口，专注稀疏图分析与层次化方法：支持树状图与显著性图的双重表示、多种层次聚类构建（quasi-flat zone、层次分水岭、单/平均/完全/Ward 等链接规则）、分量树、层次上的优化（最优割、能量层次）、聚类评估及面向图像分析的网格图工具箱。数据结构与数据解耦，Python 端使用 numpy 数组。通过 PyPI 安装，支持 Python 3.10-3.14 与三大平台，附演示 notebook 仓库与文档站。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 层次聚类双表示（树与显著性图）的高效处理
-- 凝聚聚类支持多种连接规则及用户自定义
-- 面向图像分析的专用工具箱（形状树、Mumford-Shah 能量优化）
-- 图聚类与层次聚类的监督式评估
+- 层次聚类方法覆盖多种链接规则与约束连接性层次
+- 树（树状图）与显著性图双重表示的数据结构与操作
+- 层次上的优化：最优割与能量层次
+- 图像工具箱：树形结构、Mumford-Shah 能量优化
 
 ## 适用场景
 
-- 对图像做层次聚类分割与滤波
-- 实现层次分水岭、分量树等图分析算法
-- 评估图聚类结果的质量
+- 对图数据做层次化聚类与簇提取
+- 图像分割与基于层次聚类的图像过滤
+- 对图聚类结果做有监督评估
+- 在 C++ 中基于 Higra 生成带 Python 绑定的扩展
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+ · 领域:机器学习/图分析
 
 ## 证据(README 行号)
 
 > L7: Higra is a C++/Python library for efficient sparse graph analysis with a special focus on hierarchical methods. Some
 > L10: - hierarchical clusterings: quasi-flat zone hierarchy, hierarchical watersheds, agglomerative clustering (single-li
-> L16: - image toolbox: special methods for grid graphs, tree of shapes, hierarchical clustering methods dedicated to imag
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `bc10bb2595b2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ff1bd7bc8cd3` · [字段定义](../../DATASET.md)*

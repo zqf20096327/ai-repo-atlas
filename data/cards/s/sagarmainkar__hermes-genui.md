@@ -2,9 +2,9 @@
 
 ⭐ 140 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sagarmainkar/hermes-genui) · 个人维护
 
-**Hermes Agent 插件：让聊天回复直接生成图表、表格与仪表盘**
+**为 Hermes Agent 生成式 UI 的插件：聊天内绘制图表/表格/计算器**
 
-面向 Hermes Agent（0.22.5+）的生成式 UI 插件：模型决定展示什么内容，插件决定呈现形式，在 Hermes Desktop 与 Webapp 的聊天中绘制图表、表格、行程计划、计算器、表单、分步图解等交互组件；0.3 新增 Today 个人助理页（每 30 分钟检查邮件与日历、跟踪账单/续订/订单）和基于 MCP 数据的侧边栏仪表盘。通过 hermes plugins install 命令或 Desktop 界面安装。限制：iPhone/iPad 的 Webapp 无法渲染；Telegram 与 CLI 回退为纯文本；关闭工具搜索会增加 token 消耗。
+Hermes Agent 的插件，让 Hermes Desktop 与 Webapp 的聊天回复中直接呈现交互式 UI：图表、表格、时间线、照片条、带实时图表的计算器、可记忆勾选状态的表单与清单、分步讲解等。模型决定展示内容，插件负责统一样式（跟随明暗主题与本地数字格式）。0.3 版加入由一句话设置的个人助手维护的 Today 页面，以及基于 MCP 服务器/工具数据、可固定到侧栏并刷新的仪表盘。Telegram 与 CLI 等场景自动回退为纯文本。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 在聊天内绘制图表、表格、计划、计算器、表单等交互 UI
-- Today 个人助理页：定时检查邮件与日历，跟踪账单、续订与订单
-- 从 MCP 服务器数据生成可保存、可刷新的侧边栏仪表盘
-- 照片功能默认无需 API key（Wikimedia Commons、Openverse 等来源）
+- 聊天内渲染图表、表格、计划、计算器、表单、清单与讲解板块
+- Today 个人助手页面（每 30 分钟检查邮件与日历，跟踪账单/续订/订单）
+- 基于 MCP 服务器与自有数据的侧栏仪表盘，可刷新
+- 支持 Hermes Desktop、Webapp（含手机浏览器），Telegram/CLI 文本回退
 
 ## 适用场景
 
-- 让我的 Hermes 助手用图表而非大段文字回答行情比较
-- 用一个句子里设置个人助理，自动跟踪账单和续订
-- 把自己的 MCP 数据源做成常驻侧边栏仪表盘
+- 让 Agent 回答市场行情时直接给出可交互的价格图表
+- 用一句话配置个人助手，跟踪账单、续订与待回复邮件
+- 把自有 MCP 数据画成仪表盘固定在侧栏定期刷新
+- 需要分步讲解或带滑块的计算器式交互问答
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+`AI 助手` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L34: The model decides **what** to show. The plugin decides **how** it looks, so every answer comes out in one
-> L9: **Ask "How's the market?" and get a chart, not a paragraph.** Hermes GenUI lets your Hermes agent answer with
+> L60: You need Hermes Agent 0.22.5 or later with Hermes Desktop or the
+> L49:  from your MCP servers and tools. **Keep in sidebar** turns it into a page; **Refresh** redraws it with fresh numbe
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `bf674121ef64` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f1c5faccfab7` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 112 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aaditya-v-more/claude-graft) · [官网](https://graft.aadityamore.com/) · 个人维护
 
-**macOS 菜单栏工具：并行运行多个 Claude Desktop 账号并共享聊天记录**
+**为 Mac/Windows 用户并行运行多个 Claude Desktop 账号并共享用量**
 
-面向 macOS 13+ 的菜单栏应用，用于为 Claude Desktop 创建多个独立账号快捷方式，各自登录、名称与图标，可在 Spotlight/Dock 并行打开。支持在账号间共享 Claude Code 聊天历史、置顶与侧栏排序（双向同步），提供一次性聊天迁移、菜单栏实时用量显示、Start Session 开启五小时窗口等功能。它读取各 profile 的访问令牌但仅发送至 api.anthropic.com，不触碰刷新令牌。不修改 Claude 应用本体；通过 Homebrew cask 或 .dmg 安装，ad-hoc 签名未公证。
+Claude Graft 是一款免费开源桌面工具，让多个 Claude 账号各自在独立的 Claude Desktop 实例中同时登录并行运行，切换账号无需登出。核心机制：各账号共享用量配额，当一个账号接近五小时或周限额时，Claude Code 通过本地运行的 relay 转用另一账号的额度继续工作；菜单栏/通知区展示各账号剩余用量。依赖已安装的 Claude Desktop，用量共享需 macOS 15；应用为 ad-hoc 签名，首开需在系统安全设置中放行。
 
 ## 筛选速览
 
@@ -13,32 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多 Claude Desktop 账号并行运行，各自独立登录与快捷方式
-- Claude Code 聊天记录、置顶与侧栏排序跨账号双向同步
-- 菜单栏显示各账号实时用量与重置时间
-- 读取访问令牌仅发送至 api.anthropic.com，不触碰刷新令牌与登录
+- 多账号并行运行：每账号独立 Claude Desktop 实例，切换不登出
+- 用量共享：配额接近上限时 Claude Code 自动转用其他账号额度
+- Mac 菜单栏展示各账号五小时/周/模型用量与当前应答账号
+- 附带系统级听写：按住右 Command 键在任意应用输入语音转写
 
 ## 适用场景
 
-- 我在多个 Claude 账号间切换使用，希望它们同时在线互不干扰
-- 我想让多个账号共享同一份 Claude Code 聊天历史和置顶
-- 我在菜单栏随时查看各账号的用量与重置时间
+- 同时管理多个 Claude 账号并行工作
+- 账号额度接近上限时让 Claude Code 无缝继续
+- 跨账号集中查看 artifacts、projects 和聊天记录
+- 在任意应用中用语音输入文字
 
 ## 场景标签
 
- · 领域:桌面工具/AI 客户端管理
+ · 领域:开发者工具/AI 客户端辅助
 
 ## 证据(README 行号)
 
-> L24: Run multiple Claude Desktop accounts side by side, each with its own login,
-> L25: shortcut and optional shared Claude Code history — including pins and sidebar
+> L25: One Claude login is never quite the right amount. Claude Graft runs all your
+> L29: with another's. Graft lives in the Mac menu bar or the Windows notification area. It is free and open source.
+> L70: Sharing sends that Claude's Claude Code through a small relay Graft runs. Before
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `8e05624d5c56` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `6c5aad09ec17` · [字段定义](../../DATASET.md)*

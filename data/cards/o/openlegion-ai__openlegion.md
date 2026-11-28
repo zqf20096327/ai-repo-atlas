@@ -2,9 +2,9 @@
 
 ⭐ 131 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/openlegion-ai/openlegion) · [官网](https://openlegion.ai) · 组织维护
 
-**自托管安全多智能体运行时：隔离容器跑自主 agent 团队**
+**面向团队的自托管安全多智能体运行时**
 
-面向生产环境的多智能体框架：每个 agent 运行在独立的加固 Docker 容器或 microVM 中，拥有独立记忆、工具、调度与预算；API 密钥保存在中央凭据库，agent 经代理调用，vault 层强制按 agent 设置日/月预算上限。可信 mesh host 通过黑板共享状态与 pub/sub 协调，跨 agent 操作需 ACL 检查，无 LLM 路由层。支持 100+ LLM 提供商（LiteLLM）与健康跟踪故障转移，可经 Telegram/Discord/Slack/WhatsApp/CLI 对话。源码可用（PolyForm Perimeter 1.0.1），禁止将其作为竞争性产品转售；另有 OpenLegion LLC 提供托管服务。
+OpenLegion 是自托管的自主 AI 智能体运行时：每个智能体运行在独立的 Docker 容器（或 microVM）中，API 密钥集中存放在凭据库、智能体不直接接触密钥，并按智能体执行每日/每月预算上限；通过 blackboard 共享状态与 pub/sub 事件协调多智能体，支持 Telegram、Discord、Slack、WhatsApp 与 CLI 接入，经 LiteLLM 支持 100+ LLM 提供商并提供故障转移。许可证为 PolyForm Perimeter 1.0.1，可免费自托管含商业内部使用，但不得将其转售为与 OpenLegion 竞争的托管服务；官方另提供付费托管版。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 每 agent 独立 Docker 容器/microVM 隔离，凭据库代理调用，agent 不持有密钥
-- vault 层强制按 agent 的日/月预算上限与实时成本跟踪
-- 黑板共享状态 + pub/sub 协调多 agent，无 LLM 路由层
-- agent 可运行时自写 Python 工具热加载、派生子 agent，cron/webhook/心跳触发
+- 每个智能体独立 Docker 容器隔离，密钥经凭据库代理、智能体不接触密钥
+- 按智能体的 LLM 成本追踪与每日/每月预算强制上限
+- 经 LiteLLM 支持 100+ LLM 提供商，含健康跟踪的故障转移链
+- cron、心跳与 webhook 触发的自主运行，多渠道消息接入
 
 ## 适用场景
 
-- 在生产环境运行常驻、共享的多 agent 团队并控制成本
-- 自托管运行 agent 团队，凭据与数据不出自有基础设施
-- 经 Telegram/Discord/Slack/WhatsApp 多渠道与 agent 团队对话
-- 需要容器隔离与审计的不可信输入处理场景
+- 在自己基础设施上运行需要隔离与审计的生产级智能体集群
+- 为多智能体系统设置按智能体的费用与权限控制
+- 通过 Telegram/Discord/Slack/WhatsApp 与智能体队伍交互
 
 ## 场景标签
 
@@ -38,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L31: OpenLegion is a **secure, self-hosted AI agent runtime** for running fleets of autonomous AI agents in production. 
-> L117: OpenLegion is an **autonomous AI agent framework** for running multi-agent
+> L35: OpenLegion is a **secure, self-hosted AI agent runtime** for running fleets of autonomous AI agents in production. 
+> L121: OpenLegion is an **autonomous AI agent framework** for running multi-agent
+> L19: > A source-available, security-first OpenClaw alternative for teams. Chat via Telegram, Discord, Slack, or WhatsApp
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `e5598edb0a06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `56213985f8f2` · [字段定义](../../DATASET.md)*

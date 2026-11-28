@@ -2,9 +2,9 @@
 
 ⭐ 121 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/avrabyt/YouTube-Tutorials) · [官网](https://www.youtube.com/c/Avra_b) · 个人维护
 
-**YouTube 教程视频合集仓库：Python/ML/bioinformatics/OpenAI 主题**
+**面向学习者的 YouTube 教程视频目录集合（Python/ML/AI 等）**
 
-个人内容创作者维护的视频教程集合仓库，按 Streamlit、机器学习、AI/chatGPT、Python 自动化、生物信息学、OpenAI Web 应用等播放列表组织，README 提供播放列表链接、最新视频标题与博客文章列表及周报订阅链接。仓库本体不含可安装的代码或工具，主要作为频道内容的导航入口，主题标签还包含 Google Sheets、Pandas 等数据处理话题。
+该仓库是作者多年 YouTube 教程视频的索引目录，按五个播放列表组织：Streamlit-Python、Machine-Learning for all、AI/chatGPT、Python-Automation、Bioinformatics with Python，另含 openAI/chatGPT Web Apps 专题。页面同时列出频道最新视频、订阅与观看数据、博客文章链接及每周 AI Newsletter 订阅入口。仓库本身不包含可安装运行的软件，定位为教学内容与文章的导航清单。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 按 6 个主题播放列表组织教程视频
-- 覆盖 Python、Streamlit、机器学习、生物信息学、OpenAI API
-- 附博客文章列表与每周 AI newsletter 订阅链接
+- 按 5 个主题播放列表组织教程：Streamlit、机器学习、chatGPT、自动化、生物信息学
+- 列出频道最新视频与订阅/观看数据
+- 附带博客文章与每周 AI Newsletter 订阅链接
 
 ## 适用场景
 
-- 查找 Python 与机器学习入门视频教程
-- 学习用 Streamlit 与 OpenAI API 搭建 Web 应用
-- 查找生物信息学方向的 Python 教程
+- 查找 Python、Streamlit、机器学习的视频教程
+- 了解 chatGPT/openAI 应用开发的入门示例
+- 订阅作者的 AI 技术周报与博客
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L7: **Topics overview :** `Python` `Streamlit` `Machine-Learning` `openAI` `Google-sheets` `Automation` `Pandas` `Bioinf
-> L16: ### 📺 Latest YouTube Videos
+> L3: Streamlit Playlist
+> L9: 1. Streamlit-Python
+> L11: 3. AI /chatGPT etc
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `804b5ad1a61e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `bd9f20f8adf4` · [字段定义](../../DATASET.md)*

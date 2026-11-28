@@ -2,9 +2,9 @@
 
 ⭐ 122 · Rust · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/BrokkAi/mjolnir) · [官网](https://mjolnir.slopcop.com/) · 组织维护
 
-**多编程 Agent 统一控制平面：会话持久化、隔离环境与配额管理**
+**为开发者统一管理多个编程 Agent 会话的终端与 Web 控制台**
 
-Rust 编写的终端与 Web 控制平面，用于并行运行 Claude Code、Codex、Kimi Code、Grok Build、Muse Code、OpenCode 等 ACP 编程 Agent。会话由 worker 持有提示队列与事件日志，终端关闭或守护进程重启后可恢复；支持本地、Docker/Podman/Apple 容器、SSH 主机与 EC2 作为运行目标，可在账号、harness 与机器间迁移会话。提供配额总览、多仓库项目捆绑、独立审阅者对抗审查与 HTTP API/ACP 接口。默认向 TypeSafe 托管的 Jev 分类器发送提示文本，可在 config.toml 中关闭。面向同时使用多个 Agent 订阅与多仓库的开发者。
+Mjolnir 是基于 Rust 的终端仪表盘与后台服务，用于管理 Claude Code、Codex、Kimi Code、Grok Build、Muse Code、OpenCode、DSH 等编程 Agent，兼容 Agent Client Protocol（ACP）。核心机制包括：会话与终端解耦（关闭终端后 Agent 继续运行并可恢复）、跨账号/跨机器的会话迁移与检查点、按 Agent 维护多账号订阅配额、隔离的工作区检出、委托子 Agent 分工并回收报告，以及独立审查者对提交的代码做检查。会话可运行在本地、Docker/Podman 容器、SSH 主机或 EC2。默认会把最近对话文本发送到托管的 Jev 分类器以判断 Agent 状态，可在设置中关闭。提供终端仪表盘、Web 查看器与 HTTP API。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Rust 编写的终端与 Web 控制平面，用于并行运行 Claude Code、Code
 
 ## 能力要点
 
-- 会话独立于终端存活，可断开重连并跨账号/harness/主机迁移
-- 支持本地、容器、SSH、EC2 等运行目标，按需上传 worker
-- 多 harness 配额集中查看与多配置档案管理
-- 提供 HTTP API、CLI 与 stdio ACP 客户端接入
+- 会话脱离终端持久运行，支持检查点与恢复迁移
+- 支持本地、容器、SSH、EC2 等多种运行目标
+- 多账号配额监控，限额后可在重置时自动恢复
+- 通过 mj CLI、HTTP API 或 mj acp（编辑器接入）脚本化驱动会话
 
 ## 适用场景
 
-- 同时管理多个编程 Agent 订阅与会话
-- 让 Agent 任务在离开终端或重启后继续运行
-- 把会话从个人账号迁移到工作账号或从本机迁到 EC2
-- 通过手机经 Tailscale 用 Web 查看会话
+- 同时管理多个仓库和多个订阅的编程 Agent 会话
+- 离开电脑后让 Agent 任务继续运行并在回来时恢复现场
+- 在不同账号或不同机器间迁移进行中的会话
+- 推送前由独立审查者检查已提交的代码改动
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Rust 编写的终端与 Web 控制平面，用于并行运行 Claude Code、Code
 
 ## 证据(README 行号)
 
-> L5: Mjolnir (`mj`) runs Claude Code, Codex, Kimi Code, Grok Build, Muse Code,
-> L52: - **Agent and editor integration.** Drive sessions through `mj new`, `mj prompt`,
+> L5: Mjolnir (`mj`) is a terminal dashboard and background service for Claude Code,
+> L6: Codex, Kimi Code, Grok Build, Muse Code, OpenCode, and DSH. Each session runs
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `700bc56ba058` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `5a2185c0ca30` · [字段定义](../../DATASET.md)*

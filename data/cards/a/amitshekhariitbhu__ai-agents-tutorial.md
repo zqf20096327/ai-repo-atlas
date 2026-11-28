@@ -2,9 +2,9 @@
 
 ⭐ 232 · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/amitshekhariitbhu/ai-agents-tutorial) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**从零学习 AI Agent 的系列教程：函数调用到多智能体**
+**从零学 AI Agent 的教程系列：函数调用到多智能体**
 
-由 Outcome School 创始人 Amit Shekhar 维护的 AI Agent 学习教程合集，以博客与视频形式组织，主题覆盖 LLM/RAG/MCP 基础、函数调用、Agent Loop、ReAct/Reflection/Plan-and-Execute 等代理模式、Agent 记忆、上下文工程、Agentic RAG、GraphRAG、多智能体系统、编排、Agent 通信、计算机与浏览器代理等。README 为各篇教程提供章节大纲与入口链接，作者声明系列会持续扩展新主题。
+由 Outcome School 创始人 Amit Shekhar 撰写并维护的 AI Agent 教程合集，以博客与视频形式组织，按主题分章讲解：函数调用原理、Agent 循环、ReAct/Reflection/Plan-and-Execute 等智能体模式、Agent 记忆、上下文工程、Agentic RAG、GraphRAG、多智能体系统、子智能体、MCP 协议、编排模式、智能体通信、计算机使用与浏览器智能体等。系列持续更新，README 以目录形式链接各篇内容。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖函数调用、Agent Loop 到多智能体与评估的渐进式主题序列
-- 含 ReAct、Reflection、Plan-and-Execute 等代理模式的实现与失败模式讲解
-- 包含 MCP、Agent 通信协议、Computer-Use 与 Browser Agent 等专题
-- 每篇教程附完整章节大纲
+- 覆盖函数调用、Agent 循环到多智能体编排与评估的递进式教程系列
+- 讲解 ReAct、Reflection、Plan-and-Execute 等多种智能体模式的原理与常见失败模式
+- 包含 MCP、Agentic RAG、GraphRAG、上下文工程等专题讲解
+- 以博客+视频形式提供，README 声明持续更新
 
 ## 适用场景
 
-- 系统学习从基础到多智能体的 AI Agent 概念与实现
-- 开发 AI Agent 前了解常见代理模式与失败模式
-- 理解 MCP、Agent 记忆与上下文工程等专题机制
+- 系统学习 AI Agent 的基础概念与工作机制
+- 了解多智能体系统的通信与协调模式
+- 入门 Agentic RAG 与上下文工程实践
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5: **Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestr
-> L28: In this blog, we will learn about the AI Agent - what it is, how it is different from a plain LLM, its five core pa
+> L26: ## AI Agent Explained
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `cbc4bd95a5fa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `dfa03dfe4e76` · [字段定义](../../DATASET.md)*

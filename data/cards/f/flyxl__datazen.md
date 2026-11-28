@@ -2,9 +2,9 @@
 
 ⭐ 120 · Rust · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/flyxl/datazen) · [官网](https://flyxl.github.io/datazen/) · 个人维护 · 中文 README
 
-**开源跨平台数据库桌面客户端，支持 AI 与 MCP agent 接入**
+**面向开发者的开源桌面数据库客户端，支持 AI 诊断与 MCP**
 
-基于 Tauri + Rust 的 GPL-3.0 桌面数据库工作台，安装包小于 15MB，覆盖 18 种数据库驱动（PostgreSQL/MySQL/MariaDB/SQLite/Redis 等）。功能包括 schema 感知 SQL 编辑器、可视化查询构建、ER 图、图表与运维仪表盘、备份/Data Sync/Data Transfer/Schema Diff、YAML 工作流、SSH/代理/WebSocket 隧道。AI 部分为可选功能：自然语言生成 SQL、错误诊断、EXPLAIN 分析，可配置 OpenAI/Anthropic/DeepSeek/Ollama 或任意 OpenAI 兼容端点；同时作为 MCP server 与 client 运行，支持 headless stdio 模式。无账号、无遥测，凭据 AES-256-GCM 加密。
+基于 Tauri + Rust 的桌面数据库工作台，体积小于 15MB，支持 17 种数据库驱动与 10 种界面语言，覆盖 PostgreSQL、MySQL/MariaDB、SQLite、Redis。功能包括 schema 感知的 SQL 编辑器、可视化查询构建、AI 错误诊断与 EXPLAIN 分析、图表与运维仪表盘、数据同步/迁移、YAML 工作流自动化。AI 为可选功能，支持 OpenAI、Anthropic、DeepSeek、Ollama 或任意 OpenAI 兼容端点；无需账号与云端，凭据以 AES-256-GCM 加密。同时可作为 MCP server 与 client 运行，支持 headless stdio 模式接入 agent 管道。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 18 种数据库驱动，既是 MCP server 也是 MCP client，支持 headless stdio 模式
-- AI 可选：OpenAI/Anthropic/DeepSeek/Ollama 及 OpenAI 兼容端点，基于已连接 schema 生成 SQL 与诊断
-- Data Sync/Data Transfer/Schema Diff 等数据迁移操作均提供可审查预览
-- MIT 许可的 Driver API 支持独立仓库开发驱动，工作流以 YAML 描述并可在 UI/MCP/headless 下运行
+- schema 感知 SQL 编辑器：补全来自真实表与列的元数据
+- AI 错误诊断与 EXPLAIN 分析，生成可编辑修正 SQL
+- MCP server 与 client 双角色，支持 headless stdio 运行
+- 数据同步、传输、Schema Diff 均先预览再执行
 
 ## 适用场景
 
-- 在一个桌面应用中完成数据库浏览、查询、迁移与监控的完整流程
-- 用自然语言针对真实 schema 生成 SQL 或诊断报错
-- 让外部 AI agent 通过 MCP 驱动数据库操作或运行工作流
-- 定时备份与跨库自动化任务的编排执行
+- 连接多种数据库，在一个桌面应用里写 SQL、看图表、做迁移
+- 让 AI 基于当前连接的真实 schema 生成和诊断 SQL
+- 把数据库操作写成 YAML 工作流定时执行
+- 将自己的 AI agent 通过 MCP 驱动数据库查询与运维
 
 ## 场景标签
 
- · 领域:数据库工具/桌面应用
+`数据分析` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L47: A first-run wizard walks you through the first connection and seeds a sample SQLite database, so you can try everyt
+> L5: ### The open-source database workspace for developers and AI agents
+> L21: Doing real database work usually means stitching together five tools: one to browse the schema, one to write SQL, o
 > L101: AI is optional and yours to configure: OpenAI, Anthropic, DeepSeek, Ollama for fully local models, or any OpenAI-c
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `d149f9a54a76` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `d546db6948a3` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 129 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/redf0x1/camofox-mcp) · 个人维护
 
-**为 MCP AI 代理提供反检测浏览器自动化工具的服务端**
+**给 MCP AI agent 提供反检测浏览器自动化工具集**
 
-CamoFox MCP 将 Claude Desktop、VS Code、Cursor、OpenClaw 等 MCP 客户端连接到独立的 camofox-browser 浏览器服务端，提供 47 个浏览器自动化工具，覆盖导航、交互、观察、搜索、下载、会话与批量工作流，底层基于 Camoufox 反检测行为。支持 stdio（npx）与 HTTP 传输（Docker），支持多标签页状态跟踪、Cookie 导入与保存配置。限制：本产品非独立浏览器，需单独运行 camofox-browser 服务端；Windows x64 仅支持 headless 便携发行版。MIT 许可。
+一个 MCP 服务器，把 MCP 客户端（Claude Desktop、VS Code、Cursor、OpenClaw）连接到 camofox-browser 反检测浏览器服务器，提供 53 个浏览器自动化工具，覆盖导航、交互、观察、搜索、下载、会话持久化、配置档、批量工作流与网络捕获。底层依赖 Camoufox 的反检测能力；本仓库自身不是独立浏览器，需单独运行兼容的 camofox-browser 服务器。支持 npx/stdio 与 Docker/HTTP 两种部署方式，HTTP 传输可用 Bearer API key 保护。MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ CamoFox MCP 将 Claude Desktop、VS Code、Cursor、OpenClaw 等 MCP 客户端�
 
 ## 能力要点
 
-- 47 个浏览器自动化工具（导航/交互/观察/搜索/下载/会话/批量）
-- 基于 Camoufox 的反检测行为与多标签页状态跟踪
-- stdio 与 OpenClaw 兼容 HTTP 两种传输方式
-- 会话持久化：Cookie 导入、保存配置、可选自动保存
+- 53 个浏览器自动化工具，覆盖 13 个类别
+- 会话持久化：cookie 导入、保存配置档、可选自动保存
+- 网络捕获与导出 HAR、fetch/XHR 拦截（需浏览器 2.5.0+）
+- 自定义搜索引擎模板，支持 SearXNG 实例
 
 ## 适用场景
 
-- 让 AI 代理以较低被封锁风险浏览和操作网页
-- 需要会话与 Cookie 复用的代理网页自动化流程
-- 远程 MCP 客户端通过 HTTP 接入浏览器自动化
+- 让 Claude Desktop 或 Cursor 中的 agent 自动浏览和抓取网页
+- 在反检测浏览器中运行多标签页批量工作流
+- 远程 MCP 客户端通过 HTTP 接入浏览器工具集
 
 ## 场景标签
 
-`浏览器自动化` · 领域:效率与自动化
+`浏览器自动化` `网页抓取` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L3: AI-powered anti-detection browser automation for MCP-compatible AI agents.
 > L5: CamoFox MCP connects MCP clients such as Claude Desktop, VS Code, Cursor, and OpenClaw to the CamoFox browser server
+> L113: - CamoFox MCP is not a standalone browser. You must run a compatible `camofox-browser` server separately.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `de9e0c6e0b72` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `436e79b0c228` · [字段定义](../../DATASET.md)*

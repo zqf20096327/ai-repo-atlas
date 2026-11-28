@@ -2,9 +2,9 @@
 
 ⭐ 137 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ahnafnafee/local-llm-pdf-ocr) · [官网](https://www.ahnafnafee.dev/blog/local-llm-pdf-ocr) · 个人维护
 
-**本地视觉 LLM OCR 工具：把扫描 PDF 转成可搜索文档**
+**本地视觉 LLM 将扫描 PDF/图片转为可搜索文档（Web UI/CLI）**
 
-面向需要离线、隐私 OCR 的用户：将扫描 PDF 与多种图片格式转为可搜索的三明治 PDF、HTML、Markdown 或纯文本。默认混合路径用 Surya 检测版面布局，本地视觉 LLM（如 olmOCR）整页转录，再用 Needleman–Wunsch 动态规划将文本行对齐到版面框；密集页自动切换逐框 OCR，另有 bbox 原生 VLM 的单次调用路径和纯文本快速路径。通过本地 OpenAI 兼容端点运行模型，提供 Web UI（FastAPI）与全功能 CLI，使用 uv 管理依赖。限制：需自行启动本地 LLM 服务，Surya 模型首次运行约下载 500MB。
+Python 编写的 OCR 工具，通过任意 OpenAI 兼容视觉服务接口对扫描 PDF 与图片做转录，在原页面图上叠加可选中文本层，输出可搜索 PDF、HTML 覆盖层、Markdown 或纯文本。提供三条执行路径：默认混合路径（Surya 版面检测 + 本地 LLM 整页转录 + Needleman-Wunsch 动态规划对齐，低置信框做裁剪重识别回退）、可选 grounded 路径（模型直接返回文本与坐标）、纯文本快速路径。支持 .env 与 CLI/UI 参数配置端点与模型，Surya 首次运行从 Hugging Face 下载约 500MB 检测模型。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Surya 布局检测 + 本地 LLM 转录 + Needleman-Wunsch DP 对齐的混合 OCR 路径
-- 密集页（>60 框）自动切换逐框 OCR，规避整页 OCR 的循环/幻觉问题
-- Grounded 路径：bbox 原生 VLM 单次调用返回文本+坐标，跳过检测与对齐
-- 支持 PDF/HTML/Markdown/文本四种输出格式，Web UI 与 CLI 全选项一致
+- 支持 PDF 及 8 种图片格式输入，多帧 TIFF 展开为多页
+- 三种 OCR 路径：混合对齐、grounded（文本+坐标）、纯文本快速路径
+- 四种输出格式：可搜索 PDF / HTML 覆盖层 / Markdown / 纯文本
+- Web UI 与 CLI 暴露同一套完整选项，模型可从服务端自动发现
 
 ## 适用场景
 
-- 把扫描的纸质文档离线转成可搜索、可选中文字的 PDF
-- 在没有云 API 与 API key 的环境下处理含隐私内容的文档 OCR
-- 对密集排版或多栏文档批量转录并保留版面位置
+- 把扫描版 PDF 转成可全文检索的文档
+- 离线环境批量处理含手写或表单的扫描件
+- 对密集排版的页面按框切分识别，规避整页幻觉
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: **Turn scanned PDFs and images into fully searchable, selectable documents — with a local vision LLM.**
-> L31: - **🔒 100% Local & Private** — No cloud APIs, no subscription fees. Runs entirely offline via LM Studio, Ollama, vL
+> L17: > **Local LLM PDF OCR** uses vision models such as `olmOCR`, `Qwen3-VL`, or `GLM-OCR` to transcribe documents and a
+> L27: - **🤝 DP-Based Text↔Box Alignment** — **Surya** detects layout boxes; a **local LLM** transcribes the whole page; a
+> L87: 2. **A vision model served through an OpenAI-compatible API**. Choose your server and use the defaults below or con
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `0d6e03a512c0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `b2304def0186` · [字段定义](../../DATASET.md)*

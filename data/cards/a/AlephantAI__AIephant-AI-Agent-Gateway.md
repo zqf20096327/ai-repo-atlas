@@ -2,9 +2,9 @@
 
 ⭐ 119 · Rust · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/AlephantAI/AIephant-AI-Agent-Gateway) · [官网](https://openany.si) · 组织维护 · 中文 README
 
-**自托管/托管的 OpenAI 兼容 AI 网关：路由、管控与观测多提供商 LLM 流量**
+**为 AI 应用提供统一 OpenAI 兼容接口的自托管 LLM 网关**
 
-用 Rust 编写的 OpenAI 兼容 AI Agent 网关，面向生产 AI 应用：统一 API 面（/v1/*、/router、provider 直通），适配 50+ 提供商与 320+ 模型及自定义后端，提供策略路由、重试与回退、KV/语义缓存、虚拟密钥、请求日志与审计。可作为 Alephant Cloud 托管 SaaS 使用，或从源码自托管（需 Rust 工具链与 PostgreSQL，可选 Redis/Qdrant/S3）。当前为 0.2.0-beta 版本，公开 API 可能变动。
+Rust 编写的 OpenAI 兼容 AI 网关，覆盖 50+ 提供商、320+ 模型与自定义后端，提供请求适配、路由、重试/回退、策略控制、虚拟密钥、分层缓存与请求日志/审计。开发者一次接入即获得稳定 API 面；支持 Alephant Cloud 托管 SaaS 或自托管部署。自托管需 Rust 工具链与 PostgreSQL，Redis 推荐用于并发控制与缓存路径，Qdrant/S3 为可选语义缓存与正文归档。当前处于 beta（0.2.0-beta.30），API 与配置可能在 1.0 前变化。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- OpenAI 兼容统一入口，适配 50+ 提供商、320+ 模型与自定义后端
-- 策略路由、重试回退、429 处理与 fail-open 缓存路径
-- 网关侧 KV 缓存与语义缓存，路由/密钥变更免重启热加载
-- 虚拟密钥隔离、请求日志与可选请求体归档
+- OpenAI 兼容 /v1/* 接口，50+ 提供商、320+ 模型统一接入
+- 虚拟密钥、模型策略、提供商白名单与并发控制
+- 网关侧 LLM KV 缓存与语义缓存，重试/回退/429 处理
+- 数据库监听驱动的路由与密钥热更新，无需重启
 
 ## 适用场景
 
-- 多个 LLM 提供商接入收敛为一个 OpenAI 兼容端点
-- 团队对 AI 流量做密钥管控、配额策略与审计
-- 在自有基础设施内自托管网关并保留提供商凭据控制权
+- 多个 AI 应用统一接入多家模型提供商，密钥集中管理
+- 生产环境对 LLM 流量做策略、缓存与可观测性治理
+- 在自有基础设施中自托管网关并保留上游密钥控制权
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L41: Alephant AI Gateway is an OpenAI-compatible control layer for production AI applications, available as hosted SaaS 
-> L68: |One API surface|OpenAI-compatible `/v1/*` and `/ai/*` routes for chat, responses, embeddings, images, and provider
+> L43: Instead of wiring every application directly to every provider, teams connect once and route across 50+ providers, 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `f713a53652d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `4fc4d26b44b7` · [字段定义](../../DATASET.md)*

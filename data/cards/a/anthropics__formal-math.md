@@ -4,7 +4,7 @@
 
 **Anthropic 发布的 Lean 4 机器校验数学形式化项目集**
 
-Anthropic 发布的形式化数学仓库，包含多个自包含的 Lean 4 Lake 项目（zeta23、3sum-apsp、eth 等），每个项目固定工具链版本并按 Palomar 提交模板组织（Challenge/Solution/comparator.json/formalization.yaml）。CI 按变更目录增量构建，通过标准为 lake build 无 sorry，且经 lean4export、独立 nanoda 内核与 landrun 沙箱的 Palomar 注册表验收检查。Apache-2.0 许可。
+Anthropic 发布的机器校验 Lean 4 形式化仓库，每个子目录是独立的 Lake 项目，含工具链固定版本、README 与构建说明，遵循 Palomar 提交模板（Challenge.lean/Solution.lean/comparator.json）。收录 ζ 函数零点单性、3SUM/APSP 复杂度下界、ETH 反驳、VP≠VNP 等结果的逐条形式化证明。CI 按变更目录选择性构建，通过 lake build 无 sorry 且经独立 nanoda 内核与 landrun 沙箱的 Palomar 注册表验收检查判定通过。仓库整体采用 Apache-2.0 许可。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ Anthropic 发布的形式化数学仓库，包含多个自包含的 Lean 4 Lake 
 
 ## 能力要点
 
-- 多个自包含 Lean 4 项目，各自固定 lean4/Mathlib 工具链版本
-- CI 增量构建：仅重建变更模块，PR 复用缓存
-- 验收链含 lean4export、独立 nanoda 内核与 landrun 沙箱
-- 含 Claude 生成的 ETH 反证形式化（eth/ 项目）
+- 4 个自包含 Lean 4 / Mathlib 形式化项目，工具链版本逐项目固定
+- CI 仅对变更项目触发构建，PR 复用增量 Lake 构建
+- 验收依赖独立 nanoda 内核与 landrun 沙箱的 comparator 检查，可本地运行脚本复现
+- 其中两项形式化（eth、vp-vnp）标注为 Claude 产出
 
 ## 适用场景
 
-- 查阅具体数学定理的机器校验 Lean 4 证明
-- 按 Palomar 模板组织自己的形式化项目
-- 在本地复跑 comparator 验收脚本校验项目
+- 复现或审阅 Riemann zeta 零点、3SUM 下界等形式化证明
+- 按模板向 Palomar 提交新的 Lean 4 形式化项目
+- 在 CI 中对 Lean 项目做增量构建与验收校验
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+ · 领域:形式化数学/定理证明
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `30df62f97901` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `bd1fce4547a8` · [字段定义](../../DATASET.md)*

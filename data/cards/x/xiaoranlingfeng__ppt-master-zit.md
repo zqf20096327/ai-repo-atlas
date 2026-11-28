@@ -2,9 +2,9 @@
 
 ⭐ 181 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/xiaoranlingfeng/ppt-master-zit) · 个人维护 · 中文 README
 
-**本机 ComfyUI 配图的 PPT 生成技能分支，无需 API key**
+**ppt-master 的本机 ComfyUI 配图分支：本地生成可编辑 PPTX 插图**
 
-ppt-master v6.10.0 的定制分支，保留上游全部可编辑 PPTX 生成工作流，唯一差异是 AI 配图默认走本机 ComfyUI 的 Qwen-Image-2.1 文生图工作流（7B DiT int8 + Qwen3-VL 8B int8，原生 RGBA），另可按 deck 切换 MOSS-Image SFT 与 Z-Image Turbo 工作流。以 agent skill 形式交付：放入 agent 技能目录或由可执行 Python 的 agent 调用。含 D0–D9 访谈门禁、导出后 PDF 逐页检查门禁、提示词签名 sidecar 实现局部重绘。限制：Qwen/MOSS 权重许可禁止商业使用；图像生成依赖本地 GPU，实测 RTX 3080 Laptop 约 15–25 秒/张（1K、25 步）。
+ppt-master v6.10.0 的个人机分支，在保留上游可编辑 PPTX 全流程的基础上新增本机 ComfyUI 文生图后端并默认启用：默认 Qwen-Image-2.1 工作流，可按 deck 切换 MOSS-Image SFT 与 Z-Image Turbo，配图完全在本机运行、不需 API Key。以 agent 技能目录形式分发，放入技能目录或任何可执行 Python 的 agent 即可使用；运行需本机 ComfyUI 集成包与对应模型权重，Qwen/MOSS 权重许可证限制商用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ppt-master v6.10.0 的定制分支，保留上游全部可编辑 PPTX 生成工�
 
 ## 能力要点
 
-- 本机 ComfyUI 配图后端：无需 API key，提示词不出本机
-- COMFY_MODEL=qwen|moss|zit 三套工作流按 deck 切换
-- ComfyUI 未启动时自动拉起集成包并打开 Web UI
-- 导出后经 soffice 转 PDF 并用 pymupdf 逐页核验的输出门禁
+- 本地 ComfyUI 后端默认 Qwen-Image-2.1，可切换 MOSS-Image SFT / Z-Image Turbo
+- ComfyUI 未运行时自动启动集成包并打开 Web UI
+- 导出后转 PDF 逐页校验的渲染产出门禁与 manifest 续跑机制
+- 每个 deck 通过访谈门禁 D5 确认一次出图模型
 
 ## 适用场景
 
-- 在无网络/不出网环境下为本机生成 PPT 配图
-- 用本地 GPU 批量生成可编辑 PPTX 而不产生按张计费
-- 需要 RGBA 透明素材贴入任意底色幻灯片的排版场景
+- 无 API Key、本机 GPU 环境下为演示文稿生成插图
+- 需要提示词不出网、隐私敏感场景的 PPT 配图
+- 编辑含原生 RGBA 透明插图的可编辑 PPTX
 
 ## 场景标签
 
@@ -39,7 +39,6 @@ ppt-master v6.10.0 的定制分支，保留上游全部可编辑 PPTX 生成工�
 
 > L11: **PPT Master + local ComfyUI image backend.** This is a personal-machine fork of ppt-master (v6.10.0, MIT, Copyrigh
 > L53: 2. Drop this folder into your agent's skills directory (e.g. `~/.hermes/skills/`, `~/.agents/skills/`), or use it w
-> L104: **PPT Master + 本机 ComfyUI 配图后端** — 这是 ppt-master (v6.10.0, MIT, Copyright © 2025-2026 Hugo He) 的本机定制分支：整套可编辑 PPTX 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `782c44d70218` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `05b8c834efe6` · [字段定义](../../DATASET.md)*

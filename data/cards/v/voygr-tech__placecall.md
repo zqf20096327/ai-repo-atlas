@@ -2,9 +2,9 @@
 
 ⭐ 122 · Shell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/voygr-tech/placecall) · [官网](https://voygr.tech/placecall/) · 组织维护
 
-**让 AI agent 电话致电美国商户的 API/MCP 服务，含通话结果与转录**
+**让 AI agent 打电话给美国商家完成预订、询价与核实**
 
-由 Voygr（前 Google Maps/Search 开发者）提供的电话呼叫服务：给定美国号码或场所描述与英文任务简报，系统自动拨号、应对 IVR 与等待、与商户对话，完成预订、询价、信息核实等任务，返回 17 种验证结果之一及完整转录与录音。接入方式包括 REST API（API key）、Claude Code/Codex/Cursor 插件、claude.ai 与 ChatGPT 连接器、Gemini CLI 扩展及任意 MCP 客户端，多为浏览器 OAuth 登录，首 250 次通话免费，此后按量计费。
+PlaceCall 是一个电话呼叫 API 与 agent 集成层：给 agent 一个美国商家号码和一段英文任务简报，它拨号、应对 IVR 与等待、与商家通话，返回标注的呼叫结果、完整转录与录音，失败时附原因（挂断/占线/语音信箱/错号）。无号码时可描述地点，由其查找候选并撰写简报。接入方式覆盖 Claude Code 插件与 skill、claude.ai 连接器、ChatGPT/Codex 插件目录、通用 MCP 客户端及 Hermes Agent；支持浏览器 OAuth 登录或 API key，前 250 通电话免费，由前 Google Maps/Search 开发者创办的 Voygr Tech 维护。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 自动拨号并应对 IVR、等待与真人对话，处理预订/询价/核实等任务
-- 每次通话返回 17 种验证结果之一，附完整转录与录音
-- 无号码时可按场所描述查找候选并自动撰写通话简报
-- 提供 Claude Code/Codex 插件、MCP 服务器、ChatGPT/claude.ai 连接器等多种接入途径
+- 电话呼叫 API：返回结果标签、完整转录与录音
+- 无号码时按地点描述查找候选商家并生成通话简报
+- 多客户端接入：Claude Code 插件、MCP server、ChatGPT/Codex 插件目录
+- 前 250 通电话免费，浏览器登录即创建带免费额度的账户
 
 ## 适用场景
 
-- 让我的 agent 打电话给餐厅订位或改约
-- 批量致电商户核实信息、跟进订单或询价
-- 在 Claude Code 或 ChatGPT 里直接发起并追踪通话
+- 让 agent 替我打电话订餐厅或预约
+- 批量向多家商家询价并拿回转录
+- 核实订单状态、库存等电话信息
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L3: PlaceCall lets your agent call US businesses to handle reservations, gather
-> L48: The Claude Code, Codex and Cursor plugins carry the skill and the PlaceCall
-> L163: Point the client at `https://api.voygr.tech/mcp` (streamable HTTP transport).
+> L52: MCP server (`https://api.voygr.tech/mcp`). You sign in once in a browser; the
+> L186: Point the client at `https://api.voygr.tech/mcp` (streamable HTTP transport).
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `ca3b04ab4a39` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `97bcf9a657b7` · [字段定义](../../DATASET.md)*

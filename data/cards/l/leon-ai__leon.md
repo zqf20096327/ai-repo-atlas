@@ -2,9 +2,9 @@
 
 ⭐ 17,731 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/leon-ai/leon) · [官网](https://getleon.ai) · 个人维护 · 中文 README
 
-**开源个人 AI 助手：记忆、工具执行与日常事务自动化**
+**开源个人 AI 助手，帮用户记住事务并执行日常任务**
 
-Node.js 构建的开源个人 AI 助手，自 2019 年发布首个开源版本，当前正重写为 2.0（桌面应用未发布，develop 分支开发中）。核心机制包括持续的 agent 循环、隔离 worker 中的工具执行、渐进式上下文管理与多层记忆（临时上下文、持久偏好、每日摘要，按配置档隔离）；提供生成式 UI（图表/表单回答）、任务规划与执行、连接第三方工具（如 Spotify）等。支持本地与远程模型，可运行于用户自己的机器。
+基于 Node.js 的开源个人 AI 助手，2017 年启动、2019 年首次开源发布，当前正向 2.0 alpha（含桌面应用）演进，2.0 未发布，文档多数描述旧版本。机制上包含持续的 agent 循环、隔离 worker 中的工具执行、渐进式上下文管理、多层记忆（临时上下文/持久偏好/每日摘要等，按 profile 隔离），以及原生技能与 agent 技能共用的工具系统；支持本地与远程模型，可运行在用户自己的机器上。安装需 Node.js >= 24，从源码克隆并运行。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@ Node.js 构建的开源个人 AI 助手，自 2019 年发布首个开源版本�
 
 ## 能力要点
 
-- 自带 agent 循环：工具结果驱动决策，独立工具调用可并发运行于隔离 worker
-- 多层记忆：临时上下文、持久事实偏好、每日摘要按配置档隔离并可检索
-- 提供 native skills（显式动作）与 agent skills（灵活任务）两类技能体系
-- 支持本地与远程模型，可自托管运行
+- agent 循环：工具结果驱动决策、检查结果并可从失败恢复，独立工具调用可并发运行
+- 多层记忆按 profile 隔离，检索相关记录并可回查原始对话
+- 工具在隔离 worker 中执行，声明函数、设置、依赖与二进制
+- 支持本地与远程模型，可运行于用户自己的机器
 
 ## 适用场景
 
-- 自托管一个了解自己偏好与习惯的个人助手
-- 通过自然语言让 AI 规划并执行日常任务
-- 用生成式 UI 在对话中获得图表与可视化回答
+- 让助手记住我的偏好与重要事项并协助日常事务
+- 在我的自己机器上运行一个可自定义模型的私人助理
+- 通过对话让助手规划并执行带工具的任务（如生成图表、写代码）
 
 ## 场景标签
 
@@ -45,6 +45,7 @@ Node.js 构建的开源个人 AI 助手，自 2019 年发布首个开源版本�
 
 > L6:  Your open-source personal AI assistant.
 > L93: A good model matters. So does everything around it. Leon has its own continuous agent loop, tool execution in isola
+> L122: - **Personal AI should belong to you.** An assistant that knows you well will hold things that matter to you. That
 
 ## 星数曲线
 
@@ -60,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8a9e54e4a95b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `19f1ba1aacee` · [字段定义](../../DATASET.md)*

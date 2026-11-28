@@ -2,9 +2,9 @@
 
 ⭐ 112 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Shaf2665/Hermes-router) · [官网](https://hermes-router.vercel.app) · 个人维护
 
-**给开发者的 AI 提供商路由网关：多 Key 轮换与故障转移**
+**面向应用开发者的多提供商 LLM 路由与故障转移代理**
 
-部署在应用与多个 AI 提供商（Gemini、OpenRouter、Groq 等）之间的本地代理：实现 OpenAI 兼容的 chat/embeddings/models 端点与 Anthropic Messages 端点，客户端改 base URL 即可接入。核心机制包括多 Key 轮换与冷却、按难度/能力评分选择最便宜可用模型的智能路由、跨提供商故障转移与熔断、响应缓存（含可选语义缓存）、每 Key 预算限流、Web 仪表盘与 Prometheus 指标；支持 Ollama/LM Studio 本地模型兜底。单文件 Python 实现，提供一键安装脚本、hr CLI 与 Docker 部署；限制是所有配置的提供商耗尽时请求仍会失败。
+位于应用与 AI 提供商池之间的路由代理，实现 OpenAI 兼容的 chat/embeddings/models 端点与 Anthropic Messages 端点，客户端改 base URL 即可接入。核心机制：跨提供商故障转移、密钥轮换与冷却、按难度评分选最便宜可用模型的智能路由、响应缓存（含可选语义缓存）、熔断器、用量分析与成本跟踪、Web 仪表盘及 Docker 多实例管理。单 Python 文件实现，Python 3.10+，需至少一个云提供商密钥或本地模型。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- OpenAI/Anthropic 兼容端点，改 base URL 即可接入
-- 多 Key 轮换、跨提供商故障转移与熔断
-- 按请求难度与模型能力评分的智能路由（选最便宜可用模型）
-- Ollama/LM Studio 本地模型作为云提供商兜底
+- OpenAI 兼容 chat/embeddings/models + Anthropic Messages 端点
+- 自动密钥轮换、提供商故障转移与熔断器
+- 本地模型（Ollama / LM Studio）配合云端回退
+- Web 仪表盘、Prometheus /metrics 与成本跟踪
 
 ## 适用场景
 
-- 把多个免费 AI 配额拼成一个池子，避免单提供商限流中断
-- 在应用侧统一 OpenAI/Anthropic 客户端并做成本跟踪
-- 用本地模型兜底降低对云端配额的依赖
+- 把多个免费额度提供商串成池子，一个限流自动切下一个
+- 应用只需改 base_url 即可接入多家模型
+- 本地 Ollama 模型为主、云端兜底的混合推理
+- 监控多实例路由器的用量与花费
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `7011cffb9ebc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `2333df4e3ecd` · [字段定义](../../DATASET.md)*

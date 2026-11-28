@@ -2,9 +2,9 @@
 
 ⭐ 119 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/openai/softnet) · 组织维护
 
-**macOS 虚拟机网络隔离与 DHCP 缓解工具（Tart 配套）**
+**为 Tart 虚拟机提供网络隔离与 DHCP 短缺缓解**
 
-面向 Tart 虚拟机的用户态包过滤器，解决两个问题：VM 网络隔离（限制 VM 只能以自身 MAC/IP 发包，阻断 ARP 欺骗类攻击）与 DHCP 耗尽（将 macOS 内置 DHCP 租约从 86400 秒调至 600 秒，为每台 VM 分配独立 /29 子网的 vmnet 网络）。提供有状态流授权（非完整 TCP 连接跟踪）与基于 Unix socket 的 JSON-RPC 2.0 动态网络策略通道（最多 4096 条规则）。要求 macOS 26 及以上，需 SUID 或免密 sudo，由 Tart 通过 --net-softnet 标志自动启动管理。
+面向 macOS 虚拟机管理工具 Tart 的用户态网络组件：以用户态包过滤器限制 VM 流量（限定自身 MAC/IP、全局可路由 IPv4 等），防御 ARP 欺骗等安全问题；自带 DHCP 服务器将租约从 86400 秒降至 600 秒，缓解大量临时 VM 场景下的 DHCP 地址耗尽。一个进程最多承载 5 个 VM 共享 /29 子网，支持 JSON-RPC 2.0 控制通道动态更新 allow/block 策略与逐 VM WireGuard 路由。要求 macOS 26 及以上，二进制需 SUID 或免密 sudo。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 用户态包过滤：VM 仅能以自身 MAC/DHCP 分配 IP 发包，缓解 ARP 欺骗
-- 每 VM 独立 /29 子网 vmnet 网络，内置 DHCP 服务器按 MAC 预留 IP
-- JSON-RPC 2.0 控制 socket 支持不重启 VM 动态更新 IPv4 策略
-- 有状态流授权，采用有界授权缓存，策略偏向安全而非可用性
+- 用户态包过滤器限制 VM 流量并防御 ARP 欺骗
+- 自带 DHCP 服务器，租约降至 600 秒缓解地址耗尽
+- JSON-RPC 2.0 控制通道支持不重启 VM 动态更新策略
+- 逐 VM WireGuard 隧道路由
 
 ## 适用场景
 
-- CI 场景大量克隆短生命周期 VM 时缓解 DHCP 地址耗尽
-- 要求 VM 间网络隔离、防范 ARP 欺骗的生产环境
-- 通过动态策略实现默认拒绝出站等自定义网络策略
+- CI 服务批量创建临时 VM 时避免 DHCP 地址耗尽
+- 限制 VM 出站流量为默认拒绝并按前缀放行
+- 将 VM 流量经 WireGuard 隧道转发到指定网段
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 low · 依据 README sha `0e85abeddc9e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `0efeae0de1f0` · [字段定义](../../DATASET.md)*

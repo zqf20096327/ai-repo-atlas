@@ -2,9 +2,9 @@
 
 ⭐ 119 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/arvarik/contrack) · [官网](https://arvarik.com/contrack) · 个人维护
 
-**自托管的个人/团队联系人管理与追踪应用，含可选 AI 增强**
+**自托管的个人联系人管理与追踪应用，支持 AI 富化**
 
-本地优先、隐私导向的自托管联系人管理应用，遵循 Import→Dedupe→Enrich→Track 流程：从 Apple/Google/LinkedIn/Facebook 导入联系人并自动去重（90 天可撤销合并），将自然语言笔记转化为含日期、标签与提醒的完整档案，并可经网络调研补全人物信息与来源引用。提供每日简报 Pulse、基于自有数据的自然语言问答 Ask Contrack、地图视图、多账户隔离地址簿与校验备份。AI 功能可选接入（含 MCP/API 对接 Claude、Cursor 等客户端），也可完全不用 AI 运行；通过 Docker 或源码（Node.js 26.10+）部署。
+自托管的联系人管理应用，按导入→去重→富化→追踪四步流程工作：从 Apple、Google、LinkedIn、Facebook 导入联系人，合并重复档案，通过笔记或网页研究补全资料并给出引用来源，按设定频率提醒跟进。AI 为可选用途：自然语言提问 Ask Contrack 在本机私有搜索，MCP 接入 Claude、ChatGPT、Cursor 等客户端读取上下文并记录笔记，可不使用任何模型。数据存储于本地 Docker 卷，AGPL v3 许可，提供 Docker 镜像、源码构建与在线演示。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 多来源联系人导入与自动去重合并（90 天撤销）
-- 自然语言笔记转结构化档案（日期/标签/提醒）与带来源引用的联系人网络调研
-- Ask Contrack 基于本地联系人数据问答，搜索在本机执行
-- MCP/API 一键对接 Claude、ChatGPT、Cursor 等客户端，支持只读模式
+- 导入→去重→富化→追踪四步联系人管理流程，合并操作支持 90 天撤销
+- MCP 服务器一键接入 Claude、ChatGPT、Cursor 等客户端，支持只读权限
+- Ask Contrack 自然语言搜索联系人，搜索在本机完成
+- 一键完整性校验备份与定时自动备份，多档案隔离地址簿
 
 ## 适用场景
 
-- 把散落在各应用的联系人合并成一份可自持的网络
-- 维护家人或团队的联系人并保持跟进提醒
-- 让 AI 助手查联系人背景并记录笔记
+- 把分散在多个通讯录的联系人合并到自托管的一份档案
+- 用日常笔记和自然语言维护人脉并收到跟进提醒
+- 与家人或团队共用一台家庭服务器且彼此档案隔离
+- 让 Claude/Cursor 等 AI 助手查询联系人上下文并代记笔记
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L18: Contrack solves all of these by being an all-in-one, self-hosted contact management app that a follows a simple 4 s
-> L78: **Privacy isn't a setting. It's the foundation.** Contrack lives on your own computer or home server. Your relation
-> L101: Then open http://localhost:3210. There is no cloud account to sign up for and no API key required. Everything stay
+> L48: Ask in plain words, like "Who do I know in Lisbon?" or "Who loves natural wine?" Answers come straight from your ow
+> L80: Share one home server with your family or team while keeping everyone's address book completely private to them. An
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `3b06a937a462` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `7afe03ea8b96` · [字段定义](../../DATASET.md)*

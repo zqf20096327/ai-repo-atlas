@@ -2,15 +2,15 @@
 
 ⭐ 113 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/elevenlabs/cli) · [官网](https://www.elevenlabs.io) · 组织维护
 
-**ElevenLabs 平台命令行工具：全 API 访问与 Agent 配置管理**
+**访问 ElevenLabs 语音平台的命令行工具：全 API 接入与 Agents as Code**
 
-Rust 编写的 ElevenLabs 平台 CLI：将每个 API 端点暴露为子命令（elevenlabs <resource> <method>），支持 say 命令在终端直接文本转语音并调用本地播放器播放；核心功能 Agents as Code 通过本地 JSON 配置文件管理 Conversational AI agent，提供 init/add/push/pull 同步、模板（default/minimal/customer-service 等）、工具与测试注册；另含 Flows 异步任务轮询（create-and-wait）、数据驻留区域切换与 UI 组件安装。需 ElevenLabs API key 认证。
+Rust 编写的 ElevenLabs 平台官方 CLI，提供两条主线：一是把 ElevenLabs 每个 API 端点映射为子命令，实现全量 API 访问，认证用 API key 或 CI/云环境下的 workload identity federation（OIDC 令牌换短时令牌）；二是 Agents as Code，将 Conversational AI agent 配置以 JSON/YAML/TOML 存于本地，支持脚手架、push/pull 无损同步、分支管理与 ASCII/Mermaid 工作流图。另含 elevenlabs say 文字转语音播放与 Flows 后台任务的轮询等待命令。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@ Rust 编写的 ElevenLabs 平台 CLI：将每个 API 端点暴露为子命令（
 
 ## 能力要点
 
-- 每个 ElevenLabs API 端点均可作为 CLI 子命令调用
-- Agents as Code：本地 JSON 配置与平台 push/pull 无损同步
-- say 命令文本转语音并调用本机播放器（ffplay/mpv/afplay 等）
-- 提供 --dry-run、--page-all 自动分页、多种输出格式等通用 flags
+- 全部 ElevenLabs API 端点映射为 `elevenlabs <resource> <method>` 子命令
+- Agents as Code：本地 JSON/YAML/TOML 配置与 ElevenLabs 无损同步
+- workload identity federation 支持 GitHub Actions/GCP/AWS/Azure/K8s OIDC 令牌认证
+- elevenlabs say 文字转语音并调用本地播放器；agents workflow diagram 生成流程图
 
 ## 适用场景
 
-- 在终端或脚本中调用 ElevenLabs 语音与 Conversational AI API
-- 以配置文件版本化管理 agent、工具与测试并同步到平台
-- 在 CI 或工作流中等待 Flows 图像/视频/TTS 任务完成
+- 在终端里朗读文本或管道输出（如构建完成提示音）
+- 以配置文件方式版本化管理语音 agent 并推送到 ElevenLabs
+- CI 流水线中无密钥认证调用 ElevenLabs API
+- 将 agent 工作流转成流程图用于代码评审
 
 ## 场景标签
 
@@ -37,9 +38,10 @@ Rust 编写的 ElevenLabs 平台 CLI：将每个 API 端点暴露为子命令（
 
 ## 证据(README 行号)
 
+> L5: Command-line interface for the ElevenLabs platform.
 > L9: - **Full API access** — every ElevenLabs API endpoint is available as a subcommand (`elevenlabs <resource> <method>`
 > L10: - **Agents as Code** — manage Conversational AI agents from local configuration files, with templates, branches, an
-> L145: Manage Conversational AI agents from local configuration files. `elevenlabs agents init` scaffolds a project; agen
+> L163: Manage Conversational AI agents from local configuration files. `elevenlabs agents init` scaffolds a project; agen
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `aaa44014ab07` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `84f1e0e85b39` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 121 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/spleck/claw-dashboard) · [官网](https://www.npmjs.com/package/claw-dashboard) · 个人维护
 
-**终端实时监控面板：监控 OpenClaw 实例与系统资源**
+**为 OpenClaw 网关运维者提供终端实时监控面板**
 
-基于 Node.js 与 blessed 构建的终端 UI 仪表盘，用于监控 OpenClaw 实例：实时会话跟踪、agent 状态、安全审计与 token 用量，同时展示 CPU/内存/GPU（Apple Silicon）、进程、磁盘与网络等系统指标，默认 2 秒自动刷新。提供 9 种可拖拽排列/固定的小部件、4 套主题、命令面板、JSON/CSV 导出与快照导入导出，支持 screen/tmux/pm2/LaunchAgent 持久化运行。前置条件为 Node.js v22+ 与已安装的 OpenClaw，macOS（Apple Silicon 优化）环境。
+一个只读的终端 TUI 仪表盘，连接本地运行的 OpenClaw 网关，在单屏展示网关版本、会话与子代理线程状态、上下文压力、token 吞吐、估算成本、cron 自动化任务、活动流与日志尾部。零运行时依赖（仅 Node 内建模块），以 operator.read 只读角色连接，不中止会话、不写任何内容；支持断线自动重连与退避。要求 Node >= 22.19 与 OpenClaw 网关 2026.11+（协议 v4）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- OpenClaw 会话跟踪、agent 状态与安全审计
-- CPU/内存/GPU（Apple Silicon）/进程等系统指标实时展示
-- 小部件拖拽排列、固定与主题选择、命令面板
-- JSON/CSV 导出、定时导出调度与快照配置导入导出
+- 单屏展示会话线程、自动化任务、活动流与日志尾部
+- 零运行时依赖（仅 Node 内建模块），只读访问
+- Ed25519 设备密钥对自动配对（loopback 首次配对自动批准）
+- 支持 --once 明文快照模式用于脚本与冒烟测试
 
 ## 适用场景
 
-- 在终端实时查看 OpenClaw 会话与 token 消耗
-- 监控运行 OpenClaw 的机器的系统资源
-- 通过 tmux/pm2 让仪表盘常驻后台运行
+- 实时查看 OpenClaw 网关各会话与子代理的运行状态
+- 监控 cron 自动化任务的调度与错误
+- 在终端按日志级别过滤排障网关问题
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: A beautiful, real-time terminal dashboard for monitoring OpenClaw instances — inspired by modern system monitors lik
-> L16: - **🤖 OpenClaw Integration**: Live session tracking, agent status, security audit
+> L3: A minimal terminal dashboard for a running OpenClaw gateway — sessions, automations, live activity, and logs on one 
+> L17: Requires Node **>= 22.19** (uses the built-in `WebSocket`) and an OpenClaw gateway (2026.11+, protocol v4) running 
+> L44: `clawdash` connects with the `operator.read` role and scope **only**. It never aborts sessions, runs crons, or writ
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `a239c38a54c1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `bf8d3228b81b` · [字段定义](../../DATASET.md)*

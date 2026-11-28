@@ -2,9 +2,9 @@
 
 ⭐ 2,840 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/google/mantis) · [官网](https://cloud.google.com/) · 组织维护
 
-**给 AI 编码 agent 的漏洞发现、复现与修补工具包**
+**给安全团队用的 AI 代理漏洞发现与修补工具包**
 
-Mantis 由 skills 方法集与 ADK 参考执行器组成：agent 按需加载从威胁建模、研究、评审到修补与报告的技能，通过流水线扫描仓库——构建 tree-sitter 语义索引、生成威胁模型、分配研究假设、去重与校准发现、复现漏洞（静态分析到沙箱内动态利用）、以对抗循环验证补丁。结果存入 knowledge.db，支持 SARIF 导出与 MCP 侧车接入。要求隔离环境运行，发现需人工复核；GitHub Action 部分声明未经端到端验证。
+Mantis 由技能集与一个 ADK 参考执行器组成，驱动 AI 代理按流水线完成威胁建模、研究、审查、修补与报告：构建 tree-sitter 语义索引（20+ 语法）、自动生成威胁模型与假设、去重并校准发现、复现漏洞、以对抗循环验证修补，结果存入 knowledge.db 并支持 SARIF 导出与 MCP sidecar 接入。依赖 LLM 凭据（Vertex AI/Gemini API/Anthropic/OpenAI），需在隔离环境运行，PR 扫描 GitHub Action 尚未经端到端验证，发现须人工复核。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@ Mantis 由 skills 方法集与 ADK 参考执行器组成：agent 按需加载从
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 从威胁建模到补丁验证的完整 agent 流水线（ADK 参考实现）
-- tree-sitter 语义索引覆盖 20+ 语法，含固件/RTL 与智能合约
-- 支持 SARIF 2.1.0 导出与 MCP 编码 agent 侧车接入
-- 知识库 knowledge.db 累积威胁模型与历史发现供 /mantis-advise 查询
+- 技能按需加载，覆盖威胁建模到修补报告全流程
+- 支持 1-100 的 --depth 扫描深度与 token/时间预算护栏
+- SARIF 2.1.0 导出与 MCP 服务器接入编程代理
+- 覆盖全栈 Web、固件/RTL、智能合约、移动端等仓库类型
 
 ## 适用场景
 
-- 在隔离环境中对仓库做深度安全扫描并复现漏洞
-- 扫描 PR 中的安全变更（GitHub Action，声明未经验证）
-- 开发时通过 MCP 查询历史威胁模型避免重复引入问题
+- 在隔离环境中对代码仓库做深度安全扫描并复现漏洞
+- 自动修补已发现的漏洞并用对抗循环验证修复效果
+- 通过 MCP 让编程代理在开发中查询既有威胁模型与发现
 
 ## 场景标签
 
-`网络安全` `多智能体` · 领域:Agent 开发
+`多智能体` `网络安全` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L26: Mantis is a set of skills along with an ADK reference harness for building
 > L128: - Review history of a codebase to look for historical vulnerabilities we do not
-> L145: - Patch discovered vulnerabilities, using an adversarial loop to verify the
+> L141: - Reproduce the vulnerability to varying degrees, depending on available
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2a31a2f20a46` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `baf41116eb9f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 128 · TypeScript · AGPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Hipst3rMusic/obsidian-third-mind-reader) · 个人维护
 
-**Obsidian 中的 EPUB/PDF 阅读器，高亮存为 markdown，AI 聊天可选**
+**Obsidian 的 EPUB/PDF 阅读插件：标注与 AI 问答，AI 可选**
 
-面向 Obsidian 用户的 EPUB 与 PDF 阅读插件：书籍以标签页打开，选中文字弹出 Gloss 工具栏进行高亮与批注，每本书生成一个 companion note，批注以 markdown callout 形式写入 vault 并链接回原文。AI 功能默认关闭，配置 provider 后可对选中段落发起解释、深挖、多轮对话等四种模式，对话记录完整写入笔记；支持 Ollama、LM Studio 本地模型及 Anthropic、OpenAI、OpenRouter 云服务（自带 key）。不配置 AI 时以 Lite 模式运行，仅保留纯高亮。仅支持无 DRM 的 EPUB，移动端完整可用但 Android 测试较少。
+以 Obsidian 插件形式提供的 EPUB 与 PDF 阅读器：书籍以标签页打开，支持双页/单页排版、章节导航、全书搜索、进度记忆与书签；划选文本弹出 Gloss 工具栏生成标注，标注以纯 markdown 伴随笔记写入 vault 并回链原书。AI 部分默认关闭，配置 provider 后开放对话式标注（解释/追问等模式），支持本地（Ollama、LM Studio）与云端（Anthropic、OpenAI、OpenRouter），无 provider 时以 Lite 模式运行。仅支持无 DRM 书籍，源 EPUB 不被修改。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 高亮/批注以纯 markdown 写入 vault，反链接到原书，参与 graph view
-- AI 默认关闭，Lite 模式无 AI 运行；接入 provider 后提供 4 种 AI 模式
-- 支持 Ollama / LM Studio 本地推理，云端需自带 key
-- 移动端延迟 AI：手机上提出的问题在桌面端打开该书时由本地模型回答
+- 标注以纯 markdown 伴随笔记写入 vault，卸载插件后仍可读
+- Gloss 工具栏五种模式，无 AI 时保留纯高亮 Lite 模式
+- 支持本地推理（Ollama/LM Studio）与云端 provider（自带 API key）
+- 桌面与移动端完整支持，移动端可延迟到桌面本地模型回答
 
 ## 适用场景
 
-- 在 Obsidian 内阅读 EPUB/PDF 并把批注留在自己笔记库
-- 阅读时对选中段落即时发起 AI 解释或深挖对话
-- 本地模型完成推理，不把书中内容发送到云端
+- 在 Obsidian 内阅读 EPUB/PDF 并将批注沉淀为笔记
+- 阅读时对选中段落发起 AI 解释与追问
+- 保持推理本地化、数据不出本机的标注工作流
 
 ## 场景标签
 
@@ -37,8 +37,10 @@
 
 ## 证据(README 行号)
 
+> L5: An opinionated EPUB & PDF reader for Obsidian. Books open as tabs like anything else in your vault, designed to be m
+> L19: I thought the act of annotation can look different too, with the technologies available to us now. Which is why I c
 > L47: **If you don't want AI anywhere near your reading, you don't have to have it.** AI is off until you add a provider,
-> L71: **Local first.** Point it at Ollama or LM Studio and nothing ever leaves your machine. Cloud providers (Anthropic, 
+> L73: **Local first.** Point it at Ollama or LM Studio and nothing ever leaves your machine. Cloud providers (Anthropic, 
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1f009246446c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8082ed09bfa6` · [字段定义](../../DATASET.md)*

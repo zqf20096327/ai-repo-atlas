@@ -2,9 +2,9 @@
 
 ⭐ 128 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/flagdizero/jenny-android-ai-agent) · [官网](https://jenny.flagdizero.com) · 个人维护
 
-**运行在 Android 手机上的本地优先个人 AI agent 应用**
+**本地优先的 Android 个人 AI agent：常驻手机、离线可用**
 
-Android 应用（内嵌 CPython 3.11/Chaquopy），以持续前台服务运行一个个人 AI agent：提供设备端永久记忆（定期将对话提炼为 Markdown）、定时自主任务与提醒、按对话请求自写 Android 迷你应用（动作可作为工具被调用）、由聊天驱动的 wiki 构建功能，并可注册为主屏启动器。BYOK 支持 40+ 提供商，也可指向 Ollama/LM Studio 全程离线运行。数据存于设备私有存储，AGPL-3.0，个人开发者的 1.0 版本，仅侧载分发（无商店），已知限制（Bing-only 搜索、python_exec 非沙箱等）在 README 中逐条列出。
+以 Android 应用形式提供的个人 AI agent，内嵌 CPython 3.11 运行时，以前台服务常驻运行。提供设备端持久记忆（对话蒸馏为结构化 Markdown）、定时自主任务与主动消息、自写 mini-app 并装入应用格、Markdown wiki 编译，并可注册为 HOME 活动充当启动器。数据留在设备，通过 BYOK 接入 40+ 提供商，或指向本地模型实现全离线。仅提供侧载 APK 或源码构建，AGPL-3.0，个人项目，无商店渠道与自动更新。
 
 ## 筛选速览
 
@@ -16,21 +16,21 @@ Android 应用（内嵌 CPython 3.11/Chaquopy），以持续前台服务运行�
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 设备端永久记忆：后台定期提炼对话为结构化 Markdown
-- 按对话请求生成可被工具调用（含 cron）的 Android 迷你应用
-- 支持 40+ BYOK 提供商，或经 Ollama/LM Studio 全程离线运行
-- 可注册为 HOME 启动器，前台服务支持关屏后定时任务
+- 设备端持久记忆：后台将对话蒸馏为结构化 Markdown，存于本地
+- 定时任务与主动消息，息屏时也可触发并先行发消息
+- 按描述自写 Android mini-app，其操作可被 agent 通过 use_app 工具调用
+- BYOK 支持 40+ 提供商，或接 Ollama/LM Studio 全离线运行
 
 ## 适用场景
 
-- 在手机上常驻一个带永久记忆的个人 AI 助手
-- 让 agent 定时执行任务并在锁屏时主动提醒我
-- 用自然语言让 agent 为我生成小工具应用
-- 本地模型 + 自有硬件，实现完全离线的 agent 循环
+- 在个人手机上运行不依赖云服务的 AI 助手
+- 让 agent 按计划自动完成总结、提醒等周期性任务
+- 用聊天描述并生成记录植物状态之类的小工具
+- 把首页替换为对话式启动器
 
 ## 场景标签
 
@@ -38,8 +38,9 @@ Android 应用（内嵌 CPython 3.11/Chaquopy），以持续前台服务运行�
 
 ## 证据(README 行号)
 
-> L5: It remembers you permanently, acts on a schedule without being asked, writes its own
-> L27: Jenny is an Android app with an embedded Python runtime. It registers as a HOME activity, so
+> L25: ## An AI agent that runs on your phone, not in someone's cloud
+> L47: - **The model provider is your choice, and it is optional.** Point Jenny at Ollama or
+> L57: **🧠 Permanent on-device memory.** Every couple of hours a background pass replays the recent
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e3a34ea1a86b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `95b85bc84d3c` · [字段定义](../../DATASET.md)*

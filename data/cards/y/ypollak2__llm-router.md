@@ -2,9 +2,9 @@
 
 ⭐ 131 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ypollak2/llm-router) · 个人维护
 
-**为 AI 编程工具跨免费/付费模型分层路由的本地路由器**
+**为 AI 编码工具接入免费/本地模型的路由器，降低订阅配额消耗**
 
-面向 Claude Pro/Max 等订阅用户的本地 LLM 路由器：通过 MCP 钩子在编码工具（Claude Code、Codex CLI、Cursor、Gemini CLI、Copilot 等 15+ host）处理 prompt 前拦截，用正则启发式分类，先由免费或本地模型（Ollama）起草回答，必要时沿免费→预算→付费链路升级。默认草稿仅作建议，Claude 仍接管回合，需 LLM_ROUTER_ZERO_CLAUDE=1 才替代。含密钥检测仅走本地、熔断降级、verified/unverified 分开统计的节省报告；本地直执行仅靠静态 tripwire 而非沙箱。以 pip 包提供，另有 Python 进程内 API。
+以 hook 方式挂接 Claude Code 等 AI 编码工具的生命周期，在宿主模型读取 prompt 前拦截，先用免费或本地模型生成草稿答案，必要时沿 fallback 链上升至付费模型；默认草稿仅为提示，宿主模型仍执行本回合。免费优先策略针对订阅用户（无需 API key，路由经 MCP 工具与本地模型），含熔断 fallback、密钥安全路由、grounding check、本地运行统计与节省报告。面向个人开发者与小团队；团队策略/SSO 等指向独立产品 Chuzom。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 免费优先分层路由：先免费/本地模型起草，按需升级到付费模型
-- 支持 15+ 编码工具 host（Claude Code/Codex/Cursor/Gemini CLI/Copilot 等）
-- 无 API key 即可在 Claude 订阅上运行，路由经 MCP 工具与本地模型
-- 密钥/令牌命中的 prompt 仅路由到本地模型（fail-closed）
+- hook 拦截 prompt，先由免费/本地模型起草，按需沿链路升到付费模型
+- 订阅场景无需 API key，路由经 MCP 工具与本地模型
+- 含密钥的安全路由仅发往 loopback 本地 Ollama，并有 grounding check 丢弃无依据草稿
+- 支持 15 个宿主安装（Claude Code/Codex/Cursor/Gemini CLI 等）与熔断 fallback
 
 ## 适用场景
 
-- Claude 订阅 5 小时额度被低价值 prompt 消耗时把简单问题路由到免费模型
-- 在 Cursor/Codex 等工具中自动降级到 Ollama 等免费后端以压低成本
-- 通过 status/sessions 命令查看分层节省与各 provider 延迟成本
+- Claude Pro/Max 订阅用户减少五小时配额被简单问题耗尽
+- 让含 API 密钥的 prompt 只经本地模型处理
+- 在多宿主编码工具间统一免费优先的模型路由策略
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7:  llm-router hooks into your coding tool's own lifecycle, reads each prompt before the
-> L99: Hooks intercept the prompt before your coding tool's own model sees it. A free
-> L133: |Providers|Free-first — Ollama (local), OpenRouter, Gemini, Groq, your Claude subscription|guide/PROVIDERS.md|
+> L5:  llm-router hooks into your coding tool's own lifecycle, reads each prompt before the
+> L67: Python agents route in-process, no server: `from llm_router import Router; r = Router(budget_usd=0.50).run("...")` 
+> L140: |Providers|Free-first — Ollama (local), OpenRouter, Gemini, Groq, your Claude subscription|guide/PROVIDERS.md|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `906581fcc7eb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `df936606e8cf` · [字段定义](../../DATASET.md)*

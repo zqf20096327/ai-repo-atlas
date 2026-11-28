@@ -2,9 +2,9 @@
 
 ⭐ 123 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/5235aa-web/pebbleagent) · 个人维护 · 中文 README
 
-**带工具与 MCP 的轻量桌面 AI 编程代理**
+**给开发者的桌面 AI agent：带工具、技能、MCP 与跨会话记忆**
 
-面向个人开发者的桌面 AI 编程代理：以 Vue 3 + Tauri 2 桌面壳与 Python 后端（WebSocket JSON-RPC）组成。功能包括将仓库索引为分章知识库并随项目同步、基于规则的跨会话经验账本（SQLite）、写入前快照与回滚、三档权限模式与防篡改审计日志、50 个内置技能与经 sha256 校验的 MCP 服务器管理、实时成本追踪（含中国法定节假日峰谷计价）与 HTML 沙盒预览反馈。桌面壳仅支持 Windows 构建，macOS 以 Web 模式运行，Linux 未测试。
+基于 Tauri 2 + Vue 3 + Python 后端的桌面 AI agent，通过 WebSocket JSON-RPC 与网关通信。核心机制包括：将仓库索引为章节化代码知识库并随项目同步、本地 SQLite 经验账本跨会话记住用户纠正与偏好（规则匹配而非额外模型调用）、写前快照与回滚、三级权限模式与防篡改审计日志、MCP 服务器按项目审批安装（sha256 校验）、按模型峰值/低谷分档的实时成本跟踪。桌面 shell 仅 Windows 可构建，macOS 仅支持 web 模式，Linux 未测试。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 仓库索引为自维护代码知识库并随项目同步
-- 跨会话经验账本按规则捕获与召回，不额外调用模型
-- 每次写入前快照，支持单文件或整变更集回滚
-- 三档权限模式 + 规则集 + 链式校验审计日志
+- 代码知识库：索引仓库、对照源码校验并保持同步
+- 跨会话经验账本：SQLite 存储、全文相关性召回、自动淘汰过期条目
+- 权限与审计：tool:pattern 规则、路径白名单、链式校验和审计日志
+- HTML 沙箱预览与反馈桥：点击元素留注释让 agent 迭代
 
 ## 适用场景
 
-- 日常轻量编码时让 agent 代为读写文件并回滚改动
-- 通过对话安装技能与 MCP 服务器扩展 agent 能力
-- 在受控权限与审计下让 agent 操作代码库
+- 让 AI agent 直接在自己的仓库里读代码、改文件并可回滚
+- 通过 MCP 面板按项目安装和审批外部服务器
+- 跟踪与不同 LLM 提供商对话的实时 token 成本
+- 让 agent 生成 HTML 页面并通过批注迭代设计
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: **A light,extensible desktop AI agent with tools, skills, MCP servers, a self-maintained code knowledge base, and cr
-> L19: - **Code Knowledge Base (CKB).** The agent indexes your repository into a chaptered knowledge base, verifies it aga
-> L26: - **Streaming agent chat with full execution visibility.** Reasoning, tool calls, file changes, and results unfold 
+> L23: - **Skills and MCP servers.** Two bundled skills (`ckb` and `frontend-design`) load on demand; MCP servers over std
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `d5e99942261c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `1db20536193a` · [字段定义](../../DATASET.md)*

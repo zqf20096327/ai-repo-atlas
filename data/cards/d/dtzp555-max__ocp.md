@@ -4,7 +4,7 @@
 
 **把 Claude Pro/Max 订阅转为 OpenAI 兼容 API 的本地代理**
 
-OCP 在 localhost 运行代理，将 OpenAI 兼容的 /v1/chat/completions 请求转换为官方 claude CLI 调用，使 IDE 与设备以订阅计费使用 Claude（L160-163）。面向已有 Claude Pro/Max 订阅的开发者与家庭/小团队。关键机制：LAN 多用户 per-key 鉴权与配额、可选 SHA-256 响应缓存、SSE 心跳、以 ALIGNMENT.md 约束端点与 cli.js 对齐并由 CI 拦截漂移（L29-34）。限制：仅支持 Claude、单维护者、pre-1.0，需 Node.js 与 Claude CLI，Windows 不支持 TUI 模式。
+OCP 在本地启动一个 OpenAI 兼容代理（默认端口 3456），将 /v1/chat/completions 请求翻译为官方 claude CLI 的 stream-json 调用，从而让支持 OPENAI_BASE_URL 的 IDE 工具直接使用订阅额度。提供 LAN 多用户密钥、每密钥配额、可选响应缓存、SSE 心跳；通过 git clone + node setup.mjs 安装，需 Node.js 22.13+/23.4+ 与 Claude CLI。Windows 不支持 TUI 模式与 ocp CLI。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ OCP 在 localhost 运行代理，将 OpenAI 兼容的 /v1/chat/completions 请�
 
 ## 能力要点
 
-- LAN 多用户 per-key 鉴权，每键独立用量追踪与配额
-- 可选 per-key 隔离的 SHA-256 响应缓存，含并发防护
-- ALIGNMENT.md + CI 强制端点与 cli.js 对齐
-- ocp-connect 一条命令自动配置 OpenClaw 并检测常见 IDE
+- 将 Claude Pro/Max 订阅转为 OpenAI 兼容 API 端点
+- LAN 多用户密钥与每密钥日/周/月配额
+- 以 spawn 官方 CLI 方式运行，不提取 OAuth 令牌或修改二进制
+- ALIGNMENT.md 与 CI 工作流约束端点与 cli.js 对齐
 
 ## 适用场景
 
-- 让 Cline/Aider/Continue.dev 等 IDE 工具使用 Claude 订阅而非 API 计费
-- 家庭/小团队在局域网内共享一个订阅并按设备设配额
-- 在 Pi/NAS/VPS 等无头设备上部署订阅代理
+- 让 Cline/Aider/Continue.dev 等 IDE 工具复用已有 Claude 订阅
+- 在局域网多台设备间共享一份订阅并分别计量
+- 为孩子的设备设置每日请求配额
 
 ## 场景标签
 
@@ -38,6 +38,7 @@ OCP 在 localhost 运行代理，将 OpenAI 兼容的 /v1/chat/completions 请�
 ## 证据(README 行号)
 
 > L11: OCP turns your Claude Pro/Max subscription into a standard OpenAI-compatible API on localhost. Any tool that speaks
+> L16: Aider          ───┼──→ OCP :3456 ──→ Claude CLI ──→ Your subscription
 > L163: OCP translates OpenAI-compatible `/v1/chat/completions` requests into `claude --output-format stream-json` CLI cal
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `6e09dd442797` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `2ec0a2b2d70a` · [字段定义](../../DATASET.md)*

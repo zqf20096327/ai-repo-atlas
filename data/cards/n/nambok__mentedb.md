@@ -2,9 +2,9 @@
 
 ⭐ 125 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/nambok/mentedb) · [官网](https://mentedb.com) · 个人维护
 
-**面向 AI agent 记忆的 Rust 数据库引擎：存储、检索与上下文预组装**
+**为 AI agent 记忆打造的 Rust 认知型数据库引擎**
 
-用 Rust 从底层构建的 agent 记忆数据库引擎，非对既有数据库的封装。提供 WAL、HNSW 向量检索与 BM25 融合、知识图谱、双时态有效期、矛盾检测与信念传播、按 token 预算组装上下文等机制。单次 process_turn 调用即可完成嵌入、混合检索、情景存储与模式抽取；基础认知管线无需 LLM，更丰富的语义抽取与实体图谱需配置 LLM。部署方式有托管云服务与自托管（cargo、Docker），并提供 Python/TypeScript SDK、gRPC/REST/MCP 三种接入路径及 LangChain/CrewAI 集成包。README 声明处于 Beta，API 可能随次版本变化。
+MenteDB 是一个从零构建的 Rust 存储引擎，用于管理 AI agent 的长期记忆：写入时做 LLM 抽取、实体消解、质量过滤、去重与矛盾检测，检索时融合 HNSW 向量、BM25 与知识图谱遍历，并按 token 预算与 U 曲线组装上下文。核心认知管线不依赖 LLM；更丰富的语义抽取通过配置 provider 使用。可通过云托管 API key 使用，或用 cargo/Docker 自托管；提供 Python/TypeScript SDK、CLI、MQL 查询语言，以及 LangChain/CrewAI 集成包和 MCP 接入。
 
 ## 筛选速览
 
@@ -16,29 +16,31 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 写入时智能：质量过滤、去重、矛盾检测与信念传播
-- 混合检索：HNSW 向量 + BM25 经倒数排名融合，可选重排与 MMR
-- 实体中心记忆：自动抽取类型化实体并以图边关联记忆
-- 本地 Candle 嵌入（all-MiniLM-L6-v2）零配置语义检索，无需 API key
+- 写入时智能：抽取、实体图谱、质量过滤、去重、矛盾检测与信念传播
+- 混合检索：HNSW 向量 + BM25 + 图遍历的倒数排名融合，可选重排与 MMR 多样性
+- 双时间线有效性与增量感知服务（减少记忆检索 token）
+- gRPC、REST、MCP 三种集成路径与记忆空间 ACL 隔离
 
 ## 适用场景
 
-- 给自建 agent 提供带认知分层的长期记忆存储
-- 多 agent 场景下按记忆空间与 ACL 隔离记忆
-- 通过 MCP 让 Claude Code/Cursor/Copilot 等工具自动积累与调用记忆
+- 为多轮对话 agent 存储和召回结构化长期记忆
+- 通过 MCP 让 Claude Code/Cursor 等 assistant 每轮自动读写记忆
+- 多 agent 场景下按记忆空间做隔离与权限控制
+- 自托管为多个租户提供记忆数据库服务
 
 ## 场景标签
 
-`Agent 记忆` `向量数据库` `知识图谱` · 领域:Agent 开发
+`Agent 记忆` `知识图谱` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L9: MenteDB is a purpose built database engine for AI agent memory. Not a wrapper around existing databases, but a groun
-> L103: Memory is one call. `process_turn` embeds the user message, recalls what is
+> L7: MenteDB is a purpose built database engine for AI agent memory. Not a wrapper around existing databases, but a groun
+> L101: Memory is one call. `process_turn` embeds the user message, recalls what is
+> L197: - **LLM Powered Cognitive Inference** CognitiveLlmService judges whether new memories invalidate, update, or are c
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e58e0db0ef31` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ca712eb92ae8` · [字段定义](../../DATASET.md)*

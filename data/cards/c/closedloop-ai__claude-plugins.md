@@ -2,9 +2,9 @@
 
 ⭐ 122 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/closedloop-ai/claude-plugins) · 组织维护
 
-**面向开发团队的开源 Claude Code 多智能体 SDLC 插件集**
+**给软件开发团队用的 Claude Code 多智能体插件集**
 
-ClosedLoop.AI 公司开源的 Claude Code 插件集合，覆盖项目引导、实现规划与编码循环、自动代码审查（GitHub PR 内联评论）、质量评判与自学习模式沉淀，按 bootstrap/plan/code/ship 阶段组织多智能体工作流，并以你的代码库为上下文。提供 curl 一键安装器、Claude Code marketplace 安装与 Codex manifest 三种接入方式，附带 code-review 人工评审评测集。README 声明这是工程预览版，建议在可信环境中测试使用。
+ClosedLoop.AI 以开源 Claude Code 插件形式发布的一组多智能体 SDLC 工具，覆盖项目引导、实现规划、代码生成迭代循环、带 GitHub PR 内联评论的代码评审、质量评测与模式捕获等；由 8 个插件组成（bootstrap/code/vibe/code-review/platform/self-learning 等），以 artifact 阶段门与自学习机制组织工作流，绑定用户自有代码库。需 Python 3.11+、jq 与 Claude Code；亦提供 Codex 平台的清单支持。官方声明为工程预览，建议在可信环境测试。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ ClosedLoop.AI 公司开源的 Claude Code 插件集合，覆盖项目引导、�
 
 ## 能力要点
 
-- 7 个插件：bootstrap/code/vibe/closedloop-core/code-review/platform/self-learning
-- 阶段化工作流门控与多仓库自适应自学习
-- 代码审查插件在 GitHub PR 上输出内联评论
-- 同一插件行为可在 Claude Code 与 Codex 中运行（含评测集）
+- 8 个插件覆盖规划、编码、评审、自学习与平台指导
+- 一键安装脚本安装四个 Symphony 运行时插件并自动更新
+- 同一插件可通过 Codex 清单在多 agent 工作区运行
+- 提供 evals/code-review 人工评审评测集
 
 ## 适用场景
 
-- 在 Claude Code 中用多智能体流程做规划-编码-审查-交付
-- 团队将工单转化为实现计划并在 PR 内获得自动审查
-- 沉淀团队编码模式并共享组织知识
+- 团队用规划门与 PR 评审流程组织 AI 辅助开发
+- 在 GitHub PR 上自动生成内联代码评审评论
+- 捕获团队模式并沉淀组织知识
 
 ## 场景标签
 
-`多智能体` `编码 Agent` `代码审查` · 领域:Agent 开发
+`多智能体` `编码 Agent` `代码审查` `代码生成` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `10a11b5f8432` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `255515fe0a5b` · [字段定义](../../DATASET.md)*

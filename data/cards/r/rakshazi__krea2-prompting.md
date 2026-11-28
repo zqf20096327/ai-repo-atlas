@@ -2,9 +2,9 @@
 
 ⭐ 140 · Python · CC-BY-SA-4.0 · 推送 2026-11-27 · [GitHub](https://github.com/rakshazi/krea2-prompting) · [官网](https://rakshazi.me/blog/krea2-prompting-skill/) · 个人维护
 
-**Krea 2 (Turbo) 文生图提示词 agent 技能库**
+**Krea 2 Turbo 提示词 agent 技能，附大量参考库**
 
-面向 ComfyUI 上 Krea 2 Turbo 模型的 agent skill（SKILL.md 格式参考库）：不含模型与权重，只提供提示词写法、设置、姿势块、289 个风格名与逐条实测记录（同 checkpoint 同种子、单变量对照）。文本编码器为 Qwen3-VL，方法论为写句子而非标签堆叠。含 18+ 成人内容文件与评测触发器 JSON。通过 git clone 到 Claude Code / omp 等 agent 技能目录安装，任何加载 SKILL.md 的运行时均可用。
+一个面向 ComfyUI 中 Krea 2 Turbo 图像生成的 Agent Skill（SKILL.md 规范）：包含提示词写法、ComfyUI 默认参数、姿势块、风格名索引及经本地测试的措辞效果记录，分 12 个按需加载的参考文件，含成人（18+）章节。所有结论来自作者本地同种子对照测试，仓库不含模型权重。安装方式是 git clone 到 agent 技能目录（Claude Code 等运行时），基于 buxinzi2233/krea2-prompting（MIT）并改为 CC BY-SA 4.0。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `viral` | CC-BY-SA-4.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- SKILL.md 入口 + 10 余个参考文件（摄影写实、核心架构、ComfyUI 设置、姿势库、风格索引等）
-- 30 个即贴姿势块与 11 字段姿势 schema
-- 289 个风格名、两个风格撰写公式
-- 每条 tested 声明来自本地同种子单变量实测
+- SKILL.md 入口加 12 个按需加载的参考文件（姿势/风格/写实/局部重绘等）
+- 289 个风格名索引与 30 个可粘贴姿势块
+- 成人章节为最大且测试最多部分（18+）
+- 附 evals 维护工具（lint.py/触发查询/评测集）
 
 ## 适用场景
 
-- 让 Claude Code 等 agent 按实测规则为 Krea 2 生成提示词与设置
-- 查询特定题材（巨构建筑、巨兽、宇宙恐怖等）的提示词写法
-- 对照失败词表避免无效措辞
+- 让 Claude Code 等技能运行时代为撰写 Krea 2 的 ComfyUI 提示词与参数
+- 按参考图反推提示词并保持角色/构图一致
+- 查询经测试验证的风格名、姿势块与失败措辞表
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L9: This repo is the result. It is an agent skill for Krea 2 Turbo in ComfyUI: prompts, settings, pose blocks, style nam
-> L41: |`SKILL.md`|The entrypoint. Mental model, ComfyUI defaults, prompt order, workflow, pre-flight rules. Start here.|
-> L86: The frontmatter follows the Agent Skills spec: `name`, `description`, `license`, `compatibility`, and a `metadata` 
+> L45: |`SKILL.md`|The entrypoint. Mental model, ComfyUI defaults, prompt order, workflow, the six checks every prompt get
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `09929a85f92a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `184fc646ae89` · [字段定义](../../DATASET.md)*

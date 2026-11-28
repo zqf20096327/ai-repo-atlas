@@ -1,10 +1,10 @@
 # SimplyLiz/ckb
 
-⭐ 114 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/SimplyLiz/ckb) · [官网](https://github.com/SimplyLiz/CodeMCP/wiki) · 个人维护
+⭐ 114 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/SimplyLiz/ckb) · [官网](https://github.com/SimplyLiz/CodeMCP/wiki) · 组织维护
 
-**把代码库变成可查询知识库的 MCP 服务，供 AI 助手做代码导航与影响分析**
+**面向 AI 编程助手与开发者的代码知识查询后端**
 
-CKB 将代码库转化为可查询的知识库，通过 SCIP 索引与 tree-sitter 解析提供符号导航、调用图、影响分析（blast radius 与风险评分）、死代码检测、所有权查询与密钥扫描等能力。开发者可通过 CLI、HTTP API 和 MCP 三种方式使用，MCP 可接入 Claude Code、Cursor、Windsurf、VS Code、Grok 等 AI 编码工具，并提供 110+ 工具与 preset 机制减少 token 消耗。语言支持分四个层级：Go 为 Tier 1 且增量索引仅限 Go，C/C++ 需 compile_commands.json。可通过 npm、Homebrew 或 Go 源码构建安装。
+CKB 将代码库转换为可查询的知识库，通过 MCP、CLI 和 HTTP API 三种接口提供语义搜索、调用图、影响分析、风险评分、死代码检测、密钥扫描、所有权查询与架构映射等功能。底层依赖 SCIP 索引，无索引时以 tree-sitter 解析降级运行；语言支持分四档，Go 为完全支持档并支持增量索引。提供 npm/Homebrew/源码安装，可一键接入 Claude Code 等 AI 编程工具，PR 审查模式无需 LLM 调用即可输出 SARIF 结果。
 
 ## 筛选速览
 
@@ -13,35 +13,34 @@ CKB 将代码库转化为可查询的知识库，通过 SCIP 索引与 tree-sitt
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- SCIP 索引驱动的符号导航、调用图与影响分析（含风险评分）
-- MCP/CLI/HTTP API 三种使用方式，支持 Claude Code、Cursor、Windsurf 等工具
-- preset 机制按需加载工具集，降低 token 开销
-- 21 项质量检查的 PR 审查模式，可在无 LLM 的 CI 中运行
+- 基于 SCIP 索引的语义导航、影响分析与调用图
+- explore/understand/prepareChange 单调用复合工具以减少 AI 工具调用次数
+- PR 审查运行 21 项检查且零 token、零 API 调用
+- 工具预设按需加载以降低上下文占用，支持 SSE 流式输出
 
 ## 适用场景
 
-- 让 AI 编码助手精确回答改动影响范围与调用关系
-- PR 审查时自动检查密钥泄露、破坏性变更与死代码
-- 查询代码所有权、推荐 reviewer 并检测漂移
-- 通过 CLI 或 HTTP API 在脚本与 CI/CD 中查询代码结构
+- 在 Claude Code/Cursor 中通过 MCP 查询代码影响范围与调用关系
+- CI 中无需 LLM 运行 PR 质量审查并输出 SARIF 报告
+- 定位死代码、密钥泄露与技术债务热点
+- 为自研 IDE 插件或脚本提供 HTTP API 代码智能后端
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+`语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L12: CKB transforms your codebase into a queryable knowledge base. Ask questions, understand impact, find owners, detect
 > L44: 🔗 **Integrate** — CLI, HTTP API, MCP for AI tools, CI/CD pipelines, custom scripts
-> L294: ## MCP Integration
-> L296: CKB works with any MCP-compatible AI coding tool.
+> L170: |**MCP**|AI-assisted development — Claude, Cursor, Windsurf, VS Code, OpenCode, Grok, Codex|
 
 ## 星数曲线
 
@@ -57,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `aff1dcadb9b1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `0f189a3fe3b1` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 119 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/cnblogs/dashscope-sdk) · [官网](https://www.nuget.org/packages/Cnblogs.DashScope.AspNetCore) · 组织维护 · 中文 README
 
-**面向 .NET 的非官方 DashScope（百炼）服务 SDK**
+**.NET 开发者访问阿里云百炼 DashScope 服务的非官方 SDK**
 
-由博客园团队维护的 .NET SDK，用于接入阿里云 DashScope（百炼）服务，覆盖文本生成、多模态、语音合成、图像生成、应用调用、Batch 与文本嵌入等 API。提供 Console 与 ASP.NET Core 两种接入方式，并额外提供 Cnblogs.DashScope.AI 包以实现 Microsoft.Extensions.AI 的 IChatClient 接口，支持流式输出、思考模型、工具调用、结构化输出、联网搜索、代码解释器、OCR 与 PPT 生成等能力。README 声明项目仍在积极开发中，次要版本也可能出现破坏性变更。
+Cnblogs 维护的非官方 DashScope（百炼）服务 .NET SDK，提供三个 NuGet 包：控制台用的 Cnblogs.DashScope.Sdk、ASP.NET Core 集成包，以及实现 Microsoft.Extensions.AI IChatClient 接口的 Cnblogs.DashScope.AI。覆盖文本生成、多模态、语音识别/合成、图像与视频生成、嵌入、重排等 API 类别；内置多模态/文本端点白名单映射、区域与业务空间（workspace）端点切换、内容检查请求头配置。README 提示项目仍在积极开发中，小版本也可能出现破坏性变更。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 覆盖文本生成、多模态、TTS、图像生成、Batch、嵌入等 DashScope API
-- 提供 Microsoft.Extensions.AI 的 IChatClient 适配包（AsChatClient）
-- 支持流式输出、思考模型（ReasoningContent/ThinkingBudget）、工具调用与 JSON 结构化输出
-- 支持文件上传（可限速）、OCR 高级识别与 qwen-doc-turbo PPT 生成
+- 三个 NuGet 包分别覆盖控制台、ASP.NET Core 依赖注入与 Microsoft.Extensions.AI IChatClient 接口
+- 覆盖文本生成、多模态、TTS、ASR、图像/视频/3D 生成、嵌入、重排等 API 类别
+- 内置多模态/文本端点白名单映射与 AutoSyncModelList 自动查询模型列表
+- 支持多区域（北京/新加坡/香港等）与业务空间端点切换
 
 ## 适用场景
 
-- 在 .NET 应用中调用 DashScope 上的 Qwen 等模型
-- 通过 Microsoft.Extensions.AI 标准接口在 ASP.NET Core 中接入大模型
-- 构建带工具调用、联网搜索或代码解释器的对话应用
+- 在 .NET 应用中调用百炼的文本生成与对话 API
+- 通过 IChatClient 接口接入 qwen 系列模型并使用工具调用
+- 为 TTS 或流式语音识别应用接入 CosyVoice/Paraformer
+- 在企业业务空间（workspace）中管理 API 访问与区域端点
 
 ## 场景标签
 
- · 领域:LLM 基础设施/API SDK
+ · 领域:LLM 基础设施/SDK
 
 ## 证据(README 行号)
 
 > L9: A non-official DashScope (Bailian) service SDK maintained by Cnblogs.
-> L58: var client = new DashScopeClient("your-api-key").AsChatClient("qwen-max");
+> L189: ## Supported APIs
+> L53: ### Using `Microsoft.Extensions.AI` Interface
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `26e37e6dc8bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ead9fb74f2d0` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 126 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/WecoAI/weco-cli) · [官网](https://weco.ai) · 组织维护
 
-**LLM 引导的代码自动优化 CLI，按评估指标迭代改进代码**
+**LLM 驱动的自动代码优化 CLI：按评估指标迭代改进代码**
 
-Weco CLI 通过 LLM 引导的树搜索迭代优化用户代码：自动应用改动、运行用户评估脚本、解析指标并提出下一步改进。适用场景包括 agent harness 工程、prompt 工程与压缩、ML 模型与训练管线调优、CUDA/Triton GPU 内核等可度量代码的性能优化。支持多文件联合优化、运行中断恢复、审查模式与 BYOK 多模型 API key；另有 weco observe 子命令将外部实验跟踪到 Weco 仪表盘，并以 skill 形式接入 Claude Code、Cursor、Codex、OpenClaw 等 AI 编码助手（实验性）。使用需登录 Weco 账户并按 credits 计费，README 注明当前不支持代码中的反引号。
+weco 是一个命令行工具，用 LLM 引导的树搜索对用户代码做迭代优化：自动修改代码、运行用户的评估脚本、解析指标并继续提出改进。适用对象包括做 agent harness 工程与 prompt 工程的开发者、调 ML 训练管线的研究者、以及优化 CUDA/Triton kernel 等 GPU 代码的工程师。以 pip 包和安装脚本分发，可作为 skill 安装到 Claude Code/Cursor 等 AI 编码助手；`weco observe` 支持跟踪外部实验，提供 dashboard 与 Python SDK。
 
 ## 筛选速览
 
@@ -16,25 +16,25 @@ Weco CLI 通过 LLM 引导的树搜索迭代优化用户代码：自动应用改
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- LLM 树搜索迭代优化：应用改动→运行评估→按指标继续改进
-- 多文件联合优化与跨文件边界修改
-- weco observe 跟踪外部实验到仪表盘（树可视化、代码 diff、指标）
-- skill 形式接入 Claude Code / Cursor / Codex / OpenClaw
+- LLM 引导的树搜索迭代优化，自动运行评估并解析指标
+- 作为 skill 安装到 Claude Code/Cursor/Codex/OpenClaw
+- weco observe 以 JSON 输出跟踪外部优化实验，含树可视化和代码 diff
+- 多文件同时优化与 BYOK 多 provider API key 配置
 
 ## 适用场景
 
-- 优化 LLM agent 的 prompt、工具与脚手架
-- 在保持精度的前提下压缩或精炼 prompt
-- 调优 ML 特征变换、架构与训练管线
-- 加速 CUDA / Triton GPU 内核等有可度量目标的代码
+- 优化 LLM agent 的 harness、工具与 scaffold 以提升 accuracy/win_rate
+- 为数学问题等场景精炼或压缩 prompt 并保持准确率
+- 调整特征变换、架构或整条训练管线以最大化验证指标
+- 加速 CUDA/Triton GPU kernel 并优化 latency/throughput
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e7095694cda2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `fe377483f427` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 160 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/visresearch/WordAgent) · [官网](https://visresearch.github.io/WordAgent/) · 组织维护 · 中文 README
 
-**面向 WPS 与 Word 的 AI 智能体写作辅助加载项系统**
+**通过 WPS/Word 加载项实现 AI 智能体辅助写作**
 
-通过 WPS 与 Microsoft Word 加载项接入的 AI 辅助写作系统：前端加载项把用户问题与所选段落转为 JSON 发往后端，后端以 ReAct 智能体循环调用 search/read/delete/generate/edit 等文档工具，完成内容生成、结构优化与修改，结果以 Word 原生修订形式呈现，并保留标题/加粗/缩进等样式。支持 MCP Server 与 Skill 两类扩展工具、上下文压缩与长短期记忆。用户自带 LLM API key，已测试 Qwen、GLM、GPT、DeepSeek、Claude 等多家模型；支持 Windows/Linux/macOS，提供打包发布文件与源码构建流程。限制：公式可读不可生成，尚不支持 localhost 之外的局域网与云端部署。
+基于 agent 工作流（WenCe AI）的写作辅助系统，在 WPS 或 Microsoft Word 中安装加载项后，用户以自然语言交互获得写作建议、内容生成与结构优化。后端为 Python/FastAPI/LangChain 的 ReAct 单 Agent 循环，提供 search/read/generate/delete/edit_document 等文档工具，生成结果包含标题、字体、缩进等样式信息并通过 Word 修订标记呈现。支持 MCP Server 与 Skill 两种扩展方式，LLM API key 由用户提供。WPS 加载项在新版 Windows 上可能冻结，需切换多组件模式。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- ReAct 智能体循环 + 文档工具（search/read/delete/generate/edit_document）操作 Word 段落
-- 内容与样式分离的结构化文档数据模型，生成结果保留标题/加粗/字体/行距等样式
-- MCP Server 与 Skill 两类可插拔扩展工具
-- 用户自带 API key，支持多家主流 LLM 提供商；跨 Windows/Linux/macOS 并提供打包安装包
+- ReAct 单 Agent 循环调用文档工具完成定位、读取、编辑、生成
+- 生成结构化文档：内容与样式分离，保留标题/字体/缩进等 Word 样式
+- 支持 MCP Server 与 Skill 两种可插拔扩展机制
+- LLM 供应商由用户自选，支持多数主流 API
 
 ## 适用场景
 
-- 在 WPS 或 Word 中用自然语言让 AI 修改、生成文章内容并保留格式
-- 通过 MCP 接入高德天气等第三方 API，自动取数、画图并成文
-- 以 Skill 包复用领域写作与处理流程
+- 在 WPS/Word 中用自然语言让 Agent 改写、生成、优化文章结构
+- 让 Agent 自主联网搜集信息并生成符合文档格式的稿件
+- 通过 MCP 接入第三方 API（如天气查询+图表生成）写作
 
 ## 场景标签
 
-`AI 助手` `AI 写作` · 领域:对话与助手
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L18: This project is an AI-assisted writing system based on an agent workflow: **WenCe AI**. After installing the **add-
-> L35: For example, in WPS **Single Agent** mode, a user can enter: "Revise my internship objectives into five points." Th
-> L77: In the backend Single Agent architecture, the system uses a standard ReAct agent loop. In each loop, the agent reas
+> L27: 4. **Open and flexible, with custom API or local service support**: the LLM API key used by this project is provide
+> L90: - node v22.12.0
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `9c5ae896db62` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `85090b25f882` · [字段定义](../../DATASET.md)*

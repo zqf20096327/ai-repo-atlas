@@ -2,9 +2,9 @@
 
 ⭐ 221 · Python · 推送 2026-11-27 · [GitHub](https://github.com/huggingface/pwc-cli) · 组织维护
 
-**面向 agent 与人的 Papers with Code 目录 CLI/Skill/MCP**
+**为 agent 和人类提供 Papers with Code 目录检索的 CLI、Skill 与 MCP 服务器**
 
-命令行客户端，用于检索与编辑 Papers with Code 论文目录：支持论文搜索、元数据读取、趋势与相关工作发现、lineage 追溯，以及任务/方法/会议/组织/框架/基准的浏览与排行榜查询；附带 `pwc skills add` 生成的 Skill（适配 Codex、Cursor、OpenCode 等 agent）与托管/本地可跑的只读 MCP server。公共读取匿名无需凭证，论文编辑需登录授权且限定单篇、一小时写权限、每日与频率限额。提供预编译二进制（SHA-256 校验与构建证明）与源码安装两条路径。
+由 Hugging Face 维护的命令行工具，用于检索 Papers with Code 论文目录：搜索论文、按领域查找 SOTA、读取论文元数据与 Markdown、发现近期/趋势/相关工作、追踪论文谱系，以及浏览任务、方法、会议、机构、框架与基准榜单。配套生成编码 agent 的 Skill 与匿名只读的 MCP 服务器（托管端点无需 API key），支持对单篇论文的认证编辑流程（批量操作、幂等重试、每日 20 篇限额）。提供预编译二进制与源码安装（需 Python 3.10+），公开读取匿名。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- CLI + Skill + MCP server 三种形态，一个 research 命令对应一个 MCP 工具
-- 公共读取匿名，无账号/API token/Python 环境要求
-- 预编译二进制带 SHA-256 校验与 GitHub 构建来源证明
-- 论文编辑为显式认证工作流：单篇一小时授权、批量幂等、每日 20 篇限额
+- 一个命令覆盖论文/任务/方法/会议/机构/框架/基准目录
+- 托管 MCP 服务器匿名只读，支持 Claude Code、Codex、Cursor 等客户端接入
+- 自动生成与本地 CLI 版本匹配的 agent Skill（pwc skills add）
+- JSON/TSV/Markdown 多种输出格式与稳定退出码，便于脚本化
 
 ## 适用场景
 
-- 让编码 agent 检索论文、查找各领域 SOTA 与官方实现
-- 按会议、组织、作者过滤浏览论文目录
-- 通过 agent 批量修正某篇论文的评测条目
+- 让编码 agent 查论文、找某个领域的 SOTA 方法
+- 脚本化批量检索论文元数据与评测表
+- 通过 agent 认证登录后编辑补全单篇论文的评测条目
 
 ## 场景标签
 
@@ -38,8 +38,9 @@
 ## 证据(README 行号)
 
 > L3: A fast command-line client for exploring and editing the
+> L5: coding agents and a hosted Model Context Protocol server.
 > L9: The `mcp_server` package exposes an anonymous, read-only,
-> L126: Skills give coding agents the context they need to choose and use `pwc`
+> L79: It's recommended to also install the Skill so your coding agent knows how to use the CLI.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e0c97b50573f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `329122dc42ce` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 178 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/msmarkgu/RelayFreeLLM) · [官网](https://gemlight.42web.io) · 个人维护
 
-**聚合多家免费 AI 额度的 OpenAI 兼容网关，自动故障转移**
+**开源 API 网关：将免费 AI 提供商聚合为单一 OpenAI 兼容端点**
 
-基于 FastAPI 的自托管 REST API 网关，将 Gemini、Groq、Mistral、DeepSeek、NVIDIA、Cerebras、Cloudflare、Ollama 等多个免费额度供应商聚合为单一 OpenAI 兼容接口。请求失败时按熔断器机制自动切换供应商；支持意图路由（按模型类型/规模/名称筛选）、4 种多轮上下文管理模式、会话亲和、图像感知路由与输出风格归一化。内置 /chat 网页聊天界面与 /admin 可视化管理面板，数据存 JSON 文件无需数据库。面向个人开发者、学生与自托管用户。
+基于 FastAPI 的本地网关，把一组策展的免费档模型提供商（默认启用 Groq、Gemini、Requesty、Kilo Gateway、DreamPrompting、Inferbase、Routeway 共 27 个模型）聚合在单个 OpenAI 兼容端点后，模型或提供商配额耗尽时自动故障转移。同时暴露 Anthropic Messages API，可为 Claude Code 等编程 agent 提供本地后端，支持工具调用、流式输出与模型别名映射。提供管理面板与聊天 Web UI、Bearer 鉴权、可用性检测脚本；安装通过 git clone + pip 或 Docker。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多供应商免费额度聚合，单一 OpenAI 兼容端点，自动故障转移与熔断器
-- 意图路由：按 model_type/model_scale/model_name 筛选，或直指 Provider/Model
-- 4 种上下文管理模式（Static/Dynamic/Reservoir/Adaptive），Reservoir 用 TF 打分做抽取式摘要、无需 LLM 调用
-- 内置 /chat 流式聊天界面与 /admin 可视化限额编辑与用量监控
+- 单一 OpenAI 兼容端点聚合多个免费档提供商，自动故障转移
+- 暴露 Anthropic Messages API，支持 Claude Code 一键启动脚本
+- 附 /admin 用量管理面板、/chat 流式聊天页与可用性检测脚本
+- 支持 provider/model 精确路由与 Bearer token 鉴权
 
 ## 适用场景
 
-- 不改代码把现有 OpenAI SDK 指向本地端点，聚合免费额度避免 429 限流
-- 把私有 Ollama 实例与云端免费额度混合使用
-- 通过 Admin 面板实时管理各供应商模型限额与查看用量
+- 让已有 OpenAI SDK 代码免改动接入多个免费模型提供商
+- 本地运行 Claude Code 而不注册 Anthropic 账户
+- 个人开发环境统一管理多提供商的免费配额
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L5: Don't want to pay $$/month to use AI Models? RelayFreeLLM is an open-source gateway that combines **multiple free-ti
-> L29: |**OpenAI-compatible**|Drop-in for your existing code. LangChain, LlamaIndex, any SDK.|
+> L5: Don't want to pay for AI APIs? RelayFreeLLM is an open-source gateway that combines free-tier providers behind a sin
+> L18: The gateway also speaks the **Anthropic Messages API**, so coding agents like **Claude Code** can use the same loca
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `306377519d6a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `0d70f3c31d15` · [字段定义](../../DATASET.md)*

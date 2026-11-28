@@ -1,10 +1,10 @@
 # excalimate/excalimate
 
-⭐ 112 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/excalimate/excalimate) · [官网](https://excalimate.com) · 组织维护
+⭐ 112 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/excalimate/excalimate) · [官网](https://excalimate.com) · 个人维护
 
-**把 Excalidraw 手绘图变成关键帧动画的 Web 编辑器，附 MCP 服务器**
+**把 Excalidraw 手绘图变成关键帧动画，并带 AI 驱动创建的 MCP 服务器**
 
-基于浏览器静态 SPA 的 Excalidraw 动画编辑器：完整绘图编辑、关键帧动画（透明度/位移/缩放/旋转/箭头描画）、相机动画、逐元素时间轴，导出 MP4/WebM/GIF/动画 SVG/Lottie。附带可选 MCP 服务器（35 个工具），供 Copilot、Claude、Cursor 等 AI agent 创建并实时预览动画（SSE live mode）；服务器本身不承载模型。另有端到端加密分享与 16 个 AI 技能文件。README 声明相当部分代码由 AI 生成、清理与修错进行中，需谨慎使用。
+基于 Excalidraw 编辑器的动画工具：绘制图表后可对元素施加透明度、位移、缩放、旋转和箭头绘制动画，通过高级时间轴与相机关键帧编辑，导出 MP4/WebM/GIF/动画 SVG/Lottie。Web 应用为静态 SPA，全部渲染在浏览器完成。附带 MCP 服务器（35 个工具）供 Copilot、Claude、Cursor、Windsurf 等 AI 工具实时创建与动画化图表，并支持 AES-256-GCM 端到端加密分享。README 声明部分代码由 AI 构建，仍在清理修复中。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 关键帧动画与相机 pan/zoom，导出 MP4/WebM/GIF/动画 SVG/Lottie
-- MCP 服务器 35 个工具，SSE 实时预览 AI 修改，不承载模型
-- AES-256-GCM 客户端加密分享（过期与撤销）
-- 16 个 SKILL.md 格式 AI 技能（架构图、流程图、时序图等）
+- MCP 服务器提供 35 个工具，支持 HTTP 实时预览（SSE）
+- 导出 MP4、WebM、GIF、动画 SVG、Lottie、dotLottie
+- AES-256-GCM 客户端端到端加密分享，密钥不离开 URL hash
+- 附带 16 个 SKILL.md 技能文件，指导 AI agent 生成特定图表类型
 
 ## 适用场景
 
-- 把手绘架构图/流程图做成带逐步揭示效果的教学或演示动画
-- 让 AI agent 通过 MCP 代我生成并迭代动画图表，实时看预览
-- 导出多种格式用于视频制作或嵌入网页播放
+- 把架构图、流程图做成动画演示视频
+- 让 AI 工具通过对话生成并动画化 Excalidraw 图表
+- 制作带过期与撤销的加密动画分享链接
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+`图像视频处理` `代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L148: The web app is a **static SPA** — all rendering, animation, and editing happens in the browser. The MCP server is 
+> L12: Draw diagrams with the full Excalidraw editor, then animate elements with opacity fades, position slides, scale eff
+> L34: - **MCP server** — 35 tools, including all 29 legacy tools and six structured V2 action tools
+> L150: The web app is a **static SPA** — all rendering, animation, and editing happens in the browser. The MCP server is 
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `d26334155d7f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `d84e43190699` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 112 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/opentiny/tiny-robot) · [官网](https://opentiny.design/tiny-robot) · 组织维护 · 中文 README
 
-**面向 Vue 3 的 AI 对话组件库，助开发者构建企业级 AI 应用**
+**面向开发者的 Vue 3 AI 对话组件库**
 
-TinyRobot 是基于 Vue 3 的 AI 组件库，遵循 OpenTiny Design 设计体系，以 monorepo 形式提供三个 npm 包：核心组件库（聊天气泡、消息输入、会话管理等 AI 交互组件）、tiny-robot-kit（模型请求客户端与数据处理工具）和 tiny-robot-svgs（SVG 图标库）。内置流式响应支持与可配置存储策略（LocalStorage/IndexedDB/自定义），提供完整 TypeScript 类型定义、主题定制与 tree shaking。目标用户为构建企业级 AI 应用前端的前端开发者。要求 Node.js >= 20.13.0 与 Vue >= 3.2.0。
+基于 Vue 3 + TypeScript、遵循 OpenTiny 设计系统的 AI 对话组件库与应用开发套件，包含组件库、完整 Chat 套件、数据层 Kit 与 CLI 四个可独立使用的包。提供聊天界面、流式响应、多会话管理、MCP 服务器管理与工具调用审批等能力；接入模型服务要求端点兼容 OpenAI chat API 格式。提供 CLI 创建项目、整套装安装或按需组合组件三种上手方式。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ TinyRobot 是基于 Vue 3 的 AI 组件库，遵循 OpenTiny Design 设计体系
 
 ## 能力要点
 
-- Vue 3 AI 交互组件集：聊天气泡、消息输入、会话管理
-- 内置流式 AI 响应支持与多存储策略（LocalStorage/IndexedDB/自定义）
-- tiny-robot-kit 提供 AI 客户端工具用于模型交互
-- TypeScript 类型定义、主题定制与 tree shaking
+- Chat 套件：模型服务接入、流式响应、多会话管理与主题定制
+- 支持工具调用展示、MCP 服务器管理与审批流程
+- Kit 数据层支持 LocalStorage、IndexedDB 及自定义存储策略
+- 提供 CLI 向已有 Vue 项目添加 Chat 能力
 
 ## 适用场景
 
-- 在前端项目中搭建 AI 对话界面
-- 为企业级应用集成流式 AI 问答交互
-- 使用 tiny-robot-kit 连接模型处理请求与数据
+- 为企业应用快速搭建智能对话界面
+- 在已有 Vue 项目中集成完整聊天套件
+- 按需组合组件与 Kit 自建 AI 聊天应用
+- 在聊天应用中管理 MCP 服务器与工具调用
 
 ## 场景标签
 
- · 领域:前端/AI 应用界面
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L10: **TinyRobot** is an AI component library built for Vue 3, following the OpenTiny Design system. It provides rich AI
-> L34: |`@opentiny/tiny-robot-kit`|Utility functions and AI client tools for model interactions|npm|
-> L20: - 🔄 **Streaming Support**: Built-in support for streaming AI responses
+> L12: **TinyRobot** is an AI component library and application development suite built with Vue 3 and following the OpenT
+> L22: - **Tools and MCP**: Supports tool call display, MCP server management, tool selection, and approval workflows.
+> L86: Replace `apiUrl` with your model service URL or a backend endpoint that forwards requests to the model service. The
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `808be19f21a1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `21b17161455c` · [字段定义](../../DATASET.md)*

@@ -1,16 +1,16 @@
 # manor-os/manor-ai
 
-⭐ 134 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/manor-os/manor-ai) · [官网](https://manorai.xyz) · 组织维护 · 中文 README
+⭐ 134 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/manor-os/manor-ai) · [官网](https://manorai.xyz) · 组织维护
 
-**面向小团队的自托管 AI agent 工作区：治理化执行任务**
+**自托管 AI agent 工作台：小团队可控运行 agent 并加人工审批**
 
-自托管的 AI 工作区应用，供小企业与精简团队在自有基础设施上运行 agent：提供聊天、目标/任务、文档知识库（PostgreSQL+pgvector 检索、MinIO 存储）、工具调用循环、技能与 MCP 集成。采用 BYOK 模式，模型供应商密钥配置在用户部署内，不依赖托管代理。治理机制包括人工审批门（HITL）、范围化工具、审计日志与工作区权限。技术栈为 React+Vite 前端、FastAPI API、Celery worker，通过 Docker Compose 部署；托管服务与商业云运营在本仓库之外，采用 Sustainable Use License 1.0（source-available，非 OSI 开源许可）。
+面向小型企业和精简团队的自托管 AI 工作空间，将聊天、文档、agent、目标、工作流、报告、集成纳入单一运行时。agent 通过目标、任务、工作区上下文与工具权限运作，敏感动作经人工审批门暂停并留审计日志。知识检索基于 PostgreSQL/pgvector，对象存储用 MinIO，后台任务用 Celery。BYOK 模式下模型密钥配置在用户自己的部署中。通过 git clone 与 Docker Compose 一键启动，内置演示账号。托管托管与商业云运营不在本仓库内。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- BYOK 模型接入：密钥留在自有部署内，无需托管模型代理
-- 人工审批门（HITL）+ 审计日志 + 工作区权限的治理机制
-- pgvector 知识检索、MinIO 对象存储、MCP 目录与 Webhook/OAuth 集成
-- Docker Compose 一键部署，含沙箱隔离与健康检查
+- HITL 治理：审批门、工具范围限定、审计日志与工作区权限
+- BYOK：模型密钥配置在自有部署中，不需托管模型代理
+- pgvector 知识检索、MinIO 存储、Celery 后台任务的完整自托管栈
+- FastAPI 开放 API 与 MCP 目录、Webhook、OAuth 集成面
 
 ## 适用场景
 
-- 小团队在自有服务器上运行带审批流程的 AI agent 自动化
-- 对敏感操作要求人工审核和审计留痕的业务流程
-- 把团队文档建成可检索知识库供 agent 调用
-- 数据不出自有基础设施的私有化 AI 工作区
+- 让 agent 基于团队文档知识执行任务并保留证据与审计
+- 自动化敏感外部操作前强制人工审批
+- 在自有基础设施内运行 agent 而不把数据交给托管黑盒
 
 ## 场景标签
 
-`RAG` · 领域:知识与检索
+`工作流自动化` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L7:  Self-hosted AI workspace for governed agents, tasks, tools, and knowledge.
-> L45: Manor AI is built for that layer: the product surface where model choice,
-> L97: |AI workspace|Chat, goals, tasks, documents, knowledge, reports, agents, and settings in one self-hosted UI.|
+> L98: |Agent runtime|Tool-calling loop, model routing, skills, workspace context, task execution, and evidence logs.|
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1167e6362115` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `3546461681c3` · [字段定义](../../DATASET.md)*

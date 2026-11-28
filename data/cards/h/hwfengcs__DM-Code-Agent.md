@@ -2,15 +2,15 @@
 
 ⭐ 152 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hwfengcs/DM-Code-Agent) · [官网](https://hwfengcs.github.io/DM-Code-Agent/) · 个人维护 · 中文 README
 
-**本地优先、全程可审计的 Python Code Agent，内核仅一个 ReAct 循环**
+**可审计的本地代码 Agent：追踪变更与测试证据**
 
-面向开发者的 Python 代码 agent：在本地工作区读写文件、跑测试与 lint、调用 MCP 工具，内核为单一 ReAct 主循环，可选能力通过生命周期钩子扩展。每步计划、工具调用与观察写入 append-only 会话日志，支持回放、诊断、diff 与从任意步分叉重跑；上下文折叠不删原文且带净收益护栏，无收益则整体回滚。提供 CLI、可静态托管的只读 Web 审计展厅（免 API key）与完整工作台。自带 30 题隐藏测试 benchmark，另以官方 SWE-bench 4.1.0 harness 完成 50 题 Verified 运行（21/50）；SWE-bench Lite 子系统已在 v2.1 移除（跑不通）。限制：实际执行任务需配置 API key；项目不声明未实际运行的评测分数。
+在本地 Git 仓库中运行的代码 Agent，为每次运行维护 append-only 的执行记录，涵盖读取、编辑、命令与测试输出。提供终端追踪分析（dm-agent-trace analyze）、无服务器独立 HTML 报告导出与浏览器控制台；对未运行测试的修复给出 verification-gap 信号，支持轨迹对比与按任务基准回归。带 30 个隐藏测试任务的内置基准；无 API key 的演示用脚本客户端驱动真实 Agent，不含沙箱，Agent 以本地权限执行命令。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- append-only 会话日志树：view/analyze/diff/fork/replay 五个 trace 命令
-- 扩展系统：4 个注册方法 + 6 个可拦截生命周期钩子，不改内核加工具/守卫/供应商
-- 自带 30 题隐藏测试 benchmark，输出逐题 pass/fail 翻转
-- 无 API key 即可跑 554 个单元测试与 14 任务 × 4 变体确定性 eval
+- append-only 运行记录：工具调用、参数、观察与替换摘录按序可查
+- verification-gap 信号标记未经测试验证的修复
+- 独立 HTML 报告无需服务器即可打开，trace 默认脱敏
+- 无 key 演示与确定性评测均不需 API key
 
 ## 适用场景
 
-- 在本地工作区让 agent 修 bug、改代码并跑测试验证
-- 回放与审计 agent 运行过程，诊断失败阶段与验证缺口
-- 研究者按需开启单个模块变量做 ablation 实验
-- 通过浏览器对话式交任务并实时查看每一步执行
+- 审查 Agent 在本地仓库中做了哪些修改、是否跑过测试
+- 诊断 Agent 运行失败阶段与恢复尝试
+- 导出 HTML 报告与同事共享测试证据
+- 对比两次运行的轨迹并检查基准回归
 
 ## 场景标签
 
-`编码 Agent` `模型评测` · 领域:编码与开发
+`编码 Agent` `LLM 可观测性` `模型评测` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L18: 一个**你能读懂、能复现、能扩展**的 Python Code Agent。它在你本地工作区读写文件、跑测试、
-> L22: 它不是又一个聊天黑盒：内核只有 ReAct 主循环，可选能力都是挂在
-> L176: dm-agent-bench --suite all --provider deepseek --output bench_reports/after.json
+> L18: DM-Code-Agent works in your local repository and keeps an append-only record of each run.
+> L73: Set your provider's key: `DEEPSEEK_API_KEY`, `OPENAI_API_KEY`, `CLAUDE_API_KEY`, or `GEMINI_API_KEY`.
+> L97: The CLI and console share the same analysis functions. Standalone HTML reports need no server.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `da2c4c4f4d4e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `61311a19435c` · [字段定义](../../DATASET.md)*

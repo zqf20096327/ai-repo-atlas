@@ -2,9 +2,9 @@
 
 ⭐ 126 · Shell · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/pleasedodisturb/awesome-llm-token-optimization) · 个人维护
 
-**降低 LLM token 成本的策略/工具/论文策展清单**
+**降低 LLM token 成本的策略、工具与论文清单**
 
-面向生产环境 LLM 应用的成本优化资源清单：按提示缓存、批量 API、模型路由、提示压缩、上下文窗口管理等主题组织，收录各厂商（Anthropic/OpenAI/Google/DeepSeek）官方文档、开源工具（LLMLingua、LiteLLM、RouteLLM 等）、研究论文与教程，并给出按投入产出比排序的快速策略表与组合管线示例（宣称 95-99% 成本降幅为清单转述数据）。本仓库为纯清单，不提供可安装运行的软件本体。
+以 awesome-list 形式组织的生产环境 LLM 降本资源合集，收录策略、工具、论文与文档链接，按 Prompt Caching、Batch APIs、Model Routing、Prompt Compression、KV Cache 等主题分节。每条 Quick Win 附带量化的节省幅度、实施成本与来源链接；设有已撤回/更正条目区块，记录定期审计中被退休或修正的结论以保持可追溯。维护者按最后提交时间、许可变更等标准移除失修条目。无代码发行，仅文档清单。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖提示缓存、批量 API、模型路由、提示压缩、上下文管理五大主题
-- 收录 Anthropic/OpenAI/Google/DeepSeek 各家缓存与批量 API 官方文档
-- Quick Wins 表按节省幅度与实施成本对策略排序
-- 含无损压缩原则（Strip/Preserve/Transform/Split）说明
+- Quick Wins 表列出各策略的节省幅度、实施成本与数据来源
+- 已撤回/更正条目区块保留变更记录以供审计
+- 覆盖缓存、批处理、模型路由、压缩、KV Cache 等多类降本手段
+- 标注条目的维护状态与最后提交时间
 
 ## 适用场景
 
-- 为 LLM 应用查找降本策略与对应工具
-- 了解各家厂商提示缓存与批量 API 的定价规则
-- 按主题检索提示压缩与上下文管理的论文和教程
+- 为生产环境的 LLM 应用查找降低 token 成本的方案
+- 对比各服务商的 prompt caching 与 batch API 折扣细节
+- 选型 token 优化相关的开源工具或框架
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: > A curated list of strategies, tools, papers, and resources for reducing LLM token costs and improving efficiency i
-> L5: Building with LLMs is expensive. An agent processing 10 reasoning steps can consume 50K-100K tokens per task. This l
+> L11: Hit list as of 2026-10-25: the best single levers, with verified savings and where each number comes from.
+> L28: Entries retired or corrected in the October 2026 sweeps, kept visible so the change is auditable.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `11b3e49e2604` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8cc30ac376b8` · [字段定义](../../DATASET.md)*

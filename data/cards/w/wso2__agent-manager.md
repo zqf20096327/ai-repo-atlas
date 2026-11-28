@@ -2,9 +2,9 @@
 
 ⭐ 121 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/wso2/agent-manager) · [官网](https://wso2.github.io/agent-manager/) · 组织维护
 
-**企业级 AI agent 控制平面：大规模部署、治理与可观测**
+**企业级 AI Agent 部署管理与治理的开放控制平面**
 
-WSO2 维护的开源控制平面，面向企业部署内部托管或外部部署的 AI agent：在 Kubernetes 上运行 agent、统一管理版本与配置、执行治理策略与访问控制，并通过 OpenTelemetry 自动插桩采集 trace、指标与日志实现全栈可观测。内部部署基于 OpenChoreo，插桩组件支持多 AI 框架零代码接入。由 amp-instrumentation、amp-console、amp-api、amp-trace-observer 等五个组件构成，通过 Helm chart 在 Kubernetes 上安装。
+WSO2 Agent Manager 为企业提供 AI agent 管理平台：支持在 Kubernetes 上以生产级配置部署内部托管的 agent，同时可纳管外部已部署的 agent；通过统一控制面管理 agent 版本、配置与部署生命周期，强制执行治理策略与访问控制，并基于 OpenTelemetry 提供跨多个 AI 框架的零代码改动自动插桩与全栈可观测（traces/metrics/logs）。平台构建于 OpenChoreo 之上，由插桩包、控制台、后端 API、trace 查询 API 及 Kubernetes init container 等组件组成，通过 Helm charts 部署。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ WSO2 维护的开源控制平面，面向企业部署内部托管或外部部署
 
 ## 能力要点
 
-- Kubernetes 上部署并运行 AI agent 的生产就绪配置
-- OpenTelemetry 自动插桩，AI 框架零代码改动接入
-- 统一控制平面管理 agent 版本、配置与治理策略
-- 支持同时监控内部与外部部署的 agent
+- 在 Kubernetes 上部署并运行 AI agent，统一控制面管理版本与配置
+- 基于 OpenTelemetry 的自动插桩，零代码改动接入多个 AI 框架
+- 支持纳管外部已部署 agent 与内部 agent 的统一治理
+- 提供 Helm charts 与多组件架构（console/API/trace observer）
 
 ## 适用场景
 
-- 企业集中部署和管理多个 AI agent
-- 对 agent 行为做 trace/指标/日志的全栈可观测
-- 跨 agent 统一执行治理策略与访问控制
+- 企业在大规模部署内部 AI agent 时进行统一生命周期管理
+- 对内部与外部 agent 实施治理策略和访问控制
+- 对多框架 agent 进行全链路追踪、指标与日志观测
 
 ## 场景标签
 
@@ -39,6 +39,7 @@ WSO2 维护的开源控制平面，面向企业部署内部托管或外部部署
 
 > L7: An open control plane designed for enterprises to deploy, manage, and govern AI agents at scale.
 > L11: WSO2 Agent Manager provides a comprehensive platform for enterprise AI agent management. It enables organizations t
+> L18: - **Lifecycle Management** - Manage agent versions, configurations, and deployments from a unified control plane
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `5fded7c653d3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e3daca4dd092` · [字段定义](../../DATASET.md)*

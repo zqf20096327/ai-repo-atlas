@@ -2,9 +2,9 @@
 
 ⭐ 126 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/ollygarden/opentelemetry-agent-skills) · [官网](https://ollygarden.com/resources/agent-skills) · 组织维护
 
-**给 AI 编码 agent 的厂商中立 OpenTelemetry 技能知识包**
+**给 AI 编码代理提供准确 OpenTelemetry 知识的技能集**
 
-遵循 Agent Skills 规范的 OpenTelemetry 技能集合，供 Claude Code、Cursor、Codex、GitHub Copilot 等编码 agent 使用。提供 9 个语言无关技能（Collector 配置、OTTL、语义约定、升级评估、Weaver 等）和 7 个语言专属技能（Go/Java/JS/Python/.NET/Ruby/浏览器），内容指向上游权威来源而非复制文档，设计为省 token 的检索方式（小规模 fetch 表、索引与脚本）。声明非观点化：不规定 OpenTelemetry 使用惯例。通过 skills CLI（npx）或 Claude Code 插件市场安装，仅覆盖 OpenTelemetry 领域。
+面向 Claude Code、Cursor、Codex、GitHub Copilot 等编码代理的开源 Agent Skills 集合，内容覆盖 Go/Java/JavaScript/Python/.NET/Ruby/浏览器的 SDK 配置、Collector 配置与 OTTL、语义约定及升级评估，共 20 余个技能，遵循 agentskills.io 规范。设计上不做约定规定，通过小型查找表、索引和指向上游事实来源的脚本实现 token 高效检索，使答案随上游项目演进保持最新。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- 16 个技能：9 个语言无关 + 7 个语言专属（Go/Java/JS/Python/.NET/Ruby/浏览器）
-- 遵循 agentskills.io 规范，兼容任何支持该规范的 agent
-- 技能内容指向上游来源（fetch 表、索引、查询脚本），不复制文档进上下文
-- 支持 npx skills CLI 一键安装全部或单个技能，或经 Claude Code 插件市场安装
+- 20+ 个技能覆盖 SDK 配置、Collector、OTTL、语义约定、升级与迁移等主题
+- 遵循 Agent Skills 规范，可被任何支持该规范的代理使用
+- 通过查找表与上游来源指针实现 token 高效检索
+- 支持 skills.sh、Claude Code 插件市场与 npm 包三种安装方式
 
 ## 适用场景
 
-- 让编码 agent 在项目中正确配置 OpenTelemetry SDK 与 Collector
-- 编写或审查 OTTL 语句、排查 Collector 组件配置问题
-- 评估跨生态的 OpenTelemetry SDK/Collector 升级与兼容性
-- 从废弃的 Span Event API 迁移到 Logs API
+- 让编码代理在接入 OpenTelemetry 时获得最新的 SDK 配置指导
+- 配置或调试 OpenTelemetry Collector 与 OTTL 转换规则
+- 评估 OpenTelemetry 包和 Collector 的升级风险
+- 按语义约定检查遥测命名合规性
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `629b919a6c15` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `2bd3c2eb1fbc` · [字段定义](../../DATASET.md)*

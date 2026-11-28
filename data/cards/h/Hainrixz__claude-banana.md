@@ -2,9 +2,9 @@
 
 ⭐ 114 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/claude-banana) · [官网](https://www.tododeia.com) · 个人维护
 
-**Claude Code agent：把口语想法转成图像生成提示词**
+**基于 Claude Code 的图像生成提示词编写 agent**
 
-面向图像生成用户的项目：以 Claude Code 为运行环境，通过提问澄清需求后，按 7 要素公式（主体/风格/环境/光线/动作/机位/质感）生成可粘贴到图像生成器的提示词，含 9 种领域模式与 70+ 创意技法，可将 Midjourney/DALL-E/Stable Diffusion 既有提示词转换为适配 Nano Banana Pro 的版本，另附 25 个模板与品牌预设。可选配合 Google AI API key 在终端直接生图，需先安装 Claude Code 并 git clone 本项目。
+该项目是一个运行在 Claude Code 之上的 prompt-architect agent 与知识库：用户用日常语言描述想要的图像，agent 通过提问澄清需求，按 7 要素公式（主体/风格/环境/光照/动作/镜头/质感）生成可直接粘贴给图像生成器的提示词。内置 9 个领域模式、70+ 创意技法参考、25 个提示词模板与品牌风格预设。使用前需安装 Claude Code，通过 git clone 下载后在项目目录启动 claude 即可加载；可选配置 Google AI API key 在终端直接生成图像。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 7 要素提示词公式与 9 种领域模式
-- 70+ 创意技法（动漫化、微缩世界、像素图标等）
-- 转换既有 Midjourney/DALL-E/SD 提示词适配 Nano Banana Pro
-- 25 个可定制模板与品牌风格预设
+- 7 要素公式生成结构化图像提示词
+- 9 个领域模式（电影/产品/人像/UI 等）与 70+ 创意技法知识库
+- 可将 Midjourney/DALL-E/Stable Diffusion 既有提示词转换适配 Nano Banana Pro
+- 提供 25 个模板、品牌预设及可选的终端直出图像 Python 脚本
 
 ## 适用场景
 
-- 我想让 AI 画图但不会写详细提示词
-- 把已有的 Midjourney/SD 提示词改写适配 Nano Banana Pro
-- 为品牌保持系列图片的风格一致
+- 为图像生成器写出细节完整的提示词
+- 把已有的 Midjourney/DALL-E 提示词转换成 Nano Banana Pro 可用的版本
+- 按品牌色板与风格批量生成一致风格的图像提示词
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`提示工程` `图像生成` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: **You tell it what picture you want. It writes the perfect instructions to make that picture.**
-> L18: 2. **Builds a detailed, optimized prompt** using a proven formula
+> L15: Claude Banana is your **creative assistant**. You describe what you want in plain words, and it:
 > L48: Claude automatically picks up the prompt-architect agent and knowledge base from this project. It will ask you a co
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `81d69bd59987` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `287b13352169` · [字段定义](../../DATASET.md)*

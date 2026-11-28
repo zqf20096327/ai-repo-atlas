@@ -2,9 +2,9 @@
 
 ⭐ 155 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/cyanheads/mcp-ts-core) · [官网](https://www.npmjs.com/package/@cyanheads/mcp-ts-core) · 个人维护
 
-**TypeScript 框架：给开发者构建 MCP 服务器提供运行时与 agent 技能**
+**给开发者用 TypeScript 构建 MCP 服务器的基础框架**
 
-面向构建 MCP（Model Context Protocol）服务器的 TypeScript 框架。提供 tool/resource/prompt/appTool 等类型化构建器，通过 createApp() 注册并运行于 Bun、Node.js 24+ 或 Cloudflare Workers；内置 JWT/OAuth 鉴权与作用域检查、租户级存储（in-memory/filesystem/Supabase/Cloudflare D1/KV/R2）、结构化日志与可选 OpenTelemetry、定义 lint 与契约/模糊测试。每个脚手架附带 Agent Skills（设计工具、写测试、安全审查、发布）与 CLAUDE.md/AGENTS.md，由 agent 按 skills 完成构建流程。可选集成（DuckDB、Supabase、OpenTelemetry SDK）为 peer dependencies。
+面向 TypeScript 开发者的 MCP 服务器构建框架：提供 typed builder 定义 tools/resources/prompts/MCP Apps，运行时覆盖鉴权（JWT/OAuth 与 scope）、多后端租户存储、结构化日志、可选 OpenTelemetry，以及 stdio/HTTP/Cloudflare Workers 三种运行方式。附带 enrichment 与 errors 声明契约、定义 lint、契约测试与模糊测试，并随脚手架提供供 Agent 执行的构建/测试/安全审查/发布工作流（Agent Skills），支持 Bun、Node.js 24+。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- tool/resource/prompt/MCP Apps 类型化构建器与 createApp() 统一注册
-- JWT/OAuth 鉴权、按定义作用域检查、可切换后端的租户级存储
-- enrichment/errors 双契约：结果上下文与带恢复指引的声明式错误
-- 定义 lint、契约测试、模糊测试，构建期检查而非启动期
+- typed builders 定义 tools/resources/prompts/MCP Apps，统一经 createApp() 注册
+- JWT/OAuth scope 鉴权与 in-memory/filesystem/Supabase/Cloudflare D1/KV/R2 存储后端
+- enrichment/errors 声明契约 + definition linting、契约测试、fuzz testing
+- stdio/HTTP/Cloudflare Workers 多运行时，支持 2025 与 2026-07-28 客户端兼容层
 
 ## 适用场景
 
-- 把内部 API 或数据集通过 MCP 暴露给 AI agent
+- 把团队 API 或数据集通过 MCP 接入 AI 客户端
 - 在 Cloudflare Workers 上托管 MCP 服务
-- 用 agent 按 skills 工作流构建、测试并发布 MCP 服务器
-- 本地以 stdio 或 HTTP 方式运行 MCP 服务器供客户端连接
+- 让编码 Agent 按内置 Skills 完成 MCP 服务器的开发与发布
 
 ## 场景标签
 
@@ -40,7 +39,6 @@
 
 > L2:  Agent-native TypeScript framework for building MCP servers.
 > L13: Connect an API, a dataset, or a workflow to an AI agent through the Model Context Protocol (MCP). Your project hold
-> L59: |Give an assistant useful capabilities|Typed builders for tools, resources, prompts, and interactive MCP Apps|
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7fc903133563` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `2ff2987d289f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 150 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/pablocaeg/sloptotal) · [官网](https://sloptotal.com) · 个人维护 · 中文 README
 
-**自托管 AI 文本检测器：23 个引擎，输出一个校准分数**
+**自托管的 AI 生成文本检测器：23 引擎并行评分**
 
-粘贴文本、上传 PDF/Word 文件或提供 URL，系统并行运行 23 个独立检测引擎（神经分类器、统计检验、语言启发式），校准集成将其投票转为一个可逐引擎查看的判定分数。检测在本地 CPU 上运行，扫描内容不出本机，无第三方 AI API。所有准确率数据基于公开基准 SlopBench（1,626 条人类文本 + 1,626 条 AI 文本）测量并公开。支持 9 种语言，提供 JSON API 与 Chrome 扩展。
+自托管 Web 服务与 API：粘贴文本、上传 PDF/Word/URL，23 个独立检测引擎（DeBERTa/RoBERTa 分类器、Binoculars、Fast-DetectGPT、GLTR、困惑度与句式启发式）并行评分，经校准集成输出 0-100 总分与逐引擎结果。全部模型加载到本地 CPU 运行，扫描内容不离开本机；准确率数字在自建 SlopBench 公开基准上测量并公开失败案例。需约 12 GB 内存与 9 GB 磁盘，无需 GPU 与 API key；另提供 MCP server 供 Claude Code/Cursor 等 agent 调用。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 23 个检测引擎并行评分，经校准集成输出单一分数
-- 准确率数字基于公开基准 SlopBench，附语料与逐样本分数
-- CPU 即可运行，加载模型约需 8.3 GB 内存，GPU 可选
-- 站点检查识别 Lovable、v0、Bolt 等 AI 构建器部署指纹
+- 23 个检测引擎并行评分并输出逐引擎可查的校准总分
+- 支持文本、URL 与 .pdf/.docx/.txt/.md 文档及逐段落热图
+- SlopBench 基准上测量准确率（AUC 0.942），公开语料与原始分数
+- MCP server 提供 analyze_text/analyze_url/check_website_builder 工具
 
 ## 适用场景
 
-- 检测学生论文或投稿是否为 AI 生成
-- 自托管扫描网站内容是否由 AI 应用构建器生成
-- 批量对文本、URL 或文档段落做 AI 检测并查看逐引擎评分
+- 检查一段文本是否为 AI 生成并查看各引擎依据
+- 检测网站是否由 Lovable/v0 等 AI 应用构建器生成
+- 在本机私密环境下批量检测文档或搜索结果页
 
 ## 场景标签
 
- · 领域:内容检测/文本分析
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L16: give it a URL. Twenty-three independent AI detectors (neural classifiers,
-> L19: engine. It runs on your own CPU, so nothing you scan leaves your machine.
-> L21: It is a free, self-hosted, open-source alternative to hosted AI content
+> L16: **VirusTotal for AI-generated text.** Paste text, drop in a PDF or Word file, or
+> L22: It is a free, self-hosted, open-source alternative to hosted AI content
+> L20: engine. It runs on your own CPU, so nothing you scan leaves your machine.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `98c8058aa30a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `531c9449522d` · [字段定义](../../DATASET.md)*

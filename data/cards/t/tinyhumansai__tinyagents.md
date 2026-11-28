@@ -2,9 +2,9 @@
 
 ⭐ 137 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/tinyhumansai/tinyagents) · [官网](https://github.com/tinyhumansai/tinyagents/wiki) · 组织维护
 
-**面向 Rust 的供应商中立 agent 框架与持久化状态图运行时**
+**Rust 语言的 provider 中立 agent 框架，供 Rust 服务构建可恢复的模型/工具循环**
 
-以 Cargo workspace 形式提供的 Rust agent 框架，包含多个 crate：harness 提供供应商中立的模型调用、类型化工具、中间件、结构化输出与用量/成本核算；graph 提供 LangGraph 风格的持久化类型状态图（checkpoint、中断、子图、时间旅行）；另有会话存储、能力注册表、实时语音 agent 与多 agent 编排等 crate。所有 provider 走 OpenAI Chat Completions 兼容格式，内置 OpenAI/Anthropic/DeepSeek/Groq/xAI/OpenRouter/Together/Mistral/Ollama 预设。crates 未发布到 crates.io，需以 git/path 依赖引入，GPL-3.0-only 许可。
+以 Cargo workspace 形式组织的 Rust agent 框架，包含 harness（模型调用、typed 工具、中间件、结构化输出、流式、用量/成本核算、重试与缓存）、SQLite 会话存储、能力注册表、子代理编排、实时语音会话等多个 crate。定位为需要循环调用模型与工具、且不希望引入 Python 运行时或框架 DSL 的 Rust 服务。所有 crate 未发布到 crates.io，需以 git 或 path 依赖引入；测试默认离线，真实 provider 验证需自行配置密钥。
 
 ## 筛选速览
 
@@ -16,31 +16,31 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 供应商中立模型调用，单一 OpenAI 兼容适配器覆盖全部内置 provider（含本地 Ollama）
-- 持久化类型状态图：checkpoint、中断、子图、时间旅行、Send fanout
-- SQLite 会话存储：历史、工具调用、成本与运行谱系
-- 实时语音 agent 会话，工具调用经过统一准入与中间件管线
+- provider 中立的模型调用，统一走 OpenAI Chat Compatibles wire format，内置 OpenAI/Anthropic/DeepSeek/Groq/xAI/OpenRouter/Together/Mistral/Ollama 预设
+- harness 提供模型/工具循环、typed 工具、中间件、结构化输出、流式、用量/成本核算、重试与响应缓存
+- SQLite 会话存储、JSONL 转录、任务重启协调与持久化子代理编排
+- 内置 Claude Code CLI 模型适配器，支持 stream-json、会话与 MCP 端点
 
 ## 适用场景
 
-- Rust 服务中构建可恢复、可审查的模型/工具循环
-- 用类型化状态图编排带 checkpoint 与中断的工作流
-- 搭建多 agent 编排与子 agent 调度
-- 接入本地或多家 LLM provider 而不绑定单一 SDK
+- 在 Rust 服务中构建模型+工具的 agent 循环，且要求可恢复、可检查
+- 用 Rust 替代 Python 框架来编排多代理团队与工作流
+- 接入多个 OpenAI 兼容端点（含本地 Ollama）做模型调用与成本核算
+- 为实时语音代理会话执行宿主侧工具准入与中间件策略
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` `多智能体` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L8: TinyAgents is a small, provider-neutral agent harness for Rust, plus a durable
-> L16: It is for Rust services that need to call models and tools in a loop, want
-> L24: - **`tinyagents-harness`** — provider-neutral model calls, typed tools,
+> L8: TinyAgents is a small, provider-neutral agent harness for Rust. It takes its
+> L13: It is for Rust services that need to call models and tools in a loop, want
+> L86: `tinyagents-harness` runs the model/tool agent loop: provider-neutral model
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2c1178fc8114` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e7e1e28515e8` · [字段定义](../../DATASET.md)*

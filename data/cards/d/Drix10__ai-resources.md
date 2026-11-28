@@ -2,9 +2,9 @@
 
 ⭐ 135 · HTML · CC-BY-4.0 · 推送 2026-11-26 · [GitHub](https://github.com/Drix10/ai-resources) · [官网](https://blogs.drix10.com) · 个人维护
 
-**AI 资讯策展知识库：41 类 10 万+条带来源摘要**
+**10万+条 AI 资讯简报库，可经 MCP 供 agent 检索**
 
-个人维护的 AI 资讯聚合仓库：由开源 ai-resources-pipeline 流水线读取各类别精选 X 列表，为每条强帖生成含标题、两三句摘要与关键数字的简报，校验数字与姓名后提交为 Markdown 摘要文件。内容覆盖 AI 开发者工具、VC、机器人、加密、AR/VR、气候科技等 41 类，共 10 万+条目，每条链接回原始帖。同步发布至 blogs.drix10.com 并支持搜索。已知限制：摘要由机器生成可能有误，2024 至 2026 年中部分旧存档无来源链接。使用方式为阅读、git clone 解析或 RSS 订阅。
+由自动化流水线从 41 个类别的人工挑选 X 列表生成简报，每条含标题、2-3 句事实与关键数字，并通过事实门校验（数字、版本须在原帖中出现），全部为 Markdown、CC BY 4.0 许可。面向工程师、创始人/投资人、研究者及构建 RAG/评测者，提供 MCP server（npm 包，MIT）、Agent Skill、JSON API、llms.txt/RSS 与 git clone 五种接入方式，均无需 key。Signals 页按计数方法追踪周环比上升的主题。作者自述旧档案部分简报缺少来源链接。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `viral` | CC-BY-4.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 41 个类别、10 万+条目，每条链接回原始帖子
-- 流水线自动生成摘要并做数字/姓名事实校验
-- 纯 Markdown 公开仓库，可 clone、grep 或喂给自有工具
-- 同步发布至 blogs.drix10.com，含搜索与主题页
+- 100,000+ 条简报经事实门校验并附来源链接
+- MCP server、Agent Skill、JSON API、llms.txt/RSS 五种接入方式
+- Signals 按周计数追踪覆盖上升主题（MOVEMENTS.md 公开）
+- 自动化流水线生成，10,900+ commits
 
 ## 适用场景
 
-- 按领域快速跟进 AI 工具、模型与公司的动态
-- 克隆仓库后用脚本解析 Markdown 做自定义分析
-- 通过 RSS 或博客搜索查阅某个 AI 领域的近期摘要
+- 为 RAG/评测构建带日期与来源的 AI 新闻语料
+- 在 Claude Code/Cursor 中查询本周模型与工具动态
+- 追踪融资、发布与基准数据的最新进展
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`模型评测` `RAG` `精选清单` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L3:  Short, sourced briefings on AI tools, models, research, companies and the people building them.
-> L24: - **Organized by who and what.** 41 categories, from AI Developer Tools and CS Academics to VC Firms, Quantum Compu
-> L53: Digests are written by the open-source ai-resources-pipeline: it reads curated X lists per category, writes one sho
+> L13:  41 categories Models, dev tools, research and funding, plus robotics, climate, quantum, security and crypto.
+> L35: 100,000+ dated, sourced briefings in plain Markdown for RAG, evals or an offline index. Every <code>resources-NNN.m
+> L193: Nobody types these. A pipeline reads the hand-picked X lists for each category, writes one briefing per strong pos
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `b0a28b4df1b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `311e794510f1` · [字段定义](../../DATASET.md)*

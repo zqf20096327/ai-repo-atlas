@@ -2,9 +2,9 @@
 
 ⭐ 121 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xl03-bit/sm120-nvfp4-training) · 个人维护
 
-**SM120 GPU 上的 NVFP4 原生训练库：省显存提速**
+**SM120 GPU 上的 NVFP4 低精度训练库：加速训练并降低显存占用**
 
-基于 PyTorch 的低精度训练包，面向 SM120 架构消费级 GPU（实测 RTX 5060 Ti 16GB），用 FP4 Tensor Core 完成前向/反向计算，配合压缩的权重与 AdamW 状态存储，实现软件随机舍入（SR）与随机 Hadamard 变换（RHT）。提供 6 种全参数训练 profile、冻结权重路径与 LoRA 适配（含保持原精度模式）。限制：单卡实测结果，不保证其他显卡等效；需 CUDA 13.0/nvcc 与 C++ 编译器，首次运行需编译 CUDA 扩展。
+面向 NVIDIA SM120 GPU 的 PyTorch 训练包，将 FP4 Tensor Core 前向/反向计算与紧凑权重及 AdamW 存储结合，提供 6 个全参数训练 profile 与冻结权重、LoRA 路径，实现软件随机舍入与随机 Hadamard 变换。README 给出单张 RTX 5060 Ti 上的完整训练更新测量（吞吐、分配显存、验证损失），并与官方 NVIDIA Transformer Engine 在固定版本下逐项对比，同时标注单卡、单种子测量的局限。
 
 ## 筛选速览
 
@@ -14,31 +14,33 @@
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `gpu-24g` | |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- FP4 Tensor Core 前向/反向计算，配合 SR 与 RHT
-- 6 种全参数训练 profile 控制权重与 AdamW 状态的显存开销
-- 冻结权重路径与 LoRA（preserve/nvfp4/packed_nvfp4 三种模式）
-- 提供与官方 Transformer Engine 默认配置的实测对比记录
+- FP4 前向/反向计算 + 紧凑权重/AdamW 存储，6 个训练 profile 可选
+- 提供 verify/check 命令编译 CUDA 扩展并做量化、梯度与 checkpoint 校验
+- 支持全参数、冻结权重与 LoRA（preserve/nvfp4/packed_nvfp4 模式）训练路径
+- 与官方 Transformer Engine 固定版本的吞吐、显存与损失对照表
 
 ## 适用场景
 
-- 在 16GB 消费级显卡上做 FLUX 等图像模型的 LoRA 训练
-- 在有限显存内完成数十亿参数语言模型的全参数训练
-- 对比压缩存储策略与官方 FP4 训练实现的吞吐与显存
+- 在 16GB 消费级 GPU 上训练或微调 FLUX.2 等图像模型 LoRA
+- 在小显存显卡上跑通数十亿参数语言模型的全参数训练更新
+- 按 profile 权衡权重与 AdamW 状态的显存开销
+- 对比 NVFP4 与 BF16 训练的吞吐和显存数据
 
 ## 场景标签
 
-`微调` · 领域:训练与推理
+`微调` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L3: **Use native NVFP4 to accelerate training and reduce GPU memory use on SM120 GPUs.** This PyTorch package combines F
 > L5: Built on Infatoshi/nvfp4-sm120, it implements software stochastic rounding (SR) and random Hadamard transforms (RHT)
+> L44: from nvfp4_training import enable_nvfp4, train_step, check_finite
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `0787a83c2574` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `5d341e573d8f` · [字段定义](../../DATASET.md)*

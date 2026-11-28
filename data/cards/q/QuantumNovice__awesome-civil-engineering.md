@@ -2,9 +2,9 @@
 
 ⭐ 127 · Python · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/QuantumNovice/awesome-civil-engineering) · 个人维护
 
-**土木工程软件与编程资源策展清单，覆盖多工程子领域**
+**土木工程软件与编程资源分类清单**
 
-Awesome 系列的土木工程软件资源清单：按报告文档、水资源与排水、结构分析与设计、结构仿真、岩土工程、交通工程、环境工程、数字孪生与 BIM 等类别组织条目，收录商业软件（SAP2000、PLAXIS、PTV Vissim）与开源工具（OpenFOAM、OpenSees、EPA SWMM、OSMnx 等），每条目附一句话功能说明。面向土木工程及相关领域的工程师与研究人员，用于软件选型与工具发现。清单型仓库，无安装运行本体。
+按土木工程子领域组织的资源清单，条目覆盖报告文档、水资源与排水、结构分析与设计、结构仿真、岩土工程、交通工程等类别，逐条以一句话描述各软件的用途与来源（商业或开源）。条目既包含 EPA SWMM、EPANET、OpenSees、FEniCSx、Code_Aster 等开源软件，也收录 SAP2000、ETABS、PLAXIS、Ansys 等商业软件。README 声明欢迎贡献（contributions-welcome 主题标签）。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@ Awesome 系列的土木工程软件资源清单：按报告文档、水资源与
 
 ## 能力要点
 
-- 按 8 个土木工程子领域分类组织条目
-- 同时收录商业软件与开源/免费工具
-- 覆盖水力、结构、岩土、交通、环境、BIM/数字孪生等领域
+- 按子领域分类组织的软件条目清单
+- 同时收录开源与商业土木工程软件
+- 每条附一句话用途描述
 
 ## 适用场景
 
-- 按工程子领域查找分析与设计软件
-- 发现可用于土木工程的开源工具与 Python 包
-- 比较商业与免费方案做软件选型
+- 查找某一土木子领域的可用软件
+- 寻找有限元、水力建模等方向的开源替代
+- 作为课程或项目选型时的资源索引
 
 ## 场景标签
 
@@ -38,6 +38,7 @@ Awesome 系列的土木工程软件资源清单：按报告文档、水资源与
 
 > L1: # Awesome Civil Engineering Awesome
 > L5: ## Contents
+> L54: ## Structural Analysis & Design Software
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `3636a3a54096` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `5fc3fcb7481a` · [字段定义](../../DATASET.md)*

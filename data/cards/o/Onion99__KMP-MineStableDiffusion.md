@@ -1,10 +1,10 @@
 # Onion99/KMP-MineStableDiffusion
 
-⭐ 132 · Kotlin · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/Onion99/KMP-MineStableDiffusion) · 个人维护
+⭐ 132 · Kotlin · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/Onion99/KMP-MineStableDiffusion) · 个人维护 · 中文 README
 
-**Kotlin 多平台本地 AI 绘图客户端：手机/桌面离线运行 Stable Diffusion**
+**安卓/iOS/桌面本地离线运行 Stable Diffusion 生图应用**
 
-基于 Kotlin Multiplatform 与 Compose 的跨平台 AI 图像生成应用，通过 C++ 后端（stable-diffusion.cpp）与 JNI 绑定在本地运行推理，支持 Android、iOS、Windows/macOS/Linux。支持 SD-Turbo、SDXL、SD3、FLUX 等 .gguf/.safetensors 模型，提供 LoRA 拖放混合、采样器切换、量化与 CPU Offload 等显存控制，导出 PNG 内嵌生成参数。全部离线运行，不依赖云端。通过 Releases 安装包或源码构建获取。
+基于 Kotlin Multiplatform 与 Compose 的跨平台 Stable Diffusion 客户端，底层通过 JNI 调用 stable-diffusion.cpp 引擎在本地设备离线推理生图。支持 SD1.x/SDXL/SD3/FLUX 等架构与 GGUF/SAFETENSORS 模型文件，提供批量生成、多 LoRA 混合、采样器切换、量化与 CPU offload 等 VRAM 控制，生成参数自动嵌入导出 PNG。提供 .apk/.dmg/.exe 安装包，也可从源码构建。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- C++/JNI 原生后端，跨 Android/iOS/桌面离线推理
-- 支持 SD1.x/SDXL/SD3/FLUX/Chroma 等多架构模型
-- LoRA 拖放混合加载与采样器切换
-- 量化、CPU Offload 等 VRAM 控制选项，PNG 内嵌生成参数
+- 本地离线推理，无云端依赖，C++/JNI 后端
+- 支持 SD-Turbo/SD1.x/SDXL/SD3/FLUX 等模型架构
+- 多 LoRA 混合与量化（F16/Q8_0/Q4_K）、CPU offload 等显存控制
+- 导出 PNG 自动嵌入全部生成参数
 
 ## 适用场景
 
-- 在手机或桌面离线生成 AI 图像，数据不出设备
-- 批量文生图并叠加多个 LoRA 风格
-- 低显存设备上通过量化与 CPU Offload 运行大模型
+- 在手机上离线生成 AI 图像
+- 在桌面端用本地模型做文生图创作
+- 低显存设备上通过量化与 offload 运行较大模型
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L5: **The kotlin multiplatform Stable Diffusion client**
 > L26: Mine StableDiffusion is a **native, offline-first AI art generation studio** resting right in your pocket or on you
-> L30: - 🚀 **Native Performance** — Pure C++ backend combined with JNI bindings ensures maximum hardware utilization.
+> L110: |🤖 **Android**|✅ Stable|Android 11+ (API 30+) running **Vulkan 1.2+**|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `b7c53e237c44` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f0fbfc0ab8b3` · [字段定义](../../DATASET.md)*

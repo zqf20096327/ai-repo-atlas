@@ -2,15 +2,15 @@
 
 ⭐ 145 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/evo-design/proto-tools) · [官网](https://proto.evodesign.org/docs/tools/introduction) · 组织维护
 
-**生成式生物学的计算工具套件：统一 Python 接口调用百余种生物 AI 工具**
+**为计算生物学与生物 AI 工具提供统一接口的 Python 基础设施层**
 
-Python 包，将结构预测、逆折叠、序列分析、基因注释、构象动力学、基因组打分等大量计算生物学与生物 AI 工具收纳到单一一致接口下，一次 pip install 即可使用。每个工具运行在自动管理的隔离环境中以处理依赖；内置设备管理与 GPU 扇出等基础设施支持连续调用与并行。可作为独立库使用，也可通过托管 MCP 服务器由 AI 助手调用，工具可在本地运行或部署到 Modal 云端。部分工具（如 ESM3、AlphaGenome）需先接受许可条款。
+开源 Python 包，将语言模型、结构预测、逆折叠、序列比对、基因注释、基因组打分等上百个生物工具收拢到统一接口，通过单条 pip 命令安装。工具环境自动隔离，可共存冲突依赖；提供设备管理、GPU fan-out 并行、本地或 Modal 远程执行。可作为独立 Python 库、proto 优化系统的一部分，或经托管 MCP 服务器由 Claude/ChatGPT 等 AI 助手调用。部分工具依赖需先接受许可条款的受限模型。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,27 +20,26 @@ Python 包，将结构预测、逆折叠、序列分析、基因注释、构象�
 
 ## 能力要点
 
-- 统一 Python 接口下整合 16 类工具：结构预测、逆折叠、序列比对、分子对接等
-- 每个工具自动隔离环境，依赖由框架管理
-- 内置设备管理、GPU 扇出与 ToolPool 并行执行
+- 覆盖 17 类工具：结构预测、逆折叠、分子对接、序列比对、基因注释等
+- 工具环境隔离管理，支持冲突依赖共存
+- 设备管理与 ToolPool 跨 GPU 并行执行
 - 托管 MCP 服务器供 Claude/ChatGPT 等 AI 助手调用工具
 
 ## 适用场景
 
-- 运行 AlphaFold、ESM 等模型预测蛋白质 3D 结构
-- 从结构出发做逆折叠序列设计或 de novo 结合剂设计
-- 在 Modal 云端批量运行多 GPU 推理任务
-- 让 AI 助手通过 MCP 检索和调用生物信息学工具
+- 在统一的 Python 接口下运行 AlphaFold、Evo2 等多种生物模型
+- 让 Claude/ChatGPT 通过 MCP 帮忙执行蛋白设计与序列分析
+- 本地与远程混合算力下并行跑结构预测任务
 
 ## 场景标签
 
-`科研工具` `推理引擎` · 领域:学习与行业
+ · 领域:生命科学/计算生物学基础设施
 
 ## 证据(README 行号)
 
-> L25: Welcome! This repository contains the open-source implementation of `proto-tools`, a Python package containing a la
-> L27: Every tool runs in its own automatically managed isolated environment, so all dependency wrangling is handled for y
-> L215: Our hosted MCP server lets Claude, ChatGPT, and other AI assistants find and run these tools for you. To set up, f
+> L25: `proto-tools` is an open-source Python package that gives computational biology and biological AI tools a common in
+> L27: Tool environments are isolated and managed automatically, so you can use tools with conflicting dependencies togeth
+> L45: To use these tools from Claude, ChatGPT, or another AI assistant, connect our MCP server. See the MCP installation 
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `dc0ef74acf62` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `f9973559c84c` · [字段定义](../../DATASET.md)*

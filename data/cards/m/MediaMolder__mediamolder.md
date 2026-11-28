@@ -1,10 +1,10 @@
 # MediaMolder/mediamolder
 
-⭐ 113 · Go · LGPL-2.1 · 推送 2026-11-23 · [GitHub](https://github.com/MediaMolder/mediamolder) · 组织维护
+⭐ 113 · Go · LGPL-2.1 · 推送 2026-11-23 · [GitHub](https://github.com/MediaMolder/mediamolder) · 个人维护
 
-**面向生产媒体处理的 FFmpeg 图形化重造引擎，内置 AI 检测/转写节点**
+**FFmpeg 的可视化重构：JSON 图形编排媒体处理，内置 AI 节点**
 
-基于 libav* 库的 Go 媒体处理引擎，将 FFmpeg 命令行替换为 JSON 定义的图与浏览器拖拽式 GUI：支持导入/导出 FFmpeg 命令、运行前静态+探测校验与一键修复、逐节点性能指标（Prometheus/OTEL/HTTP SSE）、实时自适应编码控制器，以及多轨时间线剪辑。扩展通过纯 Go Processor 接口实现；内置 YOLO 目标检测、YOLOv8-face 人脸分析、whisper.cpp 语音转字幕、Vidi 2.5 与 TwelveLabs 视频理解、LibRaw RAW 解码等节点。面向需要长时运行与可观测性媒体管线的开发者与工程团队。
+基于 libav* 库（libavcodec/libavformat/libavfilter/x264/x265）重建接口与编排层的媒体处理引擎，用 JSON 文件定义处理图替代命令行字符串。提供浏览器内拖放式 GUI、运行前静态+probe 校验与一键自动修复、逐节点性能指标（Prometheus/OTEL/HTTP SSE）、实时自适应控制器（线程/preset/丢帧调节）。以 Go 编写，自定义处理逻辑通过 Processor 接口以纯 Go 扩展；图以 JSON 保存并可本地、远程 GPU 服务器或集群运行，支持与 FFmpeg 命令行双向转换。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- FFmpeg 命令与可视化图双向转换，图保存为 JSON 可由二进制直接运行
-- 运行前校验捕捉拓扑/编码器兼容/像素格式等问题并提供一键修复
-- 实时自适应闭环控制器：线程/preset/丢帧三级适配与抖动缓冲
-- 内置 YOLO 检测、whisper.cpp 转写、Vidi 2.5 / TwelveLabs 视频理解等 AI 节点
+- 浏览器拖放式图形编辑器，JSON 定义处理图，可与 FFmpeg 命令行双向转换
+- 运行前静态+probe 校验，对无歧义问题提供一键自动修复
+- 实时自适应控制器：编码线程/preset/丢帧三级调节，500ms 控制环
+- 内置 AI/分析节点：YOLOv8 检测、whisper.cpp 本地转写、Vidi 2.5、TwelveLabs、LibRaw RAW 解码、人脸检测
 
 ## 适用场景
 
-- 用可视化图编辑器替代 FFmpeg 命令行构建转码管线
-- 直播/长时编码任务中监控逐节点性能并自动适配
-- 在媒体图中加入目标检测、人脸分析或语音字幕生成节点
-- 将现有 ffmpeg 脚本迁移为可版本化的 JSON 图
+- 把现有 ffmpeg 命令导入 GUI 可视化编辑后再运行
+- 直播/HLS/DASH 场景下保持实时编码节奏
+- 在媒体处理图中直接嵌入目标检测、语音转写、场景理解节点
+- 长时间生产任务中按节点观测性能与瓶颈
 
 ## 场景标签
 
-`图像视频处理` `语音识别` `目标检测` · 领域:感知与多模态
+`图像视频处理` `目标检测` `语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1d7844020f2c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `31f3676a816b` · [字段定义](../../DATASET.md)*

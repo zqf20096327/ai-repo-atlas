@@ -2,9 +2,9 @@
 
 ⭐ 210 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/mitre-atlas/atlas-data) · [官网](https://atlas.mitre.org) · 组织维护
 
-**面向 AI 安全从业者：ATLAS 对抗 AI 系统 TTP 知识库的数据与工具**
+**MITRE ATLAS 数据仓库：AI 系统对抗 TTP 知识库的权威数据与工具**
 
-MITRE ATLAS 的权威数据仓库：分发针对 AI 系统的对手战术与技术（TTP）、案例研究、缓解措施的 YAML 数据文件，附带解析、校验与管理工具。仓库内含 Pydantic 模式定义的 REST API 用于编辑数据，CLI 工具可将 YAML 导入数据库、生成 STIX 2.1 Attack Flow、Navigator 层与 Excel 格式，并按月发布内容版本与格式版本分离的数据。通过 uv 安装依赖，pytest 校验发布数据。
+分发 MITRE ATLAS（面向 AI 系统的对抗威胁知识库）的 YAML 数据文件，作为权威数据源按月发布，含内容版本与格式版本双轨版本制。附带 Python 包提供 Pydantic schema 与 REST API，用于导入 YAML 到数据库、经 API 编辑、导出 YAML 供评审；CLI 工具可为每个案例研究生成 STIX 2.1 Attack Flow，并产出 STIX、Navigator layer、Excel 等分发格式。面向安全研究人员与 AI 系统威胁建模者。安装依赖 uv。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ MITRE ATLAS 的权威数据仓库：分发针对 AI 系统的对手战术与技�
 
 ## 能力要点
 
-- 分发 ATLAS 权威 YAML 数据：Matrix/Tactic/Technique/Mitigation/Case Study/Entity/Software 对象
-- 提供 REST API 作为数据编写工具，支持导入、编辑、导出 YAML
-- CLI 生成 STIX 2.1 Attack Flow bundle，支持按案例研究筛选
-- 按内容版本（YYYY.MM）与格式版本（SEMVER）双轨版本管理，附 manifest 映射
+- 按月更新的 ATLAS YAML 数据，内容/格式双版本并附 manifest 映射
+- REST API 支持导入-编辑-导出 YAML 的数据维护流程
+- 生成 STIX 2.1 Attack Flow，保留案例的 leads-to 图结构
+- Pydantic schema 与 pytest 校验发布数据的技术成熟度门槛
 
 ## 适用场景
 
-- 查询针对 AI 系统的攻击战术、技术与真实案例研究
-- 为安全评估导入 STIX/Navigator 格式的 ATLAS 数据
-- 参与或审阅 ATLAS 数据的贡献编辑流程
+- 检索针对 AI 系统的攻击战术、技术与真实案例研究
+- 为 AI 安全评估生成 Attack Flow 与 Navigator 层可视化
+- 参与 ATLAS 数据的贡献评审与校验流程
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ MITRE ATLAS 的权威数据仓库：分发针对 AI 系统的对手战术与技�
 ## 证据(README 行号)
 
 > L3: This repository distributes data for MITRE ATLAS&trade; (Adversarial Threat Landscape for AI Systems), a public know
+> L5: It includes the supporting tooling for parsing, validating, and managing ATLAS data.
 > L7: The ATLAS YAML files in this repository are the authoritative source of ATLAS data. The database and REST API suppor
-> L34: - `atlas/` - ATLAS Python package containing Pydantic schemas and REST API
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `56d8d4901736` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `9e0212c488e4` · [字段定义](../../DATASET.md)*

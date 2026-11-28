@@ -2,16 +2,16 @@
 
 ⭐ 122 · Go · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/yldm-tech/Kando) · [官网](https://kando.yldm.ai) · 个人维护 · 中文 README
 
-**用视频学外语的桌面应用：本地转录+逐句翻译双语字幕**
+**视频语言学习桌面应用：本地转写并生成双语字幕**
 
-面向语言学习者的桌面应用：粘贴 YouTube/Bilibili 链接或拖入本地视频，用 yt-dlp 下载，在本地用 whisper.cpp 转录语音（7 种模型可选，自动检测语言），再经 OpenAI 兼容 API 逐句翻译，播放时原文与译文同屏显示。提供单句循环、影子跟读、间隔复习（1/3/7/14/30/60 天）、Anki 导出与 AI 逐句讲解等学习工具。内置浏览器与浏览器扩展用于登录后下载会员/年龄限制视频。用 Go 编写，无 web view，界面支持中英日韩等五种语言，默认简体中文。
+用 Go 编写的桌面应用：粘贴 YouTube/Bilibili 链接或拖入本地视频/音频文件，经 yt-dlp 下载后在本机用 whisper.cpp 逐行转写，内置 Silero 语音活动检测过滤音乐与静音以减少虚构台词，再通过 OpenAI 兼容的聊天 API 逐行翻译，转写完成后 AI 还会依据标题与上下文校对易错词。播放器支持双语/原文/译文/关闭四种字幕模式、逐行循环与逐句停顿等跟读功能，并输出原文与双语两份 SRT。界面提供英/简中/繁中/日/韩五种语言，默认简体中文。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- whisper.cpp 本地转录，7 种模型（Tiny 77.7MB 至 Large v3 3.1GB），支持 hf-mirror.com 镜像下载并校验 SHA-256
-- 翻译支持 OpenAI 兼容 API 及 OpenRouter/Groq/DeepSeek/Qwen/Kimi/Ollama/LM Studio 等预设
-- 双语字幕播放器：逐句循环、跟读暂停、0.1 秒级字幕延迟调整、最多 12 段切片
-- 保存句子间隔复习与 Anki 导出（含 ffmpeg 切出的句子音频）
+- whisper.cpp 本地转写，配 Silero VAD 与 DTW 词级时间戳
+- 通过 OpenAI 兼容 API 翻译，内置 12 家服务预设及自定义端点
+- AI 依视频标题与上下文校对转写错听词，仅做同位替换不改写句子
+- 浏览器扩展与内置浏览器支持 YouTube/Bilibili 等站点的站内下载按钮
 
 ## 适用场景
 
-- 看外语视频配双语字幕学语言，逐句精听跟读
-- 把刷过的句子存入复习队列，按间隔重复记忆并导出 Anki
-- 批量下载 YouTube/Bilibili 频道或播放列表并生成 srt 双语字幕文件
+- 看外语视频学语言，需要逐行对照的双语字幕
+- 给本地视频或音频（播客/有声书）批量生成翻译字幕
+- 用逐行循环和停顿功能做跟读练习
+- 导出双语 SRT 供 Plex/Jellyfin 等播放器使用
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L15: Kando is a desktop app for learning a language from videos in that language. Paste a YouTube or Bilibili link, or d
-> L27: - Speech is recognized on your computer with whisper.cpp, which detects the spoken language. Settings › Speech Reco
-> L28: - Lines are translated by EveryAPI by default, or by any OpenAI-compatible chat API: Settings › AI Service has pres
+> L29: - Speech is recognized on your computer with whisper.cpp. Kando first finds where people speak, with the Silero voi
+> L30: - Lines are translated by EveryAPI by default, or by any OpenAI-compatible chat API: Settings › AI Service has pres
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `c7fb7d472395` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `63b7878d16eb` · [字段定义](../../DATASET.md)*

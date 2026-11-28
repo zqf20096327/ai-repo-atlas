@@ -2,9 +2,9 @@
 
 ⭐ 822 · HTML · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Haozhe-Xing/agent_learning) · [官网](https://haozhe-xing.github.io/agent_learning/) · 个人维护 · 中文 README
 
-**从零开始学 AI Agent 开发的双语教材仓库（23 章）**
+**面向工程师的 AI Agent 开发系统教程（26 章，中英双语）**
 
-面向从『会调 LLM API』到『能构建、评估、加固与部署 Agent 系统』的开发者的开源教材：23 章覆盖工具、记忆、规划、RAG、上下文工程、Agentic RL、多智能体、评估、安全与部署，中英双语各 188 页 Markdown，含 330+ SVG 图与 5 个交互演示。配套 reference-agent 可运行教学基线（ReAct 循环、离线 FakeProvider、MCP 服务、FastAPI、16 个无 API key 测试）。作者声明其为教学基线而非生产完整实现。
+以教科书形式组织的开源 AI Agent 学习仓库，覆盖 LLM 基础、工具调用、记忆、规划、RAG、上下文工程、Agentic RL、多智能体、评测、安全与部署，共 26 章，提供英文与中文两套 mdBook 版本及 330+ SVG 图与 5 个交互演示。附可运行的 reference-agent 教学基线实现（ReAct 循环、工具注册、记忆、注入防护、MCP server、FastAPI、离线测试），章节含 ReAct、MemGPT、GRPO 等论文解读。仓库声明这不是 awesome 清单或框架手册，而是结构化学习路径。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 23 章、中英双语各 188 页，覆盖基础到生产部署全链路
-- 330+ 原创 SVG 图与 5 个交互演示
-- reference-agent 可运行基线：ReAct 循环、安全门、MCP 服务器、FastAPI、16 个离线测试
-- 论文到实践讲解（ReAct、Reflexion、MemGPT、GraphRAG、GRPO、MCP、A2A 等）
+- 26 章结构化教程，中英双语版本目录对齐
+- 附可运行教学基线 Agent（工具、记忆、安全门、评测、MCP server）
+- 330+ 原创 SVG 架构图与 5 个交互式演示
+- 离线测试无需 API key 即可运行
 
 ## 适用场景
 
-- 系统学习 LLM Agent 开发并动手跑参考实现
-- 理解 Agent 相关论文的机制与工程转化
-- 中英双语对照学习 Agent 全链路知识
+- 系统学习从 LLM API 调用到 Agent 生产部署的完整路径
+- 在动手章节中阅读并改造可运行的参考 Agent 实现
+- 查阅 ReAct、MemGPT、GRPO、MCP 等论文的工程解读
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L22: `agent_learning` is an open-source AI Agent textbook and learning repository. It is designed for the gap between **
-> L30: - **23 chapters** across foundations, core capabilities, frameworks, multi-agent systems, production, and capstone 
+> L33: - **Paper-to-practice explanations** covering ReAct, Reflexion, MemGPT/Letta, GraphRAG, GRPO, MCP, A2A, and more.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `56dfcc841090` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `e1c996e4ad9e` · [字段定义](../../DATASET.md)*

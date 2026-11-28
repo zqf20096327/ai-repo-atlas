@@ -2,9 +2,9 @@
 
 ⭐ 118 · TypeScript · CC0-1.0 · 推送 2026-11-08 · [GitHub](https://github.com/aliammari1/awesome-ai-tools) · [官网](https://docs.aliammari.dev) · 个人维护
 
-**按任务分类的 384 个 AI 工具策展清单（19 类）**
+**按19类整理的400+AI工具目录，供按任务查找选型**
 
-以 awesome-list 形式组织的 AI 工具目录：收录 384 个工具，按 AI Agents、生产力、创意设计、写作沟通、数据科学、NLP、计算机视觉、音频音乐等 19 个类别分组，每个条目附一句话说明。配套可搜索目录站点 docs.aliammari.dev，支持按任务查找、对比定价与开源信息，未知元数据保留为未知；并给出收录方法与安全政策说明。条目混合商业 SaaS 与开源项目。
+以 awesome 清单形式组织的 AI 工具目录，条目按 AI Agents、Productivity、Creativity & Design、Communication & Writing 等 19 个类别分组，每条附一句功能描述与外链。README 声明可检索版目录托管在 docs.aliammari.dev，可按任务查找并比较已记录的定价与开源信息，未采集到的元数据保持空白。README 附安全声明：条目仅为第三方服务或仓库链接，列出不代表背书，并给出恶意链接举报渠道。目录维护依赖社区建议工具与公开的收录方法说明。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 384 个工具按 19 个类别组织
-- 配套可搜索目录站点（docs.aliammari.dev），含定价与开源信息对比
-- 声明收录方法（curation methodology）与安全政策
+- 400+ 条目按 19 个类别组织，覆盖 Agent 框架、生产力、设计、写作等领域
+- 提供可检索在线目录，记录定价与开源信息
+- 每条目附功能描述与第三方链接
+- 附安全声明与恶意链接举报机制
 
 ## 适用场景
 
-- 按任务类别查找和对比 AI 工具
-- 了解各领域 AI 工具的覆盖情况
-- 通过目录站点检索定价与开源信息
+- 按任务类型查找可用的 AI 工具
+- 比较同类工具的定价与是否开源
+- 为工具目录提交或发现新条目
 
 ## 场景标签
 
@@ -36,7 +37,7 @@
 
 ## 证据(README 行号)
 
-> L3: > A curated catalog of **384 AI tools** across **19 categories**.
+> L3: > A curated catalog of **400+ AI tools** across **19 categories**.
 > L6: Find AI tools by task, then compare recorded pricing and open-source information in the searchable directory. Unknow
 
 ## 星数曲线
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `b6e309ae8690` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `7ffe6755fe2b` · [字段定义](../../DATASET.md)*

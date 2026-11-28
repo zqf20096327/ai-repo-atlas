@@ -1,10 +1,10 @@
 # neuml/txtai.rs
 
-⭐ 114 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neuml/txtai.rs) · 个人维护
+⭐ 114 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neuml/txtai.rs) · 组织维护
 
-**txtai API 的 Rust 客户端绑定**
+**给 Rust 开发者接入 txtai API 的官方客户端绑定**
 
-txtai 是用于语义搜索、LLM 编排与语言模型工作流的一体化 AI 框架，本仓库提供其 API 的 Rust 绑定，使 Rust 项目能够连接并调用运行中的 txtai API 实例。以 crate 形式集成（需搭配 tokio 异步运行时），仓库内含介绍、抽取式问答、零样本分类、pipeline 与工作流等示例程序。限制：不内嵌模型运行，需先启动 txtai API 实例方可使用。
+txtai（语义搜索、LLM 编排与语言模型工作流框架）的 Rust 客户端绑定库，通过 Cargo.toml 以 crate 形式提供。客户端连接到运行中的 txtai API 实例，依赖 tokio 进行异步 IO。仓库附带示例目录，覆盖语义搜索概览、抽取式问答、零样本分类标注与流水线工作流，示例通过 git clone 后以 cargo run 运行。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@ txtai 是用于语义搜索、LLM 编排与语言模型工作流的一体化 AI 
 
 ## 能力要点
 
-- Rust 语言访问 txtai API 的绑定库
-- 基于 tokio 的异步 IO 调用
-- 附带功能演示示例（问答/零样本分类/pipeline）
+- 为 txtai API 提供 Rust 绑定（crate 版本 9.15）
+- 基于 tokio 的异步 IO
+- 示例覆盖抽取式问答与零样本分类等场景
 
 ## 适用场景
 
-- 在 Rust 项目中接入已部署的 txtai API 服务
-- 以 Rust 调用语义搜索与 LLM 工作流能力
-- 参考示例了解 txtai 功能覆盖范围
+- 在 Rust 项目中调用 txtai 的语义搜索 API
+- 用 Rust 客户端运行问答与零样本分类示例
+- 将 txtai 工作流接入 Rust 服务端
 
 ## 场景标签
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2ddb16049c31` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `38ba4297d938` · [字段定义](../../DATASET.md)*

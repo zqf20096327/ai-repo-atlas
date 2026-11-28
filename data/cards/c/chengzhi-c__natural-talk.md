@@ -2,9 +2,9 @@
 
 ⭐ 128 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chengzhi-c/natural-talk) · [官网](https://linux.do) · 个人维护 · 中文 README
 
-**让 AI 对话与写作去除机械套路、贴近真人表达的风格规则集**
+**给 AI 客户端去除 AI 腔、恢复自然表达的中/英文规则集**
 
-以 SKILL.md 形式提供的表达风格规则集：包含对话（首句直给、数量词严格、禁翻案腔等）与叙事（删装饰标签、抽象词对举禁用等）两套规则，附 Python 脚本 scan-mechanical.py 扫描草稿、audit-cleanup.py 审计清理稿。面向使用 Claude Code / Cursor / Codex 等 agent 或通过 API 拼 system prompt 的用户。README 给出多模型测试命中统计；自述局限：实际效果取决于模型解读能力，学术论文、公文等体制文书不适用。
+一套以 SKILL.md 为入口的提示词规则集，包含首句直给、禁翻案句式、限破折号与修饰副词、禁装饰性比喻等核心规则，适用于日常对话、代码沟通、技术文档复查、小说创作与稿件清理，可通过 Skills CLI 安装或 git clone 到本地，也可将 references/ 中的规则模块直接填入 SillyTavern 等客户端的 System Prompt。README 明确说明其效果取决于所用模型的指令遵循能力，且学术论文、公文、法律文书、营销文案等文体默认不适用。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 对话与叙事两类规则，含防误杀三原则
-- scan-mechanical.py 扫描翻案腔与破折号密度并定位到行
-- audit-cleanup.py 审计清理稿的过删与残留
-- evals/ 目录随仓库发布用例与判分断言
+- 7 条核心规则与 references/ 场景化规则模块（rules-full.md、fiction.md）
+- 支持 Skills CLI 一键安装与克隆到 Claude Code 技能目录
+- 提供仅诊断不改写模式：输出命中位置、规则编号与理由
+- 叙事工法范例节选自朱自清、郁达夫、鲁迅作品
 
 ## 适用场景
 
-- 给编码 agent 挂载技能，让日常回答减少机械套路
-- 小说创作时约束模型规避'瞳孔骤缩'类套路化描写
-- 对已生成文本做风格清理并用脚本审计结果
+- 让聊天机器人回复去掉客套话和套路句式
+- 小说创作中获得具象感官描写的风格约束
+- 成稿后按规则清单清理 AI 腔表达
+- 仅诊断文本命中哪些 AI 腔规则而不改写
 
 ## 场景标签
 
-`提示工程` `AI 写作` · 领域:Agent 开发
+`提示工程` `聊天机器人` `AI 写作` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7: 让 AI 的表达回归真实人类状态：真诚、直接、有在场感；清掉机械套路，留足创作自由。
-> L78: system = Path("SKILL.md").read_text(encoding="utf-8")
+> L7: 中文去 AI 腔、恢复自然表达。适用于日常对话、小说创作、代码沟通、论述成文清理与小说成稿清理。
+> L46: 直接将 `SKILL.md` 作为基础提示词（System Prompt）。不同场景可按需搭配 `references/` 中的规则模块：
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1e9b0061896d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `89d994c94f26` · [字段定义](../../DATASET.md)*

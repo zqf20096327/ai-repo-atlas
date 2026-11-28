@@ -2,9 +2,9 @@
 
 ⭐ 125 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Goldziher/basemind) · [官网](https://basemind.ai) · 个人维护
 
-**给编码 agent 的 MCP 上下文与通信层服务器**
+**给编码 agent 提供代码索引、文档检索与协作的 MCP 服务器**
 
-用 Rust 实现的单一 MCP 服务器，为编码 agent 提供代码库的持久上下文：基于 tree-sitter 的代码地图（300+ 语言的 outline/symbols/definition/references 等）、代码图遍历与导出、git 历史与 blame 查询、按仓库隔离的共享记忆与 90+ 格式文档语义检索、网页抓取、agent 间线程通信与后台 shell 会话，并输出节省 token 的统计。安装途径包括插件方式（支持 Claude Code、Codex、Cursor、Gemini CLI 等 10+ agent 宿主）、MCP 服务器配置与 crates.io/PyPI/npm 程序安装。限制：语义代码搜索需 --features code-search，PyPI 0.29.3 早于技能注册修复。
+以 MCP 服务器形态为编码 agent 提供上下文与通信能力：tree-sitter 解析 300+ 种语言生成代码地图，支持符号定义/调用点查询、按含义搜索 PDF/Office/HTML 等文档（含 OCR 与命名实体识别）、agent 共享记忆与同机多 agent 消息线程、git log/blame/diff。另提供等价 CLI 命令。程序用 Rust 编写，通过 Homebrew/npm/pip/cargo/GitHub releases 分发，或作为 Claude Code、Codex、Cursor 等 10+ 种 harness 的插件安装。首个查询前需构建索引。
 
 ## 筛选速览
 
@@ -13,34 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单一 MCP 服务器同时提供代码地图、代码图、git 情报、共享记忆、文档 RAG、网页抓取与 agent 通信
-- 300+ 语言代码情报与 90+ 文档格式语义检索（PDF/Office/HTML/邮件/图片 OCR）
-- 10+ agent 宿主的插件安装路径（Claude Code、Codex、Cursor、Gemini CLI、Copilot 等）
-- 代码图可视化导出（DOT/Mermaid/GraphML/交互式 HTML）与 token 节省遥测
+- tree-sitter 代码地图覆盖 300+ 语言，返回文件、行号与签名
+- 文档 RAG 支持 PDF/Office/HTML/邮件/笔记本/图像并附引用
+- 同一机器上跨 harness 的 agent 共享消息线程与收件箱
+- 每个 MCP 工具都有参数相同的 CLI 命令
 
 ## 适用场景
 
-- 让编码 agent 以文件路径+行号+签名回答代码问题而非读整个文件
-- 多 agent 团队通过共享线程协调对同一仓库的工作
-- 跨 PDF/Office/网页资料的语义检索供 agent 引用
-- 查询函数级 git 变更历史与 blame
+- 让编码 agent 按符号大纲与调用点精准读取代码而非全文搜索
+- 对仓库中的文档按含义检索并获取带出处引用的答案
+- 多个 agent 会话之间共享笔记与消息协作
+- 团队通过提交 basemind.toml 统一索引与扫描配置
 
 ## 场景标签
 
-`多智能体` `网页抓取` `RAG` `Agent 记忆` · 领域:Agent 开发
+`编码 Agent` `RAG` `文档解析` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: **The context and communication layer for coding agents.**
-> L196: ### 2. As an MCP server
-> L198: If your tool speaks MCP but you're not using the plugin, install the program,
+> L104: ### As an MCP server
+> L203: `basemind scan` reads a project once, in parallel. It maps the code with [tree-sitter] across
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `af821f6ad231` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `30510a776ba1` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 134 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/mugicha-AI/ComfyUI-PoseAtlas) · 个人维护 · 中文 README
 
-**ComfyUI 姿态参考图库节点：288 组多角度人台线稿可视化选用**
+**把 PoseAtlas 参考图集做成 ComfyUI 图库节点**
 
-把 RuiC-PoseAtlas 静态姿态图库封装为 ComfyUI 节点：PoseAtlasLoader 提供全屏图库面板（4 系列、26 子分类、中英日搜索、5 角度切换），选中后输出 IMAGE/MASK；PoseAtlasInfo 输出姿态名称等文字信息供拼提示词。仓库不含图片，需运行脚本从原作者仓库下载（约 660 MB，多镜像自动切换续传），图片版权归原作者、禁止再分发。面向用 ControlNet 或图生图/编辑模型做 AI 绘画的创作者，示例工作流配合 Flux3 Klein、Qwen-Image 2.1 使用。
+将 RuiC-PoseAtlas 的姿势、服饰、肖像三套静态参考图集接入 ComfyUI：共 4,345 条条目（288 组姿态 × 5 角度等），通过可视化图库面板按分类或三语关键词选择，节点输出 IMAGE/MASK，可接入 ControlNet、图生图与编辑模型。仓库不含任何图片，安装后需运行下载脚本从公开源站取回；深度原图因源站禁止批量抓取，只能逐张按需下载。面向 AI 绘画创作者。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 1439 项下拉框替换为全屏图库面板，支持中/英/日名称与编号搜索
-- 两个节点：PoseAtlasLoader 输出 IMAGE/MASK，PoseAtlasInfo 输出姿态名称/分类/系列
-- 下载脚本在 6 个镜像间自动切换，支持断点续传与仅缩略图模式（约 22 MB）
-- 提供 3 个示例工作流（含 Flux3 Klein 与 Qwen-Image 2.1 编辑链路）
+- 姿势 1,439 / 服饰 1,407 / 肖像 1,499 共 4,345 条参考图，支持中英日三语搜索与界面
+- 提供线稿与灰度深度两种渲染，深度模式保留双人前后遮挡关系
+- 节点输出 IMAGE/MASK，附 8 个示例工作流（ControlNet、换装、角色一致性等）
+- 图片不打包不分发，提供带镜像切换与断点续传的下载脚本
 
 ## 适用场景
 
-- AI 绘画时在 ComfyUI 内直接挑选人体姿态参考线稿
-- 配合 ControlNet 抽骨架控制生成图像的姿势与镜头角度
-- 把姿态线稿作为参考图喂图生图/编辑模型，保留姿态重绘外观
+- 为 ControlNet 姿态控制挑选多角度人台线稿或深度图
+- 用服饰集做换装与服装风格迁移的参考图
+- 用肖像集做角色一致性与发型参考
+- 在 ComfyUI 图库里按三语关键词快速检索姿势参考
 
 ## 场景标签
 
@@ -37,9 +38,10 @@
 
 ## 证据(README 行号)
 
-> L3: 把 RuiC-PoseAtlas 的 **288 组人体姿态 / 1439 张多角度人台线稿** 做成了 ComfyUI 节点。
-> L96: 拖一个 **PoseAtlas 姿态图库**，点「打开图库」选一张，`image` 输出接到任何吃 `IMAGE` 的节点。
-> L155: 这个节点本身很轻（只读图，不跑模型），但配套的 ControlNet / 编辑模型需要显存。
+> L5: 把 RuiC-PoseAtlas 的**三套图集**做成 ComfyUI 节点：
+> L15: > ⚠️ **本仓库不含任何图片**——连缩略图也不带，一张都没有。
+> L36: RuiC-PoseAtlas 本身是一个静态参考图库。本项目把它的浏览体验搬进 ComfyUI：
+> L266: 这个节点本身很轻（只读图，不跑模型），但配套的 ControlNet / 编辑模型需要显存。
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `b62380830ecd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `af44d7ff9c40` · [字段定义](../../DATASET.md)*

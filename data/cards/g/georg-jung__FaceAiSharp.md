@@ -2,9 +2,9 @@
 
 ⭐ 136 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/georg-jung/FaceAiSharp) · [官网](https://nuget.org/packages/FaceAiSharp/) · 个人维护
 
-**.NET 人脸检测/识别/关键点与眼睛状态库**
+**.NET 开发者的人脸检测/识别等本地推理库**
 
-面向 .NET 开发者的计算机视觉库，封装公开的预训练 ONNX 模型，提供人脸检测、人脸识别、面部关键点检测（眼中心、鼻尖、嘴角）与眼睛开闭状态检测四类功能。模型推理基于 ONNXRuntime，支持硬件加速；图像读取使用 ImageSharp；全部本地处理，不依赖云服务。通过 NuGet 分发，Bundle 包含选定的模型（SCRFD、ArcFace、OpenVINO eye），也可自选或自带模型。跨平台支持 Windows、Linux、Android 等。注意所用 ONNX 模型受各自原始许可证约束，可能比 MIT 更严格。
+面向 .NET 应用的人脸计算机视觉库，提供人脸检测、人脸识别、面部关键点检测与睁闭眼状态检测四类功能。内部加载公开的预训练 ONNX 模型（SCRFD、ArcFace、Intel OpenVINO open-closed-eye-0001），通过 ONNXRuntime 推理并在硬件允许时启用加速；全部处理在本地完成，不依赖云服务。基于 ImageSharp 处理图像，支持 Windows、Linux、Android 等平台。模型各有独立许可，可能比库本身的 MIT 更严格。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 人脸检测、识别、关键点与眼睛状态四类功能，基于 ONNXRuntime 推理
+- 四类功能：人脸检测、人脸识别、面部关键点、睁闭眼检测
+- 使用公开预训练 ONNX 模型，经 ONNXRuntime 推理
 - 全部本地处理，不依赖云服务
-- NuGet Bundle 包内置模型，也支持自选/自带 ONNX 模型
 - 跨平台支持 Windows、Linux、Android 等
 
 ## 适用场景
 
-- 在 .NET 应用中集成人脸检测与识别
-- 本地化部署的人脸验证，不依赖云端 API
-- 提取面部关键点或判断眼睛开闭状态
+- 在 .NET 应用中检测图片中的人脸边界与关键点
+- 本地人脸识别比对、区分不同个体
+- 判断照片中人物眼睛是否睁开
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L7: FaceAiSharp is a .NET library that allows you to work with face-related computer vision tasks. It currently provides
-> L11: - **Face Detection**: Identifies the boundaries of faces within images.
-> L12: - **Face Recognition**: Recognizes and distinguishes between different faces.
+> L19: - All processing is done locally, with no reliance on cloud services.
+> L22: - Cross-platform support for Windows, Linux, Android and more.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2743182fad49` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f6f9b8787d17` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 178 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ahaodev/shadmin) · [官网](https://shadmin.ahaodev.com) · 个人维护 · 中文 README
 
-**Go+React 全栈 RBAC 权限管理系统脚手架**
+**给开发者提供 Go+React 全栈 RBAC 权限管理后台**
 
-以 Go（Gin + Ent ORM + Casbin）为后端、React + TypeScript + Shadcn UI + Tailwind 为前端的全栈 RBAC 权限管理系统，采用 Controller→Usecase→Repository 分层架构。功能覆盖 API 与菜单的细粒度角色权限控制、后端驱动的动态菜单、全局搜索、数据可视化仪表盘、明暗主题与响应式布局。缓存支持 Redis 或 go-cache（可选），默认使用 SQLite，亦支持 PostgreSQL 与 MySQL。默认账号 admin/admin123，首次启动自动初始化数据库并写入种子数据，提供 Swagger 文档，另有面向 AI agent 的 CLI 文档入口。MIT 许可。
+基于 Gin、Ent ORM、Casbin 与 React（Shadcn UI、TanStack Router、Tailwind CSS）构建的全栈 RBAC 权限管理系统，提供 API 与菜单的细粒度角色权限控制、后端驱动的动态菜单、全局搜索、数据看板、明暗主题等。支持 SQLite（默认）、PostgreSQL、MySQL 多数据库，缓存可选 Redis 或 go-cache。源码方式克隆运行，首启自动初始化 SQLite 并写入种子数据，提供 Swagger 文档与面向 AI agent 的 CLI 文档。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -21,24 +21,24 @@
 ## 能力要点
 
 - 基于 Casbin 的 API 与菜单细粒度 RBAC 权限控制
-- 后端驱动的动态菜单树，按权限渲染
-- SQLite（默认）/PostgreSQL/MySQL 多数据库开箱即用
-- 提供 Swagger API 文档与 AI agent CLI 文档入口
+- 后端驱动的动态菜单树与权限感知渲染
+- 开箱支持 SQLite/PostgreSQL/MySQL 多数据库
+- 提供面向 AI agent 的 CLI
 
 ## 适用场景
 
-- 搭建需要角色权限管理的中后台管理系统
-- 以 Go + React 技术栈为基础二次开发企业内部系统
-- 参考 Clean Architecture 分层组织 Go 后端代码
+- 快速搭建带角色权限管理的管理后台
+- 为内部系统接入 API 与菜单级权限控制
+- 作为 Go + React 全栈项目开发参考
 
 ## 场景标签
 
- · 领域:企业管理系统/开发脚手架
+ · 领域:企业应用/权限管理
 
 ## 证据(README 行号)
 
+> L58: - CLI for AI agents
 > L3: **An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React**
-> L64: - CLI for AI agents
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `ecdc9c2a5bd6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `73c5322851e7` · [字段定义](../../DATASET.md)*

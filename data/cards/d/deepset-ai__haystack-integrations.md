@@ -2,9 +2,9 @@
 
 ⭐ 114 · Python · 推送 2026-11-27 · [GitHub](https://github.com/deepset-ai/haystack-integrations) · [官网](https://haystack.deepset.ai/integrations) · 组织维护
 
-**Haystack 框架社区集成的官方索引仓库**
+**Haystack 集成组件的社区维护索引清单**
 
-deepset 维护的 Haystack 集成条目索引：收录社区或 deepset 团队维护的 Document Store、Model Provider、自定义组件、监控工具与评测框架等集成，条目以 integrations/ 目录下的 .md 文件形式组织，浏览入口为 Haystack Integrations 页面。贡献流程为创建 PR 添加 .md 文件，frontmatter 需含 name 等字段，且 pypi 或 repo 字段至少一项，通过审核后在集成页面上线。
+该仓库是 Haystack 集成的索引目录，收录可配合 Haystack Pipeline 或 Agent 使用的模型提供方、文档存储、数据摄取、监控工具、自定义组件、评测框架等集成，集成以外部包或附加技术形式存在，由 deepset 团队或社区作者分别维护。用户在 Haystack 集成页面浏览各集成的作者、安装与用法；贡献者通过提交 integration issue 讨论、经维护者标记 approved 后以 PR 添加 integrations/ 目录下的 .md 条目，条目须含 pypi 或 repo 字段之一。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ deepset 维护的 Haystack 集成条目索引：收录社区或 deepset 团队�
 
 ## 能力要点
 
-- 索引 Haystack 的 Document Store、Model Provider、组件、监控与评测类集成
-- 条目以 integrations/ 目录下带 frontmatter 的 .md 文件形式贡献
-- 维护方包含 deepset 团队与社区作者两类
+- 索引模型提供方、文档存储、监控、评测框架等多类 Haystack 集成
+- 集成由各自作者或 deepset 团队维护
+- 提供 issue 讨论加 PR 提交的集成收录流程
+- 集成条目须至少包含 pypi 或 repo 字段之一
 
 ## 适用场景
 
-- 为 Haystack Pipeline 或 Agent 查找可用的外部集成
-- 开发者按模板提交自己的集成条目
-- 了解 Haystack 生态集成的类型与来源
+- 为 Haystack 管道查找可用的模型提供方或文档存储集成
+- 把自己开发的 Haystack 组件提交进生态目录
+- 浏览各集成的作者、安装与用法信息
 
 ## 场景标签
 
@@ -37,7 +38,7 @@ deepset 维护的 Haystack 集成条目索引：收录社区或 deepset 团队�
 ## 证据(README 行号)
 
 > L3: This repository is an index of Haystack integrations that can be used with a Haystack Pipeline or Agent.
-> L9: Haystack Integrations are a Document Store, Model Provider, Custom Component, Monitoring Tool or Evaluation Framewor
+> L9: Haystack Integrations are a Model Provider, Document Store, Data Ingestion, Monitoring Tool, Custom Component, Evalu
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `c148f53d0940` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `53b92aecfe85` · [字段定义](../../DATASET.md)*

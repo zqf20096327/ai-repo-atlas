@@ -2,15 +2,15 @@
 
 ⭐ 136 · 推送 2026-11-20 · [GitHub](https://github.com/RUSOCIAL-SU/RUSocial-Panel) · [官网](https://panel.rusocial.io) · 组织维护
 
-**RUSocial 面板项目：提供在线 Panel 与 Discord 社区入口**
+**面向 OFM/Fame 运营团队的社媒管理面板**
 
-README 仅包含 Discord 邀请链接、在线面板地址（panel.rusocial.io）与两个视频附件链接，未描述功能、安装方式或使用方法。仓库主题标签涉及 Instagram、Snapchat、Telegram、OFM 等，但正文无可验证的功能说明。无法从 README 确认其 AI 能力形态与目标用户，仅可确认存在一个托管面板与社区渠道。
+RUSocial 的 OFM / Fame Panel 产品，README 仅提供 Discord 邀请链接与面板入口地址，以及两段演示视频附件；README 未说明具体功能模块、安装方式或运行要求。从主题标签看，项目围绕 OnlyFans/OFM 运营场景，涉及 Instagram、Snapchat、Telegram 等平台及 Snapchat API/ATT token 相关内容。功能细节与 AI 能力需进入其 Discord 或面板页面确认。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,18 +20,18 @@ README 仅包含 Discord 邀请链接、在线面板地址（panel.rusocial.io�
 
 ## 能力要点
 
-- 提供在线面板地址 panel.rusocial.io
-- 提供 Discord 社区邀请链接
-- README 附两个视频附件
+- 提供在线面板入口（panel.rusocial.io）
+- 官方 Discord 邀请渠道
+- 主题标签覆盖 OFM/onlyfans 及多社媒平台
 
 ## 适用场景
 
-- 通过 panel.rusocial.io 访问在线面板
-- 通过 Discord 链接加入社区
+- 加入官方 Discord 获取产品信息
+- 访问在线面板进行 OFM 运营管理
 
 ## 场景标签
 
- · 领域:社交媒体工具
+ · 领域:社媒运营工具
 
 ## 证据(README 行号)
 
@@ -52,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `3c09cd71a7a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 low · 依据 README sha `a692e04c92e0` · [字段定义](../../DATASET.md)*

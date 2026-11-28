@@ -2,9 +2,9 @@
 
 ⭐ 115 · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AIPMAndy/AndySoul) · [官网](https://github.com/AIPMAndy/AndySoul) · 个人维护 · 中文 README
 
-**放入项目根目录的 CLAUDE.md/AGENTS.md 规则模板，约束 AI 编码代理行为**
+**给 AI 编程 Agent 的 CLAUDE.md/AGENTS.md 规则模板**
 
-一份以认知公理、马斯克 5 步工程法与 Karpathy 编码原则为依据编写的规则文件，下载为 CLAUDE.md、AGENTS.md 或 .cursorrules 即可被 Claude Code、OpenAI Codex、Cursor 读取。规则要求代理先说计划、只改要求的部分、每步验收、不确定就问。提供 6 个场景模板（极简/全栈/数据密集/创业 MVP 等）与 5 组前后对比示例。不含项目脚手架、CI/CD 或技术栈内容，也不能替代项目自身规则。MIT 许可，作者个人维护。
+一份 MIT 许可的规则文件模板，下载后放进项目根目录，供 Claude Code、Codex、Cursor 等编程 Agent 读取。规则内容包括：先质疑需求、只改必须改的、每一步设验收标准、不确定就提问等，来源为认知公理、马斯克 5 步工程法与 Karpathy 编码原则。提供 6 个场景模板（极简版、全栈版、数据密集型、创业 MVP 等）与 5 组前后对比示例。不含脚手架、CI/CD 或技术栈，不能替代项目自身规则；规则风格偏谨慎，作者建议用于正式功能与多人协作场景。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 同一份内容可下载为 CLAUDE.md / AGENTS.md / .cursorrules 三种文件名
-- 规则来源：9 条认知公理、马斯克 5 步工程法、Karpathy 4 条编码原则
-- TEMPLATES.md 提供 6 个场景模板
-- EXAMPLES.md 含 5 组前后对比示例
+- 同一份内容按 CLAUDE.md/AGENTS.md/.cursorrules 文件名供三个编程 Agent 使用
+- 6 个场景模板与 5 组前后对比示例
+- curl 一条命令下载到项目根目录即可使用
+- 规则基于认知公理、马斯克 5 步工程法与 Karpathy 编码原则
 
 ## 适用场景
 
-- 让 Claude Code / Codex / Cursor 在改代码时少做未要求的改动
-- 数据准确性要求高的项目里约束 AI 代理行为
-- 按自己技术栈在场景模板上定制项目规则
+- 让 Claude Code 在改代码前先给出计划并按验收标准自查
+- 团队统一 AI 编程 Agent 的行为规则约定
+- 为全栈/数据密集型等不同项目挑选对应场景模板
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L13: **在找 CLAUDE.md / AGENTS.md 规则模板？** AndySoul 是一份可以直接放进项目根目录的规则文件。Claude Code 读 `CLAUDE.md`，Codex 读 `AGENTS.md`，Curso
-> L50: 1. **9 条认知公理**：熵增、还原论、概率与不确定性等
+> L13: > **TL;DR｜一句话**：AndySoul 是 AI 酋长 Andy 开源的 CLAUDE.md / AGENTS.md / .cursorrules 规则模板。适合用 Claude Code、Codex、Cursor 写代
+> L17: **在找 CLAUDE.md / AGENTS.md 规则模板？** AndySoul 是一份可以直接放进项目根目录的规则文件。Claude Code 读 `CLAUDE.md`，Codex 读 `AGENTS.md`，Curso
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `b71f9e1ea61e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `2ea77ba9566a` · [字段定义](../../DATASET.md)*

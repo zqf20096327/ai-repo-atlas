@@ -1,10 +1,10 @@
 # gesta-run/subpool
 
-⭐ 118 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/gesta-run/subpool) · 组织维护 · 中文 README
+⭐ 118 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/gesta-run/subpool) · 组织维护
 
-**面向团队的自托管 AI 订阅额度池化与治理网关**
+**团队自托管的 AI 订阅额度分配与治理控制面**
 
-用 Go 编写、内嵌 React 控制台并以 PostgreSQL 持久化的自托管控制平面：管理员将已授权的订阅与 API 账号（Codex、GitHub Copilot、Google Antigravity、OpenAI 兼容账号、百炼 Token Plan 等）汇入池，分发员工级密钥，监控剩余额度与账号健康度，并对外暴露 OpenAI 兼容的 Responses 与 Chat Completions API。优先消耗订阅额度并回落到付费 API，上游凭据加密且不存储对话内容。部署需 Docker Engine 与 Docker Compose，通过 Docker Compose 拉取已发布镜像运行。限制：不覆盖 Coding Plan 等部分额度类型，Google Antigravity 需自备 OAuth 客户端凭据。
+Subpool 是一个自托管控制面，管理员将多个订阅账号与 API 账号组合成资源池，为员工分发独立 API key，统一暴露 OpenAI 兼容的 Responses 与 Chat Completions 接口，不存储对话内容。支持账号健康监控、余额/配额展示（OpenAI Costs API、百炼 Token Plan）、限流与密钥吊销、上游凭据加密，以及 Codex/GitHub Copilot 账号的路由与 V2 压缩适配。以 Go 单服务加内嵌 React 控制台与 PostgreSQL 实现，通过 Docker Compose 部署。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 订阅与 API 容量汇入一个受管端点，暴露 OpenAI 兼容 API
-- 员工级密钥分配，支持限速、过期与独立吊销
-- 优先订阅容量、回落付费 API，按 key 跟踪 token 遥测
-- 上游凭据加密，不持久化提示词、响应或源码
+- 将订阅与 API 容量聚合在统一托管端点后，按员工分发 key
+- 暴露 OpenAI 兼容 Responses 与 Chat Completions API
+- 账号健康、剩余订阅额度与重置状态监控
+- 上游凭据加密存储，不持久化提示词与响应内容
 
 ## 适用场景
 
-- 团队共享 AI 订阅额度并按员工分配密钥
-- 统一审计各账号的剩余额度与使用情况
-- 让 Codex 等客户端经统一端点路由请求
+- 团队共享管理多个 AI 订阅账号的额度
+- 给员工发独立 key 并独立限流、过期、吊销
+- 让 Codex 等客户端统一经由一个网关访问账号池
+- 审计密钥与账号的分配关系及 token 用量
 
 ## 场景标签
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `de16d7b50863` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `963d345e0e70` · [字段定义](../../DATASET.md)*

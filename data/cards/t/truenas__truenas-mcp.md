@@ -2,9 +2,9 @@
 
 ⭐ 137 · Go · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/truenas/truenas-mcp) · [官网](https://truenas.com) · 组织维护
 
-**让 AI 通过 MCP 用自然语言管理 TrueNAS 的服务器工具**
+**让 Claude 等 AI 助手用自然语言监控管理 TrueNAS 的 MCP 服务器**
 
-由 TrueNAS 团队维护的 MCP 服务器，以单一原生二进制运行在用户桌面，通过安全 WebSocket (wss://) 直连 TrueNAS 中间件 API，使 Claude Desktop/Claude Code 等 MCP 客户端能用自然语言监控系统健康、管理存储池/数据集/快照/共享、虚拟机、应用升级与目录服务等。写操作支持 dry_run 预览与任务跟踪，内置危险操作校验；仅支持加密连接，API key 经 ws:// 会被吊销。项目自述为研究预览版，不建议生产使用。
+一个 MCP 服务器程序，运行在用户本地，通过 WebSocket 连接 TrueNAS API，把系统监控、存储管理、快照、应用、网络、虚拟机等操作暴露为 MCP 工具，供 Claude Desktop、Claude Code、Cursor 等 MCP 客户端以自然语言调用。提供 `--read-only` 模式隐藏全部写操作，破坏性操作需显式确认，回传内容中密钥被脱敏。以多平台预编译二进制分发，也可用 Go 从源码构建；要求 TrueNAS 25.10 或以上版本，项目处于 early access 阶段。
 
 ## 筛选速览
 
@@ -13,32 +13,33 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 单一原生二进制，桌面运行，wss:// 直连 TrueNAS 中间件
-- 覆盖监控/存储/虚拟化/目录服务/应用管理等类别
-- 写操作支持 dry-run 预览与 MCP Tasks 长任务跟踪
-- 仅允许加密连接，凭据在日志中以 [REDACTED] 脱敏
+- 覆盖监控、存储、快照、应用、网络、目录服务、虚拟机等 TrueNAS 管理工具集
+- 只读模式、破坏性操作确认、密钥脱敏三重安全机制
+- 多平台预编译二进制（macOS/Linux/Windows），并提供 checksums 校验
+- setup 命令一键生成 API key 与客户端配置片段
 
 ## 适用场景
 
-- 在 Claude Desktop 中用自然语言查询存储池健康与系统指标
-- 通过对话创建数据集、安排 scrub 计划或升级应用
-- 以 dry-run 模式预览变更后再执行 TrueNAS 管理操作
+- 用自然语言查询 TrueNAS 的系统健康、磁盘与告警状态
+- 通过对话管理数据集、SMB/NFS 共享与快照任务
+- 为 AI 助手配置受限权限的运维通道（专用 API key 所有者）
 
 ## 场景标签
 
- · 领域:存储系统管理/LLM 工具接入
+ · 领域:系统运维/存储管理工具
 
 ## 证据(README 行号)
 
-> L6: A Model Context Protocol (MCP) server for TrueNAS that enables AI models to interact with the TrueNAS API using natu
-> L35: **Single native binary** that runs on your desktop and connects directly to TrueNAS:
+> L6: An MCP server for TrueNAS. It runs on your computer, connects to the TrueNAS API, and lets an AI assistant such as C
+> L63: If you used `truenas-mcp setup`, paste the snippet it printed (`--print-config` picks `claude-desktop`, `claude-cod
+> L103: ## For AI assistants
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `3deb514c3840` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `89689ab6704f` · [字段定义](../../DATASET.md)*

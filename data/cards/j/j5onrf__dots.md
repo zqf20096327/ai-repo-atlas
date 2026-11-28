@@ -2,9 +2,9 @@
 
 ⭐ 121 · CSS · 推送 2026-11-21 · [GitHub](https://github.com/j5onrf/dots) · 个人维护
 
-**Hyprland 桌面配置集：含 Waybar/Quickshell 主题与本地 AI 集成**
+**面向 Hyprland 桌面用户的 dotfiles 配置与截图档案**
 
-个人 Hyprland dotfiles 展示库，按时间线归档 Waybar、Quickshell（Noctalia/DankMaterialShell/Caelestia）、Omarchy 等多套桌面 shell 配置与主题（Nord、Catppuccin、Gruvbox、Everforest 等）。另含本地 AI 部分：在 Zed 编辑器中运行 Qwen3.6-35B-A3B 等 GGUF 量化模型、Py-Agent beta 与 AI Summary TUI。README 声明为定制集成，需用户自行适配系统，MIT 许可。
+以截图档案为主的 Hyprland 桌面配置（dotfiles）仓库，按时间归档展示 Waybar、Quickshell、Noctalia/Caelestia/DankMaterialShell 等 shell 主题与 Rofi 配色方案，附字体、Matugen 配色、玻璃拟态布局等主题变体。含一节 local-ai 内容，展示 Qwen GGUF 模型在 Zed 中本地运行的截图与 Rs-Agent 预览。README 未提供安装脚本或命令，末尾注明需自行适配系统，采用 MIT 许可。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 按年份归档的多套 Waybar/Quickshell/Omarchy 桌面配置与主题
-- Zed 本地运行 Qwen3.6-35B-A3B（IQ4_NL GGUF）
-- Py-Agent beta 与 AI Summary TUI 记录
-- 含 Rofi/Kitty/字体/配色等周边配置展示
+- 按时间归档的 Hyprland/Waybar/Quickshell 主题截图集
+- 包含 Rofi 配色方案与 Matugen 颜色模板等主题资产
+- 收录 Noctalia/Caelestia/DankMaterialShell 等 Quickshell shell 配置
+- 含 Qwen GGUF 本地模型运行截图与 Rs-Agent beta 预览
 
 ## 适用场景
 
-- 参考 Hyprland 桌面 shell 配置与主题做法
-- 了解本地 LLM 集成进桌面工作流的示例
-- 挑选 Waybar/Rofi 样式用于自己的 dotfiles
+- 参考 Hyprland 桌面的主题与布局设计
+- 获取 Rofi 配色与 Waybar 模块配置灵感
+- 查看本地 LLM 配合桌面环境的使用截图
 
 ## 场景标签
 
- · 领域:桌面环境/配置管理
+ · 领域:Linux 桌面配置/美化
 
 ## 证据(README 行号)
 
 > L1: # Hyprdots
-> L232: # Ai local-ai
-> L382:  - These are custom integrated. Adapt to your system. MIT license
+> L238: # Ai local-ai
+> L383:  - These are custom integrated. Adapt to your system. MIT license
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `ff5a787fdc56` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `d74b60c9a616` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 134 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/revolist/revo-ui) · [官网](https://ui.rv-grid.com) · 组织维护
 
-**多框架 UI 组件库，面向数据密集型应用与仪表盘**
+**跨框架数据应用 UI 组件库：含 AI 聊天、图表等组件**
 
-面向 React、Vue、Angular、Svelte、Preact 与原生 TypeScript 的轻量组件库，用于构建分析仪表盘与业务应用。提供日期/时间选择器、图表、多选/下拉、PDF 查看器、可编辑时间轴与 AI 助手聊天等组件，MIT 许可，0 运行时依赖，组件加样式约 15.4 KiB gzip，支持 tree-shaking 与按需细粒度导入。AI 部分为聊天/提示/任务状态组件，属于组件能力之一，库本身不依赖 AI 仍可用。通过 npm 安装，也可从源码构建。
+面向数据分析看板与业务应用的组件库，零运行时依赖、支持 tree-shaking，压缩后组件加样式约 15.4 KiB gzip。提供按钮、表单、多选、时间线、日历、图表、分页、AI 助手聊天组件与 PDF 查看器等，通过适配层接入 React、Vue、Angular、Svelte、Preact 及原生 TypeScript，各框架适配器自动加载组件样式，并提供主题 token、JSON/CSS 预设定制、SSR 指南与 CDN 免构建使用方式。MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 单一库覆盖 React/Vue/Angular/Svelte/Preact/原生 TS 六种集成
-- 0 运行时依赖、tree-shakeable ESM、组件+样式 15.4 KiB gzip
-- 含 AI 助手聊天组件与 PDF 查看器、可编辑时间轴等数据密集场景组件
-- 框架无关的日期工具集（@revolist/ui/dates）
+- 支持 React/Vue/Angular/Svelte/Preact/vanilla TS 的同一组件库
+- AI 助手组件：聊天消息、提示、建议与任务状态
+- 0 运行时依赖，组件+样式 15.4 KiB gzip，可 tree-shake
+- 主题 token 与 JSON/CSS 命名预设，跨项目共享
 
 ## 适用场景
 
-- 构建跨框架复用同一套组件的业务应用
-- 组装带图表、日期选择与 PDF 查看的分析仪表盘
-- 为应用添加 AI 聊天助手界面组件
+- 为数据分析看板搭一套跨框架统一 UI
+- 在业务应用中嵌入 AI 聊天界面与 PDF 查看器
+- 按设计系统定制组件预设并多项目复用
 
 ## 场景标签
 
- · 领域:前端 UI 组件/数据应用
+ · 领域:前端开发/UI 组件库
 
 ## 证据(README 行号)
 
 > L16: **Build data-rich applications with charts, AI chat, a PDF viewer, editable timelines, date controls, and more.**
-> L94: - AI assistant — Chat messages, prompts, suggestions, and task states.
+> L102: - AI assistant — Chat messages, prompts, suggestions, and task states.
+> L67: |React|Named components from `@revolist/ui/react`, with React state, children, and callbacks.|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `6ced462efd57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8b56bb79ade7` · [字段定义](../../DATASET.md)*

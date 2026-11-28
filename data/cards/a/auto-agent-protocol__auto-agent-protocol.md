@@ -2,9 +2,9 @@
 
 ⭐ 112 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/auto-agent-protocol/auto-agent-protocol) · [官网](https://autoagentprotocol.org/) · 组织维护
 
-**开放协议：让 AI 助手可查询车行库存并提交销售线索**
+**汽车经销商与买家 Agent 之间的开放契约规范（MCP/A2A/PAP）**
 
-面向汽车与摩托车经销商的开放标准（AAP v2.0.0），定义 AI 助手发现经销商、查询库存、查看车辆详情并提交经客户同意的销售线索的规范。基于 A2A v1.0 JSON-RPC 传输并叠加 Personal Agent Protocol (Poppy) 原生访客接口，经销商在自有网站发布两份发现文件并实现五个标准技能中的若干即可上线；线索可字段级映射到 ADF/XML 供既有 CRM 使用。提供 TypeScript 类型、JSON Schema 与校验器 npm 包及 OpenAPI 3.1 文档。不覆盖支付、金融审批与估值。
+一份面向汽车零售场景的开放协议规范：定义经销商发现（Agent Card/Poppy 文档/llms.txt）、库存搜索、车辆事实与价格核验、带用户同意的询价提交等 5 项核心技能与 2 项可选技能（置换估价、信贷申请），并给出 MCP、A2A 1.0、PAP 1.0 三种接口的原生绑定。规范以 JSON Schema 2020-12、TypeScript 类型与运行时校验器包发布，附带 MCP 工具目录 mcp.json 与 OpenAPI 描述文件。协议不要求经销商侧部署语言模型或更换 CRM；支付、下单、约束性报价在范围之外。4.0 为要求 PAP 客户端迁移的大版本。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- A2A v1.0 + Poppy 双接口规范，JSON-RPC 2.0 为唯一 A2A 传输
-- 五个标准技能：dealer.information / inventory.facets / inventory.search / inventory.vehicle / lead.submit
-- 官方发布 @autoagentprotocol/types、schemas、validator npm 包
-- lead.submit 可映射 ADF/XML 兼容既有经销商 CRM
+- 同一汽车契约在 MCP、A2A 1.0、PAP 1.0 三种接口下原生运行
+- 经销商域名通过 Agent Card、Poppy 文档与 llms.txt 发布发现信息
+- 提供 JSON Schema、TypeScript 类型与运行时校验器三个 npm 包
+- 5 项核心技能与 2 项可选技能，询价需显式同意与幂等键
 
 ## 适用场景
 
-- 经销商让自己的库存可被任意 AI 助手发现和查询
-- AI 助手开发者按统一协议接入多家车行
-- CRM 厂商通过 ADF/XML 映射接收协议线索
+- 让买家 Agent 发现经销商并搜索真实库存
+- 按规范提交经用户同意的询价或预约请求
+- 经销商对外发布符合契约的 MCP/A2A/PAP 端点
 
 ## 场景标签
 
- · 领域:汽车零售/Agent 互操作协议
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L24: **For engineers:** AAP 2.0 combines an open A2A v1.0 profile with a native Personal Agent Protocol guest API. A com
-> L120: |Transport / data model (BASE)|**A2A v1.0**|The A2A interface carries AAP requests and responses inside `Message.p
-> L122: |Adjacent / complementary|**ACP** (Agentic Commerce), **MCP** (Model Context Protocol)|ACP covers commerce checkou
+> L9: **One open automotive contract for MCP, A2A and Personal Agent Protocol.** Discover dealerships, search real invento
+> L23: A full AAP 4.0 dealer deployment serves its implemented skill subset through all three. A buyer client needs only i
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `c42a97442b63` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ad7b35a04190` · [字段定义](../../DATASET.md)*

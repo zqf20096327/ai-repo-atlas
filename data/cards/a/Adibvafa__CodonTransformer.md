@@ -2,9 +2,9 @@
 
 ⭐ 231 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Adibvafa/CodonTransformer) · [官网](https://adibvafa.github.io/CodonTransformer) · 个人维护
 
-**多物种密码子优化深度学习模型：为蛋白表达生成宿主特异性 DNA 序列**
+**面向科研与生物技术从业者的密码子优化深度学习工具**
 
-基于 Transformer（BigBird 架构）的密码子优化工具，训练数据来自 164 个物种、逾 100 万条 DNA-蛋白质对，输入蛋白序列后生成具有自然类似密码子分布的宿主特异性 DNA 序列。支持确定性解码与基于 temperature/top_p 的采样式生成，可批量推理、微调自有数据集，并经 HuggingFace 提供预训练模型与分词器；另提供 Google Colab 界面与 SLURM 微调脚本示例。Python>=3.9，跨主要操作系统运行。
+基于 Transformer 的多物种密码子优化模型，在来自 164 个物种的 100 万以上 DNA-蛋白质对上训练，输入蛋白序列与目标宿主物种，生成具有自然密码子分布特征的宿主特异性 DNA 序列。提供 Python 包接口（pip 安装）、Google Colab 演示、批量推理与温度/top_p 可控的多序列生成，并支持用自有数据集微调（含 SLURM 脚本示例）；支持模糊氨基酸的多种预处理策略。模型权重首次使用时单独下载。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 164 物种、100 万+ DNA-蛋白质对训练的多物种模型
-- temperature/top_p 采样与 match_protein 约束的可控序列生成
-- 支持自有 CSV 数据集微调，附 SLURM 作业示例
-- 预训练模型与分词器从 HuggingFace 加载
+- 164 个物种训练数据，支持按名称或 ID 指定宿主
+- 非确定性解码支持 temperature/top_p 参数与多序列生成
+- 提供 prepare_training_data 与 finetune.py 的自有数据微调流程
+- 模糊氨基酸行为可配置（随机/确定性/报错）
 
 ## 适用场景
 
-- 将目标蛋白序列优化为特定宿主（如大肠杆菌）偏好的 DNA 序列
-- 为异源蛋白表达实验批量生成多条候选 DNA 序列
-- 在自有物种数据上微调密码子优化模型
+- 为异源蛋白表达设计目标宿主的 DNA 序列
+- 为特定物种批量生成多条候选优化序列
+- 用自己的 DNA-蛋白质对数据微调模型
 
 ## 场景标签
 
-`微调` · 领域:训练与推理
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b30510798db1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `d530744e8951` · [字段定义](../../DATASET.md)*

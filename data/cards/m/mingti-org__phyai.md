@@ -2,9 +2,9 @@
 
 ⭐ 159 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mingti-org/phyai) · [官网](https://phyai.mintlify.app/) · 组织维护 · 中文 README
 
-**面向 Physical AI 的低延迟推理服务引擎（VLA/WAM 模型）**
+**Physical AI 模型（VLA/WAM）的低延迟推理服务引擎**
 
-PhyAI 是为 Physical AI 模型（VLA、WAM、基础模型）设计的延迟优先服务引擎，面向交互系统中运行的策略与动作模型。支持 NVIDIA Jetson 边缘设备运行与 GPU 集群上的 DP/TP/CFG 并行扩展；支持 π0、π0.5、GR00T N1.7、MiniCPM-Robot、Cosmos3、Qwen 系列等模型。通过 kernel policy YAML 实现 INT4/INT8/FP8/MXFP4/NVFP4 后训练量化（依赖 FlashInfer 与 Humming 内核）；提供 phyai server 与 phyai-gateway 实现多机多副本服务，通过 HTTP/gRPC 对外提供接口。安装方式为源码构建（git clone + uv sync）或 nightly pip 包（自有索引）。MIT 许可。
+面向 Physical AI 的推理服务引擎，优先保证时延敏感负载（策略/动作模型）的运行。支持 VLA、WAM 与基础模型列表（如 π0/π0.5、GR00T N1.7、Cosmos3 系列），可在 NVIDIA Jetson 边缘设备运行，也可通过 DP/TP/CFG 并行扩展到 GPU 集群；内置 phyai-gateway 支持多主机服务，加载未量化 checkpoint 时可经 kernel policy YAML 做 PTQ 量化（INT4/INT8/FP8/MXFP4/NVFP4）。从源码或 nightly 包安装，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ PhyAI 是为 Physical AI 模型（VLA、WAM、基础模型）设计的延迟优�
 
 ## 能力要点
 
-- 支持 NVIDIA Jetson 边缘设备与 GPU 集群（DP/TP/CFG 并行）部署
-- kernel policy YAML 控制的多精度量化（INT4/INT8/FP8/MXFP4/NVFP4，W4A16 需 SM80+）
-- phyai-gateway 多主机服务与副本负载分发（HTTP/gRPC）
-- 支持 π0/π0.5、GR00T N1.7、MiniCPM-Robot、Cosmos3、Qwen 系列等模型
+- 支持 VLA/WAM/基础模型三类模型的服务（π0/π0.5、GR00T N1.7、Cosmos3 等）
+- 可在 NVIDIA Jetson 边缘设备运行，也支持 DP/TP/CFG 并行扩展
+- kernel policy YAML 控制 PTQ 量化（INT4/INT8/FP8/MXFP4/NVFP4）
+- phyai-gateway 多主机服务，客户端走 HTTP 或 gRPC
 
 ## 适用场景
 
-- 在机器人上部署 VLA 策略模型并做低延迟推理服务
-- 多机 GPU 集群上服务多个模型副本并统一网关接入
-- 对未量化 checkpoint 做后训练量化以降低部署开销
+- 为机器人策略模型部署低延迟推理服务
+- 在 Jetson 边缘设备上部署 VLA 模型
+- 用 gateway 把多台模型主机组成服务集群
+- 对未量化 checkpoint 做推理时后训练量化
 
 ## 场景标签
 
-`推理引擎` `模型量化` `模型网关` · 领域:Agent 开发
+`推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L10: **PhyAI** (pronounced "phi") is a **latency-first serving engine for Physical AI**.
-> L33: - 🚀 Scales to GPU clusters with DP, TP, and CFG parallelism
-> L181: PhyAI is released under the MIT License. It uses FlashInfer, Humming, and FLA. We have also learned a great deal f
+> L38: - 🚀 Runs on NVIDIA Jetson edge devices
+> L126: You can run model servers on separate machines and connect them through
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `d728d21ae8ff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `7cc0b0314566` · [字段定义](../../DATASET.md)*

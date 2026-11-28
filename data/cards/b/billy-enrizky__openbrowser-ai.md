@@ -2,9 +2,9 @@
 
 ⭐ 279 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
 
-**LLM 写 Python 代码驱动浏览器的自动化框架**
+**面向开发者的 LLM 驱动浏览器自动化框架**
 
-基于 CDP 直连与 CodeAgent 架构的浏览器自动化框架：LLM 在持久命名空间中编写并执行 Python 代码，完成网页导航、交互与信息提取。支持 15 家 LLM 提供商、截图视觉理解、批量抓取、工作流录制回放、视频录制与 MCP Server 接入 Claude Desktop/Claude Code 等客户端。提供 CLI daemon、插件系统（8 个引导技能），另有托管云版本（等待名单）。要求 Python 3.12+，自动检测已装的 Chromium 系浏览器。
+OpenBrowser 是一个浏览器自动化框架，结合 CDP 直连与 CodeAgent 架构：LLM 在持久化命名空间中编写并执行 Python 代码，完成网页导航、交互与信息提取。支持截图视觉理解、批量抓取、无浏览器 HTTP 模式、会话录制回放（导出 Jupyter/爬虫代码）、MCP Server 与 CLI 守护进程。提供 pip/brew/uv 等多种安装方式，自动检测本机 Chromium 系浏览器；托管云版含 cookie 保存与定时任务，需加入等候名单。
 
 ## 筛选速览
 
@@ -16,21 +16,21 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- CodeAgent 架构：LLM 在类 Jupyter 持久命名空间中写 Python 代码驱动浏览器
-- 原生 DDGS 网页搜索客户端与批量抓取（有界并发，--no-browser 模式不启动 Chrome）
-- MCP Server 支持 Claude Desktop、Claude Code、Codex、OpenCode 等客户端
-- 工作流录制可回放并导出为 Jupyter notebook 或 API 爬虫代码
+- CodeAgent 架构：LLM 在持久化命名空间写 Python 代码驱动浏览器
+- 原生 CDP 通信，支持 15 个 LLM 提供商与本地模型
+- MCP Server 可接入 Claude Desktop/Claude Code 等 AI 助手
+- 批量抓取、工作流录制（导出 Notebook/爬虫代码）与视频录制
 
 ## 适用场景
 
-- 自动抓取电商商品页数据并批量导出 JSON/JSONL
-- 让 AI 代理自动完成表单填写、机票预订等网页操作
-- 把 Claude Code 等客户端接入浏览器自动化能力（MCP）
-- 录制浏览器会话并导出为可复用的工作流代码
+- 自动抓取电商商品信息
+- 让 LLM 自动完成订票、表单填写等网页流程
+- 通过 Claude Code 等助手以 MCP 调用浏览器操作
+- 批量抓取 URL 并输出 JSON/JSONL 结果
 
 ## 场景标签
 
@@ -39,8 +39,7 @@
 ## 证据(README 行号)
 
 > L32: OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgen
-> L42: - **CodeAgent Architecture** - LLM writes Python code in a persistent Jupyter-like namespace for browser automation
-> L47: - **MCP Server** - Model Context Protocol for Claude Desktop, Claude Code, Codex, OpenCode, and other AI assistants
+> L46: - **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRoute
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 low · 依据 README sha `4971dc41e6e2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 low · 依据 README sha `8303ab6f7d96` · [字段定义](../../DATASET.md)*

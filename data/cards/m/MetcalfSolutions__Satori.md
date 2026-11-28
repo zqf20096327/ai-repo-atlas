@@ -1,10 +1,10 @@
 # MetcalfSolutions/Satori
 
-⭐ 125 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MetcalfSolutions/Satori) · [官网](https://metcalf.solutions/satori/) · 组织维护
+⭐ 125 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MetcalfSolutions/Satori) · [官网](https://metcalf.solutions/satori/) · 个人维护
 
-**跨 agent 的心理洞察对话技能：给开发者与普通用户的内省对话伙伴**
+**面向成年人内省对话的 Claude Code 技能：反思式陪伴而非建议**
 
-以 SKILL.md 及 15 个按需引用分片形式发布的 agent 技能包，可在 Claude Code、Cursor、Windsurf、Codex 等编码 agent 及 Claude.ai/ChatGPT/Gemini 网页与本地 Ollama/LM Studio 模型上运行，提供基于心理学传统的内省式对话。采用渐进披露架构（Turn-1 负载<8KB），配本地 SQLite 记忆库（可选 AES-256-GCM 加密）、350 用例触发基准与分级危机安全协议（SAFETY.md）。声明零遥测、本地优先，并明确‘不是治疗师’。安装经 npx skills add 一条命令完成。
+以 Claude Code 技能形式分发的反思式对话配置：聚合 18 种哲学与心理传统的视角，按每轮最多一种视角（One Lens Per Turn）+ 一个开放问题的方式回应，内省主题之外（纯代码/DevOps）保持不激活。记忆为本地 SQLite vault（~/.satori/memory/），另设三层危机风险门与 9 条地区危机转介。通过 npx 安装于 CLI/IDE agent，也提供 zip 用于网页聊天、Compact 版用于本地模型。声明为治疗的辅助而非替代。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单命令安装到多种编码 agent（Claude Code/Cursor/Windsurf/Antigravity/Codex）
-- Full 与 Compact 两种版本，Compact 支持 ChatGPT Custom GPT 与本地开源权重模型
-- 本地 SQLite 记忆库（~/.satori/），可选 AES-256-GCM 口令加密
-- 分级危机边界协议（SAFETY.md）与 350 用例触发基准
+- One Lens Per Turn：每轮最多一个哲学/心理学视角且零建议
+- 纯代码提示 200 例 98.0% 不激活（350 例触发基准）
+- 本地 SQLite 记忆库，零云端遥测，POSIX 权限限制
+- 三层风险门区分存在性绝望与急性危机并转介
 
 ## 适用场景
 
-- 在编码 agent 中获得不劫持工作流的内省对话伙伴
-- 在 Claude.ai/ChatGPT/Gemini 网页端配置深度对话人格
-- 本地开源权重模型（8B-32B）上离线使用
+- 在 CLI/IDE 中与 AI 对话时不打断编码工作流
+- 写代码之余处理职业倦怠、丧失或关系冲突话题
+- 在本地/开源自托管模型上运行紧凑版反思技能
 
 ## 场景标签
 
- · 领域:AI 对话/心理健康辅助
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L12:  A wisdom companion that tells you the truth, kindly. Free, open-source, not a therapist.
-> L24: > - **End-Users (Web Chat & Custom GPTs):** Want a perceptive conversation partner in Claude.ai, ChatGPT, or Gemini
-> L25: > - **Developers & Founders (CLI & IDE Agents):** Run `npx skills add MetcalfSolutions/Satori` in Quick Start & Ins
+> L12:  Psychologically Grounded Wisdom Companion for Inner Life
+> L13:  18 Philosophical &amp; Contemplative Traditions · 6-Step Reflective Model · 9 Immovables · Local SQLite Memory Vau
+> L14:  Built to be outgrown: Satori helps you see clearly enough to return to human relationships and human care. If it w
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `c043983b5b75` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `61d858566154` · [字段定义](../../DATASET.md)*

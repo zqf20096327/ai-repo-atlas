@@ -2,9 +2,9 @@
 
 ⭐ 129 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/AI-sandbox/gnomix) · [官网](https://www.nature.com/articles/s41467-026-75391-0) · 组织维护
 
-**基因组局部血统推断工具：对混血样本逐段判定祖先来源**
+**基因组本地祖先推断工具：为遗传数据预测区段祖先来源**
 
-Gnomix 的 Python 实现：对已定相（phased）的基因组查询数据推断局部血统（local ancestry），支持从参考训练数据从头训练模型或加载预训练模型。机制上由 base 模型（logistic 回归/随机核等）加 smoother（xgboost/CRF/卷积）组合，先通过 pyadmix 模拟混血训练数据。输出每个基因组区间的祖先群体标签及概率（msp/fb 文件），可选 SNP 级推断、可视化、定相纠错；query 数据需与参考面板位点一致并预先定相。
+Gnomix 的 Python 实现，用于基因组数据的本地祖先去卷积：支持用参考训练数据从头训练模型，或加载预训练模型，对已分相（beagle/shapeit/eagle）的查询数据推断各标记位点的祖先成分。训练流程内置模拟算法生成训练数据，模型为基模型（逻辑回归/字符串核）加平滑器（xgboost/CRF/卷积）的组合，可经 config.yaml 调整。输出每个标记的祖先估计、概率文件及可视化，并可复用训练出的模型。需源码克隆并经 pip 安装依赖，无预编译安装包。
 
 ## 筛选速览
 
@@ -16,29 +16,29 @@ Gnomix 的 Python 实现：对已定相（phased）的基因组查询数据推�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- base 模型 + smoother 组合，提供 best/fast/large/default 四种推理配置
-- 通过模拟混血个体生成训练数据（pyadmix）
-- 输出区间级祖先标签（msp）与逐群体概率（fb），可选 SNP 级 beta 输出
-- 支持人类与植物基因组、全基因组与 array 数据的不同配置
+- 两种用法：参考数据从头训练或加载预训练模型
+- 多种基模型+平滑器组合（best/fast/large/default），适配全基因组与芯片数据
+- 输出 msp/fb/lai 多种祖先推断结果文件与 Tagore 可视化
+- 内置模拟算法自动生成训练数据，模型可复用
 
 ## 适用场景
 
-- 对混血样本做全基因组局部血统分解
-- 为 GWAS/PRS/PCA 等下游分析提供血统注记
-- 用参考面板从头训练并在新数据集上复用模型
+- 对已分相的基因组数据推断各区段祖先来源
+- 用参考面板人群数据训练本地祖先推断模型
+- 为下游 GWAS/PRS/PCA 分析准备祖先注释
 
 ## 场景标签
 
- · 领域:基因组学/群体遗传
+ · 领域:生物信息学/基因组学
 
 ## 证据(README 行号)
 
-> L7: This repository includes a Python implementation of Gnomix, a fast, scalable, and accurate local ancestry method. Se
-> L76:  - inference (string) - 4 possible options - best / fast / large / default. "best" uses random string kernel base +
+> L9: This repository includes a Python implementation of Gnomix, a fast, scalable, and accurate local ancestry method. Se
+> L16: In both cases the models are used to infer local ancestry on provided query data that has already been phased (usin
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `20f10cbc3fdd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `01bd5f5e2abe` · [字段定义](../../DATASET.md)*

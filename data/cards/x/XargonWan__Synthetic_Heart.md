@@ -2,9 +2,9 @@
 
 ⭐ 114 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/XargonWan/Synthetic_Heart) · [官网](https://synthetic-heart.readthedocs.io) · 个人维护
 
-**让用户创建跨平台持久 AI 人格（Synth）的开源框架与应用**
+**面向终端用户的持久化 AI 人格/数字陪伴应用**
 
-FOSS 应用与框架，用于创建并会面持久化 AI 人格“Synth”：其身份、记忆与人格存于数据库而非单次 LLM 会话，可跨 Discord、Telegram、Matrix 与 WebUI 保持连续性。引擎支持 Gemini、OpenAI、Claude、Grok 及本地 OpenAI 兼容实例，运行时可热切换；入站暴露 OpenAI 兼容 API 服务器（端口 11435，兼容旧版 Ollama 方言），出站提供多种渲染器。包含 TTS/STT/视觉三个媒体子系统、带工具调用与 MCP 双向支持的 Agent 运行时、VRM 虚拟形象 WebUI、情感与长期记忆、G.R.I.L.L.O. 自主反思系统及插件机制。状态为 Beta，声明可供日常使用。面向中国用户的合规说明提供情感子系统关闭开关。
+开源（FOSS）应用与框架，用于创建一个可跨 Discord、Telegram、Matrix、WebUI 等接口持续存在的 AI 人格（Synth），其身份、记忆与性格存储在数据库而非单次会话中。关键机制：可热切换的引擎后端（云端 API 或自托管）、双向 OpenAI 兼容 API 服务器（端口 11435）、Vox/Auris/Iris 语音与视觉子系统、插件系统、G.R.I.L.L.O. 自主内省循环，以及带 VRM 头像的 Web UI。支持通过插件开关关闭情感子系统，README 称其处于 Beta 状态。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ FOSS 应用与框架，用于创建并会面持久化 AI 人格“Synth”：其
 
 ## 能力要点
 
-- 引擎热切换：Gemini/OpenAI/Claude/Grok 或本地 OpenAI 兼容实例
-- 双向 OpenAI 协议：入站 OpenAI 兼容 API 服务器（含 Ollama 方言），出站多引擎渲染器
-- Agent 运行时：沙箱文件/shell 工具、Drone 子代理、MCP 双向支持
-- VRM 3D 虚拟形象（口型同步、表情、眨眼）与持久情感/长期记忆
+- 双向 OpenAI 兼容：可暴露为 API 端点，也可由任意 OpenAI 兼容后端驱动
+- 数据库持久化的记忆、情感与自我成长状态（SOUL / G.R.I.L.L.O.）
+- Agentic 运行时：工具调用、MCP 双向支持、Drones 子代理
+- Vox 语音合成、Auris 语音识别、Iris 视觉三个可热插拔媒体子系统
 
 ## 适用场景
 
-- 创建一个跟随自己在 Discord/Telegram/WebUI 各平台的持久 AI 伙伴
-- 把自己的 Synth 作为 OpenAI 兼容端点接入任何支持 AI 的应用
-- 通过插件与 MCP 工具扩展 Synth 的能力
-- 作为带语音、视觉与虚拟形象的 AI 人格自托管部署
+- 在 Discord/Telegram 等平台养一个跨接口持续记忆的 AI 伙伴
+- 用自托管模型驱动自己的数字人格并掌控数据
+- 给 AI 人格接上语音对话、语音消息理解与图像识别能力
+- 通过插件与 MCP 扩展人格能执行的动作
 
 ## 场景标签
 
-`Agent 记忆` `聊天机器人` · 领域:Agent 开发
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L13: Synthetic Heart (SyntH) is a FOSS application and framework that helps you create and meet a persistent AI persona,
-> L71: API-driven Gemini, OpenAI, Claude, Grok, or local OpenAI-compatible instances: hot-swappable at runtime.
+> L15: Synthetic Heart (SyntH) is a FOSS application and framework that helps you create and meet a persistent AI persona,
+> L80: Synthetic Heart speaks the OpenAI protocol in **both directions**. Inbound, it exposes an OpenAI-compatible API ser
+> L91: SyntH can act as an agent, calling *tools* — native actions and remote MCP tools — inside a bounded reasoning loop.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `59c262e10505` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `74a2df44fecc` · [字段定义](../../DATASET.md)*

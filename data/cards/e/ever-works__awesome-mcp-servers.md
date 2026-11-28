@@ -2,9 +2,9 @@
 
 ⭐ 137 · CC-BY-SA-4.0 · 推送 2026-11-27 · [GitHub](https://github.com/ever-works/awesome-mcp-servers) · [官网](https://mcpserver.ever.works) · 组织维护
 
-**MCP Server 精选目录：聚合各类 MCP 服务器条目**
+**MCP 服务器目录清单：收录 4,240 条分类条目供检索**
 
-由 Ever Works 维护的 Model Context Protocol（MCP）服务器策展清单，收录云计算与 DevOps 等类目下的 MCP 服务器、库与工具条目，每条含名称、功能描述与标签，并链接到对应的详情页。条目覆盖 AWS、Google Cloud、Azure、Cloudflare、Kubernetes、Terraform、CI/CD 等场景的官方与第三方 MCP 服务器。目录基于 Ever Works Directory Builder 平台构建并维护，公开网站基于开源 Directory Website Template。
+以目录网站 mcpserver.ever.works 为主入口的 MCP 服务器编目清单，GitHub 页面按 184 个类别分页组织，覆盖开发工具、云平台、数据库、金融数据、知识管理等条目（合计 4,240 项）。README 由 Ever Works Directory Builder 平台维护，条目附标签与简介；另有 Featured 区块列出 AWS、Azure、Cloudflare、GCP、GitHub 等官方 MCP 服务器。未提供安装说明。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按类目组织的 MCP 服务器条目（含名称、描述与标签）
-- 覆盖 Cloud & DevOps 场景下 AWS/GCP/Azure/Kubernetes/Terraform 等官方与第三方服务器
-- 由 Ever Works Directory Builder 平台构建并维护
+- 4,240 条 MCP 服务器条目，184 个分类分页组织
+- 网站端提供浏览与搜索功能
+- Featured 区块收录 AWS/Azure/Cloudflare/GCP/GitHub 等官方 MCP 服务器条目
 
 ## 适用场景
 
-- 查找适用于 AWS/Kubernetes/Terraform 等场景的 MCP 服务器
-- 了解 MCP 服务器生态中各云厂商的官方实现
-- 为 AI 助手选型可接入的基础设施类 MCP 工具
+- 为 AI 应用查找特定领域的 MCP 服务器
+- 了解 MCP 服务器生态的覆盖范围与分类
+- 查阅云厂商官方 MCP 服务器的入口信息
 
 ## 场景标签
 
@@ -36,9 +36,9 @@
 
 ## 证据(README 行号)
 
-> L1: # Awesome MCP Servers
 > L3: A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more.
-> L7: This directory was built and is maintained using the Ever Works Directory Builder platform.
+> L10: > **4,240 items in 184 categories.** The full list is too large for one GitHub page, so each category has its own p
+> L12: ## 📑 Categories
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `6f3bfa9222de` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `48a6844a95ae` · [字段定义](../../DATASET.md)*

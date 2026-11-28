@@ -2,9 +2,9 @@
 
 ⭐ 134 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/guimatheus92/mcp-video-analyzer) · [官网](https://glama.ai/mcp/servers/guimatheus92/mcp-video-analyzer) · 个人维护
 
-**把视频转成转录、关键帧、OCR 与元数据的 MCP 服务器**
+**MCP 视频分析服务器：为 AI agent 提供转录、关键帧、OCR 与元数据**
 
-面向 AI agent 的视频分析 MCP 服务器：将 YouTube、Instagram、TikTok、Loom、X、Vimeo、直链 URL 与本地文件转为带时间戳的转录（原生字幕或 Whisper 兜底）、场景切换关键帧、Tesseract OCR 文本、合并时间线与元数据/评论/章节。提供 8 个粒度不同的工具（整体分析、批量、仅转录、仅帧、时间段深挖等）。以 npx 运行，另有 CLI 单次模式与 Agent Skills 安装；平台 URL 依赖 yt-dlp，帧提取可由内置 ffmpeg-static 完成。
+以 MCP server 与独立 CLI 两种形式运行的视频分析工具，支持 YouTube、Instagram、TikTok、Loom、X、Vimeo、Bilibili 等平台链接、直链与本地文件。提供 8 个工具，输出转录（原生字幕或 Whisper 回退）、场景变化检测的关键帧、Tesseract OCR 文本、注释时间线、元数据、评论与章节。依赖 Node.js 22.12+，平台 URL 下载依赖 yt-dlp，帧提取由打包的 ffmpeg-static 完成；无 yt-dlp/Chrome 时直链与本地文件仍可提取帧。结果内存缓存 10 分钟，支持 sidecar 持久化续跑。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 转录+关键帧+OCR+时间线合并输出，覆盖 yt-dlp 支持的平台、直链与本地文件
-- 8 个工具按需调用：全量分析、批量可续跑、仅转录/元数据/帧、时间段深挖与帧连拍
-- 无原生字幕时回退 Whisper 转录，OCR 默认 Tesseract eng+por
-- 提供 Claude Code 插件、MCP 配置、npx skills 与独立 CLI 四种接入方式
+- 8 个 MCP 工具：全量分析、批量处理、转录、元数据、关键帧、时间段深挖等
+- 转录支持原生字幕与 Whisper 回退，OCR 默认 eng+por 语言
+- 场景变化检测 + 密集采样的关键帧提取，1-60 帧自适应
+- brief/standard/detailed 三档分析深度，10 分钟内存缓存与可续跑 sidecar
 
 ## 适用场景
 
-- 让 Claude/Cursor/Copilot 等 agent 直接分析视频链接或本地录像
-- 批量转录并 OCR 整个文件夹的视频，结果持久化可续跑
-- 深挖视频某一时间段：帧连拍+过滤转录+OCR
+- 让 AI 助手分析视频链接并回答内容问题
+- 批量转录与归档本地视频文件
+- 提取屏幕上的文字、错误信息与 UI 文本（OCR）
+- 定位视频中特定时刻的画面与对话
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
+> L5:  Turn any video — YouTube, Instagram, TikTok, Loom, X, Vimeo, direct links, local files — into transcripts, key fram
 > L12:  mcp-video-analyzer MCP server
 > L28: There are three ways in: the **`/video` plugin** (Claude Code — slash command + MCP server auto-configured), a plai
-> L127: Eight tools — the AI picks the cheapest one for the job and calls it automatically. Click any tool to expand its p
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `d72ab4abbe38` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `17815af247a5` · [字段定义](../../DATASET.md)*

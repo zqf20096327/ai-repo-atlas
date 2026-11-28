@@ -2,15 +2,15 @@
 
 ⭐ 186 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/off-grid-ai/skills) · [官网](https://www.wednesday.is/mcp/) · 个人维护
 
-**为 Claude Code 等 agent 提供 49 个编码技能包**
+**为 AI 编程 agent 提供 49 个工程流程技能的集合**
 
-一组 MIT 许可的 agent 技能集合，每个技能是一个含 SKILL.md 的 Markdown 指令包，agent 在处理匹配请求时读取并遵循。技能按三组组织：代码评审、回归防护（以真实用户方式点击测试、bug 回归测试）、遗留代码改造（代码库问答、变更影响分析、模块审计等）。支持 Claude Code、Codex、Cursor 及 60+ 其他 agent 安装，提供 npx、插件市场与 shell 脚本三种安装途径。作者自述这些技能用于构建其个人产品 Off Grid AI。
+一组 MIT 许可的 agent 技能包，每个技能是一个 SKILL.md 格式的 playbook，agent 在执行请求前读取并遵循其中流程。内容覆盖代码评审、用户路径真实测试、变更影响分析（blast-radius）、遗留代码补测试、模块审计与部署检查等三类共 15 个技能。支持 Claude Code、Codex、Cursor 等 60+ agent，可通过 npx、Claude/Codex 插件市场或 shell 脚本安装，各技能分三个插件集、可按需裁剪。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 每个技能为 SKILL.md 纯 Markdown 文件，请求匹配时才被 agent 读取
-- 覆盖评审、测试、遗留代码改造三组共 15 个技能
-- 支持 npx、Claude/Codex 插件市场、无 Node 依赖的 shell 脚本安装
-- MIT 许可，第三方文件保留自身许可
+- 每个技能为 SKILL.md 纯 Markdown playbook，请求匹配时由 agent 读取，无需额外运行
+- 提供 test-like-a-user（打开真实界面操作验证，不用 mock）、blast-radius（变更前计算影响范围）、safe-to-merge（自动回应评审意见直至可合并）等技能
+- 支持 npx 一行安装、Claude Code/Codex 插件市场安装及无 Node 依赖的 shell 脚本安装
+- 三个插件集分装技能，可单独卸载，技能间按名称互相调用
 
 ## 适用场景
 
-- 让编码 agent 在改动前分析影响范围并自动测试
-- 让 agent 处理 PR 评审意见直到可合并
-- 为没有测试的旧代码生成并通过测试
+- 让 AI 编程助手在改动代码前自动跑真实界面测试
+- 改老代码前先让 agent 分析依赖和破坏范围
+- 让 PR 在合并前自动回应并修复所有评审意见
+- 给没有测试的遗留代码补上能跑通的测试
 
 ## 场景标签
 
@@ -38,8 +39,7 @@
 ## 证据(README 行号)
 
 > L11: Each skill is a short playbook your agent reads before it starts, so it tests every change in your real app and che
-> L30: npx skills add off-grid-ai/skills
-> L121: - Each skill is a folder with a `SKILL.md`, plain Markdown your agent reads when your request matches it. Nothing 
+> L123: - Each skill is a folder with a `SKILL.md`, plain Markdown your agent reads when your request matches it. Nothing 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `19734d25714d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `d597f03bede7` · [字段定义](../../DATASET.md)*

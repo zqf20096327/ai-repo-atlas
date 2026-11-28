@@ -2,17 +2,17 @@
 
 ⭐ 112 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/vuphongle/oss-pr-reviewer) · 个人维护
 
-**面向开源维护者的 AI PR 审查 CLI：生成结构化 Markdown 报告**
+**开源维护者的 AI PR 审查 CLI：检测缺陷并产出报告**
 
-TypeScript 编写的命令行工具，供开源仓库维护者审查单个 GitHub PR：用 Octokit 拉取 PR 元数据与补丁，切分为确定性批次（每文件 3 万字符、每批 8 文件、4 并发），调用 OpenAI 产出结构化发现，经 Zod 校验、去重与严重度过滤后输出 Markdown 或 JSON 报告，可配合 GitHub Action 发布评论。当前仅支持 OpenAI 一个 provider，v0.4.0 尚未发布到 npm，需从源码 checkout 构建运行。
+面向开源维护者的命令行工具：抓取 GitHub PR 的元数据与补丁，应用可信 base-commit 规则与忽略列表，将可审查文本分批送入模型，对模型发现做校验与过滤，输出结构化 Markdown/JSON 报告；报告为建议性质，合并决策仍由维护者做出。模型只见元数据与补丁而非整个仓库，不克隆代码、不运行测试；目前仅实现 OpenAI 一家提供方。需 Node.js 20+，从源码检出构建使用，未发布到 npm。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@ TypeScript 编写的命令行工具，供开源仓库维护者审查单个 GitHu
 
 ## 能力要点
 
-- PR→批次→OpenAI 分析→校验去重→Markdown/JSON 报告的流水线
-- 基于可信基线分支 .oss-pr-reviewer.yml 的仓库级规则与忽略配置
-- opt-in GitHub Action：摘要追加与 stale-safe PR 评论
-- 429/5xx 指数退避重试与上下文字符预算控制
+- 抓取 PR 元数据与补丁，分批送审并校验/过滤模型发现
+- 输出结构化 Markdown 或 JSON 报告，严重度不影响退出码
+- 提供可选 GitHub Action，可发布受限的任务摘要与评论
+- 离线评分器与开发测试无需任何凭据
 
 ## 适用场景
 
-- 开源维护者审查 PR 时自动产出发现清单与报告
-- CI 中以 JSON 输出集成 AI PR 审查
-- 为仓库定制审查规则和忽略路径
+- 开源维护者审查社区提交的 pull request
+- 在合并前筛查潜在安全风险与缺失测试
+- 通过 GitHub Action 在 PR 事件中自动生成审查摘要
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ TypeScript 编写的命令行工具，供开源仓库维护者审查单个 GitHu
 
 ## 证据(README 行号)
 
-> L7: `oss-pr-reviewer` assists a maintainer with a focused review of one GitHub pull request. It fetches pull request met
-> L136: The CLI depends on a small `ReviewProvider` interface, so the review engine does not contain OpenAI SDK details. T
-> L148: - Only OpenAI is implemented as a provider.
+> L3: Review one GitHub pull request with OpenAI and save an advisory Markdown or JSON report. The CLI fetches PR metadata
+> L5: Requires Node.js 20 or newer. The checkout is version 0.4.0; this repository has not published the package to npm. U
+> L41: - Only OpenAI is implemented. Automated tests use mocks and do not establish model quality.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `45a6676b8b42` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `cbfc33f92c8a` · [字段定义](../../DATASET.md)*

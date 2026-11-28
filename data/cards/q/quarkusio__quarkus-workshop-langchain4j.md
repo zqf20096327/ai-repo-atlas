@@ -2,9 +2,9 @@
 
 ⭐ 118 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/quarkusio/quarkus-workshop-langchain4j) · [官网](http://quarkus.io/quarkus-workshop-langchain4j/) · 组织维护
 
-**面向 Java 开发者的 Quarkus + LangChain4j AI 应用开发教程**
+**Java 开发者学习用 Quarkus+LangChain4j 构建 AI 应用的工作坊教程**
 
-Quarkus 官方组织的实战教程仓库，教授如何用 Quarkus 与 LangChain4j 构建含 AI 能力的应用，覆盖单一 AI 服务与 Agentic AI 编排两部分。教程分多个步骤，每步的最终代码以 step-XX 目录形式提供，可跳到任意步骤用 ./mvnw quarkus:dev 直接运行，应用启动于 localhost:8080。完整教程说明可在官网阅读或在 docs/ 目录下本地构建；Section 3 的步骤间构建关系与测试范围见其 README。仓库为教学内容，非可直接部署的产品。
+Quarkus 官方 LangChain4j 工作坊教程：通过分步骤的练习，教 Java 开发者使用 Quarkus 框架与 LangChain4j 构建 AI 应用，覆盖单 AI 服务与 Agentic AI 编排两类内容。README 提供教程网站链接，也可按 docs/README 在本地部署文档；每个步骤的完成状态存放在 step-XX 目录中，进入目录后用 ./mvnw quarkus:dev 启动，应用运行在 localhost:8080。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@ Quarkus 官方组织的实战教程仓库，教授如何用 Quarkus 与 LangChai
 
 ## 能力要点
 
-- 教授用 Quarkus + LangChain4j 构建 AI 应用与 Agentic 编排
-- 每个教程步骤的最终代码以 step-XX 目录提供
-- 可用 ./mvnw quarkus:dev 快速运行任意步骤的应用
+- 分步骤教学，每步最终代码存于 step-XX 目录
+- 覆盖单 AI 服务与 Agentic AI 编排
+- 教程网站提供完整指引，也可本地服务文档
 
 ## 适用场景
 
-- Java 开发者学习在 Quarkus 中接入 LLM 构建 AI 应用
-- 学习 Agentic AI 编排的实现方式
-- 直接查看各步骤完整代码进行对照学习
+- Java 开发者学习 Quarkus 与 LangChain4j 集成
+- 了解用 Java 构建 Agentic AI 编排系统
+-  workshops/培训课程材料使用
 
 ## 场景标签
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1dd8783e314c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `b2006fd32e01` · [字段定义](../../DATASET.md)*

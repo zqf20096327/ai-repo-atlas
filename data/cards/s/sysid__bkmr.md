@@ -2,9 +2,9 @@
 
 ⭐ 269 · Rust · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/sysid/bkmr) · 个人维护
 
-**本地优先的知识管理 CLI：存书签/片段并供 AI 代理读写记忆**
+**本地优先的知识管理 CLI：为人和 AI agent 存储与语义检索内容**
 
-基于 Rust 与 SQLite 的命令行知识管理工具，统一存储 URL、代码片段、Shell 命令、Markdown、环境变量与本地文件，按内容类型分发动作（打开/复制/执行/渲染）。提供全文检索与混合检索（FTS + 本地 ONNX 语义向量、RRF 融合，离线无 API key）。面向开发者与 AI 代理：JSON 输出、非交互模式，`_mem_` 系统标签与 bkmr-memory 技能构成代理长期记忆的读写接口；内置 LSP 服务器与 Neovim/IntelliJ 插件。支持备份/恢复与历史回滚。
+Rust 编写的 CLI 工具，将 URL 书签、代码片段、shell 命令、Markdown、环境变量和纯文本统一存入本地 SQLite 库，按内容类型分发动作（打开浏览器、复制剪贴板、执行脚本等）。检索层提供 FZF 模糊搜索与 FTS+语义混合搜索，嵌入在本地 ONNX 上离线运行，无 API key。通过 _mem_ 系统标签与 hsearch 为 AI agent 提供持久化读写记忆接口，并可将 bkmr-memory 技能安装到 agent 的 skills 目录；内置 LSP 服务器支持编辑器补全，配 Neovim 与 IntelliJ 插件。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 混合检索：FTS + 本地语义嵌入（离线，无需 API key），带相似度与命中类型标注
-- 面向 AI 代理的长期记忆接口：`_mem_` 标签与可安装的 bkmr-memory 技能
-- 多种内容类型的上下文感知动作分发（URL/片段/脚本/Markdown/环境变量）
-- JSON 输出与备份恢复机制；内置 LSP 服务器及编辑器插件
+- 混合搜索（FTS+语义，RRF 融合），本地嵌入离线运行
+- _mem_ 系统标签与 hsearch 构成 agent 读写记忆接口
+- bkmr-memory 技能可安装至 Claude Code 等 agent skills 目录
+- 内置 LSP 服务器，兼容 VS Code/Vim/Emacs 与 JetBrains 插件
 
 ## 适用场景
 
-- 在本地离线管理书签、代码片段与文档并按语义检索
-- 为 Claude 等 AI 代理提供可持久化的项目长期记忆
+- 把生产环境配置、事实信息作为 agent 的长期记忆存取
+- 统一管理书签、代码片段和 shell 命令并快速检索
 - 在编辑器内通过 LSP 补全直接调用代码片段
-- 脚本流水线中以 JSON 非交互方式批量读写条目
+- 用 JSON 导出做书签备份与选择性恢复
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L10: # Beyond Bookmarks and Snippets: Knowledge Management for Humans and Agents
 > L26: - **Agent-friendly**: JSON output, non-interactive mode, and `_mem_` system tag for AI agent memory
-> L118: |`hsearch`|Hybrid search: FTS + semantic with RRF fusion; `--mode exact`: keywords only; `--mode semantic`: meanin
+> L29: - **Privacy-focused**: Fully local — database, embeddings, and search all run offline
+> L36: Persistent long-term memory for AI agents. The `_mem_` system tag and `hsearch` (hybrid FTS + semantic search) crea
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6f2d6d72cd19` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `fd3b145080fc` · [字段定义](../../DATASET.md)*

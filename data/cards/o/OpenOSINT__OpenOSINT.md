@@ -2,9 +2,9 @@
 
 ⭐ 1,975 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/OpenOSINT/OpenOSINT) · [官网](https://openosint.tech) · 组织维护
 
-**面向调查人员的自然语言 OSINT agent（21 个公开来源工具+MCP）**
+**给调查员与安全研究者的自然语言 OSINT agent，集成 21 个公开情报工具**
 
-开源 OSINT agent，把 21 个公开来源查询工具封装在自然语言聊天界面之后，输出带来源引用的调查结论；提供 Web UI（聊天、3D 地球、实体图谱）、REPL、MCP server 和 Claude Code 插件四种形态。默认仅启用被动查询工具，接触目标的主动操作需 --allow-active 显式开启；大部分工具免 API key 即可启动，部分工具需自行配置密钥。Python 3.10+，支持 pip/uvx/Docker 安装。
+面向调查员和安全研究人员的开源 OSINT agent：将 21 个公开来源查询工具置于自然语言聊天界面之后，提供 Web UI（流式聊天、3D 地球、实体图）、REPL、CLI 与 MCP server。每个发现引用产生它的工具调用；默认仅启用被动工具，触碰目标的主动扫描需 --allow-active 显式开启。基础命令无需 API key，部分工具需自备密钥，Sherlock 等 4 个工具需自行安装二进制。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 21 个公开来源查询工具，每条结论附工具调用出处
-- MCP server 兼容 Claude Desktop/Claude Code/Cursor 等 MCP 客户端
-- 默认被动查询，主动扫描需显式 --allow-active 开启
-- Web UI 含流式聊天、新闻地球仪与 FollowTheMoney 实体图谱
+- 21 个 OSINT 工具经自然语言与 MCP 调用，结论逐条引用来源
+- 默认被动模式：主动工具需 opt-in 且不列入 MCP tools/list
+- Web UI 含流式聊天、新闻地球与 FollowTheMoney 实体图
+- exposure 命令对邮件认证、TLS、注册信息打 A-F 分级
 
 ## 适用场景
 
-- 对域名/IP/公司做被动情报收集与暴露面评估
-- 在 Claude Code 或 MCP 客户端中以对话方式发起 OSINT 调查
-- 查看带图谱与地球仪可视化的调查结果并逐点下钻
+- 对域名或公司做被动情报收集与暴露面评估
+- 在 Claude Code/Cursor 等 MCP 客户端中调用 OSINT 工具
+- 生成带来源引用的调查报告用于授权安全评估
 
 ## 场景标签
 
-`网络安全` `AI 助手` · 领域:对话与助手
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L2:  OpenOSINT is an open-source OSINT agent for investigators and security researchers: 21 public-source tools behind a
-> L76: Tools run as real Python code and every finding cites the call that produced it. Compared with SpiderFoot, OpenOSIN
+> L84: Agents and MCP clients are only offered tools that query third-party sources or compute locally. Anything that touc
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `03324ed6c932` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `22af9898bd6d` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 174 · Svelte · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/leaningtech/browsercode) · [官网](https://browsercode.io) · 组织维护
 
-**在浏览器中运行 AI 编码 CLI 的 WebAssembly 沙箱 IDE**
+**在浏览器端运行 AI 编码 CLI 的 WebAssembly 沙盒 IDE**
 
-基于 BrowserPod（多语言 WebAssembly 沙箱）的浏览器端编码环境，完全客户端运行，无需安装、服务器或云端算力。内置 Node.js v22、Rust、Python（预览）、POSIX 风格文件系统及 bash/git/npm 等命令行工具；以未修改形式在浏览器内运行 Claude Code、Codex CLI 和 Pi 三个 AI 编码 CLI，后续计划支持 Antigravity 与 OpenCode。出站网络限于白名单主机（npm registry、GitHub、主要 AI provider API）。提供托管版与自托管路径，支持 iframe 嵌入。限制：不支持原生二进制；Agent 运行需支持 WebAssembly JSPI 的浏览器版本，iOS/iPadOS 暂不支持。
+BrowserCode 是基于 BrowserPod（多语言 WebAssembly 沙盒，含 Node.js v22、Rust、Python preview）的浏览器内编码沙盒，可在客户端直接运行未经修改的 Claude Code、Codex CLI 与 Pi，并提供代码编辑器、类 POSIX 文件系统、bash/git/npm 等命令行工具与即时预览，用于全栈应用原型与分享。出站网络仅限白名单（npm registry、GitHub 及主流 AI 提供商 API）。尚处 beta，不支持原生二进制，Agent 运行需支持 JSPI 的浏览器，iOS/iPadOS 暂不可用；自托管需 BrowserPod API key。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 在浏览器内完全客户端运行 Claude Code、Codex CLI、Pi，无需安装或服务器
-- BrowserPod 多语言 WebAssembly 沙箱（Node.js、Rust、Python 预览）与 POSIX 风格文件系统
-- 出站网络白名单隔离，覆盖 npm registry、GitHub 与主要 AI provider API
-- 支持 Vite/Express/Svelte/Next/Nuxt/React/Vue 框架模板及 iframe 嵌入
+- 完全客户端运行 Claude Code、Codex CLI、Pi（无需服务器与云算力）
+- 基于 BrowserPod 的多语言 WebAssembly 沙盒（Node.js/Rust/Python）
+- 出站网络白名单限制，含 npm registry、GitHub 与主流 AI 提供商 API
+- 支持 Vite、Express.js、Svelte、Next、Nuxt、React、Vue 的浏览器内启动与预览
 
 ## 适用场景
 
-- 不安装任何东西就在浏览器里试用 AI 编码 CLI
-- 在沙箱中直接原型化 agent 生成的全栈应用并即时预览
-- 把浏览器端编码环境嵌入到自己的网站页面
+- 在浏览器中原型化 AI agent 生成的代码并即时预览
+- 不安装本地环境即可试用 AI 编码 CLI
+- 通过 /embed 将沙盒或 Java 运行时嵌入第三方页面
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L11:  Run AI coding CLIs and frameworks in the browser
+> L13:  BrowserCode is a browser-based playground for fast-prototyping full-stack apps and sharing them instantly. It runs
 > L32: BrowserCode started out as a way to run AI coding CLIs entirely client-side. It's since grown into a full IDE: alon
-> L34: BrowserCode 2.0.0 is our latest beta release. It runs a full code editor, development environment, and unmodified v
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `050709860f24` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `df5f88b5e538` · [字段定义](../../DATASET.md)*

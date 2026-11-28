@@ -4,7 +4,7 @@
 
 **浏览器端人脸识别与活体检测 JavaScript SDK**
 
-基于 ONNX Runtime Web 与 OpenCV.js 的本地人脸分析 SDK，npm 包安装后在浏览器内运行，数据不离开设备。提供加载模型与预测的 API：人脸检测、关键点提取、活体检测（防打印照片/视频回放/3D 面具等欺骗）、表情识别、姿态估计、眼睛闭合、性别与年龄检测，以及输出 512 维特征向量的人脸识别。README 自称 NIST FRVT 排名靠前、iBeta level 2 活体引擎；同一供应商还提供 Android/iOS/Flutter 等多平台版本，涉及商业 SDK 产品线。限制：模型文件与许可条款未在 README 中说明。
+基于 ONNX Runtime Web 与 OpenCV.js 的端侧（on-premise）人脸 SDK，全部计算在浏览器内完成，数据不离开设备。提供人脸检测、512 维特征提取与比对、被动活体检测（防照片/视频回放/3D 面具，按 ISO/IEC 30107-3 方法内部测试）、关键点、姿态、表情、闭眼、性别与年龄估计等 API。通过 npm 安装，另提供 Vue/React 示例，并有多平台版本产品线。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 完全在浏览器本地推理，数据不出设备
-- 活体检测（反欺骗）防打印照片、视频回放、3D 面具
-- 512 维特征向量人脸识别 API
-- 覆盖检测/关键点/表情/姿态/闭眼/性别/年龄的统一 API
+- 被动活体检测，防护打印照片、视频回放、3D 面具及 deepfake
+- 512 维特征向量的人脸识别/比对，全程浏览器内运行、数据不出设备
+- 覆盖检测、关键点、姿态、表情、闭眼、性别、年龄等 API
+- 提供 Vue.js 与 React.js 示例工程
 
 ## 适用场景
 
-- Web 应用中做刷脸身份验证与防伪
-- 在浏览器本地分析人脸属性（年龄、性别、表情）
-- 离线或隐私敏感场景下的人脸比对
+- 在网页端做人脸验证/身份核验而不上传人脸数据
+- 登录流程中加入人脸活体防伪校验
+- 从人脸图像提取表情、年龄、性别等属性
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: Experience the epitome of speed and fairness with our `face recognition model` **Top-ranked on NIST FRVT**, coupled 
+> L3: # Face Recognition SDK Javascript - Fully On Premise
+> L5: Experience speed and fairness with our `face recognition model`, **evaluated in NIST FRTE (formerly FRVT)**, paired 
 > L6:  This is `on-premise SDK` which means everything is processed on the browser and **NO** data leaves the device
-> L141: extractFeature(session, canvas_id, landmarks)
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `77cefa5be7ca` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `6cf8834a0752` · [字段定义](../../DATASET.md)*

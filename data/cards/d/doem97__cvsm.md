@@ -2,9 +2,9 @@
 
 ⭐ 123 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/doem97/cvsm) · [官网](https://doem97.github.io/cvsm/) · 个人维护 · 中文 README
 
-**用编码代理做受控 ML 实验的状态机协议（复制文件即用）**
+**让研究者用 coding agent 受控运行 ML 实验的状态机协议**
 
-CVSM 是一套复制进研究仓库的协议文件而非服务：研究者编写研究规格（study spec），声明各实验组的差异变量、固定变量与可自适应变量；Claude Code 或 Codex 编码代理通过 GitHub issues 与 PR 逐状态实施并运行实验。每条 run 记录其解析后的配置，脚本将其对照规格核验并报告不允许的差异。流程设四个人工闸口：publish、merge、budget、conclude。采用方式为复制 AGENTS.md、.agents/.claude/.codex 等文件并运行 setup.sh 配置仓库。当前为 v0.1.0 预发布，接口在 1.0 前可能变动。
+CVSM 是一组复制进研究仓库的文件（非服务）：研究者编写 study spec 说明各实验组哪些变量不同、哪些固定、哪些可自适应，coding agent 通过 GitHub issues 与 pull requests 逐步执行研究。流程经过 publish、merge、budget、conclude 四个人工门控，每次运行记录其 resolved config，脚本将其与 spec 比对并报告差异。支持 Claude Code 与 Codex 两类 agent，当前为 pre-release（v0.1.0），接口可能在 1.0 前变动。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ CVSM 是一套复制进研究仓库的协议文件而非服务：研究者编写
 
 ## 能力要点
 
-- 研究规格声明变量分层（差异/固定/可自适应），每条 run 对照规格自动核验
-- 四个人工闸口：publish、merge、budget、conclude
-- GitHub issues 持有状态，AGENTS.md 规则文件加四个技能承载流程，兼容 Claude Code 与 Codex
-- setup.sh 一键配置 labels、squash-only 合并与分支保护
+- 四个人工门控（publish/merge/budget/conclude）控制实验流程
+- 每次运行的 config 记录与 study spec 自动比对，报告不允许的差异
+- 以文件集合形式复制进仓库，GitHub issues 承载状态
+- 同一套规则文件与技能同时适配 Claude Code 与 Codex
 
 ## 适用场景
 
-- 让编码代理跑对照实验且保留人工审查节点
-- 保证 ML 实验各臂的受控变量与规格一致、结果可复现
-- 在 GitHub 上以 issues/PR 流程管理实验状态机
+- 用 coding agent 跑 ML 对照实验并保证可复现
+- 对 agent 产出的实验配置做规格校验
+- 在实验关键节点保留人工决策点
 
 ## 场景标签
 
-`科研工具` `MLOps` · 领域:学习与行业
+`编码 Agent` `科研工具` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `0f5d636f6360` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `b62def97e80b` · [字段定义](../../DATASET.md)*

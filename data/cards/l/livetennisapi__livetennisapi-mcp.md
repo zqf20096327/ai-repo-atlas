@@ -2,9 +2,9 @@
 
 ⭐ 125 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/livetennisapi/livetennisapi-mcp) · [官网](https://docs.livetennisapi.com) · 组织维护
 
-**给 LLM agent 提供实时网球比分与数据的 MCP 服务器**
+**为 MCP 客户端中的 LLM 代理提供实时网球比分与数据的 MCP 服务器**
 
-Live Tennis API 的官方 MCP server，向 Claude、Cursor、Zed、Codex 等 MCP 客户端暴露 20 余个只读工具：实时比分、球员资料、赛程、排名、历史结果档案（1968–2022）、赔率与模型胜率分析。数据端点按 FREE/BASIC/PRO/ULTRA 四档付费计划分级，需 API key（免费档无需信用卡）。提供 stdio（npx 按需拉取）与托管 Streamable-HTTP 两种接入方式；stdio 模式下 key 不离开本机。要求 Node 20+。工具遇付费墙时返回英文说明而非裸错误，方便模型向用户解释升级需求。
+Live Tennis API 的 MCP 服务器，通过 stdio 或托管 HTTP 端点向 Claude、Cursor、Zed、Codex 等客户端提供 22 个只读工具：覆盖 ATP/WTA/Challenger/ITF 的实时比分、赛程、球员档案、1968–2022 历史档案、赔率、排名、比赛统计与模型胜率分析，按 FREE/BASIC/PRO/ULTRA 四档订阅分级。针对免费档 100 请求/日的限流与 403 升级错误，工具以普通结果形式返回可读的套餐说明；密钥经环境变量读取，不出本机。需 Node 20+，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Live Tennis API 的官方 MCP server，向 Claude、Cursor、Zed、Codex 等 MCP
 
 ## 能力要点
 
-- 20+ 只读 MCP 工具覆盖实时比分、档案、赔率与模型胜率
-- stdio 本地运行与多租户托管 HTTP 端点两种接入方式
-- 付费墙返回普通结果形式的英文说明而非 403 错误
-- 附赠 Polymarket/Kalshi 网球交易数据 Agent Skill（仅观察，无下单）
+- 22 个只读 GET 工具：比分、球员、赛程、1968–2022 结果档案、赔率、排名、图表统计
+- 套餐分级感知：403 时返回可读的升级说明而非裸错误
+- 提供 stdio 本地运行与托管 Streamable-HTTP 端点两种接入方式
+- 捆绑 polymarket-tennis Agent Skill（仅观察，不下单）
 
 ## 适用场景
 
-- 在 Claude/Cursor 中直接查询正在进行的网球比分与赛程
-- 为网球内容或数据分析构建 agent 的实时数据源
-- 查询跨时代球员交锋与历史档案数据
+- 在 Claude/Cursor 中直接询问正在进行的比赛比分与赔率
+- 查询跨时代球员交锋与历史大满贯结果
+- 为网球交易获取 Polymarket/Kalshi 结算规则与价格视图
 
 ## 场景标签
 
- · 领域:体育数据/LLM 工具服务
+ · 领域:体育数据/LLM 工具接入
 
 ## 证据(README 行号)
 
 > L5: **MCP server for the Live Tennis API.**
 > L7: Give Claude, Cursor, Zed or any MCP client live tennis scores, players and
-> L233: - Requires Node 20+.
+> L23: claude mcp add livetennis -e LIVETENNISAPI_KEY=twjp_… -- npx -y livetennisapi-mcp
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 mid · 依据 README sha `02e6b9bee9a0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `7fd049eda422` · [字段定义](../../DATASET.md)*

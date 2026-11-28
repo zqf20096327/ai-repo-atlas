@@ -2,9 +2,9 @@
 
 ⭐ 115 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/travisjneuman/.claude) · [官网](https://claude.travisjneuman.com) · 个人维护
 
-**Claude Code 的即插式配置工具包：180 技能+10 agents+81 市场**
+**给 Claude Code 用户的即插即用技能配置包：183 技能自动路由**
 
-放入 ~/.claude 目录即可生效的 Claude Code 配置层：包含 180 个领域技能（Web/DevOps/安全/商业/合规等）、10 个专家子代理、29 个斜杠命令、7 个生命周期 hooks、17 个模板与 81 个社区技能市场仓库（共 11,000+ 技能）。核心机制是按需路由：每会话仅加载核心描述，其余资源通过生成的 INDEX.md 与 toolkit-router 技能按关键词检索加载，控制上下文成本。默认以 bypassPermissions 模式运行，由 guard.js 拦截危险命令，secret-scan.js 扫描凭证。面向使用 Claude Code 的开发者，git clone 即用。
+面向使用 Claude Code 的开发者，提供一份可克隆到 ~/.claude/ 的配置层：183 个领域技能、10 个子代理、29 个斜杠命令、7 个生命周期 hook、17 个模板与 10 条语言规则，另含 86 个社区市场仓库（11,300+ 技能，可选安装）。机制上通过生成的 INDEX.md 与 toolkit-router 技能按需加载资源以控制上下文开销；默认以 bypassPermissions 的全权限模式运行，并由守卫 hook 拦截少量危险命令，安全模型在 SECURITY.md 中说明收紧方式。也可仅以插件形式安装技能。
 
 ## 筛选速览
 
@@ -13,32 +13,33 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 180 技能 / 10 agents / 29 命令 / 7 hooks / 81 市场仓库聚合
-- INDEX.md + toolkit-router 按需路由，大工具包几乎不占上下文
-- guard.js 拦截危险命令、secret-scan.js 凭证扫描
-- 跨平台支持（macOS/Linux/Windows Git Bash）， hooks 用 Node.js runner 解析路径
+- git clone 即得 183 技能/10 代理/29 命令/7 hook 的完整配置
+- 生成的 INDEX.md 与 toolkit-router 按需检索技能，降低上下文占用
+- 可仅安装技能插件（tjn-skills）或按领域安装子包
+- 会话起止 hook 自动 checkpoint 并推送自有仓库的待提交更改
 
 ## 适用场景
 
-- 给自己的 Claude Code 增加领域技能与专家代理而无需手工配置
-- 通过关键词检索复用 11,000+ 社区技能
-- 在多机上维护一致且带安全护栏的 Claude Code 工作环境
+- 为 Claude Code 补充特定技术栈的领域技能与工作流
+- 不想手动配置 hooks、代理与命令的开发者一键搭建 ~/.claude
+- 按领域（前端/后端/数据 AI 等）只安装所需技能子包
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`编码 Agent` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L19: A drop-in configuration layer for Claude Code that transforms it from a capable AI assistant into an enterprise-gra
-> L21: **One `git clone` gives you** 180 domain skills, 10 specialist agents, 81 community marketplaces with 11,000+ addit
+> L21: **One `git clone` gives you** 183 domain skills, 10 specialist agents, 86 community marketplaces with 11,300+ addit
+> L29: **Who it's for:** Developers who use Claude Code and want deeper domain expertise, structured workflows, and qualit
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `00d59c2c2bf8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `d48f4d7eaf1d` · [字段定义](../../DATASET.md)*

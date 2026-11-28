@@ -2,9 +2,9 @@
 
 ⭐ 118 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AmineDjeghri/generative-ai-project-template) · [官网](http://aminedjeghri.com/generative-ai-project-template/) · 个人维护
 
-**生成式 AI 项目脚手架模板：快速搭建带 LLM、RAG 与评测的工程**
+**生成式 AI 项目的启动模板：前后端与本地/云端 LLM 接入脚手架**
 
-面向开发者的生成式 AI 项目起始模板：前后端 monorepo（NiceGUI 前端 + FastAPI 后端），用 uv 管理工作区依赖。内置 LLM 接入通道——本地通过 Ollama、云端通过 LiteLLM 兼容任意提供商（OpenAI、Anthropic、Azure 等），并提供信息抽取、文档问答、聊天与 RAG 功能。集成 Promptfoo 与 Ragas 作为评测和红队框架，附带 Docker 容器化、Make 命令、GitHub Actions CI/CD、pre-commit 与 MkDocs 文档。支持 CPU 与 NVIDIA CUDA 两种安装路径。作为模板使用，需 git clone 后配置 .env。
+以模板仓库形式提供的生成式 AI 项目脚手架：FastAPI 后端与 NiceGUI 前端构成聊天应用，模型调用经 LiteLLM 路由到云厂商或本地 Ollama（CPU/GPU），并集成 uv 工作区工具、测试、Docker Compose、GitHub Actions 发布与 MkDocs 文档。通过 Make 命令完成安装、运行、本地 Ollama 准备、容器化部署与文档预览；模型提供方经 .env 中的 INFERENCE_*/EMBEDDINGS_* 配置。限制：仅面向新项目初始化，需自备 Git/uv/Make 环境。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 本地 Ollama 与云端 LiteLLM 双通道 LLM 接入，含专属 Make 命令
-- NiceGUI 前端 + FastAPI 后端的 uv 工作区 monorepo
-- Promptfoo 与 Ragas 作为评测/红队框架
-- Docker Compose（CPU/CUDA）与 GitHub Actions CI/CD 流水线
+- FastAPI + NiceGUI 聊天应用模板，经 LiteLLM 接入云/本地模型
+- make install-ollama / run-with-ollama 一键准备本地 Ollama
+- Docker Compose 提供 CPU 与 CUDA GPU 两种栈（Compose 2.24+）
+- uv 工作区、pre-commit 钩子、测试与 GitHub 发布流程内置
 
 ## 适用场景
 
-- 新起生成式 AI 项目时复用完整工程脚手架
-- 搭建本地或云端 LLM 的原型应用（聊天、RAG、信息抽取）
-- 在 CI 中持续测试 AI 系统与本地模型
+- 初始化一个带聊天前后端的生成式 AI 新项目
+- 本地用 Ollama 跑模型、需要容器化与可观测性基建
+- 团队需要统一的项目结构、测试与发布规范
 
 ## 场景标签
 
-`RAG` `文档问答` `模型评测` `MLOps` · 领域:评测与运维
+ · 领域:LLM 基础设施/开发模板
 
 ## 证据(README 行号)
 
-> L20: Template for a new AI Cloud project.
-> L24: This project is a generative ai template. It contains the following features: LLMs, information extraction, chat, r
-> L43: - [x] LLM running locally with Ollama or in the cloud with any LLM provider (LiteLLM)
+> L18: A FastAPI backend and NiceGUI frontend for chat, with local Ollama
+> L19: or cloud models through LiteLLM. Includes uv workspace tooling, tests,
+> L43: For local Ollama, install it with `make install-ollama`, then use `make run-with-ollama`
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `b6e0ce6ecba8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f6129be1b7d3` · [字段定义](../../DATASET.md)*

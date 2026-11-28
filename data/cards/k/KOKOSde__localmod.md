@@ -2,9 +2,9 @@
 
 ⭐ 114 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/KOKOSde/localmod) · 个人维护
 
-**自托管离线内容审核 API：文本与图像的毒性/PII/NSFW 检测**
+**自托管内容审核 API：本地离线检测文本/图片违规内容**
 
-基于 FastAPI 的本地内容审核服务，数据不出自有基础设施。文本侧提供 PII（正则+校验）、毒性（4 模型加权集成）、提示注入（DeBERTa）、垃圾信息（RoBERTa）、NSFW 文本共 5 类分类器；图像侧用 ViT 模型检测 NSFW 图片。提供 REST 端点（分析/批量/PII 脱敏/图像分析）与 Discord 机器人集成，支持 Docker 与完全离线模式（预下载约 3.5GB 模型）。附 CHI 2025 方法论的基准数据。需 Python 3.8+，设备支持 cpu/cuda/auto。
+以 FastAPI 服务形式提供的自托管内容审核系统，完全离线运行，数据不出自建服务器。文本侧提供 PII（正则+校验）、毒性（4 模型加权集成）、提示注入（DeBERTa）、垃圾信息（RoBERTa）、NSFW 文本五类分类器；图片侧基于 ViT 模型检测 NSFW。通过 git clone 安装后需下载约 3.5GB 模型，支持 Docker 部署与 Discord 机器人集成，暴露 /analyze、/redact、/analyze/image 等 REST 端点，设备可选 cpu/cuda。README 附带基于公开数据集的基准表与性能延迟数据。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 5 类文本分类器 + 1 类图像分类器（毒性为 4 模型加权集成）
-- 完全离线运行，模型预下载至本地目录
-- REST API 提供 /analyze、/redact、图像分析等端点，另有 Discord 机器人集成
-- 发布 CHI 2025 方法论基准与各类分类器的 P/R/F1 指标
+- 文本 5 类分类器（PII/毒性/提示注入/垃圾信息/NSFW）+ 图片 NSFW 检测
+- 完全离线运行，支持 LOCALMOD_OFFLINE 强制离线模式
+-  toxicity 采用 4 模型加权集成（toxic-bert 50% 等）
+- 提供 REST API、Python 库、Docker 镜像与 Discord 机器人四种使用方式
 
 ## 适用场景
 
-- 在自有服务器上对用户生成内容做毒性与 NSFW 审核，数据不出内网
-- 从文本中检测并脱敏 PII（邮箱/电话/社保号/信用卡）
-- 为 LLM 应用检测提示注入攻击
-- 给 Discord 服务器部署自动删帖与禁言的实时审核机器人
+- 为自建社区/Discord 服务器提供本地化的文本与图片审核
+- 在不外发数据的前提下检测并脱敏文本中的 PII
+- 拦截针对 LLM 应用的提示注入/越狱输入
 
 ## 场景标签
 
@@ -39,7 +38,8 @@
 ## 证据(README 行号)
 
 > L7: **Fully offline content moderation API** — Free, self-hosted, and private. Your data never leaves your infrastructur
-> L98: |**PII**|Emails, phones, SSNs, credit cards|Regex + Validation|
+> L99: |**Toxicity**|Hate speech, harassment, threats|Weighted Ensemble (4 models)|
+> L188: |`LOCALMOD_DEVICE`|`auto`|`cpu`, `cuda`, or `auto`|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4dafd4249567` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `79dcf0c62ed6` · [字段定义](../../DATASET.md)*

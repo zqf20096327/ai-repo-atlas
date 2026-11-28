@@ -2,9 +2,9 @@
 
 ⭐ 123 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/google/doubleml-pipeline) · [官网](https://pypi.org/project/doubleml-pipeline/) · 组织维护
 
-**自动 DoubleML+AutoML 因果推断库，估算营销增量与 ROI**
+**营销分析者的因果推断自动化库：估计促销/定价/媒体的增量效果与 ROI**
 
-Google APAC 营销效果工作组维护的 Python 库，基于 DoubleML 与 FLAML AutoML 实现自动化因果推断：自动完成干扰参数建模（LightGBM/XGBoost 候选搜索）、业务单元安全缩放、CATE 异质性估计、遗漏变量偏误敏感性分析、贝叶斯 MMM 先验校准，并输出图表与 CSV。面向需要估算促销、定价与媒介干预增量影响及 ROI 的营销分析场景。要求 Python 3.10+，从 PyPI 安装。限制：优化仅支持单一 treatment，饱和优化仅限 spend 类型。
+基于 DoubleML 与 AutoML（FLAML）的因果推断流水线：输入 date × region × product 的面板数据，自动完成模型选择、超参调优、交叉拟合、重复估计、置信区间、敏感性分析与报告生成，输出增量 KPI、CATE、ROI 及自包含 HTML 报告。可选的 Saturation DML 阶段估计媒体花费的饱和响应曲线并做预算分配优化。由 Google APAP 营销效果团队构建，依赖 Python 3.10+，从 PyPI 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Google APAC 营销效果工作组维护的 Python 库，基于 DoubleML 与 FLAM
 
 ## 能力要点
 
-- FLAML AutoML 自动搜索并调优干扰模型（LightGBM/XGBoost 等）
-- CATE 异质性估计（连续样条/二值基）与 OVB 敏感性分析
-- 输出 CATE、增量 KPI、ROI 及鲁棒性置信界（2.5%–97.5%）
-- 提供营销模拟数据集与端到端示例 notebook
+- run_full_pipeline 一次调用完成调参、交叉拟合、重复估计与 HTML 报告输出
+- FLAML 自动选择 nuisance 模型，支持并行候选学习器网格搜索
+- Saturation DML 可选阶段：饱和曲线估计与 KKT 预算分配优化
+- Agentic AI 结果解读示例：Gemini agent 加载 causal-insights 技能读取运行结果
 
 ## 适用场景
 
-- 估算促销或定价干预的真实增量影响与 ROI
-- 检验因果估计对未观测混杂因素的敏感性
-- 为贝叶斯 MMM 提取 DML 拟合分布作为先验
+- 估计上季度折扣带来的增量收入与 ROI
+- 评估电视广告花费是否已饱和
+- 找出促销在哪些地区、哪些时段效果最好
+- 在区域和周期之间重新分配营销预算
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Google APAC 营销效果工作组维护的 Python 库，基于 DoubleML 与 FLAM
 
 ## 证据(README 行号)
 
-> L3: A robust Python library for automated causal inference utilizing Double Machine
-> L17: With **DoubleML Pipeline**, you can estimate the true incremental impact and ROI
-> L31: **DoubleML Pipeline** operationalizes this framework by combining DML with
+> L12: (date × region × product). It uses Double Machine Learning (DML) to remove the
+> L80: `run_full_pipeline` takes your data frame and your choice of Y / T / X and runs
+> L112: ### Agentic AI utilization for insight generation
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `52d0bc711a75` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `b71b353d93b5` · [字段定义](../../DATASET.md)*

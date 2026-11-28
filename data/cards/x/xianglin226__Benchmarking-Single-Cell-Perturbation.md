@@ -2,9 +2,9 @@
 
 ⭐ 134 · HTML · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/xianglin226/Benchmarking-Single-Cell-Perturbation) · 个人维护
 
-**单细胞扰动模型论文与数据集策展清单**
+**单细胞扰动响应模型/基准/数据集的策展指南清单**
 
-整理单细胞遗传/化学扰动建模研究的策展仓库：以表格收录 2018-2026 年约 60 篇扰动预测模型论文（含期刊/会议出处），另设综述、基准评测与竞赛、扰动数据集（SC-perturb、C-MAP、Tahoe-100M 及多项空间扰动测序数据）和单细胞基础模型清单等分区；并提及将基于 TDC 构建部分模型 API、附带 FastPert 查询工具与 CZI 数据库入口。面向扰动生物学与药物发现方向的研究者使用，条目定期更新。
+以清单形式整理扰动响应预测领域的模型、分析方法、基准与数据集：每个条目给出年份、发表状态、特征范围、架构图链接与官方代码仓库链接。覆盖遗传与化学响应预测、空间上下文与细胞动力学、靶点发现、基准与数据集、单细胞基础模型等板块，并附交互式架构相似度图，收录 77 种扰动方法，边由策展的架构标签构成，注明不反映实测预测性能。不含安装或运行说明。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 按年份/期刊组织约 60 篇扰动模型论文表
-- 收录基准评测与竞赛论文（PerturBench 等）
-- 汇总 15 个扰动数据集（含空间扰动测序数据）
-- 计划在 TDC 上构建部分模型 API 供基准测试
+- 收录 77 种扰动方法的交互式架构相似度图（边基于策展架构标签）
+- 每个模型条目附主论文链接、官方代码仓库与架构图链接
+- 覆盖响应预测、空间动力学、靶点发现、基准与数据集等板块
+- 标注预印本与正式发表年份，注明最后核查日期
 
 ## 适用场景
 
-- 查找单细胞扰动预测的模型论文与出处
-- 了解该领域的基准评测与数据集资源
-- 跟踪单细胞基础模型相关研究进展
+- 为单细胞扰动建模研究查找合适的模型与官方代码
+- 按架构类型浏览相关扰动响应方法
+- 查找该领域的基准与数据集资源
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L2: ## Models developed for genetic/chemical perturbation data
-> L73: ## Benchmark and Challenges
+> L5: A curated guide to perturbation-response models, analysis methods, benchmarks, and datasets.
+> L19: Explore 77 perturbation methods by shared architecture, select a method to inspect its neighbors, and filter edges 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `d5d1fd3e023a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `03bdf6ff80b0` · [字段定义](../../DATASET.md)*

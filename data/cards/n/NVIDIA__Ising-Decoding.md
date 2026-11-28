@@ -2,9 +2,9 @@
 
 ⭐ 124 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/Ising-Decoding) · [官网](https://developer.nvidia.com/ising) · 组织维护
 
-**量子纠错解码器的神经网络预解码训练方案**
+**为量子纠错解码器提供 AI 训练配方与预训练模型**
 
-NVIDIA 发布的 AI 量子纠错预解码器训练与推理方案：用 3D 卷积神经网络跨时空读取探测器症状、预测降低症状密度的修正，再由全局解码器（表面码 PyMatching、颜色码 Chromobius）给出最终逻辑判决。支持表面码与颜色码两个码族，共用单一用户配置与运行脚本；预训练模型以 fp16 SafeTensors 形式发布在 Hugging Face（访问需 token）。训练路径依赖 CUDA 与 cuStabilizer 后端，可导出 ONNX 并做 INT8/FP8 量化。
+该仓库提供构建、定制和部署可扩展量子纠错解码器的 AI 训练配方：神经网络读取跨空间和时间的探测子综合征，预测降低综合征密度的修正，再由全局解码器（表面码用 PyMatching，色码用 Chromobius）产生最终逻辑判定。支持 surface 和 color 两种码族，共用一个配置文件和一个运行脚本；预训练模型以 fp16 SafeTensors 发布在 Hugging Face（需 token 访问授权），并支持导出 ONNX 与 INT8/FP8 量化。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@ NVIDIA 发布的 AI 量子纠错预解码器训练与推理方案：用 3D 卷�
 
 ## 能力要点
 
-- 3D 卷积网络跨时空预测修正，衔接 PyMatching/Chromobius 全局解码器
-- 表面码与颜色码共用单一配置文件与运行脚本
-- 预训练模型发布于 Hugging Face，训练模型可导出 ONNX 并量化
-- 推理时可变更码距与轮数，无需重新训练
+- 神经网络跨空间和时间读取探测子综合征并预测修正
+- 两种码族共用单一公开配置（conf/config_public.yaml）与单一运行脚本
+- 预训练模型发布于 Hugging Face，支持 .pt 到 SafeTensors 转换及 ONNX/量化导出
+- 推理时可更改码距与轮数而无需重新训练
 
 ## 适用场景
 
-- 训练量子纠错的神经网络预解码器
-- 用预训练模型直接运行解码推理评估逻辑错误率
-- 将解码模型导出为 ONNX 并量化部署
+- 为表面码/色码实验训练或下载预训练的 AI 预解码器
+- 对量子电路级噪声模拟数据运行推理评估逻辑错误率
+- 导出量化模型用于部署管线
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+`模型训练` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L12: This repo offers AI training recipes to build, customize and deploy scalable quantum error correction **decoders**:
-> L14: - A neural network consumes detector syndromes across space **and** time
 > L15: - It predicts corrections that reduce syndrome density / improve decoding
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `b78a0168c748` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `d28f3bab5ecf` · [字段定义](../../DATASET.md)*

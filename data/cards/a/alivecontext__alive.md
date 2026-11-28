@@ -1,10 +1,10 @@
 # alivecontext/alive
 
-⭐ 132 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/alivecontext/alive) · [官网](https://alivecontext.com) · 组织维护
+⭐ 132 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/alivecontext/alive) · [官网](https://alivecontext.com) · 个人维护
 
-**Claude Code 的个人上下文管理插件：会话知识文件化沉淀**
+**为 Claude Code 提供基于本地文件夹的会话记忆管理插件**
 
-面向 Claude Code 用户的上下文管理运行时插件：把用户的工作、决策、人物与知识以纯文件结构（walnut/bundle）存放在本机，会话开始时加载身份与状态，结束时将决策、任务、知识等路由到对应文件，使上下文跨会话累积。运行时可移植于不同底层模型，包含 15 个技能命令、6 个规则文件、hooks 与状态栏。安装经 Claude Code 插件市场，需 Claude Code 与 Python 3，支持 macOS/Linux/Windows(WSL)。
+以 Claude Code 插件形式发布（v3.2.6，MIT，research preview），在用户磁盘上以纯文件夹保存会话上下文，使跨会话延续工作状态。提供 18 个斜杠技能：world 初始化、save/load-context 保存与恢复、capture-context 导入邮件/转录/文件、create-walnut 建立项目条目、search-world 搜索、session-history 查看历史、build-extensions 自定义技能等。依赖 Claude Code 与 Python 3，经 plugin marketplace 安装；README 声明已不再积极维护。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- walnut/bundle 文件结构管理上下文，会话开始加载、checkpoint 保存
-- 15 个技能命令（加载/保存/检索/图谱/升级等）
-- 上下文为本机纯文件，无云无账号，可 Git 追踪
-- 升级命令支持从 v1 起任意旧版本迁移并备份回滚
+- 基于本地磁盘文件夹的持久化上下文存储，数据留在用户自己机器上
+- 18 个斜杠技能覆盖保存、恢复、搜索、导入、升级等上下文操作
+- /alive:system-upgrade 支持 v1–v3.2 升级，先展示计划并备份
+- 提供 build-extensions 技能供用户自建技能、规则与 hooks
 
 ## 适用场景
 
-- 让 Claude Code 会话继承此前的决策与项目知识，避免重复解释
-- 按生活领域（创业项目、人物、实验）组织个人知识
-- 将工作流打包为可分享的 bundle 供他人安装
+- 让 Claude Code 在多次会话间延续同一个项目的上下文
+- 把邮件、转录、文件等材料导入后供 Claude Code 检索使用
+- 以地图形式查看并搜索自己的项目与工作记录
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L17:  Personal Context Manager for Claude Code
-> L32: Open Claude Code at your `~/world`. The runtime is already loaded.
-> L34: ALIVE structures your context into plain files on your machine. Agents read them at session start and save what mat
+> L3:  Claude Code forgets everything when a chat ends. ALIVE gives it a memory that lives in plain folders on your own co
+> L20: claude plugin marketplace add alivecontext/alive
+> L21: claude plugin install alive@alivecontext
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0957e1d9b846` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c9edc701437f` · [字段定义](../../DATASET.md)*

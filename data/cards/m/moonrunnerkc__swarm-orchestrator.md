@@ -2,9 +2,9 @@
 
 ⭐ 112 · TypeScript · ISC · 推送 2026-11-27 · [GitHub](https://github.com/moonrunnerkc/swarm-orchestrator) · [官网](https://github.com/moonrunnerkc/swarm-orchestrator#readme) · 个人维护
 
-**命令行编码 agent：以项目检查为准绳完成 git 仓库修改并留可验证证据**
+**本地模型驱动的编码 agent：改代码并附签名验证证据**
 
-面向 git 仓库的终端编码代理：用自然语言描述改动，本地或托管模型编辑工作区，运行项目自身检查作为封闭门禁，在固定次数内修复失败，并输出每条命令的签名、哈希链证据记录，可离线核验。要求不被检查覆盖的需求报告为未确立而非通过；修复不得删除测试换取绿灯；未加 --isolation 时命令按路径策略在用户机器上运行而非沙箱。需要 Node 22+ 与可用单命令运行测试的仓库。README 自述处于实验阶段。
+运行于本地模型的编码 agent：接收 git 仓库中的工程任务，在树的副本上修改代码，用模型未编写的测试逐条核验需求，失败则修复，最终返回补丁与完成情况报告。依赖 Node 22.13+、Ollama 或 OpenAI 兼容端点、Docker 守护进程（容器无网络隔离运行，`--host` 可本机运行）。草拟的检查需用户批准，验证记录带签名以实现防篡改。面向希望在本地用 AI 完成编码任务的开发者。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 以项目真实检查作为封闭门禁判定完成状态
-- 签名、哈希链证据记录可用 verify.mjs 离线核验
-- 修复过程禁止删除测试使检查变绿
-- 六种结局状态与对应退出码（accepted/unverified 等）
+- 在代码副本上修改并返回补丁与逐条需求状态报告
+- 每次验证生成签名记录，补丁或报告被改动后不再匹配
+- 草拟检查在终端中供批准/编辑/拒绝，未经审阅的草稿会在报告中标注
+- 支持从代码示例学习约定规则并作为后续运行的要求
 
 ## 适用场景
 
-- 让 agent 在 git 仓库中实现功能并自动跑测试修复
-- 要求改动有可离线核验的执行证据记录
-- 以检查而非模型自述来判定任务是否完成
+- 让本地模型按任务描述自动修改代码并拿到可核验的补丁
+- 为每个任务需求补充独立于模型的测试检查
+- 在容器隔离环境下运行 AI 编码任务，避免接触凭证与网络
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: `swarm` is a command-line coding agent for git repositories. You describe a change in plain
-> L4: words; it edits your working tree with a local or hosted model, runs your project's checks,
+> L6: Swarm is a coding agent that runs on a local model. Give it an engineering task in a git
+> L15: - Ollama with at least one model installed, or any OpenAI-compatible
+> L24: npm install -g swarm-orchestrator
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `02ea3cf2a274` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `2fa93e4c61de` · [字段定义](../../DATASET.md)*

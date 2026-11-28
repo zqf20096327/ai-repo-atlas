@@ -2,9 +2,9 @@
 
 ⭐ 128 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Photoroom/datago) · 组织维护
 
-**面向图像 ML 的 Rust 并行数据加载器，Python 模块形式**
+**为 Python 图像 ML 训练提供 GB/s 并行数据加载的 Rust 库**
 
-用 Rust 编写、以 Python 模块分发的数据加载器，在 Python GIL 之外处理逐样本 IO、jpg/png 解码、图像对齐等可选视觉处理与预编码，典型吞吐达 GB/s。数据源覆盖本地文件、webdataset（实验性）及 Dataroom 等 HTTP 栈，样本以 PIL/Numpy 原生类型交付，可提供 torch 兼容的 IterableDataset，并支持 rank/world-size 感知的样本分发。适合训练扩散模型、图像编码器等需要高速读取图像的工作负载。
+用 Rust 编写、以 Python 模块形式使用的并行 dataloader，在 Python GIL 之外完成逐样本 IO、jpg/png 反序列化、可选的图像对齐处理与序列化。支持本地文件、HTTP、WebDataset 及向量数据库型 HTTP 数据源（dataroom），提供有界缓冲、取消机制与基于 rank/world-size 的分布式加载。图像可输出为 PIL 对象或共享 Rust 存储的只读 NumPy 视图，覆盖 aspect ratio bucketing、裁剪与缩放，返回 torch 兼容的 IterableDataset。通过 pip 安装。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Rust 实现，GIL 之外的并行逐样本 IO 与 jpg/png 解码，典型 GB/s 吞吐
-- 在线图像处理：aspect ratio bucket 裁剪、resize、预编码（jpg/png），单 Python 进程可占满全部 CPU 核
-- 支持本地文件、webdataset（实验性）、Dataroom HTTP 栈等数据源
-- 提供 torch 兼容的 IterableDataset 封装与 rank/world-size 感知分发
+- Rust 实现的逐样本 IO 与图像解码在 GIL 之外运行
+- 输出 PIL 图像或共享 Rust 存储的只读 NumPy 视图
+- 支持本地文件、HTTP、WebDataset、dataroom 数据源
+- 支持分布式 rank/world-size 加载、有界缓冲与显式取消
 
 ## 适用场景
 
-- 训练图像生成/编码模型时高速加载并预处理大批量图像
-- 把 webdataset 或本地文件流转为 Python 原生图像对象供训练消费
-- 单进程内用满多核做裁剪/resize 等预处理流水线
+- 为图像生成/检测等 ML 训练管线高速供给样本
+- 以 torch IterableDataset 接入 PyTorch 训练循环
+- 多 rank 分布式读取大规模本地或 WebDataset 图像数据
 
 ## 场景标签
 
-`MLOps` · 领域:训练与推理
+ · 领域:机器学习基础设施/数据加载
 
 ## 证据(README 行号)
 
 > L6: A Rust-written data loader which can be used as a python module. Handles several data sources, from local files to w
-> L15: Samples are exposed in the Python scope as python native objects, using PIL and Numpy base types. Speed will be net
-> L106: ## Process images on the fly
+> L23: You can simply install datago with `[uv] pip install datago`
+> L26: Please note that in all the of the following cases, you can directly get an IterableDataset (torch compatible) with
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ab2108a29eb5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `1e9c60c2c4fb` · [字段定义](../../DATASET.md)*

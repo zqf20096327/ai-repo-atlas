@@ -2,9 +2,9 @@
 
 ⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Porabuild/Poracode) · [官网](https://poracode.com) · 组织维护
 
-**单一窗口并行运行多种 AI 编程 agent 的桌面客户端**
+**把多个 AI 编码 agent 汇聚到同一窗口的桌面客户端**
 
-桌面应用，将 Claude、Codex、Gemini、Cursor、Copilot 等多种 AI 编程 agent 集中在同一窗口并行运行，支持 TUI 与 GUI agent 混排的任意布局。提供统一聊天界面（ACP 与 SDK agent）、内置 MCP 服务器让 agent 操控应用本身、跨 agent 委派、并行 worktree 实验对比、定时任务、Git worktree/PR 管理、检查点回滚、内置浏览器与 Monaco 编辑器，以及 SSH 远程机器运行和独立服务器部署。用户自带订阅与 API key。提供 macOS/Windows/Linux 安装包。
+桌面应用与 CLI，将 Claude Code、Codex、Gemini CLI 等多个 AI 编码 agent 并排运行在一个窗口内，支持 TUI/GUI 混合布局、会话持久化、后台并行任务。内置 MCP 服务器让 agent 操控应用本身（Git worktree、PR、调度），支持跨 agent 委派（Crossagents）、多 agent 同题对比并由 AI 评审择优、本地 Whisper 语音输入。采用 ACP（Agent Client Protocol）协议接入注册表中的任意 agent；需用户自备各 agent 的订阅与 API key。
 
 ## 筛选速览
 
@@ -13,32 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 单窗口并行运行 14 种 AI 编程 agent 及 ACP registry 中任意 agent
-- 内置 MCP 服务器：创建/操控线程、管理 Git worktree、提交同步、开 PR、定时运行
-- 跨 agent 委派与并行 worktree 实验（AI judge 对比结果）
-- 本地 Whisper 语音输入、SSH 远程机器运行、独立服务器（无 Electron）部署
+- 支持 15 个 AI 编码 agent 并排运行，另可从 ACP 注册表安装任意 agent
+- 内置 MCP 服务器，agent 可创建会话、管理 Git worktree、开 PR、调度任务
+- 多 agent 并行实验：同一 prompt 对比产出，AI 评审择优合并
+- Whisper 本地语音输入、会话检查点回滚、远程访问与 SSH 远程机器
 
 ## 适用场景
 
-- 同时使用多个 AI 编程 agent 时统一管理会话与布局
-- 让不同 agent 在各自 worktree 中并行处理同一任务并对比结果
-- 通过手机/浏览器远程查看和操控桌面端 agent 线程
+- 同时使用多个编码 agent，想在一个窗口统一管理会话
+- 让不同 provider 的 agent 相互委派或并行对比产出
+- 定时运行夜间代码审查、依赖巡检等重复任务
+- 通过手机或浏览器远程跟进桌面上的 agent 会话
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`多智能体` `编码 Agent` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L6:  Run Claude, Codex, OpenCode, Gemini, Grok, Kimi Code, Qwen Code, Pi, Qoder, Factory Droid, Antigravity, Cursor, Com
-> L36: Poracode ships its own MCP servers. Point any agent at them to create and steer threads, organize projects, list an
+> L5:  One window for all your AI coding agents.
+> L28: A consistent chat interface for ACP and SDK agents — markdown, syntax highlighting, and tool call displays. Where a
+> L116: Install and run any agent from the Agent Client Protocol registry directly from settings.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `4cc3b6cacfd0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `dc54e5c66845` · [字段定义](../../DATASET.md)*

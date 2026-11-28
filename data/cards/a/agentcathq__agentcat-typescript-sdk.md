@@ -2,9 +2,9 @@
 
 ⭐ 128 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/agentcathq/agentcat-typescript-sdk) · [官网](https://agentcat.com) · 组织维护
 
-**MCP 服务器分析平台 SDK：追踪 agent 会话与遥测**
+**MCP 服务器所有者的行为分析 SDK：记录 agent 会话与意图**
 
-面向 MCP 服务器开发者的 TypeScript SDK，作为轻量中间件嵌入服务器：调用 track() 修改工具 schema，注入 session_id、context、get_more_tools 等参数，把相关工具调用按任务分组并捕获 agent 意图数据，发送至 AgentCat 仪表盘做会话回放与调试。同时支持将日志、追踪与错误转发到 OpenTelemetry、Datadog、Sentry、PostHog 等平台。提供数据脱敏钩子、identify 用户识别（不增加工具调用延迟）、匿名诊断信号（可关闭）。开源 MCP 项目可免费使用全部分析平台。需注册账号获取项目 ID。
+以 TypeScript SDK 形式嵌入 MCP 服务器的分析中间件：调用 track() 后向工具 schema 注入 session_id、agent_id、context 等参数，将相关工具调用归组为任务并采集 agent 意图；提供会话回放、跨部署调试与未找到功能的检测。同时可将日志、追踪、错误遥测转发至 OpenTelemetry collector 或 Datadog、Sentry、PostHog。内置敏感键掩码与自定义脱敏钩子，诊断信号可经环境变量关闭。需在 agentcat.com 注册获取 project ID。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 注入 session_id/context/get_more_tools 等参数实现 agent 意图捕获与工具调用分组
-- 会话回放与跨部署的 trace 调试
-- 遥测转发至 OpenTelemetry/Datadog/Sentry/PostHog，可仅转发遥测（projectId 为 null）
-- redactSensitiveInformation 与 redactEvent 数据脱敏钩子，数据静态加密
+- 通过注入 session_id/agent_id/context 采集 agent 会话与意图数据
+- 遥测数据转发至 OpenTelemetry、Datadog、Sentry、PostHog
+- 内置敏感键掩码及 redactSensitiveInformation/redactEvent 自定义脱敏钩子
+- 开源 MCP 服务器可申请免费使用分析平台
 
 ## 适用场景
 
-- 查看用户与其 agent 如何使用我的 MCP 服务器、卡在了哪里
-- 发现 agent 在找但服务器缺失的功能
-- 为现有 MCP 服务器接入日志与追踪而无需自行实现遥测
+- 了解用户 agent 在 MCP 服务器上的使用路径与卡点
+- 排查 LLM 被工具 API 混淆导致的调用失败
+- 从真实使用中发现缺失的工具与功能
+- 为既有可观测性平台补齐 MCP 服务器的日志与追踪
 
 ## 场景标签
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `f6e62c3d03ee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c43e58e792bf` · [字段定义](../../DATASET.md)*

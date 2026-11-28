@@ -2,9 +2,9 @@
 
 ⭐ 126 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/EvannZhongg/Nosis) · 个人维护 · 中文 README
 
-**个人本地 AI agent 应用：沙箱执行、桌面操作与长期记忆**
+**本地优先的个人 agent 运行时：TUI/GUI/飞书三端接入**
 
-开源轻量级个人 agent 应用，提供 TUI 与 GUI 两种前端，共享同一运行时。核心机制：三级权限预设（询问批准/工作区访问/完全访问）配合工作区沙箱控制本地执行；computer_screenshot/computer_action 实现桌面观察与操作；web_fetch/web_search 支持多检索后端；会话以 JSONL 日志持久化，支持长期记忆、计划、子 agent 与定时任务。模型接入通过 OpenAI 兼容端点与 LiteLLM，可按角色独立路由。需 Python>=3.11、Node.js>=22，从源码安装，Windows 下 shell 工具需另装 PowerShell 7。
+开源轻量个人 agent 应用，提供本地工作区操作、人工审批、会话持久化、上下文压缩、长期记忆、计划、子代理、定时任务及 Skill/Plugin/MCP 扩展。架构分 agent_core 与 agent_runtime 两层，前端经 Bridge 进程以换行分隔 JSON 协议驱动运行时，支持 TUI、浏览器 GUI 与飞书三种入口。会话有三种权限预设，shell 按 OS 沙箱执行，桌面操作每次按权限确认。要求 Python≥3.11、Node.js≥22、uv；源码安装需 Rust 工具链，Windows shell 工具需 PowerShell 7。
 
 ## 筛选速览
 
@@ -15,31 +15,32 @@
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 三级权限预设与工作区沙箱的本地执行控制
-- computer_use 桌面自动化（截图/点击/拖拽/输入）
-- TUI 与 GUI 共享同一运行时与会话，JSONL 日志可恢复
-- Skill / Plugin / MCP 扩展体系与角色级 provider 路由
+- 三种会话权限预设（Ask for approval / Workspace Access / Full Access）与 OS 沙箱 shell 执行
+- 桌面观察与操作工具 computer_screenshot / computer_action，覆盖截图、点击、拖拽、按键、输入
+- JSONL 追加日志的可恢复会话、全局与工作区长期记忆、一次性/间隔/cron 定时任务
+- 主代理、视觉、图像生成、辅助调用与各子代理角色可独立路由模型
 
 ## 适用场景
 
-- 在本地终端或图形界面运行可控的个人 AI 助手
-- 让 agent 在沙箱内执行 shell 与文件操作并需人工批准
-- 搭建带长期记忆与定时任务的自动化工作流
+- 在终端或桌面以对话方式操作本地工作区文件
+- 通过飞书远程与 agent 交互并审批其操作
+- 配置子代理、技能与 MCP 服务器扩展 agent 能力
+- 设置一次性/间隔/cron 定时任务自动执行
 
 ## 场景标签
 
-`AI 助手` `GUI 自动化` `Agent 记忆` · 领域:Agent 开发
+`AI 助手` `Agent 记忆` `GUI 自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: Nosis is an open-source, lightweight personal agent application. It provides local workspace operations, human appro
-> L20: - **Controlled local execution**: A session supports three permission presets — `Ask for approval`, `Workspace Acce
-> L21: - **Desktop automation**: The main agent can observe and operate the visible desktop through `computer_screenshot` 
+> L7: Nosis is an open-source, lightweight personal agent application. It provides local workspace operations, human appro
+> L22: - **Controlled local execution**: A session supports three permission presets — `Ask for approval`, `Workspace Acce
+> L28: - **Models and media**: OpenAI-compatible endpoints use the native OpenAI SDK; other routes and image generation us
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `3fec5e360548` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `0a90e91f65fe` · [字段定义](../../DATASET.md)*

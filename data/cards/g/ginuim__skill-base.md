@@ -2,9 +2,9 @@
 
 ⭐ 123 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/ginuim/skill-base) · [官网](https://skillbase.reaidea.com/) · 个人维护 · 中文 README
 
-**团队私有 Agent 技能分发平台：跨 Cursor/Claude Code 等发布安装技能**
+**面向 AI 编码 agent 的私有 Skill 分发平台：发布/安装/更新/回滚**
 
-面向已积累大量 AI 编码技能的团队，提供一个小型 Node.js 服务器加 skb CLI 与 Web UI，把技能变为可发布、版本化、可安装的团队资产：支持上传/GitHub 导入发布，skb install/update/delete 按 IDE 技能路径安装与本地跟踪，公开/私有权限区分。存储为 SQLite 加 ZIP 文件，单进程运行，无 Redis/MySQL 依赖。另有原生桌面客户端，技能可直接以 ZIP 下载。由兼职独立开发者维护，无 SLA 承诺。
+由小型服务端与 skb CLI 组成的团队 Skill 分发平台：支持 Web 上传、skb publish 与公开仓库 GitHub 导入发布，通过 skb install/update/delete 按 Cursor、Claude Code、Codex、OpenClaw 等 agent 的 Skill 路径安装与追踪；提供版本切换、changelog、集合、权限（public/private）与版本 diff 页面，并暴露远程 MCP 端点供 agent 搜索、读取、发布 Skill。服务端为单 Node 进程，存储采用 SQLite + ZIP 归档，无 Redis/MySQL 等外部依赖；由独立开发者业余维护，无 on-call SLA。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 跨 Cursor、Claude Code、Codex、OpenClaw 等统一发布/安装/更新/回滚技能
-- SQLite + ZIP 单目录存储，单 Node 进程部署
-- Web UI 提供搜索、版本切换、changelog、collection 与贡献者页面
-- 提供原生桌面客户端与免 Node.js 的 ZIP 直接下载
+- skb CLI 与 Web UI 双通道：发布、安装、更新、删除与版本回滚
+- 远程 MCP 端点：agent 可搜索、读文件、对比版本、发布 Skill（PAT 鉴权）
+- 单 Node 进程 + SQLite + ZIP 归档，备份即拷贝目录
+- 公开 Skill 可无需 Node.js/skb 直接 ZIP 下载
 
 ## 适用场景
 
-- 团队把散落的 Agent 技能统一为版本化资产
-- 新成员通过 skb 一键安装团队技能集合
-- PM/QA 无需 Git 权限即可浏览和下载技能
+- 把散落在聊天记录和本地文件里的团队 Skill 统一为版本化资产
+- 让 PM/QA 无需仓库权限即可获取安装最新 Skill
+- 跨 Cursor/Claude Code/Codex 等多 agent 统一管理 Skill 安装路径
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L9: > Private distribution for Agent Skills. Publish once; install, update, and roll back across Cursor, Claude Code, Co
 > L32: |**Install / update / delete**|`skb install` / `skb update` / `skb delete` with IDE Skill paths and local install t
-> L65: - **Skills are the unit** — not a generic file dump or agent orchestrator.
+> L74: - **SQLite + ZIP on disk** — `skills.db` indexes; each release is a versioned archive. Backup = copy one directory.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1274e0118bd7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e7a077c53c22` · [字段定义](../../DATASET.md)*

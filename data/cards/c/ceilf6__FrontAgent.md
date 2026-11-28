@@ -2,9 +2,9 @@
 
 ⭐ 125 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ceilf6/FrontAgent) · [官网](https://marketplace.visualstudio.com/items?itemName=ceilf6.frontagent) · 个人维护 · 中文 README
 
-**面向前端工程的 AI 编码 Agent 平台，SDD 约束下生成并验证 Web 代码**
+**面向前端工程的 AI 编码 Agent 平台（CLI/VS Code/桌面/MCP）**
 
-开源前端 AI 编码 Agent，以 CLI、VS Code 插件、Electron 桌面端和 stdio MCP 服务器四种形态运行。采用规划/执行两阶段架构：先按 SDD 规格生成结构化执行计划，再分阶段执行代码生成、浏览器感知验证、shell 与 git/gh 仓库流程，带自愈错误恢复与最小补丁修改。内置 BM25+嵌入的混合 RAG、模块依赖追踪与事实记忆以减少路径幻觉；规划器蒸馏为 Qwen Coder LoRA 适配器（Hugging Face 发布），可不调用大型 LLM API 生成执行计划。MCP 模式仅暴露 6 个上层工具，内部文件/shell/浏览器工具不直接外露，支持宿主 Sampling 或直接 LLM 回退。
+开源的前端 AI 编码 Agent，通过结构化执行计划生成与重构 React/TypeScript/Vite/Tailwind 代码，并以 SDD 约束、最小补丁、自愈错误恢复和质量门控限制 Agent 行为。提供三种使用形态：终端 CLI（fa init/fa run）、VS Code 插件侧边栏任务台、Electron 桌面应用；也可作为 stdio MCP Server 接入 Claude Desktop、Cursor 等 MCP 宿主。内置仓库级 RAG（BM25+向量）、Filesense 导航、facts memory、模块依赖追踪与多层幻觉拦截。Planner 阶段蒸馏为 Hugging Face 上的 Qwen Coder 适配器，可本地生成执行计划而无需调用大型 LLM API。运行需 Node.js >=20，通过 npm 全局安装。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 规划/执行两阶段架构，SDD 硬约束与阶段内错误恢复
-- BM25+嵌入混合 RAG、模块依赖追踪与事实记忆减少路径幻觉
-- 蒸馏 Qwen Coder 规划模型（Hugging Face），本地生成执行计划
-- CLI / VS Code 插件 / Electron 桌面端 / MCP 服务器四种运行形态
+- 两阶段架构：规划与执行分离，含阶段内错误恢复与自愈反馈环
+- 仓库级混合 RAG（BM25+语义检索）与模块依赖追踪减少路径幻觉
+- 可作 stdio MCP Server 供 Claude Desktop/Cursor/Codex 等宿主调用（6 个工具）
+- Planner 蒸馏为 Qwen Coder 适配器，支持本地低成本规划
 
 ## 适用场景
 
-- 在终端或 VS Code 中让 Agent 按规格生成、修改并验证 React/TS 前端代码
-- 作为本地 MCP 服务器接入 Claude Desktop、Cursor、Codex 等宿主复用前端 Agent 能力
-- 用蒸馏规划模型在本地低成本生成前端执行计划
+- 让 Agent 按结构化计划生成和重构 React/TypeScript 前端代码
+- 在 VS Code 或桌面端审批敏感操作并跟踪任务的阶段/步骤进度
+- 把前端 Agent 能力以 MCP 服务接入 Claude Desktop、Cursor 等宿主
+- 不调用大型 LLM API、用蒸馏模型在本地生成前端执行计划
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `RAG` `语义搜索` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L14: FrontAgent is an open-source AI coding agent for frontend engineering. It helps teams build, modify, validate, and 
-> L20: - Generate and refactor React, TypeScript, Vite, Tailwind CSS, and modern web UI code from structured execution pla
-> L25: - Use distilled Qwen Coder planner models from Hugging Face for local or lower-cost frontend execution planning.
+> L21: - Run as an AI agent CLI, VS Code AI extension, desktop agent app, or stdio MCP server for Claude Desktop, Cursor, 
+> L94: FrontAgent can run as a local stdio MCP Server for MCP hosts such as Claude Desktop, Cursor, Codex, and other clien
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `77b1b4c0b48a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `fb6d5b198cdf` · [字段定义](../../DATASET.md)*

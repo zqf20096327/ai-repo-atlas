@@ -2,9 +2,9 @@
 
 ⭐ 121 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/mrsladoje/sweet-search) · [官网](https://www.npmjs.com/package/sweet-search) · 个人维护
 
-**面向 AI 编程代理的本地代码搜索工具集（六工具+索引）**
+**为 Claude Code/Codex 等编码 agent 提供本地代码搜索的 CLI**
 
-为 Claude Code、Codex、opencode 等 AI 编程代理提供的本地代码搜索方案：以 npm 安装 CLI，一条命令建立 GPU 加速索引，索引随编辑增量自更新；提供 search、grep、find、semantic、trace、read 六个工具及 MCP 服务器（8 工具）。嵌入推理在设备端运行，支持 Metal/CUDA/CoreML。基准基于 200 个工程任务，声称降低代理运行成本与模型时间；不推荐 8 GB RAM 以下弱机型。原生 Windows 暂不支持，需 WSL2。
+sweet-search 是一组面向 AI 编码 agent 的本地代码搜索工具（npm CLI + 可选 MCP 服务器），提供 search、grep、find、semantic、trace、read 六个工具，以及 PageRank 排序的 repo-map。索引用 candle 与 cAST 分块构建，daemon 随工作树增量更新。init 会向 Claude Code、Codex、opencode 写入 agent 配置与系统提示词，也可生成 AGENTS.md/GEMINI.md/Cursor 规则。模型在本机运行，无 API key、无云服务；支持约 50 种编程语言及配置/构建/文档文件。要求 Node.js 22+，原生 Windows 暂不支持，需用 WSL2。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 六个面向代理的工具：search/grep/find/semantic/trace/read
-- 一次索引、增量自更新（含未提交修改）
-- 100% 本地运行，无 API key、无云依赖
-- Rust 引擎预编译发布，支持 Metal/CUDA/CoreML 推理
+- 六个搜索工具外加 8 工具 MCP 服务器（read-only、idempotent）
+- 一次索引后由 daemon 随编辑自动增量更新，含未提交改动
+- 100% 本地运行：无 API key、无云、无 Docker
+- init 按所选 agent（Claude Code/Codex/opencode 等）写入对应配置与提示词
 
 ## 适用场景
 
-- 让 Claude Code/Codex 等 AI 代理以更低成本检索代码库
-- 在本地为代理提供语义+正则混合搜索与 repo map
-- 通过 MCP 客户端接入代码检索能力
+- 让 Claude Code/Codex 会话用本地索引替代逐次 grep+Read 检索
+- 在 MCP 客户端中注册只读代码搜索工具集
+- 为子 agent 生成符合 token 预算的仓库符号概览
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L1: sweet-search — local code search for AI coding agents
 > L5: Six fast, purpose-built tools made for *Claude Code*, *Codex* & friends 👀
-> L136: - **MCP server:** 8 tools (`search`, `trace`, `read`, `read-semantic`, `index`, `health`, `repo-map`, `vocab-prewa
+> L100: - **Footprint** — models live in `~/.cache/sweet-search/models/` and run on-device only:
+> L194:  💻&nbsp;Platforms ✅ First-class: macOS (Apple Silicon, Intel) · Linux x64/arm64 (glibc) · Windows via WSL2 ☑️ Supp
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `897c6af376a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `418c27dd4301` · [字段定义](../../DATASET.md)*

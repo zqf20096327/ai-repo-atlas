@@ -2,9 +2,9 @@
 
 ⭐ 174 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Sarthzk/internship-tracker) · [官网](https://t.me/tech_internships) · 个人维护
 
-**自动追踪印度科技实习岗位的清单仓库，附 Telegram 提醒**
+**印度科技实习自动追踪清单：160+ 公司官网聚合+Telegram 通知**
 
-一个由 GitHub Actions 定时任务驱动的印度科技实习岗位聚合仓库：抓取 160+ 家公司官方招聘页（Google、Microsoft、Nvidia、高盛等），仅保留印度境内技术类实习，与上次结果对比后将新岗位写入 data/listings.json 并重新生成本页面。无服务器、无数据库，仓库本身即数据源。岗位按软件工程、Data & ML、量化、硬件、产品等分类展示，附公司类型标签与发布天数；近 90 天已关闭岗位归档于 README-archive.md，各公司追踪健康状态见 STATUS.md。通过 Telegram 频道推送新岗位，链接始终指向公司官方招聘页，声明为非官方社区项目、非完整列表。
+通过 GitHub Actions 定时抓取 160+ 公司（Google、Microsoft、Amazon、Nvidia 等）官方招聘页，筛选印度地区技术实习岗位，与上次结果对比后将新职位写入 data/listings.json 并重新生成 README；无服务器、无数据库，仓库本身即数据库。提供 Telegram 频道 t.me/tech_internships 推送提醒，90 天内关闭的职位归档于 README-archive.md，各公司监测健康状态记录在 STATUS.md。声明为非官方社区项目，提醒用户以公司官网为准。
 
 ## 筛选速览
 
@@ -20,23 +20,24 @@
 
 ## 能力要点
 
-- 定时抓取 160+ 公司官方招聘页，仅保留印度技术类实习
-- 无服务器无数据库，仓库即数据源（GitHub Actions 驱动）
+- GitHub Actions 定时抓取 160+ 公司官方招聘页并对比增量
+- 无服务器无数据库架构，data/listings.json 作为数据存储
 - Telegram 频道推送新岗位提醒
-- 90 天归档（README-archive.md）与各公司追踪健康状态（STATUS.md）
+- 按 Software Engineering/Data & ML/Hardware 等类别组织，附关闭职位归档与健康状态文件
 
 ## 适用场景
 
-- 印度学生集中查看多家大厂与初创的技术实习 openings
-- 通过 Telegram 订阅新实习岗位提醒
-- 查看近期已关闭岗位与各公司招聘页追踪状态
+- 印度学生找科技公司技术实习岗位
+- 订阅 Telegram 获取新实习岗位提醒
+- 查看特定公司（大厂/银行/初创）的实习开放情况
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`网页抓取` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L3: An automatically updated list of **tech internships in India** (and remote-India) from the career
 > L10: A GitHub Actions job checks each company's official career page on a schedule, keeps only
 > L12: New postings are saved to `data/listings.json` and this page is regenerated.
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 low · 依据 README sha `f317ed88edb1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `5e1485518cd4` · [字段定义](../../DATASET.md)*

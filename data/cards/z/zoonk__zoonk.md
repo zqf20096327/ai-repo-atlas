@@ -2,9 +2,9 @@
 
 ⭐ 159 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zoonk/zoonk) · [官网](https://zoonk.com) · 组织维护
 
-**输入学习目标，AI 生成每日学习计划的应用**
+**把学习目标变成每日学习计划的教育应用**
 
-用户用自己的话描述目标，应用据此生成到目标日期为止的每日学习计划，包含课程、练习与复习内容，生成过程经 AI Gateway 完成。代码为多应用 monorepo（main 与 api 两个 app），本地开发依赖 Node.js、pnpm 与本机 PostgreSQL；未配置的服务保持关闭，无需强制环境变量，但生成类功能需接入 Zoonk 的 Vercel 团队或自行设置 AI Gateway API key。提供本地开发、生产构建、测试、i18n 等完整脚本。
+Zoonk 是一个 Web 应用：用户用自己的话描述学习目标，应用按截止日期生成每日计划，包含课程（lessons）、练习（practice）与复习（reviews）。技术栈为 Next.js + Prisma + PostgreSQL，采用 pnpm monorepo 多应用结构，认证使用登录码（本地开发时验证码落入本地邮箱）。计划与课程的生成通过 Vercel AI Gateway，可用自己的 AI_GATEWAY_API_KEY 或 Vercel 团队接入；未配置的服务默认关闭，无需环境变量即可本地启动。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 自然语言输入目标，生成带课程、练习与复习的逐日计划
-- 计划与课程生成走 Vercel AI Gateway
-- 无需环境变量即可启动本地开发，未配置服务自动关闭
-- 内置 Vitest/Playwright 测试、i18n 翻译与 lint 脚本
+- 以自然语言输入目标生成带截止日期的每日学习计划
+- 生成类功能统一走 Vercel AI Gateway，支持自带 API key
+- pnpm monorepo 多应用结构，Portless 管理本地多 URL 与 LAN HTTPS 测试
+- 内置 Vitest、Playwright E2E、i18n lint 与 TypeScript 检查工作流
 
 ## 适用场景
 
-- 为备考或技能学习制定每日学习计划
-- 按目标日期安排课程、练习与复习节奏
-- 自托管部署一套个人学习计划应用
+- 给自己设定一个学习目标并获得每日课程、练习和复习安排
+- 在手机等设备上通过 LAN HTTPS 环境测试应用
+- 参与该项目贡献并运行完整的本地开发与测试流程
 
 ## 场景标签
 
@@ -37,6 +37,7 @@
 
 ## 证据(README 行号)
 
+> L1: Zoonk logo next to the text: Turn your goal into a daily learning plan.
 > L3:  Tell us your goal in your own words. Zoonk plans every day until your date, with lessons, practice and reviews shap
 > L25: No environment variable is required: the apps use local defaults, sign-in codes land in the local mailbox, and serv
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `be32f83b75ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `e757f643d449` · [字段定义](../../DATASET.md)*

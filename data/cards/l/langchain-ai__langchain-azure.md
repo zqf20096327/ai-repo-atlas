@@ -2,9 +2,9 @@
 
 ⭐ 148 · Jupyter Notebook · MIT · 推送 2026-11-27 · [GitHub](https://github.com/langchain-ai/langchain-azure) · 组织维护
 
-**为 LangChain/LangGraph 开发者提供 Azure 服务集成包集合**
+**给 LangChain/LangGraph 用户提供 Azure 服务集成包集合**
 
-该仓库包含 langchain-azure-ai、langchain-azure-cosmosdb、langchain-sqlserver 等 8 个包，将 Azure 服务接入 LangChain 与 LangGraph，并声明将逐步取代 langchain-community 中现有的 Azure 集成。核心包 langchain-azure-ai 基于 Microsoft Foundry SDK，提供 Foundry Models 推理、Agent Service、Content Safety、Azure AI Search 等能力；支持 OpenAI 兼容 API、Entra ID 或 API key 认证、LangGraph 持久化检查点与托管 Agent 部署。以 pip 包形式分发，面向在 Azure 上构建 LangChain 应用的开发者。
+langchain-ai 维护的 Azure 集成仓库，包含 langchain-azure-ai、cosmosdb、postgresql、storage、sqlserver 等 8 个包，用于在 LangChain/LangGraph 中接入 Microsoft Foundry 模型推理、Agent Service、Content Safety、Azure AI Search 及数据/存储服务。计划逐步替换 langchain-community 中的 Azure 集成。提供 LangGraph on Azure 托管与持久化方案（FoundryCheckpointSaver、Cosmos DB checkpointer），SDK 示例与 notebook 覆盖托管、记忆、存储场景。包通过 pip 安装。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 8 个包覆盖 Azure AI、数据库、存储、计算等集成
-- langchain-azure-ai 支持 OpenAI 兼容 API、Anthropic Messages API 与 Decision 模型
-- 支持 Entra ID（az login）与 API key 两种认证方式
-- 提供 Foundry CheckpointSaver / Cosmos DB 检查点与 LangGraph 托管部署样例
+- 8 个 Azure 集成包：AI、Compute、Cosmos DB、动态会话、SQL Server、PostgreSQL、Storage 等
+- Foundry Models 经 OpenAI 兼容 API 接入，支持 Responses API 与 Chat Completions 两种方式
+- Foundry Agent Service 节点可嵌入 LangGraph 图，支持持久化执行与故障隔离
+- 声明将替换 langchain-community 中全部 Azure 集成
 
 ## 适用场景
 
-- 在 LangChain/LangGraph 中调用 Microsoft Foundry 模型
-- 为 LangGraph Agent 添加持久化状态与长期记忆存储
-- 将 LangGraph 应用部署到 Microsoft Foundry 托管环境
+- 在 LangChain 应用中调用 Microsoft Foundry 上的模型推理
+- 为 LangGraph agent 配置 Azure 上的托管与持久化状态
+- 在 LangChain 中接入 Cosmos DB、SQL Server、PostgreSQL 等数据服务
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+ · 领域:LLM 基础设施/云服务集成
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c4dcd3924916` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `537cb52fee24` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # apphp/awesome-php-ml
 
-⭐ 117 · PHP · MIT · 推送 2026-11-12 · [GitHub](https://github.com/apphp/awesome-php-ml) · [官网](https://apphp.github.io/awesome-php-ml/) · 个人维护
+⭐ 117 · PHP · MIT · 推送 2026-11-12 · [GitHub](https://github.com/apphp/awesome-php-ml) · [官网](https://apphp.github.io/awesome-php-ml/) · 组织维护
 
-**PHP 生态机器学习/AI/NLP/LLM 库的策展清单**
+**PHP 开发者的机器学习与 AI 库策展清单**
 
-面向 PHP 开发者的 awesome 类策展清单，收录 PHP 的机器学习、深度学习、NLP、计算机视觉、数值计算、模型运行时与 LLM 客户端库，按类别组织并附使用指南、推荐技术栈与示例配方（如 Laravel RAG 应用的选型组合）。条目用 🌟/🧪/⚠️ 标注成熟度状态，并列出 PHP 版本要求、常见扩展依赖与内存建议。定位是选型导航，不提供代码本身，清单自身无需安装。
+面向 PHP 开发者的资源清单，收录机器学习、深度学习、NLP、计算机视觉、数值计算、ONNX 推理运行时及 LLM API 客户端等类别的 PHP 库与工具。按领域分类组织，标注 🌟/🧪/⚠️ 维护状态标记，提供按任务选库的使用指南、Quick Start 的 composer 安装命令与示例配方，并列出 PHP 版本与扩展要求。自身为清单项目，不包含可运行的模型或软件。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 ML/DL/NLP/CV/数值计算/LLM 客户端等类别组织 PHP 库条目
-- 提供新手快速开始、推荐核心栈与示例配方（RAG、Laravel 集成）
-- 🌟/🧪/⚠️ 标注条目成熟度与维护状态
-- 列明 PHP 版本要求与常见扩展依赖（mbstring/curl/json/gd）
+- 按 ML/深度学习/NLP/CV/数学/推理运行时/LLM API 等类别组织的策展清单
+- 提供按目标任务的选库指南与示例配方（RAG、翻译、视觉等）
+- Quick Start 给出 rubix/ml、php-ai/phpml 的 composer 安装命令
+- 条目带 🌟/🧪/⚠️ 状态标记
 
 ## 适用场景
 
-- 为 PHP 项目挑选机器学习或 LLM 相关库
-- 了解 PHP 生态 AI 库的覆盖范围与成熟度
-- 按配方组合搭建 Laravel RAG 或 LLM 应用
+- 为 PHP 项目寻找分类、回归等传统机器学习库
+- 在 Laravel/Symfony 应用中接入 LLM API 与 RAG 流程
+- 查找从 PHP 运行 ONNX/GGUF 模型的推理方案
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L10: The most comprehensive curated list of **Machine Learning, Artificial Intelligence, NLP, LLM and Data Science libra
 > L38: - Curated list of **PHP libraries and tools** for Machine Learning, AI, NLP, LLMs and Data Science.
-> L40: - Aimed at **PHP developers** who want to add intelligent features to existing apps or build new AI-powered systems
+> L39: - Focused on **code-first resources**: packages, SDKs, frameworks, and building blocks.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `fe435862c2bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `9797128ff84c` · [字段定义](../../DATASET.md)*

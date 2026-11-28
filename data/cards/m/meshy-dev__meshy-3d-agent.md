@@ -2,15 +2,15 @@
 
 ⭐ 129 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/meshy-dev/meshy-3d-agent) · 组织维护
 
-**驱动 Meshy CLI 的 agent 技能包：文生/图生 3D 与 3D 打印工作流**
+**为 AI agent 提供 Meshy 3D 资产生成与 3D 打印技能集**
 
-面向 Claude Code、Codex、Cursor、OpenClaw、Hermes Agent 等 agent 宿主的技能包（0.7.0），以指令与参考文档形式驱动 Meshy CLI 0.4.3（Node.js 22.12+），不捆绑运行时脚本。包含 meshy-3d-generation（文/图/2D/动效生成、纹理、重网格、格式转换、绑定动画）与 meshy-3d-printing（白色模型、多彩 3MF、分析修复、切片器集成）两个技能，另有 OpenClaw 合并版。认证经浏览器 OAuth 登录或 API key，生成需 Meshy 账户额度；本地打印准备无需账户。
+包含三个技能目录（3D 生成、3D 打印、OpenClaw 合并技能），以指令与参考文档形式驱动 Meshy CLI 0.8，覆盖文生/图生 3D、纹理、重拓扑、格式转换、UV、绑定动画及白模、多色 3MF、修复与切片器对接。要求 Node.js 22.12+ 与 Meshy Pro 及以上付费计划，生成消耗积分，经浏览器 OAuth 登录，无需 API key；本地打印准备（缩放、切片）不消耗积分。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 三个技能目录覆盖 3D 生成与 3D 打印两类工作流
-- 通过 Meshy CLI 0.4.3 运行，支持 npm exec 临时调用免全局安装
-- 浏览器 OAuth 登录，不在聊天中粘贴 API key
-- 写入边界限定在指定工作区，路径外（含符号链接）拒绝写入
+- 三个 SKILL.md 格式技能，仅含指令与参考文档，无捆绑运行时脚本
+- 浏览器 OAuth 登录，凭据由 OS 密钥环加密存储，技能不读取/打印令牌
+- 生成前输出积分估算并在批准预算内执行付费任务
+- 支持 Claude Code、Cursor（含插件）、Codex、OpenClaw、Hermes Agent 等宿主
 
 ## 适用场景
 
-- 让 Claude Code/Cursor 等 agent 把照片转成带纹理的 GLB 模型
-- 通过对话完成模型格式转换、减面 LOD、缩放到打印尺寸
-- 用 agent 做 3MF 多彩打印准备并启动切片器
+- 让 agent 把照片转成带纹理的 GLB/FBX 模型
+- 从图片或文字生成可用于 3D 打印的白模与多色 3MF
+- 在 Cursor 内预览生成的 3D 模型并继续迭代（LOD、缩放、格式转换）
 
 ## 场景标签
 
- · 领域:3D 生成/agent 工具链
+ · 领域:3D 内容生成/创意工具
 
 ## 证据(README 行号)
 
 > L3: Meshy skills for creating digital assets and preparing 3D prints. All three skills drive
-> L4: **Meshy CLI 0.4.3** (`meshy`) on **Node.js 22.12+**. They are instructions and references only —
-> L61: |Skill|Workflow|
+> L13: Paste this into Claude Code, Codex, Cursor, OpenClaw, Hermes Agent, Meta Muse or another agent:
+> L106: You need Node.js 22.12+ and the paid Meshy plan described at the top of this page. The skills
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `dc39284c8818` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `9d16598480d6` · [字段定义](../../DATASET.md)*

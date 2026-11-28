@@ -1,10 +1,10 @@
 # Roriz/active_genie
 
-⭐ 166 · Ruby · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Roriz/active_genie) · [官网](https://activegenie.ai/) · 组织维护
+⭐ 166 · Ruby · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Roriz/active_genie) · [官网](https://activegenie.ai/) · 个人维护
 
-**Ruby 开发者的 GenAI 功能工具库：比较、评分、排序**
+**Ruby 开发者的 GenAI 功能工具库：比较/评分/排序模块**
 
-ActiveGenie 是用于在 Ruby 中构建 GenAI 功能的工具包，模块与模型无关、可跨提供商使用。核心模块包括：Comparator（通过结构化辩论裁决主观比较）、Scorer（由领域专家陪审团给内容打分）、Ranker（以锦标赛机制对大数据集排序）、Lister（按主题生成列表）。每个模块使用专门提示词，并借助辩论、陪审等人类推理技术塑造模型思考；每次版本与模型更新都会做一致性基准测试。所有模块返回统一的 Result 对象，含 data、reasoning 与 metadata。
+面向 Ruby 的 GenAI 功能构建工具包，含三个模块：Comparator 通过结构化辩论裁定主观比较、Scorer 以领域专家陪审团方式给内容打分、Ranker 用锦标赛机制对大数据集排序。模型无关，支持多家供应商 API。结果一致性通过版本与模型的基准测试、推理式提示、专用提示实现；每个模块返回含 data/reasoning/metadata 的 Result。需 Ruby >= 3.4.0 与供应商 API key。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ ActiveGenie 是用于在 Ruby 中构建 GenAI 功能的工具包，模块与模�
 
 ## 能力要点
 
-- Comparator/Scorer/Ranker/Lister 四个模型无关模块
-- 辩论与陪审等推理提示机制，配一致性基准测试
-- 统一返回含 data、reasoning、metadata 的 Result
-- 以 Ruby gem 分发，支持 Rails 集成配置
+- Comparator/Scorer/Ranker 三个模块分别处理比较、评分、排序
+- 模型无关设计，可跨供应商使用
+- 内置一致性基准测试与 golden-set 评测流程
+- 统一返回含 data、reasoning、metadata 的 Result 对象
 
 ## 适用场景
 
-- 在 Ruby/Rails 项目中接入 LLM 完成内容评分
-- 对两条输入做主观比较并得到裁决结果
-- 用锦标赛机制对大规模数据集排序
+- 在 Ruby/Rails 应用中加入内容评分功能
+- 对候选列表按标准做 LLM 排序
+- 用 golden-set eval 验证自己 LLM 功能的回归表现
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发工具
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L7: **ActiveGenie** is a toolkit for building GenAI features in Ruby. Its modules are model-agnostic and work across pro
-> L18: - An API key for OpenAI, Anthropic, DeepSeek, or Google
+> L6: **ActiveGenie** is a toolkit for building GenAI features in Ruby. Its modules are model-agnostic and work across pro
+> L17: - An API key for OpenAI, Anthropic, DeepSeek, or Google
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a79724b58dcc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c1a01621c52d` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 286 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/taxueseek/argo) · 组织维护 · 中文 README
 
-**为 AI agent 提供跨 300+ 源、18 语言的元搜索与证据核验**
+**为 AI agent 提供多引擎搜索与证据核验的元搜索引擎**
 
-Argo 是运行在 AI agent 内部的开源元搜索、网页抓取与证据核验引擎。按查询的领域与语言路由到数百个来源（web、学术、财经、代码、本地文件、AI 搜索引擎），无 API key 时回退到免 key 与本地引擎；对候选结果按 Selection（域名权威、多引擎共识 RRF、时效、SERP 壳拒绝）与 Absorption（抓取全文后的可读密度、数值交叉核验）双轴打分。提供 fast/auto/deep/budget 四种预算模式，19 个 MCP 工具、CLI 与 DSH 插件三种接入方式，内置浏览器 Workbench UI。需 Python 3.9+ 与 Node.js 18+。
+开源元搜索、网页抓取与证据核验引擎，嵌入 AI agent 使用：按领域（学术/金融/代码/新闻/本地文件）与 18 种语言路由查询至数百个来源，无 API key 时回退到免 key 与本地引擎，并基于全文抓取对事实打分核验（--verify/--numverify）而非仅信任搜索摘要。提供 19 个 MCP 工具、CLI、DeepSeek Harness 插件与浏览器 Workbench UI；需要 Python 3.9+ 与 Node.js 18+，可选多个 API key 提升质量。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Argo 是运行在 AI agent 内部的开源元搜索、网页抓取与证据核�
 
 ## 能力要点
 
-- 免 key 回退引擎与可选 key 提质，四种预算模式（fast/auto/deep/budget）
-- 证据双轴评分：多引擎 RRF 共识 + 全文抓取核验与数值交叉检查（--verify/--numverify）
-- 按领域与语言路由：学术/财经/代码/AI 搜索引擎等，深度研究输出结构化 dossier
-- 19 个 MCP 工具 + CLI + DSH 插件，3 个独立 Skill（argo/argo-wide-research/local-seek）
+- 数百来源、18 语言查询路由与 RRF 多引擎融合
+- 免 key/本地引擎回退，API key 可选
+- --verify 全文抓取与 --numverify 数值交叉核验
+- 19 个 MCP 工具、CLI 与 DSH 插件三种接入方式
 
 ## 适用场景
 
-- 给 Claude Code/Cursor 等客户端接入 MCP 搜索工具
-- 生成带引用台账与质量门控的深度研究报告
-- 本地 markdown 与代码笔记的混合检索
-- 无人值守的定时批量搜索任务（配额封顶）
+- 让 Claude Code、Cursor 等 agent 通过 MCP 获得多源搜索与证据核验
+- 生成带引用台账的深度研究档案（dossier）
+- 本地 markdown/代码笔记的 BM25F+FTS5 混合检索
+- 无人值守定时批量检索并控制调用配额
 
 ## 场景标签
 
@@ -39,8 +39,7 @@ Argo 是运行在 AI agent 内部的开源元搜索、网页抓取与证据核�
 ## 证据(README 行号)
 
 > L30: **Argo** is an open-source metasearch, web-fetch, and evidence-verification engine that lives inside your AI agent.
-> L132: ### 19 MCP Tools
-> L138: Argo ships a first-class **DeepSeek Harness (DSH)** plugin (`@taxueseek/argo-dsh`) with three invocation channels 
+> L38:   claude mcp add argo -- npx -y argo-search
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `4b8b88ae09e5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `7639dbfd0f35` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 168 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ycl-2004/Wisp) · 个人维护 · 中文 README
 
-**macOS 菜单栏 AI 助手：按需读取屏幕与浏览器上下文回答问题**
+**读取屏幕与浏览器上下文的 macOS 菜单栏 AI 问答助手**
 
-常驻菜单栏的原生 macOS 应用，按快捷键唤起面板前先记录前台应用，可截取当前窗口或全屏，并从支持的浏览器读取 URL、标题、选中文本与页面正文，免去跨应用复制上下文。模型连接由用户自选：OpenAI 兼容端点、本地 Ollama 或 Agent CLI（Codex、Antigravity、Claude Code）。附带实时字幕（Apple 本地识别或 Soniox）、Quick Ask/Ask About Screen、屏幕共享隐藏等功能。分发为 Universal 2 zip 包，未公证，需手动放行；要求 macOS 26.0+。
+常驻 macOS 菜单栏的本地优先桌面应用：按快捷键捕获前台应用窗口或整屏截图，在支持的浏览器中读取 URL、标题、选中文本与页面正文，将其作为上下文发给用户配置的模型端点并流式返回回答。另提供会议实时字幕（仅收听系统音频）、字幕快捷提问、hold-to-ask 语音提问，以及屏幕共享时隐藏自身的虚拟显示器方案。提供英文与简体中文界面，Universal 2 构建，MIT 许可，发布版未经 Apple 公证。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 按需截屏并读取 9 种浏览器页面的 URL、标题、选中文本与正文
-- 三种模型接入：OpenAI 兼容端点（SSE 流式）、本地 Ollama、Agent CLI
-- 会议实时字幕只听系统音频，支持 Quick Ask 与 Ask About Screen
-- 本地优先：对话与页面快照存于本机，界面支持英文与简体中文
+- 捕获前台窗口/整屏截图与浏览器页面文本作为问答上下文
+- 三种模型接入：OpenAI 兼容端点、Ollama 本地服务、Agent CLI（Codex/Antigravity/Claude Code）
+- 会议实时字幕配合 Quick Ask / Ask About Screen 快捷键提问
+- 屏幕共享隐藏（虚拟显示器与 sharingType 两种机制，并声明 OS 级局限）
 
 ## 适用场景
 
-- 写代码或看文档时直接就当前窗口内容向模型提问
-- 会议中开启字幕，对方提问时按键结合屏幕内容快速得到可口头回答的答案
-- 不愿把对话记录交给云服务时用本地 Ollama 运行
+- 阅读网页或写代码时直接就当前屏幕内容提问，不用手动复制上下文
+- 开会议时看实时字幕并就对方刚说的话快速提问
+- 本地运行 Ollama 模型，避免页面内容发送到云端
+- 共享屏幕开会时隐藏助手面板窗口
 
 ## 场景标签
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0c968ffd4ad8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `965a35aa52f6` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 167 · C++ · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/objeck/objeck-lang) · [官网](https://objeck.org) · 个人维护
 
-**带 JIT VM 与内置 AI/LLM 库的面向对象编程语言**
+**带内置 Agent/MCP 与本地模型支持的面向对象编程语言及 JIT 运行时**
 
-Objeck 是面向对象与函数式编程语言，配 JIT 编译虚拟机，支持 ARM64/AMD64 与 Linux/macOS/Windows。标准库内置 HTTP/1.1–3、WebSocket、SQL 查询、正则、集合等模块，并自带 OpenAI、Anthropic、Gemini、Ollama 客户端及 ONNX、OpenCV、ML、NLP 库，无需第三方包。v2026.11.4 提供 provider-neutral 的 Agent 工具调用循环、MCP 服务器/客户端（函数注解 @tool 即声明工具）、RAG 组件、Actor 与遥测。提供 REPL、LSP、DAP 调试器与浏览器 Playground。旧发行版需 glibc 2.38+ 或容器运行。
+Objeck 是一门面向对象与函数式编程语言，配套 JIT 编译的虚拟机（AMD64/ARM64）。v2026.11.4 引入 AI agent 工具链：函数经 `@tool` 文档注释声明即成为 MCP 工具，`obr --mcp` 以 stdio 或 HTTP 提供 MCP 服务器，`API.Agent` 提供 provider 无关的工具调用循环（取消、预算、AgentScope 限界），并通过 OllamaBackend 运行本地模型。标准库含 ML（梯度提升、时序）、NLP、计算机视觉（OpenCV）与 ONNX GPU 推理。各平台提供 .deb/.msi/.pkg/.tgz 安装包，另有浏览器 Playground。
 
 ## 筛选速览
 
@@ -16,31 +16,31 @@ Objeck 是面向对象与函数式编程语言，配 JIT 编译虚拟机，支�
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 内置 OpenAI/Anthropic/Gemini/Ollama 客户端与 ONNX、OpenCV、ML/NLP 库，无第三方包
-- 函数文档注释 @tool/@resource 即声明 MCP 工具，obr --mcp 提供 stdio/HTTP 服务
-- API.Agent 提供 provider-neutral 工具调用循环，支持预算、取消与追踪；OllamaBackend 支持本地模型
-- 提供 42 个演示的在线 Playground、REPL、VSCode/Sublime/Kate 的 LSP 插件与 DAP 调试器
+- `@tool`/`@resource`/`@prompt` 注释声明即编译为 MCP 工具与 JSON Schema
+- provider 无关的 agent 循环，支持 Ollama 本地模型（无需 API key）
+- 内置 ML/NLP/计算机视觉/ONNX GPU 推理库，无需第三方包
+- REPL、LSP（VSCode/Sublime/Kate）、DAP 调试器与在线 Playground
 
 ## 适用场景
 
-- 用 Objeck 编写接入多家 LLM 的 Agent 与 MCP 工具服务
-- AI/ML 原型与计算机视觉应用的快速开发
-- 构建 Web 服务与实时应用
-- 在本地 Ollama 模型上离线运行 Agent（数据不出机器）
+- 用注释声明将函数发布为 MCP 服务器供 Claude Code/Claude Desktop 调用
+- 在本地 Ollama 模型上运行带预算与取消机制的 agent 循环
+- AI/ML 原型、计算机视觉与 Web 服务的快速开发
+- 跨平台（x64/ARM64，含树莓派）部署小型编译型应用
 
 ## 场景标签
 
-`RAG` `Agent 框架` · 领域:Agent 开发
+ · 领域:编程语言/开发工具
 
 ## 证据(README 行号)
 
-> L21: - 🚀 **JIT-compiled** for performance (ARM64/AMD64)
-> L22: - 🤖 **AI-native**: OpenAI, Anthropic, Gemini, Ollama, ONNX, OpenCV — no third-party packages
-> L26: - 🔧 **Full-featured**: Threads, generics, closures, reflection, serialization
+> L21: A function is a tool, a program is an MCP server, and an agent is a loop with limits. A doc comment with `@tool` is
+> L44: - 🏠 **Local or hosted models**: Ollama (no key), Anthropic, OpenAI, Gemini, ONNX, OpenCV — no third-party packages
+> L242:  * **A toolkit for AI agents** &mdash; `API.Agent` is a provider-neutral tool-use loop for Claude, OpenAI, Gemini 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `01c37485d059` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `a9f2a1a3396f` · [字段定义](../../DATASET.md)*

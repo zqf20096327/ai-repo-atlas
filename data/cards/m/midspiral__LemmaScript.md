@@ -2,9 +2,9 @@
 
 ⭐ 206 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/midspiral/LemmaScript) · [官网](https://lemmascript.org) · 个人维护
 
-**为 TypeScript 程序生成 Dafny/Lean 可验证代码的验证工具链**
+**为 TypeScript 代码加规格注解并生成可验证的 Dafny/Lean 证明**
 
-面向 TypeScript 开发者的程序验证工具链：开发者在普通 TypeScript 代码中以 `//@ ` 注解书写前置/后置条件、不变式等规约，工具链据此生成 Dafny 或 Lean 4（Velvet 2）形式的可验证代码，并经 `lsc gen/check` 生成与核验。Dafny 后端采用 .dfy.gen（可再生）与 .dfy（含人工/LLM 补充证明）双文件结构，要求差异仅为新增。附带 claimcheck 自然语言契约核对、guard 运行时前置条件检查，以及可复用的 GitHub Actions CI 工作流。npm 提供 Tech Preview 安装包。
+面向 TypeScript 开发者的验证工具链：在普通 TypeScript 代码中以 `//@ ` 注解书写前置/后置条件、不变式等规格，由 lsc 命令生成 Dafny 或 Lean 4（Velvet 2）后端的可验证代码，支持 gen/check/regen 流程。Dafny 后端采用双文件机制，生成文件与含 LLM/人工证明补充的源文件需保持仅增量差异；另提供运行时前置条件检查（guard）与自然语言契约核对（claimcheck）子命令。当前为 Tech Preview，语义与支持仍在演进，依赖 Node.js >= 18 及对应后端工具链。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- TypeScript 注解（requires/ensures/invariant/decreases）生成 Dafny 或 Lean 4 可验证代码
-- lsc check 可按 LemmaScript-files.txt 批量核验，本地与 CI 验证同一文件集
-- 提供可复用 GitHub Actions 工作流，检测生成文件过期并阻断构建
-- claimcheck 核对自然语言契约、guard 生成运行时前置条件检查模块
+- TypeScript `//@ ` 规格注解生成 Dafny 或 Lean 4 可验证代码
+- 双后端支持，GitHub Actions 可复用工作流验证 CI 产物
+- guard 子命令生成运行时前置条件检查模块
+- 生成文件与证明文件仅增量差异的 diff 约束机制
 
 ## 适用场景
 
-- 为 TypeScript 库或应用补充形式化规约并做验证
-- 在 CI 中自动验证提交的生成证明未过期
-- 用 guard 在应用边界做运行时前置条件检查
+- 为关键 TypeScript 业务逻辑添加形式化验证
+- 在 CI 中批量验证带规格注解的源码清单
+- 对自然语言契约与形式化规格做一致性核对
 
 ## 场景标签
 
-`代码生成` `代码审查` · 领域:编码与开发
+ · 领域:开发者工具/程序验证
 
 ## 证据(README 行号)
 
 > L3: A verification toolchain for TypeScript. Write ordinary TypeScript with `//@ ` specification annotations. The toolch
-> L9: This is a **Tech Preview**: the core idea is there, but support, semantics, and ergonomics are still evolving.
 > L64: The Dafny backend generates two files per TS source: `foo.dfy.gen` (always regeneratable) and `foo.dfy` (source of 
+> L9: This is a **Tech Preview**: the core idea is there, but support, semantics, and ergonomics are still evolving.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `0ad57f070ade` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `686db5a97f26` · [字段定义](../../DATASET.md)*

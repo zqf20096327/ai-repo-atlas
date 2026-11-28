@@ -2,9 +2,9 @@
 
 ⭐ 138 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/delexw/motion-graphics-agent) · 个人维护 · 中文 README
 
-**把创意变成动态图形短片的本地 AI 视频生成代理**
+**桌面式 AI 工作室：把创意变成动态图形与动画短片**
 
-Kiteva 是一个本地优先的 AI 动态图形代理：用户输入创意，由 Claude Opus 5.5 或 GPT-6.1 Sol 作为主模型规划并生成短篇动态图形影片，含本地 TTS 旁白（Ming 3.0 / Kokoro）、代码生成的配乐与音效、字幕与多语言轨道。提供网页界面（端口 18419/后端 18417），并通过 /mcp 端点向外部 agent 开放搜索创意、保存草稿、导入资产与启动构建等工具。支持版本迭代、修正重试、渲染缓存恢复与人工登录接力等机制。
+Kiteva 是一个桌面式「创意房间」，用户在窗口界面中从一个想法出发，经由 brief 生成、Motion Graphic 组合提议、评分筛选、静音预览、完整影片渲染与审查修复的流程，产出 1080p/1440p 的 MP4 影片（最长 5 分钟），支持字幕与本地旁白（Kokoro/Pocket TTS）。模型调用通过外部 agent 或内置 provider（Claude、GPT-6.2 Astra、DeepSeek、Gemini beta），按项目选择；也提供 MCP server 供外部 agent 调用。内置 140 个 Motion Graphics 目录与 92 条技术池推荐。非设计者也可上手，按 MIT 许可开源。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Kiteva 是一个本地优先的 AI 动态图形代理：用户输入创意，由
 
 ## 能力要点
 
-- Claude Opus 5.5 / GPT-6.1 Sol 作为主模型生成动态图形影片
-- HTTP MCP 服务器供外部 agent 调用（搜索/草稿/资产导入/启动构建）
-- 本地 TTS 旁白（Ming 3.0 0.5B、Kokoro）与多语言 narration/字幕轨道
-- Production Desk 检视器：回放、波形、分轨音频与故事板元数据
+- 140 个 Motion Graphics 目录组合提议，JEV 评估器打分筛选
+- 完整影片渲染后经 ffprobe 探测、解码与布局/对比度检查并修复
+- MCP server 支持外部 agent 搜索、存草稿并显式启动构建
+- 渲染结果可导出含 OpenTimelineIO 时间线与 SRT 字幕的可编辑项目 ZIP
 
 ## 适用场景
 
-- 用一句话创意生成带旁白和配乐的动画短片
-- 通过外部 agent（MCP）编排创意与构建流程
-- 多语言版本输出与字幕/音频分轨下载
+- 把一个文字创意快速变成带旁白字幕的短视频
+- 为内部演示或科普内容生成动态图形短片
+- 通过 MCP 让自己的 agent 调用影片构建能力
+- 浏览 136 个 Motion Graphics 示例寻找视觉方向
 
 ## 场景标签
 
-`视频生成` `编码 Agent` · 领域:编码与开发
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L13:  A personal creative room where an idea turns into a short motion-graphics film.
-> L14:  Create with Claude Opus 5.5 or GPT-6.1 Sol.
-> L39: - **HTTP MCP for external agents:** search saved ideas and Motion Graphics, inspect available settings, save an Ass
+> L112: - **Motion Graphic combinations.** The main model reads summaries of all 140 Motion Graphics and
+> L116: - **The full film** continues the preview session you picked, at 1080p or 1440p, 30 or 60 fps, up to
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-02 · 置信度 mid · 依据 README sha `cf08cd6cb75c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `9796d0666f04` · [字段定义](../../DATASET.md)*

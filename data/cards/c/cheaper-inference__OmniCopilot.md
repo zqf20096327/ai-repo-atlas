@@ -2,9 +2,9 @@
 
 ⭐ 209 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/cheaper-inference/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
 
-**把 OmniRoute 的 1200+ 模型接入 VS Code Copilot Chat 的扩展**
+**把数百个 AI 模型接入现有 Copilot Chat 模型选择器的 VS Code 扩展**
 
-VS Code 扩展，通过 VS Code 原生语言模型 provider API，把 OmniRoute 服务器提供的 340+ provider、1200+ 模型注入 Copilot Chat 的模型选择器。支持 agent mode、工具调用、MCP、视觉附件、推理过程流式展示与组合自动回退。API key 存于系统钥匙串，UI 支持 42 种语言。需先运行 OmniRoute 服务器（npm 全局安装），VS Code 1.122 起无需 Copilot 订阅即可使用。
+VS Code 扩展，通过 VS Code 原生语言模型 provider API，把 OmniRoute 路由服务器聚合的数百个模型（OpenAI-compatible、Anthropic、Gemini、Ollama、本地等）注入用户已有的 Copilot Chat 模型下拉框，无需 Copilot 订阅。保留 agent mode、工具调用、MCP、视觉附件与推理流式输出；支持组合模型与自动 failover、状态栏连接指示、42 种语言 UI、API key 存入 OS keychain。需先以 npm 全局安装并运行 omniroute 服务器（默认 localhost:20128）。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ VS Code 扩展，通过 VS Code 原生语言模型 provider API，把 OmniRoute 
 
 ## 能力要点
 
-- 接入 VS Code 原生语言模型 API，模型直接出现在 Copilot Chat 选择器
-- 支持 agent mode、tool calling、MCP、视觉附件与推理流式输出
-- OmniRoute combos 提供跨 provider 自动 failover
-- 一条命令为 Codex CLI、Claude Code、Cline 等工具生成 OmniRoute 配置
+- 接入 VS Code 原生语言模型 API，Copilot Chat 原有功能（agent mode、工具调用、MCP）保持可用
+- 组合模型（priority、round-robin、cost-optimized、fusion）作为普通模型出现并自动跨提供商 failover
+- API key 存于 OS keychain，workspace 值被忽略以防仓库劫持服务器地址
+- 一条命令为 Codex CLI、Claude Code、Cline、Continue、Cursor、Aider 等生成 OmniRoute 配置
 
 ## 适用场景
 
-- 无 Copilot 订阅时在 VS Code 中使用自有模型做 AI 对话
-- 在 Copilot Chat 中按价格与上下文窗口挑选 1200+ 模型
-- 团队按 workspace 管理 OmniRoute API key 并按项目分组用量
+- 无 Copilot 订阅时在 VS Code 中获得带 agent mode 的 AI 聊天
+- 在 Copilot Chat 中自由切换 OmniRoute 聚合的模型与组合
+- 为团队多个项目分别配置工作区级 API key
 
 ## 场景标签
 
-`模型网关` `AI 助手` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L17: **Don't replace Copilot — power it up.** No new sidebar to learn, no new chat UI. This extension drops every model 
+> L23: - **Every model, one picker.** OmniRoute unifies hundreds of providers (OpenAI-compatible, Anthropic, Gemini, Ollam
 > L24: - **Agent mode, tool calling, MCP, instructions — all of it still works.** This plugs into VS Code's native languag
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7d9ee59c8142` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ce6a12ad7a7d` · [字段定义](../../DATASET.md)*

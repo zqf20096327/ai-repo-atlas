@@ -1,10 +1,10 @@
 # Myriad-You/Myriad
 
-⭐ 127 · Rust · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Myriad-You/Myriad) · [官网](https://myriad.you) · 组织维护 · 中文 README
+⭐ 127 · Rust · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Myriad-You/Myriad) · [官网](https://myriad.you) · 个人维护 · 中文 README
 
-**自托管个人主页与创作工作台：聚合平台数据并运行站点级 AI 角色**
+**自托管个人主页：聚合平台数据并运行站内 AI 人格与 Tapp 小应用**
 
-用 Rust/React 构建的单租户自托管个人主页：把 GitHub、Steam、Bilibili、网易云等 11 个平台的数据汇入 PostgreSQL，呈现为可自由布局的网格首页、无限画布式收藏库和 Hugo 静态博客。站点绑定一个站点级 persona：具备 2.5D 分层面部（浏览器端播放、无服务端 GPU 推理）、Chat/Help 双模式对话（Help 含计划-确认-执行、记忆、技能、MCP、定时任务）、由模型从平台数据生成的报告，以及可在沙箱中运行的 Tapp 小应用与生成式 Playground。生产部署为 Docker Compose 多进程架构（proxy + updater），支持 linux/amd64 与 arm64，含版本回滚与约 1 GiB 内存的省内存配置。
+单租户自托管个人主页/创作工作室，后端 Rust、前端 React，数据存 PostgreSQL。聚合 GitHub、Steam、Bilibili、网易云、Bangumi 等 11 个平台数据到同一数据库，供报告卡、资料库与平台报告读取。站内人格拥有 2.5D 面部（浏览器端图层动画，服务端无 GPU 推理）、逐字回复与口型同步；Agent 支持 Chat/Help 两种模式，具备记忆、技能、定时任务与 MCP，并可进入 QQ/Telegram/Discord/飞书群与私信。附带 Hugo 静态博客、ActivityPub/MFP 联邦、Tapp 沙箱小应用与商店/CLI。支持 Docker Compose 部署与版本回滚，提供 ~1 GiB 内存的省内存配置。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 11 个平台数据聚合到单一 PostgreSQL，支撑报告卡、收藏库与平台报告
-- 站点级 persona：2.5D 面部（浏览器端 Anime2.5DRig，服务端无 GPU 推理）+ Chat/Help 双模式 Agent（含 MCP、记忆、定时任务）
-- Tapp 沙箱小应用生态：Playground 生成、商店与 CLI（myriad-tapp）
-- ActivityPub + MFP 联邦、TTS/语音收听、OAuth/OIDC 登录与模块级可见性控制
+- 11 个平台数据聚合到同一 PostgreSQL 数据库
+- 2.5D 人格：浏览器端 Anime2.5DRig 图层动画与口型同步，服务端无 GPU 推理
+- Agent 含 Chat/Work 模式，支持记忆、技能、定时任务与 MCP
+- Tapp 小应用在带权限审批的沙箱中运行，含商店与 tapp-cli
 
 ## 适用场景
 
-- 搭建聚合自己各平台动态的个人主页
-- 让站点 persona 与访客对话并替我执行授权范围内的工作
-- 在站点内管理游戏/动画/书籍收藏库并发布博客
-- 运行自己拥有的 Tapp 小应用与首页小组件
+- 把各平台动态聚合到一个自托管主页展示
+- 给个人站点配置一个可对话、可代办的 AI 人格
+- 自托管博客并支持 ActivityPub 联邦关注
 
 ## 场景标签
 
-`聊天机器人` `AI 助手` · 领域:对话与助手
+`AI 助手` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L32: **Myriad is a self-hosted personal homepage.** It gathers what you leave on other platforms into one site, and give
-> L36: - **Homepage**: a standard 16×4 or free 16×8 grid you lay out yourself; the free layout also takes stickers. Report
-> L70:  The library as an infinite canvas: the canvas is dragged and zoomed out, then the categories on the left switch to
+> L46: - **Chat and Help**: a long press on empty space opens the panel, and Tab switches between the two modes. In Chat s
+> L94: - **Small apps for the site**: a page, a homepage widget, or both. They run in a sandbox with permissions approved 
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `184eb544dc99` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `c8fb3204aa4d` · [字段定义](../../DATASET.md)*

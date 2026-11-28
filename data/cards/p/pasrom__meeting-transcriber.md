@@ -2,9 +2,9 @@
 
 ⭐ 270 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/pasrom/meeting-transcriber) · [官网](https://meetingtranscriber.app) · 个人维护
 
-**macOS 本地会议转写工具：自动录制并本地转写 Teams/Zoom/Webex**
+**macOS 本地会议转录工具：自动录制并离线生成会议纪要**
 
-面向 macOS 的菜单栏应用，检测到 Teams/Zoom/Webex 会议时自动录制系统音频与麦克风双轨，使用 WhisperKit 或 Parakeet 在设备端转写，经 FluidAudio 做说话人分离，并借助 Claude Code CLI 或 OpenAI 兼容端点（Ollama、LM Studio 等）生成为 Markdown 会议纪要。支持自定义词表、说话人识别、多格式文件导入、Notion 导出及本地 HTTP 自动化接口。要求 macOS 14.2+，通过 Homebrew Cask 安装或源码构建。
+面向 macOS 的菜单栏应用：自动检测 Teams/Zoom/Webex 会议并双轨录制（应用音频+麦克风），在本机用 WhisperKit 或 Parakeet TDT v3 转录，经 FluidAudio 声纹分离说话人，再通过 Claude Code CLI 或 OpenAI 兼容端点（Ollama、LM Studio 等）生成 Markdown 会议纪要；全程本地处理，无账户与订阅。支持自定义词表、说话人识别、Notion 导出、record-only 外接处理模式及本地 HTTP 自动化 API。需 macOS 14.2+，摘要需配置一个 LLM 提供方。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 双轨录制与分别做说话人分离（dual-track diarization）
-- WhisperKit（99+ 语言）与 Parakeet TDT v3（25 种欧洲语言）两种本地转写引擎可选
-- 通过 power assertions 自动检测会议，无需屏幕录制权限
-- 本地 HTTP 自动化 API 支持 headless 调用流水线
+- 本地双引擎转录：WhisperKit（99+ 语言）与 Parakeet TDT v3（25 种欧盟语言，~50 MB）
+- 双轨 diarization：应用音频与麦克风分别分离说话人，最多支持 8 人（Nemotron 3）
+- 摘要 LLM 可选：Claude Code CLI、Ollama、LM Studio 或任意 OpenAI 兼容 API
+- 本地自动化 API 与 live transcript 文件，可被本地 agent 调用
 
 ## 适用场景
 
-- 涉密/NDA 会议需要全程离线的录音转写纪要
-- 自动录制并归档线上会议的 Markdown 笔记
-- 用本地 LLM 按自定义提示词生成结构化会议纪要
-- 把录音导出给外部 GPU 主机做批量转写处理
+- 开会时自动录制并生成本地会议纪要，音频不出本机
+- 法律/医疗/NDA 场景下替代云端记录服务
+- 用本地 Ollama 模型按自定义 prompt 生成结构化纪要
+- 通过本地 HTTP API 把转录流水线接入自己的工作流
 
 ## 场景标签
 
@@ -39,8 +39,7 @@
 ## 证据(README 行号)
 
 > L3: > **The local-first meeting transcriber for macOS.** Records Teams, Zoom, and Webex calls, transcribes them on-devic
-> L18: Meeting Transcriber runs the entire pipeline (recording, transcription, speaker diarization, summarization) on your
-> L53: - **On-device transcription** — Two engines, selectable in Settings:
+> L62: - **AI meeting notes generation** — Structured Markdown via Claude Code CLI, OpenAI-compatible APIs (Ollama, LM Stu
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `753811c71233` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ef069c9783eb` · [字段定义](../../DATASET.md)*

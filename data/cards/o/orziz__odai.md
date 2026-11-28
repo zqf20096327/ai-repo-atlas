@@ -2,9 +2,9 @@
 
 ⭐ 131 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/orziz/odai) · 个人维护 · 中文 README
 
-**AI agent 通用任务治理框架：对齐目标、规划调度、验收交付**
+**AI agent 通用任务治理框架：治理执行到可验证交付**
 
-面向 AI agent 的治理型通用任务执行框架：以技能（skill）形式安装，通过 /odai 调用，将治理嵌入执行过程——对齐真实目标、事实、授权与验收标准，选择最短充分路径，组合能力执行并验证到可交付状态。治理深度随任务复杂度与风险自动伸缩，轻量任务保持轻量。支持主机能力路由（责任到模型的映射持久化），提供 DeepSeek Harness 的两个 npm 集成包（plugin 与 agent），含中文控制中心、输出三模式契约与本地关怀偏好记录等机制。
+面向 AI agent 的治理框架，以技能（skill）形式嵌入执行流程：对齐真实目标、事实、假设、授权、风险与验收标准，按任务复杂度自适应调整处理深度，要求从文件、命令、日志、测试等先行验证，避免未经验证的声明。核心以 /odai 调用，可将可选编排拆为独立技能；另提供面向 DeepSeek Harness 的 DSH 插件与 Agent 两个 npm 包，包含控制中心、职责预设与主机能力路由映射，治理可在不启用编排的情况下工作。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 治理深度随任务复杂度与风险自动伸缩，轻量任务保持轻量
-- 主机能力路由：责任-模型映射一次确认后持久化
-- DeepSeek Harness 提供 plugin 与 agent 两个独立 npm 集成包
-- 控制器持有目标、全局状态、纠错循环与最终交付的持久任务线程
+- /odai 按任务歧义、复杂度与风险自适应增减治理深度
+- 要求从文件、命令、日志、测试或项目上下文先行验证，防止虚假声明
+- 主机能力路由：一次性确认职责与模型映射后持久化到项目
+- 提供 odai-dsh-plugin 与 odai-dsh-agent 两个 DSH 集成包及中文控制中心
 
 ## 适用场景
 
-- 让 agent 自主执行任务但避免未经证实的断言与越权行为
-- 在多模型主机上按责任（研究/规划/评审/实现）路由能力
-- 为 DeepSeek Harness 全部 agent 预设统一应用治理
+- 让 agent 在自主执行任务时守住授权与风险边界
+- 为复杂任务规划职责分工并调度多个模型/子 agent
+- 要求任务结果经过验证后才标记为可交付
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: `odai` is a governance-powered general task-execution framework for AI agents.
-> L9: It embeds governance into execution: align the real objective, facts, assumptions, authorization, risks, and accepta
+> L57: npx skills add https://github.com/orziz/odai --skill odai
 > L81: ### DeepSeek Harness packages
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `333ad6ed5289` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `3b10de4692f8` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 116 · Python · BSD-3-Clause · 推送 2026-10-28 · [GitHub](https://github.com/guilyx/grip) · [官网](https://guilyx.github.io/grip/) · 个人维护
 
-**推送前拷问开发者的 git hook：用模型就 diff 出题并打分**
+**让开发者解释自己 diff 的 git pre-push 钩子，答不上则阻止 push**
 
-grip 是一个 git pre-push 钩子工具：读取本次变更的 diff，生成五个问题（为何这样设计、哪里会失败、恶意调用方会做什么等），由模型按隐藏评分标准打分（0-100），低于团队设定的分数线则阻止 push。附带 whiteboard 模式，在浏览器中以部件与箭头绘制变更并钉上问题。可复用已安装的 Claude Code、Codex、Gemini CLI 作为模型（无需 API key），也支持 Anthropic、OpenAI 兼容 API 与本地 Ollama；另提供 fake 离线脚本评分器供试用。
+以 git hook 形式运行的考核工具：push 前读取代码 diff 生成五个问题（实现原因、失败场景、恶意调用者的攻击面等），在终端或浏览器白板中作答，由模型按隐藏评分表给出 0-100 分，低于团队设定的及格线则阻止 push。可复用已安装的 Claude Code/Codex/Gemini CLI 作为模型（无需 API key），或接入 Anthropic、OpenAI 兼容 API、本地 Ollama；通过 pipx/uv 安装，`grip init` 写入配置并安装钩子，支持 pre-commit 框架。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | BSD-3-Clause |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@ grip 是一个 git pre-push 钩子工具：读取本次变更的 diff，生成�
 
 ## 能力要点
 
-- 从 diff 生成五个问题并按隐藏评分标准打分，低于分数线阻止 push
-- whiteboard 模式：浏览器中以部件与箭头绘制变更并钉上问题
-- 复用 Claude Code / Codex / Gemini CLI 作为模型，或 Anthropic / OpenAI 兼容 API / Ollama
-- 支持在编码代理内使用 /grip 命令并在通过前阻止代理推送
+- 从 diff 生成五道题，按隐藏评分表打 Grip Score（0-100），低于及格线阻止 push
+- 浏览器白板模式：把变更画成部件与箭头图并在其上挂问题作答
+- 复用 Claude Code/Codex/Gemini CLI 作模型无需 API key，也支持 Anthropic/OpenAI 兼容 API/Ollama
+- 通过后记忆 diff，重试仅评分调用；CI 与非交互运行自动跳过
 
 ## 适用场景
 
-- 我想在推送前确认自己真的理解并能为 AI 生成的代码辩护
-- 团队希望在 .grip.toml 中共享统一的及格分数与难度标准
-- 想在编码代理工作流中加一道人工理解门槛
+- 团队在 pre-push 阶段强制开发者能够解释自己提交的改动
+- 在 coding agent 中用 /grip 门禁防止 agent 在未经考核的情况下推送代码
+- 仓库级 .grip.toml 统一团队的及格线与难度配置
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ grip 是一个 git pre-push 钩子工具：读取本次变更的 diff，生成�
 
 ## 证据(README 行号)
 
-> L13: Before your code leaves your machine, grip reads the diff and asks you about it: why it is
-> L41: - **Five questions from your diff**, graded against a hidden rubric into a Grip Score out
+> L3: **A git hook that won't let you push code you can't explain.**
+> L54: - **Works with what you have**: reuse Claude Code, Codex or Gemini CLI as the model (no
+> L55:  API key), or use Anthropic, any OpenAI-compatible API, or Ollama locally.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `b0d17a1e127b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `d43546473e4c` · [字段定义](../../DATASET.md)*

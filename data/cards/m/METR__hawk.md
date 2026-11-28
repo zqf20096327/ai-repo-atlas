@@ -2,9 +2,9 @@
 
 ⭐ 121 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/METR/hawk) · [官网](https://hawk.metr.org) · 组织维护
 
-**在 AWS 上规模化运行 Inspect AI 评测的系统**
+**在 AWS 云端运行 Inspect AI 评测的基础设施**
 
-METR 开源的 LLM 评测运行平台：用一份 YAML 定义任务、agent 与模型，自动运行全组合评测。部署层面通过 Pulumi 在 AWS 创建 EKS 评测 Pod、ECS API 服务、Aurora PostgreSQL 结果仓库、S3 日志存储等基础设施；内置 LLM 代理管理 OpenAI/Anthropic/Google Vertex 密钥。提供 CLI（PyPI 安装）、Python client、Web UI、实时日志与本地调试模式。面向已有或自建 Hawk 部署的评测团队。
+由 METR 开发的评测运行平台：通过 Pulumi 在 AWS 上部署 EKS/ECS/Aurora/S3 等组件，以 Kubernetes pod 隔离运行 Inspect AI 评测任务。一个 eval-set YAML 定义任务、agent 与模型组合，平台运行全部排列；内置 LLM 代理管理 OpenAI、Anthropic、Google Vertex 的令牌刷新，结果写入 PostgreSQL 仓库并通过 Web UI 浏览、过滤与导出 CSV。提供 CLI、Python client、本地调试模式与 microVM 沙箱隔离选项。使用需 AWS 账户与域名。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ METR 开源的 LLM 评测运行平台：用一份 YAML 定义任务、agent 与�
 
 ## 能力要点
 
-- 一份 YAML 定义任务/agent/模型，自动运行全组合评测
-- Pulumi 一键在 AWS 部署 EKS/ECS/Aurora/S3 等完整基础设施
-- 内置 OpenAI/Anthropic/Google Vertex 的托管 LLM 代理
-- hawk local 支持本机同配置调试，Web UI 支持结果筛选与 CSV 导出
+- 单 YAML 定义任务/agent/模型，运行全部组合
+- Kubernetes 原生：每个评测独立 pod 与全新 virtualenv，沙箱网络隔离
+- 内置 LLM 代理，管理 OpenAI/Anthropic/Google Vertex 令牌刷新
+- 结果入 PostgreSQL 数据仓库，Web UI 支持过滤、全文搜索与 CSV 导出
 
 ## 适用场景
 
-- 在自有 AWS 账号上部署可扩展的 LLM 评测基础设施
-- 团队共享一个 Hawk 部署并提交、监控评测任务
-- 对历史评测 transcript 运行 Scout 扫描分析
+- 在 AWS 上自建 Inspect AI 评测基础设施
+- 按权限控制多人运行模型、查看日志与扫描评测集
+- 大规模评测任务的实时日志监控与结果分析
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ METR 开源的 LLM 评测运行平台：用一份 YAML 定义任务、agent 与�
 
 ## 证据(README 行号)
 
-> L67: - 📋 **One YAML, full grid.** Define tasks, agents, and models. Hawk runs every combination.
-> L68: - ☸️ **Kubernetes-native.** Each eval gets its own pod and fresh virtualenv. Sandboxes run in separate pods with ne
+> L5:  Run evals at scale in AWS
+> L68: - 📋 **One YAML, full grid.** Define tasks, agents, and models. Hawk runs every combination.
+> L71: - 🔑 **Built-in LLM proxy.** Managed proxy for OpenAI, Anthropic, and Google Vertex with automatic token refresh. Br
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `fb6285fb8a7c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c6c5594ca959` · [字段定义](../../DATASET.md)*

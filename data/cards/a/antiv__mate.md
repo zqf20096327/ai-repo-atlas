@@ -2,9 +2,9 @@
 
 ⭐ 112 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/antiv/mate) · [官网](https://antonijevic.rs/mate) · 个人维护
 
-**自托管多 agent 编排与治理平台：仪表盘改配置无需重部署**
+**给生产环境 agent 团队的可视化编排与治理控制台**
 
-基于 Google ADK 或 LangGraph 构建的自托管多 agent 编排引擎，agent 配置存于数据库并版本化，通过拖拽画布构建 agent 层级、挂载工具与 MCP 服务器，改动即时生效可回滚。治理侧提供按 agent 的 RBAC、按美元/Token 计费的预算告警与封禁、护栏、审计日志；测试侧含自动评测套件（精确匹配/相似度/LLM-as-Judge）与模型、提示词对比的 Playground。经 LiteLLM 支持 50+ 模型供应商，含 Ollama、LM Studio、llama.cpp 等本地运行时，提供 OpenAI 兼容 API、A2A 与嵌入式聊天组件。
+基于 Google ADK（亦可跑 LangGraph）构建的多 agent 编排引擎，以 Web 控制台为中心：可视化画布编辑 agent 层级与工具，配置存数据库、改动即时生效无需重新部署。治理侧提供每 agent 的 RBAC、按美元计价的成本核算、预算告警/阻断、Slack/Discord/邮件告警与审计日志；评测侧提供精确匹配/相似度/LLM-judge 的回归测试套件与对比 Playground。支持 MCP、A2A、OpenAI 兼容 API 与嵌入式聊天组件。默认 SQLite 存储，Docker 一条命令即可启动，个人维护者发布。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 数据库驱动的 agent 配置，画布编辑即时生效、一键回滚
-- 按 agent 的 RBAC、美元/Token 预算与告警（Slack/Discord/email/webhook）
-- 自动评测套件（LLM-as-Judge）与回归阈值 webhook
-- 经 LiteLLM 接入 50+ 供应商，含 Ollama/LM Studio/llama.cpp 本地后端
+- 拖拽画布构建 agent 层级，配置入库、版本化、一键回滚
+- 每 agent 美元成本核算、预算阻断与 RBAC 访问控制
+- Trace Replay 在画布上回放多 agent 会话执行过程
+- 评测框架支持精确匹配/语义相似度/LLM-as-Judge 计分
 
 ## 适用场景
 
-- 在仪表盘中调提示词、换模型而不改代码重新部署
-- 对生产环境多 agent 按用户/团队做访问控制与成本管控
-- 上线前用评测套件与 Playground 对比模型与提示词效果
+- 不重启服务就能调整线上 agent 的提示词与模型
+- 为多团队 agent 平台加权限、预算与审计
+- 上线前用回归测试套件防止提示词改动破坏旧逻辑
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `模型网关` `模型评测` · 领域:Agent 开发
+`多智能体` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L1: # MATE — The Command Center for AI Agents
 > L4: Self-hosted, on Google ADK or LangGraph, with any of 50+ LLM providers.
 > L56: Without a control layer, every one of those is a code change, a commit, and a redeploy. **MATE is that control laye
-> L186: ## Why MATE vs. raw ADK
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `9fe04740ec87` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `3fcbde409a36` · [字段定义](../../DATASET.md)*

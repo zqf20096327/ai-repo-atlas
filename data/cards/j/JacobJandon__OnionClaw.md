@@ -2,15 +2,15 @@
 
 ⭐ 119 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/JacobJandon/OnionClaw) · [官网](https://github.com/JacobJandon/OnionClaw) · 个人维护
 
-**供 AI agent 与终端使用的 Tor 暗网访问与 OSINT 工具集**
+**给 AI agent 提供 Tor 暗网访问能力的 OpenClaw 技能**
 
-以 OpenClaw skill 形式提供、也可独立于任何终端运行的 Tor 暗网工具：7 个命令覆盖 Tor 连通检测、身份轮换、18 个暗网搜索引擎聚合检索、.onion 页面抓取、LLM OSINT 分析（4 种模式）与一键调查流水线。基于 SICRY 引擎，流水线中仅查询精炼、结果过滤与报告生成三步使用 LLM，其余步骤无 LLM key 也可运行。面向防御性研究、红队与威胁情报场景，README 明确讨论双用途风险与司法管辖问题。运行需本地 Tor（SOCKS 127.0.0.1:9050）与 Python 3.10+。
+OnionClaw 以 OpenClaw 技能和独立命令行两种形式提供 Tor 网络与 .onion 隐藏服务访问：7 个脚本覆盖 Tor 状态检查、线路/身份轮换、17 个暗网搜索引擎检索、页面抓取、LLM OSINT 分析（4 种模式）以及自动化 Robin 流水线（精炼查询→多引擎检索→过滤→批量抓取→分析）。基于 SICRY 引擎，面向 OSINT、威胁情报与安全研究用途；LLM key 可选，可通过本地 Ollama 实现无 key 的本地推理；README 明确讨论双用途风险并要求使用者自行承担法律合规责任。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 聚合 18 个暗网搜索引擎并返回去重结果
-- pipeline.py 一键完成 检测→搜索→过滤→抓取→LLM 分析 流水线
-- Tor 身份轮换（renew.py）与 .onion 页面抓取（最多 8000 字符）
-- 多数命令无需 LLM key，可配置 Ollama 做完全本地推理
+- 7 个命令覆盖 Tor 检查、身份轮换、17 引擎暗网搜索、抓取与 OSINT 流水线
+- LLM 分析可选：无 key 时 7 个命令中 5 个可完整运行，或配置本地 Ollama 推理
+- pipeline.py 一条命令完成查询精炼→搜索→过滤→并发抓取→报告的自动化流程
+- 捆绑 SICRY 引擎并提供 sync_sicry.py 增量同步
 
 ## 适用场景
 
-- 安全研究人员监控勒索组织与泄露论坛的暗网动态
-- 红队/威胁情报工作中对 .onion 站点做自动抓取与 LLM 分析
-- 让 OpenClaw agent 在会话中直接检索和抓取暗网内容
-- 检查自身数据是否出现在暗网泄露看板
+- 对勒索软件博客、漏洞市场等暗网信息源做持续威胁情报监控
+- 监控泄露板与 paste 站点上与自身域名/API key 相关的凭据泄露
+- 安全研究中批量抓取 .onion 服务页面并生成 OSINT 分析报告
 
 ## 场景标签
 
-`网络安全` `网页抓取` · 领域:效率与自动化
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L11: > **OpenClaw skill + standalone tool** — full Tor / dark web access for AI agents
 > L13: OnionClaw gives AI agents full access to the Tor network and .onion hidden services. It runs as an OpenClaw skill (
-> L286: **Steps 1–6 work fully without an LLM key.** Only steps 3, 5, and 7 use the LLM — they fall back gracefully when n
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `6b8f92cba114` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `ea31e1f61564` · [字段定义](../../DATASET.md)*

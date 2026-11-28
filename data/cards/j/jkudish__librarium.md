@@ -2,15 +2,15 @@
 
 ⭐ 137 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jkudish/librarium) · [官网](https://librarium.si) · 个人维护
 
-**多供应商深度研究 CLI：并行调用搜索/AI API 并保留证据出处**
+**把一个研究问题发给多个搜索与 AI 源并保存答案、引用与成本的工具**
 
-面向用户和 agent 的命令行深度研究工具：按显式 provider profile 规划研究请求，将查询并行扇出到 web 搜索、grounded 回答、消费者搜索界面观测与持久研究任务，并记录采集与访问来源（provenance）。v2 目录含 34 个内置供应商、41 个公开 profile，四种内置 workflow（quick/deep/visibility/all），支持预算上限、计划预检（plan）、可选验证（--verify）与 MCP stdio server。CLI 与 MCP server 是完整应用接口；npm 安装需 Node.js 22.12+，另有独立二进制与 Homebrew 安装。文档反复声明：供应商间一致不构成证明，引用不保证来源安全或权威。
+Librarium 将单个研究问题并行发给用户选定的 16 个搜索/AI 源与 6 个 AI 回答引擎，逐源保存答案、引用数与报告成本为可恢复的 Run，支持 --deep 持久任务、--max-cost 预算上限与 summarize 二次汇总。以 CLI、stdio MCP server（research/get_run/list_sources 三个工具）和 JavaScript 库三种形态提供，另含 Laravel 包。运行需 Node.js 22.12+ 或独立二进制，且至少一个源的 API key，调用源可能产生费用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 34 个内置供应商 / 41 个公开 profile，profile 为选择与溯源单元
-- 四种内置 workflow，支持并发、超时与美元预算上限（--max-cost）
-- plan 命令在本地预检预算与凭据引用而不发起供应商请求
-- 结果保留 collection/access provenance，可选有界验证（--verify）
+- 16 个研究源与 6 个 AI 回答引擎统一发起并汇总结果
+- Run 持久化：答案、引用、成本可保存、恢复与导出（html/jsonl）
+- MCP server 供编码 agent 调用，附带 SKILL.md 技能安装
+- --max-cost 预算控制与 usage 成本统计
 
 ## 适用场景
 
-- 跨多个搜索与 AI API 并行开展深度研究并比较答案
-- 为 agent 通过 MCP 接入多供应商研究能力
-- 在硬预算约束下执行付费研究任务并事前预检计划
+- 让一个问题同时发给多个搜索与 AI 源并对比答案与引用
+- 为 Claude Code 等编码 agent 提供研究查询工具
+- 追踪多次研究查询的累计花费（usage 命令）
+- 批量观测各 AI 产品对同一问题的回答（visibility 组）
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L22: Librarium plans a research request against explicit provider profiles, executes
-> L42: The `librarium` CLI and its MCP stdio server are the complete application
+> L112: The `mcp` command (`librarium mcp`) runs a stdio MCP server with three tools:
+> L84: There are 16 research sources: `brave`, `claude`, `exa`, `firecrawl`,
+> L10: Librarium sends one research question to the search and AI sources you
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `fea638038d65` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e90177d76b13` · [字段定义](../../DATASET.md)*

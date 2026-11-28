@@ -2,9 +2,9 @@
 
 ⭐ 157 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/deepset-ai/hayhooks) · [官网](https://deepset-ai.github.io/hayhooks/) · 组织维护
 
-**将 Haystack 管道与 agent 部署为 REST/OpenAI 兼容/MCP/A2A 服务**
+**将 Haystack pipeline 与 agent 部署为 REST API 与 MCP 工具**
 
-deepset 维护的 Haystack 管线服务化工具：开发者编写 Python wrapper 或 YAML 管线，即可暴露为带类型校验与 OpenAPI 文档的 REST 端点、OpenAI 兼容的流式 Chat Completions/Responses API、MCP 工具（供 Cursor、Claude Desktop 等客户端调用）及 A2A agent。支持基于 Redis 的持久化执行（检查点、人工审批、重启恢复）与终端仪表盘/OTel 追踪。需 Python 3.10–3.14，快速开始需 OpenAI API key；持久化模式需 Redis 与 durable 附加组件。
+为 Haystack pipeline 和 agent 提供服务化部署的运行时：用 Python wrapper 包装后可发布为带 OpenAPI 文档的 REST 端点、OpenAI 兼容的流式 Chat Completions 接口、MCP 工具，以及支持 A2A 协议的 agent。提供 Redis 持久化执行（检查点、人工审批、故障恢复）、终端仪表盘查看执行与组件追踪，并可导出 OpenTelemetry span。要求 Python 3.10–3.14，需配置模型 API key；由 deepset 团队维护。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ deepset 维护的 Haystack 管线服务化工具：开发者编写 Python wrappe
 
 ## 能力要点
 
-- Python wrapper 经类型提示生成 API schema 的 REST 端点
-- OpenAI 兼容流式聊天 API，可接 Open WebUI 或内嵌 Chainlit UI
-- MCP server 将管线/agent 暴露为工具
-- Redis 检查点的持久化执行：人工审批、失败重试、重启恢复
+- 一个 wrapper 可同时暴露为 REST API、OpenAI 兼容接口、MCP 工具与 A2A agent
+- Redis 检查点支持长任务持久化、人工审批与重启恢复
+- 终端仪表盘查看部署、执行与慢组件，追踪可导出到 OpenTelemetry
+- Durable 引擎可嵌入任意 FastAPI 应用
 
 ## 适用场景
 
-- 把 Haystack 管线或 agent 快速发布为可调用 API
-- 让 Cursor/Claude Desktop 等 MCP 客户端调用自家管线
-- 长任务暂停等待人工审批后继续执行
+- 把本地调试好的 Haystack agent 发布成团队可调用的 REST 服务
+- 把 pipeline 暴露为 MCP 工具供 Cursor 等客户端调用
+- 需要人工审批环节和断点恢复的长时 agent 任务
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+ · 领域:LLM 基础设施/模型部署
 
 ## 证据(README 行号)
 
 > L3: **Serve Haystack pipelines and agents as APIs.**
-> L16: Write a Python wrapper around your pipeline or agent. Choose the interfaces and runtime features you need:
-> L18: - **REST APIs.** Deploy Python wrappers or YAML pipelines as typed, validated endpoints with OpenAPI docs, file upl
+> L5: REST APIs, OpenAI-compatible chat, MCP tools, and A2A agents, with durable execution and built-in tracing.
+> L204: Hayhooks is actively maintained by the deepset team.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `d34e370561ee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `a2cfeb854454` · [字段定义](../../DATASET.md)*

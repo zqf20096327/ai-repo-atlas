@@ -2,9 +2,9 @@
 
 ⭐ 125 · Shell · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/nirholas/PAI) · [官网](https://pai.direct) · 个人维护
 
-**可启动 U 盘上的隐私优先本地 AI 工作站操作系统**
+**可启动的 Debian 12 live USB：离线本地运行 Ollama 的隐私 AI 桌面**
 
-基于 Debian 12 live-build 构建的可启动 U 盘操作系统：整机载入 RAM 运行，通过 Ollama 在本机 CPU 上运行 GGUF 兼容模型（Llama 3.1、Mistral、Phi-3、Qwen 等），配 localhost 网页 Chat UI；同时提供 Sway 桌面、Firefox ESR、Tor/MAC 伪装/UFW 等隐私加固及加密货币钱包。主机硬盘从不挂载，关机即清空内存。限制：仅 CPU 推理（5-20 tokens/sec），官方托管下载暂时离线，当前主路径为 Docker 从源码构建 ISO 后刻录 U 盘。
+基于 Debian 12 live-build 构建的完整 live USB 操作系统，启动后全内存运行，不挂载宿主机硬盘，关机即清空。内置 Ollama 与 localhost Chat UI 提供本地推理，并集成 MAC 伪装、UFW 防火墙、Tor 可选透明代理、GnuPG/LUKS 加密、Electrum/Monero 钱包等工具。模型仅 CPU 推理（GPU 库被裁剪），支持任意 GGUF 模型；提供 Minimal（约 912 MB）与 Full（约 4–6 GB）两种 ISO。ISO 尚未发布，当前以 Dockerfile.build 从源码构建为主要路径。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 整系统在 RAM 中运行，关机清空内存，不触碰主机硬盘
-- Ollama 本地推理，绑定 127.0.0.1，支持任意 GGUF 兼容模型
-- MAC 伪装、UFW 防火墙默认开启，Tor 透明代理可选
-- 提供 Dockerfile.build 从源码构建 ISO 的主路径
+- 全内存 live 运行，不写宿主磁盘，关机清除全部会话状态
+- 内置 Ollama 本地推理与 localhost Chat UI，无 API key、无云端依赖
+- MAC 伪装 + UFW 防火墙 + Tor 可选透明代理的隐私加固
+- 支持任意 GGUF 兼容模型（Llama 3.1、Mistral、Phi-3、Gemma、Qwen、DeepSeek 等）
 
 ## 适用场景
 
-- 在任意 x86_64 机器上即插即用获得本地 AI 与桌面环境
-- 需要不留痕迹、数据不离开设备的离线 AI 对话
-- 出差或使用公共电脑时携带完整工作环境
+- 在借用的公共电脑上临时使用一个不留痕迹的 AI 工作环境
+- 完全离线环境下与本地大模型对话
+- 需要一个随身携带、隐私加固的整套桌面系统
 
 ## 场景标签
 
-`聊天机器人` `推理引擎` · 领域:对话与助手
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
+> L64: PAI is a **bootable live USB operating system** built on Debian 12 that gives you a private, portable AI workstatio
 > L66: - **An offline AI assistant** running locally via Ollama — no cloud, no API keys, no data leaving your machine
-> L245: |Ollama|Local LLM inference engine — runs Llama, Mistral, Phi, Gemma, etc.|
-> L18:  PAI is an entire operating system — lean enough to fit on a USB stick, powerful enough to run local AI. Forgot you
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `9375a80280dc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `082558e7a904` · [字段定义](../../DATASET.md)*

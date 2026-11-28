@@ -2,9 +2,9 @@
 
 ⭐ 122 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/js-lee-AI/awesome-llm-agent-papers) · 个人维护 · 中文 README
 
-**面向 LLM Agent 研究者的 curated 论文清单（228+ 篇）**
+**LLM 智能体论文精选清单：规划/记忆/工具/多智能体等 228+ 篇**
 
-作为综述论文 'LLM Agents: A Survey' 的配套阅读清单，收录 228 篇及以上关于 LLM 智能体的论文，覆盖综述、架构、规划、记忆、工具使用、多智能体、环境、应用、评测与安全 10 个板块，并在持续补充综述发表后的新论文。每个条目附一行贡献注释、发表会议与年份，以及官方实现的代码链接（如有）。另提供 10 篇入门 Starter Kit、2026 年新论文关注列表和 GitBook 在线书版本。多语言 README（含简体中文、韩语、日语等）。
+作为配套综述《LLM Agents: A Survey》的论文清单仓库，收录 228 篇综述参考文献及后续新增论文，按综述结构分为 Surveys、Architectures、Planning、Memory、Tool Use、Multi-Agent、Environments、Applications、Evaluation、Safety 共 10 个章节。每条条目附一句话贡献说明、发表会议/年份，有官方实现时附 [code] 链接。另提供 10 篇入门 Starter Kit、2026 年关注列表、可折叠目录索引，并以 MIT 许可发布，接受 PR 更新。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 228+ 篇论文按综述分类法的 10 个板块组织
-- 每条目附一行贡献注释、venue/年份与官方代码链接
-- 10 篇论文的 Starter Kit 入门清单
-- 配套 GitBook 在线书与姊妹清单 Awesome Agent Loop Papers
+- 228+ 篇论文按综述分类法组织为 10 个功能章节
+- 每条附一句话注释、venue/年份与官方实现 [code] 链接
+- 10 篇 Starter Kit 入门清单与按章节计数的可折叠目录
+- 配套 GitBook 在线书籍与后续 Agent Loop 论文清单（524 篇）
 
 ## 适用场景
 
-- 系统性地阅读 LLM Agent 领域的核心论文
-- 按规划/记忆/工具使用等主题查找特定方向的研究文献
-- 新人通过 Starter Kit 快速入门 agent 研究
+- 系统入门 LLM agent 研究领域，按 Starter Kit 顺序阅读
+- 为规划、记忆、工具调用等具体方向查找代表性论文与官方代码
+- 撰写综述或调研报告时快速定位相关文献
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5:  200+ must-read papers, updated regularly : the annotated reading list for building
-> L9: 200+ curated papers
-> L27: |📚 **A superset of the survey**|The 228 references behind *“LLM Agents: A Survey,”* plus papers that came out after
+> L28: |🧭 **Organized by function**|10 sections following the survey's structure: Surveys, Architectures, Planning, Memory
+> L39: This repository collects must-read papers on **LLM-based agents**: language models equipped with planning, memory, 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `368082982c7a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `b5442399a48c` · [字段定义](../../DATASET.md)*

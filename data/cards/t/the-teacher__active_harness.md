@@ -2,9 +2,9 @@
 
 ⭐ 112 · Ruby · MIT · 推送 2026-11-24 · [GitHub](https://github.com/the-teacher/active_harness) · 个人维护
 
-**面向 Ruby/Rails 的 LLM 流水线构建框架**
+**给 Ruby/Rails 开发者的 LLM 流水线构建框架**
 
-以 Ruby gem 形式提供的 LLM 应用框架，为 Rails 提供原生 DSL，也可在纯 Ruby 中使用。核心机制：Request 封装单次韧性 LLM 调用（模型链、回退、指数退避重试、生命周期钩子），Pipeline 支持多步与嵌套编排，可混合确定性 Ruby 步骤与模型步骤；Tribunal 并行多请求做共识裁决；Tool 提供类型化、默认拒绝的模型工具调用，Agent 是带目标检查与限额的工具循环。内置 token/成本/耗时追踪、SSE 流式输出、JSON/SQLite/PostgreSQL 记忆存储，观测基于 OpenTelemetry。README 明确标注 API 处于开发中，可能随版本变更；Agent 抽象为第一迭代。
+ActiveHarness 是一个 Ruby gem，为构建生产级 LLM 流水线提供脚手架：Request 封装单次可靠调用（模型链、fallback、重试、钩子），Pipeline 支持多步、嵌套与确定性/LLM 混合编排，Tribunal 通过多请求并行取共识结果，Tool 提供默认拒绝的安全工具调用，Agent 运行带目标检查与轮次限制的工具循环。内置 token/费用/耗时追踪、SSE 流式、OpenTelemetry 事件追踪与 JSON/SQLite/PostgreSQL 记忆后端，提供 Rails 生成器，也可在纯 Ruby 中使用。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 模型链自动回退与按模型配置的指数退避重试
-- Tribunal 共识机制：并行多请求按一致策略产出裁决
-- 类型化、默认拒绝的 Tool 与带目标检查的 Agent 循环
-- OpenTelemetry 事件追踪与 Grafana 指标；token/成本实时追踪
+- 多步/嵌套/混合流水线编排，含每步停止条件与上下文转发
+- Tribunal 共识机制：多请求并行，按一致/多数/自定义策略取 Verdict
+- 默认拒绝的 Tool 体系与带 goal check 的 Agent 循环
+- 基于 OpenTelemetry 的事件追踪与实时 token/费用追踪
 
 ## 适用场景
 
-- 在 Rails 应用中构建多步 LLM 流水线并追踪每步成本
-- 通过并行共识裁决提升 LLM 输出可靠性
-- 为模型提供受控工具与记忆，构建带目标检查的 Agent
+- 在 Rails 应用中搭建可靠、可观测的多步 LLM 工作流
+- 对关键 LLM 输出做多模型共识以降低幻觉
+- 为模型提供受限的文件读取等工具并控制风险
+- 追踪并控制每次 AI 调用的 token 与费用
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`LLM 可观测性` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `89021bee655b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `aeeb75a0f56d` · [字段定义](../../DATASET.md)*

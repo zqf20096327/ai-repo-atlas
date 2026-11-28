@@ -2,15 +2,15 @@
 
 ⭐ 135 · Astro · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/one-ie/one) · [官网](https://template.one.ie) · 组织维护
 
-**带支付与 AI agent 配置的 Astro/React 网站起步模板**
+**开发者用 Markdown 定义 agents/skills/workflows 并随 Astro 站点一起构建部署**
 
-基于 Astro 7、React 19、shadcn/ui、Tailwind 4 的网站起步模板，内置两条支付通道：跨 Sui/Ethereum/Solana/Bitcoin 四链的加密支付链接与 Stripe Elements 卡片支付，价格在服务端解析。含 Better Auth/D1 会话、内容集合、SEO 校验与主题系统。仓库附带 .claude/、.mcp.json 与 ai/ 目录（agents/skills/workflows 的 Markdown 与 TOML），供 Claude 等编码 agent 读取后构建站点。采用 ONE License v1.0，保留品牌即可商用转售，Enterprise License 可移除品牌。
+一个开源网站/应用起步仓库，基于 Astro 7、React 19、shadcn/ui 与 Tailwind 4，可独立运行（本地 auth + D1），也可通过 ONE_API_KEY 接入其托管后端获得聊天、CRM、分析、页面编辑器等插件。仓库另一半是 ai/ 目录：agent、skill、workflow 均以 Markdown/TOML 文件定义，提供 16 个 agent 模板、5 个 skill 和 8 种步骤类型的工作流图（含 human 人工审批步骤），用 one push 编译并推送到 ONE workspace 运行。面向开发者的部署路径是 npx oneie create 加 bun run deploy 到自己的 Cloudflare 账户。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 四链加密支付链接 + Stripe Elements 卡片支付，均无需自建后端
-- 仓库附带 .claude/、.mcp.json 与 ai/ 目录（agents/skills/workflows）
-- 静态优先 Astro + Cloudflare Workers SSR，插件以构建期集成按需挂载
-- one wallet keygen 离线生成四链地址，密钥不落仓库
+- agent/skill/workflow 均为 Markdown 与 TOML 文件，可在 PR 中评审
+- 16 个 agent 模板与 5 个 skill 随仓库提供
+- 工作流含 8 种步骤类型，支持 human 步骤人工审批
+- 支持独立运行（无 key）与接入 ONE 后端两种模式，插件按构建时配置挂载
 
 ## 适用场景
 
-- 克隆后直接上线可收款的商品/服务销售网站
-- 在 Cloudflare 免费额度上部署博客、文档与产品页
-- 让 Claude 等编码 agent 按 CLAUDE.md/AGENTS.md 改造此模板
+- 快速搭建可部署到 Cloudflare 的博客、文档或商店站点
+- 用 Markdown 文件定义业务 agent 并纳入代码评审流程
+- 编排带人工审批环节的订单处理等工作流
 
 ## 场景标签
 
- · 领域:Web 开发/电商模板
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L226: - `.claude/` (hooks, rules, skills, commands) and `.mcp.json` at the repo root
-> L227: - `ai/` holds agents, skills, tools and workflows as plain Markdown and TOML
-> L237: `CLAUDE.md` is the operating manual. `AGENTS.md` is the briefing an AI agent reads
+> L48:  🤖 Agents
+> L100: The site is half of ONE. The other half is `ai/`: the agents that run your business, the skills they use and the w
+> L186: |||
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f03725433c6e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `484303f3703f` · [字段定义](../../DATASET.md)*

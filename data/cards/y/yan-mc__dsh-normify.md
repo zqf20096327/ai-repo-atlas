@@ -2,9 +2,9 @@
 
 ⭐ 135 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/yan-mc/dsh-normify) · 个人维护 · 中文 README
 
-**DSH 插件：让 AI 把项目建成可校验的分形模块树并渲染架构图**
+**给 DSH 环境里的 AI 提供架构树建模与漂移校验的插件**
 
-面向 DeepSeek Harness（DSH）的插件，提供 31 个 normify_* 工具与 normify-gen 技能，供 AI 把仓库分析成模块树结构数据（模块=Markdown 文件、路径式 id、两类边），并按伴随式流程（change_open → brief → check → 实施 → refresh → change_close）先建图后编程。引擎侧执行三层零容忍校验（写时 L1 / 全项目 L2 / 冻结回执 L3）、确定性编译 tree.json 等产物（SHA-256 冻结），并按 policy.yml 架构规则强制约束依赖方向、无环等。渲染器输出零依赖单文件交互式 HTML 架构图，支持逐层下钻、API 直连箭头、中英切换。通过 npm 构建 tgz 或 dsh plugin 命令安装；深度不设上限，增量再生成只重建受影响子树。
+Normify 是 DeepSeek Harness（DSH）的插件，提供 normify-gen 技能与 7 个原语工具（旧 31 个工具名可过渡使用），让 AI 把仓库分析成分形模块树结构数据，并按「计划态建树 → 逐个实现 → 关单收尾」的伴随式开发流程工作。确定性引擎负责 L1 写时 / L2 全项目 / L3 冻结三层校验与编译，产出 tree.json 等五件产物加 receipt.sha256 回执链，并用 fingerprint 检出代码与结构数据的漂移。以 DSH bundle 形式分发，只支持 DSH 0.2.x；从源码安装需先 npm install && npm run build。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 31 个 normify_* 工具 + normify-gen 技能，AI 先建图后编程、伴随编程改图
-- 三层 fail-closed 校验（L1 写时 / L2 全项目 / L3 编译冻结），change_close 0 error 强制收尾
-- policy.yml 架构规则（依赖方向/禁依赖/无环/跨树/命名）由 validate 强制执行
-- 渲染为零依赖单文件 HTML：逐层下钻、API 直连箭头、深链接、中英切换
+- 7 个 normify_* 原语工具 + normify-gen 技能，按 op 分派
+- 三层校验（写时/validate/build）fail-closed，诊断带可修复提示
+- normify_check{op:"drift"} 用 git diff 定位指纹漂移，change close 强制 0 error
+- 单文件零依赖交互式架构图 normify.html，支持 API 直连箭头与下钻
 
 ## 适用场景
 
-- 让 DSH 中的 AI 为整个仓库生成并持续维护可下钻的架构图
-- 开发前先建计划态模块树，实现后自动激活并保持代码与结构数据同步
-- 用架构规则（无环、依赖方向）在 CI 门禁中约束设计
-- 产出单文件交互式架构图直接归档或分享给他人阅读
+- 为现有仓库生成可下钻、带 API 锚定箭头的交互式架构图
+- AI 写代码前先建模块树，实施后关单收尾保持图与代码同步
+- 用 policy.yml 声明依赖方向/禁依赖/无环等架构规则并强制校验
 
 ## 场景标签
 
- · 领域:开发者工具/软件架构
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L16: Normify 是 **DeepSeek Harness（DSH）插件**，也是**一套写给 AI 用的开发流程**：
-> L18: - **给 AI 的**：`normify-gen` 技能 + **31 个 `normify_*` 工具** —— 让模型把仓库分析成模块树结构数据，
+> L18: - **给 AI 的**：`normify-gen` 技能 + **7 个原语工具**（`normify_project` / `read` / `write` / `check` / `build` /
+> L226: Normify 以 **DSH bundle** 形式分发，只支持 **DSH 0.2.x**（`engines.dsh: ">=0.2.1-rc.1 <0.3.0"`）。
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `d511685a26dd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `1217d33895ed` · [字段定义](../../DATASET.md)*

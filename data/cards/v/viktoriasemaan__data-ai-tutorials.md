@@ -2,9 +2,9 @@
 
 ⭐ 127 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/viktoriasemaan/data-ai-tutorials) · 个人维护
 
-**数据与 AI 工程实战教程集：lakehouse 到 AI agent 全链路**
+**面向数据与 AI 工程者的 lakehouse 与 AI agent 教程集**
 
-面向从业者与解决方案架构师的数据工程作品集仓库，包含五个递进式教程项目：用 Apple Health 数据构建生产级 lakehouse（Spark/Delta Lake/Unity Catalog）、通过 Managed MCP 将 AI/BI Genie 接入 Claude Desktop、用 Lakebase 与 LangGraph 构建 agent 记忆、比较 Claude Code/Codex/Hermes Agent 三种 harness 的成本差异，以及用 LoRA 做大模型到小模型的蒸馏。每个项目附完整教程、示例数据、架构图与生产模式说明。内容围绕 Databricks 平台展开。
+以系列教程形式组织的数据工程与 AI agent 项目集，项目递进：先搭建基于 Spark/Delta Lake/Unity Catalog 的 lakehouse，再通过 MCP 接入 AI/BI Genie 自然语言查询，进而实现 LangGraph agent 记忆、agent harness 成本对比（Claude Code/Codex/Hermes 经 Unity Gateway）与 LLM 蒸馏（teacher→LoRA 微调 student→MLflow 评估→Model Serving）。每个教程附完整步骤、示例数据与架构图，面向从业者和解决方案架构师，MIT 许可。
 
 ## 筛选速览
 
@@ -20,15 +20,17 @@
 
 ## 能力要点
 
-- 五个递进式项目：lakehouse→MCP→agent 记忆→harness 评测→模型蒸馏
-- 涵盖 Spark、Delta Lake、Unity Catalog、LangGraph、MLflow、LoRA 等技术
-- 教程含隐藏测试评分、成本对比与架构图等生产模式
+- 5 个递进式教程：lakehouse→MCP 接入→agent 记忆→harness 成本对比→蒸馏
+- agent harness 教程在同一模型上对比三种 harness 的每任务成本
+- 蒸馏教程含 teacher 标注、LoRA 微调、MLflow 评估与 Model Serving 部署
+- 每项目提供完整教程、示例数据与架构图
 
 ## 适用场景
 
-- 系统学习从数据管道到 RAG/AI agent 的工程实践
-- 了解 Databricks 平台上 MCP、Agent Memory 与模型蒸馏的用法
-- 参考 agent harness 成本评测与蒸馏落地方案
+- 学习在 Databricks 上从零搭建 lakehouse
+- 为 agent 添加会话与语义记忆（Lakebase）
+- 评估不同 agent harness 的成本差异
+- 将大模型蒸馏为小模型自部署服务
 
 ## 场景标签
 
@@ -36,7 +38,7 @@
 
 ## 证据(README 行号)
 
-> L3: Real-world data engineering projects and tutorials covering Data & AI technologies, from your first lakehouse to AI 
+> L7: The projects build on each other: a governed **lakehouse** holds the data, **AI agents** reach it through **MCP**, *
 > L48: 👋 **About:** This portfolio showcases hands-on data engineering and AI agent projects designed for practitioners an
 
 ## 星数曲线
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `ffd21d539b2e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8d8b35933a92` · [字段定义](../../DATASET.md)*

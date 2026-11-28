@@ -2,9 +2,9 @@
 
 ⭐ 212 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/ahtx/kindi) · [官网](https://amirhusain.com/software/kindi/) · 个人维护
 
-**在低成本 GPU 与 CPU 上本地运行 LLM 的推理引擎**
+**低成本 GPU/CPU 上的本地 LLM 推理引擎**
 
-自研语言模型推理引擎，面向低端 GPU：支持从 1 GB Kepler 卡到 RTX 50 系、CMP 170HX、AMD Radeon 780M/840M/8060S 及 x86-64 AVX2 CPU。运行 Prism ML 三值 Bonsai 系列、AH-Nanbeige4.3-33B、Nemotron 3.5 Lightning、DeepSeek-V4.1-Flash、Qwen3.8-Flash-Next 等模型；提供 OpenAI 兼容服务器、prompt 缓存、工具调用、投机解码与 LoRA 适配器。以 Docker 镜像（CUDA/ROCm）或脚本安装器分发，README 声明与 llama.cpp 输出逐 token 一致，并列出每卡基准数据。AGPL-3.0 许可，另有商业许可。
+Kindi 是一个面向低价 GPU 的自研语言模型推理引擎，覆盖从 1 GB 显存的 Quadro K420 到 RTX 50 系列、CMP 170HX、AMD Radeon 780M/840M/8060S 及 x86-64 CPU。支持 Bonsai 系列、AH-Nanbeige4.3-33B、Nemotron 3.5 Lightning、DeepSeek-V4.1-Flash、Qwen3.8-Flash-Next 等模型，提供 OpenAI 兼容服务器、prompt 缓存、工具调用、思考模式与投机解码。通过安装脚本或 Docker 镜像分发，AGPL-3.0 许可并提供商业许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- OpenAI 兼容服务器，支持 prompt 缓存、工具调用与投机解码
-- 支持 1 GB Kepler 显卡至 RTX 50 系、AMD RDNA3/3.5 与 AVX2 CPU
-- 提供逐卡基准表，声明与 llama.cpp 输出逐 token 一致（kindi verify）
-- 支持多请求并发、多卡部署与 LoRA 适配器
+- 支持 Kepler 至 RTX 50 的 NVIDIA 卡、AMD RDNA3/3.5 与 x86-64 AVX2 CPU
+- OpenAI 兼容服务器，带 prompt 缓存、工具调用与投机解码（MTP/DSpine/DSpark drafter）
+- 提供 Linux/Windows 一键安装脚本，自动检测显卡并下载校验模型
+- 提供 Docker 镜像（CUDA/ROCm6/ROCm7）与 docker compose 部署方式
 
 ## 适用场景
 
-- 在旧款或低显存显卡上本地运行大模型
-- 为本地模型提供 OpenAI 兼容 API 给现有聊天客户端
-- 用 Bonsai 系列模型在 CPU 上做推理
+- 在老旧或低价显卡上本地运行大语言模型
+- 为 Open WebUI、LM Studio、Jan 等客户端提供本地 OpenAI 兼容后端
+- 在无 GPU 的 x86-64 服务器上用 CPU 路径运行小参数模型
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L9: Kindi is a custom inference engine for language models on low-cost GPUs. It runs Prism ML's ternary
-> L12: supports AMD Radeon 780M, 840M and 8060S graphics, and x86-64 CPUs. The OpenAI-compatible server has a prompt
-> L123: |GPU|NVIDIA, compute capability 3.0 (Kepler) or later. Tested: Quadro K420 (1 GB and 2 GB), Quadro K1200 (one card
+> L13: supports AMD Radeon 780M, 840M and 8060S graphics, and x86-64 CPUs. The OpenAI-compatible server has a prompt
+> L147: 3. Connect a chat client. Kindi uses the OpenAI API at `http://localhost:8093/v1`. In Open WebUI, LM Studio, Jan o
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `49413bb5b95a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `278f6b5b9ecc` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 132 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/JetBrains/teamcity-cli) · [官网](https://jb.gg/tc/docs) · 组织维护
 
-**JetBrains 官方 TeamCity 命令行客户端，含 AI agent 技能**
+**供终端用户与 AI agent 操作 TeamCity 的官方命令行客户端**
 
-Go 编写的 TeamCity 官方 CLI，覆盖构建运行与查看、日志跟踪、队列管理、agent 管理与远程 shell、job/project/pipeline 编辑、原始 REST 调用等日常与进阶操作，支持 --json/--plain 脚本化输出与多服务器切换。随 CLI 附带 Agent Skill，可安装到 Claude Code、Cursor 等编码 agent，教会其调用 teamcity 命令。提供 Homebrew、npm、winget、deb/rpm、AUR、Chocolatey、Scoop 及源码构建等多种安装方式。
+JetBrains 官方的 TeamCity 命令行客户端，用 Go 编写：登录一次即可记忆服务器，支持启动/查看/取消构建、跟踪日志、管理 agent 与队列、在 build agent 上打开 shell、编辑 job 设置，以及直接调用 REST API。每条命令支持 --json/--plain 输出用于脚本化，--web 跳转对应 UI 页面；支持多服务器登录与别名。面向使用 TeamCity 的开发者与 CI/CD 自动化场景；另内置 Agent Skill 供 Claude Code、Cursor 等编码 agent 学习驱动该 CLI。提供 TEAMCITY_RO=1 只读模式阻断写操作与远程 shell。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Go 编写的 TeamCity 官方 CLI，覆盖构建运行与查看、日志跟踪、
 
 ## 能力要点
 
-- 覆盖 run/job/project/pipeline/queue/agent/pool 等命令组的完整 CLI
-- 内嵌 Agent Skill，可安装给 Claude Code、Cursor 等编码 agent
-- teamcity api 直接以存储凭据调用原始 REST API
-- TEAMCITY_RO=1 只读模式阻止写入与远程 shell
+- 覆盖构建、日志、agent、队列、pipeline 等十余组命令，并可透传 REST API
+- 内置 Agent Skill 安装机制（teamcity skill install），自动检测已装 agent
+- 每条命令支持 --json/--plain 脚本化输出与 --web 跳转 UI
+- TEAMCITY_RO=1 只读模式与 HTTPS 重定向安全限制
 
 ## 适用场景
 
-- 在终端或脚本中启动构建、跟踪日志、管理 TeamCity 队列
-- 让 Claude Code/Cursor 等编码 agent 通过技能驱动 TeamCity
-- 在 CI/CD 中以 JSON 输出集成 TeamCity 操作
+- 在终端里启动构建、跟踪日志、查看队列
+- 让 Claude Code/Cursor 等 AI agent 通过技能驱动 TeamCity 操作
+- 脚本与 CI/CD 中用 JSON 输出做自动化
+- 在 build agent 上打开 shell 执行排查
 
 ## 场景标签
 
- · 领域:开发工具/CI-CD
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L5: `teamcity` is the official command-line client for TeamCity. It covers the day-to-day — starting builds, tailing log
-> L135: The CLI ships with an Agent Skill that teaches coding agents (Claude Code, Cursor, and others) how to drive `teamc
+> L5: `teamcity` is the official command-line client for TeamCity. Use it to start builds, tail logs, and check the queue,
+> L130: The CLI ships with an Agent Skill that teaches coding agents (Claude Code, Cursor, and others) how to drive `teamc
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `5e614b1e2629` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f0ecbdf06f00` · [字段定义](../../DATASET.md)*

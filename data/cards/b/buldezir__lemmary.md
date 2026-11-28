@@ -2,15 +2,15 @@
 
 ⭐ 123 · Go · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/buldezir/lemmary) · [官网](https://lemmary.app) · 个人维护
 
-**自托管文档库：扫描/PDF/办公文件上传、OCR 与 AI 元数据提取、自然语言检索**
+**将扫描件与办公文档组织为可自然语言检索的文档库**
 
-Go + PocketBase 后端与 React 前端的自托管文档管理系统。上传 PDF、图片、Office 文件后由 OCR 引擎（Mistral/Google Vision/Docling 等）提取文本，再用 OpenAI 兼容的 AI 提供商抽取标题、日期、标签与摘要，并在收件箱中供人工审校。搜索基于 Bleve 全文索引，含 AI 辅助检索与 Deep Research 两条 RAG 路径，后者以工具调用 agent 通读文档并生成带引用的回答。另实现部分 paperless-ngx 兼容 REST API，支持从 Paperless-ngx/Papra 迁移。许可为 source-available 而非开源。Docker Compose 部署，首次启动需配置 OCR 与 LLM API key。
+基于 Go + PocketBase 后端与 React 前端的自托管文档管理系统：上传 PDF、图片、Word、Excel 等文件后执行 OCR，通过 AI 提取标题、日期、类型、标签与摘要，并提供全文搜索、AI 辅助搜索与 Deep Research 两个 RAG 页面（后者阅读检索到的文档并给出带引用的回答）。支持网络扫描仪直连、IMAP 附件摄取、监视文件夹、Amazon 订单导入、从 Paperless-ngx/Papra 迁移、全库备份恢复与静态加密；实现 paperless-ngx 兼容 REST API。许可为 source-available，非开源。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
@@ -20,25 +20,26 @@ Go + PocketBase 后端与 React 前端的自托管文档管理系统。上传 PD
 
 ## 能力要点
 
-- OCR 文本提取与 AI 元数据抽取（标题/日期/类型/标签/摘要），低置信结果进入审校收件箱
-- AI 辅助搜索与 Deep Research：工具调用 agent 通读文档、跨库统计并输出带引用的回答
-- 实现部分 paperless-ngx 兼容 REST API，可配合 swift-paperless 等第三方客户端
-- 网络扫描仪直扫（eSCL/AirScan）、监控文件夹、IMAP 邮箱附件、Paperless-ngx/Papra 迁移等多种入库途径
+- OCR 支持 Mistral Document OCR、Google Cloud Vision、docling 等多后端
+- AI 辅助搜索与 Deep Research 页面，输出带来源链接的引用回答
+- 实现 paperless-ngx 兼容 REST API，可接第三方客户端
+- 支持监视文件夹、IMAP 邮箱摄取与全库 zip 备份恢复
 
 ## 适用场景
 
-- 自建纸质/电子文档归档库并用自然语言检索与研究
-- 从 Paperless-ngx 迁移文档并继续使用原有移动客户端
-- 对低置信 AI 抽取结果进行人工审校后归档
+- 把纸质扫描件和 PDF 整理成可搜索的个人文档库
+- 用自然语言提问并让系统引用库内文档作答
+- 从 Paperless-ngx 迁移文档并保留标签与 OCR 文本
 
 ## 场景标签
 
-`RAG` `OCR` `文档问答` · 领域:知识与检索
+`RAG` `OCR` `文档解析` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: Document storage built with Go + PocketBase and a React + TanStack Router frontend. Upload documents, run OCR, extra
 > L25: - Two search pages, one per path: **AI assisted search** (`/rag/search`) finds documents and lists them as cards; *
+> L70: - **OCR:** Mistral Document OCR (`mistral`), Google Cloud Vision (`google_vision`), a file-capable OpenAI/OpenRoute
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `d05b82d4d16e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `657a17cdeb28` · [字段定义](../../DATASET.md)*

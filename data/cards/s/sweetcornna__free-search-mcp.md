@@ -2,9 +2,9 @@
 
 ⭐ 188 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sweetcornna/free-search-mcp) · [官网](https://github.com/ymylive/free-search-mcp) · 个人维护
 
-**给 MCP 客户端提供免 API key 的本地网页搜索与文档读取服务**
+**无需 API key 的本地 MCP 搜索服务器，供 AI 客户端检索网页与文献**
 
-单二进制 Rust 实现的 Model Context Protocol 服务器，无需 API key 或注册即可运行。对外暴露 search、exec、ask 三个工具，聚合 500+ 网络、学术与专业数据源，支持多引擎网页搜索（DuckDuckGo、Mojeek 等）、学术子系统（引用图谱、撤稿检查、OA 全文）、本地文档解析（PDF/DOCX 等）、FTS5 缓存与沙箱化 JavaScript 执行。默认路径不依赖 LLM；可选配置 answer agent 后端。面向使用 Claude Code、Codex、Antigravity 等 MCP 客户端的用户。
+以 Rust 编写、单二进制的 Model Context Protocol 服务器，暴露 search/exec/ask 三个工具，聚合 500+ 网页、学术与垂直来源，支持 DuckDuckGo、Mojeek、Startpage 等无密钥引擎，内置学术子系统（引文图谱、OA 全文、Retraction Watch）、本地文档解析与 FTS5 缓存。面向 Claude Code、Codex、Antigravity 等 MCP 客户端用户，通过插件、uvx、独立二进制、Docker 等方式安装，默认无需任何 API key 或注册。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 仅暴露 3 个工具，聚合 500+ 网络/学术/专业数据源
-- 默认引擎均无需 API key 与账号，冷启动 ≤15 ms
-- 沙箱 QuickJS-NG 中批量抓取并读取 PDF/DOCX/XLSX/PPTX/EPUB
-- Retraction Watch 本地索引与 offline hayagriva 引用生成
+- 暴露 search/exec/ask 三个工具，覆盖 500+ 网页、学术与垂直来源
+- 无需 API key 与注册，冷启动 ≤15 ms，二进制约 20 MB
+- 学术子系统：引文图谱、 lawful OA 全文、Retraction Watch 撤稿检查
+- 沙箱化 QuickJS-NG 执行环境，可读 PDF/DOCX/XLSX/PPTX/EPUB
 
 ## 适用场景
 
-- 让 Claude Code 等 MCP 客户端直接进行联网搜索与网页阅读
-- 在一次 exec 调用中完成论文检索、引用图谱与撤稿核查
-- 无 API key 环境下为 agent 提供本地优先的搜索工具
-- 通过 CLI 或 HTTP 端点做快速带来源的查询
+- 让 Claude Code 等 MCP 客户端直接联网搜索并读取网页
+- 在本地完成学术论文检索、引文核查与 OA 全文获取
+- 解析本地 PDF/Office/EPUB 文档并纳入检索流程
 
 ## 场景标签
 
@@ -39,8 +38,8 @@
 ## 证据(README 行号)
 
 > L11: `free-search-mcp` 1.0 is a single-binary, local-first Rust Model Context
+> L12: Protocol server that needs **no API key** and **no signup**. It exposes exactly
 > L37: Claude Code, Codex, and Antigravity (`agy`) are equal first-class targets. All
-> L85: |`ask(question, freshness?, lang?, domains?, mode?, max_tokens?)`|Quick one-call lookup with no code (`mode`: `"aut
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `250934f582bd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `72b5dd1f02a1` · [字段定义](../../DATASET.md)*

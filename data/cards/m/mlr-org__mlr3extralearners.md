@@ -2,15 +2,15 @@
 
 ⭐ 115 · R · LGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/mlr-org/mlr3extralearners) · [官网](https://mlr3extralearners.mlr-org.com/) · 组织维护
 
-**为 mlr3 机器学习框架提供扩展学习器的 R 包**
+**mlr3 的额外机器学习学习器集合，供 R 用户扩展模型种类**
 
-mlr3extralearners 收录 mlr3 生态中未被 mlr3learners 及核心包包含的额外学习器（Learner），供使用 mlr3 框架做机器学习建模的用户扩展可选算法。包内置检测学习器依赖是否已安装的功能，并提供 install_learner 函数自动安装学习器所需的依赖包。仅通过 GitHub 或 r-universe 仓库安装，不上架 CRAN；提供添加新学习器的扩展教程，并有对应 JOSS 论文可引用。
+收录 mlr3 生态中不属于核心包与 mlr3learners 的全部学习器，统一以 lrn() 接口调用；内置检测所需依赖包是否安装的机制，并提供 install_learner 函数安装学习器所需依赖。包通过 GitHub 与 r-universe 分发，不在 CRAN 上。支持社区贡献新学习器，仓库附有供 AI 编码代理使用的 mlr3-add-learner 技能，并随 Mathematical Research Data Initiative 开发。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | LGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,26 @@ mlr3extralearners 收录 mlr3 生态中未被 mlr3learners 及核心包包含的
 
 ## 能力要点
 
-- 收录 mlr3learners 与核心包之外的所有 mlr3 学习器
-- install_learner 函数自动安装学习器依赖包
-- 可检测学习器所需包是否已安装
-- 提供添加新学习器的扩展教程
+- 集中收录 mlr3 生态核心包之外的额外学习器
+- 检测学习器所需依赖包缺失并提示
+- install_learner 函数一键安装学习器依赖
+- 提供 Claude Code 可自动拾取的添加学习器 agent 技能
 
 ## 适用场景
 
-- 在 mlr3 中使用核心包未收录的回归/分类学习器（如 gbm）
-- 自动补齐某个学习器的 R 包依赖
-- 为 mlr3 生态贡献新的学习器实现
+- 在 mlr3 管线中使用 gbm 等额外学习器训练与预测
+- 为自维护的建模包接入 mlr3 学习器接口
+- 统一管理多个学习器的依赖包安装
 
 ## 场景标签
 
- · 领域:机器学习/R 生态
+ · 领域:机器学习/R 统计建模
 
 ## 证据(README 行号)
 
+> L6: Extra Learners for **mlr3**.
 > L16: `mlr3extralearners` contains all learners from mlr3 that are not in
-> L17: `mlr3learners` or the core packages. An overview of all learners within
+> L60: The package includes functionality for detecting if you have the
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `edb1e48e4854` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `a3fda17f6a23` · [字段定义](../../DATASET.md)*

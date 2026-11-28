@@ -2,9 +2,9 @@
 
 ⭐ 134 · Jupyter Notebook · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sib-swiss/sparql-llm) · [官网](https://chat.expasy.org) · 组织维护
 
-**帮 LLM 生成 SPARQL 查询的 MCP 服务器、聊天系统与组件**
+**帮助 LLM 生成 SPARQL 查询的聊天服务、MCP server 与 Python 组件库**
 
-由 SIB（瑞士生物信息学研究所）维护的项目，提供三部分：部署在 expasy.org/chat 的聊天 Web 服务、部署在 chat.expasy.org/mcp 的 MCP 服务器，以及 pip 包 sparql-llm 形式的可复用组件。系统结合 RAG 与基于 VoID 端点元数据的 SPARQL 查询校验，提升 LLM 生成查询的准确性；MCP 服务器暴露文档检索、类结构检索、查询执行等工具，并提供 UniProt、Bgee、Rhea 等 SIB 生物数据资源的交互式 widget 工具。要求端点包含 SPARQL 查询示例与 VoID 描述等元数据。
+SIB（瑞士生物信息学研究所）维护的项目，提供三部分：部署于 expasy.org/chat 的聊天 Web 服务、暴露检索与执行工具的 MCP server、以及 pip 包 sparql-llm 的可复用组件。机制上结合 RAG（从 SPARQL endpoint 提取查询示例与类 schema 作为检索元数据）与基于 VoID 描述的 SPARQL 查询校验。要求目标 endpoint 内嵌 VoID 元数据（可用 void-generator 自动生成），主要面向 SIB 旗下 UniProt、Bgee、OMA 等生物数据资源。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- MCP 服务器提供文档/类结构检索与 SPARQL 查询执行工具
-- RAG 结合 VoID 元数据校验生成的 SPARQL 查询
-- pip 安装的可复用组件（示例加载器、校验函数），兼容 LangChain 也可独立使用
-- 面向 UniProt、Bgee、OMA 等 SIB 生物数据资源的一组交互式 widget 工具
+- 提供 MCP server，含文档检索、类 schema 检索与 SPARQL 查询执行工具
+- pip 包提供 LangChain 兼容的元数据 loader 与联邦 SPARQL 查询校验函数
+- 容器化的聊天系统部署方案（Web UI + API + 内嵌向量库）
+- 多个 UniProt/Bgee/Rhea 等生物数据的交互式 widget 工具
 
 ## 适用场景
 
-- 在 VSCode 等 MCP 客户端中通过自然语言查询 SPARQL 端点数据
-- 为自有 SPARQL 端点部署 LLM 聊天式查询生成服务
-- 在自有 LLM 应用中复用元数据加载与查询校验组件
+- 为机构的一组 SPARQL endpoint 部署自然语言查询聊天服务
+- 让支持 MCP 的客户端（如 VSCode）通过工具检索并执行 SPARQL 查询
+- 在自己的 RAG 管线中复用 endpoint 元数据 loader 与查询校验函数
 
 ## 场景标签
 
-`RAG` `数据分析` · 领域:效率与自动化
+`RAG` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L7: This project provides tools to enhance the capabilities of Large Language Models (LLMs) in generating SPARQL queries
-> L10: - a **MCP server** exposing tools at **chat.expasy.org/mcp**
 > L30: - **MCP server** with tools to help LLM write SPARQL queries for a set of endpoints
+> L149: pip install sparql-llm
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `8e24dce957f6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `a1d40fba3126` · [字段定义](../../DATASET.md)*

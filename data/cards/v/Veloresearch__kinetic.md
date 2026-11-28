@@ -2,9 +2,9 @@
 
 ⭐ 276 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Veloresearch/kinetic) · [官网](https://veloresearch.com/research/kinetic) · 组织维护
 
-**在个人电脑上本地运行 GGUF 大模型的 Rust 推理引擎**
+**本地运行 GGUF 模型的 Rust 推理引擎，供本机使用**
 
-用 Rust 编写的本地推理引擎，读取 llama.cpp 格式的 GGUF 文件，单个二进制支持 CPU 与 NVIDIA/AMD/Intel GPU（CUDA/Vulkan/Metal），平台为 Windows 与 Linux。内置 RAD-1 精确投机解码、Warm Start 提示缓存、Zero Wait 输入预处理、Torque CUDA graph、Convoy 并发与 Shortlist 等默认开启的加速技术，声明输出与普通解码逐 token 一致。可作为 llama-server/llama-cli 等工具的替身运行，同时提供 OpenAI、llama-server 与 Ollama 兼容 API，当前为 beta 状态。
+Rust 编写的本地推理引擎，读取 GGUF 文件并在 CPU 与 NVIDIA/AMD/Intel/Apple GPU 上运行模型，单个二进制覆盖 Windows/Linux/macOS。提供 kinetic pull/chat/serve/run/bench 等命令、终端主屏界面与 OpenAI 风格 API（端口 8080）。宣称推理速度提升不改变输出（RAD-1 精确投机解码、Warm Start、Zero Wait、Torque、Convoy 等技术默认开启）。当前为 beta（0.1.x），0.2 目标是支持 llama.cpp 能跑的所有热门模型；部分模型仅在 CPU 上运行，Inkling 2 暂无图像输入。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 单二进制运行 CPU 与 NVIDIA/AMD/Intel GPU，读取 GGUF 文件
-- RAD-1 精确投机解码与 Warm Start 提示缓存，声明输出逐 token 与普通解码一致
-- 提供 OpenAI /v1、llama-server 与 Ollama /api 兼容接口，支持 llama.cpp 命令行标志
-- 自动检测机器并推荐可运行模型，`kinetic pull` 下载模型
+- 单二进制支持 CPU 与 NVIDIA/AMD/Intel/Apple GPU（CUDA/Vulkan/Metal）
+- 精确投机解码 RAD-1 与 Warm Start/Zero Wait/Torque/Convoy 等加速技术，宣称不改变输出 token
+- 可运行 Ollama、LM Studio 与 Hugging Face 缓存中已有的 GGUF 模型
+- 提供 llama-server/cli/bench/quantize/perplexity 的对应替代命令与兼容 flags
 
 ## 适用场景
 
-- 在自己的电脑上用一条命令下载并聊天运行 GGUF 模型
-- 已有 llama.cpp 工作流时替换 server/cli/bench/quantize 等工具
-- 多用户同时向本地模型服务发请求（--parallel 共享推理）
-- 长文档粘贴场景下加速首 token 返回（Zero Wait）
+- 在本地电脑上通过命令行拉取模型并对话
+- 用 kinetic serve 在 8080 端口提供 API 给应用调用
+- 复用已有的 GGUF 文件与 Ollama/LM Studio 模型缓存
+- 对本地推理做基准测试（kinetic bench）
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L3: ### The open engine for running AI on your own computer.
-> L11: API
-> L287: works as written. One port answers the OpenAI API under `/v1`,
+> L5: Written in Rust. It reads GGUF files, the format llama.cpp uses, and runs the models it
+> L59: **0.2 is the release where Kinetic runs every popular model llama.cpp runs.** The map shows where we are.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1fa058867e38` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `a2b3c24641b7` · [字段定义](../../DATASET.md)*

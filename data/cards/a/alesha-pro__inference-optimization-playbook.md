@@ -2,9 +2,9 @@
 
 ⭐ 115 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/alesha-pro/inference-optimization-playbook) · 个人维护
 
-**消费级 GPU 上运行大型 MoE LLM 的调优经验手册**
+**消费级 GPU 上 MoE 大模型推理调优的实测假设手册，供人与编码 Agent 使用**
 
-收录 115 个经过实测的推理加速假设（含 97 条结论），每条记录结果、数据、原因与测试条件，内容来自在 4x RTX 3090 加 RAM 专家卸载配置上运行多款 MoE 模型。手册按机制组织为 16 章，通过情况卡与标签系统帮助读者按自身条件定位适用结论；仓库根目录同时是符合 SKILL.md 规范的技能目录，可直接交给编码 agent 使用。作者声明数据来自单一平台，不提供基准测试工具。
+作者在 1-4 张 RTX 3090 上对 7 个 MoE 模型案例积累的调优笔记，汇总为 138 条已测试假设的台账，每条含结论、测量数据与测试条件，包括失败结果（如 drafter 微调无收益、O_DIRECT 低于缓冲读）。仓库同时是一个 skill 目录（SKILL.md + 2 个标准库 Python 脚本），Agent 通过填写 situation card 生成标签并用 grep 过滤台账。测量多为单活跃请求，仿真/计算/外部数据等以标签区分。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 115 个实测假设，每条含 worked/failed/conditional 判定与数字
-- 情况卡+标签系统按条件筛选适用结论
-- 仓库根目录即 SKILL.md 技能目录，可被编码 agent 直接读取
-- 16 章各附迁移到其他模型的检查清单
+- 138 条测试假设的台账，含结论、数值与测试条件，含失败案例
+- 按机制组织的 15 章 playbook，按工况/症状入口查找
+- 仓库即 skill 目录，Agent 生成标签行后 grep 过滤台账
+- 附 route_sim.py 等标准库脚本做路由与缓存行为估算
 
 ## 适用场景
 
-- 调优本地 LLM 推理前先查相同条件下是否已试过
-- 让编码 agent 按手册规划 MoE 模型在受限硬件上的部署
-- 判断投机解码、专家卸载等方案在自己硬件上是否值得尝试
+- 查询我的硬件/模型组合下某优化思路是否已被验证过
+- 让编码 Agent 依据台账为本地推理排障并规划实验
+- 在新 MoE 模型上按 checklist 从零启动并复测机制
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L3: A map of 115 tested ideas for making huge LLMs fast on consumer GPUs. Each one has a verdict (worked, failed, or wor
-> L37: - **Coding agents** that do the tuning for them. The repo root is a ready skill.
-> L56: playbook/    16 chapters by mechanism
+> L3: My field notebook for tuning LLM inference on consumer GPUs. The ledger covers 138 tested hypotheses across 7 model 
+> L54: The repo root is a skill directory: `SKILL.md`, plain markdown and 2 standard-library Python scripts.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `80e0d1a5936e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `348f006c7483` · [字段定义](../../DATASET.md)*

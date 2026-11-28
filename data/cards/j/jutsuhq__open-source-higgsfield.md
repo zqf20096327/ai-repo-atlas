@@ -2,9 +2,9 @@
 
 ⭐ 139 · JavaScript · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/jutsuhq/open-source-higgsfield) · [官网](https://jutsustudio.com/open-source-higgsfield/) · 组织维护
 
-**开源 Higgsfield 替代品清单：收录 96 个挑战项目与 6 个既有方案**
+**Higgsfield 开源替代项目的策展清单：117 个 AI 视频项目**
 
-非官方社区维护的 awesome 清单，收录 ComfyUI #OpenSourceHiggsfield 挑战产生的 96 个项目及 6 个更早的开源替代品，按角色换脸（Openjutsu）、一体化工作室、特效 VFX、运镜重拍与预演等类别组织。每条列出简介、星标数与许可证（截至 2026-10-30），涵盖在自有 GPU 或 Comfy Cloud 上运行开源权重模型的视频生成工具。清单声明与 Higgsfield、Comfy 无隶属关系。
+一份非官方社区维护的 awesome 清单，收录 117 个开源 Higgsfield AI 替代项目，其中 110 个来自 ComfyUI #OpenSourceHiggsfield 挑战赛（含 16 个获奖项目），7 个更早期项目。按角色替换、特效、镜头重拍、影片与一体化工作室等类别组织，附星标数、许可证统计（截至 2026-11-19）与挑战赛时间线，提供 data/projects.json 机器可读数据和 node 脚本重建，清单本身以 CC0 1.0 发布。不提供工具安装与运行说明。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 收录 96 个挑战项目与 6 个既有替代方案
-- 按角色换脸/工作室/VFX/运镜重拍等类别组织
-- 条目附星标数与许可证信息
-- 提供 jutsustudio.com 分类浏览页
+- 收录 117 个项目：110 个来自挑战赛，16 个获奖者
+- 按 9 个类别组织：角色替换、一体化工作室、特效等
+- 提供机器可读数据 data/projects.json 与构建脚本
+- 清单以 CC0 1.0 许可发布
 
 ## 适用场景
 
-- 寻找 Higgsfield 商业平台的开源替代视频工具
-- 了解 ComfyUI 生态中的 AI 视频生成项目
-- 按类别（换角色、特效、运镜重拍）挑选自托管工具
+- 查找 Higgsfield 功能的开源替代实现
+- 了解 #OpenSourceHiggsfield 挑战赛项目与获奖名单
+- 按许可证和星标数筛选 AI 视频开源项目
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`视频生成` `精选清单` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L3: > Open-source Higgsfield AI alternatives on GitHub, starting with every notable project built for ComfyUI's #OpenSou
-> L5: 96 challenge projects and 6 older alternatives, with stars and licenses as of 2026-10-30. Browse the same list by ca
+> L3: There are 117 open-source Higgsfield AI alternatives in this list: 110 GitHub projects from ComfyUI's #OpenSourceHig
+> L34: |Machine-readable data|data/projects.json|
+> L36: |List license|CC0 1.0|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `c031419a7f45` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8bc80fc675ba` · [字段定义](../../DATASET.md)*

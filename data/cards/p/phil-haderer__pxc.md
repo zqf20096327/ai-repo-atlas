@@ -2,9 +2,9 @@
 
 ⭐ 134 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/phil-haderer/pxc) · 个人维护
 
-**为 PhotoCraft 用户提供本地 AI 生图与图像编辑的伴随应用**
+**PhotoCraft 伴侣应用：本地模型生成文生图与图层级图像编辑**
 
-一个与 PhotoCraft 图像编辑器配合的伴随应用：用户在自身电脑上通过 ComfyUI 运行本地模型，提供文生图、扩图、填充、移除、编辑、精修、放大七种生成模式，结果作为新图层写回 PhotoCraft 文档。内置七个可下载的模型包（自动分发到 ComfyUI 目录）、LLM 辅助的提示词改写与图像描述、83+34 个风格预设、提示词保存复用，并支持多台客户端共用一台 ComfyUI 服务器的团队队列模式。要求 8 GB VRAM 以上 GPU，双许可 MIT 或 Apache-2.0。
+运行于本机的伴侣应用，衔接 PhotoCraft 图像编辑器与 ComfyUI：将用户提示词或画布选区发送给 ComfyUI 中的本地模型，生成结果以新图层返回文档。支持文生图、扩展、填充、移除、编辑、精修、放大七种模式，内置 7 个模型的一键下载与目录归位，含提示词改进 LLM、83+34 个风格提示词模板，并支持多台客户端共用一个 ComfyUI 服务端。要求 PhotoCraft 0.20.2–0.23.1、约 8 GB 显存，每模型需 13–38 GB 磁盘空间。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 七种生成模式：文生图、扩图、填充、移除、编辑、精修、放大
-- 七个本地模型一键下载并自动放入 ComfyUI 对应文件夹
-- LLM 辅助提示词优化、画布描述与草图转提示词
-- 支持多客户端共用一台 ComfyUI 服务器并显示队列
+- 七种生成模式：文生图/扩展/填充/移除/编辑/精修/放大，结果以新图层返回
+- 7 个本地模型一键下载并自动放入 ComfyUI 对应目录，支持 bf16/fp8/nvfp4/GGUF 自选文件
+- 内置 LLM 功能：改进提示词、描述画布与参考图、草图转提示词
+- 团队用法：多台 PxC 指向同一 ComfyUI 服务端，队列可见他人任务
 
 ## 适用场景
 
-- 在 PhotoCraft 中用提示词生成图像并自动落为新图层
-- 对选区做本地 AI 填充、移除或扩图
-- 小团队共用一台 GPU 服务器跑 ComfyUI 生图任务
+- 在 PhotoCraft 中用本地模型做选区填充、物体移除与画布扩展
+- 无网络依赖地生成图像并将结果直接作为图层继续编辑
+- 小团队共用一台 GPU 机器跑 ComfyUI 推理队列
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L7: **A companion app that brings Photoshop-style generative AI to PhotoCraft, running on your own PC.**
 > L8: Pick a function, type a prompt, press Generate: the result arrives as a new layer in your document.
-> L90: - **PxC** (this companion app, a small window of its own next to PhotoCraft) sits between them: it sends your pictu
+> L97: - **ComfyUI** runs the AI models on your graphics card.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `0215dfc23c02` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `2143d8063341` · [字段定义](../../DATASET.md)*

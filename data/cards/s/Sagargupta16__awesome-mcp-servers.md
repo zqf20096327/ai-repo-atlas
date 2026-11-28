@@ -2,9 +2,9 @@
 
 ⭐ 210 · Python · CC0-1.0 · 推送 2026-11-27 · [GitHub](https://github.com/Sagargupta16/awesome-mcp-servers) · [官网](http://sagargupta.online/awesome-mcp-servers/) · 个人维护
 
-**经 CI 校验的 MCP 服务器与工具精选清单**
+**面向 AI 应用开发者的 MCP 服务器策展清单**
 
-Model Context Protocol 服务器、工具、框架与资源的策展清单，按数据与数据库、开发者工具、云与基础设施等分类组织，每条标注实现语言与是否为 Remote 托管。收录规则由 CI 强制执行：真实实现 MCP、声明开源许可、180 天内有提交、可安装可配置、每个条目仅归一类；每月自动复审并移除失效项。还提供每小时从 README 重建的可搜索站点，支持分类与语言过滤。
+收录 Model Context Protocol 服务器、工具、框架与资源的策展清单，按数据与数据库、开发者工具、云与基础设施等类别组织。收录标准包括真实实现 MCP、声明开源许可、180 天内有提交、文档完整且每条仅归一类；这些规则由 CI 强制检查，并有每月审计清理失效条目。另提供每小时从 README 重建的可搜索站点，支持搜索、分类与语言过滤。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Model Context Protocol 服务器、工具、框架与资源的策展清单，按
 
 ## 能力要点
 
-- 收录规则由 CI 自动校验，含月度失效复审
-- Remote 条目需 CI 检查端点可用性
-- 每小时重建的可搜索站点（搜索、分类、语言过滤、实时 star 数）
-- 条目不设最低 star 数，欢迎自荐提交
+- CI 强制执行收录规则并每月审计失效仓库
+- 每条目均验证真实实现 MCP 且声明开源许可
+- 提供每小时重建的可搜索站点，带分类与语言过滤
+- 条目涵盖数据库、开发者工具、云基础设施等类别
 
 ## 适用场景
 
-- 为 Claude、Cursor 等 AI 客户端查找可接入的 MCP 服务器
-- 查找特定数据库或开发工具的 MCP 集成
-- 提交自己的 MCP 项目进入策展清单
+- 为 Claude、Cursor 等 AI 客户端查找可用的 MCP 服务器
+- 评估某个 MCP 服务器仓库是否可信可用
+- 将自己的 MCP 服务器提交收录进清单
 
 ## 场景标签
 
@@ -39,7 +39,6 @@ Model Context Protocol 服务器、工具、框架与资源的策展清单，按
 
 > L1: # Awesome MCP Servers Awesome
 > L7: **This list is curated, not exhaustive, and open to anyone.** Bigger MCP lists exist. The point of this one is that 
-> L17: Those rules are enforced by CI, not by good intentions: a pull request that breaks the format, adds a dead link, or
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `605e08840972` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `309f10f60ee4` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio
 
-⭐ 160 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio) · 个人维护
+⭐ 160 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AcademiaSD/AcademiaSD_LoRAlab-TrainerStudio) · 组织维护
 
-**低显存 NVIDIA GPU 上的多模型 LoRA 训练工作台**
+**低显存 GPU 上为多种图像/视频模型训练 LoRA 的工作室**
 
-面向消费级显卡的 LoRA 训练整合工具：一次安装、一个启动器，以 NF4 量化方式在 4–8 GB VRAM 上训练 Qwen-Image、FLUX 系列、Anima、SDXL、LTX、MiniMax-H3 等十多个图像与视频模型的 LoRA/LoKr/DoRA。机制上提供 block swap 与 VRAM Profile 控制显存占用，内置数据集分析器（重复/模糊图、缺触发词检测）、BiRefNet 遮罩损失、输出保留、自动最佳 checkpoint 评选、XY 网格预览，训练产物可在 ComfyUI 加载。支持 Windows、Linux 与 RunPod，老显卡可切 FP16。
+面向 4–8 GB VRAM 的 NVIDIA GPU 的 LoRA 训练工具：一次安装、一个启动器，提供 Qwen-Image 2.1、FLUX.2 Klein 9B、LTX 2.5、SDXL（Pony/Illustrious/NoobAI）等多个模型的专属训练器，采用 NF4 量化模型并支持 block swap 与 VRAM Profile 降低显存峰值。内置数据集分析、BiRefNet 掩码损失、训练前设置助手、自动挑选最佳 checkpoint、XY 网格预览。支持 Windows、Linux 与 RunPod，产物可在 ComfyUI 中加载。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- NF4 量化 + block swap + VRAM Profile，4–8 GB 显卡可训练
-- 数据集分析器检测重复/模糊图、缺触发词与人脸混入
-- 训练结束自动用同提示词评分并复制最佳 checkpoint
-- 17 个训练器支持 DoRA 与 Auto/BF16/FP16 精度选择
+- NF4 量化加 block swap/VRAM Profile，支持 4–8 GB VRAM 训练
+- 覆盖图像、视频、音视频与编辑（IC-LoRA）多类 LoRA 训练器
+- 数据集分析器检查重复/模糊/缺 caption 等问题并一键修复
+- 训练结束自动测试 checkpoint 并输出推荐的最佳 LoRA 文件
 
 ## 适用场景
 
-- 在 8 GB 显卡上训练角色或画风 LoRA
-- 训练能在 ComfyUI 中直接加载的 LoRA/DoRA 文件
-- 用内置数据集分析器清理训练图集
-- 在 RunPod 上运行训练环境
+- 在消费级低显存显卡上训练人物或风格的 LoRA
+- 为 LTX 视频模型训练带音频预览的 LoRA
+- 用数据集分析器清理训练图片与 caption
 
 ## 场景标签
 
-`微调` `模型量化` · 领域:训练与推理
+`微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L13: - MAJOR UPDATE **Masked loss in every image trainer** — BiRefNet (MIT, ~0.2 GB) cuts out the subject of every image
-> L18: - MAJOR UPDATE **Optimizer selector, with Prodigy** — choose AdamW, AdamW 8-bit, Prodigy or Adafactor above the LR 
-> L30: - **Krea 2 from 8 GB of VRAM** — the block swap and **VRAM Profile** of FLUX.1 and Klein 9B. At 1024² Krea 2 peaked
+> L34: - **Krea 2 from 8 GB of VRAM** — the block swap and **VRAM Profile** of FLUX.1 and Klein 9B. At 1024² Krea 2 peaked
+> L50: - NEW TRAINER **LTX 2.5: image, video, video + audio and edit (IC-LoRA) LoRAs, from 8 GB of VRAM** — images, clips 
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `629feefd534f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `284d52310ef9` · [字段定义](../../DATASET.md)*

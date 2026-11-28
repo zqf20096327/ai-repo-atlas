@@ -1,10 +1,10 @@
 # RioShiina47/comfy-webui
 
-⭐ 117 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/RioShiina47/comfy-webui) · [官网](https://huggingface.co/spaces/RioShiina/ImageGen) · 个人维护
+⭐ 117 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/RioShiina47/comfy-webui) · [官网](https://huggingface.co/spaces/RioShiina/ImageGen) · 个人维护 · 中文 README
 
-**把 ComfyUI 工作流封装为 Gradio UI、语义 API 与 MCP 工具的平台**
+**把 ComfyUI 工作流封装为 Gradio 界面、语义 API 与 MCP 工具的平台**
 
-基于 Gradio 构建的 ComfyUI 前端与 Workflow-as-a-Service 平台，通过动态工作流组装 API 与 ComfyUI 后端解耦通信。图像生成采用矩阵式动态工作流机制（任务维度×模型维度），支持 LoRA/ControlNet/IP-Adapter 等链式注入，并覆盖视频、音频、3D 生成与跨模态编辑。面向开发者与 AI Agent，将多节点工作流暴露为高层语义 API 与 MCP 工具（含 8 个 ImageGen 工具与全模态工具集），降低 LLM 直接编排节点的复杂度。项目自述处于活跃开发期，模型库主要用于测试；设计面向可信局域网，公开互联网暴露需自行加固。
+基于 Gradio 构建的 ComfyUI Workflow-as-a-Service 平台，通过动态工作流组装 API 与 ComfyUI 后端解耦通信。提供三种调用形态：图形界面、高层语义 API、MCP 工具（图像模块含 8 个工具，另覆盖 3D/音频/视频生成）。图像侧支持 txt2img/img2img/inpaint/outpaint/hires_fix 任务类型，可叠加 LoRA、ControlNet、IP-Adapter 等链式注入器。README 声明项目处于活跃开发期，接口可能重构，且面向可信局域网环境、内置安全防护有限，不建议直接暴露公网。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 矩阵式动态工作流：任务维度与模型维度自由组合，支持数十种基础生成模式
-- 高层语义 API/MCP 将多节点工作流封装为可调用函数，供 LLM 与 Agent 接入
-- 图像生成 8 个语义工具与渐进式探索管线（发现任务→筛选架构→执行→异步轮询）
-- 覆盖图像、视频（MiniMax-H3/LTX-2.5/Wan 等）、音频（Music-3）、3D（Hunyuan3D-2/TRELLIS）与跨模态编辑
+- 将多节点 ComfyUI 工作流封装为高层语义 API 与 MCP 工具
+- 矩阵式动态工作流组装：任务维度 × 模型维度组合基础生成模式
+- 支持 LoRA/ControlNet/IP-Adapter/参考图等动态链式注入器
+- 面向 Agent 的自描述发现流程与异步任务状态轮询
 
 ## 适用场景
 
-- 在统一界面中组合多模型与多注入链完成图像/视频/3D 生成
-- 让支持 MCP 的 LLM 或 AI Agent 直接调用复杂工作流做自动化生成
-- 把 ComfyUI 工作流封装为高层 API 供外部系统集成
+- 让支持 MCP 的 LLM 或 Agent 直接调用全模态生成能力
+- 为团队内部提供统一的多模态生成图形界面
+- 把复杂 ComfyUI 工作流封装成可编程接口供自动化集成
 
 ## 场景标签
 
-`图像生成` `视频生成` · 领域:内容生成
+`工作流自动化` `图像生成` `视频生成` `多模态` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L44:  - The platform exposes complex multi-node workflows as standardized high-level functions via Gradio native APIs an
+> L5: Comfy web UI is more than a modular frontend for ComfyUI — it is a powerful **Workflow-as-a-Service (WaaS)** platfor
+> L43: - **🤖 High-Level Semantic API / MCP — Workflow-as-a-Service (WaaS)** **Live MCP Endpoint** 🔗
 > L45:  - Any LLM or AI Agent supporting the MCP protocol can directly interface with the service for end-to-end full-moda
-> L50:  - **Intent-Driven Orchestration:** Frees AI agents from being "node wirers", allowing them to focus purely on high
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `c37a14484e0b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `50c9d3c67b20` · [字段定义](../../DATASET.md)*

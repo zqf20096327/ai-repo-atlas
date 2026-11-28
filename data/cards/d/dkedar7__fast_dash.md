@@ -2,9 +2,9 @@
 
 ⭐ 130 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/dkedar7/fast_dash) · [官网](https://docs.fastdash.app) · 个人维护
 
-**把 Python 函数一键变成交互式 Web 应用的装饰器框架**
+**给开发者：把 Python 函数一键变成可交互 Web 应用**
 
-基于 Plotly Dash 的 Python 框架：@fastdash 装饰器在导入时检查函数签名，按类型注解和默认值自动选取 UI 组件（int→数字输入、DataFrame→表格、PIL.Image→图片上传等），把函数体接为回调并启动服务器，通常少于五行代码生成可分享的 Web 应用。支持聊天模式、Mosaic 布局、多函数标签页、多步骤向导；可选开启 MCP 服务器让 Claude Code/Cursor 等 AI agent 读写并驱动应用。限制：MCP 路由无鉴权，仅建议本机开发使用；多函数与 steps 模式不提供 MCP 接口。
+一个 Python 库，通过 @fastdash 装饰器读取函数签名，按类型提示与默认值自动选择 UI 组件，并构建为 Plotly Dash 应用（通常五行以内代码），无前端与回调样板。支持流式聊天应用（chat=True，不内置任何 LLM 提供方，由用户自选）、AI agent 经 MCP 接口检查并驱动应用、多函数标签页、steps 多步向导、mosaic 布局、级联输入等模式。经 PyPI 安装，MIT 许可，文档在 docs.fastdash.app；多函数与 steps 模式不支持 MCP 面，MCP 路由无鉴权。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 装饰器按类型注解自动生成输入/输出 UI 组件
-- chat=True 可将回调变为流式聊天应用，LLM 提供方由用户自选
-- mcp_server=True 同端口提供 MCP 服务，AI agent 可发现并驱动应用
-- 内置 20 余种组件，支持 Mosaic 布局、级联输入、多步骤流水线
+- 函数签名+类型提示自动映射为输入/输出组件
+- chat=True 生成流式聊天应用，LLM 提供方由用户自选
+- mcp_server=True 使应用同时提供 MCP 服务，agent 可读取输入、调用并生成表单
+- 内置 Text/Slider/Upload/Graph/Chat/Download 等组件库
 
 ## 适用场景
 
-- 把数据分析或机器学习函数快速发布为可分享的 Web 应用
-- 为 Python 函数生成带聊天界面的 LLM 应用原型
-- 让 Claude Code/Cursor 等 agent 通过 MCP 直接操控自己构建的应用
+- 把已有 Python 函数快速发布成可分享的 Web 界面
+- 为自己的 LLM 搭建带历史与侧栏参数的聊天界面
+- 让 Claude Code/Cursor 等 agent 通过 MCP 操作本地应用
+- 将多函数或多步骤流程组织为标签页/向导式工具
 
 ## 场景标签
 
- · 领域:Web 应用框架/数据科学工具
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L3:  Turn any Python function into a web app with a single decorator ⚡
 > L31: Fast Dash inspects your Python function's signature, picks UI components from the type hints and default values, an
-> L257: Pass `mcp_server=True` and your app serves a web UI **and** an MCP server — built on Dash's native MCP (Dash ≥ 4.3
+> L260: Pass `mcp_server=True` and your app serves a web UI **and** an MCP server — built on Dash's native MCP (Dash ≥ 4.3
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d86196933eed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `66c09d36f634` · [字段定义](../../DATASET.md)*

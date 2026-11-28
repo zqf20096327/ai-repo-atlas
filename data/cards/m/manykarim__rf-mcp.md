@@ -2,9 +2,9 @@
 
 ⭐ 118 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/manykarim/rf-mcp) · 个人维护
 
-**让编码代理通过 MCP 实时执行并生成 Robot Framework 测试**
+**让编码 agent 发现/编写/调试/运行 Robot Framework 测试的 MCP 服务器**
 
-rf-mcp 是一个 Model Context Protocol 服务器，将 Robot Framework 测试能力接入编码代理：代理可发现关键字，针对 Browser、Selenium、Appium、Requests、数据库或桌面实时逐步执行测试，步骤通过后生成 .robot 测试套件。通过 robotmcp install 可自动注册到 Claude Code、Codex、GitHub Copilot、Gemini CLI 等八种代理；测试在 rf-mcp 所在的 Python 进程中执行，已有 RF 项目可挂载项目环境。提供 uv/pip/pipx 安装、Docker 镜像（含 VNC 版）、可选 Django 仪表盘与库插件系统；桌面自动化依赖的 PlatynUI 为预发布版，需显式安装且平台受限。
+基于 RobotCode CLI 与 FastMCP 构建的 Model Context Protocol 服务器，向 Claude Code、OpenAI Codex、GitHub Copilot 等编码 agent 提供 8 个 MCP 工具：套件发现、语义静态分析、关键字文档、测试执行、结果查询/合并、有状态 REPL 编写（rf_repl）、实时调试（rf_debug）与错误恢复提示（rf_diagnose）。支持本地、远程测试运行器与零守护远程 MCP 三种拓扑，通过 MCP 提供 SKILL.md 技能目录与自定义 hints.toml 错误提示，内置 OpenTelemetry 观测。需 Python 3.10+ 与 uv 0.12+，当前 2.0 版本尚未发布到 PyPI，PyPI 上仍为 0.36.x。
 
 ## 筛选速览
 
@@ -13,33 +13,32 @@ rf-mcp 是一个 Model Context Protocol 服务器，将 Robot Framework 测试�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 代理逐步实时执行测试，通过后生成 .robot 套件
-- 支持 Browser/Selenium/Appium/Requests/数据库/桌面等多类测试库（extras 按需安装）
-- 一条命令注册到 Claude Code、Codex、Copilot 等 8 种编码代理
-- 提供 Docker 镜像（headless 与 VNC 版）与可选 Django 仪表盘
+- 8 个基于 robotcode 的 MCP 工具（发现/分析/文档/执行/结果/REPL/调试/诊断）
+- 三种执行拓扑：本地、远程测试运行器、零守护远程 MCP（无额外客户端守护进程）
+- 通过 MCP 提供 SKILL.md 技能目录，支持项目级自定义技能与 hints.toml 错误恢复规则热加载
+- 提供 Docker 镜像（含浏览器/Selenium/Requests 库与 VNC 显示）与 OpenTelemetry 指标
 
 ## 适用场景
 
-- 用自然语言让编码代理编写并验证 Robot Framework 测试
-- 在已有 Robot Framework 项目上让 AI 代理复用自定义关键字库
-- CI 环境中通过 headless Docker 镜像运行 MCP 测试服务
+- 在 Claude Code/Codex 等编码 agent 中直接编写和调试 Robot Framework 测试
+- 在 CI 管道或远程测试容器中由 agent 触发测试执行并查询结果
+- 为团队自定义库与页面对象模式编写项目级技能供 agent 使用
 
 ## 场景标签
 
-`浏览器自动化` `GUI 自动化` `代码生成` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L10: RobotMCP (`rf-mcp`) is a Model Context Protocol (MCP) server that hands your coding
-> L11: agent the keys to Robot Framework. The agent discovers keywords, runs steps *live*
-> L295: RobotMCP sends server-level instructions to LLMs via the MCP `initialize` response, guiding them to discover keywo
+> L23: `rf-mcp` is a lean, customizable Model Context Protocol (MCP) server built on **RobotCode (`>=2.9.0.dev115`) CLI**,
+> L25: It empowers coding agents (**Claude Code**, **OpenAI Codex**, **Google Antigravity (`agy`)**, **GitHub Copilot**, *
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `6a13cb6e932c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `890dda05bc76` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 118 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/tue-bmd/zea) · [官网](https://zea.readthedocs.io) · 组织维护
 
-**认知超声成像工具箱：信号处理、图像重建与深度学习**
+**面向超声研究者的信号处理、图像重建与深度学习工具库**
 
-基于 Keras 3 的 Python 超声成像库，提供可微分信号处理与图像重建 Pipeline、超声数据加载工具（支持 Hugging Face 数据集流式读取）、Hugging Face 托管的预训练模型，以及用于认知超声的动作选择 Agent（决定下一步采集哪些扫描线）。后端可运行于 JAX、PyTorch 或 TensorFlow。通过 pip 安装，需自行安装其中一种 Keras 后端；附 Colab 示例笔记本与 JOSS 论文。
+Python 库，提供超声信号处理、图像重建和深度学习工具链，构建于 Keras 3 之上，可在 JAX、PyTorch 或 TensorFlow 后端运行。核心模块包括可微分流水线（Pipeline）、面向深度学习工作流的超声数据加载（从 Hugging Face 流式读取数据集）、托管于 Hugging Face 的预训练模型，以及认知超声的动作选择 Agent（决定下一次采集的扫描线等）。pip 安装，文档提供入门指南与可在 Colab 打开的示例笔记本，并以 JOSS 论文形式提供引用说明。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 可微分的信号处理与图像重建 Pipeline
-- Hugging Face 数据集流式加载，仅读取所需帧
-- Hugging Face 托管的预训练超声模型
-- 认知超声 Agent：动作决定下一步采集设计
+- 基于 Keras 3，可在 JAX/PyTorch/TensorFlow 后端运行
+- 可微分超声信号处理与图像重建流水线
+- 预训练超声模型与数据集托管于 Hugging Face 并流式加载
+- Agent 模块支持认知超声的采集动作选择
 
 ## 适用场景
 
-- 我在做超声深度学习研究，需要信号处理与重建管线
-- 我想流式读取超声数据集训练模型
-- 我需要预训练超声模型直接做图像与信号处理
+- 对超声原始数据进行波束成形并生成 B 模式图像
+- 为超声深度学习工作流加载数据集与预训练模型
+- 设计认知超声中自适应采集策略的研究实验
 
 ## 场景标签
 
- · 领域:医学影像/超声
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L23: `zea` is a Python library for ultrasound signal processing, image reconstruction, and deep learning. It is built on
-> L50:  🔧&nbsp; Pipeline
-> L56:  🧠&nbsp; Models
+> L37: `zea` offers many models and tooling for advanced ultrasound processing. But in the most basic sense it offers a fa
+> L59:  🎯&nbsp; Agent
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `c26eec86c89e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `66d0c1aa9dbe` · [字段定义](../../DATASET.md)*

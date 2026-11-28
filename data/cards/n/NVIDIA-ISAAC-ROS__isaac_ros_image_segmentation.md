@@ -2,9 +2,9 @@
 
 ⭐ 128 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_image_segmentation) · 组织维护
 
-**NVIDIA 加速的深度学习语义图像分割 ROS 2 软件包集**
+**面向 ROS 2 开发者的 GPU 加速语义图像分割推理包**
 
-Isaac ROS Image Segmentation 提供 ROS 2 语义图像分割软件包，在 GPU 上运行 DNN 推理，对输入图像逐像素分类。包含 4 种模型架构：U-NET（生物医学常用卷积网络）、Segformer（Transformer 架构）、Segment Anything 与 Segment Anything2（提示式分割与视频流跟踪）。通过 ROS 2 原生 rosidl::Buffer 与 CUDA buffer 后端避免 CPU 与加速器内存间的大负载拷贝。README 提供多种 Jetson 与 RTX 硬件上的推理性能数据，安装与用法需查阅 Isaac ROS 文档站点。
+NVIDIA Isaac ROS 提供的语义分割 ROS 2 软件包集合，包含 U-NET、Segformer、Segment Anything、Segment Anything2 四个包，通过在 DNN 模型上运行 GPU 加速推理对输入图像逐像素分类；分割结果可用于 2D 空间理解或与 3D 场景深度信息融合。利用 ROS 2 Lyrical 的 rosidl::Buffer 特性避免 CPU 与加速器间的大负载拷贝，使用 CUDA 缓冲区后端。性能表覆盖 AGX Thor、AGX Orin、DGX Spark 及 x86+RTX 等平台。安装与使用说明在 Isaac ROS Documentation 中提供。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Isaac ROS Image Segmentation 提供 ROS 2 语义图像分割软件包，在 GPU 
 
 ## 能力要点
 
-- 逐像素语义分割，输出可用于 2D 空间理解或与深度信息融合到 3D 场景
-- 支持 U-NET、Segformer、Segment Anything、Segment Anything2 四种架构
-- 基于 rosidl::Buffer 与 CUDA buffer 后端减少 CPU-GPU 内存拷贝
-- 列出 AGX Thor/Orin、DGX Spark、RTX 5090/5070 等平台的 fps 性能数据
+- 提供 U-NET、Segformer、Segment Anything/2 四种分割模型架构的 ROS 2 包
+- 使用 rosidl::Buffer 与 CUDA 缓冲区后端减少 CPU/加速器间数据拷贝
+- 性能基准覆盖 Jetson、DGX Spark 与 x86 RTX 平台
+- Segment Anything2 支持给定提示对视频流中的对象分割与跟踪
 
 ## 适用场景
 
-- 机器人感知系统中对图像做逐像素类别识别
-- 将分割结果与深度信息融合以定位 3D 场景中的物体
-- 在 NVIDIA Jetson 边缘设备上运行实时分割推理
+- 机器人感知中逐像素分割输入图像
+- 分割结果与深度信息融合定位 3D 场景中的物体
+- 在 Jetson 平台上运行 GPU 加速的分割推理
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3afea85ca293` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `25df55579152` · [字段定义](../../DATASET.md)*

@@ -2,43 +2,45 @@
 
 ⭐ 116 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/RustamovAkrom/JARVIS) · 个人维护
 
-**桌面端语音 AI 助手：对话、电脑工具与本地记忆一体**
+**模块化桌面 AI 助手：语音、记忆与桌面自动化**
 
-面向个人用户的桌面 AI 助手：默认用 Gemini Live 进行语音对话（也可另行配置语音识别、语言模型、语音合成三级流水线，支持 Ollama/LM Studio/llama.cpp/vLLM 等本地服务，需单独安装）。内置 HUD 界面、项目文件只读访问、浏览器控制、可选的屏幕与鼠标键盘操作、本地记忆与提醒等。提供 18 个可选插件（Excel 写入、Obsidian、Telegram 远控等），插件以当前用户权限运行、无沙箱。从 Python 源码运行，需 Python 3.14+ 与 Gemini API key。
+跨平台桌面 AI 助手，将实时语音交互、可配置 AI 引擎、持久记忆、桌面操作工具、插件与外部集成整合在一个 PyQt6 应用中。架构上模型只发起工具请求，本地运行时负责校验与执行，带权限与确认门控。支持 Gemini Live 引擎与可组合 STT/LLM/TTS 管线，可接本地模型服务器实现全本地语音工作流。稳定打包版本目前仅覆盖 Windows，macOS/Linux 需从源码运行。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | MIT |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 语音/打字对话，Gemini Live 或可配置的三级本地/托管流水线
-- 可选屏幕与鼠标键盘控制，权限分立开关，敏感操作需确认
-- 本地记忆存储选定事实与会话摘要并可检索
-- 18 个可选插件（Excel、Obsidian、Telegram 远控、OSINT 等）
+- 本地 Hey JARVIS 唤醒词检测与实时语音对话（Gemini Live）
+- 模型提议、本地运行时校验执行的工具调用生命周期
+- MCP STDIO/HTTP/SSE、OAuth 连接与原生适配器（GitHub、Google Calendar、Telegram）
+- 持久对话与长期记忆分离存储，可搜索管理
 
 ## 适用场景
 
-- 用语音或文字让助手操作电脑、搜索网页、管理提醒
-- 在选定的项目工作区内让 AI 检查文件并配合内置编辑器/终端工作
-- 接本地模型服务后在自己机器上运行语言模型部分
+- 通过语音和文本与桌面助手交互，控制应用与系统设置
+- 接入 Ollama 等本地模型构建全本地语音助手
+- 连接 GitHub、日历等外部服务并让助手调用其工具
+- 在项目工作区中让助手读取、解释、修改并运行代码
 
 ## 场景标签
 
-`AI 助手` `语音 Agent` `GUI 自动化` · 领域:效率与自动化
+`AI 助手` `语音 Agent` `Agent 记忆` `GUI 自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L10: JARVIS is a desktop AI assistant built around voice, a customizable HUD, and practical tools for everyday computer 
-> L17: - **Choose how AI runs:** use Gemini Live or configure separate speech-to-text, language-model, and text-to-speech 
+> L6:  A modular desktop AI assistant that brings voice, AI models, memory, automation and connected services into one wor
+> L26: JARVIS is a cross-platform desktop AI assistant built to connect conversational AI with the user's desktop environm
+> L171: Providers are selected through the Engine & Providers settings. Depending on the provider, the pipeline can use lo
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `0d1d49c2482a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c75afd52cb18` · [字段定义](../../DATASET.md)*

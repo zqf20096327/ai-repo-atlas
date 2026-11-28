@@ -2,9 +2,9 @@
 
 ⭐ 113 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/eddiearc/larkin) · [官网](https://idanlin.cc/work/larkin/) · 个人维护 · 中文 README
 
-**把本地 Coding Agent 运行时接入飞书的本地运行时宿主**
+**把本地 Codex/Claude Code 等 Coding Agent 接入飞书的本地运行时宿主**
 
-Larkin 是运行在用户本机的 Runtime Host，将外部安装的 Codex、Claude Code、Pi 三种 coding-agent 运行时连接到飞书（Lark），提供会话与提醒的持久化、消息与交互卡片、内嵌本地 Dashboard 与 OpenTelemetry 追踪。它自身不附带运行时、不存储提供商凭据，需用户自行安装并登录 agent 运行时；安装方式包括 npx/npm 全局安装与 GitHub Release 的独立二进制（macOS/Linux/Windows x64），Windows 11 x64 通过了原生端到端启动验证。另提供 Pi 的 tmux 后台 Bash 工具、默认关闭的 Inbox 巡检、遥测离线导出/导入等能力。
+Larkin 是一个本地 Runtime Host 进程，将外部安装的五种 Coding Agent 运行时（Pi、Codex、Claude Code、Cursor CLI、Antigravity CLI）连接到飞书/Lark，提供会话与提醒的持久化、消息与交互卡片处理、内嵌 Dashboard 与 OpenTelemetry 追踪。自身不携带 Agent 运行时，也不存储 Provider 凭证；要求各运行时先自行安装并登录。支持 macOS/Linux/Windows x64，经 npm 分发或提供独立二进制。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Larkin 是运行在用户本机的 Runtime Host，将外部安装的 Codex、Cla
 
 ## 能力要点
 
-- 一个本地进程同时接入 Pi/Codex/Claude Code 三种运行时
-- 会话、提醒与本地 Dashboard 持久化，含 OpenTelemetry 追踪与本地 spool
-- 提供 macOS/Linux/Windows x64 独立二进制，无需 Bun/npm
-- Pi 可选 tmux 后台 Bash 工具与默认关闭的 Inbox 巡检
+- 单一本地进程接入五种外部 Coding Agent 运行时
+- 持久化会话与提醒，跨运行可用
+- 内嵌 Dashboard 与 OpenTelemetry 本地追踪及离线导出/导入
+- 支持飞书消息、交互卡片与可配置的 Inbox 巡检
 
 ## 适用场景
 
-- 在飞书里通过消息驱动本地安装的 coding agent 工作
-- 让团队在飞书群/私聊中与 Codex、Claude Code 或 Pi 交互
-- 本地观察 agent 消息处理链路的追踪与队列状态
+- 在飞书群或私聊中与本地 Coding Agent 会话
+- 为团队把 Agent 会话、提醒固定在本机管理
+- 通过 Dashboard 与追踪链路查看消息处理时序
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Larkin 是运行在用户本机的 Runtime Host，将外部安装的 Codex、Cla
 
 ## 证据(README 行号)
 
-> L5: Larkin is a local Runtime Host that connects Codex, Claude Code, and Pi agent runtimes to Feishu (Lark). It keeps se
-> L69: During setup, choose one of the three externally installed runtimes: Pi (`pi`), Codex (`codex`), or Claude Code (`c
+> L1: Larkin connecting Codex, Claude Code, and Pi agent runtimes to Feishu with a local dashboard and message surfaces.
+> L5: Larkin is a local Runtime Host that connects Codex, Claude Code, Pi, Cursor CLI, and Antigravity CLI agent runtimes 
+> L69: During setup, choose one of the five externally installed runtimes: Pi (`pi`), Codex (`codex`), Claude Code (`claud
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 mid · 依据 README sha `9885b2ad1b7c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `11497fa286d3` · [字段定义](../../DATASET.md)*

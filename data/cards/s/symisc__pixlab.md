@@ -2,9 +2,9 @@
 
 ⭐ 127 · Python · BSD-2-Clause · 推送 2026-11-22 · [GitHub](https://github.com/symisc/pixlab) · [官网](https://pixlab.io) · 组织维护
 
-**PixLab/FACEIO 官方教程、公告与代码示例集**
+**PixLab/FACEIO API 的教程与代码示例聚合页**
 
-PixLab 与 FACEIO 产品线的官方资源仓库：以文章列表形式汇集 150 余篇指南与公告，覆盖 FACEIO 面部识别认证集成（React/Vue/Svelte/Next.js 等多种前端栈）、DOCSCAN 证件扫描与 KYC API、NSFW 图像过滤、人脸检测模糊、PixLab Annotate 图像标注工具、AI 照片编辑器等产品，并指向 pixlab.io/examples 的多语言示例代码集。读者可复制运行示例以熟悉 PixLab REST API。仓库本身不含可安装的软件。
+PixLab 官方维护的资源与示例索引页，汇总公司博客公告、产品发布信息，并链接到 PixLab API 的示例集（pixlab.io/examples）、API 端点列表与参考文档。覆盖面包括人脸识别认证（FACEIO/fio.js）、证件扫描（DOCSCAN）、图像标注、背景移除、OCR、NSFW 过滤等 API 的多语言（Python/PHP/Java/JavaScript）教程代码。内容形式为教程与示例代码，供开发者熟悉 PixLab API 使用；页面本身不含可安装的产品本体。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ PixLab 与 FACEIO 产品线的官方资源仓库：以文章列表形式汇集 1
 
 ## 能力要点
 
-- 150 余篇 FACEIO/PixLab 产品教程与公告索引
-- 覆盖多前端框架（React/Vue/Svelte/Next.js/HTMX）的人脸认证集成指南
-- 指向 pixlab.io/examples 的多语言工作代码示例集
+- 链接多语言（Python/PHP/Java/JavaScript）API 示例代码集
+- 汇总人脸认证、ID 扫描、OCR、标注等 API 教程
+- 提供 5 分钟入门、端点列表与 API 参考文档入口
 
 ## 适用场景
 
-- 查找在自有网站中集成 FACEIO 人脸认证的教程
-- 了解 DOCSCAN 证件扫描/KYC API 的接入方式
-- 参考 PixLab 图像处理 API 的多语言示例代码
+- 查找 PixLab API 各端点的示例代码入门
+- 在 React/Vue/Next.js 项目中集成人脸认证教程
+- 了解 PixLab/FACEIO 产品线的功能范围
 
 ## 场景标签
 
-`教程课程` `人脸识别` `图像视频处理` · 领域:学习与行业
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: # PixLab & FACEIO Guides, Announcments & Tutorials
-> L140: # PixLab Resources & Code Samples
+> L145: # PixLab Resources & Code Samples
+> L148: The Sample Set are practical usage, working code available in various programming languages intended to familiariz
+> L150: * The PixLab API in 5 minutes or less.
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `20dd1688172a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `121c0019d871` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 210 · HTML · 推送 2026-11-27 · [GitHub](https://github.com/alopatenko/LLMEvaluation) · [官网](https://alopatenko.github.io/LLMEvaluation/) · 个人维护
 
-**面向学界与业界从业者精选 LLM 评估方法与资源的指南**
+**面向研究者与从业者的 LLM 评测方法论文献汇编清单**
 
-一个 awesome 型清单仓库，按主题目录组织 LLM 评估领域的方法汇编：收录综述论文、排行榜与竞技场、评估软件工具、基准与元评估、多语言/推理/幻觉等核心评估专题、安全与对齐、Agent 评估、RAG 与垂直行业评估等条目。条目以论文、排行榜、工具仓库的链接形式提供，作者声明会定期更新。目标读者为需要为特定任务选择评估方法的学术与行业人员。仓库本身不含可运行代码，未提供安装方式。
+一个以文献目录形式组织的 LLM 评测方法汇总（awesome list），收录综述论文、排行榜、基准数据集与评测软件的链接，按基础文献、基准与元评测、核心能力评测、信任与安全、Agentic AI、任务专项、RAG/对话系统、医疗/法律/金融垂直领域等类别组织条目。作者声明计划定期更新。仓库本身不提供可运行的代码或工具，仅提供链接与分类导航，帮助学术与行业人员查找适合其任务的评测方法。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 按 Foundations/Benchmarks/Core/Trust/Agentic/Systems/Verticals 等专题组织条目
-- 收录 LLM-as-Judge、HITL、元评估等评估方法的综述与论文
-- 汇总 HuggingFace、LMSys Arena、MTEB、SWE Bench 等排行榜链接
-- 列出 EleutherAI Harness、RAGAS、DeepEval 等评估工具
+- 按主题分类收录 LLM 评测综述、基准与排行榜链接
+- 设 Evaluation Software 一节列举评测框架与工具
+- 覆盖 Agent 评测、RAG 评测、多语言、安全红队等专项条目
+- 含垂直领域（医疗/法律/科学/金融）评测资源
 
 ## 适用场景
 
-- 为某个具体任务寻找合适的 LLM 评估基准与方法
-- 查找某领域（医疗/法律/金融）的模型评估综述
-- 了解 Agent、RAG、多语言等系统的评估资源
+- 为自己的 LLM 应用挑选合适的评测基准
+- 查阅某领域（如医疗问答、代码生成）已有评测文献
+- 了解排行榜与 LLM-as-Judge 等评测方法的研究现状
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `模型评测` `科研工具` · 领域:评测与运维
 
 ## 证据(README 行号)
 
+> L1: # Awesome LLM Evaluation
 > L3: ## Compendium of LLM Evaluation methods
 > L5: The aim of this compendium is to assist academics and industry professionals in creating effective evaluation suites
-> L15: # Table of contents
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0a329f06a15d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c695aeb4e795` · [字段定义](../../DATASET.md)*

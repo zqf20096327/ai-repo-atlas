@@ -1,1 +1,75 @@
-{"fn": "aditchawdhary/GPUKernels", "sha": "537fef62866e", "source": "readme", "identity": {"one_liner": "CUDA C++ GPU 内核学习实现集：覆盖注意力/GEMM/卷积", "review": "一组 CUDA C++ 编写的 GPU 内核实现集合，主题涵盖并行算法基础、深度学习算子、transformer 架构与 LLM 推理优化，包括注意力、GEMM、卷积、融合算子等。README 以逐主题讲解形式组织，如内置变量（threadIdx/blockIdx/blockDim/gridDim）的语义与启动配置、矩阵乘法等，配有 cuda 代码片段与图示。面向学习 CUDA 与 GPU 高性能计算实现的开发者。", "highlights": ["CUDA 内核实现覆盖 attention、GEMM、卷积、融合算子", "讲解内置变量（threadIdx/blockIdx/blockDim/gridDim）与启动配置", "主题包含 LLM 推理优化与 Flash Attention"], "use_cases": ["学习 CUDA 并行编程与 GPU 内核编写", "参考注意力与 GEMM 等算子的 CUDA 实现", "了解 LLM 推理优化相关的内核技术"]}, "filters": {"ai_role": "ai-native", "license_risk": "none", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["CUDA", "GPU内核", "高性能计算", "LLM推理", "学习教程"], "domain": "GPU 计算/深度学习算子", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "mid", "evidence": ["L40: ## Matrix Multiplication"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-28", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "aditchawdhary/GPUKernels",
+ "sha": "537fef62866e",
+ "source": "readme",
+ "identity": {
+  "one_liner": "CUDA C++ GPU 内核学习实现集：覆盖注意力/GEMM/卷积",
+  "review": "一组 CUDA C++ 编写的 GPU 内核实现集合，主题涵盖并行算法基础、深度学习算子、transformer 架构与 LLM 推理优化，包括注意力、GEMM、卷积、融合算子等。README 以逐主题讲解形式组织，如内置变量（threadIdx/blockIdx/blockDim/gridDim）的语义与启动配置、矩阵乘法等，配有 cuda 代码片段与图示。面向学习 CUDA 与 GPU 高性能计算实现的开发者。",
+  "highlights": [
+   "CUDA 内核实现覆盖 attention、GEMM、卷积、融合算子",
+   "讲解内置变量（threadIdx/blockIdx/blockDim/gridDim）与启动配置",
+   "主题包含 LLM 推理优化与 Flash Attention"
+  ],
+  "use_cases": [
+   "学习 CUDA 并行编程与 GPU 内核编写",
+   "参考注意力与 GEMM 等算子的 CUDA 实现",
+   "了解 LLM 推理优化相关的内核技术"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "CUDA",
+   "GPU内核",
+   "高性能计算",
+   "LLM推理",
+   "学习教程"
+  ],
+  "domain": "学习与行业",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "tutorials"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "mid",
+  "evidence": [
+   "L40: ## Matrix Multiplication"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-28",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

@@ -2,9 +2,9 @@
 
 ⭐ 132 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/madrury/py-glm) · 个人维护
 
-**Python 广义线性模型库：sklearn 风格拟合、推断与模拟**
+**给 Python 用户提供广义线性模型的拟合与推断库**
 
-Python 库，提供广义线性模型的拟合、推断与模拟：Fisher scoring 算法拟合，支持多种指数族分布（Gaussian/Bernoulli/Poisson/Gamma/QuasiPoisson 等）、模型公式（formulaic 语法）、offset、样本权重、ridge 正则化及参数/非参数 bootstrap。面向统计分析与机器学习开发者，接口遵循 sklearn 风格但 predict 一律返回条件期望 E[y|X]。要求 Python 3.13+，从 GitHub 安装；设计矩阵首列须为截距列，缺失值需用户自行处理。
+以 Fisher scoring 拟合广义线性模型的 Python 库，支持 R 风格模型公式（由 formulaic 提供变换语言）、offset、频率权重与精度权重、线性约束假设检验、ridge 正则化和参数/非参数 bootstrap。提供 sklearn 风格的 fit/predict 接口，predict 统一返回条件期望而非类别标签。要求 Python 3.13+，从 GitHub 以 pip 安装，绘图功能需 matplotlib 可选 extra；缺失值不自动处理，需用户先行清理。
 
 ## 筛选速览
 
@@ -16,29 +16,29 @@ Python 库，提供广义线性模型的拟合、推断与模拟：Fisher scorin
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Fisher scoring 拟合，支持多指数族与离散参数模型
-- 模型公式（formulaic 语法）自动编码训练时的类别与变换
-- 参数/非参数 bootstrap 与系数表、z 检验 p 值
-- 全量类型标注（mypy --strict）并附带 py.typed 标记
+- Fisher scoring 拟合多种指数族模型（含带离散参数的 QuasiPoisson/Gamma）
+- R 风格模型公式：分类变量、三次样条与有状态变换
+- 系数推断、Wald 检验（约束方程/嵌套模型/约束数组）与 summary_frame 输出
+- 参数与非参数 bootstrap，响应模拟模块
 
 ## 适用场景
 
-- 用 Poisson/Logistic 等 GLM 做回归分析与统计推断
-- 通过 bootstrap 估计稳健标准误与置信区间
-- 带 ridge 正则化的广义线性模型拟合
+- 对保险理赔等暴露数据拟合 Poisson/Gamma 回归模型
+- 对回归系数做假设检验与置信区间推断
+- 用 bootstrap 评估模型系数的稳定性
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+ · 领域:统计学习/回归分析
 
 ## 证据(README 行号)
 
 > L3: `py-glm` is a library for fitting, inspecting, and simulating from generalized
-> L4: linear models in Python. Models are fit with Fisher scoring, and support model
+> L5: model formulas, offsets, frequency and precision weights, hypothesis tests on
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `9f9d34067275` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `80bfd0c32dcf` · [字段定义](../../DATASET.md)*

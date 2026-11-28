@@ -2,9 +2,9 @@
 
 ⭐ 219 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/primaprashant/awesome-voice-typing) · [官网](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026) · 个人维护
 
-**开源语音输入/语音转文字工具策展清单（跨平台 50+ 款）**
+**开源语音输入/语音转文字工具的跨平台策展清单**
 
-按 MIT 许可维护的 awesome 清单，收录面向 Linux、macOS、Windows、Android、iOS 与 CLI 的开源语音转文字与听写工具。条目以目录表组织，按平台、模式（本地/混合/云）与识别引擎标注；另含 30 天星标增长榜、Hacker News 讨论汇总、相关识别引擎（Whisper、whisper.cpp、Parakeet、Vosk 等）介绍，并在 Scope 部分明确排除闭源产品、会议机器人与独立语音 API。
+收录桌面、移动端与 CLI 的开源语音转文字与听写工具，按目录表组织，每条标注支持平台、运行模式（Local/Hybrid/Cloud）与所用引擎（Whisper、Parakeet、SenseVoice、Vosk 等）。附 30 天星标增长榜、Hacker News 讨论索引和相关底层 ASR 引擎/模型列表。范围限定开源听写类工具，闭源产品、会议机器人与独立语音 API 不收录。以 MIT 许可发布，接受 PR。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 50+ 款工具的目录表，含平台/模式/引擎三列标注
-- 30 天星标增长榜与 HN 讨论汇总
-- 区分 Local/Hybrid/Cloud 三种识别模式
-- 收录底层识别引擎（whisper.cpp、Parakeet、Vosk 等）介绍
+- 目录表按平台/模式/引擎三维度标注约 50 个工具
+- 附 30 天星标增长榜与 Hacker News 讨论汇总
+- 相关项目区列出 Whisper、whisper.cpp、Faster Whisper 等底层引擎
+- Scope 章节明确收录与排除标准
 
 ## 适用场景
 
-- 为 Linux/macOS/Windows 找离线语音听写工具
-- 对比各语音输入应用的本地与云识别引擎选型
-- 了解开源语音转文字生态的近期热点项目
+- 为自己的操作系统挑选离线语音听写工具
+- 按本地/混合/云端模式筛选符合隐私需求的方案
+- 了解语音输入工具生态与社区热度趋势
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 ## 证据(README 行号)
 
 > L7: A curated list of open-source speech-to-text tools for voice typing and dictation across desktop, mobile, and CLI.
+> L49: `Mode`: `Local` means on-device speech recognition. `Hybrid` means the tool supports both local and cloud or BYO-cl
 > L119: This list focuses on open-source apps, keyboards, and CLI tools for voice typing and dictation across desktop, mob
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7655e60afe22` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `2798ce9e5f98` · [字段定义](../../DATASET.md)*

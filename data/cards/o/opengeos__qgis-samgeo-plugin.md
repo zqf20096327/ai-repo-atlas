@@ -2,9 +2,9 @@
 
 ⭐ 132 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/opengeos/qgis-samgeo-plugin) · [官网](https://samgeo.gishub.org) · 个人维护
 
-**QGIS 插件：在 GIS 中用 SAM 做遥感图像分割**
+**用 SAM 模型在 QGIS 内分割遥感影像的插件**
 
-QGIS 插件，封装 SamGeo Python 包，基于 Meta Segment Anything Model 对遥感影像做分割。支持 SamGeo（SAM1）/SamGeo2/SAM3 三个版本，提供文本提示、点提示、框提示与批量点分割四种交互方式，处理后可输出为矢量（GeoPackage/Shapefile）或栅格（GeoTIFF），并保留地理参考。运行需 QGIS 3.22+、Python 3.10+，SAM 3 模型需在 Hugging Face 申请访问权限，或从 ModelScope 下载。也可在 QGIS Python 控制台中编程调用。
+面向 QGIS 用户的遥感影像分割插件，封装 SamGeo Python 包，接入 Meta 的 Segment Anything 模型。支持 SAM1/SAM2/SAM3 三个版本，提供文本提示、点/框交互提示与批量点分割四种方式；输入支持带地理参考的 GeoTIFF，输出保存为矢量（GeoPackage/Shapefile）或栅格（GeoTIFF），矢量结果携带掩膜 ID、提示类型与置信分值等属性。安装需在 QGIS Python 环境中装 SamGeo（conda/pip），并配置 Hugging Face 认证与 SAM 3 模型访问授权；大图提供分块（tiled）文本分割以应对整景推理。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ QGIS 插件，封装 SamGeo Python 包，基于 Meta Segment Anything Model 对�
 
 ## 能力要点
 
-- 支持 SAM1/SAM2/SAM3 三代模型，可选 meta 或 transformers 后端与 cuda/cpu 设备
-- 文本、点、框、批量点四种分割提示方式
-- 保留空间参考的 GeoTIFF 输入，矢量/栅格两种输出格式
-- 可在 QGIS Python 控制台编程调用
+- 支持 SamGeo (SAM1)、SamGeo2 (SAM2)、SamGeo3 (SAM3) 三个模型版本
+- 文本描述分割（如 building、tree、road）与点/框交互式分割
+- 带地理参考影像支持，输出 GeoPackage/Shapefile/GeoTIFF 并保留空间参考
+- 大 GeoTIFF 分块文本分割（默认 1024 px、重叠 128 px）
 
 ## 适用场景
 
-- 在 QGIS 中对遥感影像按文本描述提取建筑物、树木、道路等地物
-- 通过点击/框选交互式分割地图上的目标区域
-- 用建筑质心点批量分割大量单个对象
+- 在 QGIS 中对遥感影像按文字描述批量提取建筑、树木、道路等地物
+- 在地图上点击圈画交互式分割感兴趣区域
+- 对大场景 GeoTIFF 做分块分割并导出矢量掩膜
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ QGIS 插件，封装 SamGeo Python 包，基于 Meta Segment Anything Model 对�
 ## 证据(README 行号)
 
 > L7: A QGIS plugin for remote sensing image segmentation using SamGeo, powered by Meta's Segment Anything Model (SAM).
+> L11: - **Multiple SAM versions**: Support for SamGeo (SAM1), SamGeo2 (SAM2), and SamGeo3 (SAM3)
 > L12: - **Text-based segmentation**: Describe what you want to segment (e.g., "building", "tree", "road")
-> L148: 1. Enter a text prompt describing what to segment (e.g., "tree", "building")
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `94338a1f5afb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `363c1a54f62a` · [字段定义](../../DATASET.md)*

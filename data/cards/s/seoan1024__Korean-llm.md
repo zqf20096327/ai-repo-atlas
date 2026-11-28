@@ -2,9 +2,9 @@
 
 ⭐ 115 · Python · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/seoan1024/Korean-llm) · 个人维护
 
-**个人环境中从零实现的韩语 1.09B 解码器 Transformer LLM**
+**研究者用 PyTorch 从零实现并训练韩语 LLM 的流水线**
 
-个人学习型项目：作者在 PyTorch 中直接实现解码器风格 Transformer 的各组件（Embedding、Attention、SwiGLU FFN、RMSNorm、RoPE、权重绑定输出层），构成约 1.09B 参数模型，使用 beomi/Llama-3-Open-Ko-8B 分词器，按 Pretraining→SFT 两阶段训练（默认 100,000/10,000 步，BF16，AdamW8bit 可选），训练默认序列长度 512，带 Tkinter+Matplotlib 监控。README 记录了 v1 前 50M 到 v4 的迭代过程，v3 关注量化与轻量化，v4 重构数据与训练管线。面向想了解 LLM 构造的开发者与学习者。
+面向韩语 LLM 研究的训练流水线项目（v4），将 v1~v3 实验整理为 pretrain → SFT 两个阶段，支持 argparse CLI 指定数据集与配置、streaming cache 处理大数据、validation split 与 loss 记录、SFT response-only labels。模型结构为 RMSNorm/RoPE/SwiGLU/KV-cache，约 1B 级，支持 BF16 与可选 8-bit AdamW。研究结果经 Base/Beta 演进为 Hanok LLM 发布栈；实际参数量与权重发布状态需查看对应模型卡。
 
 ## 筛选速览
 
@@ -12,34 +12,34 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | GPL-3.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 直接实现 Transformer 核心组件（非封装外部 LLM 类）
-- 约 1.09B 参数：dim 1920 / 20 层 / 10 头 / SwiGLU / RoPE / RMSNorm
-- Pretraining→SFT 两阶段训练流程，BF16 精度与 AdamW8bit 支持
-- Tkinter + Matplotlib 训练监控与 .pth 检查点
+- pretrain → SFT 两阶段或手动选择的训练流水线，CLI 指定 dataset/config
+- SFT 使用 response-only labels，减少 instruction leakage
+- 模型结构含 RMSNorm、RoPE、SwiGLU、KV-cache、tied embeddings
+- 支持 --no-gui 服务器/自动运行与 model-only resume
 
 ## 适用场景
 
-- 学习 LLM 内部结构与训练流程并对照源码
-- 在个人环境复现小规模韩语 LLM 的预训练与 SFT
-- 跟踪从 50M 到 1.09B 的模型迭代实验记录
+- 从零实现并训练一个韩语 LLM 做研究实验
+- 在自有韩语语料上跑 pretrain 与 SFT 流程
+- 复现 Base → Beta 的模型发布流程
 
 ## 场景标签
 
-`模型训练` `教程课程` · 领域:学习与行业
+`模型训练` `微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L14: |목적|개인 환경에서 직접 만들어보는 한국어 LLM|
-> L15: |계열|Decoder-style Transformer|
-> L373: 모델의 핵심 Transformer 구성은 코드 안에서 직접 구현되어 있습니다.
+> L18:     A[📚 Pretraining<br/>한국어 코퍼스] --> B[💾 pretrain checkpoint]
+> L19:     B --> C[🎯 SFT<br/>Instruction 데이터]
+> L49: python korean_llm_advanced_v4.py --stage auto --dataset AdaMLLab/KorMix --samples-per-dataset 10000 --no-gui
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `4e4c59c57e4e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `4796888de28d` · [字段定义](../../DATASET.md)*

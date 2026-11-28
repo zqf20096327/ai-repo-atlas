@@ -2,9 +2,9 @@
 
 ⭐ 124 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/howardpen9/awesome-ai-api-proxy) · 个人维护 · 中文 README
 
-**面向中国及受限地区开发者的 AI API 中转站与 LLM 网关策展清单**
+**面向开发者（含 AI agent）的 AI API 中转站与网关策展清单**
 
-一个 awesome-list 形式的策展地图：收录中国/亚洲 API 中转站、全球聚合网关（OpenRouter、LiteLLM 等）与自建网关方案（One-API、new-api、Bifrost），条目含支付方式、信任状态（active/unverified、实体注册、风险旗标）与验证日期，表格由脚本从 providers.yaml 自动生成。面向受访问封锁与支付摩擦影响的开发者，另提供约 3000 条标准化价格数据（JSON）供 AI agent 引用，附 MCP/LangChain/函数调用集成示例。清单声明收录不等于背书。
+一份策展型清单与配套数据集：收录中国/亚洲 API 中转站、全球网关聚合器与自托管网关项目，提供状态标记、支付方式、信任旗标与价格信息；附带每周刷新的价格 JSON（约 3000 条记录）与 MCP/LangChain/HTTP 等接入示例，供 agent 直接消费。定位为开发者与 applications 服务，并区分中转站与镜像站（面向终端用户的聊天网页）。维护者声明收录不代表背售。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 分区域收录中转站、全球聚合网关与自建网关三类条目
-- 每条含信任状态、验证日期与风险旗标（no-entity/reverse/ran-away 等）
-- 约 3000 条带来源追溯的标准化价格记录（JSON，7 个抓取器每周刷新）
-- 表格由 scripts/build_provider_tables.py 从 providers.yaml 自动生成
+- 收录 13+ 亚洲中转站、20+ 全球网关、4 个自托管网关项目条目
+- 提供 prices.latest.json 机器可读价格数据，含 source_url 与 captured_at 溯源字段
+- 信任标记体系：active/unverified/inactive 状态与 operator-self、reverse、ran-away 等旗标
+- 提供 MCP / LangChain / OpenAI function-calling / HTTP 接入示例文档
 
 ## 适用场景
 
-- 我需要找一个支持支付宝/微信支付的 LLM API 中转站
-- 比较各中转站与聚合网关的价格和信任风险
-- 不想用第三方中转时寻找自建网关方案
+- 为 AI agent 选一个统一价格与接入入口的中转 API
+- 在支付受限地区寻找支持支付宝/微信的模型 API 渠道
+- 对比各家网关与聚合器的价格、支付方式与信任状态
+- 自托管场景下挑选 One-API/new-api/LiteLLM 类网关
 
 ## 场景标签
 
@@ -39,7 +40,6 @@
 
 > L3: Awesome AI API Proxy — a curated map of AI API relay stations (中轉站), LLM gateways, and OpenAI / Anthropic Claude / G
 > L16: **What's inside:** 7 relay fetchers refreshed weekly, ~3000 normalized price records, 6 canonical models on a cost-
-> L70: |Station|Type|Payment|Trust|Notes|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `7319c1a408ff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `21cef5cb6bec` · [字段定义](../../DATASET.md)*

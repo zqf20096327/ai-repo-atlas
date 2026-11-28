@@ -2,9 +2,9 @@
 
 ⭐ 134 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/doordash-oss/agentic-orchestrator) · 组织维护
 
-**面向工程师的 AI 编码工作流编排器：一个目标变监督式 PR**
+**把功能需求变成受监督 AI 编码工作流的编排器**
 
-DoorDash 开源的桌面应用加 agentico CLI，把高层功能描述转化为包含知识库构建、问询、研究、设计、路线图规划、实现、最终评审到发布的工程工作流。通过 Claude Code、Codex、OpenCode 三类 provider CLI 作为后端（至少装一个），按 Medium/Large/Moonshot 三档深度运行；每个功能在独立 git worktree 中执行，支持多仓库依赖排序与并行运行，人工仅在检查点审批。必需依赖 git 与 gh CLI；桌面版经 Homebrew/Releases 安装，服务器端可用预编译二进制或 Go 源码构建。
+DoorDash 开源的 AI 开发工作流编排器，以桌面应用为主界面、本地服务器与 CLI `agentico` 配套。它把一条功能描述转化为完整的工程流程：上下文调研、设计、路线图分解、分阶段实现、验证、Final Review 与发布 PR，每个功能在隔离的 worktree/分支/会话中运行，可并行执行多个工作流。运行需至少一个 AI provider CLI（Claude Code、Codex、OpenCode），支持按阶段配置模型与运行时切换，可选人工检查点供决策审批。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@ DoorDash 开源的桌面应用加 agentico CLI，把高层功能描述转化为�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单一功能描述驱动的完整生命周期：KB→问询→研究→设计→规划→实现→评审→发布 PR
-- Claude Code / Codex / OpenCode 三 provider 平等接入，可按阶段覆盖模型并运行时切换
-- 每功能独立 git worktree，支持多仓库依赖排序与并行工作流
-- Medium/Large/Moonshot 三档流水线深度与可选人工审批检查点
+- 功能生命周期：Inquire/Research/Design → 路线图分阶段实现 → Final Review → 发布
+- 每功能隔离 worktree/分支/会话，支持并行多工作流
+- 按阶段配置模型推荐，可运行时切换与覆盖 provider
+- 三档流水线深度（Medium/Large/Moonshot）与可选人工审批门
 
 ## 适用场景
 
-- 把一个高层功能描述交给编排器，监督检查点后获得可评审的 PR
-- 并行推进多个复杂功能工作流而不污染主工作副本
-- 跨多仓库的功能拆分、实现与 PR 交叉关联
+- 把大型功能需求一次性交给 AI 完成从调研到 PR 的全流程
+- 在检查点把控关键决策、其余步骤由编排器推进
+- 并行监督多个隔离的功能开发工作流
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `e3f8ef5c0b33` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `eaba041c15c1` · [字段定义](../../DATASET.md)*

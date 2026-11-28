@@ -2,9 +2,9 @@
 
 ⭐ 115 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/tlcdv/the_consciousness_ai) · [官网](https://theconsciousness.ai) · 个人维护
 
-**意识模拟研究框架：通过内部稳态与整合信息生成行为**
+**研究合成意识涌现的开源实验框架（Python）**
 
-开源研究框架，研究合成意识的涌现：不直接模仿智能输出，而是让行为由情绪稳态（PAD 模型、内稳态驱动）与整合信息（Phi、全局神经工作空间）的内部过程产生。架构含多感觉感官顶盖（视觉/听觉/体感）、Kuramoto 振荡绑定（AKOrN/KomplexNet 二选一）、GNW 瓶颈广播、情感调制核、具身自我模型与强化学习核心。听觉管线用 Gammatone 滤波组与耳蜗模型，视觉 DINOv2 可选（默认关）。多处标注目标仍处验证/失败记录状态。面向意识研究与认知科学方向的研究者。
+开源研究框架，通过模拟智能体研究合成觉知的涌现，核心假设是意识源于在复杂环境中维持稳定性的涌现解。架构包含多感官空间整合层（视觉/听觉/体感）、Kuramoto 振荡绑定机制、全局工作空间竞争广播、PAD 情绪调节与稳态驱动等模块，基于 Feinberg & Mallatt 的神经演化意识理论设计。README 报告了多个尚未验证或已失败的子目标，并记录了当前实现的已知限制。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- GNW 全局工作空间广播 + Phi 整合信息度量 + 因果涌现 CE 2.0 诊断
-- 双绑定机制可选：AKOrN（ICLR 2025 派生）与 KomplexNet（Muzellec 2025 派生）
-- 生物 grounded 听觉管线：Gammatone 滤波组、内毛细胞模型、ITD/ILD 双耳定位
-- Brian2 脉冲网络离线验证振荡参数（Pearson 相关比较）
+- 多感官整合层：视觉卷积栈、Gammatone 听觉管线、体感通道在共同坐标网格融合
+- 两种可选绑定机制：AKOrN（默认）与 KomplexNet，训练时切换
+- 全局工作空间实现 sigmoid 点火、循环回响与重入处理
+- 公开记录失败实验与当前代码的实测限制（如 Dominance 恒为 0.0）
 
 ## 适用场景
 
-- 研究人工意识/合成觉知的涌现机制
-- 复现与对比振荡绑定机制（AKOrN vs KomplexNet）
-- 在 Dark Room/Navigation/DMTCS/WCST 环境中训练与度量 agent
-- 基于 Feinberg & Mallatt 神经演化理论做认知架构实验
+- 研究意识理论的功能主义模拟实验
+- 复现或扩展全局工作空间/振荡绑定架构
+- 开展多感官整合与情绪调节机制的消融实验
 
 ## 场景标签
 
-`强化学习` `科研工具` · 领域:学习与行业
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L17: **The Consciousness AI** is a research framework investigating the emergence of synthetic awareness. Unlike traditi
-> L39: The system is built on a biologically grounded architecture informed by Feinberg & Mallatt's neuroevolutionary theo
-> L70: * **Global Neuronal Workspace (GNW):** A central information bottleneck where distinct sensory streams compete for 
+> L21: **The Consciousness AI** is a research framework investigating the emergence of synthetic awareness. Unlike traditi
+> L49: ## Architecture
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `cd015b869e73` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `bfc41fc886a1` · [字段定义](../../DATASET.md)*

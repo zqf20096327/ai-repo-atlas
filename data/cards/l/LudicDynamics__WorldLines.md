@@ -2,9 +2,9 @@
 
 ⭐ 120 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/LudicDynamics/WorldLines) · [官网](https://worldlines.gg) · 组织维护 · 中文 README
 
-**多 agent 实时模拟引擎：AI 角色各自有记忆与目标的可扮演角色扮演世界**
+**面向 AIRP 玩家的多智能体世界模拟/角色扮演引擎**
 
-Ludic Dynamics 开发的多 agent 角色扮演模拟引擎：世界由 world-agent 编排一组 soul-agent，每个角色是独立 agent，拥有私有记忆、内心与目标；玩家通过 avatar 终端加入实时运行的多 agent 社会。引擎为文件存储、事件溯源架构，可回放与 git diff；模型无关，支持 DeepSeek/OpenRouter/本地模型。示例世界与工具以 AGPL-3.0 开源，引擎核心（neonrp）不开源可免费用；提供桌面安装包、终端安装脚本与浏览器在线游玩，并暴露 MCP 工具供 Claude Code 使用。多 agent 模式目前仅本地运行。
+NeonRP 引擎 + WorldLines 产品：用多智能体编排运行 TRPG 式世界模拟，世界状态以 JSON/Markdown 文件存储，每回合一次可回滚或分支的提交；回合分 planning 与 resolve 两个节拍，由裁判判定对话是否落定，再掷骰并将校验后的变更写入世界。本地版以 PyPI 安装，自带 Web UI 与终端启动器，支持自带 API key 或账号中继；另提供 macOS/Windows 桌面应用。仓库（Apache-2.0/AGPL-3.0）与 PyPI 包存在闭源组件差异，桌面应用未签名/未公证。
 
 ## 筛选速览
 
@@ -12,35 +12,35 @@ Ludic Dynamics 开发的多 agent 角色扮演模拟引擎：世界由 world-age
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- world-agent + soul-agent 多 agent 社会架构，每个角色独立记忆与议程
-- 文件存储、事件溯源、git 可 diff，可追踪回放与脚本化 JSON 输出
-- 模型无关：DeepSeek / OpenRouter / 本地 / 免费模型均可运行
-- 示例世界 AGPL-3.0 开源，agent 以 MCP 工具暴露给 Claude Code
+- 世界状态为可 diff/回滚/分支的 JSON/Markdown 文件，每回合一次提交
+- 回合分 planning/resolve 两节拍，含裁判裁定与骰子机制
+- 编排为自然语言状态机（模板含 rpg/pct/werewolf/monopoly 及 economy/factions mixins）
+- 模型不可绑定：支持 DeepSeek/OpenRouter/本地/OpenAI 兼容服务器
 
 ## 适用场景
 
-- 玩多角色 AI 角色扮演，角色跨会话记住我说过的话
-- 作为 TRPG GM 设定规则后让 agent 代跑世界
-- 研究者做多 agent 社会 / 人格模型实验的可复现沙盒
-- 从公开目录挑选世界直接游玩或自建世界
+- 玩有持久记忆与自主 NPC 的 AI 跑团角色扮演
+- 为视觉小说/Galgame 实时生成可响应的剧情
+- 作为 GM 工具运行带 NPC 记忆与自动索引的跑团世界
+- 做多智能体社会实验与角色/世界模型基准
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L22: > Most AI role-play gives you a *character to chat with*. WorldLines gives you a **world where every AI genuinely l
-> L28: WorldLines is a **multi-agent simulation engine for role-play**: the world is a society of independent agents. A wo
-> L46: > **Agent Role Play.** People already role-play directly inside Claude Code and Codex — letting an agentic system d
+> L5: > **WorldLines — a multi-agent world-simulation engine built for you and your character agents.**
+> L69: > **Agent Role Play.** People already role-play directly inside Claude Code and Codex — letting an agentic system d
+> L105: pip install worldlines          # or: uv tool install worldlines — the product, with the neonrp engine
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `65e7fef66546` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `2d4737eca662` · [字段定义](../../DATASET.md)*

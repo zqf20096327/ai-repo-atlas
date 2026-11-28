@@ -2,9 +2,9 @@
 
 ⭐ 112 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Rkcr7/Aura-AI) · [官网](https://aura-ai-stealth.netlify.app/) · 个人维护
 
-**屏幕隐形 AI 助手：面试/考试中实时监听、截图分析、隐蔽给答案**
+**面试考试场景的隐形屏幕悬浮 AI 助手，实时生成答案**
 
-运行在屏幕上的透明悬浮层应用：通过 Deepgram 实时语音转文字监听对话，调用 Groq、Cerebras、Gemini 等 LLM 生成实时回答，支持截图交给 Vision 模型分析题目并叠加显示解答。悬浮层通过 WDA_EXCLUDEFROMCAPTURE 从屏幕捕获中排除、可点击穿透、隐藏于任务栏，宣称对 Zoom/Teams/监考软件不可见。用户自带各服务商 API key 使用。Windows 10/11 为主要支持平台，macOS 移植在 macos 分支进行中、部分隐蔽行为受限。面向参加面试与考试的个人用户。
+Aura 是一个运行在屏幕顶层的透明悬浮窗应用：通过 Deepgram 语音转写实时监听对话，调用 Groq/Cerebras/Gemini 等 LLM 生成回答，支持截图分析（Vision AI）与多截图队列，全部通过全局热键操作。主打隐形能力：窗口对屏幕录制与共享不可见、隐藏于任务栏。主要面向 Windows 10/11，macOS 分支功能尚在开发中。需要用户自带 API key，通过 run.bat 运行 Python 程序。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Deepgram 实时语音转文字 + 多 LLM（Cerebras/Groq/Gemini）生成回答
-- Vision AI 截图分析，支持最多 4 张截图排队处理
-- 悬浮层经 WDA_EXCLUDEFROMCAPTURE 排除于屏幕捕获，支持 40% 透明度与点击穿透
-- Alt+Q/W/E 等全局热键即时切换主/副/视觉模型
+- 屏幕捕获保护：经 WDA_EXCLUDEFROMCAPTURE 从录屏/共享中排除
+- Deepgram 实时语音转写 + 多提供商 LLM 生成回答
+- 截图 Vision AI：最多 4 张截图队列，Alt+S/Alt+P 处理
+- 全局热键与模型即时切换（Alt+Q/W/E）
 
 ## 适用场景
 
-- 在线面试或考试期间实时获取 AI 提示与答案
-- 截屏代码题或量化题并叠加显示 AI 解答
-- 会议或直播中旁人不可见地查询信息
+- 面试中实时获取行为面/编程/系统设计题的回答提示
+- 分析屏幕上的代码错误与算法题
+- 按 Speed/Accuracy 标签在多模型间快速切换
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L45: Aura sits on top of your screen as an **invisible overlay** during live interviews and exams. It **listens** to con
 > L5: **An invisible AI overlay that lives on your screen — answers questions, solves problems, analyzes screenshots, and 
+> L55: Aura sits on top of your screen as an **invisible overlay** during live interviews and exams. It **listens** to con
+> L79: The **Advanced Config** tab is the raw control panel. Enter your **Deepgram API key** (speech-to-text), then manage
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `08648b03a391` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `cd02294343d7` · [字段定义](../../DATASET.md)*

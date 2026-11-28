@@ -1,10 +1,10 @@
 # unchase/antigravity-storage-manager
 
-⭐ 127 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/unchase/antigravity-storage-manager) · 个人维护 · 中文 README
+⭐ 127 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/unchase/antigravity-storage-manager) · 个人维护
 
-**VS Code 扩展：AI 网关代理、配额监控与对话同步管理**
+**给 Antigravity 用户的 VS Code 配额监控与会话同步扩展**
 
-面向 Antigravity 用户的 VS Code 扩展，核心是本地 Antigravity Proxy：一个 OpenAI 兼容的统一 AI 网关，通过 OAuth 或 API Key 接入 Antigravity、Codex、GitHub Copilot、Claude、Gemini、Z.AI、Vertex、Kiro 等多个提供商，带可视化仪表盘、API Key 管理与企业代理支持。另提供 Google Drive 端到端加密对话同步、Telegram 通知、多账户切换、实时配额监控、MCP 服务器监控与内置 MCP Server，支持对话导出为 Markdown/ZIP 备份。代理二进制可在仪表盘中一键下载安装，默认端点 127.0.0.1:8317/v1。
+一个 VS Code 扩展（另发布于 Open VSX），为 Antigravity/Antigravity IDE 用户提供账号与数据管理：状态栏与仪表盘实时跟踪 Gemini、Claude、GPT-OSS 等模型的配额与 Credits，管理多账号配置切换；通过 AES-256-GCM 加密 + Google Drive 在多设备间同步对话数据（.db/.pb），支持本地/网络文件夹存储；附带 Telegram Bot 通知、MCP 服务器连接状态监控、对话导出（ZIP/Markdown）与备份工具，支持 16 种语言界面。
 
 ## 筛选速览
 
@@ -13,31 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 本地 OpenAI 兼容统一网关，接入 8 个 AI 提供商（OAuth/API Key）
-- 端到端加密的 Google Drive 跨设备对话同步
-- 实时配额仪表盘与多账户 Profile 切换
-- 内置 MCP Server 提供 proxy_status/list_models/chat_completion/get_quota 工具
+- 通过 `agy --hub`/`language_server` 实时监控多模型配额与 Credits
+- AES-256-GCM 加密的 Google Drive 会话同步，主密码存于系统钥匙串
+- 管理多账号 Profile，合并展示各设备配额用量
+- MCP 服务器连接状态监控与 Telegram Bot 远程通知
 
 ## 适用场景
 
-- 在 VS Code 内统一管理多个 AI 提供商账号与配额
-- 多台机器间安全同步 AI 对话记录
-- 让 AI 客户端通过本地代理和 MCP 调用多家模型
+- 在 VS Code 里随时查看 Antigravity 各模型剩余配额与重置周期
+- 在多台电脑之间加密同步 AI 对话记录
+- 为个人与工作账号分别管理配额并快速切换
+- 导出/备份对话并在设备间迁移
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+ · 领域:开发者工具/AI 账号管理
 
 ## 证据(README 行号)
 
+> L5:  Unified AI Gateway with visual dashboard, secure Google Drive sync, Telegram notifications, multi-account profiles,
 > L29: - 🚀 **Antigravity Proxy** — Unified AI Gateway with visual dashboard to manage multiple AI providers (Antigravity, 
+> L103: - **Antigravity IDE & `agy` Hub / CLI Support**: Automatically discovers local `language_server` / `agy` (`--hub` 
 
 ## 星数曲线
 
@@ -53,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `a93e7199956e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `884a3e4b24aa` · [字段定义](../../DATASET.md)*

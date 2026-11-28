@@ -2,9 +2,9 @@
 
 ⭐ 111 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/vincentkoc/dotskills) · 个人维护
 
-**个人维护的 Codex/OpenClaw agent 技能库：可安装复用的技能模块**
+**面向 Codex/OpenClaw 等 agent 的可安装技能集合仓库**
 
-作者个人的 .skills 仓库，将 dotfiles 思路应用于 AI 执行：以 SKILL.md/AGENT.md 格式存储可安装、版本化、可测试的技能单元，供 Codex、Cursor、OpenClaw 等 agent 工具使用。公开技能覆盖 20 余项，包括代码库索引 MCP、tmux 会话恢复、Codex 目标历史挖掘、Opik 提示优化、技术文档审计等。通过 npx skills add 按需安装单个技能，make sync 同步技能与 slash 命令（仅限 macOS/Linux），make validate 运行规范校验。本地私有技能须放在被忽略的 private-skills/ 目录，不进入公开仓库。
+作者个人的 .skills 仓库，将原本的一次性 prompt 组织为可安装、版本化、可测试的技能单元（SKILL.md/AGENT.md 加捆绑脚本与参考资源），通过 npx skills add 按技能安装，并通过 make sync 同步到 Codex、Cursor 等 agent 目标的斜杠命令目录。公开收录 24 个技能，覆盖工作流自动化、技术调试、代码库索引、tmux 多 agent 编排等；另支持 private-skills/ 本地私有技能与仓库策略校验（make validate）。本地 sync 仅支持 macOS/Linux。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 技能即运行时模块：可安装、版本化、测试、跨项目复用
-- 20 余个公开技能，通过 npx skills add 按需安装
-- make sync 同步 Codex/Cursor 技能与 slash 命令
-- make validate 执行仓库策略与 AgentSkills 规范校验
+- 24 个公开技能，npx skills add 按需安装并列出（--list）
+- make sync 支持 codex/cursor 目标的技能与斜杠命令同步
+- make validate 提供仓库策略、AgentSkills 规范与 OpenAI 元数据三类校验
+- 提供 managed_sync.py 的显式源迁移与恢复目录机制
 
 ## 适用场景
 
-- 为 Codex/OpenClaw 等 agent 安装现成的开发与运维技能
-- 用可测试的技能模块替代一次性 prompt 文本
-- 审计和复用个人的 agent 工作流配置
+- 为 Codex/Cursor/OpenClaw 等 agent 工具复用安装现成技能
+- 把个人常用 prompt 沉淀为可版本管理的技能仓库
+- 批量维护 GitHub 组织的 issue 去重、PR 合入、分支清理等运营流程
+- 对技能包做规范校验后发布复用
 
 ## 场景标签
 
@@ -37,6 +38,7 @@
 
 ## 证据(README 行号)
 
+> L13: We are moving from "prompt as text" to **skill as runtime module**. Each skill acts like a lightweight, containeriz
 > L17: This is my personal **.skills** repository for Codex, Cursor, OpenClaw and agent-first tooling. `.skills` is the do
 > L45: |Skill|What it does|Install|
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `8ff7394dcc26` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ea9b9a5e984d` · [字段定义](../../DATASET.md)*

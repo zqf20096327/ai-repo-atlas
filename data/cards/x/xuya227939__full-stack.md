@@ -2,9 +2,9 @@
 
 ⭐ 118 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/xuya227939/full-stack) · [官网](https://course.jchencode.com) · 个人维护 · 中文 README
 
-**Next.js 16 全栈项目模板：认证、支付、存储、邮件一体化**
+**全栈造站学习项目：Next.js+React 的 SaaS 模板与教程配套仓库**
 
-基于 Next.js 16 + React 19 的全栈起步模板，内置 Auth 认证、Supabase 集成、Stripe/Alipay 支付流程、Resend 邮件发送、R2 存储与 Redis 支持，另含 SEO 优化、博客、i18n 多语言与清理脚本。面向需要快速搭建生产级 Web 应用的开发者，用 Bun 管理依赖并分层加载 .env 环境变量。README 声明该模板支撑 SnapVee、SkillHub、Meshivo 3D 等站点，其中多个为 AI 相关产品，但模板本体不含 AI 功能。
+基于 Next.js 16 与 React 19 的全栈项目，配套「造站计划」课程，主题为从零搭建网站、学习 SEO、网站变现与用 AI 辅助创作内容。项目提供 Web 前端与 API 路由、用户认证与 Supabase 数据访问、Stripe/支付宝支付链路、邮件发送、任务清理脚本、R2 存储与 Redis 支持、SEO 与多语言等功能。运行需 Node.js >=20.9 与 Bun >=1.2.x，并需按启用的功能配置 Supabase、Redis、支付渠道等环境变量。仓库还列出 SnapVee、SkillHub、Meshivo 3D 三个网站案例。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Auth 与 Supabase 集成
-- Stripe / Alipay 支付流程
-- Resend 邮件、R2 存储、Redis 支持
-- 分层 .env 加载顺序（local/development/test/production）
+- 覆盖认证（Supabase/NextAuth）、Stripe 与支付宝支付、邮件、存储、Redis 等全栈链路
+- 提供 .env 多环境变量加载顺序规则与常见问题排查指南
+- 包含 SEO 优化、博客内容与多语言处理
+- 列出 SnapVee、SkillHub、Meshivo 3D 三个建站案例
 
 ## 适用场景
 
-- 快速启动一个带认证和支付的全栈 SaaS 项目
-- 搭建需要 Supabase 数据库与 R2 存储的 Web 应用
-- 国内外双通道支付（Stripe/Alipay）的网站开发
+- 作为模板从零搭建带认证与支付的 SaaS 网站
+- 学习 SEO、网站变现与 AI 辅助内容创作的课程配套实践
+- 复用支付、邮件、存储等基础能力做二次开发
 
 ## 场景标签
 
- · 领域:Web 开发/全栈模板
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L5: A full-stack project based on Next.js 16 + React 19, including:
-> L19: **SnapVee** — Universal Social Media Content AI Parser. Extract, download, and transform content from YouTube, TikT
-> L23: **SkillHub** — Claude Skills & GPT Skills Marketplace. Discover curated premium skills to supercharge your workflow
+> L3: 一个基于 Next.js 16 + React 19 的全栈项目。
+> L8: > 从零搭建网站，学习 SEO、网站变现和用 AI 辅助创作内容。
+> L16: - Web 前端与 API 路由
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `3ca89300ea1c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `74f08730d124` · [字段定义](../../DATASET.md)*

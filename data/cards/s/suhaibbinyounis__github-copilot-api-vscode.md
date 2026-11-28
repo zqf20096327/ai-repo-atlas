@@ -2,9 +2,9 @@
 
 ⭐ 134 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/suhaibbinyounis/github-copilot-api-vscode) · [官网](https://copilot-api.suhaib.in) · 个人维护
 
-**把 GitHub Copilot 等 VS Code AI 变成本地 OpenAI 兼容 API 网关**
+**把 GitHub Copilot 等模型转为本地 OpenAI 兼容 API 的 VS Code 扩展**
 
-VS Code 扩展：在本地 3030 端口启动 OpenAI 兼容 API 服务器，通过 vscode.lm API 自动发现已注册的 AI 模型（Copilot、Gemini Code Assist、Ollama 扩展等），供 Cursor、LangChain、Aider 等 OpenAI 兼容工具调用，无需另配 API key。提供 /v1/chat/completions、Claude 兼容 /v1/messages、Gemini 兼容端点及工具调用/MCP 列表端点。限制：VS Code 须保持运行，需 VS Code 1.95+ 且已登录 Copilot Chat 扩展；非 GitHub/Microsoft 官方项目。
+一个 VS Code 扩展，在本机启动 API 服务器（默认 localhost:3030），自动发现 VS Code 中注册的模型（Copilot、Gemini Code Assist、Ollama 扩展及任何 vscode.lm API 扩展），暴露 OpenAI、Anthropic、Gemini 兼容端点及 MCP 工具调用端点，供 Cursor、LangChain、Aider 等 OpenAI 兼容工具调用。支持流式输出、多模型路由、可选 API key 认证、Cloudflare Tunnel 公网访问。依赖 VS Code 1.95+ 与已登录的 Copilot Chat 扩展，VS Code 关闭则网关停止。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ VS Code 扩展：在本地 3030 端口启动 OpenAI 兼容 API 服务器，通�
 
 ## 能力要点
 
-- 自动发现 VS Code 内注册的所有 AI 模型并经 /v1/models 暴露
-- 兼容 OpenAI、Anthropic Claude、Google Gemini 三类端点格式
-- 提供 /v1/tools、/v1/mcp/servers 端点支持 VS Code 与 MCP 工具调用
-- 内置 Cloudflare Tunnel 一键获得公网访问地址，遥测可选可关闭
+- 自动发现 VS Code 内所有注册模型并暴露于 GET /v1/models
+- 同时提供 OpenAI、Anthropic、Gemini 兼容端点与 MCP 工具调用
+- 支持 Cloudflare Tunnel 一键公网暴露与可选 Bearer 认证
+- 提供 copilot-* 模型别名以规避 Cursor 模型名拦截
 
 ## 适用场景
 
-- 用现有 Copilot 订阅在 Cursor 中调用多种模型
-- 让 LangChain、Aider 等工具零 API key 本地跑通
-- 通过公网隧道从手机访问本机 AI API
+- 让 Cursor 使用 Copilot、Gemini 或本地 Ollama 模型作后端
+- 本地运行 LangChain/AutoGPT/CrewAI agent 而不另付 API 费用
+- 把 WhatsApp/Telegram 等消息平台的 Clawdbot 机器人接上 Copilot 模型
+- 通过隧道在手机或远程设备上访问本机模型 API
 
 ## 场景标签
 
@@ -37,8 +38,8 @@ VS Code 扩展：在本地 3030 端口启动 OpenAI 兼容 API 服务器，通�
 
 ## 证据(README 行号)
 
-> L5:  Use GitHub Copilot, Gemini, Ollama & any VS Code AI — like any other API.
-> L97: This gateway **auto-discovers all AI models** registered in VS Code — not just Copilot.
+> L1: GitHub Copilot API Gateway
+> L6:  One extension. Zero API keys. Auto-discovers every model. Works with LangChain, Cursor, Aider, and 50+ tools.
 > L106: All models are exposed at `GET /v1/models` and routable via the `model` field in any request. No config changes ne
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a41ea8b93aa2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e48bbe3e5902` · [字段定义](../../DATASET.md)*

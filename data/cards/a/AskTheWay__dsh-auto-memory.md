@@ -1,10 +1,10 @@
 # AskTheWay/dsh-auto-memory
 
-⭐ 137 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AskTheWay/dsh-auto-memory) · 个人维护
+⭐ 137 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AskTheWay/dsh-auto-memory) · 个人维护 · 中文 README
 
-**给 DeepSeek Harness 补上 Claude Code 式持久记忆的插件**
+**为 DeepSeek Harness 代理提供本地持久记忆的插件**
 
-面向 DeepSeek Harness（dsh）的插件：把类型化记忆文件（user/feedback/project/reference）加 MEMORY.md 索引自动注入每次系统提示，存储为普通 Markdown 文件，无外部服务、无嵌入。提供 memory_write/read/list/delete 工具、信任状态（candidate/verified/disputed/superseded）与证据引用核验、从 Claude Code 只读导入并可撤销、跨进程锁与原子写、注入字节预算上限（空库注入 0 字节）。需要 Node ^22.19 或 >=24，dsh >= 0.1.5-rc.2。
+以 dsh 插件形式为 DeepSeek Harness 提供持久记忆子系统：记忆为 Markdown 文件（YAML frontmatter、每条一文件），经四态信任机（candidate/verified/disputed/superseded）与逐字证据引文管控注入；每个系统请求携带字节预算化的记忆索引段，支持用户/工作区两级作用域、有效期（validUntil）、健康看板、注入审计与召回漏斗。提供与 Claude Code 记忆的双向导入导出及 AGENTS.md 导出。零服务器、零嵌入，无需 API key 即可运行演示脚本。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 类型化记忆 + MEMORY.md 索引自动注入系统提示，空库注入 0 字节
-- 纯文件存储（$DSH_HOME/memory/），可手改、可 grep，无外部服务
-- 信任状态与逐字证据核验，伪造引用会被丢弃
-- 从 Claude Code 只读导入，可按条目撤销且不改动源文件
+- 四态信任机 + 逐字证据引文，fabricated 引文被校验丢弃
+- 每请求注入的记忆索引段为字节预算硬上限，空存储注入 0 字节
+- 与 Claude Code 记忆双向导入导出（含 origin 块可撤销）
+- 确定性评测层在 CI 运行，无 LLM、可复现
 
 ## 适用场景
 
-- 让 dsh agent 跨会话记住用户偏好与项目经验
-- 从 Claude Code 迁移已有记忆到 DeepSeek Harness
-- 在面板中审查未验证/冲突的记忆条目
+- 让 dsh 编码代理跨会话记住用户偏好与项目经验
+- 管理代理记忆的可信度：只让用户验证过的记忆持续注入
+- 把 Claude Code 中的记忆迁移到 dsh 或导出到 AGENTS.md 工具链
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L13: > DeepSeek Harness — native,
-> L43: `dsh-auto-memory` closes that gap natively:
+> L24: dsh-auto-memory — persistent memory for DeepSeek Harness
+> L68: DeepSeek Harness is the hottest open agent harness on GitHub right now —
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `999f95d4a95d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `b75782f8a382` · [字段定义](../../DATASET.md)*

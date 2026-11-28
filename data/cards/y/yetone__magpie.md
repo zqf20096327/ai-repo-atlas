@@ -2,9 +2,9 @@
 
 ⭐ 42,510 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
 
-**把多个已付费订阅池化的本地网关，供各 agent 共用**
+**把多个订阅计划池化供任意 agent 使用的本地网关**
 
-magpie 是一个本地网关应用：将用户购买的多个模型订阅与 API key（Claude、ChatGPT、Copilot、GLM、Kimi Code 等）汇聚为一个池，通过 127.0.0.1:3425 的网关以 OpenAI Chat/Responses、Anthropic Messages、Gemini 协议对外提供服务，供 80+ 个 agent 客户端按需选用任意模型。核心机制包括配额耗尽时的多账户/路由组接管（smart/order/rotate/usage/pace 五种策略）、订阅登录信息读取、可选的本机隐私掩码（默认关闭，密钥/邮箱等在请求离开前替换为占位符）、插件系统（运行于 Bun）。提供 GUI、TUI、CLI、Docker 与 Termux 形态。
+本地运行的应用与网关：将用户已付费的多个订阅计划（Claude、ChatGPT、Copilot、GLM Coding Plan、Kimi Code 等）与 API key、本地模型汇集到一处，通过 127.0.0.1:3425 网关在四种协议间翻译，供 80+ 个 agent（Claude Code、Codex、Gemini CLI 等）以任意模型调用。配额耗尽时按路由组（smart/order/rotate/usage/pace 五种模式）在账户与模型间切换；另提供本机隐私脱敏、订阅账户发现、Bun 插件机制。提供桌面/TUI/CLI/Docker/Termux 多种运行形态，可一键卸载还原 agent 配置。
 
 ## 筛选速览
 
@@ -26,25 +26,27 @@ magpie 是一个本地网关应用：将用户购买的多个模型订阅与 API
 
 ## 能力要点
 
-- 本地网关翻译 OpenAI/Anthropic/Gemini 协议，含流式、工具调用与推理
-- 路由组在订阅配额耗尽时按 5 种策略切换账户/模型
-- 可选隐私掩码：本机替换敏感值并在回复中还原，仅驻内存
-- 支持 80+ agent 与任意 OpenAI/Anthropic 兼容 base URL 接入
+- 本地网关翻译 OpenAI Chat/Responses、Anthropic Messages 与 Gemini 协议（含流式、工具调用、推理）
+- 五种路由模式在账户与模型间做配额切换与故障转移
+- 默认关闭的本机脱敏：key/邮箱/密码在请求发出前替换为占位符，回复中还原
+- 通过读取 agent 本地登录文件发现订阅账户，可关闭
 
 ## 适用场景
 
-- 同时使用多个 agent 客户端并复用已有付费订阅
-- 单个订阅配额用尽后自动切换到下一个账户/模型继续工作
-- 在发送给厂商的请求前掩码提示中的密钥与个人数据
+- 同时使用多个 agent，想让每个都能调用我全部已付费的订阅计划
+- 某计划配额用完后自动切到下一个账户或模型，避免 agent 报错
+- 在发往厂商的请求前脱敏 prompt 里的密钥与个人信息
+- 把测试请求路由到强模型、简单问题路由到便宜模型
 
 ## 场景标签
 
-`模型网关` `编码 Agent` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L28: Each agent keeps its model in its own file, in its own format, with its own keys and base URLs. A subscription you 
-> L37: Runs on macOS, Windows and Linux (menu bar app, window, TUI, web UI and CLI), in Docker, and on Termux.
+> L78: The gateway at `127.0.0.1:3425` speaks OpenAI Chat, OpenAI Responses, Anthropic Messages and Gemini, and translates
+> L80:  How magpie fits together: your agents send requests to the magpie gateway at 127.0.0.1:3425, which routes them thr
 
 ## 星数曲线
 
@@ -60,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `d47f42264385` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e58224f8e975` · [字段定义](../../DATASET.md)*

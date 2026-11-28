@@ -1,10 +1,10 @@
 # webfuse-com/awesome-webmcp
 
-⭐ 150 · 推送 2026-11-27 · [GitHub](https://github.com/webfuse-com/awesome-webmcp) · [官网](https://www.reddit.com/r/WebMCP_Developers/) · 个人维护
+⭐ 150 · 推送 2026-11-27 · [GitHub](https://github.com/webfuse-com/awesome-webmcp) · [官网](https://www.reddit.com/r/WebMCP_Developers/) · 组织维护
 
-**WebMCP（W3C 浏览器标准）资源策展清单：规范、库、工具与示例**
+**WebMCP W3C 标准相关资源策展清单：规范、教程、库与示例**
 
-围绕 WebMCP 标准（网站通过 navigator.modelContext 向浏览器内 AI agent 暴露结构化 JavaScript 工具）的策展清单，收录 W3C 规范文档、Chrome 146+ 启用方法、MCP-B 生态库与 npm polyfill 包、独立 SDK、GoogleChromeLabs 与社区示例站点、开发调试工具、WindTunnel 基准、视频演讲与社区入口，按类别组织条目并附简介链接。面向尝试接入该标准的 Web 开发者与 agent 开发者。仅 Chrome Canary/Beta 146+ 且需开启实验 flag。
+由 Web Machine Learning Community Group 维护的 Awesome 清单，围绕 WebMCP W3C 草案标准（网站经 navigator.modelContext 向浏览器内 AI agent 暴露结构化 JavaScript 工具）聚合资源：官方规范与文档、浏览器 flag 开启方式、调试扩展、声明式与命令式 API 教程、Polyfill 与 SDK 库、可实测的官方与社区示例站点，以及开发者工具。内容为条目链接式目录，不含可安装的主体软件本身。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 收录 W3C 社区组规范、Chrome 146+ 启用指南与官方工具
-- 聚合 MCP-B npm 包、React hooks、polyfill 等库与 SDK
-- 汇集官方与社区 WebMCP 示例站点及调试/审计工具
-- 含 WindTunnel 基准与 MCP 生态关联资源
+- 聚合 W3C 草案规范、Chrome 146+ 预览说明与使用指南
+- 收录 Polyfill、React hooks、Next.js 插件等库与 SDK 条目
+- 官方与社区示例站点可配合 inspector 扩展实测
+- 涵盖调试检查器、CLI 工具等开发者工具条目
 
 ## 适用场景
 
-- 查找 WebMCP 规范与上手教程
-- 为项目挑选 WebMCP 库、SDK 或 polyfill
-- 寻找示例站点与调试工具验证自己的接入
+- 为网站接入 WebMCP 工具注册查找教程与 SDK
+- 查找可实测 WebMCP 的浏览器扩展与调试工具
+- 了解浏览器内 AI agent 工具生态的现有实现
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L3: # Awesome WebMCP
+> L22: - Awesome WebMCP (Official) - Curated list maintained by the Web Machine Learning Community Group.
 > L10: **The browser standard that lets any website expose structured JavaScript tools directly to in-browser AI agents vi
-> L20: - WebMCP Spec (W3C Community Group Draft) - Full IDL, tool registration, schemas, and security model.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a27cd7cf1219` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `be754daa6e6e` · [字段定义](../../DATASET.md)*

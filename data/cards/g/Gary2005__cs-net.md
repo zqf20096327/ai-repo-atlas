@@ -2,9 +2,9 @@
 
 ⭐ 120 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Gary2005/cs-net) · 个人维护 · 中文 README
 
-**基于 Transformer 的 CS2 比赛回放分析与路径预测框架**
+**本地运行的 CS2 比赛录像 AI 分析与 3D 回放工具**
 
-面向 Counter-Strike 2 回放（.dem）的深度学习工具栈：预训练 Transformer（138.7M 参数）以 16 tick 游戏状态窗口自回归预测每个玩家的未来移动路径；空间任务族从单 tick 状态预测胜率、回合末存活与未来击杀概率；并附带 Flask 3D 可视化器，可上传回放与 checkpoint 对比 AI 预测路径与真实轨迹。提供 checkpoint 下载、Python 库/CLI 推理接口与两套训练脚本，推理支持 CPU/MPS/CUDA。
+面向 CS2 玩家的本地分析工具：读取 .dem 录像，提取为 .csz 格式（逐 tick 采样、zstd 压缩、烟雾/火焰体素经 Go 侧通道解码），提供 Web 应用管理 demo 库、扫描导入、3D 回放（玩家、投掷物、烟雾体积、击杀信息流、小地图），并聚合选手数据。AI 部分包含回合胜率预测面板、选手五项数据头与对枪胜负弧线预测；模型权重（共 665 MB）托管在 Hugging Face，支持 hf-mirror 镜像自动切换。代码 MIT 许可，但游戏内容资产归 Valve。
 
 ## 筛选速览
 
@@ -15,30 +15,31 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 自回归预测每名玩家未来移动路径（move/angle 离散 token）
-- 单 tick 输入预测胜率/存活/未来击杀概率的空间任务族
-- Flask 3D 可视化器：回放播放、AI 路径 vs 真实轨迹对比、实时概率曲线
-- .dem → round JSON → WebDataset 分片的完整数据与训练流水线
+- .dem → .csz 精确编解码（逐 tick ≈64Hz 采样，bit 级一致）
+- AI 面板输出回合胜率、选手五项数据与对枪胜负预测
+- 3D 回放含烟雾体积、火焰单元与可见性显示
+- 提供免 Python/conda 的 Windows x64 zip 包，可离线运行
 
 ## 适用场景
 
-- 分析 CS2 比赛回放，预测玩家走位与回合走势
-- 可视化对比模型预测路径与真实移动轨迹
-- 基于回放数据训练或微调自己的预测模型
+- 导入自己的 CS2 比赛录像做 3D 复盘
+- 查看选手瞄准/影响数据与 AI 数据面板
+- 离线环境下本地分析比赛录像
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+ · 领域:游戏/数据分析
 
 ## 证据(README 行号)
 
-> L24: |**Path prediction model**|Pre-trained Transformer that takes a 16-tick window of the full game state (10 players +
-> L25: |**Spatial-only models**|The minimal downstream task family: from a **single tick** of the full game state, predict
+> L26: cs-net v5 is an AI analysis tool that runs locally, with 3D replay built in.
+> L95: 5. **Turn on AI** — bottom of the replay page: **AI 预测面板** (round win chance,
+> L96:  per-player five heads) and **AI 对枪** (who wins the next duel, as an arc).
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2d106a8c74a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `3d26d9e9555b` · [字段定义](../../DATASET.md)*

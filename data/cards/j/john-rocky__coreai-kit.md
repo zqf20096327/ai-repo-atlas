@@ -4,7 +4,7 @@
 
 **在 iPhone/Mac 上运行 Apple Core AI 模型的 Swift SDK**
 
-由 Daisuke Majima 维护的社区 Swift 包（非 Apple 官方），封装 Apple Core AI 框架：内置模型目录，从 Hugging Face 下载并缓存 chat/vision/speech 模型（如 Qwen3 0.6B），提供 ChatSession、KitLanguageModel（适配 FoundationModels 的 LanguageModelSession）等模型级 API，以及 24 个单行任务算子（transcribe/detect/redact 等）。另附 systemone 独立二进制，在设备端提供类型化决策 API、HTTP 服务与 MCP server。限制：需 Xcode 27 与 macOS 27/iOS 27 真机，模拟器 SDK 不含 CoreAI 框架。
+社区维护的 Swift 包（非 Apple 官方），封装 iOS 27 / macOS 27 的 Core AI 运行时：内置 80 条模型目录（固定 Hugging Face revision），按设备自动选择构建、下载并缓存模型；提供一行式调用（转录、摘要、检测、语音合成、深度估计、OCR）与模型级 API（ChatSession/KitLanguageModel/KitVisionModel），并通过 KitLanguageModel 接入 Apple FoundationModels 的 LanguageModelSession。需 Xcode 27 与 macOS 27 / iOS 27 真机运行，CoreAI 框架不在模拟器 SDK 中。附带 35 个示例工程。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 模型目录 + Hugging Face 下载与缓存（支持 HF_TOKEN、镜像、Xet trait）
-- KitLanguageModel 将 chat 模型适配 Apple LanguageModelSession
-- CoreAIOps 提供 24 个单行任务算子（转录/检测/摘要/脱敏等）
-- systemone 二进制：设备端类型化决策 + /v1/systemone HTTP + MCP server
+- 内置 80 条目模型目录，自动下载与缓存，无需 API key 与模型转换
+- 一行式调用：transcribe/summarize/detect/speak/estimateDepth 等
+- KitLanguageModel 接入 Apple FoundationModels，增加工具调用与引导生成
+- systemone serve 提供 HTTP 接口供 Swift 之外程序调用
 
 ## 适用场景
 
-- 在 iOS/macOS 应用中集成端侧 chat、vision、speech 模型
-- 从托管决策 API 切换到本地 Core AI 模型推理
-- 通过 MCP 给 Claude/Codex/Cursor 等 agent 挂载 decide 决策工具
+- 在 iOS/macOS 应用内运行本地聊天与视觉模型
+- 真机上做语音转写、OCR、目标检测、深度估计
+- 通过 LanguageModelSession 为系统模型会话挂载本地 Core AI 模型
 
 ## 场景标签
 
-`语音识别` `多模态` · 领域:感知与多模态
+`语音合成` `语音识别` `OCR` `目标检测` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L8: Download a tested Core AI model and run it in your Swift app. CoreAIKit handles model
-> L110: `KitLanguageModel` adapts **chat bundles** to Apple's `LanguageModelSession`. The
-> L160: **Model-level APIs** when you want control — `ChatSession` (the quickstart above),
+> L5: Download a tested Core AI model and run it in your Swift app. Core AI is Apple's on-device ML runtime in iOS 27 / ma
+> L18: Most tasks take one line. CoreAIKit finds the model and caches it for you:
+> L97: `KitLanguageModel` plugs compatible Core AI chat bundles into the system `LanguageModelSession`, the same API you u
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `df1b3af10b6f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `a080a303785d` · [字段定义](../../DATASET.md)*

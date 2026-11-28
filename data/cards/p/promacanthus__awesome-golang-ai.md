@@ -1,10 +1,10 @@
 # promacanthus/awesome-golang-ai
 
-⭐ 124 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/promacanthus/awesome-golang-ai) · [官网](https://promacanthus.github.io/awesome-golang-ai/) · 个人维护 · 中文 README
+⭐ 124 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/promacanthus/awesome-golang-ai) · [官网](https://promacanthus.github.io/awesome-golang-ai/) · 个人维护
 
-**Go 语言 AI/ML 资源策展清单：工具、库、基准与教程聚合**
+**Go 语言 AI/ML 开发资源的策展清单**
 
-遵循 awesome list 格式的 Go 语言 AI/ML 资源聚合仓库，不含可执行代码，作为发现与参考工具。条目按基准评测、MCP 实现、LLM 工具、RAG 组件、通用机器学习库、神经网络、专用领域与教育材料等类别组织，每条含链接与功能简介。面向 Go 开发者、ML 工程师、研究人员、DevOps/MLOps 工程师与学生。贡献通过 PR 提交，README 声明无正式贡献指南文件。
+以 awesome list 形式收录使用 Go 进行 AI 与机器学习开发的资源，按基准测试、LLM 工具、RAG 组件、通用 ML 库、神经网络、MCP 实现、教程书籍等类别组织，每个条目附链接与简要说明。仓库本身不含可执行代码，仅作为发现与参考工具。面向 Go 开发者、ML 工程师、研究者、MLOps 工程师及学习者，用于浏览查找、评估模型、学习或集成资源。贡献遵循 awesome list 惯例，通过 pull request 提交条目。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按基准、MCP、LLM、RAG、通用 ML 库、神经网络等类别组织条目
-- 每条目提供链接与功能描述
-- 覆盖教育材料：书籍、教程与数据集
+- 按基准、LLM、RAG、MCP、ML 库、神经网络等类别组织的资源清单
+- 条目含链接与功能简述，遵循 awesome list 格式
+- 提供英文与中文双语版本
+- 覆盖文档解析、嵌入模型、向量数据库等 RAG 组件资源
 
 ## 适用场景
 
-- 查找 Go 语言的向量数据库、LLM SDK 等 AI 工具
-- 用基准条目比较模型能力或做可复现实验
-- 通过教程与书籍学习 Go 实现 AI 概念
+- 查找用 Go 构建生产级 AI 应用所需的库和框架
+- 选用基准测试套件评估 LLM 的代码生成或推理能力
+- 系统学习用 Go 实现 AI 概念的书籍和教程
 
 ## 场景标签
 
@@ -37,7 +38,7 @@
 ## 证据(README 行号)
 
 > L15: The repository is a curated list of resources focused on artificial intelligence (AI) and machine learning (ML) dev
-> L19: The repository is structured into well-defined categories such as benchmarks, large language model (LLM) tools, Ret
+> L17: This repository does not contain executable code or software projects. Instead, it serves as a discovery and refere
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `3e892dfe07af` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `be1bc75d1861` · [字段定义](../../DATASET.md)*

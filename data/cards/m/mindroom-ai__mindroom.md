@@ -2,9 +2,9 @@
 
 ⭐ 409 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/mindroom-ai/mindroom) · [官网](https://mindroom.chat) · 组织维护
 
-**基于 Matrix 的个人/团队 AI agent 聊天应用，可自托管**
+**自托管的个人/团队 AI agent 聊天应用，接任意模型**
 
-MindRoom 让用户在 Matrix 聊天客户端中运行个人与共享 AI agent：每个 agent 是 Matrix 上的真实用户，可接入日历、笔记、邮件、代码等 100+ 工具与任意 MCP 服务器，支持浏览器操作、桌面桥接、审批卡与交互式画布。每个 agent 可选不同模型（本地或云端），持久记忆存于本地磁盘，支持 Slack/Telegram/WhatsApp/Discord 桥接、定时任务、RAG 知识库与沙箱执行。可通过 uvx 命令、macOS 原生应用或托管版运行。
+MindRoom 是一个开源 AI agent 平台：为个人与团队提供接入日历、笔记、邮件、文档等工具的 agent，每个 agent 以 Matrix 用户身份存在，可通过 MindRoom Chat、其他 Matrix 客户端或 Slack/Telegram/WhatsApp/Discord 桥接对话。支持按 agent 选择本地或云端模型、持久记忆（Mem0+ChromaDB）、知识库 RAG、工具审批、沙箱执行、定时任务与多 agent 协作。可自托管整套服务，也可仅在本机运行 agent，或使用托管版。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ MindRoom 让用户在 Matrix 聊天客户端中运行个人与共享 AI agent：
 
 ## 能力要点
 
-- 每个 agent 是 Matrix 真实用户，可经桥接接入 Slack/Telegram/WhatsApp/Discord
-- 100+ 工具集成与任意 MCP 服务器，支持持久 Chromium 浏览器与桌面桥接
-- 按 agent/房间/线程的模型路由，敏感房间可路由到本地 Ollama
-- Mem0+ChromaDB 持久记忆、Graphiti 知识图谱与 RAG 知识库
+- agent 即 Matrix 用户，可桥接到 Slack/Telegram/WhatsApp/Discord
+- 按 agent/房间/线程路由模型，本地与云端混合
+- 100+ 工具集成与任意 MCP 服务器接入
+- 持久记忆、知识图谱与自动技能学习
 
 ## 适用场景
 
-- 在聊天中管理日历、提醒、笔记并按语音指令操作
-- 团队共享 agent 处理邮件分拣、状态汇总与文档检索
-- 通过语音笔记控制智能家居并逐项审批 agent 动作
-- 自托管整套 agent 栈，让隐私数据不离开本地
+- 用语音管理日历、提醒、待办和家庭琐事
+- 让团队 agent 检索邮件、文档、工单并生成简报
+- 自托管一套不把数据交给第三方公司的 agent 服务
+- 让 agent 在自己的浏览器里完成下单等网页操作
 
 ## 场景标签
 
-`聊天机器人` `RAG` `知识图谱` · 领域:对话与助手
+`多智能体` `RAG` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L19: MindRoom gives you a personal agent for your calendar, notes, trips, and homelab, and shared agents for your team's
+> L5: **AI agents that know you and your work, in a chat app anyone can use.**
 > L20: Every agent is a real user on Matrix, the open chat standard, so you talk to it in MindRoom Chat, in any other Matr
-> L96: Personal agents and shared team agents connect to 100+ tools, including email, calendar, Slack, Jira, GitHub, and a
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ca0e80078acb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `4b2ebf498dc6` · [字段定义](../../DATASET.md)*

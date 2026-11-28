@@ -2,9 +2,9 @@
 
 ⭐ 137 · R · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/maju116/rplatypus) · [官网](https://maju116.github.io/rplatypus/) · 个人维护
 
-**医学影像分割与检测的 R 包：从图片文件夹到出图，2D/3D、DICOM/NIfTI**
+**R 用户的医学图像深度学习包：分割/检测/分类，DICOM 与 NIfTI**
 
-面向用 R 做医学影像分析的 R 包，通过 reticulate 在底层安装并隔离 pyplatypus（PyTorch 引擎）完成计算，用户以 R API 调用。提供 U-Net/U-Net++/Res-U-Net/LinkNet 四种分割架构与 YOLOv3 检测，支持 2D 与 3D（NIfTI、DICOM 切片文件夹）、九种损失、按患者切分数据、预测写回原扫描网格、按名称加载已发布权重等。规范可用 R 参数或 YAML 文件表达，两者产出相同对象。作者声明这是 2020 版的重写且处于 alpha 阶段，API 仍会变动。
+面向 R 的医学图像深度学习包（CRAN），支持 2D/3D 语义与实例分割、目标检测、图像级与多标签分类，读取 DICOM 与 NIfTI。通过 reticulate 在安装时自动构建隔离的 Python 环境运行 pyplatypus/PyTorch 引擎，用户只写 R。提供 U-Net/U-Net++/Res-U-Net/LinkNet 四种架构、11 种分割损失与 5 种指标、3D 数据增强、按患者分组的数据划分、YAML 实验配置、发布权重加载。声明为 alpha 重写版，API 仍可能变动。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 分割（U-Net/U-Net++/Res-U-Net/LinkNet）与 YOLOv3 目标检测，2D 与 3D
-- 读取 DICOM 与 NIfTI，预测写回原扫描网格并以 NIfTI 输出带几何信息的掩码
-- R 参数与 YAML 文件描述同一实验，首次调用自动构建隔离 Python 环境
-- 按名称加载已发布权重（如 dsbowl-unet、bccd-yolo3），export_weights 可导出并附训练信息
+- 四种分割架构，11 种分割损失与 5 种指标，可选排除背景
+- DICOM/NIfTI 3D 流程：重采样到共同 voxel 尺寸、series_report 校验、掩膜按原扫描网格写回
+- 按患者而非切片划分数据集，并逐病例评估而非仅数据集均值
+- YAML 与 R 参数产生同一 spec，可交付复现；发布权重按 commit 固定
 
 ## 适用场景
 
-- 训练/评估医学影像（MRI 序列、细胞图）的分割或检测模型并可视化结果
-- 对 3D 体数据做分割并按毫升报告结构体积
-- 复现模型卡报告的实验（vignette 走查 Data Science Bowl、BCCD）
+- 对 DICOM 或 NIfTI 医学扫描做 3D U-Net 分割训练
+- 组织病理大图切成网格后训练并还原全尺寸掩膜
+- 加载发布的 dsbowl-unet 权重直接推理并可视化掩膜
+- 多 MRI 序列按命名规则堆叠为多通道输入
 
 ## 场景标签
 
@@ -38,9 +39,7 @@
 ## 证据(README 行号)
 
 > L3: **Segmentation and object detection for medical images, from a folder of pictures to a
-> L4: figure.**
-> L10: > TensorFlow through the R keras package. This one runs on PyTorch through
-> L11: > pyplatypus, which it installs and isolates for
+> L19: piece — not a wrapper around a Python library you then have to learn, but an R package
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b296566b7aa6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `baaa71b39079` · [字段定义](../../DATASET.md)*

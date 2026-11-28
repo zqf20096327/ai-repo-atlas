@@ -2,9 +2,9 @@
 
 ⭐ 161 · Scala · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/wvlet/wvlet) · [官网](https://wvlet.org/wvlet/) · 组织维护
 
-**编译为 SQL 的流式查询语言，服务数据分析与 AI 编码代理**
+**供数据工程用的流式查询语言，可编译为多种 SQL**
 
-Wvlet 是一种跨 SQL 引擎的 flow-style 查询语言，查询以 .wv 文件保存，编译为 SQL 查询序列，支持 DuckDB、Trino、Hive 等数据库引擎。语言从 `from` 表扫描开始按数据处理顺序串联 where/group by/select 等算子，支持编译期类型检查与查询模块化复用，并提供带自动补全的交互式 REPL。面向数据建模与交互式数据探索的开发者；为 AI 编码代理提供 Agent Skill（含语法速查、SQL 映射、常见错误），CI 对其中示例逐一编译验证，文档以 llms.txt 纯文本形式分发。
+Wvlet 是一种 flow-style 查询语言：查询从表出发，按数据流顺序串联 where/group by/select 等算子，可在 JVM、原生二进制、Node.js 或浏览器中由内置引擎进程内运行，也可将同一查询编译为 DuckDB、Trino、Snowflake、Hive 的 SQL。提供 REPL、编译期类型检查与模块化查询。面向数据处理管道的编写者与维护者；项目为 AI 编码 agent 提供 Agent Skill、语法速查表与 llms.txt 文档，供 agent 学习其语法与 CLI。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ Wvlet 是一种跨 SQL 引擎的 flow-style 查询语言，查询以 .wv 文件�
 
 ## 能力要点
 
-- flow-style 语法按数据处理顺序书写查询并编译为 SQL
-- 多数据库支持：DuckDB、Trino、Hive 等
-- 编译期 schema 校验捕获类型错误，交互式 REPL 自动补全
-- 提供面向 AI 编码代理的 Agent Skill 与 llms.txt 文档
+- 同一查询可编译为 DuckDB/Trino/Snowflake/Hive 四种 SQL
+- 内置列式查询引擎，运行 22 条 TPC-H 与 99 条 TPC-DS 查询
+- 编译期 schema 校验的类型安全查询与可模块化复用的查询
+- 面向 AI agent 的 Agent Skill 与 llms.txt 纯文本文档，CI 编译全部示例
 
 ## 适用场景
 
-- 为 DuckDB/Trino/Hive 编写可复用、可模块化的分析查询
-- 以管道式语法描述数据处理流水线
-- 让 AI 编码代理学习并生成 Wvlet 查询
+- 以管道风格编写和维护复杂的数据处理查询
+- 跨 DuckDB/Trino/Snowflake/Hive 复用同一套查询
+- 让 AI 编码 agent 学习并生成 wvlet 语法查询
 
 ## 场景标签
 
-`数据分析` `代码生成` · 领域:效率与自动化
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L5: Wvlet, pronounced as weave-let, is a new cross-SQL flow-style query language for functional data modeling and intera
-> L38: - **Multi-database support**: Works with DuckDB, Trino, Hive, and more
-> L43: ## For AI Agents
+> L5: Wvlet, pronounced as weave-let, is a flow-style query language with a columnar query engine built in. Queries start 
+> L45: - **Built-in engine**: Runs all 22 TPC-H and 99 TPC-DS queries, with steady-state speed on par with DuckDB at scale
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a47089ced630` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `4e8fafb01c0b` · [字段定义](../../DATASET.md)*

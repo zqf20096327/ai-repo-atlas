@@ -2,9 +2,9 @@
 
 ⭐ 126 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) · 个人维护
 
-**60+ AI 浏览器扩展/插件策展清单（Chrome 与 Firefox）**
+**为浏览器用户整理的 Chrome/Firefox AI 扩展清单（64 条）**
 
-一份收录 60 余个 AI 功能浏览器扩展的清单，覆盖 Chrome 与 Firefox 双平台，条目以表格组织，含名称、功能描述与各平台下载链接。收录工具的用途包括摘要、写作辅助、网页抓取、验证码识别、转录、邮件生成等。清单最后更新于 2023 年 2 月 18 日，README 提示安装前注意扩展的权限。仓库本身不提供软件，仅提供条目索引与跳转链接。
+一份按浏览器组织的 AI 扩展目录，收录 64 条 Chrome 扩展与 Firefox 附加组件，覆盖写作、摘要、搜索增强、网页抓取、会议转录等类别，每条附描述及商店下载链接。清单注明审计日期（2026-11-23）与验证方式：链接仅指向商店页面，不代表经过功能或安全测试；版本号仅在可对照官方商店快照时标注，并提示用户自行核查权限与隐私政策。清单还维护审计说明，记录移除与新增决策。
 
 ## 筛选速览
 
@@ -20,14 +20,16 @@
 
 ## 能力要点
 
-- 收录 60+ 个 AI 扩展，表格含 Chrome/Firefox 下载链接
-- 覆盖摘要、写作、抓取、转录、邮件等多类用途
-- 提示用户安装前关注扩展权限
+- 64 条 AI 浏览器扩展，附 Chrome/Firefox 商店下载链接
+- 标注审计日期与版本验证口径（未验证≠v1）
+- 维护审计说明，记录移除决策与安全验证限制
+- 提示权限与隐私风险（如全站访问、邮件内容类扩展）
 
 ## 适用场景
 
-- 挑选带 AI 能力的 Chrome/Firefox 扩展
-- 了解 2023 年前后 AI 浏览器扩展的工具分布
+- 为 Chrome/Firefox 挑选 AI 写作、摘要或搜索类扩展
+- 按类别浏览当前可用的浏览器 AI 工具并直达商店页面
+- 安装前参考清单中的权限与安全核查提示
 
 ## 场景标签
 
@@ -35,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L7:  More than 60 AI Tools (updated 18 Feb. 2023)
-> L8: A collection of software tools that utilize artificial intelligence (AI) technology to enhance the functionality and
+> L7:  64 curated AI browser extensions — updated 23 Nov 2026
+> L14: **Audit date:** 23 November 2026. A Chrome/Firefox link points to a browser store; it does not guarantee the extens
 
 ## 星数曲线
 
@@ -52,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `aba440b74e61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `8424c4927bc3` · [字段定义](../../DATASET.md)*

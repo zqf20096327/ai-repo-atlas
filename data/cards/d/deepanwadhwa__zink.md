@@ -2,9 +2,9 @@
 
 ⭐ 112 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/deepanwadhwa/zink) · 个人维护
 
-**面向开发者的零样本文本匿名化 Python 库**
+**Python 库：用零样本 NER 模型对文本中的 PII 实体做脱敏**
 
-Python 包，用零样本 NER 模型（GLiNER 架构的 NuNerZero）识别并匿名化非结构化文本中的敏感实体（准标识符 PII/QI）。提供 redact（替换为 [LABEL]_REDACTED）、replace（用 Faker 生成上下文相关的合成替换）、自定义替换字典、@zink.shield 装饰器（API 调用前匿名化、输出后还原）与持久化实体映射（~/.zink/mapping.json）。支持 pip/uv 安装（cpu/gpu extra，首次导入从 Hugging Face 下载约 2 GB 模型）及 Docker 镜像（内置模型与 REST API）。附 QIB 基准（1750 例、35 类准标识符）评测结果。
+ZINK 提供 Python 包与 Docker REST API，用零样本 NER 模型（GLiNER 架构的 NuNerZero）识别非结构化文本中的准标识符并执行 redact 或 replace 操作：替换值可由 Faker 生成、用户自定义字典提供，支持跨调用持久化的编号占位符映射（~/.zink/mapping.json，0600 权限），以及 @zink.shield 装饰器在函数调用前后脱敏与还原参数。配套发布 QIB 基准（1750 例、35 类准标识符）。首次推理需从 Hugging Face 下载约 2 GB 模型文件，模型可能漏检，README 提醒人工复查输出。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Python 包，用零样本 NER 模型（GLiNER 架构的 NuNerZero）识别并匿
 
 ## 能力要点
 
-- 零样本 NER 识别任意实体标签并执行脱敏/替换
-- @zink.shield 装饰器在 LLM/API 调用前后自动匿名化与还原
-- Faker 结合 GLiNER 训练数据生成上下文相关的合成替换
-- Docker 镜像内置模型并暴露 REST /redact 接口
+- 零样本 NER 识别任意标签实体并支持 redact/replace 两种脱敏方式
+- Faker 合成替换与自定义替换字典（BYOD）
+- @zink.shield 装饰器在调用外部 API 前脱敏参数、返回后还原
+- Docker 镜像预装模型并暴露 /redact REST API
 
 ## 适用场景
 
-- RAG 管线或外部 API 调用前对敏感文本脱敏
-- 按自定义标签和替换字典做一致性匿名化
-- 跨多次调用保持实体映射一致的批处理脱敏
+- 把含个人信息的文本送入 LLM 前先做脱敏
+- 对非结构化文本批量替换敏感实体为合成数据
+- 按自定义标签字典做一致性脱敏映射
+- 以 REST API 形式在容器中提供脱敏服务
 
 ## 场景标签
 
- · 领域:NLP/隐私工程
+ · 领域:隐私保护/NLP
 
 ## 证据(README 行号)
 
-> L10: ZINK is a Python package designed for zero-shot anonymization of entities within unstructured text data. It allows 
-> L162: ### GLiNER
-> L163: GLiNER is a Named Entity Recognition (NER) model capable of identifying any entity type using a bidirectional tran
+> L13: ZINK is a Python package designed for zero-shot anonymization of entities within unstructured text data. It allows 
+> L224: ### GLiNER
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `19d52aa57be9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `d3a42ba34bc9` · [字段定义](../../DATASET.md)*

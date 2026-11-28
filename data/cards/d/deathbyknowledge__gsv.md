@@ -1,10 +1,10 @@
 # deathbyknowledge/gsv
 
-⭐ 134 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/deathbyknowledge/gsv) · [官网](https://ship.space) · 组织维护
+⭐ 134 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/deathbyknowledge/gsv) · [官网](https://ship.space) · 个人维护
 
-**部署在自有 Cloudflare 账号上的个人 AI 代理平台**
+**开源个人 AI agent 及其自托管运行时，可接入你的设备代办事**
 
-Ship 是开源的个人 AI 代理系统：在用户自己的 Cloudflare 账号内部署轻量控制平面，把笔记本、服务器、手机与浏览器连成一台机器，代理以持久进程形式在边缘运行，具备记忆、权限与子代理派生能力。用户通过 Web UI、CLI、浏览器扩展及 Discord/Telegram/Slack 适配器与之交互，代理可操作已连接设备的 shell 与文件。限制：需要 Cloudflare 账号与 Workers Paid，模型推理数据会路由至所配置的模型提供商，公开组件含 CodeMode。提供主机安装脚本与源码部署两种方式。
+Ship 是开源个人 AI agent，用户通过 web 应用、Desktop、gsv CLI 或消息软件（WhatsApp/Telegram/Slack/Discord/邮件）下达任务，agent 使用用户接入的电脑、浏览器和账户执行工作，跨会话保持状态并在变化时通知。本仓库 GSV 是其运行时：Cloudflare 边缘上的 Gateway 控制面（内核、身份、权限、调度）、持久化 agent 进程、syscall 抽象与部署。自托管需 Cloudflare Workers Paid、域名、Node.js 22+ 与 Rust；模型默认跑在 Workers AI 上。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@ Ship 是开源的个人 AI 代理系统：在用户自己的 Cloudflare 账号�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 控制平面部署在用户自己的 Cloudflare 账号，设备仅出站连接无需开放端口
-- 代理为持久进程，具备 PIDs、记忆、权限与子代理派生
-- 捆绑 Discord/Telegram/Slack 适配器与可驱动真实浏览器的 Web 扩展
-- 主机安装程序覆盖 Linux/macOS/Windows 多平台并含原生 Desktop 与本地转录助手
+- Gateway 控制面 + 持久化 agent 进程 + syscall 能力检查调用
+- 八种 agent 工具（Read/Write/Edit/Delete/Search/Shell/CodeMode/Send），集成以能力扩展而非新工具
+- 多端接入：web、Desktop、gsv CLI、浏览器扩展及五种消息软件
+- 每个 Ship 在 AT Protocol 网络发布公开档案，可选 AT Protocol 主机
 
 ## 适用场景
 
-- 跨自己的多台设备运行同一个个人 AI 代理
-- 设备休眠时让代理在边缘继续处理工作
-- 通过 Discord/Telegram/Slack 或网页与个人代理对话并派发任务
+- 让 agent 跟进退款、发邮件等日常事务
+- 部署到自己的 Cloudflare 账户运行私人助手
+- 通过消息软件随时给 agent 派活并接收通知
+- 把自有电脑/浏览器接入为 agent 的工作目标
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Ship 是开源的个人 AI 代理系统：在用户自己的 Cloudflare 账号�
 
 ## 证据(README 行号)
 
-> L15: **Ship is your personal spaceship.** It stays in orbit while you live your life down here on Earth. Talk to your Sh
-> L23: - Run things across all your machines from one agent — kick off a job on your home server while your laptop's shut.
-> L27: - Spawn durable agents with their own memory and permissions, that can start sub-agents of their own.
+> L15: Ship is an open-source personal AI agent. You give it things to do from the web
+> L20: This repository is **GSV**, the runtime Ship is built on: the control plane,
+> L58: `<handle>.example.com`. Models run on your account's Workers AI by default, and
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `85dc7fa134bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ef8ec0b56d55` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # AppitStudio/awesome-jev
 
-⭐ 116 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/AppitStudio/awesome-jev) · 组织维护 · 中文 README
+⭐ 116 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/AppitStudio/awesome-jev) · 组织维护
 
-**Jev（TypeSafe System One）应用与开发者资源策展清单**
+**面向开发者收集 Jev 模型资源与可运行决策示例的目录**
 
-独立的社区 awesome 清单，收录基于 Jev 的应用、官方 SDK（JavaScript/Python）、工具与可运行的决策示例。Jev 是 TypeSafe AI 的 System One 模型：输入状态与带类型的问题，返回选择、评分与概率供代码使用。清单按应用/工具目录组织，每个项目附用例、安装、示例与验证范围说明；另提供 awesome-jev-guide agent 技能（npx 安装）供编码代理引导选型，并说明离线示例无需账号或 API key。官方资源由 TypeSafe 维护，社区条目含 BYOK 与开源许可标注。
+独立社区维护的 Jev 资源目录。Jev 是 TypeSafe 的 System One 决策模型：输入状态与类型化问题，返回选项、分数与概率。目录收录使用 Jev 的应用、官方 SDK 文档（JavaScript/Python）、HTTP API 参考，以及可在本地用合成 mock 响应运行的示例工作流，无需账号或 API key。另提供 awesome-jev-guide 技能，供编码代理按自然语言描述选择并改编示例、搭建入门项目。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录大量 Jev 驱动应用的目录（含用例/安装/限制说明）
-- 覆盖 TypeSafe 官方 JavaScript/Python SDK 与 System One Adapter
-- awesome-jev-guide 编码代理技能，用 npx skills 安装
-- 离线示例无需账号、API key 或包安装即可运行
+- 收录使用 Jev 的社区应用目录，附用例、安装、限制与验证范围说明
+- 提供 npx skills add 安装的编码代理引导技能
+- 示例支持本地合成 mock 响应运行，无需账号/API key/包安装
+- 官方 SDK 覆盖 JavaScript/TypeScript 与 Python 客户端
 
 ## 适用场景
 
-- 查找基于 Jev 的应用与工具作为选型参考
-- 通过 agent 技能引导选择决策模式与示例项目
-- 学习 Jev 的状态+问题接口与 Choice/Score/Noul 决策原语
+- 想了解 Jev 决策接口能构建什么应用
+- 让编码代理按我的工作流选择并改编示例项目
+- 本地离线试跑完整决策工作流再决定接入
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L1: # Awesome Jev Awesome
 > L5: Jev is TypeSafe AI's System One model: give it state and typed questions, then use the returned choices, scores, and
+> L11: ## Contents
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `96e3e0405489` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `69774b83927a` · [字段定义](../../DATASET.md)*
