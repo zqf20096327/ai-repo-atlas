@@ -1,6 +1,6 @@
 # ChenHongruixuan/BRIGHT
 
-⭐ 263 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/ChenHongruixuan/BRIGHT) · [官网](https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html) · 组织维护
+⭐ 264 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/ChenHongruixuan/BRIGHT) · [官网](https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html) · 组织维护
 
 **全球分布多模态 VHR 灾害响应数据集与基准代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChenHongruixuan/BRIGHT 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 259 --> 264
-    line [260, 262, 260, 262, 263, 263]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 259 --> 265
+    line [260, 262, 260, 262, 263, 264]
 ```
 
-2026-10-25 260 → 2026-11-27 263（+3）
+2026-10-26 260 → 2026-11-28 264（+4）
 
 
 ---

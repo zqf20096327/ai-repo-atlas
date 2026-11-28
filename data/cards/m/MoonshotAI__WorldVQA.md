@@ -1,6 +1,6 @@
 # MoonshotAI/WorldVQA
 
-⭐ 124 · Python · 推送 2026-02-04 · [GitHub](https://github.com/MoonshotAI/WorldVQA) · 组织维护
+⭐ 125 · Python · 推送 2026-02-04 · [GitHub](https://github.com/MoonshotAI/WorldVQA) · 组织维护
 
 **评测多模态大模型视觉世界知识的 VQA 基准（3,500 题）**
 
@@ -46,12 +46,12 @@ MoonshotAI 发布的多模态大语言模型基准数据集：以 3,500 个 VQA 
 ```mermaid
 xychart-beta
     title "MoonshotAI/WorldVQA 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 122 --> 125
-    line [123, 124, 124]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 122 --> 126
+    line [123, 124, 125]
 ```
 
-2026-10-25 123 → 2026-11-27 124（+1）
+2026-10-26 123 → 2026-11-28 125（+2）
 
 
 ---

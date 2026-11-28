@@ -1,6 +1,6 @@
 # matgrioni/euchre-bot
 
-⭐ 19 · Go · 推送 2025-12-01 · [GitHub](https://github.com/matgrioni/euchre-bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Go 编写的 euchre 纸牌游戏 AI（MCTS/minimax/规则）**
 

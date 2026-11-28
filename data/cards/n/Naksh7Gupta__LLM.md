@@ -1,6 +1,6 @@
 # Naksh7Gupta/LLM
 
-⭐ 3 · Python · 推送 2026-10-12 · [GitHub](https://github.com/Naksh7Gupta/LLM) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **从零实现的 PyTorch decoder-only LLM 训练框架**
 

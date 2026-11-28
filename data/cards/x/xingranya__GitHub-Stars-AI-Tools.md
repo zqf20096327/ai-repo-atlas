@@ -1,6 +1,6 @@
 # xingranya/GitHub-Stars-AI-Tools
 
-⭐ 114 · TypeScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/xingranya/GitHub-Stars-AI-Tools) · [官网](https://gsat.xran.uk) · 个人维护 · 中文 README
+⭐ 115 · TypeScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/xingranya/GitHub-Stars-AI-Tools) · [官网](https://gsat.xran.uk) · 个人维护 · 中文 README
 
 **把 GitHub Stars 变成本地可搜索可追问的 AI 知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xingranya/GitHub-Stars-AI-Tools 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-26", "2026-11-28"]
     y-axis "stars" 109 --> 118
-    line [111, 110, 111, 117, 115, 114, 114]
+    line [111, 110, 111, 117, 115, 114, 115]
 ```
 
-2026-10-24 111 → 2026-11-27 114（+3）
+2026-10-25 111 → 2026-11-28 115（+4）
 
 
 ---

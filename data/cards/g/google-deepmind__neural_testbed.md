@@ -45,12 +45,12 @@ DeepMind 发布的 Python 库，用于系统性评估生成后验预测分布的
 ```mermaid
 xychart-beta
     title "google-deepmind/neural_testbed 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 191 --> 193
     line [192, 192]
 ```
 
-2026-10-25 192 → 2026-11-27 192（+0）
+2026-10-26 192 → 2026-11-28 192（+0）
 
 
 ---

@@ -40,6 +40,18 @@
 > L7:  Shrinks agent tool results before the model reads them: cache-safe, reversible, intent-aware.
 > L18: In an agent loop, every tool result is resent on every later turn. A 20K-token test log read at turn 3 of a 20-turn
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Contextwaise/contextwaise-python 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `cea116a1825a` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ flex 将 Claude Code/Codex 会话历史、文件夹、GitHub/Reddit/HN/arXiv 等
 ```mermaid
 xychart-beta
     title "damiandelmas/flex 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 19（+0）
 
 
 ---

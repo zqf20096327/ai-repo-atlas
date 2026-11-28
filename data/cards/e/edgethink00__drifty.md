@@ -1,6 +1,6 @@
 # edgethink00/drifty
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/edgethink00/drifty) · [官网](https://drifty.so) · 个人维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/edgethink00/drifty) · [官网](https://drifty.so) · 个人维护
 
 **macOS/Windows 的 AI 自动时间追踪应用，免手动计时**
 
@@ -46,13 +46,13 @@ Drifty 自动记录前台应用、窗口和受支持的浏览器标签页，由 
 
 ```mermaid
 xychart-beta
-    title "edgethink00/drifty 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 11
-    line [3, 5, 8, 10]
+    title "edgethink00/drifty 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 12
+    line [3, 5, 8, 10, 11]
 ```
 
-2026-11-21 3 → 2026-11-27 10（+7）
+2026-11-21 3 → 2026-11-28 11（+8）
 
 
 ---

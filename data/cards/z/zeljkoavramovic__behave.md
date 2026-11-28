@@ -1,6 +1,6 @@
 # zeljkoavramovic/behave
 
-⭐ 13 · Python · 推送 2026-09-30 · [GitHub](https://github.com/zeljkoavramovic/behave) · [官网](https://zeljkoavramovic.github.io/behave/) · 个人维护
+⭐ 14 · Python · 推送 2026-09-30 · [GitHub](https://github.com/zeljkoavramovic/behave) · [官网](https://zeljkoavramovic.github.io/behave/) · 个人维护
 
 **给 AI 编码 agent 注入行为准则的单文件指令包**
 
@@ -46,12 +46,12 @@ Behave 是一份零依赖的 Markdown 指令文件（BEHAVE.md）加一个仅用
 ```mermaid
 xychart-beta
     title "zeljkoavramovic/behave 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

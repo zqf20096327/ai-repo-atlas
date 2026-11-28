@@ -1,6 +1,6 @@
 # hitesh-reddy-k/pacificdb-community
 
-⭐ 16 · C++ · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/hitesh-reddy-k/pacificdb-community) · [官网](https://pacificdb.in/) · 组织维护
+⭐ 17 · C++ · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/hitesh-reddy-k/pacificdb-community) · [官网](https://pacificdb.in/) · 组织维护
 
 **C++17 自托管多模数据库：JSON 文档、向量检索与媒体存储**
 
@@ -45,12 +45,12 @@ PacificDB Community 是自托管的多模型数据库引擎，用 C++17 编写�
 ```mermaid
 xychart-beta
     title "hitesh-reddy-k/pacificdb-community 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-11-14", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-11-14 15 → 2026-11-27 16（+1）
+2026-11-14 15 → 2026-11-28 17（+2）
 
 
 ---

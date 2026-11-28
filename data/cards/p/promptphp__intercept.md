@@ -1,6 +1,6 @@
 # promptphp/intercept
 
-⭐ 67 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/promptphp/intercept) · [官网](https://intercept.promptphp.com/) · 组织维护
+⭐ 68 · PHP · MIT · 推送 2026-10-21 · [GitHub](https://github.com/promptphp/intercept) · [官网](https://intercept.promptphp.com/) · 组织维护
 
 **Laravel AI SDK 代理的可复用中间件集合**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "promptphp/intercept 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 64 --> 68
-    line [65, 66, 65, 66, 67, 67]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 65, 66, 67, 68]
 ```
 
-2026-10-25 65 → 2026-11-27 67（+2）
+2026-10-26 65 → 2026-11-28 68（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # face-hh/eblan
 
-⭐ 88 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/face-hh/eblan) · [官网](https://eblan.basaltlabs.org) · 个人维护
+⭐ 102 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/face-hh/eblan) · [官网](https://eblan.basaltlabs.org) · 个人维护
 
 **用 CS2 游戏聊天训练的娱乐用毒性聊天机器人及其基准**
 
@@ -45,13 +45,13 @@ EBLAN 是在 Counter-Strike 2 对局聊天上训练的小型语言模型，基�
 
 ```mermaid
 xychart-beta
-    title "face-hh/eblan 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 58 --> 90
-    line [60, 88]
+    title "face-hh/eblan 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 56 --> 106
+    line [60, 88, 102]
 ```
 
-2026-11-26 60 → 2026-11-27 88（+28）
+2026-11-26 60 → 2026-11-28 102（+42）
 
 
 ---

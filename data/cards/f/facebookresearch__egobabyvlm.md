@@ -1,6 +1,6 @@
 # facebookresearch/egobabyvlm
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/facebookresearch/egobabyvlm) · [官网](https://facebookresearch.github.io/egobabyvlm/) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/facebookresearch/egobabyvlm) · [官网](https://facebookresearch.github.io/egobabyvlm/) · 组织维护
 
 **基于儿童第一视角视频的跨模态学习基准与训练评测基础设施**
 
@@ -46,12 +46,12 @@ Meta FAIR 等机构随论文发布的挑战赛基础设施：要求参赛者仅�
 ```mermaid
 xychart-beta
     title "facebookresearch/egobabyvlm 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 19, 20, 21, 21]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 19, 20, 21, 22]
 ```
 
-2026-10-25 19 → 2026-11-27 21（+2）
+2026-10-26 19 → 2026-11-28 22（+3）
 
 
 ---

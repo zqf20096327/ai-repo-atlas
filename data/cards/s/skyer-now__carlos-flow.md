@@ -1,6 +1,6 @@
 # skyer-now/carlos-flow
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/skyer-now/carlos-flow) · [官网](https://github.com/skyer-now/carlos-flow#readme) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/skyer-now/carlos-flow) · [官网](https://github.com/skyer-now/carlos-flow#readme) · 个人维护 · 中文 README
 
 **为 AI 编码 Agent 提供机械门禁的工作流工具，约束执行范围与验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "skyer-now/carlos-flow 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

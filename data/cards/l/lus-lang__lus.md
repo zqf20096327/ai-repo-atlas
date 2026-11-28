@@ -1,6 +1,6 @@
 # lus-lang/lus
 
-⭐ 18 · C · 0BSD · 推送 2026-11-26 · [GitHub](https://github.com/lus-lang/lus) · [官网](https://lus.dev) · 个人维护
+⭐ 18 · C · 0BSD · 推送 2026-11-27 · [GitHub](https://github.com/lus-lang/lus) · [官网](https://lus.dev) · 个人维护
 
 **小型高效编程语言：让程序员快速上手开发程序**
 
@@ -44,12 +44,12 @@ Lus 是一个小型、易上手的编程语言项目，定位为程序员可快�
 ```mermaid
 xychart-beta
     title "lus-lang/lus 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-11-26 18 → 2026-11-27 18（+0）
+2026-11-26 18 → 2026-11-28 18（+0）
 
 
 ---

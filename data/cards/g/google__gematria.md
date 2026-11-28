@@ -1,6 +1,6 @@
 # google/gematria
 
-⭐ 95 · Python · Apache-2.0 · 推送 2026-02-13 · [GitHub](https://github.com/google/gematria) · 组织维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/google/gematria) · 组织维护
 
 **面向机器码的机器学习框架：预测基本块反向吞吐量**
 
@@ -46,12 +46,12 @@ Google 开源的机器码机器学习框架，包含 GRANITE 图神经网络模�
 ```mermaid
 xychart-beta
     title "google/gematria 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-25 95 → 2026-11-27 95（+0）
+2026-10-26 95 → 2026-11-28 95（+0）
 
 
 ---

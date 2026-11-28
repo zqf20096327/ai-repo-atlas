@@ -1,6 +1,6 @@
 # sansan-mei/page-agent-lite
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sansan-mei/page-agent-lite) · [官网](https://sansan-mei.github.io/page-agent-lite/) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sansan-mei/page-agent-lite) · [官网](https://sansan-mei.github.io/page-agent-lite/) · 个人维护 · 中文 README
 
 **让浏览器网页任务自动执行的轻量 Chrome/Edge 扩展**
 
@@ -39,6 +39,18 @@ AI 驱动的浏览器插件：在侧栏输入目标，助手按授权进入网�
 
 > L4:  AI驱动的轻量浏览器插件，能持续自动化帮你处理浏览器事务
 > L12: 在浏览器侧栏说出目标，从新标签页也能开始；助手按授权进入网站，读取网页、填写表单、点击和翻页，再检查实际结果。使用你现有的登录状态和自己的模型 API，无需 Python、独立后端或构建步骤。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sansan-mei/page-agent-lite 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

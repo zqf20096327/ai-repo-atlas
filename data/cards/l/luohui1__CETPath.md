@@ -1,6 +1,6 @@
 # luohui1/CETPath
 
-⭐ 74 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/luohui1/CETPath) · [官网](https://yingyu-preview.vercel.app) · 个人维护 · 中文 README
+⭐ 79 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/luohui1/CETPath) · [官网](https://yingyu-preview.vercel.app) · 个人维护 · 中文 README
 
 **面向四六级/考研考生的 AI 真题研习工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "luohui1/CETPath 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 50 --> 76
-    line [52, 74]
+    title "luohui1/CETPath 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 50 --> 81
+    line [52, 74, 79]
 ```
 
-2026-11-26 52 → 2026-11-27 74（+22）
+2026-11-26 52 → 2026-11-28 79（+27）
 
 
 ---

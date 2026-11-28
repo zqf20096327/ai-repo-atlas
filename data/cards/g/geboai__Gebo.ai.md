@@ -1,6 +1,6 @@
 # geboai/Gebo.ai
 
-⭐ 10 · Java · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/geboai/Gebo.ai) · [官网](https://gebo.ai/) · 组织维护
+⭐ 10 · Java · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/geboai/Gebo.ai) · [官网](https://gebo.ai/) · 组织维护
 
 **企业自托管的厂商中立 AI/RAG 平台，接入企业系统供文档问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "geboai/Gebo.ai 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-27 10（+0）
+2026-11-08 10 → 2026-11-28 10（+0）
 
 
 ---

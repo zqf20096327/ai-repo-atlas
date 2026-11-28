@@ -1,6 +1,6 @@
 # NoSavedDATA/Neve
 
-⭐ 16 · C++ · 推送 2026-11-26 · [GitHub](https://github.com/NoSavedDATA/Neve) · [官网](https://neve-lang.dev/) · 个人维护
+⭐ 16 · C++ · 推送 2026-11-27 · [GitHub](https://github.com/NoSavedDATA/Neve) · [官网](https://neve-lang.dev/) · 个人维护
 
 **基于 LLVM/C++ 的通用编程语言，Pythonic 语法与并发支持**
 
@@ -45,12 +45,12 @@ Neve 是一门以 LLVM/C++ 实现的高层通用编程语言，采用 Pythonic �
 ```mermaid
 xychart-beta
     title "NoSavedDATA/Neve 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 16（+0）
 
 
 ---

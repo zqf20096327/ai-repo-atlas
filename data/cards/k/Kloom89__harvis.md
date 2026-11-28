@@ -1,6 +1,6 @@
 # Kloom89/harvis
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/Kloom89/harvis) · [官网](https://kloomstudio.com.ar) · 组织维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/Kloom89/harvis) · [官网](https://kloomstudio.com.ar) · 组织维护
 
 **Windows 语音 AI 助手：本地唤醒+自选 LLM，语音操作电脑**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Kloom89/harvis 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 12, 13, 14, 15, 15]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 12, 13, 14, 15, 16]
 ```
 
-2026-10-25 12 → 2026-11-27 15（+3）
+2026-10-26 12 → 2026-11-28 16（+4）
 
 
 ---

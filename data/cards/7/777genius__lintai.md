@@ -1,6 +1,6 @@
 # 777genius/lintai
 
-⭐ 10 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/777genius/lintai) · [官网](https://777genius.github.io/lintai/) · 个人维护
+⭐ 11 · Rust · 推送 2026-10-28 · [GitHub](https://github.com/777genius/lintai) · [官网](https://777genius.github.io/lintai/) · 个人维护
 
 **AI 基础设施工件的安全检查器：合并前审查 agent 配置**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "777genius/lintai 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-26 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

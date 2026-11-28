@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DavidZhangdw/Visual-Tracking-Development 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 601 --> 603
     line [602, 602]
 ```
 
-2026-10-25 602 → 2026-11-27 602（+0）
+2026-10-26 602 → 2026-11-28 602（+0）
 
 
 ---

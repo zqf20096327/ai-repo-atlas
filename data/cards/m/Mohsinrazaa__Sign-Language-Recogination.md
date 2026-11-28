@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mohsinrazaa/Sign-Language-Recogination 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "Mohsinrazaa/Sign-Language-Recogination 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 130 --> 133
-    line [131, 132, 131, 132, 132]
+    line [132, 131, 132, 132]
 ```
 
-2026-10-25 131 → 2026-11-27 132（+1）
+2026-10-26 132 → 2026-11-28 132（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIPMAndy/Andy-Writing-Skill
 
-⭐ 15 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/AIPMAndy/Andy-Writing-Skill) · [官网](https://github.com/AIPMAndy/Andy-Writing-Skill) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AIPMAndy/Andy-Writing-Skill) · [官网](https://github.com/AIPMAndy/Andy-Writing-Skill) · 个人维护 · 中文 README
 
 **一个入口智能调度 19 个场景 AI 写作技能的 Agent Skill 集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/Andy-Writing-Skill 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 6 --> 16
     line [7, 14, 15, 15]
 ```
 
-2026-11-02 7 → 2026-11-27 15（+8）
+2026-11-02 7 → 2026-11-28 15（+8）
 
 
 ---

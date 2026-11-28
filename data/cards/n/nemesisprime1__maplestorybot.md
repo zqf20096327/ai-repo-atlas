@@ -44,13 +44,13 @@ MapleStory 的外部式自动化机器人：通过截屏识别与键盘模拟运
 
 ```mermaid
 xychart-beta
-    title "nemesisprime1/maplestorybot 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
+    title "nemesisprime1/maplestorybot 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-27", "2026-11-28"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19]
+    line [17, 18, 19, 19]
 ```
 
-2026-10-25 17 → 2026-11-27 19（+2）
+2026-10-26 17 → 2026-11-28 19（+2）
 
 
 ---

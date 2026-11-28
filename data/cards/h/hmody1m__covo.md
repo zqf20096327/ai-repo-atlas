@@ -1,6 +1,6 @@
 # hmody1m/covo
 
-⭐ 7 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hmody1m/covo) · 组织维护
+⭐ 8 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hmody1m/covo) · 组织维护
 
 **自托管自主 AI agent：执行任务、后台例程与审批式自动化**
 
@@ -46,12 +46,12 @@ Covo 是一个可自托管的自主 AI agent，端到端执行任务：工具调
 ```mermaid
 xychart-beta
     title "hmody1m/covo 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-15", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 6, 7, 7]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-15", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 6, 7, 8]
 ```
 
-2026-10-25 3 → 2026-11-27 7（+4）
+2026-10-26 3 → 2026-11-28 8（+5）
 
 
 ---

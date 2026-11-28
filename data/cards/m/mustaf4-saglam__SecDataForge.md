@@ -1,6 +1,6 @@
 # mustaf4-saglam/SecDataForge
 
-⭐ 3 · Python · 推送 2026-10-18 · [GitHub](https://github.com/mustaf4-saglam/SecDataForge) · 个人维护
+⭐ 3 · Python · 推送 2026-11-27 · [GitHub](https://github.com/mustaf4-saglam/SecDataForge) · 个人维护
 
 **面向 LLM 训练者的土耳其语网络安全数据集生成工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mustaf4-saglam/SecDataForge 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 3（+0）
 
 
 ---

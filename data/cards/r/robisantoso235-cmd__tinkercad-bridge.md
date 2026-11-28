@@ -42,6 +42,18 @@
 > L236: |`bridge-server.mjs`|Antrean perintah + hasil, HTTP|Node, background|
 > L238: |`ab.mjs`|CLI untuk agent|Dipanggil per perintah|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "robisantoso235-cmd/tinkercad-bridge 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2b7ec00eb9e7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Ericfeng84/DITAEditor
 
-⭐ 3 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Ericfeng84/DITAEditor) · [官网](https://ericfeng84.github.io/DITAEditor/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Ericfeng84/DITAEditor) · [官网](https://ericfeng84.github.io/DITAEditor/) · 个人维护 · 中文 README
 
 **面向技术文档团队的 Web DITA 1.3 结构化写作工作台**
 
@@ -41,6 +41,18 @@
 > L11: 面向技术文档团队的 **Web DITA 1.3 结构化写作工作台**：ProseMirror 可视化编辑与 CodeMirror 6 XML 源码双模，可折叠**文档大纲视图**与受 DITA 1.3 内容模型约束的拖拽重排，可
 > L164: ### 9. AI 辅助写作与错误修复（Phase 6）
 > L173: - **模型与审计**：`@dita/api` 用 LangChain.js（`@langchain/core` + `@langchain/openai`）封装 OpenAI 兼容 `ChatOpenAI`，默认 DeepSe
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ericfeng84/DITAEditor 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

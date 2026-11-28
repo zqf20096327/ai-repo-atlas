@@ -1,6 +1,6 @@
 # DJ-Huang/LeafLoom
 
-⭐ 6 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/DJ-Huang/LeafLoom) · [官网](https://dj-huang.github.io/LeafLoom/) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/DJ-Huang/LeafLoom) · [官网](https://dj-huang.github.io/LeafLoom/) · 个人维护 · 中文 README
 
 **本地优先的 Markdown/HTML 知识库与个人 Wiki，可接入 AI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DJ-Huang/LeafLoom 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 3 --> 7
     line [4, 5, 4, 6, 6]
 ```
 
-2026-10-25 4 → 2026-11-27 6（+2）
+2026-10-26 4 → 2026-11-28 6（+2）
 
 
 ---

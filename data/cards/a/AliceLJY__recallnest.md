@@ -1,6 +1,6 @@
 # AliceLJY/recallnest
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AliceLJY/recallnest) · [官网](https://aliceljy.github.io/recallnest/) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AliceLJY/recallnest) · [官网](https://aliceljy.github.io/recallnest/) · 个人维护 · 中文 README
 
 **给各类 AI 客户端共享的本地长期记忆层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AliceLJY/recallnest 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

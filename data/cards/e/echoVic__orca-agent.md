@@ -1,10 +1,10 @@
 # echoVic/orca-agent
 
-⭐ 521 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/echoVic/orca-agent) · [官网](https://orcaagent.dev/) · 组织维护
+⭐ 521 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/echoVic/orca-agent) · [官网](https://orcaagent.dev/) · 个人维护
 
-**面向 DeepSeek 的终端编程 Agent：读码改文件跑命令**
+**面向开发者的 DeepSeek 原生终端编码 Agent**
 
-Rust 编写的终端编码代理，接入 DeepSeek 推理与工具调用语义（SSE 流式、前缀缓存友好、自动上下文管理）。用户给出任务后，它读取代码、编辑文件、运行 shell 命令并验证结果，直至任务完成或请求人工介入。提供交互式 TUI 与无头 `orca exec` 两种使用方式，配合 suggest/auto-edit/full-auto/plan 四级审批模式与按目录信任机制；支持 MCP 服务器、子代理、JavaScript 工作流、会话恢复/分叉与检查点回退。通过 npm 或原生安装脚本分发，支持 macOS/Linux/Windows。
+以 Rust 编写、本地运行的终端编码 Agent：接收任务后读取代码、编辑文件、执行 shell 命令并验证结果，直到任务完成或需要用户介入。提供交互式 TUI 与 `orca exec` 无头模式两种使用方式，支持 MCP 服务器接入、子代理与工作流、会话恢复/分叉、检查点回滚以及 suggest/auto-edit/full-auto/plan 四级审批模式。通过 npm 包或安装脚本分发，支持 macOS/Linux/Windows 的 ARM64 与 x64。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@ Rust 编写的终端编码代理，接入 DeepSeek 推理与工具调用语义�
 
 ## 能力要点
 
-- 直接使用 DeepSeek 推理与工具调用语义，SSE 流式输出
-- 四级执行模式（suggest/auto-edit/full-auto/plan）与按目录信任
-- MCP 服务器管理与文件式子代理、JavaScript 工作流
-- 基于内容寻址检查点的 /rewind 回退与任务后台运行
+- 直接使用 DeepSeek 推理与工具调用语义，SSE 流式输出与自动上下文管理
+- MCP 服务器后台连接，子代理/工作流的持久执行与续跑（resume_from/continuation id）
+- 四级审批模式（suggest/auto-edit/full-auto/plan）加每目录信任机制
+- 基于内容寻址检查点的 /rewind 回滚，最近 100 次编辑可恢复文件
 
 ## 适用场景
 
-- 在终端用自然语言委托编码任务并自动验证结果
-- 脚本与 CI 中以无头模式运行编码代理
-- 通过 MCP 接入自定义工具与资源
-- macOS 上让代理操作 GUI 应用完成界面验证
+- 在终端里给 Agent 下达编码任务并自动完成文件修改与验证
+- 通过 MCP 扩展工具并在 macOS 上操作其他应用完成 UI 相关工作
+- 在 CI 或脚本中用 orca exec 无头运行编码任务
+- 长时间任务中查看/控制后台子代理并随时回滚文件状态
 
 ## 场景标签
 
-`编码 Agent` `GUI 自动化` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L10: Orca Agent is a DeepSeek-native coding agent for your terminal.
 > L177: - Uses DeepSeek's reasoning and tool-use semantics directly, with SSE streaming,
-> L192: - Gates risky actions with `suggest`, sandboxed `auto-edit`, full-access
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "echoVic/orca-agent 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 508 --> 522
     line [509, 510, 512, 513, 509, 513, 516, 518, 519, 520, 521, 521]
 ```
 
-2026-10-25 509 → 2026-11-27 521（+12）
+2026-10-26 509 → 2026-11-28 521（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2d5a2c567e53` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `113b0309643f` · [字段定义](../../DATASET.md)*

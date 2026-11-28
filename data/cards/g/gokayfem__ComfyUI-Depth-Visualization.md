@@ -45,13 +45,13 @@ ComfyUI 自定义节点集合：对任意深度图做归一化、修复、着色
 
 ```mermaid
 xychart-beta
-    title "gokayfem/ComfyUI-Depth-Visualization 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-27"]
+    title "gokayfem/ComfyUI-Depth-Visualization 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-28"]
     y-axis "stars" 73 --> 76
-    line [74, 75, 74, 74]
+    line [75, 74, 74]
 ```
 
-2026-10-25 74 → 2026-11-27 74（+0）
+2026-10-26 75 → 2026-11-28 74（-1）
 
 
 ---

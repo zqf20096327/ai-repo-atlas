@@ -1,6 +1,6 @@
 # bnlbnf/relaywatch
 
-⭐ 43 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/bnlbnf/relaywatch) · [官网](http://relaywatch.online) · 个人维护 · 中文 README
+⭐ 44 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/bnlbnf/relaywatch) · [官网](http://relaywatch.online) · 个人维护 · 中文 README
 
 **AI API 中转站聚合监控与模型比价平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bnlbnf/relaywatch 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-28"]
     y-axis "stars" 41 --> 45
-    line [42, 43, 44, 43, 43]
+    line [42, 43, 44, 43, 44]
 ```
 
-2026-10-25 42 → 2026-11-27 43（+1）
+2026-10-26 42 → 2026-11-28 44（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vpv-group/dream-starter-kit
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/vpv-group/dream-starter-kit) · [官网](https://meetdream.com/) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/vpv-group/dream-starter-kit) · [官网](https://meetdream.com/) · 组织维护
 
 **全栈 Web+iOS/Android 应用起步模板：认证、CMS、支付、推送、AI 助手一体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vpv-group/dream-starter-kit 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

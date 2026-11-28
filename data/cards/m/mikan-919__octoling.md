@@ -1,6 +1,6 @@
 # mikan-919/octoling
 
-⭐ 3 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mikan-919/octoling) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mikan-919/octoling) · 个人维护
 
 **在单张 NVIDIA RTX 50 GPU 上运行 Inkling-2 Mini 的推理引擎**
 
@@ -39,6 +39,18 @@
 
 > L7: Thinking Machines Lab の言語モデル Inkling-2 Mini の文章の部分を、NVIDIA の GPU 1枚で動かす推論エンジンです。Rust と CUDA で書いています。OpenAI 互換の HTTP 
 > L9: 重みは2つの形式を読めます。1つは公式の safetensors（NVFP4 と MXFP8）、もう1つは Strata が配布する量子化済みの SQ-10（`.strata`、約 10.5 GB）です。16 GB の GPU では
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mikan-919/octoling 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

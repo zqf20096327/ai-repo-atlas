@@ -1,6 +1,6 @@
 # drmingler/smart-llm-loader
 
-⭐ 239 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/drmingler/smart-llm-loader) · 个人维护
+⭐ 238 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/drmingler/smart-llm-loader) · 个人维护
 
 **把各类文档转为 LLM 可用 chunk 的 Python 文档处理库**
 
@@ -46,12 +46,12 @@ Python 包，将 PDF 等文档转换为 markdown 并切分为面向 LLM 的 chun
 ```mermaid
 xychart-beta
     title "drmingler/smart-llm-loader 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 236 --> 281
-    line [278, 253, 242, 241, 239, 239]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 234 --> 282
+    line [278, 253, 242, 241, 239, 238]
 ```
 
-2026-10-25 278 → 2026-11-27 239（-39）
+2026-10-26 278 → 2026-11-28 238（-40）
 
 
 ---

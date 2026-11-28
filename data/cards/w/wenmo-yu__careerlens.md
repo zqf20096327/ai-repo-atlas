@@ -1,6 +1,6 @@
 # wenmo-yu/careerlens
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/wenmo-yu/careerlens) · [官网](https://wenmo-yu.github.io/careerlens/) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/wenmo-yu/careerlens) · [官网](https://wenmo-yu.github.io/careerlens/) · 个人维护 · 中文 README
 
 **证据驱动的职业决策 Agent：简历/JD 匹配可回查**
 
@@ -41,6 +41,18 @@ CareerLens 是面向求职者的职业决策 Agent 应用：把简历、自述�
 > L13: CareerLens 是一个**证据驱动的职业决策 Agent**：把简历、自述与平台导出整理成可追溯的 **Evidence**，构建结构化画像；输入岗位 JD 后逐条比对，给出匹配判断、能力缺口、学习路线和职业报告——**每个
 > L17: > 本机运行默认使用确定性 Demo 模型与轻量检索，不需要配置模型密钥；真实模型（DeepSeek / OpenAI-compatible / 本地 Qwen、OCR/ASR）为可选接入。
 > L118: |模型|Demo / DeepSeek / OpenAI-compatible / 本地 Qwen|无密钥可复现，角色绑定与串级重排可配置|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wenmo-yu/careerlens 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

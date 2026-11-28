@@ -1,6 +1,6 @@
 # Celaris-dev1/Argo
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Celaris-dev1/Argo) · [官网](https://argoai.top) · 组织维护 · 中文 README
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Celaris-dev1/Argo) · [官网](https://argoai.top) · 组织维护 · 中文 README
 
 **可自托管的持久化 AI 智能体，自带可操作的计算机环境**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Celaris-dev1/Argo 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 6 --> 11
+    line [7, 10]
 ```
 
-2026-11-25 7 → 2026-11-27 7（+0）
+2026-11-25 7 → 2026-11-28 10（+3）
 
 
 ---

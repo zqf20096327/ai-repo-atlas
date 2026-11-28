@@ -1,6 +1,6 @@
 # neohaskell/NeoHaskell
 
-⭐ 349 · Haskell · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/neohaskell/NeoHaskell) · [官网](https://neohaskell.org) · 组织维护
+⭐ 349 · Haskell · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/neohaskell/NeoHaskell) · [官网](https://neohaskell.org) · 组织维护
 
 **面向新手的 Haskell 方言与应用框架，简化应用开发**
 
@@ -43,12 +43,12 @@ NeoHaskell 是 Haskell 的方言及应用框架，保留 Haskell 类型安全，
 ```mermaid
 xychart-beta
     title "neohaskell/NeoHaskell 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 347 --> 350
     line [348, 349, 349]
 ```
 
-2026-10-25 348 → 2026-11-27 349（+1）
+2026-10-26 348 → 2026-11-28 349（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # RooAGI/Membrick
 
-⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/RooAGI/Membrick) · [官网](https://rooagi.github.io/Membrick/) · 组织维护
+⭐ 88 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/RooAGI/Membrick) · [官网](https://rooagi.github.io/Membrick/) · 组织维护
 
 **给 AI 编码代理提供带时效证据的持久记忆层**
 
@@ -45,13 +45,13 @@ Rust 编写的持久化记忆组件，把项目历史（会话、文档、决策
 
 ```mermaid
 xychart-beta
-    title "RooAGI/Membrick 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 6 --> 66
-    line [11, 61]
+    title "RooAGI/Membrick 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 95
+    line [11, 61, 88]
 ```
 
-2026-10-25 11 → 2026-11-27 61（+50）
+2026-10-26 11 → 2026-11-28 88（+77）
 
 
 ---

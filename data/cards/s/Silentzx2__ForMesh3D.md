@@ -1,6 +1,6 @@
 # Silentzx2/ForMesh3D
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Silentzx2/ForMesh3D) · 个人维护
+⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Silentzx2/ForMesh3D) · 个人维护
 
 **自托管 AI 3D 资产工作室：图像生成与网格处理流水线**
 
@@ -39,6 +39,18 @@ ForMesh3D 将图像到 3D 生成与网格生产工具整合到一个本地工作
 
 > L14: ForMesh3D brings image-to-3D generation and practical mesh-production tools into one local workspace. It combines a
 > L24: |**Image to 3D**|Generate raw 3D geometry from a reference image with Hunyuan3D, TripoSG, and TRELLIS adapters.|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Silentzx2/ForMesh3D 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
 
 
 ---

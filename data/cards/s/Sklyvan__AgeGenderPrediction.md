@@ -46,12 +46,12 @@ Deep Learning 2022 课程最终项目，含两阶段管线：先用 YOLOv5（WID
 ```mermaid
 xychart-beta
     title "Sklyvan/AgeGenderPrediction 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-25 30 → 2026-11-27 30（+0）
+2026-10-26 30 → 2026-11-28 30（+0）
 
 
 ---

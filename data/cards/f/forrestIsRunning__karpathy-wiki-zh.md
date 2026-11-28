@@ -1,6 +1,6 @@
 # forrestIsRunning/karpathy-wiki-zh
 
-⭐ 15 · 推送 2026-05-10 · [GitHub](https://github.com/forrestIsRunning/karpathy-wiki-zh) · [官网](https://github.com/forrestIsRunning/karpathy-wiki-zh) · 个人维护 · 中文 README
+⭐ 16 · 推送 2026-05-10 · [GitHub](https://github.com/forrestIsRunning/karpathy-wiki-zh) · [官网](https://github.com/forrestIsRunning/karpathy-wiki-zh) · 个人维护 · 中文 README
 
 **Karpathy 全部公开内容的中文学习知识库（186 个文件）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "forrestIsRunning/karpathy-wiki-zh 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 14, 15, 15]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 14, 15, 16]
 ```
 
-2026-10-25 14 → 2026-11-27 15（+1）
+2026-10-26 14 → 2026-11-28 16（+2）
 
 
 ---

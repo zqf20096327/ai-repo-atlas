@@ -1,6 +1,6 @@
 # Mattral/PromptCanary
 
-⭐ 15 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/Mattral/PromptCanary) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/Mattral/PromptCanary) · 个人维护
 
 **检测 LLM 提供商静默行为漂移的 CLI/SDK 监控工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mattral/PromptCanary 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 12 --> 16
+    line [15, 13]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 13（-2）
 
 
 ---

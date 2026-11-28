@@ -1,6 +1,6 @@
 # DroBov1Tya/dusk_code
 
-⭐ 7 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/DroBov1Tya/dusk_code) · [官网](https://drobov1tya.github.io/dusk_code/) · 个人维护
+⭐ 7 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/DroBov1Tya/dusk_code) · [官网](https://drobov1tya.github.io/dusk_code/) · 个人维护
 
 **Rust 开源编程 agent：桌面/终端/浏览器多客户端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DroBov1Tya/dusk_code 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-28"]
     y-axis "stars" 3 --> 8
     line [4, 5, 6, 7, 7]
 ```
 
-2026-11-13 4 → 2026-11-27 7（+3）
+2026-11-13 4 → 2026-11-28 7（+3）
 
 
 ---

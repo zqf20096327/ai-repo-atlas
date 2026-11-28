@@ -1,6 +1,6 @@
 # charlesknapp/opencode-sidecar
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/charlesknapp/opencode-sidecar) · [官网](https://www.opencodesidecar.com/) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/charlesknapp/opencode-sidecar) · [官网](https://www.opencodesidecar.com/) · 个人维护
 
 **VS Code/Cursor 侧边栏 GUI：可视化操作 OpenCode 编码代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "charlesknapp/opencode-sidecar 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-26 4 → 2026-11-27 4（+0）
+2026-11-26 4 → 2026-11-28 5（+1）
 
 
 ---

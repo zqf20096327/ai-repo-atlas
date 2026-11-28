@@ -1,6 +1,6 @@
 # voyager67/AI-Creative-Production-Toolkit
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/voyager67/AI-Creative-Production-Toolkit) · [官网](https://voyager67.github.io/AI-Creative-Production-Toolkit/) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/voyager67/AI-Creative-Production-Toolkit) · [官网](https://voyager67.github.io/AI-Creative-Production-Toolkit/) · 个人维护
 
 **给创作者的 219 个 AI agent 技能与本地媒体工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "voyager67/AI-Creative-Production-Toolkit 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "voyager67/AI-Creative-Production-Toolkit 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 5（+2）
 
 
 ---

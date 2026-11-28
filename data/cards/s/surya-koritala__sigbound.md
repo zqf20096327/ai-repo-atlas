@@ -1,6 +1,6 @@
 # surya-koritala/sigbound
 
-⭐ 38 · Go · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/surya-koritala/sigbound) · 个人维护
+⭐ 37 · Go · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/surya-koritala/sigbound) · 个人维护
 
 **在单一 git 仓库上并行运行多个 AI 编码 agent 并自动合并的工具**
 
@@ -46,12 +46,12 @@ Go 编写的 CLI，基于 git worktree 与 merge-tree 并行运行多个 AI 编�
 ```mermaid
 xychart-beta
     title "surya-koritala/sigbound 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 37 --> 45
-    line [44, 38, 38]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 36 --> 45
+    line [44, 38, 37]
 ```
 
-2026-10-25 44 → 2026-11-27 38（-6）
+2026-10-26 44 → 2026-11-28 37（-7）
 
 
 ---

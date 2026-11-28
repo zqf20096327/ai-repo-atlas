@@ -1,6 +1,6 @@
 # Varn1t/EDAgent
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Varn1t/EDAgent) · 个人维护
+⭐ 36 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Varn1t/EDAgent) · 个人维护
 
 **本地多智能体探索性数据分析工具：CSV 进、EDA 报告出**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Varn1t/EDAgent 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 36 --> 51
-    line [50, 38, 39, 38, 37]
+    title "Varn1t/EDAgent 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 35 --> 51
+    line [50, 38, 39, 38, 37, 36]
 ```
 
-2026-10-25 50 → 2026-11-27 37（-13）
+2026-10-26 50 → 2026-11-28 36（-14）
 
 
 ---

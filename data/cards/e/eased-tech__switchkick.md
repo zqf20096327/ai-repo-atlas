@@ -46,12 +46,12 @@ switchkick 是面向 coding agents 与 OpenAI/Anthropic SDK 应用的本地代�
 ```mermaid
 xychart-beta
     title "eased-tech/switchkick 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-26 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 3（+0）
 
 
 ---

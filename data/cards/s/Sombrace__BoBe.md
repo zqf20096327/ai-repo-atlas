@@ -1,6 +1,6 @@
 # Sombrace/BoBe
 
-⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Sombrace/BoBe) · [官网](https://www.bobebot.com) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Sombrace/BoBe) · [官网](https://www.bobebot.com) · 个人维护
 
 **macOS 本地优先的主动式 AI 桌面伴侣**
 
@@ -46,12 +46,12 @@ BoBe 是常驻 Mac 桌面的 AI 伴侣应用：以小脸形象驻留桌面，读
 ```mermaid
 xychart-beta
     title "Sombrace/BoBe 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-27 10（+0）
+2026-11-08 10 → 2026-11-28 10（+0）
 
 
 ---

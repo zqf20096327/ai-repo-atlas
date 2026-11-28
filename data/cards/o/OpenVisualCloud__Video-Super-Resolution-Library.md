@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenVisualCloud/Video-Super-Resolution-Library 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 91 --> 94
     line [92, 93, 93]
 ```
 
-2026-10-25 92 → 2026-11-27 93（+1）
+2026-10-26 92 → 2026-11-28 93（+1）
 
 
 ---

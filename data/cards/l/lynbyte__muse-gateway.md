@@ -1,6 +1,6 @@
 # lynbyte/muse-gateway
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lynbyte/muse-gateway) · [官网](https://www.npmjs.com/package/muse-gateway) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lynbyte/muse-gateway) · [官网](https://www.npmjs.com/package/muse-gateway) · 个人维护
 
 **把 muse.ai 账号转成 OpenAI 兼容 API 的本地网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lynbyte/muse-gateway 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 9
-    line [7, 8]
+    title "lynbyte/muse-gateway 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 6 --> 12
+    line [7, 8, 11]
 ```
 
-2026-11-26 7 → 2026-11-27 8（+1）
+2026-11-26 7 → 2026-11-28 11（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # CombineProsecutor/free-ai-api-proxy
 
-⭐ 9 · Go · 推送 2026-10-21 · [GitHub](https://github.com/CombineProsecutor/free-ai-api-proxy) · 组织维护
+⭐ 10 · Go · 推送 2026-10-21 · [GitHub](https://github.com/CombineProsecutor/free-ai-api-proxy) · 组织维护
 
 **给开发者统一代理与路由多家 AI 模型请求的网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CombineProsecutor/free-ai-api-proxy 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-12", "2026-11-27"]
-    y-axis "stars" 3 --> 10
-    line [4, 8, 9, 9]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-12", "2026-11-28"]
+    y-axis "stars" 3 --> 11
+    line [4, 8, 9, 10]
 ```
 
-2026-10-30 4 → 2026-11-27 9（+5）
+2026-10-30 4 → 2026-11-28 10（+6）
 
 
 ---

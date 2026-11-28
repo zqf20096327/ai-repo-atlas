@@ -1,6 +1,6 @@
 # royhang/PaperBridge
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/royhang/PaperBridge) · [官网](https://royhang.github.io/PaperBridge/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/royhang/PaperBridge) · [官网](https://royhang.github.io/PaperBridge/) · 个人维护 · 中文 README
 
 **面向研究生与科研人员的开源保版式双语论文阅读与文献库**
 
@@ -41,6 +41,18 @@
 > L22: **PaperBridge 把这整条科研阅读链路合而为一，而且完全开源、自带 API 零订阅费、本地优先且支持 Docker 一键私有云同步：**
 > L54: 5. **灵活省钱的 AI 精读问答与全接口兼容**
 > L106: ## 支持的 API 服务
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "royhang/PaperBridge 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

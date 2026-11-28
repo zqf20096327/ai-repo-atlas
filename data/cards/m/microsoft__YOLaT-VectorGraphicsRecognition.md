@@ -46,12 +46,12 @@ NeurIPS 2021 与 T-PAMI 2024 论文的官方 PyTorch 实现：将矢量图形的
 ```mermaid
 xychart-beta
     title "microsoft/YOLaT-VectorGraphicsRecognition 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-11-25 109 → 2026-11-27 109（+0）
+2026-11-25 109 → 2026-11-28 109（+0）
 
 
 ---

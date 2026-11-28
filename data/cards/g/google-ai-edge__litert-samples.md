@@ -1,6 +1,6 @@
 # google-ai-edge/litert-samples
 
-⭐ 506 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/google-ai-edge/litert-samples) · [官网](https://developers.google.com/edge/litert) · 组织维护
+⭐ 505 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/google-ai-edge/litert-samples) · [官网](https://developers.google.com/edge/litert) · 组织维护
 
 **LiteRT 端侧推理示例集：帮助开发者运行与转换端上模型**
 
@@ -46,13 +46,13 @@ google-ai-edge 的开发者中心仓库，汇集 LiteRT（端侧推理运行时�
 
 ```mermaid
 xychart-beta
-    title "google-ai-edge/litert-samples 星数(近 12 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    title "google-ai-edge/litert-samples 星数(近 13 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 490 --> 507
-    line [491, 492, 494, 495, 496, 498, 499, 500, 499, 500, 505, 506]
+    line [491, 492, 494, 495, 496, 498, 499, 500, 499, 500, 505, 506, 505]
 ```
 
-2026-11-10 491 → 2026-11-27 506（+15）
+2026-11-10 491 → 2026-11-28 505（+14）
 
 
 ---

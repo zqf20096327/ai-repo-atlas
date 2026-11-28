@@ -45,12 +45,12 @@ Prism PHP 的 MCP 客户端扩展包，将 Model Context Protocol 服务器提�
 ```mermaid
 xychart-beta
     title "prism-php/relay 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 152 --> 154
     line [153, 153]
 ```
 
-2026-10-25 153 → 2026-11-27 153（+0）
+2026-10-26 153 → 2026-11-28 153（+0）
 
 
 ---

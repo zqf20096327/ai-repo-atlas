@@ -1,6 +1,6 @@
 # mtkresearch/BreezeApp
 
-⭐ 249 · Kotlin · Apache-2.0 · 推送 2026-01-23 · [GitHub](https://github.com/mtkresearch/BreezeApp) · 组织维护 · 中文 README
+⭐ 250 · Kotlin · Apache-2.0 · 推送 2026-01-23 · [GitHub](https://github.com/mtkresearch/BreezeApp) · 组织维护 · 中文 README
 
 **手機端離線運行 LLM/VLM/ASR/TTS 的純手機 AI 應用**
 
@@ -45,12 +45,12 @@ MediaTek Research 開源的 Android/iOS 純手機 AI 應用，v2 採用 Git Subm
 ```mermaid
 xychart-beta
     title "mtkresearch/BreezeApp 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 242 --> 250
-    line [243, 244, 243, 246, 247, 248, 249, 249]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 242 --> 251
+    line [243, 244, 243, 246, 247, 248, 249, 250]
 ```
 
-2026-10-25 243 → 2026-11-27 249（+6）
+2026-10-26 243 → 2026-11-28 250（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # websines/codegraph-mcp
 
-⭐ 22 · Rust · 推送 2026-02-14 · [GitHub](https://github.com/websines/codegraph-mcp) · [官网](https://www.subh.work/projects/codegraph-mcp) · 个人维护
+⭐ 23 · Rust · 推送 2026-02-14 · [GitHub](https://github.com/websines/codegraph-mcp) · [官网](https://www.subh.work/projects/codegraph-mcp) · 个人维护
 
 **给 AI 编码 agent 提供代码图谱与持久记忆的 Rust MCP 服务器**
 
@@ -45,12 +45,12 @@ Rust 编写的 MCP 服务器（stdio/JSON-RPC 2.0），向 AI 编码 agent 暴�
 ```mermaid
 xychart-beta
     title "websines/codegraph-mcp 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 19 --> 23
-    line [20, 21, 22, 22]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 19 --> 24
+    line [20, 21, 22, 23]
 ```
 
-2026-10-25 20 → 2026-11-27 22（+2）
+2026-10-26 20 → 2026-11-28 23（+3）
 
 
 ---

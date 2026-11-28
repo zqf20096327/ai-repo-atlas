@@ -42,6 +42,18 @@ TTLM 是一个 decoder-only transformer（2 层、宽 32、21,984 个三值参�
 > L100: 1. the PyTorch training model (`model/qmodel.py`),
 > L151: You need a Gigatron with 32 KB and ROM v4 (`gigatron/ttlm.gt1`). For ROM v3,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "storagebits/ttlm 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `760ebbc1ae30` · [字段定义](../../DATASET.md)*

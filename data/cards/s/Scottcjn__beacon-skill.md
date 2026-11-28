@@ -1,6 +1,6 @@
 # Scottcjn/beacon-skill
 
-⭐ 234 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Scottcjn/beacon-skill) · [官网](https://rustchain.org) · 个人维护
+⭐ 233 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Scottcjn/beacon-skill) · [官网](https://rustchain.org) · 个人维护
 
 **AI agent 间社交协调与支付协议：签名消息+RTC代币+12种传输层**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/beacon-skill 星数(近 7 点)"
-    x-axis ["2026-10-29", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 233 --> 239
-    line [237, 238, 236, 235, 234, 235, 234]
+    title "Scottcjn/beacon-skill 星数(近 8 点)"
+    x-axis ["2026-10-29", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 232 --> 239
+    line [237, 238, 236, 235, 234, 235, 234, 233]
 ```
 
-2026-10-29 237 → 2026-11-27 234（-3）
+2026-10-29 237 → 2026-11-28 233（-4）
 
 
 ---

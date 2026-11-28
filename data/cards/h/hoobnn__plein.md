@@ -1,6 +1,6 @@
 # hoobnn/plein
 
-⭐ 6 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/hoobnn/plein) · [官网](https://plein.ikuyu.com) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/hoobnn/plein) · [官网](https://plein.ikuyu.com) · 个人维护 · 中文 README
 
 **开源 AI 无限画布短剧创作工具：从创意到成片全流程节点化**
 
@@ -47,12 +47,12 @@ Plein 是 AGPL-3.0 开源的 AI 短剧创作工具：剧本、角色、分镜、
 ```mermaid
 xychart-beta
     title "hoobnn/plein 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-12", "2026-11-28"]
     y-axis "stars" 2 --> 7
-    line [3, 5, 6, 6]
+    line [3, 5, 6, 5]
 ```
 
-2026-10-29 3 → 2026-11-27 6（+3）
+2026-10-29 3 → 2026-11-28 5（+2）
 
 
 ---

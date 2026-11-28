@@ -46,12 +46,12 @@ PolicyPilot 是面向合规、运营与法务团队的 AI 合规助手：对上�
 ```mermaid
 xychart-beta
     title "SanchitSlayer/policypilot 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-27 3（+0）
+2026-11-02 3 → 2026-11-28 3（+0）
 
 
 ---

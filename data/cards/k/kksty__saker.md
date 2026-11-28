@@ -1,6 +1,6 @@
 # kksty/saker
 
-⭐ 3 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/kksty/saker) · 个人维护 · 中文 README
+⭐ 4 · Go · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/kksty/saker) · 个人维护 · 中文 README
 
 **给授权渗透测试者的多 Agent 协作测试平台**
 
@@ -39,6 +39,18 @@ Go 服务端加 Web 控制台构成的单用户单实例多项目平台，复用
 
 > L3: 单用户、单实例、多项目的授权安全测试平台：Go 服务端 + Web 控制台，复用 cyber-harness 的 Hub 与 scan 承载模型会话、工具调用与观测。
 > L11: - **协作**：执行者可以直聊、共享事实与交接。新意图由指挥官或操作员登记；执行者也可以自主决定下一步，需要新意图时提交结构化提议（可选），批准后才生成意图，派发是独立一步。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kksty/saker 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

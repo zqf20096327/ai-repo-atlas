@@ -1,6 +1,6 @@
 # DevvGwardo/hermes-duet
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DevvGwardo/hermes-duet) · [官网](https://devvgwardo.github.io/hermes-duet/) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/DevvGwardo/hermes-duet) · [官网](https://devvgwardo.github.io/hermes-duet/) · 个人维护
 
 **为 Hermes agent 提供主动式手机助手：单线程、晨报与审批卡**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DevvGwardo/hermes-duet 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-14", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-14 3 → 2026-11-27 3（+0）
+2026-11-14 3 → 2026-11-28 5（+2）
 
 
 ---

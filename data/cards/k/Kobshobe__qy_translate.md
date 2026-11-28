@@ -45,12 +45,12 @@ Chrome 浏览器翻译扩展，基于 Vue 3 与 TypeScript 构建。功能包括
 ```mermaid
 xychart-beta
     title "Kobshobe/qy_translate 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-25 86 → 2026-11-27 86（+0）
+2026-10-26 86 → 2026-11-28 86（+0）
 
 
 ---

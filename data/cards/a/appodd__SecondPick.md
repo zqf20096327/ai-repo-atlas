@@ -1,6 +1,6 @@
 # appodd/SecondPick
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/appodd/SecondPick) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/appodd/SecondPick) · 个人维护 · 中文 README
 
 **自托管闲鱼二手选购工作台：监控采集商品并可选 AI 研究**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "appodd/SecondPick 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-23", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-27 4（+1）
+2026-11-08 3 → 2026-11-28 4（+1）
 
 
 ---

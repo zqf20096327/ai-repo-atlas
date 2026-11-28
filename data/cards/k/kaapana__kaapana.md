@@ -1,6 +1,6 @@
 # kaapana/kaapana
 
-⭐ 280 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/kaapana/kaapana) · [官网](https://www.kaapana.ai) · 组织维护
+⭐ 280 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/kaapana/kaapana) · [官网](https://www.kaapana.ai) · 组织维护
 
 **面向医疗影像分析的开放平台工具包与联邦学习框架**
 
@@ -46,12 +46,12 @@ Kaapana 是一个开源的医疗数据分析平台工具包，面向研究人员
 ```mermaid
 xychart-beta
     title "kaapana/kaapana 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 275 --> 281
     line [276, 278, 279, 280, 280]
 ```
 
-2026-10-25 276 → 2026-11-27 280（+4）
+2026-10-26 276 → 2026-11-28 280（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # 2sellyogurt/AI-CAD-Audit-System
 
-⭐ 15 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/2sellyogurt/AI-CAD-Audit-System) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/2sellyogurt/AI-CAD-Audit-System) · 个人维护 · 中文 README
 
 **面向建筑审查的施工图 AI 合规审图平台（GB 规范）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "2sellyogurt/AI-CAD-Audit-System 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 12, 13, 15, 15]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-23", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 13, 15, 16]
 ```
 
-2026-10-25 10 → 2026-11-27 15（+5）
+2026-10-26 10 → 2026-11-28 16（+6）
 
 
 ---

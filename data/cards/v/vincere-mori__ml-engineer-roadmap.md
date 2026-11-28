@@ -1,6 +1,6 @@
 # vincere-mori/ml-engineer-roadmap
 
-⭐ 25 · CC-BY-SA-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/vincere-mori/ml-engineer-roadmap) · 个人维护
+⭐ 26 · CC-BY-SA-4.0 · 推送 2026-10-19 · [GitHub](https://github.com/vincere-mori/ml-engineer-roadmap) · 个人维护
 
 **俄语区 ML 工程师求职路线图：清单+薪资+面试备考+Agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vincere-mori/ml-engineer-roadmap 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-25 25 → 2026-11-27 25（+0）
+2026-10-26 25 → 2026-11-28 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # frgfm/torch-scan
 
-⭐ 221 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/frgfm/torch-scan) · [官网](https://frgfm.github.io/torch-scan/) · 个人维护
+⭐ 221 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/frgfm/torch-scan) · [官网](https://frgfm.github.io/torch-scan/) · 个人维护
 
 **给 PyTorch 开发者度量模型资源开销的分析库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "frgfm/torch-scan 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 220 --> 223
     line [222, 221, 222, 221, 221]
 ```
 
-2026-10-25 222 → 2026-11-27 221（-1）
+2026-10-26 222 → 2026-11-28 221（-1）
 
 
 ---

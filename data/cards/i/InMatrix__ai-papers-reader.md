@@ -1,6 +1,6 @@
 # InMatrix/ai-papers-reader
 
-⭐ 32 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/InMatrix/ai-papers-reader) · [官网](https://ai-papers-reader.taodong.net/) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/InMatrix/ai-papers-reader) · [官网](https://ai-papers-reader.taodong.net/) · 个人维护
 
 **生成每周 AI 论文个性化摘要的自动化 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "InMatrix/ai-papers-reader 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-28"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-25 31 → 2026-11-27 32（+1）
+2026-10-26 31 → 2026-11-28 32（+1）
 
 
 ---

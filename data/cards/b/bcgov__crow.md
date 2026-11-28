@@ -47,12 +47,12 @@ CROW（Continuous Remediation & Optimization Workflows）是 bcgov（不列颠�
 ```mermaid
 xychart-beta
     title "bcgov/crow 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-12", "2026-11-16", "2026-11-28"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-11-12 12 → 2026-11-27 13（+1）
+2026-11-12 12 → 2026-11-28 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # benjamincanac/nuxt-agent-discovery
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/benjamincanac/nuxt-agent-discovery) · [官网](https://nuxt-agent-discovery.vercel.app) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/benjamincanac/nuxt-agent-discovery) · [官网](https://nuxt-agent-discovery.vercel.app) · 个人维护
 
 **让 Nuxt 站点对 AI agent 可读的发现模块：markdown 协商与发现文档**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "benjamincanac/nuxt-agent-discovery 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-25 18 → 2026-11-27 18（+0）
+2026-10-26 18 → 2026-11-28 18（+0）
 
 
 ---

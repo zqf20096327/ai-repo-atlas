@@ -1,6 +1,6 @@
 # IvanMurzak/MCP-Plugin-dotnet
 
-⭐ 21 · C# · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/IvanMurzak/MCP-Plugin-dotnet) · 个人维护
+⭐ 21 · C# · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/IvanMurzak/MCP-Plugin-dotnet) · 个人维护
 
 **.NET 应用的 MCP 桥接插件：把方法/数据暴露为 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IvanMurzak/MCP-Plugin-dotnet 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 19 --> 22
     line [20, 21, 20, 21, 21]
 ```
 
-2026-10-25 20 → 2026-11-27 21（+1）
+2026-10-26 20 → 2026-11-28 21（+1）
 
 
 ---

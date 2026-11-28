@@ -1,6 +1,6 @@
 # HiveForensics-AI/knolo-core
 
-⭐ 152 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/HiveForensics-AI/knolo-core) · [官网](https://knolo.org) · 组织维护
+⭐ 152 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/HiveForensics-AI/knolo-core) · [官网](https://knolo.org) · 组织维护
 
 **让 AI agent 之间打包、验证并共享知识的框架**
 
@@ -46,12 +46,12 @@ Knolo 提供可移植的 Knowledge Image 容器：将源、分块、声明、元
 ```mermaid
 xychart-beta
     title "HiveForensics-AI/knolo-core 星数(近 10 点)"
-    x-axis ["2026-11-11", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 37 --> 163
     line [66, 108, 109, 51, 47, 151, 153, 151, 152, 152]
 ```
 
-2026-11-11 66 → 2026-11-27 152（+86）
+2026-11-11 66 → 2026-11-28 152（+86）
 
 
 ---

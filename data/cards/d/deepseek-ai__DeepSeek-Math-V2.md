@@ -1,6 +1,6 @@
 # deepseek-ai/DeepSeek-Math-V2
 
-⭐ 1,628 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/deepseek-ai/DeepSeek-Math-V2) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **数学定理证明大模型：自验证推理，IMO/CMP 金牌水平**
 
@@ -11,7 +11,7 @@ DeepSeek 发布的数学推理大模型权重，基于 DeepSeek-V3.2-Exp-Base �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

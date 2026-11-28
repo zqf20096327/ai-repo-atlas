@@ -1,6 +1,6 @@
 # mborsetti/webchanges
 
-⭐ 52 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/mborsetti/webchanges) · [官网](https://pypi.org/project/webchanges/) · 个人维护
+⭐ 52 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/mborsetti/webchanges) · [官网](https://pypi.org/project/webchanges/) · 个人维护
 
 **网页变更监控工具：匿名检测网页/图片/命令变化并通知，含 AI 摘要**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mborsetti/webchanges 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
+    title "mborsetti/webchanges 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-19", "2026-11-27", "2026-11-28"]
     y-axis "stars" 49 --> 53
-    line [50, 51, 52]
+    line [50, 51, 52, 52]
 ```
 
-2026-10-25 50 → 2026-11-27 52（+2）
+2026-10-26 50 → 2026-11-28 52（+2）
 
 
 ---

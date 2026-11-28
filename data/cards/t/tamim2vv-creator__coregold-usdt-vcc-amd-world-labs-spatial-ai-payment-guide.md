@@ -1,6 +1,6 @@
 # tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide
 
-⭐ 81 · 推送 2026-11-19 · [GitHub](https://github.com/tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 95 · 推送 2026-11-19 · [GitHub](https://github.com/tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向订阅海外 AI 工具的用户：CoreGold 虚拟卡开卡与绑卡指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 88
-    line [4, 17, 40, 67, 81]
+    title "tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 104
+    line [4, 17, 40, 67, 81, 95]
 ```
 
-2026-11-20 4 → 2026-11-27 81（+77）
+2026-11-20 4 → 2026-11-28 95（+91）
 
 
 ---

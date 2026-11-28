@@ -1,6 +1,6 @@
 # ahb-sjsu/turboquant-pro
 
-⭐ 27 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ahb-sjsu/turboquant-pro) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ahb-sjsu/turboquant-pro) · 组织维护
 
 **面向下游消费者度量的嵌入索引与 LLM KV 缓存压缩库**
 
@@ -45,12 +45,12 @@ PyPI 发布的 Python 压缩工具包，核心主张是按下游消费者实际�
 ```mermaid
 xychart-beta
     title "ahb-sjsu/turboquant-pro 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-25", "2026-11-28"]
     y-axis "stars" 26 --> 29
     line [27, 28, 27, 27]
 ```
 
-2026-10-25 27 → 2026-11-27 27（+0）
+2026-10-26 27 → 2026-11-28 27（+0）
 
 
 ---

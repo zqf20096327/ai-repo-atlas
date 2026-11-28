@@ -40,6 +40,18 @@
 > L15: Webcam (OpenCV) -> MediaPipe Hand Landmarker -> classifier -> smoothing -> UDP JSON on 127.0.0.1:5005
 > L19: 2. **Detection:** MediaPipe Hand Landmarker finds up to one hand and its 21 landmarks.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "a2zrr/hand-controller 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `bf2618a4ca2b` · [字段定义](../../DATASET.md)*

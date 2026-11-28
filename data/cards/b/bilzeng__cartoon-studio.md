@@ -1,6 +1,6 @@
 # bilzeng/cartoon-studio
 
-⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bilzeng/cartoon-studio) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/bilzeng/cartoon-studio) · 个人维护 · 中文 README
 
 **给个人创作者的本地分镜编排与 AI 漫剧生成工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bilzeng/cartoon-studio 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 20 --> 24
-    line [21, 23, 23]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 20 --> 25
+    line [21, 23, 24]
 ```
 
-2026-11-23 21 → 2026-11-27 23（+2）
+2026-11-23 21 → 2026-11-28 24（+3）
 
 
 ---

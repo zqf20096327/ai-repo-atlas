@@ -1,6 +1,6 @@
 # eldadshulman/path2space-companion
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/eldadshulman/path2space-companion) · [官网](https://doi.org/10.1016/j.cell.2026.04.023) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/eldadshulman/path2space-companion) · [官网](https://doi.org/10.1016/j.cell.2026.04.023) · 个人维护
 
 **从 H&E 病理切片预测空间转录组的论文配套代码**
 
@@ -44,13 +44,13 @@ Shulman et al., Cell 2026 论文的配套代码库，由相互独立的组件构
 
 ```mermaid
 xychart-beta
-    title "eldadshulman/path2space-companion 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 10, 11, 12, 13, 13]
+    title "eldadshulman/path2space-companion 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 9 --> 15
+    line [11, 10, 11, 12, 13, 14]
 ```
 
-2026-10-25 10 → 2026-11-27 13（+3）
+2026-10-26 11 → 2026-11-28 14（+3）
 
 
 ---

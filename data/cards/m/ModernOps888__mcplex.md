@@ -1,6 +1,6 @@
 # ModernOps888/mcplex
 
-⭐ 14 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ModernOps888/mcplex) · 个人维护
+⭐ 15 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ModernOps888/mcplex) · 个人维护
 
 **MCP 智能网关：为 AI agent 做语义工具路由与安全管控**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ModernOps888/mcplex 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-25 13 → 2026-11-27 14（+1）
+2026-10-26 13 → 2026-11-28 15（+2）
 
 
 ---

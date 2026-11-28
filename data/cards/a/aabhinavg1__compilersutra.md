@@ -1,6 +1,6 @@
 # aabhinavg1/compilersutra
 
-⭐ 17 · MDX · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aabhinavg1/compilersutra) · [官网](https://compilersutra.com/) · 个人维护
+⭐ 17 · MDX · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aabhinavg1/compilersutra) · [官网](https://compilersutra.com/) · 个人维护
 
 **软件工程多领域技术学习平台：编译器/系统/GPU/AI 等教程**
 
@@ -44,12 +44,12 @@ CompilerSutra 是一个技术学习平台，内容覆盖编译器与系统编程
 ```mermaid
 xychart-beta
     title "aabhinavg1/compilersutra 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-25 16 → 2026-11-27 17（+1）
+2026-10-26 16 → 2026-11-28 17（+1）
 
 
 ---

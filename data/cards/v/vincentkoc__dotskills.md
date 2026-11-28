@@ -1,6 +1,6 @@
 # vincentkoc/dotskills
 
-⭐ 111 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vincentkoc/dotskills) · 个人维护
+⭐ 111 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/vincentkoc/dotskills) · 个人维护
 
 **个人维护的 Codex/OpenClaw agent 技能库：可安装复用的技能模块**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vincentkoc/dotskills 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 109 --> 113
     line [110, 111, 112, 110, 111, 111]
 ```
 
-2026-10-25 110 → 2026-11-27 111（+1）
+2026-10-26 110 → 2026-11-28 111（+1）
 
 
 ---

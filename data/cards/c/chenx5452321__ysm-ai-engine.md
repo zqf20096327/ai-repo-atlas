@@ -1,6 +1,6 @@
 # chenx5452321/ysm-ai-engine
 
-⭐ 45 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/chenx5452321/ysm-ai-engine) · 个人维护 · 中文 README
+⭐ 50 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/chenx5452321/ysm-ai-engine) · 个人维护 · 中文 README
 
 **为 AI Agent 提供的 Minecraft YSM 模型程序化建模与校验引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenx5452321/ysm-ai-engine 星数(近 6 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 48
-    line [9, 14, 23, 35, 44, 45]
+    title "chenx5452321/ysm-ai-engine 星数(近 7 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 5 --> 54
+    line [9, 14, 23, 35, 44, 45, 50]
 ```
 
-2026-11-21 9 → 2026-11-27 45（+36）
+2026-11-21 9 → 2026-11-28 50（+41）
 
 
 ---

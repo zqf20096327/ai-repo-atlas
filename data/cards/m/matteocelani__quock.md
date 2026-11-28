@@ -1,6 +1,6 @@
 # matteocelani/quock
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/matteocelani/quock) · [官网](https://www.quock.app) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/matteocelani/quock) · [官网](https://www.quock.app) · 个人维护
 
 **面向 Ollama Cloud 的 iOS 聊天客户端：云端推理、本地存对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "matteocelani/quock 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-16", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-16", "2026-11-25", "2026-11-28"]
     y-axis "stars" 11 --> 16
     line [12, 13, 14, 15, 15]
 ```
 
-2026-11-10 12 → 2026-11-27 15（+3）
+2026-11-10 12 → 2026-11-28 15（+3）
 
 
 ---

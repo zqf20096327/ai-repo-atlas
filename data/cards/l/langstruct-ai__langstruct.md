@@ -1,6 +1,6 @@
 # langstruct-ai/langstruct
 
-⭐ 133 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/langstruct-ai/langstruct) · [官网](https://langstruct.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者的 LLM 结构化数据抽取库，自动优化提示词**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

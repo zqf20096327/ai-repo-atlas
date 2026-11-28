@@ -1,6 +1,6 @@
 # UnplugAI/Unplug
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/UnplugAI/Unplug) · [官网](https://unplug-ai.org) · 组织维护
+⭐ 45 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/UnplugAI/Unplug) · [官网](https://unplug-ai.org) · 组织维护
 
 **LLM 应用安全 SDK：注入检测、来源追踪与工具调用管控**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "UnplugAI/Unplug 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-25 45 → 2026-11-27 45（+0）
+2026-10-26 45 → 2026-11-28 45（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # gudaochangsheng/WaDi
 
-⭐ 127 · Python · 推送 2026-05-26 · [GitHub](https://github.com/gudaochangsheng/WaDi) · [官网](https://gudaochangsheng.github.io/WaDi-Page/) · 组织维护 · 中文 README
+⭐ 126 · Python · 推送 2026-05-26 · [GitHub](https://github.com/gudaochangsheng/WaDi) · [官网](https://gudaochangsheng.github.io/WaDi-Page/) · 组织维护 · 中文 README
 
 **给科研/开发者：一步图像生成的扩散蒸馏训练框架**
 
@@ -46,12 +46,12 @@ CVPR 2026 论文的官方 PyTorch 实现：提出 LoRaD 低秩旋转适配器建
 ```mermaid
 xychart-beta
     title "gudaochangsheng/WaDi 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 126 --> 145
-    line [144, 128, 129, 128, 127, 127]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 125 --> 145
+    line [144, 128, 129, 128, 127, 126]
 ```
 
-2026-10-25 144 → 2026-11-27 127（-17）
+2026-10-26 144 → 2026-11-28 126（-18）
 
 
 ---

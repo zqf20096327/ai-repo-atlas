@@ -1,6 +1,6 @@
 # ananasDDA/pocket-ai-lab
 
-⭐ 14 · Swift · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ananasDDA/pocket-ai-lab) · [官网](https://ananasdda.github.io/pocket-ai-lab/) · 个人维护
+⭐ 15 · Swift · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ananasDDA/pocket-ai-lab) · [官网](https://ananasdda.github.io/pocket-ai-lab/) · 个人维护
 
 **iPhone 端离线运行 LLM 的应用：多后端推理与模型适配检测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ananasDDA/pocket-ai-lab 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 13, 14, 14]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 13, 14, 15]
 ```
 
-2026-10-26 11 → 2026-11-27 14（+3）
+2026-10-26 11 → 2026-11-28 15（+4）
 
 
 ---

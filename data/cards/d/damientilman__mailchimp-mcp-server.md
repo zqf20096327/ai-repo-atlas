@@ -1,6 +1,6 @@
 # damientilman/mailchimp-mcp-server
 
-⭐ 25 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/damientilman/mailchimp-mcp-server) · [官网](https://www.tilman.marketing) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/damientilman/mailchimp-mcp-server) · [官网](https://www.tilman.marketing) · 个人维护
 
 **面向 Mailchimp Marketing API 的 MCP 服务器：227 个工具供 AI 客户端调用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "damientilman/mailchimp-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-25 24 → 2026-11-27 25（+1）
+2026-10-26 24 → 2026-11-28 26（+2）
 
 
 ---

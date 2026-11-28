@@ -1,6 +1,6 @@
 # directionally-local/autopilot
 
-⭐ 222 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/directionally-local/autopilot) · [官网](https://directionallylocal.com/autopilot) · 组织维护
+⭐ 222 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/directionally-local/autopilot) · [官网](https://directionallylocal.com/autopilot) · 组织维护
 
 **终端内开源编码 agent 与 SDK：自带密钥接入 25+ 模型提供方**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "directionally-local/autopilot 星数(近 12 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-28"]
     y-axis "stars" 173 --> 226
     line [177, 194, 216, 217, 218, 220, 221, 220, 221, 220, 222, 222]
 ```
 
-2026-10-29 177 → 2026-11-27 222（+45）
+2026-10-29 177 → 2026-11-28 222（+45）
 
 
 ---

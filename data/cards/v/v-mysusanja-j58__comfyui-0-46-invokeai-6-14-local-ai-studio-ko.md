@@ -1,6 +1,6 @@
 # v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko
 
-⭐ 15 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/v-mysusanja-j58/comfyui-0-46-invokeai-6-14-local-ai-studio-ko) · [官网](https://v-mysusanja-j58.github.io/comfyui-0-46-invokeai-6-14-local-ai-studio-ko/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 Windows x64 的游戏作弊工具，借 ComfyUI/InvokeAI 命名分发**
 
@@ -11,7 +11,7 @@ README 提供一个名为 comfyui-0-46-invokeai-6-14-local-ai-studio-ko 的 Wind
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

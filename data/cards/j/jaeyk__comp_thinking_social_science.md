@@ -44,13 +44,13 @@ Jekyll 静态站点形式的在线书籍仓库，帮助社会科学家建立计�
 
 ```mermaid
 xychart-beta
-    title "jaeyk/comp_thinking_social_science 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "jaeyk/comp_thinking_social_science 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 71 --> 74
-    line [73, 72]
+    line [73, 72, 72]
 ```
 
-2026-10-25 73 → 2026-11-27 72（-1）
+2026-10-26 73 → 2026-11-28 72（-1）
 
 
 ---

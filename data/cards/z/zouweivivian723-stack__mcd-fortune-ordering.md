@@ -1,6 +1,6 @@
 # zouweivivian723-stack/mcd-fortune-ordering
 
-⭐ 4 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/zouweivivian723-stack/mcd-fortune-ordering) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **预算输入抽签式搭配麦当劳套餐并生成运势解读的技能**
 

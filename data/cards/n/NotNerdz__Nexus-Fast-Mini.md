@@ -1,6 +1,6 @@
 # NotNerdz/Nexus-Fast-Mini
 
-⭐ 10 · TypeScript · 推送 2025-12-01 · [GitHub](https://github.com/NotNerdz/Nexus-Fast-Mini) · [官网](https://infiniax.ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **开发者用 TypeScript 编写的多模型编排推理框架**
 

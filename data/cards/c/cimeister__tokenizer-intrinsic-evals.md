@@ -46,12 +46,12 @@ TokEval 是计算分词器内在质量指标的工具包，提供 tokenizer-anal
 ```mermaid
 xychart-beta
     title "cimeister/tokenizer-intrinsic-evals 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-25 58 → 2026-11-27 58（+0）
+2026-10-26 58 → 2026-11-28 58（+0）
 
 
 ---

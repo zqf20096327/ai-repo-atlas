@@ -1,6 +1,6 @@
 # paepckehh/aiagent
 
-⭐ 20 · Go · BSD-3-Clause · 推送 2026-10-06 · [GitHub](https://github.com/paepckehh/aiagent) · [官网](https://paepcke.de/aiagent) · 个人维护
+⭐ 20 · Go · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/paepckehh/aiagent) · [官网](https://paepcke.de/aiagent) · 个人维护
 
 **用 OpenAI GPT 处理订阅服务邮箱请求的 Go 库**
 
@@ -45,12 +45,12 @@ Go 语言库（含示例 CLI 应用），面向订阅服务商：自动处理邮
 ```mermaid
 xychart-beta
     title "paepckehh/aiagent 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Zhengyuuuui/workbuddy2api
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Zhengyuuuui/workbuddy2api) · 个人维护 · 中文 README
+⭐ 30 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Zhengyuuuui/workbuddy2api) · 个人维护 · 中文 README
 
 **CodeBuddy/WorkBuddy 反代网关：转 OpenAI/Anthropic 协议供本地客户端调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Zhengyuuuui/workbuddy2api 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-28"]
     y-axis "stars" 19 --> 31
     line [20, 22, 23, 22, 24, 20, 26, 27, 28, 29, 30, 30]
 ```
 
-2026-10-25 20 → 2026-11-27 30（+10）
+2026-10-26 20 → 2026-11-28 30（+10）
 
 
 ---

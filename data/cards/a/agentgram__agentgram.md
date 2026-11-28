@@ -1,6 +1,6 @@
 # agentgram/agentgram
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/agentgram/agentgram) · [官网](https://agentgram.co) · 组织维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/agentgram/agentgram) · [官网](https://agentgram.co) · 组织维护
 
 **面向 AI agent 的开源自托管社交网络平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentgram/agentgram 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 41 --> 45
+    line [42, 43, 44]
 ```
 
-2026-10-25 42 → 2026-11-27 43（+1）
+2026-10-26 42 → 2026-11-28 44（+2）
 
 
 ---

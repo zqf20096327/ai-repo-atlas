@@ -1,6 +1,6 @@
 # Bike4Mind/bike4mind
 
-⭐ 97 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Bike4Mind/bike4mind) · [官网](https://bike4mind.com/) · 组织维护
+⭐ 97 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Bike4Mind/bike4mind) · [官网](https://bike4mind.com/) · 组织维护
 
 **开源核心的 AI 工作台：notebook、agent、RAG、多模型接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bike4Mind/bike4mind 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-27"]
+    title "Bike4Mind/bike4mind 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-28"]
     y-axis "stars" 89 --> 98
-    line [90, 91, 94, 90, 95, 96, 97, 97]
+    line [91, 94, 90, 95, 96, 97, 97]
 ```
 
-2026-10-25 90 → 2026-11-27 97（+7）
+2026-10-26 91 → 2026-11-28 97（+6）
 
 
 ---

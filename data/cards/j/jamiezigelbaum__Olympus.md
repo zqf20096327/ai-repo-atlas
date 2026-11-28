@@ -1,6 +1,6 @@
 # jamiezigelbaum/Olympus
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jamiezigelbaum/Olympus) · [官网](https://olympusplugin.ai) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jamiezigelbaum/Olympus) · [官网](https://olympusplugin.ai) · 个人维护
 
 **本地优先的个人知识库：让 AI 应用安全引用你的私密数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jamiezigelbaum/Olympus 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-28"]
     y-axis "stars" 14 --> 20
     line [15, 16, 15, 16, 18, 19, 19]
 ```
 
-2026-10-25 15 → 2026-11-27 19（+4）
+2026-10-26 15 → 2026-11-28 19（+4）
 
 
 ---

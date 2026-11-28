@@ -1,10 +1,10 @@
 # tensorlakeai/tensorlake
 
-⭐ 1,051 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/tensorlakeai/tensorlake) · [官网](https://tensorlake.ai) · 组织维护
+⭐ 1,051 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/tensorlakeai/tensorlake) · [官网](https://tensorlake.ai) · 组织维护
 
-**面向 AI agent 的沙箱云与 serverless 编排运行时**
+**为 AI Agent 开发者提供沙盒化无服务器运行环境**
 
-Tensorlake 提供基于 MicroVM 的沙箱执行环境与 serverless 函数编排运行时，用于构建 agent 应用：沙箱可作为 agent 运行环境或执行工具与 LLM 生成代码的隔离环境。关键机制包括块存储文件系统、快照与克隆、空闲自动挂起/恢复、跨机在线迁移，单项目宣称支持至 500 万沙箱。使用需注册 cloud.tensorlake.ai 获取 API key，提供 Python SDK、TypeScript SDK 与独立二进制 CLI（tl），沙箱镜像默认构建 CAS 格式，GPU 沙箱必须使用 CAS 镜像，不支持任意 Docker 镜像引用。
+Tensorlake 是一个计算基础设施平台，提供基于 MicroVM 的沙盒 API，用于运行 Agent、工具或 LLM 生成的代码。关键机制包括亚秒级沙盒启动（Lattice 调度器）、快照与克隆、空闲自动挂起/恢复、跨机实时迁移、CAS 按需加载镜像及异步构建操作，支持单项目最多 500 万沙盒。提供 Python SDK、TypeScript/Rust SDK 与 tl CLI；使用需注册 cloud.tensorlake.ai 获取 API key；自定义环境仅支持注册的沙盒镜像，不支持任意 Docker 镜像引用。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Tensorlake 提供基于 MicroVM 的沙箱执行环境与 serverless 函数编排
 
 ## 能力要点
 
-- MicroVM 沙箱：快照/克隆、空闲挂起恢复、秒级在线迁移
-- serverless 函数运行时支持 agent 长时编排与 fan-out
-- Python/TypeScript SDK 与 tl CLI，输出字节预算与超时控制
-- CAS 镜像按需加载内容，GPU 沙箱强制使用
+- MicroVM 沙盒：亚秒级启动、快照/克隆、空闲挂起/恢复、实时迁移
+- 多语言 SDK（Python/TypeScript/Rust）与 tl CLI
+- CAS 镜像按需冷启动与异步构建操作（get/wait/cancel）
+- 运行中沙盒支持 CPU/内存/根磁盘在线扩缩
 
 ## 适用场景
 
-- 为 agent 运行 LLM 生成的代码提供隔离沙箱
-- 部署需要长时间运行的后台 agentic 应用
-- 需要大量可快照、可克隆的执行环境
+- 为 Agent 工具执行或 LLM 生成代码提供隔离运行环境
+- 需要大量并发、可暂停恢复的有状态执行环境
+- 构建并导入私有基础镜像用于沙盒环境定制
 
 ## 场景标签
 
-`Agent 框架` `工作流自动化` · 领域:Agent 开发
+ · 领域:AI 基础设施/沙盒运行时
 
 ## 证据(README 行号)
 
-> L11: Tensorlake is a compute infrastructure platform for building agentic applications with sandboxes.
+> L11: Tensorlake is a compute infrastructure platform for building agents with sandboxes.
 > L13: The Sandbox API creates MicroVM sandboxes which you can use to run agents, or use them as an isolated environment f
-> L15: In addition to stateful VMs, you can also add long running orchestration capabilities to Agents using a serverless 
+> L17: Tensorlake Sandboxes provide instant, stateful execution environments for AI agents — spin up millions of sandboxes
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "tensorlakeai/tensorlake 星数(近 15 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
+    title "tensorlakeai/tensorlake 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-28"]
     y-axis "stars" 1023 --> 1053
-    line [1025, 1026, 1027, 1031, 1032, 1034, 1035, 1025, 1044, 1046, 1047, 1046, 1047, 1051, 1051]
+    line [1026, 1027, 1031, 1032, 1034, 1035, 1025, 1044, 1046, 1047, 1046, 1047, 1051, 1051]
 ```
 
-2026-10-25 1,025 → 2026-11-27 1,051（+26）
+2026-10-26 1,026 → 2026-11-28 1,051（+25）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `c83d5cf9c829` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `b4f6bf5927f7` · [字段定义](../../DATASET.md)*

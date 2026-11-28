@@ -1,6 +1,6 @@
 # Chunling1/OpenBIM-FloorPlan-AI
 
-⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Chunling1/OpenBIM-FloorPlan-AI) · [官网](https://github.com/Chunling1/OpenBIM-FloorPlan-AI) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Chunling1/OpenBIM-FloorPlan-AI) · [官网](https://github.com/Chunling1/OpenBIM-FloorPlan-AI) · 个人维护 · 中文 README
 
 **将建筑平面图分割为墙/窗/门的深度学习工具，面向建筑与BIM从业者**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Chunling1/OpenBIM-FloorPlan-AI 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # 0verL1nk/PaperSage
 
-⭐ 41 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/0verL1nk/PaperSage) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/0verL1nk/PaperSage) · 个人维护 · 中文 README
 
 **面向本地资料的可追溯 AI 研究阅读工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0verL1nk/PaperSage 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-22", "2026-11-28"]
     y-axis "stars" 39 --> 42
     line [40, 41, 41]
 ```
 
-2026-10-25 40 → 2026-11-27 41（+1）
+2026-10-26 40 → 2026-11-28 41（+1）
 
 
 ---

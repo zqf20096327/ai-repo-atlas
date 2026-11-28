@@ -46,12 +46,12 @@ NeurIPS 2026 论文 SyncWorld 的训练与评测代码，源自 NVIDIA Cosmos-Fr
 ```mermaid
 xychart-beta
     title "UMass-Embodied-AGI/SyncWorld 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 22 --> 27
     line [23, 26, 26]
 ```
 
-2026-10-25 23 → 2026-11-27 26（+3）
+2026-10-26 23 → 2026-11-28 26（+3）
 
 
 ---

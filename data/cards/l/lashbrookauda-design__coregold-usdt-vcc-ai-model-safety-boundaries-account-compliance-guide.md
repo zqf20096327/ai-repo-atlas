@@ -1,6 +1,6 @@
 # lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide
 
-⭐ 17 · 推送 2026-11-25 · [GitHub](https://github.com/lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 25 · 推送 2026-11-25 · [GitHub](https://github.com/lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **海外 AI 会员订阅者的 USDT 虚拟卡开卡与防风控指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 18
-    line [4, 17]
+    title "lashbrookauda-design/coregold-usdt-vcc-ai-model-safety-boundaries-account-compliance-guide 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 27
+    line [4, 17, 25]
 ```
 
-2026-11-26 4 → 2026-11-27 17（+13）
+2026-11-26 4 → 2026-11-28 25（+21）
 
 
 ---

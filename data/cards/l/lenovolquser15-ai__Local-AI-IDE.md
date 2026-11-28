@@ -1,6 +1,6 @@
 # lenovolquser15-ai/Local-AI-IDE
 
-⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lenovolquser15-ai/Local-AI-IDE) · [官网](https://t.me/RemingOstai) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/lenovolquser15-ai/Local-AI-IDE) · [官网](https://t.me/RemingOstai) · 个人维护
 
 **基于本地 LLM 的 Windows 桌面 agent harness，带 Web UI 与工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lenovolquser15-ai/Local-AI-IDE 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-19", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-19", "2026-11-21", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-11 3 → 2026-11-27 5（+2）
+2026-11-11 3 → 2026-11-28 5（+2）
 
 
 ---

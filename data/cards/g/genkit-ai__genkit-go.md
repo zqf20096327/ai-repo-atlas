@@ -1,6 +1,6 @@
 # genkit-ai/genkit-go
 
-⭐ 29 · 推送 2026-10-10 · [GitHub](https://github.com/genkit-ai/genkit-go) · [官网](https://genkit.dev) · 组织维护
+⭐ 30 · 推送 2026-10-10 · [GitHub](https://github.com/genkit-ai/genkit-go) · [官网](https://genkit.dev) · 组织维护
 
 **Google 出品的 Go 语言 AI 应用开发框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "genkit-ai/genkit-go 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-25 29 → 2026-11-27 29（+0）
+2026-10-26 29 → 2026-11-28 30（+1）
 
 
 ---

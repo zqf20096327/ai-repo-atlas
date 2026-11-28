@@ -1,10 +1,10 @@
 # jamiepine/voicebox
 
-⭐ 61,349 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jamiepine/voicebox) · [官网](https://voicebox.sh) · 个人维护
+⭐ 61,405 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jamiepine/voicebox) · [官网](https://voicebox.sh) · 个人维护
 
-**本地优先的 AI 语音工作室：克隆声音、生成语音、全局听写**
+**本地运行的 AI 语音工作室：语音克隆、TTS、听写与 Agent 语音输出**
 
-本地优先的开源语音应用，整合语音输入与输出两个环节：从几秒参考音频做零样本克隆，支持 8 个 TTS 引擎与 23 种语言生成语音，通过全局热键做听写并以 Whisper 转写，还可经内置 MCP 服务器让 MCP 感知的 agent 以克隆声音发声。附带后期音效处理、多轨 Stories 编辑器、生成版本管理与 REST API。模型与音频数据全程留在本机。基于 Tauri (Rust) 构建，macOS/Windows 提供安装包，Linux 需从源码构建。
+本地优先的 AI 语音应用，集语音克隆、语音生成、全局听写与语音转写于一体：支持 8 个 TTS 引擎（Qwen3-TTS、Chatterbox、Kokoro 等）、23 种语言、零样本克隆与 50+ 预设音色，附带 8 种后处理音频特效、多轨 Stories 编辑器、自动分块生成长文本，并通过 Whisper 实现 STT 与全局热键听写。提供 REST API 与内置 MCP 服务器，可让支持 MCP 的 Agent 调用 voicebox_speak 发声。基于 Tauri (Rust) 构建，MIT 许可，macOS 提供 DMG、Windows 提供 MSI，Linux 暂需源码构建。
 
 ## 筛选速览
 
@@ -26,17 +26,17 @@
 
 ## 能力要点
 
-- 8 个可切换的 TTS 引擎（Qwen3-TTS、Chatterbox、Kokoro 等）与 23 种语言
-- 零样本声音克隆与 50+ 预置声音
-- 全局热键听写 + Whisper 语音转写，支持 LLM 清理口头语
-- 内置 MCP 服务器与 REST API，agent 可通过 voicebox_speak 发声
+- 8 个可切换 TTS 引擎，23 种语言，零样本语音克隆与 50+ 预设音色
+- 全局热键听写 + Whisper 转写，macOS 上经辅助功能校验自动粘贴到焦点文本框
+- 内置 MCP 服务器与 REST API，MCP-aware Agent 一次工具调用即可用克隆音色发声
+- 8 种后处理特效（基于 pedalboard）与多轨 Stories 编辑器
 
 ## 适用场景
 
-- 从几秒参考音频克隆声音并批量生成长文本语音
-- 系统级全局热键听写输入到任意应用
-- 给 Claude Code/Cursor 等 agent 配上克隆声音输出
-- 制作多角色对话、播客与叙事音频
+- 从几秒参考音频克隆音色并生成长篇配音或播客
+- 在任何应用的文本框里按热键语音输入
+- 让 Claude Code、Cursor 等 Agent 用指定音色播报任务结果
+- 离线处理语音数据，音频与转写不离开本机
 
 ## 场景标签
 
@@ -45,21 +45,21 @@
 ## 证据(README 行号)
 
 > L61: Voicebox is a **local-first AI voice studio** — a free and open-source alternative to **ElevenLabs** and **WisprFlo
-> L74: - **Agent voice output** — one tool call (`voicebox_speak`) and any MCP-aware agent (Claude Code, Cursor, Cline) sp
-> L78: - **Runs everywhere** — macOS (MLX/Metal), Windows (CUDA), Linux, AMD ROCm, Intel Arc, Docker
+> L66: - **8 TTS engines** — Qwen3-TTS, Qwen CustomVoice, Qwen VoiceDesign, LuxTTS, Chatterbox Multilingual, Chatterbox Tu
+> L200: Voicebox runs OpenAI Whisper for transcription — the same model that backs dictation, the Captures tab, and the `/
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "jamiepine/voicebox 星数(近 27 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 58154 --> 61639
-    line [58444, 58518, 58613, 58726, 58882, 58987, 59062, 59127, 59198, 58444, 60118, 60381, 60455, 60520, 60576, 60629, 60698, 60765, 60824, 60896, 60953, 60984, 61083, 61145, 61215, 61315, 61349]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 58148 --> 61701
+    line [58518, 58613, 58726, 58882, 58987, 59062, 59127, 59198, 58444, 60118, 60381, 60455, 60520, 60576, 60629, 60698, 60765, 60824, 60896, 60953, 60984, 61083, 61145, 61215, 61315, 61349, 61405]
 ```
 
-2026-10-25 58,444 → 2026-11-27 61,349（+2,905）
+2026-10-26 58,518 → 2026-11-28 61,405（+2,887）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `4bf565df6b84` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e4d245d82834` · [字段定义](../../DATASET.md)*

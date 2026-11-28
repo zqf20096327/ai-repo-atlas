@@ -1,6 +1,6 @@
 # karanshukla/vinoSearch
 
-⭐ 5 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/karanshukla/vinoSearch) · [官网](https://vinosearch.vinopilot.ca/) · 个人维护
+⭐ 5 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/karanshukla/vinoSearch) · [官网](https://vinosearch.vinopilot.ca/) · 个人维护
 
 **Linux 本地文件语义搜索工具，用 Intel NPU 加速索引与查询**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "karanshukla/vinoSearch 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-08 3 → 2026-11-27 5（+2）
+2026-11-08 3 → 2026-11-28 5（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # LMTYdotcom/skills
 
-⭐ 85 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LMTYdotcom/skills) · [官网](https://lmty.com) · 组织维护
+⭐ 85 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/LMTYdotcom/skills) · [官网](https://lmty.com) · 组织维护
 
 **面向 GTM 竞争情报工作的 AI Agent 技能包，装入各类助手使用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LMTYdotcom/skills 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    title "LMTYdotcom/skills 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-28"]
     y-axis "stars" 81 --> 86
-    line [82, 83, 82, 84, 85, 85]
+    line [83, 82, 84, 85, 85]
 ```
 
-2026-10-25 82 → 2026-11-27 85（+3）
+2026-10-26 83 → 2026-11-28 85（+2）
 
 
 ---

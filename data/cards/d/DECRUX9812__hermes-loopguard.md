@@ -1,6 +1,6 @@
 # DECRUX9812/hermes-loopguard
 
-⭐ 5 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/DECRUX9812/hermes-loopguard) · [官网](https://github.com/DECRUX9812/hermes-loopguard#readme) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/DECRUX9812/hermes-loopguard) · [官网](https://github.com/DECRUX9812/hermes-loopguard#readme) · 个人维护
 
 **Hermes Agent 插件：为 cron/kanban 自动化拦截无效模型调用以节省 token**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DECRUX9812/hermes-loopguard 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 4 --> 8
+    line [5, 7]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 7（+2）
 
 
 ---

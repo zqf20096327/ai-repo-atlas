@@ -1,6 +1,6 @@
 # jitllm/jitllm
 
-⭐ 59 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/jitllm/jitllm) · [官网](http://jitllm.org/) · 个人维护
+⭐ 59 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/jitllm/jitllm) · [官网](http://jitllm.org/) · 个人维护
 
 **自适应硬件的 LLM 推理引擎：单二进制运行超内存大模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jitllm/jitllm 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-26", "2026-11-27"]
+    title "jitllm/jitllm 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 56 --> 60
-    line [57, 58, 57, 58, 59, 59]
+    line [58, 57, 58, 59, 59]
 ```
 
-2026-10-25 57 → 2026-11-27 59（+2）
+2026-10-26 58 → 2026-11-28 59（+1）
 
 
 ---

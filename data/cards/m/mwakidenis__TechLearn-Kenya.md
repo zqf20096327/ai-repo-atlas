@@ -1,6 +1,6 @@
 # mwakidenis/TechLearn-Kenya
 
-⭐ 16 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/mwakidenis/TechLearn-Kenya) · [官网](https://tech-genesis-academy.vercel.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向非洲青年的在线学习管理系统，含 AI 助学与 M-PESA 支付**
 

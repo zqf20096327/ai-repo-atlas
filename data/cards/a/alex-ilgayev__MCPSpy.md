@@ -1,6 +1,6 @@
 # alex-ilgayev/MCPSpy
 
-⭐ 524 · C · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/alex-ilgayev/MCPSpy) · 个人维护
+⭐ 523 · C · Apache-2.0 · 推送 2026-01-16 · [GitHub](https://github.com/alex-ilgayev/MCPSpy) · 个人维护
 
 **eBPF 实时监控 MCP 客户端/服务端通信的命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alex-ilgayev/MCPSpy 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-28"]
     y-axis "stars" 520 --> 526
-    line [521, 523, 525, 524, 524]
+    line [521, 523, 525, 524, 523]
 ```
 
-2026-10-25 521 → 2026-11-27 524（+3）
+2026-10-26 521 → 2026-11-28 523（+2）
 
 
 ---

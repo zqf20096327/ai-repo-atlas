@@ -44,12 +44,12 @@ MATRIX LAB 公开其 Instagram AI 网红短片所用提示词的清单仓库：�
 ```mermaid
 xychart-beta
     title "JsonMatrixLab/MATRIX-Prompts 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-25 3 → 2026-11-27 4（+1）
+2026-10-25 3 → 2026-11-28 4（+1）
 
 
 ---

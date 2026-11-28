@@ -1,6 +1,6 @@
 # impossibleG/phorminx
 
-⭐ 114 · Rust · MIT · 推送 2026-10-29 · [GitHub](https://github.com/impossibleG/phorminx) · [官网](phorminx.net) · 个人维护
+⭐ 114 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/impossibleG/phorminx) · [官网](phorminx.net) · 个人维护
 
 **Windows 本地优先的语音听写与会议转录应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "impossibleG/phorminx 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 107 --> 200
     line [193, 126, 118, 116, 115, 114, 114]
 ```
 
-2026-10-25 193 → 2026-11-27 114（-79）
+2026-10-26 193 → 2026-11-28 114（-79）
 
 
 ---

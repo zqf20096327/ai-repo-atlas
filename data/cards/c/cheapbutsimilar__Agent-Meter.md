@@ -1,6 +1,6 @@
 # cheapbutsimilar/Agent-Meter
 
-⭐ 5 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/cheapbutsimilar/Agent-Meter) · 个人维护
+⭐ 9 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/cheapbutsimilar/Agent-Meter) · 个人维护
 
 **为多 AI 编码 CLI 用户聚合显示配额、燃速与 API 成本的桌面小组件**
 
@@ -39,6 +39,18 @@ Rust + Tauri 2 编写的 Windows 任务栏/macOS 菜单栏小组件，读取本�
 
 > L5: Live usage limits for **Claude Code · Codex · Gemini CLI · Antigravity · Grok · MiniMax · Z.AI · Qwen**,
 > L141: There's no AgentMeter server. Everything is read from **log files on your machine** and the **logins each CLI has
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cheapbutsimilar/Agent-Meter 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 10
+    line [5, 9]
+```
+
+2026-11-27 5 → 2026-11-28 9（+4）
 
 
 ---

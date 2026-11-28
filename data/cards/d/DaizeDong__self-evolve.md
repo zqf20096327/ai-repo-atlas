@@ -45,12 +45,12 @@ self-evolve 是一个 Claude Code Skill，用于通过提议修改、在 Git wor
 ```mermaid
 xychart-beta
     title "DaizeDong/self-evolve 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-28"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-25 26 → 2026-11-27 27（+1）
+2026-10-26 26 → 2026-11-28 27（+1）
 
 
 ---

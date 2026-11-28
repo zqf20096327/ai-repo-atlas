@@ -42,6 +42,18 @@
 > L46: The same app either way. There is no Pulse account and no Pulse server in the middle: your code stays on your hardw
 > L105: Pulse is one small program that runs next to omp on your computer, plus the app on your phone. The program keeps y
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JulianCodespoti/omp-pulse 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `c0261fd04a3d` · [字段定义](../../DATASET.md)*

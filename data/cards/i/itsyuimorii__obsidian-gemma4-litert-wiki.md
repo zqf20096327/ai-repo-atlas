@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "itsyuimorii/obsidian-gemma4-litert-wiki 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "itsyuimorii/obsidian-gemma4-litert-wiki 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 16 --> 21
-    line [17, 19, 20]
+    line [17, 19, 20, 20]
 ```
 
-2026-10-25 17 → 2026-11-27 20（+3）
+2026-10-26 17 → 2026-11-28 20（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # chipmates/agoracosmica
 
-⭐ 153 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chipmates/agoracosmica) · [官网](https://agoracosmica.org)
+⭐ 153 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/chipmates/agoracosmica) · [官网](https://agoracosmica.org)
 
 **面向学习者：可对话的30位历史人物语音故事图书馆（英/德）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chipmates/agoracosmica 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-28"]
     y-axis "stars" 148 --> 154
     line [149, 150, 149, 150, 151, 152, 153, 153]
 ```
 
-2026-10-25 149 → 2026-11-27 153（+4）
+2026-10-26 149 → 2026-11-28 153（+4）
 
 
 ---

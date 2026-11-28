@@ -1,6 +1,6 @@
 # IDEALLab/EngiBench
 
-⭐ 38 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/IDEALLab/EngiBench) · [官网](https://engibench.ethz.ch/) · 组织维护
+⭐ 38 · Python · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/IDEALLab/EngiBench) · [官网](https://engibench.ethz.ch/) · 组织维护
 
 **工程设计优化与机器学习算法的标准评测基准库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IDEALLab/EngiBench 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-28"]
     y-axis "stars" 34 --> 39
     line [35, 36, 37, 38, 38]
 ```
 
-2026-10-25 35 → 2026-11-27 38（+3）
+2026-10-26 35 → 2026-11-28 38（+3）
 
 
 ---

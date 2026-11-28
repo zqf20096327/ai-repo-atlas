@@ -1,6 +1,6 @@
 # UrgenProchnoff/prozetta
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/UrgenProchnoff/prozetta) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/UrgenProchnoff/prozetta) · 个人维护 · 中文 README
 
 **面向小说翻译者的 LLM 分章流水线，含术语表与自检循环**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "UrgenProchnoff/prozetta 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

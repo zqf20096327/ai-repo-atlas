@@ -1,6 +1,6 @@
 # victormunoz-sec/hebbmesh
 
-⭐ 8 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/victormunoz-sec/hebbmesh) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/victormunoz-sec/hebbmesh) · 个人维护 · 中文 README
 
 **为 AI Agent 提供零嵌入、零 LLM 调用的 Markdown 记忆引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "victormunoz-sec/hebbmesh 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 9
-    line [4, 8]
+    title "victormunoz-sec/hebbmesh 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 12
+    line [4, 8, 11]
 ```
 
-2026-11-26 4 → 2026-11-27 8（+4）
+2026-11-26 4 → 2026-11-28 11（+7）
 
 
 ---

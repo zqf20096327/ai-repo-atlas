@@ -1,6 +1,6 @@
 # Wendystar0628/AI-All-Round-Bench
 
-⭐ 165 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wendystar0628/AI-All-Round-Bench) · [官网](https://octathlon.wendystars.com/) · 个人维护 · 中文 README
+⭐ 175 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wendystar0628/AI-All-Round-Bench) · [官网](https://octathlon.wendystars.com/) · 个人维护 · 中文 README
 
 **给 AI 编程智能体的限时挑战测评平台，按专题组织并公开排行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Wendystar0628/AI-All-Round-Bench 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 75 --> 173
-    line [83, 107, 155, 165]
+    title "Wendystar0628/AI-All-Round-Bench 星数(近 5 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 74 --> 184
+    line [83, 107, 155, 165, 175]
 ```
 
-2026-11-23 83 → 2026-11-27 165（+82）
+2026-11-23 83 → 2026-11-28 175（+92）
 
 
 ---

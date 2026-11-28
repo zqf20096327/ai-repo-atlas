@@ -1,6 +1,6 @@
 # martvaha/code-interpreter
 
-⭐ 37 · Python · 推送 2026-06-12 · [GitHub](https://github.com/martvaha/code-interpreter) · 个人维护
+⭐ 37 · Python · 推送 2026-11-27 · [GitHub](https://github.com/martvaha/code-interpreter) · 个人维护
 
 **兼容 LibreChat 规范的代码解释器服务，Docker 沙箱执行代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "martvaha/code-interpreter 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-25 37 → 2026-11-27 37（+0）
+2026-10-26 37 → 2026-11-28 37（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIPMAndy/CEOskill
 
-⭐ 25 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/AIPMAndy/CEOskill) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AIPMAndy/CEOskill) · 个人维护 · 中文 README
 
 **供 AI Agent 调用的 CEO 级决策分析技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/CEOskill 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 23 --> 26
     line [24, 25, 24, 25, 25]
 ```
 
-2026-10-25 24 → 2026-11-27 25（+1）
+2026-10-26 24 → 2026-11-28 25（+1）
 
 
 ---

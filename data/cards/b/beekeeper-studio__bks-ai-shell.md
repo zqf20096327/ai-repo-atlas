@@ -1,6 +1,6 @@
 # beekeeper-studio/bks-ai-shell
 
-⭐ 13 · TypeScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/beekeeper-studio/bks-ai-shell) · 组织维护
+⭐ 13 · TypeScript · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/beekeeper-studio/bks-ai-shell) · 组织维护
 
 **Beekeeper Studio 插件：用 AI 分析数据库并生成 SQL 查询**
 
@@ -43,12 +43,12 @@ Beekeeper Studio 5.3+ 的插件，提供对话式界面，让用户向 AI 提问
 ```mermaid
 xychart-beta
     title "beekeeper-studio/bks-ai-shell 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

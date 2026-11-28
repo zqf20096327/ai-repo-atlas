@@ -1,6 +1,6 @@
 # EricRollei/Krea2_ComfyUI_Advanced
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/EricRollei/Krea2_ComfyUI_Advanced) · 个人维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/EricRollei/Krea2_ComfyUI_Advanced) · 个人维护
 
 **在 ComfyUI 中运行 Krea 2 图像模型的 diffusers 自定义节点包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EricRollei/Krea2_ComfyUI_Advanced 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 18 --> 24
-    line [19, 20, 21, 19, 22, 23, 23]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 21, 19, 22, 23, 24]
 ```
 
-2026-10-25 19 → 2026-11-27 23（+4）
+2026-10-26 19 → 2026-11-28 24（+5）
 
 
 ---

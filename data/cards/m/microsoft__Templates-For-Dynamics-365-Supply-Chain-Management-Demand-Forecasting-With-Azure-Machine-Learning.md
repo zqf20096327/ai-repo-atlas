@@ -1,6 +1,6 @@
 # microsoft/Templates-For-Dynamics-365-Supply-Chain-Management-Demand-Forecasting-With-Azure-Machine-Learning
 
-⭐ 17 · PowerShell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/Templates-For-Dynamics-365-Supply-Chain-Management-Demand-Forecasting-With-Azure-Machine-Learning) · 组织维护
+⭐ 17 · PowerShell · MIT · 推送 2026-11-27 · [GitHub](https://github.com/microsoft/Templates-For-Dynamics-365-Supply-Chain-Management-Demand-Forecasting-With-Azure-Machine-Learning) · 组织维护
 
 **D365 SCM 需求预测对接 Azure ML 的设置模板与脚本集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Templates-For-Dynamics-365-Supply-Chain-Management-Demand-Forecasting-With-Azure-Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-24 17 → 2026-11-27 17（+0）
+2026-10-25 17 → 2026-11-28 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ErisPulse/ErisPulse
 
-⭐ 65 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ErisPulse/ErisPulse) · [官网](https://www.erisdev.com) · 组织维护 · 中文 README
+⭐ 65 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ErisPulse/ErisPulse) · [官网](https://www.erisdev.com) · 组织维护 · 中文 README
 
 **事件驱动的多平台聊天机器人框架，一套代码接入 15+ 平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ErisPulse/ErisPulse 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-23", "2026-11-28"]
     y-axis "stars" 57 --> 66
     line [58, 59, 58, 60, 64, 65, 65]
 ```
 
-2026-10-25 58 → 2026-11-27 65（+7）
+2026-10-26 58 → 2026-11-28 65（+7）
 
 
 ---

@@ -44,12 +44,12 @@ Northeastern University DADS 7650 课程仓库，收录深度生成模型课程�
 ```mermaid
 xychart-beta
     title "raminmohammadi/GEN-AI 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-25 72 → 2026-11-27 72（+0）
+2026-10-26 72 → 2026-11-28 72（+0）
 
 
 ---

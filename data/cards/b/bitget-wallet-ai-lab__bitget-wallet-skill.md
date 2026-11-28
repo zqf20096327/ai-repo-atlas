@@ -1,6 +1,6 @@
 # bitget-wallet-ai-lab/bitget-wallet-skill
 
-⭐ 262 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) · [官网](https://web3.bitget.com) · 组织维护 · 中文 README
+⭐ 263 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) · [官网](https://web3.bitget.com) · 组织维护 · 中文 README
 
 **给 AI agent 接入 Bitget Wallet 链上查询与兑换的技能包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bitget-wallet-ai-lab/bitget-wallet-skill 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 252 --> 263
-    line [253, 254, 255, 257, 259, 253, 258, 259, 261, 260, 262, 262]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 252 --> 264
+    line [253, 254, 255, 257, 259, 253, 258, 259, 261, 260, 262, 263]
 ```
 
-2026-10-25 253 → 2026-11-27 262（+9）
+2026-10-26 253 → 2026-11-28 263（+10）
 
 
 ---

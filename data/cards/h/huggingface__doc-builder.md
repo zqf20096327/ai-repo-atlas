@@ -1,6 +1,6 @@
 # huggingface/doc-builder
 
-⭐ 146 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/huggingface/doc-builder) · 组织维护
+⭐ 147 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/huggingface/doc-builder) · 组织维护
 
 **为 Hugging Face 各仓库构建文档站点的 Python 包**
 
@@ -47,12 +47,12 @@ doc-builder 是 Hugging Face 用于构建其仓库文档的工具：读取 Markd
 ```mermaid
 xychart-beta
     title "huggingface/doc-builder 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 143 --> 147
-    line [144, 145, 144, 145, 146, 146]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 143 --> 148
+    line [144, 145, 144, 145, 146, 147]
 ```
 
-2026-10-25 144 → 2026-11-27 146（+2）
+2026-10-26 144 → 2026-11-28 147（+3）
 
 
 ---

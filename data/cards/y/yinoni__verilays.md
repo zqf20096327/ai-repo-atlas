@@ -1,6 +1,6 @@
 # yinoni/verilays
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/yinoni/verilays) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/yinoni/verilays) · 个人维护
 
 **核验 agent 声称的数据库写操作是否真实发生的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yinoni/verilays 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 8 --> 10
     line [9, 9]
 ```
 
-2026-11-26 9 → 2026-11-27 9（+0）
+2026-11-26 9 → 2026-11-28 9（+0）
 
 
 ---

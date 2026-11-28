@@ -1,6 +1,6 @@
 # Hamna-Munir/Math-For-Machine-Learning
 
-⭐ 24 · Jupyter Notebook · MIT · 推送 2026-03-24 · [GitHub](https://github.com/Hamna-Munir/Math-For-Machine-Learning) · 个人维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-03-24 · [GitHub](https://github.com/Hamna-Munir/Math-For-Machine-Learning) · 个人维护
 
 **机器学习数学基础的结构化教程仓库：讲解+Python实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hamna-Munir/Math-For-Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-25 24 → 2026-11-27 24（+0）
+2026-10-26 24 → 2026-11-28 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # SilvioBaratto/optimizer
 
-⭐ 177 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/SilvioBaratto/optimizer) · 个人维护
+⭐ 177 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/SilvioBaratto/optimizer) · 个人维护
 
 **LLM 选基、skfolio 算权的组合优化工作区，人工审批模拟交易**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SilvioBaratto/optimizer 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 175 --> 178
     line [176, 177, 176, 177, 177]
 ```
 
-2026-10-25 176 → 2026-11-27 177（+1）
+2026-10-26 176 → 2026-11-28 177（+1）
 
 
 ---

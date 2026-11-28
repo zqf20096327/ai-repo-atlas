@@ -1,6 +1,6 @@
 # yassinsolim/soundalike
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/yassinsolim/soundalike) · [官网](https://soundalike.yassin.app) · 个人维护
 
 **基于音频相似度的开源音乐发现工具：找听起来像你喜欢的歌**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -41,6 +41,18 @@
 > L5: **Find songs that sound like a track you already enjoy.**
 > L29: recommender built around audio similarity. It compares precomputed audio
 > L34: covers, samples, and shared melodies first, then the songs a small model ranks
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yassinsolim/soundalike 星数(近 2 点)"
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-26 10 → 2026-11-28 11（+1）
 
 
 ---

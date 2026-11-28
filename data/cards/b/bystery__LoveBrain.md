@@ -1,6 +1,6 @@
 # bystery/LoveBrain
 
-⭐ 16 · Kotlin · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/bystery/LoveBrain) · 个人维护 · 中文 README
+⭐ 17 · Kotlin · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/bystery/LoveBrain) · 个人维护 · 中文 README
 
 **Android 悬浮窗 AI 聊天助手：帮你想回复，不代聊不代发**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bystery/LoveBrain 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-25 15 → 2026-11-27 16（+1）
+2026-10-26 15 → 2026-11-28 17（+2）
 
 
 ---

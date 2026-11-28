@@ -1,6 +1,6 @@
 # benseverndev-oss/goldenmatch
 
-⭐ 140 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/benseverndev-oss/goldenmatch) · [官网](https://docs.bensevern.dev/) · 个人维护
+⭐ 140 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/benseverndev-oss/goldenmatch) · [官网](https://docs.bensevern.dev/) · 个人维护
 
 **为数据团队提供零配置实体解析，生成可审计的黄金记录**
 
@@ -46,13 +46,13 @@ Python/TypeScript/SQL 多接口的实体解析库：对 CSV 或表数据自动�
 
 ```mermaid
 xychart-beta
-    title "benseverndev-oss/goldenmatch 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-26", "2026-11-27"]
+    title "benseverndev-oss/goldenmatch 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-26", "2026-11-28"]
     y-axis "stars" 132 --> 141
-    line [133, 134, 135, 133, 135, 136, 138, 139, 140, 140]
+    line [134, 135, 133, 135, 136, 138, 139, 140, 140]
 ```
 
-2026-10-25 133 → 2026-11-27 140（+7）
+2026-10-26 134 → 2026-11-28 140（+6）
 
 
 ---

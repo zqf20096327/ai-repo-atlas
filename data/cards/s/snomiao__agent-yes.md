@@ -1,6 +1,6 @@
 # snomiao/agent-yes
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/snomiao/agent-yes) · [官网](https://agent-yes.com) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/snomiao/agent-yes) · [官网](https://agent-yes.com) · 个人维护
 
 **AI 编程 CLI 的无人值守运行包装器：自动应答、重试与多 Agent 管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "snomiao/agent-yes 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "snomiao/agent-yes 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 30 --> 34
-    line [31, 32, 31, 32, 33]
+    line [31, 32, 31, 32, 33, 33]
 ```
 
-2026-10-25 31 → 2026-11-27 33（+2）
+2026-10-26 31 → 2026-11-28 33（+2）
 
 
 ---

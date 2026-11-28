@@ -1,6 +1,6 @@
 # zmm863-commits/paopaocat-deepseek-harness-mobile
 
-⭐ 23 · Dart · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile) · [官网](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile/releases/latest) · 个人维护 · 中文 README
+⭐ 23 · Dart · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile) · [官网](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile/releases/latest) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 智能体运行时完整装入 Android 手机的 App**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zmm863-commits/paopaocat-deepseek-harness-mobile 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25", "2026-11-28"]
     y-axis "stars" 7 --> 24
     line [8, 10, 11, 13, 14, 8, 19, 20, 21, 22, 23, 23]
 ```
 
-2026-10-25 8 → 2026-11-27 23（+15）
+2026-10-26 8 → 2026-11-28 23（+15）
 
 
 ---

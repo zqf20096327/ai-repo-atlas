@@ -1,6 +1,6 @@
 # zapplyjobs/New-Grad-Data-Science-Jobs-2027
 
-⭐ 94 · HTML · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027) · [官网](https://zapplyjobs.github.io/New-Grad-Data-Science-Jobs-2027/) · 组织维护
+⭐ 94 · HTML · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027) · [官网](https://zapplyjobs.github.io/New-Grad-Data-Science-Jobs-2027/) · 组织维护
 
 **面向应届生的 2027 届美国数据科学/ML 岗位聚合清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zapplyjobs/New-Grad-Data-Science-Jobs-2027 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-25", "2026-11-28"]
     y-axis "stars" 87 --> 95
     line [88, 91, 92, 93, 94, 94]
 ```
 
-2026-10-25 88 → 2026-11-27 94（+6）
+2026-10-26 88 → 2026-11-28 94（+6）
 
 
 ---

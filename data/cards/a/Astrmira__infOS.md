@@ -1,6 +1,6 @@
 # Astrmira/infOS
 
-⭐ 169 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Astrmira/infOS) · [官网](https://wiki.perofamily.top/) · 组织维护 · 中文 README
+⭐ 170 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Astrmira/infOS) · [官网](https://wiki.perofamily.top/) · 组织维护 · 中文 README
 
 **带长记忆引擎与桌面客户端的 AI 伙伴运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Astrmira/infOS 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 165 --> 170
-    line [166, 168, 169, 169]
+    x-axis ["2026-11-16", "2026-11-22", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 165 --> 171
+    line [166, 168, 169, 170]
 ```
 
-2026-11-16 166 → 2026-11-27 169（+3）
+2026-11-16 166 → 2026-11-28 170（+4）
 
 
 ---

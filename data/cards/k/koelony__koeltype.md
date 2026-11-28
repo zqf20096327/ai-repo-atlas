@@ -1,6 +1,6 @@
 # koelony/koeltype
 
-⭐ 27 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/koelony/koeltype) · [官网](https://oratype.sennettlau.me) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **macOS 语音键盘：任意应用中说一下即得整洁文本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # freshaengineering/lang_ex
 
-⭐ 45 · Elixir · MIT · 推送 2026-11-26 · [GitHub](https://github.com/freshaengineering/lang_ex) · [官网](https://hexdocs.pm/lang_ex) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Elixir 的有状态 LLM agent 框架：图编排+检查点持久化**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

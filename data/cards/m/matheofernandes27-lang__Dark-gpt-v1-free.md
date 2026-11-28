@@ -1,6 +1,6 @@
 # matheofernandes27-lang/Dark-gpt-v1-free
 
-⭐ 21 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/matheofernandes27-lang/Dark-gpt-v1-free) · [官网](https://dark-gpt-v1-free.vercel.app) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-09-20 · [GitHub](https://github.com/matheofernandes27-lang/Dark-gpt-v1-free) · [官网](https://dark-gpt-v1-free.vercel.app) · 个人维护
 
 **面向网络安全研究的无限制 AI 对话 CLI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "matheofernandes27-lang/Dark-gpt-v1-free 星数(近 11 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 4 --> 22
-    line [5, 7, 9, 10, 12, 9, 17, 18, 20, 21, 21]
+    title "matheofernandes27-lang/Dark-gpt-v1-free 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 6 --> 23
+    line [7, 9, 10, 12, 9, 17, 18, 20, 21, 22]
 ```
 
-2026-10-21 5 → 2026-11-27 21（+16）
+2026-10-22 7 → 2026-11-28 22（+15）
 
 
 ---

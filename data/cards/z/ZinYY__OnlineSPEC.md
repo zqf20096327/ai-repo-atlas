@@ -1,6 +1,6 @@
 # ZinYY/OnlineSPEC
 
-⭐ 127 · Python · 推送 2026-07-27 · [GitHub](https://github.com/ZinYY/OnlineSPEC) · [官网](https://arxiv.org/abs/2603.12617) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ICML'26 论文官方实现：用在线学习持续进化投机解码的草稿模型**
 

@@ -1,6 +1,6 @@
 # MiniMax-AI/Research
 
-⭐ 99 · TeX · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MiniMax-AI/Research) · 组织维护
+⭐ 101 · TeX · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MiniMax-AI/Research) · 组织维护
 
 **MiniMax 发布内部模型产出的研究成果与论文**
 
@@ -44,13 +44,13 @@ MiniMax 用于发布其内部模型所产生研究成果的仓库，首个栏目
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/Research 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 107
-    line [12, 52, 77, 95, 99]
+    title "MiniMax-AI/Research 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 109
+    line [12, 52, 77, 95, 99, 101]
 ```
 
-2026-11-22 12 → 2026-11-27 99（+87）
+2026-11-22 12 → 2026-11-28 101（+89）
 
 
 ---

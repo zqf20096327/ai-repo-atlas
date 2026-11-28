@@ -1,6 +1,6 @@
 # HurricaHjz/SecondSelf
 
-⭐ 156 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HurricaHjz/SecondSelf) · [官网](https://hurricahjz.github.io/) · 个人维护
+⭐ 157 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HurricaHjz/SecondSelf) · [官网](https://hurricahjz.github.io/) · 个人维护
 
 **为 AI 编码 agent 构建个人知识库与多 agent 协作框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HurricaHjz/SecondSelf 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 146 --> 157
-    line [147, 149, 150, 156, 156]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 146 --> 158
+    line [147, 149, 150, 156, 157]
 ```
 
-2026-10-25 147 → 2026-11-27 156（+9）
+2026-10-26 147 → 2026-11-28 157（+10）
 
 
 ---

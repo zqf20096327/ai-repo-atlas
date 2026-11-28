@@ -1,6 +1,6 @@
 # Hy4ri/antigravity-flake
 
-⭐ 11 · Nix · 推送 2026-11-26 · [GitHub](https://github.com/Hy4ri/antigravity-flake) · [官网](https://antigravity.google/) · 个人维护
+⭐ 11 · Nix · 推送 2026-11-27 · [GitHub](https://github.com/Hy4ri/antigravity-flake) · [官网](https://antigravity.google/) · 个人维护
 
 **用 Nix flake 安装 Google Antigravity 全家桶的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hy4ri/antigravity-flake 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-22 10 → 2026-11-27 11（+1）
+2026-11-22 10 → 2026-11-28 11（+1）
 
 
 ---

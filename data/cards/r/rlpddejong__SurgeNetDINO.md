@@ -1,6 +1,6 @@
 # rlpddejong/SurgeNetDINO
 
-⭐ 19 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/rlpddejong/SurgeNetDINO) · [官网](https://openreview.net/forum?id=6FoIDPKzRV) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/rlpddejong/SurgeNetDINO) · [官网](https://openreview.net/forum?id=6FoIDPKzRV) · 个人维护
 
 **手术场景表示学习论文代码：DINO 系列模型预训练权重与微调**
 
@@ -46,12 +46,12 @@ MIDL 2026 论文 "Towards Effective Surgical Representation Learning with DINO M
 ```mermaid
 xychart-beta
     title "rlpddejong/SurgeNetDINO 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-16", "2026-11-28"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    line [17, 18, 19, 18]
 ```
 
-2026-10-25 17 → 2026-11-27 19（+2）
+2026-10-26 17 → 2026-11-28 18（+1）
 
 
 ---

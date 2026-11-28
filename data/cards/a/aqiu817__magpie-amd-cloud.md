@@ -1,6 +1,6 @@
 # aqiu817/magpie-amd-cloud
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/aqiu817/magpie-amd-cloud) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aqiu817/magpie-amd-cloud) · 个人维护 · 中文 README
 
 **把 AMD 两个免费模型 API 站点接入 magpie 的零依赖供应商插件**
 
@@ -46,12 +46,12 @@ OpenCode v1 形式的 magpie 供应商插件，接入 AMD Radeon Cloud（develop
 ```mermaid
 xychart-beta
     title "aqiu817/magpie-amd-cloud 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-27 4（+1）
+2026-11-10 3 → 2026-11-28 4（+1）
 
 
 ---

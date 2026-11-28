@@ -1,6 +1,6 @@
 # Vihan-2008/jarvis
 
-⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Vihan-2008/jarvis) · [官网](https://vihan-2008.github.io/jarvis/) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Vihan-2008/jarvis) · [官网](https://vihan-2008.github.io/jarvis/) · 个人维护
 
 **本地桌面 AI 助手：说话/打字即操作电脑与写软件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Vihan-2008/jarvis 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-27"]
+    x-axis ["2026-11-15", "2026-11-28"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-15 6 → 2026-11-27 6（+0）
+2026-11-15 6 → 2026-11-28 6（+0）
 
 
 ---

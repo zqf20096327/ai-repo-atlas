@@ -1,6 +1,6 @@
 # zeikar/charivo
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zeikar/charivo) · [官网](https://charivo.vercel.app) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zeikar/charivo) · [官网](https://charivo.vercel.app) · 个人维护
 
 **构建 Live2D AI 虚拟角色的模块化 TypeScript 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zeikar/charivo 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-16", "2026-11-28"]
     y-axis "stars" 25 --> 30
     line [26, 28, 29, 29]
 ```
 
-2026-10-25 26 → 2026-11-27 29（+3）
+2026-10-26 26 → 2026-11-28 29（+3）
 
 
 ---

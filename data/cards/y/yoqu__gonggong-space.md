@@ -1,6 +1,6 @@
 # yoqu/gonggong-space
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/yoqu/gonggong-space) · [官网](https://yoqu.github.io/gonggong-space/) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/yoqu/gonggong-space) · [官网](https://yoqu.github.io/gonggong-space/) · 个人维护 · 中文 README
 
 **小团队自托管 AI 协作平台：群里 @ 队友机器上的 Claude Code / Codex**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yoqu/gonggong-space 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
+    title "yoqu/gonggong-space 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 16 --> 28
-    line [17, 18, 17, 20, 21, 22, 23, 24, 26, 27]
+    line [17, 18, 17, 20, 21, 22, 23, 24, 26, 27, 27]
 ```
 
-2026-10-25 17 → 2026-11-27 27（+10）
+2026-10-26 17 → 2026-11-28 27（+10）
 
 
 ---

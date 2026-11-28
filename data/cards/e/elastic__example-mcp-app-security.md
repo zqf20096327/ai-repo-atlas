@@ -1,6 +1,6 @@
 # elastic/example-mcp-app-security
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/elastic/example-mcp-app-security) · [官网](https://modelcontextprotocol.io/extensions/apps/overview) · 组织维护
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/elastic/example-mcp-app-security) · [官网](https://modelcontextprotocol.io/extensions/apps/overview) · 组织维护
 
 **为 SOC 分析师在 Claude/Cursor 内提供交互式安全运营面板的 MCP 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elastic/example-mcp-app-security 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-25 25 → 2026-11-27 25（+0）
+2026-10-26 25 → 2026-11-28 26（+1）
 
 
 ---

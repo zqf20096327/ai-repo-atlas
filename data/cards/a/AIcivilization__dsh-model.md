@@ -1,6 +1,6 @@
 # AIcivilization/dsh-model
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AIcivilization/dsh-model) · [官网](https://www.npmjs.com/package/dsh-model) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AIcivilization/dsh-model) · [官网](https://www.npmjs.com/package/dsh-model) · 个人维护 · 中文 README
 
 **个人用户的 LLM 中转网关插件：自动签到领积分并聚合多来源模型**
 
@@ -45,13 +45,13 @@ dsh 的插件兼 npm 工具，基于 CLIProxyAPI 引擎在本机 127.0.0.1:8317/
 
 ```mermaid
 xychart-beta
-    title "AIcivilization/dsh-model 星数(近 11 点)"
-    x-axis ["2026-10-29", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1 --> 25
-    line [3, 5, 7, 9, 10, 11, 16, 18, 20, 22, 23]
+    title "AIcivilization/dsh-model 星数(近 12 点)"
+    x-axis ["2026-10-29", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 1 --> 27
+    line [3, 5, 7, 9, 10, 11, 16, 18, 20, 22, 23, 25]
 ```
 
-2026-10-29 3 → 2026-11-27 23（+20）
+2026-10-29 3 → 2026-11-28 25（+22）
 
 
 ---

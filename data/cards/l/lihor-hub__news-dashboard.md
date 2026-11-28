@@ -1,6 +1,6 @@
 # lihor-hub/news-dashboard
 
-⭐ 35 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lihor-hub/news-dashboard) · [官网](https://docs.lihor.ro/) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/lihor-hub/news-dashboard) · [官网](https://docs.lihor.ro/) · 个人维护
 
 **自托管技术新闻聚合阅读台，带 AI 摘要与问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lihor-hub/news-dashboard 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 34 --> 38
     line [37, 36, 35, 35]
 ```
 
-2026-10-25 37 → 2026-11-27 35（-2）
+2026-10-26 37 → 2026-11-28 35（-2）
 
 
 ---

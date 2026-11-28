@@ -1,6 +1,6 @@
 # LogneBudo/llmxray
 
-⭐ 29 · Vue · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/LogneBudo/llmxray) · [官网](https://lognebudo.github.io/llmxray/) · 个人维护 · 中文 README
+⭐ 30 · Vue · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/LogneBudo/llmxray) · [官网](https://lognebudo.github.io/llmxray/) · 个人维护 · 中文 README
 
 **本地 Ollama 观测代理：让工具经它转发调用并可视化每轮细节**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LogneBudo/llmxray 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-25 28 → 2026-11-27 29（+1）
+2026-10-26 28 → 2026-11-28 30（+2）
 
 
 ---

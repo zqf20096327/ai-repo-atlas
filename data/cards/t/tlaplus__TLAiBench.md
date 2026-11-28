@@ -1,6 +1,6 @@
 # tlaplus/TLAiBench
 
-⭐ 37 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/tlaplus/TLAiBench) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-02-06 · [GitHub](https://github.com/tlaplus/TLAiBench) · 组织维护
 
 **评估 LLM 在 TLA+ 形式规约任务上的数据集与基准套件**
 
@@ -45,12 +45,12 @@ TLA+ 社区维护的评测数据集：以逻辑谜题（过河、Die Hard）与�
 ```mermaid
 xychart-beta
     title "tlaplus/TLAiBench 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-25 37 → 2026-11-27 37（+0）
+2026-10-26 37 → 2026-11-28 38（+1）
 
 
 ---

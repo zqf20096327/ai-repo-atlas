@@ -1,6 +1,6 @@
 # cdklabs/genai-idp
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cdklabs/genai-idp) · [官网](https://cdklabs.github.io/genai-idp/) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/cdklabs/genai-idp) · [官网](https://cdklabs.github.io/genai-idp/) · 组织维护
 
 **AWS CDK 版 GenAI 文档处理加速器：非结构化文档转结构化数据**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cdklabs/genai-idp 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "cdklabs/genai-idp 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-25 14 → 2026-11-27 15（+1）
+2026-10-26 14 → 2026-11-28 15（+1）
 
 
 ---

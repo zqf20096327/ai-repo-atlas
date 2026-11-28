@@ -1,6 +1,6 @@
 # cram2/pycram
 
-⭐ 52 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/cram2/pycram) · [官网](https://pycram.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Python 认知机器人任务规划框架：以意图描述生成可执行机器人计划**
 
@@ -11,7 +11,7 @@ PyCRAM（Cognitive Robot Abstract Machine）是面向机器人的高层任务规
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Abloatai/ablo
 
-⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Abloatai/ablo) · [官网](https://www.abloatai.com/) · 组织维护
+⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Abloatai/ablo) · [官网](https://www.abloatai.com/) · 组织维护
 
 **多 Agent 并发协作的共享状态协调基础设施**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Abloatai/ablo 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-28"]
     y-axis "stars" 33 --> 40
     line [34, 35, 37, 39, 39]
 ```
 
-2026-10-25 34 → 2026-11-27 39（+5）
+2026-10-26 34 → 2026-11-28 39（+5）
 
 
 ---

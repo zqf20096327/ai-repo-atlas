@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-Model-Connect
 
-⭐ 301 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/NVIDIA/TensorRT-Model-Connect) · [官网](https://nvidia.github.io/TensorRT-Model-Connect/) · 组织维护
+⭐ 303 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/NVIDIA/TensorRT-Model-Connect) · [官网](https://nvidia.github.io/TensorRT-Model-Connect/) · 组织维护
 
 **将 HuggingFace 模型经 TensorRT 端到端部署的 C++ 参考实现集**
 
@@ -44,13 +44,13 @@ NVIDIA 维护的 TensorRT 之上的 AI 模型参考实现集合：从 Hugging Fa
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/TensorRT-Model-Connect 星数(近 13 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 278 --> 303
-    line [280, 282, 283, 285, 280, 290, 294, 295, 297, 298, 299, 300, 301]
+    title "NVIDIA/TensorRT-Model-Connect 星数(近 14 点)"
+    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 278 --> 305
+    line [280, 282, 283, 285, 280, 290, 294, 295, 297, 298, 299, 300, 301, 303]
 ```
 
-2026-10-24 280 → 2026-11-27 301（+21）
+2026-10-25 280 → 2026-11-28 303（+23）
 
 
 ---

@@ -1,6 +1,6 @@
 # Alan1112223331/ntulearn-bilingual-subtitles
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Alan1112223331/ntulearn-bilingual-subtitles) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Alan1112223331/ntulearn-bilingual-subtitles) · 个人维护 · 中文 README
 
 **为 NTU 课程视频生成双语字幕、笔记与问答的浏览器扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Alan1112223331/ntulearn-bilingual-subtitles 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 3 --> 10
-    line [4, 5, 8, 9, 9]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 3 --> 11
+    line [4, 5, 8, 9, 10]
 ```
 
-2026-11-15 4 → 2026-11-27 9（+5）
+2026-11-15 4 → 2026-11-28 10（+6）
 
 
 ---

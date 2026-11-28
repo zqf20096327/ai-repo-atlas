@@ -1,6 +1,6 @@
 # eegdash/EEGDash
 
-⭐ 93 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/eegdash/EEGDash) · [官网](http://eegdash.org/) · 组织维护
+⭐ 93 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/eegdash/EEGDash) · [官网](http://eegdash.org/) · 组织维护
 
 **面向机器学习的 EEG/MEG 数据目录与 PyTorch 数据集库（700+ 数据集）**
 
@@ -45,12 +45,12 @@ EEG-DaSh 是 MEEG（EEG、MEG） recordings 的数据共享归档与 Python 库�
 ```mermaid
 xychart-beta
     title "eegdash/EEGDash 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-28"]
     y-axis "stars" 88 --> 94
     line [89, 90, 89, 90, 92, 93, 93]
 ```
 
-2026-10-25 89 → 2026-11-27 93（+4）
+2026-10-26 89 → 2026-11-28 93（+4）
 
 
 ---

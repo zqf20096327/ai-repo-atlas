@@ -1,6 +1,6 @@
 # nerufuyo/nerubot
 
-⭐ 36 · Rust · 推送 2026-05-24 · [GitHub](https://github.com/nerufuyo/nerubot) · [官网](https://neruwork.com/playground/nerubot) · 个人维护
+⭐ 37 · Rust · 推送 2026-05-24 · [GitHub](https://github.com/nerufuyo/nerubot) · [官网](https://neruwork.com/playground/nerubot) · 个人维护
 
 **Rust 编写的多功能 Discord 机器人，含 AI 聊天等命令**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nerufuyo/nerubot 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-25 36 → 2026-11-27 36（+0）
+2026-10-26 36 → 2026-11-28 37（+1）
 
 
 ---

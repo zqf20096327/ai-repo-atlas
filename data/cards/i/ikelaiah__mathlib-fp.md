@@ -1,6 +1,6 @@
 # ikelaiah/mathlib-fp
 
-⭐ 13 · Pascal · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ikelaiah/mathlib-fp) · [官网](https://ikelaiah.github.io/mathlib-fp/) · 个人维护
+⭐ 13 · Pascal · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ikelaiah/mathlib-fp) · [官网](https://ikelaiah.github.io/mathlib-fp/) · 个人维护
 
 **Free Pascal 数值计算库：覆盖 13 个科学计算域，无第三方依赖**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ikelaiah/mathlib-fp 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-25 12 → 2026-11-27 13（+1）
+2026-10-26 12 → 2026-11-28 13（+1）
 
 
 ---

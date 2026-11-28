@@ -45,12 +45,12 @@ Google Gemma 4 模型家族的独立 PyTorch 复现库，从官方 JAX 参考逐
 ```mermaid
 xychart-beta
     title "rwightman/gemma4_pytorch_claude 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

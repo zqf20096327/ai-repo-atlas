@@ -40,6 +40,18 @@
 > L7: **A 180-billion-parameter model with the refusals removed, running on one desktop DGX Spark at 60 tokens a second.**
 > L9: This repo holds the copy-paste serve guides for Aeon3.8-Flash-Next-ULTIMATE-UNCENSORED-NVFP4-XS: an uncensored (abli
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AEON-7/Aeon3.8-Flash-Next-Ultimate-Uncensored 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a09b9a6f402d` · [字段定义](../../DATASET.md)*

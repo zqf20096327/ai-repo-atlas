@@ -1,6 +1,6 @@
 # marvis-ai/marvis
 
-⭐ 31 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/marvis-ai/marvis) · [官网](https://getmarvis.com) · 组织维护
+⭐ 31 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/marvis-ai/marvis) · [官网](https://getmarvis.com) · 组织维护
 
 **桌面端隐私优先 AI 副驾：看屏幕、听会议、本地存储**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "marvis-ai/marvis 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 28 --> 57
     line [55, 36, 35, 30, 31, 31]
 ```
 
-2026-10-25 55 → 2026-11-27 31（-24）
+2026-10-26 55 → 2026-11-28 31（-24）
 
 
 ---

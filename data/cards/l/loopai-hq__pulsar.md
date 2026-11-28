@@ -1,6 +1,6 @@
 # loopai-hq/pulsar
 
-⭐ 14 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/loopai-hq/pulsar) · 组织维护
+⭐ 15 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/loopai-hq/pulsar) · 组织维护
 
 **在 Apple Silicon Mac 上运行 Qwen 模型的本地推理引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "loopai-hq/pulsar 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 12, 14, 14]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 14, 15]
 ```
 
-2026-10-25 10 → 2026-11-27 14（+4）
+2026-10-26 10 → 2026-11-28 15（+5）
 
 
 ---

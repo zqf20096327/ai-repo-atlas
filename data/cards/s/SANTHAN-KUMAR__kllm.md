@@ -1,6 +1,6 @@
 # SANTHAN-KUMAR/kllm
 
-⭐ 26 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SANTHAN-KUMAR/kllm) · [官网](https://santhan-kumar.github.io/kllm/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SANTHAN-KUMAR/kllm) · [官网](https://santhan-kumar.github.io/kllm/) · 个人维护
 
 **让编码工具用 Kaggle 免费 GPU 跑开源大模型的本地 API 中继**
 
@@ -46,12 +46,12 @@ kllm 在 Kaggle 免费 Tesla T4 GPU 上通过 llama.cpp 运行 Qwen 等 GGUF 开
 ```mermaid
 xychart-beta
     title "SANTHAN-KUMAR/kllm 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1 --> 28
-    line [3, 4, 5, 26, 26]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 1 --> 29
+    line [3, 4, 5, 26, 27]
 ```
 
-2026-11-19 3 → 2026-11-27 26（+23）
+2026-11-19 3 → 2026-11-28 27（+24）
 
 
 ---

@@ -1,6 +1,6 @@
 # piradoiv/wake
 
-⭐ 5 · Xojo · MIT · 推送 2026-11-18 · [GitHub](https://github.com/piradoiv/wake) · [官网](https://github.com/piradoiv/wake/releases) · 个人维护
+⭐ 6 · Xojo · MIT · 推送 2026-11-18 · [GitHub](https://github.com/piradoiv/wake) · [官网](https://github.com/piradoiv/wake/releases) · 个人维护
 
 **读取 Claude Code 本地会话记录的 macOS 用量分析应用**
 
@@ -46,12 +46,12 @@ Wake 是一款开源免费的 macOS 原生应用，读取 Claude Code 在本机�
 ```mermaid
 xychart-beta
     title "piradoiv/wake 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-18 3 → 2026-11-27 5（+2）
+2026-11-18 3 → 2026-11-28 6（+3）
 
 
 ---

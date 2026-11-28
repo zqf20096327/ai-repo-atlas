@@ -1,6 +1,6 @@
 # Nikhil-creat/apex-ai
 
-⭐ 4 · HTML · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Nikhil-creat/apex-ai) · [官网](https://nikhil-creat.github.io/apex-ai/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人开发者构建的多模态 agent AI 助手应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

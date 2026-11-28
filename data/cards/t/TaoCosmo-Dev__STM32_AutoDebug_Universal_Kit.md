@@ -1,6 +1,6 @@
 # TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit
 
-⭐ 68 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit) · 组织维护 · 中文 README
+⭐ 69 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit) · 组织维护 · 中文 README
 
 **让 AI 代理闭环开发 STM32：编译、烧录、上板验证、崩溃定位到源码行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 46 --> 70
-    line [48, 49, 50, 51, 52, 48, 59, 61, 62, 66, 68, 68]
+    title "TaoCosmo-Dev/STM32_AutoDebug_Universal_Kit 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 46 --> 71
+    line [49, 50, 51, 52, 48, 59, 61, 62, 66, 68, 69]
 ```
 
-2026-10-25 48 → 2026-11-27 68（+20）
+2026-10-26 49 → 2026-11-28 69（+20）
 
 
 ---

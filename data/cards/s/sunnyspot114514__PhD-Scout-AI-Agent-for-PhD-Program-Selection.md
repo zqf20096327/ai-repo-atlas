@@ -45,12 +45,12 @@ AI 驱动的博士项目早期搜索与评估助手，覆盖三项任务：依�
 ```mermaid
 xychart-beta
     title "sunnyspot114514/PhD-Scout-AI-Agent-for-PhD-Program-Selection 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-27 10（+0）
+2026-11-08 10 → 2026-11-28 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # op7418/guizang-magi2-skill
 
-⭐ 62 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/op7418/guizang-magi2-skill) · 个人维护 · 中文 README
+⭐ 82 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/op7418/guizang-magi2-skill) · 个人维护 · 中文 README
 
 **给 AI 助手装的视频生成工作流 Skill：视频转代码官网与代码控视频**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "op7418/guizang-magi2-skill 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 27 --> 65
-    line [30, 62]
+    title "op7418/guizang-magi2-skill 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 25 --> 87
+    line [30, 62, 82]
 ```
 
-2026-11-26 30 → 2026-11-27 62（+32）
+2026-11-26 30 → 2026-11-28 82（+52）
 
 
 ---

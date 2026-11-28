@@ -1,6 +1,6 @@
 # Haileamlak/conca
 
-⭐ 12 · TypeScript · 推送 2026-07-03 · [GitHub](https://github.com/Haileamlak/conca) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-07-03 · [GitHub](https://github.com/Haileamlak/conca) · 个人维护
 
 **自托管 AI 自主内容生成平台：多品牌运营社媒内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Haileamlak/conca 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 13（+1）
 
 
 ---

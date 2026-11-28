@@ -1,6 +1,6 @@
 # BeckY824/daedalus-crm
 
-⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/BeckY824/daedalus-crm) · [官网](https://ai-daedalus.com) · 组织维护 · 中文 README
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/BeckY824/daedalus-crm) · [官网](https://ai-daedalus.com) · 组织维护 · 中文 README
 
 **本地优先的桌面端 AI CRM，AI 起草、人确认写入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BeckY824/daedalus-crm 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 19, 20, 21, 21]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-28"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 19, 20, 21, 22]
 ```
 
-2026-10-25 19 → 2026-11-27 21（+2）
+2026-10-26 19 → 2026-11-28 22（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # cosanlab/nltools
 
-⭐ 131 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cosanlab/nltools) · [官网](https://nltools.org) · 组织维护
+⭐ 132 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/cosanlab/nltools) · [官网](https://nltools.org) · 组织维护
 
 **神经影像多变量分析的 Python 工具箱**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "cosanlab/nltools 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 130 --> 133
+    line [131, 132]
 ```
 
-2026-10-25 131 → 2026-11-27 131（+0）
+2026-10-26 131 → 2026-11-28 132（+1）
 
 
 ---

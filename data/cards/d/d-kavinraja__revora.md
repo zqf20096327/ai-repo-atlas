@@ -1,6 +1,6 @@
 # d-kavinraja/revora
 
-⭐ 13 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/d-kavinraja/revora) · [官网](https://revora-pr.vercel.app/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/d-kavinraja/revora) · [官网](https://revora-pr.vercel.app/) · 个人维护
 
 **自托管 AI 代码审查平台：PR 时先建全仓索引再产出审查意见**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "d-kavinraja/revora 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
-    y-axis "stars" 9 --> 14
-    line [10, 13]
+    title "d-kavinraja/revora 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 15
+    line [10, 13, 14]
 ```
 
-2026-11-20 10 → 2026-11-27 13（+3）
+2026-11-20 10 → 2026-11-28 14（+4）
 
 
 ---

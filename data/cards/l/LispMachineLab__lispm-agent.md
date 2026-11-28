@@ -1,6 +1,6 @@
 # LispMachineLab/lispm-agent
 
-⭐ 5 · Emacs Lisp · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/LispMachineLab/lispm-agent) · [官网](https://lispm.ai/agent/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 GNU Emacs 内运行 AI agent 的 agent harness**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

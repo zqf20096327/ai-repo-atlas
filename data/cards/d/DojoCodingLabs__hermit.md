@@ -1,6 +1,6 @@
 # DojoCodingLabs/hermit
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/DojoCodingLabs/hermit) · [官网](https://joinhermit.com) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/DojoCodingLabs/hermit) · [官网](https://joinhermit.com) · 组织维护
 
 **运行在 Android 手机本地的开源 AI agent，隐私不上传**
 
@@ -40,6 +40,18 @@ Hermit 是一个完全在 Android 手机上运行的开源 AI agent：内置 Bot
 > L13:  The AI agent that lives on your phone, and nowhere else.
 > L41:  It answers your WhatsApp, works your inbox, sets reminders, adds events, fills logins from its vault and pays on a
 > L15:  The model runs on your Android phone. Your memories stay there, encrypted.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DojoCodingLabs/hermit 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 11 --> 15
+    line [12, 14]
+```
+
+2026-11-27 12 → 2026-11-28 14（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DominikBucko/qwen38-flash-next-3090
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/DominikBucko/qwen38-flash-next-3090) · [官网](https://huggingface.co/albucino/Qwen3.8-Flash-Next-W4A16-FP8PLE) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/DominikBucko/qwen38-flash-next-3090) · [官网](https://huggingface.co/albucino/Qwen3.8-Flash-Next-W4A16-FP8PLE) · 个人维护
 
 **在单张 RTX 3090 + 64 GB 内存上运行 Qwen3.8-Flash-Next 的推理运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DominikBucko/qwen38-flash-next-3090 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 11 --> 17
-    line [12, 13, 12, 13, 14, 15, 16, 16]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 12, 13, 14, 15, 16, 17]
 ```
 
-2026-10-25 12 → 2026-11-27 16（+4）
+2026-10-26 12 → 2026-11-28 17（+5）
 
 
 ---

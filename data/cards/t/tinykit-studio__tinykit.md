@@ -1,6 +1,6 @@
 # tinykit-studio/tinykit
 
-⭐ 530 · Svelte · MIT · 推送 2026-11-09 · [GitHub](https://github.com/tinykit-studio/tinykit) · [官网](https://tinykit.studio) · 组织维护
+⭐ 530 · Svelte · MIT · 推送 2026-11-27 · [GitHub](https://github.com/tinykit-studio/tinykit) · [官网](https://tinykit.studio) · 组织维护
 
 **自托管的 AI 应用构建平台，含实时数据库与部署**
 
@@ -46,12 +46,12 @@ Tinykit 是开源的 AI Web 应用构建与部署平台：通过提示让 AI 编
 ```mermaid
 xychart-beta
     title "tinykit-studio/tinykit 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-28"]
     y-axis "stars" 524 --> 531
     line [525, 526, 527, 525, 527, 528, 529, 530, 530]
 ```
 
-2026-10-25 525 → 2026-11-27 530（+5）
+2026-10-26 525 → 2026-11-28 530（+5）
 
 
 ---

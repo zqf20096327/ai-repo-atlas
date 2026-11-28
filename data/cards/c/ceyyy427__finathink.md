@@ -1,6 +1,6 @@
 # ceyyy427/finathink
 
-⭐ 247 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ceyyy427/finathink) · [官网](https://github.com/ceyyy427/finathink) · 个人维护 · 中文 README
+⭐ 248 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ceyyy427/finathink) · [官网](https://github.com/ceyyy427/finathink) · 个人维护 · 中文 README
 
 **个人金融研究工作台：可追溯的量化研究与组合分析**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ceyyy427/finathink 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 246 --> 250
-    line [249, 247, 247]
+    line [249, 247, 248]
 ```
 
-2026-10-25 249 → 2026-11-27 247（-2）
+2026-10-26 249 → 2026-11-28 248（-1）
 
 
 ---

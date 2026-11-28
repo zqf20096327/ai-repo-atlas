@@ -1,6 +1,6 @@
 # gabury1/newbie-job-hunt
 
-⭐ 8 · Python · 推送 2026-11-26 · [GitHub](https://github.com/gabury1/newbie-job-hunt) · 个人维护
+⭐ 9 · Python · 推送 2026-11-26 · [GitHub](https://github.com/gabury1/newbie-job-hunt) · 个人维护
 
 **韩国开发新人/初级岗位每日整理的 AI 可读招聘公告数据集**
 
@@ -40,6 +40,18 @@
 > L11: 지금 접수 중인 국내 개발 신입 · 주니어 공고를 매일 아침 모아, **AI 에 그대로 먹이기 좋게** 정리한 마크다운입니다.
 > L66: |`AGENTS.md`|AI 에게 주는 안내: 파일 구조 · 고르는 순서 · 지킬 것|
 > L68: |`postings.jsonl`|공고 한 줄에 하나. 회사 · 제목 · 카테고리 · 직무 · 요구 경력 · 마감 · 올라온 날 · 원문 링크 · 노트 경로 · 큰 회사인지(`big_company`) · 오늘
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gabury1/newbie-job-hunt 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 7 --> 10
+    line [8, 9]
+```
+
+2026-11-27 8 → 2026-11-28 9（+1）
 
 
 ---

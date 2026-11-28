@@ -45,13 +45,13 @@ NVIDIA AI Blueprints 下的零售目录富化参考实现：以商品图片为�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "NVIDIA-AI-Blueprints/Retail-Catalog-Enrichment 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 44 --> 49
-    line [45, 46, 45, 47, 48]
+    line [45, 46, 45, 47, 48, 48]
 ```
 
-2026-10-25 45 → 2026-11-27 48（+3）
+2026-10-26 45 → 2026-11-28 48（+3）
 
 
 ---

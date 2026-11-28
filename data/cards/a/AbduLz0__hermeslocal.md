@@ -1,6 +1,6 @@
 # AbduLz0/hermeslocal
 
-⭐ 3 · Shell · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/AbduLz0/hermeslocal) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Linux 上一键安装本地 Hermes Agent + Ollama + Qwen 9B**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

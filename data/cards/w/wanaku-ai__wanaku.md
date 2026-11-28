@@ -1,6 +1,6 @@
 # wanaku-ai/wanaku
 
-⭐ 139 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/wanaku-ai/wanaku) · [官网](https://wanaku.ai) · 组织维护
+⭐ 139 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/wanaku-ai/wanaku) · [官网](https://wanaku.ai) · 组织维护
 
 **AI agent 的受管治动作代理：拦截并管控 MCP 工具调用**
 
@@ -45,12 +45,12 @@ Wanaku 位于 agent 与其操作的系统之间，拦截 MCP 工具调用、agen
 ```mermaid
 xychart-beta
     title "wanaku-ai/wanaku 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-26", "2026-11-28"]
     y-axis "stars" 133 --> 140
     line [134, 135, 136, 137, 139, 139]
 ```
 
-2026-10-25 134 → 2026-11-27 139（+5）
+2026-10-26 134 → 2026-11-28 139（+5）
 
 
 ---

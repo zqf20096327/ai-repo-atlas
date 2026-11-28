@@ -1,6 +1,6 @@
 # codecast-sh/codecast
 
-⭐ 52 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/codecast-sh/codecast) · [官网](https://codecast.sh) · 组织维护
+⭐ 52 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/codecast-sh/codecast) · [官网](https://codecast.sh) · 组织维护
 
 **把人与编码 agent 聚在一个工作区的协作平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codecast-sh/codecast 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 40 --> 53
     line [41, 43, 46, 47, 48, 50, 51, 52, 52]
 ```
 
-2026-10-25 41 → 2026-11-27 52（+11）
+2026-10-26 41 → 2026-11-28 52（+11）
 
 
 ---

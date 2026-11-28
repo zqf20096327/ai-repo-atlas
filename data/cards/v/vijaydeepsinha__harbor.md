@@ -1,6 +1,6 @@
 # vijaydeepsinha/harbor
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/vijaydeepsinha/harbor) · 个人维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/vijaydeepsinha/harbor) · 个人维护
 
 **MCP 网关：让 AI 客户端无需改代码接入现有后端 API**
 
@@ -11,7 +11,7 @@ TypeScript 实现的 Model Context Protocol 网关，在 AI 客户端（Cursor�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ TypeScript 实现的 Model Context Protocol 网关，在 AI 客户端（Cursor�
 ```mermaid
 xychart-beta
     title "vijaydeepsinha/harbor 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

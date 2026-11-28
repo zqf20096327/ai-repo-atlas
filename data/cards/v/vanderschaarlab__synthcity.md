@@ -1,6 +1,6 @@
 # vanderschaarlab/synthcity
 
-⭐ 702 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/vanderschaarlab/synthcity) · [官网](https://www.vanderschaar-lab.com/) · 组织维护
+⭐ 703 · Python · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/vanderschaarlab/synthcity) · [官网](https://www.vanderschaar-lab.com/) · 组织维护
 
 **面向隐私与公平的合成表格数据生成与评估库**
 
@@ -46,12 +46,12 @@ synthcity 是一个 Python 库（要求 Python 3.8+），用于生成和评估�
 ```mermaid
 xychart-beta
     title "vanderschaarlab/synthcity 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 692 --> 703
-    line [693, 694, 696, 697, 702, 702]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 692 --> 704
+    line [693, 694, 696, 697, 702, 703]
 ```
 
-2026-10-25 693 → 2026-11-27 702（+9）
+2026-10-26 693 → 2026-11-28 703（+10）
 
 
 ---

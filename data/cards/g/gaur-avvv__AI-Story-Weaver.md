@@ -1,6 +1,6 @@
 # gaur-avvv/AI-Story-Weaver
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/gaur-avvv/AI-Story-Weaver) · [官网](https://ai-story-weaver-rosy.vercel.app/) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/gaur-avvv/AI-Story-Weaver) · [官网](https://ai-story-weaver-rosy.vercel.app/) · 个人维护
 
 **生成式多模态互动故事书创作与发布工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gaur-avvv/AI-Story-Weaver 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 15 --> 21
-    line [16, 18, 19, 16, 19, 20, 20]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 15 --> 22
+    line [16, 18, 19, 16, 19, 20, 21]
 ```
 
-2026-10-25 16 → 2026-11-27 20（+4）
+2026-10-26 16 → 2026-11-28 21（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # aweis89/pcode
 
-⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/aweis89/pcode) · [官网](https://aweis89.github.io/pcode/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aweis89/pcode) · [官网](https://aweis89.github.io/pcode/) · 个人维护
 
 **终端原生 AI 编码代理：并行运行多个 agent 会话**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aweis89/pcode 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-25 10 → 2026-11-27 10（+0）
+2026-11-25 10 → 2026-11-28 10（+0）
 
 
 ---

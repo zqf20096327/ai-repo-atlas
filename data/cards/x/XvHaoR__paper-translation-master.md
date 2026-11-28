@@ -1,6 +1,6 @@
 # XvHaoR/paper-translation-master
 
-⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/XvHaoR/paper-translation-master) · 个人维护 · 中文 README
+⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/XvHaoR/paper-translation-master) · 个人维护 · 中文 README
 
 **Zotero 论文阅读插件：OCR 识别与大模型翻译段落对照**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "XvHaoR/paper-translation-master 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-16", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-10", "2026-11-16", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-10 3 → 2026-11-27 5（+2）
+2026-11-10 3 → 2026-11-28 6（+3）
 
 
 ---

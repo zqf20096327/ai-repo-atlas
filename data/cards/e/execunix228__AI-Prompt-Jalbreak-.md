@@ -1,6 +1,6 @@
 # execunix228/AI-Prompt-Jalbreak-
 
-⭐ 27 · 推送 2026-11-01 · [GitHub](https://github.com/execunix228/AI-Prompt-Jalbreak-) · 个人维护
+⭐ 28 · 推送 2026-11-01 · [GitHub](https://github.com/execunix228/AI-Prompt-Jalbreak-) · 个人维护
 
 **面向使用者的 AI jailbreak 提示词合集（1811 条压缩包）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "execunix228/AI-Prompt-Jalbreak- 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 24, 26, 27, 27]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 24, 26, 27, 28]
 ```
 
-2026-10-25 24 → 2026-11-27 27（+3）
+2026-10-26 24 → 2026-11-28 28（+4）
 
 
 ---

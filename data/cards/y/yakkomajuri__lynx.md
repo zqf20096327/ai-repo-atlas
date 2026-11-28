@@ -1,6 +1,6 @@
 # yakkomajuri/lynx
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yakkomajuri/lynx) · [官网](https://lynx.railcode.dev) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yakkomajuri/lynx) · [官网](https://lynx.railcode.dev) · 个人维护
 
 **完全本地运行、可自定义 UI 的开源 AI 工作区**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yakkomajuri/lynx 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 8 --> 17
-    line [9, 11, 14, 15, 16]
+    title "yakkomajuri/lynx 星数(近 6 点)"
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 8 --> 18
+    line [9, 11, 14, 15, 16, 17]
 ```
 
-2026-11-10 9 → 2026-11-27 16（+7）
+2026-11-10 9 → 2026-11-28 17（+8）
 
 
 ---

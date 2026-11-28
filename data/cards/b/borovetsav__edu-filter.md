@@ -46,12 +46,12 @@ Chrome 扩展（Manifest V3），监控 YouTube 课程播放进度，每约 40 �
 ```mermaid
 xychart-beta
     title "borovetsav/edu-filter 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-27"]
+    x-axis ["2026-10-28", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-27 3（+0）
+2026-10-28 3 → 2026-11-28 3（+0）
 
 
 ---

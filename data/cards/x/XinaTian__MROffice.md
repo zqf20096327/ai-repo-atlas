@@ -1,6 +1,6 @@
 # XinaTian/MROffice
 
-⭐ 4,437 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/XinaTian/MROffice) · [官网](https://mroffice.ai) · 组织维护
+⭐ 5,009 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/XinaTian/MROffice) · [官网](https://mroffice.ai) · 组织维护
 
 **开源浏览器端 Office 套件编辑器，AI 与 MCP 客户端直接编辑 Office 文件**
 
@@ -45,13 +45,13 @@ MR Office 开源其五款浏览器端编辑器（文档、表格、演示、PDF�
 
 ```mermaid
 xychart-beta
-    title "XinaTian/MROffice 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1822 --> 4802
-    line [2070, 2836, 4554, 4437]
+    title "XinaTian/MROffice 星数(近 5 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 1777 --> 5302
+    line [2070, 2836, 4554, 4437, 5009]
 ```
 
-2026-11-23 2,070 → 2026-11-27 4,437（+2,367）
+2026-11-23 2,070 → 2026-11-28 5,009（+2,939）
 
 
 ---

@@ -1,6 +1,6 @@
 # chengzeyi/Comfy-WaveSpeed
 
-⭐ 1,236 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chengzeyi/Comfy-WaveSpeed) · [官网](https://wavespeed.ai/?utm_source=github&utm_medium=about&utm_campaign=Comfy-WaveSpeed) · 个人维护
+⭐ 1,238 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chengzeyi/Comfy-WaveSpeed) · [官网](https://wavespeed.ai/?utm_source=github&utm_medium=about&utm_campaign=Comfy-WaveSpeed) · 个人维护
 
 **ComfyUI 推理加速插件：缓存与编译加速扩散模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chengzeyi/Comfy-WaveSpeed 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
-    y-axis "stars" 1235 --> 1237
-    line [1236, 1236]
+    x-axis ["2026-11-23", "2026-11-28"]
+    y-axis "stars" 1235 --> 1239
+    line [1236, 1238]
 ```
 
-2026-11-23 1,236 → 2026-11-27 1,236（+0）
+2026-11-23 1,236 → 2026-11-28 1,238（+2）
 
 
 ---

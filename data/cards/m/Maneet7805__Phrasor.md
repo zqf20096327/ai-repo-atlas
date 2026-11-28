@@ -1,6 +1,6 @@
 # Maneet7805/Phrasor
 
-⭐ 4 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Maneet7805/Phrasor) · [官网](https://maneet7805.github.io/Phrasor/) · 个人维护
+⭐ 4 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Maneet7805/Phrasor) · [官网](https://maneet7805.github.io/Phrasor/) · 个人维护
 
 **Windows 托盘应用：热键把草稿提示词改写为清晰版本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Maneet7805/Phrasor 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-16 4 → 2026-11-27 4（+0）
+2026-11-16 4 → 2026-11-28 4（+0）
 
 
 ---

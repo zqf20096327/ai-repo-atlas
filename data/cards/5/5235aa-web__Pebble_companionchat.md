@@ -1,6 +1,6 @@
 # 5235aa-web/Pebble_companionchat
 
-⭐ 104 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/5235aa-web/Pebble_companionchat) · 个人维护 · 中文 README
+⭐ 104 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/5235aa-web/Pebble_companionchat) · 个人维护 · 中文 README
 
 **本地优先的 AI 角色扮演伴侣聊天应用：文字、语音、图像一体的桌面工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "5235aa-web/Pebble_companionchat 星数(近 6 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    title "5235aa-web/Pebble_companionchat 星数(近 7 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 21 --> 111
-    line [28, 66, 90, 97, 102, 104]
+    line [28, 66, 90, 97, 102, 104, 104]
 ```
 
-2026-11-21 28 → 2026-11-27 104（+76）
+2026-11-21 28 → 2026-11-28 104（+76）
 
 
 ---

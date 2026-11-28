@@ -1,6 +1,6 @@
 # mttydev/miao
 
-⭐ 86 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mttydev/miao) · [官网](https://mtty.dev/miao) · 个人维护 · 中文 README
+⭐ 98 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mttydev/miao) · [官网](https://mtty.dev/miao) · 个人维护 · 中文 README
 
 **在终端与你协作的开源 AI 编码代理，自带模型选择与成本可见**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mttydev/miao 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 16 --> 92
-    line [22, 86]
+    title "mttydev/miao 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 15 --> 105
+    line [22, 86, 98]
 ```
 
-2026-11-26 22 → 2026-11-27 86（+64）
+2026-11-26 22 → 2026-11-28 98（+76）
 
 
 ---

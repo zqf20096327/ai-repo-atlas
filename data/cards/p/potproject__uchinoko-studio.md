@@ -46,12 +46,12 @@ Uchinoko Studio 是一个用 Go 与 Node.js 构建的 Web 应用，将语音识�
 ```mermaid
 xychart-beta
     title "potproject/uchinoko-studio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-25 18 → 2026-11-27 18（+0）
+2026-10-26 18 → 2026-11-28 18（+0）
 
 
 ---

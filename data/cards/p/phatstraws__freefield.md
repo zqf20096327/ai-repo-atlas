@@ -1,6 +1,6 @@
 # phatstraws/freefield
 
-⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/phatstraws/freefield) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/phatstraws/freefield) · 个人维护
 
 **给内容创作者的开源视频特效库：一张照片一键生成可分享短片**
 
@@ -47,12 +47,12 @@ FreeField 将 Higgsfield 式的一键视频特效做成开放文件：每个预�
 ```mermaid
 xychart-beta
     title "phatstraws/freefield 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 10 --> 15
+    line [11, 13, 14]
 ```
 
-2026-11-16 11 → 2026-11-27 13（+2）
+2026-11-16 11 → 2026-11-28 14（+3）
 
 
 ---

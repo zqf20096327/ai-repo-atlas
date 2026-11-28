@@ -1,6 +1,6 @@
 # termdock/termdock-issues
 
-⭐ 160 · Shell · 推送 2026-11-25 · [GitHub](https://github.com/termdock/termdock-issues) · [官网](https://termdock.com) · 组织维护
+⭐ 160 · Shell · 推送 2026-11-27 · [GitHub](https://github.com/termdock/termdock-issues) · [官网](https://termdock.com) · 组织维护
 
 **给开发者的桌面 AI 终端：并排运行多个编码 Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "termdock/termdock-issues 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 159 --> 161
     line [160, 160]
 ```
 
-2026-10-25 160 → 2026-11-27 160（+0）
+2026-10-26 160 → 2026-11-28 160（+0）
 
 
 ---

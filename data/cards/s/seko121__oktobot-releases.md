@@ -1,6 +1,6 @@
 # seko121/oktobot-releases
 
-⭐ 9 · 推送 2026-11-25 · [GitHub](https://github.com/seko121/oktobot-releases) · 个人维护
+⭐ 9 · 推送 2026-11-27 · [GitHub](https://github.com/seko121/oktobot-releases) · 个人维护
 
 **安卓端 AI agent：代用户操作手机完成任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "seko121/oktobot-releases 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 10
     line [5, 6, 7, 8, 9, 9]
 ```
 
-2026-11-10 5 → 2026-11-27 9（+4）
+2026-11-10 5 → 2026-11-28 9（+4）
 
 
 ---

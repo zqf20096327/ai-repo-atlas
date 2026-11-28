@@ -1,6 +1,6 @@
 # dlazy-ai/ai-product-video
 
-⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/dlazy-ai/ai-product-video) · 组织维护 · 中文 README
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/dlazy-ai/ai-product-video) · 组织维护 · 中文 README
 
 **面向 Claude Code/Codex 的产品宣传片制作技能库（152 镜头卡）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dlazy-ai/ai-product-video 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 21 --> 30
-    line [22, 23, 24, 22, 25, 28, 29, 29]
+    title "dlazy-ai/ai-product-video 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 21 --> 31
+    line [23, 24, 22, 25, 28, 29, 30]
 ```
 
-2026-10-25 22 → 2026-11-27 29（+7）
+2026-10-26 23 → 2026-11-28 30（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # AtharvRaotole/weave
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AtharvRaotole/weave) · [官网](https://pypi.org/project/weave-lang/) · 个人维护
+⭐ 5 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AtharvRaotole/weave) · [官网](https://pypi.org/project/weave-lang/) · 个人维护
 
 **让 LLM agent 写脚本批量执行工具调用的 Rust 运行时**
 
@@ -46,12 +46,12 @@ Weave 提供一个受限 Python 子集解释器：模型不再逐轮发起工具
 ```mermaid
 xychart-beta
     title "AtharvRaotole/weave 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 5（+2）
 
 
 ---

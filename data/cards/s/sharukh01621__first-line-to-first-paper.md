@@ -1,6 +1,6 @@
 # sharukh01621/first-line-to-first-paper
 
-⭐ 35 · Jupyter Notebook · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/sharukh01621/first-line-to-first-paper) · [官网](https://sharukh01621.github.io/first-line-to-first-paper/) · 个人维护
+⭐ 37 · Jupyter Notebook · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/sharukh01621/first-line-to-first-paper) · [官网](https://sharukh01621.github.io/first-line-to-first-paper/) · 个人维护
 
 **面向零基础量化学习者的 860 页 Python/统计/深度学习教材**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sharukh01621/first-line-to-first-paper 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 28 --> 36
-    line [29, 34, 35]
+    title "sharukh01621/first-line-to-first-paper 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 28 --> 38
+    line [29, 34, 35, 37]
 ```
 
-2026-11-25 29 → 2026-11-27 35（+6）
+2026-11-25 29 → 2026-11-28 37（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # omar-A-hassan/medsci-agent
 
-⭐ 17 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/omar-A-hassan/medsci-agent) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/omar-A-hassan/medsci-agent) · 个人维护
 
 **给科研用户的生物医学研究 Agent：28 个 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "omar-A-hassan/medsci-agent 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-25 17 → 2026-11-27 17（+0）
+2026-10-26 17 → 2026-11-28 18（+1）
 
 
 ---

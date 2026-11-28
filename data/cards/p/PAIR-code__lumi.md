@@ -1,6 +1,6 @@
 # PAIR-code/lumi
 
-⭐ 211 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PAIR-code/lumi) · [官网](https://lumi.withgoogle.com) · 组织维护
+⭐ 212 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PAIR-code/lumi) · [官网](https://lumi.withgoogle.com) · 组织维护
 
 **帮助读者快速阅读理解 arXiv 论文的 AI 辅助阅读应用**
 
@@ -45,12 +45,12 @@ Lumi 是一个基于 Web 的论文阅读应用：针对 arXiv 论文提供多粒
 ```mermaid
 xychart-beta
     title "PAIR-code/lumi 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 209 --> 212
-    line [210, 211, 211]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 209 --> 213
+    line [210, 211, 212]
 ```
 
-2026-10-25 210 → 2026-11-27 211（+1）
+2026-10-26 210 → 2026-11-28 212（+2）
 
 
 ---

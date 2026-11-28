@@ -1,6 +1,6 @@
 # wonsukchoi/domain-experts
 
-⭐ 28 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/wonsukchoi/domain-experts) · [官网](https://domainexperts.dev/) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/wonsukchoi/domain-experts) · [官网](https://domainexperts.dev/) · 个人维护
 
 **956 个职业专家角色定义库，供 AI agent 按需加载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wonsukchoi/domain-experts 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 22 --> 29
-    line [23, 24, 23, 25, 27, 28, 27, 28]
+    title "wonsukchoi/domain-experts 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-22", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 22 --> 30
+    line [23, 24, 23, 25, 27, 28, 27, 28, 29]
 ```
 
-2026-10-25 23 → 2026-11-27 28（+5）
+2026-10-26 23 → 2026-11-28 29（+6）
 
 
 ---

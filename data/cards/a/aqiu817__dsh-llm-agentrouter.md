@@ -1,6 +1,6 @@
 # aqiu817/dsh-llm-agentrouter
 
-⭐ 38 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/aqiu817/dsh-llm-agentrouter) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/aqiu817/dsh-llm-agentrouter) · 个人维护 · 中文 README
 
 **把 AgentRouter 中转站接入 DeepSeek Harness 的 profile 插件**
 
@@ -45,12 +45,12 @@ DeepSeek Harness 的 profile bundle：在 llm-pi-ai 上声明单条 agentrouter 
 ```mermaid
 xychart-beta
     title "aqiu817/dsh-llm-agentrouter 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 35, 36, 37, 38, 37, 38, 38]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 34 --> 40
+    line [35, 36, 35, 36, 37, 38, 37, 38, 39]
 ```
 
-2026-10-25 35 → 2026-11-27 38（+3）
+2026-10-26 35 → 2026-11-28 39（+4）
 
 
 ---

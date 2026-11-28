@@ -45,12 +45,12 @@ Hugging Face 的 Claude Code 插件，把开源 ML 工程师 agent「ML Intern�
 ```mermaid
 xychart-beta
     title "huggingface/mlintern-plugin 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-20 10 → 2026-11-27 11（+1）
+2026-11-20 10 → 2026-11-28 11（+1）
 
 
 ---

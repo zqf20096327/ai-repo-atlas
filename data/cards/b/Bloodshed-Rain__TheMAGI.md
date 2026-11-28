@@ -1,6 +1,6 @@
 # Bloodshed-Rain/TheMAGI
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Bloodshed-Rain/TheMAGI) · [官网](https://themagi.gg) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Bloodshed-Rain/TheMAGI) · [官网](https://themagi.gg) · 组织维护
 
 **面向 Melee 玩家的本地 Slippi 录像统计与 AI 教练应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bloodshed-Rain/TheMAGI 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-16", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-16 10 → 2026-11-27 10（+0）
+2026-11-16 10 → 2026-11-28 11（+1）
 
 
 ---

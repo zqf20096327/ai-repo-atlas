@@ -1,6 +1,6 @@
 # h4lo-void/bageo-call
 
-⭐ 51 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/h4lo-void/bageo-call) · 个人维护 · 中文 README
+⭐ 53 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/h4lo-void/bageo-call) · 个人维护 · 中文 README
 
 **自托管的 AI 电话助理：用备用 root 安卓机接打你的号码**
 
@@ -47,12 +47,12 @@ Gemini Live 驱动的电话助理：用户将 SIM 插入一部经 Magisk/KernelS
 ```mermaid
 xychart-beta
     title "h4lo-void/bageo-call 星数(近 6 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 28 --> 53
-    line [30, 35, 44, 36, 51, 51]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 28 --> 55
+    line [30, 35, 44, 36, 51, 53]
 ```
 
-2026-11-15 30 → 2026-11-27 51（+21）
+2026-11-15 30 → 2026-11-28 53（+23）
 
 
 ---

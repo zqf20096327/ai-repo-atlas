@@ -1,6 +1,6 @@
 # Alanosy/exam-platform
 
-⭐ 889 · Java · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Alanosy/exam-platform) · [官网](https://doc.alan.org.cn) · 个人维护 · 中文 README
+⭐ 888 · Java · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Alanosy/exam-platform) · [官网](https://doc.alan.org.cn) · 个人维护 · 中文 README
 
 **面向学校/培训机构的开箱即用在线考试系统（微服务+Vue3）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Alanosy/exam-platform 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-28"]
     y-axis "stars" 884 --> 890
-    line [889, 885, 887, 888, 889, 889]
+    line [889, 885, 887, 888, 889, 888]
 ```
 
-2026-10-25 889 → 2026-11-27 889（+0）
+2026-10-26 889 → 2026-11-28 888（-1）
 
 
 ---

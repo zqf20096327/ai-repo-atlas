@@ -1,6 +1,6 @@
 # hawkinslabdev/mealie-planner
 
-⭐ 41 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/hawkinslabdev/mealie-planner) · 组织维护
+⭐ 42 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/hawkinslabdev/mealie-planner) · 组织维护
 
 **自托管的 Mealie 周餐计划应用，支持 Home Assistant**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hawkinslabdev/mealie-planner 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-25 41 → 2026-11-27 41（+0）
+2026-10-26 41 → 2026-11-28 42（+1）
 
 
 ---

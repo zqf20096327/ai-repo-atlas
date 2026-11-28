@@ -1,6 +1,6 @@
 # mistval/yozakura
 
-⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/mistval/yozakura) · [官网](https://mistval.github.io/yozakura/) · 个人维护
+⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/mistval/yozakura) · [官网](https://mistval.github.io/yozakura/) · 个人维护
 
 **LLM 驱动的社交模拟引擎：多角色在地图上互动并生成记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mistval/yozakura 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22", "2026-11-25", "2026-11-28"]
     y-axis "stars" 38 --> 44
     line [39, 40, 39, 40, 41, 42, 43, 43]
 ```
 
-2026-10-25 39 → 2026-11-27 43（+4）
+2026-10-26 39 → 2026-11-28 43（+4）
 
 
 ---

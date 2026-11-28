@@ -1,6 +1,6 @@
 # AiursoftWeb/OllamaGateway
 
-⭐ 10 · C# · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/AiursoftWeb/OllamaGateway) · [官网](https://ollama.aiursoft.com/) · 组织维护
+⭐ 10 · C# · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/AiursoftWeb/OllamaGateway) · [官网](https://ollama.aiursoft.com/) · 组织维护
 
 **为 Ollama 添加企业级鉴权、审计与虚拟模型的 API 网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AiursoftWeb/OllamaGateway 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-27 10（+0）
+2026-11-10 10 → 2026-11-28 10（+0）
 
 
 ---

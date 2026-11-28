@@ -45,12 +45,12 @@ PwC Hungary AI Hackathon 2026 参赛项目：对转移定价文档（Master File
 ```mermaid
 xychart-beta
     title "snktibor/Nectar-TP-AI-Hackathon 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

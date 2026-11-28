@@ -41,6 +41,18 @@ FastAPI + Streamlit 构建的人格问答引擎：摄入用户自有语料（演
 > L15: - **Verified grounding, not vibes.** When the persona answers from the corpus, each cited
 > L42: Streamlit UI ──HTTP──▶ FastAPI backend
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gnany-adapa/MindEcho 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8954d4cb4237` · [字段定义](../../DATASET.md)*

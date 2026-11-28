@@ -1,6 +1,6 @@
 # paipiange/gongzuotai
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/paipiange/gongzuotai) · 个人维护 · 中文 README
+⭐ 8 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/paipiange/gongzuotai) · 个人维护 · 中文 README
 
 **内容创作者的多平台 AI 文案配图视频工作台**
 
@@ -40,6 +40,18 @@
 > L7: > A local-first AI content studio running as a DeepSeek Harness plugin — copywriting, images, video and Q-version co
 > L9: 面向 DeepSeek Harness 的本地优先 AI 内容创作工作台。当前已打通原生插件入口、AI 文字/图片/本地视频生成、持久化后台任务、素材与备份、公众号漫画、发布历史和待发布清单。
 > L68: - AI 文章、图片、视频、标题、营销文案、小红书工作台界面。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "paipiange/gongzuotai 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 5 --> 9
+    line [6, 8]
+```
+
+2026-11-27 6 → 2026-11-28 8（+2）
 
 
 ---

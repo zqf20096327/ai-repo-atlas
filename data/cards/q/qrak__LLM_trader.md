@@ -1,6 +1,6 @@
 # qrak/LLM_trader
 
-⭐ 141 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/qrak/LLM_trader) · [官网](https://semanticsignal.qrak.org) · 个人维护 · 中文 README
+⭐ 141 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/qrak/LLM_trader) · [官网](https://semanticsignal.qrak.org) · 个人维护 · 中文 README
 
 **LLM 纸面交易 agent：读取市场文本并保留交易记忆**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qrak/LLM_trader 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    title "qrak/LLM_trader 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 134 --> 142
-    line [135, 137, 138, 139, 140, 135, 140, 141, 141]
+    line [137, 138, 139, 140, 135, 140, 141, 141]
 ```
 
-2026-10-25 135 → 2026-11-27 141（+6）
+2026-10-26 137 → 2026-11-28 141（+4）
 
 
 ---

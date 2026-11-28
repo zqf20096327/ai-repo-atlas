@@ -1,6 +1,6 @@
 # materialsproject/matbench
 
-⭐ 229 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/materialsproject/matbench) · [官网](https://matbench.materialsproject.org) · 组织维护
+⭐ 230 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/materialsproject/matbench) · [官网](https://matbench.materialsproject.org) · 组织维护
 
 **材料科学性质预测的基准任务集与排行榜**
 
@@ -44,13 +44,13 @@ Matbench 提供一组经过整理的材料科学机器学习基准任务（13 �
 
 ```mermaid
 xychart-beta
-    title "materialsproject/matbench 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 221 --> 230
-    line [222, 223, 224, 222, 225, 226, 227, 226, 227, 228, 229]
+    title "materialsproject/matbench 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 221 --> 231
+    line [222, 223, 224, 222, 225, 226, 227, 226, 227, 228, 229, 230]
 ```
 
-2026-10-25 222 → 2026-11-27 229（+7）
+2026-10-26 222 → 2026-11-28 230（+8）
 
 
 ---

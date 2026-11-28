@@ -46,12 +46,12 @@ AstrBot 插件，为主智能体提供 `dsh_ask`/`dsh_ping` 两个函数工具�
 ```mermaid
 xychart-beta
     title "Fantasality/astrbot_plugin_dsh_bridge 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
+    x-axis ["2026-11-22", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-22 11 → 2026-11-27 11（+0）
+2026-11-22 11 → 2026-11-28 11（+0）
 
 
 ---

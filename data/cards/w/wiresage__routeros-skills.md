@@ -1,6 +1,6 @@
 # wiresage/routeros-skills
 
-⭐ 9 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/wiresage/routeros-skills) · [官网](https://mikrotik-mcp.com) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/wiresage/routeros-skills) · [官网](https://mikrotik-mcp.com) · 组织维护
 
 **教 AI 编码代理使用 MikroTik RouterOS 的技能库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wiresage/routeros-skills 星数(近 7 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 2 --> 10
-    line [3, 4, 5, 7, 8, 9, 9]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 2 --> 11
+    line [3, 4, 5, 7, 8, 9, 10]
 ```
 
-2026-10-26 3 → 2026-11-27 9（+6）
+2026-10-26 3 → 2026-11-28 10（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # mannysz/neuron-engine
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mannysz/neuron-engine) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mannysz/neuron-engine) · 个人维护
 
 **为 AI 编码代理提供本地持久记忆的 CLI 工具**
 
@@ -39,6 +39,18 @@ neuron-engine 是面向 AI 编码代理的本地优先持久记忆 CLI，将项�
 
 > L3: A local-first persistent memory CLI for AI coding agents. Use whichever harness and model you want (**Claude Code**,
 > L7: AI coding agents lose track of architecture decisions, debugging history, and project conventions whenever a chat co
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mannysz/neuron-engine 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
+```
+
+2026-11-27 10 → 2026-11-28 12（+2）
 
 
 ---

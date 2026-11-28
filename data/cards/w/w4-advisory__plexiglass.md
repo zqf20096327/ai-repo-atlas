@@ -46,12 +46,12 @@ Plexiglass 对 JSON HTTP 应用端点和 Python 可调用对象执行显式安�
 ```mermaid
 xychart-beta
     title "w4-advisory/plexiglass 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 155 --> 157
     line [156, 156]
 ```
 
-2026-10-25 156 → 2026-11-27 156（+0）
+2026-10-26 156 → 2026-11-28 156（+0）
 
 
 ---

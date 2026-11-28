@@ -46,12 +46,12 @@ kcover 是部署在 Kubernetes 上的控制器加节点 Agent：通过给 Pytorc
 ```mermaid
 xychart-beta
     title "BaizeAI/kcover 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-25 35 → 2026-11-27 35（+0）
+2026-10-26 35 → 2026-11-28 35（+0）
 
 
 ---

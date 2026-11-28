@@ -1,6 +1,6 @@
 # core0-io/nio
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/core0-io/nio) · [官网](https://core0-io.github.io/nio/) · 组织维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/core0-io/nio) · [官网](https://core0-io.github.io/nio/) · 组织维护
 
 **自主 AI agent 的执行守卫与可观测性插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "core0-io/nio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

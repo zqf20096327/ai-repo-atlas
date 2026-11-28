@@ -1,6 +1,6 @@
 # urbanmorph/geodata
 
-⭐ 44 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/urbanmorph/geodata) · [官网](https://bharatlas.com) · 组织维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/urbanmorph/geodata) · [官网](https://bharatlas.com) · 组织维护
 
 **印度行政边界开放地理数据目录，含 REST API 与 MCP 服务器**
 
@@ -45,13 +45,13 @@ bharatlas 是面向印度地理数据的可视化目录与平台：收录国家�
 
 ```mermaid
 xychart-beta
-    title "urbanmorph/geodata 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-27"]
+    title "urbanmorph/geodata 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-28"]
     y-axis "stars" 39 --> 45
-    line [40, 41, 40, 41, 42, 43, 44, 44]
+    line [41, 40, 41, 42, 43, 44, 44]
 ```
 
-2026-10-25 40 → 2026-11-27 44（+4）
+2026-10-26 41 → 2026-11-28 44（+3）
 
 
 ---

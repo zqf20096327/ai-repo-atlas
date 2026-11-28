@@ -46,13 +46,13 @@ Tauri 2 桌面应用，面向 Linux 运维人员与学习者：本地 PTY、WSL�
 
 ```mermaid
 xychart-beta
-    title "harryopo/tdsf-terminal-agent 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
+    title "harryopo/tdsf-terminal-agent 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-21", "2026-11-27", "2026-11-28"]
     y-axis "stars" 90 --> 93
-    line [91, 92, 91]
+    line [91, 92, 91, 91]
 ```
 
-2026-10-25 91 → 2026-11-27 91（+0）
+2026-10-26 91 → 2026-11-28 91（+0）
 
 
 ---

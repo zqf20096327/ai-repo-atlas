@@ -1,6 +1,6 @@
 # eliornl/rolemule
 
-⭐ 39 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/eliornl/rolemule) · [官网](https://eliornl.github.io/rolemule) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/eliornl/rolemule) · [官网](https://eliornl.github.io/rolemule) · 个人维护
 
 **求职者的自托管 AI 求职助手：五 Agent 分析职位并生成申请材料**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eliornl/rolemule 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "eliornl/rolemule 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 37 --> 40
-    line [38, 39]
+    line [38, 39, 39]
 ```
 
-2026-10-25 38 → 2026-11-27 39（+1）
+2026-10-26 38 → 2026-11-28 39（+1）
 
 
 ---

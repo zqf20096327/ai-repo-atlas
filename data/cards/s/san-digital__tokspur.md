@@ -1,6 +1,6 @@
 # san-digital/tokspur
 
-⭐ 29 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/san-digital/tokspur) · [官网](https://tokspur.com) · 组织维护
+⭐ 29 · C++ · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/san-digital/tokspur) · [官网](https://tokspur.com) · 组织维护
 
 **Mac 本地运行 Qwen3.8 Flash-Next 的私有推理引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "san-digital/tokspur 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-28"]
     y-axis "stars" 12 --> 30
     line [13, 14, 24, 25, 26, 29, 29]
 ```
 
-2026-11-10 13 → 2026-11-27 29（+16）
+2026-11-10 13 → 2026-11-28 29（+16）
 
 
 ---

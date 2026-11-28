@@ -1,6 +1,6 @@
 # bighardperson/computer-science-skills-collection
 
-⭐ 70 · Python · NOASSERTION · 推送 2026-04-26 · [GitHub](https://github.com/bighardperson/computer-science-skills-collection) · 个人维护 · 中文 README
+⭐ 71 · Python · NOASSERTION · 推送 2026-04-26 · [GitHub](https://github.com/bighardperson/computer-science-skills-collection) · 个人维护 · 中文 README
 
 **计算机专业 Claude Code/OpenClaw 风格技能合集（610 条）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "bighardperson/computer-science-skills-collection 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 61 --> 71
-    line [62, 63, 65, 66, 62, 68, 69, 68, 69, 70, 70]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 61 --> 72
+    line [62, 63, 65, 66, 62, 68, 69, 68, 69, 70, 71]
 ```
 
-2026-10-25 62 → 2026-11-27 70（+8）
+2026-10-26 62 → 2026-11-28 71（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # LofiSu/dsh-super-agent
 
-⭐ 155 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LofiSu/dsh-super-agent) · 个人维护 · 中文 README
+⭐ 158 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/LofiSu/dsh-super-agent) · 个人维护 · 中文 README
 
 **面向个人开发者的多智能体运行框架（Router/Worker + Watchdog）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LofiSu/dsh-super-agent 星数(近 8 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 52 --> 164
-    line [61, 136, 144, 146, 148, 151, 154, 155]
+    title "LofiSu/dsh-super-agent 星数(近 9 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 52 --> 167
+    line [61, 136, 144, 146, 148, 151, 154, 155, 158]
 ```
 
-2026-11-19 61 → 2026-11-27 155（+94）
+2026-11-19 61 → 2026-11-28 158（+97）
 
 
 ---

@@ -1,6 +1,6 @@
 # Blockether/svar
 
-⭐ 21 · Clojure · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Blockether/svar) · 个人维护
+⭐ 22 · Clojure · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Blockether/svar) · 个人维护
 
 **Clojure 库：从任意文本 LLM 获得类型安全的结构化输出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Blockether/svar 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-25 21 → 2026-11-27 21（+0）
+2026-10-26 21 → 2026-11-28 22（+1）
 
 
 ---

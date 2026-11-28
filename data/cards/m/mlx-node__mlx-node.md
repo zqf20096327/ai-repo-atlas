@@ -1,6 +1,6 @@
 # mlx-node/mlx-node
 
-⭐ 170 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mlx-node/mlx-node) · [官网](https://mlx.void.app) · 组织维护
+⭐ 171 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mlx-node/mlx-node) · [官网](https://mlx.void.app) · 组织维护
 
 **在 Node.js 中运行 MLX 模型的推理/训练运行时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mlx-node/mlx-node 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 165 --> 171
-    line [166, 167, 168, 170, 170]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 165 --> 172
+    line [166, 167, 168, 170, 171]
 ```
 
-2026-10-25 166 → 2026-11-27 170（+4）
+2026-10-26 166 → 2026-11-28 171（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # skylight-org/skylight-research
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/skylight-org/skylight-research) · [官网](https://sky-light.eecs.berkeley.edu) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/skylight-org/skylight-research) · [官网](https://sky-light.eecs.berkeley.edu) · 组织维护
 
 **研究者的稀疏注意力框架：实现、组合与长文本评测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "skylight-org/skylight-research 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "skylight-org/skylight-research 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 68 --> 71
-    line [69, 70, 69, 70, 70]
+    line [70, 69, 70, 70]
 ```
 
-2026-10-25 69 → 2026-11-27 70（+1）
+2026-10-26 70 → 2026-11-28 70（+0）
 
 
 ---

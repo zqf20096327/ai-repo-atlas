@@ -1,6 +1,6 @@
 # magic5644/Graph-It-Live
 
-⭐ 63 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/magic5644/Graph-It-Live) · [官网](https://magic5644.github.io/Graph-It-Live/) · 个人维护
+⭐ 63 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/magic5644/Graph-It-Live) · [官网](https://magic5644.github.io/Graph-It-Live/) · 个人维护
 
 **把代码库可视化为依赖图的 VS Code 扩展/CLI/MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "magic5644/Graph-It-Live 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-25 63 → 2026-11-27 63（+0）
+2026-10-26 63 → 2026-11-28 63（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # willyfh/lightning-hydra-boilerplate
 
-⭐ 10 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/willyfh/lightning-hydra-boilerplate) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/willyfh/lightning-hydra-boilerplate) · 个人维护
 
 **面向深度学习科研的项目模板：管理配置、训练、评估与调参**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "willyfh/lightning-hydra-boilerplate 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

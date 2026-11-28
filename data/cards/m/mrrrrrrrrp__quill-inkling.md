@@ -42,6 +42,18 @@ quill 是一个用 C++/CUDA 编写的推理引擎，专门服务于单一模型 
 > L5: on the CPU. It serves an **OpenAI-compatible API** and a **chat page** in your browser.
 > L16: A Windows installer, written in Rust, checks your hardware, picks the settings, downloads and verifies everything,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mrrrrrrrrp/quill-inkling 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f401d6f33789` · [字段定义](../../DATASET.md)*

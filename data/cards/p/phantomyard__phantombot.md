@@ -1,6 +1,6 @@
 # phantomyard/phantombot
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/phantomyard/phantombot) · [官网](https://phantombot.bot/) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/phantomyard/phantombot) · [官网](https://phantombot.bot/) · 组织维护
 
 **给终端/聊天/编辑器提供持久化本地 AI 人格的代理运行时**
 
@@ -46,12 +46,12 @@ Phantombot 为 AI harness 提供持久身份与长期记忆（日志、决策、
 ```mermaid
 xychart-beta
     title "phantomyard/phantombot 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-19", "2026-11-28"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-11-19 18 → 2026-11-27 18（+0）
+2026-11-19 18 → 2026-11-28 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Crash-FD01/Helpix
 
-⭐ 3 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Crash-FD01/Helpix) · [官网](https://crash-fd01.github.io/Helpix) · 个人维护
+⭐ 3 · Python · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Crash-FD01/Helpix) · [官网](https://crash-fd01.github.io/Helpix) · 个人维护
 
 **借你已有的 AI 账号诊断并修复 Linux/Windows 电脑问题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Crash-FD01/Helpix 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-27 3（+0）
+2026-11-10 3 → 2026-11-28 3（+0）
 
 
 ---

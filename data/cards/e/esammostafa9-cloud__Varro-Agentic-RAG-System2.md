@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "esammostafa9-cloud/Varro-Agentic-RAG-System2 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-20 4 → 2026-11-27 4（+0）
+2026-11-20 4 → 2026-11-28 4（+0）
 
 
 ---

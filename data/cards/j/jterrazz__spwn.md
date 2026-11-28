@@ -1,6 +1,6 @@
 # jterrazz/spwn
 
-⭐ 15 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jterrazz/spwn) · [官网](https://spwn.sh) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jterrazz/spwn) · [官网](https://spwn.sh) · 个人维护
 
 **以代码方式编排 AI agent 的工具：声明式环境构建与运行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jterrazz/spwn 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "jterrazz/spwn 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-25 14 → 2026-11-27 15（+1）
+2026-10-26 14 → 2026-11-28 15（+1）
 
 
 ---

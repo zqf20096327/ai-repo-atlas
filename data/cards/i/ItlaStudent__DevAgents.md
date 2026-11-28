@@ -1,6 +1,6 @@
 # ItlaStudent/DevAgents
 
-⭐ 10 · C · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ItlaStudent/DevAgents) · [官网](https://4stra.dev/devagents) · 个人维护
+⭐ 11 · C · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ItlaStudent/DevAgents) · [官网](https://4stra.dev/devagents) · 个人维护
 
 **多模型多智能体开发编排环境：带预算与可审计治理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ItlaStudent/DevAgents 星数(近 6 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 11
-    line [3, 6, 8, 9, 10, 10]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 12
+    line [3, 6, 8, 9, 10, 11]
 ```
 
-2026-11-21 3 → 2026-11-27 10（+7）
+2026-11-21 3 → 2026-11-28 11（+8）
 
 
 ---

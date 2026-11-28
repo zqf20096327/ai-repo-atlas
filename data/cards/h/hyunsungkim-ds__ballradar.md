@@ -1,6 +1,6 @@
 # hyunsungkim-ds/ballradar
 
-⭐ 35 · Jupyter Notebook · 推送 2026-02-03 · [GitHub](https://github.com/hyunsungkim-ds/ballradar) · [官网](https://arxiv.org/abs/2306.08206) · 个人维护
+⭐ 36 · Jupyter Notebook · 推送 2026-02-03 · [GitHub](https://github.com/hyunsungkim-ds/ballradar) · [官网](https://arxiv.org/abs/2306.08206) · 个人维护
 
 **KDD 2023 论文代码：从球员轨迹推断足球比赛球体轨迹**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hyunsungkim-ds/ballradar 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 34, 35, 35]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 34, 35, 36]
 ```
 
-2026-10-25 34 → 2026-11-27 35（+1）
+2026-10-26 34 → 2026-11-28 36（+2）
 
 
 ---

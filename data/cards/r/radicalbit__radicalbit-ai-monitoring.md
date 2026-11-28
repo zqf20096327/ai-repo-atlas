@@ -46,12 +46,12 @@ Radicalbit 维护的 AI 模型监控平台，面向在生产环境中运行机�
 ```mermaid
 xychart-beta
     title "radicalbit/radicalbit-ai-monitoring 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-25 92 → 2026-11-27 92（+0）
+2026-10-26 92 → 2026-11-28 92（+0）
 
 
 ---

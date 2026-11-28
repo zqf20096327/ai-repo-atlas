@@ -1,6 +1,6 @@
 # joreilly/OnDeviceAI
 
-⭐ 49 · Kotlin · 推送 2026-11-07 · [GitHub](https://github.com/joreilly/OnDeviceAI) · 个人维护
+⭐ 50 · Kotlin · 推送 2026-11-07 · [GitHub](https://github.com/joreilly/OnDeviceAI) · 个人维护
 
 **演示 iOS/Android 端侧 AI 的 Compose Multiplatform 极简示例**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "joreilly/OnDeviceAI 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 48 --> 51
+    line [49, 50]
 ```
 
-2026-10-25 49 → 2026-11-27 49（+0）
+2026-10-26 49 → 2026-11-28 50（+1）
 
 
 ---

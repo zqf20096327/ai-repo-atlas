@@ -1,6 +1,6 @@
 # ivan-magda/swift-claw
 
-⭐ 16 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ivan-magda/swift-claw) · 个人维护
+⭐ 16 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ivan-magda/swift-claw) · 个人维护
 
 **单二进制 Swift 常驻个人 AI 助手，经 Telegram 交互**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ivan-magda/swift-claw 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-28"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-25 15 → 2026-11-27 16（+1）
+2026-10-26 15 → 2026-11-28 16（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Cyber 是一个基于 Cosmos SDK/CosmWasm 技术栈的区块链协议节点（Ru
 ```mermaid
 xychart-beta
     title "cyberia-to/cyber 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-25 54 → 2026-11-27 54（+0）
+2026-10-26 54 → 2026-11-28 54（+0）
 
 
 ---

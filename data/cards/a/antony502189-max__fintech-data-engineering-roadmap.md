@@ -1,6 +1,6 @@
 # antony502189-max/fintech-data-engineering-roadmap
 
-⭐ 4 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/antony502189-max/fintech-data-engineering-roadmap) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **金融数据工程学习路线：100 课+40 练习+8 场景实验**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

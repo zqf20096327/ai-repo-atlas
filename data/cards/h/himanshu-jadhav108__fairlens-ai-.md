@@ -47,12 +47,12 @@ Web 端到端平台：上传 CSV 或选择内置数据集（Adult Census、COMPA
 ```mermaid
 xychart-beta
     title "himanshu-jadhav108/fairlens-ai- 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

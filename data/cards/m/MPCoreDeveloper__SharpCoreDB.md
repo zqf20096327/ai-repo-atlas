@@ -1,6 +1,6 @@
 # MPCoreDeveloper/SharpCoreDB
 
-⭐ 43 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MPCoreDeveloper/SharpCoreDB) · [官网](https://github.com/MPCoreDeveloper/SharpCoreDB) · 组织维护
+⭐ 44 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MPCoreDeveloper/SharpCoreDB) · [官网](https://github.com/MPCoreDeveloper/SharpCoreDB) · 组织维护
 
 **面向 .NET 团队的加密嵌入式数据库：单文件加密 + gRPC 服务模式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MPCoreDeveloper/SharpCoreDB 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-25 43 → 2026-11-27 43（+0）
+2026-10-26 43 → 2026-11-28 44（+1）
 
 
 ---

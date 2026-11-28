@@ -1,6 +1,6 @@
 # brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning
 
-⭐ 165 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) · 组织维护 · 中文 README
+⭐ 198 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning) · 组织维护 · 中文 README
 
 **类器官神经信号作为 LLM 智能体策略输入的生存游戏实验研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 143 --> 167
-    line [145, 165]
+    title "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 140 --> 203
+    line [145, 165, 198]
 ```
 
-2026-11-26 145 → 2026-11-27 165（+20）
+2026-11-26 145 → 2026-11-28 198（+53）
 
 
 ---

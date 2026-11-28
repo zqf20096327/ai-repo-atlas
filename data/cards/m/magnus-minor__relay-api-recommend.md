@@ -1,6 +1,6 @@
 # magnus-minor/relay-api-recommend
 
-⭐ 3 · 推送 2026-11-26 · [GitHub](https://github.com/magnus-minor/relay-api-recommend) · [官网](https://folkbench.com/?utm_source=github&utm_medium=repo&utm_campaign=relay-recommend) · 个人维护 · 中文 README
+⭐ 3 · 推送 2026-11-27 · [GitHub](https://github.com/magnus-minor/relay-api-recommend) · [官网](https://folkbench.com/?utm_source=github&utm_medium=repo&utm_campaign=relay-recommend) · 个人维护 · 中文 README
 
 **帮开发者挑选 Claude/GPT/Gemini API 中转站的选站指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "magnus-minor/relay-api-recommend 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 3（+0）
 
 
 ---

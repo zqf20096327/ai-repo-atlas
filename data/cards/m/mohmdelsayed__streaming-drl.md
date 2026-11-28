@@ -1,6 +1,6 @@
 # mohmdelsayed/streaming-drl
 
-⭐ 306 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/mohmdelsayed/streaming-drl) · 个人维护
+⭐ 308 · Python · NOASSERTION · 推送 2026-09-22 · [GitHub](https://github.com/mohmdelsayed/streaming-drl) · 个人维护
 
 **流式深度强化学习算法 Stream-X 的官方论文实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohmdelsayed/streaming-drl 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 298 --> 307
-    line [299, 300, 301, 302, 299, 303, 304, 305, 306]
+    title "mohmdelsayed/streaming-drl 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 298 --> 309
+    line [299, 300, 301, 302, 299, 303, 304, 305, 306, 308]
 ```
 
-2026-10-25 299 → 2026-11-27 306（+7）
+2026-10-26 299 → 2026-11-28 308（+9）
 
 
 ---

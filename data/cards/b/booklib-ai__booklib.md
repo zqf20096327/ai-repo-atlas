@@ -45,12 +45,12 @@ booklib 是一个上下文工程 CLI 工具，面向使用 Claude Code、Cursor�
 ```mermaid
 xychart-beta
     title "booklib-ai/booklib 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-25 40 → 2026-11-27 40（+0）
+2026-10-26 40 → 2026-11-28 40（+0）
 
 
 ---

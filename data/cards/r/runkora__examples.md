@@ -1,6 +1,6 @@
 # runkora/examples
 
-⭐ 4 · Makefile · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/runkora/examples) · 组织维护
+⭐ 4 · Makefile · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/runkora/examples) · 组织维护
 
 **runkora/kora 生产级 agent 工厂的示例清单仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "runkora/examples 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-27 4（+0）
+2026-11-08 4 → 2026-11-28 4（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Potato 向 Claude、ChatGPT、Gemini、Perplexity、Grok 等 5 个引擎的 27 �
 ```mermaid
 xychart-beta
     title "onism1767-creator/potato 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 163 --> 167
     line [166, 164, 164]
 ```
 
-2026-10-25 166 → 2026-11-27 164（-2）
+2026-10-26 166 → 2026-11-28 164（-2）
 
 
 ---

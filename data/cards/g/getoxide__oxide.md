@@ -1,6 +1,6 @@
 # getoxide/oxide
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/getoxide/oxide) · [官网](https://getoxide.dev) · 组织维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/getoxide/oxide) · [官网](https://getoxide.dev) · 组织维护
 
 **面向 GitHub Project 的桌面终端，可在其中运行 AI 编码 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "getoxide/oxide 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-27"]
+    x-axis ["2026-11-12", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-27 3（+0）
+2026-11-12 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # fabiofigueredo/ux-validate
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fabiofigueredo/ux-validate) · [官网](https://fabiofigueredo.github.io/ux-validate/)
+⭐ 10 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fabiofigueredo/ux-validate) · [官网](https://fabiofigueredo.github.io/ux-validate/)
 
 **让 AI agent 以 persona 身份测试网页 UX 与可访问性的工具**
 
@@ -47,12 +47,12 @@ ux-validate 对 web 应用（AI 生成或非 AI 生成）做内容、导航、�
 ```mermaid
 xychart-beta
     title "fabiofigueredo/ux-validate 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 4 --> 10
-    line [5, 6, 7, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 4 --> 11
+    line [5, 6, 7, 8, 9, 10]
 ```
 
-2026-11-08 5 → 2026-11-27 9（+4）
+2026-11-08 5 → 2026-11-28 10（+5）
 
 
 ---

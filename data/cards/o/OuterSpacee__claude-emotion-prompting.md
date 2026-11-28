@@ -1,6 +1,6 @@
 # OuterSpacee/claude-emotion-prompting
 
-⭐ 74 · MIT · 推送 2026-04-03 · [GitHub](https://github.com/OuterSpacee/claude-emotion-prompting) · 个人维护
+⭐ 75 · MIT · 推送 2026-04-03 · [GitHub](https://github.com/OuterSpacee/claude-emotion-prompting) · 个人维护
 
 **基于 Anthropic 情绪向量研究的 Claude 提示词与配置模板库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OuterSpacee/claude-emotion-prompting 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-25 74 → 2026-11-27 74（+0）
+2026-10-26 74 → 2026-11-28 75（+1）
 
 
 ---

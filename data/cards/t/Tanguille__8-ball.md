@@ -1,6 +1,6 @@
 # Tanguille/8-ball
 
-⭐ 3 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Tanguille/8-ball) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Tanguille/8-ball) · 个人维护
 
 **给 AI agent 提供类型化决策判定的 Rust 决策模型工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Tanguille/8-ball 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [4, 3, 3]
 ```
 
-2026-11-25 4 → 2026-11-27 3（-1）
+2026-11-25 4 → 2026-11-28 3（-1）
 
 
 ---

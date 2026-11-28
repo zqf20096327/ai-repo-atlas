@@ -1,6 +1,6 @@
 # rebelthor/warble
 
-⭐ 36 · Go · MIT · 推送 2026-06-16 · [GitHub](https://github.com/rebelthor/warble) · 个人维护 · 中文 README
+⭐ 37 · Go · MIT · 推送 2026-06-16 · [GitHub](https://github.com/rebelthor/warble) · 个人维护 · 中文 README
 
 **M5Stack StackChan 机器人的全本地 AI 语音后端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rebelthor/warble 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36, 36]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-15", "2026-11-28"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 37]
 ```
 
-2026-10-25 34 → 2026-11-27 36（+2）
+2026-10-26 34 → 2026-11-28 37（+3）
 
 
 ---

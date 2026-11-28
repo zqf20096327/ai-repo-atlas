@@ -1,6 +1,6 @@
 # adonaiongaia/MikroTitan
 
-⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/adonaiongaia/MikroTitan) · 个人维护
+⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/adonaiongaia/MikroTitan) · 个人维护
 
 **本地双引擎 LLM 桌面工作室：支持超内存模型运行**
 
@@ -41,6 +41,18 @@
 > L5: **A dual-inference local AI desktop studio.** Run **Janas-LLM** models with SSD streaming so models larger than RAM 
 > L7: MikroTitan is a local AI studio with **agent mode**, a local document vault, **local voice input**, branching chat h
 > L15: - **Dual engines.** `janas-server` streams `.jns` models from SSD, so a model larger than RAM can still run; `llama
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "adonaiongaia/MikroTitan 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-27 5 → 2026-11-28 5（+0）
 
 
 ---

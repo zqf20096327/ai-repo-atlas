@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "panelalpha/panelalpha-single-server 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-27"]
+    title "panelalpha/panelalpha-single-server 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-27", "2026-11-28"]
     y-axis "stars" 3 --> 7
-    line [4, 5, 6]
+    line [4, 5, 6, 6]
 ```
 
-2026-11-20 4 → 2026-11-27 6（+2）
+2026-11-20 4 → 2026-11-28 6（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mritd/gitflow-toolkit
 
-⭐ 229 · Go · MIT · 推送 2026-09-10 · [GitHub](https://github.com/mritd/gitflow-toolkit) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Go 编写的 GitFlow CLI：交互式生成 Conventional Commits 提交信息**
 
@@ -11,7 +11,7 @@ GitFlow Toolkit 是用 Go 编写的 CLI 工具，按 Conventional Commits 1.0.0 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

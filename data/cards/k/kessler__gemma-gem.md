@@ -1,6 +1,6 @@
 # kessler/gemma-gem
 
-⭐ 973 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/kessler/gemma-gem) · 个人维护
+⭐ 974 · TypeScript · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/kessler/gemma-gem) · 个人维护
 
 **浏览器内本地运行 Gemma 4 的 Chrome AI 助手扩展**
 
@@ -45,12 +45,12 @@ Chrome 扩展，通过 WebGPU 在设备端运行 Google Gemma 4（E2B/E4B，ONNX
 ```mermaid
 xychart-beta
     title "kessler/gemma-gem 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-26", "2026-11-28"]
     y-axis "stars" 972 --> 977
-    line [975, 976, 975, 974, 973, 974, 973, 973]
+    line [975, 976, 975, 974, 973, 974, 973, 974]
 ```
 
-2026-10-25 975 → 2026-11-27 973（-2）
+2026-10-26 975 → 2026-11-28 974（-1）
 
 
 ---

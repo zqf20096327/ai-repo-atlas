@@ -1,6 +1,6 @@
 # willcoliveira/qualiow-exploratory-testing-skills
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/willcoliveira/qualiow-exploratory-testing-skills) · [官网](https://www.npmjs.com/package/qualiow-exploratory-testing) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/willcoliveira/qualiow-exploratory-testing-skills) · [官网](https://www.npmjs.com/package/qualiow-exploratory-testing) · 个人维护
 
 **给 QA 工程师的 Claude Code 探索性测试技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "willcoliveira/qualiow-exploratory-testing-skills 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-26", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-25 15 → 2026-11-27 16（+1）
+2026-10-26 15 → 2026-11-28 17（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # dot-do/ai
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 14 · TypeScript · 推送 2026-10-26 · [GitHub](https://github.com/dot-do/ai) · [官网](https://platform.do) · 组织维护
 
 **面向 Business-as-Code 的语义化 TypeScript SDK 与 AI 工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dot-do/ai 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-07"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-18", "2026-11-28"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-18 13 → 2026-11-07 13（+0）
+2026-10-18 13 → 2026-11-28 14（+1）
 
 
 ---

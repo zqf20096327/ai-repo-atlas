@@ -1,10 +1,10 @@
 # he-yufeng/RepoWiki
 
-⭐ 312 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/he-yufeng/RepoWiki) · [官网](https://pypi.org/project/repowiki/) · 个人维护 · 中文 README
+⭐ 312 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/he-yufeng/RepoWiki) · [官网](https://pypi.org/project/repowiki/) · 个人维护 · 中文 README
 
-**为任意代码库生成结构化 Wiki 文档的 CLI/Web 工具**
+**开发者用 LLM 从任意代码库生成 wiki 文档的 CLI/浏览器工具**
 
-面向开发者与代码阅读者的文档生成工具：扫描代码库，解析 6 种语言的 import 构建依赖图并以 PageRank 排序文件重要性，经 4 轮 LLM 结构化分析生成项目概览、模块文档、架构 Mermaid 图与阅读路径，输出 Markdown/JSON/HTML 三种格式。支持增量重扫与 SQLite 内容缓存以减少 API 调用。附带三栏 Web 查看器与终端多轮问答（repowiki chat），答案附文件级行号来源。模型接入依赖 litellm 的 100+ 提供商，需自备 API key。
+以 pip 安装的 CLI 工具，扫描本地或 URL 代码库后经 LLM 四阶段分析生成结构化 wiki：项目总览、模块文档、Mermaid 架构图、PageRank 阅读路径与符号索引。输出 Markdown/JSON/自包含 HTML，可经 docsify 直接发布到 GitHub Pages。依赖 Python 与 SQLite，无需 Docker 与数据库服务；带内容哈希 SQLite 缓存做增量重建，未变更模块跳过 LLM 调用；另有 `repowiki chat` 终端问答，每条回答附行级来源，检索用内置 TF-IDF 索引而非嵌入服务。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- PageRank 文件重要性排序与引导式阅读路径
-- 增量重扫 + 内容哈希 SQLite 缓存，未变更模块跳过 LLM 调用
-- 终端/网页多轮问答，回答附 file:start-end 行级来源
-- diff 排序：按重要性与影响面为代码审查排列文件顺序
+- CLI-first：`pip install repowiki` 即可，无需 Docker、数据库服务或浏览器
+- PageRank 文件重要性排序与 diff 审查顺序（`repowiki diff`）
+- SQLite 内容哈希缓存实现增量重建，未变更页面不触发 LLM 调用
+- 终端/网页问答答案附 `file:start-end` 行级来源；TF-IDF 索引无嵌入服务依赖
 
 ## 适用场景
 
-- 接手陌生代码库时快速生成导览文档确定阅读入口
-- 为团队仓库维护可提交到 GitHub Pages 的 Wiki 站点
-- 代码评审时按文件重要性排列 diff 的审查顺序
-- 在终端对代码库做带来源引用的问答
+- 为接手或 review 的代码库快速生成带阅读路径的 wiki
+- 按重要性排序查看一次 PR 改动该先读哪些文件
+- 在终端就代码库提问并获得带行号来源的回答
+- 把生成的 wiki 静态站点发布到 GitHub Pages 供团队阅读
 
 ## 场景标签
 
-`AI 写作` `文档问答` · 领域:内容生成
+`知识库管理` `AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L10: **Open-source DeepWiki alternative** — generate comprehensive wiki documentation for any codebase from your termina
 > L100: 3. **Analyze** — Send file tree + key files to LLM in 4 structured passes (overview, modules, architecture, readin
+> L53: - **Web viewer + terminal chat**: a three-column browser UI, or `repowiki chat .` for grounded Q&A in the terminal.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "he-yufeng/RepoWiki 星数(近 18 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 297 --> 313
     line [298, 300, 301, 300, 299, 300, 298, 301, 306, 305, 306, 307, 306, 307, 308, 310, 312, 312]
 ```
 
-2026-10-25 298 → 2026-11-27 312（+14）
+2026-10-26 298 → 2026-11-28 312（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `45d76bd6b9c3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `1cd60c82da82` · [字段定义](../../DATASET.md)*

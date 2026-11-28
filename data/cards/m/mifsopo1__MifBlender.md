@@ -1,6 +1,6 @@
 # mifsopo1/MifBlender
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/mifsopo1/MifBlender) · [官网](https://mifshowcase.store/mifblender) · 个人维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/mifsopo1/MifBlender) · [官网](https://mifshowcase.store/mifblender) · 个人维护
 
 **在运行中的 Blender 内工作的 AI 助手：437 个带类型检查的 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mifsopo1/MifBlender 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-27 3（+0）
+2026-11-18 3 → 2026-11-28 3（+0）
 
 
 ---

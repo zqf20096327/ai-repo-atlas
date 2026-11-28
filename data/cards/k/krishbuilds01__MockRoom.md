@@ -1,6 +1,6 @@
 # krishbuilds01/MockRoom
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/krishbuilds01/MockRoom) · [官网](https://beta-mockroom.vercel.app) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/krishbuilds01/MockRoom) · [官网](https://beta-mockroom.vercel.app) · 个人维护
 
 **面向 CS 学生与应届生的免费 AI 模拟面试网站**
 
@@ -45,13 +45,13 @@ MockRoom 是一个免费网页应用，用户打开即可练习技术面试，�
 
 ```mermaid
 xychart-beta
-    title "krishbuilds01/MockRoom 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 16 --> 53
-    line [19, 47, 50]
+    title "krishbuilds01/MockRoom 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 16 --> 54
+    line [19, 47, 50, 51]
 ```
 
-2026-11-25 19 → 2026-11-27 50（+31）
+2026-11-25 19 → 2026-11-28 51（+32）
 
 
 ---

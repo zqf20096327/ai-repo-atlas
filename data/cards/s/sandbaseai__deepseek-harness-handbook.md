@@ -1,6 +1,6 @@
 # sandbaseai/deepseek-harness-handbook
 
-⭐ 247 · HTML · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/sandbaseai/deepseek-harness-handbook) · [官网](https://sandbaseai.github.io/deepseek-harness-handbook/) · 组织维护 · 中文 README
+⭐ 248 · HTML · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/sandbaseai/deepseek-harness-handbook) · [官网](https://sandbaseai.github.io/deepseek-harness-handbook/) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的运维手册与资源索引（173 篇指南）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sandbaseai/deepseek-harness-handbook 星数(近 16 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-27"]
+    title "sandbaseai/deepseek-harness-handbook 星数(近 15 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-28"]
     y-axis "stars" 232 --> 249
-    line [235, 234, 233, 237, 239, 240, 242, 235, 245, 246, 247, 248, 247, 246, 247, 247]
+    line [234, 233, 237, 239, 240, 242, 235, 245, 246, 247, 248, 247, 246, 247, 248]
 ```
 
-2026-10-25 235 → 2026-11-27 247（+12）
+2026-10-26 234 → 2026-11-28 248（+14）
 
 
 ---

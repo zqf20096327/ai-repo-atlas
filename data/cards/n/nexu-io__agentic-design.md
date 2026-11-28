@@ -1,6 +1,6 @@
 # nexu-io/agentic-design
 
-⭐ 21 · MIT · 推送 2026-04-29 · [GitHub](https://github.com/nexu-io/agentic-design) · [官网](https://nexu.io) · 组织维护 · 中文 README
+⭐ 23 · MIT · 推送 2026-04-29 · [GitHub](https://github.com/nexu-io/agentic-design) · [官网](https://nexu.io) · 组织维护 · 中文 README
 
 **nexu 的 agentic 设计工作空间：人与 AI Agent 在群聊中共同产出设计**
 
@@ -44,13 +44,13 @@ Open Design 是 nexu 推出的 chat-native、agent-native 产品设计工作空�
 
 ```mermaid
 xychart-beta
-    title "nexu-io/agentic-design 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 16 --> 22
-    line [18, 17, 18, 17, 18, 19, 20, 21]
+    title "nexu-io/agentic-design 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 16 --> 24
+    line [18, 17, 18, 17, 18, 19, 20, 21, 23]
 ```
 
-2026-10-25 18 → 2026-11-27 21（+3）
+2026-10-26 18 → 2026-11-28 23（+5）
 
 
 ---

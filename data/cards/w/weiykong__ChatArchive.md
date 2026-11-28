@@ -1,6 +1,6 @@
 # weiykong/ChatArchive
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/weiykong/ChatArchive) · [官网](https://weiykong.github.io/ChatArchive/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/weiykong/ChatArchive) · [官网](https://weiykong.github.io/ChatArchive/) · 个人维护
 
 **浏览器扩展：把 13 家 AI 聊天记录导出为本地文件**
 
@@ -46,12 +46,12 @@ Chromium 扩展，从 ChatGPT、Gemini、Claude、DeepSeek、Perplexity 等 13 �
 ```mermaid
 xychart-beta
     title "weiykong/ChatArchive 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-27 10（+0）
+2026-11-08 10 → 2026-11-28 10（+0）
 
 
 ---

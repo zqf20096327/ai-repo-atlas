@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "aipuffer/aipowerorg.github.io 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "aipuffer/aipowerorg.github.io 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 27 --> 30
-    line [29, 28]
+    line [29, 28, 28]
 ```
 
-2026-10-25 29 → 2026-11-27 28（-1）
+2026-10-26 29 → 2026-11-28 28（-1）
 
 
 ---

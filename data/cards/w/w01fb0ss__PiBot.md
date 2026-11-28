@@ -1,6 +1,6 @@
 # w01fb0ss/PiBot
 
-⭐ 654 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/w01fb0ss/PiBot) · [官网](https://pibot.space) · 个人维护 · 中文 README
+⭐ 676 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/w01fb0ss/PiBot) · [官网](https://pibot.space) · 个人维护 · 中文 README
 
 **本地优先的桌面多 Bot 协作 Agent 团队应用**
 
@@ -46,13 +46,13 @@ Pi Bot 是一个 Electron 桌面应用，在本机运行一组具名 Bot：单�
 
 ```mermaid
 xychart-beta
-    title "w01fb0ss/PiBot 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 98 --> 704
-    line [148, 362, 506, 592, 654]
+    title "w01fb0ss/PiBot 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 96 --> 728
+    line [148, 362, 506, 592, 654, 676]
 ```
 
-2026-11-22 148 → 2026-11-27 654（+506）
+2026-11-22 148 → 2026-11-28 676（+528）
 
 
 ---

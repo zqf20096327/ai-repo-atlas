@@ -1,6 +1,6 @@
 # epergaboni/jevseo
 
-⭐ 13 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/epergaboni/jevseo) · [官网](https://jevseo.epergaboni.com/) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/epergaboni/jevseo) · [官网](https://jevseo.epergaboni.com/) · 个人维护
 
 **面向开发者的 SEO/AEO/GEO 页面评分工具：可审计的模型判定**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "epergaboni/jevseo 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-25 11 → 2026-11-27 13（+2）
+2026-10-26 11 → 2026-11-28 14（+3）
 
 
 ---

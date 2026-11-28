@@ -1,6 +1,6 @@
 # umairinayat/Specter-AI
 
-⭐ 20 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/umairinayat/Specter-AI) · [官网](https://umairinayat.github.io/Specter-AI/) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-09-29 · [GitHub](https://github.com/umairinayat/Specter-AI) · [官网](https://umairinayat.github.io/Specter-AI/) · 个人维护
 
 **屏幕/会议 AI 副驾：不可见于共享的悬浮助手**
 
@@ -46,12 +46,12 @@ Electron + React + TypeScript 桌面应用：在屏幕上叠加对屏幕共享�
 ```mermaid
 xychart-beta
     title "umairinayat/Specter-AI 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 19, 20, 20]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 19, 20, 22]
 ```
 
-2026-10-25 19 → 2026-11-27 20（+1）
+2026-10-26 19 → 2026-11-28 22（+3）
 
 
 ---

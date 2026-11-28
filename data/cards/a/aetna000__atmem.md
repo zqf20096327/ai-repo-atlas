@@ -1,6 +1,6 @@
 # aetna000/atmem
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aetna000/atmem) · [官网](https://atmem.ai) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/aetna000/atmem) · [官网](https://atmem.ai) · 个人维护
 
 **面向 AI agent 的本地优先可审计记忆控制平面**
 
@@ -44,13 +44,13 @@ AtMem 是给 agent 运行时（OpenClaw、Pydantic AI、LangChain/LangGraph）�
 
 ```mermaid
 xychart-beta
-    title "aetna000/atmem 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-27"]
+    title "aetna000/atmem 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-28"]
     y-axis "stars" 10 --> 16
-    line [11, 12, 13, 11, 13, 14, 15, 15]
+    line [12, 13, 11, 13, 14, 15, 15]
 ```
 
-2026-10-25 11 → 2026-11-27 15（+4）
+2026-10-26 12 → 2026-11-28 15（+3）
 
 
 ---

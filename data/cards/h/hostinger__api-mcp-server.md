@@ -1,6 +1,6 @@
 # hostinger/api-mcp-server
 
-⭐ 174 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hostinger/api-mcp-server) · [官网](https://developers.hostinger.com) · 组织维护
+⭐ 174 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/hostinger/api-mcp-server) · [官网](https://developers.hostinger.com) · 组织维护
 
 **将 Hostinger API 以 MCP 工具暴露给 AI 客户端的服务器**
 
@@ -46,12 +46,12 @@ Hostinger 官方的 Model Context Protocol 服务器，把 Hostinger API 的 419
 ```mermaid
 xychart-beta
     title "hostinger/api-mcp-server 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-26", "2026-11-28"]
     y-axis "stars" 163 --> 175
     line [164, 165, 167, 168, 164, 171, 172, 173, 174, 174]
 ```
 
-2026-10-25 164 → 2026-11-27 174（+10）
+2026-10-26 164 → 2026-11-28 174（+10）
 
 
 ---

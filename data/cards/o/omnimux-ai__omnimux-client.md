@@ -1,6 +1,6 @@
 # omnimux-ai/omnimux-client
 
-⭐ 138 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/omnimux-ai/omnimux-client) · [官网](https://omnimux.ai) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **本地 AI 电商视频工作台：产品库+素材中心+工作流画布+时间线**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

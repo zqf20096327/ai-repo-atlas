@@ -1,6 +1,6 @@
 # sugurutakahashi-1234/ai-chat-md-export
 
-⭐ 63 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sugurutakahashi-1234/ai-chat-md-export) · [官网](https://www.npmjs.com/package/ai-chat-md-export) · 个人维护 · 中文 README
+⭐ 63 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sugurutakahashi-1234/ai-chat-md-export) · [官网](https://www.npmjs.com/package/ai-chat-md-export) · 个人维护 · 中文 README
 
 **将 ChatGPT/Claude 聊天记录离线转为 Markdown 的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sugurutakahashi-1234/ai-chat-md-export 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "sugurutakahashi-1234/ai-chat-md-export 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 61 --> 64
-    line [62, 63]
+    line [62, 63, 63]
 ```
 
-2026-10-25 62 → 2026-11-27 63（+1）
+2026-10-26 62 → 2026-11-28 63（+1）
 
 
 ---

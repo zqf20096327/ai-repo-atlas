@@ -1,6 +1,6 @@
 # riptideslabs/tokenex
 
-⭐ 89 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/riptideslabs/tokenex) · [官网](https://riptideslabs.github.io/tokenex/) · 组织维护
+⭐ 89 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/riptideslabs/tokenex) · [官网](https://riptideslabs.github.io/tokenex/) · 组织维护
 
 **Go 库：用工作负载身份令牌换取短期云凭证**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "riptideslabs/tokenex 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 88 --> 90
     line [89, 89]
 ```
 
-2026-11-08 89 → 2026-11-27 89（+0）
+2026-11-08 89 → 2026-11-28 89（+0）
 
 
 ---

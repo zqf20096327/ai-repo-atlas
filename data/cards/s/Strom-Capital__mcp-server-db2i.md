@@ -1,6 +1,6 @@
 # Strom-Capital/mcp-server-db2i
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Strom-Capital/mcp-server-db2i) · [官网](https://db2i-mcp.com/) · 组织维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Strom-Capital/mcp-server-db2i) · [官网](https://db2i-mcp.com/) · 组织维护
 
 **让 Claude/Cursor 等查询 IBM Db2 for i 的只读 MCP 服务器**
 
@@ -45,12 +45,12 @@ Model Context Protocol 服务器，使 Claude Desktop、Claude Code、Cursor 等
 ```mermaid
 xychart-beta
     title "Strom-Capital/mcp-server-db2i 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 26 --> 31
-    line [27, 28, 29, 30, 30]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 26 --> 32
+    line [27, 28, 29, 30, 31]
 ```
 
-2026-10-25 27 → 2026-11-27 30（+3）
+2026-10-26 27 → 2026-11-28 31（+4）
 
 
 ---

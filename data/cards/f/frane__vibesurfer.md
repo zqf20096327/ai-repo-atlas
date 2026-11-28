@@ -1,6 +1,6 @@
 # frane/vibesurfer
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/frane/vibesurfer) · [官网](https://crates.io/crates/vibesurfer) · 个人维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/frane/vibesurfer) · [官网](https://crates.io/crates/vibesurfer) · 个人维护
 
 **给 LLM/agent 用的 Rust 浏览器守护进程，省 token 地读写网页**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "frane/vibesurfer 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-25 16 → 2026-11-27 17（+1）
+2026-10-26 16 → 2026-11-28 18（+2）
 
 
 ---

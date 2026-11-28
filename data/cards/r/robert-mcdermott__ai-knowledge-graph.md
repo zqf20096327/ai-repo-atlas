@@ -1,6 +1,6 @@
 # robert-mcdermott/ai-knowledge-graph
 
-⭐ 3,143 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/robert-mcdermott/ai-knowledge-graph) · [官网](https://robert-mcdermott.medium.com/from-unstructured-text-to-interactive-knowledge-graphs-using-llms-dd02a1f71cd6) · 个人维护
+⭐ 3,144 · Python · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/robert-mcdermott/ai-knowledge-graph) · [官网](https://robert-mcdermott.medium.com/from-unstructured-text-to-interactive-knowledge-graphs-using-llms-dd02a1f71cd6) · 个人维护
 
 **用任意 LLM 从非结构化文本生成知识图谱并交互探索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "robert-mcdermott/ai-knowledge-graph 星数(近 17 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 3128 --> 3144
-    line [3129, 3130, 3132, 3134, 3135, 3134, 3129, 3135, 3137, 3138, 3137, 3138, 3139, 3141, 3142, 3143, 3143]
+    title "robert-mcdermott/ai-knowledge-graph 星数(近 16 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 3128 --> 3145
+    line [3130, 3132, 3134, 3135, 3134, 3129, 3135, 3137, 3138, 3137, 3138, 3139, 3141, 3142, 3143, 3144]
 ```
 
-2026-10-25 3,129 → 2026-11-27 3,143（+14）
+2026-10-26 3,130 → 2026-11-28 3,144（+14）
 
 
 ---

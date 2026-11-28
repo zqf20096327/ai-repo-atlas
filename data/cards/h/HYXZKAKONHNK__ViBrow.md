@@ -1,6 +1,6 @@
 # HYXZKAKONHNK/ViBrow
 
-⭐ 7 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/HYXZKAKONHNK/ViBrow) · 个人维护
+⭐ 7 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/HYXZKAKONHNK/ViBrow) · 个人维护
 
 **纯 Python+Zig 自研引擎的低资源设备浏览器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HYXZKAKONHNK/ViBrow 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-15", "2026-11-28"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 7]
 ```
 
-2026-11-01 5 → 2026-11-27 7（+2）
+2026-11-01 5 → 2026-11-28 7（+2）
 
 
 ---

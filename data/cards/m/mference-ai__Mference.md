@@ -1,6 +1,6 @@
 # mference-ai/Mference
 
-⭐ 3 · Swift · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/mference-ai/Mference) · [官网](https://github.com/mference-ai/Mference/blob/main/MTP_WEIGHT_SURGERY_AND_ARCHITECTURE.md) · 组织维护
+⭐ 4 · Swift · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/mference-ai/Mference) · [官网](https://github.com/mference-ai/Mference/blob/main/MTP_WEIGHT_SURGERY_AND_ARCHITECTURE.md) · 组织维护
 
 **Apple Silicon 上运行 Qwen 3.6 35B 的 Swift+Metal 本地推理运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mference-ai/Mference 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

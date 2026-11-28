@@ -1,6 +1,6 @@
 # conorbronsdon/agent-context-os
 
-⭐ 35 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/conorbronsdon/agent-context-os) · [官网](https://chainofthought.show/go/agent-context-os) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/conorbronsdon/agent-context-os) · [官网](https://chainofthought.show/go/agent-context-os) · 个人维护
 
 **Git 托管的跨 agent 项目上下文与工作流共享层**
 
@@ -46,12 +46,12 @@ Context OS 将项目上下文（身份、决策、工作状态、交接记录）
 ```mermaid
 xychart-beta
     title "conorbronsdon/agent-context-os 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 29 --> 36
-    line [30, 31, 32, 33, 34, 35, 35]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 29 --> 37
+    line [30, 31, 32, 33, 34, 35, 36]
 ```
 
-2026-10-25 30 → 2026-11-27 35（+5）
+2026-10-26 30 → 2026-11-28 36（+6）
 
 
 ---

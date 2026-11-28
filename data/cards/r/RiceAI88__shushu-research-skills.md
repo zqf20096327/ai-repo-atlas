@@ -1,6 +1,6 @@
 # RiceAI88/shushu-research-skills
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/RiceAI88/shushu-research-skills) · [官网](https://riceai985.cc/) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/RiceAI88/shushu-research-skills) · [官网](https://riceai985.cc/) · 个人维护 · 中文 README
 
 **面向大学生的科研 Agent Skills 按专业与任务导航站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RiceAI88/shushu-research-skills 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-27 3（+0）
+2026-11-20 3 → 2026-11-28 3（+0）
 
 
 ---

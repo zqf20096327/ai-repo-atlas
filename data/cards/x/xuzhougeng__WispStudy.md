@@ -1,6 +1,6 @@
 # xuzhougeng/WispStudy
 
-⭐ 35 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xuzhougeng/WispStudy) · [官网](https://xuzhougeng.github.io/WispStudy/) · 个人维护 · 中文 README
+⭐ 37 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/xuzhougeng/WispStudy) · [官网](https://xuzhougeng.github.io/WispStudy/) · 个人维护 · 中文 README
 
 **本地优先的文献管理与阅读工具，支持向文献库提问**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xuzhougeng/WispStudy 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 31 --> 36
-    line [32, 35]
+    title "xuzhougeng/WispStudy 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 31 --> 38
+    line [32, 35, 37]
 ```
 
-2026-11-26 32 → 2026-11-27 35（+3）
+2026-11-26 32 → 2026-11-28 37（+5）
 
 
 ---

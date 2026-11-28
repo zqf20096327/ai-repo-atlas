@@ -46,13 +46,13 @@ Windows 桌面 IDE，面向 PLC 工程师。通过官方 Openness API 连接西�
 
 ```mermaid
 xychart-beta
-    title "StaniB88/AnyAutomationStudio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "StaniB88/AnyAutomationStudio 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-25 14 → 2026-11-27 15（+1）
+2026-10-26 14 → 2026-11-28 15（+1）
 
 
 ---

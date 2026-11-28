@@ -1,6 +1,6 @@
 # TPECKA180/living-planet
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/TPECKA180/living-planet) · [官网](https://living-planet-global-observatory.branchingdragonfly2.chatgpt.site/) · 个人维护
+⭐ 8 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/TPECKA180/living-planet) · [官网](https://living-planet-global-observatory.branchingdragonfly2.chatgpt.site/) · 个人维护
 
 **本地大模型驱动的国家模拟策略游戏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TPECKA180/living-planet 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 8]
 ```
 
-2026-11-23 4 → 2026-11-27 5（+1）
+2026-11-23 4 → 2026-11-28 8（+4）
 
 
 ---

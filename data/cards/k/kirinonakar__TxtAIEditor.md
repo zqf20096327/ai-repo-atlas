@@ -1,6 +1,6 @@
 # kirinonakar/TxtAIEditor
 
-⭐ 16 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kirinonakar/TxtAIEditor) · 个人维护
+⭐ 16 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/kirinonakar/TxtAIEditor) · 个人维护
 
 **带 AI 助手与 Agent 的 Windows 桌面文本编辑器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kirinonakar/TxtAIEditor 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 16（+0）
 
 
 ---

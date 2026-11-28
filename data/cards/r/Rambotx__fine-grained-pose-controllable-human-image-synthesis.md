@@ -41,6 +41,18 @@
 > L22: 3. **回传 + 生成** —— 点「导出并回传」，骨架通过 `POST /api/pose` 直接交给后端，再点「开始生成」，ControlNet（`lllyasviel/control_v11p_sd15_openpose`
 > L179: 一页完成「上传原图 → 提取骨架 → 编辑器微调 → 导出并回传 → 生成」，编辑结果自动回传，适合演示。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Rambotx/fine-grained-pose-controllable-human-image-synthesis 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2ce1bc7f8015` · [字段定义](../../DATASET.md)*

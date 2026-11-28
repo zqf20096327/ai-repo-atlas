@@ -40,6 +40,18 @@ Chrome 扩展，通过各平台网页版自身的内部接口读取会话，将�
 > L9: A Chrome extension that saves your conversations from **claude.ai**, **gemini.google.com**, **grok.com**, **chatgpt.
 > L34: - Everything stays on your computer. The extension has no server, no analytics and no telemetry.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nikolaylosev/ai-chat-exporter 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `3e6486a9327b` · [字段定义](../../DATASET.md)*

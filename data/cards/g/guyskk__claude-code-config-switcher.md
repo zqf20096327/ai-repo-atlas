@@ -45,12 +45,12 @@ ccc 是一个 CLI 工具，用于在 Kimi、GLM、MiniMax 等多个 Claude Code 
 ```mermaid
 xychart-beta
     title "guyskk/claude-code-config-switcher 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-25 88 → 2026-11-27 88（+0）
+2026-10-26 88 → 2026-11-28 88（+0）
 
 
 ---

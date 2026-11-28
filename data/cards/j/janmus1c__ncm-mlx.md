@@ -1,6 +1,6 @@
 # janmus1c/ncm-mlx
 
-⭐ 12 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/janmus1c/ncm-mlx) · [官网](https://janmus1c.github.io/ncm-mlx/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/janmus1c/ncm-mlx) · [官网](https://janmus1c.github.io/ncm-mlx/) · 个人维护
 
 **在 Apple Silicon GPU 上运行与训练 NCM 非自回归文本生成模型**
 
@@ -46,12 +46,12 @@ HazyResearch Next-Concept Modeling 方法的独立 MLX 实现：以整层并行�
 ```mermaid
 xychart-beta
     title "janmus1c/ncm-mlx 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 13
-    line [5, 6, 8, 9, 10, 11, 12, 12]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 4 --> 14
+    line [5, 6, 8, 9, 10, 11, 12, 13]
 ```
 
-2026-11-10 5 → 2026-11-27 12（+7）
+2026-11-10 5 → 2026-11-28 13（+8）
 
 
 ---

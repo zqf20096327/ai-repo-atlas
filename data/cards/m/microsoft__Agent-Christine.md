@@ -45,12 +45,12 @@ Agent Christine 是一个用 Copilot Studio 构建的虚拟代理，目标用户
 ```mermaid
 xychart-beta
     title "microsoft/Agent-Christine 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-24 11 → 2026-11-27 11（+0）
+2026-10-25 11 → 2026-11-28 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # domelic/architecture-of-thought
 
-⭐ 21 · TeX · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/domelic/architecture-of-thought) · [官网](https://doi.org/10.5281/zenodo.18275169) · 个人维护
+⭐ 21 · TeX · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/domelic/architecture-of-thought) · [官网](https://doi.org/10.5281/zenodo.18275169) · 个人维护
 
 **人机协作方法论著作与 Claude Code 技能包（DCF 框架）**
 
@@ -46,12 +46,12 @@ The Dialectical Cognition Framework（DCF）是一套以苏格拉底式对话取
 ```mermaid
 xychart-beta
     title "domelic/architecture-of-thought 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-25 20 → 2026-11-27 21（+1）
+2026-10-26 20 → 2026-11-28 21（+1）
 
 
 ---

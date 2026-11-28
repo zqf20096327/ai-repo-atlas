@@ -1,6 +1,6 @@
 # schwabauerbriantomas-gif/m2m-vector-search
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/schwabauerbriantomas-gif/m2m-vector-search) · 个人维护
+⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/schwabauerbriantomas-gif/m2m-vector-search) · 个人维护
 
 **带 GPU 加速与在线学习的向量搜索引擎（Python 库）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "schwabauerbriantomas-gif/m2m-vector-search 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-25 23 → 2026-11-27 24（+1）
+2026-10-26 23 → 2026-11-28 24（+1）
 
 
 ---

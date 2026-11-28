@@ -1,6 +1,6 @@
 # urakozz/intel-arc-inference-server
 
-⭐ 23 · C++ · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/urakozz/intel-arc-inference-server) · 个人维护
+⭐ 24 · C++ · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/urakozz/intel-arc-inference-server) · 个人维护
 
 **面向 Intel Arc Pro B70 显卡的本地 LLM 推理服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "urakozz/intel-arc-inference-server 星数(近 7 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 10 --> 24
-    line [11, 12, 13, 15, 19, 22, 23]
+    title "urakozz/intel-arc-inference-server 星数(近 8 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 25
+    line [11, 12, 13, 15, 19, 22, 23, 24]
 ```
 
-2026-11-19 11 → 2026-11-27 23（+12）
+2026-11-19 11 → 2026-11-28 24（+13）
 
 
 ---

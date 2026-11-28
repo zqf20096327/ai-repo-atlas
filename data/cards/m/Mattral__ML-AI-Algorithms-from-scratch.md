@@ -1,6 +1,6 @@
 # Mattral/ML-AI-Algorithms-from-scratch
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Mattral/ML-AI-Algorithms-from-scratch) · [官网](https://pypi.org/project/scratchkit/) · 个人维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Mattral/ML-AI-Algorithms-from-scratch) · [官网](https://pypi.org/project/scratchkit/) · 个人维护
 
 **60+ 机器学习/深度学习/强化学习/贝叶斯算法的 NumPy 从零实现库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mattral/ML-AI-Algorithms-from-scratch 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
     y-axis "stars" 39 --> 43
-    line [40, 42, 42]
+    line [40, 42, 40]
 ```
 
-2026-10-25 40 → 2026-11-27 42（+2）
+2026-10-26 40 → 2026-11-28 40（+0）
 
 
 ---

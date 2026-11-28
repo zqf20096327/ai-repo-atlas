@@ -1,6 +1,6 @@
 # wosledon/Hetu
 
-⭐ 13 · C# · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/wosledon/Hetu) · [官网](https://wosledon.github.io/Hetu/) · 个人维护 · 中文 README
+⭐ 13 · C# · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/wosledon/Hetu) · [官网](https://wosledon.github.io/Hetu/) · 个人维护 · 中文 README
 
 **本地优先的 AI 知识与 Agent 工作台桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "wosledon/Hetu 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
+    title "wosledon/Hetu 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-27", "2026-11-28"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 13]
+    line [11, 12, 13, 13]
 ```
 
-2026-10-25 11 → 2026-11-27 13（+2）
+2026-10-26 11 → 2026-11-28 13（+2）
 
 
 ---

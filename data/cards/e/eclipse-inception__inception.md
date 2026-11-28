@@ -1,6 +1,6 @@
 # eclipse-inception/inception
 
-⭐ 733 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/eclipse-inception/inception) · [官网](https://eclipse-inception.github.io) · 组织维护
+⭐ 734 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/eclipse-inception/inception) · [官网](https://eclipse-inception.github.io) · 组织维护
 
 **语义文本标注平台：知识库实体链接+机器辅助建议**
 
@@ -47,12 +47,12 @@ INCEpTION 是一个语义标注平台，用于按自定义标注体系构建多�
 ```mermaid
 xychart-beta
     title "eclipse-inception/inception 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-28"]
     y-axis "stars" 727 --> 735
-    line [728, 729, 730, 731, 732, 734, 733, 733]
+    line [728, 729, 730, 731, 732, 734, 733, 734]
 ```
 
-2026-10-30 728 → 2026-11-27 733（+5）
+2026-10-30 728 → 2026-11-28 734（+6）
 
 
 ---

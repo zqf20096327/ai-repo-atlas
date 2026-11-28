@@ -1,6 +1,6 @@
 # matebenyovszky/agentplaybooks
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/matebenyovszky/agentplaybooks) · [官网](https://agentplaybooks.ai/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/matebenyovszky/agentplaybooks) · [官网](https://agentplaybooks.ai/) · 个人维护
 
 **AI agent 配置的可移植 playbook：一处存储，多平台同步**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "matebenyovszky/agentplaybooks 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-28 10 → 2026-11-27 11（+1）
+2026-10-28 10 → 2026-11-28 11（+1）
 
 
 ---

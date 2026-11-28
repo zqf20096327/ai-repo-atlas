@@ -1,6 +1,6 @@
 # openslop/openslop
 
-⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/openslop/openslop) · [官网](https://openslop.ai) · 组织维护 · 中文 README
+⭐ 40 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/openslop/openslop) · [官网](https://openslop.ai) · 组织维护 · 中文 README
 
 **对话式 AI 视频制作工作室：从提示到成片一条工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openslop/openslop 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-11-26 39 → 2026-11-27 39（+0）
+2026-11-26 39 → 2026-11-28 40（+1）
 
 
 ---

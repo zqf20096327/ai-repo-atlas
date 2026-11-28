@@ -1,6 +1,6 @@
 # dkackman/diffusers-workflow
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dkackman/diffusers-workflow) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dkackman/diffusers-workflow) · 个人维护
 
 **把 GPU 上的 Diffusers 封装成 agent 可驱动的任务引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dkackman/diffusers-workflow 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-28"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-25 18 → 2026-11-27 19（+1）
+2026-10-26 18 → 2026-11-28 19（+1）
 
 
 ---

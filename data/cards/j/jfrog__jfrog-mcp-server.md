@@ -46,12 +46,12 @@ JFrog 官方的 Model Context Protocol 服务器，将 JFrog 平台能力接入 
 ```mermaid
 xychart-beta
     title "jfrog/jfrog-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

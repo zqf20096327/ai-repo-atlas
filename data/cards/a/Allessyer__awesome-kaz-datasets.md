@@ -1,6 +1,6 @@
 # Allessyer/awesome-kaz-datasets
 
-⭐ 70 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Allessyer/awesome-kaz-datasets) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Allessyer/awesome-kaz-datasets) · 组织维护
 
 **哈萨克语公开数据集策展清单：NLP/语音/视觉数据可核验索引**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Allessyer/awesome-kaz-datasets 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-28"]
     y-axis "stars" 64 --> 71
     line [65, 66, 67, 65, 67, 68, 69, 70, 70]
 ```
 
-2026-10-25 65 → 2026-11-27 70（+5）
+2026-10-26 65 → 2026-11-28 70（+5）
 
 
 ---

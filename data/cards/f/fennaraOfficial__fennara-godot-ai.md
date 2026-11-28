@@ -1,6 +1,6 @@
 # fennaraOfficial/fennara-godot-ai
 
-⭐ 321 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/fennaraOfficial/fennara-godot-ai) · [官网](https://www.fennara.io) · 组织维护
+⭐ 321 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/fennaraOfficial/fennara-godot-ai) · [官网](https://www.fennara.io) · 组织维护
 
 **给 Godot 开发者的 AI 工具桥：让 AI 助手实时连接 Godot 编辑器**
 
@@ -44,13 +44,13 @@ Godot 编辑器插件加配套 CLI/本地 MCP 服务器与守护进程：通过 
 
 ```mermaid
 xychart-beta
-    title "fennaraOfficial/fennara-godot-ai 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-27"]
+    title "fennaraOfficial/fennara-godot-ai 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-28"]
     y-axis "stars" 311 --> 322
-    line [312, 313, 314, 315, 312, 318, 319, 320, 321, 320, 321, 321]
+    line [313, 314, 315, 312, 318, 319, 320, 321, 320, 321, 321]
 ```
 
-2026-10-25 312 → 2026-11-27 321（+9）
+2026-10-26 313 → 2026-11-28 321（+8）
 
 
 ---

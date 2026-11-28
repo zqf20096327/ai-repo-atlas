@@ -1,6 +1,6 @@
 # Free-AI-Things/g4f-working
 
-⭐ 153 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Free-AI-Things/g4f-working) · 个人维护
+⭐ 154 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Free-AI-Things/g4f-working) · 个人维护
 
 **GPT4Free 免鉴权可用模型与提供商的每日测试清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Free-AI-Things/g4f-working 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 143 --> 154
-    line [144, 145, 146, 147, 151, 152, 144, 153, 153]
+    title "Free-AI-Things/g4f-working 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 143 --> 155
+    line [145, 146, 147, 151, 152, 144, 153, 154]
 ```
 
-2026-10-25 144 → 2026-11-27 153（+9）
+2026-10-26 145 → 2026-11-28 154（+9）
 
 
 ---

@@ -45,13 +45,13 @@ MiniMax 官方维护的专用 Model Context Protocol (MCP) 服务器，面向 co
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-Coding-Plan-MCP 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-21", "2026-11-26", "2026-11-27"]
+    title "MiniMax-AI/MiniMax-Coding-Plan-MCP 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-21", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 100 --> 103
-    line [101, 102, 101, 102]
+    line [101, 102, 101, 102, 102]
 ```
 
-2026-10-25 101 → 2026-11-27 102（+1）
+2026-10-26 101 → 2026-11-28 102（+1）
 
 
 ---

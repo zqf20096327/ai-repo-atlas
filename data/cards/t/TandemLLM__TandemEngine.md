@@ -1,6 +1,6 @@
 # TandemLLM/TandemEngine
 
-⭐ 86 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/TandemLLM/TandemEngine) · [官网](https://tandemengine.0xbakeer.com) · 个人维护
+⭐ 87 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/TandemLLM/TandemEngine) · [官网](https://tandemengine.0xbakeer.com) · 个人维护
 
 **在 NVIDIA DGX Spark 上本地运行大模型的推理引擎**
 
@@ -44,13 +44,13 @@ TandemEngine 是面向单台 NVIDIA DGX Spark 的推理引擎，以 OpenAI 兼�
 
 ```mermaid
 xychart-beta
-    title "TandemLLM/TandemEngine 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 81 --> 87
-    line [82, 84, 85, 86]
+    title "TandemLLM/TandemEngine 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 81 --> 88
+    line [82, 84, 85, 86, 87]
 ```
 
-2026-11-19 82 → 2026-11-27 86（+4）
+2026-11-19 82 → 2026-11-28 87（+5）
 
 
 ---

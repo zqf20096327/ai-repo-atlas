@@ -1,6 +1,6 @@
 # sony/san
 
-⭐ 98 · Python · 推送 2025-12-01 · [GitHub](https://github.com/sony/san) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **ICLR 2024 论文 SAN 的官方 PyTorch 实现（GAN 训练方法）**
 

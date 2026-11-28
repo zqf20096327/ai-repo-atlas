@@ -1,6 +1,6 @@
 # hugimuni-labs/brnrd
 
-⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hugimuni-labs/brnrd) · [官网](https://brnrd.dev) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/hugimuni-labs/brnrd) · [官网](https://brnrd.dev) · 组织维护
 
 **让 CLI 编码 agent 常驻本机并从聊天工具远程驱动的守护进程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hugimuni-labs/brnrd 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-11", "2026-11-28"]
     y-axis "stars" 11 --> 15
     line [13, 12, 13, 14, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 14（+1）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # iammrduncan/tensorless
 
-⭐ 7 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/iammrduncan/tensorless) · [官网](https://tensorless.dev) · 个人维护
+⭐ 7 · C++ · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/iammrduncan/tensorless) · [官网](https://tensorless.dev) · 个人维护
 
 **面向 Tesla P100 显卡的一命令量化 LLM 推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iammrduncan/tensorless 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    title "iammrduncan/tensorless 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 8
-    line [3, 4, 5, 6, 7]
+    line [3, 4, 5, 6, 7, 7]
 ```
 
-2026-11-22 3 → 2026-11-27 7（+4）
+2026-11-22 3 → 2026-11-28 7（+4）
 
 
 ---

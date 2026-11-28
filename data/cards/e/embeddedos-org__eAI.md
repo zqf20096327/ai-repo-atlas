@@ -1,6 +1,6 @@
 # embeddedos-org/eAI
 
-⭐ 10 · C · MIT · 推送 2026-11-26 · [GitHub](https://github.com/embeddedos-org/eAI) · 组织维护
+⭐ 10 · C · MIT · 推送 2026-11-27 · [GitHub](https://github.com/embeddedos-org/eAI) · 组织维护
 
 **嵌入式设备的端侧 AI 运行时层，供 IoT/工业系统集成**
 
@@ -45,12 +45,12 @@ eAI 是 EmbeddedOS 生态的端侧 AI 层，C 语言编写，提供模型加载�
 ```mermaid
 xychart-beta
     title "embeddedos-org/eAI 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-19", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-27 10（+0）
+2026-11-19 10 → 2026-11-28 10（+0）
 
 
 ---

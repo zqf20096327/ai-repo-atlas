@@ -1,6 +1,6 @@
 # Students-of-Local/hildegard
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Students-of-Local/hildegard) · [官网](https://dbaney.com/hildegard/) · 组织维护
+⭐ 4 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Students-of-Local/hildegard) · [官网](https://dbaney.com/hildegard/) · 组织维护
 
 **自有 GPU 上的本地 AI 创作工作室：视频、语音、角色、3D**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Students-of-Local/hildegard 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

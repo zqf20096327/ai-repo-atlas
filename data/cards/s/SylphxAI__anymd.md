@@ -1,10 +1,10 @@
 # SylphxAI/anymd
 
-⭐ 1,080 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SylphxAI/anymd) · [官网](https://anymd.sylphx.com) · 组织维护
+⭐ 1,082 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/SylphxAI/anymd) · [官网](https://anymd.sylphx.com) · 组织维护
 
-**给 AI agent 的本地文档转 Markdown 工具：Rust MCP 服务器与 CLI**
+**给 AI agent 的文档转 Markdown 工具：本地运行的 Rust MCP 服务器和 CLI**
 
-基于 Rust 的文档转 Markdown 工具，以 MCP 服务器和 CLI 两种形态运行在本地，无需 API key。支持 PDF、Word、PowerPoint、Excel、EPUB、HTML/网页、图片（OCR）、音视频（元数据、字幕、转录）。提供 outline/read/search/inspect 四个 MCP 工具，read 支持分页、token 预算与引用锚点，search 在无精确匹配时回退 BM25 排序。OCR 使用本地 doc-VLM 模型或 tesseract，转录使用 ffmpeg 与内置 Qwen3-ASR，均需显式 opt-in。提供 npm、PyPI、Homebrew、crates.io、Docker 安装途径。
+以 Rust 实现的 MCP 服务器与 CLI，将 PDF、Word、PowerPoint、Excel、EPUB、HTML/网页、图片、音视频转为 Markdown，供 agent 通过 outline/read/search/inspect 四个工具读取；含版面重建、引用锚点、token 预算与分页，OCR 走本地 doc-VLM 或 tesseract，转录用 ffmpeg 与捆绑的 Qwen3-ASR，全部本地处理无需 API key。面向需要让 agent 读取本地文档的开发者；付费 Pro 版提供 PDF 引文核验与视频帧引用。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 四种格式类别统一转 Markdown：文档/网页/图片 OCR/音视频字幕与转录
-- MCP 服务器一条命令接入 Claude Code、Codex、Cursor、VS Code 等客户端
-- 本地运行不上传数据，OCR 与 ASR 模型需显式 opt-in 下载
-- read 工具带 token 预算、游标分页与引用锚点，search 回退 BM25 排序
+- 一个 read 工具覆盖所有格式，接受文件、URL 与目录
+- 版面引擎恢复阅读顺序与表格（含无边框表），输出带引用锚点
+- token 预算与 cursor 分页控制大文档上下文
+- 本地 OCR（doc-VLM/tesseract）与本地 ASR（Qwen3-ASR），不上传数据
 
 ## 适用场景
 
-- 把 PDF、Office 文档批量转成 Markdown 供 agent 读取
-- 在本地对文档目录做全文检索并返回带页码的命中
-- 为音视频文件提取字幕或生成本地转录
+- 让 Claude Code/Cursor 等 agent 直接读取本地 PDF 与 Office 文档
+- 把一批论文/报告批量转成 Markdown 供检索
+- 给网页文章提取正文并转为干净 Markdown
+- 本地离线转录音视频字幕
 
 ## 场景标签
 
@@ -37,8 +38,8 @@
 
 ## 证据(README 行号)
 
+> L1: anymd — any file → clean Markdown for AI agents
 > L5: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcri
-> L26: npx -y @sylphx/anymd setup                                    # add anymd to every MCP client on this machine
 > L191: ## MCP tools
 
 ## 星数曲线
@@ -46,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "SylphxAI/anymd 星数(近 15 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 1049 --> 1082
-    line [1051, 1052, 1054, 1057, 1058, 1059, 1051, 1066, 1069, 1070, 1071, 1074, 1077, 1078, 1080]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 1048 --> 1085
+    line [1052, 1054, 1057, 1058, 1059, 1051, 1066, 1069, 1070, 1071, 1074, 1077, 1078, 1080, 1082]
 ```
 
-2026-10-25 1,051 → 2026-11-27 1,080（+29）
+2026-10-26 1,052 → 2026-11-28 1,082（+30）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b56f7bd3d5e9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `37c11e725093` · [字段定义](../../DATASET.md)*

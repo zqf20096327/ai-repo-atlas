@@ -1,6 +1,6 @@
 # Mocas-12/gh-pain-intel
 
-⭐ 31 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Mocas-12/gh-pain-intel) · [官网](https://gh-pain-intel-8egvafff3urokytzxa63x2.streamlit.app/) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Mocas-12/gh-pain-intel) · [官网](https://gh-pain-intel-8egvafff3urokytzxa63x2.streamlit.app/) · 个人维护 · 中文 README
 
 **用 LLM 分析 GitHub issues 痛点并生成市场调研报告的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mocas-12/gh-pain-intel 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-25 30 → 2026-11-27 31（+1）
+2026-10-26 30 → 2026-11-28 31（+1）
 
 
 ---

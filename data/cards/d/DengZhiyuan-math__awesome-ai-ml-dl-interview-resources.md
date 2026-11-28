@@ -1,6 +1,6 @@
 # DengZhiyuan-math/awesome-ai-ml-dl-interview-resources
 
-⭐ 11 · MIT · 推送 2026-07-20 · [GitHub](https://github.com/DengZhiyuan-math/awesome-ai-ml-dl-interview-resources) · 个人维护 · 中文 README
+⭐ 12 · MIT · 推送 2026-07-20 · [GitHub](https://github.com/DengZhiyuan-math/awesome-ai-ml-dl-interview-resources) · 个人维护 · 中文 README
 
 **AI/ML/LLM 面试题库策展清单与学习路线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DengZhiyuan-math/awesome-ai-ml-dl-interview-resources 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-18 10 → 2026-11-27 11（+1）
+2026-11-18 10 → 2026-11-28 12（+2）
 
 
 ---

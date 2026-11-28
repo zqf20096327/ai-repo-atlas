@@ -1,6 +1,6 @@
 # dfinity/icskills
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dfinity/icskills) · [官网](https://skills.internetcomputer.org) · 组织维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dfinity/icskills) · [官网](https://skills.internetcomputer.org) · 组织维护
 
 **面向 AI agent 的 Internet Computer 开发技能文件集**
 
@@ -45,12 +45,12 @@ DFINITY 维护的 ICP 开发技能库：每个技能为一个含 YAML frontmatte
 ```mermaid
 xychart-beta
     title "dfinity/icskills 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-28"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-25 39 → 2026-11-27 40（+1）
+2026-10-26 39 → 2026-11-28 40（+1）
 
 
 ---

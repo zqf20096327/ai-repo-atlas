@@ -1,6 +1,6 @@
 # PunGrumpy/logixlysia
 
-⭐ 276 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PunGrumpy/logixlysia) · [官网](https://logixlysia.vercel.app) · 个人维护
+⭐ 276 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/PunGrumpy/logixlysia) · [官网](https://logixlysia.vercel.app) · 个人维护
 
 **ElysiaJS 框架的请求日志插件：记录、过滤与结构化请求日志**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PunGrumpy/logixlysia 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 272 --> 277
     line [273, 274, 273, 275, 276, 276]
 ```
 
-2026-10-25 273 → 2026-11-27 276（+3）
+2026-10-26 273 → 2026-11-28 276（+3）
 
 
 ---

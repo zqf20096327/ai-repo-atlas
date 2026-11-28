@@ -1,6 +1,6 @@
 # apex-engine-dev/apex-verify
 
-⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/apex-engine-dev/apex-verify) · [官网](https://dev.to/amit_spitzer/the-tests-passed-on-all-107-wrong-ai-changes-here-is-what-caught-86-of-them-145c) · 个人维护
+⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/apex-engine-dev/apex-verify) · [官网](https://dev.to/amit_spitzer/are-ai-written-tests-really-tests-what-the-research-says-and-what-happened-when-we-tested-it-4ph5) · 个人维护
 
 **用另一个 AI 为 AI 代码改动补写缺失检查并给出 ready/not ready 判定的 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "apex-engine-dev/apex-verify 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "apex-engine-dev/apex-verify 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

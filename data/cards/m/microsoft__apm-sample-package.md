@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/apm-sample-package 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-18", "2026-11-27"]
+    title "microsoft/apm-sample-package 星数(近 4 点)"
+    x-axis ["2026-10-25", "2026-11-18", "2026-11-27", "2026-11-28"]
     y-axis "stars" 17 --> 21
-    line [18, 19, 20]
+    line [18, 19, 20, 20]
 ```
 
-2026-10-24 18 → 2026-11-27 20（+2）
+2026-10-25 18 → 2026-11-28 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # frcooper/ollama-exporter
 
-⭐ 48 · Python · Unlicense · 推送 2026-11-02 · [GitHub](https://github.com/frcooper/ollama-exporter) · 个人维护
+⭐ 49 · Python · Unlicense · 推送 2026-11-02 · [GitHub](https://github.com/frcooper/ollama-exporter) · 个人维护
 
 **给 Ollama 的 Prometheus 指标采集器与透明转发代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "frcooper/ollama-exporter 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-21", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 47 --> 50
-    line [48, 49, 48, 48]
+    line [48, 49, 48, 49]
 ```
 
-2026-10-30 48 → 2026-11-27 48（+0）
+2026-10-30 48 → 2026-11-28 49（+1）
 
 
 ---

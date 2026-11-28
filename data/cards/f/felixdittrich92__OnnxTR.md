@@ -1,6 +1,6 @@
 # felixdittrich92/OnnxTR
 
-⭐ 203 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/felixdittrich92/OnnxTR) · [官网](https://github.com/mindee/doctr) · 个人维护
+⭐ 203 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/felixdittrich92/OnnxTR) · [官网](https://github.com/mindee/doctr) · 个人维护
 
 **基于 ONNX 的 OCR 推理库，从文档中定位并识别文字**
 
@@ -47,12 +47,12 @@ docTR 库的 ONNX 推理管线封装，不依赖 PyTorch 或 TensorFlow。从 PD
 ```mermaid
 xychart-beta
     title "felixdittrich92/OnnxTR 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-22", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-22", "2026-11-25", "2026-11-28"]
     y-axis "stars" 197 --> 204
     line [198, 201, 202, 203, 203]
 ```
 
-2026-10-25 198 → 2026-11-27 203（+5）
+2026-10-26 198 → 2026-11-28 203（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # itsdestin/youcoded
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/itsdestin/youcoded) · [官网](https://youcoded.ai) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/itsdestin/youcoded) · [官网](https://youcoded.ai) · 个人维护
 
 **开源模块化个人 AI 助手与“万物应用”，跨桌面与移动端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "itsdestin/youcoded 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-28"]
     y-axis "stars" 10 --> 16
     line [11, 13, 11, 13, 14, 15, 15]
 ```
 
-2026-10-25 11 → 2026-11-27 15（+4）
+2026-10-26 11 → 2026-11-28 15（+4）
 
 
 ---

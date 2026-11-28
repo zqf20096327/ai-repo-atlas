@@ -1,6 +1,6 @@
 # Tunnello/ChatBI
 
-⭐ 43 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Tunnello/ChatBI) · 组织维护 · 中文 README
+⭐ 44 · TypeScript · MIT · 推送 2026-05-01 · [GitHub](https://github.com/Tunnello/ChatBI) · 组织维护 · 中文 README
 
 **自然语言查询本地 SQLite 的对话式 BI Agent，自动生成 SQL 与图表**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tunnello/ChatBI 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 42, 43, 43]
+    title "Tunnello/ChatBI 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 41 --> 45
+    line [43, 42, 43, 44]
 ```
 
-2026-10-25 42 → 2026-11-27 43（+1）
+2026-10-26 43 → 2026-11-28 44（+1）
 
 
 ---

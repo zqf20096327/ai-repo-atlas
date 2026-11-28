@@ -1,6 +1,6 @@
 # Misfits-Rebels-Outcasts/MLXUI
 
-⭐ 24 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Misfits-Rebels-Outcasts/MLXUI) · [官网](https://connectcode.net/mlxui_local_llm_ai_browser.html) · 组织维护
+⭐ 24 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Misfits-Rebels-Outcasts/MLXUI) · [官网](https://connectcode.net/mlxui_local_llm_ai_browser.html) · 组织维护
 
 **Apple Silicon 上的 MLX 本地模型浏览与运行界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Misfits-Rebels-Outcasts/MLXUI 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-28"]
     y-axis "stars" 22 --> 40
     line [39, 27, 23, 24, 24]
 ```
 
-2026-10-25 39 → 2026-11-27 24（-15）
+2026-10-26 39 → 2026-11-28 24（-15）
 
 
 ---

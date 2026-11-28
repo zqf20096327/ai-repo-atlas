@@ -1,6 +1,6 @@
 # gaopengbin/cesium-mcp
 
-⭐ 154 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gaopengbin/cesium-mcp) · [官网](https://gaopengbin.github.io/cesium-mcp/) · 个人维护 · 中文 README
+⭐ 154 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/gaopengbin/cesium-mcp) · [官网](https://gaopengbin.github.io/cesium-mcp/) · 个人维护 · 中文 README
 
 **让 AI Agent 通过 MCP/函数调用控制 CesiumJS 三维地图的运行时**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gaopengbin/cesium-mcp 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-22", "2026-11-27"]
+    title "gaopengbin/cesium-mcp 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-22", "2026-11-27", "2026-11-28"]
     y-axis "stars" 144 --> 155
-    line [145, 146, 147, 148, 149, 145, 150, 151, 152, 153, 154]
+    line [145, 146, 147, 148, 149, 145, 150, 151, 152, 153, 154, 154]
 ```
 
-2026-10-25 145 → 2026-11-27 154（+9）
+2026-10-26 145 → 2026-11-28 154（+9）
 
 
 ---

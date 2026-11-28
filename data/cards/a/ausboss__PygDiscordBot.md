@@ -46,12 +46,12 @@ Python 编写的 Discord 机器人，连接 KoboldAI 或 Oobabooga 的 text-gene
 ```mermaid
 xychart-beta
     title "ausboss/PygDiscordBot 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 66 --> 69
     line [67, 68, 68]
 ```
 
-2026-10-25 67 → 2026-11-27 68（+1）
+2026-10-26 67 → 2026-11-28 68（+1）
 
 
 ---

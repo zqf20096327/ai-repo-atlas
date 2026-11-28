@@ -41,6 +41,18 @@
 > L22: Built with a 90s Ask Jeeves homage aesthetic (cream ground, thick hard-shadow borders, SVG butler portrait, one-cli
 > L42: If omitted, the `/api/jev` route gracefully falls back to the built-in local decision engine (`lib/mockJev.ts`) so 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kuhung/ask-jev 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-27 14 → 2026-11-28 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `68a5cd6d8857` · [字段定义](../../DATASET.md)*

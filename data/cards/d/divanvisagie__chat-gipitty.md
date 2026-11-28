@@ -45,12 +45,12 @@ Rust 编写的命令行工具 cgip，面向 OpenAI Chat Completions API 及任�
 ```mermaid
 xychart-beta
     title "divanvisagie/chat-gipitty 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 42 --> 45
     line [44, 43, 43]
 ```
 
-2026-10-25 44 → 2026-11-27 43（-1）
+2026-10-26 44 → 2026-11-28 43（-1）
 
 
 ---

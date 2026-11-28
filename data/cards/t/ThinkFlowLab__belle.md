@@ -1,6 +1,6 @@
 # ThinkFlowLab/belle
 
-⭐ 8 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ThinkFlowLab/belle) · [官网](https://thinkflowlab.ai/belle/) · 组织维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/ThinkFlowLab/belle) · [官网](https://thinkflowlab.ai/belle/) · 组织维护
 
 **团队聊天中的 AI 同事：回答团队知识、欢迎新人、按需发言**
 
@@ -46,12 +46,12 @@ Belle 部署在团队聊天平台（Slack、Discord、Mattermost、Matrix）与�
 ```mermaid
 xychart-beta
     title "ThinkFlowLab/belle 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-28"]
     y-axis "stars" 5 --> 9
     line [6, 7, 8, 8]
 ```
 
-2026-11-10 6 → 2026-11-27 8（+2）
+2026-11-10 6 → 2026-11-28 8（+2）
 
 
 ---

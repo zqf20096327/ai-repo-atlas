@@ -1,6 +1,6 @@
 # 222wcnm/BiliStalkerMCP
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/222wcnm/BiliStalkerMCP) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/222wcnm/BiliStalkerMCP) · 个人维护 · 中文 README
 
 **面向 AI agent 的 Bilibili 用户数据 MCP 服务器与 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "222wcnm/BiliStalkerMCP 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-15", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

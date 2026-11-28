@@ -1,6 +1,6 @@
 # irfanzahoor/frappe_core_skills
 
-⭐ 9 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/irfanzahoor/frappe_core_skills) · 个人维护
+⭐ 10 · MIT · 推送 2026-11-27 · [GitHub](https://github.com/irfanzahoor/frappe_core_skills) · 个人维护
 
 **为 Claude Code 提供 Frappe/ERPNext v14–v16 编码规范技能包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "irfanzahoor/frappe_core_skills 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 8 --> 10
-    line [9, 9]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 8 --> 11
+    line [9, 10]
 ```
 
-2026-11-26 9 → 2026-11-27 9（+0）
+2026-11-26 9 → 2026-11-28 10（+1）
 
 
 ---

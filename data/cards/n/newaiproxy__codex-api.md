@@ -1,6 +1,6 @@
 # newaiproxy/codex-api
 
-⭐ 71 · 推送 2026-02-05 · [GitHub](https://github.com/newaiproxy/codex-api) · [官网](https://api.whatai.cc) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Codex CLI 安装配置与第三方中转 API 接入的中文教程**
 

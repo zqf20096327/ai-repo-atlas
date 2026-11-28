@@ -41,6 +41,18 @@
 > L25: Using MediaPipe to track **21 landmarks per hand across both hands**, ZEHEN filters out hand jitter with a One Euro
 > L131: |**Supported Providers**|**Groq** (`openai/gpt-oss-120b`), **Gemini** (`gemini-flash-latest`), **OpenRouter** (`op
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "priyanshusta/ZEHEN 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-27 8 → 2026-11-28 8（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `205b404b8d89` · [字段定义](../../DATASET.md)*

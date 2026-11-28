@@ -1,6 +1,6 @@
 # yuxiaopeng/hacker-news-summarizer
 
-⭐ 32 · Python · 推送 2026-11-26 · [GitHub](https://github.com/yuxiaopeng/hacker-news-summarizer) · [官网](https://yuxiaopeng.com/hacker-news-summarizer/) · 个人维护 · 中文 README
+⭐ 33 · Python · 推送 2026-11-27 · [GitHub](https://github.com/yuxiaopeng/hacker-news-summarizer) · [官网](https://yuxiaopeng.com/hacker-news-summarizer/) · 个人维护 · 中文 README
 
 **Hacker News Top100 每日 AI 摘要中文翻译，自动更新**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "yuxiaopeng/hacker-news-summarizer 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 33]
 ```
 
-2026-10-25 30 → 2026-11-27 32（+2）
+2026-10-26 30 → 2026-11-28 33（+3）
 
 
 ---

@@ -45,13 +45,13 @@ ACL 2026 综述论文 'LLM-Based Human-Agent Collaboration and Interaction Syste
 
 ```mermaid
 xychart-beta
-    title "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    title "HenryPengZou/Awesome-Human-Agent-Collaboration-Interaction-Systems 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 239 --> 245
-    line [240, 241, 242, 240, 242, 243, 244]
+    line [240, 241, 242, 240, 242, 243, 244, 244]
 ```
 
-2026-10-25 240 → 2026-11-27 244（+4）
+2026-10-26 240 → 2026-11-28 244（+4）
 
 
 ---

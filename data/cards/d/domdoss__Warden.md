@@ -1,6 +1,6 @@
 # domdoss/Warden
 
-⭐ 171 · JavaScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/domdoss/Warden) · [官网](https://aionsystems.ca) · 个人维护
+⭐ 171 · JavaScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/domdoss/Warden) · [官网](https://aionsystems.ca) · 个人维护
 
 **桌面个人 AI 助理：本地 Ollama 与云模型混合驱动、可操作电脑的 Agent**
 
@@ -45,12 +45,12 @@ Warden 是驻留桌面的个人 AI 助理，通过 Ollama 运行本地模型处�
 ```mermaid
 xychart-beta
     title "domdoss/Warden 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-28"]
     y-axis "stars" 170 --> 173
     line [172, 171, 171]
 ```
 
-2026-10-25 172 → 2026-11-27 171（-1）
+2026-10-26 172 → 2026-11-28 171（-1）
 
 
 ---

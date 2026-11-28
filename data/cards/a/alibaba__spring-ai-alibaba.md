@@ -1,10 +1,10 @@
 # alibaba/spring-ai-alibaba
 
-⭐ 11,181 · Java · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/alibaba/spring-ai-alibaba) · [官网](https://java2ai.com) · 组织维护 · 中文 README
+⭐ 11,187 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/alibaba/spring-ai-alibaba) · [官网](https://java2ai.com) · 组织维护 · 中文 README
 
-**面向 Java 开发者的 Agentic AI 应用开发框架**
+**Java 开发者构建 Agent、工作流与多智能体应用的框架**
 
-阿里巴巴维护的 Java 生产级框架，用于构建 Agentic、Workflow 与多 Agent 应用。包含 Agent Framework（内置上下文工程、Human In The Loop、Sequential/Parallel/Routing/LoopAgent 等工作流）、Graph 底层运行时（持久化、编排、流式）、Admin 一站式可视化 Agent 平台（支持观测、评估、MCP 管理，可对接 Dify 迁移）与 Studio 调试 UI。支持多模态、WebSocket 实时语音 Agent、A2A（Nacos）与多模型接入。要求 JDK 17+ 并提供 LLM API-KEY，通过 Maven starter 依赖与源码方式使用。
+面向 Java 开发者的 Agentic AI 框架，基于 Spring AI/Spring Boot 构建。包含 Agent Framework（内置 Context Engineering 与 Human In The Loop，提供 SequentialAgent/ParallelAgent/RoutingAgent/LoopAgent 等内置流程）、Graph 运行时（持久化、编排、流式、状态管理）、Admin 可视化平台（Agent 开发、可观测性、评估、MCP 管理）与 Studio 调试 UI。支持 MCP、A2A 通信（Nacos 集成）、多模态输入与语音 Agent。需 JDK 17+ 与 DashScope API key 运行示例，通过 Maven 引入依赖。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 内置 Sequential/Parallel/Routing/LoopAgent 多 Agent 编排模式
-- Graph 运行时提供持久化、条件路由与状态管理，可导出 PlantUML/Mermaid
-- WebSocket 实时语音 Agent，支持流式音频输入与音频输出
-- Admin 可视化平台支持观测、评估与 MCP 管理，可从 Dify DSL 迁移
+- 多 Agent 编排：SequentialAgent、ParallelAgent、RoutingAgent、LoopAgent 内置模式
+- Graph 运行时提供检查点、流式输出与状态管理工作流，可导出 PlantUML/Mermaid
+- A2A Agent 间通信集成 Nacos，支持分布式 Agent 协作
+- Admin 一站式平台支持可视化开发、评估与 MCP 管理，可从 Dify DSL 迁移
 
 ## 适用场景
 
-- 用 Java 快速开发多 Agent 与工作流应用
-- 构建长时运行的有状态 Agent 并做可视化调试与评估
-- 通过 A2A 与 Nacos 实现跨服务分布式 Agent 协作
+- 用 Java/Spring 技术栈开发 Agent 与多 Agent 应用
+- 构建需要持久化与状态管理的长时运行工作流
+- 用自然语言查询数据库（DataAgent）或做深度研究（DeepResearch）
+- 在可视化平台中开发、调试和评估 Agent
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `工作流自动化` `语音 Agent` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L11:  A production-ready framework for building Agentic, Workflow, and Multi-agent applications.
-> L26: **Spring AI Alibaba Agent Framework** is an agent development framework that can quickly develop agents with built-
-> L44: * **Rich Model, Tool and MCP Support**: Leveraging core concepts of Spring AI, supports multiple LLM providers (Das
+> L10:  A production-ready framework for building Agentic, Workflow, and Multi-agent applications.
+> L35: **Spring AI Alibaba Agent Framework** is an agent development framework that can quickly develop agents with built-
+> L37: **Spring AI Alibaba Graph** serves as the underlying runtime of the Agent Framework, providing essential capabiliti
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "alibaba/spring-ai-alibaba 星数(近 26 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 11047 --> 11193
-    line [11060, 11059, 11065, 11071, 11079, 11084, 11088, 11091, 11090, 11060, 11115, 11132, 11134, 11139, 11145, 11147, 11151, 11155, 11162, 11165, 11166, 11165, 11166, 11169, 11176, 11181]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 11047 --> 11199
+    line [11059, 11065, 11071, 11079, 11084, 11088, 11091, 11090, 11060, 11115, 11132, 11134, 11139, 11145, 11147, 11151, 11155, 11162, 11165, 11166, 11165, 11166, 11169, 11176, 11181, 11187]
 ```
 
-2026-10-25 11,060 → 2026-11-27 11,181（+121）
+2026-10-26 11,059 → 2026-11-28 11,187（+128）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `36ad0e58f714` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c092ca280e1b` · [字段定义](../../DATASET.md)*

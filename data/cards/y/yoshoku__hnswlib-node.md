@@ -1,6 +1,6 @@
 # yoshoku/hnswlib-node
 
-⭐ 139 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/yoshoku/hnswlib-node) · [官网](https://www.npmjs.com/package/hnswlib-node) · 个人维护
+⭐ 139 · C++ · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/yoshoku/hnswlib-node) · [官网](https://www.npmjs.com/package/hnswlib-node) · 个人维护
 
 **为 Node.js/TypeScript 提供 Hnswlib 近似最近邻搜索绑定**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "yoshoku/hnswlib-node 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "yoshoku/hnswlib-node 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 137 --> 140
-    line [138, 139, 138, 139, 139]
+    line [139, 138, 139, 139]
 ```
 
-2026-10-25 138 → 2026-11-27 139（+1）
+2026-10-26 139 → 2026-11-28 139（+0）
 
 
 ---

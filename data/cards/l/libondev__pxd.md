@@ -1,6 +1,6 @@
 # libondev/pxd
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/libondev/pxd) · [官网](https://pxd.libondev.cn/) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/libondev/pxd) · [官网](https://pxd.libondev.cn/) · 个人维护 · 中文 README
 
 **Vue 3.3+ 组件库：提供 agent bridge 让 AI 驱动 UI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "libondev/pxd 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-11-20 20 → 2026-11-27 20（+0）
+2026-11-20 20 → 2026-11-28 20（+0）
 
 
 ---

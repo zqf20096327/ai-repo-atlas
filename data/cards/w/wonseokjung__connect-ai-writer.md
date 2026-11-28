@@ -1,6 +1,6 @@
 # wonseokjung/connect-ai-writer
 
-⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wonseokjung/connect-ai-writer) · [官网](https://wonseokjung.github.io/connect-ai-writer/) · 个人维护
+⭐ 9 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wonseokjung/connect-ai-writer) · [官网](https://wonseokjung.github.io/connect-ai-writer/) · 个人维护
 
 **给个人创作者与YouTuber的AI写作代理：一键产出多平台帖与配图**
 
@@ -41,6 +41,18 @@
 > L8: **An AI writing employee for solo founders and YouTubers. Give it one of your videos, and it writes your Naver blog,
 > L13: npx github:wonseokjung/connect-ai-writer install-skill
 > L16: To install, paste that line into your agent's chat (Claude Code, Codex, Antigravity, Cursor) and ask it to install.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wonseokjung/connect-ai-writer 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 10
+    line [5, 9]
+```
+
+2026-11-27 5 → 2026-11-28 9（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # xyangzhou/WorldLeague
 
-⭐ 21 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xyangzhou/WorldLeague) · [官网](https://xyangzhou.github.io/WorldLeague/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xyangzhou/WorldLeague) · [官网](https://xyangzhou.github.io/WorldLeague/) · 组织维护
 
 **具身 AI 基准：60 个模拟机器人任务上量化物理目标达成进度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xyangzhou/WorldLeague 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 18 --> 22
-    line [19, 21]
+    title "xyangzhou/WorldLeague 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 18 --> 23
+    line [19, 21, 22]
 ```
 
-2026-11-26 19 → 2026-11-27 21（+2）
+2026-11-26 19 → 2026-11-28 22（+3）
 
 
 ---

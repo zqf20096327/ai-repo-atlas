@@ -1,6 +1,6 @@
 # lab-emi/OpenDPD
 
-⭐ 184 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lab-emi/OpenDPD) · [官网](https://www.tudemi.com) · 组织维护
+⭐ 184 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/lab-emi/OpenDPD) · [官网](https://www.tudemi.com) · 组织维护
 
 **面向射频工程师的功放建模与数字预失真训练框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lab-emi/OpenDPD 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 180 --> 185
     line [181, 182, 183, 184, 184]
 ```
 
-2026-10-25 181 → 2026-11-27 184（+3）
+2026-10-26 181 → 2026-11-28 184（+3）
 
 
 ---

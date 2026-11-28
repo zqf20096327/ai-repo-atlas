@@ -1,6 +1,6 @@
 # leoyong1983-spec/AI-HYSYS-Skill
 
-⭐ 10 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/leoyong1983-spec/AI-HYSYS-Skill) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/leoyong1983-spec/AI-HYSYS-Skill) · 个人维护 · 中文 README
 
 **让 AI 智能体接管已有 Aspen HYSYS 仿真的技能库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "leoyong1983-spec/AI-HYSYS-Skill 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-25 10 → 2026-11-27 10（+0）
+2026-11-25 10 → 2026-11-28 11（+1）
 
 
 ---

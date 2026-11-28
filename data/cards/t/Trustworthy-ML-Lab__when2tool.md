@@ -1,6 +1,6 @@
 # Trustworthy-ML-Lab/when2tool
 
-⭐ 27 · Python · 推送 2026-11-05 · [GitHub](https://github.com/Trustworthy-ML-Lab/when2tool) · [官网](https://lilywenglab.github.io/when2tool/) · 组织维护
+⭐ 28 · Python · 推送 2026-11-05 · [GitHub](https://github.com/Trustworthy-ML-Lab/when2tool) · [官网](https://lilywenglab.github.io/when2tool/) · 组织维护
 
 **研究 LLM 何时需要调用工具的基准与探针框架**
 
@@ -44,13 +44,13 @@ NeurIPS 2026 论文的官方仓库，包含两部分：When2Tool 基准（15 个
 
 ```mermaid
 xychart-beta
-    title "Trustworthy-ML-Lab/when2tool 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 23 --> 28
-    line [24, 27]
+    title "Trustworthy-ML-Lab/when2tool 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 23 --> 29
+    line [24, 27, 28]
 ```
 
-2026-11-26 24 → 2026-11-27 27（+3）
+2026-11-26 24 → 2026-11-28 28（+4）
 
 
 ---

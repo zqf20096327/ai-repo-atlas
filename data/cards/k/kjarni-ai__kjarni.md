@@ -1,6 +1,6 @@
 # kjarni-ai/kjarni
 
-⭐ 39 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/kjarni-ai/kjarni) · [官网](https://kjarni.ai) · 个人维护
+⭐ 39 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/kjarni-ai/kjarni) · [官网](https://kjarni.ai) · 个人维护
 
 **让开发者在本机进程内运行 transformer 推理的多语言引擎**
 
@@ -40,6 +40,18 @@
 
 > L14: Kjarni is a transformer inference library: local AI inference as one native engine for Python, C#, Go, C++, Rust an
 > L268: A request picks its model by Kjarni name, and each model loads on its first request and stays loaded. Without a mo
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kjarni-ai/kjarni 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
+```
+
+2026-11-27 39 → 2026-11-28 39（+0）
 
 
 ---

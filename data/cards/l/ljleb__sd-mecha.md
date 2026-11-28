@@ -1,6 +1,6 @@
 # ljleb/sd-mecha
 
-⭐ 82 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ljleb/sd-mecha) · 个人维护
+⭐ 83 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ljleb/sd-mecha) · 个人维护
 
 **通用模型合并库：内存高效地合并扩散模型与 LLM 等权重**
 
@@ -44,13 +44,13 @@ sd-mecha 是一个 Python 模型合并库，可合并扩散模型、LLM、VLM、
 
 ```mermaid
 xychart-beta
-    title "ljleb/sd-mecha 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 80 --> 83
-    line [81, 82, 81, 82, 82]
+    title "ljleb/sd-mecha 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 80 --> 84
+    line [82, 81, 82, 83]
 ```
 
-2026-10-25 81 → 2026-11-27 82（+1）
+2026-10-26 82 → 2026-11-28 83（+1）
 
 
 ---

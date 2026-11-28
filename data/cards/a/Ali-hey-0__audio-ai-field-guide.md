@@ -1,6 +1,6 @@
 # Ali-hey-0/audio-ai-field-guide
 
-⭐ 144 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Ali-hey-0/audio-ai-field-guide) · [官网](https://huggingface.co/learn/audio-course) · 个人维护
+⭐ 145 · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Ali-hey-0/audio-ai-field-guide) · [官网](https://huggingface.co/learn/audio-course) · 个人维护
 
 **音频 AI 心智模型参考指南：从波形到语音系统全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ali-hey-0/audio-ai-field-guide 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 143 --> 146
+    line [144, 145]
 ```
 
-2026-10-25 144 → 2026-11-27 144（+0）
+2026-10-26 144 → 2026-11-28 145（+1）
 
 
 ---

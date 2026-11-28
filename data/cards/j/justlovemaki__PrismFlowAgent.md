@@ -1,6 +1,6 @@
 # justlovemaki/PrismFlowAgent
 
-⭐ 98 · JavaScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/justlovemaki/PrismFlowAgent) · [官网](https://hex2077.dev/) · 个人维护 · 中文 README
+⭐ 99 · JavaScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/justlovemaki/PrismFlowAgent) · [官网](https://hex2077.dev/) · 个人维护 · 中文 README
 
 **全栈自动化资讯抓取、AI 总结与多渠道分发系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "justlovemaki/PrismFlowAgent 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 96 --> 99
-    line [97, 98, 98]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 96 --> 100
+    line [97, 98, 99]
 ```
 
-2026-10-25 97 → 2026-11-27 98（+1）
+2026-10-26 97 → 2026-11-28 99（+2）
 
 
 ---

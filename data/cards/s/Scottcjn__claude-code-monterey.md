@@ -1,6 +1,6 @@
 # Scottcjn/claude-code-monterey
 
-⭐ 80 · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/claude-code-monterey) · [官网](https://rustchain.org) · 个人维护
+⭐ 79 · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/claude-code-monterey) · [官网](https://rustchain.org) · 个人维护
 
 **在 macOS Monterey 上安装运行 Claude Code 的兼容性文档**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/claude-code-monterey 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27"]
+    title "Scottcjn/claude-code-monterey 星数(近 7 点)"
+    x-axis ["2026-10-29", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 77 --> 82
-    line [79, 80, 78, 80, 81, 80]
+    line [79, 80, 78, 80, 81, 80, 79]
 ```
 
-2026-10-29 79 → 2026-11-27 80（+1）
+2026-10-29 79 → 2026-11-28 79（+0）
 
 
 ---

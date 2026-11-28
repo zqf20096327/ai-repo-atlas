@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vincentkoc/airgapped-offfline-rag 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 86 --> 88
     line [87, 87]
 ```
 
-2026-10-25 87 → 2026-11-27 87（+0）
+2026-10-26 87 → 2026-11-28 87（+0）
 
 
 ---

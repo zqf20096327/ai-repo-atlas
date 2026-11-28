@@ -1,6 +1,6 @@
 # axondeepseg/axondeepseg
 
-⭐ 129 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/axondeepseg/axondeepseg) · [官网](https://axondeepseg.rtfd.io/) · 组织维护
+⭐ 129 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/axondeepseg/axondeepseg) · [官网](https://axondeepseg.rtfd.io/) · 组织维护
 
 **显微图像中轴突与髓鞘分割的深度学习工具（Python/TensorFlow）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "axondeepseg/axondeepseg 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-25 129 → 2026-11-27 129（+0）
+2026-10-26 129 → 2026-11-28 129（+0）
 
 
 ---

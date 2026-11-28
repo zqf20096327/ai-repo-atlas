@@ -1,6 +1,6 @@
 # DomaAI/Codo
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/DomaAI/Codo) · 组织维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/DomaAI/Codo) · [官网](https://domaai.pl/en/codo) · 组织维护
 
 **给已有付费 coding agent 与 API 的开发者：一个终端里接通所有模型**
 
@@ -41,6 +41,18 @@
 > L6:  Claude Code, Codex, Gemini CLI, any API or a local model in one app and one terminal.
 > L66: - **Never stuck on a plan limit.** Claude Code ran out? The turn moves to Codex, Gemini, your API key
 > L187: |Models|OpenAI, Anthropic, xAI, Google, Mistral, DeepSeek, Groq, OpenRouter, Ollama, LM Studio, any `/v1` URL, sev
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DomaAI/Codo 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

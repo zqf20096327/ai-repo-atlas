@@ -1,6 +1,6 @@
 # SGcpu/AeroGraph
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/SGcpu/AeroGraph) · 个人维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/SGcpu/AeroGraph) · 个人维护
 
 **多智能体 AI 工作流的可观测与调试层：本地回放、环检测、轨迹分叉**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SGcpu/AeroGraph 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

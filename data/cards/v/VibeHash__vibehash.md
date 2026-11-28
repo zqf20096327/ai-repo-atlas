@@ -1,6 +1,6 @@
 # VibeHash/vibehash
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VibeHash/vibehash) · [官网](https://vibehash.org) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/VibeHash/vibehash) · [官网](https://vibehash.org) · 个人维护
 
 **让矿工训练 AI 模型来挖币的 PoUW 加密货币测试网**
 
@@ -40,6 +40,18 @@
 > L3: A proof-of-useful-work cryptocurrency. Instead of hashing, "miners" train AI
 > L4: models in small, verifiable chunks sized for mid- and low-end hardware. Every
 > L8: This is a **testnet implementation**: validator nodes that take turns leading
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VibeHash/vibehash 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

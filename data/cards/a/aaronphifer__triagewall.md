@@ -1,6 +1,6 @@
 # aaronphifer/triagewall
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/aaronphifer/triagewall) · [官网](https://triagewall.io) · 个人维护
+⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/aaronphifer/triagewall) · [官网](https://triagewall.io) · 个人维护
 
 **面向自托管 SOC 的本地 LLM 告警分诊工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aaronphifer/triagewall 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 11 --> 16
-    line [12, 14, 12, 15, 15]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 11 --> 17
+    line [12, 14, 12, 15, 16]
 ```
 
-2026-10-25 12 → 2026-11-27 15（+3）
+2026-10-26 12 → 2026-11-28 16（+4）
 
 
 ---

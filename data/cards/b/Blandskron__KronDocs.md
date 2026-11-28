@@ -1,6 +1,6 @@
 # Blandskron/KronDocs
 
-⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Blandskron/KronDocs) · [官网](https://blandskron.github.io/KronDocs/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Blandskron/KronDocs) · [官网](https://blandskron.github.io/KronDocs/) · 组织维护
 
 **基于 RAG 的智能文档管理与问答平台，供团队查阅文档并引用来源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Blandskron/KronDocs 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-26 12 → 2026-11-27 12（+0）
+2026-11-26 12 → 2026-11-28 12（+0）
 
 
 ---

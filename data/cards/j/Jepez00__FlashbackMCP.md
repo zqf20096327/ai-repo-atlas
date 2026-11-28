@@ -1,6 +1,6 @@
 # Jepez00/FlashbackMCP
 
-⭐ 4 · JavaScript · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/Jepez00/FlashbackMCP) · 个人维护
+⭐ 4 · JavaScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Jepez00/FlashbackMCP) · 个人维护
 
 **让 AI 客户端操控 Minecraft Flashback 回放剪辑的本地 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jepez00/FlashbackMCP 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    title "Jepez00/FlashbackMCP 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-16 3 → 2026-11-27 4（+1）
+2026-11-16 3 → 2026-11-28 4（+1）
 
 
 ---

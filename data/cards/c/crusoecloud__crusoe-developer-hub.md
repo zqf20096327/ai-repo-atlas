@@ -1,6 +1,6 @@
 # crusoecloud/crusoe-developer-hub
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/crusoecloud/crusoe-developer-hub) · [官网](https://discord.gg/tRKs5bMyry) · 组织维护
+⭐ 21 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/crusoecloud/crusoe-developer-hub) · [官网](https://discord.gg/tRKs5bMyry) · 组织维护
 
 **Crusoe Cloud 开发者中心：AI 训练/微调/推理的教程与示例汇编**
 
@@ -46,12 +46,12 @@ Crusoe 公司维护的开发者内容仓库，面向在 Crusoe Cloud 上构建 A
 ```mermaid
 xychart-beta
     title "crusoecloud/crusoe-developer-hub 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 21
-    line [10, 11, 10, 13, 18, 19, 20, 20]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 22
+    line [10, 11, 10, 13, 18, 19, 20, 21]
 ```
 
-2026-10-25 10 → 2026-11-27 20（+10）
+2026-10-26 10 → 2026-11-28 21（+11）
 
 
 ---

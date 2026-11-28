@@ -1,6 +1,6 @@
 # rolecraft-sh/rolecraft
 
-⭐ 99 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/rolecraft-sh/rolecraft) · [官网](https://rolecraft-sh.github.io/rolecraft/) · 组织维护
+⭐ 99 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/rolecraft-sh/rolecraft) · [官网](https://rolecraft-sh.github.io/rolecraft/) · 组织维护
 
 **面向 AI agent 的技能/MCP 管理器，安装前做静态安全扫描**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rolecraft-sh/rolecraft 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-28"]
     y-axis "stars" 94 --> 100
     line [96, 95, 96, 98, 99, 99]
 ```
 
-2026-10-25 96 → 2026-11-27 99（+3）
+2026-10-26 96 → 2026-11-28 99（+3）
 
 
 ---

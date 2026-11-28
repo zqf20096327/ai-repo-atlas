@@ -1,6 +1,6 @@
 # linkzy/symbio
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/linkzy/symbio) · [官网](https://symbio.linkzy.dev) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/linkzy/symbio) · [官网](https://symbio.linkzy.dev) · 个人维护
 
 **在浏览器里协调多 AI agent 团队协作同一项目的本地 Web 应用**
 
@@ -40,6 +40,18 @@ Symbio 是本地运行的 Node.js 服务器加 React UI：用户与一个 lead a
 > L17: cleanup, a set of documents. Symbio provides the machinery (messaging, isolation, coordination,
 > L147: Symbio is a Node.js server with a React UI, bound to your computer only. Each agent is a session of
 > L154: - **One interface, two runtimes.** The team logic only knows `AgentRuntime`. The Copilot adapter
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "linkzy/symbio 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

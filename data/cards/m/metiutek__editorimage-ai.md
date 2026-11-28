@@ -1,6 +1,6 @@
 # metiutek/editorimage-ai
 
-⭐ 9 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/metiutek/editorimage-ai) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/metiutek/editorimage-ai) · 个人维护
 
 **用自然语言驱动的开源 AI 图像编辑器，供个人与 agent 使用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "metiutek/editorimage-ai 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 2 --> 10
-    line [3, 4, 5, 6, 8, 9, 9]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 2 --> 11
+    line [3, 4, 5, 6, 8, 9, 10]
 ```
 
-2026-11-02 3 → 2026-11-27 9（+6）
+2026-11-02 3 → 2026-11-28 10（+7）
 
 
 ---

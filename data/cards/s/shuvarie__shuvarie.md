@@ -1,6 +1,6 @@
 # shuvarie/shuvarie
 
-⭐ 11 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/shuvarie/shuvarie) · [官网](https://shuvarie.org) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/shuvarie/shuvarie) · [官网](https://shuvarie.org) · 个人维护
 
 **终端里的 AI 编程 Agent：Rust TUI，读写文件与运行命令需用户许可**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shuvarie/shuvarie 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-27"]
+    title "shuvarie/shuvarie 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-19 10 → 2026-11-27 11（+1）
+2026-11-19 10 → 2026-11-28 11（+1）
 
 
 ---

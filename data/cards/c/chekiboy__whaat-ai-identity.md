@@ -1,6 +1,6 @@
 # chekiboy/whaat-ai-identity
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/chekiboy/whaat-ai-identity) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI agent 提供本地持久记忆与身份连续性的运行时**
 
@@ -11,7 +11,7 @@ Whaat 是一个本地优先的 AI Identity Runtime：将 agent 的记忆、日�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

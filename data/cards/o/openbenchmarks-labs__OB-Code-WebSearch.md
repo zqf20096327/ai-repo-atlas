@@ -1,6 +1,6 @@
 # openbenchmarks-labs/OB-Code-WebSearch
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/openbenchmarks-labs/OB-Code-WebSearch) · [官网](https://openbenchmarks.com/web-search-for-coding-agents) · 组织维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/openbenchmarks-labs/OB-Code-WebSearch) · [官网](https://openbenchmarks.com/web-search-for-coding-agents) · 组织维护
 
 **面向开发者的网络搜索 API 独立基准评测与排行榜**
 
@@ -39,6 +39,18 @@ OpenBenchmarks Labs 维护的公开基准：给定针对企业产品 API（Workd
 
 > L3: Open, independent benchmark of web search APIs for developers and coding agents: which search API helps a coding age
 > L26: - **Public split:** 30 enterprise API tickets are committed in `data/questions.jsonl`. The Hugging Face dataset `op
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "openbenchmarks-labs/OB-Code-WebSearch 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

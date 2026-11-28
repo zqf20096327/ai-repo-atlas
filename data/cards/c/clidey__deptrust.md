@@ -1,6 +1,6 @@
 # clidey/deptrust
 
-⭐ 62 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/clidey/deptrust) · 组织维护
+⭐ 62 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/clidey/deptrust) · 组织维护
 
 **为 AI agent 服务的依赖漏洞检查 CLI 与 MCP 服务器**
 
@@ -46,12 +46,12 @@ deptrust 是本地运行的 CLI，检查 13+ 包生态（npm、PyPI、crates.io�
 ```mermaid
 xychart-beta
     title "clidey/deptrust 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 60 --> 63
     line [61, 62, 62]
 ```
 
-2026-10-25 61 → 2026-11-27 62（+1）
+2026-10-26 61 → 2026-11-28 62（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # AI-QL/tuui
 
-⭐ 1,161 · TypeScript · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/AI-QL/tuui) · [官网](https://www.tuui.com/) · 个人维护 · 中文 README
+⭐ 1,162 · TypeScript · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/AI-QL/tuui) · [官网](https://www.tuui.com/) · 个人维护 · 中文 README
 
 **本地桌面 MCP 客户端：跨厂商 LLM 聊天与工具集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AI-QL/tuui 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 1158 --> 1162
-    line [1159, 1160, 1161, 1161]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 1158 --> 1163
+    line [1159, 1160, 1161, 1162]
 ```
 
-2026-10-25 1,159 → 2026-11-27 1,161（+2）
+2026-10-26 1,159 → 2026-11-28 1,162（+3）
 
 
 ---

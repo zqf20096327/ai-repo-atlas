@@ -1,6 +1,6 @@
 # airmang/python-hwpx-automation
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/airmang/python-hwpx-automation) · [官网](https://pypi.org/project/hwpx-mcp-server/) · 个人维护 · 中文 README
+⭐ 70 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/airmang/python-hwpx-automation) · [官网](https://pypi.org/project/hwpx-mcp-server/) · 个人维护 · 中文 README
 
 **供 AI agent 读写编辑 HWPX 韩文文档的 Python 层与 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "airmang/python-hwpx-automation 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 67 --> 70
-    line [68, 69, 69]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 67 --> 71
+    line [68, 69, 70]
 ```
 
-2026-10-25 68 → 2026-11-27 69（+1）
+2026-10-26 68 → 2026-11-28 70（+2）
 
 
 ---

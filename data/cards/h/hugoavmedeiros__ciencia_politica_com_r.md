@@ -44,12 +44,12 @@ Hugo Medeiros 教授整理的课程材料仓库：以 R 语言为工具，将数
 ```mermaid
 xychart-beta
     title "hugoavmedeiros/ciencia_politica_com_r 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-25 27 → 2026-11-27 27（+0）
+2026-10-26 27 → 2026-11-28 27（+0）
 
 
 ---

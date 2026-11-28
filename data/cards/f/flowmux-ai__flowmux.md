@@ -1,6 +1,6 @@
 # flowmux-ai/flowmux
 
-⭐ 23 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/flowmux-ai/flowmux) · [官网](https://flowmux.org) · 组织维护
+⭐ 23 · Rust · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/flowmux-ai/flowmux) · [官网](https://flowmux.org) · 组织维护
 
 **面向 AI 编程 Agent 的终端复用器：并排运行多个 Agent 并提供通知与浏览器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "flowmux-ai/flowmux 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-28"]
     y-axis "stars" 20 --> 24
     line [21, 22, 23, 23]
 ```
 
-2026-10-25 21 → 2026-11-27 23（+2）
+2026-10-26 21 → 2026-11-28 23（+2）
 
 
 ---

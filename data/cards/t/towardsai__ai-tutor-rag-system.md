@@ -44,12 +44,12 @@ Towards AI 的 'From Beginner to LLM Developer' 课程仓库，内容为一组 J
 ```mermaid
 xychart-beta
     title "towardsai/ai-tutor-rag-system 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 243 --> 245
     line [244, 244]
 ```
 
-2026-10-25 244 → 2026-11-27 244（+0）
+2026-10-26 244 → 2026-11-28 244（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # xsota/same
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/xsota/same) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/xsota/same) · 个人维护
 
 **给开发者的本地多 provider AI agent 桌面工作区**
 
@@ -40,6 +40,18 @@ Rust 编写的本地优先 AI agent 桌面工作区：内置 ACP v1 stdio 客户
 > L5: A lightweight, local-first, multi-provider AI agent desktop workspace written in Rust.
 > L9: - **ACP First, Not ACP Only**: Built-in Agent Client Protocol (ACP) v1 client over stdio, plus native CLI adapters f
 > L88: ├── same-agent/   # Provider-agnostic AgentRuntime, Capabilities, Provider adapters
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xsota/same 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Stellenbosch-Technologies/rhebok
 
-⭐ 8 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Stellenbosch-Technologies/rhebok) · [官网](https://stelltec.com/rhebok/) · 组织维护
+⭐ 12 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Stellenbosch-Technologies/rhebok) · [官网](https://stelltec.com/rhebok/) · 组织维护
 
 **为 AI 编码 agent 提供本地检索与记忆的 MCP server**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stellenbosch-Technologies/rhebok 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 9
-    line [4, 8]
+    title "Stellenbosch-Technologies/rhebok 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 13
+    line [4, 8, 12]
 ```
 
-2026-11-26 4 → 2026-11-27 8（+4）
+2026-11-26 4 → 2026-11-28 12（+8）
 
 
 ---

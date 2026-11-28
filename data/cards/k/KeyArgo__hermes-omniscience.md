@@ -1,6 +1,6 @@
 # KeyArgo/hermes-omniscience
 
-⭐ 7 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/KeyArgo/hermes-omniscience) · 组织维护
+⭐ 8 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/KeyArgo/hermes-omniscience) · 组织维护
 
 **给 Hermes agent 的本地只读运行可视化与回放插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KeyArgo/hermes-omniscience 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
 ```
 
-2026-11-26 7 → 2026-11-27 7（+0）
+2026-11-26 7 → 2026-11-28 8（+1）
 
 
 ---

@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "mftnakrsu/Machine-Learning-Algorithm 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-19", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-19 15 → 2026-11-27 15（+0）
+2026-11-19 15 → 2026-11-28 15（+0）
 
 
 ---

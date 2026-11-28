@@ -1,6 +1,6 @@
 # Sudharsanselvaraj/Token-Print
 
-⭐ 230 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Sudharsanselvaraj/Token-Print) · [官网](https://tokenprint.in/) · 个人维护
+⭐ 230 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Sudharsanselvaraj/Token-Print) · [官网](https://tokenprint.in/) · 个人维护
 
 **开发者的 Transformer 3D 可视化调试器：实时检查注意力与推理过程**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Sudharsanselvaraj/Token-Print 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-28"]
     y-axis "stars" 222 --> 231
     line [223, 224, 225, 223, 226, 228, 230, 230]
 ```
 
-2026-10-25 223 → 2026-11-27 230（+7）
+2026-10-26 223 → 2026-11-28 230（+7）
 
 
 ---

@@ -41,6 +41,18 @@
 > L11: > **Statut : alpha initiale.** La passerelle fonctionne localement : endpoints compatibles
 > L43: |API : `/v1/chat/completions` (JSON + SSE), `/v1/embeddings`, `/v1/models`, `/anthropic/v1/messages`|fait (T1.13–T1
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LordPhenixDeNetra/buNtu 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a8aad1d048a0` · [字段定义](../../DATASET.md)*

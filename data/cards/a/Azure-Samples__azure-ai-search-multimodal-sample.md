@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-ai-search-multimodal-sample 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-25 68 → 2026-11-27 68（+0）
+2026-10-26 68 → 2026-11-28 68（+0）
 
 
 ---

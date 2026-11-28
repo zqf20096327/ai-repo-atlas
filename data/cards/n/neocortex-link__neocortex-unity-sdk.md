@@ -45,12 +45,12 @@ Neocortex Unity SDK：将用户在 Neocortex 网页平台上构建的角色导�
 ```mermaid
 xychart-beta
     title "neocortex-link/neocortex-unity-sdk 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-25 36 → 2026-11-27 36（+0）
+2026-10-26 36 → 2026-11-28 36（+0）
 
 
 ---

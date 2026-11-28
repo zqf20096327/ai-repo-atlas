@@ -1,6 +1,6 @@
 # DECRUX9812/webmint
 
-⭐ 7 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/DECRUX9812/webmint) · 个人维护
+⭐ 9 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/DECRUX9812/webmint) · 个人维护
 
 **给 Hermes Agent 用户把网站固化成可复用工具的插件**
 
@@ -46,12 +46,12 @@ Hermes Agent 插件：用宿主 agent 已接入的模型对目标网页做一次
 ```mermaid
 xychart-beta
     title "DECRUX9812/webmint 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 6 --> 10
+    line [7, 9]
 ```
 
-2026-11-26 7 → 2026-11-27 7（+0）
+2026-11-26 7 → 2026-11-28 9（+2）
 
 
 ---

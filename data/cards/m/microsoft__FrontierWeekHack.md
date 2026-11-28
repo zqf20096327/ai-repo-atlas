@@ -1,6 +1,6 @@
 # microsoft/FrontierWeekHack
 
-⭐ 69 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/FrontierWeekHack) · [官网](https://microsoft.github.io/FrontierWeekHack/) · 组织维护
+⭐ 70 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/FrontierWeekHack) · [官网](https://microsoft.github.io/FrontierWeekHack/) · 组织维护
 
 **微软 Foundry 黑客松实验：开发、监控、评测、部署 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/FrontierWeekHack 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 63 --> 70
-    line [65, 64, 65, 66, 67, 69, 69]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 63 --> 71
+    line [65, 64, 65, 66, 67, 69, 70]
 ```
 
-2026-10-24 65 → 2026-11-27 69（+4）
+2026-10-25 65 → 2026-11-28 70（+5）
 
 
 ---

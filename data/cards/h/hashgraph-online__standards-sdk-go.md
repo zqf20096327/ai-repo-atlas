@@ -1,6 +1,6 @@
 # hashgraph-online/standards-sdk-go
 
-⭐ 322 · Go · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/hashgraph-online/standards-sdk-go) · [官网](https://hol.org) · 组织维护
+⭐ 324 · Go · Apache-2.0 · 推送 2026-04-10 · [GitHub](https://github.com/hashgraph-online/standards-sdk-go) · [官网](https://hol.org) · 组织维护
 
 **Go 实现的 Hiero 共识规范（HCS）官方 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hashgraph-online/standards-sdk-go 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 320 --> 323
-    line [321, 322, 322]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 320 --> 325
+    line [321, 322, 324]
 ```
 
-2026-10-25 321 → 2026-11-27 322（+1）
+2026-10-26 321 → 2026-11-28 324（+3）
 
 
 ---

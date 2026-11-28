@@ -1,6 +1,6 @@
 # apachecn/sklearn-doc-zh
 
-⭐ 5,233 · CSS · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/apachecn/sklearn-doc-zh) · [官网](http://sklearn.apachecn.org) · 组织维护 · 中文 README
+⭐ 5,231 · CSS · NOASSERTION · 推送 2026-08-27 · [GitHub](https://github.com/apachecn/sklearn-doc-zh) · [官网](http://sklearn.apachecn.org) · 组织维护 · 中文 README
 
 **scikit-learn 0.21.3 官方文档中文翻译**
 
@@ -45,12 +45,12 @@ ApacheCN 组织维护的 scikit-learn 中文文档翻译项目，当前覆盖 0.
 ```mermaid
 xychart-beta
     title "apachecn/sklearn-doc-zh 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-28"]
     y-axis "stars" 5227 --> 5236
-    line [5228, 5231, 5228, 5234, 5233, 5234, 5235, 5234, 5233, 5233]
+    line [5228, 5231, 5228, 5234, 5233, 5234, 5235, 5234, 5233, 5231]
 ```
 
-2026-10-25 5,228 → 2026-11-27 5,233（+5）
+2026-10-26 5,228 → 2026-11-28 5,231（+3）
 
 
 ---

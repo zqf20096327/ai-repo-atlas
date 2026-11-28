@@ -1,6 +1,6 @@
 # sanchomuzax/hermes-webui
 
-⭐ 113 · Python · 推送 2026-03-24 · [GitHub](https://github.com/sanchomuzax/hermes-webui) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
+⭐ 114 · Python · 推送 2026-03-24 · [GitHub](https://github.com/sanchomuzax/hermes-webui) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
 
 **Hermes Agent 的进程监控与配置管理 Web 面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sanchomuzax/hermes-webui 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-28"]
     y-axis "stars" 112 --> 115
-    line [114, 113, 113]
+    line [114, 113, 114]
 ```
 
-2026-10-25 114 → 2026-11-27 113（-1）
+2026-10-26 114 → 2026-11-28 114（+0）
 
 
 ---

@@ -45,12 +45,12 @@ ComfyUI 的自定义节点扩展，提供 WebGL 渲染的放大镜工具：跟�
 ```mermaid
 xychart-beta
     title "AEmotionStudio/ComfyUI-MagnifyGlass 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-25 24 → 2026-11-27 24（+0）
+2026-10-26 24 → 2026-11-28 24（+0）
 
 
 ---

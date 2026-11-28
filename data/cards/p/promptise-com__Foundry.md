@@ -1,6 +1,6 @@
 # promptise-com/Foundry
 
-⭐ 897 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
+⭐ 897 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
 
 **为开发者提供构建与运行 agent 系统的一体化 Python 框架**
 
@@ -47,12 +47,12 @@ Promptise 是一个 Python agent 框架，按 Agent（推理）、Interface（�
 ```mermaid
 xychart-beta
     title "promptise-com/Foundry 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-28"]
     y-axis "stars" 891 --> 898
     line [892, 893, 894, 893, 892, 894, 897, 896, 897, 897]
 ```
 
-2026-10-25 892 → 2026-11-27 897（+5）
+2026-10-26 892 → 2026-11-28 897（+5）
 
 
 ---

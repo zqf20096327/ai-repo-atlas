@@ -46,13 +46,13 @@ FollowMe 是一个 GitHub 仓库自动发现与开发者社区互动工具：持
 
 ```mermaid
 xychart-beta
-    title "madhanio/followme 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "madhanio/followme 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 20 --> 23
-    line [22, 21]
+    line [22, 21, 21]
 ```
 
-2026-10-25 22 → 2026-11-27 21（-1）
+2026-10-26 22 → 2026-11-28 21（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # caeser-org/caeser
 
-⭐ 32 · Go · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/caeser-org/caeser) · [官网](caeser.yaxh.tech) · 组织维护
+⭐ 38 · Go · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/caeser-org/caeser) · [官网](caeser.yaxh.tech) · 组织维护
 
 **为 Go 开发者将 CI 失败转为结构化代码调查报告**
 
@@ -46,13 +46,13 @@ Caeser 是 Go CI 失败调查引擎：读取失败运行的日志与工件，关
 
 ```mermaid
 xychart-beta
-    title "caeser-org/caeser 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 27 --> 33
-    line [28, 32]
+    title "caeser-org/caeser 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 27 --> 39
+    line [28, 32, 38]
 ```
 
-2026-11-26 28 → 2026-11-27 32（+4）
+2026-11-26 28 → 2026-11-28 38（+10）
 
 
 ---

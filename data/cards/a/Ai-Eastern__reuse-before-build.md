@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ai-Eastern/reuse-before-build 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "Ai-Eastern/reuse-before-build 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 98 --> 101
-    line [99, 100]
+    line [99, 100, 100]
 ```
 
-2026-10-25 99 → 2026-11-27 100（+1）
+2026-10-26 99 → 2026-11-28 100（+1）
 
 
 ---

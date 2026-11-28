@@ -40,6 +40,18 @@ Magna Hackathon 2026 产出的手机优先应用，读取一份产线数据工�
 > L14: fix, and answers "why?" with an AI assistant that only uses the line data.
 > L64:                                 ├ AI assistant (Gemini) ──┤  answers from the line data only
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Heek1/magna-hackathon-2026 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `131798807829` · [字段定义](../../DATASET.md)*

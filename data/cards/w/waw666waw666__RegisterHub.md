@@ -1,6 +1,6 @@
 # waw666waw666/RegisterHub
 
-⭐ 400 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/waw666waw666/RegisterHub) · [官网](https://waw666waw666.github.io/registerhub-demo/) · 个人维护 · 中文 README
+⭐ 411 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/waw666waw666/RegisterHub) · [官网](https://waw666waw666.github.io/registerhub-demo/) · 个人维护 · 中文 README
 
 **面向开发者的账号自动化注册框架，内置自主写适配器的 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "waw666waw666/RegisterHub 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 389 --> 401
-    line [390, 400]
+    title "waw666waw666/RegisterHub 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 388 --> 413
+    line [390, 400, 411]
 ```
 
-2026-11-26 390 → 2026-11-27 400（+10）
+2026-11-26 390 → 2026-11-28 411（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # weightcashiercupola/Gemini-Config-Checker-
 
-⭐ 452 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/weightcashiercupola/Gemini-Config-Checker-) · 个人维护
+⭐ 453 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/weightcashiercupola/Gemini-Config-Checker-) · 个人维护
 
 **检测代理配置能否访问 Google AI Studio/Gemini 的跨平台工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "weightcashiercupola/Gemini-Config-Checker- 星数(近 6 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 450 --> 477
-    line [475, 473, 470, 465, 452, 452]
+    line [475, 473, 470, 465, 452, 453]
 ```
 
-2026-11-15 475 → 2026-11-27 452（-23）
+2026-11-15 475 → 2026-11-28 453（-22）
 
 
 ---

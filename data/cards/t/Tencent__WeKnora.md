@@ -1,10 +1,10 @@
 # Tencent/WeKnora
 
-⭐ 38,291 · Go · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
+⭐ 38,370 · Go · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
 
-**企业文档知识平台：RAG 问答、推理 Agent 与自维护 Wiki**
+**面向企业的开源 LLM 知识库平台：RAG、Agent 与 Wiki 三合一**
 
-腾讯开源的 LLM 知识框架，面向企业文档理解、语义检索与推理。同一知识库支撑三种模式：带混合检索、多模态解析与引用的 RAG 问答；具备多步推理、技能沙箱、MCP 工具与本地浏览器操作的 Agent；以及带知识图谱与回滚的 Wiki。支持飞书/Confluence/Notion 等数据源自动同步与 10+ 文档格式，多工作区 RBAC，模型目录内置 31 个供应商，LLM、向量库与存储后端可替换。部署需 Docker/Docker Compose，另有 Kubernetes Helm、Lite 单二进制与桌面应用（源码构建）。
+腾讯开源的 LLM 知识框架，将团队文档转为可检索、可推理的知识库，提供 RAG 问答、多步推理 Agent 与知识 Wiki 三种模式，共享同一知识库。技术栈为 Go 后端加 Web UI，支持混合检索、多模态解析与答案引用；Agent 技能在 Docker/E2B/Cube 沙箱运行，可接入 MCP 工具与本地浏览器。部署支持 Docker Compose、Kubernetes Helm、Lite 单二进制与桌面应用（需源码构建）。限制方面：生产环境建议内网部署，桌面应用暂无安装包，旧版升级需阅读升级说明。
 
 ## 筛选速览
 
@@ -26,40 +26,40 @@
 
 ## 能力要点
 
-- RAG/Agent/Wiki 三种模式共享同一知识库
-- 技能从 ClawHub/Git/ZIP 安装，运行于 Docker/E2B/Cube 沙箱
-- 数据源自动同步（飞书/Confluence/Notion 等）与 10+ 文档格式解析
-- 内置 MCP Server，可发布知识库给 Cursor、Claude 等工具
+- RAG 混合检索、多模态解析与可溯源引用
+- Agent 支持多步推理、技能沙箱（Docker/E2B/Cube）、本地浏览器控制与 MCP 工具
+- 31 家内置模型厂商目录，含 OpenAI、DeepSeek、Qwen、Ollama 等，可替换
+- 多工作区 RBAC、跨会话长期记忆与 Langfuse 追踪
 
 ## 适用场景
 
-- 把团队文档接入可引用出处的 RAG 问答
-- 让 Agent 执行多步知识任务并操作浏览器
-- 将文档组织成带知识图谱的 Wiki
-- 在私有环境部署企业知识库并对接 IM 渠道
+- 把团队文档建成可检索问答的知识库
+- 让 Agent 在沙箱中执行多步知识任务
+- 将文档自动整理为带知识图谱的 Wiki
+- 私有化部署并接入企业微信/飞书等 IM 做问答
 
 ## 场景标签
 
-`RAG` `聊天机器人` `文档问答` `知识图谱` · 领域:对话与助手
+`RAG` `聊天机器人` `文档问答` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L32: WeKnora is an open-source, LLM-powered knowledge framework for enterprise document understanding, semantic retrieva
-> L40:  01 RAG: answers you can check, with hybrid search, multimodal parsing and citations. 02 Agent: tasks done with kno
-> L49: - **Models**: 31 built-in vendors with a generated model catalog, including OpenAI, DeepSeek, Qwen (Alibaba Cloud),
+> L38: Use RAG to look things up, the agent for multi-step tasks, and the wiki to organize knowledge. All three work on th
+> L42: **The agent's toolbox.** Skills installed from ClawHub / SkillHub / Git / ZIP run in session-persistent Docker / E2
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Tencent/WeKnora 星数(近 27 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 34998 --> 38590
-    line [35297, 35379, 35542, 35650, 35773, 35911, 36051, 36117, 36179, 35297, 36824, 37106, 37201, 37314, 37394, 37428, 37471, 37547, 37660, 37750, 37812, 37901, 37953, 38000, 38087, 38216, 38291]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 34990 --> 38677
+    line [35379, 35542, 35650, 35773, 35911, 36051, 36117, 36179, 35297, 36824, 37106, 37201, 37314, 37394, 37428, 37471, 37547, 37660, 37750, 37812, 37901, 37953, 38000, 38087, 38216, 38291, 38370]
 ```
 
-2026-10-25 35,297 → 2026-11-27 38,291（+2,994）
+2026-10-26 35,379 → 2026-11-28 38,370（+2,991）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b30b71a6d790` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `dbf3133fbb93` · [字段定义](../../DATASET.md)*

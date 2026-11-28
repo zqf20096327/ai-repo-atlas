@@ -1,6 +1,6 @@
 # andreibesleaga/GABBE
 
-⭐ 24 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/andreibesleaga/GABBE) · [官网](https://andreibesleaga.github.io/GABBE/) · 个人维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/andreibesleaga/GABBE) · [官网](https://andreibesleaga.github.io/GABBE/) · 个人维护
 
 **面向 AI 编码 agent 的软件工程治理套件（技能/模板/多代理团队）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "andreibesleaga/GABBE 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-22", "2026-11-26", "2026-11-27"]
+    title "andreibesleaga/GABBE 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 23, 24]
+    line [23, 24, 23, 24, 24]
 ```
 
-2026-10-25 23 → 2026-11-27 24（+1）
+2026-10-26 23 → 2026-11-28 24（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # riyogarta/syne
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/riyogarta/syne) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/riyogarta/syne) · 个人维护
 
 **自托管的个人 AI Telegram 助手：长期记忆存在你自己的服务器上**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "riyogarta/syne 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

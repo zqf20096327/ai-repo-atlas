@@ -1,6 +1,6 @@
 # FluxonLab/Skillry
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/FluxonLab/Skillry) · [官网](https://fluxonlab.com) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/FluxonLab/Skillry) · [官网](https://fluxonlab.com) · 组织维护
 
 **面向多平台 agent 运行时的可安装技能与子代理库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FluxonLab/Skillry 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-15", "2026-11-22", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-15 10 → 2026-11-27 12（+2）
+2026-11-15 10 → 2026-11-28 13（+3）
 
 
 ---

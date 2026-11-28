@@ -44,13 +44,13 @@ Hugging Face Optimum 的 AMD 扩展：为 AMD GPU（ROCm）与 Ryzen AI NPU 提�
 
 ```mermaid
 xychart-beta
-    title "huggingface/optimum-amd 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "huggingface/optimum-amd 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 100 --> 103
-    line [101, 102, 101, 102, 102]
+    line [102, 101, 102, 102]
 ```
 
-2026-10-25 101 → 2026-11-27 102（+1）
+2026-10-26 102 → 2026-11-28 102（+0）
 
 
 ---

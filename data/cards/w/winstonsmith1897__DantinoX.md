@@ -48,12 +48,12 @@ JAX/Flax NNX 实现的 Transformer 训练与生成库：将模型骨干（MHA/GQ
 ```mermaid
 xychart-beta
     title "winstonsmith1897/DantinoX 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

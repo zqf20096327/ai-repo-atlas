@@ -1,6 +1,6 @@
 # teskor-hub/minimax-h3-skill
 
-⭐ 16 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/teskor-hub/minimax-h3-skill) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/teskor-hub/minimax-h3-skill) · 个人维护
 
 **面向 Claude Code 的 MiniMax H3 视频生成提示词技能与工作流模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "teskor-hub/minimax-h3-skill 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 17（+1）
 
 
 ---

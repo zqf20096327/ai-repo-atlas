@@ -1,6 +1,6 @@
 # SEAbdulbasit/OfflineAI-KMP
 
-⭐ 66 · Kotlin · 推送 2026-11-23 · [GitHub](https://github.com/SEAbdulbasit/OfflineAI-KMP) · 个人维护
+⭐ 66 · Kotlin · 推送 2026-11-27 · [GitHub](https://github.com/SEAbdulbasit/OfflineAI-KMP) · 个人维护
 
 **在 Android/iOS 上离线运行 Gemma 对话的跨平台应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SEAbdulbasit/OfflineAI-KMP 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-25 66 → 2026-11-27 66（+0）
+2026-10-26 66 → 2026-11-28 66（+0）
 
 
 ---

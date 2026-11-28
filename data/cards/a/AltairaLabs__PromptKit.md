@@ -1,6 +1,6 @@
 # AltairaLabs/PromptKit
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AltairaLabs/PromptKit) · [官网](http://promptkit.altairalabs.ai/) · 组织维护
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/AltairaLabs/PromptKit) · [官网](http://promptkit.altairalabs.ai/) · 组织维护
 
 **面向开发者的 Go 语言 LLM 应用运行时与 SDK**
 
@@ -46,12 +46,12 @@ PromptKit 是一个 Go 库，提供多 provider 流式调用、带界压控制�
 ```mermaid
 xychart-beta
     title "AltairaLabs/PromptKit 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

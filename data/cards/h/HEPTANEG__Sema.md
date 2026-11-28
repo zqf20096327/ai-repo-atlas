@@ -1,6 +1,6 @@
 # HEPTANEG/Sema
 
-⭐ 90 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/HEPTANEG/Sema) · 个人维护 · 中文 README
+⭐ 101 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/HEPTANEG/Sema) · 个人维护 · 中文 README
 
 **记忆原生 AI agent：跨会话长期记忆与自主维护**
 
@@ -45,13 +45,13 @@ Windows 优先的实验性 AI agent，核心是自研 Memory Engine：Event Stre
 
 ```mermaid
 xychart-beta
-    title "HEPTANEG/Sema 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 17 --> 96
-    line [23, 35, 39, 46, 58, 80, 90]
+    title "HEPTANEG/Sema 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 16 --> 108
+    line [23, 35, 39, 46, 58, 80, 90, 101]
 ```
 
-2026-11-08 23 → 2026-11-27 90（+67）
+2026-11-08 23 → 2026-11-28 101（+78）
 
 
 ---

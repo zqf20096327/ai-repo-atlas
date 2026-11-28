@@ -1,6 +1,6 @@
 # semlith/semlith
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/semlith/semlith) · [官网](https://semlith.com) · 个人维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/semlith/semlith) · [官网](https://semlith.com) · 个人维护
 
 **为 AI agent 提供本地代码与文档搜索的 MCP 服务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "semlith/semlith 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-27"]
+    title "semlith/semlith 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-11-08 10 → 2026-11-27 13（+3）
+2026-11-08 10 → 2026-11-28 13（+3）
 
 
 ---

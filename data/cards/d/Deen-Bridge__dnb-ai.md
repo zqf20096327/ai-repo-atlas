@@ -1,6 +1,6 @@
 # Deen-Bridge/dnb-ai
 
-⭐ 162 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Deen-Bridge/dnb-ai) · 组织维护
+⭐ 161 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Deen-Bridge/dnb-ai) · 组织维护
 
 **为 DeenBridge 平台提供带经文引用校验的伊斯兰知识 AI 问答服务**
 
@@ -46,12 +46,12 @@ Deen Bridge 平台的 AI 助手后端服务，基于 FastAPI 封装 Google Gemin
 ```mermaid
 xychart-beta
     title "Deen-Bridge/dnb-ai 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 161 --> 165
-    line [163, 162, 163, 164, 163, 162, 162]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 160 --> 165
+    line [163, 162, 163, 164, 163, 162, 161]
 ```
 
-2026-10-25 163 → 2026-11-27 162（-1）
+2026-10-26 163 → 2026-11-28 161（-2）
 
 
 ---

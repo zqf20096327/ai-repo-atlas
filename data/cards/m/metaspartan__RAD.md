@@ -1,6 +1,6 @@
 # metaspartan/RAD
 
-⭐ 3 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/metaspartan/RAD) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/metaspartan/RAD) · 个人维护
 
 **面向 AMD/NVIDIA GPU 的 Rust+ROCm/HIP LLM 推理引擎**
 
@@ -39,6 +39,18 @@
 
 > L3: **RAD** is a high-performance, from-scratch multimodal LLM inference engine written in **Rust**, **ROCm/HIP**, and *
 > L15: - **Full OpenAI, Anthropic, vLLM, SGLang & llama.cpp API Server:** Continuous batching (`B<=128`), Paged KV, chunke
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "metaspartan/RAD 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

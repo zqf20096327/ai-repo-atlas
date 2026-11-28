@@ -1,6 +1,6 @@
 # MuhammadTanveerAbbas/kanbi
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/MuhammadTanveerAbbas/kanbi) · [官网](https://kanbi.vercel.app) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/MuhammadTanveerAbbas/kanbi) · [官网](https://kanbi.vercel.app) · 个人维护
 
 **AI 看板工具：把笔记/PDF/网址自动抽取为任务并分组看板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MuhammadTanveerAbbas/kanbi 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

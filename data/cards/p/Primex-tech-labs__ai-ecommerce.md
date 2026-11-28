@@ -41,6 +41,18 @@
 > L9: - Storefront with catalog, cart, checkout, an AI shopping assistant, and an orders
 > L22: - **AI service** (`apps/ai-service`) - FastAPI app exposing chat, recommendations, and
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Primex-tech-labs/ai-ecommerce 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-27 15 → 2026-11-28 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `6fa20b2c9894` · [字段定义](../../DATASET.md)*

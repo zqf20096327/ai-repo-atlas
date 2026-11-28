@@ -1,6 +1,6 @@
 # ytx-readings/AI
 
-⭐ 65 · 推送 2026-04-06 · [GitHub](https://github.com/ytx-readings/AI) · [官网](https://ytx-readings.github.io/AI/) · 个人维护
+⭐ 66 · 推送 2026-04-06 · [GitHub](https://github.com/ytx-readings/AI) · [官网](https://ytx-readings.github.io/AI/) · 个人维护
 
 **AI 书籍与论文的收集仓库**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "ytx-readings/AI 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 56 --> 66
-    line [57, 58, 57, 62, 63, 64, 65]
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 56 --> 67
+    line [58, 57, 62, 63, 64, 65, 66]
 ```
 
-2026-10-25 57 → 2026-11-27 65（+8）
+2026-10-26 58 → 2026-11-28 66（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # tusKANNy/kannolo
 
-⭐ 80 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tusKANNy/kannolo) · 组织维护
+⭐ 80 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/tusKANNy/kannolo) · 组织维护
 
 **面向研究的 Rust 近似最近邻检索库，含 Python 绑定**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tusKANNy/kannolo 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-28"]
     y-axis "stars" 76 --> 81
     line [77, 78, 79, 80, 80]
 ```
 
-2026-10-24 77 → 2026-11-27 80（+3）
+2026-10-25 77 → 2026-11-28 80（+3）
 
 
 ---

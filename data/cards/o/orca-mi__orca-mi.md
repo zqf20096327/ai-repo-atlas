@@ -1,6 +1,6 @@
 # orca-mi/orca-mi
 
-⭐ 4 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/orca-mi/orca-mi) · [官网](https://orca-mi.github.io) · 个人维护
+⭐ 5 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/orca-mi/orca-mi) · [官网](https://orca-mi.github.io) · 个人维护
 
 **面向分子影像研究的 Windows 工作站：浏览、融合、分割与剂量计算**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "orca-mi/orca-mi 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "orca-mi/orca-mi 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-19 3 → 2026-11-27 4（+1）
+2026-11-19 3 → 2026-11-28 5（+2）
 
 
 ---

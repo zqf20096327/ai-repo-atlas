@@ -1,6 +1,6 @@
 # makralabs/makra
 
-⭐ 30 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/makralabs/makra) · [官网](https://www.makralabs.org) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/makralabs/makra) · [官网](https://www.makralabs.org) · 组织维护
 
 **Makra 网页数据抽取 API 的官方 SDK（Python/JS）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "makralabs/makra 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 28 --> 31
+    line [30, 29]
 ```
 
-2026-10-25 30 → 2026-11-27 30（+0）
+2026-10-26 30 → 2026-11-28 29（-1）
 
 
 ---

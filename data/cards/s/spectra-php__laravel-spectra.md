@@ -1,6 +1,6 @@
 # spectra-php/laravel-spectra
 
-⭐ 42 · PHP · MIT · 推送 2026-11-26 · [GitHub](https://github.com/spectra-php/laravel-spectra) · [官网](https://spectraphp.com) · 个人维护
+⭐ 43 · PHP · MIT · 推送 2026-11-27 · [GitHub](https://github.com/spectra-php/laravel-spectra) · [官网](https://spectraphp.com) · 个人维护
 
 **Laravel 应用的 AI/LLM 调用可观测性包：追踪、计费与预算**
 
@@ -44,13 +44,13 @@ Laravel 包，为 AI 与 LLM 调用提供可观测能力：自动追踪 AI 请�
 
 ```mermaid
 xychart-beta
-    title "spectra-php/laravel-spectra 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 19 --> 44
-    line [21, 22, 21, 27, 28, 30, 31, 41, 42]
+    title "spectra-php/laravel-spectra 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 19 --> 45
+    line [21, 22, 21, 27, 28, 30, 31, 41, 42, 43]
 ```
 
-2026-10-25 21 → 2026-11-27 42（+21）
+2026-10-26 21 → 2026-11-28 43（+22）
 
 
 ---

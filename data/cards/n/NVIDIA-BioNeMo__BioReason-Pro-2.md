@@ -1,6 +1,6 @@
 # NVIDIA-BioNeMo/BioReason-Pro-2
 
-⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA-BioNeMo/BioReason-Pro-2) · [官网](https://www.goodfire.com/research/building-stronger-biological-reasoning-models) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA-BioNeMo/BioReason-Pro-2) · [官网](https://www.goodfire.com/research/building-stronger-biological-reasoning-models) · 组织维护
 
 **给科研人员做蛋白质功能预测的多模态推理 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-BioNeMo/BioReason-Pro-2 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 15
-    line [8, 14]
+    title "NVIDIA-BioNeMo/BioReason-Pro-2 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 7 --> 21
+    line [8, 14, 20]
 ```
 
-2026-11-26 8 → 2026-11-27 14（+6）
+2026-11-26 8 → 2026-11-28 20（+12）
 
 
 ---

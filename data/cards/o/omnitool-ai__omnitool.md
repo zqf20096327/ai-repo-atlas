@@ -1,6 +1,6 @@
 # omnitool-ai/omnitool
 
-⭐ 451 · TypeScript · NOASSERTION · 推送 2026-05-30 · [GitHub](https://github.com/omnitool-ai/omnitool) · 组织维护
+⭐ 452 · TypeScript · NOASSERTION · 推送 2026-05-30 · [GitHub](https://github.com/omnitool-ai/omnitool) · 组织维护
 
 **开源本地自托管 AI 实验桌面：统一界面接入上千生成式 AI 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "omnitool-ai/omnitool 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-15", "2026-11-28"]
     y-axis "stars" 450 --> 454
-    line [452, 453, 452, 451, 451]
+    line [452, 453, 452, 451, 452]
 ```
 
-2026-10-25 452 → 2026-11-27 451（-1）
+2026-10-26 452 → 2026-11-28 452（+0）
 
 
 ---

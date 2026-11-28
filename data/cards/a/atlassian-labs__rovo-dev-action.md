@@ -46,12 +46,12 @@ Atlassian Labs 发布的 GitHub Action，用于在 GitHub Actions 工作流中�
 ```mermaid
 xychart-beta
     title "atlassian-labs/rovo-dev-action 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rigour-labs/rigour
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rigour-labs/rigour) · [官网](https://www.rigour.run/) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/rigour-labs/rigour) · [官网](https://www.rigour.run/) · 组织维护
 
 **面向 AI 编码代理的团队规范守护与代码审查工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rigour-labs/rigour 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-25 29 → 2026-11-27 29（+0）
+2026-10-26 29 → 2026-11-28 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # RedNodeAI/ComfyUI-RedNodeStudio
 
-⭐ 18 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/RedNodeAI/ComfyUI-RedNodeStudio) · [官网](https://civitai.red/user/RedNodeAI) · 个人维护
+⭐ 19 · JavaScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/RedNodeAI/ComfyUI-RedNodeStudio) · [官网](https://civitai.red/user/RedNodeAI) · 个人维护
 
 **ComfyUI 图像全流程工作室节点包：单面板出图、编辑、上色与后期**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点集（62/64 nodes，无 pip 依赖），提供一个分�
 ```mermaid
 xychart-beta
     title "RedNodeAI/ComfyUI-RedNodeStudio 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 14, 15, 16, 17, 18, 18]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 14, 15, 16, 17, 18, 19]
 ```
 
-2026-10-25 14 → 2026-11-27 18（+4）
+2026-10-26 14 → 2026-11-28 19（+5）
 
 
 ---

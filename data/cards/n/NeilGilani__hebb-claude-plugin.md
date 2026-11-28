@@ -46,12 +46,12 @@ Claude Code 与 OpenAI Codex 的插件：通过 hooks 监听会话中的 shell �
 ```mermaid
 xychart-beta
     title "NeilGilani/hebb-claude-plugin 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

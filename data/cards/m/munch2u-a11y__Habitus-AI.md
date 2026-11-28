@@ -1,6 +1,6 @@
 # munch2u-a11y/Habitus-AI
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/munch2u-a11y/Habitus-AI) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-09-06 · [GitHub](https://github.com/munch2u-a11y/Habitus-AI) · 个人维护
 
 **面向 AI Agent 的记忆与认知引擎：纯 Python + SQLite 的结构化记忆系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "munch2u-a11y/Habitus-AI 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 18, 19, 20, 20]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 18, 19, 20, 21]
 ```
 
-2026-10-25 18 → 2026-11-27 20（+2）
+2026-10-26 18 → 2026-11-28 21（+3）
 
 
 ---

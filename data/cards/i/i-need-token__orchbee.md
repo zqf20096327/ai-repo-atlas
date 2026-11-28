@@ -1,6 +1,6 @@
 # i-need-token/orchbee
 
-⭐ 14 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/i-need-token/orchbee) · [官网](https://orchbee.com) · 个人维护 · 中文 README
+⭐ 14 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/i-need-token/orchbee) · [官网](https://orchbee.com) · 个人维护 · 中文 README
 
 **为运行与编排 AI agent CLI 提供的复用型终端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "i-need-token/orchbee 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 15
     line [10, 12, 13, 14, 14]
 ```
 
-2026-11-18 10 → 2026-11-27 14（+4）
+2026-11-18 10 → 2026-11-28 14（+4）
 
 
 ---

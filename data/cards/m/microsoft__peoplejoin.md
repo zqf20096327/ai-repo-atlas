@@ -1,6 +1,6 @@
 # microsoft/peoplejoin
 
-⭐ 11 · Python · MIT · 推送 2026-02-13 · [GitHub](https://github.com/microsoft/peoplejoin) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-02-13 · [GitHub](https://github.com/microsoft/peoplejoin) · 组织维护
 
 **评测 LM agent 多用户协作信息收集的基准与代码数据**
 
@@ -46,12 +46,12 @@ PeopleJoin 是用于评测 LM 介导的协作式问题求解的基准：给定�
 ```mermaid
 xychart-beta
     title "microsoft/peoplejoin 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-08 10 → 2026-11-27 11（+1）
+2026-11-08 10 → 2026-11-28 12（+2）
 
 
 ---

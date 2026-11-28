@@ -1,6 +1,6 @@
 # aerth/orchard
 
-⭐ 3 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/aerth/orchard) · [官网](https://github.com/aerth/orchard) · 个人维护
+⭐ 3 · Go · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/aerth/orchard) · [官网](https://github.com/aerth/orchard) · 个人维护
 
 **Go 语言微型 AI agent 库：工具编排循环的执行框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aerth/orchard 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-27 3（+0）
+2026-11-23 3 → 2026-11-28 3（+0）
 
 
 ---

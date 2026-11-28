@@ -49,12 +49,12 @@
 ```mermaid
 xychart-beta
     title "archersama/awesome-recommend-system-pretraining-papers 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 352 --> 354
     line [353, 353]
 ```
 
-2026-10-25 353 → 2026-11-27 353（+0）
+2026-10-26 353 → 2026-11-28 353（+0）
 
 
 ---

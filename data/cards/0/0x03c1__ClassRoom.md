@@ -1,6 +1,6 @@
 # 0x03c1/ClassRoom
 
-⭐ 18 · C · 推送 2026-10-23 · [GitHub](https://github.com/0x03c1/ClassRoom) · 个人维护
+⭐ 19 · C · 推送 2026-10-23 · [GitHub](https://github.com/0x03c1/ClassRoom) · 个人维护
 
 **高校多门课程的授课资料汇编（按学校/课程组织）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "0x03c1/ClassRoom 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-25 18 → 2026-11-27 18（+0）
+2026-10-26 18 → 2026-11-28 19（+1）
 
 
 ---

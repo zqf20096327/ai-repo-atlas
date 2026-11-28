@@ -1,6 +1,6 @@
 # Riyad-Eita/deckhand
 
-⭐ 3 · Swift · 推送 2026-11-16 · [GitHub](https://github.com/Riyad-Eita/deckhand) · [官网](https://github.com/users/Riyad-Eita/projects/3) · 组织维护
+⭐ 3 · Swift · 推送 2026-11-27 · [GitHub](https://github.com/Riyad-Eita/deckhand) · [官网](https://github.com/users/Riyad-Eita/projects/3) · 组织维护
 
 **把服务器、终端与 AI 编码代理装进 iPhone 的运维客户端**
 
@@ -47,12 +47,12 @@ Deckhand 是一款 iOS 应用，通过 QR 配对或密钥建立 SSH 连接，在
 ```mermaid
 xychart-beta
     title "Riyad-Eita/deckhand 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-27"]
+    x-axis ["2026-11-13", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-27 3（+0）
+2026-11-13 3 → 2026-11-28 3（+0）
 
 
 ---

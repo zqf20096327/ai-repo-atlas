@@ -1,6 +1,6 @@
 # cryptopoly/ChaosEngineAI
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cryptopoly/ChaosEngineAI) · [官网](https://chaosengineai.com) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/cryptopoly/ChaosEngineAI) · [官网](https://chaosengineai.com) · 个人维护
 
 **本地开源权重模型的桌面运行台：发现/运行/对话/测速/生成图像视频**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cryptopoly/ChaosEngineAI 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 24 --> 27
     line [25, 26, 25, 26, 26]
 ```
 
-2026-10-25 25 → 2026-11-27 26（+1）
+2026-10-26 25 → 2026-11-28 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # lobehub/.github
 
-⭐ 12 · TypeScript · 推送 2026-11-06 · [GitHub](https://github.com/lobehub/.github) · 组织维护 · 中文 README
+⭐ 12 · TypeScript · 推送 2026-11-27 · [GitHub](https://github.com/lobehub/.github) · 组织维护 · 中文 README
 
 **LobeHub 组织的 GitHub 社区健康文件与组织简介仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lobehub/.github 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

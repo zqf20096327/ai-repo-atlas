@@ -1,6 +1,6 @@
 # circuitlab-app/circuitlab
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/circuitlab-app/circuitlab) · [官网](https://circuitlab.app/) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/circuitlab-app/circuitlab) · [官网](https://circuitlab.app/) · 组织维护
 
 **儿童浏览器 3D 电路模拟器，AI 板可用自然语言控制电路**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "circuitlab-app/circuitlab 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 5 --> 10
-    line [6, 7, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 5 --> 11
+    line [6, 7, 8, 9, 10]
 ```
 
-2026-11-08 6 → 2026-11-27 9（+3）
+2026-11-08 6 → 2026-11-28 10（+4）
 
 
 ---

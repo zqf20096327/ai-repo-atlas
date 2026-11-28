@@ -1,6 +1,6 @@
 # mikeadolan/claude-brain
 
-⭐ 39 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mikeadolan/claude-brain) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/mikeadolan/claude-brain) · 个人维护
 
 **给 Claude Code 用户的本地持久记忆层：SQLite 全量留存对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mikeadolan/claude-brain 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 38, 35, 38, 39, 39]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 38, 35, 38, 39, 40]
 ```
 
-2026-10-25 35 → 2026-11-27 39（+4）
+2026-10-26 35 → 2026-11-28 40（+5）
 
 
 ---

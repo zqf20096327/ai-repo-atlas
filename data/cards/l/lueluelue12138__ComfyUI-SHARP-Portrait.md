@@ -1,6 +1,6 @@
 # lueluelue12138/ComfyUI-SHARP-Portrait
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lueluelue12138/ComfyUI-SHARP-Portrait) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lueluelue12138/ComfyUI-SHARP-Portrait) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：单张人物照片换视角生成与细节精修**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lueluelue12138/ComfyUI-SHARP-Portrait 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-11-26 11 → 2026-11-27 11（+0）
+2026-11-26 11 → 2026-11-28 12（+1）
 
 
 ---

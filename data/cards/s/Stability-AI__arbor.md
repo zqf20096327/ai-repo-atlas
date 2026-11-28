@@ -1,6 +1,6 @@
 # Stability-AI/arbor
 
-⭐ 112 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/Stability-AI/arbor) · [官网](https://arbor.jdihlmann.com) · 组织维护
+⭐ 113 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/Stability-AI/arbor) · [官网](https://arbor.jdihlmann.com) · 组织维护
 
 **带显式几何约束的文生 3D 资产生成管线**
 
@@ -45,12 +45,12 @@ Stability AI 发布的推理专用 text-to-3D 生成工具：用户提供提示�
 ```mermaid
 xychart-beta
     title "Stability-AI/arbor 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
-    y-axis "stars" 109 --> 113
-    line [110, 111, 112, 112]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-28"]
+    y-axis "stars" 109 --> 114
+    line [110, 111, 112, 113]
 ```
 
-2026-10-25 110 → 2026-11-27 112（+2）
+2026-10-26 110 → 2026-11-28 113（+3）
 
 
 ---

@@ -46,12 +46,12 @@ Portkey 官方 Python SDK，构建在 OpenAI SDK 之上，保持 OpenAI 方法�
 ```mermaid
 xychart-beta
     title "Portkey-AI/portkey-python-sdk 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 117 --> 120
     line [118, 119, 119]
 ```
 
-2026-10-25 118 → 2026-11-27 119（+1）
+2026-10-26 118 → 2026-11-28 119（+1）
 
 
 ---

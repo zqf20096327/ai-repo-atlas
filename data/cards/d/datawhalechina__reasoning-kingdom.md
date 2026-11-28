@@ -1,6 +1,6 @@
 # datawhalechina/reasoning-kingdom
 
-⭐ 436 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/datawhalechina/reasoning-kingdom) · [官网](https://datawhalechina.github.io/reasoning-kingdom/) · 组织维护 · 中文 README
+⭐ 506 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/datawhalechina/reasoning-kingdom) · [官网](https://datawhalechina.github.io/reasoning-kingdom/) · 组织维护 · 中文 README
 
 **面向青少年与爱好者的 AI 推理机制开源三部曲书籍**
 
@@ -44,13 +44,13 @@ Datawhale 出品的开源书籍项目，由前传、上卷、下卷三部曲组�
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/reasoning-kingdom 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 194 --> 458
-    line [217, 216, 217, 218, 219, 220, 225, 230, 232, 233, 271, 332, 395, 436]
+    title "datawhalechina/reasoning-kingdom 星数(近 15 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 187 --> 535
+    line [217, 216, 217, 218, 219, 220, 225, 230, 232, 233, 271, 332, 395, 436, 506]
 ```
 
-2026-10-25 217 → 2026-11-27 436（+219）
+2026-10-26 217 → 2026-11-28 506（+289）
 
 
 ---

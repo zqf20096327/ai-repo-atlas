@@ -43,12 +43,12 @@ OptiML 提供 sklearn 兼容接口的 Support Vector Machines 与 Deep Neural Ne
 ```mermaid
 xychart-beta
     title "dmeoli/optiml 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

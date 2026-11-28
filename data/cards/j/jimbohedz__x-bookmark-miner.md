@@ -1,6 +1,6 @@
 # jimbohedz/x-bookmark-miner
 
-⭐ 11 · Python · MIT · 推送 2026-08-29 · [GitHub](https://github.com/jimbohedz/x-bookmark-miner) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jimbohedz/x-bookmark-miner) · 个人维护
 
 **把 X/Twitter 书签抓取为可搜索 Markdown 知识库的本地工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jimbohedz/x-bookmark-miner 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # RevEngAI/plugin-ida
 
-⭐ 164 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/RevEngAI/plugin-ida) · [官网](https://reveng.ai) · 组织维护
+⭐ 164 · Python · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/RevEngAI/plugin-ida) · [官网](https://reveng.ai) · 组织维护
 
 **逆向工程师在 IDA Pro 中调用 RevEng.AI API 分析二进制**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RevEngAI/plugin-ida 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-28"]
     y-axis "stars" 162 --> 165
     line [163, 164, 164]
 ```
 
-2026-10-25 163 → 2026-11-27 164（+1）
+2026-10-26 163 → 2026-11-28 164（+1）
 
 
 ---

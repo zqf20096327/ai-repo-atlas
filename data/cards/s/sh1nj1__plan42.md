@@ -1,6 +1,6 @@
 # sh1nj1/plan42
 
-⭐ 13 · Ruby · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/sh1nj1/plan42) · [官网](https://collavre.com) · 个人维护
+⭐ 13 · Ruby · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/sh1nj1/plan42) · [官网](https://collavre.com) · 个人维护
 
 **人与 AI agent 共用的自托管协作工作区：文档/任务/讨论/上下文合一**
 
@@ -46,12 +46,12 @@ Rails 8 实现的自托管协作平台：每个 block 同时是文档、任务�
 ```mermaid
 xychart-beta
     title "sh1nj1/plan42 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

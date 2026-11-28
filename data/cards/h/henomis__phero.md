@@ -1,6 +1,6 @@
 # henomis/phero
 
-⭐ 76 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/henomis/phero) · [官网](http://simonevellei.com/phero/) · 个人维护
+⭐ 77 · Go · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/henomis/phero) · [官网](http://simonevellei.com/phero/) · 个人维护
 
 **Go 语言多智能体 AI 系统构建框架**
 
@@ -45,12 +45,12 @@ Go 语言多智能体框架，提供核心编排包（agent）、LLM 抽象层�
 ```mermaid
 xychart-beta
     title "henomis/phero 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 72 --> 77
-    line [73, 74, 75, 73, 76, 76]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 72 --> 78
+    line [73, 74, 75, 73, 76, 77]
 ```
 
-2026-10-25 73 → 2026-11-27 76（+3）
+2026-10-26 73 → 2026-11-28 77（+4）
 
 
 ---

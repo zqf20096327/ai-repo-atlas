@@ -1,6 +1,6 @@
 # fmepm/oracle-epm-mcp-server
 
-⭐ 20 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/fmepm/oracle-epm-mcp-server) · [官网](https://fmepm.com) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/fmepm/oracle-epm-mcp-server) · [官网](https://fmepm.com) · 个人维护
 
 **连接 Claude 与 Oracle EPM Cloud 的 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fmepm/oracle-epm-mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 19, 20, 20]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 19, 20, 21]
 ```
 
-2026-10-25 17 → 2026-11-27 20（+3）
+2026-10-26 17 → 2026-11-28 21（+4）
 
 
 ---

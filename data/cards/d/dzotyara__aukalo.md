@@ -46,12 +46,12 @@ Aukalo 是一个 Claude Code 插件与本地后台服务的组合：当 Claude C
 ```mermaid
 xychart-beta
     title "dzotyara/aukalo 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

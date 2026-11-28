@@ -1,6 +1,6 @@
 # jammyfu/github-risers
 
-⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jammyfu/github-risers) · [官网](https://jammyfu.github.io/github-risers/) · 个人维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jammyfu/github-risers) · [官网](https://jammyfu.github.io/github-risers/) · 个人维护 · 中文 README
 
 **按每日新增 star 排名的 GitHub 上升项目每日榜单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jammyfu/github-risers 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-27"]
+    title "jammyfu/github-risers 星数(近 3 点)"
+    x-axis ["2026-11-01", "2026-11-27", "2026-11-28"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-11-01 4 → 2026-11-27 5（+1）
+2026-11-01 4 → 2026-11-28 5（+1）
 
 
 ---

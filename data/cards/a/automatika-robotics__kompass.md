@@ -1,6 +1,6 @@
 # automatika-robotics/kompass
 
-⭐ 38 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/automatika-robotics/kompass) · [官网](https://emos.automatikarobotics.com) · 组织维护
+⭐ 39 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/automatika-robotics/kompass) · [官网](https://emos.automatikarobotics.com) · 组织维护
 
 **机器人开发者的 GPU 加速事件驱动导航栈**
 
@@ -46,12 +46,12 @@ Kompass 是 EMOS（Embodied Operating System）的导航层，面向真实环境
 ```mermaid
 xychart-beta
     title "automatika-robotics/kompass 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-25 38 → 2026-11-27 38（+0）
+2026-10-26 38 → 2026-11-28 39（+1）
 
 
 ---

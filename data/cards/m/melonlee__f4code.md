@@ -1,6 +1,6 @@
 # melonlee/f4code
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/melonlee/f4code) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/melonlee/f4code) · 个人维护
 
 **本地模型优先的编程 agent GUI，一处服务器多端接入**
 
@@ -40,6 +40,18 @@ F4code 是面向编程 agent 的图形界面，通过 Node WebSocket 服务器�
 > L5: A GUI for coding agents that puts models on your own hardware first. A Node WebSocket server wraps
 > L15:  palette, F4code finds the servers on your machine (Ollama, LM Studio, llama.cpp, vLLM, SGLang,
 > L73: No prebuilt binaries are published for this fork yet, and the update check is not wired to a real
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "melonlee/f4code 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-27 4 → 2026-11-28 5（+1）
 
 
 ---

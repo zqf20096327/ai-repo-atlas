@@ -1,6 +1,6 @@
 # atick-faisal/Real-Time-ECG-Monitoring-Android
 
-⭐ 20 · Kotlin · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/atick-faisal/Real-Time-ECG-Monitoring-Android) · [官网](https://atick.dev) · 个人维护
+⭐ 20 · Kotlin · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/atick-faisal/Real-Time-ECG-Monitoring-Android) · [官网](https://atick.dev) · 个人维护
 
 **Android 实时 ECG 心电异常检测应用（Kotlin）**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "atick-faisal/Real-Time-ECG-Monitoring-Android 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

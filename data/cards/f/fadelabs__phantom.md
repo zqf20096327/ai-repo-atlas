@@ -1,6 +1,6 @@
 # fadelabs/phantom
 
-⭐ 50 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/fadelabs/phantom) · [官网](https://fadelab.net?utm_source=github&utm_medium=repo) · 组织维护
+⭐ 51 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/fadelabs/phantom) · [官网](https://fadelab.net?utm_source=github&utm_medium=repo) · 组织维护
 
 **给 AI 助手的音频混音/母带测量工具集（CLI/库/MCP）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fadelabs/phantom 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 40 --> 51
-    line [41, 42, 43, 41, 45, 47, 48, 49, 50, 50]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 40 --> 52
+    line [41, 42, 43, 41, 45, 47, 48, 49, 50, 51]
 ```
 
-2026-10-25 41 → 2026-11-27 50（+9）
+2026-10-26 41 → 2026-11-28 51（+10）
 
 
 ---

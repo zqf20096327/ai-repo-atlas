@@ -1,6 +1,6 @@
 # taoshidev/vanta-network
 
-⭐ 77 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/taoshidev/vanta-network) · [官网](https://taoshi.io) · 组织维护
+⭐ 77 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/taoshidev/vanta-network) · [官网](https://taoshi.io) · 组织维护
 
 **面向 Bittensor 的去中心化量化交易信号网络（原 Proprietary Trading Network）**
 
@@ -46,12 +46,12 @@ Taoshi 开发的 Bittensor 子网：矿工提交外汇、加密货币、股票�
 ```mermaid
 xychart-beta
     title "taoshidev/vanta-network 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-26", "2026-11-28"]
     y-axis "stars" 75 --> 78
     line [77, 76, 77, 77]
 ```
 
-2026-10-25 77 → 2026-11-27 77（+0）
+2026-10-26 77 → 2026-11-28 77（+0）
 
 
 ---

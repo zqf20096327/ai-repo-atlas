@@ -1,6 +1,6 @@
 # kvchen95/ai-rag
 
-⭐ 3 · Python · 推送 2026-11-25 · [GitHub](https://github.com/kvchen95/ai-rag) · 个人维护 · 中文 README
+⭐ 3 · Python · 推送 2026-11-27 · [GitHub](https://github.com/kvchen95/ai-rag) · 个人维护 · 中文 README
 
 **企业私有化 PDF 知识库问答助手，带引用与拒答门控**
 
@@ -39,6 +39,18 @@
 
 > L3: 私有化 PDF 知识库问答：答得上就答，答不上就说不知道，每条结论可点回原文。
 > L21: docker compose up -d          # 7 个服务：PG / Qdrant / embedding / rerank / api / worker / web
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kvchen95/ai-rag 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

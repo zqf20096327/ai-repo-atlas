@@ -1,6 +1,6 @@
 # JuneYaooo/medical-jev-train
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/JuneYaooo/medical-jev-train) · [官网](https://huggingface.co/JuneYao/medical-jev-4b) · 个人维护 · 中文 README
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/JuneYaooo/medical-jev-train) · [官网](https://huggingface.co/JuneYao/medical-jev-4b) · 个人维护 · 中文 README
 
 **本地运行的医疗选择题判断模型：输入病例与选项，输出答案和概率**
 
@@ -45,12 +45,12 @@ medical-jev-4b 是基于 Qwen3.5-4B 的 LoRA 微调模型，面向医学教学�
 ```mermaid
 xychart-beta
     title "JuneYaooo/medical-jev-train 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 11 --> 27
-    line [12, 26, 26]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 11 --> 32
+    line [12, 26, 31]
 ```
 
-2026-11-23 12 → 2026-11-27 26（+14）
+2026-11-23 12 → 2026-11-28 31（+19）
 
 
 ---

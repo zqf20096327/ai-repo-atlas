@@ -45,12 +45,12 @@ AMD ROCm 官方仓库，提供 HIP 及 ROCm 库（hipblas/hipfft/rccl/amdsmi 等
 ```mermaid
 xychart-beta
     title "ROCm/hip-python 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-25 42 → 2026-11-27 42（+0）
+2026-10-26 42 → 2026-11-28 42（+0）
 
 
 ---

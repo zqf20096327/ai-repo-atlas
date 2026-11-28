@@ -1,6 +1,6 @@
 # Lexus2016/claude-code-studio
 
-⭐ 144 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/Lexus2016/claude-code-studio) · [官网](https://lexus2016.github.io/claude-code-studio/) · 个人维护
+⭐ 144 · JavaScript · 推送 2026-11-27 · [GitHub](https://github.com/Lexus2016/claude-code-studio) · [官网](https://lexus2016.github.io/claude-code-studio/) · 个人维护
 
 **为 Claude Code CLI 提供网页/桌面工作台的 WebUI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lexus2016/claude-code-studio 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 142 --> 146
     line [143, 144, 145, 143, 144, 144]
 ```
 
-2026-10-25 143 → 2026-11-27 144（+1）
+2026-10-26 143 → 2026-11-28 144（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NiceEval/NiceEval
 
-⭐ 167 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/NiceEval/NiceEval) · [官网](https://www.niceeval.com/) · 个人维护 · 中文 README
+⭐ 167 · TypeScript · 推送 2026-11-27 · [GitHub](https://github.com/NiceEval/NiceEval) · [官网](https://www.niceeval.com/) · 个人维护 · 中文 README
 
 **给 agent 开发者写单元测试式评测并用其对比实验**
 
@@ -46,12 +46,12 @@ TypeScript 编写的 agent 评测框架：用 defineEval/defineJudge 以单元�
 ```mermaid
 xychart-beta
     title "NiceEval/NiceEval 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22", "2026-11-23", "2026-11-28"]
     y-axis "stars" 160 --> 168
     line [161, 162, 163, 161, 163, 164, 165, 166, 167, 167]
 ```
 
-2026-10-25 161 → 2026-11-27 167（+6）
+2026-10-26 161 → 2026-11-28 167（+6）
 
 
 ---

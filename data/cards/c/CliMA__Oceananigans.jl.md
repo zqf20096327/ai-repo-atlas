@@ -1,10 +1,10 @@
 # CliMA/Oceananigans.jl
 
-⭐ 1,456 · Julia · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
+⭐ 1,458 · Julia · MIT · 推送 2026-11-27 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
 
-**海洋流体动力学 Julia 仿真库：CPU/GPU 求解 Boussinesq 方程**
+**海洋流体动力学 Julia 模拟库：在 CPU/GPU 上求解 Boussinesq 方程**
 
-Julia 语言编写的有限体积海洋流体仿真包，求解非静力与静力 Boussinesq 方程，支持笛卡尔与球壳域，可在 CPU 与 GPU 上运行。以注册 Julia 包形式分发，通过 Pkg.add 安装；改用 GPU() 架构即可在 Nvidia CUDA GPU 上运行同一仿真代码。由学界与业界贡献者社区驱动开发，测试基础设施由 atdepth 与 Climate Modeling Alliance 提供，附文档、示例、教程与持续性能基准面板。
+Oceananigans.jl 是注册于 Julia 生态的有限体积法求解器包，用于在笛卡尔与球壳域上模拟非静压/静压 Boussinesq 方程，支持 CPU 与 Nvidia GPU（通过 CUDA.jl 切换）。安装方式为 Julia Pkg（需 Julia 1.10+），提供稳定版与开发版文档、示例脚本与教程、性能基准看板，并由 Climate Modeling Alliance 提供测试基础设施。社区驱动开发，采用 MIT 许可，附多篇关联论文与引用条目，其中包含机器学习增强的海洋边界层参数化（NORi）等工作。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@ Julia 语言编写的有限体积海洋流体仿真包，求解非静力与静�
 
 ## 能力要点
 
-- 有限体积求解非静力/静力 Boussinesq 方程，支持笛卡尔与球壳域
-- 同一仿真代码可将 CPU() 换为 GPU() 运行于 Nvidia CUDA GPU
-- MIT 许可的注册 Julia 包，含文档、教程与性能基准面板
-- 社区维护多篇开发论文，含 ML 增强的边界层参数化 NORi
+- 有限体积法求解非静压/静压 Boussinesq 方程（NonhydrostaticModel/HydrostaticFreeSurfaceModel）
+- 支持 CPU 与 CUDA Nvidia GPU，同一代码切换 CPU()/GPU() 即可
+- 提供 WENO 等平流格式与自动校准的 CATKE 垂直扩散参数化
+- 支持多 GPU Distributed 架构与可微分工作流（Enzyme.jl/Reactant.jl）
 
 ## 适用场景
 
-- 模拟海洋湍流、深对流等不可压缩流体动力学过程
-- 在 GPU 上开展中尺度分辨率的全球海洋气候仿真
-- 科研与教学中构建和运行数值海洋模型实验
+- 海洋湍流与对流的大涡模拟实验
+- 海洋边界层混合参数化的训练与校准
+- 公里级分辨率全球海洋气候模拟
+- GPU 上运行地球物理流体动力学教学示例
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+ · 领域:科学计算/气候与海洋模拟
 
 ## 证据(README 行号)
 
-> L3:  🌊 Fast and friendly ocean-flavored Julia software for simulating incompressible fluid dynamics in Cartesian and sph
 > L44: Oceananigans is a fast, friendly, flexible software package for finite volume simulations of the nonhydrostatic
 > L86: But there's more: loading CUDA.jl (via `using CUDA`) and changing `CPU()` to `GPU()` makes this code run on a CUDA-
+> L146:  *This paper describes the development of NORi, a machine-learning-augmented parameterization for ocean boundary l
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "CliMA/Oceananigans.jl 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1441 --> 1457
-    line [1442, 1443, 1445, 1442, 1448, 1449, 1450, 1452, 1453, 1454, 1455, 1456, 1455, 1456]
+    title "CliMA/Oceananigans.jl 星数(近 15 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 1441 --> 1459
+    line [1442, 1443, 1445, 1442, 1448, 1449, 1450, 1452, 1453, 1454, 1455, 1456, 1455, 1456, 1458]
 ```
 
-2026-10-25 1,442 → 2026-11-27 1,456（+14）
+2026-10-26 1,442 → 2026-11-28 1,458（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c38f74e60a10` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `3770de382694` · [字段定义](../../DATASET.md)*

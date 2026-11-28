@@ -46,12 +46,12 @@ dsh-redline 是 DeepSeek Harness 的插件，在 harness 浏览器渲染的页�
 ```mermaid
 xychart-beta
     title "klaus-2/dsh-redline 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-18 4 → 2026-11-27 4（+0）
+2026-11-18 4 → 2026-11-28 4（+0）
 
 
 ---

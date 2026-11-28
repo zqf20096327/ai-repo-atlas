@@ -1,6 +1,6 @@
 # agens-research-labs/a-graph
 
-⭐ 4 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/agens-research-labs/a-graph) · 组织维护
+⭐ 4 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/agens-research-labs/a-graph) · 组织维护
 
 **用 YAML 声明式定义并运行 agent 图的 Rust 引擎**
 
@@ -41,6 +41,18 @@
 > L3: A-Graph is a declarative framework for AI agents: the agents are described in a YAML file, and an engine checks the
 > L25: `a-graph` runs a **graph of agents written in a YAML file**. The file holds the problem of the agents: the models,
 > L51: It is a program for the command line and a small HTTP service, written in Rust. It was designed with a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agens-research-labs/a-graph 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
 
 
 ---

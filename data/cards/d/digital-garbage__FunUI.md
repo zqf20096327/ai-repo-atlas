@@ -1,6 +1,6 @@
 # digital-garbage/FunUI
 
-⭐ 24 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/digital-garbage/FunUI) · 个人维护
+⭐ 24 · Python · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/digital-garbage/FunUI) · 个人维护
 
 **基于 ComfyUI 后端的非线性视频编辑与生成浏览器工作室**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "digital-garbage/FunUI 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-28"]
     y-axis "stars" 19 --> 25
     line [20, 21, 22, 23, 24, 24]
 ```
 
-2026-10-26 20 → 2026-11-27 24（+4）
+2026-10-26 20 → 2026-11-28 24（+4）
 
 
 ---

@@ -45,12 +45,12 @@ FinRL竞赛Task 1的研究代码：D3QN、DoubleDQN、TwinD3QN三个DQN agent在
 ```mermaid
 xychart-beta
     title "Mattbusel/FinRL_DeepSeek_Crypto_Trading 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-25 18 → 2026-11-27 19（+1）
+2026-10-26 18 → 2026-11-28 19（+1）
 
 
 ---

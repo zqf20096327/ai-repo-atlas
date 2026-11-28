@@ -45,12 +45,12 @@ Python 库，为 PostgreSQL/pgvector、MySQL HeatWave、MariaDB、SQLite/sqlite-
 ```mermaid
 xychart-beta
     title "mihirahuja1/vectorwrap 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-24 45 → 2026-11-27 45（+0）
+2026-10-25 45 → 2026-11-28 45（+0）
 
 
 ---

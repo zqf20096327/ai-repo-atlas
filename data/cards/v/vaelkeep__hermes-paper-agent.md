@@ -1,6 +1,6 @@
 # vaelkeep/hermes-paper-agent
 
-⭐ 72 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/vaelkeep/hermes-paper-agent) · [官网](https://vaelkeep.github.io/hermes-paper-agent/) · 个人维护
+⭐ 73 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/vaelkeep/hermes-paper-agent) · [官网](https://vaelkeep.github.io/hermes-paper-agent/) · 个人维护
 
 **自动生成个人夜间报纸的 agent：数据桌面写代码、模型写文章**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vaelkeep/hermes-paper-agent 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 69 --> 73
-    line [70, 71, 72, 70, 72, 72]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 69 --> 74
+    line [70, 71, 72, 70, 72, 73]
 ```
 
-2026-10-25 70 → 2026-11-27 72（+2）
+2026-10-26 70 → 2026-11-28 73（+3）
 
 
 ---

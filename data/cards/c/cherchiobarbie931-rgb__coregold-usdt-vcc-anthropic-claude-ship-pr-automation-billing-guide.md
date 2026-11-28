@@ -1,6 +1,6 @@
 # cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide
 
-⭐ 23 · 推送 2026-11-25 · [GitHub](https://github.com/cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 37 · 推送 2026-11-25 · [GitHub](https://github.com/cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **用 CoreGold USDT 虚拟卡为 AI 开发订阅与 API 消费设预算上限的教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 24
-    line [8, 23]
+    title "cherchiobarbie931-rgb/coregold-usdt-vcc-anthropic-claude-ship-pr-automation-billing-guide 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 6 --> 39
+    line [8, 23, 37]
 ```
 
-2026-11-26 8 → 2026-11-27 23（+15）
+2026-11-26 8 → 2026-11-28 37（+29）
 
 
 ---

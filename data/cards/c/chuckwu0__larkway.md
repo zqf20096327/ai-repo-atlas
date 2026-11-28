@@ -1,6 +1,6 @@
 # chuckwu0/larkway
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/chuckwu0/larkway) · [官网](https://larkway.dev) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/chuckwu0/larkway) · [官网](https://larkway.dev) · 个人维护 · 中文 README
 
 **把 Claude Code/Codex 订阅变成飞书团队可 @ 的编码 agent 桥**
 
@@ -45,13 +45,13 @@ Larkway 是运行在用户本机/常驻主机上的桥接服务：订阅飞书�
 
 ```mermaid
 xychart-beta
-    title "chuckwu0/larkway 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 12 --> 17
-    line [13, 14, 15, 16]
+    title "chuckwu0/larkway 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-20", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 16, 17]
 ```
 
-2026-10-25 13 → 2026-11-27 16（+3）
+2026-10-26 13 → 2026-11-28 17（+4）
 
 
 ---

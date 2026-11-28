@@ -1,6 +1,6 @@
 # WXJJ0520/FrameWeave
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/WXJJ0520/FrameWeave) · 个人维护 · 中文 README
+⭐ 5 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/WXJJ0520/FrameWeave) · 个人维护 · 中文 README
 
 **面向内容创作者的本地 AI 视频创作工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WXJJ0520/FrameWeave 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-08 3 → 2026-11-27 4（+1）
+2026-11-08 3 → 2026-11-28 5（+2）
 
 
 ---

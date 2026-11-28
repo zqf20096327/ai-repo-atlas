@@ -1,6 +1,6 @@
 # fastxyz/skill-optimizer
 
-⭐ 86 · TypeScript · MIT · 推送 2026-05-28 · [GitHub](https://github.com/fastxyz/skill-optimizer) · 组织维护
+⭐ 87 · TypeScript · MIT · 推送 2026-05-28 · [GitHub](https://github.com/fastxyz/skill-optimizer) · 组织维护
 
 **在 Docker 中对 agent 技能做确定性评测的 CLI 与插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fastxyz/skill-optimizer 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 81 --> 87
-    line [82, 85, 84, 85, 86, 86]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 81 --> 88
+    line [82, 85, 84, 85, 86, 87]
 ```
 
-2026-10-25 82 → 2026-11-27 86（+4）
+2026-10-26 82 → 2026-11-28 87（+5）
 
 
 ---

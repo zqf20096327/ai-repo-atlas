@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "acoder-ai-infra/agenui-studio 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    title "acoder-ai-infra/agenui-studio 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-27", "2026-11-28"]
     y-axis "stars" 78 --> 82
-    line [79, 80, 81]
+    line [79, 80, 81, 81]
 ```
 
-2026-10-25 79 → 2026-11-27 81（+2）
+2026-10-26 79 → 2026-11-28 81（+2）
 
 
 ---

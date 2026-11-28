@@ -1,6 +1,6 @@
 # ChaokunHong/MetaScreener
 
-⭐ 1,344 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/ChaokunHong/MetaScreener) · [官网](https://www.metascreener.net/) · 个人维护
+⭐ 1,345 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/ChaokunHong/MetaScreener) · [官网](https://www.metascreener.net/) · 个人维护
 
 **多 LLM 集成做系统综述文献筛选的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChaokunHong/MetaScreener 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1337 --> 1345
-    line [1338, 1339, 1340, 1341, 1342, 1344, 1344]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 1337 --> 1346
+    line [1338, 1339, 1340, 1341, 1342, 1344, 1345]
 ```
 
-2026-10-25 1,338 → 2026-11-27 1,344（+6）
+2026-10-26 1,338 → 2026-11-28 1,345（+7）
 
 
 ---

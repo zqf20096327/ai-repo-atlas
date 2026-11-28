@@ -1,6 +1,6 @@
 # NX-AI/xlstm_scaling_laws
 
-⭐ 24 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/NX-AI/xlstm_scaling_laws) · 组织维护
+⭐ 25 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/NX-AI/xlstm_scaling_laws) · 组织维护
 
 **xLSTM 与 Transformer 缩放律研究的代码与数据仓库**
 
@@ -45,12 +45,12 @@ NX-AI 团队发布的研究代码与数据仓库，配套 ICLR 2026 论文：研
 ```mermaid
 xychart-beta
     title "NX-AI/xlstm_scaling_laws 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-11-02", "2026-11-28"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-11-02 24 → 2026-11-27 24（+0）
+2026-11-02 24 → 2026-11-28 25（+1）
 
 
 ---

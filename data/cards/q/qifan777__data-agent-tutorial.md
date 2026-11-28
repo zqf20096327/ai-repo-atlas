@@ -1,6 +1,6 @@
 # qifan777/data-agent-tutorial
 
-⭐ 120 · Kotlin · 推送 2026-11-05 · [GitHub](https://github.com/qifan777/data-agent-tutorial) · [官网](https://www.jarcheng.top/data-agent/) · 个人维护 · 中文 README
+⭐ 121 · Kotlin · 推送 2026-11-05 · [GitHub](https://github.com/qifan777/data-agent-tutorial) · [官网](https://www.jarcheng.top/data-agent/) · 个人维护 · 中文 README
 
 **从 0 到 1 构建 Text2SQL 智能体的实战教程项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qifan777/data-agent-tutorial 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 112 --> 121
-    line [113, 114, 115, 113, 116, 117, 118, 119, 120, 120]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 112 --> 122
+    line [113, 114, 115, 113, 116, 117, 118, 119, 120, 121]
 ```
 
-2026-10-25 113 → 2026-11-27 120（+7）
+2026-10-26 113 → 2026-11-28 121（+8）
 
 
 ---

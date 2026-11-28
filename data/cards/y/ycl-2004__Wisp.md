@@ -1,6 +1,6 @@
 # ycl-2004/Wisp
 
-⭐ 168 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ycl-2004/Wisp) · 个人维护 · 中文 README
+⭐ 168 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ycl-2004/Wisp) · 个人维护 · 中文 README
 
 **macOS 菜单栏 AI 助手：按需读取屏幕与浏览器上下文回答问题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ycl-2004/Wisp 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "ycl-2004/Wisp 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 167 --> 170
-    line [169, 168]
+    line [169, 168, 168]
 ```
 
-2026-11-08 169 → 2026-11-27 168（-1）
+2026-11-08 169 → 2026-11-28 168（-1）
 
 
 ---

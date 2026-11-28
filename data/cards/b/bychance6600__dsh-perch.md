@@ -1,6 +1,6 @@
 # bychance6600/dsh-perch
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bychance6600/dsh-perch) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/bychance6600/dsh-perch) · 个人维护 · 中文 README
 
 **基于事件流长成人格的 DSH 插件，接 QQ 陪伴**
 
@@ -45,13 +45,13 @@ dsh-perch 是 DSH 的一个插件，提供一个通过只追加事件流（event
 
 ```mermaid
 xychart-beta
-    title "bychance6600/dsh-perch 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-20", "2026-11-23", "2026-11-27"]
+    title "bychance6600/dsh-perch 星数(近 5 点)"
+    x-axis ["2026-11-14", "2026-11-20", "2026-11-23", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    line [3, 4, 5, 6, 6]
 ```
 
-2026-11-14 3 → 2026-11-27 6（+3）
+2026-11-14 3 → 2026-11-28 6（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # boringstack-xyz/tsforge
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/boringstack-xyz/tsforge) · [官网](https://tsforge.dev) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/boringstack-xyz/tsforge) · [官网](https://tsforge.dev) · 组织维护
 
 **TypeScript 全栈开发构建工具：指向仓库持续构建直至通过门禁**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "boringstack-xyz/tsforge 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-28"]
     y-axis "stars" 39 --> 44
     line [40, 41, 42, 43, 43]
 ```
 
-2026-10-25 40 → 2026-11-27 43（+3）
+2026-10-26 40 → 2026-11-28 43（+3）
 
 
 ---

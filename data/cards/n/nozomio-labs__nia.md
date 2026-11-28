@@ -46,12 +46,12 @@ Nozomio Labs（Y Combinator 支持）开发的 API 层产品：将 GitHub 仓库
 ```mermaid
 xychart-beta
     title "nozomio-labs/nia 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-25 73 → 2026-11-27 73（+0）
+2026-10-26 73 → 2026-11-28 73（+0）
 
 
 ---

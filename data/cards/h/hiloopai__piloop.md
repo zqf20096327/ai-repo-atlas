@@ -1,6 +1,6 @@
 # hiloopai/piloop
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hiloopai/piloop) · [官网](https://piloop.autoresearch.inc) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **让编码 agent 尝试想法、按评估打分择优提交的工具**
 
@@ -11,7 +11,7 @@ piloop 面向任意 git 仓库运行自动化研究流程：多个编码 agent �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

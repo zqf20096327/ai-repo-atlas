@@ -1,6 +1,6 @@
 # dangiwritecode/Jackass-Interview-Questions
 
-⭐ 7 · 推送 2026-10-28 · [GitHub](https://github.com/dangiwritecode/Jackass-Interview-Questions) · 个人维护
+⭐ 8 · 推送 2026-10-28 · [GitHub](https://github.com/dangiwritecode/Jackass-Interview-Questions) · 个人维护
 
 **面向求职者的公司面试题库清单（2,246 家公司）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "dangiwritecode/Jackass-Interview-Questions 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7, 7]
+    x-axis ["2026-10-30", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 6, 7, 8]
 ```
 
-2026-10-30 4 → 2026-11-27 7（+3）
+2026-10-30 4 → 2026-11-28 8（+4）
 
 
 ---

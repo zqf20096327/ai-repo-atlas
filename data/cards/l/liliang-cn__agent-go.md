@@ -1,6 +1,6 @@
 # liliang-cn/agent-go
 
-⭐ 11 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/liliang-cn/agent-go) · [官网](https://liliang-cn.github.io/agent-go/) · 个人维护 · 中文 README
+⭐ 11 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/liliang-cn/agent-go) · [官网](https://liliang-cn.github.io/agent-go/) · 个人维护 · 中文 README
 
 **Go 开发者的 AI Agent SDK：嵌入程序的 agent 循环库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liliang-cn/agent-go 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-30 10 → 2026-11-27 11（+1）
+2026-10-30 10 → 2026-11-28 11（+1）
 
 
 ---

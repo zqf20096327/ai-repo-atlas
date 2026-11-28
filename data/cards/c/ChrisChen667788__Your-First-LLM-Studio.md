@@ -1,6 +1,6 @@
 # ChrisChen667788/Your-First-LLM-Studio
 
-⭐ 81 · TypeScript · MIT · 推送 2026-10-06 · [GitHub](https://github.com/ChrisChen667788/Your-First-LLM-Studio) · [官网](https://github.com/ChrisChen667788/Your-First-LLM-Studio) · 个人维护 · 中文 README
+⭐ 81 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ChrisChen667788/Your-First-LLM-Studio) · [官网](https://github.com/ChrisChen667788/Your-First-LLM-Studio) · 个人维护 · 中文 README
 
 **面向 Apple Silicon 的本地优先 LLM 工作台，集成 Agent、对比、微调与评测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChrisChen667788/Your-First-LLM-Studio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-25 81 → 2026-11-27 81（+0）
+2026-10-26 81 → 2026-11-28 81（+0）
 
 
 ---

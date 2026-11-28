@@ -1,6 +1,6 @@
 # odorizzioficial/MouseIA
 
-⭐ 4 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/odorizzioficial/MouseIA) · [官网](https://www.youtube.com/@odorizzioficial) · 个人维护
+⭐ 5 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/odorizzioficial/MouseIA) · [官网](https://www.youtube.com/@odorizzioficial) · 个人维护
 
 **Windows 屏幕划选即问 AI 的工具：翻译、OCR、读码、Lens 检索**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "odorizzioficial/MouseIA 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "odorizzioficial/MouseIA 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 5（+2）
 
 
 ---

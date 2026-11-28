@@ -1,6 +1,6 @@
 # imbue-bit/NS-NTK
 
-⭐ 50 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/imbue-bit/NS-NTK) · 组织维护
+⭐ 49 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/imbue-bit/NS-NTK) · 组织维护
 
 **金融连续分布偏移论文官方代码：NS-NTK 理论实现**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "imbue-bit/NS-NTK 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 48 --> 51
-    line [49, 50, 50]
+    line [49, 50, 49]
 ```
 
-2026-10-25 49 → 2026-11-27 50（+1）
+2026-10-26 49 → 2026-11-28 49（+0）
 
 
 ---

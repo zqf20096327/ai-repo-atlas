@@ -1,6 +1,6 @@
 # pathorsAI/parley
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pathorsAI/parley) · [官网](https://parley.tw) · 组织维护 · 中文 README
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/pathorsAI/parley) · [官网](https://parley.tw) · 组织维护 · 中文 README
 
 **给销售/谈判通话做实时 AI 教练的本地优先 macOS/Windows 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pathorsAI/parley 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-27"]
+    title "pathorsAI/parley 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-28"]
     y-axis "stars" 21 --> 29
-    line [22, 23, 22, 25, 26, 27, 28, 28]
+    line [23, 22, 25, 26, 27, 28, 28]
 ```
 
-2026-10-25 22 → 2026-11-27 28（+6）
+2026-10-26 23 → 2026-11-28 28（+5）
 
 
 ---

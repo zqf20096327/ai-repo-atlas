@@ -1,6 +1,6 @@
 # Cerzi/videoswarm
 
-⭐ 107 · JavaScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Cerzi/videoswarm) · [官网](https://github.com/Cerzi/videoswarm/releases) · 个人维护
+⭐ 108 · JavaScript · GPL-3.0 · 推送 2026-10-27 · [GitHub](https://github.com/Cerzi/videoswarm) · [官网](https://github.com/Cerzi/videoswarm/releases) · 个人维护
 
 **大规模视频集批量播放与审阅的桌面浏览器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cerzi/videoswarm 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 104 --> 108
-    line [106, 105, 106, 107, 107]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 104 --> 109
+    line [106, 105, 106, 107, 108]
 ```
 
-2026-10-25 106 → 2026-11-27 107（+1）
+2026-10-26 106 → 2026-11-28 108（+2）
 
 
 ---

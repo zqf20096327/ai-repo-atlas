@@ -1,6 +1,6 @@
 # NetSendo/NetSendo
 
-⭐ 19 · PHP · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/NetSendo/NetSendo) · [官网](https://netsendo.com) · 组织维护
+⭐ 19 · PHP · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/NetSendo/NetSendo) · [官网](https://netsendo.com) · 组织维护
 
 **自托管的邮件/短信营销自动化平台，含 CRM、网络研讨会与 AI 套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NetSendo/NetSendo 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-11-08 19 → 2026-11-27 19（+0）
+2026-11-08 19 → 2026-11-28 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # daviddao/awesome-data-valuation
 
-⭐ 146 · MIT · 推送 2026-08-14 · [GitHub](https://github.com/daviddao/awesome-data-valuation) · 个人维护
+⭐ 147 · MIT · 推送 2026-08-14 · [GitHub](https://github.com/daviddao/awesome-data-valuation) · 个人维护
 
 **数据估值（Data Valuation）论文与方法的策展清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "daviddao/awesome-data-valuation 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 144 --> 147
-    line [145, 146, 146]
+    x-axis ["2026-10-26", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 144 --> 148
+    line [145, 146, 147]
 ```
 
-2026-10-25 145 → 2026-11-27 146（+1）
+2026-10-26 145 → 2026-11-28 147（+2）
 
 
 ---

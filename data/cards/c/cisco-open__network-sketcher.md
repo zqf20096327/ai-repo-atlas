@@ -1,6 +1,6 @@
 # cisco-open/network-sketcher
 
-⭐ 425 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cisco-open/network-sketcher) · [官网](https://github.com/cisco-open/network-sketcher) · 组织维护
+⭐ 427 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cisco-open/network-sketcher) · [官网](https://github.com/cisco-open/network-sketcher) · 组织维护
 
 **让 LLM 客户端驱动网络设计与拓扑图输出的工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "cisco-open/network-sketcher 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 412 --> 426
-    line [413, 414, 415, 416, 413, 417, 418, 419, 420, 421, 425]
+    title "cisco-open/network-sketcher 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 412 --> 428
+    line [413, 414, 415, 416, 413, 417, 418, 419, 420, 421, 425, 427]
 ```
 
-2026-10-25 413 → 2026-11-27 425（+12）
+2026-10-26 413 → 2026-11-28 427（+14）
 
 
 ---

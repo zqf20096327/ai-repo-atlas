@@ -41,6 +41,18 @@
 > L48: - An MCP server entrypoint so the investigation flow can be exposed to AI tools.
 > L94: ## Connect To Real Systems
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "UnCooe/debug-runbook 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `cfcaea49b164` · [字段定义](../../DATASET.md)*

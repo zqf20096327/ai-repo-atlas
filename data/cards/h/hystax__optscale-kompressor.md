@@ -1,6 +1,6 @@
 # hystax/optscale-kompressor
 
-⭐ 74 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hystax/optscale-kompressor) · 组织维护
+⭐ 75 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/hystax/optscale-kompressor) · 组织维护
 
 **给编程 agent 压缩提示词、降低 API 账单的本地代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hystax/optscale-kompressor 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 71 --> 75
-    line [72, 74]
+    title "hystax/optscale-kompressor 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 71 --> 76
+    line [72, 74, 75]
 ```
 
-2026-11-26 72 → 2026-11-27 74（+2）
+2026-11-26 72 → 2026-11-28 75（+3）
 
 
 ---

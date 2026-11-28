@@ -1,6 +1,6 @@
 # zann06/AksesAI
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zann06/AksesAI) · [官网](https://aksesai-id.vercel.app) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zann06/AksesAI) · [官网](https://aksesai-id.vercel.app) · 个人维护
 
 **印尼社区维护的免费/低价 AI 资源目录（免费 API、token 价格等）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zann06/AksesAI 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-27"]
+    title "zann06/AksesAI 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-27", "2026-11-28"]
     y-axis "stars" 3 --> 18
-    line [4, 5, 13, 16, 17]
+    line [4, 5, 13, 16, 17, 17]
 ```
 
-2026-11-08 4 → 2026-11-27 17（+13）
+2026-11-08 4 → 2026-11-28 17（+13）
 
 
 ---

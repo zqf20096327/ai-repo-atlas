@@ -1,6 +1,6 @@
 # OmniGoAI/omnipost-skill
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/OmniGoAI/omnipost-skill) · [官网](https://omnigoai.com/zh/products/omnipost/)
+⭐ 4 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/OmniGoAI/omnipost-skill) · [官网](https://omnigoai.com/zh/products/omnipost/)
 
 **让 AI 代理一条命令发布内容到 40+ 平台的技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OmniGoAI/omnipost-skill 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-10-25 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 4（+1）
 
 
 ---

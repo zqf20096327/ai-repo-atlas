@@ -1,6 +1,6 @@
 # smartboot/feat
 
-⭐ 67 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/smartboot/feat) · [官网](https://smartboot.tech/feat/) · 个人维护 · 中文 README
+⭐ 67 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/smartboot/feat) · [官网](https://smartboot.tech/feat/) · 个人维护 · 中文 README
 
 **Java Web 服务开发框架，含 Cloud/Core/AI 模块**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "smartboot/feat 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-25 67 → 2026-11-27 67（+0）
+2026-10-26 67 → 2026-11-28 67（+0）
 
 
 ---

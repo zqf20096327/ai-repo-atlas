@@ -1,6 +1,6 @@
 # iitian-vibes/India-Tech-Internships
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iitian-vibes/India-Tech-Internships) · [官网](https://iitianvibes.com/blog/deadline-desk/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向印度工科学生的科技实习与竞赛每日更新清单**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # AetherAI3/Predator
 
-⭐ 12 · 推送 2026-11-26 · [GitHub](https://github.com/AetherAI3/Predator) · [官网](https://aetherai3.github.io/Predator/) · 个人维护
+⭐ 12 · 推送 2026-11-27 · [GitHub](https://github.com/AetherAI3/Predator) · [官网](https://aetherai3.github.io/Predator/) · 个人维护
 
 **AI 安全研究与软件修复 agent 的公开展示与证据仓库**
 
@@ -46,12 +46,12 @@ Predator 是 Aether AI 的 AI 安全研究项目，README 为公开的功能展�
 ```mermaid
 xychart-beta
     title "AetherAI3/Predator 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

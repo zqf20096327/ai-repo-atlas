@@ -1,6 +1,6 @@
 # wildsurfer/your-mail-mcp
 
-⭐ 21 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/wildsurfer/your-mail-mcp) · [官网](https://github.com/wildsurfer/your-mail-mcp#readme) · 个人维护
+⭐ 21 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/wildsurfer/your-mail-mcp) · [官网](https://github.com/wildsurfer/your-mail-mcp#readme) · 个人维护
 
 **只读 MCP 服务器：把 IMAP 邮件镜像到本地并供 AI 助手检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wildsurfer/your-mail-mcp 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-28"]
     y-axis "stars" 17 --> 22
     line [18, 19, 18, 20, 21, 21]
 ```
 
-2026-10-25 18 → 2026-11-27 21（+3）
+2026-10-26 18 → 2026-11-28 21（+3）
 
 
 ---

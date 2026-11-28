@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy4
 
-⭐ 83 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4) · 组织维护 · 中文 README
+⭐ 84 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4) · 组织维护 · 中文 README
 
 **腾讯混元 770B MoE 开源多模态大模型权重发布**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/Hy4 星数(近 6 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 61 --> 85
-    line [63, 71, 73, 76, 83, 83]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 61 --> 86
+    line [63, 71, 73, 76, 83, 84]
 ```
 
-2026-11-21 63 → 2026-11-27 83（+20）
+2026-11-21 63 → 2026-11-28 84（+21）
 
 
 ---

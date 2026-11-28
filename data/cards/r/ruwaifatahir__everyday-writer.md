@@ -1,6 +1,6 @@
 # ruwaifatahir/everyday-writer
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ruwaifatahir/everyday-writer) · [官网](https://everydaywriter.ruwaifa.xyz) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/ruwaifatahir/everyday-writer) · [官网](https://everydaywriter.ruwaifa.xyz) · 个人维护
 
 **Windows 全局快捷键文本改写工具，任意应用内修复文字**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ruwaifatahir/everyday-writer 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [4, 3, 4, 5, 5]
 ```
 
-2026-10-26 4 → 2026-11-27 5（+1）
+2026-10-26 4 → 2026-11-28 5（+1）
 
 
 ---

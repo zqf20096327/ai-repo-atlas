@@ -44,13 +44,13 @@ Bosch AIShield 开源的安全扫描工具：自动发现仓库中的 AI/ML 模�
 
 ```mermaid
 xychart-beta
-    title "bosch-aisecurity-aishield/watchtower 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "bosch-aisecurity-aishield/watchtower 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 200 --> 203
-    line [201, 202]
+    line [201, 202, 202]
 ```
 
-2026-10-25 201 → 2026-11-27 202（+1）
+2026-10-26 201 → 2026-11-28 202（+1）
 
 
 ---

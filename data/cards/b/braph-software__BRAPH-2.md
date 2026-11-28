@@ -1,6 +1,6 @@
 # braph-software/BRAPH-2
 
-⭐ 71 · MATLAB · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/braph-software/BRAPH-2) · [官网](http://braph.org) · 组织维护
+⭐ 72 · MATLAB · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/braph-software/BRAPH-2) · [官网](http://braph.org) · 组织维护
 
 **MATLAB 脑连接组网络分析框架，供神经科学研究者做多图层与深度学习分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "braph-software/BRAPH-2 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 69 --> 72
-    line [71, 70, 71, 71]
+    x-axis ["2026-10-26", "2026-11-21", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 69 --> 73
+    line [71, 70, 71, 72]
 ```
 
-2026-10-25 71 → 2026-11-27 71（+0）
+2026-10-26 71 → 2026-11-28 72（+1）
 
 
 ---

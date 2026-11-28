@@ -1,6 +1,6 @@
 # google/sec-gemini
 
-⭐ 670 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google/sec-gemini) · [官网](https://secgemini.google/) · 组织维护
+⭐ 671 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google/sec-gemini) · [官网](https://secgemini.google/) · 组织维护
 
 **Google 的网络安全专注 AI agent 及其 Python SDK**
 
@@ -45,12 +45,12 @@ Sec-Gemini 是 Google 推出的实验性网络安全方向 agent，目前处于�
 ```mermaid
 xychart-beta
     title "google/sec-gemini 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 660 --> 671
-    line [661, 662, 661, 662, 664, 667, 669, 670, 670]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 660 --> 672
+    line [661, 662, 661, 662, 664, 667, 669, 670, 671]
 ```
 
-2026-10-25 661 → 2026-11-27 670（+9）
+2026-10-26 661 → 2026-11-28 671（+10）
 
 
 ---

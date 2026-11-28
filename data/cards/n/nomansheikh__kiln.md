@@ -46,12 +46,12 @@ Kiln 是面向 Apple Silicon Mac 的本地模型应用：从 Hugging Face 下载
 ```mermaid
 xychart-beta
     title "nomansheikh/kiln 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 3（+0）
 
 
 ---

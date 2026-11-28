@@ -1,6 +1,6 @@
 # xukp20/agy-lens
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xukp20/agy-lens) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/xukp20/agy-lens) · 个人维护 · 中文 README
 
 **Antigravity Desktop/CLI 的本地只读遥测侧边栏：缓存与成本观测**
 
@@ -46,12 +46,12 @@ AGY Lens 是面向 Antigravity Desktop 与 CLI 的本地只读遥测侧边栏，
 ```mermaid
 xychart-beta
     title "xukp20/agy-lens 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 8 --> 10
-    line [9, 9]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 8 --> 11
+    line [9, 10]
 ```
 
-2026-11-25 9 → 2026-11-27 9（+0）
+2026-11-25 9 → 2026-11-28 10（+1）
 
 
 ---

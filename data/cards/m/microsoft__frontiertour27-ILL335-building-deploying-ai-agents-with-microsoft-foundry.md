@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 22, 23, 23]
+    title "microsoft/frontiertour27-ILL335-building-deploying-ai-agents-with-microsoft-foundry 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 22, 23, 23]
 ```
 
-2026-10-24 21 → 2026-11-27 23（+2）
+2026-10-25 22 → 2026-11-28 23（+1）
 
 
 ---

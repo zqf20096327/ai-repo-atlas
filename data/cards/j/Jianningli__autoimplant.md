@@ -44,12 +44,12 @@ MICCAI 2020 AutoImplant 颅内植入体设计挑战赛的基线方法代码库�
 ```mermaid
 xychart-beta
     title "Jianningli/autoimplant 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-25 28 → 2026-11-27 28（+0）
+2026-10-26 28 → 2026-11-28 28（+0）
 
 
 ---

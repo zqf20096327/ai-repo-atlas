@@ -1,6 +1,6 @@
 # TU-Wien-dataLAB/aqueduct
 
-⭐ 32 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/TU-Wien-dataLAB/aqueduct) · [官网](https://tu-wien-datalab.github.io/aqueduct/) · 组织维护
+⭐ 32 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/TU-Wien-dataLAB/aqueduct) · [官网](https://tu-wien-datalab.github.io/aqueduct/) · 组织维护
 
 **基于 LiteLLM Router SDK 与 Django 的自托管 AI 网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TU-Wien-dataLAB/aqueduct 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
     y-axis "stars" 29 --> 33
     line [30, 32, 32]
 ```
 
-2026-10-25 30 → 2026-11-27 32（+2）
+2026-10-26 30 → 2026-11-28 32（+2）
 
 
 ---

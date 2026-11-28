@@ -1,6 +1,6 @@
 # viuuro/qq-agent-xiaoruan
 
-⭐ 8 · JavaScript · 推送 2026-10-21 · [GitHub](https://github.com/viuuro/qq-agent-xiaoruan) · 个人维护 · 中文 README
+⭐ 9 · JavaScript · 推送 2026-10-21 · [GitHub](https://github.com/viuuro/qq-agent-xiaoruan) · 个人维护 · 中文 README
 
 **面向高校社团的 QQ 群 AI 机器人部署仓库与运维工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "viuuro/qq-agent-xiaoruan 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 5 --> 9
-    line [6, 7, 8, 8]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 5 --> 10
+    line [6, 7, 8, 9]
 ```
 
-2026-10-25 6 → 2026-11-27 8（+2）
+2026-10-26 6 → 2026-11-28 9（+3）
 
 
 ---

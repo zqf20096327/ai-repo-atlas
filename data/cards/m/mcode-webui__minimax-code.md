@@ -1,6 +1,6 @@
 # mcode-webui/minimax-code
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mcode-webui/minimax-code) · [官网](https://code.minimax.cn/docs/community/webui) · 组织维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mcode-webui/minimax-code) · [官网](https://code.minimax.cn/docs/community/webui) · 组织维护 · 中文 README
 
 **面向开发者的浏览器端编码 Agent 工作台，本地运行**
 
@@ -46,12 +46,12 @@ MiniMax Code 的 WebUI 分支：本地服务器加浏览器界面，用户选择
 ```mermaid
 xychart-beta
     title "mcode-webui/minimax-code 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-28"]
     y-axis "stars" 5 --> 10
     line [6, 7, 8, 9, 9]
 ```
 
-2026-11-10 6 → 2026-11-27 9（+3）
+2026-11-10 6 → 2026-11-28 9（+3）
 
 
 ---

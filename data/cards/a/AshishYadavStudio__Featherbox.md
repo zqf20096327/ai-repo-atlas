@@ -1,6 +1,6 @@
 # AshishYadavStudio/Featherbox
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AshishYadavStudio/Featherbox) · [官网](https://ashishyadavstudio.github.io/Featherbox/) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AshishYadavStudio/Featherbox) · [官网](https://ashishyadavstudio.github.io/Featherbox/) · 个人维护 · 中文 README
 
 **低显存 PC 本地运行文本/图像/视频/语音 AI 的桌面应用**
 
@@ -41,6 +41,18 @@
 > L5: **Local AI, light on your PC.** One app that downloads and runs text, image, video, voice and speech-to-text AI mode
 > L7: with 4–6 GB graphics cards (and works on CPU-only PCs, more slowly).
 > L19:  Whisper, in 99 languages including Hindi.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AshishYadavStudio/Featherbox 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

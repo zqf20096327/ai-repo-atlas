@@ -42,12 +42,12 @@ README 仅含一行标题，无功能描述、安装步骤或使用说明。根�
 ```mermaid
 xychart-beta
     title "HasanurRahmanKabir/Lung-Cancer-Detection 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

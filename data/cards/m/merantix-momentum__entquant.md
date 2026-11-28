@@ -1,6 +1,6 @@
 # merantix-momentum/entquant
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/merantix-momentum/entquant) · [官网](https://arxiv.org/abs/2601.22787) · 组织维护
+⭐ 29 · Python · NOASSERTION · 推送 2026-06-17 · [GitHub](https://github.com/merantix-momentum/entquant) · [官网](https://arxiv.org/abs/2601.22787) · 组织维护
 
 **给开发者的 LLM 无数据量化压缩库：8 位精度存 2 位体积**
 
@@ -46,12 +46,12 @@ EntQuant 是面向 LLM 的后训练压缩库：权重保持 Float8/Int8 高精�
 ```mermaid
 xychart-beta
     title "merantix-momentum/entquant 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 29]
 ```
 
-2026-10-25 27 → 2026-11-27 28（+1）
+2026-10-26 27 → 2026-11-28 29（+2）
 
 
 ---

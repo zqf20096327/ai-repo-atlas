@@ -41,6 +41,18 @@
 > L8: Since 21 November 2026, Inkling 2 Mini is supported in MLX-VLM itself (pull request #2778, merged into
 > L145: mlx_vlm.server --model netprojects/Inkling-2-Mini-MLX-4-8bit --port 8000
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "internet-projects/inkling2-mlx 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-27 7 → 2026-11-28 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1fe891a73a63` · [字段定义](../../DATASET.md)*

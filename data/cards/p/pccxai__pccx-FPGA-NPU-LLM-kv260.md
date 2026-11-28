@@ -47,12 +47,12 @@ Altifigence 运营的开源半导体项目：在 AMD/Xilinx Kria KV260 开发板
 ```mermaid
 xychart-beta
     title "pccxai/pccx-FPGA-NPU-LLM-kv260 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-25 21 → 2026-11-27 21（+0）
+2026-10-26 21 → 2026-11-28 21（+0）
 
 
 ---

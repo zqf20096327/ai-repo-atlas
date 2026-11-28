@@ -1,6 +1,6 @@
 # Comet-zzz/CheckPause
 
-⭐ 120 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Comet-zzz/CheckPause) · [官网](https://checkpause.com) · 个人维护 · 中文 README
+⭐ 120 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Comet-zzz/CheckPause) · [官网](https://checkpause.com) · 个人维护 · 中文 README
 
 **免费国际象棋桌面工具：引擎分析+AI 语言讲解+训练**
 
@@ -39,6 +39,18 @@
 
 > L8: CheckPause uses Stockfish for analysis, then lets any OpenAI-compatible model translate the engine data into natural
 > L81: > Analysis and board features work without an API key; only AI chat needs one.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Comet-zzz/CheckPause 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 119 --> 121
+    line [120, 120]
+```
+
+2026-11-27 120 → 2026-11-28 120（+0）
 
 
 ---

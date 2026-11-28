@@ -1,6 +1,6 @@
 # pioneer666-user/aftertaste-reader
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/pioneer666-user/aftertaste-reader) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/pioneer666-user/aftertaste-reader) · 个人维护 · 中文 README
 
 **面向读源码的开发者：把 AI 讲解与固定提交源码对照阅读**
 
@@ -39,6 +39,18 @@
 
 > L3: 会写基本功能，想读懂真实项目？用回味把 AI 讲解和 Git 固定提交的源码放在一起，顺着一次请求看清数据怎样传递、何时写入、最后返回什么。
 > L40: 阅读服务在本机运行，讲解、闭环和个人阅读记录保存在所读项目里。生成讲解时，源码如何交给模型处理取决于你选择的 AI 宿主及其设置。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pioneer666-user/aftertaste-reader 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 13]
+```
+
+2026-11-27 10 → 2026-11-28 13（+3）
 
 
 ---

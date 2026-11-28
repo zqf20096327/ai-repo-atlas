@@ -1,6 +1,6 @@
 # Kirby54/Select
 
-⭐ 4 · TypeScript · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/Kirby54/Select) · 个人维护
+⭐ 4 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Kirby54/Select) · 个人维护
 
 **自托管多 agent 编排平台：以代码验证与人工审批管理 agent 自主权**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kirby54/Select 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-27 4（+1）
+2026-11-08 3 → 2026-11-28 4（+1）
 
 
 ---

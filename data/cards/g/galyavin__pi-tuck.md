@@ -1,6 +1,6 @@
 # galyavin/pi-tuck
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/galyavin/pi-tuck) · [官网](https://www.npmjs.com/package/pi-tuck) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/galyavin/pi-tuck) · [官网](https://www.npmjs.com/package/pi-tuck) · 个人维护
 
 **Pi 编码代理的确定性上下文压缩扩展：不调模型即可裁剪并回溯历史**
 
@@ -45,12 +45,12 @@ pi-tuck 是 Pi 编码代理的扩展包，接管自动压缩与 /compact：从�
 ```mermaid
 xychart-beta
     title "galyavin/pi-tuck 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-27"]
+    x-axis ["2026-11-21", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-27 3（+0）
+2026-11-21 3 → 2026-11-28 3（+0）
 
 
 ---

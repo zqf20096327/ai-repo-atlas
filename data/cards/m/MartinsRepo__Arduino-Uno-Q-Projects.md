@@ -1,6 +1,6 @@
 # MartinsRepo/Arduino-Uno-Q-Projects
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/MartinsRepo/Arduino-Uno-Q-Projects) · 个人维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/MartinsRepo/Arduino-Uno-Q-Projects) · 个人维护
 
 **Arduino Uno Q（Qualcomm+STM32）AI 项目教程与实验合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MartinsRepo/Arduino-Uno-Q-Projects 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-25 40 → 2026-11-27 40（+0）
+2026-10-26 40 → 2026-11-28 41（+1）
 
 
 ---

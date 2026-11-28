@@ -1,6 +1,6 @@
 # diraigent/diraigent
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/diraigent/diraigent) · [官网](https://www.diraigent.com) · 组织维护
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/diraigent/diraigent) · [官网](https://www.diraigent.com) · 组织维护
 
 **自托管 AI 辅助软件开发协调平台：目标分解与代理执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "diraigent/diraigent 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 19 --> 22
-    line [21, 20, 20]
+    line [21, 20, 21]
 ```
 
-2026-10-25 21 → 2026-11-27 20（-1）
+2026-10-26 21 → 2026-11-28 21（+0）
 
 
 ---

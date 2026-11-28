@@ -1,6 +1,6 @@
 # ashutosh-rath02/atrophy
 
-⭐ 133 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/ashutosh-rath02/atrophy) · [官网](https://ashutosh-rath02.github.io/atrophy/) · 个人维护
+⭐ 134 · TypeScript · MIT · 推送 2026-07-16 · [GitHub](https://github.com/ashutosh-rath02/atrophy) · [官网](https://ashutosh-rath02.github.io/atrophy/) · 个人维护
 
 **测量 AI 依赖导致编程能力衰退的 CLI 训练与评分工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ashutosh-rath02/atrophy 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 130 --> 134
-    line [131, 132, 133, 131, 133, 133]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 130 --> 135
+    line [131, 132, 133, 131, 133, 134]
 ```
 
-2026-10-25 131 → 2026-11-27 133（+2）
+2026-10-26 131 → 2026-11-28 134（+3）
 
 
 ---

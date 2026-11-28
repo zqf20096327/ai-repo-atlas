@@ -1,6 +1,6 @@
 # lumenastrum/clio-style-preview
 
-⭐ 201 · HTML · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/lumenastrum/clio-style-preview) · [官网](https://lumenastrum.github.io/clio-style-preview/) · 个人维护
+⭐ 202 · HTML · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/lumenastrum/clio-style-preview) · [官网](https://lumenastrum.github.io/clio-style-preview/) · 个人维护
 
 **414 个艺术风格提示词的 ComfyUI 节点与画廊预览**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lumenastrum/clio-style-preview 星数(近 15 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 183 --> 202
-    line [184, 185, 186, 187, 188, 184, 193, 194, 195, 196, 197, 198, 199, 201, 201]
+    title "lumenastrum/clio-style-preview 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 183 --> 203
+    line [185, 186, 187, 188, 184, 193, 194, 195, 196, 197, 198, 199, 201, 202]
 ```
 
-2026-10-25 184 → 2026-11-27 201（+17）
+2026-10-26 185 → 2026-11-28 202（+17）
 
 
 ---

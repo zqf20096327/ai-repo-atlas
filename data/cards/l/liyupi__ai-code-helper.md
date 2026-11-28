@@ -1,6 +1,6 @@
 # liyupi/ai-code-helper
 
-⭐ 771 · Vue · 推送 2026-11-23 · [GitHub](https://github.com/liyupi/ai-code-helper) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
+⭐ 773 · Vue · 推送 2026-11-23 · [GitHub](https://github.com/liyupi/ai-code-helper) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
 
 **Java AI 全栈实战教程项目：编程学习与求职辅导助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/ai-code-helper 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 770 --> 772
-    line [771, 771]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 770 --> 774
+    line [771, 773]
 ```
 
-2026-11-25 771 → 2026-11-27 771（+0）
+2026-11-25 771 → 2026-11-28 773（+2）
 
 
 ---

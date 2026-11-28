@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope-studio
 
-⭐ 674 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/agentscope-ai/agentscope-studio) · [官网](https://agentscope-ai.github.io/agentscope-studio/) · 组织维护
+⭐ 676 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/agentscope-ai/agentscope-studio) · [官网](https://agentscope-ai.github.io/agentscope-studio/) · 组织维护
 
 **面向 AgentScope 开发者的多智能体应用本地可视化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentscope-ai/agentscope-studio 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 658 --> 675
-    line [660, 659, 662, 663, 664, 660, 667, 669, 670, 671, 672, 673, 674, 674]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 658 --> 677
+    line [660, 659, 662, 663, 664, 660, 667, 669, 670, 671, 672, 673, 674, 676]
 ```
 
-2026-10-25 660 → 2026-11-27 674（+14）
+2026-10-26 660 → 2026-11-28 676（+16）
 
 
 ---

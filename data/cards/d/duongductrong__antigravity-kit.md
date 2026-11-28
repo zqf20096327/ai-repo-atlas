@@ -1,6 +1,6 @@
 # duongductrong/antigravity-kit
 
-⭐ 50 · TypeScript · MIT · 推送 2026-03-01 · [GitHub](https://github.com/duongductrong/antigravity-kit) · 个人维护
+⭐ 51 · TypeScript · MIT · 推送 2026-03-01 · [GitHub](https://github.com/duongductrong/antigravity-kit) · 个人维护
 
 **管理 Google Antigravity IDE 多账号认证的 CLI 工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "duongductrong/antigravity-kit 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 48 --> 51
-    line [50, 49, 50, 49, 50, 50]
+    title "duongductrong/antigravity-kit 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 48 --> 52
+    line [49, 50, 49, 50, 51]
 ```
 
-2026-10-25 50 → 2026-11-27 50（+0）
+2026-10-26 49 → 2026-11-28 51（+2）
 
 
 ---

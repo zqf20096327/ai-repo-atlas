@@ -1,6 +1,6 @@
 # DelftMercurians/Dies
 
-⭐ 10 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/DelftMercurians/Dies) · [官网](https://delftmercurians.nl/) · 组织维护
+⭐ 11 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/DelftMercurians/Dies) · [官网](https://delftmercurians.nl/) · 组织维护
 
 **为 RoboCus SSL 机器人足球队提供视觉跟踪、控制与策略运行的框架**
 
@@ -45,12 +45,12 @@ Delft Mercurians 战队的 RoboCup SSL 框架，核心用 Rust 编写，覆盖�
 ```mermaid
 xychart-beta
     title "DelftMercurians/Dies 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

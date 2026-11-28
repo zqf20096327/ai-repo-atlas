@@ -46,12 +46,12 @@ NVIDIA Isaac ROS 下的立体视觉深度估计包集合，包含 ESS 与 Founda
 ```mermaid
 xychart-beta
     title "NVIDIA-ISAAC-ROS/isaac_ros_dnn_stereo_depth 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-28"]
     y-axis "stars" 158 --> 161
     line [159, 160, 160]
 ```
 
-2026-10-25 159 → 2026-11-27 160（+1）
+2026-10-26 159 → 2026-11-28 160（+1）
 
 
 ---

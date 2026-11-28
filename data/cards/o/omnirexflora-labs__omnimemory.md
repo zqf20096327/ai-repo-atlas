@@ -1,6 +1,6 @@
 # omnirexflora-labs/omnimemory
 
-⭐ 17 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/omnirexflora-labs/omnimemory) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 AI agent 提供自演化记忆层的框架（SDK/REST/CLI）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

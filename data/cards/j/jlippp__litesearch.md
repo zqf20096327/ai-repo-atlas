@@ -45,12 +45,12 @@ autoresearch 的分支，面向 2GB–32GB+ VRAM 的消费级 NVIDIA GPU：让 A
 ```mermaid
 xychart-beta
     title "jlippp/litesearch 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-25 27 → 2026-11-27 27（+0）
+2026-10-26 27 → 2026-11-28 27（+0）
 
 
 ---

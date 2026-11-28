@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "markusbegerow/local-llm-chat-vs 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-27"]
+    title "markusbegerow/local-llm-chat-vs 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-28"]
     y-axis "stars" 32 --> 35
-    line [34, 33, 34, 34]
+    line [33, 34, 34]
 ```
 
-2026-10-25 34 → 2026-11-27 34（+0）
+2026-10-26 33 → 2026-11-28 34（+1）
 
 
 ---

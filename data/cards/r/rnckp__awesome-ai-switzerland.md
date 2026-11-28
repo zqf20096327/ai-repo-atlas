@@ -1,6 +1,6 @@
 # rnckp/awesome-ai-switzerland
 
-⭐ 15 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/rnckp/awesome-ai-switzerland) · [官网](https://rnckp.github.io/awesome-ai-switzerland/) · 个人维护
+⭐ 15 · Python · CC0-1.0 · 推送 2026-11-27 · [GitHub](https://github.com/rnckp/awesome-ai-switzerland) · [官网](https://rnckp.github.io/awesome-ai-switzerland/) · 个人维护
 
 **瑞士 Apertus 开源模型生态策展清单：模型、数据集、工具与研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rnckp/awesome-ai-switzerland 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-18", "2026-11-28"]
     y-axis "stars" 11 --> 16
     line [12, 14, 15, 15]
 ```
 
-2026-10-25 12 → 2026-11-27 15（+3）
+2026-10-26 12 → 2026-11-28 15（+3）
 
 
 ---

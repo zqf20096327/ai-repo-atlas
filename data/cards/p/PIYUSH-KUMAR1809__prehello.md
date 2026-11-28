@@ -47,12 +47,12 @@ prehello 扫描仓库与用户级 agent 配置，统计 Claude Code、Cursor、C
 ```mermaid
 xychart-beta
     title "PIYUSH-KUMAR1809/prehello 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-02 3 → 2026-11-27 4（+1）
+2026-11-02 3 → 2026-11-28 4（+1）
 
 
 ---

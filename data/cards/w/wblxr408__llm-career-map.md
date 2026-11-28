@@ -1,6 +1,6 @@
 # wblxr408/llm-career-map
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/wblxr408/llm-career-map) · [官网](https://llm-master-web.vercel.app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向求职者的大模型学习与就业知识地图站点**
 
@@ -11,7 +11,7 @@ React+Vite 构建的静态学习站点，把 24 个资料仓库、1,987 份文�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

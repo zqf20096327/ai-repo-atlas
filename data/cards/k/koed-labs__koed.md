@@ -1,6 +1,6 @@
 # koed-labs/koed
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/koed-labs/koed) · [官网](https://koed.ai/) · 组织维护
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/koed-labs/koed) · [官网](https://koed.ai/) · 组织维护
 
 **为 Codex/Claude Code/Pi 提供本地长期记忆的代理记忆层**
 
@@ -45,13 +45,13 @@ Koed 是一个在后台自动捕获 AI 编码会话的记忆层，将决策、�
 
 ```mermaid
 xychart-beta
-    title "koed-labs/koed 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 14 --> 23
-    line [15, 22]
+    title "koed-labs/koed 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 14 --> 24
+    line [15, 22, 23]
 ```
 
-2026-11-26 15 → 2026-11-27 22（+7）
+2026-11-26 15 → 2026-11-28 23（+8）
 
 
 ---

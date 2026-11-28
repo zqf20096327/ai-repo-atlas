@@ -1,6 +1,6 @@
 # treeleaves30760/all-code
 
-⭐ 11 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/treeleaves30760/all-code) · [官网](https://treeleaves30760.github.io/all-code/) · 个人维护 · 中文 README
+⭐ 11 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/treeleaves30760/all-code) · [官网](https://treeleaves30760.github.io/all-code/) · 个人维护 · 中文 README
 
 **一次配置多家 LLM 提供方，启动 Claude Code/Codex CLI 等编码代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "treeleaves30760/all-code 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-20 11 → 2026-11-27 11（+0）
+2026-11-20 11 → 2026-11-28 11（+0）
 
 
 ---

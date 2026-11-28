@@ -1,6 +1,6 @@
 # ToryPan/ask-open-webui-everywhere
 
-⭐ 49 · JavaScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/ToryPan/ask-open-webui-everywhere) · 个人维护
+⭐ 50 · JavaScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/ToryPan/ask-open-webui-everywhere) · 个人维护
 
 **将 Open WebUI 嵌入浏览器侧栏、随时对网页提问的扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ToryPan/ask-open-webui-everywhere 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50]
 ```
 
-2026-10-25 48 → 2026-11-27 49（+1）
+2026-10-26 48 → 2026-11-28 50（+2）
 
 
 ---

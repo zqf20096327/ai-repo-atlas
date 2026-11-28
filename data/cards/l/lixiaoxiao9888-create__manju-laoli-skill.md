@@ -1,6 +1,6 @@
 # lixiaoxiao9888-create/manju-laoli-skill
 
-⭐ 3,235 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) · 个人维护 · 中文 README
+⭐ 3,328 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lixiaoxiao9888-create/manju-laoli-skill) · 个人维护 · 中文 README
 
 **给 AIGC 创作者的短剧/漫剧全流程 AI Agent 技能包**
 
@@ -41,6 +41,18 @@
 > L28: 一套**给 AI 助手执行的 AIGC 全流程创作规则库**（OpenClaw Skill / Agent 技能包）。不是一份长提示词，而是一套**可路由、可挂载、可机检**的导演系统：**1 个总控**（`short-drama
 > L143: |**Agent 平台**|OpenClaw · WorkBuddy · 豆包智能体 / 扣子（Coze）· Dify 及通用 LLM（支持豆包 JSON 分块，防上下文截断）|
 > L144: |**视频模型**|**Seedance 2.5 / 2.0**（强制二选一，语法契约彻底分流；**包内唯一模型线**）|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lixiaoxiao9888-create/manju-laoli-skill 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3226 --> 3337
+    line [3235, 3328]
+```
+
+2026-11-27 3,235 → 2026-11-28 3,328（+93）
 
 
 ---

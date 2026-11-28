@@ -41,6 +41,18 @@
 > L32: |Run DeepSeek 1017 on N1X Windows|A native Windows ARM64 CUDA **inference engine**; the control layer still include
 > L34: |Use DeepSeek Harness as the client|A local OpenAI-compatible API; DSH manages its conversations and tools|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zackyangzeqi-spec/strata-n1x-Zackyzq 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5fa6f9c0d0d7` · [字段定义](../../DATASET.md)*

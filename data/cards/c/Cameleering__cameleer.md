@@ -1,6 +1,6 @@
 # Cameleering/cameleer
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Cameleering/cameleer) · [官网](https://cameleer.ing) · 组织维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Cameleering/cameleer) · [官网](https://cameleer.ing) · 组织维护
 
 **为 AI Agent 提供 Rust 实现的可靠动作层：路由即 MCP 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cameleering/cameleer 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-27"]
+    title "Cameleering/cameleer 星数(近 3 点)"
+    x-axis ["2026-11-12", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 6
-    line [3, 5]
+    line [3, 5, 5]
 ```
 
-2026-11-12 3 → 2026-11-27 5（+2）
+2026-11-12 3 → 2026-11-28 5（+2）
 
 
 ---

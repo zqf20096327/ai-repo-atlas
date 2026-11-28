@@ -1,6 +1,6 @@
 # greenticai/greentic
 
-⭐ 16 · Rust · 推送 2026-11-24 · [GitHub](https://github.com/greenticai/greentic) · [官网](https://greentic.ai) · 组织维护
+⭐ 16 · Rust · 推送 2026-11-27 · [GitHub](https://github.com/greenticai/greentic) · [官网](https://greentic.ai) · 组织维护
 
 **面向企业的数字工人操作系统：确定性编排+受控 AI**
 
@@ -46,12 +46,12 @@ Greentic 是一个用于构建和运行『数字工人』的平台/运行时：�
 ```mermaid
 xychart-beta
     title "greenticai/greentic 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 16（+0）
 
 
 ---

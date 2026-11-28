@@ -1,6 +1,6 @@
 # FonaTech/Project_Chronos
 
-⭐ 208 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/FonaTech/Project_Chronos) · 个人维护 · 中文 README
+⭐ 209 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/FonaTech/Project_Chronos) · 个人维护 · 中文 README
 
 **面向 SSD+DRAM 混合推理的存储感知 MoE 训练与推理栈**
 
@@ -46,12 +46,12 @@ Project Chronos 提供一套存储感知的 MoE（混合专家）栈：针对 SS
 ```mermaid
 xychart-beta
     title "FonaTech/Project_Chronos 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 205 --> 209
-    line [207, 206, 207, 208, 208]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 205 --> 210
+    line [207, 206, 207, 208, 209]
 ```
 
-2026-10-25 207 → 2026-11-27 208（+1）
+2026-10-26 207 → 2026-11-28 209（+2）
 
 
 ---

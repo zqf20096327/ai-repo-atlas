@@ -1,6 +1,6 @@
 # Ramakm/agentic-ai-from-scratch
 
-⭐ 18 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Ramakm/agentic-ai-from-scratch) · [官网](https://agentic-ai-from-scratch.vercel.app) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Ramakm/agentic-ai-from-scratch) · [官网](https://agentic-ai-from-scratch.vercel.app) · 个人维护
 
 **从零手写 AI Agent 的教程课程：16 阶段 163 课**
 
@@ -41,6 +41,18 @@
 > L7:  Build AI agents from a raw while-loop and an HTTP call, before a single framework gets imported.
 > L22:  163 lessons
 > L36: Most agent material is framework tutorials. You can wire a crew of five agents but can't say why the third one loop
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ramakm/agentic-ai-from-scratch 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 17 --> 33
+    line [18, 32]
+```
+
+2026-11-27 18 → 2026-11-28 32（+14）
 
 
 ---

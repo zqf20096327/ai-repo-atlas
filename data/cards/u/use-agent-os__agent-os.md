@@ -1,6 +1,6 @@
 # use-agent-os/agent-os
 
-⭐ 83 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/use-agent-os/agent-os) · [官网](https://useagentos.dev) · 组织维护
+⭐ 83 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/use-agent-os/agent-os) · [官网](https://useagentos.dev) · 组织维护
 
 **本地优先的开源 AI 交易代理：链上兑换、跨链、定投与止损**
 
@@ -40,6 +40,18 @@
 > L3:  AgentOS — The AI agent that trades for you. Your machine, your keys.
 > L24: AgentOS is an open-source AI agent that holds its own EVM wallets and
 > L50: - **The gateway enforces the limits, not the model.** A prompt cannot talk
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "use-agent-os/agent-os 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 82 --> 84
+    line [83, 83]
+```
+
+2026-11-27 83 → 2026-11-28 83（+0）
 
 
 ---

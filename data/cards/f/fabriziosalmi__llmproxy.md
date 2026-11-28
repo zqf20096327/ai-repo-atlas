@@ -1,6 +1,6 @@
 # fabriziosalmi/llmproxy
 
-⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/fabriziosalmi/llmproxy) · [官网](https://fabriziosalmi.github.io/llmproxy/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/fabriziosalmi/llmproxy) · [官网](https://fabriziosalmi.github.io/llmproxy/) · 个人维护
 
 **面向小团队/受监管团队的自托管 LLM 安全网关，含可验证审计链**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fabriziosalmi/llmproxy 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

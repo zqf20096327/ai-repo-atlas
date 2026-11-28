@@ -41,6 +41,18 @@
 > L8: `ccswarm` is a workflow engine for AI coding agents, with **Sangha as its product
 > L11: the work; ccswarm governs how the workflow advances.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nwiizo/ccswarm 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 156 --> 158
+    line [157, 157]
+```
+
+2026-11-27 157 → 2026-11-28 157（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `fd1447d17f66` · [字段定义](../../DATASET.md)*

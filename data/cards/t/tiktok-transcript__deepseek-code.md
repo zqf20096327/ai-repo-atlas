@@ -1,6 +1,6 @@
 # tiktok-transcript/deepseek-code
 
-⭐ 13 · 推送 2026-09-22 · [GitHub](https://github.com/tiktok-transcript/deepseek-code) · [官网](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=deepseek-code&utm_content=readme-top&utm_term=tier-r) · 个人维护
+⭐ 12 · 推送 2026-09-22 · [GitHub](https://github.com/tiktok-transcript/deepseek-code) · [官网](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=deepseek-code&utm_content=readme-top&utm_term=tier-r) · 个人维护
 
 **非官方指南：DeepSeek Deep Code CLI 与 DeepSeek Coder 模型的使用说明**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tiktok-transcript/deepseek-code 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 11 --> 14
+    line [13, 12]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 12（-1）
 
 
 ---

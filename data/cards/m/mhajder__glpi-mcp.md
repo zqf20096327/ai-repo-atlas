@@ -1,6 +1,6 @@
 # mhajder/glpi-mcp
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mhajder/glpi-mcp) · [官网](https://pypi.org/project/glpi-mcp-server/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mhajder/glpi-mcp) · [官网](https://pypi.org/project/glpi-mcp-server/) · 个人维护
 
 **让 AI agent 通过 MCP 操作 GLPI 工单、资产与知识库的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mhajder/glpi-mcp 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-16", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-16", "2026-11-25", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 3, 3]
 ```
 
-2026-11-10 3 → 2026-11-27 3（+0）
+2026-11-10 3 → 2026-11-28 3（+0）
 
 
 ---

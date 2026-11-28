@@ -1,6 +1,6 @@
 # dayuwang401/VidRouteBench
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dayuwang401/VidRouteBench) · [官网](https://arxiv.org/abs/2611.28099) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dayuwang401/VidRouteBench) · [官网](https://arxiv.org/abs/2611.28099) · 个人维护
 
 **预算约束下文生图视频模型路由的评测基准（16 条 arm）**
 
@@ -40,6 +40,18 @@
 > L3: **A benchmark for budgeted text-to-video routing, OPMU (one probe set for many utilities), and a finding:
 > L28: **No GPU needed.** All clips are already generated and scored. Developing and evaluating a router or a
 > L20: - **1,625 grouped prompts** from VBench, VBench-2.0 and TA-Hard, with 26,928 labelled (prompt, arm, seed) clips.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dayuwang401/VidRouteBench 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 16 --> 68
+    line [20, 64]
+```
+
+2026-11-27 20 → 2026-11-28 64（+44）
 
 
 ---

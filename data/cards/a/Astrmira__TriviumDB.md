@@ -1,6 +1,6 @@
 # Astrmira/TriviumDB
 
-⭐ 196 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Astrmira/TriviumDB) · [官网](https://triviumdb.com) · 个人维护 · 中文 README
+⭐ 197 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Astrmira/TriviumDB) · [官网](https://triviumdb.com) · 个人维护 · 中文 README
 
 **面向 Agent/RAG 的嵌入式向量-图-文档三模数据库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Astrmira/TriviumDB 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 193 --> 197
-    line [194, 196, 196]
+    x-axis ["2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 193 --> 198
+    line [194, 196, 197]
 ```
 
-2026-11-23 194 → 2026-11-27 196（+2）
+2026-11-23 194 → 2026-11-28 197（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/Build-CLI
 
-⭐ 295 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/microsoft/Build-CLI) · [官网](https://build.microsoft.com) · 组织维护
+⭐ 296 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/microsoft/Build-CLI) · [官网](https://build.microsoft.com) · 组织维护
 
 **把 Microsoft 大会议程接入终端的 GitHub Copilot CLI 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Build-CLI 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 291 --> 296
-    line [292, 293, 294, 292, 294, 295, 295]
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 291 --> 297
+    line [292, 293, 294, 292, 294, 295, 296]
 ```
 
-2026-10-24 292 → 2026-11-27 295（+3）
+2026-10-25 292 → 2026-11-28 296（+4）
 
 
 ---

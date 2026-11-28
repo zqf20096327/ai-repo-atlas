@@ -45,12 +45,12 @@ ThreatForest 是构建在 Strands agent 框架之上的威胁建模平台：指�
 ```mermaid
 xychart-beta
     title "aws-samples/sample-agentic-attack-tree-generator 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-21", "2026-11-28"]
     y-axis "stars" 80 --> 83
     line [81, 82, 82]
 ```
 
-2026-10-25 81 → 2026-11-27 82（+1）
+2026-10-26 81 → 2026-11-28 82（+1）
 
 
 ---

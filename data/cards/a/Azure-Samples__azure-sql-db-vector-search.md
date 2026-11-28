@@ -46,12 +46,12 @@ Azure-Samples 官方仓库，演示 Azure SQL DB 与 SQL Server 2025 的原生�
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-sql-db-vector-search 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 98 --> 101
     line [99, 100, 100]
 ```
 
-2026-10-25 99 → 2026-11-27 100（+1）
+2026-10-26 99 → 2026-11-28 100（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dtyg123/dsh-oh-my-token
 
-⭐ 8 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dtyg123/dsh-oh-my-token) · 个人维护 · 中文 README
+⭐ 8 · JavaScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/dtyg123/dsh-oh-my-token) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 省 token 的插件：改写工具输出再入提示词**
 
@@ -45,12 +45,12 @@ DeepSeek Harness 的插件，在工具结果写入日志前完成改写，使模
 ```mermaid
 xychart-beta
     title "dtyg123/dsh-oh-my-token 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 9
     line [5, 7, 8, 8]
 ```
 
-2026-11-23 5 → 2026-11-27 8（+3）
+2026-11-23 5 → 2026-11-28 8（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # gabrielkasmi/deeppvmapper
 
-⭐ 40 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gabrielkasmi/deeppvmapper) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/gabrielkasmi/deeppvmapper) · 个人维护
 
 **法国屋顶光伏大规模检测流水线：航拍影像分类分割并提取装机特征**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gabrielkasmi/deeppvmapper 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 36 --> 41
     line [37, 39, 40, 40]
 ```
 
-2026-10-25 37 → 2026-11-27 40（+3）
+2026-10-26 37 → 2026-11-28 40（+3）
 
 
 ---

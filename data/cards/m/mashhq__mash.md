@@ -1,6 +1,6 @@
 # mashhq/mash
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/mashhq/mash) · [官网](https://getmash.io/) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/mashhq/mash) · [官网](https://getmash.io/) · 组织维护
 
 **给编码 agent 用户聚合检索多工具聊天历史的本地搜索工具**
 
@@ -47,12 +47,12 @@ Mash 读取本机上 Claude Code、Codex、Copilot、Cursor、OpenCode、Antigra
 ```mermaid
 xychart-beta
     title "mashhq/mash 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

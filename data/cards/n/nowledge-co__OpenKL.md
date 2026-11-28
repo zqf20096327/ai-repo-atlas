@@ -1,6 +1,6 @@
 # nowledge-co/OpenKL
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nowledge-co/OpenKL) · [官网](https://nowled.ge/kl) · 组织维护
+⭐ 130 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/nowledge-co/OpenKL) · [官网](https://nowled.ge/kl) · 组织维护
 
 **给个人 AI agent 的本地优先知识与记忆层**
 
@@ -45,12 +45,12 @@ OpenKL 是面向个人 agent 的本地优先开源知识与记忆层，提供统
 ```mermaid
 xychart-beta
     title "nowledge-co/OpenKL 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 123 --> 130
-    line [124, 125, 124, 125, 128, 129, 129]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 123 --> 131
+    line [124, 125, 124, 125, 128, 129, 130]
 ```
 
-2026-10-25 124 → 2026-11-27 129（+5）
+2026-10-26 124 → 2026-11-28 130（+6）
 
 
 ---

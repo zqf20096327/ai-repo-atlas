@@ -1,6 +1,6 @@
 # w00000dy/ai-object-detection
 
-⭐ 112 · JavaScript · 推送 2026-03-08 · [GitHub](https://github.com/w00000dy/ai-object-detection) · [官网](https://object-detection.ai.woody.pizza/) · 个人维护
+⭐ 111 · JavaScript · 推送 2026-03-08 · [GitHub](https://github.com/w00000dy/ai-object-detection) · [官网](https://object-detection.ai.woody.pizza/) · 个人维护
 
 **浏览器内运行的网页 AI 物体检测应用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "w00000dy/ai-object-detection 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 110 --> 113
-    line [111, 112, 111, 112, 112]
+    line [111, 112, 111, 112, 111]
 ```
 
-2026-10-25 111 → 2026-11-27 112（+1）
+2026-10-26 111 → 2026-11-28 111（+0）
 
 
 ---

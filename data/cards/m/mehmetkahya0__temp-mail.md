@@ -1,6 +1,6 @@
 # mehmetkahya0/temp-mail
 
-⭐ 183 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mehmetkahya0/temp-mail) · [官网](https://mehmetkahya0.github.io/temp-mail/) · 个人维护
+⭐ 184 · JavaScript · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mehmetkahya0/temp-mail) · [官网](https://mehmetkahya0.github.io/temp-mail/) · 个人维护
 
 **隐私优先的一次性临时邮箱 Web 应用，一键生成收件并提取验证码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mehmetkahya0/temp-mail 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 179 --> 184
-    line [180, 181, 180, 181, 182, 183, 183]
+    title "mehmetkahya0/temp-mail 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 179 --> 185
+    line [181, 180, 181, 182, 183, 184]
 ```
 
-2026-10-25 180 → 2026-11-27 183（+3）
+2026-10-26 181 → 2026-11-28 184（+3）
 
 
 ---

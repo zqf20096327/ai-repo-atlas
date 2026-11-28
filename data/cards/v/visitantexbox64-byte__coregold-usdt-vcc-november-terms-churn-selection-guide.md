@@ -1,6 +1,6 @@
 # visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide
 
-⭐ 60 · 推送 2026-11-23 · [GitHub](https://github.com/visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 73 · 推送 2026-11-23 · [GitHub](https://github.com/visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向虚拟卡用户挑选稳定 VCC 平台的实战指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 18 --> 63
-    line [21, 48, 60]
+    title "visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 16 --> 78
+    line [21, 48, 60, 73]
 ```
 
-2026-11-25 21 → 2026-11-27 60（+39）
+2026-11-25 21 → 2026-11-28 73（+52）
 
 
 ---

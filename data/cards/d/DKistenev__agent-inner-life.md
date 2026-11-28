@@ -1,6 +1,6 @@
 # DKistenev/agent-inner-life
 
-⭐ 13 · MIT · 推送 2026-08-21 · [GitHub](https://github.com/DKistenev/agent-inner-life) · [官网](https://github.com/DKistenev/hermes-inner-life) · 个人维护
+⭐ 12 · MIT · 推送 2026-08-21 · [GitHub](https://github.com/DKistenev/agent-inner-life) · [官网](https://github.com/DKistenev/hermes-inner-life) · 个人维护
 
 **给 AI agent 添加带日期状态、晚间日志与夜间自由思考的技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DKistenev/agent-inner-life 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 11 --> 14
+    line [13, 12]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 12（-1）
 
 
 ---

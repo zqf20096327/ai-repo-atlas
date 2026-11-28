@@ -1,6 +1,6 @@
 # xKnockOut/Atlas-IDE-Expert
 
-⭐ 10 · Pascal · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xKnockOut/Atlas-IDE-Expert) · 个人维护
+⭐ 11 · Pascal · MIT · 推送 2026-11-27 · [GitHub](https://github.com/xKnockOut/Atlas-IDE-Expert) · 个人维护
 
 **给 Delphi 开发者的 RAD Studio 插件：代码分析、补全与 MCP 接入**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xKnockOut/Atlas-IDE-Expert 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
-    y-axis "stars" 7 --> 11
-    line [8, 10]
+    title "xKnockOut/Atlas-IDE-Expert 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 7 --> 12
+    line [8, 10, 11]
 ```
 
-2026-11-22 8 → 2026-11-27 10（+2）
+2026-11-22 8 → 2026-11-28 11（+3）
 
 
 ---

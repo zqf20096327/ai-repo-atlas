@@ -42,6 +42,18 @@ DevSphere 是构建在 GitHub Discussions 上的免费开发者社区，提供�
 > L90: |Learning Roadmaps|Choosing a direction|Ten role-based paths with projects and milestones|
 > L94: |AI & Machine Learning|Understanding and building AI systems|ML foundations, deep learning, LLMs, AI applications, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Sumit-tech01/DevSphere-Community 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `e10db40e38c4` · [字段定义](../../DATASET.md)*

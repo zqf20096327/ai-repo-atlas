@@ -1,6 +1,6 @@
 # radekwojpl2/session-observer
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/radekwojpl2/session-observer) · [官网](http://session-observer.ai/) · 个人维护 · 中文 README
+⭐ 9 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/radekwojpl2/session-observer) · [官网](http://session-observer.ai/) · 个人维护 · 中文 README
 
 **Claude Code 用户的会话实时可视化仪表盘插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "radekwojpl2/session-observer 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 5, 6, 7]
+    title "radekwojpl2/session-observer 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 10
+    line [3, 4, 5, 6, 7, 9]
 ```
 
-2026-11-18 3 → 2026-11-27 7（+4）
+2026-11-18 3 → 2026-11-28 9（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # avinaxhroy/brushrouter
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/avinaxhroy/brushrouter) · 个人维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/avinaxhroy/brushrouter) · 个人维护
 
 **复用已有订阅生成图片的路由 CLI 与 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "avinaxhroy/brushrouter 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -40,6 +40,18 @@
 > L3: This project demonstrates how to build a machine learning model that predicts a person's **personality type** based 
 > L106: ## 🎯 Learning Objectives
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "miguelestradam3/logistic_regression_with_smote 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 45 --> 47
+    line [46, 46]
+```
+
+2026-11-27 46 → 2026-11-28 46（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `3cbcd0ba36e9` · [字段定义](../../DATASET.md)*

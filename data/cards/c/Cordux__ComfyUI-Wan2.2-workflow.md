@@ -1,6 +1,6 @@
 # Cordux/ComfyUI-Wan2.2-workflow
 
-⭐ 72 · Unlicense · 推送 2026-01-26 · [GitHub](https://github.com/Cordux/ComfyUI-Wan2.2-workflow) · 个人维护
+⭐ 73 · Unlicense · 推送 2026-01-26 · [GitHub](https://github.com/Cordux/ComfyUI-Wan2.2-workflow) · 个人维护
 
 **低显存用户的 Wan 2.2 14B 文生视频/图生视频 ComfyUI 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Cordux/ComfyUI-Wan2.2-workflow 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 65 --> 73
-    line [66, 67, 68, 66, 70, 71, 72, 72]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 65 --> 74
+    line [66, 67, 68, 66, 70, 71, 72, 73]
 ```
 
-2026-10-25 66 → 2026-11-27 72（+6）
+2026-10-26 66 → 2026-11-28 73（+7）
 
 
 ---

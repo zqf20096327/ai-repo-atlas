@@ -1,6 +1,6 @@
 # RobThePCGuy/Claude-Patent-Creator
 
-⭐ 217 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/RobThePCGuy/Claude-Patent-Creator) · [官网](https://github.com/RobThePCGuy/Claude-Patent-Creator) · 个人维护
+⭐ 218 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/RobThePCGuy/Claude-Patent-Creator) · [官网](https://github.com/RobThePCGuy/Claude-Patent-Creator) · 个人维护
 
 **给专利申请人用的 AI 专利起草与检索系统（Claude Code 插件+桌面应用）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "RobThePCGuy/Claude-Patent-Creator 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 204 --> 218
-    line [205, 206, 207, 205, 210, 211, 212, 214, 215, 216, 217]
+    title "RobThePCGuy/Claude-Patent-Creator 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 204 --> 219
+    line [205, 206, 207, 205, 210, 211, 212, 214, 215, 216, 217, 218]
 ```
 
-2026-10-25 205 → 2026-11-27 217（+12）
+2026-10-26 205 → 2026-11-28 218（+13）
 
 
 ---

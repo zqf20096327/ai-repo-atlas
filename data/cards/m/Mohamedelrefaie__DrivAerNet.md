@@ -1,6 +1,6 @@
 # Mohamedelrefaie/DrivAerNet
 
-⭐ 560 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/Mohamedelrefaie/DrivAerNet) · 组织维护
+⭐ 562 · Python · NOASSERTION · 推送 2026-05-14 · [GitHub](https://github.com/Mohamedelrefaie/DrivAerNet) · 组织维护
 
 **8,150 个汽车设计的 CFD 仿真多模态数据集与深度学习基准**
 
@@ -47,12 +47,12 @@ DrivAerNet++ 提供涵盖 fastback、notchback、estateback 等构型的 8,150 �
 ```mermaid
 xychart-beta
     title "Mohamedelrefaie/DrivAerNet 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 554 --> 561
-    line [555, 556, 555, 558, 559, 560, 560]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 554 --> 563
+    line [555, 556, 555, 558, 559, 560, 562]
 ```
 
-2026-10-25 555 → 2026-11-27 560（+5）
+2026-10-26 555 → 2026-11-28 562（+7）
 
 
 ---

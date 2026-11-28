@@ -1,6 +1,6 @@
 # AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes
 
-⭐ 69 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) · [官网](https://andorinaai.github.io/Andorina-WhatsApp-Agent-for-Hermes/) · 组织维护
+⭐ 70 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes) · [官网](https://andorinaai.github.io/Andorina-WhatsApp-Agent-for-Hermes/) · 组织维护
 
 **把 Hermes Agent 变成 WhatsApp 自主管理器的技能套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AndorinaAI/Andorina-WhatsApp-Agent-for-Hermes 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 64 --> 70
-    line [65, 67, 68, 69, 69]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 64 --> 71
+    line [65, 67, 68, 69, 70]
 ```
 
-2026-10-25 65 → 2026-11-27 69（+4）
+2026-10-26 65 → 2026-11-28 70（+5）
 
 
 ---

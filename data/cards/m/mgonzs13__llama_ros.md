@@ -1,6 +1,6 @@
 # mgonzs13/llama_ros
 
-⭐ 268 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mgonzs13/llama_ros) · [官网](https://mgonzs13.github.io/llama_ros/) · 个人维护
+⭐ 268 · C++ · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mgonzs13/llama_ros) · [官网](https://mgonzs13.github.io/llama_ros/) · 个人维护
 
 **将 llama.cpp 集成到 ROS 2 的机器人 LLM 接入包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mgonzs13/llama_ros 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 267 --> 269
     line [268, 268]
 ```
 
-2026-10-25 268 → 2026-11-27 268（+0）
+2026-10-26 268 → 2026-11-28 268（+0）
 
 
 ---

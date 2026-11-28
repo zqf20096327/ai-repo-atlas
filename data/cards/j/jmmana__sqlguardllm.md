@@ -1,6 +1,6 @@
 # jmmana/sqlguardllm
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/jmmana/sqlguardllm) · [官网](https://jmmana.github.io/sqlguardllm/) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/jmmana/sqlguardllm) · [官网](https://jmmana.github.io/sqlguardllm/) · 个人维护
 
 **为 LLM 应用校验并改写 AI 生成 SQL 的防火墙库**
 
@@ -41,6 +41,18 @@
 > L13: Your model writes SQL. **sqlguardllm** makes sure it can only read what it's allowed to read: one read-only stateme
 > L121: sqlguardllm parses the statement into a syntax tree with sqlglot and **decides on the tree, not on the text**. The
 > L214: sqlguardllm sits wherever your app executes the SQL the model wrote. **Recipes** with runnable, tested code: a gen
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jmmana/sqlguardllm 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
+```
+
+2026-11-27 9 → 2026-11-28 9（+0）
 
 
 ---

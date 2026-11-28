@@ -1,6 +1,6 @@
 # Aarv-1o/Attentry
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Aarv-1o/Attentry) · [官网](https://attentry.js.org) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Aarv-1o/Attentry) · [官网](https://attentry.js.org) · 个人维护
 
 **本地静态分析器：审查 Claude Code/Codex 的每次代码编辑**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Aarv-1o/Attentry 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-11-10 3 → 2026-11-27 5（+2）
+2026-11-10 3 → 2026-11-28 6（+3）
 
 
 ---

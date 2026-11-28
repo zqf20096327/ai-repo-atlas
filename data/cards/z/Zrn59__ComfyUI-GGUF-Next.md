@@ -1,6 +1,6 @@
 # Zrn59/ComfyUI-GGUF-Next
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Zrn59/ComfyUI-GGUF-Next) · [官网](https://zrn59.me) · 个人维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Zrn59/ComfyUI-GGUF-Next) · [官网](https://zrn59.me) · 个人维护
 
 **为 ComfyUI 提供 GGUF 量化模型加载节点的扩展**
 
@@ -45,13 +45,13 @@ city96/ComfyUI-GGUF 的 fork，为 ComfyUI 提供 GGUF 加载节点：在 torch 
 
 ```mermaid
 xychart-beta
-    title "Zrn59/ComfyUI-GGUF-Next 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 8
-    line [5, 7]
+    title "Zrn59/ComfyUI-GGUF-Next 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 9
+    line [5, 7, 8]
 ```
 
-2026-11-26 5 → 2026-11-27 7（+2）
+2026-11-26 5 → 2026-11-28 8（+3）
 
 
 ---

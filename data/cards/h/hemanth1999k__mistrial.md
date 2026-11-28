@@ -46,12 +46,12 @@ mistrial 是一个 Python CLI 与 GitHub Action，用于测量 LLM 评审器（j
 ```mermaid
 xychart-beta
     title "hemanth1999k/mistrial 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-28"]
     y-axis "stars" 4 --> 8
     line [5, 7, 7]
 ```
 
-2026-10-26 5 → 2026-11-27 7（+2）
+2026-10-26 5 → 2026-11-28 7（+2）
 
 
 ---

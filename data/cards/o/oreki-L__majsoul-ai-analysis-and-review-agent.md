@@ -1,6 +1,6 @@
 # oreki-L/majsoul-ai-analysis-and-review-agent
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oreki-L/majsoul-ai-analysis-and-review-agent) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/oreki-L/majsoul-ai-analysis-and-review-agent) · 个人维护 · 中文 README
 
 **雀魂玩家浏览器扩展：用自配 LLM 讲解每手牌的取舍**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "oreki-L/majsoul-ai-analysis-and-review-agent 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-19", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-27 3（+0）
+2026-11-19 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # sinaptik-ai/starpod
 
-⭐ 84 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/sinaptik-ai/starpod) · [官网](https://starpod.sh) · 组织维护
+⭐ 85 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/sinaptik-ai/starpod) · [官网](https://starpod.sh) · 组织维护
 
 **Rust 编写的个人 AI agent 运行时，本地或云端部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sinaptik-ai/starpod 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 78 --> 85
-    line [79, 82, 83, 84, 84]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 78 --> 86
+    line [79, 82, 83, 84, 85]
 ```
 
-2026-10-25 79 → 2026-11-27 84（+5）
+2026-10-26 79 → 2026-11-28 85（+6）
 
 
 ---

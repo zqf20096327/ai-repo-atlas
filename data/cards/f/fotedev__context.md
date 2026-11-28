@@ -1,6 +1,6 @@
 # fotedev/context
 
-⭐ 19 · Python · 推送 2026-11-14 · [GitHub](https://github.com/fotedev/context) · 个人维护
+⭐ 20 · Python · 推送 2026-11-14 · [GitHub](https://github.com/fotedev/context) · 个人维护
 
 **文件聚合器：把选定文件转为 LLM 上下文并用 Gemini 裁判比较模型回答**
 
@@ -46,12 +46,12 @@ Python 工具，将指定文件与代码片段（支持行区间、多区间、�
 ```mermaid
 xychart-beta
     title "fotedev/context 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-26", "2026-11-28"]
     y-axis "stars" 17 --> 21
-    line [18, 20, 19, 19]
+    line [18, 20, 19, 20]
 ```
 
-2026-11-14 18 → 2026-11-27 19（+1）
+2026-11-14 18 → 2026-11-28 20（+2）
 
 
 ---

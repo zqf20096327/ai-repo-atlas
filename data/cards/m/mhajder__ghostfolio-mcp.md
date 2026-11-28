@@ -1,6 +1,6 @@
 # mhajder/ghostfolio-mcp
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/mhajder/ghostfolio-mcp) · [官网](https://pypi.org/project/ghostfolio-mcp/) · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/mhajder/ghostfolio-mcp) · [官网](https://pypi.org/project/ghostfolio-mcp/) · 个人维护
 
 **让 AI agent 查询与管理 Ghostfolio 投资组合的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mhajder/ghostfolio-mcp 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
     y-axis "stars" 20 --> 23
     line [22, 21, 21]
 ```
 
-2026-10-25 22 → 2026-11-27 21（-1）
+2026-10-26 22 → 2026-11-28 21（-1）
 
 
 ---

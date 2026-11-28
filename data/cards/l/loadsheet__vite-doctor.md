@@ -1,6 +1,6 @@
 # loadsheet/vite-doctor
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/loadsheet/vite-doctor) · [官网](https://vite-doctor.onmax.me) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/loadsheet/vite-doctor) · [官网](https://vite-doctor.onmax.me) · 个人维护
 
 **给前端项目做框架级诊断，拦截 AI agent 产出的框架 bug**
 
@@ -40,6 +40,18 @@
 > L1: Vite Doctor: catch framework bugs AI agents miss
 > L5:  Catch framework bugs AI agents miss. Diagnostics for Nuxt, Vue, Nitro, H3 and Vite.
 > L41: Doctor recognizes coding-agent runtimes through Vercel's agent catalog and returns a compact agent report when outp
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "loadsheet/vite-doctor 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
+```
+
+2026-11-27 35 → 2026-11-28 36（+1）
 
 
 ---

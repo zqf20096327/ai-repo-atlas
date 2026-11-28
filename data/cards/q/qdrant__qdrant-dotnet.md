@@ -1,6 +1,6 @@
 # qdrant/qdrant-dotnet
 
-⭐ 232 · C# · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/qdrant/qdrant-dotnet) · 组织维护
+⭐ 232 · C# · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/qdrant/qdrant-dotnet) · 组织维护
 
 **面向 .NET 开发者的 Qdrant 向量数据库客户端 SDK**
 
@@ -46,12 +46,12 @@ Qdrant 官方的 .NET 客户端库，以 NuGet 包 Qdrant.Client 发布，通过
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-dotnet 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
     y-axis "stars" 230 --> 233
     line [231, 232, 232]
 ```
 
-2026-10-25 231 → 2026-11-27 232（+1）
+2026-10-26 231 → 2026-11-28 232（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # frenchmarcel/auralis
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/frenchmarcel/auralis) · [官网](https://auralis.readthedocs.io) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/frenchmarcel/auralis) · [官网](https://auralis.readthedocs.io) · 个人维护
 
 **房间声学混合可听化引擎：模拟并双耳聆听房间声音**
 
@@ -39,6 +39,18 @@ Auralis 加载房间模型、指定材质并放置声源与听者，输出双耳
 
 > L9: Auralis simulates the sound of a room and lets you listen to it. Load a
 > L18: Auralis is a hybrid engine. Below a transition frequency, a **wave solver**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "frenchmarcel/auralis 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

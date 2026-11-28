@@ -1,6 +1,6 @@
 # Yaemikoreal/BilibiliPlayer
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Yaemikoreal/BilibiliPlayer) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Yaemikoreal/BilibiliPlayer) · 个人维护 · 中文 README
 
 **给 AI Agent 用的B站 MCP Server：29 个工具本机操作B站**
 
@@ -41,6 +41,18 @@
 > L5:  29 个 MCP 工具，一个跑在本机的 MCP Server —— 把B站变成 Agent 可调用的能力。
 > L13: - 🤖 **Agent 拿来就能干活**：标准 MCP（stdio）接入 Claude Code / Cursor / Cline / OpenClaw；还附赠 DSH 插件「B站分身」——看板 + 操作台 + 值班章程，能让 A
 > L149: 技术栈：MCP（Model Context Protocol） · FastMCP · `bilibili-api-python` · Python 3.10+；插件侧是纯 ESM 的 Node.js 模块，没有第三方运行时依赖
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Yaemikoreal/BilibiliPlayer 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

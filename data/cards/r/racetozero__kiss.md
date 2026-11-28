@@ -1,6 +1,6 @@
 # racetozero/kiss
 
-⭐ 23 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/racetozero/kiss) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/racetozero/kiss) · 个人维护
 
 **Rust 编写的终端编码 agent，支持 44 个模型接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "racetozero/kiss 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-28"]
     y-axis "stars" 21 --> 24
     line [23, 22, 23, 23]
 ```
 
-2026-10-25 23 → 2026-11-27 23（+0）
+2026-10-26 23 → 2026-11-28 23（+0）
 
 
 ---

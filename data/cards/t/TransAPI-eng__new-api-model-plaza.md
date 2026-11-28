@@ -1,6 +1,6 @@
 # TransAPI-eng/new-api-model-plaza
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/TransAPI-eng/new-api-model-plaza) · [官网](https://transapi-eng.github.io/new-api-model-plaza/) · 组织维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/TransAPI-eng/new-api-model-plaza) · [官网](https://transapi-eng.github.io/new-api-model-plaza/) · 组织维护 · 中文 README
 
 **给 New API / One API 中转站定价页换树状卡片界面的前端组件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TransAPI-eng/new-api-model-plaza 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 14
-    line [3, 4, 12, 13]
+    title "TransAPI-eng/new-api-model-plaza 星数(近 5 点)"
+    x-axis ["2026-11-12", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 15
+    line [3, 4, 12, 13, 14]
 ```
 
-2026-11-12 3 → 2026-11-27 13（+10）
+2026-11-12 3 → 2026-11-28 14（+11）
 
 
 ---

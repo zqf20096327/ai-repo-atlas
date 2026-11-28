@@ -1,6 +1,6 @@
 # xiaoyu-work/Yu-OS
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/xiaoyu-work/Yu-OS) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/xiaoyu-work/Yu-OS) · 个人维护
 
 **面向开发者的 agent 原生操作系统：AI 作为系统层运行**
 
@@ -46,12 +46,12 @@ Yu OS 是一个以 agent 为系统层组件的操作系统项目：AI 以特权�
 ```mermaid
 xychart-beta
     title "xiaoyu-work/Yu-OS 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
+    x-axis ["2026-11-22", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-22 12 → 2026-11-27 12（+0）
+2026-11-22 12 → 2026-11-28 12（+0）
 
 
 ---

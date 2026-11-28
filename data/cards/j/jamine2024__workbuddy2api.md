@@ -45,12 +45,12 @@ Windows 便携化封装：Go 网关提供 OpenAI 兼容的 /v1/models 与 /v1/ch
 ```mermaid
 xychart-beta
     title "jamine2024/workbuddy2api 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-01 3 → 2026-11-27 3（+0）
+2026-11-01 3 → 2026-11-28 3（+0）
 
 
 ---

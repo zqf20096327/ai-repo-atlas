@@ -1,6 +1,6 @@
 # imbue-bit/Moses
 
-⭐ 37 · C++ · GPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/imbue-bit/Moses) · 组织维护 · 中文 README
+⭐ 36 · C++ · GPL-3.0 · 推送 2026-02-11 · [GitHub](https://github.com/imbue-bit/Moses) · 组织维护 · 中文 README
 
 **全资产量化交易的信号聚合 ensemble 框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imbue-bit/Moses 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 35 --> 38
+    line [37, 36]
 ```
 
-2026-10-25 37 → 2026-11-27 37（+0）
+2026-10-26 37 → 2026-11-28 36（-1）
 
 
 ---

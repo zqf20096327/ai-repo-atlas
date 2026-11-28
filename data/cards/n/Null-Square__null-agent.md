@@ -42,6 +42,18 @@ Null AI 是可在本地运行的 AI 渗透测试平台，提供 Pentest、Code R
 > L15: - **Pentest.** Maps the attack surface, then tests it the way a person would: recon, enumeration, then the weakness
 > L41: Settings, Model: Continue with ChatGPT, Claude with an API key, or another provider
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Null-Square/null-agent 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 36 --> 38
+    line [37, 37]
+```
+
+2026-11-27 37 → 2026-11-28 37（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9f3bf49eeeb0` · [字段定义](../../DATASET.md)*

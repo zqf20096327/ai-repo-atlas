@@ -1,6 +1,6 @@
 # pinecone-io/better-rag-retrieval-marimo
 
-⭐ 17 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/pinecone-io/better-rag-retrieval-marimo) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/pinecone-io/better-rag-retrieval-marimo) · 组织维护
 
 **讲授 RAG 检索方法选型的 Pinecone 教学 notebook**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pinecone-io/better-rag-retrieval-marimo 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 10 --> 18
-    line [11, 14, 15, 16, 17, 17]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 10 --> 19
+    line [11, 14, 15, 16, 17, 18]
 ```
 
-2026-10-25 11 → 2026-11-27 17（+6）
+2026-10-26 11 → 2026-11-28 18（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # DeepInsight-AI/DeepBI
 
-⭐ 2,383 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/DeepInsight-AI/DeepBI) · [官网](https://www.deepbi.com/) · 组织维护 · 中文 README
+⭐ 2,384 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/DeepInsight-AI/DeepBI) · [官网](https://www.deepbi.com/) · 组织维护 · 中文 README
 
 **面向数据决策者的对话式 AI 数据分析（BI）平台**
 
@@ -45,12 +45,12 @@ DeepBI 是 AI 原生数据分析平台：借助大语言模型，用户通过对
 ```mermaid
 xychart-beta
     title "DeepInsight-AI/DeepBI 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-28"]
     y-axis "stars" 2382 --> 2386
-    line [2383, 2384, 2385, 2384, 2385, 2383, 2383]
+    line [2383, 2384, 2385, 2384, 2385, 2383, 2384]
 ```
 
-2026-10-25 2,383 → 2026-11-27 2,383（+0）
+2026-10-26 2,383 → 2026-11-28 2,384（+1）
 
 
 ---

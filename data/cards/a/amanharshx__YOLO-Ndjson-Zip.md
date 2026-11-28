@@ -1,6 +1,6 @@
 # amanharshx/YOLO-Ndjson-Zip
 
-⭐ 11 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/amanharshx/YOLO-Ndjson-Zip) · [官网](https://yolondjson.zip) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/amanharshx/YOLO-Ndjson-Zip) · [官网](https://yolondjson.zip) · 个人维护
 
 **把 Ultralytics NDJSON 标注导出转成 YOLO/COCO/VOC 等训练格式的本地桌面工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amanharshx/YOLO-Ndjson-Zip 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

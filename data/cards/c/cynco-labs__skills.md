@@ -1,6 +1,6 @@
 # cynco-labs/skills
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/cynco-labs/skills) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-03-24 · [GitHub](https://github.com/cynco-labs/skills) · 组织维护
 
 **面向 Claude Code 的马来西亚会计技能：银行流水生成财务报表与税务计算**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cynco-labs/skills 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-25 15 → 2026-11-27 16（+1）
+2026-10-26 15 → 2026-11-28 17（+2）
 
 
 ---

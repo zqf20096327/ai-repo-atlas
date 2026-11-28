@@ -1,6 +1,6 @@
 # clarilayer/clarilayer
 
-⭐ 68 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/clarilayer/clarilayer) · [官网](https://clarilayer.com) · 组织维护
+⭐ 69 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/clarilayer/clarilayer) · [官网](https://clarilayer.com) · 组织维护
 
 **跨项目跨会话的 AI 记忆服务：经 MCP 保存并召回决策与规则**
 
@@ -46,12 +46,12 @@ ClariLayer 是一个托管 MCP 服务及配套 CLI：把用户选定的事实、
 ```mermaid
 xychart-beta
     title "clarilayer/clarilayer 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-28"]
     y-axis "stars" 67 --> 77
-    line [76, 71, 70, 69, 68, 68]
+    line [76, 71, 70, 69, 68, 69]
 ```
 
-2026-10-25 76 → 2026-11-27 68（-8）
+2026-10-26 76 → 2026-11-28 69（-7）
 
 
 ---

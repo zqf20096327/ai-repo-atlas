@@ -1,6 +1,6 @@
 # buildlucid/lucid-cms
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/buildlucid/lucid-cms) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/buildlucid/lucid-cms) · 组织维护
 
 **TypeScript 优先的无头 CMS，面向需要内容建模与发布流程的团队**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "buildlucid/lucid-cms 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-25 23 → 2026-11-27 23（+0）
+2026-10-26 23 → 2026-11-28 23（+0）
 
 
 ---

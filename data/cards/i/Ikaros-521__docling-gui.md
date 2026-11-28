@@ -1,6 +1,6 @@
 # Ikaros-521/docling-gui
 
-⭐ 3 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ikaros-521/docling-gui) · [官网](https://github.com/Ikaros-521/docling-gui/releases) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ikaros-521/docling-gui) · [官网](https://github.com/Ikaros-521/docling-gui/releases) · 个人维护 · 中文 README
 
 **给 docling 提供免代码桌面图形界面的批量文档转换工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Ikaros-521/docling-gui 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

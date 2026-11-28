@@ -1,6 +1,6 @@
 # ESIPFed/Geoweaver
 
-⭐ 95 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ESIPFed/Geoweaver) · [官网](https://geoweaver.dev) · 组织维护
+⭐ 95 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ESIPFed/Geoweaver) · [官网](https://geoweaver.dev) · 组织维护
 
 **科研数据流水线的工作流编排与管理工具，面向地学等研究场景**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ESIPFed/Geoweaver 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 94 --> 96
     line [95, 95]
 ```
 
-2026-10-25 95 → 2026-11-27 95（+0）
+2026-10-26 95 → 2026-11-28 95（+0）
 
 
 ---

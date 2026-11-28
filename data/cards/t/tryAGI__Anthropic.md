@@ -1,6 +1,6 @@
 # tryAGI/Anthropic
 
-⭐ 44 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tryAGI/Anthropic) · [官网](https://tryagi.github.io/Anthropic/) · 组织维护
+⭐ 44 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/tryAGI/Anthropic) · [官网](https://tryagi.github.io/Anthropic/) · 组织维护
 
 **C#/.NET 开发者调用 Anthropic API 的官方规格生成 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tryAGI/Anthropic 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-28"]
     y-axis "stars" 42 --> 45
     line [43, 44, 44]
 ```
 
-2026-10-25 43 → 2026-11-27 44（+1）
+2026-10-26 43 → 2026-11-28 44（+1）
 
 
 ---

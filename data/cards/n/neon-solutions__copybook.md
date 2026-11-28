@@ -1,6 +1,6 @@
 # neon-solutions/copybook
 
-⭐ 62 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/neon-solutions/copybook) · [官网](https://copybook.dev) · 组织维护
+⭐ 65 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/neon-solutions/copybook) · [官网](https://copybook.dev) · 组织维护
 
 **为开发者管理与测试复制给用户的代码片段和 agent 提示词**
 
@@ -44,13 +44,13 @@ Copybook 将开发者产品中散落在组件字符串里的代码片段、命�
 
 ```mermaid
 xychart-beta
-    title "neon-solutions/copybook 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 56 --> 63
-    line [57, 62]
+    title "neon-solutions/copybook 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 56 --> 66
+    line [57, 62, 65]
 ```
 
-2026-11-26 57 → 2026-11-27 62（+5）
+2026-11-26 57 → 2026-11-28 65（+8）
 
 
 ---

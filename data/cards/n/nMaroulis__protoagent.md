@@ -1,6 +1,6 @@
 # nMaroulis/protoagent
 
-⭐ 15 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nMaroulis/protoagent) · [官网](https://nmaroulis.github.io/protoagent/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/nMaroulis/protoagent) · [官网](https://nmaroulis.github.io/protoagent/) · 个人维护
 
 **本地优先的编码代理：Rust 终端 UI + Python 核心，面向小模型分工**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nMaroulis/protoagent 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 10 --> 16
-    line [11, 13, 14, 15]
+    title "nMaroulis/protoagent 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 17
+    line [11, 13, 14, 15, 16]
 ```
 
-2026-10-25 11 → 2026-11-27 15（+4）
+2026-10-26 11 → 2026-11-28 16（+5）
 
 
 ---

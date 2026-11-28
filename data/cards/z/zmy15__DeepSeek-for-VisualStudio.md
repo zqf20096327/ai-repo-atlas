@@ -1,6 +1,6 @@
 # zmy15/DeepSeek-for-VisualStudio
 
-⭐ 147 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zmy15/DeepSeek-for-VisualStudio) · [官网](https://marketplace.visualstudio.com/items?itemName=zmy15.DS4-VS) · 个人维护 · 中文 README
+⭐ 148 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zmy15/DeepSeek-for-VisualStudio) · [官网](https://marketplace.visualstudio.com/items?itemName=zmy15.DS4-VS) · 个人维护 · 中文 README
 
 **Visual Studio 内的 DeepSeek 编码助手：聊天、补全与五类自主 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zmy15/DeepSeek-for-VisualStudio 星数(近 15 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 125 --> 149
-    line [127, 129, 130, 131, 132, 133, 127, 141, 142, 143, 144, 145, 146, 147, 147]
+    title "zmy15/DeepSeek-for-VisualStudio 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 125 --> 150
+    line [129, 130, 131, 132, 133, 127, 141, 142, 143, 144, 145, 146, 147, 148]
 ```
 
-2026-10-25 127 → 2026-11-27 147（+20）
+2026-10-26 129 → 2026-11-28 148（+19）
 
 
 ---

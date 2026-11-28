@@ -46,12 +46,12 @@ TypeScript/Express/React 全栈应用：从 FRED API 拉取美国宏观经济数
 ```mermaid
 xychart-beta
     title "hoangsonww/FRED-Data-Analysis 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-24 18 → 2026-11-27 18（+0）
+2026-10-25 18 → 2026-11-28 18（+0）
 
 
 ---

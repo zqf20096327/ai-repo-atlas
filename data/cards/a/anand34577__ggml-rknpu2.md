@@ -1,6 +1,6 @@
 # anand34577/ggml-rknpu2
 
-⭐ 3 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/anand34577/ggml-rknpu2) · [官网](https://github.com/anand34577/ggml-rknpu2/wiki) · 个人维护
+⭐ 4 · C++ · MIT · 推送 2026-10-24 · [GitHub](https://github.com/anand34577/ggml-rknpu2) · [官网](https://github.com/anand34577/ggml-rknpu2/wiki) · 个人维护
 
 **在 Rockchip NPU 上运行 llama.cpp 的 ggml 后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anand34577/ggml-rknpu2 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-20", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-20 3 → 2026-11-27 3（+0）
+2026-11-20 3 → 2026-11-28 4（+1）
 
 
 ---

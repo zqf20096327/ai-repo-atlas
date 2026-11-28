@@ -1,6 +1,6 @@
 # eleboucher/memini
 
-⭐ 34 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/eleboucher/memini) · 个人维护
+⭐ 34 · Go · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/eleboucher/memini) · 个人维护
 
 **给 MCP 智能体提供持久分层记忆的 Go 单二进制服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eleboucher/memini 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 30 --> 35
     line [31, 33, 31, 34, 34]
 ```
 
-2026-10-25 31 → 2026-11-27 34（+3）
+2026-10-26 31 → 2026-11-28 34（+3）
 
 
 ---

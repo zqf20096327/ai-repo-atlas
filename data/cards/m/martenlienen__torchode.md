@@ -45,12 +45,12 @@ torchode 提供一组单步 ODE 求解器（如 dopri5、tsit5），兼容 torch
 ```mermaid
 xychart-beta
     title "martenlienen/torchode 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 289 --> 291
     line [290, 290]
 ```
 
-2026-10-25 290 → 2026-11-27 290（+0）
+2026-10-26 290 → 2026-11-28 290（+0）
 
 
 ---

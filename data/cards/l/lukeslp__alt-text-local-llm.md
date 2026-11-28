@@ -1,6 +1,6 @@
 # lukeslp/alt-text-local-llm
 
-⭐ 13 · JavaScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/lukeslp/alt-text-local-llm) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/lukeslp/alt-text-local-llm) · [官网](https://lukesteuber.com) · 个人维护
 
 **本地生成图片替代文本（alt text）的桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lukeslp/alt-text-local-llm 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

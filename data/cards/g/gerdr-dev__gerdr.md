@@ -1,6 +1,6 @@
 # gerdr-dev/gerdr
 
-⭐ 7 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gerdr-dev/gerdr) · [官网](https://gerdr.dev) · 个人维护
+⭐ 8 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/gerdr-dev/gerdr) · [官网](https://gerdr.dev) · 个人维护
 
 **多编程 agent 统一窗口：分屏会话、审批卡片与手机远程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gerdr-dev/gerdr 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 5 --> 8
-    line [6, 7]
+    title "gerdr-dev/gerdr 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 5 --> 9
+    line [6, 7, 8]
 ```
 
-2026-11-26 6 → 2026-11-27 7（+1）
+2026-11-26 6 → 2026-11-28 8（+2）
 
 
 ---

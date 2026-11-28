@@ -1,10 +1,10 @@
 # openeverest/openeverest
 
-⭐ 979 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/openeverest/openeverest) · [官网](https://openeverest.io/) · 组织维护
+⭐ 981 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/openeverest/openeverest) · [官网](https://openeverest.io/) · 组织维护
 
-**在 Kubernetes 上自动化部署管理数据库、存储与 LLM 的开源平台**
+**面向开发者在 Kubernetes 上部署管理数据库/存储/LLM 的平台**
 
-开源云原生数据库平台，供开发者以少量点击在 Kubernetes（云端或本地）上部署数据库实例、存储与 LLM，并提供扩展、监控、备份自动化与数据安全管理能力。提供 Helm Chart 安装（推荐）与 everestctl CLI 安装两种方式，CLI 支持 Linux/WSL 与 macOS（Apple Silicon/Intel）二进制下载，附带向导与 headless 模式。当前 main 分支为 v2 Developer Preview（未功能完整、不适用于生产），v1 仍在 v1.x 分支继续发布。
+OpenEverest 是运行在 Kubernetes 上的开源云原生数据库平台，提供点击式创建数据库实例、扩缩容、维护、监控、备份自动化与数据安全等能力，目标是减少数据库管理开销并控制 DBaaS 成本。支持通过 Helm chart 或 everestctl CLI（含向导与 headless 模式）安装，可管理多个 namespace 与 MongoDB/PostgreSQL/MySQL 等数据库 operator。当前 main 分支为 v2（未 GA，API 可能变动），v1.x 为当前 GA 版本，v2 GA 后 v1 再获 6 个月修复支持。提供商业支持与社区支持渠道。
 
 ## 筛选速览
 
@@ -20,37 +20,39 @@
 
 ## 能力要点
 
-- Helm Chart 安装与 everestctl CLI（向导/headless 两种模式）
-- 支持 MongoDB/PostgreSQL/MySQL 等 operator 的数据库部署管理
-- 可在任意 Kubernetes 基础设施上运行（云上或本地）
+- 提供 Helm 与 everestctl CLI 两种安装方式，支持向导与 headless 模式
+- 安装时可选装 MongoDB/PostgreSQL/MySQL 数据库 operator
+- 默认不暴露外部 IP，提供 Port Forwarding 与 LoadBalancer 访问方式
+- 提供商业支持（认证合作伙伴）与社区支持渠道
 
 ## 适用场景
 
-- 在自有 Kubernetes 集群上自助开通和管理数据库实例
-- 团队统一管理数据库备份、监控与扩展
-- 降低 DBaaS 成本并收回数据与配置控制权
+- 在云上或本地 Kubernetes 集群中自建数据库即服务（DBaaS）
+- 为开发团队提供一键创建和管理数据库实例的自助平台
+- 统一管理多个 namespace 下的数据库 operator 与备份策略
 
 ## 场景标签
 
- · 领域:云原生/数据库基础设施
+ · 领域:云原生/数据库管理
 
 ## 证据(README 行号)
 
-> L22: OpenEverest is an open source cloud-native database platform that helps developers deploy code faster, scale deploy
-> L42: ## Install OpenEverest Using Helm (Recommended)
+> L3: OpenEverest - Run Data Workloads on Kubernetes
+> L20: OpenEverest is an open source cloud-native database platform that helps developers deploy code faster, scale deploy
+> L161:    everestctl install --namespaces <namespace-name1>,<namespace-name2> --operator.mongodb=true --operator.postgres
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "openeverest/openeverest 星数(近 17 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 952 --> 981
-    line [954, 955, 956, 957, 959, 960, 954, 964, 966, 967, 969, 972, 974, 975, 974, 978, 979]
+    title "openeverest/openeverest 星数(近 18 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 952 --> 983
+    line [954, 955, 956, 957, 959, 960, 954, 964, 966, 967, 969, 972, 974, 975, 974, 978, 979, 981]
 ```
 
-2026-10-25 954 → 2026-11-27 979（+25）
+2026-10-26 954 → 2026-11-28 981（+27）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `07aefc829102` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `ef6ef5840042` · [字段定义](../../DATASET.md)*

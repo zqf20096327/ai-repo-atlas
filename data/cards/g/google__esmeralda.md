@@ -1,6 +1,6 @@
 # google/esmeralda
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google/esmeralda) · [官网](https://google.github.io/esmeralda/) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/google/esmeralda) · [官网](https://google.github.io/esmeralda/) · 组织维护
 
 **面向 Google Cloud 的企业级 AI Agent 生产化参考蓝图**
 
@@ -44,13 +44,13 @@ Google 维护的单仓蓝图，用于在 GCP 上将自主 AI Agent 与 MCP 服�
 
 ```mermaid
 xychart-beta
-    title "google/esmeralda 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-27"]
+    title "google/esmeralda 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-27", "2026-11-28"]
     y-axis "stars" 22 --> 35
-    line [23, 24, 23, 25, 27, 29, 30, 34]
+    line [23, 24, 23, 25, 27, 29, 30, 34, 34]
 ```
 
-2026-10-24 23 → 2026-11-27 34（+11）
+2026-10-25 23 → 2026-11-28 34（+11）
 
 
 ---

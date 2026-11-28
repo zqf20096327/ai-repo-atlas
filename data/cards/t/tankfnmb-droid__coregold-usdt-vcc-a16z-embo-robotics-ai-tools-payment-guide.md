@@ -1,6 +1,6 @@
 # tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide
 
-⭐ 39 · 推送 2026-11-24 · [GitHub](https://github.com/tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 52 · 推送 2026-11-24 · [GitHub](https://github.com/tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **开发者海外订阅跨境支付教程：用 CoreGold 虚拟卡付款**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 23 --> 40
-    line [24, 39]
+    title "tankfnmb-droid/coregold-usdt-vcc-a16z-embo-robotics-ai-tools-payment-guide 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 22 --> 54
+    line [24, 39, 52]
 ```
 
-2026-11-26 24 → 2026-11-27 39（+15）
+2026-11-26 24 → 2026-11-28 52（+28）
 
 
 ---

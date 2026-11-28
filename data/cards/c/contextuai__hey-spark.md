@@ -1,6 +1,6 @@
 # contextuai/hey-spark
 
-⭐ 8 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/contextuai/hey-spark) · [官网](https://contextuai.com) · 组织维护
+⭐ 9 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/contextuai/hey-spark) · [官网](https://contextuai.com) · 组织维护
 
 **本地唤醒词语音助手：语音问答与工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "contextuai/hey-spark 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 4 --> 9
-    line [5, 7, 8, 7, 8, 8]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 4 --> 10
+    line [5, 7, 8, 7, 8, 9]
 ```
 
-2026-11-02 5 → 2026-11-27 8（+3）
+2026-11-02 5 → 2026-11-28 9（+4）
 
 
 ---

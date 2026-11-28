@@ -1,6 +1,6 @@
 # google-deepmind/predictingthepast
 
-⭐ 220 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/predictingthepast) · 组织维护
+⭐ 221 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/google-deepmind/predictingthepast) · 组织维护
 
 **古文本修复与断代归因的生成神经网络（Aeneas）**
 
@@ -46,12 +46,12 @@ Google DeepMind 等机构发布的 Aeneas 模型官方代码库：面向拉丁�
 ```mermaid
 xychart-beta
     title "google-deepmind/predictingthepast 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 216 --> 221
-    line [217, 218, 217, 218, 219, 220, 220]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 216 --> 222
+    line [217, 218, 217, 218, 219, 220, 221]
 ```
 
-2026-10-25 217 → 2026-11-27 220（+3）
+2026-10-26 217 → 2026-11-28 221（+4）
 
 
 ---

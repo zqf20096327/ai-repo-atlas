@@ -1,6 +1,6 @@
 # aether-aiagent/aether
 
-⭐ 41 · Kotlin · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/aether-aiagent/aether) · [官网](https://aether-aiagent.github.io/aether/) · 个人维护
+⭐ 42 · Kotlin · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aether-aiagent/aether) · [官网](https://aether-aiagent.github.io/aether/) · 个人维护
 
 **Android 本地 AI Agent 应用：手机上运行带工具与本地 Linux 环境的 LLM 助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "aether-aiagent/aether 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 37 --> 42
-    line [38, 41, 40, 41]
+    title "aether-aiagent/aether 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 37 --> 43
+    line [38, 41, 40, 41, 42]
 ```
 
-2026-11-21 38 → 2026-11-27 41（+3）
+2026-11-21 38 → 2026-11-28 42（+4）
 
 
 ---

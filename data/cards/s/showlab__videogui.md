@@ -46,12 +46,12 @@ NeurIPS 2024 D&B 接收的多模态基准：从专业软件（PR/AE/DaVinci、St
 ```mermaid
 xychart-beta
     title "showlab/videogui 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-25 55 → 2026-11-27 55（+0）
+2026-10-26 55 → 2026-11-28 55（+0）
 
 
 ---

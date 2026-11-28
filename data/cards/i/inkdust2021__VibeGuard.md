@@ -1,6 +1,6 @@
 # inkdust2021/VibeGuard
 
-⭐ 235 · Go · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/inkdust2021/VibeGuard) · [官网](https://vibeguard.top/) · 个人维护 · 中文 README
+⭐ 236 · Go · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/inkdust2021/VibeGuard) · [官网](https://vibeguard.top/) · 个人维护 · 中文 README
 
 **面向 vibecoding 的本地 MITM 代理：拦截并脱敏发往 AI API 的敏感数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "inkdust2021/VibeGuard 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 230 --> 236
-    line [231, 232, 233, 231, 234, 235, 235]
+    title "inkdust2021/VibeGuard 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 230 --> 237
+    line [232, 233, 231, 234, 235, 236]
 ```
 
-2026-10-25 231 → 2026-11-27 235（+4）
+2026-10-26 232 → 2026-11-28 236（+4）
 
 
 ---

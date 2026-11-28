@@ -1,6 +1,6 @@
 # woodfishhhh/obituary
 
-⭐ 111 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/woodfishhhh/obituary) · [官网](obituary.woodfish.site) · 个人维护 · 中文 README
+⭐ 116 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/woodfishhhh/obituary) · [官网](obituary.woodfish.site) · 个人维护 · 中文 README
 
 **给 AI agent 产物做自动过期与可恢复删除的回收站工具**
 
@@ -46,13 +46,13 @@ Obituary 定位为 AI agent 的回收站：agent 通过 obit mark 给自己写�
 
 ```mermaid
 xychart-beta
-    title "woodfishhhh/obituary 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 109 --> 112
-    line [110, 111]
+    title "woodfishhhh/obituary 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 109 --> 117
+    line [110, 111, 116]
 ```
 
-2026-11-26 110 → 2026-11-27 111（+1）
+2026-11-26 110 → 2026-11-28 116（+6）
 
 
 ---

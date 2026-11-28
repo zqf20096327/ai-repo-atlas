@@ -1,6 +1,6 @@
 # torydebra/AwesomeRoboticsConferencesAndSchoolsList
 
-⭐ 89 · JavaScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList) · [官网](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/) · 个人维护
+⭐ 89 · JavaScript · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList) · [官网](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/) · 个人维护
 
 **机器人学术会议与暑期学校清单：交互式表格选会**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "torydebra/AwesomeRoboticsConferencesAndSchoolsList 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 87 --> 90
     line [88, 89, 89]
 ```
 
-2026-10-25 88 → 2026-11-27 89（+1）
+2026-10-26 88 → 2026-11-28 89（+1）
 
 
 ---

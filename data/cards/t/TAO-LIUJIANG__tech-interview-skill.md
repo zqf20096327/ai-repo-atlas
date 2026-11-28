@@ -1,6 +1,6 @@
 # TAO-LIUJIANG/tech-interview-skill
 
-⭐ 9 · MIT · 推送 2026-11-06 · [GitHub](https://github.com/TAO-LIUJIANG/tech-interview-skill) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **求职者的科技面试陪练 Skill：评分引用原话、机器验收**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

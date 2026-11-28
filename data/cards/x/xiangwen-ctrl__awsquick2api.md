@@ -1,6 +1,6 @@
 # xiangwen-ctrl/awsquick2api
 
-⭐ 3 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xiangwen-ctrl/awsquick2api) · 个人维护 · 中文 README
+⭐ 5 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/xiangwen-ctrl/awsquick2api) · 个人维护 · 中文 README
 
 **给开发者提供把 Amazon Quick 转为 OpenAI/Anthropic 兼容 API 的自托管网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiangwen-ctrl/awsquick2api 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 5（+2）
 
 
 ---

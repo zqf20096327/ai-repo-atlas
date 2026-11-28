@@ -1,6 +1,6 @@
 # sustainable-computing-io/kepler-model-server
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/sustainable-computing-io/kepler-model-server) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-03-19 · [GitHub](https://github.com/sustainable-computing-io/kepler-model-server) · 组织维护
 
 **Kepler 功耗模型的训练与服务基础设施**
 
@@ -44,12 +44,12 @@ Kepler 项目的模型服务器组件，包含模型服务器、estimator、离�
 ```mermaid
 xychart-beta
     title "sustainable-computing-io/kepler-model-server 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-25 30 → 2026-11-27 30（+0）
+2026-10-26 30 → 2026-11-28 31（+1）
 
 
 ---

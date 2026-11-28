@@ -41,6 +41,18 @@ Droid 是一个 Android 应用（dev.aster.probe），通过无障碍服务让 A
 > L19: Droid (`dev.aster.probe`) gives an AI agent your phone's screen. An accessibility service lets it read, tap, swipe 
 > L21: - **Any model.** Free models with no account and no key, Ollama or LM Studio on your own computer, or a key for one
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Zfinix/droid 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-27 11 → 2026-11-28 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9dafd3c5393c` · [字段定义](../../DATASET.md)*

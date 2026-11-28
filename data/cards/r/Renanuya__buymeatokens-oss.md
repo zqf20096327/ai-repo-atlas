@@ -1,6 +1,6 @@
 # Renanuya/buymeatokens-oss
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Renanuya/buymeatokens-oss) · [官网](https://buymeatokens.com) · 个人维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Renanuya/buymeatokens-oss) · [官网](https://buymeatokens.com) · 个人维护
 
 **让开源开发者接受 AI token 赞助的自建筹资页面**
 
@@ -39,6 +39,18 @@
 
 > L7: Open source developers get a page where supporters fund the AI tokens behind their projects.
 > L29: |**Write with AI**|Optional: drafts the project description from the repository's README (Gemini or Groq free tiers
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Renanuya/buymeatokens-oss 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-27 3 → 2026-11-28 5（+2）
 
 
 ---

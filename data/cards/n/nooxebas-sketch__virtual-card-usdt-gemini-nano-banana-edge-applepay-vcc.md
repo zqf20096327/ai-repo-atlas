@@ -1,6 +1,6 @@
 # nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc
 
-⭐ 103 · 推送 2026-11-16 · [GitHub](https://github.com/nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 111 · 推送 2026-11-16 · [GitHub](https://github.com/nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向独立开发者的虚拟卡+USDT+Apple Pay 跨境支付方案推广页**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc 星数(近 8 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 112
-    line [7, 12, 16, 26, 41, 62, 89, 103]
+    title "nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc 星数(近 9 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 121
+    line [7, 12, 16, 26, 41, 62, 89, 103, 111]
 ```
 
-2026-11-16 7 → 2026-11-27 103（+96）
+2026-11-16 7 → 2026-11-28 111（+104）
 
 
 ---

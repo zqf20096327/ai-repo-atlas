@@ -40,6 +40,18 @@
 > L2: This unity project contains different approaches and datasets to procedurally generate words of a certain type. All 
 > L5: - A Classic Generator, which allows you to generate words of a certain type (planets, countries, provinces, minerals
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "p-svacha/ProceduralTextGeneration 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-27 13 → 2026-11-28 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c5c8ef9e490e` · [字段定义](../../DATASET.md)*

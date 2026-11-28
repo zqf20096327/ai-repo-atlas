@@ -1,6 +1,6 @@
 # alchemy-fr/phrasea
 
-⭐ 27 · PHP · MIT · 推送 2026-11-26 · [GitHub](https://github.com/alchemy-fr/phrasea) · [官网](https://phrasea.com) · 组织维护
+⭐ 28 · PHP · MIT · 推送 2026-11-27 · [GitHub](https://github.com/alchemy-fr/phrasea) · [官网](https://phrasea.com) · 组织维护
 
 **面向组织机构的开源数字资产管理（DAM）平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alchemy-fr/phrasea 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-25 26 → 2026-11-27 27（+1）
+2026-10-26 26 → 2026-11-28 28（+2）
 
 
 ---

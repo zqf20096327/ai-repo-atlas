@@ -1,6 +1,6 @@
 # atomicstrata/atomicmemory
 
-⭐ 439 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/atomicstrata/atomicmemory) · [官网](https://docs.atomicstrata.ai) · 组织维护
+⭐ 440 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/atomicstrata/atomicmemory) · [官网](https://docs.atomicstrata.ai) · 组织维护
 
 **给 AI agent 提供跨会话持久化、可审计的记忆层**
 
@@ -46,13 +46,13 @@ AtomicMemory 为 agent 和 AI 应用提供可检查、支持更正的语义记�
 
 ```mermaid
 xychart-beta
-    title "atomicstrata/atomicmemory 星数(近 13 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
+    title "atomicstrata/atomicmemory 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 437 --> 442
-    line [439, 440, 439, 438, 440, 441, 440, 441, 440, 441, 439, 440, 439]
+    line [439, 440, 439, 438, 440, 441, 440, 441, 440, 441, 439, 440, 439, 440]
 ```
 
-2026-10-25 439 → 2026-11-27 439（+0）
+2026-10-26 439 → 2026-11-28 440（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Merserk/ComfyUI-Visual-Enhancer
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Merserk/ComfyUI-Visual-Enhancer) · [官网](https://visualenhancer.merserk.com) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Merserk/ComfyUI-Visual-Enhancer) · [官网](https://visualenhancer.merserk.com) · 个人维护
 
 **ComfyUI 自定义节点：接入 Visual Enhancer 做图像视频增强**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Merserk/ComfyUI-Visual-Enhancer 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

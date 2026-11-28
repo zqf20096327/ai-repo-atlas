@@ -1,6 +1,6 @@
 # trentmcnitt/opentask
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/trentmcnitt/opentask) · [官网](https://opentask.mcnitt.io) · 个人维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/trentmcnitt/opentask) · [官网](https://opentask.mcnitt.io) · 个人维护
 
 **自托管的 AI 任务与习惯管理器（Web/iOS/Watch/Mac）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "trentmcnitt/opentask 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 14]
 ```
 
-2026-10-25 12 → 2026-11-27 14（+2）
+2026-10-26 12 → 2026-11-28 14（+2）
 
 
 ---

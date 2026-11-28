@@ -1,6 +1,6 @@
 # mo374z/PatientsWithPersonality
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mo374z/PatientsWithPersonality) · [官网](https://mo374z.github.io/PatientsWithPersonality/) · 组织维护
+⭐ 11 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mo374z/PatientsWithPersonality) · [官网](https://mo374z.github.io/PatientsWithPersonality/) · 组织维护
 
 **给临床 LLM 研究者：可控人格与选择性披露的患者模拟框架**
 
@@ -40,6 +40,18 @@
 > L15: This repository contains the full code for the paper: the **PWP simulator**, **re-implementations of prior patient 
 > L21: Realistic patient simulation is needed to benchmark clinical LLMs at scale without costly user studies. Yet existin
 > L69: Model backends are configured in `configs/experiment/models/`. Gemini and Claude run through Vertex AI: authenticat
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mo374z/PatientsWithPersonality 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-27 10 → 2026-11-28 11（+1）
 
 
 ---

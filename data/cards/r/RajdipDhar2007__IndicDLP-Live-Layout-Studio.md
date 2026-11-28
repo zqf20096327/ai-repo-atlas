@@ -1,6 +1,6 @@
 # RajdipDhar2007/IndicDLP-Live-Layout-Studio
 
-⭐ 3 · Python · 推送 2026-11-22 · [GitHub](https://github.com/RajdipDhar2007/IndicDLP-Live-Layout-Studio) · 个人维护
+⭐ 3 · Python · 推送 2026-11-27 · [GitHub](https://github.com/RajdipDhar2007/IndicDLP-Live-Layout-Studio) · 个人维护
 
 **面向研究者的印度语系文档版面解析 Web 界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RajdipDhar2007/IndicDLP-Live-Layout-Studio 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-27"]
+    x-axis ["2026-10-28", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-27 3（+0）
+2026-10-28 3 → 2026-11-28 3（+0）
 
 
 ---

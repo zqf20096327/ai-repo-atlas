@@ -1,6 +1,6 @@
 # notlate-cn/ai-systems-performance-engeering
 
-⭐ 124 · 推送 2026-07-24 · [GitHub](https://github.com/notlate-cn/ai-systems-performance-engeering) · [官网](https://aispe.notlate.cn) · 个人维护 · 中文 README
+⭐ 125 · 推送 2026-07-24 · [GitHub](https://github.com/notlate-cn/ai-systems-performance-engeering) · [官网](https://aispe.notlate.cn) · 个人维护 · 中文 README
 
 **AI 系统性能工程一书的中英对照翻译阅读站**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "notlate-cn/ai-systems-performance-engeering 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 101 --> 126
-    line [103, 105, 106, 103, 113, 114, 115, 116, 118, 119, 120, 122, 123, 124]
+    title "notlate-cn/ai-systems-performance-engeering 星数(近 15 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 101 --> 127
+    line [103, 105, 106, 103, 113, 114, 115, 116, 118, 119, 120, 122, 123, 124, 125]
 ```
 
-2026-10-25 103 → 2026-11-27 124（+21）
+2026-10-26 103 → 2026-11-28 125（+22）
 
 
 ---

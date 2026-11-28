@@ -1,6 +1,6 @@
 # fernandotonon/QtMeshEditor
 
-⭐ 71 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/fernandotonon/QtMeshEditor) · [官网](http://editor.qtmesh.dev/) · 个人维护
+⭐ 71 · C++ · MIT · 推送 2026-11-27 · [GitHub](https://github.com/fernandotonon/QtMeshEditor) · [官网](http://editor.qtmesh.dev/) · 个人维护
 
 **独立游戏开发者的 3D 资产工具：格式转换、动画合并、材质编辑**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fernandotonon/QtMeshEditor 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-11-25 71 → 2026-11-27 71（+0）
+2026-11-25 71 → 2026-11-28 71（+0）
 
 
 ---

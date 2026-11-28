@@ -1,6 +1,6 @@
 # majmichu1/local-quench
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/majmichu1/local-quench) · [官网](https://www.localquench.com) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/majmichu1/local-quench) · [官网](https://www.localquench.com) · 个人维护
 
 **本地 LLM 的 AI 编码 agent：本地跑模型改代码，内置基准**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "majmichu1/local-quench 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

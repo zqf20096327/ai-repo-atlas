@@ -45,12 +45,12 @@ TensorFlow Recommenders Addons（TFRA）由 SIG Recommenders 维护，在 Tensor
 ```mermaid
 xychart-beta
     title "tensorflow/recommenders-addons 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 634 --> 636
     line [635, 635]
 ```
 
-2026-11-08 635 → 2026-11-27 635（+0）
+2026-11-08 635 → 2026-11-28 635（+0）
 
 
 ---

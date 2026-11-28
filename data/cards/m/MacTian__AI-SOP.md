@@ -41,6 +41,18 @@
 > L20: AI SOP Monitor is an open-source, end-to-end reference application for real-time SOP compliance monitoring. It comb
 > L63: - **YOLO26 Object Detection** — Default real-time detector for 80 object classes, with legacy YOLOv8 model support 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MacTian/AI-SOP 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-27 19 → 2026-11-28 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `698cd60d98d5` · [字段定义](../../DATASET.md)*

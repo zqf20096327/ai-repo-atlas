@@ -1,6 +1,6 @@
 # hatchlight/hatchlight
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hatchlight/hatchlight) · [官网](https://hatchlight.app/) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hatchlight/hatchlight) · [官网](https://hatchlight.app/) · 组织维护
 
 **在本机 GPU 或自有 API key 上并排对比多个 AI 图像/视频模型**
 
@@ -46,13 +46,13 @@ Hatchlight 是一个开源图像与视频生成工具，提供桌面应用、CLI
 
 ```mermaid
 xychart-beta
-    title "hatchlight/hatchlight 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 11
-    line [8, 10]
+    title "hatchlight/hatchlight 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 7 --> 13
+    line [8, 10, 12]
 ```
 
-2026-11-26 8 → 2026-11-27 10（+2）
+2026-11-26 8 → 2026-11-28 12（+4）
 
 
 ---

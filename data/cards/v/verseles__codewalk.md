@@ -1,6 +1,6 @@
 # verseles/codewalk
 
-⭐ 191 · Dart · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/verseles/codewalk) · 个人维护 · 中文 README
+⭐ 191 · Dart · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/verseles/codewalk) · 个人维护 · 中文 README
 
 **连接 OpenCode 服务器的跨平台原生客户端（移动/桌面）**
 
@@ -45,12 +45,12 @@ CodeWalk 是 OpenCode 服务器的原生跨平台客户端，基于 Flutter/Dart
 ```mermaid
 xychart-beta
     title "verseles/codewalk 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 189 --> 193
     line [190, 192, 191, 192, 190, 192, 191, 191]
 ```
 
-2026-10-25 190 → 2026-11-27 191（+1）
+2026-10-26 190 → 2026-11-28 191（+1）
 
 
 ---

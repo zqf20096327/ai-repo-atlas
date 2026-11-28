@@ -1,10 +1,10 @@
 # luochang212/dive-into-langgraph
 
-⭐ 478 · Jupyter Notebook · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/luochang212/dive-into-langgraph) · [官网](http://www.luochang.ink/dive-into-langgraph/) · 个人维护 · 中文 README
+⭐ 477 · Jupyter Notebook · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/luochang212/dive-into-langgraph) · [官网](http://www.luochang.ink/dive-into-langgraph/) · 个人维护 · 中文 README
 
-**Agent 开发者的 LangGraph 1.0 中文开源教程电子书**
+**帮助 Agent 开发者学习 LangGraph 1.0 框架的开源中文电子书教程**
 
-开源电子书项目，面向 Agent 开发者讲解 LangChain 团队的 LangGraph 1.0 智能体框架。将 LangChain 与 LangGraph 的主要功能提取为 14 个章节，覆盖状态图、中间件、人机交互、记忆、MCP Server、监督者模式、并发、RAG、联网搜索与 Gradio 应用等主题，完全基于 LangGraph v1.0 编写。依赖通过 uv sync 安装，配 pre-commit Hook 做 Ruff 格式检查；另提供 langgraph-cli 调试页面和一个 Gradio 智能体实战应用。2026 年起转为 Claude Code 的 Agent Skill，可通过 npx 安装。
+开源电子书项目，面向 Agent 开发者讲解 LangGraph 1.0 与 LangChain 框架，内容分为 14 章，覆盖 ReAct Agent、状态图、中间件、人机交互、记忆、上下文工程、MCP Server、监督者模式、并发、RAG、联网搜索、Deep Agents、Gradio 应用与调试页面。代码依赖用 uv 管理，调试页通过 langgraph-cli 启动。项目已转为 Claude Code 的 Agent Skill，可通过 npx 安装后辅助生成 LangChain/LangGraph 代码。采用 CC BY-NC-SA 4.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 14 章节覆盖 LangChain/LangGraph 主要功能，基于 LangGraph v1.0
-- 已转为 Agent Skill，可经 npx skills add 安装到 Claude Code
-- 提供 langgraph-cli 调试页面与 Gradio 流式对话实战应用
-- RAG 章节含向量检索、关键词检索、混合检索三种实现
+- 14 章教程覆盖 LangGraph 1.0 与 LangChain 主要功能
+- 可转为 Claude Code Agent Skill，通过 npx 安装
+- 提供基于 Gradio + LangChain 的实战智能体应用示例
+- 提供 langgraph-cli 调试页面与 pre-commit 代码检查
 
 ## 适用场景
 
-- 从零学习 LangGraph 1.0 的状态图、记忆与多智能体模式
-- 安装 Skill 后在 Claude Code 中辅助编写 LangGraph 代码
-- 参照第 13 章定制自己的 Gradio 智能体应用
+- 从零开始学习 LangGraph 1.0 的智能体开发
+- 按章节动手实践 RAG、多智能体、记忆等工作流
+- 在 Claude Code 中安装 Skill 辅助编写 LangChain/LangGraph 代码
 
 ## 场景标签
 
@@ -37,22 +37,21 @@
 
 ## 证据(README 行号)
 
-> L13:  📖《LangGraph 1.0 完全指南》
-> L20: 本教程已转为 Agent Skill。现在无需使用人脑学习本教程，只需要为你的 Claude Code 安装本 Skill，即可写出高质量的 LangChain 和 LangGraph 代码。详见：SKILL.md
 > L32: 这是一个开源电子书项目，旨在帮助 Agent 开发者快速掌握 LangGraph 框架。LangGraph 是由 LangChain 团队开发的开源智能体框架。它功能强大，你要的记忆、MCP、护栏、状态管理、多智能体它全都有。La
+> L13:  📖《LangGraph 1.0 完全指南》
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "luochang212/dive-into-langgraph 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 463 --> 479
-    line [464, 465, 466, 464, 469, 471, 473, 474, 475, 476, 478, 478]
+    line [464, 465, 466, 464, 469, 471, 473, 474, 475, 476, 478, 477]
 ```
 
-2026-10-25 464 → 2026-11-27 478（+14）
+2026-10-26 464 → 2026-11-28 477（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4aad04750892` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `fef40a0fbcf8` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # floorianmb/tidywise
 
-⭐ 9 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/floorianmb/tidywise) · 个人维护 · 中文 README
+⭐ 10 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/floorianmb/tidywise) · 个人维护 · 中文 README
 
 **macOS 用户：用本地模型把散落文件自动归类到主题文件夹**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "floorianmb/tidywise 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 10
-    line [3, 9]
+    title "floorianmb/tidywise 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 11
+    line [3, 9, 10]
 ```
 
-2026-11-26 3 → 2026-11-27 9（+6）
+2026-11-26 3 → 2026-11-28 10（+7）
 
 
 ---

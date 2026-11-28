@@ -45,12 +45,12 @@ Faceplugin 开源的 Python 活体检测模型，基于 MobileNetV2 骨干加轻
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/Open-Source-Face-Liveness-Detection-SDK 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-25 3 → 2026-11-27 4（+1）
+2026-11-25 3 → 2026-11-28 4（+1）
 
 
 ---

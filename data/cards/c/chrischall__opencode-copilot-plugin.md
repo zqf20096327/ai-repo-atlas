@@ -1,6 +1,6 @@
 # chrischall/opencode-copilot-plugin
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/chrischall/opencode-copilot-plugin) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/chrischall/opencode-copilot-plugin) · 个人维护
 
 **让 opencode 以组织 M365 Copilot 作为模型后端的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chrischall/opencode-copilot-plugin 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-18", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-18 10 → 2026-11-27 12（+2）
+2026-11-18 10 → 2026-11-28 13（+3）
 
 
 ---

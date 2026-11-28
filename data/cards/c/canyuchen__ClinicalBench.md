@@ -1,6 +1,6 @@
 # canyuchen/ClinicalBench
 
-⭐ 39 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/canyuchen/ClinicalBench) · [官网](https://clinicalbench.github.io) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/canyuchen/ClinicalBench) · [官网](https://clinicalbench.github.io) · 组织维护
 
 **临床预测基准：22 个 LLM 对 11 个传统 ML 模型的评测框架**
 
@@ -45,12 +45,12 @@ KDD 2026 论文的官方代码库，提供可安装的 clinicalbench 包：在 M
 ```mermaid
 xychart-beta
     title "canyuchen/ClinicalBench 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-25 39 → 2026-11-27 39（+0）
+2026-10-26 39 → 2026-11-28 40（+1）
 
 
 ---

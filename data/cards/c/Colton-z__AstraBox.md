@@ -1,6 +1,6 @@
 # Colton-z/AstraBox
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Colton-z/AstraBox) · [官网](https://www.astrabox.ai) · 个人维护 · 中文 README
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Colton-z/AstraBox) · [官网](https://www.astrabox.ai) · 个人维护 · 中文 README
 
 **自托管平台：将 Claude Code、Codex 等 Agent 程序作为云端 Agent 运行**
 
@@ -46,12 +46,12 @@ AstraBox 是开源（Apache-2.0）自托管的 Agent 运行平台：在自有基
 ```mermaid
 xychart-beta
     title "Colton-z/AstraBox 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-20", "2026-11-28"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-25 15 → 2026-11-27 17（+2）
+2026-10-26 15 → 2026-11-28 17（+2）
 
 
 ---

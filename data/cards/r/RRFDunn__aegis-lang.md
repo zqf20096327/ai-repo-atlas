@@ -45,12 +45,12 @@ Aegis 是一门 security-by-construction 的 DSL，将 .aegis 文件转译为 Py
 ```mermaid
 xychart-beta
     title "RRFDunn/aegis-lang 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 14（+1）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

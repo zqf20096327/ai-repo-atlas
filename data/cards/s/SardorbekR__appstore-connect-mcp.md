@@ -1,6 +1,6 @@
 # SardorbekR/appstore-connect-mcp
 
-⭐ 23 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SardorbekR/appstore-connect-mcp) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SardorbekR/appstore-connect-mcp) · 个人维护
 
 **让 Claude/Cursor 等 MCP 客户端直接管理 App Store Connect 的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SardorbekR/appstore-connect-mcp 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 22, 23, 23]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 22, 23, 24]
 ```
 
-2026-10-25 22 → 2026-11-27 23（+1）
+2026-10-26 22 → 2026-11-28 24（+2）
 
 
 ---

@@ -46,12 +46,12 @@ ECCV 2026 论文的官方仓库，包含两部分：VG-GUI-Bench 是评测 MLLM 
 ```mermaid
 xychart-beta
     title "VG-GUI-TASKER/VG-GUI-TASKER 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

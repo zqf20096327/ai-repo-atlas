@@ -1,6 +1,6 @@
 # AharaOoO/ComfyUI-Acheng-ShotVault
 
-⭐ 9 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AharaOoO/ComfyUI-Acheng-ShotVault) · 个人维护 · 中文 README
+⭐ 11 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AharaOoO/ComfyUI-Acheng-ShotVault) · 个人维护 · 中文 README
 
 **ComfyUI 节点套件：MiniMax H3 多镜头视频的分镜规划与拼接**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AharaOoO/ComfyUI-Acheng-ShotVault 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 10
-    line [8, 9]
+    title "AharaOoO/ComfyUI-Acheng-ShotVault 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 7 --> 12
+    line [8, 9, 11]
 ```
 
-2026-11-26 8 → 2026-11-27 9（+1）
+2026-11-26 8 → 2026-11-28 11（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # HUBioDataLab/DrugGEN
 
-⭐ 107 · Python · GPL-3.0 · 推送 2026-08-11 · [GitHub](https://github.com/HUBioDataLab/DrugGEN) · 组织维护
+⭐ 108 · Python · GPL-3.0 · 推送 2026-08-11 · [GitHub](https://github.com/HUBioDataLab/DrugGEN) · 组织维护
 
 **面向特定靶蛋白的药物分子从头生成系统（图Transformer GAN）**
 
@@ -45,12 +45,12 @@ DrugGEN 是端到端生成式模型：将分子表示为图，用含图 Transfor
 ```mermaid
 xychart-beta
     title "HUBioDataLab/DrugGEN 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 104 --> 108
-    line [105, 107, 107]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 104 --> 109
+    line [105, 107, 108]
 ```
 
-2026-10-25 105 → 2026-11-27 107（+2）
+2026-10-26 105 → 2026-11-28 108（+3）
 
 
 ---

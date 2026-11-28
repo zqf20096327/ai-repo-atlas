@@ -1,6 +1,6 @@
 # Apertur3/headroom
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Apertur3/headroom) · [官网](https://github.com/Apertur3/headroom#readme) · 组织维护
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Apertur3/headroom) · [官网](https://github.com/Apertur3/headroom#readme) · 组织维护
 
 **AI 编程代理的配额监测守护进程：读订阅限额，答 go/wait/reroute**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Apertur3/headroom 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 14 --> 32
     line [30, 31, 30, 15, 15]
 ```
 
-2026-10-25 30 → 2026-11-27 15（-15）
+2026-10-26 30 → 2026-11-28 15（-15）
 
 
 ---

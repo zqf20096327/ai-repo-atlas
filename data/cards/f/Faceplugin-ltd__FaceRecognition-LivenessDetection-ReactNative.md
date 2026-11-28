@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-LivenessDetection-ReactNative
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-ReactNative) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-ReactNative) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **React Native 人脸识别+被动活体检测插件，全离线端侧运行**
 
@@ -46,12 +46,12 @@ FacePlugin 提供的 React Native 插件（face-recognition-sdk），含 Android
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceRecognition-LivenessDetection-ReactNative 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-11-25 23 → 2026-11-27 24（+1）
+2026-11-25 23 → 2026-11-28 24（+1）
 
 
 ---

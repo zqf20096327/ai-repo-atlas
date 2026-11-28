@@ -1,6 +1,6 @@
 # SalZaki/antislop
 
-⭐ 11 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/SalZaki/antislop) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/SalZaki/antislop) · 个人维护
 
 **Claude Code 插件：检测并去除文本中的 AI 痕迹**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SalZaki/antislop 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-02 10 → 2026-11-27 11（+1）
+2026-11-02 10 → 2026-11-28 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hounddogai/protomap
 
-⭐ 11 · Shell · 推送 2026-11-25 · [GitHub](https://github.com/hounddogai/protomap) · [官网](https://protomap.ai) · 组织维护
+⭐ 11 · Shell · 推送 2026-11-27 · [GitHub](https://github.com/hounddogai/protomap) · [官网](https://protomap.ai) · 组织维护
 
 **gRPC/Protobuf 架构图引擎，供团队与编码代理查询调用关系**
 
@@ -47,12 +47,12 @@ ProtoMap 由 HoundDog.ai 开发，扫描仓库中的 .proto 文件与 Go/C#/Java
 ```mermaid
 xychart-beta
     title "hounddogai/protomap 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-21 10 → 2026-11-27 11（+1）
+2026-11-21 10 → 2026-11-28 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # zhangxq0606-ctrl/PodDesk
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/zhangxq0606-ctrl/PodDesk) · [官网](https://poddesk.captainxq.me) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/zhangxq0606-ctrl/PodDesk) · [官网](https://poddesk.captainxq.me) · 个人维护 · 中文 README
 
 **本地优先的双语播客与视频 AI 问答工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhangxq0606-ctrl/PodDesk 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 6（+1）
 
 
 ---

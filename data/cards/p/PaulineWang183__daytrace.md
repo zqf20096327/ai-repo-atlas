@@ -46,12 +46,12 @@ Electron + Flask + SQLite 构建的 macOS（Apple Silicon）桌面应用：用�
 ```mermaid
 xychart-beta
     title "PaulineWang183/daytrace 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
     y-axis "stars" 94 --> 97
     line [96, 95, 95]
 ```
 
-2026-10-25 96 → 2026-11-27 95（-1）
+2026-10-26 96 → 2026-11-28 95（-1）
 
 
 ---

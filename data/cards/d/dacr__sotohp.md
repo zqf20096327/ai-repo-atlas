@@ -1,6 +1,6 @@
 # dacr/sotohp
 
-⭐ 44 · Scala · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/dacr/sotohp) · 个人维护
+⭐ 44 · Scala · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dacr/sotohp) · 个人维护
 
 **面向海量家庭照片的 AI 管理与检索应用（人脸/物体检测）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dacr/sotohp 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-25 44 → 2026-11-27 44（+0）
+2026-10-26 44 → 2026-11-28 44（+0）
 
 
 ---

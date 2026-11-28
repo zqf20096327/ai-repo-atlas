@@ -1,6 +1,6 @@
 # qwegnai/qwegn
 
-⭐ 7 · Swift · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/qwegnai/qwegn) · 个人维护
+⭐ 8 · Swift · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/qwegnai/qwegn) · 个人维护
 
 **Apple Silicon 本地 LLM/VLM 推理引擎，Swift+Metal 实现**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qwegnai/qwegn 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 5, 7]
+    title "qwegnai/qwegn 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 5, 7, 8]
 ```
 
-2026-11-21 3 → 2026-11-27 7（+4）
+2026-11-21 3 → 2026-11-28 8（+5）
 
 
 ---

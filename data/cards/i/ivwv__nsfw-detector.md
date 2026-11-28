@@ -1,6 +1,6 @@
 # ivwv/nsfw-detector
 
-⭐ 32 · Vue · 推送 2026-05-13 · [GitHub](https://github.com/ivwv/nsfw-detector) · [官网](https://nsfw-detector.netlify.app/) · 个人维护 · 中文 README
+⭐ 33 · Vue · 推送 2026-05-13 · [GitHub](https://github.com/ivwv/nsfw-detector) · [官网](https://nsfw-detector.netlify.app/) · 个人维护 · 中文 README
 
 **浏览器内本地运行的图片/视频 NSFW 内容检测 Web 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ivwv/nsfw-detector 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-25 32 → 2026-11-27 32（+0）
+2026-10-26 32 → 2026-11-28 33（+1）
 
 
 ---

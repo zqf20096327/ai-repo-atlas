@@ -45,12 +45,12 @@ QilbeeDB 是用 Rust 编写的图数据库，为 AI agent 提供持久记忆、�
 ```mermaid
 xychart-beta
     title "aicubetechnology/qilbeeDB 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-24 22 → 2026-11-27 22（+0）
+2026-10-25 22 → 2026-11-28 22（+0）
 
 
 ---

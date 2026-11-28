@@ -1,6 +1,6 @@
 # utkusen/promptmap
 
-⭐ 1,299 · Python · GPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/utkusen/promptmap) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向自建 LLM 应用的自动化提示注入安全扫描器**
 
@@ -11,7 +11,7 @@ promptmap2 用于检测自定义 LLM 应用中的提示注入漏洞，2023 年�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

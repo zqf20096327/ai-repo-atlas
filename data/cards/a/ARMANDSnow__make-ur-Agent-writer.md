@@ -1,6 +1,6 @@
 # ARMANDSnow/make-ur-Agent-writer
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/ARMANDSnow/make-ur-Agent-writer) · 个人维护 · 中文 README
+⭐ 22 · Python · NOASSERTION · 推送 2026-09-16 · [GitHub](https://github.com/ARMANDSnow/make-ur-Agent-writer) · 个人维护 · 中文 README
 
 **本地多 agent 长篇小说续写流水线，研究性质个人创作工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ARMANDSnow/make-ur-Agent-writer 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22]
 ```
 
-2026-10-25 20 → 2026-11-27 21（+1）
+2026-10-26 20 → 2026-11-28 22（+2）
 
 
 ---

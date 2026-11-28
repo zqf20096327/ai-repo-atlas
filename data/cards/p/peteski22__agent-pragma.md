@@ -1,6 +1,6 @@
 # peteski22/agent-pragma
 
-⭐ 24 · Go · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/peteski22/agent-pragma) · 个人维护
+⭐ 25 · Go · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/peteski22/agent-pragma) · 个人维护
 
 **给 AI 编程 agent 的规则注入与合规校验技能插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "peteski22/agent-pragma 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-25 24 → 2026-11-27 24（+0）
+2026-10-26 24 → 2026-11-28 25（+1）
 
 
 ---

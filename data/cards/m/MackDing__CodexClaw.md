@@ -46,12 +46,12 @@ Node.js 实现的 Telegram bot，把 Telegram 消息接入 OpenAI Codex（SDK �
 ```mermaid
 xychart-beta
     title "MackDing/CodexClaw 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 33 --> 36
     line [35, 34, 34]
 ```
 
-2026-10-25 35 → 2026-11-27 34（-1）
+2026-10-26 35 → 2026-11-28 34（-1）
 
 
 ---

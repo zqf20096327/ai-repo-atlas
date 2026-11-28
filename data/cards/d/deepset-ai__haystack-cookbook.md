@@ -1,6 +1,6 @@
 # deepset-ai/haystack-cookbook
 
-⭐ 550 · Jupyter Notebook · 推送 2026-11-02 · [GitHub](https://github.com/deepset-ai/haystack-cookbook) · [官网](https://haystack.deepset.ai/cookbook) · 组织维护
+⭐ 551 · Jupyter Notebook · 推送 2026-11-02 · [GitHub](https://github.com/deepset-ai/haystack-cookbook) · [官网](https://haystack.deepset.ai/cookbook) · 组织维护
 
 **Haystack 框架的示例 notebook 集合：演示模型接入与检索用法**
 
@@ -43,13 +43,13 @@ deepset 维护的 Haystack 示例 notebook 合集，覆盖不同模型提供商�
 
 ```mermaid
 xychart-beta
-    title "deepset-ai/haystack-cookbook 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-27"]
+    title "deepset-ai/haystack-cookbook 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-28"]
     y-axis "stars" 547 --> 552
-    line [548, 549, 548, 550, 551, 550, 550]
+    line [549, 548, 550, 551, 550, 551]
 ```
 
-2026-10-25 548 → 2026-11-27 550（+2）
+2026-10-26 549 → 2026-11-28 551（+2）
 
 
 ---

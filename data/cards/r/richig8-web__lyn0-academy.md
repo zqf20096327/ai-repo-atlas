@@ -1,6 +1,6 @@
 # richig8-web/lyn0-academy
 
-⭐ 17 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/richig8-web/lyn0-academy) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/richig8-web/lyn0-academy) · 个人维护
 
 **个人 AI agent 的分周任务包：教 agent 认识其主人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "richig8-web/lyn0-academy 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-25 17 → 2026-11-27 17（+0）
+2026-10-26 17 → 2026-11-28 18（+1）
 
 
 ---

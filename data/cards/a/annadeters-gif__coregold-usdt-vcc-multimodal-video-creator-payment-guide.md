@@ -1,6 +1,6 @@
 # annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide
 
-⭐ 75 · 推送 2026-11-20 · [GitHub](https://github.com/annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 87 · 推送 2026-11-20 · [GitHub](https://github.com/annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **出海创作者用 USDT 开虚拟卡订阅工具的指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 81
-    line [13, 36, 61, 75]
+    title "annadeters-gif/coregold-usdt-vcc-multimodal-video-creator-payment-guide 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 6 --> 94
+    line [13, 36, 61, 75, 87]
 ```
 
-2026-11-21 13 → 2026-11-27 75（+62）
+2026-11-21 13 → 2026-11-28 87（+74）
 
 
 ---

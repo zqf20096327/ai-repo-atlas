@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-101-ts
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/langchain-ai/langgraph-101-ts) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/langchain-ai/langgraph-101-ts) · 组织维护
 
 **LangGraph/LangChain TypeScript Agent 开发实训教程仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langgraph-101-ts 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "langchain-ai/langgraph-101-ts 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    line [19, 18, 19, 19]
 ```
 
-2026-10-25 18 → 2026-11-27 19（+1）
+2026-10-26 19 → 2026-11-28 19（+0）
 
 
 ---

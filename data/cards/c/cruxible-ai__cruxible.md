@@ -1,6 +1,6 @@
 # cruxible-ai/cruxible
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cruxible-ai/cruxible) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/cruxible-ai/cruxible) · 组织维护
 
 **给 AI agent 的受治理状态引擎：类型化知识工件全生命周期管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cruxible-ai/cruxible 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-25", "2026-11-28"]
     y-axis "stars" 16 --> 19
     line [17, 18, 17, 17]
 ```
 
-2026-10-25 17 → 2026-11-27 17（+0）
+2026-10-26 17 → 2026-11-28 17（+0）
 
 
 ---

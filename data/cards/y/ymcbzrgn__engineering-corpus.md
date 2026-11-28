@@ -1,6 +1,6 @@
 # ymcbzrgn/engineering-corpus
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ymcbzrgn/engineering-corpus) · [官网](https://engineeringcorpus.com) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ymcbzrgn/engineering-corpus) · [官网](https://engineeringcorpus.com) · 个人维护
 
 **面向编码 agent 的本地代码语料研究工具，每条引用附精确出处回执**
 
@@ -40,6 +40,18 @@ MCP server 与 CLI：对用户选定的公开 GitHub 仓库建索引（浅克隆
 > L7: Engineering Corpus: real code your agent can cite. Research agents read the repos you choose, and every report ends 
 > L9: Research agents that cite their sources. My agents kept forgetting the repos I told them to learn from and made up s
 > L26: The Quickstart connects it to Claude Code or Codex.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ymcbzrgn/engineering-corpus 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-27 3 → 2026-11-28 5（+2）
 
 
 ---

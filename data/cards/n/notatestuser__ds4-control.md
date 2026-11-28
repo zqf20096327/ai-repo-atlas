@@ -1,6 +1,6 @@
 # notatestuser/ds4-control
 
-⭐ 736 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/notatestuser/ds4-control) · [官网](https://github.com/antirez/ds4) · 个人维护
+⭐ 735 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/notatestuser/ds4-control) · [官网](https://github.com/antirez/ds4) · 个人维护
 
 **macOS 菜单栏应用：启动、监控本地 DeepSeek V4 服务并管理模型下载**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "notatestuser/ds4-control 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 721 --> 904
-    line [888, 889, 888, 791, 792, 750, 740, 739, 736, 736]
+    title "notatestuser/ds4-control 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 720 --> 904
+    line [889, 888, 791, 792, 750, 740, 739, 736, 735]
 ```
 
-2026-10-25 888 → 2026-11-27 736（-152）
+2026-10-26 889 → 2026-11-28 735（-154）
 
 
 ---

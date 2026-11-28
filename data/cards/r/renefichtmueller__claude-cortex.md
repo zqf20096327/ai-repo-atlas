@@ -47,12 +47,12 @@ claude-cortex 是一个基于文件的 Claude Code 持久记忆框架：用 MEMO
 ```mermaid
 xychart-beta
     title "renefichtmueller/claude-cortex 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

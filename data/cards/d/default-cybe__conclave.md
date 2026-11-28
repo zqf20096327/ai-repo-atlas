@@ -1,6 +1,6 @@
 # default-cybe/conclave
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/default-cybe/conclave) · [官网](https://conclave.dymnitguys.com) · 个人维护
+⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/default-cybe/conclave) · [官网](https://conclave.dymnitguys.com) · 个人维护
 
 **自托管 coding agent 中枢：自有设备上运行多模型编程代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "default-cybe/conclave 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-26 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 3（+0）
 
 
 ---

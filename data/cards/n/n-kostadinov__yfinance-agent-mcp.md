@@ -1,6 +1,6 @@
 # n-kostadinov/yfinance-agent-mcp
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/n-kostadinov/yfinance-agent-mcp) · [官网](https://n-kostadinov.github.io/yfinance-agent-mcp/) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/n-kostadinov/yfinance-agent-mcp) · [官网](https://n-kostadinov.github.io/yfinance-agent-mcp/) · 个人维护
 
 **给 AI 交易研究 agent 提供只读 Yahoo Finance 行情数据的 MCP 服务器**
 
@@ -39,6 +39,18 @@
 
 > L9: **yfinance-agent-mcp** is a read-only Model Context Protocol server that gives AI agents market data from Yahoo Fina
 > L31: You need uv. `uvx` downloads and runs the server; it talks MCP over stdio.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "n-kostadinov/yfinance-agent-mcp 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

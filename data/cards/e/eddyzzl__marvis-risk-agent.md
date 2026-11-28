@@ -1,6 +1,6 @@
 # eddyzzl/marvis-risk-agent
 
-⭐ 397 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/eddyzzl/marvis-risk-agent) · 个人维护 · 中文 README
+⭐ 398 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/eddyzzl/marvis-risk-agent) · 个人维护 · 中文 README
 
 **本地信贷风控 Agent 工作台：从业务问题到模型与策略报告**
 
@@ -47,12 +47,12 @@ MARVIS 是一个本地优先的信贷风控 Agent 桌面平台：用户用自然
 ```mermaid
 xychart-beta
     title "eddyzzl/marvis-risk-agent 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 389 --> 398
-    line [390, 393, 394, 395, 397, 397]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 389 --> 399
+    line [390, 393, 394, 395, 397, 398]
 ```
 
-2026-10-25 390 → 2026-11-27 397（+7）
+2026-10-26 390 → 2026-11-28 398（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # MatriksData/matriks-mask
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/MatriksData/matriks-mask) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/MatriksData/matriks-mask) · 组织维护
 
 **土耳其文本 PII 可逆脱敏 LiteLLM 防护栏，支持 KVKK 合规**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MatriksData/matriks-mask 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 22 --> 31
-    line [23, 30, 30]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 22 --> 33
+    line [23, 30, 32]
 ```
 
-2026-11-25 23 → 2026-11-27 30（+7）
+2026-11-25 23 → 2026-11-28 32（+9）
 
 
 ---

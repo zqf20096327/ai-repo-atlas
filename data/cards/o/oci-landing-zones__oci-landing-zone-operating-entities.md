@@ -1,6 +1,6 @@
 # oci-landing-zones/oci-landing-zone-operating-entities
 
-⭐ 68 · TypeScript · UPL-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities) · [官网](https://oci-landing-zones.github.io/oci-landing-zone-operating-entities/) · 组织维护
+⭐ 68 · TypeScript · UPL-1.0 · 推送 2026-11-27 · [GitHub](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities) · [官网](https://oci-landing-zones.github.io/oci-landing-zone-operating-entities/) · 组织维护
 
 **OCI 落地区蓝图集：用声明式 IaC 简化组织和子公司入驻运行 OCI**
 
@@ -46,12 +46,12 @@ Oracle 维护的 OCI 落地区（Landing Zone）开源资产库，面向客户�
 ```mermaid
 xychart-beta
     title "oci-landing-zones/oci-landing-zone-operating-entities 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-28"]
     y-axis "stars" 66 --> 69
     line [67, 68, 68]
 ```
 
-2026-10-25 67 → 2026-11-27 68（+1）
+2026-10-26 67 → 2026-11-28 68（+1）
 
 
 ---

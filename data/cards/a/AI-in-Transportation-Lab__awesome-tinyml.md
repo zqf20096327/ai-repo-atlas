@@ -1,6 +1,6 @@
 # AI-in-Transportation-Lab/awesome-tinyml
 
-⭐ 156 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/AI-in-Transportation-Lab/awesome-tinyml) · [官网](https://dl.acm.org/doi/10.1145/3776588) · 组织维护
+⭐ 157 · JavaScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/AI-in-Transportation-Lab/awesome-tinyml) · [官网](https://dl.acm.org/doi/10.1145/3776588) · 组织维护
 
 **TinyML 领域的论文、库与教程资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AI-in-Transportation-Lab/awesome-tinyml 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 154 --> 157
-    line [155, 156, 156]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 154 --> 158
+    line [155, 156, 157]
 ```
 
-2026-10-25 155 → 2026-11-27 156（+1）
+2026-10-26 155 → 2026-11-28 157（+2）
 
 
 ---

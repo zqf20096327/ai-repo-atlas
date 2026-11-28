@@ -1,6 +1,6 @@
 # metiutek/Vortelio
 
-⭐ 22 · Go · NOASSERTION · 推送 2026-10-22 · [GitHub](https://github.com/metiutek/Vortelio) · [官网](https://vortelio.netlify.app/) · 组织维护
+⭐ 22 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/metiutek/Vortelio) · [官网](https://vortelio.netlify.app/) · 组织维护
 
 **本地多模态 AI 平台：单二进制运行 LLM/图像/语音/视频/3D 模型**
 
@@ -11,7 +11,7 @@ Go 单二进制加内置 Web UI 的自托管离线 AI 平台，覆盖 GGUF LLM �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Go 单二进制加内置 Web UI 的自托管离线 AI 平台，覆盖 GGUF LLM �
 ```mermaid
 xychart-beta
     title "metiutek/Vortelio 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-28"]
     y-axis "stars" 18 --> 23
     line [19, 20, 19, 21, 22, 22]
 ```
 
-2026-10-25 19 → 2026-11-27 22（+3）
+2026-10-26 19 → 2026-11-28 22（+3）
 
 
 ---

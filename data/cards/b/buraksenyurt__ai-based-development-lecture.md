@@ -1,6 +1,6 @@
 # buraksenyurt/ai-based-development-lecture
 
-⭐ 31 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/buraksenyurt/ai-based-development-lecture) · 个人维护
+⭐ 31 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/buraksenyurt/ai-based-development-lecture) · 个人维护
 
 **AI 辅助软件开发课程讲义与示例仓库（面向大学课堂）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "buraksenyurt/ai-based-development-lecture 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-25 30 → 2026-11-27 31（+1）
+2026-10-26 30 → 2026-11-28 31（+1）
 
 
 ---

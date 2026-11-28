@@ -1,6 +1,6 @@
 # gitkalenyuk/yt-cartell-studio-source
 
-⭐ 9 · Go · MIT · 推送 2026-10-12 · [GitHub](https://github.com/gitkalenyuk/yt-cartell-studio-source) · [官网](https://gitkalenyuk.github.io/yt-cartell-studio/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **开源桌面 AI 视频工作室：故事到成片一条龙**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

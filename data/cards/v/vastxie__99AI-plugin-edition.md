@@ -1,6 +1,6 @@
 # vastxie/99AI-plugin-edition
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vastxie/99AI-plugin-edition) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/vastxie/99AI-plugin-edition) · 个人维护 · 中文 README
 
 **自托管 AI 对话平台：聊天、插件、Agent 与运营后台一体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vastxie/99AI-plugin-edition 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 17 --> 21
-    line [18, 20, 18, 20, 20]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 17 --> 22
+    line [18, 20, 18, 20, 21]
 ```
 
-2026-10-25 18 → 2026-11-27 20（+2）
+2026-10-26 18 → 2026-11-28 21（+3）
 
 
 ---

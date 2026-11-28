@@ -1,6 +1,6 @@
 # fiyo/DBCheck
 
-⭐ 185 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/fiyo/DBCheck) · [官网](https://raccoonx.cn) · 个人维护 · 中文 README
+⭐ 185 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/fiyo/DBCheck) · [官网](https://raccoonx.cn) · 个人维护 · 中文 README
 
 **面向 DBA 与运维团队的数据库巡检与运维平台，含 AI 辅助诊断**
 
@@ -47,12 +47,12 @@ RaccoonX（原名 DBCheck）是开源、跨平台的数据库巡检与运维平�
 ```mermaid
 xychart-beta
     title "fiyo/DBCheck 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-28"]
     y-axis "stars" 179 --> 186
     line [180, 181, 180, 181, 183, 185, 185]
 ```
 
-2026-10-25 180 → 2026-11-27 185（+5）
+2026-10-26 180 → 2026-11-28 185（+5）
 
 
 ---

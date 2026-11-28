@@ -1,6 +1,6 @@
 # akyourowngames/A.N.K.I.T.A
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/akyourowngames/A.N.K.I.T.A) · [官网](https://ankita-sable.vercel.app) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/akyourowngames/A.N.K.I.T.A) · [官网](https://ankita-sable.vercel.app) · 个人维护
 
 **开源桌面个人 AI 助手：Electron 应用+浮动伴侣+终端 CLI**
 
@@ -44,13 +44,13 @@ Ankita 是运行在 Windows 桌面的个人 AI 工作区，以 Electron 桌面�
 
 ```mermaid
 xychart-beta
-    title "akyourowngames/A.N.K.I.T.A 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-31", "2026-11-08", "2026-11-26", "2026-11-27"]
+    title "akyourowngames/A.N.K.I.T.A 星数(近 6 点)"
+    x-axis ["2026-10-28", "2026-10-31", "2026-11-08", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 10 --> 18
-    line [11, 13, 15, 16, 17]
+    line [11, 13, 15, 16, 17, 17]
 ```
 
-2026-10-28 11 → 2026-11-27 17（+6）
+2026-10-28 11 → 2026-11-28 17（+6）
 
 
 ---

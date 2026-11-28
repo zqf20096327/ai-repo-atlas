@@ -1,6 +1,6 @@
 # thuemah/heating_analytics
 
-⭐ 17 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/thuemah/heating_analytics) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/thuemah/heating_analytics) · 个人维护
 
 **Home Assistant 集成：机器学习预测供暖能耗并检测浪费**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "thuemah/heating_analytics 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    line [15, 16, 17, 16]
 ```
 
-2026-10-25 15 → 2026-11-27 17（+2）
+2026-10-26 15 → 2026-11-28 16（+1）
 
 
 ---

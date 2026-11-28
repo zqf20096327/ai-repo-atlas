@@ -1,6 +1,6 @@
 # Meckmin/mnist-numpy-from-scratch
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Meckmin/mnist-numpy-from-scratch) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Meckmin/mnist-numpy-from-scratch) · 个人维护
 
 **仅用 NumPy 从零实现 MNIST 手写数字识别神经网络**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Meckmin/mnist-numpy-from-scratch 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 6（+1）
 
 
 ---

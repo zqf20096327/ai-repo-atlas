@@ -1,6 +1,6 @@
 # wycto/dsh-dock
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/wycto/dsh-dock) · [官网](https://www.npmjs.com/package/dsh-dock) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：一个面板统一管理用量记账、模型与通知等小功能**
 
@@ -11,7 +11,7 @@ DeepSeek Harness（dsh）的功能坞插件：以模块化面板聚合十余项�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

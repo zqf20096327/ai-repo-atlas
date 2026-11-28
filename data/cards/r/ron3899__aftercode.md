@@ -45,12 +45,12 @@ Rust CLI + API 后端 + React Web UI 的自托管应用：自动检测 Claude Co
 ```mermaid
 xychart-beta
     title "ron3899/aftercode 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-25 21 → 2026-11-27 21（+0）
+2026-10-26 21 → 2026-11-28 21（+0）
 
 
 ---

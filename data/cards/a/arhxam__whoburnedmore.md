@@ -1,6 +1,6 @@
 # arhxam/whoburnedmore
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/arhxam/whoburnedmore) · [官网](https://whoburnedmore.com) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/arhxam/whoburnedmore) · [官网](https://whoburnedmore.com) · 个人维护
 
 **统计 AI 编码代理 token 消耗并提交公共排行榜的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arhxam/whoburnedmore 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-28"]
     y-axis "stars" 12 --> 16
     line [15, 13, 13]
 ```
 
-2026-10-25 15 → 2026-11-27 13（-2）
+2026-10-26 15 → 2026-11-28 13（-2）
 
 
 ---

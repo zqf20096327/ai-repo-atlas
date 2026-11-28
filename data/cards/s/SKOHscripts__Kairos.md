@@ -1,6 +1,6 @@
 # SKOHscripts/Kairos
 
-⭐ 23 · Kotlin · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/SKOHscripts/Kairos) · [官网](https://skohscripts.github.io/Kairos/) · 个人维护
+⭐ 23 · Kotlin · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/SKOHscripts/Kairos) · [官网](https://skohscripts.github.io/Kairos/) · 个人维护
 
 **自排序待办清单：设备端机器学习估计任务耗时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SKOHscripts/Kairos 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-28"]
     y-axis "stars" 14 --> 24
     line [15, 16, 17, 18, 20, 21, 23, 23]
 ```
 
-2026-11-08 15 → 2026-11-27 23（+8）
+2026-11-08 15 → 2026-11-28 23（+8）
 
 
 ---

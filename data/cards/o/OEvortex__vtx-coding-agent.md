@@ -1,6 +1,6 @@
 # OEvortex/vtx-coding-agent
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/OEvortex/vtx-coding-agent) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/OEvortex/vtx-coding-agent) · 组织维护
 
 **终端里的极简 coding agent harness，TUI 与无头 CLI 双形态**
 
@@ -46,13 +46,13 @@ Vtx 是一个 coding agent harness：给定目标和工作目录后，它读取�
 
 ```mermaid
 xychart-beta
-    title "OEvortex/vtx-coding-agent 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "OEvortex/vtx-coding-agent 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 12
-    line [11, 10, 11, 10, 11]
+    line [11, 10, 11, 10, 11, 11]
 ```
 
-2026-10-21 11 → 2026-11-27 11（+0）
+2026-10-22 11 → 2026-11-28 11（+0）
 
 
 ---

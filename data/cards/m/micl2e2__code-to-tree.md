@@ -1,6 +1,6 @@
 # micl2e2/code-to-tree
 
-⭐ 89 · C · MIT · 推送 2026-03-14 · [GitHub](https://github.com/micl2e2/code-to-tree) · 个人维护
+⭐ 90 · C · MIT · 推送 2026-03-14 · [GitHub](https://github.com/micl2e2/code-to-tree) · 个人维护
 
 **把源代码转成 AST 的 MCP 服务器，单二进制无运行时依赖**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "micl2e2/code-to-tree 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 88 --> 91
+    line [89, 90]
 ```
 
-2026-10-25 89 → 2026-11-27 89（+0）
+2026-10-26 89 → 2026-11-28 90（+1）
 
 
 ---

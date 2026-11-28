@@ -1,6 +1,6 @@
 # pevyhlas/product-kit
 
-⭐ 4 · Shell · MIT · 推送 2026-11-26 · [GitHub](https://github.com/pevyhlas/product-kit) · 个人维护
+⭐ 4 · Shell · MIT · 推送 2026-11-27 · [GitHub](https://github.com/pevyhlas/product-kit) · 个人维护
 
 **给开发团队的单一产品规格：让编码 Agent 随代码同步维护**
 
@@ -44,13 +44,13 @@ Product-Kit 是一个以 git 子模块形式安装到仓库中的规格管理工
 
 ```mermaid
 xychart-beta
-    title "pevyhlas/product-kit 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "pevyhlas/product-kit 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4, 4]
+    line [4, 3, 4, 4]
 ```
 
-2026-10-25 3 → 2026-11-27 4（+1）
+2026-10-26 4 → 2026-11-28 4（+0）
 
 
 ---

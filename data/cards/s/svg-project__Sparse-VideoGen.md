@@ -1,6 +1,6 @@
 # svg-project/Sparse-VideoGen
 
-⭐ 713 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/svg-project/Sparse-VideoGen) · [官网](https://svg-project.github.io/) · 组织维护
+⭐ 712 · Python · Apache-2.0 · 推送 2026-07-04 · [GitHub](https://github.com/svg-project/Sparse-VideoGen) · [官网](https://svg-project.github.io/) · 组织维护
 
 **训练免费的稀疏注意力框架：加速视频扩散 Transformer 生成**
 
@@ -45,12 +45,12 @@ Sparse VideoGen 1/2/EAR 是三个 training-free 框架，利用 3D 全注意力�
 ```mermaid
 xychart-beta
     title "svg-project/Sparse-VideoGen 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 711 --> 714
-    line [712, 713, 713]
+    line [712, 713, 712]
 ```
 
-2026-10-25 712 → 2026-11-27 713（+1）
+2026-10-26 712 → 2026-11-28 712（+0）
 
 
 ---

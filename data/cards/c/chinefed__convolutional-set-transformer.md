@@ -45,12 +45,12 @@ Chinello & Boracchi (2025) 论文的官方实现，以 cstmodels Python 包提�
 ```mermaid
 xychart-beta
     title "chinefed/convolutional-set-transformer 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

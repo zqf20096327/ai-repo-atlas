@@ -1,6 +1,6 @@
 # taazkareem/clickup-mcp-server
 
-⭐ 55 · Dockerfile · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/taazkareem/clickup-mcp-server) · 个人维护
+⭐ 55 · Dockerfile · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/taazkareem/clickup-mcp-server) · 个人维护
 
 **连接 ClickUp 与 AI Agent 的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "taazkareem/clickup-mcp-server 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 52 --> 56
     line [53, 54, 55, 55]
 ```
 
-2026-10-25 53 → 2026-11-27 55（+2）
+2026-10-26 53 → 2026-11-28 55（+2）
 
 
 ---

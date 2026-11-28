@@ -1,6 +1,6 @@
 # RingBDStack/SocialED
 
-⭐ 597 · Python · BSD-2-Clause · 推送 2026-10-02 · [GitHub](https://github.com/RingBDStack/SocialED) · [官网](https://github.com/ChenBeici/SocialED_datasets) · 组织维护
+⭐ 596 · Python · BSD-2-Clause · 推送 2026-10-02 · [GitHub](https://github.com/RingBDStack/SocialED) · [官网](https://github.com/ChenBeici/SocialED_datasets) · 组织维护
 
 **社交事件检测 Python 库：19 种算法与 15 个数据集的统一工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RingBDStack/SocialED 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-28"]
     y-axis "stars" 592 --> 598
-    line [593, 594, 595, 597, 597]
+    line [593, 594, 595, 597, 596]
 ```
 
-2026-10-25 593 → 2026-11-27 597（+4）
+2026-10-26 593 → 2026-11-28 596（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # alopatenko/LLMEvaluation
 
-⭐ 208 · HTML · 推送 2026-11-14 · [GitHub](https://github.com/alopatenko/LLMEvaluation) · [官网](https://alopatenko.github.io/LLMEvaluation/) · 个人维护
+⭐ 210 · HTML · 推送 2026-11-27 · [GitHub](https://github.com/alopatenko/LLMEvaluation) · [官网](https://alopatenko.github.io/LLMEvaluation/) · 个人维护
 
 **面向学界与业界从业者精选 LLM 评估方法与资源的指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alopatenko/LLMEvaluation 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 206 --> 209
-    line [207, 208, 208]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 206 --> 211
+    line [207, 208, 210]
 ```
 
-2026-10-25 207 → 2026-11-27 208（+1）
+2026-10-26 207 → 2026-11-28 210（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # lpalbou/AbstractCore
 
-⭐ 13 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lpalbou/AbstractCore) · [官网](https://www.abstractcore.ai) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/lpalbou/AbstractCore) · [官网](https://www.abstractcore.ai) · 个人维护
 
 **Python 的跨提供商 LLM 抽象层：一套 API 接本地与云端模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lpalbou/AbstractCore 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 10 --> 14
     line [11, 13, 13]
 ```
 
-2026-10-25 11 → 2026-11-27 13（+2）
+2026-10-26 11 → 2026-11-28 13（+2）
 
 
 ---

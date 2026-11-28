@@ -1,6 +1,6 @@
 # ganbo-gab/open-storyboard-canvas
 
-⭐ 407 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ganbo-gab/open-storyboard-canvas) · [官网](https://ganbo-gab.github.io/open-storyboard-canvas/) · 个人维护 · 中文 README
+⭐ 408 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ganbo-gab/open-storyboard-canvas) · [官网](https://ganbo-gab.github.io/open-storyboard-canvas/) · 个人维护 · 中文 README
 
 **面向分镜创作者的本地优先 AI 分镜节点画布桌面应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ganbo-gab/open-storyboard-canvas 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-27"]
-    y-axis "stars" 404 --> 408
-    line [405, 407]
+    title "ganbo-gab/open-storyboard-canvas 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 404 --> 409
+    line [405, 407, 408]
 ```
 
-2026-11-21 405 → 2026-11-27 407（+2）
+2026-11-21 405 → 2026-11-28 408（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # tonone-ai/tonone
 
-⭐ 83 · Go Template · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tonone-ai/tonone) · [官网](https://second.tonone.ai) · 组织维护
+⭐ 84 · Go Template · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tonone-ai/tonone) · [官网](https://second.tonone.ai) · 组织维护
 
 **给 Claude Code 安装的 100 专家 agent 团队插件（10 团队 + 431 技能）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tonone-ai/tonone 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 75 --> 84
-    line [76, 77, 76, 77, 82, 83, 83]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 75 --> 85
+    line [76, 77, 76, 77, 82, 83, 84]
 ```
 
-2026-10-25 76 → 2026-11-27 83（+7）
+2026-10-26 76 → 2026-11-28 84（+8）
 
 
 ---

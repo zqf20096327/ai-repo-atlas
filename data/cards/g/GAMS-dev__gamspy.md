@@ -1,6 +1,6 @@
 # GAMS-dev/gamspy
 
-⭐ 136 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/GAMS-dev/gamspy) · [官网](https://gamspy.readthedocs.io) · 组织维护
+⭐ 137 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/GAMS-dev/gamspy) · [官网](https://gamspy.readthedocs.io) · 组织维护
 
 **Python 数学优化建模库：代数式构建并求解规划模型**
 
@@ -45,12 +45,12 @@ GAMS-dev 维护的开源 Python 包，用于构建和求解数学优化模型：
 ```mermaid
 xychart-beta
     title "GAMS-dev/gamspy 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 135 --> 137
-    line [136, 136]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 135 --> 138
+    line [136, 137]
 ```
 
-2026-10-25 136 → 2026-11-27 136（+0）
+2026-10-26 136 → 2026-11-28 137（+1）
 
 
 ---

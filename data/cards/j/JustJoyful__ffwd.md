@@ -41,6 +41,18 @@
 > L16: Many people hit a video chore (trim a clip, fix a file that will not play in a slide deck, pull frames out of a vid
 > L22: **What a 0.6B on-device agent is for.** The model has one narrow job, so a small model can do it; running it on the
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JustJoyful/ffwd 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ee5af298e4a0` · [字段定义](../../DATASET.md)*

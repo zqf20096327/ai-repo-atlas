@@ -1,6 +1,6 @@
 # JohnMachado11/Neural-Networks-from-Scratch-in-Python
 
-⭐ 54 · Python · 推送 2026-05-11 · [GitHub](https://github.com/JohnMachado11/Neural-Networks-from-Scratch-in-Python) · [官网](https://nnfs.io/) · 个人维护
+⭐ 55 · Python · 推送 2026-05-11 · [GitHub](https://github.com/JohnMachado11/Neural-Networks-from-Scratch-in-Python) · [官网](https://nnfs.io/) · 个人维护
 
 **《Neural Networks From Scratch》书的配套代码库**
 
@@ -42,12 +42,12 @@ Harrison Kinsley 与 Daniel Kukiela 所著《Neural Networks From Scratch》一�
 ```mermaid
 xychart-beta
     title "JohnMachado11/Neural-Networks-from-Scratch-in-Python 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 51 --> 55
-    line [52, 53, 54, 54]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 54, 55]
 ```
 
-2026-10-25 52 → 2026-11-27 54（+2）
+2026-10-26 52 → 2026-11-28 55（+3）
 
 
 ---

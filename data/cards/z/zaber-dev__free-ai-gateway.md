@@ -1,6 +1,6 @@
 # zaber-dev/free-ai-gateway
 
-⭐ 17 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/zaber-dev/free-ai-gateway) · [官网](https://www.npmjs.com/org/free-ai-gateway) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-09-21 · [GitHub](https://github.com/zaber-dev/free-ai-gateway) · [官网](https://www.npmjs.com/org/free-ai-gateway) · 个人维护
 
 **聚合 19+ 免费层 AI 供应商的能力路由网关与 MCP 服务器**
 
@@ -46,12 +46,12 @@ TypeScript monorepo，核心为协议无关的能力路由器（CapabilityRouter
 ```mermaid
 xychart-beta
     title "zaber-dev/free-ai-gateway 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 16 --> 20
-    line [18, 19, 18, 17, 17]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 15 --> 20
+    line [18, 19, 18, 17, 16]
 ```
 
-2026-10-25 18 → 2026-11-27 17（-1）
+2026-10-26 18 → 2026-11-28 16（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # yuannuo233/silver-wolf-desktop-pet
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/yuannuo233/silver-wolf-desktop-pet) · 个人维护 · 中文 README
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/yuannuo233/silver-wolf-desktop-pet) · 个人维护 · 中文 README
 
 **星穹铁道银狼主题 Windows 桌宠，可接 OpenAI 兼容接口聊天**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yuannuo233/silver-wolf-desktop-pet 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

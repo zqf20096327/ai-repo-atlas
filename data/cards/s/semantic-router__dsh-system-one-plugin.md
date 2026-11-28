@@ -1,6 +1,6 @@
 # semantic-router/dsh-system-one-plugin
 
-⭐ 7 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/semantic-router/dsh-system-one-plugin) · [官网](https://app.vllm-sr.ai/#harness) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给 DeepSeek Harness agent 加 System One 快速决策防护插件**
 
@@ -11,7 +11,7 @@ DeepSeek Harness 的插件（@vllm-sr/dsh），在 agent 循环中引入 System 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # pasekahq/ulei
 
-⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/pasekahq/ulei) · 个人维护
+⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/pasekahq/ulei) · 个人维护
 
 **给自托管个人 AI 助手搭的 Rust agent 生态工作台**
 
@@ -40,6 +40,18 @@
 > L11: **Status:** pre-alpha, building the MVP (see roadmap). The agent loop
 > L29: |`ulei-engine`|own agent loop: tools, sessions; models only through the qb gateway|
 > L74: fixtures and a changelog, so components in any language (including the existing Python
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pasekahq/ulei 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

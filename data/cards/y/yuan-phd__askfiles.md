@@ -1,6 +1,6 @@
 # yuan-phd/askfiles
 
-⭐ 48 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/yuan-phd/askfiles) · [官网](https://github.com/yuan-phd/askfiles/releases/latest) · 个人维护 · 中文 README
+⭐ 56 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/yuan-phd/askfiles) · [官网](https://github.com/yuan-phd/askfiles/releases/latest) · 个人维护 · 中文 README
 
 **Mac/Windows 本地文档问答应用：引用可核验的私有 RAG**
 
@@ -46,13 +46,13 @@ Electron 桌面应用，对本机文档（PDF/Office/Markdown/文本）提问，
 
 ```mermaid
 xychart-beta
-    title "yuan-phd/askfiles 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 10 --> 51
-    line [13, 16, 22, 37, 48]
+    title "yuan-phd/askfiles 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 60
+    line [13, 16, 22, 37, 48, 56]
 ```
 
-2026-11-22 13 → 2026-11-27 48（+35）
+2026-11-22 13 → 2026-11-28 56（+43）
 
 
 ---

@@ -1,6 +1,6 @@
 # bm-github/owasp-social-osint-agent
 
-⭐ 108 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/bm-github/owasp-social-osint-agent) · 组织维护
+⭐ 109 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/bm-github/owasp-social-osint-agent) · 组织维护
 
 **面向社交媒体开源情报调查的自主 OSINT 分析代理**
 
@@ -45,12 +45,12 @@ OWASP Social OSINT Agent 是一个自主代理，通过任意 OpenAI 兼容 API 
 ```mermaid
 xychart-beta
     title "bm-github/owasp-social-osint-agent 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 104 --> 109
-    line [105, 106, 107, 108, 108]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 104 --> 110
+    line [105, 106, 107, 108, 109]
 ```
 
-2026-10-25 105 → 2026-11-27 108（+3）
+2026-10-26 105 → 2026-11-28 109（+4）
 
 
 ---

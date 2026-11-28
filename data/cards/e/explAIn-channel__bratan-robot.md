@@ -41,6 +41,18 @@
 > L6: Lidar mapping and localization, path planning and docking, YOLO vision, a voice you can interrupt, an ESP32 micropho
 > L99: Fast things run locally, slow things in the cloud. The board keeps the motors and the emergency stop without the ph
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "explAIn-channel/bratan-robot 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `9bfe9660a2a5` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # bradleybond512/crystal-ball
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/bradleybond512/crystal-ball) · [官网](https://crystal-ball-observatory.bradleybond512.chatgpt.site/) · 个人维护
+⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/bradleybond512/crystal-ball) · [官网](https://crystal-ball-observatory.bradleybond512.chatgpt.site/) · 个人维护
 
 **面向 Mac 的本地优先全球情报监控桌面平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bradleybond512/crystal-ball 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

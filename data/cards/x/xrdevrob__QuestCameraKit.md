@@ -1,6 +1,6 @@
 # xrdevrob/QuestCameraKit
 
-⭐ 584 · C# · MIT · 推送 2026-09-23 · [GitHub](https://github.com/xrdevrob/QuestCameraKit) · [官网](https://bento.me/xrdevrob) · 个人维护
+⭐ 585 · C# · MIT · 推送 2026-09-23 · [GitHub](https://github.com/xrdevrob/QuestCameraKit) · [官网](https://bento.me/xrdevrob) · 个人维护
 
 **Meta Quest 摄像头 API 的 Unity 示例集：取色/检测/QR/着色器/语音问答/串流**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xrdevrob/QuestCameraKit 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 579 --> 585
-    line [580, 581, 582, 583, 584]
+    title "xrdevrob/QuestCameraKit 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 579 --> 586
+    line [580, 581, 582, 583, 584, 585]
 ```
 
-2026-10-25 580 → 2026-11-27 584（+4）
+2026-10-26 580 → 2026-11-28 585（+5）
 
 
 ---

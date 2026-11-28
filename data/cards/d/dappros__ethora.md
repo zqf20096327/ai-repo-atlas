@@ -1,6 +1,6 @@
 # dappros/ethora
 
-⭐ 552 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dappros/ethora) · [官网](https://ethora.com/) · 组织维护
+⭐ 554 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dappros/ethora) · [官网](https://ethora.com/) · 组织维护
 
 **面向开发者的聊天/消息与对话式 AI SDK monorepo**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dappros/ethora 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 550 --> 554
-    line [551, 552, 551, 552, 553, 552, 552]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 550 --> 555
+    line [551, 552, 551, 552, 553, 552, 554]
 ```
 
-2026-10-25 551 → 2026-11-27 552（+1）
+2026-10-26 551 → 2026-11-28 554（+3）
 
 
 ---

@@ -41,6 +41,18 @@
 > L35: |**Three composition modes**|`strict` (persona + working directory only), `replace` (persona + harness prompt minus
 > L125: |`agent.extension`|high|Loads the extension inside the Agent sidecar. With Node access, it rewrites the system pro
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "UserCrazyLove/pi-purge-desktop 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `6701e4086269` · [字段定义](../../DATASET.md)*

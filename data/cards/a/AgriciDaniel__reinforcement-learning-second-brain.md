@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/reinforcement-learning-second-brain 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "AgriciDaniel/reinforcement-learning-second-brain 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 11, 13, 14]
+    line [11, 12, 11, 13, 14, 14]
 ```
 
-2026-10-25 11 → 2026-11-27 14（+3）
+2026-10-26 11 → 2026-11-28 14（+3）
 
 
 ---

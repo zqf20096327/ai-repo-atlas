@@ -1,6 +1,6 @@
 # voyager67/Neural-Networks-Playground
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/voyager67/Neural-Networks-Playground) · [官网](https://voyager67.github.io/Neural-Networks-Playground/) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/voyager67/Neural-Networks-Playground) · [官网](https://voyager67.github.io/Neural-Networks-Playground/) · 个人维护
 
 **在浏览器中训练小型 MLP 并可视化权重、梯度与决策边界的教学实验台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "voyager67/Neural-Networks-Playground 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 2 --> 7
-    line [3, 5, 6]
+    title "voyager67/Neural-Networks-Playground 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 5, 6, 7]
 ```
 
-2026-11-15 3 → 2026-11-27 6（+3）
+2026-11-15 3 → 2026-11-28 7（+4）
 
 
 ---

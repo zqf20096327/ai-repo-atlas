@@ -1,6 +1,6 @@
 # thesysdev/openui-f1-dashboard
 
-⭐ 5 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/thesysdev/openui-f1-dashboard) · [官网](https://www.openui.com/demo/f1-dashboard) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **F1 聊天仪表盘：提问即得实时图表与数据表**
 

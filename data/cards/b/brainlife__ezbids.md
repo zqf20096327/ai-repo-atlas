@@ -46,12 +46,12 @@ ezBIDS 将神经生理（EEG/MEG/iEEG/NIRS/EMG）、神经影像（MRI/PET）与
 ```mermaid
 xychart-beta
     title "brainlife/ezbids 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-11-26 32 → 2026-11-27 32（+0）
+2026-11-26 32 → 2026-11-28 32（+0）
 
 
 ---

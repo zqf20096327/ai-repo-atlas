@@ -1,6 +1,6 @@
 # alfera-labs/company-use
 
-⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/alfera-labs/company-use) · [官网](https://www.alfera.ai/?source=github&path=company-use) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **团队共享的开源 AI 协作同事：接入应用自主执行任务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # InternLM/Sage-Interaction
 
-⭐ 58 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/InternLM/Sage-Interaction) · 组织维护 · 中文 README
+⭐ 64 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/InternLM/Sage-Interaction) · 组织维护 · 中文 README
 
 **9B 全双工多模态交互模型，边对话边委派后台任务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "InternLM/Sage-Interaction 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 34 --> 60
-    line [36, 58]
+    title "InternLM/Sage-Interaction 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 34 --> 66
+    line [36, 58, 64]
 ```
 
-2026-11-26 36 → 2026-11-27 58（+22）
+2026-11-26 36 → 2026-11-28 64（+28）
 
 
 ---

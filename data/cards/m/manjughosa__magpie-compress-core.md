@@ -1,6 +1,6 @@
 # manjughosa/magpie-compress-core
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/manjughosa/magpie-compress-core) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/manjughosa/magpie-compress-core) · 个人维护 · 中文 README
 
 **magpie 网关的上下文压缩插件：请求发出前改写 messages 降字节**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "manjughosa/magpie-compress-core 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 4 --> 12
-    line [5, 8, 9, 10, 11, 11]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 4 --> 13
+    line [5, 8, 9, 10, 11, 12]
 ```
 
-2026-11-02 5 → 2026-11-27 11（+6）
+2026-11-02 5 → 2026-11-28 12（+7）
 
 
 ---

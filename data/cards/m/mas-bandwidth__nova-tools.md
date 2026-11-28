@@ -1,6 +1,6 @@
 # mas-bandwidth/nova-tools
 
-⭐ 23 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mas-bandwidth/nova-tools) · [官网](https://github.com/mas-bandwidth/nova-tools/blob/main/docs/README.md) · 个人维护
+⭐ 23 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mas-bandwidth/nova-tools) · [官网](https://github.com/mas-bandwidth/nova-tools/blob/main/docs/README.md) · 个人维护
 
 **跨模型 AI 团队共享工具与机器机群的工具包**
 
@@ -44,12 +44,12 @@ nova-tools 是面向多个模型上运行的 AI agent 的工具包，提供能�
 ```mermaid
 xychart-beta
     title "mas-bandwidth/nova-tools 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26", "2026-11-28"]
     y-axis "stars" 20 --> 24
     line [21, 22, 23, 23]
 ```
 
-2026-11-08 21 → 2026-11-27 23（+2）
+2026-11-08 21 → 2026-11-28 23（+2）
 
 
 ---

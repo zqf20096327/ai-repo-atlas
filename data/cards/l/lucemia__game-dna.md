@@ -1,6 +1,6 @@
 # lucemia/game-dna
 
-⭐ 5 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lucemia/game-dna) · [官网](https://game-dna.pages.dev) · 个人维护
+⭐ 9 · HTML · MIT · 推送 2026-11-27 · [GitHub](https://github.com/lucemia/game-dna) · [官网](https://game-dna.pages.dev) · 个人维护
 
 **给 coding agent 用的 102 个浏览器游戏元素：模块+提示词+演示**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lucemia/game-dna 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 4 --> 10
+    line [5, 9]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 9（+4）
 
 
 ---

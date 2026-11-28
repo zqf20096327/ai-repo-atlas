@@ -1,6 +1,6 @@
 # tyxak/remotepower
 
-⭐ 79 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tyxak/remotepower) · [官网](https://remotepower.tvipper.com) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tyxak/remotepower) · [官网](https://remotepower.tvipper.com) · 个人维护
 
 **自托管 Linux/Windows/macOS 服务器与服务器群监控运维平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tyxak/remotepower 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 74 --> 80
-    line [75, 76, 77, 75, 77, 78, 79, 79]
+    title "tyxak/remotepower 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 74 --> 81
+    line [76, 77, 75, 77, 78, 79, 80]
 ```
 
-2026-10-25 75 → 2026-11-27 79（+4）
+2026-10-26 76 → 2026-11-28 80（+4）
 
 
 ---

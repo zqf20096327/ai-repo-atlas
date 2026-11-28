@@ -1,6 +1,6 @@
 # upsidelab/suvereo
 
-⭐ 14 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/upsidelab/suvereo) · [官网](https://upsidelab.io/suvereo) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/upsidelab/suvereo) · [官网](https://upsidelab.io/suvereo) · 组织维护
 
 **在自有基础设施上运行 AI agent 的开源框架**
 
@@ -47,12 +47,12 @@ Suvereo 是一个用于在企业自有系统上运行 AI agent 的框架：通�
 ```mermaid
 xychart-beta
     title "upsidelab/suvereo 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-26 14 → 2026-11-27 14（+0）
+2026-11-26 14 → 2026-11-28 14（+0）
 
 
 ---

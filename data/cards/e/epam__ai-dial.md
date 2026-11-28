@@ -1,6 +1,6 @@
 # epam/ai-dial
 
-⭐ 151 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/epam/ai-dial) · [官网](https://docs.dialx.ai/) · 组织维护
+⭐ 151 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/epam/ai-dial) · [官网](https://docs.dialx.ai/) · 组织维护
 
 **EPAM 开源企业级 AI 平台 DIAL 的官方文档站**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "epam/ai-dial 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-28"]
     y-axis "stars" 145 --> 152
     line [146, 147, 149, 150, 151, 151]
 ```
 
-2026-10-25 146 → 2026-11-27 151（+5）
+2026-10-26 146 → 2026-11-28 151（+5）
 
 
 ---

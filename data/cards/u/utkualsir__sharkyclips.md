@@ -1,6 +1,6 @@
 # utkualsir/sharkyclips
 
-⭐ 37 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/utkualsir/sharkyclips) · [官网](https://utkualsir.github.io/sharkyclips-site/) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/utkualsir/sharkyclips) · [官网](https://utkualsir.github.io/sharkyclips-site/) · 个人维护
 
 **给主播的本地 AI 短视频剪辑工具，自动生成可发布的竖屏切片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "utkualsir/sharkyclips 星数(近 10 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 40
     line [5, 9, 15, 20, 23, 24, 28, 32, 37, 37]
 ```
 
-2026-11-16 5 → 2026-11-27 37（+32）
+2026-11-16 5 → 2026-11-28 37（+32）
 
 
 ---

@@ -1,6 +1,6 @@
 # bug-ops/zeph
 
-⭐ 66 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/bug-ops/zeph) · [官网](https://bug-ops.github.io/zeph/) · 组织维护
+⭐ 67 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/bug-ops/zeph) · [官网](https://bug-ops.github.io/zeph/) · 组织维护
 
 **记忆优先的长期任务 AI agent：本地/云/去中心化运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bug-ops/zeph 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 67]
 ```
 
-2026-10-25 65 → 2026-11-27 66（+1）
+2026-10-26 65 → 2026-11-28 67（+2）
 
 
 ---

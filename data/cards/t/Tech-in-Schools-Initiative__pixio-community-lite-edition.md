@@ -46,12 +46,12 @@ Pixio Studio 是一个 Next.js 网页应用，通过 Prodia v2 API 提供 txt2im
 ```mermaid
 xychart-beta
     title "Tech-in-Schools-Initiative/pixio-community-lite-edition 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-25 17 → 2026-11-27 17（+0）
+2026-10-26 17 → 2026-11-28 17（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Manning 出版书籍《AI-Powered Search》(Trey Grainger、Doug Turnbull、Max 
 ```mermaid
 xychart-beta
     title "treygrainger/ai-powered-search 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 416 --> 424
     line [417, 423, 423]
 ```
 
-2026-10-25 417 → 2026-11-27 423（+6）
+2026-10-26 417 → 2026-11-28 423（+6）
 
 
 ---

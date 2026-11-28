@@ -46,12 +46,12 @@ Boson 是一个 ComfyUI 节点包（28 个节点）及随附 Web 应用，围绕
 ```mermaid
 xychart-beta
     title "0xMisterBailey/Boson 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-27 3（+0）
+2026-11-08 3 → 2026-11-28 3（+0）
 
 
 ---

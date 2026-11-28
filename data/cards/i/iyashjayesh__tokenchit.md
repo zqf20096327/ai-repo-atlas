@@ -1,6 +1,6 @@
 # iyashjayesh/tokenchit
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iyashjayesh/tokenchit) · [官网](https://tokenchit.app) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/iyashjayesh/tokenchit) · [官网](https://tokenchit.app) · 个人维护
 
 **读取本地 AI 编程代理日志并生成可提交到 README 的用量统计卡**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iyashjayesh/tokenchit 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

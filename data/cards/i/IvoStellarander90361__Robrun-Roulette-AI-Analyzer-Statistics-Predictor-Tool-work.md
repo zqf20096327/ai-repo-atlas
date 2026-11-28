@@ -43,12 +43,12 @@ README 内容极简：声称提供一款追踪轮盘走势、分析统计数据�
 ```mermaid
 xychart-beta
     title "IvoStellarander90361/Robrun-Roulette-AI-Analyzer-Statistics-Predictor-Tool-work 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-11-26 30 → 2026-11-27 30（+0）
+2026-11-26 30 → 2026-11-28 30（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # KeyArgo/hermes-game-center
 
-⭐ 8 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/KeyArgo/hermes-game-center) · 个人维护
+⭐ 9 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/KeyArgo/hermes-game-center) · 个人维护
 
 **Hermes Agent 桌游/棋牌插件：18 种游戏与拒绝非法着法的裁判**
 
@@ -47,12 +47,12 @@ Hermes Agent 插件，提供 11 种 Play 棋牌游戏（国际象棋、围棋、
 ```mermaid
 xychart-beta
     title "KeyArgo/hermes-game-center 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 9
-    line [4, 8, 8]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 3 --> 10
+    line [4, 8, 9]
 ```
 
-2026-11-25 4 → 2026-11-27 8（+4）
+2026-11-25 4 → 2026-11-28 9（+5）
 
 
 ---

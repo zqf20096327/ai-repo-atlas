@@ -1,6 +1,6 @@
 # FullAgent/fulling
 
-⭐ 2,446 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/FullAgent/fulling) · [官网](https://fulling.ai) · 组织维护
+⭐ 2,445 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/FullAgent/fulling) · [官网](https://fulling.ai) · 组织维护
 
 **AI 工作区平台基础：管理用户身份与 Kubernetes 凭据边界**
 
@@ -45,13 +45,13 @@ Fulling 定位为提供持久化 AI 工作区（技能、文件、记忆、脚�
 
 ```mermaid
 xychart-beta
-    title "FullAgent/fulling 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
+    title "FullAgent/fulling 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2443 --> 2448
-    line [2444, 2445, 2444, 2445, 2447, 2446]
+    line [2444, 2445, 2444, 2445, 2447, 2446, 2445]
 ```
 
-2026-10-25 2,444 → 2026-11-27 2,446（+2）
+2026-10-26 2,444 → 2026-11-28 2,445（+1）
 
 
 ---

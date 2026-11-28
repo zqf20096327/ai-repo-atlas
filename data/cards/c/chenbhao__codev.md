@@ -1,6 +1,6 @@
 # chenbhao/codev
 
-⭐ 46 · TypeScript · 推送 2026-07-18 · [GitHub](https://github.com/chenbhao/codev) · [官网](https://x.com/chenbhao) · 个人维护 · 中文 README
+⭐ 45 · TypeScript · 推送 2026-07-18 · [GitHub](https://github.com/chenbhao/codev) · [官网](https://x.com/chenbhao) · 个人维护 · 中文 README
 
 **终端里的多 Agent 协作编程工作区 CLI（TypeScript）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chenbhao/codev 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 45 --> 56
-    line [55, 48, 47, 46, 46]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-19", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 44 --> 56
+    line [55, 48, 47, 46, 45]
 ```
 
-2026-10-25 55 → 2026-11-27 46（-9）
+2026-10-26 55 → 2026-11-28 45（-10）
 
 
 ---

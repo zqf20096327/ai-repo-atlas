@@ -1,6 +1,6 @@
 # tuxevil/tuxevil-rotator
 
-⭐ 84 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tuxevil/tuxevil-rotator) · 组织维护
+⭐ 84 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/tuxevil/tuxevil-rotator) · 组织维护
 
 **多提供商多账号的 LLM 代理轮换网关，带配额路由**
 
@@ -46,12 +46,12 @@ OpenAI 兼容的本地 API 网关：聚合 Google Antigravity、Ollama Cloud、O
 ```mermaid
 xychart-beta
     title "tuxevil/tuxevil-rotator 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-26", "2026-11-28"]
     y-axis "stars" 78 --> 85
     line [79, 80, 79, 81, 82, 83, 82, 84, 84]
 ```
 
-2026-10-25 79 → 2026-11-27 84（+5）
+2026-10-26 79 → 2026-11-28 84（+5）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/azure-devops-copilot-plugin 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-12", "2026-11-23", "2026-11-27"]
+    title "microsoft/azure-devops-copilot-plugin 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-23", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    line [10, 11, 12, 13, 13]
 ```
 
-2026-10-26 10 → 2026-11-27 13（+3）
+2026-10-26 10 → 2026-11-28 13（+3）
 
 
 ---

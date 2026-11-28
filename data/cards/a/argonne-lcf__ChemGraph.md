@@ -1,6 +1,6 @@
 # argonne-lcf/ChemGraph
 
-⭐ 174 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/argonne-lcf/ChemGraph) · [官网](https://argonne-lcf.github.io/ChemGraph/) · 组织维护
+⭐ 175 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/argonne-lcf/ChemGraph) · [官网](https://argonne-lcf.github.io/ChemGraph/) · 组织维护
 
 **计算化学与材料科学领域的 agent 工作流框架**
 
@@ -46,12 +46,12 @@ ChemGraph 是面向计算化学与材料科学的 agent 框架，基于 LangGrap
 ```mermaid
 xychart-beta
     title "argonne-lcf/ChemGraph 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 166 --> 175
-    line [167, 168, 169, 167, 171, 172, 173, 172, 173, 174, 174]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 166 --> 176
+    line [167, 168, 169, 167, 171, 172, 173, 172, 173, 174, 175]
 ```
 
-2026-10-25 167 → 2026-11-27 174（+7）
+2026-10-26 167 → 2026-11-28 175（+8）
 
 
 ---

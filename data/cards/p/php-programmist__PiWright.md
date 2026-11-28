@@ -1,6 +1,6 @@
 # php-programmist/PiWright
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/php-programmist/PiWright) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/php-programmist/PiWright) · 个人维护 · 中文 README
 
 **pi coding agent 的开源 Windows 桌面 GUI，整合聊天/看板/Git/编辑器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "php-programmist/PiWright 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 8 --> 10
     line [9, 9]
 ```
 
-2026-11-26 9 → 2026-11-27 9（+0）
+2026-11-26 9 → 2026-11-28 9（+0）
 
 
 ---

@@ -46,12 +46,12 @@ KnoxChat 平台的桌面客户端，通过统一界面访问 OpenAI、Anthropic�
 ```mermaid
 xychart-beta
     title "knoxchat/desktop 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

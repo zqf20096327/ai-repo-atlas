@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Airlines-Flights-Price-Prediction-Machine-Learning
 
-⭐ 41 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/Airlines-Flights-Price-Prediction-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/Airlines-Flights-Price-Prediction-Machine-Learning) · 个人维护
+⭐ 42 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/Airlines-Flights-Price-Prediction-Machine-Learning) · [官网](https://github.com/Hazrat-Ali9/Airlines-Flights-Price-Prediction-Machine-Learning) · 个人维护
 
 **预测机票价格的机器学习数据科学项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/Airlines-Flights-Price-Prediction-Machine-Learning 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 21 --> 42
-    line [22, 23, 22, 28, 32, 34, 36, 37, 41]
+    title "Hazrat-Ali9/Airlines-Flights-Price-Prediction-Machine-Learning 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 20 --> 44
+    line [22, 23, 22, 28, 32, 34, 36, 37, 41, 42]
 ```
 
-2026-10-25 22 → 2026-11-27 41（+19）
+2026-10-26 22 → 2026-11-28 42（+20）
 
 
 ---

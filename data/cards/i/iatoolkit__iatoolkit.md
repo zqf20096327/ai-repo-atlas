@@ -1,6 +1,6 @@
 # iatoolkit/iatoolkit
 
-⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iatoolkit/iatoolkit) · [官网](https://www.iatoolkit.com) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/iatoolkit/iatoolkit) · [官网](https://www.iatoolkit.com) · 组织维护
 
 **在企业私有环境构建多租户 AI 助手的开源框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iatoolkit/iatoolkit 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

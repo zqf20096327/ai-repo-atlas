@@ -42,6 +42,18 @@
 > L15: - **A video editor**: uses SAM 3.1 to turn the elements of a video into layers that you edit freely, as in Photosho
 > L16: - **The ReFrameVideo LoRA**: trained on MiniMax H3, it regenerates the whole clip from your edit and fills in the g
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "VoidEclipseAI/ReFrameVideo 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `72765bb2aa9c` · [字段定义](../../DATASET.md)*

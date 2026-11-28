@@ -1,6 +1,6 @@
 # MariaCarolinass/urban-disaster-monitor
 
-⭐ 15 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MariaCarolinass/urban-disaster-monitor) · [官网](https://huggingface.co/spaces/carolinasoares/urban-disaster-monitor-v2) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **城市灾害场景目标检测系统与数据集：识别平民、救援者与动物**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

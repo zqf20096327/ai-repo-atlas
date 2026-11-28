@@ -1,6 +1,6 @@
 # iamaamir/pi-bifrost
 
-⭐ 83 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iamaamir/pi-bifrost) · [官网](https://iamaamir.github.io/pi-bifrost/) · 个人维护
+⭐ 84 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/iamaamir/pi-bifrost) · [官网](https://iamaamir.github.io/pi-bifrost/) · 个人维护
 
 **Pi 编码助手的模型路由扩展：按层级为每轮对话选择模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iamaamir/pi-bifrost 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 74 --> 84
-    line [75, 76, 75, 78, 79, 81, 83, 82, 83, 83]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 74 --> 85
+    line [75, 76, 75, 78, 79, 81, 83, 82, 83, 84]
 ```
 
-2026-10-25 75 → 2026-11-27 83（+8）
+2026-10-26 75 → 2026-11-28 84（+9）
 
 
 ---

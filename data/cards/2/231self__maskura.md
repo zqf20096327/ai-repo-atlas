@@ -1,6 +1,6 @@
 # 231self/maskura
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/231self/maskura) · [官网](https://maskura.dev) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/231self/maskura) · [官网](https://maskura.dev) · 组织维护
 
 **为 AI 代理提供对象存储数据隐私网关：过滤、脱敏与加密**
 
@@ -46,12 +46,12 @@ Maskura 定位为 AI 代理与对象存储之间的策略边界：以有序 Wasm
 ```mermaid
 xychart-beta
     title "231self/maskura 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-22", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

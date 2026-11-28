@@ -1,6 +1,6 @@
 # strickvl/hinbox
 
-⭐ 18 · Python · 推送 2026-11-26 · [GitHub](https://github.com/strickvl/hinbox) · 个人维护
+⭐ 18 · Python · 推送 2026-11-27 · [GitHub](https://github.com/strickvl/hinbox) · 个人维护
 
 **面向历史学者的领域可配置实体抽取系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "strickvl/hinbox 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-13", "2026-11-28"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-25 16 → 2026-11-27 18（+2）
+2026-10-26 16 → 2026-11-28 18（+2）
 
 
 ---

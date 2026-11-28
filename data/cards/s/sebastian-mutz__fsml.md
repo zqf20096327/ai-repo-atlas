@@ -1,6 +1,6 @@
 # sebastian-mutz/fsml
 
-⭐ 26 · Fortran · MIT · 推送 2026-07-29 · [GitHub](https://github.com/sebastian-mutz/fsml) · [官网](https://fsml.mutz.science) · 个人维护
+⭐ 26 · Fortran · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sebastian-mutz/fsml) · [官网](https://fsml.mutz.science) · 个人维护
 
 **面向科研的 Fortran 统计与机器学习库**
 
@@ -45,12 +45,12 @@ FSML 是用 Fortran 2008 编写的统计与机器学习工具库，提供五大�
 ```mermaid
 xychart-beta
     title "sebastian-mutz/fsml 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-25 26 → 2026-11-27 26（+0）
+2026-10-26 26 → 2026-11-28 26（+0）
 
 
 ---

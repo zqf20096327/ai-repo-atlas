@@ -45,12 +45,12 @@ WXT 浏览器扩展客户端加 Python FastAPI MCP 服务器后端的 monorepo�
 ```mermaid
 xychart-beta
     title "tashifkhan/agentic-browser 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

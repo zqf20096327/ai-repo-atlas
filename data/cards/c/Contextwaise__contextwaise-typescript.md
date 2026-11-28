@@ -41,6 +41,18 @@ Contextwaise 的 TypeScript SDK：在工具结果返回时立即裁剪，保留�
 > L30: Everything that decides what is removed from your context, and everything that runs
 > L32: Contextwaise API; without an API key the SDK only runs the local cleanup and nothing
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Contextwaise/contextwaise-typescript 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `15bec3da975b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # gameplayerroblox9-cmyk/RoNet-BPE-Tensor-Forge
 
-⭐ 71 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/gameplayerroblox9-cmyk/RoNet-BPE-Tensor-Forge) · 个人维护
+⭐ 71 · HTML · 推送 2026-11-27 · [GitHub](https://github.com/gameplayerroblox9-cmyk/RoNet-BPE-Tensor-Forge) · 个人维护
 
 **纯张量实现的 Transformer 与字节级 BPE 分词器教学工坊**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gameplayerroblox9-cmyk/RoNet-BPE-Tensor-Forge 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-28"]
     y-axis "stars" 69 --> 72
     line [70, 71, 71]
 ```
 
-2026-10-25 70 → 2026-11-27 71（+1）
+2026-10-26 70 → 2026-11-28 71（+1）
 
 
 ---

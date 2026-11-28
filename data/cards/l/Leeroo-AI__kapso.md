@@ -1,6 +1,6 @@
 # Leeroo-AI/kapso
 
-⭐ 233 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Leeroo-AI/kapso) · [官网](https://docs.leeroo.com/docs) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 ML 开发者的自主实验引擎：跑实验、部署最优解、沉淀经验**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

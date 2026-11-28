@@ -46,12 +46,12 @@ DeepSeek Harness 的 ComfyUI 前端插件：导入 ComfyUI「Save (API Format)�
 ```mermaid
 xychart-beta
     title "W3967/dsh-workflow-form 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-25 4 → 2026-11-27 4（+0）
+2026-11-25 4 → 2026-11-28 4（+0）
 
 
 ---

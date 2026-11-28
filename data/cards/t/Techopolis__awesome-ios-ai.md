@@ -1,6 +1,6 @@
 # Techopolis/awesome-ios-ai
 
-⭐ 108 · Shell · CC0-1.0 · 推送 2026-04-25 · [GitHub](https://github.com/Techopolis/awesome-ios-ai) · 组织维护
+⭐ 109 · Shell · CC0-1.0 · 推送 2026-04-25 · [GitHub](https://github.com/Techopolis/awesome-ios-ai) · 组织维护
 
 **iOS/Swift 开发的 AI agent 技能与 MCP 工具策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Techopolis/awesome-ios-ai 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 105 --> 109
-    line [106, 107, 108, 106, 108, 108]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 105 --> 110
+    line [106, 107, 108, 106, 108, 109]
 ```
 
-2026-10-25 106 → 2026-11-27 108（+2）
+2026-10-26 106 → 2026-11-28 109（+3）
 
 
 ---

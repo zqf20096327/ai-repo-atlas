@@ -1,6 +1,6 @@
 # axisvela/praxo-core-python
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/axisvela/praxo-core-python) · [官网](https://axisvela.github.io/praxo-core/languages/python/) · 组织维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/axisvela/praxo-core-python) · [官网](https://axisvela.github.io/praxo-core/languages/python/) · 组织维护
 
 **面向开发者的可嵌入 Python AI agent 框架，提供运行时**
 
@@ -46,12 +46,12 @@ PRAXO-CORE 的 Python 实现，零运行时依赖的 AI agent 构建框架，提
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-python 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-27 3（+0）
+2026-11-23 3 → 2026-11-28 3（+0）
 
 
 ---

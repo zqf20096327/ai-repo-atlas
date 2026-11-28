@@ -1,6 +1,6 @@
 # justadityaraj/shim-mcp
 
-⭐ 35 · PHP · GPL-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/justadityaraj/shim-mcp) · [官网](https://dev.adityarajsingh.com/shim-mcp/) · 组织维护
+⭐ 35 · PHP · GPL-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/justadityaraj/shim-mcp) · [官网](https://adityarajsingh.com/shim-mcp/) · 组织维护
 
 **把 WordPress 站点变成 MCP 服务器的插件，供 AI 编码客户端接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "justadityaraj/shim-mcp 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-28"]
     y-axis "stars" 34 --> 45
     line [44, 35, 35]
 ```
 
-2026-10-25 44 → 2026-11-27 35（-9）
+2026-10-26 44 → 2026-11-28 35（-9）
 
 
 ---

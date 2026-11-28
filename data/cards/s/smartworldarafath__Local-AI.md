@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "smartworldarafath/Local-AI 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-26", "2026-11-27"]
+    title "smartworldarafath/Local-AI 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-11-21 10 → 2026-11-27 12（+2）
+2026-11-21 10 → 2026-11-28 12（+2）
 
 
 ---

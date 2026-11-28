@@ -1,6 +1,6 @@
 # lemomo-ai/codex-radar
 
-⭐ 40 · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/lemomo-ai/codex-radar) · [官网](https://lemomo-ai.github.io/codex-radar/) · 组织维护 · 中文 README
+⭐ 41 · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/lemomo-ai/codex-radar) · [官网](https://lemomo-ai.github.io/codex-radar/) · 组织维护 · 中文 README
 
 **Codex CLI 插件：分析本地会话史，生成 9 维协作评分报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lemomo-ai/codex-radar 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 38, 39, 40, 40]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 38, 39, 40, 41]
 ```
 
-2026-10-25 38 → 2026-11-27 40（+2）
+2026-10-26 38 → 2026-11-28 41（+3）
 
 
 ---

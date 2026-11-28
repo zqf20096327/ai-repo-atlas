@@ -1,6 +1,6 @@
 # TykTechnologies/ai-studio
 
-⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/TykTechnologies/ai-studio) · [官网](https://tyk.io/tyk-ai-studio/) · 组织维护
+⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/TykTechnologies/ai-studio) · [官网](https://tyk.io/tyk-ai-studio/) · 组织维护
 
 **给企业统一管理、治理与接入 AI 的开源网关平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TykTechnologies/ai-studio 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 11（+1）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

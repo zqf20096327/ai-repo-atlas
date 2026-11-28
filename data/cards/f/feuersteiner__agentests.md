@@ -1,6 +1,6 @@
 # feuersteiner/agentests
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/feuersteiner/agentests) · [官网](https://discord.gg/kESK4bgEPW) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/feuersteiner/agentests) · [官网](https://discord.gg/kESK4bgEPW) · 个人维护
 
 **让团队把业务规则转成可验证测试的 Agent 工具**
 
@@ -45,13 +45,13 @@ agentests 是一个 npm CLI 与库：用自然语言写下业务规则或代码�
 
 ```mermaid
 xychart-beta
-    title "feuersteiner/agentests 星数(近 7 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 39
-    line [6, 7, 9, 16, 29, 35, 36]
+    title "feuersteiner/agentests 星数(近 8 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 40
+    line [6, 7, 9, 16, 29, 35, 36, 37]
 ```
 
-2026-11-19 6 → 2026-11-27 36（+30）
+2026-11-19 6 → 2026-11-28 37（+31）
 
 
 ---

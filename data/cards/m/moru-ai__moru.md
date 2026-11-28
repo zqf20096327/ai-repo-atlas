@@ -1,6 +1,6 @@
 # moru-ai/moru
 
-⭐ 78 · Python · Apache-2.0 · 推送 2026-02-07 · [GitHub](https://github.com/moru-ai/moru) · [官网](https://moru.io/docs) · 组织维护
+⭐ 77 · Python · Apache-2.0 · 推送 2026-02-07 · [GitHub](https://github.com/moru-ai/moru) · [官网](https://moru.io/docs) · 组织维护
 
 **开源云端沙箱运行时：为 AI Agent 提供隔离 microVM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moru-ai/moru 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 76 --> 79
+    line [78, 77]
 ```
 
-2026-10-25 78 → 2026-11-27 78（+0）
+2026-10-26 78 → 2026-11-28 77（-1）
 
 
 ---

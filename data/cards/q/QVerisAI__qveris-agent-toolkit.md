@@ -1,6 +1,6 @@
 # QVerisAI/qveris-agent-toolkit
 
-⭐ 263 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/QVerisAI/qveris-agent-toolkit) · [官网](https://qveris.ai/) · 组织维护
+⭐ 263 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/QVerisAI/qveris-agent-toolkit) · [官网](https://qveris.ai/) · 组织维护
 
 **让 AI 助手发现并调用专业数据服务的 MCP/CLI/SDK 工具包**
 
@@ -46,12 +46,12 @@ QVeris 是面向 AI 的专业数据与工具访问平台，本开源工具包提
 ```mermaid
 xychart-beta
     title "QVerisAI/qveris-agent-toolkit 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-28"]
     y-axis "stars" 262 --> 265
     line [263, 264, 263, 264, 263, 263]
 ```
 
-2026-10-25 263 → 2026-11-27 263（+0）
+2026-10-26 263 → 2026-11-28 263（+0）
 
 
 ---

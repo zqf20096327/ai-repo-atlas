@@ -1,6 +1,6 @@
 # imran-siddique/agentic-architecture
 
-⭐ 15 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/imran-siddique/agentic-architecture) · [官网](https://imransiddique.com) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/imran-siddique/agentic-architecture) · [官网](https://imransiddique.com) · 个人维护
 
 **可约束、可观测、可验证的 agent 系统设计模式指南**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imran-siddique/agentic-architecture 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 14 --> 17
-    line [16, 15, 15]
+    x-axis ["2026-10-26", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 13 --> 17
+    line [16, 15, 14]
 ```
 
-2026-10-25 16 → 2026-11-27 15（-1）
+2026-10-26 16 → 2026-11-28 14（-2）
 
 
 ---

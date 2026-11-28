@@ -1,6 +1,6 @@
 # datastax/jvector
 
-⭐ 1,760 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/datastax/jvector) · [官网](https://datastax.github.io/jvector/) · 组织维护
+⭐ 1,760 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/datastax/jvector) · [官网](https://datastax.github.io/jvector/) · 组织维护
 
 **Java 嵌入式 ANN 向量搜索库，构建可磁盘检索的图索引**
 
@@ -44,13 +44,13 @@ JVector 是一个 Java 近似最近邻（ANN）向量搜索库，索引结构结
 
 ```mermaid
 xychart-beta
-    title "datastax/jvector 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-11", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-27"]
+    title "datastax/jvector 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-11", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-27", "2026-11-28"]
     y-axis "stars" 1755 --> 1761
-    line [1757, 1756, 1757, 1758, 1759, 1760, 1759, 1760]
+    line [1757, 1756, 1757, 1758, 1759, 1760, 1759, 1760, 1760]
 ```
 
-2026-10-25 1,757 → 2026-11-27 1,760（+3）
+2026-10-26 1,757 → 2026-11-28 1,760（+3）
 
 
 ---

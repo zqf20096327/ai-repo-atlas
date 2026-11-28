@@ -1,6 +1,6 @@
 # liberation-data/fornax
 
-⭐ 3 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/liberation-data/fornax) · [官网](https://fornax4j.org/) · 组织维护
+⭐ 3 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/liberation-data/fornax) · [官网](https://fornax4j.org/) · 组织维护
 
 **让 Java 开发者在 JVM 内以方法调用方式运行本地开源生成模型**
 
@@ -41,6 +41,18 @@
 > L5: **Call open-weight models (language, vision, speech, images, songs, video) as plain Java methods, running on your GP
 > L21: - **The native runners themselves.** Fornax calls llama.cpp, stable-diffusion.cpp, acestep.cpp, yue2.cpp,
 > L29: Fornax binds native inference engines with Java's Foreign Function & Memory API (Java 22+; Kiln 0.1.0 itself needs 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liberation-data/fornax 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

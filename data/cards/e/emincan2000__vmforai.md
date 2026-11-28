@@ -1,6 +1,6 @@
 # emincan2000/vmforai
 
-⭐ 3 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/emincan2000/vmforai) · [官网](vmforai.is-cool.dev) · 个人维护
+⭐ 3 · Shell · MIT · 推送 2026-11-27 · [GitHub](https://github.com/emincan2000/vmforai) · [官网](vmforai.is-cool.dev) · 个人维护
 
 **把 AI 编码代理放进虚拟机沙箱运行，一条命令可撤销**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "emincan2000/vmforai 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-26 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 3（+0）
 
 
 ---

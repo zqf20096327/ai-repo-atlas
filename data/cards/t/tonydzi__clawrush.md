@@ -1,6 +1,6 @@
 # tonydzi/clawrush
 
-⭐ 18 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/tonydzi/clawrush) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/tonydzi/clawrush) · 个人维护
 
 **个人 AI「第二大脑」构建过程的公开日记与可复用产物仓库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tonydzi/clawrush 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    title "tonydzi/clawrush 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 14 --> 19
-    line [15, 16, 15, 17, 18, 18]
+    line [16, 15, 17, 18, 18]
 ```
 
-2026-10-25 15 → 2026-11-27 18（+3）
+2026-10-26 16 → 2026-11-28 18（+2）
 
 
 ---

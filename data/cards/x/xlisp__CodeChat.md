@@ -45,12 +45,12 @@ CodeChat 8B 的训练说明仓库：在 8x A800-SXM4-80GB 上用 FSDP FULL_SHARD
 ```mermaid
 xychart-beta
     title "xlisp/CodeChat 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-25 31 → 2026-11-27 31（+0）
+2026-10-26 31 → 2026-11-28 31（+0）
 
 
 ---

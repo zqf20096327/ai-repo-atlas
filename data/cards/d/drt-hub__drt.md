@@ -1,6 +1,6 @@
 # drt-hub/drt
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/drt-hub/drt) · [官网](https://drt-hub.github.io/drt-web/) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/drt-hub/drt) · [官网](https://drt-hub.github.io/drt-web/) · 组织维护
 
 **面向开发者的反向 ETL 工具：用 YAML 把数仓数据同步回业务系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "drt-hub/drt 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-28"]
     y-axis "stars" 35 --> 38
     line [37, 36, 37, 36, 37, 37]
 ```
 
-2026-10-25 37 → 2026-11-27 37（+0）
+2026-10-26 37 → 2026-11-28 37（+0）
 
 
 ---

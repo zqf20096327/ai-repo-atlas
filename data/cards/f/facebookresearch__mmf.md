@@ -1,6 +1,6 @@
 # facebookresearch/mmf
 
-⭐ 5,634 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/facebookresearch/mmf) · [官网](https://mmf.sh/) · 组织维护
+⭐ 5,633 · Python · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/facebookresearch/mmf) · [官网](https://mmf.sh/) · 组织维护
 
 **视觉-语言多模态研究的模块化 PyTorch 框架**
 
@@ -43,13 +43,13 @@ Facebook AI Research 开源的视觉与语言多模态研究模块化框架，�
 
 ```mermaid
 xychart-beta
-    title "facebookresearch/mmf 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
+    title "facebookresearch/mmf 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-28"]
     y-axis "stars" 5632 --> 5638
-    line [5636, 5637, 5636, 5635, 5633, 5634, 5634]
+    line [5637, 5636, 5635, 5633, 5634, 5633]
 ```
 
-2026-10-25 5,636 → 2026-11-27 5,634（-2）
+2026-10-26 5,637 → 2026-11-28 5,633（-4）
 
 
 ---

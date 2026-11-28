@@ -41,6 +41,18 @@
 > L15: 模型接口需支持 OpenAI 兼容的流式 Chat Completions。
 > L19: 默认自带 OCR，不装任何服务也能用：勾选「允许读屏获取聊天历史」（默认开启）时，程序用 `assets/ocr/` 的模型识别微信窗口当前显示的消息，条数不够就向上翻页补读，用完恢复原视图。只覆盖窗口内的消息，图片和语音读不到。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Alice5412/wechat-message-completion 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a494b0d263d7` · [字段定义](../../DATASET.md)*

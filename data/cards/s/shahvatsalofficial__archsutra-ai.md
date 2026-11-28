@@ -1,6 +1,6 @@
 # shahvatsalofficial/archsutra-ai
 
-⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shahvatsalofficial/archsutra-ai) · [官网](https://shahvatsalofficial.github.io/archsutra-ai/) · 个人维护
+⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/shahvatsalofficial/archsutra-ai) · [官网](https://shahvatsalofficial.github.io/archsutra-ai/) · 个人维护
 
 **给开发者的软件架构审计 agent：基于 IDE 自带模型做审查与设计**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "shahvatsalofficial/archsutra-ai 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-16 4 → 2026-11-27 4（+0）
+2026-11-16 4 → 2026-11-28 4（+0）
 
 
 ---

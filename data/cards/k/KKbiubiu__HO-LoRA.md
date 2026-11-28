@@ -1,6 +1,6 @@
 # KKbiubiu/HO-LoRA
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/KKbiubiu/HO-LoRA) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **SDXL 上分离内容/颜色/纹理风格的三分支 LoRA 训练与评估实现**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

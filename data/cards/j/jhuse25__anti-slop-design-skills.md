@@ -40,6 +40,18 @@
 > L10: It ships as three **skills** and two **agents**:
 > L61: Cursor, Windsurf, Copilot, a raw LLM or the API — the skills are plain `SKILL.md` files you load as
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jhuse25/anti-slop-design-skills 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `bad0e319ce2c` · [字段定义](../../DATASET.md)*

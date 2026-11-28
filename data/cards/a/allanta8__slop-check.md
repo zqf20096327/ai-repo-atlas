@@ -1,6 +1,6 @@
 # allanta8/slop-check
 
-⭐ 20 · MIT · 推送 2026-06-18 · [GitHub](https://github.com/allanta8/slop-check) · 个人维护
+⭐ 19 · MIT · 推送 2026-06-18 · [GitHub](https://github.com/allanta8/slop-check) · 个人维护
 
 **面向 agent 的 AI 味写作审计技能：发布前检出模板化内容**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "allanta8/slop-check 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 18 --> 21
+    line [20, 19]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 19（-1）
 
 
 ---

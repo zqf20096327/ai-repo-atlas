@@ -1,6 +1,6 @@
 # amitlals/claude-cruise
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/amitlals/claude-cruise) · [官网](https://amitlals.github.io/claude-cruise/) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/amitlals/claude-cruise) · [官网](https://amitlals.github.io/claude-cruise/) · 个人维护
 
 **给 Claude Code 用户的本地代理：自动切换后备模型避免触发限流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amitlals/claude-cruise 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 10 --> 18
-    line [11, 13, 17]
+    title "amitlals/claude-cruise 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 19
+    line [11, 13, 17, 18]
 ```
 
-2026-10-25 11 → 2026-11-27 17（+6）
+2026-10-26 11 → 2026-11-28 18（+7）
 
 
 ---

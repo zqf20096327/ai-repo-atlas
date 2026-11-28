@@ -1,6 +1,6 @@
 # voidstackloop/oxideon
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/voidstackloop/oxideon) · 个人维护
+⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/voidstackloop/oxideon) · 个人维护
 
 **Rust 实现的张量与动态神经网络深度学习库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "voidstackloop/oxideon 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-28"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-20 6 → 2026-11-27 6（+0）
+2026-11-20 6 → 2026-11-28 6（+0）
 
 
 ---

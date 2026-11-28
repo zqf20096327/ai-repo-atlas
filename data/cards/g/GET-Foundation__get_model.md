@@ -1,6 +1,6 @@
 # GET-Foundation/get_model
 
-⭐ 116 · Jupyter Notebook · 推送 2026-04-07 · [GitHub](https://github.com/GET-Foundation/get_model) · 组织维护
+⭐ 117 · Jupyter Notebook · 推送 2026-04-07 · [GitHub](https://github.com/GET-Foundation/get_model) · 组织维护
 
 **跨人类细胞类型转录调控基础模型（General Expression Transformer）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GET-Foundation/get_model 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 113 --> 117
-    line [114, 115, 116, 116]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 113 --> 118
+    line [114, 115, 116, 117]
 ```
 
-2026-10-25 114 → 2026-11-27 116（+2）
+2026-10-26 114 → 2026-11-28 117（+3）
 
 
 ---

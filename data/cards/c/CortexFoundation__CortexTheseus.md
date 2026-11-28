@@ -44,13 +44,13 @@ Cortex（AI on Blockchain）区块链的官方 Go 语言全节点实现。通过
 
 ```mermaid
 xychart-beta
-    title "CortexFoundation/CortexTheseus 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "CortexFoundation/CortexTheseus 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 153 --> 156
-    line [154, 155, 154, 155, 155]
+    line [155, 154, 155, 155]
 ```
 
-2026-10-25 154 → 2026-11-27 155（+1）
+2026-10-26 155 → 2026-11-28 155（+0）
 
 
 ---

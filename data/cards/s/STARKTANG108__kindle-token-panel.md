@@ -1,6 +1,6 @@
 # STARKTANG108/kindle-token-panel
 
-⭐ 10 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/STARKTANG108/kindle-token-panel) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/STARKTANG108/kindle-token-panel) · 个人维护 · 中文 README
 
 **将闲置 Kindle 改造成 AI Token 用量与 Agent 任务进度墨水屏看板**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "STARKTANG108/kindle-token-panel 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-11-27"]
-    y-axis "stars" 7 --> 11
-    line [8, 10, 10]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-28"]
+    y-axis "stars" 7 --> 12
+    line [8, 10, 11]
 ```
 
-2026-10-26 8 → 2026-11-27 10（+2）
+2026-10-26 8 → 2026-11-28 11（+3）
 
 
 ---

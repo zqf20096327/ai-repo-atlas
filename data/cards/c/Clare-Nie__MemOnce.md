@@ -1,6 +1,6 @@
 # Clare-Nie/MemOnce
 
-⭐ 31 · Python · 推送 2026-11-24 · [GitHub](https://github.com/Clare-Nie/MemOnce) · [官网](https://clare-nie.github.io/MemOnce/) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Clare-Nie/MemOnce) · [官网](https://clare-nie.github.io/MemOnce/) · 个人维护
 
 **面向研究者的长上下文记忆架构：单次检索的紧凑全局记忆**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Clare-Nie/MemOnce 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 33
-    line [6, 8, 10, 19, 29, 31]
+    title "Clare-Nie/MemOnce 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 41
+    line [6, 8, 10, 19, 29, 31, 38]
 ```
 
-2026-11-13 6 → 2026-11-27 31（+25）
+2026-11-13 6 → 2026-11-28 38（+32）
 
 
 ---

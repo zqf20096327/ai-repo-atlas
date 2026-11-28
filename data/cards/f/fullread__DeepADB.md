@@ -1,6 +1,6 @@
 # fullread/DeepADB
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/fullread/DeepADB) · 个人维护
+⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/fullread/DeepADB) · 个人维护
 
 **让 AI agent 通过 ADB/Termux 检查与控制 Android 设备的 MCP 服务器**
 
@@ -45,12 +45,12 @@ TypeScript 实现的 MCP server，向 AI agent 暴露 209 个工具、5 个资�
 ```mermaid
 xychart-beta
     title "fullread/DeepADB 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-28"]
     y-axis "stars" 19 --> 25
     line [20, 22, 23, 24, 24]
 ```
 
-2026-10-25 20 → 2026-11-27 24（+4）
+2026-10-26 20 → 2026-11-28 24（+4）
 
 
 ---

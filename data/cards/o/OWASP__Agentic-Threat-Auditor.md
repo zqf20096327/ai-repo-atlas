@@ -1,6 +1,6 @@
 # OWASP/Agentic-Threat-Auditor
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/OWASP/Agentic-Threat-Auditor) · [官网](https://owasp.org/projects/agentic-threat-auditor) · 组织维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/OWASP/Agentic-Threat-Auditor) · [官网](https://owasp.org/projects/agentic-threat-auditor) · 组织维护
 
 **多跳 AI Agent 的动态渗透测试与越权审计工具**
 
@@ -45,12 +45,12 @@ OWASP 孵化器项目，面向 LangChain/LangGraph/CrewAI/AutoGen/MCP 生态的�
 ```mermaid
 xychart-beta
     title "OWASP/Agentic-Threat-Auditor 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-28"]
     y-axis "stars" 2 --> 7
     line [3, 4, 5, 6, 6]
 ```
 
-2026-11-08 3 → 2026-11-27 6（+3）
+2026-11-08 3 → 2026-11-28 6（+3）
 
 
 ---

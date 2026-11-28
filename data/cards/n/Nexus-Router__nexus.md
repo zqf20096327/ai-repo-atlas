@@ -1,6 +1,6 @@
 # Nexus-Router/nexus
 
-⭐ 441 · Rust · MPL-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/Nexus-Router/nexus) · [官网](https://nexusrouter.com) · 组织维护
+⭐ 442 · Rust · MPL-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/Nexus-Router/nexus) · [官网](https://nexusrouter.com) · 组织维护
 
 **统一接入层：聚合 MCP 服务器与多家 LLM 供应商并治理 AI 调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nexus-Router/nexus 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 435 --> 442
-    line [436, 438, 439, 440, 441, 441]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 435 --> 443
+    line [436, 438, 439, 440, 441, 442]
 ```
 
-2026-10-25 436 → 2026-11-27 441（+5）
+2026-10-26 436 → 2026-11-28 442（+6）
 
 
 ---

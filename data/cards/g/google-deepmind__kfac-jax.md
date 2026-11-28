@@ -1,6 +1,6 @@
 # google-deepmind/kfac-jax
 
-⭐ 334 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/kfac-jax) · 组织维护
+⭐ 335 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/kfac-jax) · 组织维护
 
 **面向研究者的 JAX 二阶优化与曲率估计库（K-FAC）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/kfac-jax 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 330 --> 335
-    line [331, 332, 331, 332, 334, 334]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 330 --> 336
+    line [331, 332, 331, 332, 334, 335]
 ```
 
-2026-10-25 331 → 2026-11-27 334（+3）
+2026-10-26 331 → 2026-11-28 335（+4）
 
 
 ---

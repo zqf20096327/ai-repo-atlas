@@ -1,6 +1,6 @@
 # vavo/LTX2.5-serverless
 
-⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/vavo/LTX2.5-serverless) · [官网](https://get.runpod.io/ltx25-pod-and-serverless) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/vavo/LTX2.5-serverless) · [官网](https://get.runpod.io/ltx25-pod-and-serverless) · 个人维护
 
 **在 RunPod 上以 serverless 或 Pod 方式运行 LTX 2.5 视频生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vavo/LTX2.5-serverless 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-28"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    line [10, 11, 12, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 12（+2）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

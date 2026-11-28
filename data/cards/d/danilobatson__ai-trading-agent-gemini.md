@@ -1,6 +1,6 @@
 # danilobatson/ai-trading-agent-gemini
 
-⭐ 517 · TypeScript · 推送 2026-01-05 · [GitHub](https://github.com/danilobatson/ai-trading-agent-gemini) · [官网](https://ai-trading-agent-gemini.vercel.app/) · 个人维护
+⭐ 520 · TypeScript · 推送 2026-01-05 · [GitHub](https://github.com/danilobatson/ai-trading-agent-gemini) · [官网](https://ai-trading-agent-gemini.vercel.app/) · 个人维护
 
 **将社交媒体情绪转为加密货币交易信号的 AI Agent 应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "danilobatson/ai-trading-agent-gemini 星数(近 16 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 460 --> 522
-    line [465, 466, 467, 465, 468, 469, 489, 501, 505, 511, 514, 516, 517, 516, 517, 517]
+    title "danilobatson/ai-trading-agent-gemini 星数(近 15 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 460 --> 525
+    line [466, 467, 465, 468, 469, 489, 501, 505, 511, 514, 516, 517, 516, 517, 520]
 ```
 
-2026-10-25 465 → 2026-11-27 517（+52）
+2026-10-26 466 → 2026-11-28 520（+54）
 
 
 ---

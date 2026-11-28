@@ -1,6 +1,6 @@
 # Wither033/ComfyUI-Krea2-PixelHead
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wither033/ComfyUI-Krea2-PixelHead) · [官网](https://huggingface.co/pocis/Krea-2-PixelHead) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wither033/ComfyUI-Krea2-PixelHead) · [官网](https://huggingface.co/pocis/Krea-2-PixelHead) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点：为 Krea-2 提供直接 RGB 像素解码头，替代 VAE 解码器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Wither033/ComfyUI-Krea2-PixelHead 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

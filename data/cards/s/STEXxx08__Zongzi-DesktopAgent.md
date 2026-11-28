@@ -1,6 +1,6 @@
 # STEXxx08/Zongzi-DesktopAgent
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/STEXxx08/Zongzi-DesktopAgent) · [官网](https://space.bilibili.com/35778513) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **桌面 AI 陪伴客户端与可替换组件的 Agent 集成框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-8g` | |

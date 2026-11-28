@@ -1,10 +1,10 @@
 # modelstudioai/cli
 
-⭐ 375 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/modelstudioai/cli) · [官网](https://bailian.console.aliyun.com/cli) · 组织维护 · 中文 README
+⭐ 376 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/modelstudioai/cli) · [官网](https://bailian.console.aliyun.com/cli) · 组织维护 · 中文 README
 
-**阿里云百炼官方 CLI：为 AI Agent 提供模型/搜索/多模态/工作流工具调用**
+**阿里云百炼官方 CLI：一条命令调用模型、语音、工作流等能力**
 
-阿里云 Model Studio（百炼/DashScope）平台的官方命令行工具，以 Node.js/TypeScript 构建。每条命令以结构化 tool call 形式暴露，供 AI Agent 框架调用：覆盖文本/图像/视频/语音生成、图像与长视频理解、托管 Agent 与工作流的创建发布、百炼 MCP 服务器向 Codex/Claude Code/Cursor 等注册、SFT/DPO/CPT 微调与 RL 训练、批量推理、账号配额与订阅管理。支持 npm 与 macOS/Linux/Windows 脚本安装，需 API key 与 workspace；部分功能仅限中国站账号。
+面向 AI Agent 框架的阿里云 Model Studio（百炼）官方命令行工具，用 Node.js/TypeScript 构建。每个命令可作为结构化工具调用被 Agent 使用；支持通过安装脚本把百炼 MCP 服务器注册到 Codex、Claude Code、Cursor 等客户端。功能覆盖文本/图像/视频/语音生成、资产理解、Agent/工作流编排、SFT/DPO 微调与部署、批量推理、账户与配额管理、知识库导入和文档解析。部分功能仅限中国站（aliyun.com）账户使用。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 命令以结构化 tool call 形式暴露给 AI Agent 框架
-- 原生 MCP setup：将百炼 MCP 服务器注册到 Codex/Claude Code/Cursor 等 9 类客户端
-- 覆盖训练（SFT/DPO/CPT/RL）、批量推理、知识库与 ParseX 文档解析
-- npm、shell、PowerScript 三种安装路径，脚本安装无需 Node.js
+- 每个命令以结构化工具调用形式供 Agent 使用
+- 原生 MCP 设置：一键注册百炼 MCP 服务器到 Codex/Claude Code/Cursor 等客户端
+- 覆盖训练部署（SFT/DPO/CPT、RL 任务、OPD 蒸馏）与批量推理
+- 支持知识库导入、RAG 音视频与 ParseX 文档/音视频结构化解析
 
 ## 适用场景
 
-- 让本地 coding agent 直接调用百炼的图像/视频/语音生成能力
-- 从命令行管理微调数据集、批量推理任务与专属端点部署
-- 为团队配置用量配额、限流与监控告警规则
+- 让编码 Agent 直接调用百炼的图像、视频与语音能力
+- 命令行微调模型并部署为专属端点
+- 创建和发布带知识库与网络搜索的托管 Agent 应用
+- 批量提交 Chat/Embedding 异步推理任务并下载结果
 
 ## 场景标签
 
-`图像生成` `视频生成` `文档解析` `微调` · 领域:内容生成
+`图像生成` `视频生成` `文档解析` `RAG` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -46,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "modelstudioai/cli 星数(近 15 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 362 --> 376
-    line [363, 364, 365, 366, 367, 363, 369, 370, 371, 372, 371, 372, 373, 374, 375]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 362 --> 377
+    line [364, 365, 366, 367, 363, 369, 370, 371, 372, 371, 372, 373, 374, 375, 376]
 ```
 
-2026-10-25 363 → 2026-11-27 375（+12）
+2026-10-26 364 → 2026-11-28 376（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5313ff1db9f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `bfb8f65517d5` · [字段定义](../../DATASET.md)*

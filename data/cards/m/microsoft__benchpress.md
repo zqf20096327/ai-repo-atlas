@@ -1,6 +1,6 @@
 # microsoft/benchpress
 
-⭐ 42 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/benchpress) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/benchpress) · 组织维护
 
 **为 LLM 补全未跑评测分数的基准成绩预测工具与数据集**
 
@@ -45,13 +45,13 @@ Microsoft Research 发布的基准分数补全工具：整理 84 个前沿模型
 
 ```mermaid
 xychart-beta
-    title "microsoft/benchpress 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-12", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 33 --> 43
-    line [34, 35, 39, 42]
+    title "microsoft/benchpress 星数(近 5 点)"
+    x-axis ["2026-10-25", "2026-11-12", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 33 --> 44
+    line [34, 35, 39, 42, 43]
 ```
 
-2026-10-24 34 → 2026-11-27 42（+8）
+2026-10-25 34 → 2026-11-28 43（+9）
 
 
 ---

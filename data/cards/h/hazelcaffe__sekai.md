@@ -1,6 +1,6 @@
 # hazelcaffe/sekai
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/hazelcaffe/sekai) · 个人维护
+⭐ 4 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/hazelcaffe/sekai) · 个人维护
 
 **自托管多 AI agent 团队服务器：为个人与小组提供可管理记忆的群聊机器人**
 
@@ -40,6 +40,18 @@
 > L5:  Your own team of AI agents, on your own server, for you and the people you invite.
 > L14: Each bot has a name, a face, a job and a personality. It keeps its own memory and notes, runs routines on a schedul
 > L16: OpenAI-compatible gateway or API provider (OpenAI, Anthropic, Gemini, OpenRouter, Ollama, LM Studio…), or use agent
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hazelcaffe/sekai 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

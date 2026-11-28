@@ -1,6 +1,6 @@
 # mohdshamii/Machine-Learning
 
-⭐ 10 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/mohdshamii/Machine-Learning) · [官网](https://mohdshamii.github.io/Machine-Learning) · 个人维护
+⭐ 12 · Jupyter Notebook · 推送 2026-10-20 · [GitHub](https://github.com/mohdshamii/Machine-Learning) · [官网](https://mohdshamii.github.io/Machine-Learning) · 个人维护
 
 **面向学生与初学者的机器学习交互式学习站点**
 
@@ -46,12 +46,12 @@ MLVault 是一个基于 React、Vite 和 TypeScript 构建的静态机器学习�
 ```mermaid
 xychart-beta
     title "mohdshamii/Machine-Learning 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-13", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-11-13 10 → 2026-11-27 10（+0）
+2026-11-13 10 → 2026-11-28 12（+2）
 
 
 ---

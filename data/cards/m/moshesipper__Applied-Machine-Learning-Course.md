@@ -44,12 +44,12 @@ Moshe Sipper 开设的应用机器学习课程仓库，按教学顺序组织的�
 ```mermaid
 xychart-beta
     title "moshesipper/Applied-Machine-Learning-Course 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-25 58 → 2026-11-27 58（+0）
+2026-10-26 58 → 2026-11-28 58（+0）
 
 
 ---

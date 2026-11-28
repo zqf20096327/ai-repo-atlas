@@ -1,6 +1,6 @@
 # odvcencio/buckley
 
-⭐ 10 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/odvcencio/buckley) · [官网](https://m31labs.dev/buckley) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/odvcencio/buckley) · [官网](https://m31labs.dev/buckley) · 个人维护
 
 **面向仓库级开发任务的工具优先 AI agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "odvcencio/buckley 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 10]
 ```
 
-2026-11-12 10 → 2026-11-27 10（+0）
+2026-11-12 10 → 2026-11-28 10（+0）
 
 
 ---

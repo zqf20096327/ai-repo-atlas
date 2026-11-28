@@ -45,12 +45,12 @@ ICML 2026 论文 'The Personality Illusion' 的官方代码仓库，研究 LLM �
 ```mermaid
 xychart-beta
     title "psychology-of-AI/Personality-Illusion 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-25 74 → 2026-11-27 74（+0）
+2026-10-26 74 → 2026-11-28 74（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Echoxiawan/Astra
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Echoxiawan/Astra) · 个人维护 · 中文 README
+⭐ 82 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Echoxiawan/Astra) · 个人维护 · 中文 README
 
 **用自然语言在真机上跑移动端 UI 测试并生成 pytest+Appium 脚本**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Echoxiawan/Astra 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 54 --> 83
-    line [56, 68, 80, 81]
+    title "Echoxiawan/Astra 星数(近 5 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 54 --> 84
+    line [56, 68, 80, 81, 82]
 ```
 
-2026-11-22 56 → 2026-11-27 81（+25）
+2026-11-22 56 → 2026-11-28 82（+26）
 
 
 ---

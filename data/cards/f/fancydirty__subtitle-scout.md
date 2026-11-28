@@ -1,6 +1,6 @@
 # fancydirty/subtitle-scout
 
-⭐ 150 · TypeScript · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/fancydirty/subtitle-scout) · [官网](https://subtitlescout.com) · 个人维护 · 中文 README
+⭐ 151 · TypeScript · AGPL-3.0 · 推送 2026-09-04 · [GitHub](https://github.com/fancydirty/subtitle-scout) · [官网](https://subtitlescout.com) · 个人维护 · 中文 README
 
 **自托管字幕自动化系统：LLM agent 为媒体库匹配并安装字幕**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fancydirty/subtitle-scout 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 130 --> 151
-    line [131, 135, 137, 142, 143, 144, 131, 147, 148, 149, 150, 150]
+    title "fancydirty/subtitle-scout 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 129 --> 153
+    line [135, 137, 142, 143, 144, 131, 147, 148, 149, 150, 151]
 ```
 
-2026-10-25 131 → 2026-11-27 150（+19）
+2026-10-26 135 → 2026-11-28 151（+16）
 
 
 ---

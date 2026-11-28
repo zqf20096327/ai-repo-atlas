@@ -1,6 +1,6 @@
 # billy-enrizky/openbrowser-ai
 
-⭐ 279 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
+⭐ 279 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
 
 **LLM 写 Python 代码驱动浏览器的自动化框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "billy-enrizky/openbrowser-ai 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-14", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-11", "2026-11-14", "2026-11-28"]
     y-axis "stars" 278 --> 281
     line [279, 280, 279, 280, 279, 279]
 ```
 
-2026-10-25 279 → 2026-11-27 279（+0）
+2026-10-26 279 → 2026-11-28 279（+0）
 
 
 ---

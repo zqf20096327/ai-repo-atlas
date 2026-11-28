@@ -1,6 +1,6 @@
 # Gusion1017/WeChat-ChatBot-Mac
 
-⭐ 9 · Swift · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Gusion1017/WeChat-ChatBot-Mac) · [官网](https://github.com/Gusion1017/WeChat-ChatBot-Mac/releases/latest) · 个人维护 · 中文 README
+⭐ 9 · Swift · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Gusion1017/WeChat-ChatBot-Mac) · [官网](https://github.com/Gusion1017/WeChat-ChatBot-Mac/releases/latest) · 个人维护 · 中文 README
 
 **给 macOS 微信用户的本地 AI 聊天机器人：接入大模型自动回复**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Gusion1017/WeChat-ChatBot-Mac 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 10
     line [5, 6, 7, 8, 9, 9]
 ```
 
-2026-11-08 5 → 2026-11-27 9（+4）
+2026-11-08 5 → 2026-11-28 9（+4）
 
 
 ---

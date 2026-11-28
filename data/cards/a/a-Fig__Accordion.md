@@ -1,6 +1,6 @@
 # a-Fig/Accordion
 
-⭐ 247 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/a-Fig/Accordion) · [官网](https://get-accordion.dev) · 个人维护
+⭐ 246 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/a-Fig/Accordion) · [官网](https://get-accordion.dev) · 个人维护
 
 **pi 编码 agent 的上下文窗口可视化与折叠管理扩展**
 
@@ -45,13 +45,13 @@ Accordion 是 pi 编码 agent 的扩展，提供浏览器 UI 与 Tauri+SvelteKit
 
 ```mermaid
 xychart-beta
-    title "a-Fig/Accordion 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-01", "2026-11-10", "2026-11-27"]
+    title "a-Fig/Accordion 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-10", "2026-11-28"]
     y-axis "stars" 245 --> 248
-    line [246, 247, 246, 247, 247]
+    line [247, 246, 247, 246]
 ```
 
-2026-10-25 246 → 2026-11-27 247（+1）
+2026-10-26 247 → 2026-11-28 246（-1）
 
 
 ---

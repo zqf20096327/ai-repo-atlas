@@ -1,6 +1,6 @@
 # John201-del/phrasesplice
 
-⭐ 35 · C++ · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/John201-del/phrasesplice) · 个人维护 · 中文 README
+⭐ 56 · C++ · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/John201-del/phrasesplice) · 个人维护 · 中文 README
 
 **面向创作者的自然语言 AI 视频剪辑工作台**
 
@@ -46,13 +46,13 @@ PhraseSplice 是一个本地优先的 AI 剪辑应用：导入视频、音频、
 
 ```mermaid
 xychart-beta
-    title "John201-del/phrasesplice 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1 --> 38
-    line [5, 6, 5, 4, 18, 35]
+    title "John201-del/phrasesplice 星数(近 7 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 61
+    line [5, 6, 5, 4, 18, 35, 56]
 ```
 
-2026-11-19 5 → 2026-11-27 35（+30）
+2026-11-19 5 → 2026-11-28 56（+51）
 
 
 ---

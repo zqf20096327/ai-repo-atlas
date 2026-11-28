@@ -1,6 +1,6 @@
 # irahardianto/pi-mcp-extension
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/irahardianto/pi-mcp-extension) · [官网](https://pi.dev/packages/pi-mcp-extension) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/irahardianto/pi-mcp-extension) · [官网](https://pi.dev/packages/pi-mcp-extension) · 个人维护
 
 **为 Pi 编码代理接入任意 MCP 服务器的客户端扩展**
 
@@ -45,12 +45,12 @@ TypeScript 编写的 Model Context Protocol 客户端扩展，供 Pi coding agen
 ```mermaid
 xychart-beta
     title "irahardianto/pi-mcp-extension 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 11（+1）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

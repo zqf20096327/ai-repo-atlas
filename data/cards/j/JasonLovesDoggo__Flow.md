@@ -45,13 +45,13 @@ macOS 原生听写应用：按住 Fn 键说话，松开后文本插入光标处�
 
 ```mermaid
 xychart-beta
-    title "JasonLovesDoggo/Flow 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "JasonLovesDoggo/Flow 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

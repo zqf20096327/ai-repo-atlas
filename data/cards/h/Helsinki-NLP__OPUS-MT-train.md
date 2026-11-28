@@ -1,6 +1,6 @@
 # Helsinki-NLP/OPUS-MT-train
 
-⭐ 404 · Makefile · MIT · 推送 2026-01-17 · [GitHub](https://github.com/Helsinki-NLP/OPUS-MT-train) · 组织维护
+⭐ 405 · Makefile · MIT · 推送 2026-01-17 · [GitHub](https://github.com/Helsinki-NLP/OPUS-MT-train) · 组织维护
 
 **训练开源神经机器翻译模型的脚本与流水线（MarianNMT）**
 
@@ -44,12 +44,12 @@ Helsinki-NLP 维护的 OPUS-MT 训练包：基于 MarianNMT 与 OPUS 平行语�
 ```mermaid
 xychart-beta
     title "Helsinki-NLP/OPUS-MT-train 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 403 --> 405
-    line [404, 404]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 403 --> 406
+    line [404, 405]
 ```
 
-2026-10-25 404 → 2026-11-27 404（+0）
+2026-10-26 404 → 2026-11-28 405（+1）
 
 
 ---

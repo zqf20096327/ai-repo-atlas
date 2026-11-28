@@ -1,6 +1,6 @@
 # Mr-Dark-debug/Moonfold
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Mr-Dark-debug/Moonfold) · [官网](https://moonfold-website.vercel.app/) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Mr-Dark-debug/Moonfold) · [官网](https://moonfold-website.vercel.app/) · 个人维护
 
 **给开发者统一管理多个编码 agent 的桌面工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mr-Dark-debug/Moonfold 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-08", "2026-11-28"]
     y-axis "stars" 3 --> 7
     line [4, 5, 6, 6]
 ```
 
-2026-10-29 4 → 2026-11-27 6（+2）
+2026-10-29 4 → 2026-11-28 6（+2）
 
 
 ---

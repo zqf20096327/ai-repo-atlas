@@ -1,6 +1,6 @@
 # yysun/shiqu
 
-⭐ 5 · HTML · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/yysun/shiqu) · 个人维护 · 中文 README
+⭐ 5 · HTML · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/yysun/shiqu) · 个人维护 · 中文 README
 
 **用 AI 把中国古典故事生成连环画的本地应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yysun/shiqu 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-16", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-02 3 → 2026-11-27 5（+2）
+2026-11-02 3 → 2026-11-28 5（+2）
 
 
 ---

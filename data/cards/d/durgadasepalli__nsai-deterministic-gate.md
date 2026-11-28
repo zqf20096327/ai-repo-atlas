@@ -1,6 +1,6 @@
 # durgadasepalli/nsai-deterministic-gate
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/durgadasepalli/nsai-deterministic-gate) · 个人维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/durgadasepalli/nsai-deterministic-gate) · 个人维护
 
 **Spring Boot 库：LLM 回答在展示前按 YAML 业务规则做确定性校验**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "durgadasepalli/nsai-deterministic-gate 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

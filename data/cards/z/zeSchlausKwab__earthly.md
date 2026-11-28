@@ -1,6 +1,6 @@
 # zeSchlausKwab/earthly
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zeSchlausKwab/earthly) · [官网](https://earthly.city) · 个人维护
 
 **基于 Nostr 的协作地图编辑器，含 AI 制图助手与离线能力**
 
@@ -11,7 +11,7 @@ Earthly.city 是运行于 Web 与 Android 的协作式地图编辑器：支持�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Earthly.city 是运行于 Web 与 Android 的协作式地图编辑器：支持�
 ```mermaid
 xychart-beta
     title "zeSchlausKwab/earthly 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-26 15（+0）
+2026-10-25 15 → 2026-11-28 15（+0）
 
 
 ---

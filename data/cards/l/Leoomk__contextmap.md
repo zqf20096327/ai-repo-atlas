@@ -1,6 +1,6 @@
 # Leoomk/contextmap
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Leoomk/contextmap) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Leoomk/contextmap) · 个人维护
 
 **为 AI 编码助手提供本地 AST 代码上下文映射的 MCP 服务器**
 
@@ -39,6 +39,18 @@
 
 > L15: **ContextMap** runs **100% locally on your machine** (your code never leaves your computer), parses your codebase d
 > L55: ## 🔌 Connecting to Your AI via MCP (Cursor, Claude, Antigravity, Windsurf)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Leoomk/contextmap 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 8
+    line [4, 7]
+```
+
+2026-11-27 4 → 2026-11-28 7（+3）
 
 
 ---

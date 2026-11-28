@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaojumaoaihuaban/grok-unleashed 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "xiaojumaoaihuaban/grok-unleashed 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 88 --> 91
-    line [90, 89]
+    line [90, 89, 89]
 ```
 
-2026-10-25 90 → 2026-11-27 89（-1）
+2026-10-26 90 → 2026-11-28 89（-1）
 
 
 ---

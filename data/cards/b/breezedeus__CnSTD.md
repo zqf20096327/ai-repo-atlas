@@ -1,6 +1,6 @@
 # breezedeus/CnSTD
 
-⭐ 794 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/breezedeus/CnSTD) · [官网](https://www.breezedeus.com/article/cnocr) · 个人维护 · 中文 README
+⭐ 795 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/breezedeus/CnSTD) · [官网](https://www.breezedeus.com/article/cnocr) · 个人维护 · 中文 README
 
 **中文/英文场景文字检测、数学公式检测与版面分析的 Python 包**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "breezedeus/CnSTD 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-20", "2026-11-28"]
     y-axis "stars" 793 --> 796
-    line [794, 795, 794, 794]
+    line [794, 795, 794, 795]
 ```
 
-2026-10-25 794 → 2026-11-27 794（+0）
+2026-10-26 794 → 2026-11-28 795（+1）
 
 
 ---

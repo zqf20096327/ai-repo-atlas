@@ -41,6 +41,18 @@
 > L20: The microphone/speaker path, VAD, STT, local knowledge retrieval, LLM selection, and TTS are implemented in this MV
 > L28: - **Claude-first LLM:** Anthropic Claude 3.5 Sonnet by default; Claude 3.5 Haiku is configurable for a lower-latenc
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alirezas81/OpenVoice-CRM 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-27 5 → 2026-11-28 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `555bd159017b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # mnemosyne-systems/orangu
 
-⭐ 61 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/mnemosyne-systems/orangu) · [官网](https://mnemosyne-systems.github.io/orangu/) · 组织维护
+⭐ 61 · Rust · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/mnemosyne-systems/orangu) · [官网](https://mnemosyne-systems.github.io/orangu/) · 组织维护
 
 **全离线的终端 AI 编程环境，含自研 Rust GGUF 推理引擎**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "mnemosyne-systems/orangu 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-22", "2026-11-25", "2026-11-27"]
+    title "mnemosyne-systems/orangu 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-22", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 49 --> 62
-    line [50, 53, 54, 56, 58, 59, 60, 61]
+    line [50, 53, 54, 56, 58, 59, 60, 61, 61]
 ```
 
-2026-10-25 50 → 2026-11-27 61（+11）
+2026-10-26 50 → 2026-11-28 61（+11）
 
 
 ---

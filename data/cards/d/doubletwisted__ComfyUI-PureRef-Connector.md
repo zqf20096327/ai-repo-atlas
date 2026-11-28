@@ -45,12 +45,12 @@ ComfyUI 自定义节点插件，把内置 Save Image 节点生成的图片自动
 ```mermaid
 xychart-beta
     title "doubletwisted/ComfyUI-PureRef-Connector 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-27"]
+    x-axis ["2026-10-22", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-22 3 → 2026-11-27 3（+0）
+2026-10-22 3 → 2026-11-28 3（+0）
 
 
 ---

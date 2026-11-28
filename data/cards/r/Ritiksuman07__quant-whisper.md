@@ -1,6 +1,6 @@
 # Ritiksuman07/quant-whisper
 
-⭐ 74 · Go · MIT · 推送 2026-06-01 · [GitHub](https://github.com/Ritiksuman07/quant-whisper) · 个人维护
+⭐ 73 · Go · MIT · 推送 2026-06-01 · [GitHub](https://github.com/Ritiksuman07/quant-whisper) · 个人维护
 
 **终端原生的 Go 算法交易引擎，本地 LLM 生成交易决策**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ritiksuman07/quant-whisper 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 70 --> 75
-    line [71, 72, 71, 73, 74, 74]
+    line [71, 72, 71, 73, 74, 73]
 ```
 
-2026-10-25 71 → 2026-11-27 74（+3）
+2026-10-26 71 → 2026-11-28 73（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # zoan37/llm-verification
 
-⭐ 4 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zoan37/llm-verification) · [官网](https://zoan.space/llm-verification/) · 个人维护
+⭐ 4 · HTML · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zoan37/llm-verification) · [官网](https://zoan.space/llm-verification/) · 个人维护
 
 **审计 LLM API 端点真伪并提供可验证推理回执协议**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zoan37/llm-verification 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "zoan37/llm-verification 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

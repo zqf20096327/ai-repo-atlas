@@ -1,6 +1,6 @@
 # githubharald/SimpleHTR
 
-⭐ 2,191 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/githubharald/SimpleHTR) · [官网](https://harald-scheidl.medium.com/2326a3487cd5) · 个人维护
+⭐ 2,190 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/githubharald/SimpleHTR) · [官网](https://harald-scheidl.medium.com/2326a3487cd5) · 个人维护
 
 **基于 TensorFlow 的手写文本识别系统，输入词/行图像输出文本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "githubharald/SimpleHTR 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2190 --> 2195
-    line [2191, 2192, 2193, 2191, 2194, 2192, 2193, 2191, 2191]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2189 --> 2195
+    line [2191, 2192, 2193, 2191, 2194, 2192, 2193, 2191, 2190]
 ```
 
-2026-10-25 2,191 → 2026-11-27 2,191（+0）
+2026-10-26 2,191 → 2026-11-28 2,190（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mumuopen/ClipStream
 
-⭐ 3 · Go · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/mumuopen/ClipStream) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **无人值守直播切片流水线：自动录制高光切片并发布**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

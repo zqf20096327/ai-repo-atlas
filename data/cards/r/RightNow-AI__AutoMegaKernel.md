@@ -1,6 +1,6 @@
 # RightNow-AI/AutoMegaKernel
 
-⭐ 166 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/AutoMegaKernel) · [官网](https://runinfra.ai/) · 组织维护
+⭐ 167 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/AutoMegaKernel) · [官网](https://runinfra.ai/) · 组织维护
 
 **把模型编译为单次启动 CUDA megakernel 并自动调优的 agent harness**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "RightNow-AI/AutoMegaKernel 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 156 --> 167
-    line [157, 159, 157, 163, 166, 166]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 156 --> 168
+    line [157, 159, 157, 163, 166, 167]
 ```
 
-2026-10-25 157 → 2026-11-27 166（+9）
+2026-10-26 157 → 2026-11-28 167（+10）
 
 
 ---

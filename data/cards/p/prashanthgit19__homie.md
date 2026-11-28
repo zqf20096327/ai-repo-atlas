@@ -1,6 +1,6 @@
 # prashanthgit19/homie
 
-⭐ 25 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/prashanthgit19/homie) · 个人维护
+⭐ 25 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/prashanthgit19/homie) · 个人维护
 
 **给编码 agent 换聊天语气的插件：yo/dawg/mafa/off 四级**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "prashanthgit19/homie 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 3 --> 27
     line [5, 25, 25]
 ```
 
-2026-10-25 5 → 2026-11-27 25（+20）
+2026-10-26 5 → 2026-11-28 25（+20）
 
 
 ---

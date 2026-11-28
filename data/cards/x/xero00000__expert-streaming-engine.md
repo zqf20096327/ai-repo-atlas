@@ -47,12 +47,12 @@ Expert Streaming Engine (ESE) 提供桌面应用 ESE Studio 与命令行工具�
 ```mermaid
 xychart-beta
     title "xero00000/expert-streaming-engine 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-28"]
     y-axis "stars" 20 --> 23
     line [22, 21, 21]
 ```
 
-2026-10-25 22 → 2026-11-27 21（-1）
+2026-10-26 22 → 2026-11-28 21（-1）
 
 
 ---

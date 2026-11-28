@@ -1,6 +1,6 @@
 # JZ-Wu/ai-knowledge-base
 
-⭐ 10 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/JZ-Wu/ai-knowledge-base) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/JZ-Wu/ai-knowledge-base) · 个人维护 · 中文 README
 
 **本地 Markdown 知识库：选中即问 AI 并直接改写源文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JZ-Wu/ai-knowledge-base 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [11, 10, 10]
 ```
 
-2026-10-25 11 → 2026-11-27 10（-1）
+2026-10-26 11 → 2026-11-28 10（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mbramani/obsidian-yt-video-summarizer
 
-⭐ 44 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/mbramani/obsidian-yt-video-summarizer) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/mbramani/obsidian-yt-video-summarizer) · 个人维护
 
 **Obsidian 插件：用 LLM 为 YouTube 视频生成摘要笔记**
 
@@ -45,12 +45,12 @@ Obsidian 社区插件，提取 YouTube 视频字幕并发送给 Gemini、OpenAI�
 ```mermaid
 xychart-beta
     title "mbramani/obsidian-yt-video-summarizer 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-25 44 → 2026-11-27 44（+0）
+2026-10-26 44 → 2026-11-28 45（+1）
 
 
 ---

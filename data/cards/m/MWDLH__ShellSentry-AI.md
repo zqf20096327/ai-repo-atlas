@@ -1,6 +1,6 @@
 # MWDLH/ShellSentry-AI
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/MWDLH/ShellSentry-AI) · 组织维护 · 中文 README
+⭐ 54 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/MWDLH/ShellSentry-AI) · 组织维护 · 中文 README
 
 **恶意代码审计智能体：确定性取证+LLM定性+反证复核**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MWDLH/ShellSentry-AI 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 11 --> 56
-    line [14, 53, 53]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 10 --> 58
+    line [14, 53, 54]
 ```
 
-2026-11-02 14 → 2026-11-27 53（+39）
+2026-11-02 14 → 2026-11-28 54（+40）
 
 
 ---

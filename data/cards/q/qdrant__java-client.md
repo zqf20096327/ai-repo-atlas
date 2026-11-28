@@ -1,6 +1,6 @@
 # qdrant/java-client
 
-⭐ 100 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/qdrant/java-client) · [官网](https://qdrant.github.io/java-client) · 组织维护
+⭐ 101 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/qdrant/java-client) · [官网](https://qdrant.github.io/java-client) · 组织维护
 
 **Qdrant 向量数据库的官方 Java 客户端库**
 
@@ -45,12 +45,12 @@ Qdrant 官方维护的 Java 客户端库，通过高层 QdrantClient 封装低�
 ```mermaid
 xychart-beta
     title "qdrant/java-client 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 99 --> 102
+    line [100, 101]
 ```
 
-2026-10-25 100 → 2026-11-27 100（+0）
+2026-10-26 100 → 2026-11-28 101（+1）
 
 
 ---

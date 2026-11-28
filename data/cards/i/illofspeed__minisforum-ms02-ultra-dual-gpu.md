@@ -1,6 +1,6 @@
 # illofspeed/minisforum-ms02-ultra-dual-gpu
 
-⭐ 4 · Shell · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/illofspeed/minisforum-ms02-ultra-dual-gpu) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MS-02 Ultra 双 Blackwell GPU 装机笔记与本地 LLM 基准**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `cpu-ok` | |

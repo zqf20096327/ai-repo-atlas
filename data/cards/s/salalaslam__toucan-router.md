@@ -46,12 +46,12 @@ Toucan Router 是一个命令行路由工具，把同事通过 WhatsApp、Micros
 ```mermaid
 xychart-beta
     title "salalaslam/toucan-router 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-27"]
+    x-axis ["2026-11-14", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-14 4 → 2026-11-27 4（+0）
+2026-11-14 4 → 2026-11-28 4（+0）
 
 
 ---

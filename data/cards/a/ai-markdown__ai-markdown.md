@@ -1,6 +1,6 @@
 # ai-markdown/ai-markdown
 
-⭐ 170 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ai-markdown/ai-markdown) · [官网](https://ai-markdown.github.io/) · 组织维护 · 中文 README
+⭐ 170 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ai-markdown/ai-markdown) · [官网](https://ai-markdown.github.io/) · 组织维护 · 中文 README
 
 **AI 应用中的流式 Markdown 渲染库（React/Vue）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-markdown/ai-markdown 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 168 --> 171
     line [169, 170, 169, 170, 170]
 ```
 
-2026-10-25 169 → 2026-11-27 170（+1）
+2026-10-26 169 → 2026-11-28 170（+1）
 
 
 ---

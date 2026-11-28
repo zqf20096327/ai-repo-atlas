@@ -1,6 +1,6 @@
 # msu-video-group/memfof
 
-⭐ 110 · Python · BSD-3-Clause · 推送 2025-12-11 · [GitHub](https://github.com/msu-video-group/memfof) · [官网](https://msu-video-group.github.io/memfof/) · 组织维护
+⭐ 111 · Python · BSD-3-Clause · 推送 2025-12-11 · [GitHub](https://github.com/msu-video-group/memfof) · [官网](https://msu-video-group.github.io/memfof/) · 组织维护
 
 **面向 Full HD 视频的低显存多帧光流估计方法**
 
@@ -45,12 +45,12 @@ ICCV 2025 Highlight 论文的官方实现：多帧光流估计模型，针对 Fu
 ```mermaid
 xychart-beta
     title "msu-video-group/memfof 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 109 --> 111
-    line [110, 110]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 109 --> 112
+    line [110, 111]
 ```
 
-2026-10-25 110 → 2026-11-27 110（+0）
+2026-10-26 110 → 2026-11-28 111（+1）
 
 
 ---

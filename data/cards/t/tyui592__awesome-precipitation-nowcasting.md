@@ -1,6 +1,6 @@
 # tyui592/awesome-precipitation-nowcasting
 
-⭐ 198 · 推送 2026-11-25 · [GitHub](https://github.com/tyui592/awesome-precipitation-nowcasting) · 个人维护
+⭐ 199 · 推送 2026-11-25 · [GitHub](https://github.com/tyui592/awesome-precipitation-nowcasting) · 个人维护
 
 **降水临近预报论文与资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tyui592/awesome-precipitation-nowcasting 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 197 --> 199
-    line [198, 198]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 197 --> 200
+    line [198, 199]
 ```
 
-2026-11-26 198 → 2026-11-27 198（+0）
+2026-11-26 198 → 2026-11-28 199（+1）
 
 
 ---

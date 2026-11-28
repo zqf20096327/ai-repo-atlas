@@ -1,6 +1,6 @@
 # Weizhi-T/roadmap-for-autonomous-driving-and-robotics
 
-⭐ 3 · HTML · 推送 2026-11-15 · [GitHub](https://github.com/Weizhi-T/roadmap-for-autonomous-driving-and-robotics) · [官网](https://weizhi-t.github.io/roadmap-for-autonomous-driving-and-robotics/) · 个人维护 · 中文 README
+⭐ 3 · HTML · 推送 2026-11-27 · [GitHub](https://github.com/Weizhi-T/roadmap-for-autonomous-driving-and-robotics) · [官网](https://weizhi-t.github.io/roadmap-for-autonomous-driving-and-robotics/) · 个人维护 · 中文 README
 
 **给自动驾驶与机器人研究者用的双语交互知识地图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Weizhi-T/roadmap-for-autonomous-driving-and-robotics 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-27 3（+0）
+2026-11-11 3 → 2026-11-28 3（+0）
 
 
 ---

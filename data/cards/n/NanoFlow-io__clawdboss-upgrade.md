@@ -1,6 +1,6 @@
 # NanoFlow-io/clawdboss-upgrade
 
-⭐ 47 · Shell · 推送 2026-03-11 · [GitHub](https://github.com/NanoFlow-io/clawdboss-upgrade) · [官网](https://github.com/NanoFlow-io/clawdboss) · 组织维护
+⭐ 46 · Shell · 推送 2026-03-11 · [GitHub](https://github.com/NanoFlow-io/clawdboss-upgrade) · [官网](https://github.com/NanoFlow-io/clawdboss) · 组织维护
 
 **已有 OpenClaw 安装的非破坏性升级脚本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NanoFlow-io/clawdboss-upgrade 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 45 --> 48
+    line [47, 46]
 ```
 
-2026-10-25 47 → 2026-11-27 47（+0）
+2026-10-26 47 → 2026-11-28 46（-1）
 
 
 ---

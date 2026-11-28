@@ -1,6 +1,6 @@
 # fastai/fastkaggle
 
-⭐ 56 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/fastai/fastkaggle) · [官网](https://fastai.github.io/fastkaggle/) · 组织维护
+⭐ 57 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/fastai/fastkaggle) · [官网](https://fastai.github.io/fastkaggle/) · 组织维护
 
 **给竞赛/数据科学者的 Kaggle 工作流 Python 工具库**
 
@@ -45,12 +45,12 @@ fastai 维护的 Python 库，封装 Kaggle 竞赛与数据集常用操作：检
 ```mermaid
 xychart-beta
     title "fastai/fastkaggle 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-25 56 → 2026-11-27 56（+0）
+2026-10-26 56 → 2026-11-28 57（+1）
 
 
 ---

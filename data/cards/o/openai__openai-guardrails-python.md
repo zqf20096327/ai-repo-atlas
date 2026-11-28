@@ -1,6 +1,6 @@
 # openai/openai-guardrails-python
 
-⭐ 269 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/openai/openai-guardrails-python) · [官网](https://guardrails.openai.com) · 组织维护
+⭐ 270 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/openai/openai-guardrails-python) · [官网](https://guardrails.openai.com) · 组织维护
 
 **给 LLM 应用加可配置安全与合规检查的 Python 护栏库**
 
@@ -44,13 +44,13 @@ OpenAI 官方 Python 库（Preview 阶段），封装 OpenAI Python 客户端，
 
 ```mermaid
 xychart-beta
-    title "openai/openai-guardrails-python 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 263 --> 270
-    line [264, 265, 264, 265, 266, 267, 268, 269, 269]
+    title "openai/openai-guardrails-python 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 263 --> 271
+    line [265, 264, 265, 266, 267, 268, 269, 270]
 ```
 
-2026-10-25 264 → 2026-11-27 269（+5）
+2026-10-26 265 → 2026-11-28 270（+5）
 
 
 ---

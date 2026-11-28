@@ -1,6 +1,6 @@
 # genged/capshelf
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/genged/capshelf) · [官网](https://github.com/genged/capshelf) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/genged/capshelf) · [官网](https://github.com/genged/capshelf) · 个人维护
 
 **跨仓库共享 AI agent 技能、配置与 MCP 的版本管理 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "genged/capshelf 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-25 22 → 2026-11-27 22（+0）
+2026-10-26 22 → 2026-11-28 22（+0）
 
 
 ---

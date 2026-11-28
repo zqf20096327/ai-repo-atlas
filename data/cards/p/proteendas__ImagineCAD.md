@@ -1,6 +1,6 @@
 # proteendas/ImagineCAD
 
-⭐ 6 · Rust · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/proteendas/ImagineCAD) · 个人维护
+⭐ 7 · Rust · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/proteendas/ImagineCAD) · 个人维护
 
 **面向机械绘图者的 2D CAD，支持手绘草图照片转精确图纸**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "proteendas/ImagineCAD 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-20", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-20", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-11-10 3 → 2026-11-27 6（+3）
+2026-11-10 3 → 2026-11-28 7（+4）
 
 
 ---

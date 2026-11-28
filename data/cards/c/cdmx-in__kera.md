@@ -1,6 +1,6 @@
 # cdmx-in/kera
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/cdmx-in/kera) · [官网](https://cdmx.in) · 组织维护
+⭐ 4 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/cdmx-in/kera) · [官网](https://cdmx.in) · 组织维护
 
 **自托管团队 AI 聊天平台：一个 Go 二进制加 Postgres**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cdmx-in/kera 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-23 3 → 2026-11-27 4（+1）
+2026-11-23 3 → 2026-11-28 4（+1）
 
 
 ---

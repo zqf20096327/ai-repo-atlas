@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ganochenkodg/qdrant-operator 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    title "ganochenkodg/qdrant-operator 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 54 --> 70
-    line [55, 69, 68]
+    line [55, 69, 68, 68]
 ```
 
-2026-11-25 55 → 2026-11-27 68（+13）
+2026-11-25 55 → 2026-11-28 68（+13）
 
 
 ---

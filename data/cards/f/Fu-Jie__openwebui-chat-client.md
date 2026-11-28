@@ -45,12 +45,12 @@ openwebui-chat-client 是对接 Open WebUI API 的 Python 客户端库，面向�
 ```mermaid
 xychart-beta
     title "Fu-Jie/openwebui-chat-client 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-25 35 → 2026-11-27 35（+0）
+2026-10-26 35 → 2026-11-28 35（+0）
 
 
 ---

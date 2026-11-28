@@ -1,6 +1,6 @@
 # Fangyuan025/Chaty
 
-⭐ 58 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Fangyuan025/Chaty) · [官网](https://chaty.ca) · 个人维护 · 中文 README
+⭐ 59 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Fangyuan025/Chaty) · [官网](https://chaty.ca) · 个人维护 · 中文 README
 
 **本地开源模型桌面应用：聊天/编码代理/文生图/文生音乐/文档问答/语音**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fangyuan025/Chaty 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 53 --> 59
-    line [54, 55, 57, 54, 57, 58, 58]
+    title "Fangyuan025/Chaty 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 53 --> 60
+    line [55, 57, 54, 57, 58, 59]
 ```
 
-2026-10-25 54 → 2026-11-27 58（+4）
+2026-10-26 55 → 2026-11-28 59（+4）
 
 
 ---

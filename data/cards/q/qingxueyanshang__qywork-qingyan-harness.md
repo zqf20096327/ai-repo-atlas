@@ -1,6 +1,6 @@
 # qingxueyanshang/qywork-qingyan-harness
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/qingxueyanshang/qywork-qingyan-harness) · [官网](https://qywork.io) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/qingxueyanshang/qywork-qingyan-harness) · [官网](https://qywork.io) · 个人维护 · 中文 README
 
 **给开发者的多模型多 Agent 协作桌面工作台（Agent Harness）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "qingxueyanshang/qywork-qingyan-harness 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "qingxueyanshang/qywork-qingyan-harness 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 20 --> 24
-    line [21, 23]
+    line [21, 23, 23]
 ```
 
-2026-11-26 21 → 2026-11-27 23（+2）
+2026-11-26 21 → 2026-11-28 23（+2）
 
 
 ---

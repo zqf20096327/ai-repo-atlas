@@ -1,6 +1,6 @@
 # DarioFT/ComfyUI-Qwen3-TTS
 
-⭐ 318 · Python · 推送 2026-02-09 · [GitHub](https://github.com/DarioFT/ComfyUI-Qwen3-TTS) · [官网](https://github.com/QwenLM/Qwen3-TTS) · 个人维护
+⭐ 319 · Python · 推送 2026-02-09 · [GitHub](https://github.com/DarioFT/ComfyUI-Qwen3-TTS) · [官网](https://github.com/QwenLM/Qwen3-TTS) · 个人维护
 
 **ComfyUI 的 Qwen3-TTS 语音合成节点套件，支持音色克隆与微调**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DarioFT/ComfyUI-Qwen3-TTS 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 314 --> 319
-    line [315, 316, 315, 318, 317, 316, 317, 318, 317, 318]
+    title "DarioFT/ComfyUI-Qwen3-TTS 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 314 --> 320
+    line [315, 316, 315, 318, 317, 316, 317, 318, 317, 318, 319]
 ```
 
-2026-10-25 315 → 2026-11-27 318（+3）
+2026-10-26 315 → 2026-11-28 319（+4）
 
 
 ---

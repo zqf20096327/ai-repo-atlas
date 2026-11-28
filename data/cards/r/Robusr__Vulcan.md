@@ -1,6 +1,6 @@
 # Robusr/Vulcan
 
-⭐ 26 · C# · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Robusr/Vulcan) · 个人维护 · 中文 README
+⭐ 26 · C# · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Robusr/Vulcan) · 个人维护 · 中文 README
 
 **SolidWorks AI 插件：自然语言生成可编辑参数化特征**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Robusr/Vulcan 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-25", "2026-11-28"]
     y-axis "stars" 23 --> 27
     line [24, 25, 26, 26]
 ```
 
-2026-10-25 24 → 2026-11-27 26（+2）
+2026-10-26 24 → 2026-11-28 26（+2）
 
 
 ---

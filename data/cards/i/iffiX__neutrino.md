@@ -1,6 +1,6 @@
 # iffiX/neutrino
 
-⭐ 72 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iffiX/neutrino) · [官网](https://neutrinohub.net/) · 个人维护 · 中文 README
+⭐ 140 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/iffiX/neutrino) · [官网](https://neutrinohub.net/) · 个人维护 · 中文 README
 
 **在个人电脑上一键部署 AI 应用并远程访问的面板**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "iffiX/neutrino 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 70 --> 73
-    line [71, 72]
+    title "iffiX/neutrino 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 65 --> 146
+    line [71, 72, 140]
 ```
 
-2026-11-26 71 → 2026-11-27 72（+1）
+2026-11-26 71 → 2026-11-28 140（+69）
 
 
 ---

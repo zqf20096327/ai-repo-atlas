@@ -1,10 +1,10 @@
 # juyterman1000/entroly
 
-⭐ 489 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/juyterman1000/entroly) · [官网](https://juyterman1000.github.io/entroly/docs/index.html) · 个人维护 · 中文 README
+⭐ 489 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/juyterman1000/entroly) · [官网](https://juyterman1000.github.io/entroly/docs/index.html) · 个人维护
 
-**给 AI 编码工具提供可审计、可恢复的上下文压缩层**
+**为编码 agent 与 LLM 应用做上下文预算与来源校验的本地工具**
 
-Entroly 是本地优先的 AI token 效率与上下文保障层：在 token 预算内选择证据、省略内容保留可恢复句柄、每次选择生成可审计的 receipt。接入方式包括 VS Code/Claude Code/Cursor/Codex 等宿主的 prompt hook、MCP 工具、SDK 调用、本地代理（改写 ANTHROPIC/OPENAI/GEMINI base URL 指向 localhost:9377），以及跨 agent 会话恢复（entroly-work resume）。本地验证命令无需 API key；恢复的完整性依赖本地存储的源字节仍可用。
+Entroly 定位为本地优先的上下文保障与 token 效率工具：在 token 预算内筛选证据并记录保留/省略清单，凭 receipt 从本地内容寻址存储恢复被省略的原始字节，用 WITNESS 标记无来源支撑的声明，并支持跨 agent 恢复未完成工作。通过 pip/npm/brew/docker 及 Rust 源码构建分发，提供 SDK、CLI、代理、MCP 与编辑器插件等接入面；本地检查无需 API key。源码恢复对代码/文档仅返回省略部分而非完整原文。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@ Entroly 是本地优先的 AI token 效率与上下文保障层：在 token 预�
 
 ## 能力要点
 
-- 每条压缩附 receipt：记录保留、省略内容与恢复句柄
-- 本地验证命令 verify-claims/simulate 无需 API key
-- 多接入面：pip/npm/brew/Docker/Rust 源码构建、MCP、代理、SDK
-- 长会话逼近上下文上限时在代理侧自动压缩（rescue_session）
+- token 预算内证据选择，receipt 记录保留与省略内容
+- verify-claims 本地校验答案是否与来源一致，无需 API key
+- entroly-work resume 从仓库证据重建跨 agent 未完成任务
+- 代理路径自动压缩逼近上下文上限的长会话，前缀字节稳定
 
 ## 适用场景
 
-- 降低 AI 编码助手的输入 token 成本
-- 在多个编码 agent 之间切换时恢复未完成工作
-- 在接付费 API 前先在自己仓库上本地模拟压缩效果
-- 要求每次上下文删减都有凭据可审计的团队
+- 把关键代码塞进 agent 的上下文预算并保留恢复凭据
+- 拦截 API 流量压缩请求以减少模型输入 token
+- 中途换用另一个编码 agent 时恢复未完成的工作状态
+- 校验 AI 回答中的声明是否有源码依据
 
 ## 场景标签
 
- · 领域:开发者工具/LLM 基础设施
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L12:  Entroly is an open-source, local-first AI token-efficiency and Context Assurance layer: budgeted evidence selectio
-> L33: Entroly is a local-first context control plane for AI coding tools. It selects
-> L137: |**"I have an API key and my own app."** *(proxy user)*|`entroly proxy` → point `ANTHROPIC_BASE_URL` / `OPENAI_BAS
+> L36: Entroly provides context assurance and token-efficiency tooling for AI coding
+> L149: |**"I have an API key and my own app."** *(proxy user)*|`entroly proxy` → point `ANTHROPIC_BASE_URL` / `OPENAI_BAS
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "juyterman1000/entroly 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-27"]
+    title "juyterman1000/entroly 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-28"]
     y-axis "stars" 478 --> 490
-    line [479, 480, 483, 479, 483, 485, 486, 488, 489, 489]
+    line [480, 483, 479, 483, 485, 486, 488, 489, 489]
 ```
 
-2026-10-25 479 → 2026-11-27 489（+10）
+2026-10-26 480 → 2026-11-28 489（+9）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `cd04ffbac096` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `f5c814bb4e69` · [字段定义](../../DATASET.md)*

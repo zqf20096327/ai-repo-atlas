@@ -1,6 +1,6 @@
 # Johnny008-creator/nox-local
 
-⭐ 5 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Johnny008-creator/nox-local) · 个人维护
+⭐ 6 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Johnny008-creator/nox-local) · 个人维护
 
 **本地终端编码 agent：驱动 llama.cpp 在自有 GPU 上离线写代码**
 
@@ -46,12 +46,12 @@ Go 编写的终端 TUI 编码 agent，直接驱动 llama.cpp（Vulkan）运行�
 ```mermaid
 xychart-beta
     title "Johnny008-creator/nox-local 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-18 4 → 2026-11-27 5（+1）
+2026-11-18 4 → 2026-11-28 6（+2）
 
 
 ---

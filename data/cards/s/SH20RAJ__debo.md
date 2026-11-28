@@ -41,6 +41,18 @@
 > L76: MCP server ── authorized context for compatible AI clients
 > L84: |Agent orchestration|LangGraph JS|Typed state graph and bounded tool routing|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SH20RAJ/debo 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-27 23 → 2026-11-28 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `cf8588d2b75e` · [字段定义](../../DATASET.md)*

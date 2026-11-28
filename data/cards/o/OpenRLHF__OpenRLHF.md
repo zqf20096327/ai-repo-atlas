@@ -1,10 +1,10 @@
 # OpenRLHF/OpenRLHF
 
-⭐ 10,183 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/OpenRLHF/OpenRLHF) · [官网](https://openrlhf.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 10,185 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/OpenRLHF/OpenRLHF) · [官网](https://openrlhf.readthedocs.io/) · 组织维护 · 中文 README
 
-**基于 Ray+vLLM 的 RLHF 训练框架：为研究者提供 RL 训练全流程**
+**面向研究者的基于 Ray+vLLM 的 RLHF 训练框架**
 
-以 Ray 为分布式调度、vLLM 为推理引擎、DeepSpeed 为显存优化基础的 RLHF 训练框架，将 Actor/Reward/Reference/Critic 模型分布在不同 GPU 上，支持 70B+ 参数模型训练。实现 PPO、REINFORCE++、GRPO、RLOO 等算法，并通过统一的 AgentExecutorBase 接口提供单轮/多轮 agent 执行模式，算法与执行模式可自由组合。覆盖 SFT、DPO、奖励模型训练与 VLM RLHF，支持 LoRA、MoE、多节点 SLURM 训练。
+OpenRLHF 是基于 Ray 与 vLLM 分布式架构的 RLHF 训练框架，将 Actor/Reward/Reference/Critic 模型分置于不同 GPU，并通过混合引擎调度共享 GPU 资源。采用统一的 agent 执行管线（token-in-token-out），实现 PPO、REINFORCE++、GRPO、RLOO、FlashREINFORCE 等算法与单轮/多轮执行模式的解耦。支持 SFT、DPO、奖励模型训练、VLM RLHF、LoRA/QLoRA、MoE、多节点 SLURM 训练。面向需要训练和对齐大语言模型的研究者与工程师。
 
 ## 筛选速览
 
@@ -16,44 +16,44 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- Ray+vLLM 分布式架构，混合引擎调度共享 GPU 资源
-- PPO/REINFORCE++/GRPO/RLOO/FlashREINFORCE 多算法实现
-- 统一 AgentExecutorBase 接口，单轮/多轮 agent 执行模式
-- 支持 VLM RLHF、LoRA/QLoRA、MoE、多节点 SLURM 训练
+- 基于 Ray+vLLM+DeepSpeed 的分布式 RLHF 训练架构，支持 70B+ 参数模型
+- 统一 agent 执行范式：token-in-token-out，单轮/多轮模式与 RL 算法正交解耦
+- 实现 PPO、REINFORCE++、GRPO、RLOO、FlashREINFORCE 等多种 RL 算法
+- 支持 VLM RLHF、LoRA/QLoRA、MoE、异步训练与 DAPO 动态过滤
 
 ## 适用场景
 
-- 对大语言模型做 PPO/REINFORCE++ 等 RLHF 训练
-- 为推理模型做多轮 agent RL 训练与自定义奖励函数
-- 训练视觉语言模型的偏好对齐
-- 科研复现 DeepSeek-R1 类推理模型训练
+- 对大语言模型做 RLHF/DPO 对齐训练
+- 训练推理模型（RLVR 场景，REINFORCE++-baseline）
+- 带图像反馈的多轮 VLM 强化学习训练
+- 构建基于 OpenAI 兼容服务器的 agentic RL 训练流程
 
 ## 场景标签
 
-`强化学习` `微调` · 领域:训练与推理
+`微调` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L26: OpenRLHF is **the first** high-performance, production-ready open-source RLHF framework that combines **Ray + vLLM 
-> L37: - 🚀 RL Algorithms - PPO, REINFORCE++, GRPO, RLOO
-> L153: OpenRLHF provides a complete RLHF pipeline with agent-based flexibility:
+> L68: ## 🏗️ Architecture Foundation: Ray + vLLM Distribution
+> L133: OpenRLHF implements **PPO, REINFORCE++, REINFORCE++-baseline, GRPO, RLOO** with advanced optimization tricks inspi
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "OpenRLHF/OpenRLHF 星数(近 26 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 10109 --> 10189
-    line [10115, 10118, 10120, 10121, 10124, 10127, 10130, 10131, 10134, 10115, 10146, 10148, 10149, 10151, 10153, 10157, 10160, 10164, 10167, 10170, 10172, 10173, 10174, 10178, 10182, 10183]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 10108 --> 10192
+    line [10118, 10120, 10121, 10124, 10127, 10130, 10131, 10134, 10115, 10146, 10148, 10149, 10151, 10153, 10157, 10160, 10164, 10167, 10170, 10172, 10173, 10174, 10178, 10182, 10183, 10185]
 ```
 
-2026-10-25 10,115 → 2026-11-27 10,183（+68）
+2026-10-26 10,118 → 2026-11-28 10,185（+67）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8f891564518d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `13ffc38aa355` · [字段定义](../../DATASET.md)*

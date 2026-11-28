@@ -1,6 +1,6 @@
 # appatalks/Synapse
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/appatalks/Synapse) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/appatalks/Synapse) · 个人维护
 
 **在本地硬件上运行 MoE 开放权重模型的桌面应用**
 
@@ -47,12 +47,12 @@ SYNAPSE 将本地聊天、模型控制、硬件监控与 OpenAI 兼容 API 集�
 ```mermaid
 xychart-beta
     title "appatalks/Synapse 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-27 3（+0）
+2026-11-20 3 → 2026-11-28 3（+0）
 
 
 ---

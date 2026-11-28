@@ -1,6 +1,6 @@
 # rustytensor/pi-thinking-steps
 
-⭐ 142 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rustytensor/pi-thinking-steps) · [官网](https://www.npmjs.com/package/pi-thinking-steps) · 个人维护
+⭐ 143 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rustytensor/pi-thinking-steps) · [官网](https://www.npmjs.com/package/pi-thinking-steps) · 个人维护
 
 **Pi 终端扩展：以三种模式结构化展示模型推理步骤**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rustytensor/pi-thinking-steps 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 137 --> 143
-    line [138, 139, 138, 139, 140, 142, 142]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 137 --> 144
+    line [138, 139, 138, 139, 140, 142, 143]
 ```
 
-2026-10-25 138 → 2026-11-27 142（+4）
+2026-10-26 138 → 2026-11-28 143（+5）
 
 
 ---

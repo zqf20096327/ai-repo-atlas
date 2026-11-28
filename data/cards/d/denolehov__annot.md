@@ -1,6 +1,6 @@
 # denolehov/annot
 
-⭐ 18 · Rust · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/denolehov/annot) · 个人维护
+⭐ 18 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/denolehov/annot) · 个人维护
 
 **给人机协同 AI 工作流的结构化标注审核工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "denolehov/annot 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    title "denolehov/annot 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 15 --> 19
-    line [16, 17, 16, 17, 18, 18]
+    line [17, 16, 17, 18, 18]
 ```
 
-2026-10-25 16 → 2026-11-27 18（+2）
+2026-10-26 17 → 2026-11-28 18（+1）
 
 
 ---

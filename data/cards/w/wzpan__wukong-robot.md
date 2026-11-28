@@ -1,6 +1,6 @@
 # wzpan/wukong-robot
 
-⭐ 7,139 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/wzpan/wukong-robot) · [官网](https://wukong.hahack.com/) · 个人维护 · 中文 README
+⭐ 7,140 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/wzpan/wukong-robot) · [官网](https://wukong.hahack.com/) · 个人维护 · 中文 README
 
 **面向 Maker 的中文语音对话机器人/智能音箱项目**
 
@@ -40,6 +40,18 @@ wukong-robot 是一个中文语音对话机器人/智能音箱项目，面向想
 
 > L7:  wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，目的是让中国的 Maker 和 Haker 们也能快速打造个性化的智能音箱。wukong-robot 还可能是第一个开源的脑机唤醒智能音箱。
 > L39: wukong-robot 被唤醒后，用户的语音指令先经过 ASR 引擎进行 ASR 识别成文本，然后对识别到的文本进行 NLU 解析，再将解析结果进行技能匹配，交给适合处理该指令的技能插件去处理。插件处理完成后，得到的结果再交给 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wzpan/wukong-robot 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 7138 --> 7141
+    line [7139, 7140]
+```
+
+2026-11-27 7,139 → 2026-11-28 7,140（+1）
 
 
 ---

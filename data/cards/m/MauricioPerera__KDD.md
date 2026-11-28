@@ -1,6 +1,6 @@
 # MauricioPerera/KDD
 
-⭐ 12 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/MauricioPerera/KDD) · [官网](https://mauricioperera.github.io/KDD/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/MauricioPerera/KDD) · [官网](https://mauricioperera.github.io/KDD/) · 个人维护
 
 **面向 AI agent 开发流程的契约治理模板仓库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MauricioPerera/KDD 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

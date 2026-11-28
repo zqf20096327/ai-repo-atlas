@@ -45,13 +45,13 @@ CTV 面向想为自己的 Web 应用制作演示或宣传视频的开发者：LL
 
 ```mermaid
 xychart-beta
-    title "Anatomik5/codetovideo 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "Anatomik5/codetovideo 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 14
-    line [10, 13]
+    line [10, 13, 13]
 ```
 
-2026-11-26 10 → 2026-11-27 13（+3）
+2026-11-26 10 → 2026-11-28 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # tinovyatkin/amazon-bedrock-copilot-chat
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tinovyatkin/amazon-bedrock-copilot-chat) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/tinovyatkin/amazon-bedrock-copilot-chat) · 个人维护
 
 **把 Amazon Bedrock 模型接入 GitHub Copilot Chat 的 VSCode 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tinovyatkin/amazon-bedrock-copilot-chat 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-25 33 → 2026-11-27 33（+0）
+2026-10-26 33 → 2026-11-28 33（+0）
 
 
 ---

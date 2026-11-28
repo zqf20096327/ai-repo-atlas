@@ -46,12 +46,12 @@ GetLoopLoop 发布的 SKILL.md 格式 agent 技能，核心为 vectorscope：对
 ```mermaid
 xychart-beta
     title "Olexan-art/getlooploop-skills 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # castacks/AirStack
 
-⭐ 100 · C++ · BSD-3-Clause-Clear · 推送 2026-11-26 · [GitHub](https://github.com/castacks/AirStack) · [官网](http://docs.theairlab.org/) · 组织维护
+⭐ 100 · C++ · BSD-3-Clause-Clear · 推送 2026-11-27 · [GitHub](https://github.com/castacks/AirStack) · [官网](http://docs.theairlab.org/) · 组织维护
 
 **面向无人机自主飞行的 ROS 2 开源栈，sim-to-real 一体部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "castacks/AirStack 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 93 --> 101
     line [94, 95, 94, 99, 100, 100]
 ```
 
-2026-10-25 94 → 2026-11-27 100（+6）
+2026-10-26 94 → 2026-11-28 100（+6）
 
 
 ---

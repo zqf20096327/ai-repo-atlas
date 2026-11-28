@@ -1,6 +1,6 @@
 # charent/ChatLM-mini-Chinese
 
-⭐ 1,738 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/charent/ChatLM-mini-Chinese) · 个人维护 · 中文 README
+⭐ 1,739 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/charent/ChatLM-mini-Chinese) · 个人维护 · 中文 README
 
 **从零训练中文对话0.2B小模型的全流程开源项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "charent/ChatLM-mini-Chinese 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
-    y-axis "stars" 1737 --> 1739
-    line [1738, 1738]
+    x-axis ["2026-11-23", "2026-11-28"]
+    y-axis "stars" 1737 --> 1740
+    line [1738, 1739]
 ```
 
-2026-11-23 1,738 → 2026-11-27 1,738（+0）
+2026-11-23 1,738 → 2026-11-28 1,739（+1）
 
 
 ---

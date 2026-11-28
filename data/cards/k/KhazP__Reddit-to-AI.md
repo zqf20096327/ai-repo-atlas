@@ -1,6 +1,6 @@
 # KhazP/Reddit-to-AI
 
-⭐ 12 · JavaScript · MPL-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/KhazP/Reddit-to-AI) · [官网](https://chromewebstore.google.com/detail/reddit-to-ai/bicbjlpilomgienlbifkjbmkenecelcn) · 个人维护
+⭐ 11 · JavaScript · MPL-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/KhazP/Reddit-to-AI) · [官网](https://chromewebstore.google.com/detail/reddit-to-ai/bicbjlpilomgienlbifkjbmkenecelcn) · 个人维护
 
 **浏览器扩展：抓取 Reddit 帖子并送入 AI 聊天界面分析**
 
@@ -46,12 +46,12 @@ Manifest V3 浏览器扩展（Chrome 与 Firefox 121+），抓取 Reddit 帖子�
 ```mermaid
 xychart-beta
     title "KhazP/Reddit-to-AI 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-19", "2026-11-28"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    line [10, 11, 12, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 12（+2）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

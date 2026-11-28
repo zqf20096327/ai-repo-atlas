@@ -1,6 +1,6 @@
 # joshrotenberg/tower-mcp
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/joshrotenberg/tower-mcp) · [官网](https://docs.rs/tower-mcp) · 个人维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/joshrotenberg/tower-mcp) · [官网](https://docs.rs/tower-mcp) · 个人维护
 
 **基于 Tower 的 Rust MCP 协议实现库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joshrotenberg/tower-mcp 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-16", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-16", "2026-11-26", "2026-11-28"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 13, 13]
 ```
 
-2026-10-25 12 → 2026-11-27 13（+1）
+2026-10-26 12 → 2026-11-28 13（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # verirelay/verirelay
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/verirelay/verirelay) · [官网](https://verirelay.com) · 组织维护 · 中文 README
+⭐ 14 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/verirelay/verirelay) · [官网](https://verirelay.com) · 组织维护 · 中文 README
 
 **给 API 转发链路生成可验证回执的透明中继代理**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "verirelay/verirelay 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-27"]
+    title "verirelay/verirelay 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-27", "2026-11-28"]
     y-axis "stars" 3 --> 15
-    line [4, 12, 13, 14, 13]
+    line [4, 12, 13, 14, 13, 14]
 ```
 
-2026-11-18 4 → 2026-11-27 13（+9）
+2026-11-18 4 → 2026-11-28 14（+10）
 
 
 ---

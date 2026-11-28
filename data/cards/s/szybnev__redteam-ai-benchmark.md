@@ -1,6 +1,6 @@
 # szybnev/redteam-ai-benchmark
 
-⭐ 18 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/szybnev/redteam-ai-benchmark) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/szybnev/redteam-ai-benchmark) · 个人维护
 
 **评估 LLM 红队/攻防安全问答能力的 CLI 基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "szybnev/redteam-ai-benchmark 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 17, 18, 18]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19]
 ```
 
-2026-10-25 17 → 2026-11-27 18（+1）
+2026-10-26 17 → 2026-11-28 19（+2）
 
 
 ---

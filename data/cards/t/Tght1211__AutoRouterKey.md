@@ -1,6 +1,6 @@
 # Tght1211/AutoRouterKey
 
-⭐ 20 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/Tght1211/AutoRouterKey) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/Tght1211/AutoRouterKey) · 个人维护 · 中文 README
 
 **自动化批量注册 Outlook 与 OpenRouter 账号并创建 API Key 的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tght1211/AutoRouterKey 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 20, 20]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 18 --> 22
+    line [20, 21, 20, 19]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 19（-1）
 
 
 ---

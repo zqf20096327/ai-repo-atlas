@@ -1,6 +1,6 @@
 # youssefvdel/point-here
 
-⭐ 3 · 推送 2026-11-10 · [GitHub](https://github.com/youssefvdel/point-here) · 个人维护
+⭐ 4 · 推送 2026-11-10 · [GitHub](https://github.com/youssefvdel/point-here) · 个人维护
 
 **给 AI 编程 agent 的技能与工具指针清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "youssefvdel/point-here 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-10", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-10 3 → 2026-11-27 3（+0）
+2026-11-10 3 → 2026-11-28 4（+1）
 
 
 ---

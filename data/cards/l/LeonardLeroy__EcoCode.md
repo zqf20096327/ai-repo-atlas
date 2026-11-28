@@ -1,6 +1,6 @@
 # LeonardLeroy/EcoCode
 
-⭐ 21 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/LeonardLeroy/EcoCode) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/LeonardLeroy/EcoCode) · 个人维护
 
 **离线运行的 Python 代码能耗/性能剖析 CLI，可选 AI 优化建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LeonardLeroy/EcoCode 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 19 --> 22
+    line [21, 20]
 ```
 
-2026-10-25 21 → 2026-11-27 21（+0）
+2026-10-26 21 → 2026-11-28 20（-1）
 
 
 ---

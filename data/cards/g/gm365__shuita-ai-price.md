@@ -1,6 +1,6 @@
 # gm365/shuita-ai-price
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gm365/shuita-ai-price) · [官网](https://shuita.xyz) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/gm365/shuita-ai-price) · [官网](https://shuita.xyz) · 个人维护 · 中文 README
 
 **给 AI 助手查询国内渠道 AI 订阅实时价格的 MCP 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gm365/shuita-ai-price 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-20 3 → 2026-11-27 5（+2）
+2026-11-20 3 → 2026-11-28 5（+2）
 
 
 ---

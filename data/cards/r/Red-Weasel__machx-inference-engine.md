@@ -1,6 +1,6 @@
 # Red-Weasel/machx-inference-engine
 
-⭐ 13 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Red-Weasel/machx-inference-engine) · 个人维护
+⭐ 13 · C++ · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Red-Weasel/machx-inference-engine) · 个人维护
 
 **面向 Intel Arc GPU 的本地 LLM 推理引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Red-Weasel/machx-inference-engine 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-20", "2026-11-28"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-11-08 11 → 2026-11-27 13（+2）
+2026-11-08 11 → 2026-11-28 13（+2）
 
 
 ---

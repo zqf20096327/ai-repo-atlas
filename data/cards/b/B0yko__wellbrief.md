@@ -1,6 +1,6 @@
 # B0yko/wellbrief
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/B0yko/wellbrief) · [官网](https://boiko.ai/work/wellbrief/) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/B0yko/wellbrief) · [官网](https://boiko.ai/work/wellbrief/) · 个人维护
 
 **给钻井工程师的离线问答工具：引用逐字核验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "B0yko/wellbrief 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-27"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-11-21", "2026-11-28"]
+    y-axis "stars" 11 --> 14
+    line [13, 12]
 ```
 
-2026-11-21 13 → 2026-11-27 13（+0）
+2026-11-21 13 → 2026-11-28 12（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # imprvhub/mcp-claude-spotify
 
-⭐ 54 · TypeScript · MPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/imprvhub/mcp-claude-spotify) · 个人维护
+⭐ 55 · TypeScript · MPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/imprvhub/mcp-claude-spotify) · 个人维护
 
 **让 Claude Desktop 通过 MCP 操作 Spotify 的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imprvhub/mcp-claude-spotify 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 55]
 ```
 
-2026-10-25 53 → 2026-11-27 54（+1）
+2026-10-26 53 → 2026-11-28 55（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # chryzxc/herm
 
-⭐ 55 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/chryzxc/herm) · [官网](https://herm-desktop.vercel.app) · 个人维护
+⭐ 56 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/chryzxc/herm) · [官网](https://herm-desktop.vercel.app) · 个人维护
 
 **macOS 原生前端：以刘海槽常驻查看和操控 Hermes Agent**
 
@@ -45,13 +45,13 @@ Herm 是 Hermes Agent 的非官方原生 macOS 前端，基于 SwiftUI/AppKit �
 
 ```mermaid
 xychart-beta
-    title "chryzxc/herm 星数(近 9 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 6 --> 59
-    line [10, 34, 46, 49, 50, 51, 52, 53, 55]
+    title "chryzxc/herm 星数(近 10 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 6 --> 60
+    line [10, 34, 46, 49, 50, 51, 52, 53, 55, 56]
 ```
 
-2026-11-13 10 → 2026-11-27 55（+45）
+2026-11-13 10 → 2026-11-28 56（+46）
 
 
 ---

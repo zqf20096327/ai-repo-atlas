@@ -1,6 +1,6 @@
 # skyfireitdiy/Jarvis
 
-⭐ 155 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/skyfireitdiy/Jarvis) · 组织维护 · 中文 README
+⭐ 155 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/skyfireitdiy/Jarvis) · 组织维护 · 中文 README
 
 **面向开发者的本地协作式多 Agent AI 开发平台**
 
@@ -46,13 +46,13 @@ Jarvis 是以 CLI、Web 网关和 Python SDK 三种方式访问的协作式 AI �
 
 ```mermaid
 xychart-beta
-    title "skyfireitdiy/Jarvis 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    title "skyfireitdiy/Jarvis 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 150 --> 156
-    line [151, 152, 154, 151, 154, 155, 155]
+    line [152, 154, 151, 154, 155, 155]
 ```
 
-2026-10-25 151 → 2026-11-27 155（+4）
+2026-10-26 152 → 2026-11-28 155（+3）
 
 
 ---

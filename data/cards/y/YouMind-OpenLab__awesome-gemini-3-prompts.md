@@ -1,10 +1,10 @@
 # YouMind-OpenLab/awesome-gemini-3-prompts
 
-⭐ 527 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护
+⭐ 527 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护 · 中文 README
 
-**面向 Gemini 3 用户的社区创意提示词精选清单（49 条）**
+**Gemini 3 创意提示词合集：49 条精选 prompt 供复用**
 
-收录社区来源 Gemini 3 创意提示词的清单仓库，按发布日期排列，共 49 条，每条含描述、提示词正文、示例图片与作者/来源信息。提供 12 种语言的 README 版本，并可在 youmind.com 网页画廊以瀑布流、全文搜索与 AI 一键生成方式浏览。部分提示词支持 Raycast Snippets 动态参数语法。提示词来自社区收集，仅供教育目的，仓库以 CC BY 4.0 许可发布。
+面向 Google Gemini 3 模型的社区提示词策展仓库：收录 49 条来自 Twitter 等来源的 prompt，每条附描述、可复制文本、示例效果图与作者出处，覆盖网页设计、SVG 图标生成、3D 场景等用途。提供 12 种语言版本 README，部分 prompt 使用 Raycast Snippets 动态参数语法以便快速替换变量；另有 youmind.com 网页画廊支持搜索与 AI 一键生成。许可为 CC BY 4.0，prompt 收录出于教育目的并设侵权移除机制。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 收录 49 条社区来源的 Gemini 3 提示词，含示例图与作者出处
-- 支持 Raycast Snippets 动态参数语法的提示词条目
-- 提供 youmind.com 网页画廊：瀑布流布局、全文搜索、AI 一键生成
-- README 提供 12 种语言版本
+- 收录 49 条 Gemini 3 社区 prompt，附示例图与作者出处
+- 部分 prompt 支持 Raycast Snippets 动态参数语法
+- 提供 12 种语言版本 README 与网页画廊浏览方式
 
 ## 适用场景
 
-- 查找网页/落地页/图标生成类 Gemini 3 提示词参考
-- 在 Raycast 中通过动态参数快速复用提示词
-- 在网页画廊中按效果图浏览筛选提示词
+- 为 Gemini 3 网页/图标生成任务寻找现成 prompt 模板
+- 参考社区 prompt 的写法与结构
+- 通过 Raycast 动态参数快速迭代 prompt 变量
 
 ## 场景标签
 
@@ -46,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "YouMind-OpenLab/awesome-gemini-3-prompts 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 521 --> 529
     line [522, 523, 522, 523, 522, 523, 522, 524, 525, 526, 527, 528, 527, 527]
 ```
 
-2026-10-25 522 → 2026-11-27 527（+5）
+2026-10-26 522 → 2026-11-28 527（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `04843bc72acf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `04e39ccf34e2` · [字段定义](../../DATASET.md)*

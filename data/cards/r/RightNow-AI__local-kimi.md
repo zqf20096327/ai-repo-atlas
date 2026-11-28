@@ -1,6 +1,6 @@
 # RightNow-AI/local-kimi
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/local-kimi) · [官网](https://runinfra.ai) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/local-kimi) · [官网](https://runinfra.ai) · 组织维护
 
 **在单张 32GB GPU 上本地服务 Kimi-Linear-48B 的引擎与协议适配层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RightNow-AI/local-kimi 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 40 --> 47
-    line [41, 42, 43, 41, 45, 46, 46]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 40 --> 48
+    line [41, 42, 43, 41, 45, 46, 47]
 ```
 
-2026-10-25 41 → 2026-11-27 46（+5）
+2026-10-26 41 → 2026-11-28 47（+6）
 
 
 ---

@@ -41,6 +41,18 @@
 > L5: CrystalDust V0 is a TypeScript WhatsApp hybrid bot. It connects to a normal
 > L6: WhatsApp account through WhatsApp Web/Baileys, then lets that account keep being
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CrystalDustt-V2/Whatsapp-Bot 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `de2d96fb48fe` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # AlexanderDetkov/droid
 
-⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AlexanderDetkov/droid) · [官网](https://alexanderdetkov.github.io/droid/) · 个人维护
+⭐ 56 · Kotlin · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AlexanderDetkov/droid) · [官网](https://alexanderdetkov.github.io/droid/) · 个人维护
 
 **在 Android 手机上替你操作应用的 AI agent**
 
@@ -40,6 +40,18 @@
 > L3:  An AI that uses your apps for you.
 > L15: - **Uses your apps.** It taps and types the way you do, on a screen of its own, so it works with almost any app.
 > L20: - **Your choice of AI.** Free models with no account, your ChatGPT account, or a Claude plan.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AlexanderDetkov/droid 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 60
+    line [14, 56]
+```
+
+2026-11-27 14 → 2026-11-28 56（+42）
 
 
 ---

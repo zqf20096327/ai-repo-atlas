@@ -43,12 +43,12 @@ Pl@ntNet 维护的 GeoLifeCLEF 竞赛配套工具库：提供访问竞赛数据�
 ```mermaid
 xychart-beta
     title "plantnet/GeoLifeCLEF 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-25 59 → 2026-11-27 59（+0）
+2026-10-26 59 → 2026-11-28 59（+0）
 
 
 ---

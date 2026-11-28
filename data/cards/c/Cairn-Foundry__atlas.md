@@ -1,6 +1,6 @@
 # Cairn-Foundry/atlas
 
-⭐ 5 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Cairn-Foundry/atlas) · 个人维护
+⭐ 5 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Cairn-Foundry/atlas) · 个人维护
 
 **给开发者编排与监督多个 Claude Code 编码 agent 的桌面工厂**
 
@@ -40,6 +40,18 @@
 > L3: A factory of Claude Code agents, supervised by an orchestrating AI and steered by the master (you).
 > L9: a local MCP server. The orchestrator does not do the work: it assembles, follows, restarts, and
 > L19: - Claude Code installed and signed in to your subscription (`claude`); no API key is used
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Cairn-Foundry/atlas 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-27 5 → 2026-11-28 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Francis1998/agentic-career-search
 
-⭐ 102 · Python · 推送 2026-11-22 · [GitHub](https://github.com/Francis1998/agentic-career-search) · [官网](https://github.com/Francis1998/agentic-career-search#why-this-exists) · 个人维护
+⭐ 102 · Python · 推送 2026-11-27 · [GitHub](https://github.com/Francis1998/agentic-career-search) · [官网](https://github.com/Francis1998/agentic-career-search#why-this-exists) · 个人维护
 
 **自主求职发现的 AI agent 编排引擎：可解释决策与运行管控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Francis1998/agentic-career-search 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-28"]
     y-axis "stars" 100 --> 103
     line [101, 102, 102]
 ```
 
-2026-10-25 101 → 2026-11-27 102（+1）
+2026-10-26 101 → 2026-11-28 102（+1）
 
 
 ---

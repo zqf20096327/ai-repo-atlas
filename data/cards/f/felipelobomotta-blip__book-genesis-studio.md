@@ -1,6 +1,6 @@
 # felipelobomotta-blip/book-genesis-studio
 
-⭐ 170 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/felipelobomotta-blip/book-genesis-studio) · [官网](https://felipelobomotta-blip.github.io/book-genesis-studio/) · 个人维护
+⭐ 172 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/felipelobomotta-blip/book-genesis-studio) · [官网](https://felipelobomotta-blip.github.io/book-genesis-studio/) · 个人维护
 
 **给 AI agent 提供从想法到成书的写作工作流插件**
 
@@ -45,12 +45,12 @@ Book Genesis 为 Claude Code、Codex、OpenCode 等多个 agent 宿主安装一�
 ```mermaid
 xychart-beta
     title "felipelobomotta-blip/book-genesis-studio 星数(近 17 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 148 --> 172
-    line [150, 151, 152, 153, 156, 150, 159, 160, 161, 162, 163, 164, 165, 166, 168, 169, 170]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 148 --> 174
+    line [151, 152, 153, 156, 150, 159, 160, 161, 162, 163, 164, 165, 166, 168, 169, 170, 172]
 ```
 
-2026-10-25 150 → 2026-11-27 170（+20）
+2026-10-26 151 → 2026-11-28 172（+21）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JustJoyful/Testcard 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "JustJoyful/Testcard 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-27 4（+1）
+2026-11-08 3 → 2026-11-28 4（+1）
 
 
 ---

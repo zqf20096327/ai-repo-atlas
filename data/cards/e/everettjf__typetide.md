@@ -1,6 +1,6 @@
 # everettjf/typetide
 
-⭐ 38 · C++ · MIT · 推送 2026-11-13 · [GitHub](https://github.com/everettjf/typetide) · [官网](https://atomsprout.com/typetide/) · 个人维护 · 中文 README
+⭐ 39 · C++ · MIT · 推送 2026-11-13 · [GitHub](https://github.com/everettjf/typetide) · [官网](https://atomsprout.com/typetide/) · 个人维护 · 中文 README
 
 **macOS/Windows 系统级 AI 划词翻译与原位改写工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "everettjf/typetide 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 29 --> 39
-    line [30, 31, 33, 34, 35, 30, 37, 38, 38]
+    title "everettjf/typetide 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 29 --> 40
+    line [31, 33, 34, 35, 30, 37, 38, 39]
 ```
 
-2026-10-25 30 → 2026-11-27 38（+8）
+2026-10-26 31 → 2026-11-28 39（+8）
 
 
 ---

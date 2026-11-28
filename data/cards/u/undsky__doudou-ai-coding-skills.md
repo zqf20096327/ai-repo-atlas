@@ -1,6 +1,6 @@
 # undsky/doudou-ai-coding-skills
 
-⭐ 42 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/undsky/doudou-ai-coding-skills) · [官网](https://www.undsky.com) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · MIT · 推送 2026-09-17 · [GitHub](https://github.com/undsky/doudou-ai-coding-skills) · [官网](https://www.undsky.com) · 个人维护 · 中文 README
 
 **doudou-ai-coding 配套技能仓库：产品/开发/测试全流程 AI 编程支持**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "undsky/doudou-ai-coding-skills 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 40 --> 44
+    line [41, 42, 43]
 ```
 
-2026-10-25 41 → 2026-11-27 42（+1）
+2026-10-26 41 → 2026-11-28 43（+2）
 
 
 ---

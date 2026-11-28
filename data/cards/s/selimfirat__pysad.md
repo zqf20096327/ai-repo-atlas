@@ -1,10 +1,10 @@
 # selimfirat/pysad
 
-⭐ 322 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
+⭐ 322 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
 
-**面向 Python 开发者的流式异常检测库：50+ 在线检测器逐点评分**
+**给开发者的 Python 流式异常检测库：50+ 在线检测器逐点打分**
 
-PySAD 是 Python 流式（在线）异常检测库，覆盖多元与单元数据流，每到达一个点即通过 fit_partial/score_partial 评分并学习，无需完整数据集。内置 50+ 来自已发表研究的检测器（LODA、RRCF、Half-Space Trees、xStream、DAMP、SAND、MIDAS 等）、10 个漂移监测器、conformal/极值/Gaussian 尾部三种分数校准器与阈值过滤器、逐点更新的 prequential 评估工具，以及用 `|`、`&` 组合的管道语法和 LODA 特征归因解释。提供 PyPI/conda 安装、可选 Rust 内核扩展、MCP 服务器与终端实时仪表盘，纯 NumPy/SciPy 实现、核心无需 JVM。
+PySAD 是流式异常检测库：数据点到达时逐点学习与打分（fit_partial/score_partial），覆盖多元与单变量数据流，内置 LODA、RRCF、Half-Space Trees、xStream、DAMP、SAND 等 50+ 已发表算法，10 个漂移监测器，以及 conformal/SPOT 等校准器把任意分数归一到 [0,1] 并配阈值过滤产生告警。提供 prequential 评估工具、管道组合（|、&）与 LODA 特征归因。支持 Python 3.11-3.14，核心检测器为纯 NumPy/SciPy 实现，无需 JVM；MCP server 与 Rust 内核为可选组件。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ PySAD 是 Python 流式（在线）异常检测库，覆盖多元与单元数据
 
 ## 能力要点
 
-- 50+ 在线检测器与 10 个漂移监测器，逐点 fit/score 接口
-- conformal、SPOT、Gaussian 尾部三种分数校准，输出 [0,1] 概率与二值告警
-- 管道组合（`|`/`&`）与 LODA.explain_partial() 特征归因
-- 可与 PyOD、River、scikit-learn、CapyMoa 集成，并提供 MCP 服务器
+- 50+ 在线检测器覆盖统计、森林/草图、子序列、图等类别
+- Conformal/SPOT/高斯尾校准器统一分数尺度并生成告警
+- prequential 评估与流回放器，支持 ODDS/NAB 等标注数据集
+- 提供 MCP server（pysad[mcp]）暴露检测器与漂移监测
 
 ## 适用场景
 
-- 对传感器/日志数据流逐点做异常检测与告警
-- 信用卡欺诈、入侵检测等带概念漂移的在线监测场景
-- 在不加载全量数据的情况下对 ODDS/NAB 等数据集做 prequential 评估
-- 通过 MCP 客户端调用检测器与解释工具
+- 对传感器或日志数据流逐点检测异常并触发告警
+- 处理存在概念漂移的持续数据流监控
+- 欺诈检测与入侵检测等流式场景的实验与评估
+- 通过 MCP 客户端调用异常检测器做分析
 
 ## 场景标签
 
@@ -40,20 +40,20 @@ PySAD 是 Python 流式（在线）异常检测库，覆盖多元与单元数据
 
 > L7:  Streaming anomaly detection in Python for multivariate and univariate data streams.
 > L8:  PySAD scores and learns from each point as it arrives, with calibrated alerts, drift handling, and prequential eval
-> L50: Every detector learns from and scores one point at a time with `fit_partial`, `score_partial` and `fit_score_partia
+> L51: Every detector learns from and scores one point at a time with `fit_partial`, `score_partial` and `fit_score_partia
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "selimfirat/pysad 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-28"]
     y-axis "stars" 313 --> 323
     line [314, 315, 314, 318, 319, 320, 321, 322, 321, 322, 322]
 ```
 
-2026-10-25 314 → 2026-11-27 322（+8）
+2026-10-26 314 → 2026-11-28 322（+8）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `a669c89a5fd8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `10df2d73df6f` · [字段定义](../../DATASET.md)*

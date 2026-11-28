@@ -1,6 +1,6 @@
 # personalityson/VBANN
 
-⭐ 10 · VBA · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/personalityson/VBANN) · 个人维护
+⭐ 10 · VBA · CC0-1.0 · 推送 2026-11-27 · [GitHub](https://github.com/personalityson/VBANN) · 个人维护
 
 **在 Excel 内用 VBA 搭建神经网络与梯度提升树的机器学习库**
 
@@ -47,12 +47,12 @@ VBANN 是一个用纯 VBA 实现的 PyTorch 风格机器学习框架，可在 Ex
 ```mermaid
 xychart-beta
     title "personalityson/VBANN 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-27"]
+    x-axis ["2026-11-21", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-21 10 → 2026-11-27 10（+0）
+2026-11-21 10 → 2026-11-28 10（+0）
 
 
 ---

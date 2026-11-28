@@ -45,12 +45,12 @@ MONAI Deploy Informatics Gateway（MIG）处理临床数据管线中的第一和
 ```mermaid
 xychart-beta
     title "Project-MONAI/monai-deploy-informatics-gateway 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-25 31 → 2026-11-27 31（+0）
+2026-10-26 31 → 2026-11-28 31（+0）
 
 
 ---

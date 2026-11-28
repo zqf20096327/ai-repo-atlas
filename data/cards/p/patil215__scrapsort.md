@@ -45,12 +45,12 @@ Hackathon 项目（Greylock Hackfest 2017）：用相机拍摄托盘上的垃圾
 ```mermaid
 xychart-beta
     title "patil215/scrapsort 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-25 31 → 2026-11-27 31（+0）
+2026-10-26 31 → 2026-11-28 31（+0）
 
 
 ---

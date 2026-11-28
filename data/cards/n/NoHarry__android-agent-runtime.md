@@ -1,6 +1,6 @@
 # NoHarry/android-agent-runtime
 
-⭐ 14 · Kotlin · MIT · 推送 2026-11-15 · [GitHub](https://github.com/NoHarry/android-agent-runtime) · 个人维护 · 中文 README
+⭐ 14 · Kotlin · MIT · 推送 2026-11-27 · [GitHub](https://github.com/NoHarry/android-agent-runtime) · 个人维护 · 中文 README
 
 **可嵌入 Android/JVM 的 agent 运行时：自带模型即用的完整代理循环**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NoHarry/android-agent-runtime 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-28"]
     y-axis "stars" 3 --> 15
     line [4, 8, 12, 13, 14, 14]
 ```
 
-2026-10-29 4 → 2026-11-27 14（+10）
+2026-10-29 4 → 2026-11-28 14（+10）
 
 
 ---

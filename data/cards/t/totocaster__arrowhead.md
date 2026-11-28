@@ -46,12 +46,12 @@ Rust 编写的跨平台 CLI 与守护进程，持续监视 Obsidian vault 或任
 ```mermaid
 xychart-beta
     title "totocaster/arrowhead 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-25 44 → 2026-11-27 44（+0）
+2026-10-26 44 → 2026-11-28 44（+0）
 
 
 ---

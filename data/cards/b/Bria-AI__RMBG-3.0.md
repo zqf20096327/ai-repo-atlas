@@ -1,6 +1,6 @@
 # Bria-AI/RMBG-3.0
 
-⭐ 354 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Bria-AI/RMBG-3.0) · [官网](https://bria.ai/) · 组织维护
+⭐ 355 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Bria-AI/RMBG-3.0) · [官网](https://bria.ai/) · 组织维护
 
 **给开发者提供图像背景移除模型（RMBG-3.0/2.0）的本地运行脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bria-AI/RMBG-3.0 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 353 --> 355
-    line [354, 354]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 353 --> 356
+    line [354, 355]
 ```
 
-2026-11-26 354 → 2026-11-27 354（+0）
+2026-11-26 354 → 2026-11-28 355（+1）
 
 
 ---

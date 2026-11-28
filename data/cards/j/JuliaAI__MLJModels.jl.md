@@ -1,6 +1,6 @@
 # JuliaAI/MLJModels.jl
 
-⭐ 82 · Julia · MIT · 推送 2026-11-24 · [GitHub](https://github.com/JuliaAI/MLJModels.jl) · 组织维护
+⭐ 82 · Julia · MIT · 推送 2026-11-27 · [GitHub](https://github.com/JuliaAI/MLJModels.jl) · 组织维护
 
 **MLJ 模型注册表及模型搜索/加载工具库**
 
@@ -45,12 +45,12 @@ Julia 生态中 MLJ 机器学习框架的模型注册表与配套工具：维护
 ```mermaid
 xychart-beta
     title "JuliaAI/MLJModels.jl 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-25 82 → 2026-11-27 82（+0）
+2026-10-26 82 → 2026-11-28 82（+0）
 
 
 ---

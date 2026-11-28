@@ -45,12 +45,12 @@ STARCOP 是用于高光谱（AVIRIS-NG、EMIT）与多光谱（WorldView-3 模�
 ```mermaid
 xychart-beta
     title "spaceml-org/STARCOP 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-28"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-30 74 → 2026-11-27 74（+0）
+2026-10-30 74 → 2026-11-28 74（+0）
 
 
 ---

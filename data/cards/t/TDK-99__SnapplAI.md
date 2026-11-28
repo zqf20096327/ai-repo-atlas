@@ -1,6 +1,6 @@
 # TDK-99/SnapplAI
 
-⭐ 38 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/TDK-99/SnapplAI) · 个人维护
+⭐ 39 · Python · NOASSERTION · 推送 2026-09-30 · [GitHub](https://github.com/TDK-99/SnapplAI) · 个人维护
 
 **AI 自动筛选 LinkedIn 职位并按 CV 匹配打分，邮件推送最优岗位**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TDK-99/SnapplAI 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 38, 38]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 38, 39]
 ```
 
-2026-10-25 36 → 2026-11-27 38（+2）
+2026-10-26 36 → 2026-11-28 39（+3）
 
 
 ---

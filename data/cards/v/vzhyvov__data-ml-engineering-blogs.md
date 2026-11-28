@@ -1,6 +1,6 @@
 # vzhyvov/data-ml-engineering-blogs
 
-⭐ 3 · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/vzhyvov/data-ml-engineering-blogs) · [官网](https://effectsize.io) · 个人维护
+⭐ 3 · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/vzhyvov/data-ml-engineering-blogs) · [官网](https://effectsize.io) · 个人维护
 
 **面向数据/ML 从业者的行业工程博客策展清单（含 OPML/CSV）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vzhyvov/data-ml-engineering-blogs 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-19", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-27 3（+0）
+2026-11-19 3 → 2026-11-28 3（+0）
 
 
 ---

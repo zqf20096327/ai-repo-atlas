@@ -44,12 +44,12 @@ JigsawStack 官方 Python SDK，封装翻译、摘要、情感分析、AI 网页
 ```mermaid
 xychart-beta
     title "InterfazeAI/jigsawstack-python 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pandev-metriks/pandev-cli
 
-⭐ 24 · Shell · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/pandev-metriks/pandev-cli) · [官网](https://pandev-metrics.com/cli) · 组织维护
+⭐ 24 · Shell · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/pandev-metriks/pandev-cli) · [官网](https://pandev-metrics.com/cli) · 组织维护
 
 **本地分析 AI 编程代理开销的 CLI：按任务/分支/模型/文件拆分成本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pandev-metriks/pandev-cli 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-28"]
     y-axis "stars" 23 --> 26
     line [25, 24, 24]
 ```
 
-2026-10-25 25 → 2026-11-27 24（-1）
+2026-10-26 25 → 2026-11-28 24（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # shootthesound/comfyui-ReferenceLatentPlus
 
-⭐ 37 · Python · 推送 2026-06-07 · [GitHub](https://github.com/shootthesound/comfyui-ReferenceLatentPlus) · 个人维护
+⭐ 38 · Python · 推送 2026-06-07 · [GitHub](https://github.com/shootthesound/comfyui-ReferenceLatentPlus) · 个人维护
 
 **ComfyUI 参考潜空间节点增强版：逐图强度、时间步门控与自动遮罩**
 
@@ -45,12 +45,12 @@ ComfyUI 内置 ReferenceLatent 节点的替代节点，面向使用参考图做�
 ```mermaid
 xychart-beta
     title "shootthesound/comfyui-ReferenceLatentPlus 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 34 --> 38
-    line [36, 35, 36, 37, 37]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 34 --> 39
+    line [36, 35, 36, 37, 38]
 ```
 
-2026-10-25 36 → 2026-11-27 37（+1）
+2026-10-26 36 → 2026-11-28 38（+2）
 
 
 ---

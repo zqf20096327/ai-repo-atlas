@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bristinmaralina/zsh_codex 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "bristinmaralina/zsh_codex 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 31 --> 51
-    line [50, 32]
+    line [50, 32, 32]
 ```
 
-2026-11-08 50 → 2026-11-27 32（-18）
+2026-11-08 50 → 2026-11-28 32（-18）
 
 
 ---

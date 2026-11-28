@@ -1,6 +1,6 @@
 # Directoryops/directory-ops
 
-⭐ 18 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Directoryops/directory-ops) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Directoryops/directory-ops) · 个人维护
 
 **目录网站 AI 员工技能包：维持信息准确、产出引流内容、分发线索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Directoryops/directory-ops 星数(近 6 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 19
-    line [3, 9, 12, 14, 17, 18]
+    title "Directoryops/directory-ops 星数(近 7 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 20
+    line [3, 9, 12, 14, 17, 18, 19]
 ```
 
-2026-11-21 3 → 2026-11-27 18（+15）
+2026-11-21 3 → 2026-11-28 19（+16）
 
 
 ---

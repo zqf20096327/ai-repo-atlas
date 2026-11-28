@@ -1,6 +1,6 @@
 # off-grid-ai/awesome-private-ai-apps
 
-⭐ 3 · 推送 2026-11-25 · [GitHub](https://github.com/off-grid-ai/awesome-private-ai-apps) · [官网](https://getoffgridai.co) · 个人维护
+⭐ 5 · 推送 2026-11-27 · [GitHub](https://github.com/off-grid-ai/awesome-private-ai-apps) · [官网](https://getoffgridai.co) · 个人维护
 
 **面向注重隐私的用户，汇总可在本地运行的 AI 应用清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "off-grid-ai/awesome-private-ai-apps 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 5（+2）
 
 
 ---

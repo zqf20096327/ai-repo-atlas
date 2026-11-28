@@ -1,6 +1,6 @@
 # polyaxon/haupt
 
-⭐ 451 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/polyaxon/haupt) · 组织维护
+⭐ 451 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/polyaxon/haupt) · 组织维护
 
 **Polyaxon 的元数据与制品服务：谱系 API、制品流、沙箱与工作区**
 
@@ -45,12 +45,12 @@ Polyaxon 平台的组成服务 Haupt，提供谱系元数据 API、artifacts/met
 ```mermaid
 xychart-beta
     title "polyaxon/haupt 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-20", "2026-11-28"]
     y-axis "stars" 450 --> 453
     line [451, 452, 451, 451]
 ```
 
-2026-10-25 451 → 2026-11-27 451（+0）
+2026-10-26 451 → 2026-11-28 451（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Haruhi764/OmniCAD-Skill
 
-⭐ 160 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Haruhi764/OmniCAD-Skill) · 个人维护 · 中文 README
+⭐ 245 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Haruhi764/OmniCAD-Skill) · 个人维护 · 中文 README
 
 **为 Codex 提供的可编辑 2D CAD 自动绘图与验收 Skill**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Haruhi764/OmniCAD-Skill 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 63 --> 168
-    line [71, 160]
+    title "Haruhi764/OmniCAD-Skill 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 54 --> 262
+    line [71, 160, 245]
 ```
 
-2026-11-26 71 → 2026-11-27 160（+89）
+2026-11-26 71 → 2026-11-28 245（+174）
 
 
 ---

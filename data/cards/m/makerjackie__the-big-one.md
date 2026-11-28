@@ -1,6 +1,6 @@
 # makerjackie/the-big-one
 
-⭐ 17 · HTML · MIT · 推送 2026-11-05 · [GitHub](https://github.com/makerjackie/the-big-one) · [官网](https://makerjackie.com) · 个人维护 · 中文 README
+⭐ 18 · HTML · MIT · 推送 2026-11-05 · [GitHub](https://github.com/makerjackie/the-big-one) · [官网](https://makerjackie.com) · 个人维护 · 中文 README
 
 **由 Claude 编写代码生成的 39 秒动画短片（单 HTML 文件）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "makerjackie/the-big-one 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 9 --> 18
-    line [10, 13, 14, 16, 17, 17]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 9 --> 19
+    line [10, 13, 14, 16, 17, 18]
 ```
 
-2026-11-08 10 → 2026-11-27 17（+7）
+2026-11-08 10 → 2026-11-28 18（+8）
 
 
 ---

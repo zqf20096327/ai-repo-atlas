@@ -1,6 +1,6 @@
 # Frankcastleauditor/safe-solana-builder
 
-⭐ 149 · 推送 2026-10-05 · [GitHub](https://github.com/Frankcastleauditor/safe-solana-builder) · [官网](https://www.frankcastle.xyz) · 个人维护
+⭐ 150 · 推送 2026-10-05 · [GitHub](https://github.com/Frankcastleauditor/safe-solana-builder) · [官网](https://www.frankcastle.xyz) · 个人维护
 
 **面向 Claude/Cursor 的 Solana 安全编码技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Frankcastleauditor/safe-solana-builder 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 144 --> 150
-    line [145, 148, 149, 149]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 144 --> 151
+    line [145, 148, 149, 150]
 ```
 
-2026-10-25 145 → 2026-11-27 149（+4）
+2026-10-26 145 → 2026-11-28 150（+5）
 
 
 ---

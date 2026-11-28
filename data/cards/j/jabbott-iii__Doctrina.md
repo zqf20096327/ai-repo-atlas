@@ -1,6 +1,6 @@
 # jabbott-iii/Doctrina
 
-⭐ 3 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/jabbott-iii/Doctrina) · 个人维护
+⭐ 5 · Jupyter Notebook · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jabbott-iii/Doctrina) · 个人维护
 
 **面向 Claude Code 的跨仓库软件工程规则与技能合集**
 
@@ -40,6 +40,18 @@
 
 > L3: Doctrina holds Claude Code rules and skills that are shared across repositories. None names a
 > L10: - `rules/writing.md`: spelling, grammar, numbers and units, technical writing
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jabbott-iii/Doctrina 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-27 3 → 2026-11-28 5（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Dril-V000/yuna-AI
 
-⭐ 10 · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Dril-V000/yuna-AI) · [官网](https://yunaai.online/) · 个人维护
+⭐ 10 · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Dril-V000/yuna-AI) · [官网](https://yunaai.online/) · 个人维护
 
 **Windows 桌面 AI 伴侣：语音对话、Live2D 形象与本地模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Dril-V000/yuna-AI 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 10（+0）
 
 
 ---

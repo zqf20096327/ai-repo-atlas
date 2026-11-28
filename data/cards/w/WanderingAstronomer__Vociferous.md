@@ -1,6 +1,6 @@
 # WanderingAstronomer/Vociferous
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/WanderingAstronomer/Vociferous) · 个人维护
+⭐ 15 · Python · AGPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/WanderingAstronomer/Vociferous) · 个人维护
 
 **本地优先的桌面语音听写转写系统，生成可检索的语音记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WanderingAstronomer/Vociferous 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 15（-1）
 
 
 ---

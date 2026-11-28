@@ -1,6 +1,6 @@
 # ysunyang4/webagent
 
-⭐ 195 · JavaScript · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/ysunyang4/webagent) · [官网](https://github.com/ysunyang4/webagent/blob/main/USAGE.md) · 个人维护 · 中文 README
+⭐ 197 · JavaScript · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/ysunyang4/webagent) · [官网](https://github.com/ysunyang4/webagent/blob/main/USAGE.md) · 个人维护 · 中文 README
 
 **把网页版 AI 对话接入本地 MCP 工具的浏览器扩展**
 
@@ -45,13 +45,13 @@ Chromium 浏览器扩展（Manifest V3，GPL-3.0），通过 MCP 协议与 Nexus
 
 ```mermaid
 xychart-beta
-    title "ysunyang4/webagent 星数(近 9 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 140 --> 200
-    line [145, 158, 167, 176, 185, 187, 188, 193, 195]
+    title "ysunyang4/webagent 星数(近 10 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 140 --> 202
+    line [145, 158, 167, 176, 185, 187, 188, 193, 195, 197]
 ```
 
-2026-11-18 145 → 2026-11-27 195（+50）
+2026-11-18 145 → 2026-11-28 197（+52）
 
 
 ---

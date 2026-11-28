@@ -1,6 +1,6 @@
 # EuroEval/EuroEval
 
-⭐ 206 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/EuroEval/EuroEval) · [官网](https://euroeval.com) · 个人维护
+⭐ 206 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/EuroEval/EuroEval) · [官网](https://euroeval.com) · 个人维护
 
 **欧洲语言模型评测基准框架与排行榜**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EuroEval/EuroEval 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21", "2026-11-28"]
     y-axis "stars" 201 --> 207
     line [202, 203, 202, 204, 205, 206, 206]
 ```
 
-2026-10-25 202 → 2026-11-27 206（+4）
+2026-10-26 202 → 2026-11-28 206（+4）
 
 
 ---

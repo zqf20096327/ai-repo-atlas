@@ -45,12 +45,12 @@ MathWorks 官方示例仓库，演示通过 Python 协同执行（co-execution�
 ```mermaid
 xychart-beta
     title "matlab-deep-learning/Image-Classification-in-MATLAB-Using-TensorFlow 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-25 55 → 2026-11-27 55（+0）
+2026-10-26 55 → 2026-11-28 55（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # KeyArgo/hail-hermes
 
-⭐ 7 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/KeyArgo/hail-hermes) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/KeyArgo/hail-hermes) · 个人维护
 
 **给自托管 Hermes agent 加语音界面的插件，支持手表配对**
 
@@ -45,12 +45,12 @@ Hermes Agent 插件，包含 hub、桌面面板与手机/手表客户端，为�
 ```mermaid
 xychart-beta
     title "KeyArgo/hail-hermes 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
 ```
 
-2026-11-26 7 → 2026-11-27 7（+0）
+2026-11-26 7 → 2026-11-28 8（+1）
 
 
 ---

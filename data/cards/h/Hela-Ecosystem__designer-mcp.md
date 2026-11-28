@@ -46,12 +46,12 @@ TypeScript 实现的 Model Context Protocol（MCP）服务器，属于 HeLa MCP 
 ```mermaid
 xychart-beta
     title "Hela-Ecosystem/designer-mcp 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 14 --> 19
     line [15, 17, 18, 18]
 ```
 
-2026-11-01 15 → 2026-11-27 18（+3）
+2026-11-01 15 → 2026-11-28 18（+3）
 
 
 ---

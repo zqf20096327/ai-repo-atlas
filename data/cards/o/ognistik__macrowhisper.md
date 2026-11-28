@@ -1,6 +1,6 @@
 # ognistik/macrowhisper
 
-⭐ 229 · Swift · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ognistik/macrowhisper) · 个人维护
+⭐ 230 · Swift · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ognistik/macrowhisper) · 个人维护
 
 **Superwhisper 听写结果的自动化助手：按规则执行粘贴/开链接/跑脚本**
 
@@ -45,12 +45,12 @@ macOS 上的命令行后台服务，监视 Superwhisper 保存的录音文件夹
 ```mermaid
 xychart-beta
     title "ognistik/macrowhisper 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 226 --> 230
-    line [227, 228, 227, 228, 229, 229]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 226 --> 231
+    line [227, 228, 227, 228, 229, 230]
 ```
 
-2026-10-25 227 → 2026-11-27 229（+2）
+2026-10-26 227 → 2026-11-28 230（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # kernel4632/agent-core
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kernel4632/agent-core) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/kernel4632/agent-core) · 个人维护 · 中文 README
 
 **面向开发者的轻量 AI Agent 循环核心库（Bun）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kernel4632/agent-core 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 15, 15]
 ```
 
-2026-10-25 14 → 2026-11-27 15（+1）
+2026-10-26 14 → 2026-11-28 15（+1）
 
 
 ---

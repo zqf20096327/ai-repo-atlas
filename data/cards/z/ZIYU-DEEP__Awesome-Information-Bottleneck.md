@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZIYU-DEEP/Awesome-Information-Bottleneck 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 402 --> 404
     line [403, 403]
 ```
 
-2026-10-25 403 → 2026-11-27 403（+0）
+2026-10-26 403 → 2026-11-28 403（+0）
 
 
 ---

@@ -46,12 +46,12 @@ CPersona 是一个 MCP 服务器，供 Claude Code、Codex、Claude Desktop、Cu
 ```mermaid
 xychart-beta
     title "Cloto-dev/CPersona 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 10（+0）
 
 
 ---

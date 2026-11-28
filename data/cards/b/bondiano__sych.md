@@ -1,6 +1,6 @@
 # bondiano/sych
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/bondiano/sych) · 个人维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/bondiano/sych) · 个人维护
 
 **确定性核心的代码审查 CLI/GitHub App：模型调用受限、发现带出处**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bondiano/sych 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27"]
+    title "bondiano/sych 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 4 --> 9
-    line [5, 6, 7, 8]
+    line [5, 6, 7, 8, 8]
 ```
 
-2026-11-08 5 → 2026-11-27 8（+3）
+2026-11-08 5 → 2026-11-28 8（+3）
 
 
 ---

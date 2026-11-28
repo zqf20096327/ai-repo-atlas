@@ -1,6 +1,6 @@
 # bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide
 
-⭐ 88 · 推送 2026-11-19 · [GitHub](https://github.com/bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide) · 个人维护 · 中文 README
+⭐ 101 · 推送 2026-11-19 · [GitHub](https://github.com/bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide) · 个人维护 · 中文 README
 
 **面向新手的 USDT 买币与 CoreGold 充值操作教程**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 95
-    line [10, 26, 46, 73, 88]
+    title "bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 1 --> 110
+    line [10, 26, 46, 73, 88, 101]
 ```
 
-2026-11-20 10 → 2026-11-27 88（+78）
+2026-11-20 10 → 2026-11-28 101（+91）
 
 
 ---

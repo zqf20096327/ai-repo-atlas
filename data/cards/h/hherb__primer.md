@@ -1,6 +1,6 @@
 # hherb/primer
 
-⭐ 11 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/hherb/primer) · [官网](https://primer-ai.org/) · 个人维护
+⭐ 11 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/hherb/primer) · [官网](https://primer-ai.org/) · 个人维护
 
 **为儿童提供的苏格拉底式 AI 学习伴侣**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hherb/primer 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-26 11 → 2026-11-27 11（+0）
+2026-11-26 11 → 2026-11-28 11（+0）
 
 
 ---

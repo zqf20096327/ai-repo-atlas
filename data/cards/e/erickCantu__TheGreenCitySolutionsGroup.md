@@ -45,12 +45,12 @@ Neuefische 数据科学训练营的结业项目：基于 CityLearn Challenge 的
 ```mermaid
 xychart-beta
     title "erickCantu/TheGreenCitySolutionsGroup 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

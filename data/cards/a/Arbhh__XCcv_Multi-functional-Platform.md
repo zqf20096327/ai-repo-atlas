@@ -1,6 +1,6 @@
 # Arbhh/XCcv_Multi-functional-Platform
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Arbhh/XCcv_Multi-functional-Platform) · 个人维护 · 中文 README
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Arbhh/XCcv_Multi-functional-Platform) · 个人维护 · 中文 README
 
 **给工业视觉从业者的离线标注训练部署一体化桌面平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Arbhh/XCcv_Multi-functional-Platform 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 3（+0）
 
 
 ---

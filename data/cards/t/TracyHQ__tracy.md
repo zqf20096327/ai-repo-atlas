@@ -1,6 +1,6 @@
 # TracyHQ/tracy
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/TracyHQ/tracy) · [官网](https://tracy.ai) · 组织维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/TracyHQ/tracy) · [官网](https://tracy.ai) · 组织维护 · 中文 README
 
 **AI agent 编辑已上线 WordPress/Joomla/EmDash 网站的 CMS**
 
@@ -46,12 +46,12 @@ Tracy 是一个自托管的网站内容管理工具：用户填入已有 WordPre
 ```mermaid
 xychart-beta
     title "TracyHQ/tracy 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-27"]
+    x-axis ["2026-10-29", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-29 3 → 2026-11-27 3（+0）
+2026-10-29 3 → 2026-11-28 3（+0）
 
 
 ---

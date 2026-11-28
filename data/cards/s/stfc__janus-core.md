@@ -1,6 +1,6 @@
 # stfc/janus-core
 
-⭐ 52 · Python · BSD-3-Clause · 推送 2026-10-30 · [GitHub](https://github.com/stfc/janus-core) · [官网](https://stfc.github.io/janus-core/) · 组织维护
+⭐ 52 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/stfc/janus-core) · [官网](https://stfc.github.io/janus-core/) · 组织维护
 
 **机器学习原子间势（MLIP）的计算工具库，服务材料/分子模拟**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stfc/janus-core 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 50 --> 53
     line [51, 52, 52]
 ```
 
-2026-10-25 51 → 2026-11-27 52（+1）
+2026-10-26 51 → 2026-11-28 52（+1）
 
 
 ---

@@ -45,12 +45,12 @@ DAFx 2025 论文《Empirical Results for Adjusting Truncated Backpropagation Thr
 ```mermaid
 xychart-beta
     title "ybourdin/sptmod 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # yepcode/mcp-server-js
 
-⭐ 47 · TypeScript · MIT · 推送 2026-03-17 · [GitHub](https://github.com/yepcode/mcp-server-js) · [官网](https://yepcode.io/mcp-server) · 组织维护
+⭐ 48 · TypeScript · MIT · 推送 2026-03-17 · [GitHub](https://github.com/yepcode/mcp-server-js) · [官网](https://yepcode.io/mcp-server) · 组织维护
 
 **把 YepCode 流程暴露为 MCP 工具的服务器，供 AI 助手调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yepcode/mcp-server-js 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-25 47 → 2026-11-27 47（+0）
+2026-10-26 47 → 2026-11-28 48（+1）
 
 
 ---

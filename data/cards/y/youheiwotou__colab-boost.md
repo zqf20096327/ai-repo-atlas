@@ -1,6 +1,6 @@
 # youheiwotou/colab-boost
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/youheiwotou/colab-boost) · 个人维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/youheiwotou/colab-boost) · 个人维护 · 中文 README
 
 **给 Windows 用户的 Colab GPU 多账号部署与算力护栏控制台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "youheiwotou/colab-boost 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 5（+2）
 
 
 ---

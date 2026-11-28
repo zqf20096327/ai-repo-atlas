@@ -1,6 +1,6 @@
 # felixthosharon/vyrse
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/felixthosharon/vyrse) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本机运行的语音优先 AI 助手，支持 PC/手机/Echo 控制**
 
@@ -11,7 +11,7 @@ VYRSE 是部署在个人 PC 上的语音优先 AI 助手：唤醒词交互、本
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

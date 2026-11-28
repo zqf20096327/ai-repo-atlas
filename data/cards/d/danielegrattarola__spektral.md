@@ -42,6 +42,18 @@
 > L3: The main goal of this project is to provide a simple but flexible framework for creating graph neural networks (GNNs
 > L5: You can use Spektral for classifying the users of a social network, predicting molecular properties, generating new 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "danielegrattarola/spektral 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2402 --> 2404
+    line [2403, 2403]
+```
+
+2026-11-27 2,403 → 2026-11-28 2,403（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `333a0ee889bb` · [字段定义](../../DATASET.md)*

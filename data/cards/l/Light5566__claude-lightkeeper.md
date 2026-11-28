@@ -1,6 +1,6 @@
 # Light5566/claude-lightkeeper
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Light5566/claude-lightkeeper) · [官网](https://light5566.github.io/claude-lightkeeper/) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Light5566/claude-lightkeeper) · [官网](https://light5566.github.io/claude-lightkeeper/) · 个人维护 · 中文 README
 
 **为 AI 编码代理维护代码库活知识地图的插件**
 
@@ -39,6 +39,18 @@ Lightkeeper 是一个 Claude Code 插件，也可作为 Hermes Agent 与 Codex �
 
 > L5: **A knowledge map of your codebase that your coding agent reads before it edits and updates before it stops.** For C
 > L21: Lightkeeper is a Claude Code plugin, and runs as a Hermes Agent and a Codex plugin too. It keeps an Obsidian-compat
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Light5566/claude-lightkeeper 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

@@ -47,12 +47,12 @@ Python 框架，用于构建 MCP-first、Agent-first 应用：开发者声明 SQ
 ```mermaid
 xychart-beta
     title "KLR-Pattern/nexusx 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

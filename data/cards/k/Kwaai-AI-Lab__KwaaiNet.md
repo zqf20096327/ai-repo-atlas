@@ -1,6 +1,6 @@
 # Kwaai-AI-Lab/KwaaiNet
 
-⭐ 27 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Kwaai-AI-Lab/KwaaiNet) · [官网](https://www.kwaai.ai/) · 组织维护
+⭐ 27 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Kwaai-AI-Lab/KwaaiNet) · [官网](https://www.kwaai.ai/) · 组织维护
 
 **面向开发者与研究者的去中心化 AI 节点架构（Layer 8 信任与智能层）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Kwaai-AI-Lab/KwaaiNet 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-25 26 → 2026-11-27 27（+1）
+2026-10-26 26 → 2026-11-28 27（+1）
 
 
 ---

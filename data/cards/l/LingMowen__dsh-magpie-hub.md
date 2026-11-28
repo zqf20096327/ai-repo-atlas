@@ -1,6 +1,6 @@
 # LingMowen/dsh-magpie-hub
 
-⭐ 5 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/LingMowen/dsh-magpie-hub) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/LingMowen/dsh-magpie-hub) · 个人维护 · 中文 README
 
 **让 DSH 用户在 DeepSeek Harness 内直接运行 magpie 供应商插件**
 
@@ -45,13 +45,13 @@ DeepSeek Harness（DSH）的插件：实现 magpie 插件协议的宿主，使�
 
 ```mermaid
 xychart-beta
-    title "LingMowen/dsh-magpie-hub 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 6
-    line [4, 5]
+    title "LingMowen/dsh-magpie-hub 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-26 4 → 2026-11-27 5（+1）
+2026-11-26 4 → 2026-11-28 6（+2）
 
 
 ---

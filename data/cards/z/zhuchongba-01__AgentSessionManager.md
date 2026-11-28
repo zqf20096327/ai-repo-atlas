@@ -1,6 +1,6 @@
 # zhuchongba-01/AgentSessionManager
 
-⭐ 18 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zhuchongba-01/AgentSessionManager) · [官网](https://github.com/zhuchongba-01/AgentSessionManager/releases) · 个人维护 · 中文 README
+⭐ 21 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zhuchongba-01/AgentSessionManager) · [官网](https://github.com/zhuchongba-01/AgentSessionManager/releases) · 个人维护 · 中文 README
 
 **七种本地编码 Agent 的会话管理桌面工具：浏览/清理历史会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zhuchongba-01/AgentSessionManager 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18, 18]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-22", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 14 --> 22
+    line [15, 16, 17, 18, 21]
 ```
 
-2026-10-25 15 → 2026-11-27 18（+3）
+2026-10-26 15 → 2026-11-28 21（+6）
 
 
 ---

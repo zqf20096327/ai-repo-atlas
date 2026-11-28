@@ -1,6 +1,6 @@
 # danielbusnz/Peeky
 
-⭐ 40 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/danielbusnz/Peeky) · [官网](https://getpeeky.ai) · 个人维护
+⭐ 40 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/danielbusnz/Peeky) · [官网](https://getpeeky.ai) · 个人维护
 
 **语音控制的 AI 光标助手：看屏幕、点击、打字、执行多步任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "danielbusnz/Peeky 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 37 --> 41
     line [38, 39, 38, 40, 40]
 ```
 
-2026-10-25 38 → 2026-11-27 40（+2）
+2026-10-26 38 → 2026-11-28 40（+2）
 
 
 ---

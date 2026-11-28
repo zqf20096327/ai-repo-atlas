@@ -1,6 +1,6 @@
 # NycolazSec/tcpcat
 
-⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/NycolazSec/tcpcat) · [官网](https://tcpcat.io) · 个人维护
+⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/NycolazSec/tcpcat) · [官网](https://tcpcat.io) · 个人维护
 
 **给系统管理员的外部端口暴露扫描器，离线 AI 解释每个开放端口**
 
@@ -41,6 +41,18 @@
 > L42: tcpcat scanning scanme.nmap.org with --ai-deep: open ports, versions, weak crypto and CVEs, then its AI tells how t
 > L103: **tcpcat** checks what the servers and networks you are responsible for expose. Under the hood it is a complete ne
 > L107: tcpcat is a dual-licensed project (AGPL-3.0 or commercial) maintained by Nicolas Blondelle (NycolazSec). It is **f
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "NycolazSec/tcpcat 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-27 11 → 2026-11-28 11（+0）
 
 
 ---

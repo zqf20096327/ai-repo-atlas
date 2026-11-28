@@ -1,6 +1,6 @@
 # Mra1k3r0/nimji
 
-⭐ 12 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Mra1k3r0/nimji) · [官网](https://deepwiki.com/Mra1k3r0/nimji) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/Mra1k3r0/nimji) · [官网](https://deepwiki.com/Mra1k3r0/nimji) · 个人维护
 
 **给开发者直连 Gemini 网页端点的 TS 客户端与终端 CLI**
 
@@ -39,6 +39,18 @@
 
 > L3: **TypeScript client and CLI for Gemini web `StreamGenerate`**
 > L27: nimji talks directly to the Gemini web `StreamGenerate` endpoint using your browser session. You only need **one th
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Mra1k3r0/nimji 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 13
+    line [12, 11]
+```
+
+2026-11-27 12 → 2026-11-28 11（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sametcelikbicak/opencode-team
 
-⭐ 72 · PowerShell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sametcelikbicak/opencode-team) · [官网](https://sametcelikbicak.github.io/opencode-team/) · 个人维护
+⭐ 73 · PowerShell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sametcelikbicak/opencode-team) · [官网](https://sametcelikbicak.github.io/opencode-team/) · 个人维护
 
 **基于 opencode 的 14 角色 AI 软件团队流水线（构思到发布）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sametcelikbicak/opencode-team 星数(近 11 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 0 --> 78
-    line [3, 7, 25, 27, 59, 62, 65, 69, 71, 72, 72]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 0 --> 80
+    line [3, 7, 25, 27, 59, 62, 65, 69, 71, 72, 73]
 ```
 
-2026-10-26 3 → 2026-11-27 72（+69）
+2026-10-26 3 → 2026-11-28 73（+70）
 
 
 ---

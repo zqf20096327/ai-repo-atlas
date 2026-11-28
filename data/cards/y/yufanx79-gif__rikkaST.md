@@ -1,6 +1,6 @@
 # yufanx79-gif/rikkaST
 
-⭐ 19 · Kotlin · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/yufanx79-gif/rikkaST) · 个人维护 · 中文 README
+⭐ 20 · Kotlin · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/yufanx79-gif/rikkaST) · 个人维护 · 中文 README
 
 **面向 Android 用户的酒馆角色扮演聊天客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yufanx79-gif/rikkaST 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-11-25 19 → 2026-11-27 19（+0）
+2026-11-25 19 → 2026-11-28 20（+1）
 
 
 ---

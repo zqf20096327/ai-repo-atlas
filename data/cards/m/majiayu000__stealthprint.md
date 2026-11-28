@@ -1,6 +1,6 @@
 # majiayu000/stealthprint
 
-⭐ 33 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/majiayu000/stealthprint) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/majiayu000/stealthprint) · 个人维护 · 中文 README
 
 **对匿名 LLM 端点做指纹识别的 Python 工具库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "majiayu000/stealthprint 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 30 --> 34
     line [31, 33, 33]
 ```
 
-2026-10-25 31 → 2026-11-27 33（+2）
+2026-10-26 31 → 2026-11-28 33（+2）
 
 
 ---

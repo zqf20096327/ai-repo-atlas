@@ -1,6 +1,6 @@
 # dunetrace/dunetrace
 
-⭐ 72 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/dunetrace/dunetrace) · [官网](https://dunetrace.com/) · 组织维护
+⭐ 72 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/dunetrace/dunetrace) · [官网](https://dunetrace.com/) · 组织维护
 
 **AI agent 运行时可靠性层：检测、阻断与修复 agent 故障**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dunetrace/dunetrace 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-28"]
     y-axis "stars" 67 --> 74
     line [68, 69, 68, 69, 70, 71, 73, 72, 72]
 ```
 
-2026-10-25 68 → 2026-11-27 72（+4）
+2026-10-26 68 → 2026-11-28 72（+4）
 
 
 ---

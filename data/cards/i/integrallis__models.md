@@ -1,6 +1,6 @@
 # integrallis/models
 
-⭐ 14 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/integrallis/models) · [官网](https://integrallis.github.io/models/) · 组织维护
+⭐ 14 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/integrallis/models) · [官网](https://integrallis.github.io/models/) · 组织维护
 
 **Java 进程内小语言模型推理库：无需 Python 或模型服务直接生成文本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "integrallis/models 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-28"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 14]
 ```
 
-2026-10-25 12 → 2026-11-27 14（+2）
+2026-10-26 12 → 2026-11-28 14（+2）
 
 
 ---

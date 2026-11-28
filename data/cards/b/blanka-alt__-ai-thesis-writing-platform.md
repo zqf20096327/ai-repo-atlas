@@ -1,6 +1,6 @@
 # blanka-alt/-ai-thesis-writing-platform
 
-⭐ 58 · 推送 2026-11-25 · [GitHub](https://github.com/blanka-alt/-ai-thesis-writing-platform) · [官网](https://mysoul.echomysoul.us.kg/) · 个人维护 · 中文 README
+⭐ 92 · 推送 2026-11-25 · [GitHub](https://github.com/blanka-alt/-ai-thesis-writing-platform) · [官网](https://mysoul.echomysoul.us.kg/) · 个人维护 · 中文 README
 
 **面向教培/创业团队的 AI 论文写作平台源码（OEM 白标）**
 
@@ -39,6 +39,18 @@
 
 > L12:  学成写作 · AI 论文写作平台源码： 覆盖「写 → 改 → 排 → 降 → 检 → 答辩 → 分销」全链路。面向教培机构、流量主、创业团队的 OEM 白标 / 源码交付 方案，两档版本一眼选型。
 > L15:  🌐 立即体验： https://mysoul.echomysoul.us.kg
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "blanka-alt/-ai-thesis-writing-platform 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 55 --> 95
+    line [58, 92]
+```
+
+2026-11-27 58 → 2026-11-28 92（+34）
 
 
 ---

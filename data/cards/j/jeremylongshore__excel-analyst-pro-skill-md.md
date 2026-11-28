@@ -1,6 +1,6 @@
 # jeremylongshore/excel-analyst-pro-skill-md
 
-⭐ 64 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/jeremylongshore/excel-analyst-pro-skill-md) · [官网](https://claudecodeplugins.io) · 组织维护
+⭐ 65 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/jeremylongshore/excel-analyst-pro-skill-md) · [官网](https://claudecodeplugins.io) · 组织维护
 
 **给 Claude Code 的金融建模技能包：自然语言生成 DCF/LBO/方差分析 Excel**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jeremylongshore/excel-analyst-pro-skill-md 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 58 --> 65
-    line [60, 59, 60, 61, 63, 64, 64]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 58 --> 66
+    line [60, 59, 60, 61, 63, 64, 65]
 ```
 
-2026-10-25 60 → 2026-11-27 64（+4）
+2026-10-26 60 → 2026-11-28 65（+5）
 
 
 ---

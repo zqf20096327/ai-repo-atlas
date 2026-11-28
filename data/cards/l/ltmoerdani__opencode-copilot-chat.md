@@ -1,6 +1,6 @@
 # ltmoerdani/opencode-copilot-chat
 
-⭐ 214 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ltmoerdani/opencode-copilot-chat) · [官网](https://opencode.ai) · 个人维护
+⭐ 215 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ltmoerdani/opencode-copilot-chat) · [官网](https://opencode.ai) · 个人维护
 
 **把 OpenCode 网关模型接入 GitHub Copilot Chat 的 VS Code 扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ltmoerdani/opencode-copilot-chat 星数(近 15 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 209 --> 215
-    line [211, 210, 211, 210, 211, 213, 214, 213, 211, 212, 213, 214, 213, 214, 214]
+    title "ltmoerdani/opencode-copilot-chat 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 209 --> 216
+    line [210, 211, 210, 211, 213, 214, 213, 211, 212, 213, 214, 213, 214, 215]
 ```
 
-2026-10-25 211 → 2026-11-27 214（+3）
+2026-10-26 210 → 2026-11-28 215（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # mycellm/mycellm
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/mycellm/mycellm) · [官网](https://mycellm.ai) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/mycellm/mycellm) · [官网](https://mycellm.ai) · 组织维护
 
 **把分布各处的 GPU 组成 P2P 网络做分布式 LLM 推理**
 
@@ -47,12 +47,12 @@ mycellm 将互联网上的 GPU 汇聚为单一推理网络：消费端通过 Ope
 ```mermaid
 xychart-beta
     title "mycellm/mycellm 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-27 10（+0）
+2026-11-08 10 → 2026-11-28 11（+1）
 
 
 ---

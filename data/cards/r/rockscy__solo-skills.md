@@ -1,6 +1,6 @@
 # rockscy/solo-skills
 
-⭐ 12 · Shell · MIT · 推送 2026-07-01 · [GitHub](https://github.com/rockscy/solo-skills) · 个人维护 · 中文 README
+⭐ 13 · Shell · MIT · 推送 2026-07-01 · [GitHub](https://github.com/rockscy/solo-skills) · 个人维护 · 中文 README
 
 **面向独立开发者的 7 个双语 Claude Code 技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rockscy/solo-skills 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 13（+2）
 
 
 ---

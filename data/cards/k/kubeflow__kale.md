@@ -1,6 +1,6 @@
 # kubeflow/kale
 
-⭐ 707 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kubeflow/kale) · [官网](https://kale.kubeflow.org/) · 组织维护
+⭐ 708 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/kubeflow/kale) · [官网](https://kale.kubeflow.org/) · 组织维护
 
 **给数据科学家：一键将 Jupyter Notebook 转为 Kubeflow 流水线**
 
@@ -44,13 +44,13 @@ KALE（Kubeflow Automated pipeLines Engine）简化 Kubeflow Pipelines 工作流
 
 ```mermaid
 xychart-beta
-    title "kubeflow/kale 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 705 --> 708
-    line [707, 706, 707, 706, 707, 707]
+    title "kubeflow/kale 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 705 --> 709
+    line [706, 707, 706, 707, 708]
 ```
 
-2026-10-25 707 → 2026-11-27 707（+0）
+2026-10-26 706 → 2026-11-28 708（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # andromanpro/1c-ai-connector
 
-⭐ 110 · 1C Enterprise · MIT · 推送 2026-11-20 · [GitHub](https://github.com/andromanpro/1c-ai-connector) · [官网](https://androman.pro) · 个人维护 · 中文 README
+⭐ 109 · 1C Enterprise · MIT · 推送 2026-11-27 · [GitHub](https://github.com/andromanpro/1c-ai-connector) · [官网](https://androman.pro) · 个人维护 · 中文 README
 
 **1С:Предприятие 8.3 的 LLM 集成扩展：连接器、Agent、RAG、MCP**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "andromanpro/1c-ai-connector 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 105 --> 111
-    line [106, 107, 106, 108, 109, 110, 110]
+    line [106, 107, 106, 108, 109, 110, 109]
 ```
 
-2026-10-25 106 → 2026-11-27 110（+4）
+2026-10-26 106 → 2026-11-28 109（+3）
 
 
 ---

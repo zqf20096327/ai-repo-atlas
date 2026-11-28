@@ -45,12 +45,12 @@ crewbit 是一个守护进程：按 YAML 工作流定义轮询 issue 跟踪器�
 ```mermaid
 xychart-beta
     title "benedicta-tech/crewbit 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-25 17 → 2026-11-27 17（+0）
+2026-10-26 17 → 2026-11-28 17（+0）
 
 
 ---

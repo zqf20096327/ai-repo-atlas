@@ -1,10 +1,10 @@
 # MervinPraison/PraisonAI
 
-⭐ 9,385 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai) · 组织维护
+⭐ 9,389 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai) · 个人维护
 
-**可完全离线运行的 Python 多智能体框架，面向数据敏感团队**
+**可完全离线运行的 Python 多智能体框架**
 
-Python 编写的开源（MIT）agent 框架，围绕 Agent、AgentFlow、AgentTeam 提供五层结构：Prompt、Context、Harness、Loop、Graph，外加 Managed Agents 沙箱层（Docker/E2B/Modal）。组件拆分为多个包：核心 praisonaiagents、Bot 网关（10 个消息渠道）、Code 终端编码 agent、MCP 桥接、Train 微调。支持通过 Ollama/vLLM/LM Studio 接本地模型实现无 API key 的完全离线运行；另含面向银行、保险、医院的 Private AI 渐进移交机制（early access）。
+PraisonAI 是一个 Python 智能体框架，提供 teams、workflows、memory、tools 等核心能力，并按模块拆分为 Agents、Bot（Telegram/Discord/Slack/WhatsApp 接入）、Code（终端编码智能体）、MCP、Train（微调）等安装包。支持通过 Ollama/vLLM/LM Studio 运行本地模型，无需 API key。提出五层智能体栈（Prompt/Context/Harness/Loop/Graph）与 Managed Agents 沙箱执行机制，支持 Docker/E2B/Modal 等运行位置，并提供 YAML 无代码定义流程。面向需要本地化、可审计运行的团队。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Python 编写的开源（MIT）agent 框架，围绕 Agent、AgentFlow、AgentTe
 
 ## 能力要点
 
-- 通过 Ollama/vLLM/LM Studio 运行本地模型，可完全离线、无需 API key
-- 五层 Agent Stack：Prompt/Context/Harness/Loop/Graph，附 Managed 沙箱层
-- MCP 双向：agent 可调用 MCP 服务器，praisonai-mcp 向 22 个客户端暴露 85 个工具
-- 多包拆分：agents/bot/code/mcp/train 按需安装，支持 YAML 无代码定义流程
+- 支持本地模型完全离线运行（Ollama/vLLM/LM Studio），无需 API key
+- 五层智能体栈与 doom-loop 检测（默认开启）
+- MCP 双向支持：智能体调用 MCP 服务器，也可接入 Cursor 等 MCP 客户端
+- Bot 网关接入 10 个消息渠道，带审批、限流与会话管理
 
 ## 适用场景
 
-- 在离线/内网环境运行处理本地数据的 AI agent
-- 为 Telegram/Discord/Slack 等渠道部署 24/7 机器人
-- 在终端用 agent 读取和编辑代码
-- 在自有 GPU 上微调开源模型并训练 agent
+- 在无网络/隔离环境中运行本地 LLM 智能体
+- 构建多智能体协作流程（路由、并行、循环、交接）
+- 将智能体接入 Telegram/Discord/Slack 等 10 个渠道
+- 在 Cursor 等 MCP 客户端中使用自己的智能体工具
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `微调` · 领域:Agent 开发
+`Agent 框架` `多智能体` `编码 Agent` `微调` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L19:  Python agent framework: teams, workflows, memory, tools.
-> L54:  Chat apps and your tools on the left connect to PraisonAI in the middle: the Agents core with Bot, Code, MCP and T
+> L112:  Multi-agent teams Handoffs, route, parallel, loop and repeat.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "MervinPraison/PraisonAI 星数(近 24 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9280 --> 9394
-    line [9289, 9292, 9296, 9300, 9304, 9307, 9308, 9310, 9312, 9289, 9327, 9334, 9333, 9336, 9337, 9340, 9342, 9344, 9372, 9377, 9380, 9381, 9383, 9385]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 9279 --> 9399
+    line [9292, 9296, 9300, 9304, 9307, 9308, 9310, 9312, 9289, 9327, 9334, 9333, 9336, 9337, 9340, 9342, 9344, 9372, 9377, 9380, 9381, 9383, 9385, 9389]
 ```
 
-2026-10-25 9,289 → 2026-11-27 9,385（+96）
+2026-10-26 9,292 → 2026-11-28 9,389（+97）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `44f8147ec6c9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `d01750505d18` · [字段定义](../../DATASET.md)*

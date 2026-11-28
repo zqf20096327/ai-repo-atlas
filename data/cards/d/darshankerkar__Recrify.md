@@ -1,6 +1,6 @@
 # darshankerkar/Recrify
 
-⭐ 22 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/darshankerkar/Recrify) · [官网](https://recrify.co) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/darshankerkar/Recrify) · [官网](https://recrify.co) · 个人维护
 
 **面向招聘方与候选人的 AI 辅助招聘平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "darshankerkar/Recrify 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-28"]
     y-axis "stars" 16 --> 23
     line [17, 21, 22, 22]
 ```
 
-2026-10-30 17 → 2026-11-27 22（+5）
+2026-10-30 17 → 2026-11-28 22（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # TeleAI-UAGI/telemem
 
-⭐ 495 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/TeleAI-UAGI/telemem) · [官网](https://teleai-uagi.github.io/telemem/) · 组织维护 · 中文 README
+⭐ 496 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/TeleAI-UAGI/telemem) · [官网](https://teleai-uagi.github.io/telemem/) · 组织维护 · 中文 README
 
 **给对话型 AI Agent 提供长期角色记忆与视频多模态记忆层**
 
@@ -47,12 +47,12 @@ TeleMem 是一个 Agent 记忆管理层，可作为 Mem0 的 API 兼容替换（
 ```mermaid
 xychart-beta
     title "TeleAI-UAGI/telemem 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 491 --> 497
-    line [494, 493, 492, 493, 494, 495, 496, 495, 495]
+    line [494, 493, 492, 493, 494, 495, 496, 495, 496]
 ```
 
-2026-10-25 494 → 2026-11-27 495（+1）
+2026-10-26 494 → 2026-11-28 496（+2）
 
 
 ---

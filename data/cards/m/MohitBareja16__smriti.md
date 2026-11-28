@@ -1,6 +1,6 @@
 # MohitBareja16/smriti
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/MohitBareja16/smriti) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/MohitBareja16/smriti) · 个人维护
 
 **本地私有文档问答助手：快慢双路径回答自己笔记与证件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MohitBareja16/smriti 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-25 14 → 2026-11-27 15（+1）
+2026-10-26 14 → 2026-11-28 16（+2）
 
 
 ---

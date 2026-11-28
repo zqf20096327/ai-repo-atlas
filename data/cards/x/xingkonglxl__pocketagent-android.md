@@ -45,12 +45,12 @@ Android 应用，通过 SSH 连接用户自己的 Mac/Linux 电脑与服务器�
 ```mermaid
 xychart-beta
     title "xingkonglxl/pocketagent-android 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-27 4（+0）
+2026-11-08 4 → 2026-11-28 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cgrtml/neural-trees
 
-⭐ 38 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/cgrtml/neural-trees) · [官网](https://pypi.org/project/neural-trees/) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/cgrtml/neural-trees) · [官网](https://pypi.org/project/neural-trees/) · 个人维护
 
 **给开发者/科研者的软决策树与分类器比较 Python 库**
 
@@ -47,12 +47,12 @@ scikit-learn 兼容的机器学习库，以 PyTorch 为后端实现来自研究�
 ```mermaid
 xychart-beta
     title "cgrtml/neural-trees 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-25 38 → 2026-11-27 38（+0）
+2026-10-26 38 → 2026-11-28 38（+0）
 
 
 ---

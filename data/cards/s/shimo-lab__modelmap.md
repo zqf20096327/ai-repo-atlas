@@ -45,12 +45,12 @@ shimo-lab 的 ModelMap 研究项目页，主题为将语言模型表示为 log-l
 ```mermaid
 xychart-beta
     title "shimo-lab/modelmap 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-25 23 → 2026-11-27 23（+0）
+2026-10-26 23 → 2026-11-28 23（+0）
 
 
 ---

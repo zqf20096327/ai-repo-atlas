@@ -45,12 +45,12 @@ ComfyUI 功能节点集，提供图像与 latent 的 EXR 高精度读写节点�
 ```mermaid
 xychart-beta
     title "spacepxl/ComfyUI-HQ-Image-Save 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-25 104 → 2026-11-27 104（+0）
+2026-10-26 104 → 2026-11-28 104（+0）
 
 
 ---

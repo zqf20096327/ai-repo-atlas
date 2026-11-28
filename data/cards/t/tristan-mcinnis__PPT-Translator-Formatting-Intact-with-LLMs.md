@@ -45,12 +45,12 @@ Python 命令行工具，读取 PowerPoint，将每页文本以 JSON 模式批�
 ```mermaid
 xychart-beta
     title "tristan-mcinnis/PPT-Translator-Formatting-Intact-with-LLMs 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-25 33 → 2026-11-27 33（+0）
+2026-10-26 33 → 2026-11-28 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # karailker/restorax
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/karailker/restorax) · [官网](https://karailker.github.io/restorax) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/karailker/restorax) · [官网](https://karailker.github.io/restorax) · 个人维护
 
 **开源 AI 视频/音频修复平台：老片与档案影像的复原管线**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "karailker/restorax 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "karailker/restorax 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-26 10 → 2026-11-27 11（+1）
+2026-11-26 10 → 2026-11-28 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # constructorfabric/gears-rust
 
-⭐ 47 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/constructorfabric/gears-rust) · [官网](https://www.constructorfabric.org) · 组织维护
+⭐ 47 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/constructorfabric/gears-rust) · [官网](https://www.constructorfabric.org) · 组织维护
 
 **Rust 编写的模块化 XaaS 框架与中间件，面向多租户服务构建**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "constructorfabric/gears-rust 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "constructorfabric/gears-rust 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 44 --> 49
-    line [45, 46, 47, 48, 47, 48, 47]
+    line [45, 46, 47, 48, 47, 48, 47, 47]
 ```
 
-2026-10-18 45 → 2026-11-27 47（+2）
+2026-10-18 45 → 2026-11-28 47（+2）
 
 
 ---

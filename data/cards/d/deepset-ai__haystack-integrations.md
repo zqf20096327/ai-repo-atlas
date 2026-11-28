@@ -1,6 +1,6 @@
 # deepset-ai/haystack-integrations
 
-⭐ 114 · Python · 推送 2026-11-25 · [GitHub](https://github.com/deepset-ai/haystack-integrations) · [官网](https://haystack.deepset.ai/integrations) · 组织维护
+⭐ 114 · Python · 推送 2026-11-27 · [GitHub](https://github.com/deepset-ai/haystack-integrations) · [官网](https://haystack.deepset.ai/integrations) · 组织维护
 
 **Haystack 框架社区集成的官方索引仓库**
 
@@ -44,12 +44,12 @@ deepset 维护的 Haystack 集成条目索引：收录社区或 deepset 团队�
 ```mermaid
 xychart-beta
     title "deepset-ai/haystack-integrations 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
     y-axis "stars" 113 --> 116
     line [115, 114, 114]
 ```
 
-2026-10-25 115 → 2026-11-27 114（-1）
+2026-10-26 115 → 2026-11-28 114（-1）
 
 
 ---

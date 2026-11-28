@@ -1,6 +1,6 @@
 # redis-developer/langgraph-redis
 
-⭐ 246 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/redis-developer/langgraph-redis) · [官网](http://redis-developer.github.io/langgraph-redis/) · 组织维护
+⭐ 246 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/redis-developer/langgraph-redis) · [官网](http://redis-developer.github.io/langgraph-redis/) · 组织维护
 
 **为 LangGraph 提供基于 Redis 的记忆持久化与缓存组件**
 
@@ -46,12 +46,12 @@ redis-developer 维护的 LangGraph 官方 Redis 实现，包含三部分：Chec
 ```mermaid
 xychart-beta
     title "redis-developer/langgraph-redis 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-28"]
     y-axis "stars" 239 --> 247
     line [240, 241, 242, 240, 243, 244, 246, 246]
 ```
 
-2026-10-25 240 → 2026-11-27 246（+6）
+2026-10-26 240 → 2026-11-28 246（+6）
 
 
 ---

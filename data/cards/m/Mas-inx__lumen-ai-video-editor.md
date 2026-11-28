@@ -1,6 +1,6 @@
 # Mas-inx/lumen-ai-video-editor
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mas-inx/lumen-ai-video-editor) · [官网](https://github.com/Mas-inx/lumen-ai-video-editor/releases/latest) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mas-inx/lumen-ai-video-editor) · [官网](https://github.com/Mas-inx/lumen-ai-video-editor/releases/latest) · 组织维护
 
 **Windows 桌面 AI 视频编辑器：AI 助手可看、听、剪辑时间线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mas-inx/lumen-ai-video-editor 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 12 --> 22
-    line [13, 14, 16, 13, 16, 17, 18, 19, 20, 21, 21]
+    title "Mas-inx/lumen-ai-video-editor 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-22", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 12 --> 23
+    line [14, 16, 13, 16, 17, 18, 19, 20, 21, 22]
 ```
 
-2026-10-25 13 → 2026-11-27 21（+8）
+2026-10-26 14 → 2026-11-28 22（+8）
 
 
 ---

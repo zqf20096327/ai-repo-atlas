@@ -1,6 +1,6 @@
 # bluesky-social/diderot
 
-⭐ 59 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/bluesky-social/diderot) · [官网](https://diderot.dev) · 组织维护
+⭐ 60 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/bluesky-social/diderot) · [官网](https://diderot.dev) · 组织维护
 
 **自托管企业知识问答：跨 Slack、编码会话、文档检索并带引用作答**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bluesky-social/diderot 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 36 --> 61
-    line [38, 47, 50, 56, 59]
+    title "bluesky-social/diderot 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 36 --> 62
+    line [38, 47, 50, 56, 59, 60]
 ```
 
-2026-11-22 38 → 2026-11-27 59（+21）
+2026-11-22 38 → 2026-11-28 60（+22）
 
 
 ---

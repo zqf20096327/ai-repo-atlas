@@ -1,6 +1,6 @@
 # asieradzk/RL_Matrix
 
-⭐ 312 · C# · MIT · 推送 2026-04-23 · [GitHub](https://github.com/asieradzk/RL_Matrix) · 个人维护 · 中文 README
+⭐ 313 · C# · MIT · 推送 2026-04-23 · [GitHub](https://github.com/asieradzk/RL_Matrix) · 个人维护 · 中文 README
 
 **C# 深度强化学习框架，含 PPO/DQN/GAIL 与分布式训练**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "asieradzk/RL_Matrix 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 308 --> 313
-    line [309, 310, 309, 311, 312, 312]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 308 --> 314
+    line [309, 310, 309, 311, 312, 313]
 ```
 
-2026-10-25 309 → 2026-11-27 312（+3）
+2026-10-26 309 → 2026-11-28 313（+4）
 
 
 ---

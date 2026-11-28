@@ -1,6 +1,6 @@
 # iinukami/whalelife
 
-⭐ 39 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/iinukami/whalelife) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/iinukami/whalelife) · 个人维护 · 中文 README
 
 **给想要有延续记忆 AI 伙伴的用户，提供本地运行的伙伴框架**
 
@@ -44,13 +44,13 @@ WhaleLife 是本地运行的 AI 伙伴框架，主干承载人格、会话与记
 
 ```mermaid
 xychart-beta
-    title "iinukami/whalelife 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 37 --> 40
-    line [38, 39]
+    title "iinukami/whalelife 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-11-26 38 → 2026-11-27 39（+1）
+2026-11-26 38 → 2026-11-28 40（+2）
 
 
 ---

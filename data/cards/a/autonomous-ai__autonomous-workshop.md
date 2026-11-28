@@ -1,6 +1,6 @@
 # autonomous-ai/autonomous-workshop
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/autonomous-ai/autonomous-workshop) · [官网](www.autonomous.ai/toys) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/autonomous-ai/autonomous-workshop) · [官网](www.autonomous.ai/toys) · 组织维护
 
 **让用户创建并指挥自主 AI 发明家持续设计玩具与游戏的引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "autonomous-ai/autonomous-workshop 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 20 --> 25
     line [21, 22, 23, 21, 24, 24]
 ```
 
-2026-10-25 21 → 2026-11-27 24（+3）
+2026-10-26 21 → 2026-11-28 24（+3）
 
 
 ---

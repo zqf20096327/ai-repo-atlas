@@ -1,6 +1,6 @@
 # Dandush03/ArborLM
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Dandush03/ArborLM) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Dandush03/ArborLM) · 个人维护
 
 **面向研究者的语言模型神经记忆开放实验项目**
 
@@ -37,6 +37,18 @@ ArborLM 是一项开放研究：探索带可训练层级神经参数记忆的语
 
 > L5: **ArborLM** is a research proposal for a language model with **trainable hierarchical neural parameter memory**. The
 > L7: > **Scientific status: memory helped frozen backbones, but P5 did not establish a hierarchy advantage.** Learned rou
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dandush03/ArborLM 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
 
 
 ---

@@ -44,12 +44,12 @@ NeurIPS 2025 论文 Navigating the MIL Trade-Off: Flexible Pooling for Whole Sli
 ```mermaid
 xychart-beta
     title "jafarinia/maxsoft 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-25 24 → 2026-11-27 24（+0）
+2026-10-26 24 → 2026-11-28 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # neurominer-git/NeuroMiner
 
-⭐ 10 · MATLAB · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/neurominer-git/NeuroMiner) · [官网](https://neurominer-git.github.io/NeuroMiner/) · 组织维护
+⭐ 10 · MATLAB · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/neurominer-git/NeuroMiner) · [官网](https://neurominer-git.github.io/NeuroMiner/) · 组织维护
 
 **面向临床研究者的 MATLAB 机器学习分析软件**
 
@@ -46,12 +46,12 @@ NeuroMiner 是由 LMU 慕尼黑与伦敦国王学院团队自 2009 年起持续�
 ```mermaid
 xychart-beta
     title "neurominer-git/NeuroMiner 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 10（+0）
 
 
 ---

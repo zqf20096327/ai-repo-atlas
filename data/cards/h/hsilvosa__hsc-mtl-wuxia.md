@@ -41,6 +41,18 @@
 > L30: This project implements an end-to-end pipeline from raw, unaligned web/book sources to fine-tuned advanced sequence
 > L170: Following the LLM-as-a-Judge paradigm, validation protocols utilize state-of-the-art closed engines (Claude 3.5 So
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hsilvosa/hsc-mtl-wuxia 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-11-27 33 → 2026-11-28 33（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `bfe69d0bc89d` · [字段定义](../../DATASET.md)*

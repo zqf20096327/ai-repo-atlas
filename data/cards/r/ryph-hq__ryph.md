@@ -1,6 +1,6 @@
 # ryph-hq/ryph
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ryph-hq/ryph) · [官网](https://ryph.ai) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ryph-hq/ryph) · [官网](https://ryph.ai) · 组织维护
 
 **团队自托管的编码 agent 编排平台：告警响应、聊天协作、PR 交付**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ryph-hq/ryph 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-08 17 → 2026-11-27 17（+0）
+2026-11-08 17 → 2026-11-28 17（+0）
 
 
 ---

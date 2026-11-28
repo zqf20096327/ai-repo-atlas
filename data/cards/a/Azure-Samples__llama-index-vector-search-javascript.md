@@ -45,12 +45,12 @@ Azure-Samples 出品的 RAG 模板应用：用 LlamaIndex.ts 构建 ChatGPT 风�
 ```mermaid
 xychart-beta
     title "Azure-Samples/llama-index-vector-search-javascript 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

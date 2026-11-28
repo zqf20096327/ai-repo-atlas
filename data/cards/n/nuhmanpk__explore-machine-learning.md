@@ -1,6 +1,6 @@
 # nuhmanpk/explore-machine-learning
 
-⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/nuhmanpk/explore-machine-learning) · [官网](https://nuhmanpk.github.io/explore-machine-learning/) · 个人维护
+⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/nuhmanpk/explore-machine-learning) · [官网](https://nuhmanpk.github.io/explore-machine-learning/) · 个人维护
 
 **面向初学者的浏览器交互式机器学习课程（120 课）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nuhmanpk/explore-machine-learning 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-27 3（+0）
+2026-11-16 3 → 2026-11-28 3（+0）
 
 
 ---

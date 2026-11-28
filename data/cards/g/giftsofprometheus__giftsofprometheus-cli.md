@@ -1,6 +1,6 @@
 # giftsofprometheus/giftsofprometheus-cli
 
-⭐ 9 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/giftsofprometheus/giftsofprometheus-cli) · [官网](https://giftsofprometheus.com/?utm_source=github&utm_medium=repo&utm_campaign=cli) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/giftsofprometheus/giftsofprometheus-cli) · [官网](https://giftsofprometheus.com/?utm_source=github&utm_medium=repo&utm_campaign=cli) · 组织维护
 
 **俄语 AI 知识目录 CLI：供开发者与其 AI 代理检索大会演讲转录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "giftsofprometheus/giftsofprometheus-cli 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 10
-    line [7, 8, 9, 9]
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 6 --> 12
+    line [7, 8, 9, 11]
 ```
 
-2026-11-21 7 → 2026-11-27 9（+2）
+2026-11-21 7 → 2026-11-28 11（+4）
 
 
 ---

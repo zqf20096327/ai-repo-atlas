@@ -1,6 +1,6 @@
 # inmve/agentic-coding-practices
 
-⭐ 355 · 推送 2026-11-24 · [GitHub](https://github.com/inmve/agentic-coding-practices) · [官网](https://inmve.github.io/agentic-coding-practices/) · 个人维护
+⭐ 355 · 推送 2026-11-27 · [GitHub](https://github.com/inmve/agentic-coding-practices) · [官网](https://inmve.github.io/agentic-coding-practices/) · 个人维护
 
 **面向用 AI agent 写代码的开发者的实践策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inmve/agentic-coding-practices 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-28"]
     y-axis "stars" 352 --> 356
     line [354, 353, 354, 355, 355]
 ```
 
-2026-11-20 354 → 2026-11-27 355（+1）
+2026-11-20 354 → 2026-11-28 355（+1）
 
 
 ---

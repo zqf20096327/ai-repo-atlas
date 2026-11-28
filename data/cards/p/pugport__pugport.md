@@ -1,6 +1,6 @@
 # pugport/pugport
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pugport/pugport) · [官网](https://pugport.com) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/pugport/pugport) · [官网](https://pugport.com) · 个人维护 · 中文 README
 
 **把多个 AI 订阅账号聚合在一个聊天里，自动按用量路由任务**
 
@@ -40,6 +40,18 @@ PugPort 是一款桌面应用（Electron），面向付费了多个 AI 订阅的
 > L3:  Your AI subscriptions and accounts in one chat. PugPort sends each task to an account with usage to spare, picks th
 > L26: PugPort starts the official command-line tools you've already installed and signed in to; it never proxies or imita
 > L43: ## Supported executors
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pugport/pugport 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

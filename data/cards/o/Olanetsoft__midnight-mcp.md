@@ -45,12 +45,12 @@ TypeScript 编写的 MCP 服务器，向 Claude Desktop、Cursor、VS Code Copil
 ```mermaid
 xychart-beta
     title "Olanetsoft/midnight-mcp 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-25 37 → 2026-11-27 37（+0）
+2026-10-26 37 → 2026-11-28 37（+0）
 
 
 ---

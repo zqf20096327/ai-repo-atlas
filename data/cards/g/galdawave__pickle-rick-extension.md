@@ -1,6 +1,6 @@
 # galdawave/pickle-rick-extension
 
-⭐ 452 · TypeScript · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/galdawave/pickle-rick-extension) · 个人维护
+⭐ 451 · TypeScript · Apache-2.0 · 推送 2026-05-14 · [GitHub](https://github.com/galdawave/pickle-rick-extension) · 个人维护
 
 **Gemini CLI 扩展：迭代式 AI 代理开发循环与工程人格**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "galdawave/pickle-rick-extension 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-16", "2026-11-28"]
     y-axis "stars" 450 --> 453
-    line [452, 451, 452, 452]
+    line [452, 451, 452, 451]
 ```
 
-2026-10-25 452 → 2026-11-27 452（+0）
+2026-10-26 452 → 2026-11-28 451（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # NeuralInverse/neuralinverse
 
-⭐ 222 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NeuralInverse/neuralinverse) · [官网](https://cloud.neuralinverse.com) · 组织维护
+⭐ 219 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/NeuralInverse/neuralinverse) · [官网](https://cloud.neuralinverse.com) · 组织维护
 
 **面向固件与遗留系统现代化的开源 AI 原生 IDE（VS Code 分发版）**
 
@@ -45,13 +45,13 @@ Neural Inverse OSS 是基于 VS Code 代码库的开源编辑器（Apache 2.0）
 
 ```mermaid
 xychart-beta
-    title "NeuralInverse/neuralinverse 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 219 --> 234
-    line [232, 233, 232, 221, 220, 221, 222]
+    title "NeuralInverse/neuralinverse 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 218 --> 234
+    line [232, 233, 232, 221, 220, 221, 222, 219]
 ```
 
-2026-10-25 232 → 2026-11-27 222（-10）
+2026-10-26 232 → 2026-11-28 219（-13）
 
 
 ---

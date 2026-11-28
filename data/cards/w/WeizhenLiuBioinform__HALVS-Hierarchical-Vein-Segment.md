@@ -1,6 +1,6 @@
 # WeizhenLiuBioinform/HALVS-Hierarchical-Vein-Segment
 
-⭐ 17 · Python · 推送 2026-01-29 · [GitHub](https://github.com/WeizhenLiuBioinform/HALVS-Hierarchical-Vein-Segment) · 组织维护 · 中文 README
+⭐ 18 · Python · 推送 2026-01-29 · [GitHub](https://github.com/WeizhenLiuBioinform/HALVS-Hierarchical-Vein-Segment) · 组织维护 · 中文 README
 
 **叶脉层级分割数据集与半监督分割方法（IJCAI2024 论文）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WeizhenLiuBioinform/HALVS-Hierarchical-Vein-Segment 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-25 17 → 2026-11-27 17（+0）
+2026-10-26 17 → 2026-11-28 18（+1）
 
 
 ---

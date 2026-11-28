@@ -45,12 +45,12 @@ DSPHARM-Net 是论文 'Leveraging Input-Level Feature Deformation with Guided-At
 ```mermaid
 xychart-beta
     title "Shape-Lab/DSPHARM-Net 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-27"]
+    x-axis ["2026-10-28", "2026-11-28"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-28 17 → 2026-11-27 17（+0）
+2026-10-28 17 → 2026-11-28 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Feur-Inc/1loop
 
-⭐ 8 · Go · 推送 2026-11-26 · [GitHub](https://github.com/Feur-Inc/1loop) · [官网](https://feur-inc.github.io/1loop/) · 个人维护
+⭐ 8 · Go · 推送 2026-11-27 · [GitHub](https://github.com/Feur-Inc/1loop) · [官网](https://feur-inc.github.io/1loop/) · 个人维护
 
 **自托管的本地编码 agent，支持自选模型与多端运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Feur-Inc/1loop 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-22", "2026-11-28"]
     y-axis "stars" 5 --> 9
     line [6, 7, 8, 8]
 ```
 
-2026-10-26 6 → 2026-11-27 8（+2）
+2026-10-26 6 → 2026-11-28 8（+2）
 
 
 ---

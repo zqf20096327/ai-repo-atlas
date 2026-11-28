@@ -1,6 +1,6 @@
 # alpertunga-bile/prompt-generator-comfyui
 
-⭐ 118 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/alpertunga-bile/prompt-generator-comfyui) · 个人维护
+⭐ 119 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/alpertunga-bile/prompt-generator-comfyui) · 个人维护
 
 **ComfyUI 自定义节点：用文本生成模型产出绘画提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alpertunga-bile/prompt-generator-comfyui 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
-    y-axis "stars" 117 --> 119
-    line [118, 118]
+    x-axis ["2026-11-08", "2026-11-28"]
+    y-axis "stars" 117 --> 120
+    line [118, 119]
 ```
 
-2026-11-08 118 → 2026-11-27 118（+0）
+2026-11-08 118 → 2026-11-28 119（+1）
 
 
 ---

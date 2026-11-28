@@ -42,6 +42,18 @@
 > L48: |🚀 **入口层**|本地驾驶舱网页 + 常驻 AI 聊天浮窗|3|
 > L69: - **解决**：本地 Web 驾驶舱（FastAPI 8080）+ 常驻聊天浮窗 + DEEPSEEK 自然语言路由，把所有 skill 包装成"任何人打开浏览器跟系统说话就能用"
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fxl1209739475-fxl/lark-fashion-cockpit 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `7cf082d8d9e6` · [字段定义](../../DATASET.md)*

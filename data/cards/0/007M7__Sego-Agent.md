@@ -1,6 +1,6 @@
 # 007M7/Sego-Agent
 
-⭐ 22 · Rust · MIT · 推送 2026-09-21 · [GitHub](https://github.com/007M7/Sego-Agent) · 个人维护 · 中文 README
+⭐ 22 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/007M7/Sego-Agent) · 个人维护 · 中文 README
 
 **AI 生成代码的工程审查层：证据化评审与验收留痕**
 
@@ -45,12 +45,12 @@ Rust 编写的本地 CLI（九 crate 工作区），在 Claude Code、Codex、Cu
 ```mermaid
 xychart-beta
     title "007M7/Sego-Agent 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-25 21 → 2026-11-27 22（+1）
+2026-10-26 21 → 2026-11-28 22（+1）
 
 
 ---

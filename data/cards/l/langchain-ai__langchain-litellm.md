@@ -1,6 +1,6 @@
 # langchain-ai/langchain-litellm
 
-⭐ 62 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/langchain-litellm) · [官网](https://docs.langchain.com/oss/python/integrations/providers/litellm) · 组织维护
+⭐ 62 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/langchain-ai/langchain-litellm) · [官网](https://docs.langchain.com/oss/python/integrations/providers/litellm) · 组织维护
 
 **LangChain 与 LiteLLM 的模型调用集成包**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-litellm 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 59 --> 63
     line [60, 61, 60, 62, 62]
 ```
 
-2026-10-25 60 → 2026-11-27 62（+2）
+2026-10-26 60 → 2026-11-28 62（+2）
 
 
 ---

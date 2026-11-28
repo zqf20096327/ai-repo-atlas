@@ -1,6 +1,6 @@
 # Domush/antigravity-plugin-context-mode
 
-⭐ 149 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Domush/antigravity-plugin-context-mode) · [官网](https://domush.github.io/antigravity-plugin-context-mode/) · 个人维护
+⭐ 151 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Domush/antigravity-plugin-context-mode) · [官网](https://domush.github.io/antigravity-plugin-context-mode/) · 个人维护
 
 **为 Antigravity 编码代理拦截大文件输出、节省上下文 token 的本地插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Domush/antigravity-plugin-context-mode 星数(近 10 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 42 --> 158
-    line [51, 58, 67, 85, 99, 107, 123, 130, 143, 149]
+    title "Domush/antigravity-plugin-context-mode 星数(近 11 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 41 --> 161
+    line [51, 58, 67, 85, 99, 107, 123, 130, 143, 149, 151]
 ```
 
-2026-11-16 51 → 2026-11-27 149（+98）
+2026-11-16 51 → 2026-11-28 151（+100）
 
 
 ---

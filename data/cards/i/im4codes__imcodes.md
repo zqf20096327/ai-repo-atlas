@@ -1,6 +1,6 @@
 # im4codes/imcodes
 
-⭐ 965 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/im4codes/imcodes) · [官网](https://im.codes) · 个人维护
+⭐ 965 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/im4codes/imcodes) · [官网](https://im.codes) · 个人维护
 
 **给 coding agent 的 IM：共享记忆、受监督执行与跨 agent 审计**
 
@@ -46,12 +46,12 @@ IM.codes 将终端编码 agent 接入消息层：把受支持的机器注册为�
 ```mermaid
 xychart-beta
     title "im4codes/imcodes 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-28"]
     y-axis "stars" 960 --> 966
     line [965, 964, 965, 961, 962, 963, 964, 965, 965]
 ```
 
-2026-10-25 965 → 2026-11-27 965（+0）
+2026-10-26 965 → 2026-11-28 965（+0）
 
 
 ---

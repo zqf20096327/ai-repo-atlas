@@ -1,6 +1,6 @@
 # shahihussainofficial1/zorlo
 
-⭐ 3 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shahihussainofficial1/zorlo) · [官网](https://zorlo.stream) · 个人维护
+⭐ 4 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shahihussainofficial1/zorlo) · [官网](https://zorlo.stream) · 个人维护
 
 **低配 CPU PC 用 SSD 流式读取专家运行大 MoE 模型**
 
@@ -46,12 +46,12 @@ C++17 编写的 MoE 推理引擎：将注意力、路由器等常驻权重留在
 ```mermaid
 xychart-beta
     title "shahihussainofficial1/zorlo 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

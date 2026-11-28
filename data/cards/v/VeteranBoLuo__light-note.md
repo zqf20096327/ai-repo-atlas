@@ -1,6 +1,6 @@
 # VeteranBoLuo/light-note
 
-⭐ 111 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/VeteranBoLuo/light-note) · [官网](https://boluo66.top) · 个人维护 · 中文 README
+⭐ 112 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/VeteranBoLuo/light-note) · [官网](https://boluo66.top) · 个人维护 · 中文 README
 
 **免费在线书签/笔记/待办/云文件管理平台，内置模块 AI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "VeteranBoLuo/light-note 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 81 --> 113
-    line [83, 84, 83, 85, 86, 102, 110, 111]
+    title "VeteranBoLuo/light-note 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 81 --> 114
+    line [83, 84, 83, 85, 86, 102, 110, 111, 112]
 ```
 
-2026-10-25 83 → 2026-11-27 111（+28）
+2026-10-26 83 → 2026-11-28 112（+29）
 
 
 ---

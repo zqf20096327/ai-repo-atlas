@@ -1,6 +1,6 @@
 # kingerguy0-lgtm/madaren-dlss5-enhancer
 
-⭐ 145 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/kingerguy0-lgtm/madaren-dlss5-enhancer) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向游戏玩家的 DLSS5 画面调节 mod**
 

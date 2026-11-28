@@ -1,6 +1,6 @@
 # belingud/yaicli
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/belingud/yaicli) · [官网](https://belingud.github.io/yaicli/) · 个人维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/belingud/yaicli) · [官网](https://belingud.github.io/yaicli/) · 个人维护 · 中文 README
 
 **命令行 AI 助手：在终端对话、执行命令与快速问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "belingud/yaicli 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # BBAIGC/BBTV-AI-Canvas
 
-⭐ 8 · 推送 2026-11-26 · [GitHub](https://github.com/BBAIGC/BBTV-AI-Canvas) · [官网](https://bbtv.ainivox.cn/) · 组织维护 · 中文 README
+⭐ 11 · 推送 2026-11-27 · [GitHub](https://github.com/BBAIGC/BBTV-AI-Canvas) · [官网](https://bbtv.ainivox.cn/) · 组织维护 · 中文 README
 
 **面向 Windows 创作者的本地 AI 无限画布：图片视频生成与放大**
 
@@ -45,13 +45,13 @@ Windows 本地运行的 AI 无限画布软件，把参考图、剧本、分镜�
 
 ```mermaid
 xychart-beta
-    title "BBAIGC/BBTV-AI-Canvas 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 9
-    line [4, 8]
+    title "BBAIGC/BBTV-AI-Canvas 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 12
+    line [4, 8, 11]
 ```
 
-2026-11-26 4 → 2026-11-27 8（+4）
+2026-11-26 4 → 2026-11-28 11（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Nahomi055/medical-risk-screening-bot
 
-⭐ 154 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Nahomi055/medical-risk-screening-bot) · 个人维护
+⭐ 154 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Nahomi055/medical-risk-screening-bot) · 个人维护
 
 **社区驱动的 Telegram 机器人：糖尿病与心脏病早期风险初筛**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nahomi055/medical-risk-screening-bot 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-27"]
+    title "Nahomi055/medical-risk-screening-bot 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-27", "2026-11-28"]
     y-axis "stars" 152 --> 155
-    line [153, 154]
+    line [153, 154, 154]
 ```
 
-2026-11-18 153 → 2026-11-27 154（+1）
+2026-11-18 153 → 2026-11-28 154（+1）
 
 
 ---

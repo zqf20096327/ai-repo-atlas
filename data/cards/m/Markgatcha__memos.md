@@ -1,6 +1,6 @@
 # Markgatcha/memos
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Markgatcha/memos) · [官网](https://context-core.dev/memos/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Markgatcha/memos) · [官网](https://context-core.dev/memos/) · 个人维护
 
 **为 AI agent 提供本地 SQLite 持久记忆层的工具**
 
@@ -46,12 +46,12 @@ MemOS 以单个 SQLite 文件为存储，为 MCP 客户端与 agent 提供跨会
 ```mermaid
 xychart-beta
     title "Markgatcha/memos 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-11-01 10 → 2026-11-27 12（+2）
+2026-11-01 10 → 2026-11-28 12（+2）
 
 
 ---

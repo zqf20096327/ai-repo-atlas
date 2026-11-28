@@ -45,12 +45,12 @@ USENIX Security 2023 论文 'Decompiling x86 Deep Neural Network Executables' �
 ```mermaid
 xychart-beta
     title "monkbai/DNN-decompiler 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 198 --> 200
     line [199, 199]
 ```
 
-2026-10-25 199 → 2026-11-27 199（+0）
+2026-10-26 199 → 2026-11-28 199（+0）
 
 
 ---

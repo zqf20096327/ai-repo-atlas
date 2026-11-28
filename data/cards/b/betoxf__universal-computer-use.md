@@ -1,6 +1,6 @@
 # betoxf/universal-computer-use
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/betoxf/universal-computer-use) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/betoxf/universal-computer-use) · 个人维护
 
 **让 AI agent 在后台操作 Mac 应用的 MCP 服务器**
 
@@ -45,12 +45,12 @@ UCU 是一个 MCP 服务器，供 Claude Code、opencode 及其他 MCP 客户端
 ```mermaid
 xychart-beta
     title "betoxf/universal-computer-use 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-27"]
+    x-axis ["2026-11-21", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-27 3（+0）
+2026-11-21 3 → 2026-11-28 3（+0）
 
 
 ---

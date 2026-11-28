@@ -1,6 +1,6 @@
 # sinch/skills
 
-⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-10-03 · [GitHub](https://github.com/sinch/skills) · [官网](https://sinch.com/) · 组织维护
+⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/sinch/skills) · [官网](https://sinch.com/) · 组织维护
 
 **Sinch 通信 API 的 AI agent 技能集，供编码助手调用**
 
@@ -44,12 +44,12 @@ Sinch 官方维护的 AI agent 技能库：以 SKILL.md 文件为载体，向 AI
 ```mermaid
 xychart-beta
     title "sinch/skills 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # blaz-r/BTC-change-detection
 
-⭐ 43 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/blaz-r/BTC-change-detection) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **遥感变化检测模型库：系统分析设计选择并训练检测双时相影像变化**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

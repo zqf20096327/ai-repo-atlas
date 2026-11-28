@@ -1,6 +1,6 @@
 # MWDLH/kaleidosec
 
-⭐ 25 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MWDLH/kaleidosec) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MWDLH/kaleidosec) · 个人维护 · 中文 README
 
 **给 AI Agent 的渗透测试决策协议，以 Claude Code 插件分发**
 
@@ -46,12 +46,12 @@ Kaleidosec 不提供扫描器或 payload 生成，注入的是一套决策协议
 ```mermaid
 xychart-beta
     title "MWDLH/kaleidosec 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-11-26 25 → 2026-11-27 25（+0）
+2026-11-26 25 → 2026-11-28 26（+1）
 
 
 ---

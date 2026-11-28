@@ -1,6 +1,6 @@
 # pegainfer-project/kern
 
-⭐ 246 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pegainfer-project/kern) · [官网](https://kern-baa.pages.dev/) · 组织维护
+⭐ 247 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pegainfer-project/kern) · [官网](https://kern-baa.pages.dev/) · 组织维护
 
 **面向 agent 的 GPU LLM 推理运行时，模型以清单+内核交付**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "pegainfer-project/kern 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 222 --> 248
-    line [224, 235, 245, 246]
+    title "pegainfer-project/kern 星数(近 5 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 222 --> 249
+    line [224, 235, 245, 246, 247]
 ```
 
-2026-11-23 224 → 2026-11-27 246（+22）
+2026-11-23 224 → 2026-11-28 247（+23）
 
 
 ---

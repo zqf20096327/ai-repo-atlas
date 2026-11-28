@@ -1,6 +1,6 @@
 # llm-exe/llm-exe
 
-⭐ 138 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/llm-exe/llm-exe) · [官网](https://llm-exe.com) · 个人维护
+⭐ 138 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/llm-exe/llm-exe) · [官网](https://llm-exe.com) · 个人维护
 
 **JS/TS 库：提供建构块简化 LLM 应用开发维护**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "llm-exe/llm-exe 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-28"]
     y-axis "stars" 135 --> 139
     line [136, 137, 138, 138]
 ```
 
-2026-10-25 136 → 2026-11-27 138（+2）
+2026-10-26 136 → 2026-11-28 138（+2）
 
 
 ---

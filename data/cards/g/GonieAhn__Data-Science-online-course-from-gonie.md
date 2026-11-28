@@ -46,12 +46,12 @@ Gonie Ahn 的数据科学课程资料仓库：按 10 个 Class 组织 PDF 讲义
 ```mermaid
 xychart-beta
     title "GonieAhn/Data-Science-online-course-from-gonie 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-23 14 → 2026-11-27 14（+0）
+2026-11-23 14 → 2026-11-28 14（+0）
 
 
 ---

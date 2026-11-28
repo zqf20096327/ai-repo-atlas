@@ -1,6 +1,6 @@
 # jmix-framework/jmix-docai
 
-⭐ 12 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jmix-framework/jmix-docai) · [官网](https://demo.jmix.io/docai/) · 组织维护
+⭐ 13 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/jmix-framework/jmix-docai) · [官网](https://demo.jmix.io/docai/) · 组织维护
 
 **面向开发者的 Jmix 文档管理示例应用，含语义搜索与 RAG 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jmix-framework/jmix-docai 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-18", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 13
-    line [7, 9, 10, 11, 12, 12]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-18", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 6 --> 14
+    line [7, 9, 10, 11, 12, 13]
 ```
 
-2026-11-12 7 → 2026-11-27 12（+5）
+2026-11-12 7 → 2026-11-28 13（+6）
 
 
 ---

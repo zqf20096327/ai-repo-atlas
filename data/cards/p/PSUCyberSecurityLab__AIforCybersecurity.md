@@ -40,6 +40,18 @@ Penn State 网络安全实验室发布的书籍《AI for Cybersecurity: A Handbo
 > L2: This repository includes all code, data, and reference to relevent resources that used in book AI for Cybersecurity:
 > L25: PDF of manuscript is posted by Penn State Cybersecurity Lab. Users could download a PDF version (Download) for pers
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PSUCyberSecurityLab/AIforCybersecurity 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-11-27 24 → 2026-11-28 24（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `178e121164cc` · [字段定义](../../DATASET.md)*

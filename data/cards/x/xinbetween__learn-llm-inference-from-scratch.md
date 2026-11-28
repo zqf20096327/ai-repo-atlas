@@ -1,6 +1,6 @@
 # xinbetween/learn-llm-inference-from-scratch
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/xinbetween/learn-llm-inference-from-scratch) · [官网](https://llminference.xinbetween.com/) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/xinbetween/learn-llm-inference-from-scratch) · [官网](https://llminference.xinbetween.com/) · 个人维护 · 中文 README
 
 **从零构建 LLM 推理引擎的动手教程（20 章 NumPy 实现）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xinbetween/learn-llm-inference-from-scratch 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "xinbetween/learn-llm-inference-from-scratch 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-22 10 → 2026-11-27 11（+1）
+2026-11-22 10 → 2026-11-28 12（+2）
 
 
 ---

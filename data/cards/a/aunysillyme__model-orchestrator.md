@@ -1,6 +1,6 @@
 # aunysillyme/model-orchestrator
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aunysillyme/model-orchestrator) · [官网](https://model-orchestrator.aunysillyme.dev) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aunysillyme/model-orchestrator) · [官网](https://model-orchestrator.aunysillyme.dev) · 个人维护
 
 **AI 编码代理的模型路由器：按规则把日常任务分给廉价模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aunysillyme/model-orchestrator 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21]
 ```
 
-2026-10-25 19 → 2026-11-27 20（+1）
+2026-10-26 19 → 2026-11-28 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # T0nd3/logatory
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/T0nd3/logatory) · [官网](https://pypi.org/project/logatory/) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/T0nd3/logatory) · [官网](https://pypi.org/project/logatory/) · 个人维护
 
 **本地日志分析 CLI：PII 脱敏、威胁/异常检测、LLM 解读**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "T0nd3/logatory 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

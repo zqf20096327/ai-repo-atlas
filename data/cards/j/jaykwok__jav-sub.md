@@ -1,6 +1,6 @@
 # jaykwok/jav-sub
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/jaykwok/jav-sub) · [官网](https://github.com/jaykwok/jav-sub/releases/latest) · 个人维护 · 中文 README
+⭐ 59 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/jaykwok/jav-sub) · [官网](https://github.com/jaykwok/jav-sub/releases/latest) · 个人维护 · 中文 README
 
 **给 Windows + NVIDIA 用户本地一键生成日语视频字幕的工具**
 
@@ -39,6 +39,18 @@ Windows 桌面工具，选定视频后自动完成日语语音识别（Qwen3-ASR
 
 > L3: **为日语视频一键生成日文、中文或双语 SRT 字幕。** 在本机桌面窗口选好视频，自动完成日语识别、时间轴对齐、翻译（本地或 API）与字幕排版导出。
 > L7: > **适用环境**：Windows 10/11 + NVIDIA 显卡（≥ 8 GB 显存）。字幕默认保存到视频所在目录。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jaykwok/jav-sub 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 58 --> 60
+    line [59, 59]
+```
+
+2026-11-27 59 → 2026-11-28 59（+0）
 
 
 ---

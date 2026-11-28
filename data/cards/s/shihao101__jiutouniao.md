@@ -1,6 +1,6 @@
 # shihao101/jiutouniao
 
-⭐ 14 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/shihao101/jiutouniao) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/shihao101/jiutouniao) · 个人维护 · 中文 README
 
 **面向授权渗透测试的多阶段 AI 智能体平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "shihao101/jiutouniao 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-23", "2026-11-27"]
+    title "shihao101/jiutouniao 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-23", "2026-11-27", "2026-11-28"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 14]
+    line [11, 12, 14, 14]
 ```
 
-2026-11-16 11 → 2026-11-27 14（+3）
+2026-11-16 11 → 2026-11-28 14（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # KyaniteLabs/qwen38-27b-strix-halo
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/KyaniteLabs/qwen38-27b-strix-halo) · [官网](https://kyanitelabs.tech/blog/qwen-27b-strix-halo-complete) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/KyaniteLabs/qwen38-27b-strix-halo) · [官网](https://kyanitelabs.tech/blog/qwen-27b-strix-halo-complete) · 组织维护
 
 **在 AMD Strix Halo 上运行 Qwen3.8-27B 的实测调优配置仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KyaniteLabs/qwen38-27b-strix-halo 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

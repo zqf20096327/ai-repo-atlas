@@ -47,12 +47,12 @@ omakase-bench 是一个机器人任务基准与执行框架：指定模型后在
 ```mermaid
 xychart-beta
     title "Omakase-Robotics-Org/omakase-bench 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 5（+0）
 
 
 ---

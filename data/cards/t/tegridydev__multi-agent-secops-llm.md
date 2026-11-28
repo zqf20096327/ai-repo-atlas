@@ -46,12 +46,12 @@ MASOP 把目录扫描或实时 telemetry 轮询的输入转化为安全发现队
 ```mermaid
 xychart-beta
     title "tegridydev/multi-agent-secops-llm 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 10（+0）
 
 
 ---

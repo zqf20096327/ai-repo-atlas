@@ -46,12 +46,12 @@ Unreal Engine 插件，通过 Model Context Protocol 暴露 36 个工具，覆�
 ```mermaid
 xychart-beta
     title "TomLeeLive/openclaw-unreal-plugin 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 14（+1）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # moment-timeseries-foundation-model/TimeSeriesGym
 
-⭐ 54 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/moment-timeseries-foundation-model/TimeSeriesGym) · 组织维护
+⭐ 55 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/moment-timeseries-foundation-model/TimeSeriesGym) · 组织维护
 
 **面向时间序列 ML 工程 Agent 的评测基准（33 项挑战）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "moment-timeseries-foundation-model/TimeSeriesGym 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
-    y-axis "stars" 52 --> 55
-    line [53, 54, 54]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-28"]
+    y-axis "stars" 52 --> 56
+    line [53, 54, 55]
 ```
 
-2026-10-25 53 → 2026-11-27 54（+1）
+2026-10-26 53 → 2026-11-28 55（+2）
 
 
 ---

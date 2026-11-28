@@ -1,6 +1,6 @@
 # rockywuest/pidog-embodiment
 
-⭐ 24 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rockywuest/pidog-embodiment) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rockywuest/pidog-embodiment) · 个人维护
 
 **给树莓派机器狗接上本地 LLM 大脑的开源具身框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rockywuest/pidog-embodiment 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 22, 24, 24]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 22, 24, 25]
 ```
 
-2026-10-25 22 → 2026-11-27 24（+2）
+2026-10-26 22 → 2026-11-28 25（+3）
 
 
 ---

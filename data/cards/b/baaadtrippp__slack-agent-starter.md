@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "baaadtrippp/slack-agent-starter 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-28"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-16 7 → 2026-11-27 7（+0）
+2026-11-16 7 → 2026-11-28 7（+0）
 
 
 ---

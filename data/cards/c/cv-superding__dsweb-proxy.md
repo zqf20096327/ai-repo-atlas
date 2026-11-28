@@ -1,6 +1,6 @@
 # cv-superding/dsweb-proxy
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/cv-superding/dsweb-proxy) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/cv-superding/dsweb-proxy) · 个人维护 · 中文 README
 
 **把 DeepSeek/千问/豆包网页登录态转为 OpenAI 兼容本地反代**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cv-superding/dsweb-proxy 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18, 15, 18, 18]
+    title "cv-superding/dsweb-proxy 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 14 --> 20
+    line [16, 17, 18, 15, 18, 19]
 ```
 
-2026-10-25 15 → 2026-11-27 18（+3）
+2026-10-26 16 → 2026-11-28 19（+3）
 
 
 ---

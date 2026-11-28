@@ -1,10 +1,10 @@
 # brycewang-stanford/StatsPAI
 
-⭐ 385 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/brycewang-stanford/StatsPAI) · [官网](https://brycewang-stanford.github.io/StatsPAI/) · 组织维护 · 中文 README
+⭐ 387 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/brycewang-stanford/StatsPAI) · [官网](https://brycewang-stanford.github.io/StatsPAI/) · 组织维护 · 中文 README
 
-**研究者的 Python 因果推断/计量经济学库，代理可直接调用**
+**给实证研究者用 Python 完成因果推断与计量工作流的库**
 
-面向习惯在 Stata、R 与 Python 之间切换的实证研究者，提供单一 API 的计量与因果推断工作流：OLS/IV、高维固定效应、交错 DiD、断点回归、合成控制、匹配、双重机器学习等，输出支持 .tidy()/.to_latex()/.to_docx()/.to_agent_summary()。每个公开函数注册机器可读 schema，并内置 statspai-mcp 服务器供 MCP 客户端调用。每个函数带 validation_status 区分数值校验证据与仅 API 稳定状态；Python 3.10–3.13，支持 Linux 与 macOS。
+面向习惯在 Stata、R 与 Python 之间切换的实证研究者，将常见计量与因果推断流程统一到单一 Python API：数据加载、模型估计、诊断、表格导出，并可把结果交给 agent 或 notebook。提供 Stata/R 风格入口（regress、ivregress、csdid、rdrobust 等）、Stata vce 语法、14 个离线数据集，以及 1,692 个注册函数的机器可读 schema 与 statspai-mcp 服务器。每个函数带 validation_status 标注数值对齐证据等级；部分薄封装已弃用。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 1,692 个注册函数、92 个子模块，统一 Stata/R 风格 API
-- 每个函数注册机器可读 schema，附 MCP 服务器（statspai-mcp）
-- sp.stata()/sp.from_stata()/sp.from_r() 运行或翻译既有 Stata/R 命令
-- 29 个估计量的标准误与 Stata 18 以 1e-6 预算对齐，函数带 validation_status
+- 覆盖 OLS/IV/DiD/RD/合成控制/匹配/双重机器学习等方法的统一 API
+- 每个公开函数注册机器可读 schema，附带 statspai-mcp 服务器供 MCP 客户端调用
+- 内置 14 个可离线加载的已发表数据集，示例结果由测试锁定
+- R/Stata 数值对齐验证，函数带 validation_status 标注
 
 ## 适用场景
 
-- 把既有 Stata .do 文件流程迁移到 Python 并核对结果
-- 实证研究中的 DiD、RD、IV、合成控制等估计与论文表格导出
-- 让 AI 代理通过 MCP 调用计量估计并获取结构化结果
+- 用 Python 复现原 Stata/R 的回归与因果推断流程
+- 让 agent 通过 MCP 调用计量估计器做实证分析
+- 教学或研究中使用内置经典数据集练习 IV、DiD、RD 等方法
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`数据分析` `科研工具` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -45,14 +45,14 @@
 
 ```mermaid
 xychart-beta
-    title "brycewang-stanford/StatsPAI 星数(近 20 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 345 --> 388
-    line [348, 353, 352, 354, 357, 358, 359, 362, 348, 367, 371, 372, 374, 375, 376, 377, 378, 379, 385, 385]
+    title "brycewang-stanford/StatsPAI 星数(近 19 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 345 --> 390
+    line [353, 352, 354, 357, 358, 359, 362, 348, 367, 371, 372, 374, 375, 376, 377, 378, 379, 385, 387]
 ```
 
-2026-10-25 348 → 2026-11-27 385（+37）
+2026-10-26 353 → 2026-11-28 387（+34）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6e2f861f5e9e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `a3033ac6683a` · [字段定义](../../DATASET.md)*

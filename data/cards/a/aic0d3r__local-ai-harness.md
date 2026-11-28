@@ -1,6 +1,6 @@
 # aic0d3r/local-ai-harness
 
-⭐ 38 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aic0d3r/local-ai-harness) · [官网](https://aic0d3r.github.io/local-ai-harness/) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aic0d3r/local-ai-harness) · [官网](https://aic0d3r.github.io/local-ai-harness/) · 个人维护
 
 **给本地跑编程 agent 的硬件检测与引擎切换工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aic0d3r/local-ai-harness 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-28"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-11-10 38 → 2026-11-27 38（+0）
+2026-11-10 38 → 2026-11-28 38（+0）
 
 
 ---

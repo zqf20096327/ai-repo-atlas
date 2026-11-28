@@ -46,12 +46,12 @@ Agent FaultLab 向 agent 的工具调用与进程注入故障（响应丢失、�
 ```mermaid
 xychart-beta
     title "simioniandrea/agent-faultlab 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 3（+0）
 
 
 ---

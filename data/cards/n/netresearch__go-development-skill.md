@@ -1,6 +1,6 @@
 # netresearch/go-development-skill
 
-⭐ 15 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/netresearch/go-development-skill) · 组织维护
+⭐ 15 · Shell · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/netresearch/go-development-skill) · 组织维护
 
 **面向 AI agent 的 Go 企业级开发技能包（SKILL.md 标准）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/go-development-skill 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
     y-axis "stars" 12 --> 16
     line [13, 15, 15]
 ```
 
-2026-10-25 13 → 2026-11-27 15（+2）
+2026-10-26 13 → 2026-11-28 15（+2）
 
 
 ---

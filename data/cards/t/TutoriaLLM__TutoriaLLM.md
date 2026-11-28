@@ -1,6 +1,6 @@
 # TutoriaLLM/TutoriaLLM
 
-⭐ 303 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/TutoriaLLM/TutoriaLLM) · [官网](https://tutoriallm.com) · 组织维护
+⭐ 303 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/TutoriaLLM/TutoriaLLM) · [官网](https://tutoriallm.com) · 组织维护
 
 **面向 K-12 的自托管 LLM 编程学习平台**
 
@@ -44,12 +44,12 @@ TutoriaLLM 是可在 Web 上使用的自托管编程学习平台，面向 K-12 �
 ```mermaid
 xychart-beta
     title "TutoriaLLM/TutoriaLLM 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 302 --> 304
     line [303, 303]
 ```
 
-2026-10-25 303 → 2026-11-27 303（+0）
+2026-10-26 303 → 2026-11-28 303（+0）
 
 
 ---

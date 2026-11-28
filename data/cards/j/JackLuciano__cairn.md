@@ -1,6 +1,6 @@
 # JackLuciano/cairn
 
-⭐ 3 · Rust · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/JackLuciano/cairn) · 个人维护
+⭐ 4 · Rust · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/JackLuciano/cairn) · 个人维护
 
 **面向进阶开发者的 Windows 原生 git 图形客户端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "JackLuciano/cairn 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-16", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-16 3 → 2026-11-27 3（+0）
+2026-11-16 3 → 2026-11-28 4（+1）
 
 
 ---

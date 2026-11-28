@@ -1,6 +1,6 @@
 # lokutor-ai/lokutor-orchestrator
 
-⭐ 10 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/lokutor-ai/lokutor-orchestrator) · [官网](https://www.lokutor.com) · 组织维护
+⭐ 10 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/lokutor-ai/lokutor-orchestrator) · [官网](https://www.lokutor.com) · 组织维护
 
 **Go 语音代理编排库：串联 STT/LLM/TTS 实现低延迟对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lokutor-ai/lokutor-orchestrator 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

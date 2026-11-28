@@ -1,6 +1,6 @@
 # abhiramasonny/jaithon
 
-⭐ 45 · Jai · MIT · 推送 2026-10-08 · [GitHub](https://github.com/abhiramasonny/jaithon) · 个人维护
+⭐ 45 · Jai · MIT · 推送 2026-11-27 · [GitHub](https://github.com/abhiramasonny/jaithon) · 个人维护
 
 **Java/Python 风格的垃圾回收语言，字节码 VM + JIT，附 Metal GPU 科学计算库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "abhiramasonny/jaithon 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-11-26 45 → 2026-11-27 45（+0）
+2026-11-26 45 → 2026-11-28 45（+0）
 
 
 ---

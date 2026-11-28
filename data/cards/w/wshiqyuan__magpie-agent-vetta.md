@@ -40,6 +40,18 @@
 > L3: 为 Vetta Desktop 提供 Magpie Agent 集成。Magpie 可用 Vetta 的名称和图标识别该 Agent，并通过 Library 向 Vetta 分发全局指令、MCP 服务器和 Skills。
 > L13: 该插件只负责 Agent 身份和 Library 资源，不配置模型账号或接管模型路由。请在 Vetta 中使用其内置的 Magpie Provider 配置模型连接。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wshiqyuan/magpie-agent-vetta 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `37ecfcde05bf` · [字段定义](../../DATASET.md)*

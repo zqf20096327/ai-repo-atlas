@@ -1,6 +1,6 @@
 # i2y/edda
 
-⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/i2y/edda) · [官网](https://i2y.github.io/edda/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/i2y/edda) · [官网](https://i2y.github.io/edda/) · 个人维护
 
 **Python 内嵌式持久化执行框架，让长流程在崩溃后自动恢复**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "i2y/edda 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-30 10 → 2026-11-27 10（+0）
+2026-10-30 10 → 2026-11-28 10（+0）
 
 
 ---

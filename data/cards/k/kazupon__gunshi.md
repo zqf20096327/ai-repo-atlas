@@ -1,6 +1,6 @@
 # kazupon/gunshi
 
-⭐ 479 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kazupon/gunshi) · [官网](https://gunshi.dev) · 个人维护
+⭐ 479 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/kazupon/gunshi) · [官网](https://gunshi.dev) · 个人维护
 
 **面向人类与 AI agent 使用 CLI 的 JavaScript 命令行库**
 
@@ -45,12 +45,12 @@ Gunshi 是一个 JavaScript 命令行库，用于构建现代 CLI：声明式命
 ```mermaid
 xychart-beta
     title "kazupon/gunshi 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-21", "2026-11-28"]
     y-axis "stars" 478 --> 481
     line [479, 480, 479, 479]
 ```
 
-2026-11-13 479 → 2026-11-27 479（+0）
+2026-11-13 479 → 2026-11-28 479（+0）
 
 
 ---

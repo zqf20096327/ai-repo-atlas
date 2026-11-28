@@ -1,6 +1,6 @@
 # sipeed/MaixCDK
 
-⭐ 144 · C · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/sipeed/MaixCDK) · [官网](https://wiki.sipeed.com/maixcdk/) · 组织维护 · 中文 README
+⭐ 144 · C · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/sipeed/MaixCDK) · [官网](https://wiki.sipeed.com/maixcdk/) · 组织维护 · 中文 README
 
 **嵌入式 C/C++ 开发套件：在 Maix 板上快速构建 AI 视觉/听觉应用**
 
@@ -46,12 +46,12 @@ Sipeed 维护的 C/C++ 开发套件，MaixPy 的 C/C++ 版本，面向在 Sipeed
 ```mermaid
 xychart-beta
     title "sipeed/MaixCDK 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-28"]
     y-axis "stars" 142 --> 145
     line [143, 144, 144]
 ```
 
-2026-10-25 143 → 2026-11-27 144（+1）
+2026-10-26 143 → 2026-11-28 144（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # 1arley/jev-advisor-gateway
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/1arley/jev-advisor-gateway) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/1arley/jev-advisor-gateway) · 个人维护
 
 **本地网关：让 Jev 决定编码 agent 的工具调用，可附加只读 advisor**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "1arley/jev-advisor-gateway 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-28"]
     y-axis "stars" 12 --> 30
-    line [29, 13, 14, 15, 15]
+    line [29, 13, 14, 15, 16]
 ```
 
-2026-11-02 29 → 2026-11-27 15（-14）
+2026-11-02 29 → 2026-11-28 16（-13）
 
 
 ---

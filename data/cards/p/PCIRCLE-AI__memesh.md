@@ -1,6 +1,6 @@
 # PCIRCLE-AI/memesh
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PCIRCLE-AI/memesh) · [官网](https://pcircle.com/memesh) · 组织维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/PCIRCLE-AI/memesh) · [官网](https://pcircle.com/memesh) · 组织维护 · 中文 README
 
 **为 Claude Code/Codex 提供本地共享记忆与 agent 通信层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PCIRCLE-AI/memesh 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 16（+0）
 
 
 ---

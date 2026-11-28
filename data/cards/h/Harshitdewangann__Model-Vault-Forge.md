@@ -46,12 +46,12 @@ NeuralForge Studio 宣称为开源模型装配、调优与部署套件，功能�
 ```mermaid
 xychart-beta
     title "Harshitdewangann/Model-Vault-Forge 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-25 56 → 2026-11-27 56（+0）
+2026-10-26 56 → 2026-11-28 56（+0）
 
 
 ---

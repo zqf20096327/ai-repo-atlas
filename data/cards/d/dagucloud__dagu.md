@@ -1,10 +1,10 @@
 # dagucloud/dagu
 
-⭐ 4,689 · Go · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
+⭐ 4,697 · Go · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
 
-**给非编排团队的本地优先工作流编排器：YAML 声明调度脚本与容器**
+**单二进制自托管工作流引擎：为非编排团队编排脚本与作业**
 
-Dagu 是自托管的本地优先工作流引擎：单个二进制内置 Web UI，无外部数据库或消息中间件，运行于 Linux/macOS/Windows。以声明式 YAML 定义 DAG，原生执行 shell 命令、Docker 容器、Kubernetes Job、SSH 远程命令；提供 cron 调度、重试、依赖管理、运行历史、人工任务（暂停等待操作员确认/输入）与内置 MCP server 供检查和控制工作流。面向主要工作不是编排的团队，将现有脚本转为生产工作流。提供社区自托管与付费 self-host 许可（SSO/RBAC/审计）两级。
+本地优先的 workflow 引擎，以声明式 YAML 定义 DAG，原生执行 shell 命令、Docker 容器、Kubernetes Job、SSH 远程命令，无需外部数据库或消息代理，提供内置 Web UI、cron 调度、重试、人工任务、运行历史与内置 MCP server。面向主要工作不是编排的团队，把现有脚本变成生产流水线。提供 Homebrew/npm/安装包/Docker/Helm 多种安装方式；商业功能（SSO/RBAC/审计）需自托管付费许可。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Dagu 是自托管的本地优先工作流引擎：单个二进制内置 Web UI�
 
 ## 能力要点
 
-- 单二进制安装，无需外部 DBMS 或消息中间件
-- 声明式 YAML 定义 DAG，工作流结构与业务脚本分离
-- 支持 shell/Docker 容器/Kubernetes Job/SSH 远程命令执行
-- 内置 MCP server 与人工任务（human-in-the-loop）步骤
+- 单二进制、无外部数据库/消息代理，可在受限硬件上运行
+- YAML 声明式定义 DAG，脚本无需引入编排框架
+- 内置 MCP server 用于检查/修改/控制工作流
+- 单机到分布式 worker 三种部署拓扑（gRPC 出站轮询）
 
 ## 适用场景
 
-- 把 cron 定时脚本升级为带依赖、重试和日志的 DAG
-- 将 ETL 脚本和 dbt 命令编排为可观测的数据管道
-- 通过 SSH 批量执行远程服务器运维命令并集中留存日志
-- 在边缘/离线环境就近运行数据预处理和备份任务
+- 把 cron 作业替换为带依赖、重试与日志的 DAG
+- ETL 脚本与 dbt 命令编排成可观测数据流水线
+- 通过 SSH 在内网/隔离环境运行服务器自动化
+- 从 GitHub 事件触发私有基础设施上的自动化
 
 ## 场景标签
 
@@ -40,20 +40,20 @@ Dagu 是自托管的本地优先工作流引擎：单个二进制内置 Web UI�
 
 > L15: Dagu is a local-first workflow engine for operations and internal automation. It is open source and self-hostable: 
 > L29: - Built-in MCP server for inspecting workflows and runs, maintaining Wiki pages, applying changes, and controlling 
-> L223: - **Human Tasks:** Pause a workflow for acknowledgement or typed operator input, then expose the response to downs
+> L220: - **Language-agnostic:** No framework required. Define workflow steps using shell commands, Docker containers, Kub
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "dagucloud/dagu 星数(近 27 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 4411 --> 4714
-    line [4436, 4443, 4450, 4463, 4476, 4493, 4505, 4514, 4527, 4436, 4561, 4580, 4591, 4593, 4598, 4601, 4612, 4620, 4625, 4632, 4635, 4639, 4644, 4648, 4652, 4680, 4689]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 4410 --> 4723
+    line [4443, 4450, 4463, 4476, 4493, 4505, 4514, 4527, 4436, 4561, 4580, 4591, 4593, 4598, 4601, 4612, 4620, 4625, 4632, 4635, 4639, 4644, 4648, 4652, 4680, 4689, 4697]
 ```
 
-2026-10-25 4,436 → 2026-11-27 4,689（+253）
+2026-10-26 4,443 → 2026-11-28 4,697（+254）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d34a8fccd88f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `b22ae210c2db` · [字段定义](../../DATASET.md)*

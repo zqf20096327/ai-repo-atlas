@@ -1,6 +1,6 @@
 # jeankassio/ComfyUI_YuE2
 
-⭐ 6 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/jeankassio/ComfyUI_YuE2) · [官网](https://somora.media) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 ComfyUI 中运行官方 YuE2 文生音乐管线的节点包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-24g` | |

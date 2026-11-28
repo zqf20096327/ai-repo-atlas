@@ -1,6 +1,6 @@
 # smixs/disruptor-skills
 
-⭐ 21 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/smixs/disruptor-skills) · [官网](https://t.me/aostrikov_agents_chat) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/smixs/disruptor-skills) · [官网](https://t.me/aostrikov_agents_chat) · 组织维护
 
 **12 个 AI 编程 agent 技能：把想法到上线的流程固化为带门禁的流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smixs/disruptor-skills 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 18 --> 22
-    line [20, 19, 20, 21, 21]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 18 --> 23
+    line [20, 19, 20, 21, 22]
 ```
 
-2026-10-25 20 → 2026-11-27 21（+1）
+2026-10-26 20 → 2026-11-28 22（+2）
 
 
 ---

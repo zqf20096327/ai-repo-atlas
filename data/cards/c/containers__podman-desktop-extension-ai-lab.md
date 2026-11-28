@@ -1,6 +1,6 @@
 # containers/podman-desktop-extension-ai-lab
 
-⭐ 304 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/containers/podman-desktop-extension-ai-lab) · [官网](https://podman-desktop.io/extensions/ai-lab) · 组织维护
+⭐ 304 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/containers/podman-desktop-extension-ai-lab) · [官网](https://podman-desktop.io/extensions/ai-lab) · 组织维护
 
 **Podman Desktop 扩展：在本地容器中运行 LLM 并提供示例应用目录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "containers/podman-desktop-extension-ai-lab 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-16", "2026-11-28"]
     y-axis "stars" 301 --> 305
     line [302, 303, 304, 304]
 ```
 
-2026-10-25 302 → 2026-11-27 304（+2）
+2026-10-26 302 → 2026-11-28 304（+2）
 
 
 ---

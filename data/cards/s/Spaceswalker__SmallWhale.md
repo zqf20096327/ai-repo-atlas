@@ -1,6 +1,6 @@
 # Spaceswalker/SmallWhale
 
-⭐ 45 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Spaceswalker/SmallWhale) · 个人维护 · 中文 README
+⭐ 60 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Spaceswalker/SmallWhale) · 个人维护 · 中文 README
 
 **给 QQ 用户一个带长期记忆与拟人语气的 AI 陪伴角色工程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Spaceswalker/SmallWhale 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 34 --> 46
-    line [35, 45]
+    title "Spaceswalker/SmallWhale 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 33 --> 62
+    line [35, 45, 60]
 ```
 
-2026-11-26 35 → 2026-11-27 45（+10）
+2026-11-26 35 → 2026-11-28 60（+25）
 
 
 ---

@@ -45,13 +45,13 @@ TheSystem 基于 Qwen3.5-9B 冻结骨干，训练一个 <FAST> 门控按 prompt 
 
 ```mermaid
 xychart-beta
-    title "bqpro1/TheSystem 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "bqpro1/TheSystem 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 5 --> 10
-    line [6, 9]
+    line [6, 9, 9]
 ```
 
-2026-11-26 6 → 2026-11-27 9（+3）
+2026-11-26 6 → 2026-11-28 9（+3）
 
 
 ---

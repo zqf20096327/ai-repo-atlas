@@ -1,6 +1,6 @@
 # the-ptf/milagre
 
-⭐ 19 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/the-ptf/milagre) · [官网](https://milagre.dev) · 组织维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/the-ptf/milagre) · [官网](https://milagre.dev) · 组织维护
 
 **桌面应用：在本机并行运行 Claude Code/Codex/Kiro 等 agent，手机远程审批**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "the-ptf/milagre 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 20
     line [10, 11, 12, 14, 15, 16, 17, 19, 19]
 ```
 
-2026-10-25 10 → 2026-11-27 19（+9）
+2026-10-26 10 → 2026-11-28 19（+9）
 
 
 ---

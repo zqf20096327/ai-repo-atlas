@@ -1,6 +1,6 @@
 # 123123213weqw/c500-kernel-lab
 
-⭐ 4 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/123123213weqw/c500-kernel-lab) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/123123213weqw/c500-kernel-lab) · 个人维护 · 中文 README
 
 **MetaX C500 上 Qwen3.5-27B 推理内核优化与可复现评测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "123123213weqw/c500-kernel-lab 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-01 4 → 2026-11-27 4（+0）
+2026-11-01 4 → 2026-11-28 4（+0）
 
 
 ---

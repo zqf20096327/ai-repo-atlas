@@ -46,12 +46,12 @@ TauricResearch/TradingAgents 的轻量 fork，保留 CLI 架构并新增 A 股�
 ```mermaid
 xychart-beta
     title "cy-Yin/TradingAgents-CN-lite 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 22 --> 26
     line [23, 25, 25]
 ```
 
-2026-10-25 23 → 2026-11-27 25（+2）
+2026-10-26 23 → 2026-11-28 25（+2）
 
 
 ---

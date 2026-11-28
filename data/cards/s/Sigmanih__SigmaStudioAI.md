@@ -1,6 +1,6 @@
 # Sigmanih/SigmaStudioAI
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/Sigmanih/SigmaStudioAI) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Sigmanih/SigmaStudioAI) · 个人维护
 
 **本地 AI 工作台：统一编排本地与云端模型、Agent 与 MCP 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Sigmanih/SigmaStudioAI 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-13", "2026-11-20", "2026-11-28"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-11-13 12 → 2026-11-27 13（+1）
+2026-11-13 12 → 2026-11-28 13（+1）
 
 
 ---

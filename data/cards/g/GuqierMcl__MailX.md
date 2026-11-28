@@ -1,6 +1,6 @@
 # GuqierMcl/MailX
 
-⭐ 29 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/GuqierMcl/MailX) · [官网](https://mailxapp.com) · 个人维护 · 中文 README
+⭐ 47 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/GuqierMcl/MailX) · [官网](https://mailxapp.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 邮件客户端：统一收件箱并整理邮件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GuqierMcl/MailX 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 26 --> 30
-    line [27, 29]
+    title "GuqierMcl/MailX 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 25 --> 49
+    line [27, 29, 47]
 ```
 
-2026-11-26 27 → 2026-11-27 29（+2）
+2026-11-26 27 → 2026-11-28 47（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # guillermoscript/calistenia-app
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/guillermoscript/calistenia-app) · [官网](https://gym.guille.tech) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/guillermoscript/calistenia-app) · [官网](https://gym.guille.tech) · 个人维护
 
 **自托管 AI 教练健身应用：训练、营养与进度一站式记录**
 
@@ -46,12 +46,12 @@ React Native（Expo）+ Web PWA 的街健健身应用，核心功能含 15 套�
 ```mermaid
 xychart-beta
     title "guillermoscript/calistenia-app 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-28"]
     y-axis "stars" 9 --> 18
     line [10, 11, 12, 13, 14, 15, 17, 17]
 ```
 
-2026-10-30 10 → 2026-11-27 17（+7）
+2026-10-30 10 → 2026-11-28 17（+7）
 
 
 ---

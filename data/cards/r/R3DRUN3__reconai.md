@@ -1,6 +1,6 @@
 # R3DRUN3/reconai
 
-⭐ 11 · Python · Unlicense · 推送 2026-11-26 · [GitHub](https://github.com/R3DRUN3/reconai) · 个人维护
+⭐ 14 · Python · Unlicense · 推送 2026-11-27 · [GitHub](https://github.com/R3DRUN3/reconai) · 个人维护
 
 **给安全团队用 LLM agent 驱动的授权侦察扫描 API 服务**
 
@@ -40,6 +40,18 @@
 > L12: reconai is a small Kali container with an API and an LLM agent inside.
 > L13: You POST a target, the agent runs a handful of authorized tools against the target, and you get back a JSON result 
 > L46: reconai works with any OpenAI-compatible API that supports tool calling (OpenAI, Azure Foundry, vLLM, Ollama, LiteL
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "R3DRUN3/reconai 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 15
+    line [11, 14]
+```
+
+2026-11-27 11 → 2026-11-28 14（+3）
 
 
 ---

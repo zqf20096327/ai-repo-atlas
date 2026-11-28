@@ -1,6 +1,6 @@
 # MarlBurroW/hivekeep
 
-⭐ 83 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/MarlBurroW/hivekeep) · [官网](https://hivekeep.app) · 个人维护
+⭐ 83 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/MarlBurroW/hivekeep) · [官网](https://hivekeep.app) · 个人维护
 
 **自托管持久多 Agent 平台：常驻记忆的 AI 团队跑在自己服务器上**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MarlBurroW/hivekeep 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-28"]
     y-axis "stars" 72 --> 84
     line [73, 74, 73, 79, 80, 81, 82, 83, 83]
 ```
 
-2026-10-25 73 → 2026-11-27 83（+10）
+2026-10-26 73 → 2026-11-28 83（+10）
 
 
 ---

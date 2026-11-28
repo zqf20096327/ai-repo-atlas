@@ -1,6 +1,6 @@
 # Kame696/kame-api-rotation-for-agent-zero
 
-⭐ 25 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Kame696/kame-api-rotation-for-agent-zero) · [官网](https://github.com/Kame696/kame-api-rotation-for-agent-zero) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Kame696/kame-api-rotation-for-agent-zero) · [官网](https://github.com/Kame696/kame-api-rotation-for-agent-zero) · 个人维护
 
 **Agent Zero 插件：多 API key 轮换与模型自动降级，聚合配额池**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kame696/kame-api-rotation-for-agent-zero 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-15", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25, 25]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-15", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 24, 25, 26]
 ```
 
-2026-10-25 22 → 2026-11-27 25（+3）
+2026-10-26 22 → 2026-11-28 26（+4）
 
 
 ---

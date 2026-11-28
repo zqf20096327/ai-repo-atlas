@@ -1,6 +1,6 @@
 # zama-ai/concrete-ml
 
-⭐ 1,462 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/zama-ai/concrete-ml) · 组织维护
+⭐ 1,461 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/zama-ai/concrete-ml) · 组织维护
 
 **数据科学家用的全同态加密隐私保护机器学习框架**
 
@@ -45,12 +45,12 @@ Zama 维护的隐私保护机器学习（PPML）Python 库，基于 Concrete 构
 ```mermaid
 xychart-beta
     title "zama-ai/concrete-ml 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 1456 --> 1463
-    line [1457, 1458, 1459, 1460, 1462, 1462]
+    line [1457, 1458, 1459, 1460, 1462, 1461]
 ```
 
-2026-10-25 1,457 → 2026-11-27 1,462（+5）
+2026-10-26 1,457 → 2026-11-28 1,461（+4）
 
 
 ---

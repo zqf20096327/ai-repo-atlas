@@ -1,6 +1,6 @@
 # mohdshamii/100
 
-⭐ 12 · JavaScript · 推送 2026-11-16 · [GitHub](https://github.com/mohdshamii/100) · [官网](https://mohdshamii.github.io/100/) · 个人维护
+⭐ 13 · JavaScript · 推送 2026-11-16 · [GitHub](https://github.com/mohdshamii/100) · [官网](https://mohdshamii.github.io/100/) · 个人维护
 
 **AI/ML 工程自学课程清单：9 个百项列表+路线图**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mohdshamii/100 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-31 10 → 2026-11-27 12（+2）
+2026-10-31 10 → 2026-11-28 13（+3）
 
 
 ---

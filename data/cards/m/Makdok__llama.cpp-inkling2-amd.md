@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Makdok/llama.cpp-inkling2-amd 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "Makdok/llama.cpp-inkling2-amd 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 4 --> 8
-    line [5, 7]
+    line [5, 7, 7]
 ```
 
-2026-11-26 5 → 2026-11-27 7（+2）
+2026-11-26 5 → 2026-11-28 7（+2）
 
 
 ---

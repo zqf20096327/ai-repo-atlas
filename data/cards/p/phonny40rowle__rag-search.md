@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "phonny40rowle/rag-search 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "phonny40rowle/rag-search 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 27 --> 53
-    line [51, 29]
+    line [51, 29, 29]
 ```
 
-2026-11-08 51 → 2026-11-27 29（-22）
+2026-11-08 51 → 2026-11-28 29（-22）
 
 
 ---

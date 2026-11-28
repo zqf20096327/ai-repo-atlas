@@ -44,13 +44,13 @@ LinkedIn 反滥用 AI 团队维护的 Scala/Spark 实现，提供标准孤立森
 
 ```mermaid
 xychart-beta
-    title "linkedin/isolation-forest 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    title "linkedin/isolation-forest 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 264 --> 268
-    line [265, 266, 267]
+    line [265, 266, 267, 267]
 ```
 
-2026-10-25 265 → 2026-11-27 267（+2）
+2026-10-26 265 → 2026-11-28 267（+2）
 
 
 ---

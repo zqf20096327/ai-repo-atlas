@@ -45,13 +45,13 @@ Manning 出版社图书《LLM Customization and Fine-Tuning: Adaptation, Distill
 
 ```mermaid
 xychart-beta
-    title "bahree/ModelAdaptationBook 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    title "bahree/ModelAdaptationBook 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 15 --> 21
-    line [16, 17, 18, 16, 19, 20, 20]
+    line [17, 18, 16, 19, 20, 20]
 ```
 
-2026-10-25 16 → 2026-11-27 20（+4）
+2026-10-26 17 → 2026-11-28 20（+3）
 
 
 ---

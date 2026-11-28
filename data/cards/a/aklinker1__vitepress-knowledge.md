@@ -1,6 +1,6 @@
 # aklinker1/vitepress-knowledge
 
-⭐ 78 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/aklinker1/vitepress-knowledge) · 个人维护
+⭐ 77 · TypeScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/aklinker1/vitepress-knowledge) · 个人维护
 
 **为 VitePress 文档站生成知识文件并自托管 AI 聊天机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aklinker1/vitepress-knowledge 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 77 --> 79
-    line [78, 78]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 76 --> 79
+    line [78, 77]
 ```
 
-2026-10-25 78 → 2026-11-27 78（+0）
+2026-10-26 78 → 2026-11-28 77（-1）
 
 
 ---

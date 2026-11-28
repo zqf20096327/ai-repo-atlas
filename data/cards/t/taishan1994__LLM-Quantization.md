@@ -1,6 +1,6 @@
 # taishan1994/LLM-Quantization
 
-⭐ 80 · Python · 推送 2026-01-08 · [GitHub](https://github.com/taishan1994/LLM-Quantization) · 个人维护 · 中文 README
+⭐ 81 · Python · 推送 2026-01-08 · [GitHub](https://github.com/taishan1994/LLM-Quantization) · 个人维护 · 中文 README
 
 **量化 LLM 技术文章与论文解读的知识记录仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "taishan1994/LLM-Quantization 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 79 --> 82
+    line [80, 81]
 ```
 
-2026-10-25 80 → 2026-11-27 80（+0）
+2026-10-26 80 → 2026-11-28 81（+1）
 
 
 ---

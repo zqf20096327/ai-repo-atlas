@@ -1,6 +1,6 @@
 # sajid5669/AutoShorts-Studio
 
-⭐ 16 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/sajid5669/AutoShorts-Studio) · 个人维护
+⭐ 16 · HTML · 推送 2026-11-27 · [GitHub](https://github.com/sajid5669/AutoShorts-Studio) · 个人维护
 
 **面向社媒的自动化短视频生成平台（AI 脚本+配音+发布）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sajid5669/AutoShorts-Studio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "sajid5669/AutoShorts-Studio 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-10-25 15 → 2026-11-27 16（+1）
+2026-10-26 15 → 2026-11-28 16（+1）
 
 
 ---

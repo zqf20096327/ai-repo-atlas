@@ -45,12 +45,12 @@ DesysFlow OSS 读取代码库与产品目标，通过 LangGraph 多 agent 流水
 ```mermaid
 xychart-beta
     title "kmeanskaran/desysflow-oss 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-25 22 → 2026-11-27 22（+0）
+2026-10-26 22 → 2026-11-28 22（+0）
 
 
 ---

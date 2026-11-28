@@ -1,6 +1,6 @@
 # SergeevDmitry/llm-kit
 
-⭐ 48 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/SergeevDmitry/llm-kit) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/SergeevDmitry/llm-kit) · 个人维护
 
 **面向 LLM 工程杂务的小型 TypeScript 包集合（分块/重试/计费等）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SergeevDmitry/llm-kit 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 47 --> 55
-    line [51, 54, 51, 49, 48, 48]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-28"]
+    y-axis "stars" 44 --> 55
+    line [51, 54, 51, 49, 48, 45]
 ```
 
-2026-10-25 51 → 2026-11-27 48（-3）
+2026-10-26 51 → 2026-11-28 45（-6）
 
 
 ---

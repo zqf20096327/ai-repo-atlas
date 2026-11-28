@@ -1,6 +1,6 @@
 # Obsolete-Robot/IdeaPlotter
 
-⭐ 4 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Obsolete-Robot/IdeaPlotter) · [官网](https://obsoleterobot.com/ideaplotter/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Obsolete-Robot/IdeaPlotter) · [官网](https://obsoleterobot.com/ideaplotter/) · 个人维护
 
 **把 Steam 全目录绘成语义地图，AI 撰写空白点游戏创意**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Obsolete-Robot/IdeaPlotter 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-27"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-21", "2026-11-28"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-21 4 → 2026-11-27 4（+0）
+2026-11-21 4 → 2026-11-28 5（+1）
 
 
 ---

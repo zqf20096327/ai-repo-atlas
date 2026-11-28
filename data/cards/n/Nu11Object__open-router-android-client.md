@@ -1,6 +1,6 @@
 # Nu11Object/open-router-android-client
 
-⭐ 13 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Nu11Object/open-router-android-client) · 个人维护
+⭐ 14 · Kotlin · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Nu11Object/open-router-android-client) · 个人维护
 
 **通过 OpenRouter 调用 AI 模型的 Android 聊天客户端（教学项目）**
 
@@ -44,12 +44,12 @@ Kotlin 编写的 Android 应用，通过 OpenRouter API 发送请求并获取模
 ```mermaid
 xychart-beta
     title "Nu11Object/open-router-android-client 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # noeira/noeira
 
-⭐ 13 · Mojo · MIT · 推送 2026-11-26 · [GitHub](https://github.com/noeira/noeira) · [官网](https://noeira.ai) · 组织维护
+⭐ 13 · Mojo · MIT · 推送 2026-11-27 · [GitHub](https://github.com/noeira/noeira) · [官网](https://noeira.ai) · 组织维护
 
 **纯 Mojo 实现的端到端物理 AI 全栈：仿真、学习到机器人部署**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "noeira/noeira 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-28"]
     y-axis "stars" 9 --> 14
     line [10, 11, 10, 12, 13, 13]
 ```
 
-2026-10-25 10 → 2026-11-27 13（+3）
+2026-10-26 10 → 2026-11-28 13（+3）
 
 
 ---

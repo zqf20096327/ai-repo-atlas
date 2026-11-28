@@ -1,6 +1,6 @@
 # ozuijoy/personal-ai-netlify
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ozuijoy/personal-ai-netlify) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ozuijoy/personal-ai-netlify) · 个人维护 · 中文 README
 
 **部署在 Netlify+Neon 的私人單使用者 AI 聊天工作區**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ozuijoy/personal-ai-netlify 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-16 3 → 2026-11-27 5（+2）
+2026-11-16 3 → 2026-11-28 6（+3）
 
 
 ---

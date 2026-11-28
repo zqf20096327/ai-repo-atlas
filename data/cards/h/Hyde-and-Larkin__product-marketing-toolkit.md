@@ -1,6 +1,6 @@
 # Hyde-and-Larkin/product-marketing-toolkit
 
-⭐ 3 · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/Hyde-and-Larkin/product-marketing-toolkit) · [官网](https://hydelarkin.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向产品营销人员的 AI agent 技能包，覆盖定位与上市评审**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

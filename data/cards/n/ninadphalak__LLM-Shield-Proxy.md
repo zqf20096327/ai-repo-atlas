@@ -1,6 +1,6 @@
 # ninadphalak/LLM-Shield-Proxy
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ninadphalak/LLM-Shield-Proxy) · [官网](https://llmshieldproxy.com) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ninadphalak/LLM-Shield-Proxy) · [官网](https://llmshieldproxy.com) · 个人维护
 
 **面向 OpenAI 兼容 API 的自托管隐私脱敏网关及配套检测工具**
 
@@ -47,12 +47,12 @@ LLM-Shield-Proxy 是自托管的 LLM 隐私网关：请求发给模型提供商�
 ```mermaid
 xychart-beta
     title "ninadphalak/LLM-Shield-Proxy 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 12 --> 20
-    line [13, 14, 13, 15, 17, 18, 19, 19]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 12 --> 21
+    line [13, 14, 13, 15, 17, 18, 19, 20]
 ```
 
-2026-10-25 13 → 2026-11-27 19（+6）
+2026-10-26 13 → 2026-11-28 20（+7）
 
 
 ---

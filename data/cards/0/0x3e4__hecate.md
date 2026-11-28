@@ -1,6 +1,6 @@
 # 0x3e4/hecate
 
-⭐ 13 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/0x3e4/hecate) · [官网](https://hecate.pw) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/0x3e4/hecate) · [官网](https://hecate.pw) · 个人维护
 
 **自托管漏洞管理平台：聚合 9 个 CVE 源并提供 SCA 扫描与 SBOM/VEX**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "0x3e4/hecate 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 14
     line [10, 13, 13]
 ```
 
-2026-11-25 10 → 2026-11-27 13（+3）
+2026-11-25 10 → 2026-11-28 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # taiga-family/taiga-ui-mcp
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/taiga-family/taiga-ui-mcp) · [官网](https://www.npmjs.com/package/@taiga-ui/mcp) · 组织维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/taiga-family/taiga-ui-mcp) · [官网](https://www.npmjs.com/package/@taiga-ui/mcp) · 组织维护
 
 **为 AI 助手提供 Taiga UI 组件文档检索的 MCP 服务器**
 
@@ -44,12 +44,12 @@ Taiga UI 家族维护的 Model Context Protocol 服务器，面向使用 Taiga U
 ```mermaid
 xychart-beta
     title "taiga-family/taiga-ui-mcp 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-25 15 → 2026-11-27 16（+1）
+2026-10-26 15 → 2026-11-28 17（+2）
 
 
 ---

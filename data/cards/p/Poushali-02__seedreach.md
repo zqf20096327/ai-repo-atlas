@@ -1,6 +1,6 @@
 # Poushali-02/seedreach
 
-⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Poushali-02/seedreach) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Poushali-02/seedreach) · 个人维护
 
 **为求职者查找初创公司并生成个性化 cold email 草稿的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Poushali-02/seedreach 星数(近 5 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-15", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 13, 14, 14]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-15", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 13, 14, 15]
 ```
 
-2026-11-01 10 → 2026-11-27 14（+4）
+2026-11-01 10 → 2026-11-28 15（+5）
 
 
 ---

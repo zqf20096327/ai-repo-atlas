@@ -1,6 +1,6 @@
 # XRSPACE-Inc/perxona-connect-kit
 
-⭐ 72 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/XRSPACE-Inc/perxona-connect-kit) · [官网](https://connect.perxona.ai) · 组织维护
+⭐ 72 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/XRSPACE-Inc/perxona-connect-kit) · [官网](https://connect.perxona.ai) · 组织维护
 
 **在 Web 应用中接入会说话的 3D AI 虚拟人的 SDK 示例与工具集**
 
@@ -45,12 +45,12 @@ XRSPACE 开源的 Perxona Connect SDK 配套套件：提供 `<sv-presenter>` Web
 ```mermaid
 xychart-beta
     title "XRSPACE-Inc/perxona-connect-kit 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-28"]
     y-axis "stars" 65 --> 73
     line [66, 67, 68, 69, 66, 70, 71, 72, 72]
 ```
 
-2026-10-25 66 → 2026-11-27 72（+6）
+2026-10-26 66 → 2026-11-28 72（+6）
 
 
 ---

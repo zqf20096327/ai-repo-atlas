@@ -1,6 +1,6 @@
 # abram7200/ibn-office
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/abram7200/ibn-office) · [官网](https://abram7200.github.io/ibn-office/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/abram7200/ibn-office) · [官网](https://abram7200.github.io/ibn-office/) · 个人维护
 
 **把本机多个 AI 编码代理编排成团队协作的办公室层**
 
@@ -46,12 +46,12 @@ IBN Office 在 Windows 上运行，把用户已装的 AI 代理（Claude Code、
 ```mermaid
 xychart-beta
     title "abram7200/ibn-office 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

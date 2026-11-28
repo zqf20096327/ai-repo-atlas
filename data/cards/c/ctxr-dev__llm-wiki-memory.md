@@ -1,6 +1,6 @@
 # ctxr-dev/llm-wiki-memory
 
-⭐ 130 · JavaScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/ctxr-dev/llm-wiki-memory) · 组织维护
+⭐ 129 · JavaScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/ctxr-dev/llm-wiki-memory) · 组织维护
 
 **给 AI 编程 agent 的本地 git 版本化记忆层（MCP）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ctxr-dev/llm-wiki-memory 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
     y-axis "stars" 128 --> 131
-    line [129, 130, 130]
+    line [129, 130, 129]
 ```
 
-2026-10-25 129 → 2026-11-27 130（+1）
+2026-10-26 129 → 2026-11-28 129（+0）
 
 
 ---

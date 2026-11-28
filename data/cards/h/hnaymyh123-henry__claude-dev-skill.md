@@ -1,6 +1,6 @@
 # hnaymyh123-henry/claude-dev-skill
 
-⭐ 104 · MIT · 推送 2026-05-27 · [GitHub](https://github.com/hnaymyh123-henry/claude-dev-skill) · [官网](https://github.com/hnaymyh123-henry/claude-dev-skill) · 个人维护 · 中文 README
+⭐ 105 · MIT · 推送 2026-05-27 · [GitHub](https://github.com/hnaymyh123-henry/claude-dev-skill) · [官网](https://github.com/hnaymyh123-henry/claude-dev-skill) · 个人维护 · 中文 README
 
 **让 Claude Code 扮演 Tech Lead 的多 Agent 开发 SOP 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hnaymyh123-henry/claude-dev-skill 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "hnaymyh123-henry/claude-dev-skill 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 103 --> 106
-    line [105, 104, 105, 104, 104]
+    line [104, 105, 104, 105]
 ```
 
-2026-10-25 105 → 2026-11-27 104（-1）
+2026-10-26 104 → 2026-11-28 105（+1）
 
 
 ---

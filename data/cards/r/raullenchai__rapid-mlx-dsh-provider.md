@@ -46,12 +46,12 @@ npm 发布的 dsh 插件，为 DeepSeek Harness 注册原生 rapid-mlx provider�
 ```mermaid
 xychart-beta
     title "raullenchai/rapid-mlx-dsh-provider 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 67 --> 71
     line [70, 69, 68, 68]
 ```
 
-2026-10-25 70 → 2026-11-27 68（-2）
+2026-10-26 70 → 2026-11-28 68（-2）
 
 
 ---

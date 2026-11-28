@@ -1,6 +1,6 @@
 # iloveitaly/lunchmoney-amazon
 
-⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iloveitaly/lunchmoney-amazon) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/iloveitaly/lunchmoney-amazon) · 个人维护
 
 **用 LLM 自动分类 LunchMoney 中 Amazon 交易的个人记账工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iloveitaly/lunchmoney-amazon 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-25 27 → 2026-11-27 27（+0）
+2026-10-26 27 → 2026-11-28 27（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # govctl-org/govctl
 
-⭐ 278 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/govctl-org/govctl) · [官网](https://govctl-org.github.io/govctl/) · 组织维护
+⭐ 279 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/govctl-org/govctl) · [官网](https://govctl-org.github.io/govctl/) · 组织维护
 
 **面向 AI 编码团队的治理即代码 CLI：把提示与补丁纳入 RFC/ADR/工作项管控**
 
@@ -47,12 +47,12 @@ govctl 是 Rust 编写的治理即代码命令行工具，为使用 AI agent（C
 ```mermaid
 xychart-beta
     title "govctl-org/govctl 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 275 --> 279
-    line [276, 277, 278, 278]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 275 --> 280
+    line [276, 277, 278, 279]
 ```
 
-2026-10-25 276 → 2026-11-27 278（+2）
+2026-10-26 276 → 2026-11-28 279（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # heyfoz/python-openai-whisper
 
-⭐ 10 · Python · MIT · 推送 2025-12-03 · [GitHub](https://github.com/heyfoz/python-openai-whisper) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/heyfoz/python-openai-whisper) · 个人维护
 
 **调用 OpenAI Whisper API 转写音频的 Python 脚本**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "heyfoz/python-openai-whisper 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-27"]
+    x-axis ["2026-11-14", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-14 10 → 2026-11-27 10（+0）
+2026-11-14 10 → 2026-11-28 10（+0）
 
 
 ---

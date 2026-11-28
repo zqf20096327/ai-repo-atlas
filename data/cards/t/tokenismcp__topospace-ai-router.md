@@ -1,6 +1,6 @@
 # tokenismcp/topospace-ai-router
 
-⭐ 3 · 推送 2026-10-12 · [GitHub](https://github.com/tokenismcp/topospace-ai-router) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为自有本地与托管模型做路由决策的 LLM 网关**
 

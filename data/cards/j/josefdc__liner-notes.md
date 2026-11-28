@@ -41,6 +41,18 @@
 > L5: An open-source AI agent for music research that keeps the model honest: measured values come from
 > L6: the audio, relations come from primary records, and a verifier checks what the model writes against
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "josefdc/liner-notes 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `a2fd0153fb72` · [字段定义](../../DATASET.md)*

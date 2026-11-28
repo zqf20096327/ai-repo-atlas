@@ -1,6 +1,6 @@
 # ChrystianSchutz/poker-holdembench
 
-⭐ 4 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ChrystianSchutz/poker-holdembench) · [官网](https://chrystianschutz.com/blog/ai-poker-holdembench/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/ChrystianSchutz/poker-holdembench) · [官网](https://chrystianschutz.com/blog/ai-poker-holdembench/) · 个人维护
 
 **面向 AI 研究者的单挑无限注德州扑克评测基准**
 
@@ -45,13 +45,13 @@ HoldemBench 用重复发牌的单挑无限注德州扑克测量 AI agent 的出�
 
 ```mermaid
 xychart-beta
-    title "ChrystianSchutz/poker-holdembench 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4, 4]
+    title "ChrystianSchutz/poker-holdembench 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [4, 3, 4, 5]
 ```
 
-2026-10-25 3 → 2026-11-27 4（+1）
+2026-10-26 4 → 2026-11-28 5（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # sous-labs/songe
 
-⭐ 904 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/sous-labs/songe) · [官网](https://souslabs.ai/songe) · 组织维护
+⭐ 927 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/sous-labs/songe) · [官网](https://souslabs.ai/songe) · 组织维护
 
 **为本地模型训练 LoRA 的空闲算力微调引擎**
 
@@ -45,13 +45,13 @@ Songe 以 OpenAI 兼容代理的形式部署在本地 agent 与模型服务器�
 
 ```mermaid
 xychart-beta
-    title "sous-labs/songe 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 75 --> 979
-    line [150, 217, 311, 856, 904]
+    title "sous-labs/songe 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 73 --> 1004
+    line [150, 217, 311, 856, 904, 927]
 ```
 
-2026-11-22 150 → 2026-11-27 904（+754）
+2026-11-22 150 → 2026-11-28 927（+777）
 
 
 ---

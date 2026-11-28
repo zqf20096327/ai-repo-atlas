@@ -46,13 +46,13 @@ Carer Healthcare AI 开源的医院运营智能体平台：通过 Fabric（FHIR 
 
 ```mermaid
 xychart-beta
-    title "Carer-Healthcare-AI/Hospilot 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-25", "2026-11-27"]
+    title "Carer-Healthcare-AI/Hospilot 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19, 18]
+    line [17, 18, 19, 18, 18]
 ```
 
-2026-10-25 17 → 2026-11-27 18（+1）
+2026-10-26 17 → 2026-11-28 18（+1）
 
 
 ---

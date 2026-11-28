@@ -1,6 +1,6 @@
 # LuckyOneTwoThree/Qwitch
 
-⭐ 5 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LuckyOneTwoThree/Qwitch) · 组织维护 · 中文 README
+⭐ 7 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/LuckyOneTwoThree/Qwitch) · 组织维护 · 中文 README
 
 **给多账号 AI 工具用户的本地账号管理与号池网关**
 
@@ -40,6 +40,18 @@
 
 > L113: **本地网关。** 一个只监听 `127.0.0.1:8187` 的小服务，支持 OpenAI Chat、OpenAI Responses 和 Anthropic Messages 三种主流接口格式，并能在它们之间转换。Agen
 > L115: **Agent 接入。** Qwitch 直接修改 Codex、Claude、DSH、OpenCode、MiMo、ZCode 的配置文件，把网关地址、令牌和模型清单写进去。修改前会备份，解绑时会还原。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LuckyOneTwoThree/Qwitch 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 8
+    line [5, 7]
+```
+
+2026-11-27 5 → 2026-11-28 7（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # xinbetween/flowlight
 
-⭐ 12 · Swift · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/xinbetween/flowlight) · [官网](http://flowlight.xinbetween.com/) · 个人维护
+⭐ 12 · Swift · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/xinbetween/flowlight) · [官网](http://flowlight.xinbetween.com/) · 个人维护
 
 **macOS 原生网络监控器：按应用归属流量并审计 AI agent 的对外连接**
 
@@ -46,12 +46,12 @@ Swift 编写的 macOS 菜单栏网络监控应用（要求 macOS 15+，GPL-3.0�
 ```mermaid
 xychart-beta
     title "xinbetween/flowlight 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

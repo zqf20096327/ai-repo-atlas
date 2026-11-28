@@ -47,12 +47,12 @@ Rust 编写的终端编码工具，围绕单个持久 Python 解释器运行：�
 ```mermaid
 xychart-beta
     title "MasterAwesome/bart-harness 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-27 3（+0）
+2026-11-20 3 → 2026-11-28 3（+0）
 
 
 ---

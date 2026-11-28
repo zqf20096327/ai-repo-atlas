@@ -1,10 +1,10 @@
 # Lightning-AI/torchmetrics
 
-⭐ 2,485 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Lightning-AI/torchmetrics) · [官网](https://lightning.ai/docs/torchmetrics/) · 组织维护
+⭐ 2,485 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Lightning-AI/torchmetrics) · [官网](https://lightning.ai/docs/torchmetrics/) · 组织维护
 
-**为 PyTorch 开发者提供分布式可扩展的机器学习指标库**
+**为 PyTorch 开发者提供 100+ 机器学习指标实现与自定义 API**
 
-TorchMetrics 是一个包含 100+ PyTorch 指标实现的 Python 库，并提供自定义指标的易用 API。核心机制包括：模块化指标内部维护状态以自动跨批次累积、多设备间自动同步、支持 CPU/单 GPU/多 GPU/DDP 分布式训练场景；同时提供函数式接口（输入输出均为 torch.tensor）。覆盖音频、分类、检测、图像、回归、分割、文本等 10 个领域，内置绘图功能，部分领域需安装额外依赖。通过 pip/conda/uv/源码安装，Apache 2.0 许可。
+TorchMetrics 是面向 PyTorch 应用的机器学习指标库，提供 100+ 覆盖音频、分类、检测、检索、图像、回归、分割、文本等领域的指标实现，以及自定义指标的易用 API。模块化指标内置状态，自动完成跨批次累积与多设备间同步，可在 CPU、单 GPU、多 GPU/多节点（DDP）下运行，另提供函数式接口与内置绘图（.plot）支持。通过 PyPI、conda、uv 或源码安装，部分领域指标需额外 extras 依赖。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ TorchMetrics 是一个包含 100+ PyTorch 指标实现的 Python 库，并提供
 
 ## 能力要点
 
-- 100+ 指标实现，覆盖 10 个领域（分类/检测/分割/文本等）
-- 模块化指标自动跨批次累积与多设备同步
-- 适配分布式训练（单 GPU/多 GPU/多节点 DDP）
-- 通过子类化 torchmetrics.Metric 实现 update/compute 创建自定义指标，并内置绘图支持
+- 100+ 指标实现，覆盖 10 个领域（音频/分类/检测/图像/文本等）
+- 模块化指标自动累积批次并在多设备间同步
+- 可配合 PyTorch Lightning 使用，指标自动放到正确设备并支持日志记录
+- 子类化 torchmetrics.Metric 实现 update/compute 即可自定义指标
 
 ## 适用场景
 
-- 为 PyTorch 训练流程接入标准化评估指标
-- 多 GPU/多节点分布式训练下的指标计算与同步
-- 为研究领域（音频/图像/文本等）快速调用对应指标并可视化结果
-- 以子类化方式封装自定义评估指标
+- PyTorch 训练循环中标准化计算评估指标
+- 分布式训练（DDP/多 GPU）下自动同步指标
+- 为研究项目快速实现自定义评估指标
+- 用 .plot 方法可视化指标结果
 
 ## 场景标签
 
@@ -38,22 +38,21 @@ TorchMetrics 是一个包含 100+ PyTorch 指标实现的 Python 库，并提供
 
 ## 证据(README 行号)
 
-> L1: **Machine learning metrics for distributed, scalable PyTorch applications.**
 > L89: TorchMetrics is a collection of 100+ PyTorch metrics implementations and an easy-to-use API to create custom metric
-> L160: In total TorchMetrics contains 100+ metrics, which
+> L163: - Audio
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Lightning-AI/torchmetrics 星数(近 13 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-26", "2026-11-27"]
+    title "Lightning-AI/torchmetrics 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2476 --> 2486
-    line [2477, 2478, 2479, 2480, 2477, 2483, 2482, 2483, 2484, 2485, 2483, 2485, 2485]
+    line [2478, 2479, 2480, 2477, 2483, 2482, 2483, 2484, 2485, 2483, 2485, 2485]
 ```
 
-2026-10-25 2,477 → 2026-11-27 2,485（+8）
+2026-10-26 2,478 → 2026-11-28 2,485（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `68b612f6aec3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `1a26e2375bae` · [字段定义](../../DATASET.md)*

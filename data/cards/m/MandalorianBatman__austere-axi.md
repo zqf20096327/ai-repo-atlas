@@ -1,6 +1,6 @@
 # MandalorianBatman/austere-axi
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MandalorianBatman/austere-axi) · [官网](https://mandalorianbatman.github.io/austere-axi/) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/MandalorianBatman/austere-axi) · [官网](https://mandalorianbatman.github.io/austere-axi/) · 个人维护
 
 **让编码 agent 把评审内容做成可点击页面并逐条接收批注的本地工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MandalorianBatman/austere-axi 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-27"]
+    title "MandalorianBatman/austere-axi 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-27", "2026-11-28"]
     y-axis "stars" 4 --> 11
-    line [5, 8, 10]
+    line [5, 8, 10, 10]
 ```
 
-2026-11-15 5 → 2026-11-27 10（+5）
+2026-11-15 5 → 2026-11-28 10（+5）
 
 
 ---

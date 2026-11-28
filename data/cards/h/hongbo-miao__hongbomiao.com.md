@@ -1,6 +1,6 @@
 # hongbo-miao/hongbomiao.com
 
-⭐ 299 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hongbo-miao/hongbomiao.com) · [官网](https://www.hongbomiao.com) · 个人维护
+⭐ 300 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hongbo-miao/hongbomiao.com) · [官网](https://www.hongbomiao.com) · 个人维护
 
 **个人研发实验室仓库：全栈技术实践与知识分享**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hongbo-miao/hongbomiao.com 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-28"]
     y-axis "stars" 297 --> 301
-    line [298, 299, 298, 299, 300, 299, 299]
+    line [298, 299, 298, 299, 300, 299, 300]
 ```
 
-2026-10-25 298 → 2026-11-27 299（+1）
+2026-10-26 298 → 2026-11-28 300（+2）
 
 
 ---

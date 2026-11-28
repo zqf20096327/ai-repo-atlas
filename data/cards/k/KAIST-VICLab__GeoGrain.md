@@ -1,6 +1,6 @@
 # KAIST-VICLab/GeoGrain
 
-⭐ 10 · 推送 2026-11-26 · [GitHub](https://github.com/KAIST-VICLab/GeoGrain) · [官网](https://kaist-viclab.github.io/GeoGrain_site/) · 组织维护
+⭐ 10 · 推送 2026-11-27 · [GitHub](https://github.com/KAIST-VICLab/GeoGrain) · [官网](https://kaist-viclab.github.io/GeoGrain_site/) · 组织维护
 
 **面向遥感小目标的粒度感知布局生成图像的论文代码仓库**
 
@@ -40,6 +40,18 @@ KAIST VICLab 的 GeoGrain 论文官方实现仓库，提出一个面向遥感影
 > L18: This repository is the official implementation&nbsp;of
 > L31:  Layout-to-image (L2I) generation for remote sensing imagery requires realistic small objects aligned with prescrib
 > L68: **The code and pretrained models will be released soon.**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KAIST-VICLab/GeoGrain 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
 
 
 ---

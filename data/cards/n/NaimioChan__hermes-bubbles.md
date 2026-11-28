@@ -46,12 +46,12 @@ Hermes Agent web 仪表盘的插件，将内置的 xterm.js 终端式 /chat 页�
 ```mermaid
 xychart-beta
     title "NaimioChan/hermes-bubbles 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-10-25 4 → 2026-11-27 5（+1）
+2026-10-26 4 → 2026-11-28 5（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L6: > A field map of proactive AI assistance: what signals an agent can watch, how it decides to act, what it does, what
 > L16: ## Taxonomy
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tao-hpu/awesome-proactive-agents 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9c262d9160e0` · [字段定义](../../DATASET.md)*

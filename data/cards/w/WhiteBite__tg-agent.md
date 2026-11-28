@@ -46,12 +46,12 @@ Read-only 数据管道：Telethon 拉取用户自己账号的 Telegram 会话，
 ```mermaid
 xychart-beta
     title "WhiteBite/tg-agent 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 3（+0）
 
 
 ---

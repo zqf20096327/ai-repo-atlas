@@ -1,6 +1,6 @@
 # opopile/beichen-pi-desktop
 
-⭐ 16 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/opopile/beichen-pi-desktop) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向本地模型的 Windows 桌面 Agent 平台，含上下文治理与 Token 仪表**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

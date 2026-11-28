@@ -1,6 +1,6 @@
 # 2501Pr0ject/RAGnarok-AI
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/2501Pr0ject/RAGnarok-AI) · [官网](https://ra-gnarok-ai-q3an.vercel.app) · 组织维护
+⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/2501Pr0ject/RAGnarok-AI) · [官网](https://ra-gnarok-ai-q3an.vercel.app) · 组织维护
 
 **本地优先的 RAG 评测框架：评估、基准与监控 RAG 流水线**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "2501Pr0ject/RAGnarok-AI 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "2501Pr0ject/RAGnarok-AI 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 14 --> 18
-    line [15, 17]
+    line [15, 17, 17]
 ```
 
-2026-10-25 15 → 2026-11-27 17（+2）
+2026-10-26 15 → 2026-11-28 17（+2）
 
 
 ---

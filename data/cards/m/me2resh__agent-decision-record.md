@@ -1,6 +1,6 @@
 # me2resh/agent-decision-record
 
-⭐ 54 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/me2resh/agent-decision-record) · [官网](https://agdr.dev) · 个人维护
+⭐ 55 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/me2resh/agent-decision-record) · [官网](https://agdr.dev) · 个人维护
 
 **记录 AI 编码代理技术决策的开放标准（AgDR）**
 
@@ -45,12 +45,12 @@ Agent Decision Record（AgDR）是面向 AI 辅助开发的决策记录开放标
 ```mermaid
 xychart-beta
     title "me2resh/agent-decision-record 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 51 --> 55
-    line [52, 53, 52, 53, 54, 54]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 52, 53, 54, 55]
 ```
 
-2026-10-25 52 → 2026-11-27 54（+2）
+2026-10-26 52 → 2026-11-28 55（+3）
 
 
 ---

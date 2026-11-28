@@ -1,6 +1,6 @@
 # waterpail114514/modmind
 
-⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/waterpail114514/modmind) · [官网](https://ether-studio.top/) · 个人维护 · 中文 README
+⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/waterpail114514/modmind) · [官网](https://ether-studio.top/) · 个人维护 · 中文 README
 
 **面向 Minecraft 创作者的 AI 辅助桌面创作工作台**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，为 Minecraft 模组、整合包、资源创作者提供
 ```mermaid
 xychart-beta
     title "waterpail114514/modmind 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-28"]
     y-axis "stars" 28 --> 35
     line [29, 33, 34, 33, 34, 34]
 ```
 
-2026-11-02 29 → 2026-11-27 34（+5）
+2026-11-02 29 → 2026-11-28 34（+5）
 
 
 ---

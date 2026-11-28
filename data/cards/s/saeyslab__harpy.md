@@ -1,6 +1,6 @@
 # saeyslab/harpy
 
-⭐ 90 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/saeyslab/harpy) · [官网](https://harpy.readthedocs.io/en/latest/) · 组织维护
+⭐ 90 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/saeyslab/harpy) · [官网](https://harpy.readthedocs.io/en/latest/) · 组织维护
 
 **空间组学（转录组/蛋白组）单细胞分析库**
 
@@ -46,12 +46,12 @@ scverse 生态中的空间组学分析 Python 库：读取空间转录组与蛋�
 ```mermaid
 xychart-beta
     title "saeyslab/harpy 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-16", "2026-11-25", "2026-11-28"]
     y-axis "stars" 78 --> 91
     line [79, 88, 89, 90, 90]
 ```
 
-2026-10-25 79 → 2026-11-27 90（+11）
+2026-10-26 79 → 2026-11-28 90（+11）
 
 
 ---

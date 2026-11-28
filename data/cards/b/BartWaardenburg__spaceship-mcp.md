@@ -1,6 +1,6 @@
 # BartWaardenburg/spaceship-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/BartWaardenburg/spaceship-mcp) · [官网](https://www.npmjs.com/package/spaceship-mcp) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/BartWaardenburg/spaceship-mcp) · [官网](https://www.npmjs.com/package/spaceship-mcp) · 个人维护
 
 **通过自然语言管理 Spaceship 域名/DNS 的 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BartWaardenburg/spaceship-mcp 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-28"]
     y-axis "stars" 12 --> 15
     line [13, 14, 13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

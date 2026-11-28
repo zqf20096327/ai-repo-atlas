@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hoangsonww/EstateWise-Chapel-Hill-Chatbot 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "hoangsonww/EstateWise-Chapel-Hill-Chatbot 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 40 --> 43
-    line [41, 42]
+    line [41, 42, 42]
 ```
 
-2026-10-25 41 → 2026-11-27 42（+1）
+2026-10-26 41 → 2026-11-28 42（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # panbibliotekar/gaidet-declaration
 
-⭐ 12 · HTML · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/panbibliotekar/gaidet-declaration) · [官网](https://w3id.org/gaidet/) · 个人维护
+⭐ 13 · HTML · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/panbibliotekar/gaidet-declaration) · [官网](https://w3id.org/gaidet/) · 个人维护
 
 **帮研究者生成论文中生成式 AI 使用声明的 HTML 工具**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "panbibliotekar/gaidet-declaration 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "panbibliotekar/gaidet-declaration 星数(近 4 点)"
+    x-axis ["2026-11-13", "2026-11-18", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-13 10 → 2026-11-27 12（+2）
+2026-11-13 10 → 2026-11-28 13（+3）
 
 
 ---

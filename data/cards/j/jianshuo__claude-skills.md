@@ -1,6 +1,6 @@
 # jianshuo/claude-skills
 
-⭐ 146 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jianshuo/claude-skills) · 个人维护 · 中文 README
+⭐ 147 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jianshuo/claude-skills) · 个人维护 · 中文 README
 
 **作者日常在 Claude Code 使用的视频创作与公众号写作 skills 合集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jianshuo/claude-skills 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 136 --> 147
-    line [137, 139, 140, 141, 142, 144, 146]
+    title "jianshuo/claude-skills 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 136 --> 148
+    line [137, 139, 140, 141, 142, 144, 146, 147]
 ```
 
-2026-10-25 137 → 2026-11-27 146（+9）
+2026-10-26 137 → 2026-11-28 147（+10）
 
 
 ---

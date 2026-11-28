@@ -1,6 +1,6 @@
 # Leeroo-AI/superml
 
-⭐ 199 · Python · Apache-2.0 · 推送 2026-03-17 · [GitHub](https://github.com/Leeroo-AI/superml) · [官网](https://leeroo.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给 AI 编程 agent 加持 ML 工程技能与知识库的插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

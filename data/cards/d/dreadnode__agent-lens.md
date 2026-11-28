@@ -1,6 +1,6 @@
 # dreadnode/agent-lens
 
-⭐ 118 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/dreadnode/agent-lens) · [官网](https://dreadnode.github.io/agent-lens/) · 组织维护
+⭐ 117 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/dreadnode/agent-lens) · [官网](https://dreadnode.github.io/agent-lens/) · 组织维护
 
 **AI 安全研究用的多会话 agent 轨迹采集与重放工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dreadnode/agent-lens 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 116 --> 119
-    line [117, 118, 118]
+    line [117, 118, 117]
 ```
 
-2026-10-25 117 → 2026-11-27 118（+1）
+2026-10-26 117 → 2026-11-28 117（+0）
 
 
 ---

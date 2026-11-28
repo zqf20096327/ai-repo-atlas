@@ -1,6 +1,6 @@
 # phil-haderer/pxc
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/phil-haderer/pxc) · 个人维护
+⭐ 134 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/phil-haderer/pxc) · 个人维护
 
 **为 PhotoCraft 用户提供本地 AI 生图与图像编辑的伴随应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "phil-haderer/pxc 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 25 --> 76
-    line [29, 72]
+    title "phil-haderer/pxc 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 19 --> 144
+    line [29, 72, 134]
 ```
 
-2026-11-26 29 → 2026-11-27 72（+43）
+2026-11-26 29 → 2026-11-28 134（+105）
 
 
 ---

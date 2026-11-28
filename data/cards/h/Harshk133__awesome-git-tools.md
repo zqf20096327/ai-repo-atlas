@@ -1,6 +1,6 @@
 # Harshk133/awesome-git-tools
 
-⭐ 12 · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Harshk133/awesome-git-tools) · 个人维护
+⭐ 13 · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Harshk133/awesome-git-tools) · 个人维护
 
 **面向开发者的 Git 与 GitHub 工具策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Harshk133/awesome-git-tools 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 12, 12]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 12, 13]
 ```
 
-2026-11-02 10 → 2026-11-27 12（+2）
+2026-11-02 10 → 2026-11-28 13（+3）
 
 
 ---

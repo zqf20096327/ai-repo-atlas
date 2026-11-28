@@ -1,6 +1,6 @@
 # MatrixCoreX/RustClaw
 
-⭐ 27 · Rust · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/MatrixCoreX/RustClaw) · [官网](https://rustclaw.matrixai.one/) · 组织维护 · 中文 README
+⭐ 27 · Rust · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/MatrixCoreX/RustClaw) · [官网](https://rustclaw.matrixai.one/) · 组织维护 · 中文 README
 
 **树莓派/Ubuntu/macOS 可自托管的 Rust AI agent 平台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MatrixCoreX/RustClaw 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    title "MatrixCoreX/RustClaw 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 25 --> 28
-    line [26, 27]
+    line [26, 27, 27]
 ```
 
-2026-11-25 26 → 2026-11-27 27（+1）
+2026-11-25 26 → 2026-11-28 27（+1）
 
 
 ---

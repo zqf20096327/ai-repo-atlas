@@ -1,6 +1,6 @@
 # LJMStark/Colab-Tools
 
-⭐ 7 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LJMStark/Colab-Tools) · 个人维护 · 中文 README
+⭐ 22 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/LJMStark/Colab-Tools) · 个人维护 · 中文 README
 
 **给 Colab 用户一键部署 H3 视频模型并管理 GPU 账单的桌面工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "LJMStark/Colab-Tools 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 8
-    line [3, 7]
+    title "LJMStark/Colab-Tools 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 23
+    line [3, 7, 22]
 ```
 
-2026-11-26 3 → 2026-11-27 7（+4）
+2026-11-26 3 → 2026-11-28 22（+19）
 
 
 ---

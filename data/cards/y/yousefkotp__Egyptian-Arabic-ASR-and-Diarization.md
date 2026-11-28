@@ -43,13 +43,13 @@ Speech Squad 团队参加 MTC-AIC 2 挑战的提交代码：基于 3200 万参�
 
 ```mermaid
 xychart-beta
-    title "yousefkotp/Egyptian-Arabic-ASR-and-Diarization 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "yousefkotp/Egyptian-Arabic-ASR-and-Diarization 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 20 --> 23
-    line [21, 22, 21, 22, 22]
+    line [22, 21, 22, 22]
 ```
 
-2026-10-25 21 → 2026-11-27 22（+1）
+2026-10-26 22 → 2026-11-28 22（+0）
 
 
 ---

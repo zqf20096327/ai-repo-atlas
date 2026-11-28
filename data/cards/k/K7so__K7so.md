@@ -1,6 +1,6 @@
 # K7so/K7so
 
-⭐ 6 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/K7so/K7so) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/K7so/K7so) · 个人维护 · 中文 README
 
 **给安全测试者的 Agent 自动化渗透测试平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "K7so/K7so 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
 ```
 
-2026-11-26 6 → 2026-11-27 6（+0）
+2026-11-26 6 → 2026-11-28 7（+1）
 
 
 ---

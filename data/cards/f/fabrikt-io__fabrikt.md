@@ -1,6 +1,6 @@
 # fabrikt-io/fabrikt
 
-⭐ 298 · Kotlin · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/fabrikt-io/fabrikt) · [官网](https://try.fabrikt.io) · 组织维护
+⭐ 297 · Kotlin · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/fabrikt-io/fabrikt) · [官网](https://try.fabrikt.io) · 组织维护
 
 **从 OpenAPI 3 规范生成 Kotlin 数据类与 HTTP 客户端/控制器的代码生成库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "fabrikt-io/fabrikt 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-22", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-22", "2026-11-25", "2026-11-28"]
     y-axis "stars" 293 --> 299
-    line [294, 295, 296, 298, 298]
+    line [294, 295, 296, 298, 297]
 ```
 
-2026-10-25 294 → 2026-11-27 298（+4）
+2026-10-26 294 → 2026-11-28 297（+3）
 
 
 ---

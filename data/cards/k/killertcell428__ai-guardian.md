@@ -43,12 +43,12 @@ ai-guardian 原为面向 Python 的开源 LLM 安全库，用于防护提示注�
 ```mermaid
 xychart-beta
     title "killertcell428/ai-guardian 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # klchdev/curio
 
-⭐ 19 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/klchdev/curio) · [官网](https://curio.klch.dev) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/klchdev/curio) · [官网](https://curio.klch.dev) · 个人维护
 
 **自托管的游戏游玩日志应用：基于你的文字生成下一步玩什么的建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "klchdev/curio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 19（+0）
 
 
 ---

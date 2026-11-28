@@ -1,6 +1,6 @@
 # piomin/ai-software-factory
 
-⭐ 221 · Dockerfile · 推送 2026-11-24 · [GitHub](https://github.com/piomin/ai-software-factory) · 个人维护
+⭐ 223 · Dockerfile · 推送 2026-11-24 · [GitHub](https://github.com/piomin/ai-software-factory) · 个人维护
 
 **在 Kubernetes/OpenShift 上将 GitHub issue 自动转为 PR 的自托管工厂**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "piomin/ai-software-factory 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 210 --> 222
-    line [211, 221]
+    title "piomin/ai-software-factory 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 210 --> 224
+    line [211, 221, 223]
 ```
 
-2026-11-26 211 → 2026-11-27 221（+10）
+2026-11-26 211 → 2026-11-28 223（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # daiwk/auto-research
 
-⭐ 41 · Python · 推送 2026-11-26 · [GitHub](https://github.com/daiwk/auto-research) · [官网](https://daiwk.github.io/auto-research/) · 个人维护 · 中文 README
+⭐ 41 · Python · 推送 2026-11-27 · [GitHub](https://github.com/daiwk/auto-research) · [官网](https://daiwk.github.io/auto-research/) · 个人维护 · 中文 README
 
 **给 AI 研究者：410+ 论文代码实现、精读卡片与实验看板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daiwk/auto-research 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-11-26 41 → 2026-11-27 41（+0）
+2026-11-26 41 → 2026-11-28 41（+0）
 
 
 ---

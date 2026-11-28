@@ -45,12 +45,12 @@ Typed Kotlin DSL 的 JVM agent 运行时：每个 agent 为 Agent<IN, OUT> 类�
 ```mermaid
 xychart-beta
     title "Deep-CodeAI/Agents.KT 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-28"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-25 16 → 2026-11-27 17（+1）
+2026-10-26 16 → 2026-11-28 17（+1）
 
 
 ---

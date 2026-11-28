@@ -1,6 +1,6 @@
 # kokonut-labs/kokonutui
 
-⭐ 2,427 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/kokonut-labs/kokonutui) · [官网](https://kokonutui.com) · 组织维护
+⭐ 2,434 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/kokonut-labs/kokonutui) · [官网](https://kokonutui.com) · 组织维护
 
 **面向 AI 聊天与 Agent 界面的开源 React 组件库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kokonut-labs/kokonutui 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2418 --> 2428
-    line [2419, 2427]
+    title "kokonut-labs/kokonutui 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2418 --> 2435
+    line [2419, 2427, 2434]
 ```
 
-2026-11-26 2,419 → 2026-11-27 2,427（+8）
+2026-11-26 2,419 → 2026-11-28 2,434（+15）
 
 
 ---

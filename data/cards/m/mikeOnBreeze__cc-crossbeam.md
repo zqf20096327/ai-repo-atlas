@@ -1,6 +1,6 @@
 # mikeOnBreeze/cc-crossbeam
 
-⭐ 299 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mikeOnBreeze/cc-crossbeam) · [官网](https://www.crossbeam-permits.com) · 个人维护
+⭐ 298 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/mikeOnBreeze/cc-crossbeam) · [官网](https://www.crossbeam-permits.com) · 个人维护
 
 **面向城市与建造方的 AI 建筑许可图纸审查系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mikeOnBreeze/cc-crossbeam 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26", "2026-11-28"]
     y-axis "stars" 296 --> 300
-    line [297, 298, 297, 298, 299, 299]
+    line [297, 298, 297, 298, 299, 298]
 ```
 
-2026-10-25 297 → 2026-11-27 299（+2）
+2026-10-26 297 → 2026-11-28 298（+1）
 
 
 ---

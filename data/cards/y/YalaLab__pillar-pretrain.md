@@ -1,6 +1,6 @@
 # YalaLab/pillar-pretrain
 
-⭐ 44 · Python · NOASSERTION · 推送 2026-01-13 · [GitHub](https://github.com/YalaLab/pillar-pretrain) · 组织维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-01-13 · [GitHub](https://github.com/YalaLab/pillar-pretrain) · 组织维护
 
 **放射学基础模型 Pillar-0 的预训练代码**
 
@@ -45,12 +45,12 @@ YalaLab 发布的 Pillar-0 放射学视觉-语言基础模型预训练代码仓�
 ```mermaid
 xychart-beta
     title "YalaLab/pillar-pretrain 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 42, 44, 44]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 42, 44, 45]
 ```
 
-2026-10-25 42 → 2026-11-27 44（+2）
+2026-10-26 42 → 2026-11-28 45（+3）
 
 
 ---

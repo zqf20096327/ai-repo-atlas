@@ -1,6 +1,6 @@
 # DEEPX-AI/dx-modelzoo
 
-⭐ 25 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/DEEPX-AI/dx-modelzoo) · [官网](https://developer.deepx.ai/modelzoo/) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/DEEPX-AI/dx-modelzoo) · [官网](https://developer.deepx.ai/modelzoo/) · 组织维护
 
 **面向 DEEPX NPU 的模型管理、评测与编译框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DEEPX-AI/dx-modelzoo 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-28"]
     y-axis "stars" 21 --> 26
     line [22, 24, 25, 25]
 ```
 
-2026-11-08 22 → 2026-11-27 25（+3）
+2026-11-08 22 → 2026-11-28 25（+3）
 
 
 ---

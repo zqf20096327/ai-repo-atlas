@@ -1,6 +1,6 @@
 # rodrigo-arenas/Sklearn-genetic-opt
 
-⭐ 398 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) · [官网](https://sklearngeneticopt.rodrigo-arenas.com) · 个人维护
+⭐ 398 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) · [官网](https://sklearngeneticopt.rodrigo-arenas.com) · 个人维护
 
 **scikit-learn 模型的超参搜索与特征选择库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rodrigo-arenas/Sklearn-genetic-opt 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-28"]
     y-axis "stars" 389 --> 399
     line [390, 391, 390, 391, 393, 397, 398, 397, 398, 398]
 ```
 
-2026-10-25 390 → 2026-11-27 398（+8）
+2026-10-26 390 → 2026-11-28 398（+8）
 
 
 ---

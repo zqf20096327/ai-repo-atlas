@@ -1,6 +1,6 @@
 # RuMemory/maxgraph
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/RuMemory/maxgraph) · [官网](https://rezon-ai.ru) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI agent 的本地持久化记忆：MCP 服务器+知识图谱**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

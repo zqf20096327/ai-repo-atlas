@@ -1,6 +1,6 @@
 # convertigo/convertigo
 
-⭐ 388 · Java · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/convertigo/convertigo) · [官网](https://www.convertigo.com) · 组织维护
+⭐ 388 · Java · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/convertigo/convertigo) · [官网](https://www.convertigo.com) · 组织维护
 
 **低代码/无代码全栈企业应用构建与自托管平台**
 
@@ -45,12 +45,12 @@ Convertigo Community Edition 是开源的 Low Code 与 No Code 平台，用于�
 ```mermaid
 xychart-beta
     title "convertigo/convertigo 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-20", "2026-11-28"]
     y-axis "stars" 386 --> 390
     line [387, 389, 388, 388]
 ```
 
-2026-10-25 387 → 2026-11-27 388（+1）
+2026-10-26 387 → 2026-11-28 388（+1）
 
 
 ---

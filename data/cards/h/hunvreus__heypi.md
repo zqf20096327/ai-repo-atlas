@@ -1,6 +1,6 @@
 # hunvreus/heypi
 
-⭐ 163 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/hunvreus/heypi) · [官网](https://heypi.dev) · 个人维护
+⭐ 164 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/hunvreus/heypi) · [官网](https://heypi.dev) · 个人维护
 
 **给团队把 Pi agent 接入 Slack/Discord/Telegram 的宿主框架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hunvreus/heypi 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 159 --> 164
-    line [160, 161, 160, 161, 162, 163, 163]
+    title "hunvreus/heypi 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 159 --> 165
+    line [161, 160, 161, 162, 163, 164]
 ```
 
-2026-10-25 160 → 2026-11-27 163（+3）
+2026-10-26 161 → 2026-11-28 164（+3）
 
 
 ---

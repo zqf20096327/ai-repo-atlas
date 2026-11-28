@@ -1,6 +1,6 @@
 # deepset-ai/haystack-tutorials
 
-⭐ 378 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/deepset-ai/haystack-tutorials) · [官网](https://haystack.deepset.ai/tutorials) · 组织维护
+⭐ 378 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/deepset-ai/haystack-tutorials) · [官网](https://haystack.deepset.ai/tutorials) · 组织维护
 
 **Haystack 框架的官方教程集合仓库**
 
@@ -45,12 +45,12 @@ deepset 维护的 Haystack 框架配套教程仓库，收录全部官方教程�
 ```mermaid
 xychart-beta
     title "deepset-ai/haystack-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 377 --> 379
     line [378, 378]
 ```
 
-2026-10-25 378 → 2026-11-27 378（+0）
+2026-10-26 378 → 2026-11-28 378（+0）
 
 
 ---

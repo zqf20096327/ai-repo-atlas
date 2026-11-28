@@ -1,6 +1,6 @@
 # pirateface/pirateface_cli
 
-⭐ 32 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/pirateface/pirateface_cli) · [官网](https://pirateface.co) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/pirateface/pirateface_cli) · [官网](https://pirateface.co) · 个人维护
 
 **面向 AI 模型的 BitTorrent P2P 下载 CLI 工具**
 
@@ -45,12 +45,12 @@ pirateface_cli 提供 pf 命令行，通过 BitTorrent 从 Pirate Face 种子网
 ```mermaid
 xychart-beta
     title "pirateface/pirateface_cli 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-28"]
     y-axis "stars" 25 --> 33
     line [26, 29, 31, 32, 32]
 ```
 
-2026-11-19 26 → 2026-11-27 32（+6）
+2026-11-19 26 → 2026-11-28 32（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # lulakien/inkling2-mini-3090-recipe
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lulakien/inkling2-mini-3090-recipe) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lulakien/inkling2-mini-3090-recipe) · 个人维护
 
 **在 1-2 张 RTX 3090 上运行 Inkling-2-Mini 的 vLLM 配方**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lulakien/inkling2-mini-3090-recipe 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "lulakien/inkling2-mini-3090-recipe 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 3 --> 7
-    line [4, 6]
+    line [4, 6, 5]
 ```
 
-2026-11-26 4 → 2026-11-27 6（+2）
+2026-11-26 4 → 2026-11-28 5（+1）
 
 
 ---

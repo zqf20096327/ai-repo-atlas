@@ -46,12 +46,12 @@ nmaipy 是 Nearmap AI 的 Python 工具库：通过 Feature API、RoofAgeApi、D
 ```mermaid
 xychart-beta
     title "nearmap/nmaipy 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-11-25 21 → 2026-11-27 21（+0）
+2026-11-25 21 → 2026-11-28 21（+0）
 
 
 ---

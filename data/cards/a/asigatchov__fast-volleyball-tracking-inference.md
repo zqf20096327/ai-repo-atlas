@@ -1,6 +1,6 @@
 # asigatchov/fast-volleyball-tracking-inference
 
-⭐ 78 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/asigatchov/fast-volleyball-tracking-inference) · 个人维护
+⭐ 79 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/asigatchov/fast-volleyball-tracking-inference) · 个人维护
 
 **CPU 实时排球检测追踪管线，自动生成 9:16 竖屏集锦**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "asigatchov/fast-volleyball-tracking-inference 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 71 --> 79
-    line [72, 73, 75, 72, 75, 76, 77, 78, 78]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 71 --> 80
+    line [72, 73, 75, 72, 75, 76, 77, 78, 79]
 ```
 
-2026-10-25 72 → 2026-11-27 78（+6）
+2026-10-26 72 → 2026-11-28 79（+7）
 
 
 ---

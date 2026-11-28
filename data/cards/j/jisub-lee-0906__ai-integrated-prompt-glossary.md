@@ -1,6 +1,6 @@
 # jisub-lee-0906/ai-integrated-prompt-glossary
 
-⭐ 10 · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/jisub-lee-0906/ai-integrated-prompt-glossary) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向设计·视频·开发者的 AI 指令韩语术语表**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

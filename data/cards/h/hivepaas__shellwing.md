@@ -1,6 +1,6 @@
 # hivepaas/shellwing
 
-⭐ 194 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/hivepaas/shellwing) · [官网](https://shellwing.app) · 组织维护
+⭐ 196 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/hivepaas/shellwing) · [官网](https://shellwing.app) · 组织维护
 
 **面向 SSH 用户的客户端：让 AI 代理安全地操作服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hivepaas/shellwing 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 191 --> 195
-    line [192, 194]
+    title "hivepaas/shellwing 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 191 --> 197
+    line [192, 194, 196]
 ```
 
-2026-11-26 192 → 2026-11-27 194（+2）
+2026-11-26 192 → 2026-11-28 196（+4）
 
 
 ---

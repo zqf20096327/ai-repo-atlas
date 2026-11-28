@@ -1,6 +1,6 @@
 # nairiai/nairid
 
-⭐ 25 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nairiai/nairid) · [官网](https://nairi.ai) · 组织维护
+⭐ 25 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/nairiai/nairid) · [官网](https://nairi.ai) · 组织维护
 
 **运行 AI 编码 agent 并接入 Slack/Discord 协作的守护进程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nairiai/nairid 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-25 25 → 2026-11-27 25（+0）
+2026-10-26 25 → 2026-11-28 25（+0）
 
 
 ---

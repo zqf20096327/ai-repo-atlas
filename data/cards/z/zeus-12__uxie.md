@@ -1,6 +1,6 @@
 # zeus-12/uxie
 
-⭐ 197 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/zeus-12/uxie) · [官网](https://uxie.vercel.app) · 个人维护
+⭐ 197 · TypeScript · 推送 2026-11-27 · [GitHub](https://github.com/zeus-12/uxie) · [官网](https://uxie.vercel.app) · 个人维护
 
 **带 AI 对话与闪卡功能的 PDF 阅读笔记应用（Web + 桌面）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zeus-12/uxie 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 195 --> 198
     line [196, 197, 196, 197, 197]
 ```
 
-2026-10-25 196 → 2026-11-27 197（+1）
+2026-10-26 196 → 2026-11-28 197（+1）
 
 
 ---

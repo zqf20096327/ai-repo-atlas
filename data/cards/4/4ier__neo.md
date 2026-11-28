@@ -42,6 +42,18 @@ Chrome 扩展加 CLI 的组合：扩展常驻拦截浏览器内所有 fetch/XHR 
 > L16: **Neo is the third way.** Every web app already has a complete internal API — the frontend calls it every time you 
 > L111: This gives AI agents a fast, semantic way to interact with any UI. Combine with API capture for a dual-channel app
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "4ier/neo 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 756 --> 758
+    line [757, 757]
+```
+
+2026-11-27 757 → 2026-11-28 757（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f9256ab8d587` · [字段定义](../../DATASET.md)*

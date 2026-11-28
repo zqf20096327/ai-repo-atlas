@@ -1,6 +1,6 @@
 # Yash-814800/GH-Breakout
 
-⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Yash-814800/GH-Breakout) · [官网](https://yash-814800.github.io/GH-Breakout/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **每日公开的新 GitHub 仓库突破预测排行榜，带可验证记录**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

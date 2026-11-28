@@ -1,6 +1,6 @@
 # Stunspot/stunspots-guide-to-ai-systems
 
-⭐ 49 · PowerShell · CC-BY-4.0 · 推送 2026-08-30 · [GitHub](https://github.com/Stunspot/stunspots-guide-to-ai-systems) · [官网](https://stunspot.github.io/stunspots-guide-to-ai-systems/) · 个人维护
+⭐ 50 · PowerShell · CC-BY-4.0 · 推送 2026-08-30 · [GitHub](https://github.com/Stunspot/stunspots-guide-to-ai-systems) · [官网](https://stunspot.github.io/stunspots-guide-to-ai-systems/) · 个人维护
 
 **面向 AI 工程师的生产级 AI 系统设计知识典（37 篇/12 卷）**
 
@@ -46,12 +46,12 @@ Markdown 原生的 AI 系统工程操作典（canon），含 12 卷、37 篇报�
 ```mermaid
 xychart-beta
     title "Stunspot/stunspots-guide-to-ai-systems 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50]
 ```
 
-2026-10-25 48 → 2026-11-27 49（+1）
+2026-10-26 48 → 2026-11-28 50（+2）
 
 
 ---

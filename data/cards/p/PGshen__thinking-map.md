@@ -1,6 +1,6 @@
 # PGshen/thinking-map
 
-⭐ 188 · Go · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/PGshen/thinking-map) · [官网](https://thinking.zero-zero.cc) · 个人维护 · 中文 README
+⭐ 189 · Go · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/PGshen/thinking-map) · [官网](https://thinking.zero-zero.cc) · 个人维护 · 中文 README
 
 **把 AI 思考过程转为可视化思维导图、可随时干预的问题解决助手**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "PGshen/thinking-map 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 184 --> 189
-    line [185, 186, 185, 187, 188, 188]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 184 --> 190
+    line [185, 186, 185, 187, 188, 189]
 ```
 
-2026-10-25 185 → 2026-11-27 188（+3）
+2026-10-26 185 → 2026-11-28 189（+4）
 
 
 ---

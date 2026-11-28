@@ -1,6 +1,6 @@
 # nevenfo/kicad-agentic-mcp
 
-⭐ 18 · Rust · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/nevenfo/kicad-agentic-mcp) · [官网](https://github.com/nevenfo/kicad-agentic-mcp/releases/latest) · 个人维护
+⭐ 19 · Rust · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/nevenfo/kicad-agentic-mcp) · [官网](https://github.com/nevenfo/kicad-agentic-mcp/releases/latest) · 个人维护
 
 **KiCad 10 的 MCP 服务器与 agent 控制层：LLM 规划+确定性执行 PCB 设计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nevenfo/kicad-agentic-mcp 星数(近 6 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 19
-    line [10, 12, 13, 15, 18, 18]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 20
+    line [10, 12, 13, 15, 18, 19]
 ```
 
-2026-10-30 10 → 2026-11-27 18（+8）
+2026-10-30 10 → 2026-11-28 19（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # axisvela/praxo-core-haskell
 
-⭐ 3 · Haskell · MIT · 推送 2026-11-26 · [GitHub](https://github.com/axisvela/praxo-core-haskell) · [官网](https://axisvela.github.io/praxo-core/languages/haskell/) · 组织维护
+⭐ 4 · Haskell · MIT · 推送 2026-11-27 · [GitHub](https://github.com/axisvela/praxo-core-haskell) · [官网](https://axisvela.github.io/praxo-core/languages/haskell/) · 组织维护
 
 **Haskell 可嵌入 AI Agent 框架，带策略与检查点**
 
@@ -46,12 +46,12 @@ PRAXO-CORE 的原生 Haskell 实现，MIT 许可，以 Hackage 包 praxo-core �
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-haskell 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 4（+1）
 
 
 ---

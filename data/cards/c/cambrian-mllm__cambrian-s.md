@@ -1,6 +1,6 @@
 # cambrian-mllm/cambrian-s
 
-⭐ 573 · Python · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/cambrian-mllm/cambrian-s) · [官网](https://cambrian-mllm.github.io/) · 组织维护
+⭐ 574 · Python · Apache-2.0 · 推送 2026-04-03 · [GitHub](https://github.com/cambrian-mllm/cambrian-s) · [官网](https://cambrian-mllm.github.io/) · 组织维护
 
 **面向视频空间理解的多模态大模型，含数据集与训练评测代码**
 
@@ -44,13 +44,13 @@ Cambrian-S 是以视频空间感知（spatial supersensing）为目标的多模�
 
 ```mermaid
 xychart-beta
-    title "cambrian-mllm/cambrian-s 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 570 --> 574
-    line [571, 572, 571, 573, 573]
+    title "cambrian-mllm/cambrian-s 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 570 --> 575
+    line [572, 571, 573, 574]
 ```
 
-2026-10-25 571 → 2026-11-27 573（+2）
+2026-10-26 572 → 2026-11-28 574（+2）
 
 
 ---

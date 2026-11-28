@@ -1,6 +1,6 @@
 # mwakidenis/smart-farmer
 
-⭐ 16 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/mwakidenis/smart-farmer) · [官网](https://shamba-smart-scan.vercel.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **拍照诊断植物病害的 AI 平台，面向农民与园艺爱好者**
 

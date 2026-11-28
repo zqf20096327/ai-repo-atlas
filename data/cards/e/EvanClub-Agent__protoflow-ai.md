@@ -1,6 +1,6 @@
 # EvanClub-Agent/protoflow-ai
 
-⭐ 9 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/EvanClub-Agent/protoflow-ai) · [官网](https://alex.xclubai.com/) · 组织维护 · 中文 README
+⭐ 9 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/EvanClub-Agent/protoflow-ai) · [官网](https://alex.xclubai.com/) · 组织维护 · 中文 README
 
 **给产品经理与开发团队的 AI 可视化原型设计与 ER 建模桌面工作台**
 
@@ -47,12 +47,12 @@ Electron + React 桌面工作台：用自然语言描述业务后，AI 先澄清
 ```mermaid
 xychart-beta
     title "EvanClub-Agent/protoflow-ai 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 3 --> 10
     line [4, 6, 8, 9, 9]
 ```
 
-2026-11-22 4 → 2026-11-27 9（+5）
+2026-11-22 4 → 2026-11-28 9（+5）
 
 
 ---

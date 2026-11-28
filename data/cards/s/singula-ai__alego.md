@@ -1,6 +1,6 @@
 # singula-ai/alego
 
-⭐ 110 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/singula-ai/alego) · 组织维护 · 中文 README
+⭐ 110 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/singula-ai/alego) · 组织维护 · 中文 README
 
 **插件式架构的 AI agent 应用构建框架（agent harness）**
 
@@ -45,12 +45,12 @@ Singula AI 开源的 agent harness，为构建 AI agent 应用提供基础底座
 ```mermaid
 xychart-beta
     title "singula-ai/alego 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 108 --> 111
     line [109, 110, 109, 110, 110]
 ```
 
-2026-10-25 109 → 2026-11-27 110（+1）
+2026-10-26 109 → 2026-11-28 110（+1）
 
 
 ---

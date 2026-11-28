@@ -1,6 +1,6 @@
 # taotaoboom/buaa_machine_learning
 
-⭐ 10 · 推送 2026-03-29 · [GitHub](https://github.com/taotaoboom/buaa_machine_learning) · 个人维护 · 中文 README
+⭐ 11 · 推送 2026-03-29 · [GitHub](https://github.com/taotaoboom/buaa_machine_learning) · 个人维护 · 中文 README
 
 **北航机器学习课程复习资料库：笔记、真题与答案**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "taotaoboom/buaa_machine_learning 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-22", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-22 10 → 2026-11-27 10（+0）
+2026-11-22 10 → 2026-11-28 11（+1）
 
 
 ---

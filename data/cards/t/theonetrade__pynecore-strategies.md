@@ -1,6 +1,6 @@
 # theonetrade/pynecore-strategies
 
-⭐ 58 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/theonetrade/pynecore-strategies) · [官网](https://theonetrade.github.io) · 组织维护
+⭐ 59 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/theonetrade/pynecore-strategies) · [官网](https://theonetrade.github.io) · 组织维护
 
 **449 个 TradingView 策略的 Pine→Python 离线回测脚本集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "theonetrade/pynecore-strategies 星数(近 9 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 62
-    line [10, 35, 39, 47, 54, 56, 57, 58, 58]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 6 --> 63
+    line [10, 35, 39, 47, 54, 56, 57, 58, 59]
 ```
 
-2026-11-14 10 → 2026-11-27 58（+48）
+2026-11-14 10 → 2026-11-28 59（+49）
 
 
 ---

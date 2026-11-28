@@ -1,6 +1,6 @@
 # namin/dafny-sketcher
 
-⭐ 18 · Dafny · MIT · 推送 2026-07-31 · [GitHub](https://github.com/namin/dafny-sketcher) · 个人维护
+⭐ 19 · Dafny · MIT · 推送 2026-07-31 · [GitHub](https://github.com/namin/dafny-sketcher) · 个人维护
 
 **给 Dafny 用户的交互式半自动验证程序合成工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "namin/dafny-sketcher 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-25 18 → 2026-11-27 18（+0）
+2026-10-26 18 → 2026-11-28 19（+1）
 
 
 ---

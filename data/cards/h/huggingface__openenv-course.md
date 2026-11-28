@@ -1,6 +1,6 @@
 # huggingface/openenv-course
 
-⭐ 90 · Jupyter Notebook · 推送 2026-03-23 · [GitHub](https://github.com/huggingface/openenv-course) · 组织维护
+⭐ 91 · Jupyter Notebook · 推送 2026-03-23 · [GitHub](https://github.com/huggingface/openenv-course) · 组织维护
 
 **面向 ML 工程师与研究者的 OpenEnv 强化学习环境构建课程（5 模块）**
 
@@ -46,12 +46,12 @@ Hugging Face 维护的动手课程：教 ML 工程师、研究者与爱好者使
 ```mermaid
 xychart-beta
     title "huggingface/openenv-course 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 89 --> 91
-    line [90, 90]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 89 --> 92
+    line [90, 91]
 ```
 
-2026-10-25 90 → 2026-11-27 90（+0）
+2026-10-26 90 → 2026-11-28 91（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Helix 是 Claude Code CLI 的前端封装：AI 调用经 Claude Code 路由，�
 ```mermaid
 xychart-beta
     title "kingbee-helix/helix-agent 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-25 48 → 2026-11-27 48（+0）
+2026-10-26 48 → 2026-11-28 48（+0）
 
 
 ---

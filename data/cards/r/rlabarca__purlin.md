@@ -42,6 +42,18 @@
 > L9: runs your own test command and tells you which rules pass on the code as it is now.
 > L21: Agentic developers using Claude Code that need proof their AI-written code does what was asked,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rlabarca/purlin 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4a3941e348eb` · [字段定义](../../DATASET.md)*

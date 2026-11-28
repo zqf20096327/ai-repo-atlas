@@ -45,13 +45,13 @@ PLDI 2025 论文 Type-Constrained Code Generation with Language Models 的复现
 
 ```mermaid
 xychart-beta
-    title "eth-sri/type-constrained-code-generation 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "eth-sri/type-constrained-code-generation 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 104 --> 108
-    line [105, 106, 105, 106, 107]
+    line [105, 106, 105, 106, 107, 107]
 ```
 
-2026-10-25 105 → 2026-11-27 107（+2）
+2026-10-26 105 → 2026-11-28 107（+2）
 
 
 ---

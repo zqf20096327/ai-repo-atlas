@@ -1,6 +1,6 @@
 # yuhxuiao/agy-acp-gateway
 
-⭐ 12 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yuhxuiao/agy-acp-gateway) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/yuhxuiao/agy-acp-gateway) · 个人维护
 
 **为开发者把 Antigravity CLI 变成多协议 API 网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuhxuiao/agy-acp-gateway 星数(近 7 点)"
-    x-axis ["2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 13
     line [3, 6, 7, 9, 10, 12, 12]
 ```
 
-2026-11-15 3 → 2026-11-27 12（+9）
+2026-11-15 3 → 2026-11-28 12（+9）
 
 
 ---

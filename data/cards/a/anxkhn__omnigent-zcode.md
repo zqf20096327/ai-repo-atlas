@@ -1,6 +1,6 @@
 # anxkhn/omnigent-zcode
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/anxkhn/omnigent-zcode) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 ZCode 编码代理接入 Omnigent 会话的社区插件**
 
@@ -11,7 +11,7 @@ omnigent-zcode 是 Omnigent 的社区 harness 插件，通过 ZCode CLI 的 prin
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # thinkwee/HiMe
 
-⭐ 74 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/thinkwee/HiMe) · [官网](https://thinkwee.top/hime/) · 组织维护 · 中文 README
+⭐ 75 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/thinkwee/HiMe) · [官网](https://thinkwee.top/hime/) · 组织维护 · 中文 README
 
 **自托管本地个人健康 AI Agent 平台，接入可穿戴设备数据**
 
@@ -46,12 +46,12 @@ HiMe 是一个自托管、完全本地运行的开源个人健康 AI Agent 平�
 ```mermaid
 xychart-beta
     title "thinkwee/HiMe 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 70 --> 75
-    line [71, 72, 73, 74, 74]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-16", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 70 --> 76
+    line [71, 72, 73, 74, 75]
 ```
 
-2026-10-25 71 → 2026-11-27 74（+3）
+2026-10-26 71 → 2026-11-28 75（+4）
 
 
 ---

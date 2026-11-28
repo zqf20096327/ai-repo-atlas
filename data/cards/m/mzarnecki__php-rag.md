@@ -1,6 +1,6 @@
 # mzarnecki/php-rag
 
-⭐ 68 · PHP · MIT · 推送 2026-07-19 · [GitHub](https://github.com/mzarnecki/php-rag) · [官网](https://medium.com/@michalzarnecki88/a-guide-to-using-llm-retrieval-augmented-generation-with-php-3bff25ce6616) · 个人维护
+⭐ 69 · PHP · MIT · 推送 2026-07-19 · [GitHub](https://github.com/mzarnecki/php-rag) · [官网](https://medium.com/@michalzarnecki88/a-guide-to-using-llm-retrieval-augmented-generation-with-php-3bff25ce6616) · 个人维护
 
 **PHP 实现的 RAG 问答应用：多模型检索文档生成回答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mzarnecki/php-rag 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 66 --> 70
+    line [67, 68, 69]
 ```
 
-2026-10-25 67 → 2026-11-27 68（+1）
+2026-10-26 67 → 2026-11-28 69（+2）
 
 
 ---

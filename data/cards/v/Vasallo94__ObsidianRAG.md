@@ -1,6 +1,6 @@
 # Vasallo94/ObsidianRAG
 
-⭐ 127 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Vasallo94/ObsidianRAG) · [官网](https://pypi.org/project/obsidianrag/) · 个人维护
+⭐ 126 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Vasallo94/ObsidianRAG) · [官网](https://pypi.org/project/obsidianrag/) · 个人维护
 
 **用本地 AI 对 Obsidian 笔记做问答的隐私优先 RAG 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Vasallo94/ObsidianRAG 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 122 --> 128
-    line [123, 124, 125, 123, 126, 127, 127]
+    line [123, 124, 125, 123, 126, 127, 126]
 ```
 
-2026-10-25 123 → 2026-11-27 127（+4）
+2026-10-26 123 → 2026-11-28 126（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # aion7891/rag-titan
 
-⭐ 5 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aion7891/rag-titan) · [官网](https://aion7891.github.io/rag-titan/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aion7891/rag-titan) · [官网](https://aion7891.github.io/rag-titan/) · 个人维护
 
 **统一 Python API 的多类型 RAG 库，可本地运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aion7891/rag-titan 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-23 3 → 2026-11-27 5（+2）
+2026-11-23 3 → 2026-11-28 5（+2）
 
 
 ---

@@ -46,12 +46,12 @@ sota-graph 从 arXiv 论文抽取结果表格，构建记录 SOTA 排行榜与�
 ```mermaid
 xychart-beta
     title "Ilyas-Khiat/sota-graph 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

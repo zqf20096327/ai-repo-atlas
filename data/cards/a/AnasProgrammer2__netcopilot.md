@@ -1,6 +1,6 @@
 # AnasProgrammer2/netcopilot
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/AnasProgrammer2/netcopilot) · [官网](https://netcopilot.app) · 个人维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/AnasProgrammer2/netcopilot) · [官网](https://netcopilot.app) · 个人维护
 
 **给网络工程师的 AI SSH 客户端，ARIA 只读诊断网络故障**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AnasProgrammer2/netcopilot 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 10, 12, 13, 13]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 10, 12, 13, 14]
 ```
 
-2026-10-25 10 → 2026-11-27 13（+3）
+2026-10-26 10 → 2026-11-28 14（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # rusmanadodi2598/GenerativeAutoPost
 
-⭐ 3 · Go · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/rusmanadodi2598/GenerativeAutoPost) · [官网](https://app-post.kentangtech.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **生成并定时发布社交媒体帖子的 Go+Svelte 平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

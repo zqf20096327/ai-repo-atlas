@@ -1,6 +1,6 @@
 # Moloch-AI/uncensored-ai
 
-⭐ 18 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Moloch-AI/uncensored-ai) · [官网](https://molochai.dev/uncensored-ai?utm_source=github&utm_medium=oss&utm_campaign=uncensored-ai) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Moloch-AI/uncensored-ai) · [官网](https://molochai.dev/uncensored-ai?utm_source=github&utm_medium=oss&utm_campaign=uncensored-ai) · 组织维护
 
 **低拒绝（uncensored）语言模型的开发者参考指南与模型比较工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Moloch-AI/uncensored-ai 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-28"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-11-18 17 → 2026-11-27 18（+1）
+2026-11-18 17 → 2026-11-28 18（+1）
 
 
 ---

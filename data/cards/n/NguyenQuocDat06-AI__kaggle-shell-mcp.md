@@ -1,6 +1,6 @@
 # NguyenQuocDat06-AI/kaggle-shell-mcp
 
-⭐ 40 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NguyenQuocDat06-AI/kaggle-shell-mcp) · 个人维护
+⭐ 41 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/NguyenQuocDat06-AI/kaggle-shell-mcp) · 个人维护
 
 **让 AI Agent 通过 MCP 把 Kaggle 免费 GPU 用作远程终端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NguyenQuocDat06-AI/kaggle-shell-mcp 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 35 --> 41
-    line [36, 40]
+    title "NguyenQuocDat06-AI/kaggle-shell-mcp 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 35 --> 42
+    line [36, 40, 41]
 ```
 
-2026-11-26 36 → 2026-11-27 40（+4）
+2026-11-26 36 → 2026-11-28 41（+5）
 
 
 ---

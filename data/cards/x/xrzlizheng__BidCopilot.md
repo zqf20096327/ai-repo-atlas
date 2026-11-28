@@ -1,6 +1,6 @@
 # xrzlizheng/BidCopilot
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/xrzlizheng/BidCopilot) · [官网](https://bidcopilot-demo-byz953f82hk.qoder.zone/) · 组织维护 · 中文 README
+⭐ 7 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/xrzlizheng/BidCopilot) · [官网](https://bidcopilot-demo-byz953f82hk.qoder.zone/) · 组织维护 · 中文 README
 
 **投标团队的 AI 辅助投标决策与交付平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xrzlizheng/BidCopilot 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-18", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 6, 6]
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 6, 7]
 ```
 
-2026-11-15 3 → 2026-11-27 6（+3）
+2026-11-15 3 → 2026-11-28 7（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # dsdred/1c-naparnik-admin
 
-⭐ 9 · Go · 推送 2026-11-26 · [GitHub](https://github.com/dsdred/1c-naparnik-admin) · 个人维护
+⭐ 13 · Go · 推送 2026-11-27 · [GitHub](https://github.com/dsdred/1c-naparnik-admin) · 个人维护
 
 **给 1С:Напарник 提供 OpenAI/Anthropic/Gemini 兼容网关与管理面板**
 
@@ -40,6 +40,18 @@
 
 > L5: Шлюз и админка для публичного API **«1С:Напарник разработчика»**. Подключает Напарника к любым современным IDE и аге
 > L15: |OpenAI Chat Completions|`POST /v1/chat/completions`, `GET /v1/models`|Cline, Roo Code, Continue, Zed, JetBrains AI
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dsdred/1c-naparnik-admin 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 8 --> 14
+    line [9, 13]
+```
+
+2026-11-27 9 → 2026-11-28 13（+4）
 
 
 ---

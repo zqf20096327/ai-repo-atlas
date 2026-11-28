@@ -1,6 +1,6 @@
 # 10xGraph/10xGraph
 
-⭐ 31 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/10xGraph/10xGraph) · [官网](https://10xgraph.com) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/10xGraph/10xGraph) · [官网](https://10xgraph.com) · 组织维护
 
 **构建多 agent AI 系统的 Python 图编排框架，面向生产部署**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "10xGraph/10xGraph 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-27"]
+    title "10xGraph/10xGraph 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-28"]
     y-axis "stars" 26 --> 32
-    line [27, 28, 27, 29, 30, 31, 31]
+    line [28, 27, 29, 30, 31, 31]
 ```
 
-2026-10-25 27 → 2026-11-27 31（+4）
+2026-10-26 28 → 2026-11-28 31（+3）
 
 
 ---

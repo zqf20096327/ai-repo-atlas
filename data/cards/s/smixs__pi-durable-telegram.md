@@ -1,6 +1,6 @@
 # smixs/pi-durable-telegram
 
-⭐ 56 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/smixs/pi-durable-telegram) · [官网](https://github.com/smixs/pi-durable-telegram#readme) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/smixs/pi-durable-telegram) · [官网](https://github.com/smixs/pi-durable-telegram#readme) · 个人维护
 
 **部署在自己服务器上的常驻 pi agent，通过 Telegram 对话使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smixs/pi-durable-telegram 星数(近 16 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 25 --> 58
-    line [27, 36, 37, 38, 39, 42, 43, 27, 47, 48, 49, 50, 51, 53, 56, 56]
+    title "smixs/pi-durable-telegram 星数(近 15 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 24 --> 60
+    line [36, 37, 38, 39, 42, 43, 27, 47, 48, 49, 50, 51, 53, 56, 57]
 ```
 
-2026-10-25 27 → 2026-11-27 56（+29）
+2026-10-26 36 → 2026-11-28 57（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hiteshydv001/Guard-AI-Designing-Remote-Proctoring-System
 
-⭐ 17 · TypeScript · 推送 2026-02-11 · [GitHub](https://github.com/Hiteshydv001/Guard-AI-Designing-Remote-Proctoring-System) · [官网](https://hiteshydv001.github.io/Guard-AI-Designing-Remote-Proctoring-System/) · 组织维护
+⭐ 17 · TypeScript · 推送 2026-11-27 · [GitHub](https://github.com/Hiteshydv001/Guard-AI-Designing-Remote-Proctoring-System) · [官网](https://hiteshydv001.github.io/Guard-AI-Designing-Remote-Proctoring-System/) · 组织维护
 
 **面向远程考试的 AI 监考系统：检测作弊行为并生成报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hiteshydv001/Guard-AI-Designing-Remote-Proctoring-System 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 15 --> 18
     line [16, 17, 16, 17, 17]
 ```
 
-2026-10-25 16 → 2026-11-27 17（+1）
+2026-10-26 16 → 2026-11-28 17（+1）
 
 
 ---

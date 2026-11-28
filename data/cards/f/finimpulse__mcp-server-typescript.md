@@ -1,6 +1,6 @@
 # finimpulse/mcp-server-typescript
 
-⭐ 11 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/finimpulse/mcp-server-typescript) · [官网](https://developers.finimpulse.com/) · 组织维护
+⭐ 11 · TypeScript · 推送 2026-11-27 · [GitHub](https://github.com/finimpulse/mcp-server-typescript) · [官网](https://developers.finimpulse.com/) · 组织维护
 
 **给 AI 客户端提供金融数据的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "finimpulse/mcp-server-typescript 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-26 11 → 2026-11-27 11（+0）
+2026-11-26 11 → 2026-11-28 11（+0）
 
 
 ---

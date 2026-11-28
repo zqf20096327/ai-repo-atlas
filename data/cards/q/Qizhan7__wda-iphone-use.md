@@ -1,6 +1,6 @@
 # Qizhan7/wda-iphone-use
 
-⭐ 33 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Qizhan7/wda-iphone-use) · 个人维护 · 中文 README
+⭐ 35 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Qizhan7/wda-iphone-use) · 个人维护 · 中文 README
 
 **让 AI 通过 MCP 控制真实 iPhone 的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Qizhan7/wda-iphone-use 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 31 --> 36
+    line [32, 33, 35]
 ```
 
-2026-11-21 32 → 2026-11-27 33（+1）
+2026-11-21 32 → 2026-11-28 35（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # mbzuai-oryx/LoopedWSP
 
-⭐ 124 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mbzuai-oryx/LoopedWSP) · [官网](https://mbzuai-oryx.github.io/LoopedWSP/) · 组织维护
+⭐ 126 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mbzuai-oryx/LoopedWSP) · [官网](https://mbzuai-oryx.github.io/LoopedWSP/) · 组织维护
 
 **LLM 手写权重的循环 Transformer 权重与提示词仓库**
 
@@ -45,13 +45,13 @@ MBZUAI 团队发布的仓库，收录由 Claude 在无训练条件下手写权�
 
 ```mermaid
 xychart-beta
-    title "mbzuai-oryx/LoopedWSP 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 12 --> 134
-    line [22, 115, 124]
+    title "mbzuai-oryx/LoopedWSP 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 12 --> 136
+    line [22, 115, 124, 126]
 ```
 
-2026-11-25 22 → 2026-11-27 124（+102）
+2026-11-25 22 → 2026-11-28 126（+104）
 
 
 ---

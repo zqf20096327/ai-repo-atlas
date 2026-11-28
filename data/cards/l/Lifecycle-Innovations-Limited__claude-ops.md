@@ -1,6 +1,6 @@
 # Lifecycle-Innovations-Limited/claude-ops
 
-⭐ 563 · Shell · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Lifecycle-Innovations-Limited/claude-ops) · [官网](https://github.com/Lifecycle-Innovations-Limited/claude-ops/wiki) · 组织维护
+⭐ 564 · Shell · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Lifecycle-Innovations-Limited/claude-ops) · [官网](https://github.com/Lifecycle-Innovations-Limited/claude-ops/wiki) · 组织维护
 
 **面向 Claude Code 用户的商业运营插件：收件箱、营收、运维一站式**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Lifecycle-Innovations-Limited/claude-ops 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 544 --> 564
-    line [545, 546, 547, 545, 548, 551, 553, 554, 555, 556, 557, 562, 563, 563]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 544 --> 565
+    line [545, 546, 547, 545, 548, 551, 553, 554, 555, 556, 557, 562, 563, 564]
 ```
 
-2026-10-25 545 → 2026-11-27 563（+18）
+2026-10-26 545 → 2026-11-28 564（+19）
 
 
 ---

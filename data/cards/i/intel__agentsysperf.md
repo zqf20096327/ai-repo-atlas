@@ -41,6 +41,18 @@
 > L3: A pluggable benchmark suite for end-to-end agentic AI stacks. Stack-level, not single-endpoint. Plugins for benchmar
 > L15: - **6 BenchmarkAdapters** — synthetic_cpu (9 workloads), terminal_bench (Harbor/Terminus-2), openclaw, swe_bench, t
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "intel/agentsysperf 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `5079a6d905ee` · [字段定义](../../DATASET.md)*

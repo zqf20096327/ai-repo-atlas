@@ -1,6 +1,6 @@
 # Satissss/Squrve
 
-⭐ 52 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/Satissss/Squrve) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-02-23 · [GitHub](https://github.com/Satissss/Squrve) · 组织维护
 
 **面向 Text-to-SQL 研究的模块化框架：复现基线并统一评测**
 
@@ -46,12 +46,12 @@ Python 编写的研究框架，面向 Text-to-SQL 方向的学生与研究者：
 ```mermaid
 xychart-beta
     title "Satissss/Squrve 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 50 --> 53
+    line [52, 51]
 ```
 
-2026-10-25 52 → 2026-11-27 52（+0）
+2026-10-26 52 → 2026-11-28 51（-1）
 
 
 ---

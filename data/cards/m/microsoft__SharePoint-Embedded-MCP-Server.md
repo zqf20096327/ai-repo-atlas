@@ -46,12 +46,12 @@ Microsoft 维护的 Model Context Protocol 服务器，以 stdio 方式经 npx �
 ```mermaid
 xychart-beta
     title "microsoft/SharePoint-Embedded-MCP-Server 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-23", "2026-11-28"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 14]
 ```
 
-2026-10-24 14 → 2026-11-27 14（+0）
+2026-10-25 14 → 2026-11-28 14（+0）
 
 
 ---

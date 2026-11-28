@@ -1,6 +1,6 @@
 # AranAragan/kvalah
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AranAragan/kvalah) · [官网](https://github.com/AranAragan/kvalah/releases) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AranAragan/kvalah) · [官网](https://github.com/AranAragan/kvalah/releases) · 个人维护
 
 **本地开源模型（7–32B）的桌面编码 agent，单机家用 GPU 运行**
 
@@ -41,6 +41,18 @@
 > L5:  A reliable coding agent for 7–32B open models on a single home GPU.
 > L16: Big cloud agents assume a frontier model and 64K+ of context. kvalah is built for the model you can actually run at
 > L20: - **Works with any local model server.** Ollama natively; LM Studio, llama.cpp `llama-server`, vLLM, LocalAI, Jan t
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AranAragan/kvalah 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
 
 
 ---

@@ -40,6 +40,18 @@ ControlWorld 是 World Snapshot 生态的交互控制面板，以插件机制接
 > L12: ControlWorld is the interactive control panel of the World Snapshot ecosystem. It turns a model's directed visual-t
 > L14: The host remains model-independent. Each model carries its own interface, backend, requirements, and task definitio
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "World-Snapshot/ControlWorld 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `ce378b8d20f6` · [字段定义](../../DATASET.md)*

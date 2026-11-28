@@ -47,12 +47,12 @@ Ochrelle 以 Agent Skills 格式（SKILL.md + references/）打包的界面设�
 ```mermaid
 xychart-beta
     title "izynu/ochrelle 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-25 6 → 2026-11-27 6（+0）
+2026-10-26 6 → 2026-11-28 6（+0）
 
 
 ---

@@ -45,12 +45,12 @@ JACS 2025 论文 Stable and Accurate Orbital-Free Density Functional Theory Powe
 ```mermaid
 xychart-beta
     title "sciai-lab/structures25 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-25 25 → 2026-11-27 26（+1）
+2026-10-26 25 → 2026-11-28 26（+1）
 
 
 ---

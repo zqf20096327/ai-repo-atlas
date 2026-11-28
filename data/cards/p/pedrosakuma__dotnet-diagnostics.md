@@ -1,6 +1,6 @@
 # pedrosakuma/dotnet-diagnostics
 
-⭐ 27 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/pedrosakuma/dotnet-diagnostics) · 个人维护
+⭐ 27 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/pedrosakuma/dotnet-diagnostics) · 个人维护
 
 **面向 .NET 应用的 LLM 驱动性能诊断 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pedrosakuma/dotnet-diagnostics 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-25 27 → 2026-11-27 27（+0）
+2026-10-26 27 → 2026-11-28 27（+0）
 
 
 ---

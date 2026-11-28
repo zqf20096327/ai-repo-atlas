@@ -1,6 +1,6 @@
 # RustSandbox/MCP-Development-with-Rust
 
-⭐ 21 · Rust · 推送 2025-12-01 · [GitHub](https://github.com/RustSandbox/MCP-Development-with-Rust) · [官网](https://mcprs.futuretrait.com/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Rust 版 MCP 服务器开发教程：两份指南与 20 个示例**
 

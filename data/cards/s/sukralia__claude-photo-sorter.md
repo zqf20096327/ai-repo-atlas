@@ -1,6 +1,6 @@
 # sukralia/claude-photo-sorter
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/sukralia/claude-photo-sorter) · [官网](https://github.com/sukralia/claude-photo-sorter) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/sukralia/claude-photo-sorter) · [官网](https://github.com/sukralia/claude-photo-sorter) · 个人维护
 
 **让 Claude 读取本地照片文件夹并自动分类与去重的桌面工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sukralia/claude-photo-sorter 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-20", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 7]
 ```
 
-2026-11-20 3 → 2026-11-27 4（+1）
+2026-11-20 3 → 2026-11-28 7（+4）
 
 
 ---

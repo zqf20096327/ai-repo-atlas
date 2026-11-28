@@ -1,6 +1,6 @@
 # braedonsaunders/curb
 
-⭐ 12 · TypeScript · MIT · 推送 2026-04-18 · [GitHub](https://github.com/braedonsaunders/curb) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-04-18 · [GitHub](https://github.com/braedonsaunders/curb) · 个人维护
 
 **为网站销售者发现弱站点、生成替代站并附证外联的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "braedonsaunders/curb 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12, 12]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 11, 12, 13]
 ```
 
-2026-10-25 10 → 2026-11-27 12（+2）
+2026-10-26 10 → 2026-11-28 13（+3）
 
 
 ---

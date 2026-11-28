@@ -45,12 +45,12 @@ WiMLDS 波兰分部成员于 2020 年创建的训练项目：从 xeno-canto.org 
 ```mermaid
 xychart-beta
     title "m-kortas/Sound-based-bird-species-detection 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 101 --> 103
     line [102, 102]
 ```
 
-2026-10-25 102 → 2026-11-27 102（+0）
+2026-10-26 102 → 2026-11-28 102（+0）
 
 
 ---

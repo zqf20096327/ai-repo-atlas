@@ -1,6 +1,6 @@
 # alejandro945/mlops-a-ciegas
 
-⭐ 5 · HTML · 推送 2026-11-19 · [GitHub](https://github.com/alejandro945/mlops-a-ciegas) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **演示项目：把泵声异常检测模型从云端部署到边缘 IoT 设备并保持治理**
 

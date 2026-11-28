@@ -1,6 +1,6 @@
 # kwilcz/graphally
 
-⭐ 25 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/kwilcz/graphally) · 个人维护
+⭐ 25 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/kwilcz/graphally) · 个人维护
 
 **让 AI agent 生成可编辑 SVG 技术架构图的技能与渲染引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kwilcz/graphally 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-25", "2026-11-28"]
     y-axis "stars" 21 --> 26
     line [22, 24, 25, 25]
 ```
 
-2026-11-08 22 → 2026-11-27 25（+3）
+2026-11-08 22 → 2026-11-28 25（+3）
 
 
 ---

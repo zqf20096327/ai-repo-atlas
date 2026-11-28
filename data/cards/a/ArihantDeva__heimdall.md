@@ -1,6 +1,6 @@
 # ArihantDeva/heimdall
 
-⭐ 142 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ArihantDeva/heimdall) · [官网](https://www.npmjs.com/package/@arihantdeva/heimdall) · 个人维护
+⭐ 143 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ArihantDeva/heimdall) · [官网](https://www.npmjs.com/package/@arihantdeva/heimdall) · 个人维护
 
 **给 AI 编码代理提供跨仓库持久记忆与可验证检索**
 
@@ -46,12 +46,12 @@ Heimdall 是一个本地守护进程形式的代理记忆工具：用 tree-sitte
 ```mermaid
 xychart-beta
     title "ArihantDeva/heimdall 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 135 --> 143
-    line [136, 137, 136, 137, 139, 140, 142, 142]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 135 --> 144
+    line [136, 137, 136, 137, 139, 140, 142, 143]
 ```
 
-2026-10-25 136 → 2026-11-27 142（+6）
+2026-10-26 136 → 2026-11-28 143（+7）
 
 
 ---

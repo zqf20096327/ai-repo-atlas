@@ -1,6 +1,6 @@
 # andreapollastri/larapilot
 
-⭐ 25 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/andreapollastri/larapilot) · 个人维护
+⭐ 26 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/andreapollastri/larapilot) · 个人维护
 
 **Laravel 的 spec 驱动工作流：让 AI 编辑器按流程交付已评审代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andreapollastri/larapilot 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 23, 24, 25, 25]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 23, 24, 25, 26]
 ```
 
-2026-10-25 23 → 2026-11-27 25（+2）
+2026-10-26 23 → 2026-11-28 26（+3）
 
 
 ---

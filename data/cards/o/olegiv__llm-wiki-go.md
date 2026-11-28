@@ -1,6 +1,6 @@
 # olegiv/llm-wiki-go
 
-⭐ 13 · Go · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/olegiv/llm-wiki-go) · 个人维护
+⭐ 13 · Go · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/olegiv/llm-wiki-go) · 个人维护
 
 **Karpathy 式 LLM Wiki 仓库脚手架：raw/ 存原始资料，wiki/ 存编译后知识**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "olegiv/llm-wiki-go 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 13, 13]
 ```
 
-2026-10-25 12 → 2026-11-27 13（+1）
+2026-10-26 12 → 2026-11-28 13（+1）
 
 
 ---

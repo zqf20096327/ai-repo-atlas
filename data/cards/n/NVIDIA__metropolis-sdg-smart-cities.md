@@ -1,6 +1,6 @@
 # NVIDIA/metropolis-sdg-smart-cities
 
-⭐ 17 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/NVIDIA/metropolis-sdg-smart-cities) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向智慧城市的合成数据生成流水线：为 VLM 训练产数据**
 
@@ -11,7 +11,7 @@ NVIDIA Metropolis 的合成数据生成（SDG）recipe：在 CARLA 中仿真交�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

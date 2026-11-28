@@ -1,6 +1,6 @@
 # Mattral/Gesture_Arm
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/Mattral/Gesture_Arm) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/Mattral/Gesture_Arm) · 个人维护
 
 **低成本机械臂实时控制：手势+语音多模态输入，LSTM 稳定输出**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Mattral/Gesture_Arm 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 11 --> 15
+    line [14, 12]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 12（-2）
 
 
 ---

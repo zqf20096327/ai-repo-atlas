@@ -1,6 +1,6 @@
 # PRITHIVSAKTHIUR/FLUX.2-Klein-LoRA-Studio
 
-⭐ 23 · HTML · Apache-2.0 · 推送 2026-08-12 · [GitHub](https://github.com/PRITHIVSAKTHIUR/FLUX.2-Klein-LoRA-Studio) · [官网](https://huggingface.co/spaces/prithivMLmods/FLUX.2-Klein-LoRA-Studio) · 个人维护
+⭐ 23 · HTML · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/PRITHIVSAKTHIUR/FLUX.2-Klein-LoRA-Studio) · [官网](https://huggingface.co/spaces/prithivMLmods/FLUX.2-Klein-LoRA-Studio) · 个人维护
 
 **基于 FLUX.2-klein-9B 的图生图编辑与风格迁移工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PRITHIVSAKTHIUR/FLUX.2-Klein-LoRA-Studio 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-25 22 → 2026-11-27 23（+1）
+2026-10-26 22 → 2026-11-28 23（+1）
 
 
 ---

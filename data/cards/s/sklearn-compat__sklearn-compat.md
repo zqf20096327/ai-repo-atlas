@@ -1,6 +1,6 @@
 # sklearn-compat/sklearn-compat
 
-⭐ 13 · Python · BSD-3-Clause · 推送 2026-09-21 · [GitHub](https://github.com/sklearn-compat/sklearn-compat) · [官网](https://sklearn-compat.readthedocs.io/en/latest/) · 组织维护
+⭐ 14 · Python · BSD-3-Clause · 推送 2026-09-21 · [GitHub](https://github.com/sklearn-compat/sklearn-compat) · [官网](https://sklearn-compat.readthedocs.io/en/latest/) · 组织维护
 
 **帮助 scikit-learn 兼容库跨版本共存的 Python 兼容层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sklearn-compat/sklearn-compat 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

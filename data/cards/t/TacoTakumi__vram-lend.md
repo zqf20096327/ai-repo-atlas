@@ -46,12 +46,12 @@ VRAM Lend 提供 HTTP API（/vram/lend、/vram/return、/vram/state）与同名 
 ```mermaid
 xychart-beta
     title "TacoTakumi/vram-lend 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-30", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-10", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-26 3 → 2026-11-27 5（+2）
+2026-10-26 3 → 2026-11-28 5（+2）
 
 
 ---

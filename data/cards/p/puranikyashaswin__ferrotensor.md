@@ -1,6 +1,6 @@
 # puranikyashaswin/ferrotensor
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/puranikyashaswin/ferrotensor) · [官网](https://ferrotensor.dev) · 个人维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/puranikyashaswin/ferrotensor) · [官网](https://ferrotensor.dev) · 个人维护
 
 **纯 Rust GPU 张量/autograd/LoRA 微调框架，无 CUDA 无 Python**
 
@@ -40,6 +40,18 @@
 > L3:  A pure-Rust GPU ML framework: no CUDA, no Python, no C++ toolchain.
 > L14: Ferrotensor (Ferro Tensor) runs tensors, autograd and LoRA fine-tuning of
 > L16: hand-written WGSL compute kernels, which run through Vulkan, Metal or DX12.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "puranikyashaswin/ferrotensor 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
 
 
 ---

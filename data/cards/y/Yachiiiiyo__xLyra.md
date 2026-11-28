@@ -1,6 +1,6 @@
 # Yachiiiiyo/xLyra
 
-⭐ 9 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Yachiiiiyo/xLyra) · [官网](https://xlyra.yachiyo.im) · 个人维护 · 中文 README
+⭐ 10 · Go · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Yachiiiiyo/xLyra) · [官网](https://xlyra.yachiyo.im) · 个人维护 · 中文 README
 
 **自托管多站点 AI 网关与控制台：统一接入与路由多上游**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Yachiiiiyo/xLyra 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 6 --> 10
-    line [7, 8, 9, 9]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 6 --> 11
+    line [7, 8, 9, 10]
 ```
 
-2026-11-02 7 → 2026-11-27 9（+2）
+2026-11-02 7 → 2026-11-28 10（+3）
 
 
 ---

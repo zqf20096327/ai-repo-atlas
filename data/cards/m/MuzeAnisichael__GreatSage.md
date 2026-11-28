@@ -1,6 +1,6 @@
 # MuzeAnisichael/GreatSage
 
-⭐ 66 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MuzeAnisichael/GreatSage) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/MuzeAnisichael/GreatSage) · 个人维护 · 中文 README
 
 **Windows 桌面语音秘书：听写、跨会话记忆、生成带出处纪要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MuzeAnisichael/GreatSage 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-25 66 → 2026-11-27 66（+0）
+2026-10-26 66 → 2026-11-28 66（+0）
 
 
 ---

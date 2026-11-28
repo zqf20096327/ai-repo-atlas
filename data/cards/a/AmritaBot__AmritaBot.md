@@ -1,6 +1,6 @@
 # AmritaBot/AmritaBot
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/AmritaBot/AmritaBot) · [官网](https://bot.amritabot.com/) · 组织维护 · 中文 README
+⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/AmritaBot/AmritaBot) · [官网](https://bot.amritabot.com/) · 组织维护 · 中文 README
 
 **基于 NoneBot2 的 LLM 聊天机器人项目，面向 QQ 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AmritaBot/AmritaBot 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-28"]
     y-axis "stars" 21 --> 25
     line [22, 23, 22, 23, 24, 24]
 ```
 
-2026-10-25 22 → 2026-11-27 24（+2）
+2026-10-26 22 → 2026-11-28 24（+2）
 
 
 ---

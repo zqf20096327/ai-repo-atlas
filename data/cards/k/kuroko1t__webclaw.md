@@ -1,6 +1,6 @@
 # kuroko1t/webclaw
 
-⭐ 23 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/kuroko1t/webclaw) · [官网](https://github.com/kuroko1t/webclaw) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/kuroko1t/webclaw) · [官网](https://github.com/kuroko1t/webclaw) · 个人维护
 
 **运行在真实 Chrome 中的 WebMCP 浏览器 agent，供 MCP 客户端调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kuroko1t/webclaw 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-25 22 → 2026-11-27 23（+1）
+2026-10-26 22 → 2026-11-28 23（+1）
 
 
 ---

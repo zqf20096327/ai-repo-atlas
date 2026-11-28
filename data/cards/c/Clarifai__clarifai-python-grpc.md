@@ -1,6 +1,6 @@
 # Clarifai/clarifai-python-grpc
 
-⭐ 57 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/Clarifai/clarifai-python-grpc) · [官网](https://docs.clarifai.com) · 组织维护
+⭐ 56 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/Clarifai/clarifai-python-grpc) · [官网](https://docs.clarifai.com) · 组织维护
 
 **Clarifai 识别 API 的官方 Python gRPC 客户端库**
 
@@ -45,12 +45,12 @@ Clarifai 官方维护的 Python gRPC API 客户端，通过 pip 安装 clarifai-
 ```mermaid
 xychart-beta
     title "Clarifai/clarifai-python-grpc 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 55 --> 58
+    line [57, 56]
 ```
 
-2026-10-25 57 → 2026-11-27 57（+0）
+2026-10-26 57 → 2026-11-28 56（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dotcoreai/dotcore
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dotcoreai/dotcore) · [官网](https://dotcore.ai) · 组织维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dotcoreai/dotcore) · [官网](https://dotcore.ai) · 组织维护
 
 **本地 AI 部署运行时：加载模型并提供统一端点**
 
@@ -45,13 +45,13 @@ Dotcore 在自有硬件上运行 AI 模型：加载模型并适配到本机硬�
 
 ```mermaid
 xychart-beta
-    title "dotcoreai/dotcore 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 12
-    line [7, 11]
+    title "dotcoreai/dotcore 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 6 --> 24
+    line [7, 11, 23]
 ```
 
-2026-11-26 7 → 2026-11-27 11（+4）
+2026-11-26 7 → 2026-11-28 23（+16）
 
 
 ---

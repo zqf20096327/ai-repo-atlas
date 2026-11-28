@@ -1,6 +1,6 @@
 # silentco2/LinKit-All
 
-⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/silentco2/LinKit-All) · [官网](https://silentco2.github.io/LinKit-All/) · 组织维护
+⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/silentco2/LinKit-All) · [官网](https://silentco2.github.io/LinKit-All/) · 组织维护
 
 **本地运行的 AI 求职工具：找岗位、评匹配、改简历并自动填申请表**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "silentco2/LinKit-All 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # KerberosClaw/kc_ai_skills
 
-⭐ 80 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/KerberosClaw/kc_ai_skills) · 个人维护 · 中文 README
+⭐ 80 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/KerberosClaw/kc_ai_skills) · 个人维护 · 中文 README
 
 **中文優先的 Claude Code/Codex agent skills 合集（29 个技能）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "KerberosClaw/kc_ai_skills 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-28"]
     y-axis "stars" 78 --> 81
     line [79, 80, 80]
 ```
 
-2026-10-25 79 → 2026-11-27 80（+1）
+2026-10-26 79 → 2026-11-28 80（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # mini-yifan/open-source-video-gen-skill
 
-⭐ 43 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/mini-yifan/open-source-video-gen-skill) · 个人维护 · 中文 README
+⭐ 44 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/mini-yifan/open-source-video-gen-skill) · 个人维护 · 中文 README
 
 **给创作者：一句话想法经 Agent 技能集自动生成成片**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mini-yifan/open-source-video-gen-skill 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 38 --> 44
-    line [39, 40, 39, 40, 41, 42, 43, 43]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 38 --> 45
+    line [39, 40, 39, 40, 41, 42, 43, 44]
 ```
 
-2026-10-25 39 → 2026-11-27 43（+4）
+2026-10-26 39 → 2026-11-28 44（+5）
 
 
 ---

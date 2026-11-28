@@ -1,6 +1,6 @@
 # usestring/string-ai-mcp
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/usestring/string-ai-mcp) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/usestring/string-ai-mcp) · 组织维护
 
 **面向 MCP 客户端提供网页抓取/搜索/站点爬取的 MCP 服务器**
 
@@ -46,12 +46,12 @@ String AI Web Access API 的官方 MCP 服务器：为 LLM 客户端提供网页
 ```mermaid
 xychart-beta
     title "usestring/string-ai-mcp 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 12, 12]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 12, 13]
 ```
 
-2026-11-25 10 → 2026-11-27 12（+2）
+2026-11-25 10 → 2026-11-28 13（+3）
 
 
 ---

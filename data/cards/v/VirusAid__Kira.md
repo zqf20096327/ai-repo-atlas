@@ -1,6 +1,6 @@
 # VirusAid/Kira
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/VirusAid/Kira) · 个人维护
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-08-08 · [GitHub](https://github.com/VirusAid/Kira) · 个人维护
 
 **Windows 个人语音 AI 助手：本地运行、语音与屏幕交互、控制 PC**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VirusAid/Kira 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 12, 12]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 12, 13]
 ```
 
-2026-10-25 10 → 2026-11-27 12（+2）
+2026-10-26 10 → 2026-11-28 13（+3）
 
 
 ---

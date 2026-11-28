@@ -44,13 +44,13 @@ SwiftyChat 是一个 SwiftUI 聊天 UI 框架，提供 11 种内置消息类型�
 
 ```mermaid
 xychart-beta
-    title "EnesKaraosman/SwiftyChat 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "EnesKaraosman/SwiftyChat 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 354 --> 357
-    line [355, 356, 355]
+    line [355, 356, 355, 355]
 ```
 
-2026-10-25 355 → 2026-11-27 355（+0）
+2026-10-26 355 → 2026-11-28 355（+0）
 
 
 ---

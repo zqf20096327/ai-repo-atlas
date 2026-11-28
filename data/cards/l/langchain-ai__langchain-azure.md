@@ -1,6 +1,6 @@
 # langchain-ai/langchain-azure
 
-⭐ 148 · Jupyter Notebook · MIT · 推送 2026-11-26 · [GitHub](https://github.com/langchain-ai/langchain-azure) · 组织维护
+⭐ 148 · Jupyter Notebook · MIT · 推送 2026-11-27 · [GitHub](https://github.com/langchain-ai/langchain-azure) · 组织维护
 
 **为 LangChain/LangGraph 开发者提供 Azure 服务集成包集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langchain-azure 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-28"]
     y-axis "stars" 145 --> 149
     line [147, 146, 147, 148, 148]
 ```
 
-2026-10-25 147 → 2026-11-27 148（+1）
+2026-10-26 147 → 2026-11-28 148（+1）
 
 
 ---

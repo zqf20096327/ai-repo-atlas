@@ -46,12 +46,12 @@ Hugging Face transformers 库的 C# 移植，以 Unity 包形式发布，基于 
 ```mermaid
 xychart-beta
     title "julienkay/tools.doji.transformers 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-11-26 25 → 2026-11-27 25（+0）
+2026-11-26 25 → 2026-11-28 25（+0）
 
 
 ---

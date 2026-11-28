@@ -45,12 +45,12 @@ Doota 是面向 Ollama 的 agentic 系统，以 Java 打包的 `.jar` 桌面应�
 ```mermaid
 xychart-beta
     title "ollama4j/Doota 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-27 10（+0）
+2026-11-02 10 → 2026-11-28 10（+0）
 
 
 ---

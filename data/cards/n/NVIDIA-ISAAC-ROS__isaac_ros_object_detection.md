@@ -1,6 +1,6 @@
 # NVIDIA-ISAAC-ROS/isaac_ros_object_detection
 
-⭐ 205 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
+⭐ 207 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_object_detection) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
 
 **基于 ROS 2 的 GPU 加速图像目标检测包集合**
 
@@ -44,13 +44,13 @@ NVIDIA Isaac ROS 的目标检测组件，包含 isaac_ros_rtdetr、isaac_ros_det
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-ISAAC-ROS/isaac_ros_object_detection 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 204 --> 207
-    line [205, 206, 205]
+    title "NVIDIA-ISAAC-ROS/isaac_ros_object_detection 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 204 --> 208
+    line [205, 206, 205, 207]
 ```
 
-2026-10-25 205 → 2026-11-27 205（+0）
+2026-10-26 205 → 2026-11-28 207（+2）
 
 
 ---

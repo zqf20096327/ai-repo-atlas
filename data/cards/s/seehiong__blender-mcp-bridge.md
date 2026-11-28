@@ -1,6 +1,6 @@
 # seehiong/blender-mcp-bridge
 
-⭐ 90 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/seehiong/blender-mcp-bridge) · [官网](https://seehiong.github.io/blender-mcp-bridge/) · 个人维护
+⭐ 107 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/seehiong/blender-mcp-bridge) · [官网](https://seehiong.github.io/blender-mcp-bridge/) · 个人维护
 
 **让 AI agent 通过 MCP 远程操控 Blender 建模的桥接服务器与插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "seehiong/blender-mcp-bridge 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 78 --> 91
-    line [79, 80, 81, 83, 79, 84, 86, 87, 88, 89, 90]
+    title "seehiong/blender-mcp-bridge 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 77 --> 109
+    line [79, 80, 81, 83, 79, 84, 86, 87, 88, 89, 90, 107]
 ```
 
-2026-10-25 79 → 2026-11-27 90（+11）
+2026-10-26 79 → 2026-11-28 107（+28）
 
 
 ---

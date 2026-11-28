@@ -1,6 +1,6 @@
 # nuxt-content/nuxt-llms
 
-⭐ 171 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nuxt-content/nuxt-llms) · 组织维护
+⭐ 171 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/nuxt-content/nuxt-llms) · 组织维护
 
 **为 Nuxt 应用自动生成 llms.txt 文档的模块**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nuxt-content/nuxt-llms 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 170 --> 172
     line [171, 171]
 ```
 
-2026-10-25 171 → 2026-11-27 171（+0）
+2026-10-26 171 → 2026-11-28 171（+0）
 
 
 ---

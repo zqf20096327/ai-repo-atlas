@@ -1,6 +1,6 @@
 # virtualramblas/Domain-Specific-Small-Language-Models
 
-⭐ 109 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/virtualramblas/Domain-Specific-Small-Language-Models) · 个人维护
+⭐ 111 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/virtualramblas/Domain-Specific-Small-Language-Models) · 个人维护
 
 **《Domain-Specific Small Language Models》一书配套 Colab 笔记本仓库**
 
@@ -43,13 +43,13 @@ Manning Publications《Domain-Specific Small Language Models》书籍的配套�
 
 ```mermaid
 xychart-beta
-    title "virtualramblas/Domain-Specific-Small-Language-Models 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 96 --> 110
-    line [97, 98, 97, 106, 107, 108, 109]
+    title "virtualramblas/Domain-Specific-Small-Language-Models 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 96 --> 112
+    line [97, 98, 97, 106, 107, 108, 109, 111]
 ```
 
-2026-10-25 97 → 2026-11-27 109（+12）
+2026-10-26 97 → 2026-11-28 111（+14）
 
 
 ---

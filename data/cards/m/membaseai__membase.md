@@ -46,12 +46,12 @@ Membase 为 AI agent 提供记忆层：将事实、文档、网页及 Claude/Cha
 ```mermaid
 xychart-beta
     title "membaseai/membase 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
+    x-axis ["2026-11-22", "2026-11-28"]
     y-axis "stars" 142 --> 144
     line [143, 143]
 ```
 
-2026-11-22 143 → 2026-11-27 143（+0）
+2026-11-22 143 → 2026-11-28 143（+0）
 
 
 ---

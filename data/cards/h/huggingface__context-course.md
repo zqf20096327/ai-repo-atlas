@@ -1,6 +1,6 @@
 # huggingface/context-course
 
-⭐ 123 · Python · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/context-course) · 组织维护
+⭐ 124 · Python · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/context-course) · 组织维护
 
 **面向代码 agent 的上下文工程课程（技能/MCP/插件/子agent）**
 
@@ -45,13 +45,13 @@ Hugging Face 出品的免费课程，教授为代码 agent 做上下文工程的
 
 ```mermaid
 xychart-beta
-    title "huggingface/context-course 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 112 --> 124
-    line [113, 114, 116, 113, 119, 120, 121, 122, 123]
+    title "huggingface/context-course 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 112 --> 125
+    line [113, 114, 116, 113, 119, 120, 121, 122, 123, 124]
 ```
 
-2026-10-25 113 → 2026-11-27 123（+10）
+2026-10-26 113 → 2026-11-28 124（+11）
 
 
 ---

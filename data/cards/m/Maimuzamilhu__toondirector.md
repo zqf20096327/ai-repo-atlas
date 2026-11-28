@@ -40,6 +40,18 @@ ToonDirector 是 Windows 桌面应用（PySide6/Qt），流程覆盖选题检索
 > L21: ToonDirector researches your topic, writes the script, draws the places and characters, records the narration, acts
 > L102: |Groq, Google Gemini, OpenRouter, Cerebras, Mistral, SambaNova, NVIDIA NIM, Cohere|DeepSeek, OpenAI, Anthropic Cla
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Maimuzamilhu/toondirector 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `da3462f45d67` · [字段定义](../../DATASET.md)*

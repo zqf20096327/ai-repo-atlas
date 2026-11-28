@@ -47,12 +47,12 @@ Laravel AI SDK 的 agentic 记忆扩展包：通过 AgentMemory Facade 存储/�
 ```mermaid
 xychart-beta
     title "eznix86/laravel-ai-memory 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-25 31 → 2026-11-27 32（+1）
+2026-10-26 31 → 2026-11-28 32（+1）
 
 
 ---

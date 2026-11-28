@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Demand-Forecasting
 
-⭐ 32 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/AmirhosseinHonardoust/Demand-Forecasting) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-08-10 · [GitHub](https://github.com/AmirhosseinHonardoust/Demand-Forecasting) · 个人维护
 
 **基于 ARIMA/SARIMA 的销量需求预测工作流（作品集演示）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AmirhosseinHonardoust/Demand-Forecasting 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 31 --> 34
+    line [32, 33]
 ```
 
-2026-10-25 32 → 2026-11-27 32（+0）
+2026-10-26 32 → 2026-11-28 33（+1）
 
 
 ---

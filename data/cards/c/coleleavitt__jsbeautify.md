@@ -1,6 +1,6 @@
 # coleleavitt/jsbeautify
 
-⭐ 11 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/coleleavitt/jsbeautify) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/coleleavitt/jsbeautify) · 个人维护
 
 **给 AI agent 用的 Rust JS 反混淆器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "coleleavitt/jsbeautify 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-11-26 11 → 2026-11-27 11（+0）
+2026-11-26 11 → 2026-11-28 12（+1）
 
 
 ---

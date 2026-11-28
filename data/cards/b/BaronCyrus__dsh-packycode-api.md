@@ -1,6 +1,6 @@
 # BaronCyrus/dsh-packycode-api
 
-⭐ 26 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BaronCyrus/dsh-packycode-api) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BaronCyrus/dsh-packycode-api) · 个人维护 · 中文 README
 
 **DSH 插件：用 PackyCode API Key 接入多模型并轮换 Key、显示余额**
 
@@ -45,13 +45,13 @@ DeepSeek Harness（DSH）的插件：安装后在模型选择器出现 PackyCode
 
 ```mermaid
 xychart-beta
-    title "BaronCyrus/dsh-packycode-api 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 16 --> 27
-    line [17, 18, 19, 20, 17, 22, 23, 24, 25, 26, 26]
+    title "BaronCyrus/dsh-packycode-api 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 16 --> 28
+    line [18, 19, 20, 17, 22, 23, 24, 25, 26, 27]
 ```
 
-2026-10-25 17 → 2026-11-27 26（+9）
+2026-10-26 18 → 2026-11-28 27（+9）
 
 
 ---

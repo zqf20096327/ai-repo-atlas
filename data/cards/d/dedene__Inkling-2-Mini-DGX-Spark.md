@@ -1,6 +1,6 @@
 # dedene/Inkling-2-Mini-DGX-Spark
 
-⭐ 7 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dedene/Inkling-2-Mini-DGX-Spark) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dedene/Inkling-2-Mini-DGX-Spark) · 个人维护
 
 **在单台 DGX Spark 上用 vLLM 部署 Inkling 2 Mini 的 Docker Compose 配方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dedene/Inkling-2-Mini-DGX-Spark 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
 ```
 
-2026-11-26 7 → 2026-11-27 7（+0）
+2026-11-26 7 → 2026-11-28 8（+1）
 
 
 ---

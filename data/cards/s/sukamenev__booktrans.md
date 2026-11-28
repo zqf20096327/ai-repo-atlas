@@ -1,6 +1,6 @@
 # sukamenev/booktrans
 
-⭐ 56 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/sukamenev/booktrans) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/sukamenev/booktrans) · 个人维护 · 中文 README
 
 **整本书一键翻译管线：侦察、翻译、编辑、加注、出书**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sukamenev/booktrans 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 52 --> 57
-    line [53, 54, 53, 55, 56, 56]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 52 --> 58
+    line [53, 54, 53, 55, 56, 57]
 ```
 
-2026-10-25 53 → 2026-11-27 56（+3）
+2026-10-26 53 → 2026-11-28 57（+4）
 
 
 ---

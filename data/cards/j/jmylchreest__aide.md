@@ -1,6 +1,6 @@
 # jmylchreest/aide
 
-⭐ 19 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jmylchreest/aide) · [官网](https://jmylchreest.github.io/aide/) · 个人维护
+⭐ 19 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jmylchreest/aide) · [官网](https://jmylchreest.github.io/aide/) · 个人维护
 
 **为 AI 编程助手提供持久记忆与多智能体编排的开发环境**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jmylchreest/aide 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 19（+0）
 
 
 ---

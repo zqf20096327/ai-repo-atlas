@@ -1,6 +1,6 @@
 # langwhat/slay-the-spire-2-harness
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/langwhat/slay-the-spire-2-harness) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/langwhat/slay-the-spire-2-harness) · 个人维护 · 中文 README
 
 **用 LLM agent 打杀戮尖塔 2 的 harness，含录像与离线回放**
 
@@ -40,6 +40,18 @@
 > L5: A model-driven player for Slay the Spire 2 that plays one run at a time without save/load.
 > L7: - **Mod.** The `sts2agent` game Mod exposes the game's public state and actions over local HTTP.
 > L22: - A model endpoint using the OpenAI Responses, Chat Completions, or Anthropic Messages
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "langwhat/slay-the-spire-2-harness 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

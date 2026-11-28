@@ -1,6 +1,6 @@
 # BetterThanTomorrow/awesome-backseat-driver
 
-⭐ 13 · Clojure · 推送 2026-09-25 · [GitHub](https://github.com/BetterThanTomorrow/awesome-backseat-driver) · 个人维护
+⭐ 13 · Clojure · MIT · 推送 2026-11-27 · [GitHub](https://github.com/BetterThanTomorrow/awesome-backseat-driver) · 个人维护
 
 **面向 VS Code Copilot/Cursor 的 Clojure AI 插件市场（agents/skills）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BetterThanTomorrow/awesome-backseat-driver 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Quasynvo/Quasnooze
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Quasynvo/Quasnooze) · [官网](https://quasynvo.github.io/Quasnooze/) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Quasynvo/Quasnooze) · [官网](https://quasynvo.github.io/Quasnooze/) · 个人维护
 
 **本地优先的个人 AI 语音助手，多渠道接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Quasynvo/Quasnooze 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-13", "2026-11-28"]
     y-axis "stars" 7 --> 15
     line [8, 13, 14, 14]
 ```
 
-2026-11-02 8 → 2026-11-27 14（+6）
+2026-11-02 8 → 2026-11-28 14（+6）
 
 
 ---

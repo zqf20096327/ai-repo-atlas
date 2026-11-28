@@ -1,6 +1,6 @@
 # Dominic6018/ai-cost-management-and-billing
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Dominic6018/ai-cost-management-and-billing) · [官网](https://ai-cost-management-and-billing.vercel.app) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Dominic6018/ai-cost-management-and-billing) · [官网](https://ai-cost-management-and-billing.vercel.app) · 个人维护
 
 **给 AI 应用企业追踪每笔 API 成本并按用量向客户计费**
 
@@ -40,6 +40,18 @@
 > L3: **AI Cost Intelligence & Usage-Based Billing Platform** · AI FinOps & Billing Infrastructure
 > L11: MeterVanta complements LLM gateways (which route requests and cap spend) and tracing tools (which follow a request 
 > L31: - **Multi-provider visibility: all of your AI spend in one place.** OpenAI, Anthropic and Google Gemini through dro
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Dominic6018/ai-cost-management-and-billing 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-27 13 → 2026-11-28 13（+0）
 
 
 ---

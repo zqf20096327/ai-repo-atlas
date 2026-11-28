@@ -1,6 +1,6 @@
 # K4-23/RiskCite
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/K4-23/RiskCite) · 个人维护 · 中文 README
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/K4-23/RiskCite) · 个人维护 · 中文 README
 
 **上传企业材料生成风险清单并给出原文与法条出处的 RAG 工具**
 
@@ -39,6 +39,18 @@
 
 > L3: 上传企业材料，输出对应的风险清单，每条结论均包含材料原文出处与相关法条作为证据支撑。
 > L19: `env` 里填模型配置：`LLM_API_KEY`、`LLM_BASE_URL`、`LLM_MODEL`，任意 OpenAI 兼容接口即可。`EMBEDDING_*` 和 `RERANKER_*` 可选。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "K4-23/RiskCite 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 5 --> 21
+    line [6, 20]
+```
+
+2026-11-27 6 → 2026-11-28 20（+14）
 
 
 ---

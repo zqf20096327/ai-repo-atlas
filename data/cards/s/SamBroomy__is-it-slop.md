@@ -1,6 +1,6 @@
 # SamBroomy/is-it-slop
 
-⭐ 18 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SamBroomy/is-it-slop) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/SamBroomy/is-it-slop) · 个人维护
 
 **检测文本是否为 AI 生成的轻量分类器（Rust 二进制+多语言绑定）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SamBroomy/is-it-slop 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 15 --> 19
     line [16, 18, 18]
 ```
 
-2026-10-25 16 → 2026-11-27 18（+2）
+2026-10-26 16 → 2026-11-28 18（+2）
 
 
 ---

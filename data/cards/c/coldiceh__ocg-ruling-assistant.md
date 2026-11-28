@@ -1,6 +1,6 @@
 # coldiceh/ocg-ruling-assistant
 
-⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/coldiceh/ocg-ruling-assistant) · [官网](https://tcg-ruling-assistant.vercel.app/) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/coldiceh/ocg-ruling-assistant) · [官网](https://tcg-ruling-assistant.vercel.app/) · 个人维护 · 中文 README
 
 **面向 OCG 玩家的游戏王裁定问答助手（检索+RAG）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "coldiceh/ocg-ruling-assistant 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-28"]
     y-axis "stars" 12 --> 18
     line [13, 14, 13, 16, 17, 16, 16]
 ```
 
-2026-10-25 13 → 2026-11-27 16（+3）
+2026-10-26 13 → 2026-11-28 16（+3）
 
 
 ---

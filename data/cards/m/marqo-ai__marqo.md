@@ -1,6 +1,6 @@
 # marqo-ai/marqo
 
-⭐ 5,026 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/marqo-ai/marqo) · [官网](https://www.marqo.ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向电商品牌的 AI 原生搜索与商品发现平台（开源版已停更）**
 
@@ -11,7 +11,7 @@ Marqo 是面向时尚、美妆、电子、家居等在线品牌的 AI 原生电�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

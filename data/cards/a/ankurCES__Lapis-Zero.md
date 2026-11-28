@@ -42,6 +42,18 @@
 > L17: software with a single-purpose operating system. You give it a task in plain words. An AI agent then
 > L151: 2. The agent asks the model for the next step, given the latest screenshot.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ankurCES/Lapis-Zero 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-27 6 → 2026-11-28 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `8df62773ebbb` · [字段定义](../../DATASET.md)*

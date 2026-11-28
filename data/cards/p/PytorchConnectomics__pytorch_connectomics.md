@@ -1,6 +1,6 @@
 # PytorchConnectomics/pytorch_connectomics
 
-⭐ 202 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PytorchConnectomics/pytorch_connectomics) · [官网](https://pytorchconnectomics.github.io/pytorch_connectomics/) · 组织维护
+⭐ 202 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/PytorchConnectomics/pytorch_connectomics) · [官网](https://pytorchconnectomics.github.io/pytorch_connectomics/) · 组织维护
 
 **面向神经科学家的 EM 连接组学分割工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PytorchConnectomics/pytorch_connectomics 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 201 --> 203
     line [202, 202]
 ```
 
-2026-10-25 202 → 2026-11-27 202（+0）
+2026-10-26 202 → 2026-11-28 202（+0）
 
 
 ---

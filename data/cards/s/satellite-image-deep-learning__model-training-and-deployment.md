@@ -46,12 +46,12 @@ satellite-image-deep-learning 系列的模型训练与部署知识页：汇总�
 ```mermaid
 xychart-beta
     title "satellite-image-deep-learning/model-training-and-deployment 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-28"]
     y-axis "stars" 73 --> 76
     line [74, 75, 75]
 ```
 
-2026-10-25 74 → 2026-11-27 75（+1）
+2026-10-26 74 → 2026-11-28 75（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MathematicLove/spbstu-iccs-mcs-magistracy
 
-⭐ 19 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/MathematicLove/spbstu-iccs-mcs-magistracy) · 个人维护
+⭐ 19 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/MathematicLove/spbstu-iccs-mcs-magistracy) · 个人维护
 
 **硕士学习课程作业与论文的存档仓库（俄语）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "MathematicLove/spbstu-iccs-mcs-magistracy 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-19", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-19", "2026-11-20", "2026-11-28"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-25 17 → 2026-11-27 19（+2）
+2026-10-26 17 → 2026-11-28 19（+2）
 
 
 ---

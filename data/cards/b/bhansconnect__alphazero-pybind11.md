@@ -1,6 +1,6 @@
 # bhansconnect/alphazero-pybind11
 
-⭐ 21 · Python · BSD-3-Clause · 推送 2026-07-28 · [GitHub](https://github.com/bhansconnect/alphazero-pybind11) · 个人维护
+⭐ 22 · Python · BSD-3-Clause · 推送 2026-07-28 · [GitHub](https://github.com/bhansconnect/alphazero-pybind11) · 个人维护
 
 **C++ 加速核心的 AlphaZero 修改实现，面向强化学习开发者**
 
@@ -45,12 +45,12 @@ AlphaZero 的修改版实现：游戏主循环与 MCTS 搜索用 C++（pybind11 
 ```mermaid
 xychart-beta
     title "bhansconnect/alphazero-pybind11 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-25 21 → 2026-11-27 21（+0）
+2026-10-26 21 → 2026-11-28 22（+1）
 
 
 ---

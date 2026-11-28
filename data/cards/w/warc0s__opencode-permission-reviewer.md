@@ -1,6 +1,6 @@
 # warc0s/opencode-permission-reviewer
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/warc0s/opencode-permission-reviewer) · 个人维护
+⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/warc0s/opencode-permission-reviewer) · 个人维护
 
 **OpenCode 权限请求的 AI 审查插件：自动放行/拒绝/上报**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "warc0s/opencode-permission-reviewer 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-28"]
     y-axis "stars" 17 --> 28
     line [18, 19, 20, 18, 22, 23, 24, 25, 26, 27, 27]
 ```
 
-2026-10-25 18 → 2026-11-27 27（+9）
+2026-10-26 18 → 2026-11-28 27（+9）
 
 
 ---

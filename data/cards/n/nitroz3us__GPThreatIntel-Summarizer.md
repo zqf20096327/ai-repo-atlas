@@ -45,12 +45,12 @@ Python 编写的 CTI 报告摘要工具：通过 BeautifulSoup 与 pdfplumber �
 ```mermaid
 xychart-beta
     title "nitroz3us/GPThreatIntel-Summarizer 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-28"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-11-01 21 → 2026-11-27 21（+0）
+2026-11-01 21 → 2026-11-28 21（+0）
 
 
 ---

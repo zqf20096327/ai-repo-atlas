@@ -1,6 +1,6 @@
 # tercumantanumut/selene
 
-⭐ 174 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tercumantanumut/selene) · [官网](https://selene.engineer) · 个人维护
+⭐ 175 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tercumantanumut/selene) · [官网](https://selene.engineer) · 个人维护
 
 **本地运行 AI agent 的桌面应用，可接入聊天渠道**
 
@@ -47,12 +47,12 @@ Selene 是一个运行在本机的 agent 桌面应用（Electron 打包），提
 ```mermaid
 xychart-beta
     title "tercumantanumut/selene 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 171 --> 175
-    line [172, 173, 174, 174]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 171 --> 176
+    line [172, 173, 174, 175]
 ```
 
-2026-10-25 172 → 2026-11-27 174（+2）
+2026-10-26 172 → 2026-11-28 175（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # farhan-beg/talaria
 
-⭐ 18 · Kotlin · MIT · 推送 2026-10-29 · [GitHub](https://github.com/farhan-beg/talaria) · 个人维护
+⭐ 19 · Kotlin · MIT · 推送 2026-10-29 · [GitHub](https://github.com/farhan-beg/talaria) · 个人维护
 
 **连接 Hermes Agent 服务器的独立 Android 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "farhan-beg/talaria 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 17, 18, 18]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19]
 ```
 
-2026-10-25 17 → 2026-11-27 18（+1）
+2026-10-26 17 → 2026-11-28 19（+2）
 
 
 ---

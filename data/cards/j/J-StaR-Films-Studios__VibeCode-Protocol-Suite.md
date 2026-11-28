@@ -1,6 +1,6 @@
 # J-StaR-Films-Studios/VibeCode-Protocol-Suite
 
-⭐ 27 · JavaScript · ISC · 推送 2026-10-17 · [GitHub](https://github.com/J-StaR-Films-Studios/VibeCode-Protocol-Suite) · 个人维护
+⭐ 27 · JavaScript · ISC · 推送 2026-11-27 · [GitHub](https://github.com/J-StaR-Films-Studios/VibeCode-Protocol-Suite) · 个人维护
 
 **面向 AI 编程助手的技能与工作流套件：安装一次同步多 IDE**
 
@@ -44,13 +44,13 @@ Takomi 是一套用于组织 AI 辅助软件开发的协议、工作流与技能
 
 ```mermaid
 xychart-beta
-    title "J-StaR-Films-Studios/VibeCode-Protocol-Suite 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-27"]
+    title "J-StaR-Films-Studios/VibeCode-Protocol-Suite 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-28"]
     y-axis "stars" 23 --> 28
-    line [24, 25, 26, 24, 26, 27, 27]
+    line [25, 26, 24, 26, 27, 27]
 ```
 
-2026-10-25 24 → 2026-11-27 27（+3）
+2026-10-26 25 → 2026-11-28 27（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # SENATOROVAI/Data-Science-For-Beginners-from-scratch-course
 
-⭐ 221 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course) · [官网](https://SenatorovAI.com) · 组织维护
+⭐ 222 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course) · [官网](https://SenatorovAI.com) · 组织维护
 
 **数据科学从零到中级的学习课程资料库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SENATOROVAI/Data-Science-For-Beginners-from-scratch-course 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 210 --> 222
-    line [211, 212, 211, 214, 217, 218, 219, 221, 221]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 210 --> 223
+    line [211, 212, 211, 214, 217, 218, 219, 221, 222]
 ```
 
-2026-10-25 211 → 2026-11-27 221（+10）
+2026-10-26 211 → 2026-11-28 222（+11）
 
 
 ---

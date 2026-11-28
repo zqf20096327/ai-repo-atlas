@@ -46,12 +46,12 @@ Karpathy Nanochat 的研究分支，将静态权重替换为突触蛋白的计�
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/bio_inspired_nanochat 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-25 62 → 2026-11-27 62（+0）
+2026-10-26 62 → 2026-11-28 62（+0）
 
 
 ---

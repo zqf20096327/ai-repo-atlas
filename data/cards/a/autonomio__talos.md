@@ -1,6 +1,6 @@
 # autonomio/talos
 
-⭐ 1,633 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/autonomio/talos) · [官网](https://autonom.io) · 组织维护
+⭐ 1,634 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/autonomio/talos) · [官网](https://autonom.io) · 组织维护
 
 **为 Keras/TF/PyTorch 模型提供超参数实验管理的研究者工具**
 
@@ -47,12 +47,12 @@ Talos 将用户已有的 Keras、TensorFlow/tf.keras 或 PyTorch 模型包装成
 ```mermaid
 xychart-beta
     title "autonomio/talos 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-20", "2026-11-28"]
     y-axis "stars" 1632 --> 1636
-    line [1635, 1634, 1633, 1633]
+    line [1635, 1634, 1633, 1634]
 ```
 
-2026-10-25 1,635 → 2026-11-27 1,633（-2）
+2026-10-26 1,635 → 2026-11-28 1,634（-1）
 
 
 ---

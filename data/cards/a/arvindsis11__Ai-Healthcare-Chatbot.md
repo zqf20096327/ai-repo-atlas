@@ -1,6 +1,6 @@
 # arvindsis11/Ai-Healthcare-Chatbot
 
-⭐ 150 · Python · 推送 2026-06-12 · [GitHub](https://github.com/arvindsis11/Ai-Healthcare-Chatbot) · [官网](https://ai-healthcare-frontend.onrender.com/) · 个人维护
+⭐ 151 · Python · 推送 2026-06-12 · [GitHub](https://github.com/arvindsis11/Ai-Healthcare-Chatbot) · [官网](https://ai-healthcare-frontend.onrender.com/) · 个人维护
 
 **面向患者与医疗场景的 RAG 医疗健康问答聊天机器人平台**
 
@@ -45,12 +45,12 @@ FastAPI 后端 + Next.js 前端的全栈医疗健康对话应用：通过 RAG �
 ```mermaid
 xychart-beta
     title "arvindsis11/Ai-Healthcare-Chatbot 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 147 --> 151
-    line [148, 150, 150]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 147 --> 152
+    line [148, 150, 151]
 ```
 
-2026-10-25 148 → 2026-11-27 150（+2）
+2026-10-26 148 → 2026-11-28 151（+3）
 
 
 ---

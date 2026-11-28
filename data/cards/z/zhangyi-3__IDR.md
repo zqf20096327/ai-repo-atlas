@@ -45,12 +45,12 @@ CUHK-SenseTime 联合实验室发布的 IDR（Self-Supervised Image Denoising vi
 ```mermaid
 xychart-beta
     title "zhangyi-3/IDR 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 129 --> 131
     line [130, 130]
 ```
 
-2026-10-25 130 → 2026-11-27 130（+0）
+2026-10-26 130 → 2026-11-28 130（+0）
 
 
 ---

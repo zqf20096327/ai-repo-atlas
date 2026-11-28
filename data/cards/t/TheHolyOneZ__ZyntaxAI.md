@@ -1,6 +1,6 @@
 # TheHolyOneZ/ZyntaxAI
 
-⭐ 10 · Rust · GPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/TheHolyOneZ/ZyntaxAI) · [官网](https://zsync.eu/zyntaxai/) · 个人维护
+⭐ 11 · Rust · GPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/TheHolyOneZ/ZyntaxAI) · [官网](https://zsync.eu/zyntaxai/) · 个人维护
 
 **桌面全局热键文本纠错/改写/翻译工具，支持本地离线运行**
 
@@ -40,6 +40,18 @@
 
 > L3: **Correct, rewrite and translate text anywhere on your desktop — with one hotkey.**
 > L131: |**Ollama**|No|Runs entirely on your machine. No key, no network, and your text never leaves the computer|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TheHolyOneZ/ZyntaxAI 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-27 10 → 2026-11-28 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # HelpFreedom/Datum
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HelpFreedom/Datum) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/HelpFreedom/Datum) · 个人维护
 
 **AI 驱动的工程 CAD 编辑器：agent 设计与计算，人类引导**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HelpFreedom/Datum 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 0 --> 38
+    line [3, 35]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 35（+32）
 
 
 ---

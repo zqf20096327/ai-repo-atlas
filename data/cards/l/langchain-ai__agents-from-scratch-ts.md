@@ -1,6 +1,6 @@
 # langchain-ai/agents-from-scratch-ts
 
-⭐ 52 · Jupyter Notebook · 推送 2026-11-05 · [GitHub](https://github.com/langchain-ai/agents-from-scratch-ts) · 组织维护
+⭐ 52 · Jupyter Notebook · 推送 2026-11-27 · [GitHub](https://github.com/langchain-ai/agents-from-scratch-ts) · 组织维护
 
 **LangGraph.js 邮件助手教程仓库：HITL 与记忆的渐进实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/agents-from-scratch-ts 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "langchain-ai/agents-from-scratch-ts 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 51 --> 55
-    line [54, 53, 54, 52, 52]
+    line [53, 54, 52, 52]
 ```
 
-2026-10-25 54 → 2026-11-27 52（-2）
+2026-10-26 53 → 2026-11-28 52（-1）
 
 
 ---

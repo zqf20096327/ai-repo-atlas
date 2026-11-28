@@ -1,6 +1,6 @@
 # microsoft/vscode-jupyter
 
-⭐ 1,547 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/vscode-jupyter) · [官网](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) · 组织维护
+⭐ 1,546 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/microsoft/vscode-jupyter) · [官网](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) · 组织维护
 
 **VS Code 的 Jupyter 笔记本扩展：编辑与运行多语言内核笔记本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/vscode-jupyter 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-28"]
     y-axis "stars" 1544 --> 1548
-    line [1545, 1546, 1545, 1546, 1547, 1547]
+    line [1545, 1546, 1545, 1546, 1547, 1546]
 ```
 
-2026-10-25 1,545 → 2026-11-27 1,547（+2）
+2026-10-26 1,545 → 2026-11-28 1,546（+1）
 
 
 ---

@@ -1,10 +1,10 @@
 # acvnace/awesome-vibe-coding-resources
 
-⭐ 342 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/acvnace/awesome-vibe-coding-resources) · [官网](https://yangmao.ai) · 个人维护
+⭐ 346 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/acvnace/awesome-vibe-coding-resources) · [官网](https://yangmao.ai) · 个人维护 · 中文 README
 
-**vibe coding 工具与资源策展清单**
+**面向 vibe coding 开发者的工具与资源策展清单**
 
-以 awesome-list 形式收录 vibe coding 相关的工具、资源与新闻条目，按浏览器工具、移动端工具、IDE 与代码编辑器、桌面应用等分区组织。每个条目附一句事实性描述，贡献规则要求提交时注明利益相关并排除广告与推广链接。清单开头收录 Karpathy 对 vibe coding 概念的定义说明。本仓库本身是目录性质，不提供可安装运行的软件。
+以 awesome-list 形式组织的 vibe coding 资源目录，收录浏览器端 AI 应用构建工具、移动端优先工具、AI 代码编辑器与桌面应用等类别的条目，每条附一句事实性简介；包含对 vibe coding 概念的来源说明（Andrej Karpathy 定义）以及投稿贡献规则（需 Star 仓库、通过审查与检查）。清单本身不提供可安装软件，收录对象多为第三方产品与开源项目。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按浏览器工具/移动端/IDE/桌面应用分区组织条目
-- 收录自述开源（MIT/AGPL）的自托管条目
-- 贡献规则要求排除广告、推广链接并披露利益相关
+- 按 Browser-based Tools、Mobile-first Tools、IDEs、Desktop Apps 等类别组织的条目清单
+- 收录 vibe coding 概念定义来源（Karpathy 于 X 的表述）
+- 明文的贡献规范：事实性描述、禁止广告与联盟链接、利益关联需披露
 
 ## 适用场景
 
-- 查找可从提示词生成应用的浏览器端工具
-- 挑选支持 AI agent 的代码编辑器
-- 了解 vibe coding 工具生态的覆盖范围
+- 查找用自然语言描述生成应用的开发工具
+- 对比不同 AI 代码编辑器与 agent 运行界面
+- 为该清单贡献新的 vibe coding 资源条目
 
 ## 场景标签
 
@@ -38,20 +38,20 @@
 
 > L1: # Awesome Vibe Coding Resources
 > L3: > :clipboard: A curated list about vibe coding tools, resources and news
-> L11: ## Contents
+> L9: Add resources that help people build, test, or ship software with AI. Use the relevant section and give a short, fac
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "acvnace/awesome-vibe-coding-resources 星数(近 16 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 319 --> 344
-    line [321, 325, 326, 328, 329, 330, 321, 331, 332, 333, 335, 337, 336, 337, 341, 342]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 319 --> 348
+    line [325, 326, 328, 329, 330, 321, 331, 332, 333, 335, 337, 336, 337, 341, 342, 346]
 ```
 
-2026-10-25 321 → 2026-11-27 342（+21）
+2026-10-26 325 → 2026-11-28 346（+21）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `b2c9c3f13af7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `0645ff4dbc3b` · [字段定义](../../DATASET.md)*

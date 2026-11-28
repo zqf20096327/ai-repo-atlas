@@ -1,6 +1,6 @@
 # AnnenkovLabs/dopamine-talk
 
-⭐ 9 · Shell · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AnnenkovLabs/dopamine-talk) · [官网](https://dopamine.annenkov.me) · 个人维护
+⭐ 12 · Shell · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AnnenkovLabs/dopamine-talk) · [官网](https://dopamine.annenkov.me) · 个人维护
 
 **给 AI 编码代理去说教腔的 SKILL.md 提示词包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AnnenkovLabs/dopamine-talk 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 5 --> 10
-    line [6, 9]
+    title "AnnenkovLabs/dopamine-talk 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 5 --> 13
+    line [6, 9, 12]
 ```
 
-2026-11-26 6 → 2026-11-27 9（+3）
+2026-11-26 6 → 2026-11-28 12（+6）
 
 
 ---

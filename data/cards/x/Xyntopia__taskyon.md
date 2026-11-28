@@ -1,6 +1,6 @@
 # Xyntopia/taskyon
 
-⭐ 55 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xyntopia/taskyon) · [官网](https://taskyon.space) · 组织维护
+⭐ 56 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Xyntopia/taskyon) · [官网](https://taskyon.space) · 组织维护
 
 **本地优先的浏览器端 AI 聊天/任务树设计自动化工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Xyntopia/taskyon 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-28"]
     y-axis "stars" 54 --> 57
-    line [56, 55, 55]
+    line [56, 55, 56]
 ```
 
-2026-10-25 56 → 2026-11-27 55（-1）
+2026-10-26 56 → 2026-11-28 56（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # edward1987/opendgus
 
-⭐ 7 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/edward1987/opendgus) · 个人维护
+⭐ 11 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/edward1987/opendgus) · 个人维护
 
 **为 DWIN T5L 触摸屏提供开源设计器与 AI 设计功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edward1987/opendgus 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 6, 7, 7]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 6, 7, 11]
 ```
 
-2026-10-30 3 → 2026-11-27 7（+4）
+2026-10-30 3 → 2026-11-28 11（+8）
 
 
 ---

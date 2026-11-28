@@ -1,6 +1,6 @@
 # SubDong/AetherOps
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SubDong/AetherOps) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SubDong/AetherOps) · 个人维护 · 中文 README
 
 **自托管 AI agent SSH 运维终端：审批门控执行、告警与事件回溯**
 
@@ -41,6 +41,18 @@
 > L5: An AI-powered SSH operations terminal. It combines a full-featured terminal emulator with an
 > L30: - **Autonomous loop.** The agent executes commands in a real terminal through tool calling
 > L8: **Web app**, an **Electron desktop client**, and a **VSCode extension** that all run the exact same
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SubDong/AetherOps 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

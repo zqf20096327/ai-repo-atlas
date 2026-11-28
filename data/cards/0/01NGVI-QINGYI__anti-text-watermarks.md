@@ -41,6 +41,18 @@
 > L56: `anti-text-watermarks` (`atw`) is an **auditable, offline-capable, zero-dependency** adversarial text processing en
 > L61: - **Objective (Context-Hash Cascade Collapse)**: Select the minimum set of high-conditional-entropy pivot words and
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "01NGVI-QINGYI/anti-text-watermarks 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `4c589b3ee3d8` · [字段定义](../../DATASET.md)*

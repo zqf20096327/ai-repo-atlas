@@ -1,6 +1,6 @@
 # blueshadow62/fairhand
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/blueshadow62/fairhand) · 个人维护
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/blueshadow62/fairhand) · 个人维护
 
 **教师用 AI 转录评分手写主观题答卷的桌面程序**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "blueshadow62/fairhand 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 5 --> 8
     line [6, 7, 7]
 ```
 
-2026-11-08 6 → 2026-11-27 7（+1）
+2026-11-08 6 → 2026-11-28 7（+1）
 
 
 ---

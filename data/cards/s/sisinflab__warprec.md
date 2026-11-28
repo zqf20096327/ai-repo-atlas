@@ -1,6 +1,6 @@
 # sisinflab/warprec
 
-⭐ 19 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/sisinflab/warprec) · [官网](https://warprec.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/sisinflab/warprec) · [官网](https://warprec.readthedocs.io/en/latest/index.html) · 组织维护
 
 **面向研究者的推荐系统训练评估框架（87 个模型）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sisinflab/warprec 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-25 18 → 2026-11-27 19（+1）
+2026-10-26 18 → 2026-11-28 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # anivar/developer-docs-framework
 
-⭐ 19 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/anivar/developer-docs-framework) · [官网](https://skills.sh/anivar/developer-docs-framework) · 个人维护
+⭐ 20 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/anivar/developer-docs-framework) · [官网](https://skills.sh/anivar/developer-docs-framework) · 个人维护
 
 **面向编码 agent 的技术文档写作框架技能包（27 规则）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anivar/developer-docs-framework 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 17, 18, 19, 19]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 17, 18, 19, 20]
 ```
 
-2026-10-25 17 → 2026-11-27 19（+2）
+2026-10-26 17 → 2026-11-28 20（+3）
 
 
 ---

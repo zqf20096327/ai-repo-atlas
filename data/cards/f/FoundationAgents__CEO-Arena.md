@@ -1,6 +1,6 @@
 # FoundationAgents/CEO-Arena
 
-⭐ 4 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/FoundationAgents/CEO-Arena) · [官网](https://arxiv.org/abs/2609.34821) · 组织维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/FoundationAgents/CEO-Arena) · [官网](https://arxiv.org/abs/2609.34821) · 组织维护 · 中文 README
 
 **竞争市场中多智能体长程决策的评测基准代码与数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FoundationAgents/CEO-Arena 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-14", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-14 3 → 2026-11-27 4（+1）
+2026-11-14 3 → 2026-11-28 5（+2）
 
 
 ---

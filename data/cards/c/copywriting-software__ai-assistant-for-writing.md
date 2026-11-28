@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "copywriting-software/ai-assistant-for-writing 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    title "copywriting-software/ai-assistant-for-writing 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 13
-    line [3, 7, 9, 11, 12]
+    line [3, 7, 9, 11, 12, 12]
 ```
 
-2026-11-22 3 → 2026-11-27 12（+9）
+2026-11-22 3 → 2026-11-28 12（+9）
 
 
 ---

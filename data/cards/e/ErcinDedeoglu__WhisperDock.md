@@ -1,6 +1,6 @@
 # ErcinDedeoglu/WhisperDock
 
-⭐ 31 · C++ · CC0-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/ErcinDedeoglu/WhisperDock) · [官网](https://hub.docker.com/r/dublok/whisperdock) · 个人维护
+⭐ 31 · C++ · CC0-1.0 · 推送 2026-11-27 · [GitHub](https://github.com/ErcinDedeoglu/WhisperDock) · [官网](https://hub.docker.com/r/dublok/whisperdock) · 个人维护
 
 **Docker 化的 Whisper C++ 语音转文字 API 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ErcinDedeoglu/WhisperDock 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-25 31 → 2026-11-27 31（+0）
+2026-10-26 31 → 2026-11-28 31（+0）
 
 
 ---

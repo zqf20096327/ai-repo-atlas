@@ -1,6 +1,6 @@
 # Jason-Vaughan/TangleClaw
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Jason-Vaughan/TangleClaw) · [官网](https://tangle-claw.vercel.app) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Jason-Vaughan/TangleClaw) · [官网](https://tangle-claw.vercel.app) · 个人维护
 
 **本地优先的 AI 编码 agent 编排平台：多引擎会话管理与协作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jason-Vaughan/TangleClaw 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-25", "2026-11-27"]
+    title "Jason-Vaughan/TangleClaw 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15]
+    line [12, 13, 14, 15, 15]
 ```
 
-2026-10-25 12 → 2026-11-27 15（+3）
+2026-10-26 12 → 2026-11-28 15（+3）
 
 
 ---

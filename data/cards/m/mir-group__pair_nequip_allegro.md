@@ -1,6 +1,6 @@
 # mir-group/pair_nequip_allegro
 
-⭐ 66 · C++ · MIT · 推送 2026-10-09 · [GitHub](https://github.com/mir-group/pair_nequip_allegro) · [官网](https://arxiv.org/pdf/2504.16068) · 组织维护
+⭐ 67 · C++ · MIT · 推送 2026-10-09 · [GitHub](https://github.com/mir-group/pair_nequip_allegro) · [官网](https://arxiv.org/pdf/2504.16068) · 组织维护
 
 **在 LAMMPS 分子模拟中运行 NequIP/Allegro 机器学习势的 pair style**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mir-group/pair_nequip_allegro 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 65, 66, 66]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 65, 66, 67]
 ```
 
-2026-10-25 65 → 2026-11-27 66（+1）
+2026-10-26 65 → 2026-11-28 67（+2）
 
 
 ---

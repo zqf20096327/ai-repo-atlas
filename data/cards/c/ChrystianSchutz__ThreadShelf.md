@@ -1,6 +1,6 @@
 # ChrystianSchutz/ThreadShelf
 
-⭐ 22 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ChrystianSchutz/ThreadShelf) · [官网](https://chrystianschutz.github.io/ThreadShelf/) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/ChrystianSchutz/ThreadShelf) · [官网](https://chrystianschutz.github.io/ThreadShelf/) · 个人维护
 
 **本地优先的 AI 对话归档、语义搜索与续写工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ChrystianSchutz/ThreadShelf 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 14 --> 23
-    line [15, 19, 15, 22, 22]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 14 --> 24
+    line [15, 19, 15, 22, 23]
 ```
 
-2026-10-25 15 → 2026-11-27 22（+7）
+2026-10-26 15 → 2026-11-28 23（+8）
 
 
 ---

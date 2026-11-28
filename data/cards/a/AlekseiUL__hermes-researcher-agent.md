@@ -1,6 +1,6 @@
 # AlekseiUL/hermes-researcher-agent
 
-⭐ 71 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlekseiUL/hermes-researcher-agent) · [官网](https://t.me/Sprut_AI) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlekseiUL/hermes-researcher-agent) · [官网](https://t.me/Sprut_AI) · 个人维护
 
 **面向 Hermes Agent 的公共源研究 agent 配置档案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AlekseiUL/hermes-researcher-agent 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 62 --> 72
-    line [63, 64, 63, 66, 70, 71, 71]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 62 --> 73
+    line [63, 64, 63, 66, 70, 71, 72]
 ```
 
-2026-10-25 63 → 2026-11-27 71（+8）
+2026-10-26 63 → 2026-11-28 72（+9）
 
 
 ---

@@ -45,12 +45,12 @@ Marcin Firmuga 的 GitHub 个人主页 README：自我介绍、求职意向与�
 ```mermaid
 xychart-beta
     title "HuckleR2003/HuckleR2003 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

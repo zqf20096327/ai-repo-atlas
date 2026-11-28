@@ -1,6 +1,6 @@
 # identArk/identark
 
-⭐ 16 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/identArk/identark) · [官网](https://identark.io) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/identArk/identark) · [官网](https://identark.io) · 组织维护
 
 **给 AI agent 开发者的凭据隔离网关 SDK：代理持密钥、带审批与审计**
 
@@ -47,12 +47,12 @@ identark 是实现 AgentGateway Protocol 的 Python SDK，在 agent 逻辑与外
 ```mermaid
 xychart-beta
     title "identArk/identark 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-08 16 → 2026-11-27 16（+0）
+2026-11-08 16 → 2026-11-28 16（+0）
 
 
 ---

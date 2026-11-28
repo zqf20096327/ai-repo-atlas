@@ -1,6 +1,6 @@
 # LJS1124/shiyi-desktop
 
-⭐ 4 · Rust · 推送 2026-10-30 · [GitHub](https://github.com/LJS1124/shiyi-desktop) · [官网](https://github.com/LJS1124/shiyi-desktop/releases/latest) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地优先的灵感与项目管理桌面应用，AI 助手经命令行读写同一份数据**
 

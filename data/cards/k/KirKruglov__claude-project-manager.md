@@ -1,6 +1,6 @@
 # KirKruglov/claude-project-manager
 
-⭐ 10 · MIT · 推送 2026-04-15 · [GitHub](https://github.com/KirKruglov/claude-project-manager) · 个人维护
+⭐ 11 · MIT · 推送 2026-04-15 · [GitHub](https://github.com/KirKruglov/claude-project-manager) · 个人维护
 
 **在 Claude Cowork 中自动化 IT 项目全生命周期管理的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KirKruglov/claude-project-manager 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-16", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-16 10 → 2026-11-27 10（+0）
+2026-11-16 10 → 2026-11-28 11（+1）
 
 
 ---

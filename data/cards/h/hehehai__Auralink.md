@@ -1,6 +1,6 @@
 # hehehai/Auralink
 
-⭐ 5 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hehehai/Auralink) · [官网](https://actnow.dev/auralink) · 个人维护 · 中文 README
+⭐ 5 · Go · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/hehehai/Auralink) · [官网](https://actnow.dev/auralink) · 个人维护 · 中文 README
 
 **macOS 全局语音输入工具：说话转文字到光标处**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hehehai/Auralink 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
+    title "hehehai/Auralink 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 6
-    line [3, 5]
+    line [3, 5, 5]
 ```
 
-2026-11-22 3 → 2026-11-27 5（+2）
+2026-11-22 3 → 2026-11-28 5（+2）
 
 
 ---

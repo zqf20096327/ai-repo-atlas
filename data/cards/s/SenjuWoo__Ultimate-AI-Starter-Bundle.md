@@ -41,6 +41,18 @@
 > L22: **What it is not:** another model, a hosted service, or a package manager for
 > L46: Claude Code · Codex · Grok · Kimi · Hermes · Google Antigravity. Each gets the
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SenjuWoo/Ultimate-AI-Starter-Bundle 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `ef720f8a24b9` · [字段定义](../../DATASET.md)*

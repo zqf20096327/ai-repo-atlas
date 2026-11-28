@@ -1,6 +1,6 @@
 # altdeep/probmodeler
 
-⭐ 15 · Jupyter Notebook · AGPL-3.0 · 推送 2025-12-01 · [GitHub](https://github.com/altdeep/probmodeler) · [官网](https://www.altdeep.ai/courses/probmodeler) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **概率机器学习研讨会的教学材料仓库：贝叶斯建模课程内容**
 
@@ -11,7 +11,7 @@ altdeep.ai 「Probabilistic Modeler in Three Months」研讨会的一天制工�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

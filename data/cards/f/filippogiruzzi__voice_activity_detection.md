@@ -1,6 +1,6 @@
 # filippogiruzzi/voice_activity_detection
 
-⭐ 373 · Python · GPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/filippogiruzzi/voice_activity_detection) · 个人维护
+⭐ 372 · Python · GPL-3.0 · 推送 2026-07-22 · [GitHub](https://github.com/filippogiruzzi/voice_activity_detection) · 个人维护
 
 **基于 MFCC+1D-ResNet 的深度学习语音活动检测项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "filippogiruzzi/voice_activity_detection 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-28"]
     y-axis "stars" 371 --> 375
-    line [372, 373, 374, 373, 373]
+    line [372, 373, 374, 373, 372]
 ```
 
-2026-10-25 372 → 2026-11-27 373（+1）
+2026-10-26 372 → 2026-11-28 372（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rmcmillan34/algorithmic-trading-learning-roadmap
 
-⭐ 266 · Shell · MIT · 推送 2026-02-07 · [GitHub](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) · 个人维护
+⭐ 265 · Shell · MIT · 推送 2026-02-07 · [GitHub](https://github.com/rmcmillan34/algorithmic-trading-learning-roadmap) · 个人维护
 
 **面向独立算法交易者的自学路线图与资源模板库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rmcmillan34/algorithmic-trading-learning-roadmap 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-27"]
+    title "rmcmillan34/algorithmic-trading-learning-roadmap 星数(近 13 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 255 --> 267
-    line [256, 257, 256, 257, 256, 258, 259, 260, 262, 263, 265, 266]
+    line [256, 257, 256, 257, 256, 258, 259, 260, 262, 263, 265, 266, 265]
 ```
 
-2026-10-25 256 → 2026-11-27 266（+10）
+2026-10-26 256 → 2026-11-28 265（+9）
 
 
 ---

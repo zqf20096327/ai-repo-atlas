@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "nickpadd/EuropeanFootballLeaguePredictor 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "nickpadd/EuropeanFootballLeaguePredictor 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 73 --> 76
-    line [75, 74, 75, 74, 74]
+    line [74, 75, 74, 74]
 ```
 
-2026-10-25 75 → 2026-11-27 74（-1）
+2026-10-26 74 → 2026-11-28 74（+0）
 
 
 ---

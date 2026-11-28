@@ -1,6 +1,6 @@
 # xbsheng/stanford-cs329z
 
-⭐ 6 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/xbsheng/stanford-cs329z) · [官网](https://xbsheng.github.io/stanford-cs329z/) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/xbsheng/stanford-cs329z) · [官网](https://xbsheng.github.io/stanford-cs329z/) · 个人维护 · 中文 README
 
 **斯坦福 CS329Z agent 工程课程的中文讲义站点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xbsheng/stanford-cs329z 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6]
+    title "xbsheng/stanford-cs329z 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 6, 7]
 ```
 
-2026-11-25 4 → 2026-11-27 6（+2）
+2026-11-25 4 → 2026-11-28 7（+3）
 
 
 ---

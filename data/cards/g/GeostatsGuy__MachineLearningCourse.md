@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GeostatsGuy/MachineLearningCourse 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-10-25 177 → 2026-11-27 177（+0）
+2026-10-26 177 → 2026-11-28 177（+0）
 
 
 ---

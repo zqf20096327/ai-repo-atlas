@@ -1,6 +1,6 @@
 # huodebing-alt/anima
 
-⭐ 11 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/huodebing-alt/anima) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/huodebing-alt/anima) · 个人维护
 
 **在本地小模型上 24/7 运行的常驻 AI agent，带持久记忆与睡眠巩固**
 
@@ -46,12 +46,12 @@ Anima 是运行于本机的自主 AI agent：以 Ollama + 2B 模型驱动，纯�
 ```mermaid
 xychart-beta
     title "huodebing-alt/anima 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-25 10 → 2026-11-27 11（+1）
+2026-10-26 10 → 2026-11-28 12（+2）
 
 
 ---

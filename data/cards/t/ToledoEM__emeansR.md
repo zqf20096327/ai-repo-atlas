@@ -1,6 +1,6 @@
 # ToledoEM/emeansR
 
-⭐ 3 · R · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/ToledoEM/emeansR) · [官网](https://toledoem.github.io/emeansR/) · 个人维护
+⭐ 3 · R · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/ToledoEM/emeansR) · [官网](https://toledoem.github.io/emeansR/) · 个人维护
 
 **R 包：为大数据集提供 e-means 聚类实现**
 
@@ -45,12 +45,12 @@ R 实现的 e-means 算法（Bessa et al., 2026, arXiv:2611.09501），作为 Ll
 ```mermaid
 xychart-beta
     title "ToledoEM/emeansR 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-27 3（+0）
+2026-11-20 3 → 2026-11-28 3（+0）
 
 
 ---

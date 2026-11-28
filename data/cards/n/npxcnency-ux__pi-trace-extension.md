@@ -46,12 +46,12 @@ pi-agent 的扩展插件，订阅其生命周期事件，将 message 导向的 s
 ```mermaid
 xychart-beta
     title "npxcnency-ux/pi-trace-extension 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-25 22 → 2026-11-27 22（+0）
+2026-10-26 22 → 2026-11-28 22（+0）
 
 
 ---

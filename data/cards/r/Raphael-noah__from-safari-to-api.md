@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Raphael-noah/from-safari-to-api 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 8 --> 10
     line [9, 9]
 ```
 
-2026-10-25 9 → 2026-11-27 9（+0）
+2026-10-26 9 → 2026-11-28 9（+0）
 
 
 ---

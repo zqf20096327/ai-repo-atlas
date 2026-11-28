@@ -1,6 +1,6 @@
 # di37/weight-space-programming-skill
 
-⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/di37/weight-space-programming-skill) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/di37/weight-space-programming-skill) · 个人维护
 
 **Claude Code 技能：不改训练直接编辑小模型权重以改进行为**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "di37/weight-space-programming-skill 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
-    y-axis "stars" 11 --> 14
-    line [12, 13]
+    title "di37/weight-space-programming-skill 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 15]
 ```
 
-2026-11-22 12 → 2026-11-27 13（+1）
+2026-11-22 12 → 2026-11-28 15（+3）
 
 
 ---

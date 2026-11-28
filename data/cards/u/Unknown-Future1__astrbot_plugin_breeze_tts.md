@@ -1,6 +1,6 @@
 # Unknown-Future1/astrbot_plugin_breeze_tts
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Unknown-Future1/astrbot_plugin_breeze_tts) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Unknown-Future1/astrbot_plugin_breeze_tts) · 个人维护 · 中文 README
 
 **AstrBot 插件：用本地克隆音色让 QQ 机器人发语音**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Unknown-Future1/astrbot_plugin_breeze_tts 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-23 4 → 2026-11-27 4（+0）
+2026-11-23 4 → 2026-11-28 4（+0）
 
 
 ---

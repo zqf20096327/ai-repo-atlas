@@ -46,12 +46,12 @@ Nylas 官方维护的 Agent Skills 仓库，包含 3 个技能（nylas-api、nyl
 ```mermaid
 xychart-beta
     title "nylas/skills 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

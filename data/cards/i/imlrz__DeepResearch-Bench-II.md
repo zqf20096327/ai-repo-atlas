@@ -1,6 +1,6 @@
 # imlrz/DeepResearch-Bench-II
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/imlrz/DeepResearch-Bench-II) · [官网](https://arxiv.org/abs/2601.08536) · 组织维护 · 中文 README
+⭐ 104 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/imlrz/DeepResearch-Bench-II) · [官网](https://arxiv.org/abs/2601.08536) · 组织维护 · 中文 README
 
 **深度研究 agent 评测基准：以专家报告分解的评分细则打分**
 
@@ -45,13 +45,13 @@ DeepResearch Bench II 是测量深度研究系统与人类专家差距的基准�
 
 ```mermaid
 xychart-beta
-    title "imlrz/DeepResearch-Bench-II 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 95 --> 104
-    line [96, 98, 99, 96, 98, 99, 100, 101, 102, 103]
+    title "imlrz/DeepResearch-Bench-II 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 95 --> 105
+    line [96, 98, 99, 96, 98, 99, 100, 101, 102, 103, 104]
 ```
 
-2026-10-25 96 → 2026-11-27 103（+7）
+2026-10-26 96 → 2026-11-28 104（+8）
 
 
 ---

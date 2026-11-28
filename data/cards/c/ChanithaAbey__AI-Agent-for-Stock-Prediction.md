@@ -45,12 +45,12 @@ Python 命令行程序：读取任意 Yahoo Finance 股票代码近一年历史�
 ```mermaid
 xychart-beta
     title "ChanithaAbey/AI-Agent-for-Stock-Prediction 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-25 22 → 2026-11-27 22（+0）
+2026-10-26 22 → 2026-11-28 22（+0）
 
 
 ---

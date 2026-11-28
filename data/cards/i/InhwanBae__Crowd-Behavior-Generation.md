@@ -45,12 +45,12 @@ Continuous Locomotive Crowd Behavior Generation（CVPR 2025）官方实现，含
 ```mermaid
 xychart-beta
     title "InhwanBae/Crowd-Behavior-Generation 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-28"]
     y-axis "stars" 53 --> 56
     line [55, 54, 54]
 ```
 
-2026-10-25 55 → 2026-11-27 54（-1）
+2026-10-26 55 → 2026-11-28 54（-1）
 
 
 ---

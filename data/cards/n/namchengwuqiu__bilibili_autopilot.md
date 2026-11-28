@@ -1,6 +1,6 @@
 # namchengwuqiu/bilibili_autopilot
 
-⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/namchengwuqiu/bilibili_autopilot) · [官网](https://github.com/namchengwuqiu/bilibili_autopilot#readme) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/namchengwuqiu/bilibili_autopilot) · [官网](https://github.com/namchengwuqiu/bilibili_autopilot#readme) · 个人维护 · 中文 README
 
 **让 MaiBot 机器人在 B 站自主浏览并生成评论的插件**
 
@@ -45,12 +45,12 @@ MaiBot 平台的第三方插件（local.bilibili-autopilot），登录 B 站账�
 ```mermaid
 xychart-beta
     title "namchengwuqiu/bilibili_autopilot 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-27 3（+0）
+2026-11-02 3 → 2026-11-28 3（+0）
 
 
 ---

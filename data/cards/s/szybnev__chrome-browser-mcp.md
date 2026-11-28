@@ -1,6 +1,6 @@
 # szybnev/chrome-browser-mcp
 
-⭐ 4 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/szybnev/chrome-browser-mcp) · 个人维护 · 中文 README
+⭐ 5 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/szybnev/chrome-browser-mcp) · 个人维护 · 中文 README
 
 **给 AI 客户端控制真实 Chrome 标签页的扩展与 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "szybnev/chrome-browser-mcp 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-26 4 → 2026-11-27 4（+0）
+2026-11-26 4 → 2026-11-28 5（+1）
 
 
 ---

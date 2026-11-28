@@ -1,6 +1,6 @@
 # conceptcountry/weight-space-programming
 
-⭐ 40 · Typst · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/conceptcountry/weight-space-programming) · 个人维护
+⭐ 41 · Typst · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/conceptcountry/weight-space-programming) · 个人维护
 
 **Qwen3.8-27B 无梯度权重编辑的复现分析与评测产物**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "conceptcountry/weight-space-programming 星数(近 11 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 5 --> 43
-    line [8, 23, 25, 29, 31, 32, 34, 36, 37, 40, 40]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 5 --> 44
+    line [8, 23, 25, 29, 31, 32, 34, 36, 37, 40, 41]
 ```
 
-2026-11-10 8 → 2026-11-27 40（+32）
+2026-11-10 8 → 2026-11-28 41（+33）
 
 
 ---

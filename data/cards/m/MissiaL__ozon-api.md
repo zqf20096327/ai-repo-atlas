@@ -1,6 +1,6 @@
 # MissiaL/ozon-api
 
-⭐ 10 · Python · 推送 2026-10-18 · [GitHub](https://github.com/MissiaL/ozon-api) · 个人维护
+⭐ 11 · Python · 推送 2026-10-18 · [GitHub](https://github.com/MissiaL/ozon-api) · 个人维护
 
 **为 AI 代理提供 Ozon 卖家与广告 API 的完整 OpenAPI 规格及检索 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MissiaL/ozon-api 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 11（+1）
 
 
 ---

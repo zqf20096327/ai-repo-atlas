@@ -1,6 +1,6 @@
 # rusmanadodi2598/pannelAI
 
-⭐ 49 · Go · MIT · 推送 2026-10-24 · [GitHub](https://github.com/rusmanadodi2598/pannelAI) · [官网](https://kentangtech.com) · 个人维护
+⭐ 49 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/rusmanadodi2598/pannelAI) · [官网](https://kentangtech.com) · 个人维护
 
 **Go 编写的自托管 AI API 网关，统一管理客户端访问与多上游转发**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rusmanadodi2598/pannelAI 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-25 49 → 2026-11-27 49（+0）
+2026-10-26 49 → 2026-11-28 49（+0）
 
 
 ---

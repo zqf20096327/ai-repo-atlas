@@ -1,6 +1,6 @@
 # deepseek-ai/clangd-ascend
 
-⭐ 39 · C++ · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/deepseek-ai/clangd-ascend) · 组织维护 · 中文 README
+⭐ 40 · C++ · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/deepseek-ai/clangd-ascend) · 组织维护 · 中文 README
 
 **为 AscendC 算子开发定制的 clangd 语言服务器**
 
@@ -46,12 +46,12 @@ deepseek-ai 维护的 clangd 定制版本，面向华为昇腾 AscendC 算子（
 ```mermaid
 xychart-beta
     title "deepseek-ai/clangd-ascend 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 32 --> 40
-    line [33, 34, 33, 34, 35, 36, 38, 39, 39]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 32 --> 41
+    line [33, 34, 33, 34, 35, 36, 38, 39, 40]
 ```
 
-2026-10-25 33 → 2026-11-27 39（+6）
+2026-10-26 33 → 2026-11-28 40（+7）
 
 
 ---

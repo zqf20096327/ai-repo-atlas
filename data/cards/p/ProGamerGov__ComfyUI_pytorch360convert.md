@@ -1,6 +1,6 @@
 # ProGamerGov/ComfyUI_pytorch360convert
 
-⭐ 40 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/ProGamerGov/ComfyUI_pytorch360convert) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-09-05 · [GitHub](https://github.com/ProGamerGov/ComfyUI_pytorch360convert) · 个人维护
 
 **ComfyUI 自定义节点集：360° 全景图像格式转换与处理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ProGamerGov/ComfyUI_pytorch360convert 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-25 40 → 2026-11-27 40（+0）
+2026-10-26 40 → 2026-11-28 41（+1）
 
 
 ---

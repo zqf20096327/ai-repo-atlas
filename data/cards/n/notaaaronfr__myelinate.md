@@ -1,6 +1,6 @@
 # notaaaronfr/myelinate
 
-⭐ 7 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/notaaaronfr/myelinate) · [官网](https://notaaaronfr.github.io/myelinate/) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/notaaaronfr/myelinate) · [官网](https://notaaaronfr.github.io/myelinate/) · 个人维护
 
 **给任意 agent 框架加自改进技能与记忆的治理网关**
 
@@ -46,12 +46,12 @@ Myelinate 是一个可挂接到任意 agent 框架的自改进组件：agent 每
 ```mermaid
 xychart-beta
     title "notaaaronfr/myelinate 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 5, 7, 7]
 ```
 
-2026-10-25 5 → 2026-11-27 7（+2）
+2026-10-26 5 → 2026-11-28 7（+2）
 
 
 ---

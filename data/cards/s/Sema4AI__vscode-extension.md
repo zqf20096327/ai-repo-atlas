@@ -1,6 +1,6 @@
 # Sema4AI/vscode-extension
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Sema4AI/vscode-extension) · [官网](https://sema4.ai/docs/platform/vs-code) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Sema4AI/vscode-extension) · [官网](https://sema4.ai/docs/platform/vs-code) · 组织维护
 
 **为开发者在 VS Code 中开发 Python 自动化 Action 的扩展**
 
@@ -43,12 +43,12 @@ Sema4.ai 提供的 VS Code 扩展 SDK，定位为面向 Python 的 AI Action 与
 ```mermaid
 xychart-beta
     title "Sema4AI/vscode-extension 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-27 10（+0）
+2026-11-16 10 → 2026-11-28 10（+0）
 
 
 ---

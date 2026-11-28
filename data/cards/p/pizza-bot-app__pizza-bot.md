@@ -1,6 +1,6 @@
 # pizza-bot-app/pizza-bot
 
-⭐ 579 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pizza-bot-app/pizza-bot) · [官网](https://github.com/pizza-bot-app/pizza-bot/releases) · 组织维护
+⭐ 580 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/pizza-bot-app/pizza-bot) · [官网](https://github.com/pizza-bot-app/pizza-bot/releases) · 组织维护
 
 **本地优先的 AI 长任务收件箱：离开后任务继续跑、回来验收**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pizza-bot-app/pizza-bot 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 577 --> 580
-    line [578, 579]
+    title "pizza-bot-app/pizza-bot 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 577 --> 581
+    line [578, 579, 580]
 ```
 
-2026-11-26 578 → 2026-11-27 579（+1）
+2026-11-26 578 → 2026-11-28 580（+2）
 
 
 ---

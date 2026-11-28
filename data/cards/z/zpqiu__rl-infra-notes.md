@@ -1,6 +1,6 @@
 # zpqiu/rl-infra-notes
 
-⭐ 15 · HTML · 推送 2026-09-08 · [GitHub](https://github.com/zpqiu/rl-infra-notes) · 个人维护 · 中文 README
+⭐ 16 · HTML · 推送 2026-09-08 · [GitHub](https://github.com/zpqiu/rl-infra-notes) · 个人维护 · 中文 README
 
 **LLM 强化学习训练基础设施的源码级分析笔记集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zpqiu/rl-infra-notes 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 16（+1）
 
 
 ---

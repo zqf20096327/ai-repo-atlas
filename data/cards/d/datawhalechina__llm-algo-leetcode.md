@@ -1,6 +1,6 @@
 # datawhalechina/llm-algo-leetcode
 
-⭐ 824 · Jupyter Notebook · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/datawhalechina/llm-algo-leetcode) · [官网](https://datawhalechina.github.io/llm-algo-leetcode/) · 组织维护 · 中文 README
+⭐ 828 · Jupyter Notebook · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/datawhalechina/llm-algo-leetcode) · [官网](https://datawhalechina.github.io/llm-algo-leetcode/) · 组织维护 · 中文 README
 
 **以 Notebook 为载体的大模型算法与系统教程**
 
@@ -45,13 +45,13 @@ Datawhale 维护的可运行 Notebook 教程，覆盖模型架构与训练、后
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/llm-algo-leetcode 星数(近 11 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 780 --> 828
-    line [784, 797, 803, 805, 808, 811, 812, 814, 817, 820, 824]
+    title "datawhalechina/llm-algo-leetcode 星数(近 12 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 780 --> 832
+    line [784, 797, 803, 805, 808, 811, 812, 814, 817, 820, 824, 828]
 ```
 
-2026-11-15 784 → 2026-11-27 824（+40）
+2026-11-15 784 → 2026-11-28 828（+44）
 
 
 ---

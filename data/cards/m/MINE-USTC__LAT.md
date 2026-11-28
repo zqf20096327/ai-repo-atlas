@@ -1,6 +1,6 @@
 # MINE-USTC/LAT
 
-⭐ 14 · Python · 推送 2025-12-01 · [GitHub](https://github.com/MINE-USTC/LAT) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **训练 VLM 统一推理与视觉归因的强化学习论文代码**
 

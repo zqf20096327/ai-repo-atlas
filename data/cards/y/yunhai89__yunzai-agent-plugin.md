@@ -1,6 +1,6 @@
 # yunhai89/yunzai-agent-plugin
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yunhai89/yunzai-agent-plugin) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/yunhai89/yunzai-agent-plugin) · 个人维护 · 中文 README
 
 **Yunzai 机器人的 AI Agent 插件：对话、工具调用、记忆与工具进化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yunhai89/yunzai-agent-plugin 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 10（+0）
 
 
 ---

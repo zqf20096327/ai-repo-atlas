@@ -45,12 +45,12 @@ Polyaxon 平台的快速开始示例项目，配套文档 quick start 章节使�
 ```mermaid
 xychart-beta
     title "polyaxon/polyaxon-quick-start 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-25 29 → 2026-11-27 29（+0）
+2026-10-26 29 → 2026-11-28 29（+0）
 
 
 ---

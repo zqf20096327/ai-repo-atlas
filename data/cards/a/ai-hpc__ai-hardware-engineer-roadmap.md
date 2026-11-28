@@ -1,6 +1,6 @@
 # ai-hpc/ai-hardware-engineer-roadmap
 
-⭐ 309 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) · [官网](https://ai-hpc.github.io/ai-hardware-engineer-roadmap/) · 组织维护
+⭐ 310 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) · [官网](https://ai-hpc.github.io/ai-hardware-engineer-roadmap/) · 组织维护
 
 **面向工程师的 AI 硬件全栈学习路线图：从模型到自研芯片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-hpc/ai-hardware-engineer-roadmap 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-26", "2026-11-27"]
+    title "ai-hpc/ai-hardware-engineer-roadmap 星数(近 13 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 294 --> 311
-    line [295, 296, 298, 295, 303, 304, 306, 307, 308, 309, 310, 309]
+    line [295, 296, 298, 295, 303, 304, 306, 307, 308, 309, 310, 309, 310]
 ```
 
-2026-10-25 295 → 2026-11-27 309（+14）
+2026-10-26 295 → 2026-11-28 310（+15）
 
 
 ---

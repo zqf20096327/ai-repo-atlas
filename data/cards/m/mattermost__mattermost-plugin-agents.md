@@ -1,6 +1,6 @@
 # mattermost/mattermost-plugin-agents
 
-⭐ 257 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/mattermost/mattermost-plugin-agents) · [官网](https://mattermost.com/copilot) · 组织维护
+⭐ 258 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/mattermost/mattermost-plugin-agents) · [官网](https://mattermost.com/copilot) · 组织维护
 
 **给 Mattermost 加 AI agents 与 MCP 服务的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mattermost/mattermost-plugin-agents 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 254 --> 258
-    line [255, 256, 255, 257, 257]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 254 --> 259
+    line [255, 256, 255, 257, 258]
 ```
 
-2026-10-25 255 → 2026-11-27 257（+2）
+2026-10-26 255 → 2026-11-28 258（+3）
 
 
 ---

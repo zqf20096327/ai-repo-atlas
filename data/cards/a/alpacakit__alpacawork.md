@@ -1,6 +1,6 @@
 # alpacakit/alpacawork
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/alpacakit/alpacawork) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/alpacakit/alpacawork) · 个人维护
 
 **让协调 AI 为你分派和跟踪 Claude Code/Codex 任务的开源工具**
 
@@ -45,12 +45,12 @@ alpacawork 是运行在个人 PC 上的 AI harness：调用已安装的 Claude C
 ```mermaid
 xychart-beta
     title "alpacakit/alpacawork 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 11
     line [5, 8, 9, 10, 10]
 ```
 
-2026-11-20 5 → 2026-11-27 10（+5）
+2026-11-20 5 → 2026-11-28 10（+5）
 
 
 ---

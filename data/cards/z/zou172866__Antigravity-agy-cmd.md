@@ -1,6 +1,6 @@
 # zou172866/Antigravity-agy-cmd
 
-⭐ 66 · JavaScript · 推送 2026-11-26 · [GitHub](https://github.com/zou172866/Antigravity-agy-cmd) · 个人维护 · 中文 README
+⭐ 72 · JavaScript · 推送 2026-11-27 · [GitHub](https://github.com/zou172866/Antigravity-agy-cmd) · 个人维护 · 中文 README
 
 **Google Antigravity 的指令路由与多智能体调度插件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zou172866/Antigravity-agy-cmd 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 54 --> 67
-    line [55, 66]
+    title "zou172866/Antigravity-agy-cmd 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 54 --> 73
+    line [55, 66, 72]
 ```
 
-2026-11-26 55 → 2026-11-27 66（+11）
+2026-11-26 55 → 2026-11-28 72（+17）
 
 
 ---

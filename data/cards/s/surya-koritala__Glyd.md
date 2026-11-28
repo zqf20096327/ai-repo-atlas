@@ -1,6 +1,6 @@
 # surya-koritala/Glyd
 
-⭐ 186 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/surya-koritala/Glyd) · [官网](https://surya-koritala.github.io/Glyd/guide/) · 个人维护
+⭐ 186 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/surya-koritala/Glyd) · [官网](https://surya-koritala.github.io/Glyd/guide/) · 个人维护
 
 **单程序 Rust LLM 推理引擎，无损压缩权重与 KV cache**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "surya-koritala/Glyd 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-27"]
+    title "surya-koritala/Glyd 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-28"]
     y-axis "stars" 173 --> 333
-    line [318, 319, 320, 318, 211, 200, 190, 187, 186, 186]
+    line [319, 320, 318, 211, 200, 190, 187, 186, 186]
 ```
 
-2026-10-25 318 → 2026-11-27 186（-132）
+2026-10-26 319 → 2026-11-28 186（-133）
 
 
 ---

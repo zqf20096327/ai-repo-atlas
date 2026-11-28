@@ -1,6 +1,6 @@
 # jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph
 
-⭐ 50 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **基于 LangChain/LangGraph 的智能体系统实战教程项目（33 章案例）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

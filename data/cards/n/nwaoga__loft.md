@@ -1,6 +1,6 @@
 # nwaoga/loft
 
-⭐ 3 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nwaoga/loft) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/nwaoga/loft) · 个人维护
 
 **本地文件离线问答的桌面条应用，答案带出处引用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nwaoga/loft 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-27 3（+0）
+2026-11-16 3 → 2026-11-28 3（+0）
 
 
 ---

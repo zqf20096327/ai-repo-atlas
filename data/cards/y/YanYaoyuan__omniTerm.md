@@ -46,12 +46,12 @@ Electron 桌面应用，把本地 shell 标签、分屏、SSH、图形化 SFTP �
 ```mermaid
 xychart-beta
     title "YanYaoyuan/omniTerm 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-27"]
+    x-axis ["2026-10-31", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-31 3 → 2026-11-27 3（+0）
+2026-10-31 3 → 2026-11-28 3（+0）
 
 
 ---

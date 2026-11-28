@@ -1,6 +1,6 @@
 # chroma-core/package-search
 
-⭐ 56 · 推送 2026-05-14 · [GitHub](https://github.com/chroma-core/package-search) · [官网](https://trychroma.com/package-search) · 组织维护
+⭐ 56 · 推送 2026-11-27 · [GitHub](https://github.com/chroma-core/package-search) · [官网](https://trychroma.com/package-search) · 组织维护
 
 **Chroma 索引的公开代码包策展清单，供 MCP 代码检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chroma-core/package-search 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 53 --> 57
     line [54, 56, 54, 56, 56]
 ```
 
-2026-10-25 54 → 2026-11-27 56（+2）
+2026-10-26 54 → 2026-11-28 56（+2）
 
 
 ---

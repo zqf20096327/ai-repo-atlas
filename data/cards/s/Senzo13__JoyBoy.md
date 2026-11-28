@@ -1,6 +1,6 @@
 # Senzo13/JoyBoy
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Senzo13/JoyBoy) · [官网](https://github.com/Senzo13/JoyBoy) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Senzo13/JoyBoy) · [官网](https://github.com/Senzo13/JoyBoy) · 个人维护
 
 **本地优先 AI 工作站：聊天/生图/修图/视频一站操作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Senzo13/JoyBoy 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-28"]
     y-axis "stars" 18 --> 21
     line [20, 19, 20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

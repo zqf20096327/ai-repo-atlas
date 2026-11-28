@@ -1,6 +1,6 @@
 # langchain-samples/Persistent-Agent
 
-⭐ 141 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langchain-samples/Persistent-Agent) · 组织维护
+⭐ 170 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langchain-samples/Persistent-Agent) · 组织维护
 
 **给团队部署常驻 Slack 的目标导向 agent 机器人**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "langchain-samples/Persistent-Agent 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 22 --> 151
-    line [32, 141]
+    title "langchain-samples/Persistent-Agent 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 19 --> 183
+    line [32, 141, 170]
 ```
 
-2026-11-26 32 → 2026-11-27 141（+109）
+2026-11-26 32 → 2026-11-28 170（+138）
 
 
 ---

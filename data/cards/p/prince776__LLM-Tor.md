@@ -1,6 +1,6 @@
 # prince776/LLM-Tor
 
-⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-03-21 · [GitHub](https://github.com/prince776/LLM-Tor) · [官网](https://llmtor.com) · 个人维护
+⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/prince776/LLM-Tor) · [官网](https://llmtor.com) · 个人维护
 
 **匿名使用公网 LLM API 的隐私代理层：盲签名+Tor 切断身份关联**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prince776/LLM-Tor 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-25 18 → 2026-11-27 18（+0）
+2026-10-26 18 → 2026-11-28 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # silentchainai/SILENTCHAIN
 
-⭐ 469 · Java · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/silentchainai/SILENTCHAIN) · [官网](https://silentchain.ai) · 组织维护
+⭐ 468 · Java · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/silentchainai/SILENTCHAIN) · [官网](https://silentchain.ai) · 组织维护
 
 **Burp Suite 扩展：用 AI 被动分析流量检测 Web 漏洞**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "silentchainai/SILENTCHAIN 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-28"]
     y-axis "stars" 465 --> 470
-    line [466, 467, 468, 469, 468, 469, 469]
+    line [466, 467, 468, 469, 468, 469, 468]
 ```
 
-2026-10-25 466 → 2026-11-27 469（+3）
+2026-10-26 466 → 2026-11-28 468（+2）
 
 
 ---

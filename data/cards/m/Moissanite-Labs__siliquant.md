@@ -1,6 +1,6 @@
 # Moissanite-Labs/siliquant
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Moissanite-Labs/siliquant) · [官网](https://moissanite-labs.github.io/siliquant/) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Moissanite-Labs/siliquant) · [官网](https://moissanite-labs.github.io/siliquant/) · 个人维护
 
 **模型权重量化的研究仓库：证明、计数与实验记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Moissanite-Labs/siliquant 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

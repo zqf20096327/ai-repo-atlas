@@ -1,6 +1,6 @@
 # Wintersta7e/AiGameCompanion
 
-⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Wintersta7e/AiGameCompanion) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Wintersta7e/AiGameCompanion) · 个人维护
 
 **游戏内悬浮 AI 问答窗：边玩边向 Gemini/Claude/OpenAI 提问**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Wintersta7e/AiGameCompanion 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-27"]
+    x-axis ["2026-10-29", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-29 10 → 2026-11-27 10（+0）
+2026-10-29 10 → 2026-11-28 10（+0）
 
 
 ---

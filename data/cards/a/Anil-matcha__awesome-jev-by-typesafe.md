@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-jev-by-typesafe
 
-⭐ 8 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Anil-matcha/awesome-jev-by-typesafe) · [官网](https://typesafe.ai/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向开发者的 Jev 决策模型用例、模式与示例代码集合**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

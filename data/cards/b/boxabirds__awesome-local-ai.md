@@ -1,6 +1,6 @@
 # boxabirds/awesome-local-ai
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/boxabirds/awesome-local-ai) · [官网](https://ailocal.substack.com) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/boxabirds/awesome-local-ai) · [官网](https://ailocal.substack.com) · 个人维护
 
 **本地 AI 一键安装器集合：按硬件匹配模型+推理栈组合**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "boxabirds/awesome-local-ai 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-27"]
+    title "boxabirds/awesome-local-ai 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-28"]
     y-axis "stars" 58 --> 65
-    line [59, 60, 61, 59, 62, 63, 64, 64]
+    line [60, 61, 59, 62, 63, 64, 64]
 ```
 
-2026-10-25 59 → 2026-11-27 64（+5）
+2026-10-26 60 → 2026-11-28 64（+4）
 
 
 ---

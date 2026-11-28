@@ -1,6 +1,6 @@
 # microsoft/hve-squad
 
-⭐ 24 · PowerShell · MIT · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/hve-squad) · [官网](https://microsoft.github.io/hve-squad/) · 组织维护
+⭐ 25 · PowerShell · MIT · 推送 2026-11-27 · [GitHub](https://github.com/microsoft/hve-squad) · [官网](https://microsoft.github.io/hve-squad/) · 组织维护
 
 **面向 Copilot 环境的多 Agent 协作插件：分发请求并行执行**
 
@@ -45,13 +45,13 @@ GitHub Copilot 插件，将固定版本的 HVE Core Agent 阵容连同 skills、
 
 ```mermaid
 xychart-beta
-    title "microsoft/hve-squad 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 22 --> 25
-    line [23, 24]
+    title "microsoft/hve-squad 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-11-26 23 → 2026-11-27 24（+1）
+2026-11-26 23 → 2026-11-28 25（+2）
 
 
 ---

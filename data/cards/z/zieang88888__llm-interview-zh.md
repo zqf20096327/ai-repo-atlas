@@ -1,6 +1,6 @@
 # zieang88888/llm-interview-zh
 
-⭐ 12 · MIT · 推送 2026-10-05 · [GitHub](https://github.com/zieang88888/llm-interview-zh) · 个人维护 · 中文 README
+⭐ 13 · MIT · 推送 2026-10-05 · [GitHub](https://github.com/zieang88888/llm-interview-zh) · 个人维护 · 中文 README
 
 **面向算法岗求职者的中文大模型面试题库（100+ 问）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "zieang88888/llm-interview-zh 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 5 --> 13
-    line [6, 9, 10, 11, 12, 12]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 5 --> 14
+    line [6, 9, 10, 11, 12, 13]
 ```
 
-2026-10-25 6 → 2026-11-27 12（+6）
+2026-10-26 6 → 2026-11-28 13（+7）
 
 
 ---

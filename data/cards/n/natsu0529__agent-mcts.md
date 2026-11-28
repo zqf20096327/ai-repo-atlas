@@ -1,6 +1,6 @@
 # natsu0529/agent-mcts
 
-⭐ 16 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/natsu0529/agent-mcts) · [官网](https://pypi.org/project/agent-mcts/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/natsu0529/agent-mcts) · [官网](https://pypi.org/project/agent-mcts/) · 个人维护
 
 **给编码 agent 加 MCTS 树搜索的测试时搜索框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "natsu0529/agent-mcts 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 13 --> 17
     line [14, 15, 16, 16]
 ```
 
-2026-11-23 14 → 2026-11-27 16（+2）
+2026-11-23 14 → 2026-11-28 16（+2）
 
 
 ---

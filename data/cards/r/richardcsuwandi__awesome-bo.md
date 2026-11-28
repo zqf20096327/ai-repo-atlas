@@ -1,6 +1,6 @@
 # richardcsuwandi/awesome-bo
 
-⭐ 32 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/richardcsuwandi/awesome-bo) · [官网](https://richardcsuwandi.github.io/awesome-bo/) · 个人维护
+⭐ 33 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/richardcsuwandi/awesome-bo) · [官网](https://richardcsuwandi.github.io/awesome-bo/) · 个人维护
 
 **贝叶斯优化资源策展清单：教程、书籍、库与论文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "richardcsuwandi/awesome-bo 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 33]
 ```
 
-2026-10-25 30 → 2026-11-27 32（+2）
+2026-10-26 30 → 2026-11-28 33（+3）
 
 
 ---

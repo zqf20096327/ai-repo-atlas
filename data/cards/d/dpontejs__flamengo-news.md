@@ -1,6 +1,6 @@
 # dpontejs/flamengo-news
 
-⭐ 5 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dpontejs/flamengo-news) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/dpontejs/flamengo-news) · 个人维护
 
 **为球迷自动汇总新闻并由 AI 分析比赛的邮件通讯流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dpontejs/flamengo-news 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-25 5 → 2026-11-27 5（+0）
+2026-10-26 5 → 2026-11-28 5（+0）
 
 
 ---

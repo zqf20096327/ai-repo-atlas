@@ -1,6 +1,6 @@
 # zoharbabin/due-diligence-agents
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/zoharbabin/due-diligence-agents) · [官网](https://zoharbabin.com/due-diligence-agents/) · 个人维护
+⭐ 139 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/zoharbabin/due-diligence-agents) · [官网](https://zoharbabin.com/due-diligence-agents/) · 个人维护
 
 **面向 M&A 尽调团队的 13 个 AI agent 数据室跨域审查工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zoharbabin/due-diligence-agents 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-28"]
     y-axis "stars" 128 --> 140
     line [129, 131, 132, 133, 129, 134, 136, 137, 138, 139, 139]
 ```
 
-2026-10-25 129 → 2026-11-27 139（+10）
+2026-10-26 129 → 2026-11-28 139（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # epam/ai-dial-quickapps-backend
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/epam/ai-dial-quickapps-backend) · [官网](https://dialx.ai) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/epam/ai-dial-quickapps-backend) · [官网](https://dialx.ai) · 组织维护
 
 **面向开发者的 DIAL 应用组合器：用可复用工具编排 LLM 应用**
 
@@ -45,12 +45,12 @@ Quick Apps (2.0) 是构建 DIAL 应用的组合器：通过 JSON-schema 校验�
 ```mermaid
 xychart-beta
     title "epam/ai-dial-quickapps-backend 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

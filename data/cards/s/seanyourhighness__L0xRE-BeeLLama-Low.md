@@ -1,6 +1,6 @@
 # seanyourhighness/L0xRE-BeeLLama-Low
 
-⭐ 21 · Cuda · 推送 2026-11-26 · [GitHub](https://github.com/seanyourhighness/L0xRE-BeeLLama-Low) · [官网](https://github.com/seanyourhighness/L0xRE-BeeLLama-Low/releases/latest) · 个人维护
+⭐ 22 · Cuda · 推送 2026-11-26 · [GitHub](https://github.com/seanyourhighness/L0xRE-BeeLLama-Low) · [官网](https://github.com/seanyourhighness/L0xRE-BeeLLama-Low/releases/latest) · 个人维护
 
 **面向 RTX 30/40/50 显卡用户的本地 LLM 运行时与模型包**
 
@@ -44,13 +44,13 @@ L0xRE 是一个在 Linux 与 Windows 上运行的本地推理运行时，捆绑 
 
 ```mermaid
 xychart-beta
-    title "seanyourhighness/L0xRE-BeeLLama-Low 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 22
-    line [3, 4, 18, 19, 21]
+    title "seanyourhighness/L0xRE-BeeLLama-Low 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 23
+    line [3, 4, 18, 19, 21, 22]
 ```
 
-2026-10-18 3 → 2026-11-27 21（+18）
+2026-10-18 3 → 2026-11-28 22（+19）
 
 
 ---

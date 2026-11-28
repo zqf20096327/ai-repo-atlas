@@ -1,6 +1,6 @@
 # icewindwillow/DSH-bot
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/icewindwillow/DSH-bot) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/icewindwillow/DSH-bot) · 个人维护 · 中文 README
 
 **QQ 群聊 AI 机器人：带人格、分类记忆与主动提醒**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "icewindwillow/DSH-bot 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-20 3 → 2026-11-27 4（+1）
+2026-11-20 3 → 2026-11-28 5（+2）
 
 
 ---

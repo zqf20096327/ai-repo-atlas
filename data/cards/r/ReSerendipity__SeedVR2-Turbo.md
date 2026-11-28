@@ -1,6 +1,6 @@
 # ReSerendipity/SeedVR2-Turbo
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ReSerendipity/SeedVR2-Turbo) · [官网](https://reserendipity.github.io/SeedVR2-Turbo/) · 个人维护 · 中文 README
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ReSerendipity/SeedVR2-Turbo) · [官网](https://reserendipity.github.io/SeedVR2-Turbo/) · 个人维护 · 中文 README
 
 **本地视频与图像超分 Web 应用，上传即修复、数据不出机**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ReSerendipity/SeedVR2-Turbo 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-11-26 20 → 2026-11-27 20（+0）
+2026-11-26 20 → 2026-11-28 21（+1）
 
 
 ---

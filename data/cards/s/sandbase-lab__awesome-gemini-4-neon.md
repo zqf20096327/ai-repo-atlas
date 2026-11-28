@@ -1,6 +1,6 @@
 # sandbase-lab/awesome-gemini-4-neon
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/sandbase-lab/awesome-gemini-4-neon) · [官网](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon) · 组织维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/sandbase-lab/awesome-gemini-4-neon) · [官网](https://www.sandbase.ai/lab/ai-videos/gemini-4-neon) · 组织维护
 
 **Gemini 4 Neon 视频与提示词策展清单，含教程与模型对比**
 
@@ -41,6 +41,18 @@
 > L9: A curated list of **Gemini 4 Neon examples**: videos, prompts and demos made with Gemini 4 Neon, a model from Google
 > L11: **181 videos** from **131 creators** · **33** with the creator's prompt · synced daily from SandBase Lab
 > L20: |Make a video|Tutorial: prompt → HTML → MP4, with the API and a recording script|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sandbase-lab/awesome-gemini-4-neon 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-27 3 → 2026-11-28 5（+2）
 
 
 ---

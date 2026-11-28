@@ -1,6 +1,6 @@
 # myfear/the-main-thread
 
-⭐ 16 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/myfear/the-main-thread) · [官网](https://www.the-main-thread.com/) · 个人维护
+⭐ 16 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/myfear/the-main-thread) · [官网](https://www.the-main-thread.com/) · 个人维护
 
 **企业 Java 与 AI 集成文章的配套示例代码集合**
 
@@ -45,12 +45,12 @@ The Main Thread（Substack 出版物）的源码仓库：每个文件夹对应�
 ```mermaid
 xychart-beta
     title "myfear/the-main-thread 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 16（+0）
 
 
 ---

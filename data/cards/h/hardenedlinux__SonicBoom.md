@@ -1,6 +1,6 @@
 # hardenedlinux/SonicBoom
 
-⭐ 35 · C++ · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/hardenedlinux/SonicBoom) · [官网](https://hardenedvault.com/sonicboom/) · 组织维护 · 中文 README
+⭐ 35 · C++ · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/hardenedlinux/SonicBoom) · [官网](https://hardenedvault.com/sonicboom/) · 组织维护 · 中文 README
 
 **C++/CUDA 原生张量运行时，面向消费级 GPU 的本地 LLM 推理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hardenedlinux/SonicBoom 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-23", "2026-11-28"]
     y-axis "stars" 30 --> 36
     line [31, 32, 31, 34, 33, 34, 35, 35]
 ```
 
-2026-10-25 31 → 2026-11-27 35（+4）
+2026-10-26 31 → 2026-11-28 35（+4）
 
 
 ---

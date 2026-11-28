@@ -1,6 +1,6 @@
 # surrealdb/docs.surrealdb.com
 
-⭐ 123 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/surrealdb/docs.surrealdb.com) · [官网](https://surrealdb.com/docs/surrealdb) · 组织维护
+⭐ 123 · HTML · 推送 2026-11-27 · [GitHub](https://github.com/surrealdb/docs.surrealdb.com) · [官网](https://surrealdb.com/docs/surrealdb) · 组织维护
 
 **SurrealDB 官方文档站源码仓库，供贡献与本地开发**
 
@@ -45,12 +45,12 @@ SurrealDB 数据库的官方文档网站源码，基于 Vike、React 与 Mantine
 ```mermaid
 xychart-beta
     title "surrealdb/docs.surrealdb.com 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 120 --> 124
     line [121, 122, 123, 123]
 ```
 
-2026-10-25 121 → 2026-11-27 123（+2）
+2026-10-26 121 → 2026-11-28 123（+2）
 
 
 ---

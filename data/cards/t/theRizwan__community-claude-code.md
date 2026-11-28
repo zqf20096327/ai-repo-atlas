@@ -1,6 +1,6 @@
 # theRizwan/community-claude-code
 
-⭐ 48 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/theRizwan/community-claude-code) · 个人维护
+⭐ 48 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/theRizwan/community-claude-code) · 个人维护
 
 **连接编码 agent 与任意 OpenAI 兼容模型的本地代理网关**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "theRizwan/community-claude-code 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-27"]
+    title "theRizwan/community-claude-code 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-27", "2026-11-28"]
     y-axis "stars" 42 --> 49
-    line [43, 44, 48, 47, 48]
+    line [43, 44, 48, 47, 48, 48]
 ```
 
-2026-11-13 43 → 2026-11-27 48（+5）
+2026-11-13 43 → 2026-11-28 48（+5）
 
 
 ---

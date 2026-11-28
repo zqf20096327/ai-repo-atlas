@@ -1,6 +1,6 @@
 # A79-ai/ampup-memory
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/A79-ai/ampup-memory) · [官网](https://www.ampup.ai/ampup-memory) · 组织维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/A79-ai/ampup-memory) · [官网](https://www.ampup.ai/ampup-memory) · 组织维护
 
 **给 AI agent 用的记忆库：从成功运行中学习建议并在下次运行前提供**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "A79-ai/ampup-memory 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-26 4 → 2026-11-27 4（+0）
+2026-11-26 4 → 2026-11-28 4（+0）
 
 
 ---

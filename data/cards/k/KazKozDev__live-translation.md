@@ -1,6 +1,6 @@
 # KazKozDev/live-translation
 
-⭐ 48 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KazKozDev/live-translation) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KazKozDev/live-translation) · 个人维护
 
 **macOS 本地实时系统音频字幕+翻译应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "KazKozDev/live-translation 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 38 --> 49
-    line [39, 41, 39, 43, 44, 45, 46, 47, 48]
+    title "KazKozDev/live-translation 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 38 --> 50
+    line [39, 41, 39, 43, 44, 45, 46, 47, 48, 49]
 ```
 
-2026-10-25 39 → 2026-11-27 48（+9）
+2026-10-26 39 → 2026-11-28 49（+10）
 
 
 ---

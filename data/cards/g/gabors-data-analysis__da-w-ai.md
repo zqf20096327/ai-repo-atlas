@@ -1,6 +1,6 @@
 # gabors-data-analysis/da-w-ai
 
-⭐ 22 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gabors-data-analysis/da-w-ai) · [官网](https://gabors-data-analysis.com/ai-course/) · 组织维护
+⭐ 22 · HTML · MIT · 推送 2026-11-27 · [GitHub](https://github.com/gabors-data-analysis/da-w-ai) · [官网](https://gabors-data-analysis.com/ai-course/) · 组织维护
 
 **面向数据分析学生的 AI 应用课程教材（含讲义与作业）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gabors-data-analysis/da-w-ai 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-25 21 → 2026-11-27 22（+1）
+2026-10-26 21 → 2026-11-28 22（+1）
 
 
 ---

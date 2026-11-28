@@ -1,6 +1,6 @@
 # Jackon-Li/CyberSecurity-Skills
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/Jackon-Li/CyberSecurity-Skills) · 个人维护 · 中文 README
+⭐ 5 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/Jackon-Li/CyberSecurity-Skills) · 个人维护 · 中文 README
 
 **面向 AI 助手的 820 技能网络安全技能库（转载整理）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jackon-Li/CyberSecurity-Skills 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-10", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-10 3 → 2026-11-27 4（+1）
+2026-11-10 3 → 2026-11-28 5（+2）
 
 
 ---

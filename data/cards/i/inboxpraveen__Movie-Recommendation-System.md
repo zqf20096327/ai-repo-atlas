@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "inboxpraveen/Movie-Recommendation-System 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-22", "2026-11-27"]
+    title "inboxpraveen/Movie-Recommendation-System 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-22", "2026-11-27", "2026-11-28"]
     y-axis "stars" 245 --> 250
-    line [246, 247, 248, 249]
+    line [246, 247, 248, 249, 249]
 ```
 
-2026-10-29 246 → 2026-11-27 249（+3）
+2026-10-29 246 → 2026-11-28 249（+3）
 
 
 ---

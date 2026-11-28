@@ -41,6 +41,18 @@ Paintscript 提供一个模拟画布，以 passage 为单位的 JavaScript 脚�
 > L2:  Paint by code: JavaScript lays simulated brush strokes, from thick oil paint to ink and watercolor-like washes, sav
 > L140: npm install paintscript
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cyanheads/paintscript 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `f3046500cef2` · [字段定义](../../DATASET.md)*

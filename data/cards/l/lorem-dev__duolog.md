@@ -1,6 +1,6 @@
 # lorem-dev/duolog
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lorem-dev/duolog) · 组织维护
+⭐ 4 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/lorem-dev/duolog) · 组织维护
 
 **让 Claude Code 与 Codex 在同一项目中结对协作的 CLI 工具**
 
@@ -46,12 +46,12 @@ duolog 将 Claude Code 和 Codex 两个 agent 会话接入同一项目：通过�
 ```mermaid
 xychart-beta
     title "lorem-dev/duolog 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-12", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-02 3 → 2026-11-27 4（+1）
+2026-11-02 3 → 2026-11-28 4（+1）
 
 
 ---

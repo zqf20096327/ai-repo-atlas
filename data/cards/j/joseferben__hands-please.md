@@ -45,12 +45,12 @@ Node.js CLI 工具：监视代码库中以 @ai 开头的注释（如 // @ai fix 
 ```mermaid
 xychart-beta
     title "joseferben/hands-please 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-25 32 → 2026-11-27 32（+0）
+2026-10-26 32 → 2026-11-28 32（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Express 后端 + Vite/React 前端的自托管 AI 网关，对外暴露 OpenAI �
 ```mermaid
 xychart-beta
     title "ahwanulm/AMRouter 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

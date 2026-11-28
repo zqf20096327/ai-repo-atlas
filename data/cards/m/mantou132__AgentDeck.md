@@ -1,6 +1,6 @@
 # mantou132/AgentDeck
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mantou132/AgentDeck) · [官网](https://agentdeck.xianqiao.wang) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mantou132/AgentDeck) · [官网](https://agentdeck.xianqiao.wang) · 个人维护 · 中文 README
 
 **在手机上远程控制与审批电脑端编码 Agent 的应用**
 
@@ -39,6 +39,18 @@
 
 > L3: **Your agents, in your pocket.** Run Claude Code, Codex, Cursor or any ACP agent on your own computer, and start, st
 > L31: - **One app for every agent.** Claude Code, Codex, Cursor, GitHub Copilot, Google Antigravity, OpenCode, Qwen Code,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mantou132/AgentDeck 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
 
 
 ---

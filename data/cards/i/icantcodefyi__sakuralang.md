@@ -45,13 +45,13 @@ Sakura Lang 是一种 agent-first 编程语言：函数签名声明效果（effe
 
 ```mermaid
 xychart-beta
-    title "icantcodefyi/sakuralang 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "icantcodefyi/sakuralang 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4, 4]
+    line [4, 3, 4, 4]
 ```
 
-2026-10-25 3 → 2026-11-27 4（+1）
+2026-10-26 4 → 2026-11-28 4（+0）
 
 
 ---

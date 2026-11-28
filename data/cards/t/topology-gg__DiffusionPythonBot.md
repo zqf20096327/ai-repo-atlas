@@ -1,6 +1,6 @@
 # topology-gg/DiffusionPythonBot
 
-⭐ 25 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/topology-gg/DiffusionPythonBot) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/topology-gg/DiffusionPythonBot) · 个人维护
 
 **本地 Stable Diffusion 生图的 Discord 机器人**
 
@@ -45,12 +45,12 @@ Python 实现的 Discord 机器人，通过 PyTorch 在本地硬件上运行 Sta
 ```mermaid
 xychart-beta
     title "topology-gg/DiffusionPythonBot 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 24 --> 34
-    line [33, 32, 33, 31, 30, 29, 25, 25]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 23 --> 34
+    line [33, 32, 33, 31, 30, 29, 25, 24]
 ```
 
-2026-10-25 33 → 2026-11-27 25（-8）
+2026-10-26 33 → 2026-11-28 24（-9）
 
 
 ---

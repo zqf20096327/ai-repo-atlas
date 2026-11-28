@@ -1,6 +1,6 @@
 # discovery-unicamp/Minerva
 
-⭐ 13 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/discovery-unicamp/Minerva) · [官网](https://discovery-unicamp.github.io/Minerva/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/discovery-unicamp/Minerva) · [官网](https://discovery-unicamp.github.io/Minerva/) · 组织维护
 
 **面向科研人员的 PyTorch-Lightning 模型训练框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "discovery-unicamp/Minerva 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

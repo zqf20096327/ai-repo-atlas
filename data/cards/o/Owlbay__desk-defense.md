@@ -1,6 +1,6 @@
 # Owlbay/desk-defense
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Owlbay/desk-defense) · [官网](https://jjjj.games) · 个人维护 · 中文 README
+⭐ 7 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Owlbay/desk-defense) · [官网](https://jjjj.games) · 个人维护 · 中文 README
 
 **用文具摆迷宫的塔防游戏，支持大模型代玩或对战**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Owlbay/desk-defense 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 7
-    line [3, 6, 6]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 6, 7]
 ```
 
-2026-11-23 3 → 2026-11-27 6（+3）
+2026-11-23 3 → 2026-11-28 7（+4）
 
 
 ---

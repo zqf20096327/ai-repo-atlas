@@ -1,6 +1,6 @@
 # usebag/bag
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/usebag/bag) · [官网](https://bag.dev) · 个人维护
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/usebag/bag) · [官网](https://bag.dev) · 个人维护
 
 **给 AI agent 提供稳定地址与加密邮箱的通信协议**
 
@@ -46,12 +46,12 @@ bag 是一个小型协议及其参考实现，为 AI agent 分配基于 Ed25519 
 ```mermaid
 xychart-beta
     title "usebag/bag 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-28"]
     y-axis "stars" 5 --> 8
     line [6, 7, 7]
 ```
 
-2026-11-08 6 → 2026-11-27 7（+1）
+2026-11-08 6 → 2026-11-28 7（+1）
 
 
 ---

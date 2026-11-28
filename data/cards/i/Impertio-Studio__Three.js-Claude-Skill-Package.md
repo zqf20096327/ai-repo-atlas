@@ -1,6 +1,6 @@
 # Impertio-Studio/Three.js-Claude-Skill-Package
 
-⭐ 34 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Impertio-Studio/Three.js-Claude-Skill-Package) · [官网](https://threejs.org/) · 组织维护
+⭐ 37 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/Impertio-Studio/Three.js-Claude-Skill-Package) · [官网](https://threejs.org/) · 组织维护
 
 **给 Claude Code 用的 Three.js 开发技能包（24 个 SKILL.md）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Impertio-Studio/Three.js-Claude-Skill-Package 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 22 --> 35
-    line [23, 24, 23, 29, 30, 31, 33, 34, 34]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 22 --> 38
+    line [23, 24, 23, 29, 30, 31, 33, 34, 37]
 ```
 
-2026-10-25 23 → 2026-11-27 34（+11）
+2026-10-26 23 → 2026-11-28 37（+14）
 
 
 ---

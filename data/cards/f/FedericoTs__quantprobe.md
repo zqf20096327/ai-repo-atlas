@@ -1,6 +1,6 @@
 # FedericoTs/quantprobe
 
-⭐ 93 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/FedericoTs/quantprobe) · [官网](https://federicots.github.io/quantprobe/) · 个人维护
+⭐ 93 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/FedericoTs/quantprobe) · [官网](https://federicots.github.io/quantprobe/) · 个人维护
 
 **本地大模型量化与部署规划工具：下载前预测 tok/s 与显存内存匹配**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FedericoTs/quantprobe 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "FedericoTs/quantprobe 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 89 --> 94
-    line [90, 91, 92, 90, 93, 93]
+    line [91, 92, 90, 93, 93]
 ```
 
-2026-10-25 90 → 2026-11-27 93（+3）
+2026-10-26 91 → 2026-11-28 93（+2）
 
 
 ---

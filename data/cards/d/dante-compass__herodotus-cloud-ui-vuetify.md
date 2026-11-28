@@ -1,6 +1,6 @@
 # dante-compass/herodotus-cloud-ui-vuetify
 
-⭐ 12 · Vue · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dante-compass/herodotus-cloud-ui-vuetify) · [官网](https://www.herodotus.cn) · 组织维护 · 中文 README
+⭐ 12 · Vue · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dante-compass/herodotus-cloud-ui-vuetify) · [官网](https://www.herodotus.cn) · 组织维护 · 中文 README
 
 **Dante Cloud 微服务基座的新版前端管理界面（Vuetify 版）**
 
@@ -45,12 +45,12 @@ Herodotus Cloud UI Vuetify 是 Dante Cloud 4.4.X 微服务/单体基座的前端
 ```mermaid
 xychart-beta
     title "dante-compass/herodotus-cloud-ui-vuetify 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

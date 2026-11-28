@@ -1,6 +1,6 @@
 # cyberlife-coder/VelesDB
 
-⭐ 105 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cyberlife-coder/VelesDB) · [官网](https://velesdb.com) · 个人维护
+⭐ 105 · Rust · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/cyberlife-coder/VelesDB) · [官网](https://velesdb.com) · 个人维护
 
 **面向 AI agent 的本地一体化记忆引擎：向量+图+列存**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyberlife-coder/VelesDB 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-28"]
     y-axis "stars" 99 --> 107
     line [100, 101, 100, 102, 104, 105, 106, 105, 105]
 ```
 
-2026-10-25 100 → 2026-11-27 105（+5）
+2026-10-26 100 → 2026-11-28 105（+5）
 
 
 ---

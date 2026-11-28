@@ -45,12 +45,12 @@ Laravel 的 TOON（Token-Oriented Object Notation）编码包，实现 TOON v4.1
 ```mermaid
 xychart-beta
     title "mischasigtermans/laravel-toon 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-26", "2026-11-28"]
     y-axis "stars" 146 --> 150
     line [147, 148, 149, 149]
 ```
 
-2026-10-25 147 → 2026-11-27 149（+2）
+2026-10-26 147 → 2026-11-28 149（+2）
 
 
 ---

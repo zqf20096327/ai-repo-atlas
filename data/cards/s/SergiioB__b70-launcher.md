@@ -1,6 +1,6 @@
 # SergiioB/b70-launcher
 
-⭐ 11 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SergiioB/b70-launcher) · [官网](https://xecores.com/match) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SergiioB/b70-launcher) · [官网](https://xecores.com/match) · 个人维护
 
 **面向 Intel Arc Pro B70 的本地 LLM 推理启动器**
 
@@ -48,12 +48,12 @@ Linux 桌面启动器，用于在 Intel Arc Pro B70 显卡上本地运行 LLM：
 ```mermaid
 xychart-beta
     title "SergiioB/b70-launcher 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 6 --> 12
-    line [7, 8, 9, 7, 10, 11, 11]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 6 --> 13
+    line [7, 8, 9, 7, 10, 11, 12]
 ```
 
-2026-10-25 7 → 2026-11-27 11（+4）
+2026-10-26 7 → 2026-11-28 12（+5）
 
 
 ---

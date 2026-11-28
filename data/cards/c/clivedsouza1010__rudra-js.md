@@ -1,6 +1,6 @@
 # clivedsouza1010/rudra-js
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/clivedsouza1010/rudra-js) · [官网](https://rudrajs.com) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/clivedsouza1010/rudra-js) · [官网](https://rudrajs.com) · 个人维护
 
 **让 LLM 设计推荐文案、以目录校验防编造的电商 React 推荐库**
 
@@ -46,12 +46,12 @@ TypeScript 库（MIT，多包组成）：LLM 仅输出受限的 spec（无价格
 ```mermaid
 xychart-beta
     title "clivedsouza1010/rudra-js 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-28"]
     y-axis "stars" 11 --> 15
     line [12, 14, 14]
 ```
 
-2026-11-18 12 → 2026-11-27 14（+2）
+2026-11-18 12 → 2026-11-28 14（+2）
 
 
 ---

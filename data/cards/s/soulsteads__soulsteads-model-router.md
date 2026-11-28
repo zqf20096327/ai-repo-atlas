@@ -1,6 +1,6 @@
 # soulsteads/soulsteads-model-router
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/soulsteads/soulsteads-model-router) · [官网](https://soulsteads.github.io/soulsteads) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/soulsteads/soulsteads-model-router) · [官网](https://soulsteads.github.io/soulsteads) · 个人维护
 
 **为本地推理服务器提供容量感知路由的 OpenAI 兼容网关**
 
@@ -46,12 +46,12 @@ Rust 编写的本地推理路由器，构建为 slotline 二进制：在多个�
 ```mermaid
 xychart-beta
     title "soulsteads/soulsteads-model-router 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-10-25 4 → 2026-11-27 5（+1）
+2026-10-26 4 → 2026-11-28 5（+1）
 
 
 ---

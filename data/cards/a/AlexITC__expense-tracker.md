@@ -1,6 +1,6 @@
 # AlexITC/expense-tracker
 
-⭐ 5 · Scala · MIT · 推送 2026-11-18 · [GitHub](https://github.com/AlexITC/expense-tracker) · [官网](https://alexitc.com/blog/2026-10-16-opensourcing-my-expense-tracker/) · 个人维护
+⭐ 5 · Scala · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AlexITC/expense-tracker) · [官网](https://alexitc.com/blog/2026-10-16-opensourcing-my-expense-tracker/) · 个人维护
 
 **自托管个人记账应用：收据与银行账单自动转成账本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AlexITC/expense-tracker 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-14", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-14", "2026-11-18", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-30 3 → 2026-11-27 5（+2）
+2026-10-30 3 → 2026-11-28 5（+2）
 
 
 ---

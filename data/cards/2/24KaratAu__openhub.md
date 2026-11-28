@@ -1,6 +1,6 @@
 # 24KaratAu/openhub
 
-⭐ 21 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/24KaratAu/openhub) · [官网](https://github.com/24KaratAu/openhub) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/24KaratAu/openhub) · [官网](https://github.com/24KaratAu/openhub) · 个人维护
 
 **终端 TUI 的 AI 编码工具发现与安装中心**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "24KaratAu/openhub 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-25 21 → 2026-11-27 21（+0）
+2026-10-26 21 → 2026-11-28 22（+1）
 
 
 ---

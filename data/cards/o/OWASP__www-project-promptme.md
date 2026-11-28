@@ -1,6 +1,6 @@
 # OWASP/www-project-promptme
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/OWASP/www-project-promptme) · [官网](https://owasp.org/www-project-promptme/) · 组织维护
+⭐ 46 · Python · Apache-2.0 · 推送 2026-09-10 · [GitHub](https://github.com/OWASP/www-project-promptme) · [官网](https://owasp.org/www-project-promptme/) · 组织维护
 
 **演示 OWASP LLM Top 10 安全漏洞的故意脆弱教学应用**
 
@@ -45,12 +45,12 @@ OWASP 维护的教育项目：基于 Python 与 Ollama 框架和开源模型（m
 ```mermaid
 xychart-beta
     title "OWASP/www-project-promptme 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 43, 45, 45]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 43, 45, 46]
 ```
 
-2026-10-25 43 → 2026-11-27 45（+2）
+2026-10-26 43 → 2026-11-28 46（+3）
 
 
 ---

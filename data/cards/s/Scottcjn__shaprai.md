@@ -1,6 +1,6 @@
 # Scottcjn/shaprai
 
-⭐ 75 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/shaprai) · [官网](https://rustchain.org) · 组织维护
+⭐ 74 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/shaprai) · [官网](https://rustchain.org) · 组织维护
 
 **Agent 生命周期管理平台：将原始模型训练并约束为可治理 agent**
 
@@ -45,13 +45,13 @@ Elyan Labs 开源的 agent 生命周期管理平台：从模板创建 agent，�
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/shaprai 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 74 --> 78
-    line [77, 76, 75]
+    title "Scottcjn/shaprai 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 73 --> 78
+    line [77, 76, 75, 74]
 ```
 
-2026-10-29 77 → 2026-11-27 75（-2）
+2026-10-29 77 → 2026-11-28 74（-3）
 
 
 ---

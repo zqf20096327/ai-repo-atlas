@@ -40,6 +40,18 @@
 > L10: **ApplyCrew is a crew of AI agents that does the repetitive part for you, in your own browser, with your own accoun
 > L16: 1. Install the Claude desktop app, and sign in. A paid plan is needed for real use.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MohammedNeana/ApplyCrew 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ecb240bf9470` · [字段定义](../../DATASET.md)*

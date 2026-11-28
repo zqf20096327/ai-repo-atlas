@@ -1,6 +1,6 @@
 # LIUFelix2004/dsh-workbuddy
 
-⭐ 176 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LIUFelix2004/dsh-workbuddy) · 个人维护 · 中文 README
+⭐ 214 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LIUFelix2004/dsh-workbuddy) · 个人维护 · 中文 README
 
 **把 WorkBuddy 账号导入 DeepSeek Harness 作为模型 provider 的插件**
 
@@ -44,13 +44,13 @@ DeepSeek Harness 插件：将 WorkBuddy 账号接入为单一 provider，多账�
 
 ```mermaid
 xychart-beta
-    title "LIUFelix2004/dsh-workbuddy 星数(近 6 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 192
-    line [12, 66, 135, 152, 167, 176]
+    title "LIUFelix2004/dsh-workbuddy 星数(近 7 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 234
+    line [12, 66, 135, 152, 167, 176, 214]
 ```
 
-2026-11-21 12 → 2026-11-27 176（+164）
+2026-11-21 12 → 2026-11-28 214（+202）
 
 
 ---

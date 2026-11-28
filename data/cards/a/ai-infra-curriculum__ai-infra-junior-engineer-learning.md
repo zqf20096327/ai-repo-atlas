@@ -1,6 +1,6 @@
 # ai-infra-curriculum/ai-infra-junior-engineer-learning
 
-⭐ 265 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) · 组织维护
+⭐ 267 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) · 组织维护
 
 **面向 0-2 年经验者的 AI/ML 基础设施工程师入门课程**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-infra-curriculum/ai-infra-junior-engineer-learning 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 252 --> 267
-    line [253, 254, 256, 257, 258, 253, 261, 263, 265, 266, 265, 264, 265, 265]
+    title "ai-infra-curriculum/ai-infra-junior-engineer-learning 星数(近 13 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 252 --> 268
+    line [254, 256, 257, 258, 253, 261, 263, 265, 266, 265, 264, 265, 267]
 ```
 
-2026-10-25 253 → 2026-11-27 265（+12）
+2026-10-26 254 → 2026-11-28 267（+13）
 
 
 ---

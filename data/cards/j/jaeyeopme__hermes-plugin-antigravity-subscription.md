@@ -45,12 +45,12 @@ Hermes 的模型提供方插件：通过 Google Antigravity 账号的 OAuth 登�
 ```mermaid
 xychart-beta
     title "jaeyeopme/hermes-plugin-antigravity-subscription 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-25 12 → 2026-11-27 12（+0）
+2026-11-25 12 → 2026-11-28 12（+0）
 
 
 ---

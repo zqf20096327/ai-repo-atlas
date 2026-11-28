@@ -1,6 +1,6 @@
 # Jellman86/YetAnother-WhosAtMyFeeder
 
-⭐ 64 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Jellman86/YetAnother-WhosAtMyFeeder) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Jellman86/YetAnother-WhosAtMyFeeder) · 个人维护
 
 **给家庭观鸟者：用本地模型识别 Frigate 摄像头中的鸟类**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jellman86/YetAnother-WhosAtMyFeeder 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-21", "2026-11-28"]
     y-axis "stars" 59 --> 65
     line [60, 61, 62, 63, 64, 64]
 ```
 
-2026-10-25 60 → 2026-11-27 64（+4）
+2026-10-26 60 → 2026-11-28 64（+4）
 
 
 ---

@@ -46,12 +46,12 @@ K-Forcing 论文的官方代码库：将自回归语言模型蒸馏为 push-forw
 ```mermaid
 xychart-beta
     title "alibaba-damo-academy/K-Forcing 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 19（+0）
 
 
 ---

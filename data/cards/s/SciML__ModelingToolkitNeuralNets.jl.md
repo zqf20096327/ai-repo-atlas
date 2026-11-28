@@ -44,12 +44,12 @@ ModelingToolkitNeuralNets.jl 是 SciML 组织的 Julia 包，用于创建类似 
 ```mermaid
 xychart-beta
     title "SciML/ModelingToolkitNeuralNets.jl 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-16", "2026-11-28"]
     y-axis "stars" 40 --> 44
     line [41, 42, 43, 43]
 ```
 
-2026-10-25 41 → 2026-11-27 43（+2）
+2026-10-26 41 → 2026-11-28 43（+2）
 
 
 ---

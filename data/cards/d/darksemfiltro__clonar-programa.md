@@ -1,6 +1,6 @@
 # darksemfiltro/clonar-programa
 
-⭐ 34 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/darksemfiltro/clonar-programa) · [官网](https://github.com/darksemfiltro/clonar-programa) · 个人维护
+⭐ 36 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/darksemfiltro/clonar-programa) · [官网](https://github.com/darksemfiltro/clonar-programa) · 个人维护
 
 **引导 LLM 代理按证据-架构-spec 流程克隆网站与桌面程序的 skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "darksemfiltro/clonar-programa 星数(近 10 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1 --> 37
-    line [4, 24, 25, 26, 27, 28, 29, 31, 34, 34]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 1 --> 39
+    line [4, 24, 25, 26, 27, 28, 29, 31, 34, 36]
 ```
 
-2026-11-02 4 → 2026-11-27 34（+30）
+2026-11-02 4 → 2026-11-28 36（+32）
 
 
 ---

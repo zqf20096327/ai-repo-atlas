@@ -1,6 +1,6 @@
 # GoDiao/dreamcoder
 
-⭐ 513 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/GoDiao/dreamcoder) · [官网](https://godiao.github.io/dreamcoder/) · 个人维护 · 中文 README
+⭐ 513 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/GoDiao/dreamcoder) · [官网](https://godiao.github.io/dreamcoder/) · 个人维护 · 中文 README
 
 **本地运行的多服务商 AI 编程工作台，管理 Claude Code 会话**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "GoDiao/dreamcoder 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-25", "2026-11-27"]
+    title "GoDiao/dreamcoder 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 500 --> 514
-    line [501, 503, 501, 504, 505, 506, 507, 512, 513]
+    line [501, 503, 501, 504, 505, 506, 507, 512, 513, 513]
 ```
 
-2026-10-25 501 → 2026-11-27 513（+12）
+2026-10-26 501 → 2026-11-28 513（+12）
 
 
 ---

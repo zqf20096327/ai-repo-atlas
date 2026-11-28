@@ -1,6 +1,6 @@
 # hyyhf/agent-book-code
 
-⭐ 60 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hyyhf/agent-book-code) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hyyhf/agent-book-code) · 个人维护 · 中文 README
 
 **教你从零手写 AI Agent 的实战书及配套可运行项目 FunHarness**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hyyhf/agent-book-code 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-21", "2026-11-28"]
     y-axis "stars" 58 --> 61
-    line [59, 60, 60]
+    line [59, 60, 59]
 ```
 
-2026-10-25 59 → 2026-11-27 60（+1）
+2026-10-26 59 → 2026-11-28 59（+0）
 
 
 ---

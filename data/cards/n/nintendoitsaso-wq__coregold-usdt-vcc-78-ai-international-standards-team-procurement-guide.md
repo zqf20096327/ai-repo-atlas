@@ -1,6 +1,6 @@
 # nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide
 
-⭐ 19 · 推送 2026-11-25 · [GitHub](https://github.com/nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 30 · 推送 2026-11-25 · [GitHub](https://github.com/nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向出海团队的海外虚拟卡开卡与采购管理操作指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 5 --> 20
-    line [6, 19]
+    title "nintendoitsaso-wq/coregold-usdt-vcc-78-ai-international-standards-team-procurement-guide 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 32
+    line [6, 19, 30]
 ```
 
-2026-11-26 6 → 2026-11-27 19（+13）
+2026-11-26 6 → 2026-11-28 30（+24）
 
 
 ---

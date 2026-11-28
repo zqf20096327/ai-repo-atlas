@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zongmin-yu/semantic-scholar-fastmcp-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 165 --> 167
     line [166, 166]
 ```
 
-2026-10-25 166 → 2026-11-27 166（+0）
+2026-10-26 166 → 2026-11-28 166（+0）
 
 
 ---

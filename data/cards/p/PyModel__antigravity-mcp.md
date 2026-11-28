@@ -1,6 +1,6 @@
 # PyModel/antigravity-mcp
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PyModel/antigravity-mcp) · [官网](https://github.com/PyModel/antigravity-mcp#install) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/PyModel/antigravity-mcp) · [官网](https://github.com/PyModel/antigravity-mcp#install) · 个人维护
 
 **把编码代理客户端经 Antigravity CLI 接入 Gemini 模型的 MCP 桥接服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PyModel/antigravity-mcp 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-11-23", "2026-11-28"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-11-23 15 → 2026-11-27 15（+0）
+2026-11-23 15 → 2026-11-28 16（+1）
 
 
 ---

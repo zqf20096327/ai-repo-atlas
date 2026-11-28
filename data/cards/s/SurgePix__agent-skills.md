@@ -47,12 +47,12 @@ SurgePix 的官方 Agent Skills 仓库，将 SurgePix 图像处理 API 封装为
 ```mermaid
 xychart-beta
     title "SurgePix/agent-skills 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-16 12 → 2026-11-27 12（+0）
+2026-11-16 12 → 2026-11-28 12（+0）
 
 
 ---

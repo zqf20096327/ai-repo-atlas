@@ -1,6 +1,6 @@
 # datamllab/LoopTitan
 
-⭐ 35 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/datamllab/LoopTitan) · [官网](https://datamllab.github.io/LoopTitan/) · 组织维护
+⭐ 76 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/datamllab/LoopTitan) · [官网](https://datamllab.github.io/LoopTitan/) · 组织维护
 
 **looped MoE 语言模型的 PyTorch 开源研究基础设施与论文模型库**
 
@@ -41,6 +41,18 @@
 > L10:  Open PyTorch infrastructure for looped mixture-of-experts (MoE) language models.
 > L118: Training runs on TorchTitan with AdamW or Muon. Initial weights, data order and validation samples do not depend o
 > L148: Test bits per byte (BPB) after 5.0B tokens of DCLM (4,769 updates of 1,048,576 tokens, seed 42); lower is better. 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datamllab/LoopTitan 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 31 --> 80
+    line [35, 76]
+```
+
+2026-11-27 35 → 2026-11-28 76（+41）
 
 
 ---

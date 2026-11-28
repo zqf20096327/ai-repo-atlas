@@ -1,6 +1,6 @@
 # hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide
 
-⭐ 41 · 推送 2026-11-23 · [GitHub](https://github.com/hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 53 · 推送 2026-11-23 · [GitHub](https://github.com/hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向独立开发者与跨境卖家的 USDT+虚拟卡美元支付流程指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 26 --> 42
-    line [27, 41]
+    title "hossebmarup-wq/coregold-usdt-vcc-24-7-cross-border-dollar-checkout-guide 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 25 --> 55
+    line [27, 41, 53]
 ```
 
-2026-11-26 27 → 2026-11-27 41（+14）
+2026-11-26 27 → 2026-11-28 53（+26）
 
 
 ---

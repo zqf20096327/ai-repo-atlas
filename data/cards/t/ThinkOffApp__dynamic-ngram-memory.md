@@ -40,6 +40,18 @@
 > L13: Explicit, editable memory for language models: retrieve relevant notes using token n-grams, place a bounded block i
 > L17: This is the Notes module created by Petrus Pennanen and the ThinkOff team for TensorFold. This repository is its se
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ThinkOffApp/dynamic-ngram-memory 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-27 15 → 2026-11-28 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `5da08d897506` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # topk-io/topk
 
-⭐ 99 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/topk-io/topk) · [官网](https://docs.topk.io) · 组织维护
+⭐ 99 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/topk-io/topk) · [官网](https://docs.topk.io) · 组织维护
 
 **面向 AI 应用的统一检索引擎：混合/向量/关键词检索一体**
 
@@ -45,12 +45,12 @@ TopK 是统一检索引擎，在单一 API 中提供混合检索、向量检索�
 ```mermaid
 xychart-beta
     title "topk-io/topk 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-23", "2026-11-28"]
     y-axis "stars" 96 --> 100
     line [97, 98, 99, 99]
 ```
 
-2026-10-25 97 → 2026-11-27 99（+2）
+2026-10-26 97 → 2026-11-28 99（+2）
 
 
 ---

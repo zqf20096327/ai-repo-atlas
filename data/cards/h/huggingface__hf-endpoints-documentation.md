@@ -1,6 +1,6 @@
 # huggingface/hf-endpoints-documentation
 
-⭐ 27 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/hf-endpoints-documentation) · [官网](https://huggingface.co/docs/inference-endpoints) · 组织维护
+⭐ 27 · JavaScript · 推送 2026-11-27 · [GitHub](https://github.com/huggingface/hf-endpoints-documentation) · [官网](https://huggingface.co/docs/inference-endpoints) · 组织维护
 
 **Hugging Face Inference Endpoints 官方文档仓库**
 
@@ -44,12 +44,12 @@ Hugging Face 官方维护的 Inference Endpoints 产品文档仓库：用 doc-bu
 ```mermaid
 xychart-beta
     title "huggingface/hf-endpoints-documentation 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-25 27 → 2026-11-27 27（+0）
+2026-10-26 27 → 2026-11-28 27（+0）
 
 
 ---

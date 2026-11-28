@@ -1,6 +1,6 @@
 # RichardHruby/login-machine
 
-⭐ 292 · TypeScript · MIT · 推送 2026-02-19 · [GitHub](https://github.com/RichardHruby/login-machine) · [官网](https://login-machine.vercel.app) · 组织维护
+⭐ 291 · TypeScript · MIT · 推送 2026-02-19 · [GitHub](https://github.com/RichardHruby/login-machine) · [官网](https://login-machine.vercel.app) · 组织维护
 
 **通用网站登录的浏览器 Agent：LLM 分类页面，凭据不进模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RichardHruby/login-machine 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-12", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-02", "2026-11-12", "2026-11-16", "2026-11-28"]
     y-axis "stars" 290 --> 294
-    line [292, 293, 292, 291, 292, 292]
+    line [292, 293, 292, 291, 292, 291]
 ```
 
-2026-10-25 292 → 2026-11-27 292（+0）
+2026-10-26 292 → 2026-11-28 291（-1）
 
 
 ---

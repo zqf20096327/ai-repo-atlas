@@ -1,6 +1,6 @@
 # devadeiltonlima/ClawFast-
 
-⭐ 10 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/devadeiltonlima/ClawFast-) · 个人维护
+⭐ 11 · MIT · 推送 2026-11-27 · [GitHub](https://github.com/devadeiltonlima/ClawFast-) · 个人维护
 
 **终端里的 AI 渗透测试 Agent：recon、漏洞验证到报告**
 
@@ -40,6 +40,18 @@ ClawFast 是一个运行在终端（另有 Windows 桌面 App，beta）的 AI �
 > L17: O clawfast é um operador de segurança que trabalha na sua frente. Ele roda comando, faz requisição HTTP, mapeia o a
 > L84: |**25 gateways de IA**|`/api` conecta NVIDIA, OpenRouter, Gemini, OpenAI, Claude, Groq, DeepSeek, Ollama, LM Studio
 > L155: **Instalar:** baixe o `clawfast-app-windows-x64.exe` e rode. O motor vem dentro do instalador, então não precisa i
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "devadeiltonlima/ClawFast- 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-27 10 → 2026-11-28 11（+1）
 
 
 ---

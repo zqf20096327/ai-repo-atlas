@@ -1,6 +1,6 @@
 # IvanBBaev/servicenow-mcp-ai
 
-⭐ 13 · JavaScript · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/IvanBBaev/servicenow-mcp-ai) · [官网](https://ivanbbaev.github.io/servicenow-mcp-ai/)
+⭐ 13 · JavaScript · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/IvanBBaev/servicenow-mcp-ai) · [官网](https://ivanbbaev.github.io/servicenow-mcp-ai/)
 
 **连接 MCP 客户端与 ServiceNow 实例的 MCP 服务器，提供安全 AI 写入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IvanBBaev/servicenow-mcp-ai 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-28"]
     y-axis "stars" 9 --> 14
     line [10, 11, 12, 13, 13]
 ```
 
-2026-10-30 10 → 2026-11-27 13（+3）
+2026-10-30 10 → 2026-11-28 13（+3）
 
 
 ---

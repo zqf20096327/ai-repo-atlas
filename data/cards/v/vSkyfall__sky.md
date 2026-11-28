@@ -1,6 +1,6 @@
 # vSkyfall/sky
 
-⭐ 16 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/vSkyfall/sky) · 个人维护
+⭐ 17 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/vSkyfall/sky) · 个人维护
 
 **面向 Claude Code 的土耳其语一体化开发者插件：技能+agent+命令+hook**
 
@@ -46,12 +46,12 @@ Claude Code 的插件：提供 214 个 skill（其中 17 个针对土耳其本�
 ```mermaid
 xychart-beta
     title "vSkyfall/sky 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 7 --> 17
-    line [8, 12, 14, 16, 16]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 7 --> 18
+    line [8, 12, 14, 16, 17]
 ```
 
-2026-11-08 8 → 2026-11-27 16（+8）
+2026-11-08 8 → 2026-11-28 17（+9）
 
 
 ---

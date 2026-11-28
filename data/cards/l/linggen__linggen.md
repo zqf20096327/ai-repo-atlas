@@ -1,6 +1,6 @@
 # linggen/linggen
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/linggen/linggen) · [官网](https://linggen.dev) · 组织维护 · 中文 README
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/linggen/linggen) · [官网](https://linggen.dev) · 组织维护 · 中文 README
 
 **本地优先的 macOS AI agent 运行时，附带多款个人应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "linggen/linggen 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-22", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

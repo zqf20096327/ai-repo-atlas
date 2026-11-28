@@ -45,12 +45,12 @@ Dicle 大学 'Machine Learning in Economics and Finance' 课程的每周资料�
 ```mermaid
 xychart-beta
     title "mehmetsongur/Machine-Learning-in-Economics-and-Finance 星数(近 5 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 14 --> 33
     line [15, 28, 31, 32, 32]
 ```
 
-2026-11-01 15 → 2026-11-27 32（+17）
+2026-11-01 15 → 2026-11-28 32（+17）
 
 
 ---

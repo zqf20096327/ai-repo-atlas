@@ -42,6 +42,18 @@
 > L63: work right away; only the AI chat needs the AGY CLI.
 > L38: - 🛡️ **Safe by design**: an allowlist decides what counts as read-only. Everything else waits for
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "souvik-das-tech/ssh-pro-ai 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `599a99ecb303` · [字段定义](../../DATASET.md)*

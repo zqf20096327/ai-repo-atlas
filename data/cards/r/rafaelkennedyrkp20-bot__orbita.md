@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "rafaelkennedyrkp20-bot/orbita 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    title "rafaelkennedyrkp20-bot/orbita 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 3]
+    line [3, 4, 3, 3]
 ```
 
-2026-10-25 3 → 2026-11-27 3（+0）
+2026-10-26 3 → 2026-11-28 3（+0）
 
 
 ---

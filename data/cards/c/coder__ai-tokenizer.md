@@ -1,6 +1,6 @@
 # coder/ai-tokenizer
 
-⭐ 63 · TypeScript · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/coder/ai-tokenizer) · [官网](https://coder.github.io/ai-tokenizer/) · 组织维护
+⭐ 64 · TypeScript · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/coder/ai-tokenizer) · [官网](https://coder.github.io/ai-tokenizer/) · 组织维护
 
 **为 Vercel AI SDK 设计的快速 token 计数库**
 
@@ -45,12 +45,12 @@ npm 包 ai-tokenizer，提供对 AI SDK 工具与消息 schema 的 token 估算�
 ```mermaid
 xychart-beta
     title "coder/ai-tokenizer 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 61 --> 65
+    line [62, 63, 64]
 ```
 
-2026-10-25 62 → 2026-11-27 63（+1）
+2026-10-26 62 → 2026-11-28 64（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # nicremo/dsh-cli
 
-⭐ 49 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nicremo/dsh-cli) · [官网](https://deepseekharnesscli.nicremo.de) · 个人维护
+⭐ 50 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nicremo/dsh-cli) · [官网](https://deepseekharnesscli.nicremo.de) · 个人维护
 
 **让编码 agent 并行驱动 DeepSeek Harness 会话的 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicremo/dsh-cli 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 16 --> 52
-    line [19, 20, 21, 30, 33, 19, 44, 45, 46, 48, 49, 49]
+    title "nicremo/dsh-cli 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 16 --> 53
+    line [20, 21, 30, 33, 19, 44, 45, 46, 48, 49, 50]
 ```
 
-2026-10-25 19 → 2026-11-27 49（+30）
+2026-10-26 20 → 2026-11-28 50（+30）
 
 
 ---

@@ -1,6 +1,6 @@
 # lightningpixel/orvix
 
-⭐ 13 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lightningpixel/orvix) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lightningpixel/orvix) · 个人维护
 
 **给 AI 编程代理的省 token 代码地图 CLI：按符号查询代替全文阅读**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lightningpixel/orvix 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

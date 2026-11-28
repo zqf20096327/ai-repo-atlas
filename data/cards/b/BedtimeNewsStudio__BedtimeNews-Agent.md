@@ -1,6 +1,6 @@
 # BedtimeNewsStudio/BedtimeNews-Agent
 
-⭐ 127 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BedtimeNewsStudio/BedtimeNews-Agent) · [官网](https://bedtime.blog) · 组织维护 · 中文 README
+⭐ 128 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BedtimeNewsStudio/BedtimeNews-Agent) · [官网](https://bedtime.blog) · 组织维护 · 中文 README
 
 **睡前消息节目文稿知识库与智能 RAG 问答网站**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "BedtimeNewsStudio/BedtimeNews-Agent 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 120 --> 128
-    line [121, 122, 123, 122, 123, 121, 124, 125, 126, 127, 127]
+    title "BedtimeNewsStudio/BedtimeNews-Agent 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 120 --> 129
+    line [122, 123, 122, 123, 121, 124, 125, 126, 127, 128]
 ```
 
-2026-10-25 121 → 2026-11-27 127（+6）
+2026-10-26 122 → 2026-11-28 128（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Intelligent-CAT-Lab/AlphaTrans
 
-⭐ 38 · Java · NCSA · 推送 2025-12-20 · [GitHub](https://github.com/Intelligent-CAT-Lab/AlphaTrans) · [官网](https://doi.org/10.5281/zenodo.13826582) · 组织维护
+⭐ 40 · Java · NCSA · 推送 2025-12-20 · [GitHub](https://github.com/Intelligent-CAT-Lab/AlphaTrans) · [官网](https://doi.org/10.5281/zenodo.13826582) · 组织维护
 
 **仓库级 Java→Python 代码翻译与验证的论文 artifact（FSE 2025）**
 
@@ -46,12 +46,12 @@ FSE 2025 论文 AlphaTrans 的 artifact 仓库：神经符号组合式方法将 
 ```mermaid
 xychart-beta
     title "Intelligent-CAT-Lab/AlphaTrans 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 37 --> 41
+    line [38, 40]
 ```
 
-2026-10-25 38 → 2026-11-27 38（+0）
+2026-10-26 38 → 2026-11-28 40（+2）
 
 
 ---

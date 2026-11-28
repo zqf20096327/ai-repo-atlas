@@ -1,6 +1,6 @@
 # SaloQT/rdna4-amd-infer
 
-⭐ 10 · C · 推送 2026-11-26 · [GitHub](https://github.com/SaloQT/rdna4-amd-infer) · [官网](https://saloqt.github.io/rdna4-amd-infer/) · 个人维护
+⭐ 13 · C · 推送 2026-11-27 · [GitHub](https://github.com/SaloQT/rdna4-amd-infer) · [官网](https://saloqt.github.io/rdna4-amd-infer/) · 个人维护
 
 **面向 RX 9070 XT 的本地 LLM 推理引擎，免装 Windows ROCm**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SaloQT/rdna4-amd-infer 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 11
-    line [4, 10]
+    title "SaloQT/rdna4-amd-infer 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 14
+    line [4, 10, 13]
 ```
 
-2026-11-26 4 → 2026-11-27 10（+6）
+2026-11-26 4 → 2026-11-28 13（+9）
 
 
 ---

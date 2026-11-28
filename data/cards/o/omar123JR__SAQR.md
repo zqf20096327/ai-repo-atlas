@@ -1,6 +1,6 @@
 # omar123JR/SAQR
 
-⭐ 3 · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/omar123JR/SAQR) · 个人维护 · 中文 README
+⭐ 3 · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/omar123JR/SAQR) · 个人维护 · 中文 README
 
 **面向中小机构的 Mini-SOC 威胁检测与自动化响应平台**
 
@@ -46,12 +46,12 @@ SAQR 是一个安全事件检测与自动响应平台，采用五层架构：隔
 ```mermaid
 xychart-beta
     title "omar123JR/SAQR 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # BehemothDyer/stable-diffusion-atelier
 
-⭐ 79 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/BehemothDyer/stable-diffusion-atelier) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向本地 Stable Diffusion 的速记仓库，附 PowerShell 一键安装命令**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

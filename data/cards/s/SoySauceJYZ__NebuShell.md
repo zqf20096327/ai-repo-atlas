@@ -1,6 +1,6 @@
 # SoySauceJYZ/NebuShell
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SoySauceJYZ/NebuShell) · [官网](https://soysaucejyz.github.io/NebuShell/) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SoySauceJYZ/NebuShell) · [官网](https://soysaucejyz.github.io/NebuShell/) · 个人维护 · 中文 README
 
 **给 DevOps 的 AI Agent 驱动 SSH 客户端：终端+SFTP+加密保险库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SoySauceJYZ/NebuShell 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-25 10 → 2026-11-27 11（+1）
+2026-10-26 10 → 2026-11-28 12（+2）
 
 
 ---

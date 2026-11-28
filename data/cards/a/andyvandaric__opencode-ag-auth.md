@@ -45,12 +45,12 @@ opencode-antigravity-auth 的安全导向分支，作为 OpenCode 插件通过 G
 ```mermaid
 xychart-beta
     title "andyvandaric/opencode-ag-auth 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
     y-axis "stars" 66 --> 69
     line [67, 68, 68]
 ```
 
-2026-10-25 67 → 2026-11-27 68（+1）
+2026-10-26 67 → 2026-11-28 68（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Microblink BlinkID SDK 的 React Native 封装，为跨平台应用提供证件�
 ```mermaid
 xychart-beta
     title "microblink/blinkid-react-native 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 187 --> 189
     line [188, 188]
 ```
 
-2026-10-25 188 → 2026-11-27 188（+0）
+2026-10-26 188 → 2026-11-28 188（+0）
 
 
 ---

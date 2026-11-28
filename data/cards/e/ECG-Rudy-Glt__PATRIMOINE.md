@@ -1,6 +1,6 @@
 # ECG-Rudy-Glt/PATRIMOINE
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/ECG-Rudy-Glt/PATRIMOINE) · [官网](https://patrimoine-open.gault-rudy.com) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/ECG-Rudy-Glt/PATRIMOINE) · [官网](https://patrimoine-open.gault-rudy.com) · 个人维护
 
 **家庭自托管财富追踪器，带 AI 邮件理财建议**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ECG-Rudy-Glt/PATRIMOINE 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-20", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-20 3 → 2026-11-27 3（+0）
+2026-11-20 3 → 2026-11-28 4（+1）
 
 
 ---

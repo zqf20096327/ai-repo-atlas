@@ -1,6 +1,6 @@
 # zilliztech/milvus-operator
 
-⭐ 139 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/zilliztech/milvus-operator) · [官网](https://milvus.io) · 组织维护
+⭐ 138 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/zilliztech/milvus-operator) · [官网](https://milvus.io) · 组织维护
 
 **在 Kubernetes 上声明式部署和管理 Milvus 向量数据库的 Operator**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zilliztech/milvus-operator 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 134 --> 140
-    line [135, 136, 137, 138, 139, 139]
+    line [135, 136, 137, 138, 139, 138]
 ```
 
-2026-10-25 135 → 2026-11-27 139（+4）
+2026-10-26 135 → 2026-11-28 138（+3）
 
 
 ---

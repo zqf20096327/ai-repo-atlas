@@ -1,6 +1,6 @@
 # Coding9GmbH/coding9-lotse
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Coding9GmbH/coding9-lotse) · [官网](https://coding9.de/produkte/lotse) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **通过聊天管理电商店铺内容与价格的 AI 界面**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

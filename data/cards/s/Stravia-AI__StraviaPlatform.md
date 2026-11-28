@@ -1,6 +1,6 @@
 # Stravia-AI/StraviaPlatform
 
-⭐ 70 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Stravia-AI/StraviaPlatform) · [官网](https://www.stravia.cn/) · 组织维护 · 中文 README
+⭐ 72 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Stravia-AI/StraviaPlatform) · [官网](https://www.stravia.cn/) · 组织维护 · 中文 README
 
 **本地自托管 agent 基础设施：为各类 AI 客户端提供统一接入端点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Stravia-AI/StraviaPlatform 星数(近 8 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 76
-    line [10, 12, 16, 21, 22, 42, 64, 70]
+    title "Stravia-AI/StraviaPlatform 星数(近 9 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 78
+    line [10, 12, 16, 21, 22, 42, 64, 70, 72]
 ```
 
-2026-10-31 10 → 2026-11-27 70（+60）
+2026-10-31 10 → 2026-11-28 72（+62）
 
 
 ---

@@ -1,6 +1,6 @@
 # ShamelesAbyss/Symbiote
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-05-11 · [GitHub](https://github.com/ShamelesAbyss/Symbiote) · 个人维护
 
 **Rust 编写的终端人工生命生态系统模拟器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ShamelesAbyss/Symbiote 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-26"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-24 13 → 2026-11-26 13（+0）
+2026-10-25 13 → 2026-11-28 13（+0）
 
 
 ---

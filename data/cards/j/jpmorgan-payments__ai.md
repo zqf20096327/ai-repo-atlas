@@ -1,6 +1,6 @@
 # jpmorgan-payments/ai
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/jpmorgan-payments/ai) · [官网](https://developer.payments.jpmorgan.com/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/jpmorgan-payments/ai) · [官网](https://developer.payments.jpmorgan.com/) · 组织维护
 
 **摩根大通支付 API 的 agent 技能与 MCP 文档服务工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jpmorgan-payments/ai 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 14（+1）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

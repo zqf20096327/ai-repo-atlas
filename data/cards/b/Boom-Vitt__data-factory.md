@@ -1,6 +1,6 @@
 # Boom-Vitt/data-factory
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Boom-Vitt/data-factory) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Boom-Vitt/data-factory) · 个人维护
 
 **把多个 AI Agent 对话汇总为本地 JSONL 库，供搜索与微调**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Boom-Vitt/data-factory 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 6
-    line [3, 5]
+    title "Boom-Vitt/data-factory 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 5, 7]
 ```
 
-2026-11-26 3 → 2026-11-27 5（+2）
+2026-11-26 3 → 2026-11-28 7（+4）
 
 
 ---

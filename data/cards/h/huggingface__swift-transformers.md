@@ -1,6 +1,6 @@
 # huggingface/swift-transformers
 
-⭐ 1,367 · Swift · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/huggingface/swift-transformers) · 组织维护
+⭐ 1,368 · Swift · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/huggingface/swift-transformers) · 组织维护
 
 **为 Swift 应用提供 transformers 风格 API 的库**
 
@@ -46,13 +46,13 @@ Hugging Face 维护的 Swift Package，包含三个可选模块：Tokenizers 加
 
 ```mermaid
 xychart-beta
-    title "huggingface/swift-transformers 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1360 --> 1368
-    line [1361, 1363, 1364, 1365, 1366, 1361, 1366, 1367, 1366, 1367, 1367]
+    title "huggingface/swift-transformers 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 1360 --> 1369
+    line [1363, 1364, 1365, 1366, 1361, 1366, 1367, 1366, 1367, 1368]
 ```
 
-2026-10-25 1,361 → 2026-11-27 1,367（+6）
+2026-10-26 1,363 → 2026-11-28 1,368（+5）
 
 
 ---

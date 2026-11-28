@@ -1,6 +1,6 @@
 # southy404/openblob
 
-⭐ 23 · Rust · NOASSERTION · 推送 2026-05-07 · [GitHub](https://github.com/southy404/openblob) · 个人维护
+⭐ 22 · Rust · NOASSERTION · 推送 2026-05-07 · [GitHub](https://github.com/southy404/openblob) · 个人维护
 
 **Windows 本地优先 AI 桌面助手：语音/文字命令控制桌面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "southy404/openblob 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 22, 23, 23]
+    line [22, 23, 22, 23, 22]
 ```
 
-2026-10-25 22 → 2026-11-27 23（+1）
+2026-10-26 22 → 2026-11-28 22（+0）
 
 
 ---

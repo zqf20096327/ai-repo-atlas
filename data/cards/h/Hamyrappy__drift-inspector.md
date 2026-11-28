@@ -1,6 +1,6 @@
 # Hamyrappy/drift-inspector
 
-⭐ 10 · HTML · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Hamyrappy/drift-inspector) · [官网](https://hamyrappy.github.io/drift-inspector/) · 个人维护
+⭐ 11 · HTML · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Hamyrappy/drift-inspector) · [官网](https://hamyrappy.github.io/drift-inspector/) · 个人维护
 
 **用 LLM 抽取贡献声明来度量科研领域漂移的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hamyrappy/drift-inspector 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-12", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-12 10 → 2026-11-27 10（+0）
+2026-11-12 10 → 2026-11-28 11（+1）
 
 
 ---

@@ -44,13 +44,13 @@ Hermes Agent 的 Python 插件，在每轮对话前由分类器判定任务难�
 
 ```mermaid
 xychart-beta
-    title "open-world-project/model-router 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "open-world-project/model-router 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 31 --> 34
-    line [32, 33, 32]
+    line [32, 33, 32, 32]
 ```
 
-2026-10-25 32 → 2026-11-27 32（+0）
+2026-10-26 32 → 2026-11-28 32（+0）
 
 
 ---

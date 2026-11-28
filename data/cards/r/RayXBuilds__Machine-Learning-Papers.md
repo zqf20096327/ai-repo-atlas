@@ -1,6 +1,6 @@
 # RayXBuilds/Machine-Learning-Papers
 
-⭐ 71 · Python · 推送 2026-11-26 · [GitHub](https://github.com/RayXBuilds/Machine-Learning-Papers) · 个人维护 · 中文 README
+⭐ 71 · Python · 推送 2026-11-27 · [GitHub](https://github.com/RayXBuilds/Machine-Learning-Papers) · 个人维护 · 中文 README
 
 **按主题整理的机器学习论文中文导读与历史资料库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RayXBuilds/Machine-Learning-Papers 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-01", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-10", "2026-11-28"]
     y-axis "stars" 68 --> 72
     line [69, 70, 71, 71]
 ```
 
-2026-10-26 69 → 2026-11-27 71（+2）
+2026-10-26 69 → 2026-11-28 71（+2）
 
 
 ---

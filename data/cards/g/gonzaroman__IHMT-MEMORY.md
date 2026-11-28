@@ -1,6 +1,6 @@
 # gonzaroman/IHMT-MEMORY
 
-⭐ 38 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/gonzaroman/IHMT-MEMORY) · [官网](https://github.com/gonzaroman/IHMT-MEMORY) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/gonzaroman/IHMT-MEMORY) · [官网](https://github.com/gonzaroman/IHMT-MEMORY) · 个人维护
 
 **给 AI 编码代理的跨会话长期记忆：本地纯文件树 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gonzaroman/IHMT-MEMORY 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 36 --> 39
-    line [38, 37, 38, 37, 38, 38]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 36 --> 40
+    line [38, 37, 38, 37, 38, 39]
 ```
 
-2026-10-25 38 → 2026-11-27 38（+0）
+2026-10-26 38 → 2026-11-28 39（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # antgroup/Napaxi
 
-⭐ 34 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/antgroup/Napaxi) · 组织维护 · 中文 README
+⭐ 34 · Rust · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/antgroup/Napaxi) · 组织维护 · 中文 README
 
 **移动端原生 agent SDK：在 App 内嵌入端上 AI 代理运行时**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "antgroup/Napaxi 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 32 --> 35
     line [33, 34, 34]
 ```
 
-2026-10-25 33 → 2026-11-27 34（+1）
+2026-10-26 33 → 2026-11-28 34（+1）
 
 
 ---

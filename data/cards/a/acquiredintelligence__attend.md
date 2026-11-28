@@ -1,6 +1,6 @@
 # acquiredintelligence/attend
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/acquiredintelligence/attend) · [官网](https://www.npmjs.com/package/@acquiredintelligence/attend) · 组织维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/acquiredintelligence/attend) · [官网](https://www.npmjs.com/package/@acquiredintelligence/attend) · 组织维护
 
 **为 agent 提供事件唤醒决策：判断何时打断/排队/跳过**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "acquiredintelligence/attend 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-25 6 → 2026-11-27 6（+0）
+2026-10-26 6 → 2026-11-28 6（+0）
 
 
 ---

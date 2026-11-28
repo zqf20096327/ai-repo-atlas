@@ -1,6 +1,6 @@
 # minanyang/token2agent
 
-⭐ 15 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/minanyang/token2agent) · [官网](https://token2agent.com) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/minanyang/token2agent) · [官网](https://token2agent.com) · 个人维护 · 中文 README
 
 **面向 AI/LLM 工程初学者的系统化学习路线图站点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "minanyang/token2agent 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 4 --> 16
-    line [5, 10, 11, 12, 15, 15]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 4 --> 17
+    line [5, 10, 11, 12, 15, 16]
 ```
 
-2026-11-08 5 → 2026-11-27 15（+10）
+2026-11-08 5 → 2026-11-28 16（+11）
 
 
 ---

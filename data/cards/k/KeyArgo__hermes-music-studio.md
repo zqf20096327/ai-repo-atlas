@@ -1,6 +1,6 @@
 # KeyArgo/hermes-music-studio
 
-⭐ 8 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/KeyArgo/hermes-music-studio) · 个人维护
+⭐ 9 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/KeyArgo/hermes-music-studio) · 个人维护
 
 **Hermes 插件：描述歌曲，草拟歌词与风格，经批准后本地渲染成曲**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KeyArgo/hermes-music-studio 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 9
-    line [4, 8, 8]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 3 --> 10
+    line [4, 8, 9]
 ```
 
-2026-11-25 4 → 2026-11-27 8（+4）
+2026-11-25 4 → 2026-11-28 9（+5）
 
 
 ---

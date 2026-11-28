@@ -1,6 +1,6 @@
 # mishafyi/Apple-Docs-2.0-MCP
 
-⭐ 26 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/mishafyi/Apple-Docs-2.0-MCP) · [官网](https://www.npmjs.com/package/apple-docs-2.0-mcp) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/mishafyi/Apple-Docs-2.0-MCP) · [官网](https://www.npmjs.com/package/apple-docs-2.0-mcp) · 个人维护
 
 **给 AI 编程助手读 Apple 开发者文档的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mishafyi/Apple-Docs-2.0-MCP 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-25 26 → 2026-11-27 26（+0）
+2026-10-26 26 → 2026-11-28 27（+1）
 
 
 ---

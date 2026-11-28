@@ -1,6 +1,6 @@
 # eduardovbe/CharFactory
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/eduardovbe/CharFactory) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/eduardovbe/CharFactory) · 个人维护
 
 **面向 MUGEN/Ikemen GO 角色作者的 AI 辅助角色编辑器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "eduardovbe/CharFactory 星数(近 7 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-22", "2026-11-28"]
     y-axis "stars" 2 --> 11
     line [3, 4, 6, 7, 9, 10, 10]
 ```
 
-2026-11-01 3 → 2026-11-27 10（+7）
+2026-11-01 3 → 2026-11-28 10（+7）
 
 
 ---

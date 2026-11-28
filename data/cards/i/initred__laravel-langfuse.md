@@ -1,6 +1,6 @@
 # initred/laravel-langfuse
 
-⭐ 3 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/initred/laravel-langfuse) · [官网](https://packagist.org/packages/initred/laravel-langfuse) · 个人维护
+⭐ 3 · PHP · MIT · 推送 2026-11-27 · [GitHub](https://github.com/initred/laravel-langfuse) · [官网](https://packagist.org/packages/initred/laravel-langfuse) · 个人维护
 
 **把 Laravel 应用接入 Langfuse 可观测平台的 PHP SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "initred/laravel-langfuse 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-27 3（+0）
+2026-11-16 3 → 2026-11-28 3（+0）
 
 
 ---

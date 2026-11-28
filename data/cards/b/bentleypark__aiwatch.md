@@ -1,6 +1,6 @@
 # bentleypark/aiwatch
 
-⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/bentleypark/aiwatch) · [官网](https://ai-watch.dev/) · 个人维护
+⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/bentleypark/aiwatch) · [官网](https://ai-watch.dev/) · 个人维护
 
 **48 个 AI 服务的实时状态监控面板与可靠性排行**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bentleypark/aiwatch 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-25 32 → 2026-11-27 32（+0）
+2026-10-26 32 → 2026-11-28 32（+0）
 
 
 ---

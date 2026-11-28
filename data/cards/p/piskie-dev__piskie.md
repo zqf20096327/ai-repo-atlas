@@ -1,6 +1,6 @@
 # piskie-dev/piskie
 
-⭐ 28 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/piskie-dev/piskie) · [官网](https://www.piskie.dev/) · 组织维护 · 中文 README
+⭐ 29 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/piskie-dev/piskie) · [官网](https://www.piskie.dev/) · 组织维护 · 中文 README
 
 **带指纹浏览器与持久会话的桌面 AI agent，自动化真实网页操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "piskie-dev/piskie 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 27 --> 30
-    line [29, 28, 28]
+    line [29, 28, 29]
 ```
 
-2026-10-25 29 → 2026-11-27 28（-1）
+2026-10-26 29 → 2026-11-28 29（+0）
 
 
 ---

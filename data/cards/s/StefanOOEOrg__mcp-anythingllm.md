@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "StefanOOEOrg/mcp-anythingllm 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-30 3 → 2026-11-27 3（+0）
+2026-10-30 3 → 2026-11-28 3（+0）
 
 
 ---

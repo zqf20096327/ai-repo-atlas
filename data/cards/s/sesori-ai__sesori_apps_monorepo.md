@@ -1,6 +1,6 @@
 # sesori-ai/sesori_apps_monorepo
 
-⭐ 144 · Dart · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/sesori-ai/sesori_apps_monorepo) · [官网](https://sesori.com) · 组织维护
+⭐ 144 · Dart · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/sesori-ai/sesori_apps_monorepo) · [官网](https://sesori.com) · 组织维护
 
 **在手机上远程监控与操控本地 AI 编码代理的应用**
 
@@ -45,13 +45,13 @@ Sesori 由两部分组成：手机端应用（iOS/Android）与运行在本机�
 
 ```mermaid
 xychart-beta
-    title "sesori-ai/sesori_apps_monorepo 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-25", "2026-11-27"]
+    title "sesori-ai/sesori_apps_monorepo 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-25", "2026-11-28"]
     y-axis "stars" 135 --> 145
-    line [136, 137, 138, 139, 138, 136, 140, 141, 142, 143, 144, 144]
+    line [137, 138, 139, 138, 136, 140, 141, 142, 143, 144, 144]
 ```
 
-2026-10-25 136 → 2026-11-27 144（+8）
+2026-10-26 137 → 2026-11-28 144（+7）
 
 
 ---

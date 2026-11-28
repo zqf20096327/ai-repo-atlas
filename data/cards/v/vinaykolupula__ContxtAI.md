@@ -1,6 +1,6 @@
 # vinaykolupula/ContxtAI
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/vinaykolupula/ContxtAI) · [官网](https://contxtai.vinaykolupula.com) · 个人维护
+⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/vinaykolupula/ContxtAI) · [官网](https://contxtai.vinaykolupula.com) · 个人维护
 
 **隐私优先的浏览器扩展：一次构建 AI 上下文，跨平台注入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vinaykolupula/ContxtAI 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 25 --> 32
-    line [26, 27, 26, 28, 31, 31]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 25 --> 33
+    line [26, 27, 26, 28, 31, 32]
 ```
 
-2026-10-25 26 → 2026-11-27 31（+5）
+2026-10-26 26 → 2026-11-28 32（+6）
 
 
 ---

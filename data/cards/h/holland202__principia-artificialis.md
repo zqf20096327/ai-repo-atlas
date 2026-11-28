@@ -1,6 +1,6 @@
 # holland202/principia-artificialis
 
-⭐ 19 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/holland202/principia-artificialis) · [官网](https://holland202.github.io/principia-artificialis/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/holland202/principia-artificialis) · [官网](https://holland202.github.io/principia-artificialis/) · 个人维护
 
 **AI 数学基础的开源研究计划：可验证的研究笔记记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "holland202/principia-artificialis 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 19, 19]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 17 --> 21
+    line [19, 20, 19, 18]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 18（-1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L54: narration explaining?* — and every coordinate is computed from the PDF's own text
 > L67: cp .env.example .env          # add OPENROUTER_API_KEY
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yh2072/aha-paper 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c15b3576ba7d` · [字段定义](../../DATASET.md)*

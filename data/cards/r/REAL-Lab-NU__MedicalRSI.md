@@ -1,6 +1,6 @@
 # REAL-Lab-NU/MedicalRSI
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/REAL-Lab-NU/MedicalRSI) · [官网](https://real-lab-nu.github.io/MedicalRSI/) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/REAL-Lab-NU/MedicalRSI) · [官网](https://real-lab-nu.github.io/MedicalRSI/) · 组织维护
 
 **给科研人员的医疗递归自我改进 Agent 训练框架**
 
@@ -40,6 +40,18 @@
 > L24:  Solver: the medical agent itself. Improver: its learnable improving strategy.
 > L28:  Overview of MedicalRSI: the Solver attempts a workflow with H0, the attempts become workflow evidence, the Improve
 > L63: > The released MedAgentBench model needs no training: download it and run `evaluate`.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "REAL-Lab-NU/MedicalRSI 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

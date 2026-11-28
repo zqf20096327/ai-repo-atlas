@@ -1,6 +1,6 @@
 # Anil-matcha/open-business-agents
 
-⭐ 13 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Anil-matcha/open-business-agents) · 个人维护
+⭐ 14 · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Anil-matcha/open-business-agents) · 个人维护
 
 **面向商业任务的 AI agent 目录：按能力域组织的伞形仓库合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/open-business-agents 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14]
 ```
 
-2026-10-25 12 → 2026-11-27 13（+1）
+2026-10-26 12 → 2026-11-28 14（+2）
 
 
 ---

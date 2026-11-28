@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adachi0130/Adachi-Inpaint-Workbench 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-27"]
+    title "adachi0130/Adachi-Inpaint-Workbench 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 3, 3]
+    line [4, 3, 3]
 ```
 
-2026-10-25 3 → 2026-11-27 3（+0）
+2026-10-26 4 → 2026-11-28 3（-1）
 
 
 ---

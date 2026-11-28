@@ -1,6 +1,6 @@
 # boniolp/MSAD
 
-⭐ 47 · Jupyter Notebook · MIT · 推送 2025-12-02 · [GitHub](https://github.com/boniolp/MSAD) · [官网](https://adecimots.streamlit.app/) · 组织维护
+⭐ 48 · Jupyter Notebook · MIT · 推送 2025-12-02 · [GitHub](https://github.com/boniolp/MSAD) · [官网](https://adecimots.streamlit.app/) · 组织维护
 
 **时间序列异常检测的模型选择流水线与实验评估（VLDB 2023）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "boniolp/MSAD 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-25 47 → 2026-11-27 47（+0）
+2026-10-26 47 → 2026-11-28 48（+1）
 
 
 ---

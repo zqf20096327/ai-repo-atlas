@@ -1,6 +1,6 @@
 # DevOnBike/Overfit
 
-⭐ 15 · C# · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/DevOnBike/Overfit) · [官网](https://overfit-ml.com) · 个人维护
+⭐ 16 · C# · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/DevOnBike/Overfit) · [官网](https://overfit-ml.com) · 个人维护
 
 **.NET 进程内 LLM 运行时：本地加载、微调与服务化，无需 Python/GPU/云**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DevOnBike/Overfit 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 16（+1）
 
 
 ---

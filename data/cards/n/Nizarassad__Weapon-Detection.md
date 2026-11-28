@@ -45,12 +45,12 @@ MSc 数据科学项目的公开研究工件，对比 YOLOv5s、YOLOv7、YOLOv8s 
 ```mermaid
 xychart-beta
     title "Nizarassad/Weapon-Detection 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-30 10 → 2026-11-27 10（+0）
+2026-10-30 10 → 2026-11-28 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AshayK003/hackathon-problem-statements
 
-⭐ 24 · MIT · 推送 2026-09-08 · [GitHub](https://github.com/AshayK003/hackathon-problem-statements) · 个人维护
+⭐ 25 · MIT · 推送 2026-09-08 · [GitHub](https://github.com/AshayK003/hackathon-problem-statements) · 个人维护
 
 **面向黑客松与课程项目的真实问题清单（65 题，5 赛道）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AshayK003/hackathon-problem-statements 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 17 --> 25
-    line [18, 19, 18, 21, 22, 23, 24, 24]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 17 --> 26
+    line [18, 19, 18, 21, 22, 23, 24, 25]
 ```
 
-2026-10-25 18 → 2026-11-27 24（+6）
+2026-10-26 18 → 2026-11-28 25（+7）
 
 
 ---

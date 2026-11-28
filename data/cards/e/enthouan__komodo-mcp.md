@@ -1,6 +1,6 @@
 # enthouan/komodo-mcp
 
-⭐ 8 · Rust · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/enthouan/komodo-mcp) · [官网](https://komodo-mcp.com) · 个人维护
+⭐ 8 · Rust · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/enthouan/komodo-mcp) · [官网](https://komodo-mcp.com) · 个人维护
 
 **给 LLM 客户端提供 Komodo 基础设施读写工具的 Rust MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "enthouan/komodo-mcp 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 9
     line [5, 8, 8]
 ```
 
-2026-11-25 5 → 2026-11-27 8（+3）
+2026-11-25 5 → 2026-11-28 8（+3）
 
 
 ---

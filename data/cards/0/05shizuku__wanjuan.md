@@ -1,6 +1,6 @@
 # 05shizuku/wanjuan
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/05shizuku/wanjuan) · [官网](https://github.com/05shizuku/wanjuan/releases) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/05shizuku/wanjuan) · [官网](https://github.com/05shizuku/wanjuan/releases) · 个人维护 · 中文 README
 
 **为 DSH 宿主设计的上下文压缩内核：折叠长对话控制窗口**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "05shizuku/wanjuan 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "05shizuku/wanjuan 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

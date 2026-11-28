@@ -45,12 +45,12 @@ Stanford Ribonanza 竞赛（第 7 名金牌）方案的源码：用 Transformer 
 ```mermaid
 xychart-beta
     title "DrHB/rna-stanford 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

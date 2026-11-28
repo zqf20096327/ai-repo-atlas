@@ -1,6 +1,6 @@
 # yatuk/multi-model-orchestra
 
-⭐ 59 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yatuk/multi-model-orchestra) · 个人维护
+⭐ 60 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yatuk/multi-model-orchestra) · 个人维护
 
 **多模型编码任务路由技能：贵模型指挥、廉价模型干活**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yatuk/multi-model-orchestra 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 24 --> 62
-    line [27, 43, 48, 55, 59]
+    title "yatuk/multi-model-orchestra 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 24 --> 63
+    line [27, 43, 48, 55, 59, 60]
 ```
 
-2026-11-22 27 → 2026-11-27 59（+32）
+2026-11-22 27 → 2026-11-28 60（+33）
 
 
 ---

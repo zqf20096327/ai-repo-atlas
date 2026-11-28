@@ -1,6 +1,6 @@
 # ZhaoJun233/bot-agent
 
-⭐ 10 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ZhaoJun233/bot-agent) · 个人维护 · 中文 README
+⭐ 10 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ZhaoJun233/bot-agent) · 个人维护 · 中文 README
 
 **面向 Linux 的多聊天平台 QQ/飞书 Agent 常驻服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZhaoJun233/bot-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-18", "2026-11-26", "2026-11-28"]
     y-axis "stars" 8 --> 11
     line [9, 10, 10]
 ```
 
-2026-10-18 9 → 2026-11-27 10（+1）
+2026-10-18 9 → 2026-11-28 10（+1）
 
 
 ---

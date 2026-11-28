@@ -1,6 +1,6 @@
 # vipulawl/reddit-leads
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/vipulawl/reddit-leads) · 个人维护
+⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/vipulawl/reddit-leads) · 个人维护
 
 **自托管 Reddit 销售线索发现工具：LLM 区分真实买家**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vipulawl/reddit-leads 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # seehiong/ai-avatar
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/seehiong/ai-avatar) · [官网](https://seehiong.github.io/ai-avatar/) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/seehiong/ai-avatar) · [官网](https://seehiong.github.io/ai-avatar/) · 个人维护
 
 **基于简历与职位描述的本地实时 3D 头像 AI 模拟面试官**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "seehiong/ai-avatar 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-22 3 → 2026-11-27 3（+0）
+2026-11-22 3 → 2026-11-28 4（+1）
 
 
 ---

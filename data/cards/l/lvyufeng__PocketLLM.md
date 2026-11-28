@@ -46,12 +46,12 @@ C++ 核（libpocketllm.so）在单块 CPU/GPU/边缘板/手机上运行大模型
 ```mermaid
 xychart-beta
     title "lvyufeng/PocketLLM 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-25 55 → 2026-11-27 55（+0）
+2026-10-26 55 → 2026-11-28 55（+0）
 
 
 ---

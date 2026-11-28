@@ -1,6 +1,6 @@
 # serhatandic/kuvo
 
-⭐ 76 · Rust · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/serhatandic/kuvo) · [官网](https://kuvo.run/code) · 个人维护
+⭐ 77 · Rust · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/serhatandic/kuvo) · [官网](https://kuvo.run/code) · 个人维护
 
 **给 Mac 用户的原生 coding agent 客户端：任意模型运行编码智能体**
 
@@ -46,12 +46,12 @@ SwiftUI 编写的 macOS 原生应用，作为 opencode 引擎（官方 @opencode
 ```mermaid
 xychart-beta
     title "serhatandic/kuvo 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-18", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 73 --> 77
-    line [74, 75, 76, 76]
+    x-axis ["2026-11-14", "2026-11-18", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 73 --> 78
+    line [74, 75, 76, 77]
 ```
 
-2026-11-14 74 → 2026-11-27 76（+2）
+2026-11-14 74 → 2026-11-28 77（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # enwove/flyx
 
-⭐ 56 · C++ · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/enwove/flyx) · [官网](https://enwove.ai/product/flyx) · 个人维护 · 中文 README
+⭐ 111 · C++ · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/enwove/flyx) · [官网](https://enwove.ai/product/flyx) · 个人维护 · 中文 README
 
 **单文件本地 LLM 推理引擎：跑 GGUF 并提供兼容 API**
 
@@ -46,13 +46,13 @@ FLYX 是一个零依赖的本地 LLM 推理引擎，以约 50 MB 的单文件二
 
 ```mermaid
 xychart-beta
-    title "enwove/flyx 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 14 --> 59
-    line [17, 37, 56]
+    title "enwove/flyx 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 8 --> 120
+    line [17, 37, 56, 111]
 ```
 
-2026-11-25 17 → 2026-11-27 56（+39）
+2026-11-25 17 → 2026-11-28 111（+94）
 
 
 ---

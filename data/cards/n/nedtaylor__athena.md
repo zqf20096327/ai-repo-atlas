@@ -1,6 +1,6 @@
 # nedtaylor/athena
 
-⭐ 39 · Fortran · MIT · 推送 2026-11-26 · [GitHub](https://github.com/nedtaylor/athena) · 个人维护
+⭐ 39 · Fortran · MIT · 推送 2026-11-27 · [GitHub](https://github.com/nedtaylor/athena) · 个人维护
 
 **面向物理应用的 Fortran 神经网络库：CNN、图网络与 PINN**
 
@@ -46,12 +46,12 @@ ATHENA 是以 Fortran 编写的神经网络开发库，侧重卷积神经网络�
 ```mermaid
 xychart-beta
     title "nedtaylor/athena 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-25 38 → 2026-11-27 39（+1）
+2026-10-26 38 → 2026-11-28 39（+1）
 
 
 ---

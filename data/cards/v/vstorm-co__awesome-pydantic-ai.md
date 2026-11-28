@@ -1,6 +1,6 @@
 # vstorm-co/awesome-pydantic-ai
 
-⭐ 110 · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/vstorm-co/awesome-pydantic-ai) · [官网](https://vstorm-co.github.io/awesome-pydantic-ai/) · 组织维护
+⭐ 111 · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/vstorm-co/awesome-pydantic-ai) · [官网](https://vstorm-co.github.io/awesome-pydantic-ai/) · 组织维护
 
 **Pydantic AI 生态资源策展清单：框架、库、教程与案例**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "vstorm-co/awesome-pydantic-ai 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 106 --> 111
-    line [107, 108, 110, 110]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 106 --> 112
+    line [107, 108, 110, 111]
 ```
 
-2026-10-25 107 → 2026-11-27 110（+3）
+2026-10-26 107 → 2026-11-28 111（+4）
 
 
 ---

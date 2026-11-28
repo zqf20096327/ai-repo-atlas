@@ -1,6 +1,6 @@
 # keinsaasforever/better-chatbot
 
-⭐ 1,196 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/keinsaasforever/better-chatbot) · [官网](https://app.keinsaas.com/) · 组织维护
+⭐ 1,197 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/keinsaasforever/better-chatbot) · [官网](https://app.keinsaas.com/) · 组织维护
 
 **自托管的 AI 对话与 agent 工作平台**
 
@@ -46,13 +46,13 @@ keinsaas Navigator（前身 better-chatbot）是一个可自托管的开源 AI �
 
 ```mermaid
 xychart-beta
-    title "keinsaasforever/better-chatbot 星数(近 13 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-26", "2026-11-27"]
+    title "keinsaasforever/better-chatbot 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 1191 --> 1198
-    line [1192, 1193, 1194, 1193, 1192, 1197, 1196, 1197, 1196, 1197, 1196, 1195, 1196]
+    line [1192, 1193, 1194, 1193, 1192, 1197, 1196, 1197, 1196, 1197, 1196, 1195, 1196, 1197]
 ```
 
-2026-10-25 1,192 → 2026-11-27 1,196（+4）
+2026-10-26 1,192 → 2026-11-28 1,197（+5）
 
 
 ---

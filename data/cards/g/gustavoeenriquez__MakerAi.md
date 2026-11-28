@@ -1,6 +1,6 @@
 # gustavoeenriquez/MakerAi
 
-⭐ 219 · Pascal · MIT · 推送 2026-11-24 · [GitHub](https://github.com/gustavoeenriquez/MakerAi) · [官网](https://www.youtube.com/@cimamaker3945) · 个人维护
+⭐ 220 · Pascal · MIT · 推送 2026-11-24 · [GitHub](https://github.com/gustavoeenriquez/MakerAi) · [官网](https://www.youtube.com/@cimamaker3945) · 个人维护
 
 **给 Delphi/Free Pascal 开发者构建 AI 应用的原生框架**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gustavoeenriquez/MakerAi 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 214 --> 220
-    line [215, 217, 218, 219]
+    title "gustavoeenriquez/MakerAi 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 214 --> 221
+    line [215, 217, 218, 219, 220]
 ```
 
-2026-10-25 215 → 2026-11-27 219（+4）
+2026-10-26 215 → 2026-11-28 220（+5）
 
 
 ---

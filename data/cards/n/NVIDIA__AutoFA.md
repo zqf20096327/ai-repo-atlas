@@ -1,6 +1,6 @@
 # NVIDIA/AutoFA
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/NVIDIA/AutoFA) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/NVIDIA/AutoFA) · 组织维护
 
 **面向 agent 评测运行的自动化失败分析工具包**
 
@@ -47,12 +47,12 @@ NVIDIA AutoFA 读取已完成的评测运行（本地 NeMo Gym、Harbor 目录�
 ```mermaid
 xychart-beta
     title "NVIDIA/AutoFA 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 12（+2）
 
 
 ---

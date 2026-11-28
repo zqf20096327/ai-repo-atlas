@@ -1,6 +1,6 @@
 # KaranocaVe/magpie-fingerprint
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/KaranocaVe/magpie-fingerprint) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/KaranocaVe/magpie-fingerprint) · 个人维护 · 中文 README
 
 **Magpie 内的模型指纹诊断插件：排查疑似模型替换**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KaranocaVe/magpie-fingerprint 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 4 --> 15
-    line [5, 7, 11, 12, 13, 14]
+    title "KaranocaVe/magpie-fingerprint 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 16
+    line [5, 7, 11, 12, 13, 14, 15]
 ```
 
-2026-11-08 5 → 2026-11-27 14（+9）
+2026-11-08 5 → 2026-11-28 15（+10）
 
 
 ---

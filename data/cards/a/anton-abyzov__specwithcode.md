@@ -1,6 +1,6 @@
 # anton-abyzov/specwithcode
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/anton-abyzov/specwithcode) · [官网](https://specwithcode.com) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/anton-abyzov/specwithcode) · [官网](https://specwithcode.com) · 个人维护
 
 **一个桌面应用统一管理多个编码 Agent 并跨供应商续接任务线程**
 
@@ -46,13 +46,13 @@ Electron 桌面应用与可选本地服务器，把 Claude Code、Codex、Copilo
 
 ```mermaid
 xychart-beta
-    title "anton-abyzov/specwithcode 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-20", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 20
-    line [4, 5, 6, 18, 19]
+    title "anton-abyzov/specwithcode 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-20", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 26
+    line [4, 5, 6, 18, 19, 24]
 ```
 
-2026-11-08 4 → 2026-11-27 19（+15）
+2026-11-08 4 → 2026-11-28 24（+20）
 
 
 ---

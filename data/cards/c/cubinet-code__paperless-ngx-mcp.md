@@ -1,6 +1,6 @@
 # cubinet-code/paperless-ngx-mcp
 
-⭐ 15 · TypeScript · ISC · 推送 2026-09-30 · [GitHub](https://github.com/cubinet-code/paperless-ngx-mcp) · [官网](https://www.npmjs.com/package/paperless-ngx-mcp) · 组织维护
+⭐ 16 · TypeScript · ISC · 推送 2026-09-30 · [GitHub](https://github.com/cubinet-code/paperless-ngx-mcp) · [官网](https://www.npmjs.com/package/paperless-ngx-mcp) · 组织维护
 
 **让 AI 助手管理 Paperless-NGX 文档库的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cubinet-code/paperless-ngx-mcp 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 15]
+    title "cubinet-code/paperless-ngx-mcp 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 14, 15, 16]
 ```
 
-2026-10-25 11 → 2026-11-27 15（+4）
+2026-10-26 11 → 2026-11-28 16（+5）
 
 
 ---

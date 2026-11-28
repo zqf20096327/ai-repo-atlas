@@ -1,6 +1,6 @@
 # LayerNorm/overlay-web
 
-⭐ 201 · HTML · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/LayerNorm/overlay-web) · [官网](https://overlay.works/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **人与 AI agent 共享上下文协作的开源工作区**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

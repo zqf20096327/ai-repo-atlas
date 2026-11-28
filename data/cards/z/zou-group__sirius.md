@@ -1,6 +1,6 @@
 # zou-group/sirius
 
-⭐ 113 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/zou-group/sirius) · [官网](https://arxiv.org/pdf/2502.04780) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自提升多智能体框架：从轨迹经验库引导推理增强**
 
@@ -11,7 +11,7 @@ NeurIPS 2025 论文 SiriuS 的官方代码库。核心机制是维护成功轨�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

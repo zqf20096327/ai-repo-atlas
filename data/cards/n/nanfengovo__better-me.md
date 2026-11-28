@@ -1,6 +1,6 @@
 # nanfengovo/better-me
 
-⭐ 7 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/nanfengovo/better-me) · [官网](https://nanfengovo.github.io/better-me/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地优先的简历制作与求职记录工作台，可选接入自有模型**
 

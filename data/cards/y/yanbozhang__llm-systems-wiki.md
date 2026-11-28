@@ -1,6 +1,6 @@
 # yanbozhang/llm-systems-wiki
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yanbozhang/llm-systems-wiki) · [官网](https://yanbozhang.github.io/llm-systems-wiki/) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/yanbozhang/llm-systems-wiki) · [官网](https://yanbozhang.github.io/llm-systems-wiki/) · 个人维护 · 中文 README
 
 **中文大模型与 Agent 系统学习 Wiki：45 主题、135 知识点**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yanbozhang/llm-systems-wiki 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-27"]
+    x-axis ["2026-10-28", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-27 3（+0）
+2026-10-28 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DeliciousBuding/metapi-go
 
-⭐ 28 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/DeliciousBuding/metapi-go) · 个人维护 · 中文 README
+⭐ 28 · Go · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/DeliciousBuding/metapi-go) · 个人维护 · 中文 README
 
 **把多个 AI API 中转站聚合成统一网关的 Go 自托管服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DeliciousBuding/metapi-go 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 21 --> 29
     line [22, 24, 25, 22, 28, 28]
 ```
 
-2026-10-25 22 → 2026-11-27 28（+6）
+2026-10-26 22 → 2026-11-28 28（+6）
 
 
 ---

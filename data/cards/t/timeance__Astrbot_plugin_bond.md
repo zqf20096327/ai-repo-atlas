@@ -45,12 +45,12 @@ Bond 是 AstrBot 的关系记忆插件，面向长期多人群聊。对每位成
 ```mermaid
 xychart-beta
     title "timeance/Astrbot_plugin_bond 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-27 5（+0）
+2026-11-08 5 → 2026-11-28 5（+0）
 
 
 ---

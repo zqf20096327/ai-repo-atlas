@@ -45,12 +45,12 @@ MICCAI 2021 论文 You Only Learn Once 的官方 PyTorch 实现：在混合数�
 ```mermaid
 xychart-beta
     title "MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 97 --> 101
     line [98, 99, 100, 100]
 ```
 
-2026-11-02 98 → 2026-11-27 100（+2）
+2026-11-02 98 → 2026-11-28 100（+2）
 
 
 ---

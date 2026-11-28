@@ -44,12 +44,12 @@ Qovery 维护的应用迁移代理：通过 Heroku 等 API 读取待迁移应用
 ```mermaid
 xychart-beta
     title "Qovery/qovery-migration-ai-agent 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-25 25 → 2026-11-27 25（+0）
+2026-10-26 25 → 2026-11-28 25（+0）
 
 
 ---

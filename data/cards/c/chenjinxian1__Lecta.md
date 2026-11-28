@@ -1,6 +1,6 @@
 # chenjinxian1/Lecta
 
-⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/chenjinxian1/Lecta) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/chenjinxian1/Lecta) · 个人维护 · 中文 README
 
 **面向英语学习学生的课件精读工具：AI 笔记+查词+间隔复习**
 
@@ -40,6 +40,18 @@ Lecta 把 .pptx/.ppt/.pdf 课件渲染为阅读页，为每页幻灯片生成 AI
 > L10: **Lecta** turns lecture slides into a study page: the slide on the left, an AI-written explanation for that slide o
 > L24: |🔑 **Uses the AI you already have**|No API key needed. Use ChatGPT, Claude or Kimi in the browser (Lecta writes the
 > L124: |**Web chat** (default)|Any chatbot account: ChatGPT, Claude, Kimi, DeepSeek, Qwen…|Most people, no API key|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chenjinxian1/Lecta 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
 
 
 ---

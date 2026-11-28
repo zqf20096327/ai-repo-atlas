@@ -45,12 +45,12 @@ AWS Certified Machine Learning-Specialty (ML-S) 视频课程（Pearson 出版）
 ```mermaid
 xychart-beta
     title "noahgift/aws-ml-guide 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 122 --> 124
     line [123, 123]
 ```
 
-2026-11-25 123 → 2026-11-27 123（+0）
+2026-11-25 123 → 2026-11-28 123（+0）
 
 
 ---

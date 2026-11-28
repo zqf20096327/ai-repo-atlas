@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "qingchencloud/openclaw-standalone 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-10", "2026-11-27"]
+    title "qingchencloud/openclaw-standalone 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-10", "2026-11-28"]
     y-axis "stars" 36 --> 39
-    line [38, 37, 38, 37, 37]
+    line [37, 38, 37, 37]
 ```
 
-2026-10-25 38 → 2026-11-27 37（-1）
+2026-10-26 37 → 2026-11-28 37（+0）
 
 
 ---

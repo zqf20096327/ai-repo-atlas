@@ -1,6 +1,6 @@
 # google-deepmind/formal-quantum-computation
 
-⭐ 113 · Lean · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-deepmind/formal-quantum-computation) · 组织维护
+⭐ 115 · Lean · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-deepmind/formal-quantum-computation) · 组织维护
 
 **量子程序形式化规范与验证的 Lean 4 库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/formal-quantum-computation 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 32 --> 120
-    line [39, 100, 113]
+    title "google-deepmind/formal-quantum-computation 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 32 --> 122
+    line [39, 100, 113, 115]
 ```
 
-2026-11-25 39 → 2026-11-27 113（+74）
+2026-11-25 39 → 2026-11-28 115（+76）
 
 
 ---

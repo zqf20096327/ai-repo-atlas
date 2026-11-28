@@ -1,6 +1,6 @@
 # zinan92/daily-newsletter
 
-⭐ 10 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/zinan92/daily-newsletter) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/zinan92/daily-newsletter) · [官网](https://park-ai-intel.com/daily/) · 个人维护 · 中文 README
 
 **个人 AI 信息日报流水线：抓取多源内容生成中文日报**
 
@@ -45,12 +45,12 @@ local-first 的每日信息流水线，从官方博客、RSS、GitHub Trending�
 ```mermaid
 xychart-beta
     title "zinan92/daily-newsletter 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-25 10 → 2026-11-27 10（+0）
+2026-11-25 10 → 2026-11-28 10（+0）
 
 
 ---

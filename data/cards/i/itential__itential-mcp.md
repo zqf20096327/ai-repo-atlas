@@ -45,12 +45,12 @@ Itential 官方维护的 Model Context Protocol 服务器，向 AI 助手暴露 
 ```mermaid
 xychart-beta
     title "itential/itential-mcp 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-25 36 → 2026-11-27 36（+0）
+2026-10-26 36 → 2026-11-28 36（+0）
 
 
 ---

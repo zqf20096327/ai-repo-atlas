@@ -1,6 +1,6 @@
 # zeaphoo/pi-star
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/zeaphoo/pi-star) · [官网](quadhub.cloud/product/pi-star/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/zeaphoo/pi-star) · [官网](quadhub.cloud/product/pi-star/) · 个人维护 · 中文 README
 
 **pi coding agent 的跨平台桌面工作台，集编码循环于一窗**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zeaphoo/pi-star 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-27"]
+    x-axis ["2026-11-13", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-27 3（+0）
+2026-11-13 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -41,6 +41,18 @@ Chrome/Edge 浏览器扩展，在消息发出前把敏感数据替换为占位�
 > L5: Antes de que un mensaje salga de tu navegador, AEGIS cambia los datos sensibles por etiquetas (`[EMAIL_ADDRESS_1]`, 
 > L74: Todo se procesa en tu navegador. No hay servidor, cuentas, analíticas ni telemetría. El detalle de qué guarda la ex
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "erikarbaiza/aegis-privacy-shield 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `9f5dca72ae81` · [字段定义](../../DATASET.md)*

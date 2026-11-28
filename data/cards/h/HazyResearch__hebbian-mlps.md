@@ -43,13 +43,13 @@ HazyResearch 发布的论文《MLPs are Hebbians: Constructing Efficient Fact-St
 
 ```mermaid
 xychart-beta
-    title "HazyResearch/hebbian-mlps 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "HazyResearch/hebbian-mlps 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-25 34 → 2026-11-27 35（+1）
+2026-10-26 34 → 2026-11-28 35（+1）
 
 
 ---

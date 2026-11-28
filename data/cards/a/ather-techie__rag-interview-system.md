@@ -1,6 +1,6 @@
 # ather-techie/rag-interview-system
 
-⭐ 198 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ather-techie/rag-interview-system) · [官网](https://ather-techie.github.io/rag-interview-system/) · 个人维护
+⭐ 200 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ather-techie/rag-interview-system) · [官网](https://ather-techie.github.io/rag-interview-system/) · 个人维护
 
 **面向 AI/LLM 工程师的 RAG 面试题库（1619 题、52 种架构）**
 
@@ -46,12 +46,12 @@ RAG 面试准备知识库：收录 1619 道问答，覆盖 52 种 RAG 架构、�
 ```mermaid
 xychart-beta
     title "ather-techie/rag-interview-system 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 168 --> 200
-    line [170, 174, 177, 182, 170, 184, 186, 187, 188, 195, 198]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 167 --> 203
+    line [174, 177, 182, 170, 184, 186, 187, 188, 195, 198, 200]
 ```
 
-2026-10-25 170 → 2026-11-27 198（+28）
+2026-10-26 174 → 2026-11-28 200（+26）
 
 
 ---

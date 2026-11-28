@@ -1,6 +1,6 @@
 # HiQ-AI/dingtalk-dsh-assistant
 
-⭐ 11 · JavaScript · 推送 2026-11-09 · [GitHub](https://github.com/HiQ-AI/dingtalk-dsh-assistant) · 组织维护 · 中文 README
+⭐ 12 · JavaScript · 推送 2026-11-09 · [GitHub](https://github.com/HiQ-AI/dingtalk-dsh-assistant) · 组织维护 · 中文 README
 
 **把钉钉群聊接入 DeepSeek Harness 的数字员工插件**
 
@@ -46,12 +46,12 @@ TypeScript 编写的 DSH 插件，将钉钉群消息接入 DeepSeek Harness：�
 ```mermaid
 xychart-beta
     title "HiQ-AI/dingtalk-dsh-assistant 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-27"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-12", "2026-11-28"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-11-12 11 → 2026-11-27 11（+0）
+2026-11-12 11 → 2026-11-28 12（+1）
 
 
 ---

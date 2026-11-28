@@ -1,6 +1,6 @@
 # wangkant/personagent
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/wangkant/personagent) · 个人维护 · 中文 README
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/wangkant/personagent) · 个人维护 · 中文 README
 
 **会看时机发言、能从纠正中学习的群聊角色机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wangkant/personagent 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 19 --> 24
-    line [20, 22, 20, 22, 23, 23]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 19 --> 25
+    line [20, 22, 20, 22, 23, 24]
 ```
 
-2026-10-25 20 → 2026-11-27 23（+3）
+2026-10-26 20 → 2026-11-28 24（+4）
 
 
 ---

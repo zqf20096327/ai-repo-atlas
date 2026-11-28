@@ -1,6 +1,6 @@
 # janus-sh/Janus
 
-⭐ 6,556 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/janus-sh/Janus) · 个人维护
+⭐ 6,558 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/janus-sh/Janus) · 个人维护
 
 **终端里用免费模型的编码 agent：读码、改文件、跑命令**
 
@@ -40,6 +40,18 @@
 > L8: **A free coding agent in your terminal.** It reads your code, edits files and runs commands, like the paid ones. The
 > L32: - Janus keeps a ranked list of free models: which ones are smartest, and which answered a ping in the last hours. T
 > L34: - Each request goes to the best model on the list that you have a key for and that is awake.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "janus-sh/Janus 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 6555 --> 6559
+    line [6556, 6558]
+```
+
+2026-11-27 6,556 → 2026-11-28 6,558（+2）
 
 
 ---

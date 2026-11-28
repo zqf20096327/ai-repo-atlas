@@ -1,10 +1,10 @@
 # openagents-org/openagents
 
-⭐ 4,461 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
+⭐ 4,469 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
 
-**团队与 AI agent 协作的共享工作区**
+**多人协作运行 AI coding agent 的开源工作区**
 
-开源工作区，将用户已运行的 AI coding agents（如 Claude Code、Codex、OpenCode）接入统一的线程式协作空间：支持在线程中 @ agent、共享浏览器预览、发布前审批、定时例程、Issue 与实验性 Workflow，以及 iOS/Android 移动端查看回复。提供托管工作区与自托管两种方式，附带 connector CLI（agn）、npm 包与 Python SDK 用于构建多 agent 网络。桌面 launcher 与 connector 采用 MIT 许可，根仓库为 Apache 2.0。
+开源工作区，把用户已在使用的 Claude Code、Codex 等 coding agent 汇聚到同一环境中：以线程形式与 agent 协作、共享浏览器查看 agent 操作、发布前进行审批，并提供 Routine 定时任务、Issue/Workflow、Knowledge 存储与移动端（iOS/Android）查看。接入方式包括托管工作区或自托管，通过 agn CLI 连接本地/服务器上的 agent 或 Cloud Agents，另提供 Python SDK 与 npm 包构建多 agent 网络。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 线程内 @ agent 协作、共享浏览器与人工审批流
-- 支持接入数十种本地/云端 coding agents（Aider、Cline、Cursor 等）
-- 定时例程（Routine）与实验性 Workflow、Issue 管理
-- 提供 connector CLI（agn）、npm 包与 Python SDK
+- 以线程协作、共享浏览器、发布前审批的工作区机制
+- Routine 定时任务与带 Draft/Review/Publish 步骤的实验性 Workflow
+- agn CLI 配对连接本地或服务器上的 agent，支持导入既有会话
+- Python SDK 与 npm 包用于构建多 agent 网络与运行时集成
 
 ## 适用场景
 
-- 把团队已在用的 coding agents 接入统一工作区协作
-- 让 agent 定时执行检查并在需要时回线程请求审核
-- 团队成员在手机上查看 agent 运行结果并指派任务
+- 团队与多个 coding agent 在同一工作区协作开发
+- 将定时检查类请求交给 agent 以 Routine 方式执行
+- 在手机上跟进 agent 的测试结果并分配失败项
+- 自托管工作区供团队内部使用
 
 ## 场景标签
 
-`多智能体` · 领域:Agent 开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L10: Bring Claude Code, Codex, and the agents you already run into one open-source workspace. Work with them in threads,
+> L3: # OpenAgents Workspace — the collaboration OS for people and AI agents
+> L89: Use the OpenAgents Launcher to connect AI coding agents running on your computer or a server. Cloud agents can join
 > L112: |Manage agents from a script or integrate an agent runtime|Agent connector · npm package · Runtime adapters|
-> L87: ## Supported agents
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "openagents-org/openagents 星数(近 27 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 4233 --> 4481
-    line [4253, 4258, 4262, 4271, 4277, 4285, 4291, 4299, 4304, 4253, 4351, 4371, 4378, 4390, 4397, 4403, 4405, 4411, 4416, 4423, 4432, 4436, 4439, 4442, 4447, 4453, 4461]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 4232 --> 4490
+    line [4258, 4262, 4271, 4277, 4285, 4291, 4299, 4304, 4253, 4351, 4371, 4378, 4390, 4397, 4403, 4405, 4411, 4416, 4423, 4432, 4436, 4439, 4442, 4447, 4453, 4461, 4469]
 ```
 
-2026-10-25 4,253 → 2026-11-27 4,461（+208）
+2026-10-26 4,258 → 2026-11-28 4,469（+211）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `448eff6d3236` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ae4bb7b69fc0` · [字段定义](../../DATASET.md)*

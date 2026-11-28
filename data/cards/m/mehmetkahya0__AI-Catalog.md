@@ -1,10 +1,10 @@
 # mehmetkahya0/AI-Catalog
 
-⭐ 504 · HTML · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/mehmetkahya0/AI-Catalog) · [官网](https://mehmetkahya0.github.io/AI-Catalog/) · 个人维护
+⭐ 505 · HTML · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/mehmetkahya0/AI-Catalog) · [官网](https://mehmetkahya0.github.io/AI-Catalog/) · 个人维护
 
-**500+ AI 工具与模型的分类策展清单**
+**面向 AI 工具使用者的 500+ 工具在线目录清单**
 
-以 awesome-list 形式维护的 AI 资源目录，收录 500+ 工具与模型，按 40+ 类别组织（创意生成、助手与聊天、LLM、内容写作、开发工具、教育、商业、娱乐等），每条附免费/付费/免费增值等标记；另提供可搜索、可过滤的在线站点浏览。由维护者人工浏览互联网收录，接受 PR 贡献，定期更新。仓库本身不安装、不运行，仅作发现与检索用途。
+以 awesome-list 形式组织的 AI 工具、平台与资源目录，声称收录 500+ 条目、40+ 类别，覆盖创意生成、助手聊天、LLM、内容写作、教育、开发者工具等。每条目附 Free/Paid/Freemium 等标签，并提供可搜索、可筛选的 GitHub Pages 在线版本。由维护者自行浏览收集条目，更新频率取决于个人浏览；README 声明部分条目由 Claude Sonnet 4 协助编写脚本。仓库本身不提供工具的安装或运行方式。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 500+ 条目覆盖 40+ 类别
-- 每条目带 Free/Paid/Freemium/New/Popular 标记图例
-- 配套 GitHub Pages 在线站点，支持搜索与过滤
-- 接受社区 PR 贡献，注明最后更新日期
+- 500+ 条 AI 工具/平台条目，40+ 分类组织
+- 每条目标注 Free/Paid/Freemium/New/Popular 图例
+- 提供 GitHub Pages 在线可搜索、可筛选版本
+- 开放 PR 贡献
 
 ## 适用场景
 
-- 按类别浏览查找某类 AI 工具或模型
-- 为选型调研收集候选产品清单
-- 通过在线站点搜索过滤特定领域的 AI 资源
+- 按类别浏览查找某领域的 AI 工具
+- 查找本地自托管的开源 LLM 方案
+- 了解文本生成图像、视频摘要等细分工具选项
 
 ## 场景标签
 
@@ -38,20 +38,20 @@
 ## 证据(README 行号)
 
 > L3: > **A comprehensive, curated collection of 500+ AI tools, platforms, and resources across 40+ categories**
-> L59: Welcome to the most comprehensive AI tools catalog! This repository contains **500+ carefully curated AI tools** ac
+> L7: *Your one-stop destination for discovering the best AI tools across all domains - from creative AI to developer tool
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mehmetkahya0/AI-Catalog 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-28"]
     y-axis "stars" 497 --> 506
-    line [498, 499, 500, 498, 502, 503, 504, 505, 504, 505, 504, 504]
+    line [498, 499, 500, 498, 502, 503, 504, 505, 504, 505, 504, 505]
 ```
 
-2026-10-25 498 → 2026-11-27 504（+6）
+2026-10-26 498 → 2026-11-28 505（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3dd5ddbb14c7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `b57354f15a17` · [字段定义](../../DATASET.md)*

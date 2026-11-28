@@ -1,6 +1,6 @@
 # PlasmaControl/FusionAIHub
 
-⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/PlasmaControl/FusionAIHub) · [官网](https://control.princeton.edu/) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/PlasmaControl/FusionAIHub) · [官网](https://control.princeton.edu/) · 组织维护
 
 **聚变实验机器学习工作流的训练平台与工具集**
 
@@ -46,12 +46,12 @@ FAITH 是面向聚变（DIII-D 数据）机器学习工作流的集中式平台�
 ```mermaid
 xychart-beta
     title "PlasmaControl/FusionAIHub 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-27 10（+0）
+2026-11-02 10 → 2026-11-28 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # cxlinux-ai/cx-core
 
-⭐ 83 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cxlinux-ai/cx-core) · [官网](https://cxlinux.ai/) · 组织维护
+⭐ 84 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cxlinux-ai/cx-core) · [官网](https://cxlinux.ai/) · 组织维护
 
 **AI 原生 Linux 终端：自然语言执行 Ubuntu/Debian 系统管理**
 
@@ -45,13 +45,13 @@ CX Linux 定位为 AI 原生操作系统层，核心组件为 cx-terminal 终端
 
 ```mermaid
 xychart-beta
-    title "cxlinux-ai/cx-core 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 81 --> 84
-    line [82, 83]
+    title "cxlinux-ai/cx-core 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 81 --> 85
+    line [82, 83, 84]
 ```
 
-2026-11-26 82 → 2026-11-27 83（+1）
+2026-11-26 82 → 2026-11-28 84（+2）
 
 
 ---

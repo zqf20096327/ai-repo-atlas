@@ -1,6 +1,6 @@
 # Nihongo-editor/crypto-accumulation-scanner
 
-⭐ 153 · TypeScript · 推送 2026-11-26 · [GitHub](https://github.com/Nihongo-editor/crypto-accumulation-scanner) · 个人维护
+⭐ 153 · TypeScript · 推送 2026-11-27 · [GitHub](https://github.com/Nihongo-editor/crypto-accumulation-scanner) · 个人维护
 
 **给加密货币交易者的吸筹形态扫描机器人，定时推送排名候选清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Nihongo-editor/crypto-accumulation-scanner 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-28"]
     y-axis "stars" 152 --> 154
     line [153, 153]
 ```
 
-2026-11-18 153 → 2026-11-27 153（+0）
+2026-11-18 153 → 2026-11-28 153（+0）
 
 
 ---

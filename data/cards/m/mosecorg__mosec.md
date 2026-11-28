@@ -1,6 +1,6 @@
 # mosecorg/mosec
 
-⭐ 905 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/mosecorg/mosec) · [官网](https://mosecorg.github.io/mosec/) · 组织维护
+⭐ 906 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/mosecorg/mosec) · [官网](https://mosecorg.github.io/mosec/) · 组织维护
 
 **面向开发者的 ML 模型服务化框架，支持动态批处理与流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mosecorg/mosec 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-28"]
     y-axis "stars" 901 --> 907
-    line [902, 903, 904, 905, 906, 905, 905]
+    line [902, 903, 904, 905, 906, 905, 906]
 ```
 
-2026-10-25 902 → 2026-11-27 905（+3）
+2026-10-26 902 → 2026-11-28 906（+4）
 
 
 ---

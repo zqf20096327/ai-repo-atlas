@@ -1,6 +1,6 @@
 # ChromaDotNet/ChromaDB.Client
 
-⭐ 36 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ChromaDotNet/ChromaDB.Client) · [官网](https://chromadotnet.org) · 组织维护
+⭐ 36 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ChromaDotNet/ChromaDB.Client) · [官网](https://chromadotnet.org) · 组织维护
 
 **Chroma 向量数据库的 .NET 客户端库，支持 Chroma Cloud**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChromaDotNet/ChromaDB.Client 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-25 36 → 2026-11-27 36（+0）
+2026-10-26 36 → 2026-11-28 36（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # UnimeType/unimetype
 
-⭐ 3 · Shell · 推送 2026-11-22 · [GitHub](https://github.com/UnimeType/unimetype) · [官网](https://unimetype.com) · 组织维护
+⭐ 5 · Shell · 推送 2026-11-27 · [GitHub](https://github.com/UnimeType/unimetype) · [官网](https://unimetype.com) · 组织维护
 
 **双语者输入法：ASCII 打字后一键转写为母语文字**
 
@@ -46,12 +46,12 @@ UnimeType 是覆盖 macOS/Windows/Linux/iOS/Android/ChromeOS 的输入法客户�
 ```mermaid
 xychart-beta
     title "UnimeType/unimetype 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 5（+2）
 
 
 ---

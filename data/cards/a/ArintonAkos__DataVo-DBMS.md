@@ -1,6 +1,6 @@
 # ArintonAkos/DataVo-DBMS
 
-⭐ 16 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ArintonAkos/DataVo-DBMS) · [官网](https://arintonakos.github.io/DataVo-DBMS/) · 个人维护
+⭐ 18 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ArintonAkos/DataVo-DBMS) · [官网](https://arintonakos.github.io/DataVo-DBMS/) · 个人维护
 
 **.NET 嵌入式数据库：进程内 SQL、LSM 存储、HNSW 向量搜索**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArintonAkos/DataVo-DBMS 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16]
+    title "ArintonAkos/DataVo-DBMS 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 13 --> 19
+    line [14, 15, 16, 18]
 ```
 
-2026-11-25 14 → 2026-11-27 16（+2）
+2026-11-25 14 → 2026-11-28 18（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # dadafeiGeorge/zheqimingsi
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/dadafeiGeorge/zheqimingsi) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/dadafeiGeorge/zheqimingsi) · 个人维护 · 中文 README
 
 **面向哲学研读者的离线典藏阅读器，带 AI 伴读、电台与翻译**
 
@@ -40,6 +40,18 @@
 > L5: **离线哲学典藏阅读器 & 微软神经网络电台 & AI 哲思伴读翻译（Windows 桌面端 + Android 移动端）**
 > L26: **哲启明思（PHILO FM）** 是一款离线优先、面向哲学深度研读与沉浸听书体验的跨端开源应用，同时提供 **Windows 单文件便携桌面端**（Electron）与 **Android 原生增强移动端**（Kotlin +
 > L33: - **多协议模型全覆盖**：内置 **DeepSeek、OpenAI、硅基流动 SiliconFlow、Google Gemini、Anthropic Claude、OpenRouter、本地离线 Ollama** 及任意 Op
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dadafeiGeorge/zheqimingsi 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 11 --> 18
+    line [12, 17]
+```
+
+2026-11-27 12 → 2026-11-28 17（+5）
 
 
 ---

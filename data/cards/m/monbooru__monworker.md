@@ -40,6 +40,18 @@ monbooru 图像集合自托管体系中的机器学习组件，负责运行自�
 > L3: The Machine Learning (ONNX) worker of monbooru: it runs the auto-tagging models, on CPU or GPU.
 > L39: |`MONWORKER_PROVIDER`|`cpu`; `cuda` and `openvino` in those images|`cpu`, `cuda`, `directml`, `openvino`, ...|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "monbooru/monworker 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b8d2bc06e99e` · [字段定义](../../DATASET.md)*

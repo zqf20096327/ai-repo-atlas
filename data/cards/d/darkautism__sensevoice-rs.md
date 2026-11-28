@@ -1,6 +1,6 @@
 # darkautism/sensevoice-rs
 
-⭐ 43 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/darkautism/sensevoice-rs) · 个人维护
+⭐ 43 · Rust · 推送 2026-11-27 · [GitHub](https://github.com/darkautism/sensevoice-rs) · 个人维护
 
 **纯 Rust 语音识别库，支持 Rockchip NPU 运行 SenseVoiceSmall**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "darkautism/sensevoice-rs 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-25 43 → 2026-11-27 43（+0）
+2026-10-26 43 → 2026-11-28 43（+0）
 
 
 ---

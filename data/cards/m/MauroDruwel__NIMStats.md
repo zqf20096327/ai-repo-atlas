@@ -1,6 +1,6 @@
 # MauroDruwel/NIMStats
 
-⭐ 63 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/MauroDruwel/NIMStats) · [官网](https://nimstats.maurodruwel.be) · 个人维护
+⭐ 63 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/MauroDruwel/NIMStats) · [官网](https://nimstats.maurodruwel.be) · 个人维护
 
 **GitHub Actions 驱动的 NVIDIA NIM 模型每小时自动化基准与仪表盘**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MauroDruwel/NIMStats 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 56 --> 64
     line [57, 58, 57, 58, 57, 58, 60, 61, 63, 63]
 ```
 
-2026-10-25 57 → 2026-11-27 63（+6）
+2026-10-26 57 → 2026-11-28 63（+6）
 
 
 ---

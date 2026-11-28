@@ -1,6 +1,6 @@
 # ymcui/Chinese-Mixtral
 
-⭐ 612 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-Mixtral) · [官网](https://arxiv.org/abs/2403.01851) · 个人维护 · 中文 README
+⭐ 611 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-Mixtral) · [官网](https://arxiv.org/abs/2403.01851) · 个人维护 · 中文 README
 
 **中文增量训练的 Mixtral MoE 开源大模型及训练脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ymcui/Chinese-Mixtral 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 611 --> 614
-    line [613, 612, 612]
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 610 --> 614
+    line [613, 612, 611]
 ```
 
-2026-10-25 613 → 2026-11-27 612（-1）
+2026-10-26 613 → 2026-11-28 611（-2）
 
 
 ---

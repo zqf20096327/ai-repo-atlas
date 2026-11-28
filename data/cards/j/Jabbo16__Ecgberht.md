@@ -1,6 +1,6 @@
 # Jabbo16/Ecgberht
 
-⭐ 27 · Java · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Jabbo16/Ecgberht) · 个人维护
+⭐ 27 · Java · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Jabbo16/Ecgberht) · 个人维护
 
 **Java 编写的星际争霸母巢之战 AI 机器人，专打人族**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jabbo16/Ecgberht 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-25 27 → 2026-11-27 27（+0）
+2026-10-26 27 → 2026-11-28 27（+0）
 
 
 ---

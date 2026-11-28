@@ -1,6 +1,6 @@
 # OliverHennhoefer/nonconform
 
-⭐ 58 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/OliverHennhoefer/nonconform) · [官网](https://oliverhennhoefer.github.io/nonconform/) · 个人维护
+⭐ 58 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/OliverHennhoefer/nonconform) · [官网](https://oliverhennhoefer.github.io/nonconform/) · 个人维护
 
 **为异常检测器提供统计误报率保证的 Python 校准库**
 
@@ -47,12 +47,12 @@ nonconform 是一个 Python 异常检测库：将现有检测器（PyOD、scikit
 ```mermaid
 xychart-beta
     title "OliverHennhoefer/nonconform 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-11-25 58 → 2026-11-27 58（+0）
+2026-11-25 58 → 2026-11-28 58（+0）
 
 
 ---

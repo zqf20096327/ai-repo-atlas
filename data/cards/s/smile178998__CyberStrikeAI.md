@@ -1,6 +1,6 @@
 # smile178998/CyberStrikeAI
 
-⭐ 7 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/smile178998/CyberStrikeAI) · 个人维护 · 中文 README
+⭐ 13 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/smile178998/CyberStrikeAI) · 个人维护 · 中文 README
 
 **授权安全测试的 AI Agent 工作台：意图转为受控执行**
 
@@ -41,6 +41,18 @@
 > L9: CyberStrikeAI connects planning, execution, human oversight, evidence, and replay in one auditable workspace. Built 
 > L72: - 🤖 **Agentic execution** translates natural-language intent into governed, auditable security actions.
 > L79: - 🧰 **Security tools** include 100+ curated YAML recipes with custom extensions and role-scoped access.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "smile178998/CyberStrikeAI 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 6 --> 14
+    line [7, 13]
+```
+
+2026-11-27 7 → 2026-11-28 13（+6）
 
 
 ---

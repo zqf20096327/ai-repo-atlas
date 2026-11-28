@@ -45,12 +45,12 @@ Flutter 桌面应用（macOS + Windows），以节点画布组织 prompt→图�
 ```mermaid
 xychart-beta
     title "KerroKapple/InkFrame 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-25 30 → 2026-11-27 30（+0）
+2026-10-26 30 → 2026-11-28 30（+0）
 
 
 ---

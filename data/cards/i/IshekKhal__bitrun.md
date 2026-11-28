@@ -1,6 +1,6 @@
 # IshekKhal/bitrun
 
-⭐ 8 · Go · MIT · 推送 2026-10-15 · [GitHub](https://github.com/IshekKhal/bitrun) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **CPU 上一比特/1.58 比特三元 LLM 的零编译运行器与终端仪表盘**
 
@@ -11,7 +11,7 @@ BitRun 将本地 CPU 推理引擎打包为独立运行的 CLI 工具，面向 1-
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

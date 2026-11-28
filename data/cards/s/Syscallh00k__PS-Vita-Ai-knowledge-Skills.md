@@ -1,6 +1,6 @@
 # Syscallh00k/PS-Vita-Ai-knowledge-Skills
 
-⭐ 3 · 推送 2026-11-04 · [GitHub](https://github.com/Syscallh00k/PS-Vita-Ai-knowledge-Skills) · 个人维护
+⭐ 4 · 推送 2026-11-04 · [GitHub](https://github.com/Syscallh00k/PS-Vita-Ai-knowledge-Skills) · 个人维护
 
 **面向 AI 的 PS Vita 开发知识文档与任务技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Syscallh00k/PS-Vita-Ai-knowledge-Skills 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 4（+1）
 
 
 ---

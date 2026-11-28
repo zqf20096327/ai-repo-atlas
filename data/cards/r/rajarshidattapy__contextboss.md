@@ -46,12 +46,12 @@ ContextBoss 将上下文窗口当作预算管理：把 system、task、memory、
 ```mermaid
 xychart-beta
     title "rajarshidattapy/contextboss 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-26 4 → 2026-11-27 4（+0）
+2026-11-26 4 → 2026-11-28 4（+0）
 
 
 ---

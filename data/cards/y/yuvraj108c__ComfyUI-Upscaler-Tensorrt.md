@@ -44,13 +44,13 @@ ComfyUI 自定义节点，将 ESRGAN 架构超分模型（4x-UltraSharp、RealES
 
 ```mermaid
 xychart-beta
-    title "yuvraj108c/ComfyUI-Upscaler-Tensorrt 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "yuvraj108c/ComfyUI-Upscaler-Tensorrt 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 250 --> 253
-    line [251, 252, 251, 252, 252]
+    line [252, 251, 252, 252]
 ```
 
-2026-10-25 251 → 2026-11-27 252（+1）
+2026-10-26 252 → 2026-11-28 252（+0）
 
 
 ---

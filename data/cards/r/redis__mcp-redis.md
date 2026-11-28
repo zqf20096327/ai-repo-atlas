@@ -1,6 +1,6 @@
 # redis/mcp-redis
 
-⭐ 644 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/redis/mcp-redis) · [官网](https://redis.io/docs/latest/integrate/redis-mcp/) · 组织维护
+⭐ 644 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/redis/mcp-redis) · [官网](https://redis.io/docs/latest/integrate/redis-mcp/) · 组织维护
 
 **Redis 官方 MCP 服务器：让 AI 代理用自然语言管理并检索 Redis 数据**
 
@@ -46,13 +46,13 @@ Redis 官方维护的 MCP 服务器，为代理型应用提供自然语言接口
 
 ```mermaid
 xychart-beta
-    title "redis/mcp-redis 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-27"]
+    title "redis/mcp-redis 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-28"]
     y-axis "stars" 639 --> 645
-    line [640, 641, 640, 641, 642, 644, 644]
+    line [641, 640, 641, 642, 644, 644]
 ```
 
-2026-10-25 640 → 2026-11-27 644（+4）
+2026-10-26 641 → 2026-11-28 644（+3）
 
 
 ---

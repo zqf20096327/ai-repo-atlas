@@ -1,6 +1,6 @@
 # latere-ai/ai-as-an-infrastructure
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/latere-ai/ai-as-an-infrastructure) · [官网](https://aaai.latere.ai) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/latere-ai/ai-as-an-infrastructure) · [官网](https://aaai.latere.ai) · 个人维护 · 中文 README
 
 **面向系统工程师的 AI 基础设施交互式开放书**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "latere-ai/ai-as-an-infrastructure 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-18", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-11", "2026-11-18", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-11 10 → 2026-11-27 12（+2）
+2026-11-11 10 → 2026-11-28 13（+3）
 
 
 ---

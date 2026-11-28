@@ -1,6 +1,6 @@
 # Plural-Organization/Plural
 
-⭐ 5 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Plural-Organization/Plural) · [官网](https://plrl.host/) · 组织维护
+⭐ 7 · Python · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Plural-Organization/Plural) · [官网](https://plrl.host/) · 组织维护
 
 **为编码 agent 提供多人共享会话与权限门的协作 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Plural-Organization/Plural 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-02", "2026-11-15", "2026-11-28"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 7]
 ```
 
-2026-11-02 4 → 2026-11-27 5（+1）
+2026-11-02 4 → 2026-11-28 7（+3）
 
 
 ---

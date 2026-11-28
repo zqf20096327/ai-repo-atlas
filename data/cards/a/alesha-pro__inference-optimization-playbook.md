@@ -1,6 +1,6 @@
 # alesha-pro/inference-optimization-playbook
 
-⭐ 109 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/alesha-pro/inference-optimization-playbook) · 个人维护
+⭐ 115 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/alesha-pro/inference-optimization-playbook) · 个人维护
 
 **消费级 GPU 上运行大型 MoE LLM 的调优经验手册**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alesha-pro/inference-optimization-playbook 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 32 --> 116
-    line [39, 77, 84, 92, 109]
+    title "alesha-pro/inference-optimization-playbook 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 32 --> 122
+    line [39, 77, 84, 92, 109, 115]
 ```
 
-2026-11-22 39 → 2026-11-27 109（+70）
+2026-11-22 39 → 2026-11-28 115（+76）
 
 
 ---

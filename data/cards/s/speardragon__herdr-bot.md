@@ -1,6 +1,6 @@
 # speardragon/herdr-bot
 
-⭐ 7 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/speardragon/herdr-bot) · [官网](https://github.com/speardragon/herdr-bot/releases/latest) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **让 Claude Code/Codex/Grok 等 agent 以 bot 身份互相聊天的 macOS 应用**
 
@@ -11,7 +11,7 @@ herdr-bot 将 herdr 会话中运行的 agent CLI（Claude Code、Codex、Grok、
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

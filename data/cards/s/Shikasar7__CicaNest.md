@@ -1,6 +1,6 @@
 # Shikasar7/CicaNest
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Shikasar7/CicaNest) · 个人维护 · 中文 README
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Shikasar7/CicaNest) · 个人维护 · 中文 README
 
 **自托管的 AI 伙伴：桌宠、小窝与多平台群聊 bot**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shikasar7/CicaNest 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 12
-    line [4, 11]
+    title "Shikasar7/CicaNest 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 15
+    line [4, 11, 14]
 ```
 
-2026-11-26 4 → 2026-11-27 11（+7）
+2026-11-26 4 → 2026-11-28 14（+10）
 
 
 ---

@@ -44,12 +44,12 @@ VLDB 2026 论文 Quantization Meets Projection 的官方 C++/Python 实现：MRQ
 ```mermaid
 xychart-beta
     title "mingyu-hkustgz/RESQ 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-24 15 → 2026-11-27 15（+0）
+2026-10-25 15 → 2026-11-28 15（+0）
 
 
 ---

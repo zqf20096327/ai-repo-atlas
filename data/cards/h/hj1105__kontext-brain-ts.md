@@ -47,12 +47,12 @@ Apache-2.0 的 TypeScript/Node.js RAG 框架，面向 AI agent 与 MCP 客户端
 ```mermaid
 xychart-beta
     title "hj1105/kontext-brain-ts 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-25 31 → 2026-11-27 31（+0）
+2026-10-26 31 → 2026-11-28 31（+0）
 
 
 ---

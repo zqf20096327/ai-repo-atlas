@@ -1,6 +1,6 @@
 # BobbyCats/agy-hyper
 
-⭐ 4 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BobbyCats/agy-hyper) · 个人维护 · 中文 README
+⭐ 4 · HTML · MIT · 推送 2026-11-27 · [GitHub](https://github.com/BobbyCats/agy-hyper) · 个人维护 · 中文 README
 
 **为 Google Antigravity 用户诊断配额消耗并加速 MCP 调用的本地插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BobbyCats/agy-hyper 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-23 3 → 2026-11-27 4（+1）
+2026-11-23 3 → 2026-11-28 4（+1）
 
 
 ---

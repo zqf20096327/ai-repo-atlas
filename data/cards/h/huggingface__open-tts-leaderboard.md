@@ -1,6 +1,6 @@
 # huggingface/open-tts-leaderboard
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/huggingface/open-tts-leaderboard) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/huggingface/open-tts-leaderboard) · 组织维护
 
 **Open TTS Leaderboard 的评测脚本：批量评测 TTS 模型并发布榜单**
 
@@ -45,13 +45,13 @@ Hugging Face 维护的 TTS 模型评测流水线：通过 HF Jobs 在远程 GPU 
 
 ```mermaid
 xychart-beta
-    title "huggingface/open-tts-leaderboard 星数(近 9 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 9 --> 21
-    line [10, 12, 13, 14, 15, 16, 17, 18, 20]
+    title "huggingface/open-tts-leaderboard 星数(近 10 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 22
+    line [10, 12, 13, 14, 15, 16, 17, 18, 20, 21]
 ```
 
-2026-11-11 10 → 2026-11-27 20（+10）
+2026-11-11 10 → 2026-11-28 21（+11）
 
 
 ---

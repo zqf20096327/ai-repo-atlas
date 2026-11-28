@@ -1,6 +1,6 @@
 # Kanaries/ml
 
-⭐ 23 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Kanaries/ml) · [官网](https://ml.kanaries.net/docs) · 组织维护
+⭐ 23 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Kanaries/ml) · [官网](https://ml.kanaries.net/docs) · 组织维护
 
 **JavaScript/TypeScript 的 scikit-learn 风格机器学习库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kanaries/ml 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-18", "2026-11-28"]
     y-axis "stars" 20 --> 24
     line [21, 22, 23, 23]
 ```
 
-2026-10-25 21 → 2026-11-27 23（+2）
+2026-10-26 21 → 2026-11-28 23（+2）
 
 
 ---

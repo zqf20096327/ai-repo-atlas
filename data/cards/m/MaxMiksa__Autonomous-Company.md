@@ -1,16 +1,16 @@
 # MaxMiksa/Autonomous-Company
 
-⭐ 3,218 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MaxMiksa/Autonomous-Company) · 个人维护 · 中文 README
+⭐ 3,220 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/MaxMiksa/Autonomous-Company) · 个人维护 · 中文 README
 
-**在本机持续自主运转的多 Agent 'AI 公司'框架，含 14 个角色**
+**在本机持续自主运行的 14 角色 AI 公司框架**
 
-面向希望 AI 团队在本地持续工作的个人开发者：以 Claude Code（默认）或 Codex CLI 为引擎，通过 auto-loop 脚本循环读取共享工作摘要（consensus.md）、决策、组建 2-5 人团队、执行并更新摘要，由 launchd/systemd 守护进程自动重启。提供 14 个基于专家人设的角色定义、30+ 可复用技能、本地 Product Center 仪表盘（最多四项目并行）。运行需人类配置目标、权限与预算，持续运行依赖外部服务与模型可用性；支持 macOS 与 Windows/WSL。
+基于 Agentic Workflows 的多智能体框架，定义 14 个借鉴真实专家（如 DHH、Kelsey Hightower）思路的角色，用户配置目标、权限与预算后，循环守护进程按周期读取共识摘要、组建团队并执行研究、决策与编码工作。默认通过 Claude Code / Codex CLI 驱动，可选 Cursor 与 OpenAI 兼容适配器，需显式配置。本地提供产品中心 Dashboard 与基于 consensus.md 文件的人工干预机制。持续运行依赖所配置的服务与模型可用性。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 循环式自主工作流：读摘要→决策→组队→执行→更新摘要，守护进程崩溃自重启
-- 14 个专家人设角色定义与 30+ 可复用技能
-- 本地 Product Center：产品目录、只读导入、并行工作（默认 4 项目）
-- 文件式人类干预：编辑 consensus.md 的 Next Action/Human Overrides 引导方向
+- 14 个专家人格角色定义与 30+ 可复用技能
+- 守护进程循环：每周期读取 consensus.md 并按预算/权限执行
+- 本地产品中心 Dashboard，默认最多 4 个项目并行
+- 文件式人工干预（File-based Steering）与用量/预算治理
 
 ## 适用场景
 
-- 让 AI 团队在本地按预算与权限边界持续做研究、决策和写码
-- 并行管理与审查多个 AI 生成的产品/项目
-- 通过本地仪表盘监控工作循环、用量与日志
+- 在我的电脑上让多角色 agent 团队按设定目标持续工作
+- 用本地 Dashboard 管理多个并行 agent 项目与预算
+- 通过编辑 consensus.md 指导下一周期任务
 
 ## 场景标签
 
@@ -39,20 +39,20 @@
 
 > L7: Powered by **Agentic Workflows**, this project provides 14 **AI agent role definitions**, each drawing on an expert'
 > L10: Powered by Claude Code (default) and Codex CLI on macOS + Windows/WSL, with a local dashboard on both hosts.
-> L41: You start a loop. Each cycle reads the shared work summary, decides what to do, forms a team as needed, executes, u
+> L193: Autonomous-Company is not a simple LLM API wrapper, but a highly decoupled **Multi-Agent System (MAS)**. Its techn
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "MaxMiksa/Autonomous-Company 星数(近 24 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 3150 --> 3224
-    line [3156, 3157, 3158, 3159, 3162, 3166, 3173, 3178, 3179, 3156, 3194, 3195, 3196, 3197, 3198, 3199, 3198, 3200, 3204, 3205, 3206, 3210, 3212, 3218]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3150 --> 3226
+    line [3157, 3158, 3159, 3162, 3166, 3173, 3178, 3179, 3156, 3194, 3195, 3196, 3197, 3198, 3199, 3198, 3200, 3204, 3205, 3206, 3210, 3212, 3218, 3220]
 ```
 
-2026-10-25 3,156 → 2026-11-27 3,218（+62）
+2026-10-26 3,157 → 2026-11-28 3,220（+63）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `3c711112da75` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `6dae93ac0c50` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # eunomia-bpf/bpf-benchmark
 
-⭐ 28 · C · MIT · 推送 2026-11-26 · [GitHub](https://github.com/eunomia-bpf/bpf-benchmark) · 组织维护
+⭐ 28 · C · MIT · 推送 2026-11-27 · [GitHub](https://github.com/eunomia-bpf/bpf-benchmark) · 组织维护
 
 **LLM Agent 做 eBPF 优化的闭环评测基准与自动研究框架**
 
@@ -46,12 +46,12 @@ bpf-bench 将 eBPF 优化定义为 LLM agent 的闭环搜索问题：agent 选�
 ```mermaid
 xychart-beta
     title "eunomia-bpf/bpf-benchmark 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-28"]
     y-axis "stars" 24 --> 29
     line [25, 26, 25, 26, 27, 28, 28]
 ```
 
-2026-10-25 25 → 2026-11-27 28（+3）
+2026-10-26 25 → 2026-11-28 28（+3）
 
 
 ---

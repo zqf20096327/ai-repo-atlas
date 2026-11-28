@@ -1,6 +1,6 @@
 # noah-thing/lunchbox
 
-⭐ 18 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/noah-thing/lunchbox) · [官网](https://mylunchbox.dev) · 个人维护
+⭐ 19 · TypeScript · 推送 2026-11-27 · [GitHub](https://github.com/noah-thing/lunchbox) · [官网](https://mylunchbox.dev) · 个人维护
 
 **多 AI agent 共用协作的桌面工作区（Mac/Win/Linux）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "noah-thing/lunchbox 星数(近 8 点)"
-    x-axis ["2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 19
-    line [4, 7, 8, 10, 15, 16, 18, 18]
+    x-axis ["2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 3 --> 20
+    line [4, 7, 8, 10, 15, 16, 18, 19]
 ```
 
-2026-11-11 4 → 2026-11-27 18（+14）
+2026-11-11 4 → 2026-11-28 19（+15）
 
 
 ---

@@ -45,12 +45,12 @@ Pairwise Difference Learning（pdll）是 scikit-learn 兼容的元估计器，�
 ```mermaid
 xychart-beta
     title "Karim-53/pdll 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-25 23 → 2026-11-27 23（+0）
+2026-10-26 23 → 2026-11-28 23（+0）
 
 
 ---

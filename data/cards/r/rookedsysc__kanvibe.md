@@ -1,6 +1,6 @@
 # rookedsysc/kanvibe
 
-⭐ 152 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/rookedsysc/kanvibe) · [官网](https://kanvibe.rookedsysc.com) · 个人维护 · 中文 README
+⭐ 152 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/rookedsysc/kanvibe) · [官网](https://kanvibe.rookedsysc.com) · 个人维护 · 中文 README
 
 **面向 AI 编程 agent 的键盘优先桌面看板工作区**
 
@@ -45,12 +45,12 @@ macOS 桌面看板应用，将 Claude Code、Codex、Gemini CLI、OpenCode 等 A
 ```mermaid
 xychart-beta
     title "rookedsysc/kanvibe 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 146 --> 153
     line [147, 148, 147, 151, 152, 152]
 ```
 
-2026-10-25 147 → 2026-11-27 152（+5）
+2026-10-26 147 → 2026-11-28 152（+5）
 
 
 ---

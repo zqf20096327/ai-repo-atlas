@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-messaging-integrations
 
-⭐ 66 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/langchain-ai/langgraph-messaging-integrations) · 组织维护
+⭐ 66 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/langchain-ai/langgraph-messaging-integrations) · 组织维护
 
 **将 LangGraph 应用接入 Slack 的消息事件集成代码，开发者用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/langgraph-messaging-integrations 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-25 66 → 2026-11-27 66（+0）
+2026-10-26 66 → 2026-11-28 66（+0）
 
 
 ---

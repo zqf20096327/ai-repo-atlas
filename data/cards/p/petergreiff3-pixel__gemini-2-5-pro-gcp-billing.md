@@ -1,6 +1,6 @@
 # petergreiff3-pixel/gemini-2-5-pro-gcp-billing
 
-⭐ 115 · 推送 2026-11-06 · [GitHub](https://github.com/petergreiff3-pixel/gemini-2-5-pro-gcp-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 116 · 推送 2026-11-06 · [GitHub](https://github.com/petergreiff3-pixel/gemini-2-5-pro-gcp-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡以激活 GCP 结算的营销文档，非软件项目**
 
@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "petergreiff3-pixel/gemini-2-5-pro-gcp-billing 星数(近 12 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 125
-    line [8, 30, 43, 48, 53, 52, 49, 54, 68, 90, 114, 115]
+    title "petergreiff3-pixel/gemini-2-5-pro-gcp-billing 星数(近 13 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 126
+    line [8, 30, 43, 48, 53, 52, 49, 54, 68, 90, 114, 115, 116]
 ```
 
-2026-11-08 8 → 2026-11-27 115（+107）
+2026-11-08 8 → 2026-11-28 116（+108）
 
 
 ---

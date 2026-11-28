@@ -1,6 +1,6 @@
 # whshang/herdr-mcp
 
-⭐ 11 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/whshang/herdr-mcp) · [官网](https://whshang.github.io/herdr-mcp/) · 个人维护 · 中文 README
+⭐ 11 · Rust · 推送 2026-11-27 · [GitHub](https://github.com/whshang/herdr-mcp) · [官网](https://whshang.github.io/herdr-mcp/) · 个人维护 · 中文 README
 
 **让网页 AI 通过 Connector 读写本地文件并调度 Coding Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whshang/herdr-mcp 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 11（+1）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

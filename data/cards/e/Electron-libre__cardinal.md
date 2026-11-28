@@ -1,6 +1,6 @@
 # Electron-libre/cardinal
 
-⭐ 5 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Electron-libre/cardinal) · [官网](https://github.com/Electron-libre/cardinal/blob/main/docs/tutorial.md) · 个人维护
+⭐ 5 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Electron-libre/cardinal) · [官网](https://github.com/Electron-libre/cardinal/blob/main/docs/tutorial.md) · 个人维护
 
 **为多项目同步 Claude Code agent 技能、钩子与门禁的脚手架工具**
 
@@ -39,6 +39,18 @@ Cardinal 将一套 Claude Code 技能（issue 工作流、规范编写、发布�
 
 > L5: Cardinal is one agent harness for many projects. This repository holds the Claude Code skills, hooks, checks, option
 > L6: recipes and CI that a project needs to have an agent work its issues safely, plus `cardinal`, the tool that copies t
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Electron-libre/cardinal 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-27 5 → 2026-11-28 5（+0）
 
 
 ---

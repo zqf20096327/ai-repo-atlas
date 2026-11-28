@@ -1,6 +1,6 @@
 # knoxchat/knoxcoder
 
-⭐ 47 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/knoxchat/knoxcoder) · [官网](https://knoxstudio.ai) · 组织维护
+⭐ 47 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/knoxchat/knoxcoder) · [官网](https://knoxstudio.ai) · 组织维护
 
 **内置受治理编码代理的企业 VS Code 衍生编辑器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "knoxchat/knoxcoder 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-28"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-11-02 47 → 2026-11-27 47（+0）
+2026-11-02 47 → 2026-11-28 47（+0）
 
 
 ---

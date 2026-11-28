@@ -1,6 +1,6 @@
 # open-webui/helm-charts
 
-⭐ 295 · Go Template · 推送 2026-11-26 · [GitHub](https://github.com/open-webui/helm-charts) · 组织维护
+⭐ 295 · Go Template · 推送 2026-11-27 · [GitHub](https://github.com/open-webui/helm-charts) · 组织维护
 
 **Open WebUI 的 Helm Chart，用于 Kubernetes 部署**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "open-webui/helm-charts 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-27"]
+    title "open-webui/helm-charts 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-28"]
     y-axis "stars" 290 --> 296
-    line [291, 292, 291, 294, 295, 294, 295, 295]
+    line [292, 291, 294, 295, 294, 295, 295]
 ```
 
-2026-10-25 291 → 2026-11-27 295（+4）
+2026-10-26 292 → 2026-11-28 295（+3）
 
 
 ---

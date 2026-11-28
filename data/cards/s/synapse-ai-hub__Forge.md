@@ -1,6 +1,6 @@
 # synapse-ai-hub/Forge
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/synapse-ai-hub/Forge) · [官网](https://www.synapseaihub.com.ar) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/synapse-ai-hub/Forge) · [官网](https://www.synapseaihub.com.ar) · 组织维护
 
 **构建、编排并分发 AI agent 应用的开源 Python 框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "synapse-ai-hub/Forge 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-27 11（+1）
+2026-11-08 10 → 2026-11-28 11（+1）
 
 
 ---

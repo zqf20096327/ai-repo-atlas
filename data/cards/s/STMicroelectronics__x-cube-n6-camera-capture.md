@@ -45,12 +45,12 @@ ST 官方发布的 STM32Cube 扩展软件包：在 STM32N6570-DK 或 NUCLEO-N657
 ```mermaid
 xychart-beta
     title "STMicroelectronics/x-cube-n6-camera-capture 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-25 17 → 2026-11-27 17（+0）
+2026-10-26 17 → 2026-11-28 17（+0）
 
 
 ---

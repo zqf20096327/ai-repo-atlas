@@ -1,6 +1,6 @@
 # noumena-labs/Sipp
 
-⭐ 129 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/noumena-labs/Sipp) · [官网](https://www.sipp.sh) · 组织维护 · 中文 README
+⭐ 129 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/noumena-labs/Sipp) · [官网](https://www.sipp.sh) · 组织维护 · 中文 README
 
 **面向 Web/桌面/边缘的 GGUF 推理运行时与统一 SDK**
 
@@ -46,12 +46,12 @@ Sipp 是用 Rust 与 C++ 构建的 AI 推理框架，核心 Sipp Engine 以 WebG
 ```mermaid
 xychart-beta
     title "noumena-labs/Sipp 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 120 --> 130
     line [121, 122, 123, 121, 124, 125, 127, 129, 129]
 ```
 
-2026-10-25 121 → 2026-11-27 129（+8）
+2026-10-26 121 → 2026-11-28 129（+8）
 
 
 ---

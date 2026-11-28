@@ -1,6 +1,6 @@
 # atemaguer/supertag
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/atemaguer/supertag) · 个人维护 · 中文 README
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/atemaguer/supertag) · 个人维护 · 中文 README
 
 **自托管基础设施：让 AI 代理持有持续职责并主动工作**
 
@@ -45,13 +45,13 @@ SuperTag 是开源的自托管基础设施，将 AI 代理称为 Tag：每个 Ta
 
 ```mermaid
 xychart-beta
-    title "atemaguer/supertag 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "atemaguer/supertag 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 5 --> 8
-    line [6, 7]
+    line [6, 7, 7]
 ```
 
-2026-11-26 6 → 2026-11-27 7（+1）
+2026-11-26 6 → 2026-11-28 7（+1）
 
 
 ---

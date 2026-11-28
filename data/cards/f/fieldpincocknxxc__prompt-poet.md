@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fieldpincocknxxc/prompt-poet 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "fieldpincocknxxc/prompt-poet 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 33 --> 51
-    line [50, 34]
+    line [50, 34, 34]
 ```
 
-2026-11-08 50 → 2026-11-27 34（-16）
+2026-11-08 50 → 2026-11-28 34（-16）
 
 
 ---

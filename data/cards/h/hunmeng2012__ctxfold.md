@@ -1,6 +1,6 @@
 # hunmeng2012/ctxfold
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hunmeng2012/ctxfold) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/hunmeng2012/ctxfold) · 个人维护 · 中文 README
 
 **给 Pi Agent 分层注入与按任务裁剪系统提示词的控制台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hunmeng2012/ctxfold 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-22 3 → 2026-11-27 5（+2）
+2026-11-22 3 → 2026-11-28 6（+3）
 
 
 ---

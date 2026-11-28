@@ -1,6 +1,6 @@
 # kostas2370/Video-Creator
 
-⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/kostas2370/Video-Creator) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管的 AI 视频生成 Web 应用：提示词生成可编辑视频**
 
@@ -11,7 +11,7 @@ Viddie 是一个 React 前端 + Django API + Celery worker 的 Web 应用：用�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

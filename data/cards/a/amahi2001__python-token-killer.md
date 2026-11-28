@@ -46,12 +46,12 @@ ptk 接收任意 Python 对象，自动检测内容类型（dict/list/code/log/d
 ```mermaid
 xychart-beta
     title "amahi2001/python-token-killer 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

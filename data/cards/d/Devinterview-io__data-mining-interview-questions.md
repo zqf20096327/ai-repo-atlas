@@ -46,12 +46,12 @@ Devinterview.io 出品的数据挖掘面试题集，收录 60 道常见面试题
 ```mermaid
 xychart-beta
     title "Devinterview-io/data-mining-interview-questions 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-27 10（+0）
+2026-11-10 10 → 2026-11-28 10（+0）
 
 
 ---

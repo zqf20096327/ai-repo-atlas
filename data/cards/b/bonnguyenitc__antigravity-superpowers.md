@@ -1,6 +1,6 @@
 # bonnguyenitc/antigravity-superpowers
 
-⭐ 22 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/bonnguyenitc/antigravity-superpowers) · [官网](https://www.npmjs.com/package/agy-superpowers) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-05-08 · [GitHub](https://github.com/bonnguyenitc/antigravity-superpowers) · [官网](https://www.npmjs.com/package/agy-superpowers) · 个人维护
 
 **为 Google Antigravity agent 移植的 Superpowers 技能库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bonnguyenitc/antigravity-superpowers 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 19, 21, 22, 22]
+    title "bonnguyenitc/antigravity-superpowers 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 18 --> 24
+    line [20, 19, 21, 22, 23]
 ```
 
-2026-10-25 19 → 2026-11-27 22（+3）
+2026-10-26 20 → 2026-11-28 23（+3）
 
 
 ---

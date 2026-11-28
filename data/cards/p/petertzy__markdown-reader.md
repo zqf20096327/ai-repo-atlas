@@ -1,6 +1,6 @@
 # petertzy/markdown-reader
 
-⭐ 47 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/petertzy/markdown-reader) · [官网](https://petertzy.github.io/markdown-reader/) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/petertzy/markdown-reader) · [官网](https://petertzy.github.io/markdown-reader/) · 个人维护
 
 **本地优先的跨平台 Markdown 编辑器，内置 AI 翻译与对话**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "petertzy/markdown-reader 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 40 --> 48
-    line [41, 42, 41, 44, 45, 46, 47, 47]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 40 --> 49
+    line [41, 42, 41, 44, 45, 46, 47, 48]
 ```
 
-2026-10-25 41 → 2026-11-27 47（+6）
+2026-10-26 41 → 2026-11-28 48（+7）
 
 
 ---

@@ -46,12 +46,12 @@ openai/miniF2F 的 fork，将原 Lean 3 题目经 mathport 翻译为 Lean 4，�
 ```mermaid
 xychart-beta
     title "google-deepmind/miniF2F 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 15（+0）
 
 
 ---

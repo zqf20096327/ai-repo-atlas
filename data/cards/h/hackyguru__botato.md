@@ -1,6 +1,6 @@
 # hackyguru/botato
 
-⭐ 49 · TypeScript · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/hackyguru/botato) · [官网](https://botato.hackyguru.com) · 个人维护
+⭐ 51 · TypeScript · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/hackyguru/botato) · [官网](https://botato.hackyguru.com) · 个人维护
 
 **本地优先的常驻 AI bot 桌面应用：自管模型与机器人的聊天室**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hackyguru/botato 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-28"]
     y-axis "stars" 48 --> 61
-    line [58, 60, 59, 58, 57, 49, 49]
+    line [58, 60, 59, 58, 57, 49, 51]
 ```
 
-2026-10-25 58 → 2026-11-27 49（-9）
+2026-10-26 58 → 2026-11-28 51（-7）
 
 
 ---

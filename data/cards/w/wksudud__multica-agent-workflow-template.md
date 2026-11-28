@@ -1,6 +1,6 @@
 # wksudud/multica-agent-workflow-template
 
-⭐ 22 · MIT · 推送 2026-05-18 · [GitHub](https://github.com/wksudud/multica-agent-workflow-template) · [官网](https://wksudud.github.io/) · 个人维护 · 中文 README
+⭐ 23 · MIT · 推送 2026-05-18 · [GitHub](https://github.com/wksudud/multica-agent-workflow-template) · [官网](https://wksudud.github.io/) · 个人维护 · 中文 README
 
 **中文方法论模板：帮你在 Multica 上设计多 agent + skill 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wksudud/multica-agent-workflow-template 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-18", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 21, 22, 22]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-18", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 21, 22, 23]
 ```
 
-2026-10-25 18 → 2026-11-27 22（+4）
+2026-10-26 18 → 2026-11-28 23（+5）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cagrikacmaz/fable-5-2-vs-gemini-4-carbon-captcha-wall 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-27"]
+    x-axis ["2026-11-15", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-27 3（+0）
+2026-11-15 3 → 2026-11-28 3（+0）
 
 
 ---

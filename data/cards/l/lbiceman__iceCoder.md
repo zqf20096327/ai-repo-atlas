@@ -1,6 +1,6 @@
 # lbiceman/iceCoder
 
-⭐ 86 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lbiceman/iceCoder) · 个人维护 · 中文 README
+⭐ 85 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lbiceman/iceCoder) · 个人维护 · 中文 README
 
 **自托管 AI 编程 agent，桌面与移动 UI，L0/L1/L3 监管**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lbiceman/iceCoder 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-28"]
     y-axis "stars" 81 --> 88
-    line [82, 87, 86, 86]
+    line [82, 87, 86, 85]
 ```
 
-2026-10-25 82 → 2026-11-27 86（+4）
+2026-10-26 82 → 2026-11-28 85（+3）
 
 
 ---

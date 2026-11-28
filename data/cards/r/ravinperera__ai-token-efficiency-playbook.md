@@ -1,6 +1,6 @@
 # ravinperera/ai-token-efficiency-playbook
 
-⭐ 21 · Python · 推送 2026-11-24 · [GitHub](https://github.com/ravinperera/ai-token-efficiency-playbook) · 个人维护
+⭐ 21 · Python · 推送 2026-11-27 · [GitHub](https://github.com/ravinperera/ai-token-efficiency-playbook) · 个人维护
 
 **降低 AI 编程代理 token 消耗的即用指令与工作流手册**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ravinperera/ai-token-efficiency-playbook 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-21", "2026-11-28"]
     y-axis "stars" 18 --> 22
     line [19, 20, 21, 21]
 ```
 
-2026-10-25 19 → 2026-11-27 21（+2）
+2026-10-26 19 → 2026-11-28 21（+2）
 
 
 ---

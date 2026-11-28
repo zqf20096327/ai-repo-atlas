@@ -1,6 +1,6 @@
 # akowynia/vane-community
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/akowynia/vane-community) · [官网](https://lowcyai.pl/vane-community-architektura-i-wdrozenie-prywatnego-silnika-odpowiedzi-ai/) · 个人维护
+⭐ 24 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/akowynia/vane-community) · [官网](https://lowcyai.pl/vane-community-architektura-i-wdrozenie-prywatnego-silnika-odpowiedzi-ai/) · 个人维护
 
 **自托管隐私优先的 AI 搜索问答引擎，支持本地与云端模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "akowynia/vane-community 星数(近 8 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-19", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-28"]
     y-axis "stars" 2 --> 26
     line [4, 5, 16, 21, 22, 23, 24, 24]
 ```
 
-2026-10-18 4 → 2026-11-27 24（+20）
+2026-10-19 4 → 2026-11-28 24（+20）
 
 
 ---

@@ -1,6 +1,6 @@
 # the-aSak/ComfyUI-KSR-Unofficial
 
-⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/the-aSak/ComfyUI-KSR-Unofficial) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/the-aSak/ComfyUI-KSR-Unofficial) · 个人维护
 
 **在 ComfyUI 中原生运行 Kandinsky 图像超分模型的节点包**
 
@@ -40,6 +40,18 @@
 > L5: ComfyUI nodes for Kandinsky ImageSR 2.0 by Kandinsky Lab,
 > L10: The transformer is implemented natively on ComfyUI's ops and memory management. It supports partial offloading,
 > L42: `Load Image` → **Kandinsky ImageSR Upscale** ← **Kandinsky ImageSR Model Loader** + `Load VAE` → `Save Image`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "the-aSak/ComfyUI-KSR-Unofficial 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 9
+    line [4, 8]
+```
+
+2026-11-27 4 → 2026-11-28 8（+4）
 
 
 ---

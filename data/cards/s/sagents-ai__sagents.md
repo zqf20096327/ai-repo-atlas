@@ -1,6 +1,6 @@
 # sagents-ai/sagents
 
-⭐ 281 · Elixir · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/sagents-ai/sagents) · 组织维护
+⭐ 281 · Elixir · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/sagents-ai/sagents) · 组织维护
 
 **Elixir 开发者构建带人工审批的交互式 AI Agent 框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sagents-ai/sagents 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-28"]
     y-axis "stars" 277 --> 282
     line [278, 279, 278, 279, 280, 281, 281]
 ```
 
-2026-10-25 278 → 2026-11-27 281（+3）
+2026-10-26 278 → 2026-11-28 281（+3）
 
 
 ---

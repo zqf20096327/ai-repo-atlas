@@ -1,6 +1,6 @@
 # daiwk/collections
 
-⭐ 149 · Python · 推送 2026-11-25 · [GitHub](https://github.com/daiwk/collections) · [官网](https://www.daiwk.net/) · 个人维护 · 中文 README
+⭐ 149 · HTML · 推送 2026-11-27 · [GitHub](https://github.com/daiwk/collections) · [官网](https://www.daiwk.net/) · 个人维护 · 中文 README
 
 **算法工程师的 LLM×搜广推×Agent 知识库与论文笔记**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "daiwk/collections 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 148 --> 150
     line [149, 149]
 ```
 
-2026-11-26 149 → 2026-11-27 149（+0）
+2026-11-26 149 → 2026-11-28 149（+0）
 
 
 ---

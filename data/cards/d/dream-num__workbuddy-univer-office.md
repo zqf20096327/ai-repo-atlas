@@ -1,6 +1,6 @@
 # dream-num/workbuddy-univer-office
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/dream-num/workbuddy-univer-office) · [官网](https://univer.ai) · 组织维护 · 中文 README
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/dream-num/workbuddy-univer-office) · [官网](https://univer.ai) · 组织维护 · 中文 README
 
 **为 WorkBuddy 提供本地 Office 文档创建、预览与草稿审核的集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dream-num/workbuddy-univer-office 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-16", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [11, 10]
 ```
 
-2026-11-16 11 → 2026-11-27 11（+0）
+2026-11-16 11 → 2026-11-28 10（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/msgboard
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/huggingface/msgboard) · 组织维护
+⭐ 74 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/huggingface/msgboard) · 组织维护
 
 **供人与 AI agent 共用的留言板：单进程提供网页、HTTP API 与客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/msgboard 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 15 --> 63
-    line [19, 59]
+    title "huggingface/msgboard 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 14 --> 79
+    line [19, 59, 74]
 ```
 
-2026-11-26 19 → 2026-11-27 59（+40）
+2026-11-26 19 → 2026-11-28 74（+55）
 
 
 ---

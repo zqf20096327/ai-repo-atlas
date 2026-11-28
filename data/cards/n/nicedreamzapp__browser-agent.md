@@ -1,6 +1,6 @@
 # nicedreamzapp/browser-agent
 
-⭐ 30 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nicedreamzapp/browser-agent) · [官网](https://youtu.be/SIuMNa2k6Wc) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/nicedreamzapp/browser-agent) · [官网](https://youtu.be/SIuMNa2k6Wc) · 组织维护
 
 **本地浏览器 AI 代理与共享浏览器安全代理（Apple Silicon/MLX）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nicedreamzapp/browser-agent 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-28"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-25 29 → 2026-11-27 30（+1）
+2026-10-26 29 → 2026-11-28 30（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # william-jin-cmu/cetus
 
-⭐ 152 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/william-jin-cmu/cetus) · [官网](https://cetus.run) · 组织维护 · 中文 README
+⭐ 153 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/william-jin-cmu/cetus) · [官网](https://cetus.run) · 组织维护 · 中文 README
 
 **macOS 桌面客户端：统一管理与审查多个 coding agent 的运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "william-jin-cmu/cetus 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 149 --> 153
-    line [150, 151, 152, 152]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 149 --> 154
+    line [150, 151, 152, 153]
 ```
 
-2026-11-10 150 → 2026-11-27 152（+2）
+2026-11-10 150 → 2026-11-28 153（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ASDprogrammer521/Jarvis-AI
 
-⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ASDprogrammer521/Jarvis-AI) · [官网](https://jarvis-by-asdcuber.netlify.app) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ASDprogrammer521/Jarvis-AI) · [官网](https://jarvis-by-asdcuber.netlify.app) · 个人维护
 
 **面向个人用户的 PC+手机语音 AI 助手，自动化桌面操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ASDprogrammer521/Jarvis-AI 星数(近 5 点)"
-    x-axis ["2026-11-11", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 6, 7, 7]
+    x-axis ["2026-11-11", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 6, 7, 8]
 ```
 
-2026-11-11 3 → 2026-11-27 7（+4）
+2026-11-11 3 → 2026-11-28 8（+5）
 
 
 ---

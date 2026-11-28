@@ -1,6 +1,6 @@
 # neuromorphs/NIRTorch
 
-⭐ 26 · Python · BSD-3-Clause · 推送 2026-09-18 · [GitHub](https://github.com/neuromorphs/NIRTorch) · [官网](https://neuroir.org/docs) · 组织维护
+⭐ 26 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/neuromorphs/NIRTorch) · [官网](https://neuroir.org/docs) · 组织维护
 
 **PyTorch 与神经形态中间表示 NIR 互转的辅助库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neuromorphs/NIRTorch 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-25 26 → 2026-11-27 26（+0）
+2026-10-26 26 → 2026-11-28 26（+0）
 
 
 ---

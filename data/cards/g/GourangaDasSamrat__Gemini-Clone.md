@@ -1,6 +1,6 @@
 # GourangaDasSamrat/Gemini-Clone
 
-⭐ 22 · JavaScript · MIT · 推送 2025-12-26 · [GitHub](https://github.com/GourangaDasSamrat/Gemini-Clone) · [官网](https://geminiclonebygouranga.netlify.app/) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2025-12-26 · [GitHub](https://github.com/GourangaDasSamrat/Gemini-Clone) · [官网](https://geminiclonebygouranga.netlify.app/) · 个人维护
 
 **网页版 Gemini 聊天界面：HTML/CSS/JS 调用 Gemini API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "GourangaDasSamrat/Gemini-Clone 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 19 --> 23
-    line [20, 21, 20, 21, 22, 21, 22, 22]
+    line [20, 21, 20, 21, 22, 21, 22, 21]
 ```
 
-2026-10-25 20 → 2026-11-27 22（+2）
+2026-10-26 20 → 2026-11-28 21（+1）
 
 
 ---

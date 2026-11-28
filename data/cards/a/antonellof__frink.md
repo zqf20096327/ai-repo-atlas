@@ -1,6 +1,6 @@
 # antonellof/frink
 
-⭐ 71 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/antonellof/frink) · [官网](https://www.fratepietro.com/2026/frink-rust-alternative-to-llama-cpp/) · 个人维护
+⭐ 71 · Rust · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/antonellof/frink) · [官网](https://www.fratepietro.com/2026/frink-rust-alternative-to-llama-cpp/) · 个人维护
 
 **纯 Rust 编写的 GGUF 推理引擎，提供 OpenAI 兼容服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "antonellof/frink 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-26", "2026-11-28"]
     y-axis "stars" 61 --> 73
     line [62, 63, 64, 62, 67, 69, 70, 71, 72, 71, 71]
 ```
 
-2026-10-25 62 → 2026-11-27 71（+9）
+2026-10-26 62 → 2026-11-28 71（+9）
 
 
 ---

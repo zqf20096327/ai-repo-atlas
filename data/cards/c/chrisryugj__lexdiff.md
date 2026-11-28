@@ -1,6 +1,6 @@
 # chrisryugj/lexdiff
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/chrisryugj/lexdiff) · [官网](https://lexdiff.gomdori.app) · 个人维护
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/chrisryugj/lexdiff) · [官网](https://lexdiff.gomdori.app) · 个人维护
 
 **韩国法令自然语言问答搜索服务，附原文依据与新旧条文对比**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "chrisryugj/lexdiff 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 12, 14, 15, 15]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 12, 14, 15, 16]
 ```
 
-2026-10-25 12 → 2026-11-27 15（+3）
+2026-10-26 12 → 2026-11-28 16（+4）
 
 
 ---

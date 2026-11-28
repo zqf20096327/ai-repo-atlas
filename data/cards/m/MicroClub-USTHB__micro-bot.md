@@ -46,12 +46,12 @@ USTHB Micro Club 学生社团的 AI 问答助手：管理员上传社团文档�
 ```mermaid
 xychart-beta
     title "MicroClub-USTHB/micro-bot 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-25 4 → 2026-11-27 4（+0）
+2026-10-26 4 → 2026-11-28 4（+0）
 
 
 ---

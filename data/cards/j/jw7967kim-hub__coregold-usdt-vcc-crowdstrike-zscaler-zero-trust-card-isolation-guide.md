@@ -1,6 +1,6 @@
 # jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide
 
-⭐ 34 · 推送 2026-11-24 · [GitHub](https://github.com/jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 48 · 推送 2026-11-24 · [GitHub](https://github.com/jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向出海运营团队的 CoreGold 虚拟卡开卡与多账号隔离教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 19 --> 35
-    line [20, 34]
+    title "jw7967kim-hub/coregold-usdt-vcc-crowdstrike-zscaler-zero-trust-card-isolation-guide 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 18 --> 50
+    line [20, 34, 48]
 ```
 
-2026-11-26 20 → 2026-11-27 34（+14）
+2026-11-26 20 → 2026-11-28 48（+28）
 
 
 ---

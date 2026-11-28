@@ -1,6 +1,6 @@
 # Redamancy0222/mml-book-chinese-latex
 
-⭐ 4 · TeX · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/Redamancy0222/mml-book-chinese-latex) · [官网](https://github.com/dxxzst/mml-book-chinese) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **为读者提供《机器学习中的数学》中文版 LaTeX 工程与 408 页 PDF**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

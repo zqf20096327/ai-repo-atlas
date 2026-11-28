@@ -1,6 +1,6 @@
 # wangyuchen5110/opencodeplugginprogram
 
-⭐ 67 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wangyuchen5110/opencodeplugginprogram) · [官网](https://github.com/marketplace/actions/skills-doctor) · 个人维护 · 中文 README
+⭐ 70 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wangyuchen5110/opencodeplugginprogram) · [官网](https://github.com/marketplace/actions/skills-doctor) · 个人维护 · 中文 README
 
 **审计 agent skills 隐藏 token 成本的本地 CLI 工具**
 
@@ -45,13 +45,13 @@ skills-doctor 测量每个 agent skill 在每步注入系统提示的 token 开�
 
 ```mermaid
 xychart-beta
-    title "wangyuchen5110/opencodeplugginprogram 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
-    y-axis "stars" 0 --> 73
-    line [3, 67]
+    title "wangyuchen5110/opencodeplugginprogram 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 76
+    line [3, 67, 70]
 ```
 
-2026-11-08 3 → 2026-11-27 67（+64）
+2026-11-08 3 → 2026-11-28 70（+67）
 
 
 ---

@@ -46,12 +46,12 @@ Lazy不学习 维护的 ComfyUI 自定义节点集，包含 Wan2.2 Remix 导演�
 ```mermaid
 xychart-beta
     title "hanava1002-blip/ComfyUI_Lazybuxuexi 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

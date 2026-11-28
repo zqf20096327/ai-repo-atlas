@@ -1,6 +1,6 @@
 # huggingface/is-it-agentic-enough
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/huggingface/is-it-agentic-enough) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/huggingface/is-it-agentic-enough) · 组织维护
 
 **评测编码 agent 使用库库方式的工具：跨模型与版本运行任务**
 
@@ -45,12 +45,12 @@ agent-eval 度量编码 agent 使用某个库的方式：不只看答案对错�
 ```mermaid
 xychart-beta
     title "huggingface/is-it-agentic-enough 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-25 25 → 2026-11-27 25（+0）
+2026-10-26 25 → 2026-11-28 26（+1）
 
 
 ---

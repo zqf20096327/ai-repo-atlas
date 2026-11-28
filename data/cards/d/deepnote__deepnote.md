@@ -1,6 +1,6 @@
 # deepnote/deepnote
 
-⭐ 3,038 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/deepnote/deepnote) · [官网](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) · 组织维护
+⭐ 3,038 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/deepnote/deepnote) · [官网](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) · 组织维护
 
 **面向数据专业人员的 AI 时代开源数据笔记本，替代 Jupyter**
 
@@ -45,13 +45,13 @@ Deepnote 开源版提供 .deepnote 笔记本格式（YAML 代替 .ipynb JSON）�
 
 ```mermaid
 xychart-beta
-    title "deepnote/deepnote 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
+    title "deepnote/deepnote 星数(近 15 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 3023 --> 3039
-    line [3026, 3025, 3024, 3026, 3029, 3026, 3032, 3034, 3033, 3034, 3037, 3038, 3037, 3038]
+    line [3026, 3025, 3024, 3026, 3029, 3026, 3032, 3034, 3033, 3034, 3037, 3038, 3037, 3038, 3038]
 ```
 
-2026-10-25 3,026 → 2026-11-27 3,038（+12）
+2026-10-26 3,026 → 2026-11-28 3,038（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hazrat-Ali9/AI-Multi-Model-RAG
 
-⭐ 42 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/AI-Multi-Model-RAG) · [官网](https://github.com/Hazrat-Ali9/AI-Multi-Model-RAG) · 个人维护
+⭐ 43 · 推送 2026-03-13 · [GitHub](https://github.com/Hazrat-Ali9/AI-Multi-Model-RAG) · [官网](https://github.com/Hazrat-Ali9/AI-Multi-Model-RAG) · 个人维护
 
 **多模型 RAG 系统：结合文档检索与多 LLM 生成回答**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/AI-Multi-Model-RAG 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 22 --> 43
-    line [23, 24, 23, 29, 33, 35, 37, 38, 42]
+    title "Hazrat-Ali9/AI-Multi-Model-RAG 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 21 --> 45
+    line [23, 24, 23, 29, 33, 35, 37, 38, 42, 43]
 ```
 
-2026-10-25 23 → 2026-11-27 42（+19）
+2026-10-26 23 → 2026-11-28 43（+20）
 
 
 ---

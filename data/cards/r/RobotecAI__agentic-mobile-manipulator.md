@@ -1,6 +1,6 @@
 # RobotecAI/agentic-mobile-manipulator
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/RobotecAI/agentic-mobile-manipulator) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/RobotecAI/agentic-mobile-manipulator) · 组织维护
 
 **仓库自主移动操作机器人的端到端演示（ROS 2 仿真）**
 
@@ -45,12 +45,12 @@ Robotec AI 维护的具身智能演示：在 ROS 2 + O3DE 仿真的小型仓库�
 ```mermaid
 xychart-beta
     title "RobotecAI/agentic-mobile-manipulator 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 49 --> 53
     line [50, 51, 52, 52]
 ```
 
-2026-10-25 50 → 2026-11-27 52（+2）
+2026-10-26 50 → 2026-11-28 52（+2）
 
 
 ---

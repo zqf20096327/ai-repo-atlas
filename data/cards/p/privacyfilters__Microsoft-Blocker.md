@@ -1,6 +1,6 @@
 # privacyfilters/Microsoft-Blocker
 
-⭐ 14 · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/privacyfilters/Microsoft-Blocker) · 个人维护
+⭐ 15 · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/privacyfilters/Microsoft-Blocker) · 个人维护
 
 **屏蔽 Microsoft 遥测与服务的域名过滤清单（三档强度）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "privacyfilters/Microsoft-Blocker 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 15（+1）
 
 
 ---

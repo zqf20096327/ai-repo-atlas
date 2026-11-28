@@ -1,6 +1,6 @@
 # IsuruMaduranga/one-code
 
-⭐ 84 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/IsuruMaduranga/one-code) · 个人维护
+⭐ 86 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/IsuruMaduranga/one-code) · 个人维护
 
 **模型槽开放的 Claude Code 式开源编码 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IsuruMaduranga/one-code 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 47 --> 87
-    line [50, 51, 52, 53, 66, 79, 80, 81, 84, 84]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 47 --> 89
+    line [50, 51, 52, 53, 66, 79, 80, 81, 84, 86]
 ```
 
-2026-11-08 50 → 2026-11-27 84（+34）
+2026-11-08 50 → 2026-11-28 86（+36）
 
 
 ---

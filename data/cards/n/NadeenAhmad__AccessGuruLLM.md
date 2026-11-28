@@ -1,6 +1,6 @@
 # NadeenAhmad/AccessGuruLLM
 
-⭐ 17 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NadeenAhmad/AccessGuruLLM) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NadeenAhmad/AccessGuruLLM) · 组织维护
 
 **面向无障碍研究者的 HTML 违规检测/修正系统与基准数据集**
 
@@ -47,12 +47,12 @@ ASSETS '25 论文的配套仓库：结合 Axe-Playwright 无障碍测试引擎�
 ```mermaid
 xychart-beta
     title "NadeenAhmad/AccessGuruLLM 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-11-26 17 → 2026-11-27 17（+0）
+2026-11-26 17 → 2026-11-28 18（+1）
 
 
 ---

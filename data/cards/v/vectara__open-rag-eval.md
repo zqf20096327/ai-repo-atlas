@@ -1,6 +1,6 @@
 # vectara/open-rag-eval
 
-⭐ 427 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/vectara/open-rag-eval) · [官网](https://github.com/vectara/open-rag-eval) · 组织维护
+⭐ 428 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/vectara/open-rag-eval) · [官网](https://github.com/vectara/open-rag-eval) · 组织维护
 
 **开源 RAG 评测工具包：无需标准答案评估 RAG 质量**
 
@@ -47,12 +47,12 @@ Vectara 开源的 Python RAG 评测工具包，核心指标 UMBRELA 与 AutoNugg
 ```mermaid
 xychart-beta
     title "vectara/open-rag-eval 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 416 --> 428
-    line [417, 418, 419, 417, 422, 423, 424, 425, 426, 427, 427]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 416 --> 429
+    line [417, 418, 419, 417, 422, 423, 424, 425, 426, 427, 428]
 ```
 
-2026-10-25 417 → 2026-11-27 427（+10）
+2026-10-26 417 → 2026-11-28 428（+11）
 
 
 ---

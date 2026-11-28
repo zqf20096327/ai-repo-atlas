@@ -1,6 +1,6 @@
 # idris-botics/stepscribe-cad
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/idris-botics/stepscribe-cad) · 个人维护
+⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/idris-botics/stepscribe-cad) · 个人维护
 
 **为设计新手把 STEP CAD 文件转为 LLM 可读上下文包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "idris-botics/stepscribe-cad 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-21", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-11-08 13 → 2026-11-27 15（+2）
+2026-11-08 13 → 2026-11-28 15（+2）
 
 
 ---

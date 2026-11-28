@@ -1,6 +1,6 @@
 # Aqr325/BaiZe
 
-⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Aqr325/BaiZe) · 个人维护 · 中文 README
+⭐ 13 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Aqr325/BaiZe) · 个人维护 · 中文 README
 
 **给安全测试人员的 LLM 多 Agent 自主渗透测试系统**
 
@@ -45,13 +45,13 @@ BaiZe 是基于 Go 的 LLM 多 Agent 自主渗透测试系统：输入一句话�
 
 ```mermaid
 xychart-beta
-    title "Aqr325/BaiZe 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "Aqr325/BaiZe 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 14
+    line [3, 4, 13]
 ```
 
-2026-11-25 3 → 2026-11-27 4（+1）
+2026-11-25 3 → 2026-11-28 13（+10）
 
 
 ---

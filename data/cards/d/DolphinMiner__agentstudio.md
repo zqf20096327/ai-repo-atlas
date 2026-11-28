@@ -1,6 +1,6 @@
 # DolphinMiner/agentstudio
 
-⭐ 9 · TypeScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/DolphinMiner/agentstudio) · 个人维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/DolphinMiner/agentstudio) · 个人维护
 
 **本地优先的 Mac 收件箱：人与多个 AI 代理统一对话与审批**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DolphinMiner/agentstudio 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 7 --> 10
-    line [8, 9, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 8, 9, 10]
 ```
 
-2026-11-08 8 → 2026-11-27 9（+1）
+2026-11-08 8 → 2026-11-28 10（+2）
 
 
 ---

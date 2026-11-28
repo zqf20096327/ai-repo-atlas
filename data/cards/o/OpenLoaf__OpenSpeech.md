@@ -1,6 +1,6 @@
 # OpenLoaf/OpenSpeech
 
-⭐ 13 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/OpenLoaf/OpenSpeech) · [官网](https://openspeech-website.hexems.com) · 组织维护 · 中文 README
+⭐ 13 · Rust · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/OpenLoaf/OpenSpeech) · [官网](https://openspeech-website.hexems.com) · 组织维护 · 中文 README
 
 **跨平台 AI 语音输入桌面应用：按键说话即转文字入光标**
 
@@ -47,12 +47,12 @@ OpenSpeech 是一款跨平台桌面端语音输入工具，支持 Windows/macOS/
 ```mermaid
 xychart-beta
     title "OpenLoaf/OpenSpeech 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-14", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-14", "2026-11-21", "2026-11-28"]
     y-axis "stars" 9 --> 14
     line [10, 11, 12, 13, 13]
 ```
 
-2026-11-08 10 → 2026-11-27 13（+3）
+2026-11-08 10 → 2026-11-28 13（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # xn0kkx/Omnicrab
 
-⭐ 6 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/xn0kkx/Omnicrab) · 个人维护
+⭐ 5 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/xn0kkx/Omnicrab) · 个人维护
 
 **终端 TUI：多 AI 账号与本地模型的聊天/编排管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xn0kkx/Omnicrab 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 3 --> 7
-    line [4, 6, 6]
+    line [4, 6, 5]
 ```
 
-2026-10-25 4 → 2026-11-27 6（+2）
+2026-10-26 4 → 2026-11-28 5（+1）
 
 
 ---

@@ -45,12 +45,12 @@ ICICI-2025 IEEE 论文的原型实现：基于 Flower 联邦学习与 PyTorch，
 ```mermaid
 xychart-beta
     title "Tisha-runwal/Personalized-Federated-Learning-for-Privacy--Preserving-and-Scalable-IoT-Driven-Smart-Healthcare 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 265 --> 267
     line [266, 266]
 ```
 
-2026-10-25 266 → 2026-11-27 266（+0）
+2026-10-26 266 → 2026-11-28 266（+0）
 
 
 ---

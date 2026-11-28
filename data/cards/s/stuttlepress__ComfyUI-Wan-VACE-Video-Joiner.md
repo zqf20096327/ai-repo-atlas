@@ -1,6 +1,6 @@
 # stuttlepress/ComfyUI-Wan-VACE-Video-Joiner
 
-⭐ 109 · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Video-Joiner) · 个人维护
+⭐ 110 · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stuttlepress/ComfyUI-Wan-VACE-Video-Joiner) · 个人维护
 
 **用 Wan VACE 生成转场帧、自动拼接视频片段的 ComfyUI 工作流**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "stuttlepress/ComfyUI-Wan-VACE-Video-Joiner 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 106 --> 110
-    line [107, 109, 107, 109, 109]
+    title "stuttlepress/ComfyUI-Wan-VACE-Video-Joiner 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 106 --> 111
+    line [109, 107, 109, 110]
 ```
 
-2026-10-25 107 → 2026-11-27 109（+2）
+2026-10-26 109 → 2026-11-28 110（+1）
 
 
 ---

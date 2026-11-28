@@ -43,13 +43,13 @@ Log-linear Sparse Attention 的官方 PyTorch 实现，提供 Triton/torch 算�
 
 ```mermaid
 xychart-beta
-    title "SingleZombie/LLSA 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "SingleZombie/LLSA 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 93 --> 96
-    line [94, 95]
+    line [94, 95, 95]
 ```
 
-2026-10-25 94 → 2026-11-27 95（+1）
+2026-10-26 94 → 2026-11-28 95（+1）
 
 
 ---

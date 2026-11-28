@@ -1,6 +1,6 @@
 # caligrafy/caligrafy-quill
 
-⭐ 10 · PHP · MIT · 推送 2026-11-25 · [GitHub](https://github.com/caligrafy/caligrafy-quill) · [官网](https://caligrafy.com) · 组织维护
+⭐ 10 · PHP · MIT · 推送 2026-11-27 · [GitHub](https://github.com/caligrafy/caligrafy-quill) · [官网](https://caligrafy.com) · 组织维护
 
 **面向编码 agent 的 PHP MVC 框架：一次编写能力多端交付**
 
@@ -41,6 +41,18 @@ Caligrafy 是一个 PHP MVC 框架，将每个功能写成 capability（含输�
 > L8: **Why developers choose it.** A feature is written once, as a capability, and served to pages, Vue apps, REST, AI ag
 > L56: The same capability is then a REST endpoint (`Route::capabilities()`), a tool for AI agents (`Route::mcp()`) and a
 > L68: mobile`, signed in through your site), a **REST API**, **AI agents** such as Claude or Cursor over MCP, and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "caligrafy/caligrafy-quill 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
 
 
 ---

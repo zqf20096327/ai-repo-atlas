@@ -41,6 +41,18 @@
 > L57: * 5.模型(model)
 > L83: * 7.有监督学习(supervised)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HongZhaoHua/jstarcraft-ai 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 232 --> 234
+    line [233, 233]
+```
+
+2026-11-27 233 → 2026-11-28 233（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `3a0c7a51058c` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # SIU-Sirocco-2025/Eco-Track
 
-⭐ 12 · JavaScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/SIU-Sirocco-2025/Eco-Track) · [官网](https://ecotrack.asia/) · 组织维护
+⭐ 12 · JavaScript · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/SIU-Sirocco-2025/Eco-Track) · [官网](https://ecotrack.asia/) · 组织维护
 
 **胡志明市空气质量监测与 24 小时 AQI 预测系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SIU-Sirocco-2025/Eco-Track 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

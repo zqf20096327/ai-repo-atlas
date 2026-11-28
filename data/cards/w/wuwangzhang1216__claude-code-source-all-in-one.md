@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wuwangzhang1216/claude-code-source-all-in-one 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-20", "2026-11-27"]
+    title "wuwangzhang1216/claude-code-source-all-in-one 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-20", "2026-11-28"]
     y-axis "stars" 89 --> 92
-    line [91, 90, 91, 90, 90]
+    line [90, 91, 90, 90]
 ```
 
-2026-10-25 91 → 2026-11-27 90（-1）
+2026-10-26 90 → 2026-11-28 90（+0）
 
 
 ---

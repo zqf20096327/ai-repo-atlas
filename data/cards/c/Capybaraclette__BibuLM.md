@@ -1,6 +1,6 @@
 # Capybaraclette/BibuLM
 
-⭐ 5 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Capybaraclette/BibuLM) · 个人维护
+⭐ 5 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Capybaraclette/BibuLM) · 个人维护
 
 **本地 LLM 桌面工作台：运行、压测并提供 OpenAI/Anthropic 兼容网关**
 
@@ -41,6 +41,18 @@
 > L7:  A lightweight, native Rust + WebView (Tauri v2) desktop workbench and headless server for running, benchmarking, an
 > L36: ### Drop-in OpenAI &amp; Anthropic gateway
 > L96: |**API Gateway**|Local `axum` reverse-proxy gateway on `http://127.0.0.1:1234` · OpenAI endpoints (`/v1/models`, `/
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Capybaraclette/BibuLM 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-27 5 → 2026-11-28 5（+0）
 
 
 ---

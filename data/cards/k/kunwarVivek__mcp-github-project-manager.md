@@ -1,6 +1,6 @@
 # kunwarVivek/mcp-github-project-manager
 
-⭐ 105 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/kunwarVivek/mcp-github-project-manager) · [官网](https://github.com/kunwarVivek/mcp-github-project-manager#readme) · 个人维护
+⭐ 105 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/kunwarVivek/mcp-github-project-manager) · [官网](https://github.com/kunwarVivek/mcp-github-project-manager#readme) · 个人维护
 
 **面向 AI 编码代理的 GitHub 项目管理 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kunwarVivek/mcp-github-project-manager 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 103 --> 106
     line [104, 105, 105]
 ```
 
-2026-10-25 104 → 2026-11-27 105（+1）
+2026-10-26 104 → 2026-11-28 105（+1）
 
 
 ---

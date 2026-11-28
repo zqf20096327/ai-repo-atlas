@@ -45,12 +45,12 @@ AIErudit《Full-Stack Developer With AI》课程的 Capstone 起点项目：一�
 ```mermaid
 xychart-beta
     title "AIErudit/aierudit-mern-capstone 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 12 --> 16
     line [15, 13, 13]
 ```
 
-2026-10-25 15 → 2026-11-27 13（-2）
+2026-10-26 15 → 2026-11-28 13（-2）
 
 
 ---

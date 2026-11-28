@@ -45,12 +45,12 @@ DeepMind 论文 Engineering highly active and diverse nuclease enzymes 的配套
 ```mermaid
 xychart-beta
     title "google-deepmind/nuclease_design 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-25 86 → 2026-11-27 86（+0）
+2026-10-26 86 → 2026-11-28 86（+0）
 
 
 ---

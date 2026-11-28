@@ -1,6 +1,6 @@
 # runloopai/api-client-python
 
-⭐ 28 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/runloopai/api-client-python) · [官网](https://docs.runloop.ai) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/runloopai/api-client-python) · [官网](https://docs.runloop.ai) · 组织维护
 
 **Runloop 平台的官方 Python SDK：管理 AI 代理运行的隔离沙箱**
 
@@ -46,12 +46,12 @@ Runloop 官方 Python SDK，用于创建和管理 Devbox——供 AI 代理和 A
 ```mermaid
 xychart-beta
     title "runloopai/api-client-python 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-25 28 → 2026-11-27 28（+0）
+2026-10-26 28 → 2026-11-28 27（-1）
 
 
 ---

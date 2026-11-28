@@ -44,13 +44,13 @@ ICLR 2026 论文 TFPI 的官方代码，来自腾讯混元与港科大、港大�
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Thinking-Free_Policy_Initialization 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-27"]
+    title "Tencent-Hunyuan/Thinking-Free_Policy_Initialization 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-28"]
     y-axis "stars" 102 --> 105
-    line [103, 104, 103, 103]
+    line [104, 103, 103]
 ```
 
-2026-10-25 103 → 2026-11-27 103（+0）
+2026-10-26 104 → 2026-11-28 103（-1）
 
 
 ---

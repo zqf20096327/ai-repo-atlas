@@ -1,6 +1,6 @@
 # clivejefferies/mobile-debug-tools
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/clivejefferies/mobile-debug-tools) · 个人维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/clivejefferies/mobile-debug-tools) · 个人维护
 
 **让 MCP 客户端/agent 操作 Android 与 iOS 设备的调试工具服务器**
 
@@ -45,12 +45,12 @@ MCP 服务器（stdio），把 MCP 客户端连接到本地移动设备工具链
 ```mermaid
 xychart-beta
     title "clivejefferies/mobile-debug-tools 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

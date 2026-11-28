@@ -1,6 +1,6 @@
 # Haple/agentic-engineering
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/Haple/agentic-engineering) · [官网](https://learn-agentic-engineering.pages.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向开发者的 AI 编程 agent 工作流动画课程（24 课）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

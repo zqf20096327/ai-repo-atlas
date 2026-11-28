@@ -1,6 +1,6 @@
 # WestWaters/hermes-live-translator
 
-⭐ 19 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/WestWaters/hermes-live-translator) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/WestWaters/hermes-live-translator) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 个人维护
 
 **本地运行的实时通话翻译器：双方各听母语、保留原声**
 
@@ -47,12 +47,12 @@ Hermes Agent 插件与桌面应用，在本地执行识别、翻译、语音合�
 ```mermaid
 xychart-beta
     title "WestWaters/hermes-live-translator 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 11 --> 20
-    line [12, 15, 19, 19]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 11 --> 21
+    line [12, 15, 19, 20]
 ```
 
-2026-11-22 12 → 2026-11-27 19（+7）
+2026-11-22 12 → 2026-11-28 20（+8）
 
 
 ---

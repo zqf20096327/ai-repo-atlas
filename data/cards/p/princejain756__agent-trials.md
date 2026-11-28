@@ -1,6 +1,6 @@
 # princejain756/agent-trials
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/princejain756/agent-trials) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为开发者提供统一的 coding agent CLI 任务评测工具**
 
@@ -11,7 +11,7 @@ agent-trials 是一个 npm 命令行工具，将同一套任务套件依次运�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

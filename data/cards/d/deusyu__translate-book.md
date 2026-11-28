@@ -1,16 +1,16 @@
 # deusyu/translate-book
 
-⭐ 2,474 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/deusyu/translate-book) · [官网](https://translate.dyu.sh/en/) · 个人维护 · 中文 README
+⭐ 2,487 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/deusyu/translate-book) · [官网](https://translate.dyu.sh/en/) · 个人维护
 
-**给 Agent Skills 兼容 Agent 用的整本书多语言翻译技能**
+**将整本书并行翻译为任意语言的 Agent Skill**
 
-以 Agent Skill 形式分发的整书翻译流水线：将 PDF/DOCX/EPUB/Markdown 输入经 Calibre/Pandoc 转为 Markdown 并切块，由 8 个并行 subagent 翻译，每个子代理使用独立上下文窗口；以 manifest.json 记录 SHA-256 哈希做完整性校验，run_state.json 支持 chunk 级断点续译与敏感词表重译，最终合并并输出 HTML/DOCX/EPUB/PDF。需要支持 subagent 启动的 Agent 运行时及 Calibre、Pandoc、Python 3；不支持启动子代理的 Agent 会在开始前停止。
+一个可安装到 Claude Code、Codex、Cursor、OpenClaw 等 Agent Skills 兼容代理的技能：将 PDF/DOCX/EPUB/Markdown 图书转换为 Markdown 后切块，由 8 个并行子代理各持独立上下文翻译，经 SHA-256 清单校验后合并，输出 HTML/DOCX/EPUB/PDF 多格式。支持块级断点续译与选择性重译、相邻块只读上下文、防注入的 shell 安全命令设计。依赖 Calibre 与 Pandoc，仅支持 macOS/Linux（Windows 需 WSL）。用户需自备可启动子代理的 agent 运行时。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 8 个并行 subagent 分块翻译，每个独立上下文窗口
-- SHA-256 manifest 校验与 chunk 级断点续译
-- 相邻 chunk 只读摘录用于代词与实体指代消解
-- 输出 HTML（浮动目录）、DOCX、EPUB、PDF 四种格式
+- 8 个并行子代理分块翻译，每个子代理独立上下文窗口
+- chunk 级断点续译与 run_state.json 追踪的选择性重译
+- SHA-256 清单校验防止过期或损坏输出被合并
+- 输出 HTML（浮动目录）、DOCX、EPUB、PDF 多格式
 
 ## 适用场景
 
-- 把整本 PDF/EPUB 电子书翻译成中文或其他语言
-- 批量翻译含脚注、公式的技术书籍并保留结构
-- 在 Claude Code/Codex/Cursor 中用斜杠命令触发翻译流水线
+- 把整本 PDF/EPUB 图书翻译成中文或其他语言
+- 长文档翻译中避免单会话上下文溢出与截断
+- 翻译中断后从块级别续译，无需从头重跑
 
 ## 场景标签
 
- · 领域:翻译/内容处理工具
+ · 领域:翻译/文档处理
 
 ## 证据(README 行号)
 
 > L5: An Agent Skill for Claude Code, Codex, Cursor, OpenClaw and other Agent Skills–compatible agents that translates ent
 > L7:  translate-book — a whole book, translated in parallel: split into chunks, translated by 8 parallel sub-agents, veri
-> L35: - **Agent runtime** — any agent that supports Agent Skills and can launch sub-agents from a skill (see Compatibilit
+> L37: - **Agent runtime** — any agent that supports Agent Skills and can launch sub-agents from a skill (see Compatibilit
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "deusyu/translate-book 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2455 --> 2475
-    line [2456, 2461, 2473, 2474]
+    title "deusyu/translate-book 星数(近 5 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2453 --> 2490
+    line [2456, 2461, 2473, 2474, 2487]
 ```
 
-2026-11-23 2,456 → 2026-11-27 2,474（+18）
+2026-11-23 2,456 → 2026-11-28 2,487（+31）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `374dc069d541` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `67a81286aca8` · [字段定义](../../DATASET.md)*

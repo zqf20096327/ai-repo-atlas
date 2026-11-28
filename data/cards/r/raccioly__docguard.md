@@ -1,6 +1,6 @@
 # raccioly/docguard
 
-⭐ 34 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/raccioly/docguard) · [官网](https://www.npmjs.com/package/docguard-cli) · 个人维护
+⭐ 34 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/raccioly/docguard) · [官网](https://www.npmjs.com/package/docguard-cli) · 个人维护
 
 **校验项目文档一致性并为 AI agent 生成修复提示的 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "raccioly/docguard 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-16", "2026-11-28"]
     y-axis "stars" 31 --> 35
     line [32, 33, 34, 34]
 ```
 
-2026-10-25 32 → 2026-11-27 34（+2）
+2026-10-26 32 → 2026-11-28 34（+2）
 
 
 ---

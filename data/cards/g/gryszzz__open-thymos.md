@@ -1,6 +1,6 @@
 # gryszzz/open-thymos
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/gryszzz/open-thymos) · [官网](https://gryszzz.github.io/open-thymos/) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/gryszzz/open-thymos) · [官网](https://gryszzz.github.io/open-thymos/) · 个人维护
 
 **AI agent 沙箱治理运行时：对每个动作做授权、审计与可重放**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "gryszzz/open-thymos 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 19 --> 22
-    line [21, 20, 20]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 18 --> 22
+    line [21, 20, 19]
 ```
 
-2026-10-25 21 → 2026-11-27 20（-1）
+2026-10-26 21 → 2026-11-28 19（-2）
 
 
 ---

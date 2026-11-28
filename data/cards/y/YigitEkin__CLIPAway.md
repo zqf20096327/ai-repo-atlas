@@ -44,12 +44,12 @@ CLIPAway 论文（NeurIPS 2024）的官方 PyTorch 实现：通过投影操纵 C
 ```mermaid
 xychart-beta
     title "YigitEkin/CLIPAway 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 105 --> 107
     line [106, 106]
 ```
 
-2026-10-25 106 → 2026-11-27 106（+0）
+2026-10-26 106 → 2026-11-28 106（+0）
 
 
 ---

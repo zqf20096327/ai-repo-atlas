@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionDesign
 
-⭐ 70 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionDesign) · [官网](https://openconstructiondesign.com) · 组织维护
+⭐ 72 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionDesign) · [官网](https://openconstructiondesign.com) · 组织维护
 
 **建筑行业用户的 AI 驱动开源 CAD-BIM 编辑器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "datadrivenconstruction/OpenConstructionDesign 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 76
-    line [6, 62, 70]
+    title "datadrivenconstruction/OpenConstructionDesign 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 78
+    line [6, 62, 70, 72]
 ```
 
-2026-11-25 6 → 2026-11-27 70（+64）
+2026-11-25 6 → 2026-11-28 72（+66）
 
 
 ---

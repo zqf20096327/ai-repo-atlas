@@ -1,6 +1,6 @@
 # wagtail/wagtail-ai
 
-⭐ 205 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/wagtail/wagtail-ai) · [官网](https://wagtail-ai.readthedocs.io/latest) · 组织维护
+⭐ 206 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/wagtail/wagtail-ai) · [官网](https://wagtail-ai.readthedocs.io/latest) · 组织维护
 
 **给 Wagtail CMS 用户的 AI 内容辅助插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wagtail/wagtail-ai 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 204 --> 206
-    line [205, 205]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 204 --> 207
+    line [205, 206]
 ```
 
-2026-10-25 205 → 2026-11-27 205（+0）
+2026-10-26 205 → 2026-11-28 206（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # stanford-centaur/PyPantograph
 
-⭐ 153 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/stanford-centaur/PyPantograph) · [官网](https://centaur.stanford.edu/PyPantograph/) · 组织维护
+⭐ 152 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/stanford-centaur/PyPantograph) · [官网](https://centaur.stanford.edu/PyPantograph/) · 组织维护
 
 **Lean 4 的 Python 交互接口：程序化执行策略与提取数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stanford-centaur/PyPantograph 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-28"]
     y-axis "stars" 149 --> 154
-    line [150, 151, 152, 153, 153]
+    line [150, 151, 152, 153, 152]
 ```
 
-2026-10-25 150 → 2026-11-27 153（+3）
+2026-10-26 150 → 2026-11-28 152（+2）
 
 
 ---

@@ -46,12 +46,12 @@ Python 3.13 编写的全自动加密货币现货交易机器人，通过 CCXT �
 ```mermaid
 xychart-beta
     title "FunnyRabbitIsAHabbit/CryptoAutotrader 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

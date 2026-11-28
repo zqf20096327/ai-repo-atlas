@@ -42,6 +42,18 @@
 > L68: 免费版是一个完整的私有网盘，不限文件夹和文件数量。专业版增加 AI 功能和远程文件夹。
 > L89: |Keepbay|文件、照片、证件一起管理，AI 搜索和到期提醒|原来的文件夹，Keepbay 只建索引|否|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huohuastudio/keepbay-releases 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1dd8186a46bb` · [字段定义](../../DATASET.md)*

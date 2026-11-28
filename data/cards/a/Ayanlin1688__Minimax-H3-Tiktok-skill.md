@@ -1,6 +1,6 @@
 # Ayanlin1688/Minimax-H3-Tiktok-skill
 
-⭐ 3 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ayanlin1688/Minimax-H3-Tiktok-skill) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ayanlin1688/Minimax-H3-Tiktok-skill) · 个人维护
 
 **给跨境电商卖家生成 TikTok 美区带货视频提示词的 Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ayanlin1688/Minimax-H3-Tiktok-skill 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-16", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-16 3 → 2026-11-27 3（+0）
+2026-11-16 3 → 2026-11-28 4（+1）
 
 
 ---

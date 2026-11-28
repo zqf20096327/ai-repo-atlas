@@ -1,6 +1,6 @@
 # fokhruli/STGCN-rehab
 
-⭐ 45 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/fokhruli/STGCN-rehab) · [官网](https://fokhruli.github.io/STGCN-rehab/) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/fokhruli/STGCN-rehab) · [官网](https://fokhruli.github.io/STGCN-rehab/) · 个人维护
 
 **面向论文的康复动作评分模型：STGCN 训练与评估代码**
 
@@ -44,12 +44,12 @@ IEEE TNSRE 2022 论文官方实现，提供基于时空图卷积网络（STGCN�
 ```mermaid
 xychart-beta
     title "fokhruli/STGCN-rehab 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-25 45 → 2026-11-27 45（+0）
+2026-10-26 45 → 2026-11-28 46（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # es-ude/elastic-ai.creator
 
-⭐ 27 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/es-ude/elastic-ai.creator) · [官网](https://es-ude.github.io/elastic-ai.creator/) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/es-ude/elastic-ai.creator) · [官网](https://es-ude.github.io/elastic-ai.creator/) · 组织维护
 
 **面向 FPGA 的神经网络设计训练与 VHDL 生成库**
 
@@ -47,12 +47,12 @@ University of Duisburg-Essen 智能嵌入式系统实验室开发的 Python 库�
 ```mermaid
 xychart-beta
     title "es-ude/elastic-ai.creator 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-28"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-25 26 → 2026-11-27 27（+1）
+2026-10-26 26 → 2026-11-28 27（+1）
 
 
 ---

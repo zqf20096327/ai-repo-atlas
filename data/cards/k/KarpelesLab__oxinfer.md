@@ -1,6 +1,6 @@
 # KarpelesLab/oxinfer
 
-⭐ 4 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/KarpelesLab/oxinfer) · [官网](https://karpeleslab.github.io/oxinfer/) · 组织维护
+⭐ 5 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/KarpelesLab/oxinfer) · [官网](https://karpeleslab.github.io/oxinfer/) · 组织维护
 
 **纯 Rust 本地推理引擎：在任意设备上运行语言/视觉/图像/语音/嵌入模型**
 
@@ -46,13 +46,13 @@ oxinfer 用纯 Rust 实现本地推理，无需 BLAS 或机器学习框架，直
 
 ```mermaid
 xychart-beta
-    title "KarpelesLab/oxinfer 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "KarpelesLab/oxinfer 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 5（+2）
 
 
 ---

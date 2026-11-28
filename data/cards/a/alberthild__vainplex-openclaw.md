@@ -1,6 +1,6 @@
 # alberthild/vainplex-openclaw
 
-⭐ 13 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/alberthild/vainplex-openclaw) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-11-27 · [GitHub](https://github.com/alberthild/vainplex-openclaw) · 个人维护
 
 **为 OpenClaw 自主 agent 提供治理、记忆与审计的六插件套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alberthild/vainplex-openclaw 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LucaAngioloni/ProteinSecondaryStructure-CNN 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 112 --> 114
     line [113, 113]
 ```
 
-2026-10-25 113 → 2026-11-27 113（+0）
+2026-10-26 113 → 2026-11-28 113（+0）
 
 
 ---

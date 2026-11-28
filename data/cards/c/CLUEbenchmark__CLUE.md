@@ -1,6 +1,6 @@
 # CLUEbenchmark/CLUE
 
-⭐ 4,288 · Python · 推送 2026-02-06 · [GitHub](https://github.com/CLUEbenchmark/CLUE) · [官网](http://www.CLUEbenchmarks.com) · 组织维护 · 中文 README
+⭐ 4,287 · Python · 推送 2026-02-06 · [GitHub](https://github.com/CLUEbenchmark/CLUE) · [官网](http://www.CLUEbenchmarks.com) · 组织维护 · 中文 README
 
 **中文语言理解测评基准：数据集、基线模型、语料库与排行榜**
 
@@ -45,12 +45,12 @@ CLUE（Chinese Language Understanding Evaluation benchmark）提供中文 NLU �
 ```mermaid
 xychart-beta
     title "CLUEbenchmark/CLUE 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 4287 --> 4291
-    line [4288, 4289, 4290, 4289, 4288, 4289, 4288, 4288]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 4286 --> 4291
+    line [4288, 4289, 4290, 4289, 4288, 4289, 4288, 4287]
 ```
 
-2026-10-25 4,288 → 2026-11-27 4,288（+0）
+2026-10-26 4,288 → 2026-11-28 4,287（-1）
 
 
 ---

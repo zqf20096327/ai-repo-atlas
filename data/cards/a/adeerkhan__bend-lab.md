@@ -1,6 +1,6 @@
 # adeerkhan/bend-lab
 
-⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/adeerkhan/bend-lab) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/adeerkhan/bend-lab) · 个人维护
 
 **面向研究者的 Bend 语言机器学习实验集，含可复现验证**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "adeerkhan/bend-lab 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-12", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-31", "2026-11-12", "2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 7
     line [5, 6, 5, 5]
 ```
 
-2026-10-31 5 → 2026-11-27 5（+0）
+2026-10-31 5 → 2026-11-28 5（+0）
 
 
 ---

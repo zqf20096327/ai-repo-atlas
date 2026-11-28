@@ -1,6 +1,6 @@
 # arkorlab/fine-tuning
 
-⭐ 146 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/arkorlab/fine-tuning) · [官网](https://www.arkor.ai) · 组织维护 · 中文 README
+⭐ 146 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/arkorlab/fine-tuning) · [官网](https://www.arkor.ai) · 组织维护 · 中文 README
 
 **面向 TypeScript 开发者的开源 LLM 微调框架（已停止维护）**
 
@@ -46,12 +46,12 @@ Arkor 是一个 TypeScript 微调框架，含 SDK、CLI 与本地 Studio Web UI�
 ```mermaid
 xychart-beta
     title "arkorlab/fine-tuning 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-25 146 → 2026-11-27 146（+0）
+2026-10-26 146 → 2026-11-28 146（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dadashi44/vue-llm
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dadashi44/vue-llm) · [官网](http://vue-llm.js.org/) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dadashi44/vue-llm) · [官网](http://vue-llm.js.org/) · 个人维护
 
 **Vue/Nuxt 开发者的 AI SDK：流式聊天与多模型接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dadashi44/vue-llm 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 7
-    line [3, 5, 6, 6]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 5, 6, 7]
 ```
 
-2026-11-02 3 → 2026-11-27 6（+3）
+2026-11-02 3 → 2026-11-28 7（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # xing61/zzz-api
 
-⭐ 992 · 推送 2026-11-17 · [GitHub](https://github.com/xing61/zzz-api) · [官网](https://platform.zhizengzeng.com/#/login?aff=github) · 组织维护 · 中文 README
+⭐ 993 · 推送 2026-11-17 · [GitHub](https://github.com/xing61/zzz-api) · [官网](https://platform.zhizengzeng.com/#/login?aff=github) · 组织维护 · 中文 README
 
 **面向企业和开发者的大模型 API 接口服务（代理网关）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xing61/zzz-api 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 989 --> 993
-    line [990, 991, 992, 991, 992]
+    title "xing61/zzz-api 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-19", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 989 --> 994
+    line [990, 991, 992, 991, 992, 993]
 ```
 
-2026-10-25 990 → 2026-11-27 992（+2）
+2026-10-26 990 → 2026-11-28 993（+3）
 
 
 ---

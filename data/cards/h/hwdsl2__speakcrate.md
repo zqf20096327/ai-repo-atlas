@@ -1,6 +1,6 @@
 # hwdsl2/speakcrate
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/hwdsl2/speakcrate) · [官网](https://speakcrate.com) · 个人维护
+⭐ 31 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/hwdsl2/speakcrate) · [官网](https://speakcrate.com) · 个人维护
 
 **自托管文本转语音 API：基于 Kokoro，兼容 OpenAI 接口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hwdsl2/speakcrate 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-25 31 → 2026-11-27 31（+0）
+2026-10-26 31 → 2026-11-28 31（+0）
 
 
 ---

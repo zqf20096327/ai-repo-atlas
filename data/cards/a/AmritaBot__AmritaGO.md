@@ -45,12 +45,12 @@ AmritaGO 是本地运行的 Agent 工作台，前端由 React 构建，后端基
 ```mermaid
 xychart-beta
     title "AmritaBot/AmritaGO 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-27 3（+0）
+2026-11-11 3 → 2026-11-28 3（+0）
 
 
 ---

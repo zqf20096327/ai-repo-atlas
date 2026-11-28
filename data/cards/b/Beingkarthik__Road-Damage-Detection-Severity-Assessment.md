@@ -1,6 +1,6 @@
 # Beingkarthik/Road-Damage-Detection-Severity-Assessment
 
-⭐ 4 · Python · 推送 2026-10-19 · [GitHub](https://github.com/Beingkarthik/Road-Damage-Detection-Severity-Assessment) · [官网](https://road-damage-detection-severity-assessment-vgzqefg8dabed4bkvx8q.streamlit.app/) · 组织维护
+⭐ 5 · Python · 推送 2026-10-19 · [GitHub](https://github.com/Beingkarthik/Road-Damage-Detection-Severity-Assessment) · [官网](https://road-damage-detection-severity-assessment-vgzqefg8dabed4bkvx8q.streamlit.app/) · 组织维护
 
 **上传路面图片检测道路损伤并标注位置与置信度的 Web 应用**
 
@@ -45,12 +45,12 @@ RoadLens 是一个基于 YOLO 目标检测模型的道路损伤检测 Web 应用
 ```mermaid
 xychart-beta
     title "Beingkarthik/Road-Damage-Detection-Severity-Assessment 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-10-28 3 → 2026-11-27 4（+1）
+2026-10-28 3 → 2026-11-28 5（+2）
 
 
 ---

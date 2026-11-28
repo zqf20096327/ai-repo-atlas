@@ -1,6 +1,6 @@
 # Tongyi-MAI/Qwen-Planner-Agent
 
-⭐ 115 · HTML · 推送 2026-09-26 · [GitHub](https://github.com/Tongyi-MAI/Qwen-Planner-Agent) · [官网](https://tongyi-mai.github.io/Qwen-Planner-Agent/) · 组织维护 · 中文 README
+⭐ 116 · HTML · 推送 2026-09-26 · [GitHub](https://github.com/Tongyi-MAI/Qwen-Planner-Agent) · [官网](https://tongyi-mai.github.io/Qwen-Planner-Agent/) · 组织维护 · 中文 README
 
 **移动端规划智能体框架的博客与技术报告展示仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tongyi-MAI/Qwen-Planner-Agent 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 111 --> 116
-    line [112, 113, 115, 115]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 111 --> 117
+    line [112, 113, 115, 116]
 ```
 
-2026-10-25 112 → 2026-11-27 115（+3）
+2026-10-26 112 → 2026-11-28 116（+4）
 
 
 ---

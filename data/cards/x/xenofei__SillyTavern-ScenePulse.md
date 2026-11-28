@@ -44,13 +44,13 @@ SillyTavern 角色扮演前端的扩展：每次 AI 回复后自动解析 LLM �
 
 ```mermaid
 xychart-beta
-    title "xenofei/SillyTavern-ScenePulse 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-10", "2026-11-27"]
+    title "xenofei/SillyTavern-ScenePulse 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-10", "2026-11-28"]
     y-axis "stars" 21 --> 25
-    line [23, 22, 23, 24, 24]
+    line [22, 23, 24, 24]
 ```
 
-2026-10-25 23 → 2026-11-27 24（+1）
+2026-10-26 22 → 2026-11-28 24（+2）
 
 
 ---

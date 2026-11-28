@@ -1,6 +1,6 @@
 # ensignalp/kota
 
-⭐ 88 · Rust · MIT · 推送 2026-11-08 · [GitHub](https://github.com/ensignalp/kota) · 个人维护 · 中文 README
+⭐ 89 · Rust · MIT · 推送 2026-11-08 · [GitHub](https://github.com/ensignalp/kota) · 个人维护 · 中文 README
 
 **GNOME 顶栏显示各 AI 服务用量限额的监控扩展**
 
@@ -47,12 +47,12 @@ Rust 编写的 GNOME Shell 扩展加后台守护进程：读取 Claude、Codex�
 ```mermaid
 xychart-beta
     title "ensignalp/kota 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 22 --> 94
-    line [28, 83, 84, 87, 88, 88]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-28"]
+    y-axis "stars" 22 --> 95
+    line [28, 83, 84, 87, 88, 89]
 ```
 
-2026-11-08 28 → 2026-11-27 88（+60）
+2026-11-08 28 → 2026-11-28 89（+61）
 
 
 ---

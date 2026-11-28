@@ -1,6 +1,6 @@
 # humansensinglab/AGenDA
 
-⭐ 14 · Python · 推送 2025-12-01 · [GitHub](https://github.com/humansensinglab/AGenDA) · [官网](https://humansensinglab.github.io/AGenDA/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **弱监督域自适应航拍车辆检测的代码与数据集**
 

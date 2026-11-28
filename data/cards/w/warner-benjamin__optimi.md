@@ -1,6 +1,6 @@
 # warner-benjamin/optimi
 
-⭐ 131 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/warner-benjamin/optimi) · [官网](https://optimi.benjaminwarner.dev) · 个人维护
+⭐ 131 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/warner-benjamin/optimi) · [官网](https://optimi.benjaminwarner.dev) · 个人维护
 
 **低精度高内存效率的 PyTorch 优化器库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "warner-benjamin/optimi 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 130 --> 132
     line [131, 131]
 ```
 
-2026-10-25 131 → 2026-11-27 131（+0）
+2026-10-26 131 → 2026-11-28 131（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ana52070/Quick-acp
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ana52070/Quick-acp) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ana52070/Quick-acp) · 个人维护 · 中文 README
 
 **把 AWS Quick 的 Claude 配额桥接到任意 ACP 编辑器的本地代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ana52070/Quick-acp 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 4（+1）
 
 
 ---

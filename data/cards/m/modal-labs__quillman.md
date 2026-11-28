@@ -1,6 +1,6 @@
 # modal-labs/quillman
 
-⭐ 1,215 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/modal-labs/quillman) · [官网](https://modal.com/docs/examples/llm-voice-chat) · 组织维护
+⭐ 1,216 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/modal-labs/quillman) · [官网](https://modal.com/docs/examples/llm-voice-chat) · 组织维护
 
 **基于 Moshi 语音大模型的全双工语音聊天应用**
 
@@ -44,13 +44,13 @@ Modal Labs 提供的语音对话示例应用：后端运行 Kyutai Labs 的 Mosh
 
 ```mermaid
 xychart-beta
-    title "modal-labs/quillman 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-27"]
+    title "modal-labs/quillman 星数(近 9 点)"
+    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-27", "2026-11-28"]
     y-axis "stars" 1210 --> 1217
-    line [1211, 1212, 1211, 1215, 1216, 1215, 1214, 1215]
+    line [1211, 1212, 1211, 1215, 1216, 1215, 1214, 1215, 1216]
 ```
 
-2026-10-24 1,211 → 2026-11-27 1,215（+4）
+2026-10-25 1,211 → 2026-11-28 1,216（+5）
 
 
 ---

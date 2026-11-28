@@ -1,6 +1,6 @@
 # iowarp/clio-agent
 
-⭐ 13 · HTML · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/iowarp/clio-agent) · [官网](https://clio.iowarp.ai) · 组织维护
+⭐ 13 · HTML · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/iowarp/clio-agent) · [官网](https://clio.iowarp.ai) · 组织维护
 
 **科研数据的 AI 工作区：管理文件、分析与可视化**
 
@@ -47,12 +47,12 @@ CLIO 是 IOWarp 下的科研数据 AI 工作区，提供 Desktop 与浏览器两
 ```mermaid
 xychart-beta
     title "iowarp/clio-agent 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 9 --> 14
     line [10, 13, 13]
 ```
 
-2026-10-25 10 → 2026-11-27 13（+3）
+2026-10-26 10 → 2026-11-28 13（+3）
 
 
 ---

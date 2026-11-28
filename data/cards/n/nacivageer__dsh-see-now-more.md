@@ -1,6 +1,6 @@
 # nacivageer/dsh-see-now-more
 
-⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/nacivageer/dsh-see-now-more) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/nacivageer/dsh-see-now-more) · 个人维护 · 中文 README
 
 **让 DSH 像视频通话一样边看你的屏幕边聊天的插件**
 
@@ -39,6 +39,18 @@
 
 > L9: > 听觉是它的输入。本体是**黑听抬头**：默认只听，听到值得抬眼的内容才抬头看一眼，看完自己收回去。
 > L124: |DSH 版本|**`0.2.2-rc.5`**（2026-11 的 desktop 包；rc.5 于 2026-11-19 整套重测过一轮）。插件依赖 DSH 内部的 `sessionController` / `tools`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nacivageer/dsh-see-now-more 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
 
 
 ---

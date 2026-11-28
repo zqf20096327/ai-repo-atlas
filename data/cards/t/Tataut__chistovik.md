@@ -1,6 +1,6 @@
 # Tataut/chistovik
 
-⭐ 3 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Tataut/chistovik) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **俄语听写清理中继：让 Windows 任意应用里粘贴干净文本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # bruc3van/dsh-market-pro
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bruc3van/dsh-market-pro) · [官网](https://dsh-market-pro.com) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/bruc3van/dsh-market-pro) · [官网](https://dsh-market-pro.com) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 AI 原生插件·技能·MCP 市场**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bruc3van/dsh-market-pro 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 10 --> 17
+    line [11, 16]
 ```
 
-2026-11-26 11 → 2026-11-27 11（+0）
+2026-11-26 11 → 2026-11-28 16（+5）
 
 
 ---

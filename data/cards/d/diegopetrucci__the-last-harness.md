@@ -1,6 +1,6 @@
 # diegopetrucci/the-last-harness
 
-⭐ 39 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/diegopetrucci/the-last-harness) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/diegopetrucci/the-last-harness) · 个人维护
 
 **基于 Pi 构建的开发者 coding agent 编排框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "diegopetrucci/the-last-harness 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-26", "2026-11-28"]
     y-axis "stars" 36 --> 41
     line [37, 39, 40, 39, 39]
 ```
 
-2026-10-25 37 → 2026-11-27 39（+2）
+2026-10-26 37 → 2026-11-28 39（+2）
 
 
 ---

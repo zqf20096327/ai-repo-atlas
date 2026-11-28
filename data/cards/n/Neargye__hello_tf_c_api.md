@@ -1,6 +1,6 @@
 # Neargye/hello_tf_c_api
 
-⭐ 472 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Neargye/hello_tf_c_api) · 个人维护
+⭐ 471 · C++ · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Neargye/hello_tf_c_api) · 个人维护
 
 **TensorFlow C API 的跨平台 C/C++ 示例集与小型辅助库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Neargye/hello_tf_c_api 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 471 --> 474
-    line [472, 473, 472, 472]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 470 --> 474
+    line [472, 473, 472, 471]
 ```
 
-2026-10-25 472 → 2026-11-27 472（+0）
+2026-10-26 472 → 2026-11-28 471（-1）
 
 
 ---

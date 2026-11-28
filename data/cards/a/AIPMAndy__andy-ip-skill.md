@@ -1,6 +1,6 @@
 # AIPMAndy/andy-ip-skill
 
-⭐ 11 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AIPMAndy/andy-ip-skill) · 个人维护 · 中文 README
+⭐ 11 · Shell · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AIPMAndy/andy-ip-skill) · 个人维护 · 中文 README
 
 **面向个人IP打造者的AI内容创作技能工具箱**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/andy-ip-skill 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-25", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-11 10 → 2026-11-27 11（+1）
+2026-11-11 10 → 2026-11-28 11（+1）
 
 
 ---

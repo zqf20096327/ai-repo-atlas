@@ -1,6 +1,6 @@
 # hisea/radian
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/hisea/radian) · [官网](https://getrad.dev) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **单 Rust 二进制的终端编码 Agent，带任务编排器 arc**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

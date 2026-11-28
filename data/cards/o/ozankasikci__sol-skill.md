@@ -1,6 +1,6 @@
 # ozankasikci/sol-skill
 
-⭐ 32 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ozankasikci/sol-skill) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ozankasikci/sol-skill) · 个人维护
 
 **Claude Code 技能：Claude 规划与审查、GPT Sol 经 Codex CLI 写代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ozankasikci/sol-skill 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26", "2026-11-28"]
     y-axis "stars" 27 --> 33
     line [28, 29, 30, 28, 30, 31, 32, 32]
 ```
 
-2026-10-25 28 → 2026-11-27 32（+4）
+2026-10-26 28 → 2026-11-28 32（+4）
 
 
 ---

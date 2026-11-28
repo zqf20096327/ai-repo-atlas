@@ -41,6 +41,18 @@ rsibox 为现有 ML 推理、训练与 RL 引擎提供进程内热重载运行�
 > L34: - **Formally verified protocols & sandbox verification suite:** Core swap, multi-rank coordinator, pool, standby sh
 > L89: *Paste this prompt into Claude Code, Codex, Cursor, or Antigravity — zero manual setup:*
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hao-ai-lab/rsibox 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `d30400ceffe0` · [字段定义](../../DATASET.md)*

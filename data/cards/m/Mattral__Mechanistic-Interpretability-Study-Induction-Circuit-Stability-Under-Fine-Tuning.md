@@ -1,6 +1,6 @@
 # Mattral/Mechanistic-Interpretability-Study-Induction-Circuit-Stability-Under-Fine-Tuning
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/Mattral/Mechanistic-Interpretability-Study-Induction-Circuit-Stability-Under-Fine-Tuning) · [官网](https://huggingface.co/spaces/Mattral/induction-circuit-stability) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-07-15 · [GitHub](https://github.com/Mattral/Mechanistic-Interpretability-Study-Induction-Circuit-Stability-Under-Fine-Tuning) · [官网](https://huggingface.co/spaces/Mattral/induction-circuit-stability) · 个人维护
 
 **研究论文仓库：追踪微调下归纳头电路的稳定性变化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mattral/Mechanistic-Interpretability-Study-Induction-Circuit-Stability-Under-Fine-Tuning 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 12 --> 16
+    line [15, 13]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 13（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # HaD0Yun/Doyunha-Gopeak
 
-⭐ 275 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/HaD0Yun/Doyunha-Gopeak) · [官网](https://had0yun.github.io/Doyunha-Gopeak/) · 个人维护 · 中文 README
+⭐ 276 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/HaD0Yun/Doyunha-Gopeak) · [官网](https://had0yun.github.io/Doyunha-Gopeak/) · 个人维护 · 中文 README
 
 **给 Godot 开发者的 MCP 服务器：让 AI 助手编辑、运行、调试游戏项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HaD0Yun/Doyunha-Gopeak 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 268 --> 276
-    line [269, 270, 269, 272, 273, 274, 275, 275]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-31", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 268 --> 277
+    line [269, 270, 269, 272, 273, 274, 275, 276]
 ```
 
-2026-10-25 269 → 2026-11-27 275（+6）
+2026-10-26 269 → 2026-11-28 276（+7）
 
 
 ---

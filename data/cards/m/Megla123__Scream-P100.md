@@ -1,6 +1,6 @@
 # Megla123/Scream-P100
 
-⭐ 25 · Cuda · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Megla123/Scream-P100) · 个人维护
+⭐ 30 · Cuda · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Megla123/Scream-P100) · 个人维护
 
 **在两张退役 Tesla P100 上运行大 MoE 模型的推理引擎移植**
 
@@ -45,13 +45,13 @@ Strata split engine (strata-split-2) 到 NVIDIA Tesla P100 (Pascal, sm_60) 的�
 
 ```mermaid
 xychart-beta
-    title "Megla123/Scream-P100 星数(近 7 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 26
-    line [8, 9, 12, 14, 17, 23, 25]
+    title "Megla123/Scream-P100 星数(近 8 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 6 --> 32
+    line [8, 9, 12, 14, 17, 23, 25, 30]
 ```
 
-2026-11-20 8 → 2026-11-27 25（+17）
+2026-11-20 8 → 2026-11-28 30（+22）
 
 
 ---

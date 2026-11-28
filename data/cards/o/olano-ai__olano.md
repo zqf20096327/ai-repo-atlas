@@ -1,6 +1,6 @@
 # olano-ai/olano
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/olano-ai/olano) · [官网](https://docs.olano.ai/) · 组织维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/olano-ai/olano) · [官网](https://docs.olano.ai/) · 组织维护 · 中文 README
 
 **自托管 AI agent 团队运行时：记忆、工具、通道、调度与仪表盘**
 
@@ -40,6 +40,18 @@
 > L11: Olano is a self-hosted runtime that runs a fleet of AI agents. Each agent has a
 > L17: It is built on LangChain's Deep Agents
 > L43: |**Interoperability**|MCP client (stdio and HTTP, OAuth, connection health loop); MCP server that exposes agents as
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "olano-ai/olano 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

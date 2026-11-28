@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mehdihadeli/code-assist 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "mehdihadeli/code-assist 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 37 --> 40
-    line [39, 38]
+    line [39, 38, 38]
 ```
 
-2026-11-26 39 → 2026-11-27 38（-1）
+2026-11-26 39 → 2026-11-28 38（-1）
 
 
 ---

@@ -45,12 +45,12 @@ AAAI 2026 论文《Enhancing Binary Encoded Crime Linkage Analysis Using Siamese
 ```mermaid
 xychart-beta
     title "AlberTgarY/CrimeLinkageSiamese 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [11, 10, 10]
 ```
 
-2026-10-25 11 → 2026-11-27 10（-1）
+2026-10-26 11 → 2026-11-28 10（-1）
 
 
 ---

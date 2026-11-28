@@ -1,6 +1,6 @@
 # msgi/nlp-journey
 
-⭐ 1,628 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/msgi/nlp-journey) · [官网](https://github.com/msgi/nlp-journey) · 个人维护
+⭐ 1,629 · Python · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/msgi/nlp-journey) · [官网](https://github.com/msgi/nlp-journey) · 个人维护
 
 **NLP 论文与学习资源清单：覆盖 12 类研究主题**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "msgi/nlp-journey 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-28"]
     y-axis "stars" 1627 --> 1631
-    line [1629, 1630, 1629, 1630, 1628, 1628]
+    line [1629, 1630, 1629, 1630, 1628, 1629]
 ```
 
-2026-10-25 1,629 → 2026-11-27 1,628（-1）
+2026-10-26 1,629 → 2026-11-28 1,629（+0）
 
 
 ---

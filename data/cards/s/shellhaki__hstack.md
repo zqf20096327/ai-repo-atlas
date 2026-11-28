@@ -1,6 +1,6 @@
 # shellhaki/hstack
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/shellhaki/hstack) · [官网](https://hstack.shellhaki.dev) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/shellhaki/hstack) · [官网](https://hstack.shellhaki.dev) · 个人维护
 
 **让小模型写代码、前沿模型指挥的 agent 技能集**
 
@@ -46,12 +46,12 @@ hstack 是一组 agent 技能与 CLI 工具，将前沿模型用作高级工程�
 ```mermaid
 xychart-beta
     title "shellhaki/hstack 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-28"]
     y-axis "stars" 3 --> 8
     line [4, 7, 7]
 ```
 
-2026-11-20 4 → 2026-11-27 7（+3）
+2026-11-20 4 → 2026-11-28 7（+3）
 
 
 ---

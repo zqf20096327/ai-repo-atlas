@@ -1,6 +1,6 @@
 # guliacer/ComfyUI-GuliPoses
 
-⭐ 10 · JavaScript · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/guliacer/ComfyUI-GuliPoses) · [官网](https://github.com/guliacer/ComfyUI-GuliNodes) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/guliacer/ComfyUI-GuliPoses) · [官网](https://github.com/guliacer/ComfyUI-GuliNodes) · 个人维护 · 中文 README
 
 **给 ComfyUI 用户的白模姿态参考图库节点，画廊内选图即输出**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guliacer/ComfyUI-GuliPoses 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-28"]
     y-axis "stars" 2 --> 11
     line [3, 6, 7, 10, 10]
 ```
 
-2026-10-30 3 → 2026-11-27 10（+7）
+2026-10-30 3 → 2026-11-28 10（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # m3dev/gokart
 
-⭐ 343 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/m3dev/gokart) · [官网](https://gokart.readthedocs.io/en/latest/) · 组织维护
+⭐ 343 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/m3dev/gokart) · [官网](https://gokart.readthedocs.io/en/latest/) · 组织维护
 
 **面向 ML 工程的 pipeline 框架：解决可复现性与任务依赖**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "m3dev/gokart 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-28"]
     y-axis "stars" 341 --> 345
     line [342, 343, 344, 343, 343]
 ```
 
-2026-10-25 342 → 2026-11-27 343（+1）
+2026-10-26 342 → 2026-11-28 343（+1）
 
 
 ---

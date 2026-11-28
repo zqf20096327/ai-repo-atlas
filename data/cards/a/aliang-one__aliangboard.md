@@ -1,6 +1,6 @@
 # aliang-one/aliangboard
 
-⭐ 117 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/aliang-one/aliangboard) · 个人维护 · 中文 README
+⭐ 118 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/aliang-one/aliangboard) · 个人维护 · 中文 README
 
 **面向 Kubernetes 运维的 AI 原生多集群管理面板，含 Agent 工作台与 MCP 服务器**
 
@@ -46,12 +46,12 @@ Vue 3 前端 + Node Kubernetes API 网关构成的自托管面板，覆盖多集
 ```mermaid
 xychart-beta
     title "aliang-one/aliangboard 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 113 --> 118
-    line [114, 115, 116, 117, 117]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 113 --> 119
+    line [114, 115, 116, 117, 118]
 ```
 
-2026-10-25 114 → 2026-11-27 117（+3）
+2026-10-26 114 → 2026-11-28 118（+4）
 
 
 ---

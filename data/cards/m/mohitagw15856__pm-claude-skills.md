@@ -1,10 +1,10 @@
 # mohitagw15856/pm-claude-skills
 
-⭐ 1,608 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mohitagw15856/pm-claude-skills) · [官网](https://mohitagw15856.github.io/pm-claude-skills/) · 个人维护 · 中文 README
+⭐ 1,612 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mohitagw15856/pm-claude-skills) · [官网](https://mohitagw15856.github.io/pm-claude-skills/) · 个人维护 · 中文 README
 
-**面向 Claude/ChatGPT 等助手的专业 Agent 技能 markdown 库**
+**面向专业工作场景的 1,390 个 Agent 技能 markdown 库**
 
-开源的 1,390 个 Agent Skills 库，每个技能是一个 SKILL.md 纯 markdown 文件，内含工作框架、输出模板、质量检查与反模式，让 AI 助手按专业标准完成具体任务（写 PRD、解读租约、复盘等）。支持 Claude、ChatGPT、Gemini、Cursor、Codex 等工具，提供 npx 安装器、Claude Code 插件目录、MCP 服务器、REST API 与离线包多种分发方式；含 21 个面向 Claude Duet 类常驻 agent 的技能；MIT 许可。
+开源的 Agent Skills 库，由纯 markdown SKILL.md 文件组成，每个技能包含工作框架、输出模板、质量检查与反模式，用于教 AI 助手完成 PRD、事后复盘、合同解读、周报等专业任务。通过 npx 安装器、Claude Code 插件目录、MCP 服务器或 REST API 分发，兼容 Claude、ChatGPT、Gemini、Cursor、Codex 等工具；含 21 个面向常驻 agent（如 Claude Duet）的技能，带审批门与注入演练沙盒。MIT 许可，73 个技能有简体中文版。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 1,390 个纯 markdown SKILL.md 技能，MIT 许可
-- 多分发渠道：npx 安装器、Anthropic 官方插件目录、MCP 服务器、REST API、离线包
-- 21 个面向 Claude Duet 类常驻 agent 的技能，带审批门与 kill switch 设计
-- 面向中文用户的 16 个技能包，73 个技能有简体中文版
+- 1,390 个纯 markdown 技能文件，安装/卸载即复制/删除文本文件
+- 通过 npx 安装器、MCP 服务器与只读 REST API 三种途径分发技能
+- 21 个面向常驻 agent 的 Duet-ready 技能，含审批门与 12 条注入演练指令
+- 73 个技能提供简体中文版，含周报、考公、劳动合同等中文场景技能包
 
 ## 适用场景
 
-- 让助手把访谈笔记产出为 PRD、风险登记表与干系人更新
-- 解读租约、账单、合同中的金额条款
-- 用中文生成周报、述职与复盘材料
-- 为常驻 agent 配置简报、审批策略与中止方案
+- 让 AI 助手按专业标准产出 PRD、风险清单与干系人更新
+- 解读租约、账单、合同等文件中的金额条款
+- 为常驻 agent 配置晨报、审批策略与终止开关
+- 用中文生成周报、述职等职场文档
 
 ## 场景标签
 
@@ -40,19 +40,20 @@
 
 > L61: PM Skills is an open-source library of 1390 Agent Skills — plain-markdown SKILL.md files that teach an AI assistant
 > L131: A skill is one plain-markdown SKILL.md file: a description that tells your assistant when to load it, plus the wor
+> L172: Install any bundle: `/plugin install pm-decoders@pm-claude-skills`, or `npx pm-claude-skills add --bundle pm-decod
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mohitagw15856/pm-claude-skills 星数(近 26 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1452 --> 1622
-    line [1466, 1471, 1478, 1488, 1489, 1494, 1499, 1503, 1505, 1532, 1539, 1540, 1542, 1546, 1549, 1553, 1563, 1570, 1573, 1578, 1581, 1584, 1589, 1595, 1603, 1608]
+    x-axis ["2026-10-19", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 1457 --> 1626
+    line [1471, 1478, 1488, 1489, 1494, 1499, 1503, 1505, 1532, 1539, 1540, 1542, 1546, 1549, 1553, 1563, 1570, 1573, 1578, 1581, 1584, 1589, 1595, 1603, 1608, 1612]
 ```
 
-2026-10-18 1,466 → 2026-11-27 1,608（+142）
+2026-10-19 1,471 → 2026-11-28 1,612（+141）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `b1e36ff17828` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `2e0cb9bcc73a` · [字段定义](../../DATASET.md)*

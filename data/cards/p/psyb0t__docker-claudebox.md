@@ -1,6 +1,6 @@
 # psyb0t/docker-claudebox
 
-⭐ 24 · Shell · WTFPL · 推送 2026-11-17 · [GitHub](https://github.com/psyb0t/docker-claudebox) · [官网](https://ciprian.51k.eu/docker-claude-code-your-ai-dev-agent-containerized-and-unhinged/) · 个人维护
+⭐ 24 · Shell · WTFPL · 推送 2026-11-27 · [GitHub](https://github.com/psyb0t/docker-claudebox) · [官网](https://ciprian.51k.eu/docker-claude-code-your-ai-dev-agent-containerized-and-unhinged/) · 个人维护
 
 **在 Docker 中运行 Claude Code 的多接口封装器，支持终端/HTTP/MCP/Telegram/定时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "psyb0t/docker-claudebox 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-28"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-25 23 → 2026-11-27 24（+1）
+2026-10-26 23 → 2026-11-28 24（+1）
 
 
 ---

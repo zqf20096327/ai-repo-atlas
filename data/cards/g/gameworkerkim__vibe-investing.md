@@ -1,6 +1,6 @@
 # gameworkerkim/vibe-investing
 
-⭐ 367 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/gameworkerkim/vibe-investing) · [官网](https://vibequant.cc/) · 个人维护
+⭐ 368 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/gameworkerkim/vibe-investing) · [官网](https://vibequant.cc/) · 个人维护
 
 **个人维护的 AI 量化投资策展仓库：策略、工具与专栏合集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gameworkerkim/vibe-investing 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 349 --> 368
-    line [350, 351, 352, 350, 360, 362, 363, 366, 367]
+    title "gameworkerkim/vibe-investing 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 349 --> 369
+    line [350, 351, 352, 350, 360, 362, 363, 366, 367, 368]
 ```
 
-2026-10-25 350 → 2026-11-27 367（+17）
+2026-10-26 350 → 2026-11-28 368（+18）
 
 
 ---

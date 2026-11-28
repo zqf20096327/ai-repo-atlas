@@ -1,6 +1,6 @@
 # agentfront/frontmcp
 
-⭐ 154 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/agentfront/frontmcp) · [官网](https://frontmcp.dev) · 组织维护
+⭐ 154 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/agentfront/frontmcp) · [官网](https://frontmcp.dev) · 组织维护
 
 **TypeScript 框架：构建含认证与测试的 MCP 服务器**
 
@@ -44,13 +44,13 @@ FrontMCP 提供 TypeScript 框架，开发者以带 Zod schema 的类型化类�
 
 ```mermaid
 xychart-beta
-    title "agentfront/frontmcp 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-27"]
+    title "agentfront/frontmcp 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-27", "2026-11-28"]
     y-axis "stars" 147 --> 155
-    line [148, 151, 152, 153, 154]
+    line [148, 151, 152, 153, 154, 154]
 ```
 
-2026-10-25 148 → 2026-11-27 154（+6）
+2026-10-26 148 → 2026-11-28 154（+6）
 
 
 ---

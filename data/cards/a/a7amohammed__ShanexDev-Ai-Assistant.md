@@ -1,6 +1,6 @@
 # a7amohammed/ShanexDev-Ai-Assistant
 
-⭐ 3 · Python · 推送 2026-11-09 · [GitHub](https://github.com/a7amohammed/ShanexDev-Ai-Assistant) · [官网](https://shanexdev.odoo.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **语音优先 CLI AI 助手：唤醒词对话、屏幕控制与系统自动化**
 

@@ -45,12 +45,12 @@ bupha 不是独立产品，而是 tamias 的 CI 集成（type: bupha），以 ta
 ```mermaid
 xychart-beta
     title "9aia/bupha 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

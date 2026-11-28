@@ -1,6 +1,6 @@
 # vibeflowing-inc/convex-mcp
 
-⭐ 12 · TypeScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/vibeflowing-inc/convex-mcp) · [官网](https://vibeflow.ai/) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-05-26 · [GitHub](https://github.com/vibeflowing-inc/convex-mcp) · [官网](https://vibeflow.ai/) · 组织维护
 
 **把 Convex 后端函数封装为无状态 MCP 服务器的适配器**
 
@@ -43,12 +43,12 @@ npm 包，将 Convex 后端函数自动翻译为标准 MCP 服务器，使 Claud
 ```mermaid
 xychart-beta
     title "vibeflowing-inc/convex-mcp 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 13（+1）
 
 
 ---

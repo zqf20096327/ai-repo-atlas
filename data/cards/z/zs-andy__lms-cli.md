@@ -41,6 +41,18 @@
 > L22: - **Agent-ready via MCP**: First-class plugins for **Codex** (`plugins/lms-cli/`) and **Claude Code** (`plugins/lms
 > L23: - **Strictly read-only by design**: Explicit tool allowlist and JSON Schema validation — never submits assignments,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zs-andy/lms-cli 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `fcd035b97c47` · [字段定义](../../DATASET.md)*

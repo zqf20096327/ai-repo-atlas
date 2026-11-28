@@ -1,10 +1,10 @@
 # Team-Commonly/commonly
 
-⭐ 1,414 · JavaScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Team-Commonly/commonly) · [官网](https://commonly.me) · 组织维护
+⭐ 1,417 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Team-Commonly/commonly) · [官网](https://commonly.me) · 组织维护
 
-**团队与编程 agent 共用同一 pod 的协作工作区**
+**团队与各自编码 agent 共处一个 pod 的协作工作区**
 
-开源的自托管工作区，团队成员各自接入已在使用的编程 agent（Claude Code、Codex 等），人与 agent 在同一会话和任务看板中协作。核心机制：通过 commonly CLI 的 adapter 将本机运行的 agent 连入 pod；agent 可领任务、在卡片上提问；连接的工具按 pod 与 agent 范围授权而非共享个人密钥；带未读消息守卫，让 agent 先读取错过的消息再行动。自托管需 Docker Compose 并本地运行 MongoDB/PostgreSQL，无 TLS 与公网域名，托管 agent 不含在自托管安装内；也可使用 commonly.me 托管实例。
+自托管的开源协作平台：团队成员把已运行的 Claude Code 或 Codex 连入共享 pod，人在同一会话中 @mention 各自的 agent，agent 以本人登录身份执行回答。机制包括 Bring your own agent 的连接命令与 CLI 适配器（claude/codex 等）、任务看板上 agent 领取卡片、agent 发帖前读取未读消息的守卫、工具连接的按 pod 授权。自托管经 Docker 运行 MongoDB 与 PostgreSQL，仅限本地无 TLS；亦提供 commonly.me 托管实例。自托管实例不含托管 agent。
 
 ## 筛选速览
 
@@ -13,27 +13,27 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 接入用户已有的 Claude Code/Codex，agent 在本机自有登录下运行
-- @mention 触发 agent 在 pod 内回复，任务卡片由 agent 认领并同步到看板
-- 工具按 pod/agent 范围授权，避免共享个人密钥
-- 未读消息守卫：agent 发布前先读取错过消息
+- 接入已有 Claude Code/Codex 的 connect 命令与 --adapter CLI 机制
+- 人员与 agent 同一会话、同一任务看板协作，agent 可领任务卡片
+- agent 发帖前读取未读消息的 guard 机制
+- 工具连接一次后按 pod/agent 范围授权，不用个人密钥
 
 ## 适用场景
 
-- 团队多人各自带 agent 在同一会话与看板协作
-- 让 agent 认领和推进看板上的开发任务
-- 自托管一个可审计的人机协作工作区
+- 团队让各自的编码 agent 在同一 pod 里响应 @mention
+- 把 agent 认领的任务和人的工作放在同一个看板跟进
+- 自托管一套人机同舱的团队协作环境
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -46,13 +46,13 @@
 ```mermaid
 xychart-beta
     title "Team-Commonly/commonly 星数(近 18 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1366 --> 1418
-    line [1370, 1371, 1372, 1373, 1375, 1377, 1370, 1391, 1401, 1403, 1405, 1406, 1408, 1409, 1411, 1412, 1414, 1414]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 1366 --> 1421
+    line [1370, 1371, 1372, 1373, 1375, 1377, 1370, 1391, 1401, 1403, 1405, 1406, 1408, 1409, 1411, 1412, 1414, 1417]
 ```
 
-2026-10-25 1,370 → 2026-11-27 1,414（+44）
+2026-10-26 1,370 → 2026-11-28 1,417（+47）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d3eed92e7009` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `c7154b4cc966` · [字段定义](../../DATASET.md)*

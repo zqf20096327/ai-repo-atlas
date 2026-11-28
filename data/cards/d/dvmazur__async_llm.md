@@ -1,6 +1,6 @@
 # dvmazur/async_llm
 
-⭐ 25 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/dvmazur/async_llm) · [官网](https://dvmazur.github.io/async_llm/) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/dvmazur/async_llm) · [官网](https://dvmazur.github.io/async_llm/) · 组织维护
 
 **免训练异步 LLM Agent 构建框架，基于共享缓存并发推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dvmazur/async_llm 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-28"]
     y-axis "stars" 20 --> 26
     line [21, 22, 21, 22, 23, 24, 25, 25]
 ```
 
-2026-10-25 21 → 2026-11-27 25（+4）
+2026-10-26 21 → 2026-11-28 25（+4）
 
 
 ---

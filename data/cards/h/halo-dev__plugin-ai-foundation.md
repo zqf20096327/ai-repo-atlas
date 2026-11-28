@@ -1,6 +1,6 @@
 # halo-dev/plugin-ai-foundation
 
-⭐ 10 · Java · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/halo-dev/plugin-ai-foundation) · [官网](https://www.halo.run/store/apps/app-acslk9nu) · 组织维护 · 中文 README
+⭐ 10 · Java · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/halo-dev/plugin-ai-foundation) · [官网](https://www.halo.run/store/apps/app-acslk9nu) · 组织维护 · 中文 README
 
 **为 Halo 插件生态统一接入大模型的官方 AI 能力平台**
 
@@ -40,6 +40,18 @@ Halo 官方的 AI 基础插件：内置十余家模型 Provider 的接入与统�
 > L5: Halo 官方 AI 能力平台，统一接入主流大模型，为插件生态提供文本生成、嵌入向量、工具调用等智能化能力。
 > L43: |`api/`|对外发布的 Java SDK（`run.halo.aifoundation:api`）。其他 Halo 插件依赖此模块即可调用 AI 能力|
 > L22: - **消费方 SDK**：提供 Provider-neutral Java API、浏览器 / Vue npm 包和 FormKit `aiModelSelector`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "halo-dev/plugin-ai-foundation 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
 
 
 ---

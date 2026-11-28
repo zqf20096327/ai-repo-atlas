@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zorost/alchemylake-databricks 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "zorost/alchemylake-databricks 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 116 --> 121
-    line [120, 118, 117]
+    line [120, 118, 117, 117]
 ```
 
-2026-10-25 120 → 2026-11-27 117（-3）
+2026-10-26 120 → 2026-11-28 117（-3）
 
 
 ---

@@ -45,12 +45,12 @@ SAP 维护的 Python 包 hana-ai，是 HANA ML Python 客户端库面向生成�
 ```mermaid
 xychart-beta
     title "SAP/generative-ai-toolkit-for-sap-hana-cloud 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-25 30 → 2026-11-27 31（+1）
+2026-10-26 30 → 2026-11-28 31（+1）
 
 
 ---

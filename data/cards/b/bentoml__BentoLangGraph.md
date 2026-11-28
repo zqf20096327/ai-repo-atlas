@@ -45,12 +45,12 @@ BentoML 官方参考实现，演示如何将 LangGraph Agent 应用以 REST API 
 ```mermaid
 xychart-beta
     title "bentoml/BentoLangGraph 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

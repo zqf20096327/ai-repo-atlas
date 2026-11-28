@@ -1,6 +1,6 @@
 # joshsegatt/SeniorOS
 
-⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/joshsegatt/SeniorOS) · [官网](https://www.npmjs.com/package/senioros) · 个人维护
+⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/joshsegatt/SeniorOS) · [官网](https://www.npmjs.com/package/senioros) · 个人维护
 
 **为编程 agent 提供技能与钩子的工程纪律工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joshsegatt/SeniorOS 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-27"]
+    x-axis ["2026-11-12", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-27 3（+0）
+2026-11-12 3 → 2026-11-28 3（+0）
 
 
 ---

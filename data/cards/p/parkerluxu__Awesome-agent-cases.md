@@ -1,6 +1,6 @@
 # parkerluxu/Awesome-agent-cases
 
-⭐ 28 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/parkerluxu/Awesome-agent-cases) · [官网](https://agentcaseshare.cn/) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/parkerluxu/Awesome-agent-cases) · [官网](https://agentcaseshare.cn/) · 个人维护 · 中文 README
 
 **双语 AI Agent 案例与资讯知识库，面向构建者与研究者**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "parkerluxu/Awesome-agent-cases 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22", "2026-11-27"]
+    title "parkerluxu/Awesome-agent-cases 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-22", "2026-11-27", "2026-11-28"]
     y-axis "stars" 17 --> 29
-    line [18, 20, 18, 24, 25, 26, 28]
+    line [18, 20, 18, 24, 25, 26, 28, 28]
 ```
 
-2026-10-25 18 → 2026-11-27 28（+10）
+2026-10-26 18 → 2026-11-28 28（+10）
 
 
 ---

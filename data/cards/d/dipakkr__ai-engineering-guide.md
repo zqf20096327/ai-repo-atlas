@@ -1,6 +1,6 @@
 # dipakkr/ai-engineering-guide
 
-⭐ 30 · Python · 推送 2026-08-10 · [GitHub](https://github.com/dipakkr/ai-engineering-guide) · [官网](https://dipakkr.github.io/ai-engineering-guide/) · 个人维护
+⭐ 31 · Python · 推送 2026-08-10 · [GitHub](https://github.com/dipakkr/ai-engineering-guide) · [官网](https://dipakkr.github.io/ai-engineering-guide/) · 个人维护
 
 **面向工程师的 AI 工程实践指南：LLM/RAG/Agent/Evals/生产运维**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dipakkr/ai-engineering-guide 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 25 --> 31
-    line [26, 27, 28, 26, 28, 30, 30]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 25 --> 32
+    line [26, 27, 28, 26, 28, 30, 31]
 ```
 
-2026-10-25 26 → 2026-11-27 30（+4）
+2026-10-26 26 → 2026-11-28 31（+5）
 
 
 ---

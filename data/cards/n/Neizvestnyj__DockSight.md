@@ -45,12 +45,12 @@ DockSight 提供运行在本地的 Web 界面，面向使用 Docker 的开发者
 ```mermaid
 xychart-beta
     title "Neizvestnyj/DockSight 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/cryptids
 
-⭐ 76 · Lean · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/google-deepmind/cryptids) · [官网](https://google-deepmind.github.io/cryptids/) · 组织维护
+⭐ 75 · Lean · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/google-deepmind/cryptids) · [官网](https://google-deepmind.github.io/cryptids/) · 组织维护
 
 **Lean 4 形式化验证库：图灵机与 Busy Beaver 停机证明**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "google-deepmind/cryptids 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-27", "2026-11-28"]
     y-axis "stars" 60 --> 77
-    line [61, 64, 66, 68, 69, 70, 61, 73, 74, 75, 76]
+    line [64, 66, 68, 69, 70, 61, 73, 74, 75, 76, 75]
 ```
 
-2026-10-25 61 → 2026-11-27 76（+15）
+2026-10-26 64 → 2026-11-28 75（+11）
 
 
 ---

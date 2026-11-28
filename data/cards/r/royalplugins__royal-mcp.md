@@ -1,6 +1,6 @@
 # royalplugins/royal-mcp
 
-⭐ 10 · PHP · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/royalplugins/royal-mcp) · [官网](https://royalplugins.com/royal-mcp/) · 组织维护
+⭐ 10 · PHP · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/royalplugins/royal-mcp) · [官网](https://royalplugins.com/royal-mcp/) · 组织维护
 
 **面向 WordPress 站长：把站点变成 MCP 服务器供 AI 代理读写管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "royalplugins/royal-mcp 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

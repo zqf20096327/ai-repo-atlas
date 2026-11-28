@@ -1,6 +1,6 @@
 # WangJingzeQwQ/etf-stress-lab
 
-⭐ 6 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/WangJingzeQwQ/etf-stress-lab) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/WangJingzeQwQ/etf-stress-lab) · 个人维护 · 中文 README
 
 **可审计的 ETF 杠杆与尾部风险压力测试研究台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WangJingzeQwQ/etf-stress-lab 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 7
-    line [3, 5, 6, 6]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 5, 6, 7]
 ```
 
-2026-11-01 3 → 2026-11-27 6（+3）
+2026-11-01 3 → 2026-11-28 7（+4）
 
 
 ---

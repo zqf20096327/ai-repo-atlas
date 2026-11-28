@@ -1,6 +1,6 @@
 # sadrjahani/react-agent-from-scratch
 
-⭐ 4 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/sadrjahani/react-agent-from-scratch) · [官网](https://sadrjahani.github.io) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sadrjahani/react-agent-from-scratch) · [官网](https://sadrjahani.github.io) · 个人维护
 
 **Python 实现的 ReAct 工具调用 Agent 教学项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sadrjahani/react-agent-from-scratch 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-27 4（+0）
+2026-11-08 4 → 2026-11-28 4（+0）
 
 
 ---

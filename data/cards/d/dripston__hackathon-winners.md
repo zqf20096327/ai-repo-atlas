@@ -1,6 +1,6 @@
 # dripston/hackathon-winners
 
-⭐ 24 · 推送 2026-11-04 · [GitHub](https://github.com/dripston/hackathon-winners) · 个人维护
+⭐ 26 · 推送 2026-11-04 · [GitHub](https://github.com/dripston/hackathon-winners) · 个人维护
 
 **软件黑客松获奖项目链接策展清单（AI/Web3/学生/全球赛事）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dripston/hackathon-winners 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 15 --> 25
-    line [16, 19, 22, 23, 24, 24]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 15 --> 27
+    line [16, 19, 22, 23, 24, 26]
 ```
 
-2026-11-08 16 → 2026-11-27 24（+8）
+2026-11-08 16 → 2026-11-28 26（+10）
 
 
 ---

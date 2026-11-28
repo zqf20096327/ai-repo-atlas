@@ -1,6 +1,6 @@
 # GHSaiMo/antigravity-mobile
 
-⭐ 40 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/GHSaiMo/antigravity-mobile) · [官网](https://mgy.jiuge.space/) · 个人维护 · 中文 README
+⭐ 47 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/GHSaiMo/antigravity-mobile) · [官网](https://multigravity.app) · 个人维护 · 中文 README
 
 **Google Antigravity AI Agent 的开源原生移动伴侣客户端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GHSaiMo/antigravity-mobile 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 33 --> 41
-    line [34, 40]
+    title "GHSaiMo/antigravity-mobile 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 33 --> 48
+    line [34, 40, 47]
 ```
 
-2026-11-26 34 → 2026-11-27 40（+6）
+2026-11-26 34 → 2026-11-28 47（+13）
 
 
 ---

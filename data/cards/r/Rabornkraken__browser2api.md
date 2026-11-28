@@ -1,6 +1,6 @@
 # Rabornkraken/browser2api
 
-⭐ 28 · Python · 推送 2026-03-02 · [GitHub](https://github.com/Rabornkraken/browser2api) · 个人维护 · 中文 README
+⭐ 29 · Python · 推送 2026-03-02 · [GitHub](https://github.com/Rabornkraken/browser2api) · 个人维护 · 中文 README
 
 **将即梦AI/Google Flow 网页 UI 自动化为图像视频生成 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rabornkraken/browser2api 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-25 28 → 2026-11-27 28（+0）
+2026-10-26 28 → 2026-11-28 29（+1）
 
 
 ---

@@ -1,10 +1,10 @@
 # NPC-Worldwide/npcpy
 
-⭐ 1,532 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
+⭐ 1,532 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
 
-**面向开发者的多模态 LLM、Agent 与知识图谱 Python 构建库**
+**面向研究开发者的多模态 LLM/Agent/知识图谱 Python 构建库**
 
-npcpy 提供用于多模态语言模型、agentic AI 与知识图谱研发的原语：NPC/Agent/ToolAgent/CodingAgent 类、多智能体团队编排（NPCArray、Team）、基于 YAML 的 .npc/.jinx 团队定义文件、MCP server 集成、流式与 JSON/Pydantic 结构化输出、图像音视频生成接口，以及带睡眠/做梦生命周期机制的知识图谱构建与检索。通过统一接口对接本地（llama.cpp、LM Studio、ollama、omlx）与云端提供商；另提供决策模型接口（choice/noul/score/predict）。以 pip 包分发，提供 Flask 服务能力。
+提供面向多模态语言模型、Agent 与知识图谱研发的基础原语：NPC 人设对象、Agent/ToolAgent/CodingAgent、多智能体团队编排（NPCArray、Team）、基于 .npc/.jinx/team.ctx 文件的可执行团队定义、MCP server 集成，以及带唤醒/睡眠/梦境生命周期的知识图谱构建与检索。支持本地运行时（llama.cpp、LM Studio、ollama、omlx）与云端提供商，并暴露 choice/noul/score/predict 决策模型接口。以 Python 库形式通过 PyPI 安装，另含 Flask 服务化与流式/JSON/Pydantic 结构化输出支持。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@ npcpy 提供用于多模态语言模型、agentic AI 与知识图谱研发的原
 
 ## 能力要点
 
-- 统一接口调用本地与云端 LLM 提供商，支持流式与 Pydantic 结构化输出
-- NPC/Agent/ToolAgent/CodingAgent 与多智能体辩论、并行执行（NPCArray）
-- .npc/.jinx/team.ctx 文件格式定义团队，可直接执行，支持 MCP server 外部工具
-- 知识图谱带 waking/sleeping/dreaming 生命周期与混合检索
+- 多智能体编排：Team、NPCArray 并行执行、多 Agent 辩论与迭代精炼
+- .npc/.jinx/team.ctx 文件定义可直接执行的团队与技能（Skills）
+- 知识图谱带 wake/sleep/dream 生命周期与混合检索
+- 本地（ollama/llama.cpp/LM Studio/omlx）与云提供商统一调用接口
 
 ## 适用场景
 
-- 构建多智能体团队并编排协作任务
-- 用本地 ollama 模型跑分类、评分等决策任务
-- 从文本构建并演化知识图谱、抽取结构化事实
-- 为 Agent 团队接入 MCP 外部工具服务
+- 构建多 Agent 团队处理分析、检索与报告生成任务
+- 用 MCP server 为 NPC 团队接入外部工具
+- 从文本构建可演化的知识图谱并做结构化记忆抽取
+- 快速对接本地 Ollama 模型做 LLM 调用与代码生成实验
 
 ## 场景标签
 
-`多智能体` `知识图谱` `多模态` · 领域:Agent 开发
+`多智能体` `Agent 框架` `知识图谱` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L10: `npcpy` is a library that provides key primitives for research and development with multimodal language models, age
-> L116: The `Agent` class in `npcpy` comes with a set of default tools (sh, python, edit_file, web_search, etc.)
-> L306:  MCP server integration
+> L115: ### Agent with tools
+> L421: Build, evolve, and search knowledge graphs from text. The KG grows through waking (assimilation), sleeping (consol
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "NPC-Worldwide/npcpy 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 1518 --> 1533
     line [1519, 1521, 1522, 1523, 1519, 1524, 1526, 1527, 1528, 1530, 1529, 1530, 1532, 1532]
 ```
 
-2026-10-25 1,519 → 2026-11-27 1,532（+13）
+2026-10-26 1,519 → 2026-11-28 1,532（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `75019272c5b2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ba691a3a1f6a` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Denis2054/Context-Engineering-for-Multi-Agent-Systems
 
-⭐ 304 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) · [官网](https://www.linkedin.com/in/denis-rothman-0b034043/) · 个人维护
+⭐ 305 · Jupyter Notebook · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems) · [官网](https://www.linkedin.com/in/denis-rothman-0b034043/) · 个人维护
 
 **多智能体系统 Context Engine 蓝图：领域无关的语义编排架构**
 
@@ -44,13 +44,13 @@ Denis Rothman 所著《Context Engineering for Multi-Agent Systems》配套代�
 
 ```mermaid
 xychart-beta
-    title "Denis2054/Context-Engineering-for-Multi-Agent-Systems 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 289 --> 305
-    line [290, 291, 292, 293, 294, 290, 297, 298, 299, 300, 302, 303, 304, 304]
+    title "Denis2054/Context-Engineering-for-Multi-Agent-Systems 星数(近 13 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 289 --> 306
+    line [291, 292, 293, 294, 290, 297, 298, 299, 300, 302, 303, 304, 305]
 ```
 
-2026-10-25 290 → 2026-11-27 304（+14）
+2026-10-26 291 → 2026-11-28 305（+14）
 
 
 ---

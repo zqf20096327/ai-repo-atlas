@@ -45,12 +45,12 @@ SAGE（Shapley Additive Global importancE）是面向机器学习从业者的模
 ```mermaid
 xychart-beta
     title "iancovert/sage 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 293 --> 295
     line [294, 294]
 ```
 
-2026-10-25 294 → 2026-11-27 294（+0）
+2026-10-26 294 → 2026-11-28 294（+0）
 
 
 ---

@@ -46,12 +46,12 @@ langchain-ai/openwork 的维护分支，为 Deep Agents 提供桌面工作台，
 ```mermaid
 xychart-beta
     title "Antony-Jia/OpenAnyWork 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-27 11（+0）
+2026-11-10 11 → 2026-11-28 11（+0）
 
 
 ---

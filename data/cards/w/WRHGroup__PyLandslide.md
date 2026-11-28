@@ -41,6 +41,18 @@
 > L9: PyLandslide is a tool for spatial mapping of landslide susceptibility. The tool uses "qualitative map combination," 
 > L50:  Basheer, M., Oommen, T., 2024. PyLandslide: A Python tool for landslide susceptibility mapping and uncertainty ana
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "WRHGroup/PyLandslide 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 34 --> 36
+    line [35, 35]
+```
+
+2026-11-27 35 → 2026-11-28 35（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ffcf9c13cc55` · [字段定义](../../DATASET.md)*

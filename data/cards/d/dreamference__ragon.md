@@ -1,6 +1,6 @@
 # dreamference/ragon
 
-⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/dreamference/ragon) · 组织维护
+⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/dreamference/ragon) · 组织维护
 
 **在 DGX Spark/GB10 机器上全本地运行 AI 编码代理与聊天桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dreamference/ragon 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    title "dreamference/ragon 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-20 3 → 2026-11-27 4（+1）
+2026-11-20 3 → 2026-11-28 4（+1）
 
 
 ---

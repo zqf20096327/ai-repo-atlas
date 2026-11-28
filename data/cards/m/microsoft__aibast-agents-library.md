@@ -1,6 +1,6 @@
 # microsoft/aibast-agents-library
 
-⭐ 10 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/aibast-agents-library) · 组织维护
+⭐ 10 · HTML · MIT · 推送 2026-11-27 · [GitHub](https://github.com/microsoft/aibast-agents-library) · 组织维护
 
 **给学习者的 Agent 模式学习与原型验证工具库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/aibast-agents-library 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-23 10 → 2026-11-27 10（+0）
+2026-11-23 10 → 2026-11-28 10（+0）
 
 
 ---

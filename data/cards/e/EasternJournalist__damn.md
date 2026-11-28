@@ -43,12 +43,12 @@ Linux shell 工具，按 Alt+D 快捷键将随意描述的指令交给 AI 模型
 ```mermaid
 xychart-beta
     title "EasternJournalist/damn 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

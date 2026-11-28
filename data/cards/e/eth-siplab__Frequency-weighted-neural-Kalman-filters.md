@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "eth-siplab/Frequency-weighted-neural-Kalman-filters 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "eth-siplab/Frequency-weighted-neural-Kalman-filters 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 11 --> 14
-    line [12, 13]
+    line [12, 13, 13]
 ```
 
-2026-10-25 12 → 2026-11-27 13（+1）
+2026-10-26 12 → 2026-11-28 13（+1）
 
 
 ---

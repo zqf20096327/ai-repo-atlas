@@ -1,6 +1,6 @@
 # longbkit/clisbot
 
-⭐ 138 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/longbkit/clisbot) · [官网](https://github.com/longbkit/clisbot) · 个人维护
+⭐ 139 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/longbkit/clisbot) · [官网](https://github.com/longbkit/clisbot) · 个人维护
 
 **个人与团队的 AI 编码代理工作区与跨渠道聊天机器人**
 
@@ -46,13 +46,13 @@ Clisbot 由本地 daemon 管理编码代理，桌面、移动、Web 与 CLI 客�
 
 ```mermaid
 xychart-beta
-    title "longbkit/clisbot 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 129 --> 139
-    line [130, 131, 130, 131, 132, 133, 134, 136, 137, 138, 138]
+    title "longbkit/clisbot 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 129 --> 140
+    line [131, 130, 131, 132, 133, 134, 136, 137, 138, 139]
 ```
 
-2026-10-25 130 → 2026-11-27 138（+8）
+2026-10-26 131 → 2026-11-28 139（+8）
 
 
 ---

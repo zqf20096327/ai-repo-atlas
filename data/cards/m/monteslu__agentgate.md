@@ -1,6 +1,6 @@
 # monteslu/agentgate
 
-⭐ 47 · JavaScript · 推送 2026-05-08 · [GitHub](https://github.com/monteslu/agentgate) · 个人维护
+⭐ 48 · JavaScript · 推送 2026-05-08 · [GitHub](https://github.com/monteslu/agentgate) · 个人维护
 
 **自托管 API 网关：让 AI agent 经人工审批访问个人数据服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "monteslu/agentgate 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 44 --> 48
-    line [45, 46, 47, 47]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 44 --> 49
+    line [45, 46, 47, 48]
 ```
 
-2026-10-25 45 → 2026-11-27 47（+2）
+2026-10-26 45 → 2026-11-28 48（+3）
 
 
 ---

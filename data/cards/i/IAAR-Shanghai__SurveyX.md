@@ -1,6 +1,6 @@
 # IAAR-Shanghai/SurveyX
 
-⭐ 997 · TeX · 推送 2026-01-12 · [GitHub](https://github.com/IAAR-Shanghai/SurveyX) · [官网](http://www.surveyx.cn) · 组织维护 · 中文 README
+⭐ 998 · TeX · 推送 2026-01-12 · [GitHub](https://github.com/IAAR-Shanghai/SurveyX) · [官网](http://www.surveyx.cn) · 组织维护 · 中文 README
 
 **给科研人员：输入标题与关键词，基于本地文献生成学术综述**
 
@@ -45,12 +45,12 @@ SurveyX 是利用 LLM 生成特定领域学术综述论文的系统。开源离�
 ```mermaid
 xychart-beta
     title "IAAR-Shanghai/SurveyX 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 994 --> 998
-    line [995, 996, 995, 997, 997]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 994 --> 999
+    line [995, 996, 995, 997, 998]
 ```
 
-2026-10-25 995 → 2026-11-27 997（+2）
+2026-10-26 995 → 2026-11-28 998（+3）
 
 
 ---

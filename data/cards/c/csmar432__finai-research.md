@@ -1,6 +1,6 @@
 # csmar432/finai-research
 
-⭐ 111 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/csmar432/finai-research) · [官网](https://csmar432.github.io/finai-research/) · 个人维护 · 中文 README
+⭐ 112 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/csmar432/finai-research) · [官网](https://csmar432.github.io/finai-research/) · 个人维护 · 中文 README
 
 **经济学/金融研究者的 8 阶段 AI 论文工作流，产出可核验 LaTeX 草稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "csmar432/finai-research 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 106 --> 112
-    line [107, 108, 107, 109, 110, 111, 111]
+    title "csmar432/finai-research 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 106 --> 113
+    line [108, 107, 109, 110, 111, 112]
 ```
 
-2026-10-25 107 → 2026-11-27 111（+4）
+2026-10-26 108 → 2026-11-28 112（+4）
 
 
 ---

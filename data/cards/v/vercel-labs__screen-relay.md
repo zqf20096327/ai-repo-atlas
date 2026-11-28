@@ -1,6 +1,6 @@
 # vercel-labs/screen-relay
 
-⭐ 439 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vercel-labs/screen-relay) · [官网](https://screen-relay.dev) · 组织维护
+⭐ 444 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vercel-labs/screen-relay) · [官网](https://screen-relay.dev) · 组织维护
 
 **供人类与 AI agent 观看并控制桌面的低延迟流式工具**
 
@@ -45,13 +45,13 @@ screen-relay 在 Linux VM/沙箱/容器中启动桌面，或接入 macOS/Windows
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/screen-relay 星数(近 7 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 193 --> 461
-    line [215, 289, 334, 357, 384, 428, 439]
+    title "vercel-labs/screen-relay 星数(近 8 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 193 --> 466
+    line [215, 289, 334, 357, 384, 428, 439, 444]
 ```
 
-2026-11-20 215 → 2026-11-27 439（+224）
+2026-11-20 215 → 2026-11-28 444（+229）
 
 
 ---

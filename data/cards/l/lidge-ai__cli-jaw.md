@@ -1,6 +1,6 @@
 # lidge-ai/cli-jaw
 
-⭐ 218 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/lidge-ai/cli-jaw) · [官网](https://lidge-ai.github.io/cli-jaw/) · 组织维护 · 中文 README
+⭐ 218 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/lidge-ai/cli-jaw) · [官网](https://lidge-ai.github.io/cli-jaw/) · 组织维护 · 中文 README
 
 **把多个 AI 编码 CLI 统一到一个助手与仪表盘的管理工具**
 
@@ -46,12 +46,12 @@ CLI-JAW 通过 npm 或安装包运行，将 Claude、Codex、Cursor、Grok、Cop
 ```mermaid
 xychart-beta
     title "lidge-ai/cli-jaw 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-26", "2026-11-28"]
     y-axis "stars" 211 --> 219
     line [212, 213, 214, 215, 216, 218, 218]
 ```
 
-2026-10-25 212 → 2026-11-27 218（+6）
+2026-10-26 212 → 2026-11-28 218（+6）
 
 
 ---

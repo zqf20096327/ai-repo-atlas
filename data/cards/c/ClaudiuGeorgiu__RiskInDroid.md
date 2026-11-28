@@ -1,6 +1,6 @@
 # ClaudiuGeorgiu/RiskInDroid
 
-⭐ 163 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ClaudiuGeorgiu/RiskInDroid) · 个人维护
+⭐ 164 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ClaudiuGeorgiu/RiskInDroid) · 个人维护
 
 **基于机器学习的 Android 应用权限风险量化分析工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ClaudiuGeorgiu/RiskInDroid 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 162 --> 164
-    line [163, 163]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 162 --> 165
+    line [163, 164]
 ```
 
-2026-10-25 163 → 2026-11-27 163（+0）
+2026-10-26 163 → 2026-11-28 164（+1）
 
 
 ---

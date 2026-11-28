@@ -1,6 +1,6 @@
 # stubbi/openclaw-operator
 
-⭐ 400 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stubbi/openclaw-operator) · [官网](https://paperclip.inc/openclaw) · 组织维护
+⭐ 399 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stubbi/openclaw-operator) · [官网](https://paperclip.inc/openclaw) · 组织维护
 
 **在 Kubernetes 上部署与管理 OpenClaw AI agent 实例的 operator**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stubbi/openclaw-operator 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 399 --> 404
-    line [403, 402, 403, 402, 401, 400, 400]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 398 --> 404
+    line [403, 402, 403, 402, 401, 400, 399]
 ```
 
-2026-10-25 403 → 2026-11-27 400（-3）
+2026-10-26 403 → 2026-11-28 399（-4）
 
 
 ---

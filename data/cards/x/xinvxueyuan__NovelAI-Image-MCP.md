@@ -1,6 +1,6 @@
 # xinvxueyuan/NovelAI-Image-MCP
 
-⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xinvxueyuan/NovelAI-Image-MCP) · [官网](https://xinvxueyuan.github.io/NovelAI-Image-MCP/) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xinvxueyuan/NovelAI-Image-MCP) · [官网](https://xinvxueyuan.github.io/NovelAI-Image-MCP/) · 个人维护 · 中文 README
 
 **将 NovelAI 图像生成以 MCP 工具形式接入 AI agent 的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xinvxueyuan/NovelAI-Image-MCP 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 13（+1）
 
 
 ---

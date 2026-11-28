@@ -1,6 +1,6 @@
 # xiguawang/wechat-reader
 
-⭐ 21 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/xiguawang/wechat-reader) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/xiguawang/wechat-reader) · 个人维护 · 中文 README
 
 **给 AI Agent 可靠读取微信公众号文章的 CLI/MCP/Python 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiguawang/wechat-reader 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    x-axis ["2026-10-26", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 21, 22]
 ```
 
-2026-10-25 18 → 2026-11-27 21（+3）
+2026-10-26 18 → 2026-11-28 22（+4）
 
 
 ---

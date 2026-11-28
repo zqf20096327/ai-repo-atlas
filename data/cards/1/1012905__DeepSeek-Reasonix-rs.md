@@ -1,6 +1,6 @@
 # 1012905/DeepSeek-Reasonix-rs
 
-⭐ 10 · Go · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/1012905/DeepSeek-Reasonix-rs) · 个人维护 · 中文 README
+⭐ 11 · Go · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/1012905/DeepSeek-Reasonix-rs) · 个人维护 · 中文 README
 
 **本地运行的 AI 编码代理，提供桌面、CLI、网页与编辑器四种入口**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "1012905/DeepSeek-Reasonix-rs 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 11
-    line [8, 10, 10]
+    x-axis ["2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 7 --> 12
+    line [8, 10, 11]
 ```
 
-2026-11-20 8 → 2026-11-27 10（+2）
+2026-11-20 8 → 2026-11-28 11（+3）
 
 
 ---

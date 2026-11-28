@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "mandeal303/tiktokenizer 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "mandeal303/tiktokenizer 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 28 --> 52
-    line [50, 30]
+    line [50, 30, 30]
 ```
 
-2026-11-08 50 → 2026-11-27 30（-20）
+2026-11-08 50 → 2026-11-28 30（-20）
 
 
 ---

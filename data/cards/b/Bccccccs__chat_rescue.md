@@ -1,6 +1,6 @@
 # Bccccccs/chat_rescue
 
-⭐ 15 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Bccccccs/chat_rescue) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Bccccccs/chat_rescue) · 个人维护 · 中文 README
 
 **误删微信单聊的 Mac/Windows 离线恢复工具，支持 AI agent 代跑**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bccccccs/chat_rescue 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 16
-    line [8, 9, 10, 8, 11, 12, 13, 15, 15]
+    title "Bccccccs/chat_rescue 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 7 --> 17
+    line [9, 10, 8, 11, 12, 13, 15, 16]
 ```
 
-2026-10-25 8 → 2026-11-27 15（+7）
+2026-10-26 9 → 2026-11-28 16（+7）
 
 
 ---

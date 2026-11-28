@@ -45,12 +45,12 @@ Linux/Windows 桌面应用，用 Rust + Slint 编写，读取用户添加的 AI 
 ```mermaid
 xychart-beta
     title "zbndev/tidemark 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-25 63 → 2026-11-27 63（+0）
+2026-10-26 63 → 2026-11-28 63（+0）
 
 
 ---

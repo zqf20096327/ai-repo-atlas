@@ -1,6 +1,6 @@
 # kolega-ai/kolega-code
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/kolega-ai/kolega-code) · [官网](https://kolega-ai.github.io/kolega-code/) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/kolega-ai/kolega-code) · [官网](https://kolega-ai.github.io/kolega-code/) · 组织维护
 
 **本地优先的终端编程 agent，模型自写多智能体编排（Gigacode）**
 
@@ -46,12 +46,12 @@ Python 编写的终端编程 agent，面向开发者。核心机制 Gigacode：�
 ```mermaid
 xychart-beta
     title "kolega-ai/kolega-code 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-25 21 → 2026-11-27 22（+1）
+2026-10-26 21 → 2026-11-28 22（+1）
 
 
 ---

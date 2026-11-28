@@ -1,6 +1,6 @@
 # audeering/audb
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/audeering/audb) · [官网](https://audeering.github.io/audb/) · 组织维护
+⭐ 37 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/audeering/audb) · [官网](https://audeering.github.io/audb/) · 组织维护
 
 **音频/视频标注数据集的版本管理与分发库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "audeering/audb 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-24 37 → 2026-11-27 37（+0）
+2026-10-25 37 → 2026-11-28 37（+0）
 
 
 ---

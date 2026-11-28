@@ -1,6 +1,6 @@
 # identArk/identark-js
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/identArk/identark-js) · [官网](https://identark.io) · 组织维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/identArk/identark-js) · [官网](https://identark.io) · 组织维护
 
 **面向 AI agent 的 TypeScript SDK：零密钥执行与治理路由**
 
@@ -46,12 +46,12 @@ IdentArk AgentGateway 的 TypeScript SDK，供构建不持有密钥、不维护�
 ```mermaid
 xychart-beta
     title "identArk/identark-js 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-11-08 27 → 2026-11-27 27（+0）
+2026-11-08 27 → 2026-11-28 27（+0）
 
 
 ---

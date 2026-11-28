@@ -1,6 +1,6 @@
 # d4ichi/PassGAN
 
-⭐ 153 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/d4ichi/PassGAN) · 个人维护
+⭐ 152 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/d4ichi/PassGAN) · 个人维护
 
 **用 GAN 生成密码样本的 PassGAN 更新版，供安全研究使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "d4ichi/PassGAN 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
     y-axis "stars" 151 --> 154
-    line [152, 153, 153]
+    line [152, 153, 152]
 ```
 
-2026-10-25 152 → 2026-11-27 153（+1）
+2026-10-26 152 → 2026-11-28 152（+0）
 
 
 ---

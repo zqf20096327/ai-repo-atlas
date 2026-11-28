@@ -45,12 +45,12 @@ ParameterSchedulers.jl 提供 ML 常见超参数调度器：实现 Step、Exp、
 ```mermaid
 xychart-beta
     title "FluxML/ParameterSchedulers.jl 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-11-26 41 → 2026-11-27 41（+0）
+2026-11-26 41 → 2026-11-28 41（+0）
 
 
 ---

@@ -46,12 +46,12 @@ DrivingBench Harness 是研究软件：让聊天模型（经 MCP 接入 Codex/Cl
 ```mermaid
 xychart-beta
     title "aditya-ramabadran/drivingbench_harness_code 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-18", "2026-11-28"]
     y-axis "stars" 60 --> 64
     line [61, 62, 63, 63]
 ```
 
-2026-11-08 61 → 2026-11-27 63（+2）
+2026-11-08 61 → 2026-11-28 63（+2）
 
 
 ---

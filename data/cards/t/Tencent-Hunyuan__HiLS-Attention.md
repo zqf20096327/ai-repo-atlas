@@ -44,13 +44,13 @@ Tencent Hunyuan 团队发布的论文《Hierarchical Sparse Attention Done Right
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/HiLS-Attention 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "Tencent-Hunyuan/HiLS-Attention 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 151 --> 155
-    line [152, 153, 152, 153, 154]
+    line [152, 153, 152, 153, 154, 154]
 ```
 
-2026-10-25 152 → 2026-11-27 154（+2）
+2026-10-26 152 → 2026-11-28 154（+2）
 
 
 ---

@@ -46,12 +46,12 @@ SAP Developer Advocates 维护的 CodeJam 培训材料仓库：指导学员用 P
 ```mermaid
 xychart-beta
     title "SAP-samples/codejam-code-based-agents 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-19", "2026-11-28"]
     y-axis "stars" 68 --> 71
     line [69, 70, 70]
 ```
 
-2026-10-25 69 → 2026-11-27 70（+1）
+2026-10-26 69 → 2026-11-28 70（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Lab700xOrg/aisbom
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Lab700xOrg/aisbom) · [官网](https://www.aisbom.io/) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Lab700xOrg/aisbom) · [官网](https://www.aisbom.io/) · 组织维护
 
 **ML 模型文件静态安全扫描器，生成 AIBOM 合规证据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lab700xOrg/aisbom 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-16", "2026-11-28"]
     y-axis "stars" 82 --> 85
     line [83, 84, 84]
 ```
 
-2026-10-24 83 → 2026-11-27 84（+1）
+2026-10-25 83 → 2026-11-28 84（+1）
 
 
 ---

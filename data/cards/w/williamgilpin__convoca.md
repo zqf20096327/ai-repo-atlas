@@ -41,6 +41,18 @@
 > L8: This code both implements and analyzes known CA rulesets using PyTorch, and it also learns the rules of unknown CA g
 > L16: Models are instantiated using the `initialize_model(...)` function, which builds a network with a trainable convolu
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "williamgilpin/convoca 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 88 --> 90
+    line [89, 89]
+```
+
+2026-11-27 89 → 2026-11-28 89（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c643feebf140` · [字段定义](../../DATASET.md)*

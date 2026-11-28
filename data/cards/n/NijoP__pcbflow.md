@@ -1,6 +1,6 @@
 # NijoP/pcbflow
 
-⭐ 14 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/NijoP/pcbflow) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-07-14 · [GitHub](https://github.com/NijoP/pcbflow) · 个人维护
 
 **AI 辅助 PCB 设计工作区：从需求到可制造文件，工程师把关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NijoP/pcbflow 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-21", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    x-axis ["2026-10-26", "2026-11-21", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15]
 ```
 
-2026-10-25 12 → 2026-11-27 14（+2）
+2026-10-26 12 → 2026-11-28 15（+3）
 
 
 ---

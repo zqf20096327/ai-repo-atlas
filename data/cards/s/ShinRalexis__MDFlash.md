@@ -1,6 +1,6 @@
 # ShinRalexis/MDFlash
 
-⭐ 11 · C · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/ShinRalexis/MDFlash) · 个人维护 · 中文 README
+⭐ 11 · C · NOASSERTION · 推送 2026-10-03 · [GitHub](https://github.com/ShinRalexis/MDFlash) · [官网](https://www.elecktrastudio.com) · 个人维护 · 中文 README
 
 **Windows 平台的所见即所得 Markdown 编辑器，带离线 AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ShinRalexis/MDFlash 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-28"]
     y-axis "stars" 5 --> 12
     line [6, 9, 10, 11, 11]
 ```
 
-2026-10-25 6 → 2026-11-27 11（+5）
+2026-10-26 6 → 2026-11-28 11（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # alloy-ex/alloy
 
-⭐ 93 · Elixir · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alloy-ex/alloy) · [官网](https://alloylabs.dev) · 个人维护
+⭐ 93 · Elixir · MIT · 推送 2026-11-27 · [GitHub](https://github.com/alloy-ex/alloy) · [官网](https://alloylabs.dev) · 个人维护
 
 **Elixir 的模型无关 agent 循环库：完成-工具调用-循环**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alloy-ex/alloy 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 90 --> 94
     line [91, 92, 91, 92, 93, 93]
 ```
 
-2026-10-25 91 → 2026-11-27 93（+2）
+2026-10-26 91 → 2026-11-28 93（+2）
 
 
 ---

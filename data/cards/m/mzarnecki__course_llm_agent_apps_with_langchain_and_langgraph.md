@@ -1,6 +1,6 @@
 # mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph
 
-⭐ 11 · Jupyter Notebook · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph) · 个人维护
+⭐ 11 · Jupyter Notebook · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph) · 个人维护
 
 **LangChain/LangGraph LLM 应用与 Agent 开发教程笔记本集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

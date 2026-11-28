@@ -1,6 +1,6 @@
 # radianceskills-dev/tincan-releases
 
-⭐ 4 · 推送 2026-11-26 · [GitHub](https://github.com/radianceskills-dev/tincan-releases) · [官网](https://tincan.rdskills-lab.com) · 个人维护
+⭐ 5 · 推送 2026-11-26 · [GitHub](https://github.com/radianceskills-dev/tincan-releases) · [官网](https://tincan.rdskills-lab.com) · 个人维护
 
 **Android 原生 AI Agent 工作台：本地沙盒、SSH、MCP 与离线模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "radianceskills-dev/tincan-releases 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-08", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-08 3 → 2026-11-27 4（+1）
+2026-11-08 3 → 2026-11-28 5（+2）
 
 
 ---

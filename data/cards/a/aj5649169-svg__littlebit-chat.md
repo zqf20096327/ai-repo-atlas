@@ -1,6 +1,6 @@
 # aj5649169-svg/littlebit-chat
 
-⭐ 4 · Kotlin · MIT · 推送 2026-11-26 · [GitHub](https://github.com/aj5649169-svg/littlebit-chat) · 个人维护
+⭐ 6 · Kotlin · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aj5649169-svg/littlebit-chat) · 个人维护
 
 **100% 离线的 Android 本地 LLM 聊天应用，无网络权限**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aj5649169-svg/littlebit-chat 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "aj5649169-svg/littlebit-chat 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 6]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 6（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Nimbus318/dsh-niuma-broker
 
-⭐ 75 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Nimbus318/dsh-niuma-broker) · [官网](https://niumabroker.nimbus-nimo.com/) · 个人维护 · 中文 README
+⭐ 77 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Nimbus318/dsh-niuma-broker) · [官网](https://niumabroker.nimbus-nimo.com/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：求职者的目标寻岗与简历管理工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nimbus318/dsh-niuma-broker 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 30 --> 79
-    line [34, 72, 75]
+    title "Nimbus318/dsh-niuma-broker 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 30 --> 81
+    line [34, 72, 75, 77]
 ```
 
-2026-11-25 34 → 2026-11-27 75（+41）
+2026-11-25 34 → 2026-11-28 77（+43）
 
 
 ---

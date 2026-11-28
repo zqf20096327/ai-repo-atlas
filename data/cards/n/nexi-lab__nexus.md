@@ -1,6 +1,6 @@
 # nexi-lab/nexus
 
-⭐ 195 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/nexi-lab/nexus) · [官网](https://nexi-lab.github.io/nexus/) · 组织维护
+⭐ 195 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/nexi-lab/nexus) · [官网](https://nexi-lab.github.io/nexus/) · 组织维护
 
 **面向多智能体系统的分布式 VFS 与共享上下文基础设施**
 
@@ -45,12 +45,12 @@ Nexus 是为多智能体系统提供共享存储、权限、消息与协调的�
 ```mermaid
 xychart-beta
     title "nexi-lab/nexus 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
     y-axis "stars" 193 --> 196
     line [194, 195, 195]
 ```
 
-2026-10-25 194 → 2026-11-27 195（+1）
+2026-10-26 194 → 2026-11-28 195（+1）
 
 
 ---

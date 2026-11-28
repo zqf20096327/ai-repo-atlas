@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-MT3
 
-⭐ 91 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT3) · 组织维护 · 中文 README
+⭐ 100 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-MT3) · 组织维护 · 中文 README
 
 **开源多语言翻译模型系列：覆盖102种语言的文本翻译**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/Hy-MT3 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 72 --> 92
-    line [73, 91]
+    title "Tencent-Hunyuan/Hy-MT3 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 71 --> 102
+    line [73, 91, 100]
 ```
 
-2026-11-26 73 → 2026-11-27 91（+18）
+2026-11-26 73 → 2026-11-28 100（+27）
 
 
 ---

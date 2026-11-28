@@ -1,6 +1,6 @@
 # ilovemajiaqi/pi-gui-cn
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ilovemajiaqi/pi-gui-cn) · [官网](https://ilovemajiaqi.github.io/pi-gui-cn/) · 组织维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ilovemajiaqi/pi-gui-cn) · [官网](https://ilovemajiaqi.github.io/pi-gui-cn/) · 组织维护 · 中文 README
 
 **pi coding agent 桌面客户端的完整简体中文本地化版**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ilovemajiaqi/pi-gui-cn 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-20", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-20 3 → 2026-11-27 3（+0）
+2026-11-20 3 → 2026-11-28 4（+1）
 
 
 ---

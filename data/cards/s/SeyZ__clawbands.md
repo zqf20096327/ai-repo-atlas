@@ -45,12 +45,12 @@ TypeScript/Node.js 编写的 OpenClaw 插件，通过 before_tool_call 钩子拦
 ```mermaid
 xychart-beta
     title "SeyZ/clawbands 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 193 --> 195
     line [194, 194]
 ```
 
-2026-10-25 194 → 2026-11-27 194（+0）
+2026-10-26 194 → 2026-11-28 194（+0）
 
 
 ---

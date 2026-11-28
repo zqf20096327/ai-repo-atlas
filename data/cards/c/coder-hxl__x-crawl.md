@@ -1,6 +1,6 @@
 # coder-hxl/x-crawl
 
-⭐ 1,887 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/coder-hxl/x-crawl) · [官网](https://coder-hxl.github.io/x-crawl/) · 个人维护 · 中文 README
+⭐ 1,887 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/coder-hxl/x-crawl) · [官网](https://coder-hxl.github.io/x-crawl/) · 个人维护 · 中文 README
 
 **Node.js AI 辅助爬虫库：用 AI 应对网页结构变化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "coder-hxl/x-crawl 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-28"]
     y-axis "stars" 1886 --> 1892
     line [1890, 1891, 1890, 1889, 1888, 1887, 1887]
 ```
 
-2026-10-25 1,890 → 2026-11-27 1,887（-3）
+2026-10-26 1,890 → 2026-11-28 1,887（-3）
 
 
 ---

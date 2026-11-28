@@ -1,6 +1,6 @@
 # AlaeddineMessadi/opencode-mcp
 
-⭐ 166 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlaeddineMessadi/opencode-mcp) · [官网](https://www.npmjs.com/package/opencode-mcp) · 个人维护
+⭐ 167 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlaeddineMessadi/opencode-mcp) · [官网](https://www.npmjs.com/package/opencode-mcp) · 个人维护
 
 **将 OpenCode 无头 API 接入 MCP 客户端的桥接服务器**
 
@@ -46,12 +46,12 @@ opencode-mcp 是一个 MCP server，把 Claude、Cursor、VS Code 等 MCP 客户
 ```mermaid
 xychart-beta
     title "AlaeddineMessadi/opencode-mcp 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-28"]
     y-axis "stars" 157 --> 168
-    line [158, 159, 158, 162, 163, 164, 167, 166, 166]
+    line [158, 159, 158, 162, 163, 164, 167, 166, 167]
 ```
 
-2026-10-25 158 → 2026-11-27 166（+8）
+2026-10-26 158 → 2026-11-28 167（+9）
 
 
 ---

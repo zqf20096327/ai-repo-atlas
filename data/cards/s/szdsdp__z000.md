@@ -1,6 +1,6 @@
 # szdsdp/z000
 
-⭐ 33 · Java · 推送 2026-11-25 · [GitHub](https://github.com/szdsdp/z000) · [官网](https://www.szdsoft.cn) · 组织维护 · 中文 README
+⭐ 37 · Java · 推送 2026-11-25 · [GitHub](https://github.com/szdsdp/z000) · [官网](https://www.szdsoft.cn) · 组织维护 · 中文 README
 
 **给企业的低代码AI平台：拖拽搭建费控、报销、财务共享等应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "szdsdp/z000 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 22 --> 34
-    line [23, 33]
+    title "szdsdp/z000 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 22 --> 38
+    line [23, 33, 37]
 ```
 
-2026-11-26 23 → 2026-11-27 33（+10）
+2026-11-26 23 → 2026-11-28 37（+14）
 
 
 ---

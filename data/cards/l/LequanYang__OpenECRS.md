@@ -47,12 +47,12 @@ OpenECRS 是一个必须配置 LLM 才能运行的证据型推荐 agent：内置
 ```mermaid
 xychart-beta
     title "LequanYang/OpenECRS 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

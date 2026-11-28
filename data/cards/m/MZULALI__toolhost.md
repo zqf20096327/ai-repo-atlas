@@ -1,6 +1,6 @@
 # MZULALI/toolhost
 
-⭐ 24 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/MZULALI/toolhost) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/MZULALI/toolhost) · 个人维护
 
 **让 LLM 在运行时自写并调用工具的 Node.js 宿主库**
 
@@ -46,12 +46,12 @@ TypeScript 库，向模型提供 create_tool 等 5 个内置工具：模型提�
 ```mermaid
 xychart-beta
     title "MZULALI/toolhost 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
-    y-axis "stars" 21 --> 25
-    line [22, 24, 24]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-28"]
+    y-axis "stars" 21 --> 26
+    line [22, 24, 25]
 ```
 
-2026-10-25 22 → 2026-11-27 24（+2）
+2026-10-26 22 → 2026-11-28 25（+3）
 
 
 ---

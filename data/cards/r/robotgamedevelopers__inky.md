@@ -1,6 +1,6 @@
 # robotgamedevelopers/inky
 
-⭐ 10 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/robotgamedevelopers/inky) · 组织维护
+⭐ 13 · Rust · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/robotgamedevelopers/inky) · 组织维护
 
 **在 Apple 芯片上本地运行 Inkling 2 Mini 的推理引擎**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "robotgamedevelopers/inky 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 7 --> 11
-    line [8, 10]
+    title "robotgamedevelopers/inky 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 7 --> 14
+    line [8, 10, 13]
 ```
 
-2026-11-26 8 → 2026-11-27 10（+2）
+2026-11-26 8 → 2026-11-28 13（+5）
 
 
 ---

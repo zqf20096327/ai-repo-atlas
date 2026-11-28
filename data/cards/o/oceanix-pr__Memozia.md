@@ -1,6 +1,6 @@
 # oceanix-pr/Memozia
 
-⭐ 4 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oceanix-pr/Memozia) · [官网](https://github.com/oceanix-pr/Memozia/wiki) · 个人维护
+⭐ 4 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/oceanix-pr/Memozia) · [官网](https://github.com/oceanix-pr/Memozia/wiki) · 个人维护
 
 **macOS 本地优先会议助手：录音转写、说话人分离与 AI 摘要**
 
@@ -40,6 +40,18 @@
 > L5:  A local-first macOS meeting assistant that turns recordings into transcripts, summaries, and action items.
 > L36: 2. **Prepare speech and summary models.** Follow the in-app component preparation when you first transcribe. For lo
 > L42: - **Local processing when you choose it.** WhisperKit transcription runs on your Mac. Pair it with a local language
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "oceanix-pr/Memozia 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
 
 
 ---

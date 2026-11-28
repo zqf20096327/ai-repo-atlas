@@ -1,6 +1,6 @@
 # 777genius/review-router-ai
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/777genius/review-router-ai) · [官网](https://reviewrouter.org) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/777genius/review-router-ai) · [官网](https://reviewrouter.org) · 组织维护
 
 **在自家 CI/CD 里用自有 AI 账号运行 GitHub PR 代码评审**
 
@@ -41,6 +41,18 @@
 > L3: AI code review for GitHub pull requests, powered by OpenCodeReview.
 > L53: - **AI providers and accounts.** Connect Codex, Claude Code, OpenRouter,
 > L164: ReviewRouter uses OpenCodeReview.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "777genius/review-router-ai 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
 
 
 ---

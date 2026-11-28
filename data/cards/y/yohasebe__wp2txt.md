@@ -1,6 +1,6 @@
 # yohasebe/wp2txt
 
-⭐ 196 · Ruby · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yohasebe/wp2txt) · 个人维护 · 中文 README
+⭐ 196 · Ruby · MIT · 推送 2026-11-27 · [GitHub](https://github.com/yohasebe/wp2txt) · 个人维护 · 中文 README
 
 **从 Wikipedia dump 提取纯文本与分类数据的命令行工具**
 
@@ -47,12 +47,12 @@ Ruby 编写的 CLI 工具：读取 bz2 压缩的 Wikipedia XML dump，去除 Med
 ```mermaid
 xychart-beta
     title "yohasebe/wp2txt 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 195 --> 197
     line [196, 196]
 ```
 
-2026-10-25 196 → 2026-11-27 196（+0）
+2026-10-26 196 → 2026-11-28 196（+0）
 
 
 ---

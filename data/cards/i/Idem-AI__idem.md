@@ -1,6 +1,6 @@
 # Idem-AI/idem
 
-⭐ 64 · TypeScript · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Idem-AI/idem) · [官网](https://idem.africa) · 组织维护
+⭐ 64 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Idem-AI/idem) · [官网](https://idem.africa) · 组织维护
 
 **泛非 AI 平台：从想法生成品牌、商业计划与应用并部署**
 
@@ -44,13 +44,13 @@ IDEM 是一个面向泛非市场的开源 monorepo（npm workspaces，Node 24）
 
 ```mermaid
 xychart-beta
-    title "Idem-AI/idem 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-27"]
+    title "Idem-AI/idem 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-27", "2026-11-28"]
     y-axis "stars" 61 --> 65
-    line [62, 63, 64]
+    line [62, 63, 64, 64]
 ```
 
-2026-10-25 62 → 2026-11-27 64（+2）
+2026-10-26 62 → 2026-11-28 64（+2）
 
 
 ---

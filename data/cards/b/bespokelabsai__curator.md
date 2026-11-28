@@ -1,6 +1,6 @@
 # bespokelabsai/curator
 
-⭐ 1,765 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/bespokelabsai/curator) · [官网](https://docs.bespokelabs.ai/bespoke-curator) · 组织维护 · 中文 README
+⭐ 1,764 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/bespokelabsai/curator) · [官网](https://docs.bespokelabs.ai/bespoke-curator) · 组织维护 · 中文 README
 
 **面向后训练数据准备的开发者库：批量推理与合成数据生产**
 
@@ -46,13 +46,13 @@ Bespoke Curator 是一个 Python 库，用于构建合成数据管道与结构�
 
 ```mermaid
 xychart-beta
-    title "bespokelabsai/curator 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-26", "2026-11-27"]
+    title "bespokelabsai/curator 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 1749 --> 1768
-    line [1750, 1751, 1753, 1756, 1759, 1750, 1764, 1766, 1767, 1766, 1765, 1765]
+    line [1751, 1753, 1756, 1759, 1750, 1764, 1766, 1767, 1766, 1765, 1764]
 ```
 
-2026-10-25 1,750 → 2026-11-27 1,765（+15）
+2026-10-26 1,751 → 2026-11-28 1,764（+13）
 
 
 ---

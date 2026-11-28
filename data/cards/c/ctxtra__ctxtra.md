@@ -1,6 +1,6 @@
 # ctxtra/ctxtra
 
-⭐ 3 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ctxtra/ctxtra) · 个人维护
+⭐ 3 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ctxtra/ctxtra) · 个人维护
 
 **为 AI agent 会话绑定个人与团队指令文件的上下文管理 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ctxtra/ctxtra 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-27 3（+0）
+2026-11-08 3 → 2026-11-28 3（+0）
 
 
 ---

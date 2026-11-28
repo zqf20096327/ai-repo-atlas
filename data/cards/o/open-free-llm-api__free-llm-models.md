@@ -1,6 +1,6 @@
 # open-free-llm-api/free-llm-models
 
-⭐ 9 · JavaScript · 推送 2026-10-18 · [GitHub](https://github.com/open-free-llm-api/free-llm-models) · [官网](https://freellm.net) · 组织维护
+⭐ 11 · JavaScript · 推送 2026-10-18 · [GitHub](https://github.com/open-free-llm-api/free-llm-models) · [官网](https://freellm.net) · 组织维护
 
 **查询免费 LLM API 目录的 CLI 与 Node.js 数据包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "open-free-llm-api/free-llm-models 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 2 --> 10
-    line [3, 4, 5, 3, 8, 9, 9]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 5, 3, 8, 9, 11]
 ```
 
-2026-10-25 3 → 2026-11-27 9（+6）
+2026-10-26 3 → 2026-11-28 11（+8）
 
 
 ---

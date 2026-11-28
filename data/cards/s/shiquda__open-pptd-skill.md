@@ -1,6 +1,6 @@
 # shiquda/open-pptd-skill
 
-⭐ 3 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/shiquda/open-pptd-skill) · 个人维护 · 中文 README
+⭐ 4 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/shiquda/open-pptd-skill) · 个人维护 · 中文 README
 
 **给 AI Coding Agent 与开发者的离线 PPT 编译技能与 Rust 编译器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shiquda/open-pptd-skill 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-21", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 3, 3]
+    line [3, 4, 3, 4]
 ```
 
-2026-11-02 3 → 2026-11-27 3（+0）
+2026-11-02 3 → 2026-11-28 4（+1）
 
 
 ---

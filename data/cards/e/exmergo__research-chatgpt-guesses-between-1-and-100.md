@@ -1,6 +1,6 @@
 # exmergo/research-chatgpt-guesses-between-1-and-100
 
-⭐ 47 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100) · [官网](https://viz.exmergo.com/share/eea2a7b6-82d4-4333-8853-e909d9dabd49) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-05-25 · [GitHub](https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100) · [官网](https://viz.exmergo.com/share/eea2a7b6-82d4-4333-8853-e909d9dabd49) · 组织维护
 
 **测量 gpt-4.1 随机选数分布偏差的研究项目（含数据集）**
 
@@ -45,12 +45,12 @@ Exmergo 发布的开放研究项目：通过 OpenAI Responses API 以固定 syst
 ```mermaid
 xychart-beta
     title "exmergo/research-chatgpt-guesses-between-1-and-100 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-25 47 → 2026-11-27 47（+0）
+2026-10-26 47 → 2026-11-28 48（+1）
 
 
 ---

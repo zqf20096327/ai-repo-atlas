@@ -1,6 +1,6 @@
 # Bengal1/CNN-Architecture-Guide
 
-⭐ 48 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/Bengal1/CNN-Architecture-Guide) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/Bengal1/CNN-Architecture-Guide) · 个人维护
 
 **面向初学者的 PyTorch CNN 构建教程（理论+代码）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Bengal1/CNN-Architecture-Guide 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 47, 48, 48]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 46 --> 50
+    line [47, 48, 47, 48, 49]
 ```
 
-2026-10-25 47 → 2026-11-27 48（+1）
+2026-10-26 47 → 2026-11-28 49（+2）
 
 
 ---

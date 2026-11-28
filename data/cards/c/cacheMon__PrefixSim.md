@@ -1,6 +1,6 @@
 # cacheMon/PrefixSim
 
-⭐ 78 · C++ · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/cacheMon/PrefixSim) · [官网](https://libcachesim.com) · 组织维护
+⭐ 77 · C++ · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/cacheMon/PrefixSim) · [官网](https://libcachesim.com) · 组织维护
 
 **LLM 推理前缀缓存的驱逐策略模拟器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cacheMon/PrefixSim 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-23", "2026-11-28"]
     y-axis "stars" 70 --> 79
-    line [71, 75, 76, 77, 78, 78]
+    line [71, 75, 76, 77, 78, 77]
 ```
 
-2026-11-10 71 → 2026-11-27 78（+7）
+2026-11-10 71 → 2026-11-28 77（+6）
 
 
 ---

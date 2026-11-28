@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "geroldmeisinger/ComfyUI-outputlists-combiner 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "geroldmeisinger/ComfyUI-outputlists-combiner 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 208 --> 212
-    line [209, 210, 211]
+    line [209, 210, 211, 211]
 ```
 
-2026-10-25 209 → 2026-11-27 211（+2）
+2026-10-26 209 → 2026-11-28 211（+2）
 
 
 ---

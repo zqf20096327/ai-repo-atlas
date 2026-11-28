@@ -1,6 +1,6 @@
 # henrietteharmse/uml2semantics
 
-⭐ 20 · Scala · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/henrietteharmse/uml2semantics) · 个人维护
+⭐ 20 · Scala · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/henrietteharmse/uml2semantics) · 个人维护
 
 **将 UML 类图转换为 OWL 2 本体的 Java 命令行工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "henrietteharmse/uml2semantics 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

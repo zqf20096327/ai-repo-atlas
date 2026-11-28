@@ -1,6 +1,6 @@
 # Fleey/deepseek-harness-trae
 
-⭐ 4 · JavaScript · 推送 2026-11-06 · [GitHub](https://github.com/Fleey/deepseek-harness-trae) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · 推送 2026-11-27 · [GitHub](https://github.com/Fleey/deepseek-harness-trae) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 接入 Trae 企业版模型的插件**
 
@@ -45,13 +45,13 @@ dsh 插件，用 Trae 企业版个人访问令牌（PAT）换取 Cloud-IDE JWT �
 
 ```mermaid
 xychart-beta
-    title "Fleey/deepseek-harness-trae 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "Fleey/deepseek-harness-trae 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

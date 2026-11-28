@@ -1,6 +1,6 @@
 # 2233admin/qqcli-rs
 
-⭐ 11 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/2233admin/qqcli-rs) · 个人维护 · 中文 README
+⭐ 13 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/2233admin/qqcli-rs) · 个人维护 · 中文 README
 
 **为用户与 AI Agent 提供 QQ NT 聊天记录本地搜索、导出与备份的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "2233admin/qqcli-rs 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 10 --> 14
+    line [11, 13]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 13（+2）
 
 
 ---

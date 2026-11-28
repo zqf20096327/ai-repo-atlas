@@ -1,6 +1,6 @@
 # makio-san/helio24
 
-⭐ 3 · Python · 推送 2026-11-26 · [GitHub](https://github.com/makio-san/helio24) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **科研原型：预测太阳活动区 24 小时内是否爆发 M/X 级耀斑**
 

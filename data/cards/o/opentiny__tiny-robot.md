@@ -1,6 +1,6 @@
 # opentiny/tiny-robot
 
-⭐ 112 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/opentiny/tiny-robot) · [官网](https://opentiny.design/tiny-robot) · 组织维护 · 中文 README
+⭐ 112 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/opentiny/tiny-robot) · [官网](https://opentiny.design/tiny-robot) · 组织维护 · 中文 README
 
 **面向 Vue 3 的 AI 对话组件库，助开发者构建企业级 AI 应用**
 
@@ -46,12 +46,12 @@ TinyRobot 是基于 Vue 3 的 AI 组件库，遵循 OpenTiny Design 设计体系
 ```mermaid
 xychart-beta
     title "opentiny/tiny-robot 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 100 --> 113
     line [101, 102, 101, 102, 103, 104, 105, 108, 109, 110, 112, 112]
 ```
 
-2026-10-25 101 → 2026-11-27 112（+11）
+2026-10-26 101 → 2026-11-28 112（+11）
 
 
 ---

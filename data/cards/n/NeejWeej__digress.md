@@ -1,6 +1,6 @@
 # NeejWeej/digress
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NeejWeej/digress) · [官网](https://neejweej.github.io/digress/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/NeejWeej/digress) · [官网](https://neejweej.github.io/digress/) · 个人维护
 
 **自托管的分支式学习聊天应用：高亮提问生成旁支**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NeejWeej/digress 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

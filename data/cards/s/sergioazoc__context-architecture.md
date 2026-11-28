@@ -1,6 +1,6 @@
 # sergioazoc/context-architecture
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-09-23 · [GitHub](https://github.com/sergioazoc/context-architecture) · [官网](https://context-architecture.dev/) · 个人维护
+⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/sergioazoc/context-architecture) · [官网](https://context-architecture.dev/) · 个人维护
 
 **让仓库结构对 AI 编码代理可读的架构规范站点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sergioazoc/context-architecture 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-02", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-02 10 → 2026-11-27 10（+0）
+2026-11-02 10 → 2026-11-28 11（+1）
 
 
 ---

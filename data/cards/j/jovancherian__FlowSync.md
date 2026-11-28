@@ -43,12 +43,12 @@ FlowSync 以插件形式提供不同 AI 服务（Claude 与 ChatGPT）之间工�
 ```mermaid
 xychart-beta
     title "jovancherian/FlowSync 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-27 3（+0）
+2026-11-11 3 → 2026-11-28 3（+0）
 
 
 ---

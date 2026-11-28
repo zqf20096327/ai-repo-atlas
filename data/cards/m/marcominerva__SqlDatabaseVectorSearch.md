@@ -1,6 +1,6 @@
 # marcominerva/SqlDatabaseVectorSearch
 
-⭐ 145 · C# · MIT · 推送 2026-10-07 · [GitHub](https://github.com/marcominerva/SqlDatabaseVectorSearch) · 个人维护
+⭐ 146 · C# · MIT · 推送 2026-10-07 · [GitHub](https://github.com/marcominerva/SqlDatabaseVectorSearch) · 个人维护
 
 **基于 Azure SQL VECTOR 类型的 RAG 与向量搜索示例应用**
 
@@ -46,12 +46,12 @@ Blazor Web App 与 Minimal API 示例：加载 PDF/DOCX/TXT/MD 文档，生成�
 ```mermaid
 xychart-beta
     title "marcominerva/SqlDatabaseVectorSearch 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-20", "2026-11-28"]
     y-axis "stars" 144 --> 147
-    line [145, 146, 145, 145]
+    line [145, 146, 145, 146]
 ```
 
-2026-10-25 145 → 2026-11-27 145（+0）
+2026-10-26 145 → 2026-11-28 146（+1）
 
 
 ---

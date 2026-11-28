@@ -1,6 +1,6 @@
 # AlayaLab/AlayaRenderer
 
-⭐ 653 · Python · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/AlayaLab/AlayaRenderer) · [官网](https://alaya-studio.github.io/renderer/) · 组织维护 · 中文 README
+⭐ 654 · Python · Apache-2.0 · 推送 2026-05-05 · [GitHub](https://github.com/AlayaLab/AlayaRenderer) · [官网](https://alaya-studio.github.io/renderer/) · 组织维护 · 中文 README
 
 **面向游戏与虚拟世界的数据集与生成式渲染框架（逆向渲染+游戏编辑）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlayaLab/AlayaRenderer 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-21", "2026-11-27"]
+    title "AlayaLab/AlayaRenderer 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-21", "2026-11-28"]
     y-axis "stars" 648 --> 655
-    line [649, 650, 651, 649, 654, 653, 652, 653, 653]
+    line [650, 651, 649, 654, 653, 652, 653, 654]
 ```
 
-2026-10-25 649 → 2026-11-27 653（+4）
+2026-10-26 650 → 2026-11-28 654（+4）
 
 
 ---

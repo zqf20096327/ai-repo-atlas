@@ -44,12 +44,12 @@ OctoBot 的量化框架：用 Python 编写交易策略脚本，加载任意技�
 ```mermaid
 xychart-beta
     title "Drakkar-Software/OctoBot-Script 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-25 50 → 2026-11-27 50（+0）
+2026-10-26 50 → 2026-11-28 50（+0）
 
 
 ---

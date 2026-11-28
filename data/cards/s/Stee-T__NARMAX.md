@@ -1,6 +1,6 @@
 # Stee-T/NARMAX
 
-⭐ 12 · Python · BSD-3-Clause · 推送 2026-07-20 · [GitHub](https://github.com/Stee-T/NARMAX) · 个人维护
+⭐ 12 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/Stee-T/NARMAX) · 个人维护
 
 **面向科研的 NARMAX 符号拟合机器学习库**
 
@@ -46,12 +46,12 @@ Python 库，用作者论文中的 rFOrLSR/AOrLSR 等算法对用户提供的任
 ```mermaid
 xychart-beta
     title "Stee-T/NARMAX 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

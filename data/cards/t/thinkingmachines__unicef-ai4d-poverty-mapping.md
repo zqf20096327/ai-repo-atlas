@@ -1,6 +1,6 @@
 # thinkingmachines/unicef-ai4d-poverty-mapping
 
-⭐ 24 · Jupyter Notebook · MIT · 推送 2026-02-24 · [GitHub](https://github.com/thinkingmachines/unicef-ai4d-poverty-mapping) · [官网](https://thinkingmachines.github.io/unicef-ai4d-poverty-mapping) · 组织维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-02-24 · [GitHub](https://github.com/thinkingmachines/unicef-ai4d-poverty-mapping) · [官网](https://thinkingmachines.github.io/unicef-ai4d-poverty-mapping) · 组织维护
 
 **东南亚九国相对财富（贫困）预测的开源数据集与机器学习模型**
 
@@ -46,12 +46,12 @@ Thinking Machines 与 UNICEF AI4D 合作的贫困制图项目：开放数据集�
 ```mermaid
 xychart-beta
     title "thinkingmachines/unicef-ai4d-poverty-mapping 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-25 24 → 2026-11-27 24（+0）
+2026-10-26 24 → 2026-11-28 25（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # vrd07/Quant_Trading
 
-⭐ 11 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/vrd07/Quant_Trading) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/vrd07/Quant_Trading) · 个人维护
 
 **面向个人交易者的 XAUUSD/外汇/加密算法交易系统**
 
@@ -40,6 +40,18 @@
 > L17: - **A nightly ML regime classifier** (RandomForest + Markov chain smoother + RL-lite performance feedback) that rew
 > L92: This is an **automated gold (XAUUSD) trading bot** built for the **The5ers $5,000 prop firm challenge**. It:
 > L94: - Connects to MetaTrader 5 (MT5) on your PC or Mac
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vrd07/Quant_Trading 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
+```
+
+2026-11-27 11 → 2026-11-28 12（+1）
 
 
 ---

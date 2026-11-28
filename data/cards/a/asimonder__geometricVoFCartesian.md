@@ -1,6 +1,6 @@
 # asimonder/geometricVoFCartesian
 
-⭐ 22 · C++ · GPL-3.0 · 推送 2026-08-05 · [GitHub](https://github.com/asimonder/geometricVoFCartesian) · 个人维护
+⭐ 22 · C++ · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/asimonder/geometricVoFCartesian) · 个人维护
 
 **OpenFOAM 两相流界面法向与曲率估计扩展库，含 MLP 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asimonder/geometricVoFCartesian 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-25 22 → 2026-11-27 22（+0）
+2026-10-26 22 → 2026-11-28 22（+0）
 
 
 ---

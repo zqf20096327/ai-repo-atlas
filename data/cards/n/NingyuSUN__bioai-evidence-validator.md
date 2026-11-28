@@ -1,6 +1,6 @@
 # NingyuSUN/bioai-evidence-validator
 
-⭐ 140 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/NingyuSUN/bioai-evidence-validator) · [官网](https://ningyusun.github.io/bioai-evidence-validator/) · 个人维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/NingyuSUN/bioai-evidence-validator) · [官网](https://ningyusun.github.io/bioai-evidence-validator/) · 个人维护
 
 **为生物策展的 AI 输出提供证据校验与准入决策的引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NingyuSUN/bioai-evidence-validator 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 87 --> 144
-    line [92, 91, 93, 108, 109, 116, 132, 140]
+    title "NingyuSUN/bioai-evidence-validator 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 86 --> 155
+    line [92, 91, 93, 108, 109, 116, 132, 140, 150]
 ```
 
-2026-10-25 92 → 2026-11-27 140（+48）
+2026-10-26 92 → 2026-11-28 150（+58）
 
 
 ---

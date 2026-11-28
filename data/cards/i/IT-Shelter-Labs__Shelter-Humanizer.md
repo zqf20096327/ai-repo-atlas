@@ -1,6 +1,6 @@
 # IT-Shelter-Labs/Shelter-Humanizer
 
-⭐ 66 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IT-Shelter-Labs/Shelter-Humanizer) · [官网](https://t.me/+ihTcvubt-_BhZTQ6) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/IT-Shelter-Labs/Shelter-Humanizer) · [官网](https://t.me/+ihTcvubt-_BhZTQ6) · 组织维护
 
 **面向俄语文本改写的 Windows 桌面编辑器，支持本地 LLM**
 
@@ -45,13 +45,13 @@ Windows 桌面应用（Tk/ttk + Python 标准库，无 PyPI 运行时依赖）�
 
 ```mermaid
 xychart-beta
-    title "IT-Shelter-Labs/Shelter-Humanizer 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 56 --> 67
-    line [57, 58, 60, 61, 62, 57, 65, 66, 66]
+    title "IT-Shelter-Labs/Shelter-Humanizer 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 56 --> 68
+    line [58, 60, 61, 62, 57, 65, 66, 67]
 ```
 
-2026-10-25 57 → 2026-11-27 66（+9）
+2026-10-26 58 → 2026-11-28 67（+9）
 
 
 ---

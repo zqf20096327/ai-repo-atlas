@@ -1,6 +1,6 @@
 # WwZzz/easyFL
 
-⭐ 636 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/WwZzz/easyFL) · 个人维护 · 中文 README
+⭐ 635 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/WwZzz/easyFL) · 个人维护 · 中文 README
 
 **联邦学习科研实验框架：生成任务、跑算法、复现论文**
 
@@ -46,13 +46,13 @@ FLGo 是用于开展联邦学习实验的 Python 库：通过内置基准生成�
 
 ```mermaid
 xychart-beta
-    title "WwZzz/easyFL 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    title "WwZzz/easyFL 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-27", "2026-11-28"]
     y-axis "stars" 634 --> 637
-    line [635, 636]
+    line [635, 636, 635]
 ```
 
-2026-11-20 635 → 2026-11-27 636（+1）
+2026-11-20 635 → 2026-11-28 635（+0）
 
 
 ---

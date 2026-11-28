@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "junaiddshaukat/finetune-anywhere 星数(近 4 点)"
-    x-axis ["2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    title "junaiddshaukat/finetune-anywhere 星数(近 5 点)"
+    x-axis ["2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 8
-    line [3, 4, 6, 7]
+    line [3, 4, 6, 7, 7]
 ```
 
-2026-11-22 3 → 2026-11-27 7（+4）
+2026-11-22 3 → 2026-11-28 7（+4）
 
 
 ---

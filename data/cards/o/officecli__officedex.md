@@ -1,10 +1,10 @@
 # officecli/officedex
 
-⭐ 1,062 · JavaScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/officecli/officedex) · [官网](https://officecli.io) · 组织维护
+⭐ 1,062 · JavaScript · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/officecli/officedex) · [官网](https://officecli.io) · 组织维护 · 中文 README
 
-**自然语言生成 Word/PPT/Excel 的 AI 原生桌面办公平台**
+**面向办公用户的桌面应用：一句话生成 Word/PPT/Excel 文档**
 
-基于 Wails（Go + React）的桌面应用，通过自然语言提示直接生成原生 .docx/.pptx/.xlsx/.pdf 文件，不经 HTML 中间格式。文档生成由独立的 officecli 子进程经 JSON-RPC 完成，支持配置 OpenAI/Anthropic/Azure 或自托管 vLLM/Ollama 等自有 LLM，数据默认本地存储，也可选官方托管运行时。功能含任务流实时查看、DOCX/PPTX/XLSX/PDF 内联预览、图片输入理解、跨会话风格记忆与多 agent 协作。macOS/Windows 提供安装包，Linux 需源码运行。
+OfficeDex 是 OfficeCLI 命令行工具的桌面 GUI 外壳，基于 Wails（Go 后端 + React 前端）构建。用户输入自然语言后，由解耦的 officecli 子进程（JSON-RPC 通信）生成原生 .docx/.pptx/.xlsx 文件，支持行内预览（无需安装 Office）、图片输入、多 agent 协作（规划/写作/排版分工）与跨会话样式记忆。LLM 需用户自行配置（OpenAI/Anthropic/Azure 兼容协议或本地模型），默认本地运行，生成需联网或本地模型。提供 macOS/Windows 安装包，Linux 需从源码运行。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 自然语言直接产出原生 OOXML 文件（.docx/.pptx/.xlsx/.pdf）
-- 自有 LLM 配置（OpenAI 兼容协议/Anthropic/Azure/vLLM/Ollama），数据默认本地
-- 多 agent 协作（规划结构/写内容/处理格式）与流式任务状态、任务中交互
-- DOCX/PPTX/XLSX/PDF 内联预览，无需安装 Office
+- 自然语言直接生成原生 OOXML 文件（.docx/.pptx/.xlsx），无中间 HTML
+- DOCX/PPTX/XLSX/PDF 行内预览，无需安装 Office
+- 多 agent 协作（结构规划/内容写作/格式处理）与跨会话样式记忆
+- 可配置任意 LLM：OpenAI 兼容协议、Anthropic、Azure、自托管或本地模型
 
 ## 适用场景
 
-- 用一句话生成季度报告、路演 PPT 或财务分析表格
-- 接入自己的 API key 或本地模型，本地生成办公文档
-- 上传参考文档或截图，让 AI 按视觉上下文产出成品文件
+- 用一句话生成季度销售分析报告、PPT 与数据表格
+- 本地模型环境下离线生成办公文档
+- 上传 .docx/.pdf/.md 素材或截图作为参考生成文档
+- 不打开 Office 即可预览生成的文档
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+`多智能体` `AI 写作` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L22: > Say what you need → OfficeDex produces native `.docx` / `.pptx` / `.xlsx` directly.
-> L83: In one sentence: **Tell it what you want — it generates Word / PPT / Excel for you.**
-> L85: - 📝 **Natural language to documents** — Type "write a Q3 sales analysis report" and get structure, sections, illust
+> L85: In one sentence: **Tell it what you want — it generates Word / PPT / Excel for you.**
+> L91: - ⚙️ **Run locally or hosted** — Bring your own LLM (OpenAI / Claude / self-hosted) or use the OfficeCLI hosted run
+> L251: OfficeCLI is the underlying command-line tool (a separate Go repo) that handles actual document generation, LLM ca
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "officecli/officedex 星数(近 13 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-27"]
+    title "officecli/officedex 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 1055 --> 1064
-    line [1062, 1061, 1062, 1057, 1056, 1057, 1058, 1059, 1060, 1061, 1062, 1063, 1062]
+    line [1062, 1061, 1062, 1057, 1056, 1057, 1058, 1059, 1060, 1061, 1062, 1063, 1062, 1062]
 ```
 
-2026-10-25 1,062 → 2026-11-27 1,062（+0）
+2026-10-26 1,062 → 2026-11-28 1,062（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `007148832ad1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `9266c84c725c` · [字段定义](../../DATASET.md)*

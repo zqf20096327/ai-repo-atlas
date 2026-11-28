@@ -45,12 +45,12 @@ ICASSP 2026 论文 TIPS Over Tricks 的官方 PyTorch 实现：构建在 TIPS �
 ```mermaid
 xychart-beta
     title "Alireza99Salehi/Tipsomaly 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

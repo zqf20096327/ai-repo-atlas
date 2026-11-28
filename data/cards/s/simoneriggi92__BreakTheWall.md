@@ -1,6 +1,6 @@
 # simoneriggi92/BreakTheWall
 
-⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/simoneriggi92/BreakTheWall) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向读 AI 长文开发者的文本结构交互探索桌面应用**
 
@@ -11,7 +11,7 @@ Electron 桌面应用（macOS/Windows），把文本（粘贴或 .txt/.md）解�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

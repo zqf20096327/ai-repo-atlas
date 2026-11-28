@@ -1,6 +1,6 @@
 # AleksNeStu/ai-real-estate-assistant
 
-⭐ 326 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AleksNeStu/ai-real-estate-assistant) · [官网](https://realty.kittray.com) · 个人维护
+⭐ 327 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/AleksNeStu/ai-real-estate-assistant) · [官网](https://realty.kittray.com) · 个人维护
 
 **自托管 AI 房产搜索助手：自然语言问房源、算贷款与估值**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AleksNeStu/ai-real-estate-assistant 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 319 --> 327
-    line [320, 321, 322, 323, 325, 326, 325, 326]
+    title "AleksNeStu/ai-real-estate-assistant 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 319 --> 328
+    line [320, 321, 322, 323, 325, 326, 325, 326, 327]
 ```
 
-2026-10-25 320 → 2026-11-27 326（+6）
+2026-10-26 320 → 2026-11-28 327（+7）
 
 
 ---

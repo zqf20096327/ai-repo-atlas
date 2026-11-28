@@ -1,6 +1,6 @@
 # KrisTHL181/zhihu-toolkit
 
-⭐ 32 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/KrisTHL181/zhihu-toolkit) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/KrisTHL181/zhihu-toolkit) · 个人维护 · 中文 README
 
 **非官方知乎命令行工具：终端内浏览/下载/发布/分析知乎内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "KrisTHL181/zhihu-toolkit 星数(近 5 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 28 --> 33
     line [29, 30, 31, 32, 32]
 ```
 
-2026-11-01 29 → 2026-11-27 32（+3）
+2026-11-01 29 → 2026-11-28 32（+3）
 
 
 ---

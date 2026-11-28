@@ -1,6 +1,6 @@
 # opsworks-co/origin-cli
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/opsworks-co/origin-cli) · [官网](https://getorigin.io) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/opsworks-co/origin-cli) · [官网](https://getorigin.io) · 组织维护
 
 **AI 编码行为的归因与治理 CLI：记录哪个 agent 写了哪行代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "opsworks-co/origin-cli 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

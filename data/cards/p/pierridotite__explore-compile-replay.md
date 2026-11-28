@@ -1,6 +1,6 @@
 # pierridotite/explore-compile-replay
 
-⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pierridotite/explore-compile-replay) · 个人维护
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/pierridotite/explore-compile-replay) · 个人维护
 
 **AI agent 探索一次、编译为标准测试、在 CI 无模型回放的工具**
 
@@ -46,12 +46,12 @@ ECR 是一个确定性的 agent 测试模式与开放契约：agent 按角色探
 ```mermaid
 xychart-beta
     title "pierridotite/explore-compile-replay 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 3 --> 8
+    line [4, 7]
 ```
 
-2026-11-26 4 → 2026-11-27 4（+0）
+2026-11-26 4 → 2026-11-28 7（+3）
 
 
 ---

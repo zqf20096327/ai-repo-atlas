@@ -1,6 +1,6 @@
 # Scottcjn/claude-code-power8
 
-⭐ 86 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Scottcjn/claude-code-power8) · [官网](https://rustchain.org) · 个人维护
+⭐ 85 · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Scottcjn/claude-code-power8) · [官网](https://rustchain.org) · 个人维护
 
 **在 IBM POWER8/ppc64le 上安装运行 Claude Code CLI 的移植与安装指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/claude-code-power8 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 85 --> 90
-    line [89, 87, 86]
+    title "Scottcjn/claude-code-power8 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 84 --> 90
+    line [89, 87, 86, 85]
 ```
 
-2026-10-29 89 → 2026-11-27 86（-3）
+2026-10-29 89 → 2026-11-28 85（-4）
 
 
 ---

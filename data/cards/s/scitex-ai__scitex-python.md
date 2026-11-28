@@ -1,6 +1,6 @@
 # scitex-ai/scitex-python
 
-⭐ 86 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/scitex-ai/scitex-python) · [官网](https://scitex.ai) · 组织维护
+⭐ 86 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/scitex-ai/scitex-python) · [官网](https://scitex.ai) · 组织维护
 
 **面向科研的统一 Python 工具库，含 MCP 工具供 AI agent 开展研究**
 
@@ -46,12 +46,12 @@ SciTeX 生态的编排层 Python 库：在统一命名空间下提供 73 个模�
 ```mermaid
 xychart-beta
     title "scitex-ai/scitex-python 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-22", "2026-11-28"]
     y-axis "stars" 84 --> 87
     line [86, 85, 86, 86]
 ```
 
-2026-10-25 86 → 2026-11-27 86（+0）
+2026-10-26 86 → 2026-11-28 86（+0）
 
 
 ---

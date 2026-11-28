@@ -1,6 +1,6 @@
 # silaorg/sila
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/silaorg/sila) · [官网](https://silain.com) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/silaorg/sila) · [官网](https://silain.com) · 组织维护
 
 **本地优先的可自拥有 AI 聊天助手桌面应用**
 
@@ -46,12 +46,12 @@ Sila 是一款面向终端用户的 AI 聊天应用，定位为 ChatGPT 的开�
 ```mermaid
 xychart-beta
     title "silaorg/sila 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-25 29 → 2026-11-27 29（+0）
+2026-10-26 29 → 2026-11-28 29（+0）
 
 
 ---

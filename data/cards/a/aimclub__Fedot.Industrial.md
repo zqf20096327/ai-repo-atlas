@@ -47,12 +47,12 @@ Fedot.Ind 是基于 FEDOT AutoML 框架构建的 Python 库，面向工业时间
 ```mermaid
 xychart-beta
     title "aimclub/Fedot.Industrial 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-25 88 → 2026-11-27 88（+0）
+2026-10-26 88 → 2026-11-28 88（+0）
 
 
 ---

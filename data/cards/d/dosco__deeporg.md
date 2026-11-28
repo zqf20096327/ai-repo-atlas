@@ -1,6 +1,6 @@
 # dosco/deeporg
 
-⭐ 3,239 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dosco/deeporg) · [官网](https://deeporg.io) · 个人维护
+⭐ 3,240 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dosco/deeporg) · [官网](https://deeporg.io) · 个人维护
 
 **企业级 AI 代理：跨数据库、API、文件与代码回答和执行操作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dosco/deeporg 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3237 --> 3240
-    line [3239, 3238, 3239]
+    title "dosco/deeporg 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3237 --> 3241
+    line [3239, 3238, 3239, 3240]
 ```
 
-2026-11-22 3,239 → 2026-11-27 3,239（+0）
+2026-11-22 3,239 → 2026-11-28 3,240（+1）
 
 
 ---

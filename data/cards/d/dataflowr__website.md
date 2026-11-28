@@ -1,6 +1,6 @@
 # dataflowr/website
 
-⭐ 65 · CSS · Apache-2.0 · 推送 2025-12-22 · [GitHub](https://github.com/dataflowr/website) · [官网](https://dataflowr.github.io/website/) · 组织维护
+⭐ 65 · CSS · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dataflowr/website) · [官网](https://dataflowr.github.io/website/) · 组织维护
 
 **深度学习 DIY 教程模块集合的网站代码**
 
@@ -44,12 +44,12 @@ Deep Learning Do It Yourself 教学站点的源码仓库：以模块形式组织
 ```mermaid
 xychart-beta
     title "dataflowr/website 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 64 --> 66
     line [65, 65]
 ```
 
-2026-10-25 65 → 2026-11-27 65（+0）
+2026-10-26 65 → 2026-11-28 65（+0）
 
 
 ---

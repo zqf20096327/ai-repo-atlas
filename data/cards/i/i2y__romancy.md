@@ -1,6 +1,6 @@
 # i2y/romancy
 
-⭐ 11 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/i2y/romancy) · [官网](https://i2y.github.io/romancy/) · 个人维护
+⭐ 11 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/i2y/romancy) · [官网](https://i2y.github.io/romancy/) · 个人维护
 
 **Go 语言持久化执行框架：让长流程在崩溃后自动恢复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "i2y/romancy 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

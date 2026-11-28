@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27"]
+    title "microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 16
-    line [10, 11, 12, 13, 14, 15]
+    line [10, 11, 12, 13, 14, 15, 15]
 ```
 
-2026-11-08 10 → 2026-11-27 15（+5）
+2026-11-08 10 → 2026-11-28 15（+5）
 
 
 ---

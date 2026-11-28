@@ -1,6 +1,6 @@
 # axonops/cqlai
 
-⭐ 18 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/axonops/cqlai) · [官网](https://axonops.com) · 组织维护
+⭐ 18 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/axonops/cqlai) · [官网](https://axonops.com) · 组织维护
 
 **面向 Cassandra 的现代终端 CQL Shell，可选 AI 自然语言生成 CQL**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "axonops/cqlai 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "axonops/cqlai 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 15 --> 19
-    line [16, 17, 16, 18, 18]
+    line [17, 16, 18, 18]
 ```
 
-2026-10-25 16 → 2026-11-27 18（+2）
+2026-10-26 17 → 2026-11-28 18（+1）
 
 
 ---

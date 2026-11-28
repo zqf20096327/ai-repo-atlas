@@ -1,6 +1,6 @@
 # opencomp-eu/ollama-ai-provider-v2
 
-⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/opencomp-eu/ollama-ai-provider-v2) · [官网](https://www.npmjs.com/package/ollama-ai-provider-v2) · 个人维护
+⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/opencomp-eu/ollama-ai-provider-v2) · [官网](https://www.npmjs.com/package/ollama-ai-provider-v2) · 个人维护
 
 **让 Vercel AI SDK 通过本地 Ollama 运行 LLM 的 TypeScript Provider**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "opencomp-eu/ollama-ai-provider-v2 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-28"]
     y-axis "stars" 103 --> 107
     line [104, 105, 104, 105, 106, 106]
 ```
 
-2026-10-25 104 → 2026-11-27 106（+2）
+2026-10-26 104 → 2026-11-28 106（+2）
 
 
 ---

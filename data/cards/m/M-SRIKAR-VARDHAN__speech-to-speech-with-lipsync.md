@@ -1,6 +1,6 @@
 # M-SRIKAR-VARDHAN/speech-to-speech-with-lipsync
 
-⭐ 37 · Python · 推送 2026-03-24 · [GitHub](https://github.com/M-SRIKAR-VARDHAN/speech-to-speech-with-lipsync) · 个人维护
+⭐ 38 · Python · 推送 2026-03-24 · [GitHub](https://github.com/M-SRIKAR-VARDHAN/speech-to-speech-with-lipsync) · 个人维护
 
 **英语视频转泰卢固语配音的端到端管线：ASR+NMT+TTS+RVC+Wav2Lip**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "M-SRIKAR-VARDHAN/speech-to-speech-with-lipsync 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-25 37 → 2026-11-27 37（+0）
+2026-10-26 37 → 2026-11-28 38（+1）
 
 
 ---

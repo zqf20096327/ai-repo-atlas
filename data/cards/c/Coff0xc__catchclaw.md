@@ -41,6 +41,18 @@
 > L36: 1. **Find** the service (port scan + keyword fingerprint across 25 profiles).
 > L109: |`mcp`|Expose scan/chain/discover/nuclei/osint to an AI assistant|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Coff0xc/catchclaw 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-11-27 33 → 2026-11-28 33（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `cfb4dda3e5a5` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # projectmentor/hive-mind
 
-⭐ 74 · Python · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/projectmentor/hive-mind) · [官网](https://hivemind.projectmentor.org) · 组织维护
+⭐ 74 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/projectmentor/hive-mind) · [官网](https://hivemind.projectmentor.org) · 组织维护
 
 **AI agent 跨机共享记忆工具：多设备无服务器同步笔记**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "projectmentor/hive-mind 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 72 --> 75
     line [73, 74, 74]
 ```
 
-2026-10-25 73 → 2026-11-27 74（+1）
+2026-10-26 73 → 2026-11-28 74（+1）
 
 
 ---

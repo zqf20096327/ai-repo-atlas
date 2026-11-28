@@ -1,6 +1,6 @@
 # NekoDD-wow/dsh-prefill-plugin
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NekoDD-wow/dsh-prefill-plugin) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/NekoDD-wow/dsh-prefill-plugin) · 个人维护 · 中文 README
 
 **DSH Web 端预填装插件：管理系统提示、开场对话与每轮注入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "NekoDD-wow/dsh-prefill-plugin 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-27 4（+1）
+2026-11-08 3 → 2026-11-28 4（+1）
 
 
 ---

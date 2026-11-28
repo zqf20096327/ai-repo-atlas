@@ -1,6 +1,6 @@
 # SnapGenAI/Free-Nano-Banana-Pro-API-Ultimate-AI-Image-Generator
 
-⭐ 84 · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/SnapGenAI/Free-Nano-Banana-Pro-API-Ultimate-AI-Image-Generator) · [官网](https://geminigen.ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 Gemini 3.0 Pro 的免费图像生成 Web 应用与 API 服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

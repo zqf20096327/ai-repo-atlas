@@ -1,6 +1,6 @@
 # mlflow-oidc/mlflow-oidc-auth
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mlflow-oidc/mlflow-oidc-auth) · [官网](https://mlflow-oidc.github.io/mlflow-oidc-auth/) · 组织维护
+⭐ 140 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mlflow-oidc/mlflow-oidc-auth) · [官网](https://mlflow-oidc.github.io/mlflow-oidc-auth/) · 组织维护
 
 **MLflow 追踪服务器的认证与访问控制插件（SSO/SCIM/RBAC）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlflow-oidc/mlflow-oidc-auth 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-21", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 132 --> 140
-    line [133, 134, 136, 137, 139]
+    title "mlflow-oidc/mlflow-oidc-auth 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-21", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 132 --> 141
+    line [133, 134, 136, 137, 139, 140]
 ```
 
-2026-10-25 133 → 2026-11-27 139（+6）
+2026-10-26 133 → 2026-11-28 140（+7）
 
 
 ---

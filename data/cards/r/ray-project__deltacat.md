@@ -1,6 +1,6 @@
 # ray-project/deltacat
 
-⭐ 287 · Python · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/ray-project/deltacat) · 组织维护
+⭐ 286 · Python · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/ray-project/deltacat) · 组织维护
 
 **基于 Ray 的多模态 Lakehouse，面向 ML/分析数据管理**
 
@@ -46,12 +46,12 @@ DeltaCAT 是一个可移植的多模态数据湖工具，基于 Ray、Apache Arr
 ```mermaid
 xychart-beta
     title "ray-project/deltacat 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-26", "2026-11-28"]
     y-axis "stars" 284 --> 288
-    line [285, 286, 287, 287]
+    line [285, 286, 287, 286]
 ```
 
-2026-10-25 285 → 2026-11-27 287（+2）
+2026-10-26 285 → 2026-11-28 286（+1）
 
 
 ---

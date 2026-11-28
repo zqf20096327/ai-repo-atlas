@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）的插件，解决 Clash/Surge/v2rayN 等代理软件�
 ```mermaid
 xychart-beta
     title "lightrivers/dsh-proxy-switch 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-27 3（+0）
+2026-11-23 3 → 2026-11-28 3（+0）
 
 
 ---

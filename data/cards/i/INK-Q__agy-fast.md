@@ -1,6 +1,6 @@
 # INK-Q/agy-fast
 
-⭐ 1,705 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/INK-Q/agy-fast) · 个人维护 · 中文 README
+⭐ 1,966 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/INK-Q/agy-fast) · 个人维护 · 中文 README
 
 **给 Google Antigravity 提速的本地 MCP 插件：减少回合数与 token 配额消耗**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "INK-Q/agy-fast 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 370 --> 1826
-    line [491, 791, 1504, 1705]
+    title "INK-Q/agy-fast 星数(近 5 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 344 --> 2113
+    line [491, 791, 1504, 1705, 1966]
 ```
 
-2026-11-23 491 → 2026-11-27 1,705（+1,214）
+2026-11-23 491 → 2026-11-28 1,966（+1,475）
 
 
 ---

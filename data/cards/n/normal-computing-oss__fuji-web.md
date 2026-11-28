@@ -1,6 +1,6 @@
 # normal-computing-oss/fuji-web
 
-⭐ 597 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/normal-computing-oss/fuji-web) · 组织维护
+⭐ 598 · TypeScript · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/normal-computing-oss/fuji-web) · 组织维护
 
 **浏览器侧栏 AI agent，自动浏览网页并代用户执行任务**
 
@@ -44,12 +44,12 @@ Chrome 浏览器扩展，以侧栏形式运行的 AI agent：理解用户意图�
 ```mermaid
 xychart-beta
     title "normal-computing-oss/fuji-web 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-28"]
     y-axis "stars" 596 --> 599
-    line [597, 598, 597, 597]
+    line [597, 598, 597, 598]
 ```
 
-2026-10-25 597 → 2026-11-27 597（+0）
+2026-10-26 597 → 2026-11-28 598（+1）
 
 
 ---

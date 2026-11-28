@@ -1,6 +1,6 @@
 # qufei1993/ai-agent-guide
 
-⭐ 43 · JavaScript · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/qufei1993/ai-agent-guide) · [官网](https://qufei1993.github.io/ai-agent-guide/) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/qufei1993/ai-agent-guide) · [官网](https://qufei1993.github.io/ai-agent-guide/) · 个人维护 · 中文 README
 
 **面向工程师的 LLM/Agent/RAG 开源交互式双语教程**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "qufei1993/ai-agent-guide 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 25 --> 44
-    line [26, 34, 43, 43]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 25 --> 45
+    line [26, 34, 43, 44]
 ```
 
-2026-11-23 26 → 2026-11-27 43（+17）
+2026-11-23 26 → 2026-11-28 44（+18）
 
 
 ---

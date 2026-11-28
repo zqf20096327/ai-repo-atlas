@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tingruew/DiffusionModels-In-RecSys 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-10-25 93 → 2026-11-27 93（+0）
+2026-10-26 93 → 2026-11-28 93（+0）
 
 
 ---

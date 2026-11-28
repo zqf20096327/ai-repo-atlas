@@ -40,6 +40,18 @@ WSMs 是 World Snapshot Models（WSM v1，代号 Augustus）的官方实现：�
 > L17: World Snapshot Models (WSMs) are an ideal world model designed to **unify, expand, and ultimately transcend Compute
 > L42: WSM v1 is the first large-scale implementation of the Unified Law for Visual Tasks. The method can unify thousands 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "World-Snapshot/WSMs 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-27 25 → 2026-11-28 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `707b917fbeac` · [字段定义](../../DATASET.md)*

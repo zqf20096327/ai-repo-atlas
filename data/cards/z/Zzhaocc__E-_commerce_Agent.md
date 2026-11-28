@@ -1,6 +1,6 @@
 # Zzhaocc/E-_commerce_Agent
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Zzhaocc/E-_commerce_Agent) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Zzhaocc/E-_commerce_Agent) · 个人维护 · 中文 README
 
 **跨境电商运营团队的 7 Agent 自动化素材流水线平台**
 
@@ -40,6 +40,18 @@
 > L14: 面向**跨境运营团队与代运营服务商**的运营自动化平台。它不是一个文案生成器，而是一条有输入契约、
 > L25: 一条流水线走完，产出六类资产：市场报告、策略书、Listing 包、图片包、视频包、发布包；
 > L208: `app/llm/openai_compat.py` 是标准的 `/chat/completions` 实现，DeepSeek / Qwen / vLLM /
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Zzhaocc/E-_commerce_Agent 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 7]
+```
+
+2026-11-27 3 → 2026-11-28 7（+4）
 
 
 ---

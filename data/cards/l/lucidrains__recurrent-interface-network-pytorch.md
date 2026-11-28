@@ -45,12 +45,12 @@ lucidrains 维护的 RIN（Recurrent Interface Network）PyTorch 实现，用于
 ```mermaid
 xychart-beta
     title "lucidrains/recurrent-interface-network-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 209 --> 211
     line [210, 210]
 ```
 
-2026-10-25 210 → 2026-11-27 210（+0）
+2026-10-26 210 → 2026-11-28 210（+0）
 
 
 ---

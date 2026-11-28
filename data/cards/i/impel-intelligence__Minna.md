@@ -1,6 +1,6 @@
 # impel-intelligence/Minna
 
-⭐ 20 · Swift · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/impel-intelligence/Minna) · [官网](https://tryminna.com) · 组织维护
+⭐ 21 · Swift · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/impel-intelligence/Minna) · [官网](https://tryminna.com) · 组织维护
 
 **Mac 上的本地优先文档搜索与 AI 问答助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "impel-intelligence/Minna 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 17, 18, 20, 20]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 17, 18, 20, 21]
 ```
 
-2026-10-25 17 → 2026-11-27 20（+3）
+2026-10-26 17 → 2026-11-28 21（+4）
 
 
 ---

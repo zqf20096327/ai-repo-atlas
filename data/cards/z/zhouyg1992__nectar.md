@@ -1,6 +1,6 @@
 # zhouyg1992/nectar
 
-⭐ 17 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zhouyg1992/nectar) · 个人维护 · 中文 README
+⭐ 16 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zhouyg1992/nectar) · 个人维护 · 中文 README
 
 **把飞书/钉钉/Telegram 消息路由给多个编码 agent 并管理会话与任务**
 
@@ -45,13 +45,13 @@ Nectar 以单个进程在同一仓库中并行运行多个编码 agent（Codex�
 
 ```mermaid
 xychart-beta
-    title "zhouyg1992/nectar 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-27"]
+    title "zhouyg1992/nectar 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-27", "2026-11-28"]
     y-axis "stars" 15 --> 18
-    line [16, 17]
+    line [16, 17, 16]
 ```
 
-2026-11-20 16 → 2026-11-27 17（+1）
+2026-11-20 16 → 2026-11-28 16（+0）
 
 
 ---

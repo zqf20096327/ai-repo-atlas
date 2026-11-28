@@ -1,6 +1,6 @@
 # makermate/clarvis-ai
 
-⭐ 209 · Shell · MIT · 推送 2026-03-12 · [GitHub](https://github.com/makermate/clarvis-ai) · [官网](https://www.clarv.is/) · 组织维护
+⭐ 210 · Shell · MIT · 推送 2026-03-12 · [GitHub](https://github.com/makermate/clarvis-ai) · [官网](https://www.clarv.is/) · 组织维护
 
 **聊天驱动的 3D 打印助手：对话生成/搜索/切片/打印模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "makermate/clarvis-ai 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 203 --> 210
-    line [205, 204, 205, 206, 207, 208, 209]
+    title "makermate/clarvis-ai 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 203 --> 211
+    line [205, 204, 205, 206, 207, 208, 209, 210]
 ```
 
-2026-10-25 205 → 2026-11-27 209（+4）
+2026-10-26 205 → 2026-11-28 210（+5）
 
 
 ---

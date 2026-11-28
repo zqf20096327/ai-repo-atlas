@@ -1,6 +1,6 @@
 # xr843/Buddhist-AI-Translator
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/xr843/Buddhist-AI-Translator) · [官网](https://xr843.github.io/Buddhist-AI-Translator) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/xr843/Buddhist-AI-Translator) · [官网](https://xr843.github.io/Buddhist-AI-Translator) · 个人维护 · 中文 README
 
 **为佛学研究者与修行者翻译梵巴藏汉佛典的 AI 翻译器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xr843/Buddhist-AI-Translator 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # langfuse/langfuse-k8s
 
-⭐ 288 · Go Template · MIT · 推送 2026-11-26 · [GitHub](https://github.com/langfuse/langfuse-k8s) · [官网](https://langfuse.com/self-hosting/deployment/kubernetes-helm) · 组织维护
+⭐ 288 · Go Template · MIT · 推送 2026-11-27 · [GitHub](https://github.com/langfuse/langfuse-k8s) · [官网](https://langfuse.com/self-hosting/deployment/kubernetes-helm) · 组织维护
 
 **在 Kubernetes 上部署 Langfuse 的社区维护 Helm chart**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langfuse/langfuse-k8s 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-28"]
     y-axis "stars" 279 --> 289
     line [280, 281, 282, 280, 283, 285, 287, 286, 285, 286, 288, 288]
 ```
 
-2026-10-25 280 → 2026-11-27 288（+8）
+2026-10-26 280 → 2026-11-28 288（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # Fish-under-sea/Prismux
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Fish-under-sea/Prismux) · [官网](https://github.com/Fish-under-sea/Prismux#readme) · 个人维护 · 中文 README
+⭐ 7 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Fish-under-sea/Prismux) · [官网](https://github.com/Fish-under-sea/Prismux#readme) · 个人维护 · 中文 README
 
 **给多 Agent 用户的纯本地桌面工作台，统一管理多家 Coding Agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fish-under-sea/Prismux 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "Fish-under-sea/Prismux 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 3 --> 8
-    line [4, 7]
+    line [4, 7, 7]
 ```
 
-2026-11-26 4 → 2026-11-27 7（+3）
+2026-11-26 4 → 2026-11-28 7（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # sauradip/In-2-4D
 
-⭐ 18 · Python · 推送 2026-11-01 · [GitHub](https://github.com/sauradip/In-2-4D) · [官网](https://in-2-4d.github.io/) · 组织维护
+⭐ 17 · Python · 推送 2026-11-01 · [GitHub](https://github.com/sauradip/In-2-4D) · [官网](https://in-2-4d.github.io/) · 组织维护
 
 **从两张单视图图像生成 4D 运动的 PyTorch 研究实现**
 
@@ -46,12 +46,12 @@ SIGGRAPH ASIA 2025 论文 In-2-4D 的官方 PyTorch 实现：给定同一物体�
 ```mermaid
 xychart-beta
     title "sauradip/In-2-4D 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-11-08", "2026-11-28"]
+    y-axis "stars" 16 --> 19
+    line [18, 17]
 ```
 
-2026-11-08 18 → 2026-11-27 18（+0）
+2026-11-08 18 → 2026-11-28 17（-1）
 
 
 ---

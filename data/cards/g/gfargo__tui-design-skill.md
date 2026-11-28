@@ -1,6 +1,6 @@
 # gfargo/tui-design-skill
 
-⭐ 48 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/gfargo/tui-design-skill) · [官网](https://griffen.codes/post/tui-design-skill-claude/) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/gfargo/tui-design-skill) · [官网](https://griffen.codes/post/tui-design-skill-claude/) · 个人维护
 
 **面向 agent 的终端 UI/CLI 设计技能包，覆盖四语言生态**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gfargo/tui-design-skill 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 41 --> 49
-    line [42, 43, 44, 42, 45, 46, 47, 48, 48]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-28"]
+    y-axis "stars" 41 --> 50
+    line [42, 43, 44, 42, 45, 46, 47, 48, 49]
 ```
 
-2026-10-25 42 → 2026-11-27 48（+6）
+2026-10-26 42 → 2026-11-28 49（+7）
 
 
 ---

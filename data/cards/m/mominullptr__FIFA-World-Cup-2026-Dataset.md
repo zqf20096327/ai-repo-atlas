@@ -1,6 +1,6 @@
 # mominullptr/FIFA-World-Cup-2026-Dataset
 
-⭐ 75 · Python · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset) · [官网](https://mominullptr.github.io/FIFA-World-Cup-2026-Dataset/) · 个人维护
+⭐ 75 · Python · CC0-1.0 · 推送 2026-11-27 · [GitHub](https://github.com/mominullptr/FIFA-World-Cup-2026-Dataset) · [官网](https://mominullptr.github.io/FIFA-World-Cup-2026-Dataset/) · 个人维护
 
 **2026 世界杯 3NF 关系型数据集：104 场比赛与球员数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mominullptr/FIFA-World-Cup-2026-Dataset 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-26", "2026-11-28"]
     y-axis "stars" 67 --> 76
     line [68, 69, 72, 73, 74, 75, 75]
 ```
 
-2026-10-25 68 → 2026-11-27 75（+7）
+2026-10-26 68 → 2026-11-28 75（+7）
 
 
 ---

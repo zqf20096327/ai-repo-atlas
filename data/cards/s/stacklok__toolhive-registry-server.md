@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "stacklok/toolhive-registry-server 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-25", "2026-11-27"]
+    title "stacklok/toolhive-registry-server 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 28 --> 32
-    line [29, 30, 31]
+    line [29, 30, 31, 31]
 ```
 
-2026-10-25 29 → 2026-11-27 31（+2）
+2026-10-26 29 → 2026-11-28 31（+2）
 
 
 ---

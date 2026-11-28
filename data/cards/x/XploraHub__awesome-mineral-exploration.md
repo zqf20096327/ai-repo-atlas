@@ -1,6 +1,6 @@
 # XploraHub/awesome-mineral-exploration
 
-⭐ 48 · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/XploraHub/awesome-mineral-exploration) · [官网](https://xplorahub.com) · 组织维护
+⭐ 49 · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/XploraHub/awesome-mineral-exploration) · [官网](https://xplorahub.com) · 组织维护
 
 **矿产勘探开源软件策展清单：地球物理、地质建模、钻探等地学工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "XploraHub/awesome-mineral-exploration 星数(近 12 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 2 --> 52
-    line [6, 31, 35, 36, 38, 39, 42, 43, 44, 45, 47, 48]
+    title "XploraHub/awesome-mineral-exploration 星数(近 13 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 53
+    line [6, 31, 35, 36, 38, 39, 42, 43, 44, 45, 47, 48, 49]
 ```
 
-2026-11-08 6 → 2026-11-27 48（+42）
+2026-11-08 6 → 2026-11-28 49（+43）
 
 
 ---

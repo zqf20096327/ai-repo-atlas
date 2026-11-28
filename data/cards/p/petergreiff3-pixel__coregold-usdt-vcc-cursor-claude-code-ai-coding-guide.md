@@ -1,6 +1,6 @@
 # petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide
 
-⭐ 80 · 推送 2026-11-19 · [GitHub](https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 92 · 推送 2026-11-19 · [GitHub](https://github.com/petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向程序员的 AI 编码订阅续费支付指南（CoreGold VCC）**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 87
-    line [6, 21, 42, 67, 80]
+    title "petergreiff3-pixel/coregold-usdt-vcc-cursor-claude-code-ai-coding-guide 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 100
+    line [6, 21, 42, 67, 80, 92]
 ```
 
-2026-11-20 6 → 2026-11-27 80（+74）
+2026-11-20 6 → 2026-11-28 92（+86）
 
 
 ---

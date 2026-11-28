@@ -1,6 +1,6 @@
 # sturlabragason/fleet
 
-⭐ 8 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sturlabragason/fleet) · [官网](https://sturlabragason.github.io/fleet/) · 个人维护
+⭐ 8 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sturlabragason/fleet) · [官网](https://sturlabragason.github.io/fleet/) · 个人维护
 
 **在单个 tmux 窗口中并排运行和监督多个 AI 编码代理**
 
@@ -45,12 +45,12 @@ fleet 是一个 Go 编写的终端工具，在单个 tmux 窗口中并排运行�
 ```mermaid
 xychart-beta
     title "sturlabragason/fleet 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 7 --> 9
     line [8, 8]
 ```
 
-2026-11-26 8 → 2026-11-27 8（+0）
+2026-11-26 8 → 2026-11-28 8（+0）
 
 
 ---

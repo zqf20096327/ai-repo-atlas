@@ -1,6 +1,6 @@
 # imantaba/kubeagent
 
-⭐ 30 · Go · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/imantaba/kubeagent) · [官网](https://k8sproject.top) · 个人维护
+⭐ 31 · Go · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/imantaba/kubeagent) · [官网](https://k8sproject.top) · 个人维护
 
 **只读 Kubernetes 故障诊断 CLI：解释 Pod 为什么坏及根因**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "imantaba/kubeagent 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-25 30 → 2026-11-27 30（+0）
+2026-10-26 30 → 2026-11-28 31（+1）
 
 
 ---

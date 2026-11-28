@@ -1,6 +1,6 @@
 # wasabihu/vericorpus
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/wasabihu/vericorpus) · 个人维护 · 中文 README
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/wasabihu/vericorpus) · 个人维护 · 中文 README
 
 **面向 XERJ/Elasticsearch 引擎的合规多语种语料包与中英双语检索评测基准**
 
@@ -46,12 +46,12 @@ VeriCorpus 提供经许可证审查的金融（SEC/港交所）、法规与临�
 ```mermaid
 xychart-beta
     title "wasabihu/vericorpus 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-25 4 → 2026-11-27 5（+1）
+2026-11-25 4 → 2026-11-28 6（+2）
 
 
 ---

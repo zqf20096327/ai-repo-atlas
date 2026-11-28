@@ -1,6 +1,6 @@
 # shreyansh26/Annotated-ML-Papers
 
-⭐ 288 · MIT · 推送 2026-10-05 · [GitHub](https://github.com/shreyansh26/Annotated-ML-Papers) · [官网](https://shreyansh26.github.io/post/) · 个人维护
+⭐ 289 · MIT · 推送 2026-10-05 · [GitHub](https://github.com/shreyansh26/Annotated-ML-Papers) · [官网](https://shreyansh26.github.io/post/) · 个人维护
 
 **个人阅读的 ML/DL 论文注释与解读合集**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "shreyansh26/Annotated-ML-Papers 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 286 --> 289
-    line [287, 288, 288]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 286 --> 290
+    line [287, 288, 289]
 ```
 
-2026-10-25 287 → 2026-11-27 288（+1）
+2026-10-26 287 → 2026-11-28 289（+2）
 
 
 ---

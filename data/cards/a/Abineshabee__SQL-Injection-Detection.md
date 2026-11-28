@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Abineshabee/SQL-Injection-Detection 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "Abineshabee/SQL-Injection-Detection 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 40 --> 45
-    line [41, 44, 41, 44, 44]
+    line [44, 41, 44, 44]
 ```
 
-2026-10-25 41 → 2026-11-27 44（+3）
+2026-10-26 44 → 2026-11-28 44（+0）
 
 
 ---

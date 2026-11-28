@@ -45,12 +45,12 @@ DIPLOMAT 提供多动物追踪与姿态估计接口：输入视频和由 SLEAP �
 ```mermaid
 xychart-beta
     title "TravisWheelerLab/DIPLOMAT 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

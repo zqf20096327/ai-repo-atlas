@@ -44,13 +44,13 @@ Intelli 是一个创建聊天机器人和 AI agent 工作流的 Python 框架，
 
 ```mermaid
 xychart-beta
-    title "intelligentnode/Intelli 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "intelligentnode/Intelli 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 53 --> 56
-    line [54, 55]
+    line [54, 55, 55]
 ```
 
-2026-10-25 54 → 2026-11-27 55（+1）
+2026-10-26 54 → 2026-11-28 55（+1）
 
 
 ---

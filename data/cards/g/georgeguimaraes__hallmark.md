@@ -1,6 +1,6 @@
 # georgeguimaraes/hallmark
 
-⭐ 19 · Elixir · MIT · 推送 2026-11-24 · [GitHub](https://github.com/georgeguimaraes/hallmark) · 个人维护
+⭐ 19 · Elixir · MIT · 推送 2026-11-27 · [GitHub](https://github.com/georgeguimaraes/hallmark) · 个人维护
 
 **Elixir 幻觉检测库：本地运行 HHEM 模型评估文本一致性**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "georgeguimaraes/hallmark 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 17 --> 20
     line [18, 19, 18, 19, 19]
 ```
 
-2026-10-25 18 → 2026-11-27 19（+1）
+2026-10-26 18 → 2026-11-28 19（+1）
 
 
 ---

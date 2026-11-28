@@ -1,6 +1,6 @@
 # raghumb/ai-cadence
 
-⭐ 3 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/raghumb/ai-cadence) · 个人维护
+⭐ 3 · MIT · 推送 2026-11-27 · [GitHub](https://github.com/raghumb/ai-cadence) · 个人维护
 
 **面向开发者的 AI 生态动态人工策展清单/通讯**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "raghumb/ai-cadence 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -43,12 +43,12 @@ PSPDFKit/Nutrient 官方演示工程：在 Nutrient Web SDK 文档查看器中�
 ```mermaid
 xychart-beta
     title "PSPDFKit/ai-assistant-demo 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
     y-axis "stars" 67 --> 70
     line [68, 69, 69]
 ```
 
-2026-10-25 68 → 2026-11-27 69（+1）
+2026-10-26 68 → 2026-11-28 69（+1）
 
 
 ---

@@ -1,10 +1,10 @@
 # Lightning-AI/pytorch-lightning
 
-⭐ 31,467 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Lightning-AI/pytorch-lightning) · [官网](https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme) · 组织维护
+⭐ 31,469 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Lightning-AI/pytorch-lightning) · [官网](https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme) · 组织维护
 
-**组织 PyTorch 训练代码的深度学习框架，免改代码扩展到多 GPU**
+**让开发者以少量样板代码在多 GPU/TPU 上训练与微调模型的 PyTorch 框架**
 
-PyTorch Lightning 将 PyTorch 训练中的工程代码（反向传播、混合精度、多 GPU、分布式）组织为可复用结构，用户保留模型逻辑控制权；提供 PyTorch Lightning（Trainer 封装）与 Lightning Fabric（细粒度控制训练循环与扩展策略）两个核心包。支持 DDP/FSDP/DeepSpeed、16-bit 精度、断点保存、早停、实验管理，可导出 TorchScript/ONNX。通过 pip/conda 安装，跨 Linux/macOS/Windows 与多版本 PyTorch 测试。
+PyTorch Lightning 是组织 PyTorch 训练代码的框架，将反向传播、混合精度、多 GPU 与分布式训练等工程代码自动化，用户保留模型逻辑控制权。包含两个核心包：PyTorch Lightning（规模化训练与部署的 Trainer 抽象）与 Lightning Fabric（对训练循环和扩展策略提供专家级控制，可自建 Trainer）。支持 DDP/FSDP/DeepSpeed 策略、16-bit 精度、早停、检查点、TorchScript/ONNX 导出。同一代码可在 CPU、GPU、TPU、多节点运行；另提供 Lightning Cloud 托管服务，也可在自有硬件或云上运行。
 
 ## 筛选速览
 
@@ -26,40 +26,40 @@ PyTorch Lightning 将 PyTorch 训练中的工程代码（反向传播、混合�
 
 ## 能力要点
 
-- Trainer 参数切换 CPU/GPU/TPU/多节点训练，无需改动核心代码
+- 零代码改动从单机扩展到数千 GPU 或多节点训练
 - 内置 DDP、FSDP、DeepSpeed 分布式策略与混合精度
-- 支持导出 TorchScript (JIT) 与 ONNX 用于生产部署
-- 40+ 高级特性：早停、检查点、实验管理器等
+- 支持早停、检查点、实验管理器与 TorchScript/ONNX 导出
+- 提供 PyTorch 与 Lightning 代码转换示例
 
 ## 适用场景
 
-- 研究项目需要在单卡与多 GPU/多节点之间切换训练
-- 预训练或微调 LLM、扩散模型、Transformer 等大规模模型
-- 减少 PyTorch 工程样板代码以提升实验可复现性
-- 将训练好的模型导出为 TorchScript/ONNX 部署
+- 在不改核心代码的前提下把单卡训练扩展到多 GPU 多节点
+- 微调 LLM、diffusion、BERT 等各类模型做分类、分割、摘要等任务
+- 用 Fabric 精细控制训练循环以扩展基础模型
+- 将训练好的模型导出为 TorchScript/ONNX 用于生产部署
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+`模型训练` `微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L3: **The deep learning framework to pretrain and finetune AI models.**
 > L33: Training models in plain PyTorch requires writing and maintaining a lot of repetitive engineering code. Handling ba
 > L44: PyTorch Lightning: Train and deploy PyTorch at scale.
+> L46: Lightning Fabric: Expert control.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Lightning-AI/pytorch-lightning 星数(近 21 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 31425 --> 31473
-    line [31429, 31431, 31433, 31431, 31433, 31434, 31436, 31429, 31447, 31448, 31449, 31448, 31447, 31451, 31450, 31464, 31466, 31469, 31463, 31465, 31467]
+    line [31431, 31433, 31431, 31433, 31434, 31436, 31429, 31447, 31448, 31449, 31448, 31447, 31451, 31450, 31464, 31466, 31469, 31463, 31465, 31467, 31469]
 ```
 
-2026-10-25 31,429 → 2026-11-27 31,467（+38）
+2026-10-26 31,431 → 2026-11-28 31,469（+38）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f3a5cc308c21` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `1d54e3ae1ae4` · [字段定义](../../DATASET.md)*

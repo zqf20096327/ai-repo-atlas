@@ -1,6 +1,6 @@
 # ColinGPT9/Grand-Theft-Auto-6-Clips-Kitty-Plugin
 
-⭐ 58 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ColinGPT9/Grand-Theft-Auto-6-Clips-Kitty-Plugin) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ColinGPT9/Grand-Theft-Auto-6-Clips-Kitty-Plugin) · 个人维护
 
 **GTA 直播流高光片段检测的 Clips Kitty 插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ColinGPT9/Grand-Theft-Auto-6-Clips-Kitty-Plugin 星数(近 10 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 63
-    line [3, 4, 6, 18, 32, 42, 46, 51, 56, 58]
+    title "ColinGPT9/Grand-Theft-Auto-6-Clips-Kitty-Plugin 星数(近 11 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 69
+    line [3, 4, 6, 18, 32, 42, 46, 51, 56, 58, 63]
 ```
 
-2026-11-10 3 → 2026-11-27 58（+55）
+2026-11-10 3 → 2026-11-28 63（+60）
 
 
 ---

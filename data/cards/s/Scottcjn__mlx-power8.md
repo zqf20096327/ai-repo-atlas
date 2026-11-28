@@ -1,6 +1,6 @@
 # Scottcjn/mlx-power8
 
-⭐ 60 · C++ · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/mlx-power8) · [官网](https://rustchain.org) · 组织维护
+⭐ 59 · C++ · Apache-2.0 · 推送 2026-08-06 · [GitHub](https://github.com/Scottcjn/mlx-power8) · [官网](https://rustchain.org) · 组织维护
 
 **将 Apple MLX 移植到 POWER8/x86 Linux 的 SIMD 后端适配层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Scottcjn/mlx-power8 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 59 --> 64
-    line [63, 61, 60]
+    title "Scottcjn/mlx-power8 星数(近 4 点)"
+    x-axis ["2026-10-29", "2026-11-18", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 58 --> 64
+    line [63, 61, 60, 59]
 ```
 
-2026-10-29 63 → 2026-11-27 60（-3）
+2026-10-29 63 → 2026-11-28 59（-4）
 
 
 ---

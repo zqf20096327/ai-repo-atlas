@@ -1,6 +1,6 @@
 # ePlus-DEV/muse-invite-hub
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ePlus-DEV/muse-invite-hub) · [官网](https://muse.eplus.dev/) · 组织维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ePlus-DEV/muse-invite-hub) · [官网](https://muse.eplus.dev/) · 组织维护
 
 **社区共享的 Muse AI 邀请码目录站**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ePlus-DEV/muse-invite-hub 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "ePlus-DEV/muse-invite-hub 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 6
-    line [3, 5]
+    line [3, 5, 5]
 ```
 
-2026-11-26 3 → 2026-11-27 5（+2）
+2026-11-26 3 → 2026-11-28 5（+2）
 
 
 ---

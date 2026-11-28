@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kennydamobd/chatGPT-shell-cli 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "kennydamobd/chatGPT-shell-cli 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 35 --> 51
-    line [50, 36]
+    line [50, 36, 36]
 ```
 
-2026-11-08 50 → 2026-11-27 36（-14）
+2026-11-08 50 → 2026-11-28 36（-14）
 
 
 ---

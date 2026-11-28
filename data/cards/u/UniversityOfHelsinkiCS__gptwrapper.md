@@ -1,6 +1,6 @@
 # UniversityOfHelsinkiCS/gptwrapper
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/UniversityOfHelsinkiCS/gptwrapper) · [官网](https://curre.helsinki.fi/chat) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/UniversityOfHelsinkiCS/gptwrapper) · [官网](https://curre.helsinki.fi/chat) · 组织维护
 
 **赫尔辛基大学师生的教学科研 LLM 聊天应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "UniversityOfHelsinkiCS/gptwrapper 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DarkWorldCoder/market-mirror
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/DarkWorldCoder/market-mirror) · [官网](https://darkworldcoder.github.io/market-mirror/) · 个人维护 · 中文 README
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/DarkWorldCoder/market-mirror) · [官网](https://darkworldcoder.github.io/market-mirror/) · 个人维护 · 中文 README
 
 **自托管的 AI 营销模拟器：用模拟买家预演广告、定价与销售话术**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DarkWorldCoder/market-mirror 星数(近 15 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 21
-    line [3, 4, 5, 6, 7, 9, 10, 3, 13, 15, 16, 18, 19, 20, 20]
+    title "DarkWorldCoder/market-mirror 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-19", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 22
+    line [4, 5, 6, 7, 9, 10, 3, 13, 15, 16, 18, 19, 20, 21]
 ```
 
-2026-10-25 3 → 2026-11-27 20（+17）
+2026-10-26 4 → 2026-11-28 21（+17）
 
 
 ---

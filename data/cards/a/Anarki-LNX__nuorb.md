@@ -1,6 +1,6 @@
 # Anarki-LNX/nuorb
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Anarki-LNX/nuorb) · [官网](https://anarki-lnx.github.io/nuorb/) · 个人维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Anarki-LNX/nuorb) · [官网](https://anarki-lnx.github.io/nuorb/) · 个人维护
 
 **自托管私有 AI 语音助手：Docker 服务器 + Android 应用**
 
@@ -39,6 +39,18 @@
 
 > L10: The NuOrb server is open source. It runs a complete voice assistant on your own hardware: an agent (Hermes Agent),
 > L12: The "brain" is your own Ollama (e.g. a gaming PC), the Claude API, or both with a switch.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Anarki-LNX/nuorb 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

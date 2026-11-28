@@ -1,6 +1,6 @@
 # shyftlabs/continuum
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/shyftlabs/continuum) · [官网](https://docs.continuum.shyftlabs.io/) · 组织维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/shyftlabs/continuum) · [官网](https://docs.continuum.shyftlabs.io/) · 组织维护
 
 **面向开发者的企业级 AI agent 构建与编排运行时框架**
 
@@ -47,12 +47,12 @@ ShyftLabs 维护的 Python 框架（Apache-2.0），用于构建、编排和部�
 ```mermaid
 xychart-beta
     title "shyftlabs/continuum 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-18", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-18", "2026-11-25", "2026-11-28"]
     y-axis "stars" 83 --> 87
     line [84, 85, 84, 85, 86, 86]
 ```
 
-2026-10-25 84 → 2026-11-27 86（+2）
+2026-10-26 84 → 2026-11-28 86（+2）
 
 
 ---

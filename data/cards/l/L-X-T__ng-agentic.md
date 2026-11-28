@@ -1,6 +1,6 @@
 # L-X-T/ng-agentic
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-04 · [GitHub](https://github.com/L-X-T/ng-agentic) · [官网](https://www.angulararchitects.io/blog/ae-harness-setup-for-angular/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/L-X-T/ng-agentic) · [官网](https://www.angulararchitects.io/blog/ae-harness-setup-for-angular/) · 个人维护
 
 **为 Angular 开发者提供 AI 编码就绪的工作区脚手架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "L-X-T/ng-agentic 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-28 10 → 2026-11-27 12（+2）
+2026-10-28 10 → 2026-11-28 12（+2）
 
 
 ---

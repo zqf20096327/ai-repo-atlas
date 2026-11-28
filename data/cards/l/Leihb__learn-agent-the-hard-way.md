@@ -1,6 +1,6 @@
 # Leihb/learn-agent-the-hard-way
 
-⭐ 71 · Go · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/Leihb/learn-agent-the-hard-way) · [官网](https://leihb.com/learn-agent-the-hard-way/) · 个人维护 · 中文 README
+⭐ 72 · Go · NOASSERTION · 推送 2026-09-20 · [GitHub](https://github.com/Leihb/learn-agent-the-hard-way) · [官网](https://leihb.com/learn-agent-the-hard-way/) · 个人维护 · 中文 README
 
 **中文教程电子书：32 个练习亲手写出一个 agent harness**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Leihb/learn-agent-the-hard-way 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 63 --> 72
-    line [64, 67, 68, 69, 70, 71, 71]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 63 --> 73
+    line [64, 67, 68, 69, 70, 71, 72]
 ```
 
-2026-10-25 64 → 2026-11-27 71（+7）
+2026-10-26 64 → 2026-11-28 72（+8）
 
 
 ---

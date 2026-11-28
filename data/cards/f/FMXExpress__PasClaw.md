@@ -1,6 +1,6 @@
 # FMXExpress/PasClaw
 
-⭐ 69 · Pascal · MIT · 推送 2026-11-25 · [GitHub](https://github.com/FMXExpress/PasClaw) · [官网](https://pasclaw.dev/) · 个人维护 · 中文 README
+⭐ 69 · Pascal · MIT · 推送 2026-11-27 · [GitHub](https://github.com/FMXExpress/PasClaw) · [官网](https://pasclaw.dev/) · 个人维护 · 中文 README
 
 **Object Pascal 编写的超轻量个人 AI agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FMXExpress/PasClaw 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-28"]
     y-axis "stars" 63 --> 70
     line [64, 65, 64, 67, 68, 69, 69]
 ```
 
-2026-10-25 64 → 2026-11-27 69（+5）
+2026-10-26 64 → 2026-11-28 69（+5）
 
 
 ---

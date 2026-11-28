@@ -1,6 +1,6 @@
 # arosstale/jobs
 
-⭐ 68 · HTML · 推送 2026-03-17 · [GitHub](https://github.com/arosstale/jobs) · [官网](https://arosstale.github.io/jobs/) · 个人维护
+⭐ 69 · HTML · 推送 2026-03-17 · [GitHub](https://github.com/arosstale/jobs) · [官网](https://arosstale.github.io/jobs/) · 个人维护
 
 **用 BLS 数据与 LLM 评估美国 342 种职业的 AI 暴露度可视化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arosstale/jobs 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-27"]
-    y-axis "stars" 67 --> 69
-    line [68, 68]
+    x-axis ["2026-11-21", "2026-11-28"]
+    y-axis "stars" 67 --> 70
+    line [68, 69]
 ```
 
-2026-11-21 68 → 2026-11-27 68（+0）
+2026-11-21 68 → 2026-11-28 69（+1）
 
 
 ---

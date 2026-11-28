@@ -1,6 +1,6 @@
 # xn1cklas/ai-tools-registry
 
-⭐ 205 · TypeScript · 推送 2025-12-06 · [GitHub](https://github.com/xn1cklas/ai-tools-registry) · [官网](https://ai-tools-registry.vercel.app) · 个人维护
+⭐ 204 · TypeScript · 推送 2025-12-06 · [GitHub](https://github.com/xn1cklas/ai-tools-registry) · [官网](https://ai-tools-registry.vercel.app) · 个人维护
 
 **基于 shadcn CLI 分发 Vercel AI SDK 工具的注册表**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "xn1cklas/ai-tools-registry 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-12", "2026-11-27"]
-    y-axis "stars" 204 --> 208
-    line [206, 207, 206, 205, 205]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-12", "2026-11-28"]
+    y-axis "stars" 203 --> 208
+    line [206, 207, 206, 205, 204]
 ```
 
-2026-10-25 206 → 2026-11-27 205（-1）
+2026-10-26 206 → 2026-11-28 204（-2）
 
 
 ---

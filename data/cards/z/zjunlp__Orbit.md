@@ -1,6 +1,6 @@
 # zjunlp/Orbit
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/zjunlp/Orbit) · 组织维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zjunlp/Orbit) · 组织维护 · 中文 README
 
 **给 AI agent 用的实验基础设施：执行、记录、评测实验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zjunlp/Orbit 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-16", "2026-11-21", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-21", "2026-11-28"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-25 15 → 2026-11-27 17（+2）
+2026-10-26 15 → 2026-11-28 17（+2）
 
 
 ---

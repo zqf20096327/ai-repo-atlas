@@ -1,6 +1,6 @@
 # BartWaardenburg/recraft-mcp-server
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/BartWaardenburg/recraft-mcp-server) · [官网](https://www.npmjs.com/package/recraft-mcp) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/BartWaardenburg/recraft-mcp-server) · [官网](https://www.npmjs.com/package/recraft-mcp) · 个人维护
 
 **给 MCP 客户端接入 Recraft 图像生成与处理 API 的服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BartWaardenburg/recraft-mcp-server 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

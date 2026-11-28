@@ -1,6 +1,6 @@
 # software-mansion-labs/executorch-export-recipes
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/software-mansion-labs/executorch-export-recipes) · [官网](https://executorch.swmansion.com) · 组织维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/software-mansion-labs/executorch-export-recipes) · [官网](https://executorch.swmansion.com) · 组织维护
 
 **为开发者提供面向 ExecuTorch 的模型导出、验证与优化的配方集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "software-mansion-labs/executorch-export-recipes 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-27"]
+    x-axis ["2026-11-12", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-27 3（+0）
+2026-11-12 3 → 2026-11-28 3（+0）
 
 
 ---

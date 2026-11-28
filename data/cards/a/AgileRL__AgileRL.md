@@ -1,10 +1,10 @@
 # AgileRL/AgileRL
 
-⭐ 974 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AgileRL/AgileRL) · [官网](https://agilerl.com) · 组织维护
+⭐ 974 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/AgileRL/AgileRL) · [官网](https://agilerl.com) · 组织维护
 
-**LLM 后训练与强化学习训练库：SFT/DPO/多轮 agentic RL 一体化**
+**LLM 后训练平台 Arena 的 CLI 与 Python SDK**
 
-一个覆盖 LLM 后训练全流程与经典深度 RL 的 Python 库：从监督微调（SFT）、偏好优化（DPO）到多轮 agentic RL（GRPO/CISPO/GSPO/PPO/REINFORCE），内置进化式超参数优化；同时支持单智能体、多智能体、离线 RL 与上下文多臂老虎机。支持 LoRA/QLoRA、torchrun 并行（数据并行/FSDP2）、vLLM 快速 rollout，训练通过 YAML manifest 或 Python API 发起。面向需要训练和部署模型的研究者与开发者。
+agilerl 是 AgileRL 后训练平台 Arena 的命令行工具与 Python SDK：将开放权重 LLM/VLM 经 SFT、偏好微调、教师模型蒸馏、单轮与多轮强化学习训练为任务专用 agent，并部署推理。用户以 YAML manifest 描述实验并经 git 管理，平台自动决定训练配置与 GPU 资源，支持上传自有数据集与 Python 环境代码（兼容 OpenEnv reset/step API）。需登录平台使用，训练在平台 GPU 或用户自有集群上进行。
 
 ## 筛选速览
 
@@ -13,47 +13,46 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | `cpu-ok` | |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 模型依赖 | — | README 未给出锁定关系 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- LLM 后训练全流程：SFT、DPO 及五种 RL 算法（GRPO/CISPO/GSPO/PPO/REINFORCE）
-- 进化式 HPO 在单次训练中自我调节学习率、KL 惩罚等超参数
-- torchrun 启动的数据并行/FSDP2 分布式训练，vLLM 生成 rollout
-- 训练流程以 YAML manifest 表达，可由编码 agent 自行校验并提交运行
+- 覆盖 SFT、偏好微调、蒸馏、单/多轮 RL 的后训练流程
+- YAML manifest 实验即代码，配合 git 管理
+- arena memory estimate 提供训练前显存估算
+- 兼容 OpenEnv reset/step API 的环境上传
 
 ## 适用场景
 
-- 对开源权重 LLM 做多轮 agentic RL 后训练
-- 用进化式 HPO 替代多次网格/贝叶斯调参试验
-- 在 Gymnasium/PettingZoo 环境上训练单/多智能体策略
-- 训练后部署 checkpoint 并通过 CLI 对话验证
+- 在自己的数据集上后训练开放权重模型为领域 agent
+- 多轮强化学习训练使用工具调用的对话 agent
+- 提交训练前先估算显存与可训练的最长上下文
 
 ## 场景标签
 
-`强化学习` `微调` `多智能体` · 领域:Agent 开发
+`微调` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L13: AgileRL takes an open-weights LLM from supervised fine-tuning through preference tuning to multi-turn agentic RL, i
-> L19: - **The whole pipeline.** SFT and DPO, then RL with GRPO, CISPO, GSPO, REINFORCE or PPO.
-> L22: - **Torch-native parallelism.** Data parallel or FSDP2 sharding, launched with `torchrun`. One `FSDPConfig` works f
+> L5: `agilerl` is the command-line tool and Python SDK for Arena, AgileRL's post-training platform.
+> L9: Arena turns open-weight LLMs and VLMs into task-specific agents. It covers supervised fine-tuning, preference tuning
+> L11: You don't tune the infrastructure. Arena sizes every job itself, working out the most efficient training setup for 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "AgileRL/AgileRL 星数(近 16 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
+    title "AgileRL/AgileRL 星数(近 17 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27", "2026-11-28"]
     y-axis "stars" 958 --> 975
-    line [959, 960, 961, 962, 959, 966, 967, 968, 967, 969, 970, 971, 970, 971, 973, 974]
+    line [959, 960, 961, 962, 959, 966, 967, 968, 967, 969, 970, 971, 970, 971, 973, 974, 974]
 ```
 
-2026-10-25 959 → 2026-11-27 974（+15）
+2026-10-26 959 → 2026-11-28 974（+15）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a0cd2921b8f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `3010c2fa278b` · [字段定义](../../DATASET.md)*

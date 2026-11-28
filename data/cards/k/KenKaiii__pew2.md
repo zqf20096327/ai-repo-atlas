@@ -1,6 +1,6 @@
 # KenKaiii/pew2
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/KenKaiii/pew2) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/KenKaiii/pew2) · [官网](https://www.kenkais.com) · 个人维护
 
 **用手机远程对话与审批本机编程 agent 的客户端**
 
@@ -45,12 +45,12 @@ pew2 由手机 App 和电脑端守护进程两部分组成：电脑上运行一�
 ```mermaid
 xychart-beta
     title "KenKaiii/pew2 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-01", "2026-11-10", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-01 10 → 2026-11-27 11（+1）
+2026-11-01 10 → 2026-11-28 11（+1）
 
 
 ---

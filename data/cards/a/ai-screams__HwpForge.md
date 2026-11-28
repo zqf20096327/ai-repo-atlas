@@ -1,6 +1,6 @@
 # ai-screams/HwpForge
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ai-screams/HwpForge) · [官网](https://ai-scream.ai/HwpForge/) · 组织维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/ai-screams/HwpForge) · [官网](https://ai-scream.ai/HwpForge/) · 组织维护
 
 **Rust 库：编程读写/转换韩文 HWP/HWPX 文档，含 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-screams/HwpForge 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Sapienza 大学计算机系 Applied Computer Science and Artificial Intelligence
 ```mermaid
 xychart-beta
     title "iacopomasi/AI-ML-Unit-2 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-25 50 → 2026-11-27 50（+0）
+2026-10-26 50 → 2026-11-28 50（+0）
 
 
 ---

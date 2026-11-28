@@ -1,6 +1,6 @@
 # kingjones30/superroc
 
-⭐ 5 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kingjones30/superroc) · [官网](https://kingjones30.github.io/superroc/) · 个人维护
+⭐ 5 · C++ · MIT · 推送 2026-11-27 · [GitHub](https://github.com/kingjones30/superroc) · [官网](https://kingjones30.github.io/superroc/) · 个人维护
 
 **面向 AMD Strix Halo 的本地 LLM 推理引擎与服务器**
 
@@ -46,12 +46,12 @@ Super Roc 是一个针对 AMD Strix Halo（Ryzen AI Max+ 395，gfx1151 GPU，最
 ```mermaid
 xychart-beta
     title "kingjones30/superroc 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-25 4 → 2026-11-27 5（+1）
+2026-11-25 4 → 2026-11-28 5（+1）
 
 
 ---

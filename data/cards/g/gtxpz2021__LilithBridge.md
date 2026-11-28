@@ -1,6 +1,6 @@
 # gtxpz2021/LilithBridge
 
-⭐ 4 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gtxpz2021/LilithBridge) · 个人维护 · 中文 README
+⭐ 5 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/gtxpz2021/LilithBridge) · 个人维护 · 中文 README
 
 **《不/存在的莉莉丝》桌宠游戏的 LLM 伴侣 MOD，带长期记忆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gtxpz2021/LilithBridge 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-23", "2026-11-28"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-23 4 → 2026-11-27 4（+0）
+2026-11-23 4 → 2026-11-28 5（+1）
 
 
 ---

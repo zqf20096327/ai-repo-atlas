@@ -1,6 +1,6 @@
 # microsoft/AKS-Lab-GitHubCopilot
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/AKS-Lab-GitHubCopilot) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/AKS-Lab-GitHubCopilot) · 组织维护
 
 **用 6 个 Copilot 编码代理构建的多代理零售供应链实验教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/AKS-Lab-GitHubCopilot 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-27"]
+    x-axis ["2026-10-28", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-28 10 → 2026-11-27 10（+0）
+2026-10-28 10 → 2026-11-28 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Haruno19/kuri
 
-⭐ 3 · Swift · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Haruno19/kuri) · 个人维护
+⭐ 3 · Swift · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Haruno19/kuri) · 个人维护
 
 **macOS 原生本地优先 LLM 客户端：对话、思考并在沙盒中执行操作**
 
@@ -40,6 +40,18 @@
 > L5: A lightweight, macOS native, human-designed & Claude-coded app for working with language models, that can chat, thin
 > L7: Kuri runs offline with local models, talks to any hosted provider when you want it to, discovers MCP servers at runt
 > L15: - **Local-first.** Works with no network. Hosted providers are opt-in.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Haruno19/kuri 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Rust 编写的 CLI 工具，读取 Claude Code 的 .jsonl 会话转录文件，�
 ```mermaid
 xychart-beta
     title "Manavarya09/relay 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-25 41 → 2026-11-27 41（+0）
+2026-10-26 41 → 2026-11-28 41（+0）
 
 
 ---

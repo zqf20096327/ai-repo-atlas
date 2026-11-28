@@ -1,6 +1,6 @@
 # google-marketing-solutions/scene-machine
 
-⭐ 47 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/google-marketing-solutions/scene-machine) · 组织维护
+⭐ 47 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/google-marketing-solutions/scene-machine) · 组织维护
 
 **面向广告创意团队的 Google Cloud 故事板驱动 AI 视频广告生成工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "google-marketing-solutions/scene-machine 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-16", "2026-11-26", "2026-11-28"]
     y-axis "stars" 41 --> 48
     line [42, 45, 46, 47, 47]
 ```
 
-2026-10-25 42 → 2026-11-27 47（+5）
+2026-10-26 42 → 2026-11-28 47（+5）
 
 
 ---

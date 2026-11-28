@@ -1,6 +1,6 @@
 # AryamanSi17/synthetic-consumer-research
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AryamanSi17/synthetic-consumer-research) · [官网](https://synthetic.aryaman.club) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AryamanSi17/synthetic-consumer-research) · [官网](https://synthetic.aryaman.club) · 个人维护
 
 **面向产品人的 LLM 合成消费者调研 Agent Skill（SSR 评分）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AryamanSi17/synthetic-consumer-research 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 3 --> 6
-    line [4, 5]
+    title "AryamanSi17/synthetic-consumer-research 星数(近 3 点)"
+    x-axis ["2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-25 4 → 2026-11-27 5（+1）
+2026-11-25 4 → 2026-11-28 6（+2）
 
 
 ---

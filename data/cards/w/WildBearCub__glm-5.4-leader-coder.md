@@ -1,6 +1,6 @@
 # WildBearCub/glm-5.4-leader-coder
 
-⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/WildBearCub/glm-5.4-leader-coder) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/WildBearCub/glm-5.4-leader-coder) · 个人维护 · 中文 README
 
 **给 GLM-5.4 编码会话用的 Leader+Coder 双模型子智能体分工方案**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WildBearCub/glm-5.4-leader-coder 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "WildBearCub/glm-5.4-leader-coder 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 4（+1）
 
 
 ---

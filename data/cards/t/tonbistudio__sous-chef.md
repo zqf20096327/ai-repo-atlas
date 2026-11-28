@@ -1,6 +1,6 @@
 # tonbistudio/sous-chef
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tonbistudio/sous-chef) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tonbistudio/sous-chef) · 个人维护
 
 **面向长屏录像的本地视频编辑器，AI 代理代做粗剪**
 
@@ -41,6 +41,18 @@
 > L3: A local video editor where an AI agent does most of the edit. Built for long-form
 > L4: screen recordings (tutorials, demos): the agent transcribes, cuts flubbed lines and
 > L79:  itself). The manual editor works without it.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tonbistudio/sous-chef 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

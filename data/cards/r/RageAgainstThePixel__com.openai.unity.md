@@ -1,6 +1,6 @@
 # RageAgainstThePixel/com.openai.unity
 
-⭐ 598 · C# · MIT · 推送 2026-11-01 · [GitHub](https://github.com/RageAgainstThePixel/com.openai.unity) · [官网](https://openai.com) · 个人维护
+⭐ 597 · C# · MIT · 推送 2026-11-01 · [GitHub](https://github.com/RageAgainstThePixel/com.openai.unity) · [官网](https://openai.com) · 个人维护
 
 **供 Unity 开发者调用 OpenAI REST API 的非官方客户端库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RageAgainstThePixel/com.openai.unity 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 597 --> 599
-    line [598, 598]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 596 --> 599
+    line [598, 597]
 ```
 
-2026-10-25 598 → 2026-11-27 598（+0）
+2026-10-26 598 → 2026-11-28 597（-1）
 
 
 ---

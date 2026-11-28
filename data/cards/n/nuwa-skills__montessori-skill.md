@@ -1,6 +1,6 @@
 # nuwa-skills/montessori-skill
 
-⭐ 81 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nuwa-skills/montessori-skill) · 组织维护 · 中文 README
+⭐ 82 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/nuwa-skills/montessori-skill) · 组织维护 · 中文 README
 
 **让 AI 以蒙特梭利教育视角回应育儿问题的 agent 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nuwa-skills/montessori-skill 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 76 --> 82
-    line [77, 78, 79, 77, 80, 81, 81]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 76 --> 83
+    line [77, 78, 79, 77, 80, 81, 82]
 ```
 
-2026-10-25 77 → 2026-11-27 81（+4）
+2026-10-26 77 → 2026-11-28 82（+5）
 
 
 ---

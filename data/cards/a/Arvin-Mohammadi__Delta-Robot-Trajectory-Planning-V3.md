@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Arvin-Mohammadi/Delta-Robot-Trajectory-Planning-V3 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "Arvin-Mohammadi/Delta-Robot-Trajectory-Planning-V3 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-11-26 14 → 2026-11-27 15（+1）
+2026-11-26 14 → 2026-11-28 15（+1）
 
 
 ---

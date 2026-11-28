@@ -1,6 +1,6 @@
 # Shizoqua/hermes-scout
 
-⭐ 4 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Shizoqua/hermes-scout) · [官网](https://shizoqua.github.io/hermes-scout/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Shizoqua/hermes-scout) · [官网](https://shizoqua.github.io/hermes-scout/) · 个人维护
 
 **本地文件语义+关键词混合搜索工具，Hermes 插件与 CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Shizoqua/hermes-scout 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-25", "2026-11-28"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-25 4 → 2026-11-27 4（+0）
+2026-11-25 4 → 2026-11-28 5（+1）
 
 
 ---

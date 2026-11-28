@@ -1,6 +1,6 @@
 # lvndry/jazz
 
-⭐ 55 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lvndry/jazz) · [官网](https://lvndry.github.io/jazz/) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lvndry/jazz) · [官网](https://lvndry.github.io/jazz/) · 个人维护
 
 **TypeScript agent harness：用 JSON 定义 agent 并在终端/脚本/聊天平台运行**
 
@@ -45,12 +45,12 @@ Jazz 是用 Effect/TypeScript 编写的 agent harness，提供运行循环、护
 ```mermaid
 xychart-beta
     title "lvndry/jazz 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56]
 ```
 
-2026-10-25 54 → 2026-11-27 55（+1）
+2026-10-26 54 → 2026-11-28 56（+2）
 
 
 ---

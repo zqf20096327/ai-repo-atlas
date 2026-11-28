@@ -1,6 +1,6 @@
 # authzed/openagentprimitives
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/authzed/openagentprimitives) · [官网](openap.org) · 组织维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/authzed/openagentprimitives) · [官网](openap.org) · 组织维护
 
 **企业 AI agent 安全运行框架：动作级授权与提示注入防护**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "authzed/openagentprimitives 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    title "authzed/openagentprimitives 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 17
-    line [10, 11, 14, 10, 14, 15, 16]
+    line [10, 11, 14, 10, 14, 15, 16, 16]
 ```
 
-2026-10-25 10 → 2026-11-27 16（+6）
+2026-10-26 10 → 2026-11-28 16（+6）
 
 
 ---

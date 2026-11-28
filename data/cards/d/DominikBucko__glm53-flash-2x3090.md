@@ -1,6 +1,6 @@
 # DominikBucko/glm53-flash-2x3090
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/DominikBucko/glm53-flash-2x3090) · [官网](https://huggingface.co/albucino/GLM-5.3-Flash-EXL3-3.05bpw) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 2×RTX 3090 上运行 GLM-5.3-Flash 的本地推理运行时**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

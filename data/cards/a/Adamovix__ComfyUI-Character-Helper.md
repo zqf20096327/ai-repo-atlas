@@ -1,6 +1,6 @@
 # Adamovix/ComfyUI-Character-Helper
 
-⭐ 33 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Adamovix/ComfyUI-Character-Helper) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Adamovix/ComfyUI-Character-Helper) · 个人维护
 
 **ComfyUI 自定义节点：用 Danbooru 标签构建角色一致性提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Adamovix/ComfyUI-Character-Helper 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 14 --> 34
-    line [15, 28, 30, 33, 33]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 14 --> 35
+    line [15, 28, 30, 33, 34]
 ```
 
-2026-11-20 15 → 2026-11-27 33（+18）
+2026-11-20 15 → 2026-11-28 34（+19）
 
 
 ---

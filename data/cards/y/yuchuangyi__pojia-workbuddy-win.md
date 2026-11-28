@@ -1,6 +1,6 @@
 # yuchuangyi/pojia-workbuddy-win
 
-⭐ 4 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yuchuangyi/pojia-workbuddy-win) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/yuchuangyi/pojia-workbuddy-win) · 个人维护 · 中文 README
 
 **给 WorkBuddy Windows 版装载提示词层的脚本工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuchuangyi/pojia-workbuddy-win 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-11 3 → 2026-11-27 4（+1）
+2026-11-11 3 → 2026-11-28 4（+1）
 
 
 ---

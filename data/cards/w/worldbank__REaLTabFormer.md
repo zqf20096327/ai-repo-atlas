@@ -1,6 +1,6 @@
 # worldbank/REaLTabFormer
 
-⭐ 248 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/worldbank/REaLTabFormer) · [官网](https://worldbank.github.io/REaLTabFormer/) · 组织维护
+⭐ 247 · Jupyter Notebook · MIT · 推送 2026-01-04 · [GitHub](https://github.com/worldbank/REaLTabFormer) · [官网](https://worldbank.github.io/REaLTabFormer/) · 组织维护
 
 **用 Transformer 生成表格与关系型合成数据的模型套件**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "worldbank/REaLTabFormer 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "worldbank/REaLTabFormer 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 245 --> 249
-    line [246, 247, 246, 248, 248]
+    line [247, 246, 248, 247]
 ```
 
-2026-10-25 246 → 2026-11-27 248（+2）
+2026-10-26 247 → 2026-11-28 247（+0）
 
 
 ---

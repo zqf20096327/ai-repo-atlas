@@ -43,12 +43,12 @@ lucidrains 的实验性研究仓库（wip），探索以 Transformer 结合强�
 ```mermaid
 xychart-beta
     title "lucidrains/transformer-directed-evolution 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-25 72 → 2026-11-27 72（+0）
+2026-10-26 72 → 2026-11-28 72（+0）
 
 
 ---

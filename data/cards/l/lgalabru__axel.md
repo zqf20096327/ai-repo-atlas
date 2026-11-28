@@ -1,10 +1,10 @@
 # lgalabru/axel
 
-⭐ 328 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lgalabru/axel) · [官网](https://axel.md) · 个人维护
+⭐ 329 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/lgalabru/axel) · [官网](https://axel.md) · 个人维护
 
-**终端里的 AI 编码 Agent 编排工具：线程、命名 Agent 与远端主机**
+**终端里的多 Agent 编排工具：线程化驱动编码 Agent**
 
-Axel 是面向 Rex 终端的 Agent 编排程序：以线程为单位组织任务，线程以签名事件记录、可跨机器合并续接；支持创建多个命名 Agent，各自持有 Ed25519 密钥、权限、预算与技能集。它通过 Agent Client Protocol 驱动 Claude Code、Codex 等多种编码 Agent harness（内置适配器无需 Node），并提供守卫机制拒绝不可逆命令、按 Agent 限制预算。安装依赖 Rex 终端与所选 harness；提供 curl 脚本、Homebrew、Nix 三种安装方式。
+面向在终端使用编码 Agent 的开发者：以「线程」为单位组织任务意图与执行记录，线程独立于进程、窗口与机器存在，以签名事件在其他机器间合并。可创建多个具名 Agent，各自拥有 Ed25519 密钥、权限、预算与技能集，在线程中互相移交 diff 协作。通过 ACP 协议以内置适配器驱动 Claude Code 与 Codex，其余 harness 经各自 ACP 模式接入；默认自动执行但拦截不可逆命令并按预算封顶。安装脚本、Homebrew、Nix 三种途径，需搭配 Rex 终端与至少一个 harness 使用。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Axel 是面向 Rex 终端的 Agent 编排程序：以线程为单位组织任务
 
 ## 能力要点
 
-- 线程持久化：签名事件存储，跨机器合并、合盖后继续运行
-- 命名 Agent 各自拥有密钥、权限、预算与独立技能集
-- 经 ACP 协议驱动 Claude Code、Codex，另支持 OpenCode/Goose/Cursor 等多种 harness
-- 守卫拒绝不可逆命令，按 Agent 设置支出预算
+- 线程跨进程、跨机器持久存在，以签名事件合并
+- 具名 Agent 各有独立密钥、权限、预算与技能加载
+- 经 ACP 协议驱动 Claude Code/Codex，状态来自 hooks 与协议而非屏幕抓取
+- AXEL.md 单文件统一下发给所有 harness 的上下文与技能
 
 ## 适用场景
 
-- 在一个终端里同时运行多个编码 Agent 并让它们互相交接（构建+评审）
-- 在远程主机上运行 Agent，密钥保留在本机
-- 为不同 Agent 分配不同模型与技能分工
+- 让一个 Agent 写代码、另一个用不同模型审查 diff
+- 在笔记本合盖后于其他机器继续未完成的 Agent 任务
+- 将 Agent 分配到 tailnet 中的远程主机运行且密钥不出本机
 
 ## 场景标签
 
-`编码 Agent` `多智能体` `Agent 框架` · 领域:Agent 开发
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L8:  Agent orchestration, designed for Rex.
-> L54: ### 🤖 Claude Code, Codex, OpenCode, Goose, Cursor and more
 > L57: `codex`, `goose`, `cursor/sonnet`. Axel drives Claude Code and Codex over the Agent Client
+> L114: You'll need Rex and a harness:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "lgalabru/axel 星数(近 15 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 196 --> 340
-    line [208, 222, 233, 248, 266, 282, 286, 305, 313, 316, 318, 322, 325, 327, 328]
+    title "lgalabru/axel 星数(近 16 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 196 --> 341
+    line [208, 222, 233, 248, 266, 282, 286, 305, 313, 316, 318, 322, 325, 327, 328, 329]
 ```
 
-2026-11-02 208 → 2026-11-27 328（+120）
+2026-11-02 208 → 2026-11-28 329（+121）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `983d1c9c4a7a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `cfc5a53f3b4a` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ AI Career Curriculum 生态下的 ML Platform Engineer 学习仓库：提供 8-1
 ```mermaid
 xychart-beta
     title "ai-infra-curriculum/ai-infra-ml-platform-learning 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 16（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SilentProgrammer-max/AI-Powered-Resume-Analyzer
 
-⭐ 10 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SilentProgrammer-max/AI-Powered-Resume-Analyzer) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-20 · [GitHub](https://github.com/SilentProgrammer-max/AI-Powered-Resume-Analyzer) · 个人维护
 
 **面向求职者的简历分析与岗位匹配工具**
 
@@ -39,6 +39,18 @@
 
 > L5: This project aims to build an AI-powered resume analyzer that evaluates resumes and provides suggestions for improve
 > L35: - Upload resume files in various formats (PDF, DOCX).
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SilentProgrammer-max/AI-Powered-Resume-Analyzer 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-27 10 → 2026-11-28 11（+1）
 
 
 ---

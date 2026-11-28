@@ -38,6 +38,18 @@ DasLearning 的官方仓库，用于存放 daslearning.in 视频及 DIY-Try 频�
 > L1: # Official Repo of DasLearning
 > L2: This repo will contain the codes for daslearning.in videos & Codes for my DIY-Try channel. The GitHub Org is domain 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "daslearning-org/devops-youtube 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `a7d08bd108b7` · [字段定义](../../DATASET.md)*

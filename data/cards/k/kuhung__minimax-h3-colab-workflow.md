@@ -41,6 +41,18 @@
 > L3: **Run MiniMax H3 (Video + 32kHz Stereo Audio) & MiniMax-H3-Image locally on a single Google Colab L4 24GB GPU — usin
 > L37: |**H3-Image Gen & Edit (`v4.0`)**|2048×2048 text-to-image and instruction editing via `sd-cli`|Open in Colab|Pre-ru
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kuhung/minimax-h3-colab-workflow 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7fda32a659aa` · [字段定义](../../DATASET.md)*

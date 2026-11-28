@@ -1,6 +1,6 @@
 # KrasimirKralev/harvest-hollow
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/KrasimirKralev/harvest-hollow) · [官网](https://krasimirkralev.github.io/harvest-hollow/) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/KrasimirKralev/harvest-hollow) · [官网](https://krasimirkralev.github.io/harvest-hollow/) · 个人维护
 
 **双人合作的浏览器 3D 农场游戏，附 AI 愿望改模助手**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "KrasimirKralev/harvest-hollow 星数(近 10 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 3 --> 18
-    line [4, 7, 8, 10, 11, 14, 15, 16, 17, 17]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 3 --> 19
+    line [4, 7, 8, 10, 11, 14, 15, 16, 17, 18]
 ```
 
-2026-10-29 4 → 2026-11-27 17（+13）
+2026-10-29 4 → 2026-11-28 18（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # easystats/performance
 
-⭐ 1,161 · R · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/easystats/performance) · [官网](https://easystats.github.io/performance/) · 组织维护
+⭐ 1,161 · R · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/easystats/performance) · [官网](https://easystats.github.io/performance/) · 组织维护
 
 **R 包：统一计算回归模型质量与拟合指标**
 
@@ -45,12 +45,12 @@ easystats 生态中的 R 包，把分散在各包中的模型质量评估功能�
 ```mermaid
 xychart-beta
     title "easystats/performance 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 1159 --> 1163
     line [1162, 1161, 1160, 1161, 1161]
 ```
 
-2026-10-25 1,162 → 2026-11-27 1,161（-1）
+2026-10-26 1,162 → 2026-11-28 1,161（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # rohitaryal/imageFX-api
 
-⭐ 134 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/rohitaryal/imageFX-api) · [官网](https://imagefx.rohitsharma.com.np/) · 个人维护
+⭐ 135 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/rohitaryal/imageFX-api) · [官网](https://imagefx.rohitsharma.com.np/) · 个人维护
 
 **非官方逆向的 Google ImageFX (Imagen) 图像生成 API 封装**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rohitaryal/imageFX-api 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 132 --> 135
-    line [133, 134, 133, 134, 134]
+    title "rohitaryal/imageFX-api 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 132 --> 136
+    line [134, 133, 134, 135]
 ```
 
-2026-10-25 133 → 2026-11-27 134（+1）
+2026-10-26 134 → 2026-11-28 135（+1）
 
 
 ---

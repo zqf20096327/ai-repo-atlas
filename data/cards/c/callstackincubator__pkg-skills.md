@@ -1,6 +1,6 @@
 # callstackincubator/pkg-skills
 
-⭐ 21 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/callstackincubator/pkg-skills) · 组织维护
+⭐ 21 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/callstackincubator/pkg-skills) · 组织维护
 
 **按项目依赖推荐并管理 React Native agent 技能的 CLI**
 
@@ -45,12 +45,12 @@ Callstack 维护的 npm CLI：递归扫描项目下所有 package.json，将发�
 ```mermaid
 xychart-beta
     title "callstackincubator/pkg-skills 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 19 --> 22
     line [20, 21, 20, 21, 21]
 ```
 
-2026-10-25 20 → 2026-11-27 21（+1）
+2026-10-26 20 → 2026-11-28 21（+1）
 
 
 ---

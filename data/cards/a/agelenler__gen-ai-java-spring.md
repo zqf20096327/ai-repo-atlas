@@ -40,6 +40,18 @@ Udemy 课程《Complete GenAI with Java & Spring AI》的配套源码仓库，�
 > L3: Code repository for "Complete GenAI with Java & Spring AI: LLMs, RAG, AI Agents" Udemy course,
 > L4: demonstrating Gen AI features with Java and Spring Boot.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "agelenler/gen-ai-java-spring 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-27 19 → 2026-11-28 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `118640ea174b` · [字段定义](../../DATASET.md)*

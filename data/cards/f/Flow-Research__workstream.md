@@ -1,6 +1,6 @@
 # Flow-Research/workstream
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Flow-Research/workstream) · 组织维护
+⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Flow-Research/workstream) · 组织维护
 
 **管理并核验人类与 AI agent 工作成果的贡献治理基础设施**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Flow-Research/workstream 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-20", "2026-11-28"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-25 14 → 2026-11-27 15（+1）
+2026-10-26 14 → 2026-11-28 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xianyu110/openclaw-Antigravity
 
-⭐ 10 · 推送 2026-02-05 · [GitHub](https://github.com/xianyu110/openclaw-Antigravity) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **OpenClaw+Antigravity 组合配置教程：本地代理接入多模型**
 

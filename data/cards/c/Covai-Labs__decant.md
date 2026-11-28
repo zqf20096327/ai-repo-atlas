@@ -1,6 +1,6 @@
 # Covai-Labs/decant
 
-⭐ 10 · JavaScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/Covai-Labs/decant) · [官网](http://decant.js.org/) · 组织维护
+⭐ 10 · JavaScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Covai-Labs/decant) · [官网](http://decant.js.org/) · 组织维护
 
 **AI 对话与网页文章的共享提取解析层，供开发者复用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Covai-Labs/decant 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-27"]
+    x-axis ["2026-11-12", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-12 10 → 2026-11-27 10（+0）
+2026-11-12 10 → 2026-11-28 10（+0）
 
 
 ---

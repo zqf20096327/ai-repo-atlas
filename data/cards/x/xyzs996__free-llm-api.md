@@ -1,6 +1,6 @@
 # xyzs996/free-llm-api
 
-⭐ 16 · JavaScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/xyzs996/free-llm-api) · [官网](https://xyzs996.github.io/free-llm-api/) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-08-23 · [GitHub](https://github.com/xyzs996/free-llm-api) · [官网](https://xyzs996.github.io/free-llm-api/) · 个人维护 · 中文 README
 
 **免费 LLM API 提供商目录：核验免费额度与端点信息**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xyzs996/free-llm-api 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 12 --> 17
-    line [14, 13, 14, 15, 14, 15, 16, 16]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 12 --> 18
+    line [14, 13, 14, 15, 14, 15, 16, 17]
 ```
 
-2026-10-25 14 → 2026-11-27 16（+2）
+2026-10-26 14 → 2026-11-28 17（+3）
 
 
 ---

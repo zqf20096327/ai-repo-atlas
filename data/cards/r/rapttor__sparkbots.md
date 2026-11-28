@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rapttor/sparkbots 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "rapttor/sparkbots 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 6 --> 9
-    line [7, 8]
+    line [7, 8, 8]
 ```
 
-2026-11-26 7 → 2026-11-27 8（+1）
+2026-11-26 7 → 2026-11-28 8（+1）
 
 
 ---

@@ -45,12 +45,12 @@ SEPIA Framework 的核心服务端，作为助手的"大脑"通过 RESTful Assis
 ```mermaid
 xychart-beta
     title "SEPIA-Framework/sepia-assist-server 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-25 101 → 2026-11-27 101（+0）
+2026-10-26 101 → 2026-11-28 101（+0）
 
 
 ---

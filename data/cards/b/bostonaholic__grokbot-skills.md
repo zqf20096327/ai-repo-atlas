@@ -1,6 +1,6 @@
 # bostonaholic/grokbot-skills
 
-⭐ 4 · Shell · 推送 2026-11-24 · [GitHub](https://github.com/bostonaholic/grokbot-skills) · 个人维护
+⭐ 5 · Shell · 推送 2026-11-24 · [GitHub](https://github.com/bostonaholic/grokbot-skills) · 个人维护
 
 **面向 Grok Bot 与 Cursor agent 的可复用技能手册集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bostonaholic/grokbot-skills 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-21 3 → 2026-11-27 4（+1）
+2026-11-21 3 → 2026-11-28 5（+2）
 
 
 ---

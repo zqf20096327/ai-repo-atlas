@@ -1,6 +1,6 @@
 # KomorGiaoGiao/FirstCoder
 
-⭐ 245 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/KomorGiaoGiao/FirstCoder) · [官网](https://komorgiaogiao.github.io/FirstCoder/) · 个人维护 · 中文 README
+⭐ 246 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/KomorGiaoGiao/FirstCoder) · [官网](https://komorgiaogiao.github.io/FirstCoder/) · 个人维护 · 中文 README
 
 **本地 Python 编码 Agent：可日常使用且代码可通读**
 
@@ -45,12 +45,12 @@ FirstCoder 是一个本地运行的 Python 编码 Agent，提供 Textual TUI、�
 ```mermaid
 xychart-beta
     title "KomorGiaoGiao/FirstCoder 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 228 --> 246
-    line [229, 230, 232, 233, 235, 229, 239, 240, 242, 243, 244, 245]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 228 --> 247
+    line [230, 232, 233, 235, 229, 239, 240, 242, 243, 244, 245, 246]
 ```
 
-2026-10-25 229 → 2026-11-27 245（+16）
+2026-10-26 230 → 2026-11-28 246（+16）
 
 
 ---

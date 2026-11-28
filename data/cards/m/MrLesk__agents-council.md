@@ -1,6 +1,6 @@
 # MrLesk/agents-council
 
-⭐ 75 · TypeScript · MIT · 推送 2026-02-22 · [GitHub](https://github.com/MrLesk/agents-council) · [官网](https://agents-council.com) · 个人维护
+⭐ 76 · TypeScript · MIT · 推送 2026-02-22 · [GitHub](https://github.com/MrLesk/agents-council) · [官网](https://agents-council.com) · 个人维护
 
 **让多个 AI Agent 会话通过 MCP 互相协作讨论的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MrLesk/agents-council 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 72 --> 76
-    line [73, 75, 75]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 72 --> 77
+    line [73, 75, 76]
 ```
 
-2026-10-25 73 → 2026-11-27 75（+2）
+2026-10-26 73 → 2026-11-28 76（+3）
 
 
 ---

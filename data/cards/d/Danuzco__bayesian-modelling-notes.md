@@ -1,6 +1,6 @@
 # Danuzco/bayesian-modelling-notes
 
-⭐ 56 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Danuzco/bayesian-modelling-notes) · [官网](https://doctoradoia.cl/cuerpo-academico/daniel-uzcategui/) · 个人维护
+⭐ 57 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Danuzco/bayesian-modelling-notes) · [官网](https://doctoradoia.cl/cuerpo-academico/daniel-uzcategui/) · 个人维护
 
 **智利博士课程的贝叶斯建模讲义与 Jupyter 代码集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Danuzco/bayesian-modelling-notes 星数(近 7 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 38 --> 57
-    line [39, 52, 53, 54, 55, 56, 56]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 38 --> 58
+    line [39, 52, 53, 54, 55, 56, 57]
 ```
 
-2026-11-15 39 → 2026-11-27 56（+17）
+2026-11-15 39 → 2026-11-28 57（+18）
 
 
 ---

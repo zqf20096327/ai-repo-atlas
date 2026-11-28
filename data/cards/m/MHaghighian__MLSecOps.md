@@ -1,6 +1,6 @@
 # MHaghighian/MLSecOps
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/MHaghighian/MLSecOps) · [官网](https://mhaghighian.github.io/MLSecOps/) · 个人维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/MHaghighian/MLSecOps) · [官网](https://mhaghighian.github.io/MLSecOps/) · 个人维护
 
 **面向安全与 MLOps 团队的开源 AI 安全实践手册**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MHaghighian/MLSecOps 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-16", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-10 10 → 2026-11-27 11（+1）
+2026-11-10 10 → 2026-11-28 11（+1）
 
 
 ---

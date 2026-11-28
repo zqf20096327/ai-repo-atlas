@@ -1,6 +1,6 @@
 # Arnoldlarry15/ARES-Dashboard
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Arnoldlarry15/ARES-Dashboard) · [官网](https://ares-dashboard-mauve.vercel.app) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Arnoldlarry15/ARES-Dashboard) · [官网](https://ares-dashboard-mauve.vercel.app) · 个人维护
 
 **企业安全团队用于规划与审计 AI 红队测试的操作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Arnoldlarry15/ARES-Dashboard 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-28"]
     y-axis "stars" 15 --> 20
     line [16, 17, 18, 19, 19]
 ```
 
-2026-10-25 16 → 2026-11-27 19（+3）
+2026-10-26 16 → 2026-11-28 19（+3）
 
 
 ---

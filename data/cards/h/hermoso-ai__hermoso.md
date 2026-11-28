@@ -1,6 +1,6 @@
 # hermoso-ai/hermoso
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/hermoso-ai/hermoso) · [官网](https://hermoso.ai/mcp/) · 组织维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/hermoso-ai/hermoso) · [官网](https://hermoso.ai/mcp/) · 组织维护
 
 **AI 营销 agent 的 MCP server 与 CLI：从调研到投放广告**
 
@@ -47,12 +47,12 @@ Hermoso 将自身暴露为 MCP server、CLI 与 Claude 技能包，供 Claude Co
 ```mermaid
 xychart-beta
     title "hermoso-ai/hermoso 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 10（+0）
 
 
 ---

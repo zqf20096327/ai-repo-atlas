@@ -1,6 +1,6 @@
 # seoan1024/Korean-llm
 
-⭐ 115 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/seoan1024/Korean-llm) · 个人维护
+⭐ 115 · Python · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/seoan1024/Korean-llm) · 个人维护
 
 **个人环境中从零实现的韩语 1.09B 解码器 Transformer LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seoan1024/Korean-llm 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 113 --> 116
     line [114, 115, 115]
 ```
 
-2026-10-25 114 → 2026-11-27 115（+1）
+2026-10-26 114 → 2026-11-28 115（+1）
 
 
 ---

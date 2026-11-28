@@ -1,6 +1,6 @@
 # aklid01/manhua
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/aklid01/manhua) · 个人维护 · 中文 README
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/aklid01/manhua) · 个人维护 · 中文 README
 
 **把中文漫画页本地翻译为英文页的流水线工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aklid01/manhua 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-10", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-10 10 → 2026-11-27 11（+1）
+2026-11-10 10 → 2026-11-28 12（+2）
 
 
 ---

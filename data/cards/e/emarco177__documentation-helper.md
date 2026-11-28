@@ -1,6 +1,6 @@
 # emarco177/documentation-helper
 
-⭐ 369 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/emarco177/documentation-helper) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
+⭐ 370 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/emarco177/documentation-helper) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
 
 **基于 LangChain RAG 的文档问答助手参考实现**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "emarco177/documentation-helper 星数(近 13 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 357 --> 370
-    line [358, 359, 360, 363, 358, 364, 365, 367, 368, 369, 368, 369, 369]
+    title "emarco177/documentation-helper 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 357 --> 371
+    line [359, 360, 363, 358, 364, 365, 367, 368, 369, 368, 369, 370]
 ```
 
-2026-10-25 358 → 2026-11-27 369（+11）
+2026-10-26 359 → 2026-11-28 370（+11）
 
 
 ---

@@ -45,12 +45,12 @@ rekal 是一个 MCP 服务器，为 Claude Code、Codex CLI、OpenCode、Cursor 
 ```mermaid
 xychart-beta
     title "janbjorge/rekal 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 51 --> 54
     line [53, 52, 52]
 ```
 
-2026-10-25 53 → 2026-11-27 52（-1）
+2026-10-26 53 → 2026-11-28 52（-1）
 
 
 ---

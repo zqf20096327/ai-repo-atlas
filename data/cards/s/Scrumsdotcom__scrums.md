@@ -1,6 +1,6 @@
 # Scrumsdotcom/scrums
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Scrumsdotcom/scrums) · [官网](https://www.scrums.com) · 组织维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Scrumsdotcom/scrums) · [官网](https://www.scrums.com) · 组织维护
 
 **企业软件工程 AI 平台的文档与开源组件仓库**
 
@@ -45,12 +45,12 @@ Scrums.com 定位为企业软件工程 AI 平台，工程负责人可从统一�
 ```mermaid
 xychart-beta
     title "Scrumsdotcom/scrums 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-11-08 19 → 2026-11-27 19（+0）
+2026-11-08 19 → 2026-11-28 19（+0）
 
 
 ---

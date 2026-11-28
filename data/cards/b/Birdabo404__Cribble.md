@@ -45,12 +45,12 @@ Chrome 扩展，测量用户在 ChatGPT、Claude、Cursor 等数十个 AI 工具
 ```mermaid
 xychart-beta
     title "Birdabo404/Cribble 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 16（+0）
 
 
 ---

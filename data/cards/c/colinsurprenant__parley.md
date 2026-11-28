@@ -1,6 +1,6 @@
 # colinsurprenant/parley
 
-⭐ 10 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/colinsurprenant/parley) · 个人维护
+⭐ 10 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/colinsurprenant/parley) · 个人维护
 
 **把多个 coding-agent 会话汇入一个 IRC 频道与开发者协作的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "colinsurprenant/parley 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-28"]
     y-axis "stars" 3 --> 11
     line [4, 6, 8, 4, 8, 9, 10, 10]
 ```
 
-2026-10-25 4 → 2026-11-27 10（+6）
+2026-10-26 4 → 2026-11-28 10（+6）
 
 
 ---

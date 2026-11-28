@@ -1,6 +1,6 @@
 # moose-lab/awesome-sports-ai
 
-⭐ 18 · JavaScript · CC0-1.0 · 推送 2026-08-31 · [GitHub](https://github.com/moose-lab/awesome-sports-ai) · [官网](https://sports-ai-hub.pages.dev/) · 组织维护
+⭐ 19 · JavaScript · CC0-1.0 · 推送 2026-08-31 · [GitHub](https://github.com/moose-lab/awesome-sports-ai) · [官网](https://sports-ai-hub.pages.dev/) · 组织维护
 
 **体育 AI 开源工具/数据集/模型策展清单，含可运行原型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "moose-lab/awesome-sports-ai 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 16, 17, 18]
+    title "moose-lab/awesome-sports-ai 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-19", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 16, 17, 18, 19]
 ```
 
-2026-10-25 14 → 2026-11-27 18（+4）
+2026-10-26 14 → 2026-11-28 19（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # pixelpainter/comfyui-AI-prompt-editor
 
-⭐ 29 · JavaScript · GPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/pixelpainter/comfyui-AI-prompt-editor) · [官网](https://registry.comfy.org/nodes/comfyui-ai-prompt-editor) · 个人维护
+⭐ 30 · JavaScript · GPL-3.0 · 推送 2026-09-01 · [GitHub](https://github.com/pixelpainter/comfyui-AI-prompt-editor) · [官网](https://registry.comfy.org/nodes/comfyui-ai-prompt-editor) · 个人维护
 
 **ComfyUI 提示词编辑节点：本地 Ollama 驱动的 AI 提示词写作室**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pixelpainter/comfyui-AI-prompt-editor 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
-    y-axis "stars" 27 --> 30
-    line [29, 28, 29, 29]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-28"]
+    y-axis "stars" 27 --> 31
+    line [29, 28, 29, 30]
 ```
 
-2026-10-25 29 → 2026-11-27 29（+0）
+2026-10-26 29 → 2026-11-28 30（+1）
 
 
 ---

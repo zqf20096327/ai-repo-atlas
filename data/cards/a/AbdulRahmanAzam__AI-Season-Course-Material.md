@@ -44,13 +44,13 @@ AI Season Cohort 01 训练营的教学代码仓库：每个目录为独立课时
 
 ```mermaid
 xychart-beta
-    title "AbdulRahmanAzam/AI-Season-Course-Material 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "AbdulRahmanAzam/AI-Season-Course-Material 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    line [12, 11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

@@ -45,12 +45,12 @@ AAAI 2023 Oral 论文《Intriguing Findings of Frequency Selection for Image Deb
 ```mermaid
 xychart-beta
     title "INVOKERer/DeepRFT 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 273 --> 275
     line [274, 274]
 ```
 
-2026-10-25 274 → 2026-11-27 274（+0）
+2026-10-26 274 → 2026-11-28 274（+0）
 
 
 ---

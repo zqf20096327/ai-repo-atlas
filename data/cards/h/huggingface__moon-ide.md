@@ -1,6 +1,6 @@
 # huggingface/moon-ide
 
-⭐ 11 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/moon-ide) · 组织维护
+⭐ 11 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/huggingface/moon-ide) · 组织维护
 
 **面向团队的定制 IDE，Rust 核心内置编码 Agent 与容器化工作区**
 
@@ -45,12 +45,12 @@ Hugging Face moon 团队自研的桌面 IDE：Tauri 2（Rust 后端 + Web UI）+
 ```mermaid
 xychart-beta
     title "huggingface/moon-ide 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

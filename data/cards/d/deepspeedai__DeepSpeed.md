@@ -1,10 +1,10 @@
 # deepspeedai/DeepSpeed
 
-⭐ 43,366 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
+⭐ 43,369 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护 · 中文 README
 
-**给开发者的大模型分布式训练与推理优化库**
+**面向大模型开发者的分布式训练与推理优化库**
 
-面向 PyTorch 的深度学习优化库，提供 ZeRO、ZeRO-Infinity、3D 并行、Ulysses 序列并行、DeepSpeed-MoE 等系统创新，用于简化大规模分布式训练与推理。已被用于训练 MT-530B、BLOOM、GLM 等大模型，并与 Transformers、Accelerate、Lightning、MosaicML 等框架集成。含 C++/CUDA 扩展（ops），默认以 JIT 方式依赖 ninja 在运行时编译链接，Windows 部分功能（AIO/GDS）不支持。维护方为 DeepSpeed 团队，源自微软 AI at Scale 计划。
+DeepSpeed 是一个深度学习优化库，通过 ZeRO、ZeRO-Infinity、3D 并行、Ulysses 序列并行、DeepSpeed-MoE 等系统创新，支持大规模模型的分布式训练与推理。README 列出曾用于训练的模型（MT-530B、BLOOM 等），并与 Transformers、Accelerate、Lightning、MosaicML 等框架集成。安装需先装 PyTorch，C++/CUDA 扩展默认通过 JIT 编译，Windows 上部分功能不可用（AIO、GDS）。
 
 ## 筛选速览
 
@@ -26,39 +26,39 @@
 
 ## 能力要点
 
-- ZeRO/ZeRO-Infinity/3D 并行等分布式训练机制
-- 支持训练与推理两类场景及压缩
-- 与 Transformers/Accelerate/Lightning 等框架集成
-- 多硬件后端：NVIDIA、AMD、CPU、Intel Gaudi/XPU、Apple MPS、华为昇腾
+- ZeRO/ZeRO-Infinity、3D 并行、Ulysses 序列并行、MoE 等训练优化技术
+- 支持训练与推理两个环节，含压缩与 MoE 能力
+- 多硬件加速器支持：NVIDIA/AMD GPU、Ascend NPU、Gaudi2、XPU、Apple MPS
+- 提供 ds_report 环境报告工具验证安装与扩展兼容性
 
 ## 适用场景
 
-- 训练千亿参数规模的大语言模型
-- 为已有 PyTorch 训练代码添加分布式与显存优化
-- 在多种 GPU/NPU 加速器上部署推理
+- 训练超大规模模型时降低显存与通信开销
+- 为现有 PyTorch/Transformers 训练流程接入分布式优化
+- 在多类国产及异构加速器上运行大模型训练
 
 ## 场景标签
 
-`模型训练` `推理引擎` `模型量化` · 领域:训练与推理
+`模型训练` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L56: # Extreme Speed and Scale for DL Training
-> L80: DeepSpeed has been integrated with several different popular open-source DL frameworks such as:
-> L105: # Installation
+> L60: ***DeepSpeed enabled the world's most powerful language models (at the time of this writing) such as MT-530B and BL
+> L82: DeepSpeed has been integrated with several different popular open-source DL frameworks such as:
+> L107: # Installation
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "deepspeedai/DeepSpeed 星数(近 27 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 43253 --> 43376
-    line [43263, 43272, 43278, 43270, 43269, 43270, 43277, 43278, 43279, 43263, 43312, 43317, 43322, 43326, 43327, 43325, 43326, 43332, 43335, 43339, 43344, 43349, 43347, 43351, 43355, 43361, 43366]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 43253 --> 43379
+    line [43272, 43278, 43270, 43269, 43270, 43277, 43278, 43279, 43263, 43312, 43317, 43322, 43326, 43327, 43325, 43326, 43332, 43335, 43339, 43344, 43349, 43347, 43351, 43355, 43361, 43366, 43369]
 ```
 
-2026-10-25 43,263 → 2026-11-27 43,366（+103）
+2026-10-26 43,272 → 2026-11-28 43,369（+97）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d56a656e8abd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `996346caa407` · [字段定义](../../DATASET.md)*

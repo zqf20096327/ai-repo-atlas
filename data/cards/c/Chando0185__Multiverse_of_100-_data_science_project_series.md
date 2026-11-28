@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Chando0185/Multiverse_of_100-_data_science_project_series 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "Chando0185/Multiverse_of_100-_data_science_project_series 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 159 --> 162
-    line [161, 160, 161]
+    line [161, 160, 161, 161]
 ```
 
-2026-10-25 161 → 2026-11-27 161（+0）
+2026-10-26 161 → 2026-11-28 161（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/SafeAgents
 
-⭐ 22 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/SafeAgents) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/microsoft/SafeAgents) · 组织维护
 
 **构建与评测安全多智能体系统的统一框架**
 
@@ -45,12 +45,12 @@ SafeAgents（又称 SafeAgentEval）提供框架无关的 API 用于创建多智
 ```mermaid
 xychart-beta
     title "microsoft/SafeAgents 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 14 --> 23
-    line [15, 16, 18, 20, 21, 22, 22]
+    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 14 --> 24
+    line [15, 16, 18, 20, 21, 22, 23]
 ```
 
-2026-10-24 15 → 2026-11-27 22（+7）
+2026-10-25 15 → 2026-11-28 23（+8）
 
 
 ---

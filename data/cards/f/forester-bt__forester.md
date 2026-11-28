@@ -1,6 +1,6 @@
 # forester-bt/forester
 
-⭐ 41 · Rust · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/forester-bt/forester) · [官网](https://forester-bt.github.io/learn) · 组织维护
+⭐ 42 · Rust · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/forester-bt/forester) · [官网](https://forester-bt.github.io/learn) · 组织维护
 
 **行为树 DSL 与 Rust 运行时，编排机器人与 AI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "forester-bt/forester 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-25 41 → 2026-11-27 41（+0）
+2026-10-26 41 → 2026-11-28 42（+1）
 
 
 ---

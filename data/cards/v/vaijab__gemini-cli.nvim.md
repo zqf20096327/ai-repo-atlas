@@ -45,12 +45,12 @@ Neovim 插件，通过实现 Model Context Protocol（MCP）桥接编辑器与 G
 ```mermaid
 xychart-beta
     title "vaijab/gemini-cli.nvim 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

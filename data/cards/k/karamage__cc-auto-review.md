@@ -1,6 +1,6 @@
 # karamage/cc-auto-review
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/karamage/cc-auto-review) · [官网](https://karamage.github.io/cc-auto-review/) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/karamage/cc-auto-review) · [官网](https://karamage.github.io/cc-auto-review/) · 个人维护
 
 **用本地 Claude Code 审查 GitHub PR 的 macOS/Linux 桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "karamage/cc-auto-review 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-28"]
     y-axis "stars" 2 --> 8
     line [3, 5, 6, 7, 7]
 ```
 
-2026-11-08 3 → 2026-11-27 7（+4）
+2026-11-08 3 → 2026-11-28 7（+4）
 
 
 ---

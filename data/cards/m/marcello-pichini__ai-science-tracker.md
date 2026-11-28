@@ -1,6 +1,6 @@
 # marcello-pichini/ai-science-tracker
 
-⭐ 3 · HTML · CC-BY-4.0 · 推送 2026-11-26 · [GitHub](https://github.com/marcello-pichini/ai-science-tracker) · [官网](https://aisciencetracker.org/) · 个人维护
+⭐ 3 · HTML · CC-BY-4.0 · 推送 2026-11-27 · [GitHub](https://github.com/marcello-pichini/ai-science-tracker) · [官网](https://aisciencetracker.org/) · 个人维护
 
 **AI 驱动的科学发现策展目录，关联模型族与原始来源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "marcello-pichini/ai-science-tracker 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 3（+0）
 
 
 ---

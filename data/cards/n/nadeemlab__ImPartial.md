@@ -1,6 +1,6 @@
 # nadeemlab/ImPartial
 
-⭐ 47 · Python · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/nadeemlab/ImPartial) · 组织维护
+⭐ 47 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/nadeemlab/ImPartial) · 组织维护
 
 **病理图像细胞分割框架：稀疏涂鸦标注下交互式深度学习分割**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nadeemlab/ImPartial 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 45 --> 48
     line [46, 47, 46, 47, 47]
 ```
 
-2026-10-25 46 → 2026-11-27 47（+1）
+2026-10-26 46 → 2026-11-28 47（+1）
 
 
 ---

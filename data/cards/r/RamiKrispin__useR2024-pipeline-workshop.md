@@ -1,6 +1,6 @@
 # RamiKrispin/useR2024-pipeline-workshop
 
-⭐ 57 · HTML · 推送 2026-11-26 · [GitHub](https://github.com/RamiKrispin/useR2024-pipeline-workshop) · [官网](https://ramikrispin.github.io/useR2024-pipeline-workshop/) · 个人维护
+⭐ 57 · HTML · 推送 2026-11-27 · [GitHub](https://github.com/RamiKrispin/useR2024-pipeline-workshop) · [官网](https://ramikrispin.github.io/useR2024-pipeline-workshop/) · 个人维护
 
 **useR!2024 工作坊材料：用 R 与免费工具部署监控 ML 流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "RamiKrispin/useR2024-pipeline-workshop 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-24 57 → 2026-11-27 57（+0）
+2026-10-25 57 → 2026-11-28 57（+0）
 
 
 ---

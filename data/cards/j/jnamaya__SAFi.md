@@ -1,6 +1,6 @@
 # jnamaya/SAFi
 
-⭐ 62 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/jnamaya/SAFi) · [官网](https://selfalignmentframework.com/) · 个人维护
+⭐ 65 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/jnamaya/SAFi) · [官网](https://selfalignmentframework.com/) · 个人维护
 
 **面向 AI agent 的开源治理引擎：实时执行策略并审计每次决策**
 
@@ -46,13 +46,13 @@ SAFi 是一个 Python 编写的 AI agent 治理引擎，供需要在运行时执
 
 ```mermaid
 xychart-beta
-    title "jnamaya/SAFi 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 62, 63, 62, 62]
+    title "jnamaya/SAFi 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 61 --> 66
+    line [63, 62, 63, 62, 65]
 ```
 
-2026-10-25 62 → 2026-11-27 62（+0）
+2026-10-26 63 → 2026-11-28 65（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mamawai/wtfibought
 
-⭐ 147 · Java · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/mamawai/wtfibought) · [官网](https://intro.wtfibought.com) · 个人维护 · 中文 README
+⭐ 150 · Java · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/mamawai/wtfibought) · [官网](https://intro.wtfibought.com) · 个人维护 · 中文 README
 
 **LLM 交易 agent 竞技场：自带模型和 key，用虚拟资金交易真实行情**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mamawai/wtfibought 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 142 --> 148
-    line [143, 144, 145, 146, 147]
+    title "mamawai/wtfibought 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 142 --> 151
+    line [143, 144, 145, 146, 147, 150]
 ```
 
-2026-10-25 143 → 2026-11-27 147（+4）
+2026-10-26 143 → 2026-11-28 150（+7）
 
 
 ---

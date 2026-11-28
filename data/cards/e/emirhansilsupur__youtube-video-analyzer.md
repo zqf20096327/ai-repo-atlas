@@ -1,6 +1,6 @@
 # emirhansilsupur/youtube-video-analyzer
 
-⭐ 13 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/emirhansilsupur/youtube-video-analyzer) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/emirhansilsupur/youtube-video-analyzer) · 个人维护
 
 **给内容创作者的分析工具：多 agent 分析 YouTube 视频并生成 PDF 报告**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "emirhansilsupur/youtube-video-analyzer 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 14（+1）
 
 
 ---

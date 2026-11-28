@@ -1,6 +1,6 @@
 # AntigmaLabs/ante
 
-⭐ 2,052 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/AntigmaLabs/ante) · [官网](https://ante.run) · 组织维护
+⭐ 2,053 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/AntigmaLabs/ante) · [官网](https://ante.run) · 组织维护
 
 **终端里的自包含 Rust 编码 agent，可离线跑本地模型**
 
@@ -46,13 +46,13 @@ Ante 是一个以单一 Rust 可执行文件分发的终端编码 agent：内置
 
 ```mermaid
 xychart-beta
-    title "AntigmaLabs/ante 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2050 --> 2053
-    line [2051, 2052]
+    title "AntigmaLabs/ante 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2050 --> 2054
+    line [2051, 2052, 2053]
 ```
 
-2026-11-26 2,051 → 2026-11-27 2,052（+1）
+2026-11-26 2,051 → 2026-11-28 2,053（+2）
 
 
 ---

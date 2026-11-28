@@ -1,6 +1,6 @@
 # bernard357/duckdb-vectors
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/bernard357/duckdb-vectors) · [官网](https://bernard357.github.io/duckdb-vectors/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/bernard357/duckdb-vectors) · [官网](https://bernard357.github.io/duckdb-vectors/) · 个人维护
 
 **面向 agent 系统的嵌入式本地语义检索构建块**
 
@@ -47,12 +47,12 @@ duckdb-vectors 是一个 Python 包，为 agent 系统提供小规模语义检�
 ```mermaid
 xychart-beta
     title "bernard357/duckdb-vectors 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-27"]
+    x-axis ["2026-10-29", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-29 3 → 2026-11-27 3（+0）
+2026-10-29 3 → 2026-11-28 3（+0）
 
 
 ---

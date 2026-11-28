@@ -1,6 +1,6 @@
 # fluyeporlaweb/ai-agent-tools
 
-⭐ 6 · MIT · 推送 2026-11-26 · [GitHub](https://github.com/fluyeporlaweb/ai-agent-tools) · [官网](https://fluyeporlaweb.com) · 组织维护
+⭐ 7 · MIT · 推送 2026-11-27 · [GitHub](https://github.com/fluyeporlaweb/ai-agent-tools) · [官网](https://fluyeporlaweb.com) · 组织维护
 
 **面向营销团队的 AI agent 工具策展清单**
 
@@ -39,6 +39,18 @@
 
 > L5: **A curated directory of open-source AI agent tools** for marketing and technical growth teams: **agent frameworks**
 > L18: This is a curated awesome list of **open-source AI agent tools for marketing and growth teams**: frameworks and SDK
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fluyeporlaweb/ai-agent-tools 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
+```
+
+2026-11-27 6 → 2026-11-28 7（+1）
 
 
 ---

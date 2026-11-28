@@ -1,6 +1,6 @@
 # romanzdk/verifair
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/romanzdk/verifair) · [官网](https://romanzdk.github.io/verifair/) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/romanzdk/verifair) · [官网](https://romanzdk.github.io/verifair/) · 个人维护
 
 **自托管的编码 agent 变更报告人工评审平台**
 
@@ -45,12 +45,12 @@ verifair 是一个自托管 Web 服务：编码 agent 通过 JSON API 推送 mar
 ```mermaid
 xychart-beta
     title "romanzdk/verifair 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-18 3 → 2026-11-27 4（+1）
+2026-11-18 3 → 2026-11-28 4（+1）
 
 
 ---

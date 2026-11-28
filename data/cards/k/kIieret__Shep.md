@@ -1,6 +1,6 @@
 # kIieret/Shep
 
-⭐ 16 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/kIieret/Shep) · 个人维护
+⭐ 15 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/kIieret/Shep) · 个人维护
 
 **编排多个并行 AI 编程 agent 的本地编排器，自动开 PR**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kIieret/Shep 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 15 --> 20
-    line [19, 18, 17, 16, 16]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 14 --> 20
+    line [19, 18, 17, 16, 15]
 ```
 
-2026-11-08 19 → 2026-11-27 16（-3）
+2026-11-08 19 → 2026-11-28 15（-4）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/apm-action
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/microsoft/apm-action) · 组织维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/microsoft/apm-action) · 组织维护
 
 **GitHub Action：安装 APM 并把 agent 资产部署进 CI 流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/apm-action 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-19", "2026-11-28"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-24 21 → 2026-11-27 22（+1）
+2026-10-25 21 → 2026-11-28 22（+1）
 
 
 ---

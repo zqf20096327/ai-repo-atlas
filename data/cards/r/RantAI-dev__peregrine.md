@@ -1,6 +1,6 @@
 # RantAI-dev/peregrine
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/RantAI-dev/peregrine) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/RantAI-dev/peregrine) · 组织维护
 
 **面向开发者/终端用户的 CPU 端语言模型推理引擎（Rust/GGUF）**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "RantAI-dev/peregrine 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-27"]
+    x-axis ["2026-11-14", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-27 3（+0）
+2026-11-14 3 → 2026-11-28 3（+0）
 
 
 ---

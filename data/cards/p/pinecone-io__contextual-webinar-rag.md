@@ -43,12 +43,12 @@ Pinecone 官方的 Contextual Video RAG 示例实现：将用户放入 data/vide
 ```mermaid
 xychart-beta
     title "pinecone-io/contextual-webinar-rag 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-19", "2026-11-28"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-25 23 → 2026-11-27 24（+1）
+2026-10-26 23 → 2026-11-28 24（+1）
 
 
 ---

@@ -45,13 +45,13 @@ Nuke gizmo：从 plate 的单帧出发，通过 ComfyUI 调用 MoGe 2 获取深�
 
 ```mermaid
 xychart-beta
-    title "dborrull/DBS_SceneProjection 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "dborrull/DBS_SceneProjection 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-26 10 → 2026-11-27 11（+1）
+2026-11-26 10 → 2026-11-28 11（+1）
 
 
 ---

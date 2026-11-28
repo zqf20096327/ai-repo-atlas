@@ -1,6 +1,6 @@
 # ShinRalexis/DeepLocal
 
-⭐ 15 · C# · 推送 2026-10-15 · [GitHub](https://github.com/ShinRalexis/DeepLocal) · 个人维护
+⭐ 16 · C# · 推送 2026-10-15 · [GitHub](https://github.com/ShinRalexis/DeepLocal) · [官网](https://www.elecktrastudio.com) · 个人维护
 
 **Windows 离线桌面翻译器：通过本地 Ollama 模型做 DeepL 式翻译**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ShinRalexis/DeepLocal 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-14", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 15, 15]
+    x-axis ["2026-10-26", "2026-11-14", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 15, 16]
 ```
 
-2026-10-25 12 → 2026-11-27 15（+3）
+2026-10-26 12 → 2026-11-28 16（+4）
 
 
 ---

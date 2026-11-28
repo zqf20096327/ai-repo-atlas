@@ -1,6 +1,6 @@
 # jaja1620/locmodel-image-MCP
 
-⭐ 4 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jaja1620/locmodel-image-MCP) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/jaja1620/locmodel-image-MCP) · 个人维护 · 中文 README
 
 **把本地 LocModel/stable-diffusion.cpp 图像引擎以 MCP 工具和 CLI 提供给 AI agent 离线调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jaja1620/locmodel-image-MCP 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-22", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-11 3 → 2026-11-27 4（+1）
+2026-11-11 3 → 2026-11-28 4（+1）
 
 
 ---

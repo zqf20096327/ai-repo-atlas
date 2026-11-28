@@ -1,6 +1,6 @@
 # IvenKooLab/desktop-pet
 
-⭐ 222 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/IvenKooLab/desktop-pet) · [官网](https://github.com/IvenKooLab/desktop-pet/releases/latest) · 个人维护 · 中文 README
+⭐ 259 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/IvenKooLab/desktop-pet) · [官网](https://github.com/IvenKooLab/desktop-pet/releases/latest) · 个人维护 · 中文 README
 
 **面向编码工作者的 3D 桌宠，可跟随本地编码助手状态**
 
@@ -44,13 +44,13 @@ Comi 是一只 3D 绒质桌宠应用，支持 macOS 13+ 与 Windows，提供桌�
 
 ```mermaid
 xychart-beta
-    title "IvenKooLab/desktop-pet 星数(近 13 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
+    title "IvenKooLab/desktop-pet 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 0 --> 331
-    line [21, 124, 174, 189, 204, 272, 302, 303, 250, 120, 135, 176, 222]
+    line [21, 124, 174, 189, 204, 272, 302, 303, 250, 120, 135, 176, 222, 259]
 ```
 
-2026-10-26 21 → 2026-11-27 222（+201）
+2026-10-26 21 → 2026-11-28 259（+238）
 
 
 ---

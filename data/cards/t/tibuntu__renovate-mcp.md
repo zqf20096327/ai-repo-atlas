@@ -1,6 +1,6 @@
 # tibuntu/renovate-mcp
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tibuntu/renovate-mcp) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/tibuntu/renovate-mcp) · 个人维护
 
 **交互式设计 Renovate 配置的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tibuntu/renovate-mcp 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-28"]
     y-axis "stars" 10 --> 15
     line [11, 12, 13, 14, 14]
 ```
 
-2026-10-25 11 → 2026-11-27 14（+3）
+2026-10-26 11 → 2026-11-28 14（+3）
 
 
 ---

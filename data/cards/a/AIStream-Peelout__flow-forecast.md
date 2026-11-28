@@ -1,6 +1,6 @@
 # AIStream-Peelout/flow-forecast
 
-⭐ 2,309 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/AIStream-Peelout/flow-forecast) · [官网](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview) · 组织维护
+⭐ 2,310 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/AIStream-Peelout/flow-forecast) · [官网](https://flow-forecast.atlassian.net/wiki/spaces/FF/overview) · 组织维护
 
 **面向开发者的 PyTorch 时间序列预测/分类/异常检测库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIStream-Peelout/flow-forecast 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2306 --> 2310
-    line [2307, 2308, 2307, 2308, 2309, 2308, 2309, 2309]
+    title "AIStream-Peelout/flow-forecast 星数(近 7 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2306 --> 2311
+    line [2308, 2307, 2308, 2309, 2308, 2309, 2310]
 ```
 
-2026-10-25 2,307 → 2026-11-27 2,309（+2）
+2026-10-26 2,308 → 2026-11-28 2,310（+2）
 
 
 ---

@@ -44,12 +44,12 @@ Python 编写的本地模型管理小工具：扫描 HuggingFace、Ollama 与 LM
 ```mermaid
 xychart-beta
     title "ctx-o1/lazyllama 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 19（+0）
 
 
 ---

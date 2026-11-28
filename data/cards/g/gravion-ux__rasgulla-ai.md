@@ -1,6 +1,6 @@
 # gravion-ux/rasgulla-ai
 
-⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gravion-ux/rasgulla-ai) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/gravion-ux/rasgulla-ai) · 个人维护
 
 **面向安全研究者的本地静态代码分析工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gravion-ux/rasgulla-ai 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-22 3 → 2026-11-27 4（+1）
+2026-11-22 3 → 2026-11-28 4（+1）
 
 
 ---

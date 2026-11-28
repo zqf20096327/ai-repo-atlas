@@ -43,13 +43,13 @@ AXERA-TECH 维护的 Pulsar2 工具链使用手册公共文档仓库，面向该
 
 ```mermaid
 xychart-beta
-    title "AXERA-TECH/pulsar2-docs 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
+    title "AXERA-TECH/pulsar2-docs 星数(近 3 点)"
+    x-axis ["2026-11-02", "2026-11-27", "2026-11-28"]
     y-axis "stars" 20 --> 23
-    line [21, 22]
+    line [21, 22, 22]
 ```
 
-2026-11-02 21 → 2026-11-27 22（+1）
+2026-11-02 21 → 2026-11-28 22（+1）
 
 
 ---

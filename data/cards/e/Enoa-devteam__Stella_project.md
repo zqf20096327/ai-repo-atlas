@@ -1,6 +1,6 @@
 # Enoa-devteam/Stella_project
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/Enoa-devteam/Stella_project) · [官网](https://enoa-devteam.github.io/Stella_project-homepage/) · 组织维护 · 中文 README
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/Enoa-devteam/Stella_project) · [官网](https://enoa-devteam.github.io/Stella_project-homepage/) · 组织维护 · 中文 README
 
 **QQ 群聊拟人化聊天机器人：8K 上下文下的记忆系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Enoa-devteam/Stella_project 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-27"]
+    x-axis ["2026-11-13", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-27 10（+0）
+2026-11-13 10 → 2026-11-28 10（+0）
 
 
 ---

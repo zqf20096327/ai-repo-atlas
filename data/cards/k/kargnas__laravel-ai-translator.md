@@ -45,12 +45,12 @@ Laravel 的 Composer 包，通过 artisan 命令读取 lang 目录下源语言�
 ```mermaid
 xychart-beta
     title "kargnas/laravel-ai-translator 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-15", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-15", "2026-11-28"]
     y-axis "stars" 248 --> 251
     line [249, 250, 250]
 ```
 
-2026-10-25 249 → 2026-11-27 250（+1）
+2026-10-26 249 → 2026-11-28 250（+1）
 
 
 ---

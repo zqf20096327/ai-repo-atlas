@@ -1,6 +1,6 @@
 # BrendanH18/jev_fsd
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/BrendanH18/jev_fsd) · [官网](https://brendanh18.github.io/jev_fsd/) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/BrendanH18/jev_fsd) · [官网](https://brendanh18.github.io/jev_fsd/) · 个人维护
 
 **在真实加拿大街道上给 AI 模型做驾驶测试的模拟器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BrendanH18/jev_fsd 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-28"]
     y-axis "stars" 7 --> 14
     line [8, 9, 10, 8, 12, 13, 13]
 ```
 
-2026-10-25 8 → 2026-11-27 13（+5）
+2026-10-26 8 → 2026-11-28 13（+5）
 
 
 ---

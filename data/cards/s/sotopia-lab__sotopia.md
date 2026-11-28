@@ -1,6 +1,6 @@
 # sotopia-lab/sotopia
 
-⭐ 347 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/sotopia-lab/sotopia) · [官网](https://docs.sotopia.world) · 组织维护
+⭐ 348 · Python · MIT · 推送 2026-06-05 · [GitHub](https://github.com/sotopia-lab/sotopia) · [官网](https://docs.sotopia.world) · 组织维护
 
 **开放社交学习环境：评测语言 agent 的社交智能**
 
@@ -45,12 +45,12 @@ Sotopia 是一个开放式社交学习环境，让语言 agent 在环境中相�
 ```mermaid
 xychart-beta
     title "sotopia-lab/sotopia 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 340 --> 348
-    line [341, 342, 343, 344, 345, 346, 347, 347]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 340 --> 349
+    line [341, 342, 343, 344, 345, 346, 347, 348]
 ```
 
-2026-10-25 341 → 2026-11-27 347（+6）
+2026-10-26 341 → 2026-11-28 348（+7）
 
 
 ---

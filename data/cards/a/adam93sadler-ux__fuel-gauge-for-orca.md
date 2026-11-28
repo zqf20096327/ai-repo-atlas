@@ -1,6 +1,6 @@
 # adam93sadler-ux/fuel-gauge-for-orca
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/adam93sadler-ux/fuel-gauge-for-orca) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/adam93sadler-ux/fuel-gauge-for-orca) · 个人维护
 
 **为 Orca 用户跨 45 个 agent 提供商跟踪用量并路由任务的插件**
 
@@ -39,6 +39,18 @@
 
 > L3: Fuel Gauge pairs an Orca status-bar plugin with an agent skill. The plugin reads provider allowances and reset times
 > L9: The orchestrator chooses the tier. The skill compares usage windows, recent burn rate and upcoming resets across eli
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "adam93sadler-ux/fuel-gauge-for-orca 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 8
+    line [5, 7]
+```
+
+2026-11-27 5 → 2026-11-28 7（+2）
 
 
 ---

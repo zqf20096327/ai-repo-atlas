@@ -1,6 +1,6 @@
 # AARCNoa/zhiyou
 
-⭐ 11 · Kotlin · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/AARCNoa/zhiyou) · 个人维护 · 中文 README
+⭐ 14 · Kotlin · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/AARCNoa/zhiyou) · 个人维护 · 中文 README
 
 **给微信加 AI 好友记忆与群聊摘要的 LSPosed 模块**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AARCNoa/zhiyou 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 12
-    line [3, 9, 11]
+    title "AARCNoa/zhiyou 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 15
+    line [3, 9, 11, 14]
 ```
 
-2026-11-25 3 → 2026-11-27 11（+8）
+2026-11-25 3 → 2026-11-28 14（+11）
 
 
 ---

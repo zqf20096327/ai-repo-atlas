@@ -1,6 +1,6 @@
 # lnyuqian/comfyui-pose-gallery
 
-⭐ 21 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lnyuqian/comfyui-pose-gallery) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lnyuqian/comfyui-pose-gallery) · 个人维护 · 中文 README
 
 **ComfyUI 姿态素材库浏览节点：可视化选线稿并接入生图流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lnyuqian/comfyui-pose-gallery 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 10 --> 22
-    line [11, 12, 13, 17, 18, 20, 21, 21]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 10 --> 23
+    line [11, 12, 13, 17, 18, 20, 21, 22]
 ```
 
-2026-10-30 11 → 2026-11-27 21（+10）
+2026-10-30 11 → 2026-11-28 22（+11）
 
 
 ---

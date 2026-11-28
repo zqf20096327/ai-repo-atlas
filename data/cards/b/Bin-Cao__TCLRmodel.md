@@ -45,12 +45,12 @@ TCLR 是一个树结构机器学习算法的 Python 包（pip install TCLR）：
 ```mermaid
 xychart-beta
     title "Bin-Cao/TCLRmodel 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

@@ -43,12 +43,12 @@ Nancy 的 GitHub 个人主页 README，自我介绍为会计学博士候选人�
 ```mermaid
 xychart-beta
     title "nancyalaswad90/nancyalaswad90 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

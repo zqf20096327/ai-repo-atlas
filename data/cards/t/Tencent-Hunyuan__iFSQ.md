@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/iFSQ
 
-⭐ 108 · Python · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/Tencent-Hunyuan/iFSQ) · 组织维护 · 中文 README
+⭐ 109 · Python · NOASSERTION · 推送 2026-01-27 · [GitHub](https://github.com/Tencent-Hunyuan/iFSQ) · 组织维护 · 中文 README
 
 **改进图像生成量化器 FSQ 的官方 PyTorch 实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/iFSQ 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 106 --> 109
-    line [107, 108, 107, 108, 108]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 106 --> 110
+    line [107, 108, 107, 108, 109]
 ```
 
-2026-10-25 107 → 2026-11-27 108（+1）
+2026-10-26 107 → 2026-11-28 109（+2）
 
 
 ---

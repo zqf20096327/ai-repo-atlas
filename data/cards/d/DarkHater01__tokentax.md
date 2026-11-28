@@ -46,12 +46,12 @@ TokenTax 是一个测量 agent token 开销中浪费比例的基准工具，核�
 ```mermaid
 xychart-beta
     title "DarkHater01/tokentax 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-10-25 7 → 2026-11-27 7（+0）
+2026-10-26 7 → 2026-11-28 7（+0）
 
 
 ---

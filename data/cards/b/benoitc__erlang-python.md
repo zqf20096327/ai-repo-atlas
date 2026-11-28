@@ -1,6 +1,6 @@
 # benoitc/erlang-python
 
-⭐ 110 · Erlang · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/benoitc/erlang-python) · 个人维护
+⭐ 110 · Erlang · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/benoitc/erlang-python) · 个人维护
 
 **在 BEAM 中嵌入 Python 的互操作库：Erlang/Elixir 调用 Python 并行执行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "benoitc/erlang-python 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-25 110 → 2026-11-27 110（+0）
+2026-10-26 110 → 2026-11-28 110（+0）
 
 
 ---

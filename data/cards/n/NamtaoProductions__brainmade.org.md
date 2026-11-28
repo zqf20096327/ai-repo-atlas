@@ -1,6 +1,6 @@
 # NamtaoProductions/brainmade.org
 
-⭐ 120 · HTML · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/NamtaoProductions/brainmade.org) · [官网](https://brainmade.org) · 个人维护
+⭐ 121 · HTML · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/NamtaoProductions/brainmade.org) · [官网](https://brainmade.org) · 个人维护
 
 **标注作品由人类创作的 Brainmade 标志与项目清单网站**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "NamtaoProductions/brainmade.org 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-27"]
-    y-axis "stars" 108 --> 121
-    line [109, 113, 116, 117, 119, 118, 119, 120, 120]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-28"]
+    y-axis "stars" 108 --> 122
+    line [109, 113, 116, 117, 119, 118, 119, 120, 121]
 ```
 
-2026-10-25 109 → 2026-11-27 120（+11）
+2026-10-26 109 → 2026-11-28 121（+12）
 
 
 ---

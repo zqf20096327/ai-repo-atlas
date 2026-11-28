@@ -1,6 +1,6 @@
 # Wlaeg/antigravity-pet
 
-⭐ 6 · C# · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Wlaeg/antigravity-pet) · [官网](https://github.com/Wlaeg/antigravity-pet) · 个人维护 · 中文 README
+⭐ 11 · HTML · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Wlaeg/antigravity-pet) · [官网](https://github.com/Wlaeg/antigravity-pet) · 个人维护 · 中文 README
 
 **Google Antigravity 桌面像素宠物插件，实时显示 agent 任务状态**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Wlaeg/antigravity-pet 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 5 --> 12
+    line [6, 11]
 ```
 
-2026-11-26 6 → 2026-11-27 6（+0）
+2026-11-26 6 → 2026-11-28 11（+5）
 
 
 ---

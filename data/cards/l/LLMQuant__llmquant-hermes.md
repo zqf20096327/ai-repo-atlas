@@ -1,6 +1,6 @@
 # LLMQuant/llmquant-hermes
 
-⭐ 31 · MIT · 推送 2026-07-22 · [GitHub](https://github.com/LLMQuant/llmquant-hermes) · [官网](https://llmquantdata.com) · 组织维护 · 中文 README
+⭐ 32 · MIT · 推送 2026-07-22 · [GitHub](https://github.com/LLMQuant/llmquant-hermes) · [官网](https://llmquantdata.com) · 组织维护 · 中文 README
 
 **把 Hermes agent 配置成金融分析师的技能与部署套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LLMQuant/llmquant-hermes 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 22 --> 32
-    line [23, 24, 26, 23, 26, 27, 29, 30, 31]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 22 --> 33
+    line [24, 26, 23, 26, 27, 29, 30, 31, 32]
 ```
 
-2026-10-25 23 → 2026-11-27 31（+8）
+2026-10-26 24 → 2026-11-28 32（+8）
 
 
 ---

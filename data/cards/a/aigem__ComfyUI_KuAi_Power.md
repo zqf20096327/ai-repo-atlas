@@ -46,12 +46,12 @@ ComfyUI 插件，通过 kuai.host API 服务接入 Sora2 与 Veo 视频生成、
 ```mermaid
 xychart-beta
     title "aigem/ComfyUI_KuAi_Power 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-25 61 → 2026-11-27 61（+0）
+2026-10-26 61 → 2026-11-28 61（+0）
 
 
 ---

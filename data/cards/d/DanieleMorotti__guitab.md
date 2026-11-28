@@ -40,6 +40,18 @@
 > L7: Guitab turns a recording of a solo guitar into a tab you can open in Guitar Pro, TuxGuitar, MuseScore or any online 
 > L112: `docs/` is a static page that does the whole transcription in the browser, so *the audio never leaves the device*.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DanieleMorotti/guitab 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `646e5f589966` · [字段定义](../../DATASET.md)*

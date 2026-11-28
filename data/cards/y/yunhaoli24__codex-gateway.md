@@ -1,6 +1,6 @@
 # yunhaoli24/codex-gateway
 
-⭐ 39 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yunhaoli24/codex-gateway) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yunhaoli24/codex-gateway) · 个人维护 · 中文 README
 
 **官方 Codex app-server 的自托管 Web 前端与 SSH 网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yunhaoli24/codex-gateway 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 32 --> 40
-    line [33, 35, 36, 33, 36, 37, 38, 39, 39]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 32 --> 41
+    line [33, 35, 36, 33, 36, 37, 38, 39, 40]
 ```
 
-2026-10-25 33 → 2026-11-27 39（+6）
+2026-10-26 33 → 2026-11-28 40（+7）
 
 
 ---

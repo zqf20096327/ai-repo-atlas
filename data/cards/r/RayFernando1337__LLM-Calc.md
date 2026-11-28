@@ -43,13 +43,13 @@ React + TypeScript + Vite 构建的网页应用：用户输入可用 RAM、估�
 
 ```mermaid
 xychart-beta
-    title "RayFernando1337/LLM-Calc 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "RayFernando1337/LLM-Calc 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 257 --> 260
-    line [258, 259]
+    line [258, 259, 259]
 ```
 
-2026-10-25 258 → 2026-11-27 259（+1）
+2026-10-26 258 → 2026-11-28 259（+1）
 
 
 ---

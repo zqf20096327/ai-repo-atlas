@@ -1,6 +1,6 @@
 # webkubor/logo-brand-designer
 
-⭐ 60 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/webkubor/logo-brand-designer) · [官网](https://webkubor.github.io/logo-brand-designer/) · 个人维护 · 中文 README
+⭐ 67 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/webkubor/logo-brand-designer) · [官网](https://webkubor.github.io/logo-brand-designer/) · 个人维护 · 中文 README
 
 **给零基础用户的 Logo 设计 agent skill：从轮廓到验收交付品牌标识**
 
@@ -39,6 +39,18 @@
 
 > L3: **给零基础用户的 Logo 设计技能。** 告诉 Codex 或 Claude Code 你的产品做什么，就能一步步选轮廓、选配色，拿到有辨识度的透明底 SVG、浏览器图标和评审页。
 > L73: > 用 logo-brand-designer 给我的项目设计 Logo。先看产品和现有品牌资料，给我几种黑白轮廓。选定形态后，保留原轮廓做配色，再给我看深浅背景和小尺寸的效果。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "webkubor/logo-brand-designer 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 59 --> 68
+    line [60, 67]
+```
+
+2026-11-27 60 → 2026-11-28 67（+7）
 
 
 ---

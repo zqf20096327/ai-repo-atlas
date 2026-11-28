@@ -47,12 +47,12 @@ CMH 是面向多智能体系统的组织级共享记忆持久层，通过 Web UI
 ```mermaid
 xychart-beta
     title "JustinAngelson/CentralMemoryHub 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

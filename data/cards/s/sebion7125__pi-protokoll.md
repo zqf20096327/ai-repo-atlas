@@ -1,6 +1,6 @@
 # sebion7125/pi-protokoll
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sebion7125/pi-protokoll) · [官网](https://pi.dev/packages/pi-protokoll) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sebion7125/pi-protokoll) · [官网](https://pi.dev/packages/pi-protokoll) · 个人维护 · 中文 README
 
 **Pi 编码 agent 扩展：用本地 LLM 做长会话上下文压缩**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sebion7125/pi-protokoll 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-25", "2026-11-28"]
     y-axis "stars" 3 --> 10
     line [4, 5, 9, 9]
 ```
 
-2026-11-15 4 → 2026-11-27 9（+5）
+2026-11-15 4 → 2026-11-28 9（+5）
 
 
 ---

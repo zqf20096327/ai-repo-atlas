@@ -1,6 +1,6 @@
 # aisecnomad/Nexus-Symbiote
 
-⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aisecnomad/Nexus-Symbiote) · [官网](https://medium.com/@EmmanuelDahunsi/the-supply-chain-of-agency-c73667e08162) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/aisecnomad/Nexus-Symbiote) · [官网](https://medium.com/@EmmanuelDahunsi/the-supply-chain-of-agency-c73667e08162) · 个人维护
 
 **为 AI Agent 供应链生成证据化物料清单的扫描工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aisecnomad/Nexus-Symbiote 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-23 3 → 2026-11-27 5（+2）
+2026-11-23 3 → 2026-11-28 5（+2）
 
 
 ---

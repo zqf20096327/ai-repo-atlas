@@ -1,6 +1,6 @@
 # Annihilater/token-stats
 
-⭐ 14 · Rust · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Annihilater/token-stats) · [官网](https://token-stats.com) · 个人维护 · 中文 README
+⭐ 15 · Rust · MIT · 推送 2026-07-20 · [GitHub](https://github.com/Annihilater/token-stats) · [官网](https://token-stats.com) · 个人维护 · 中文 README
 
 **追踪多种 AI 编程客户端 token 用量与成本的 CLI 仪表盘**
 
@@ -46,12 +46,12 @@ Rust 核心的命令行工具与 TUI 可视化面板，读取 40 余种 AI 编�
 ```mermaid
 xychart-beta
     title "Annihilater/token-stats 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 12, 14, 14]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 12, 14, 15]
 ```
 
-2026-10-25 12 → 2026-11-27 14（+2）
+2026-10-26 12 → 2026-11-28 15（+3）
 
 
 ---

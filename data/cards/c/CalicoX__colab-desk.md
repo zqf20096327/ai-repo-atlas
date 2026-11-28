@@ -1,6 +1,6 @@
 # CalicoX/colab-desk
 
-⭐ 4 · HTML · MIT · 推送 2026-11-26 · [GitHub](https://github.com/CalicoX/colab-desk) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/CalicoX/colab-desk) · 个人维护 · 中文 README
 
 **macOS 原生工作台：图形化驱动 google-colab-cli 操作 Colab GPU**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CalicoX/colab-desk 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-26 4 → 2026-11-27 4（+0）
+2026-11-26 4 → 2026-11-28 4（+0）
 
 
 ---

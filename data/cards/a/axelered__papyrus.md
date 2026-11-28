@@ -1,6 +1,6 @@
 # axelered/papyrus
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/axelered/papyrus) · [官网](http://docs.axelered.com/papyrus) · 组织维护
+⭐ 61 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/axelered/papyrus) · [官网](http://docs.axelered.com/papyrus) · 组织维护
 
 **自托管文档解析 API：将文档与网页转为 LLM 可用的 Markdown/chunks**
 
@@ -40,6 +40,18 @@
 > L3: **Papyrus turns documents and web pages into Markdown, chunks and images for your LLM pipeline. It runs as one Docke
 > L16: 📦 **One service instead of a parser stack.** PDF, Word, PowerPoint, Excel, Outlook, HTML, EPUB, ZIP and images go i
 > L20: 🔍 **OCR on your own GPUs or through Mistral.** Point Papyrus at a Qwen VL model on vLLM, Ollama or any OpenAI compa
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axelered/papyrus 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 16 --> 65
+    line [20, 61]
+```
+
+2026-11-27 20 → 2026-11-28 61（+41）
 
 
 ---

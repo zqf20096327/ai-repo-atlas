@@ -1,6 +1,6 @@
 # matinsizen/ai-3d-animator-skill
 
-⭐ 86 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/matinsizen/ai-3d-animator-skill) · [官网](https://matinsizen.github.io/ai-3d-animator-skill/) · 个人维护
+⭐ 88 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/matinsizen/ai-3d-animator-skill) · [官网](https://matinsizen.github.io/ai-3d-animator-skill/) · 个人维护
 
 **让任意 LLM agent 掌握专业 3D 建模与动画制作的技能知识包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "matinsizen/ai-3d-animator-skill 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 81 --> 87
-    line [82, 86]
+    title "matinsizen/ai-3d-animator-skill 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 81 --> 89
+    line [82, 86, 88]
 ```
 
-2026-11-26 82 → 2026-11-27 86（+4）
+2026-11-26 82 → 2026-11-28 88（+6）
 
 
 ---

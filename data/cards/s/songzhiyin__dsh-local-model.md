@@ -1,6 +1,6 @@
 # songzhiyin/dsh-local-model
 
-⭐ 7 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/songzhiyin/dsh-local-model) · [官网](https://github.com/songzhiyin/dsh-local-model) · 个人维护 · 中文 README
+⭐ 8 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/songzhiyin/dsh-local-model) · [官网](https://github.com/songzhiyin/dsh-local-model) · 个人维护 · 中文 README
 
 **让 DeepSeek Harness 接入本地模型的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "songzhiyin/dsh-local-model 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 6, 7, 7]
+    x-axis ["2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 6, 7, 8]
 ```
 
-2026-10-28 3 → 2026-11-27 7（+4）
+2026-10-28 3 → 2026-11-28 8（+5）
 
 
 ---

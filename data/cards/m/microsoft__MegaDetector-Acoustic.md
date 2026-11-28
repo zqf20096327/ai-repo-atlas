@@ -1,6 +1,6 @@
 # microsoft/MegaDetector-Acoustic
 
-⭐ 12 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/MegaDetector-Acoustic) · [官网](https://microsoft.github.io/MegaDetector-Acoustic/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/MegaDetector-Acoustic) · [官网](https://microsoft.github.io/MegaDetector-Acoustic/) · 组织维护
 
 **为保护研究者提供被动声学录音的物种检测与分类工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/MegaDetector-Acoustic 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-27"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "microsoft/MegaDetector-Acoustic 星数(近 4 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-14 10 → 2026-11-27 12（+2）
+2026-11-14 10 → 2026-11-28 13（+3）
 
 
 ---

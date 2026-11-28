@@ -1,6 +1,6 @@
 # Lin-Yijie/Graph-Matching-Networks
 
-⭐ 320 · Python · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/Lin-Yijie/Graph-Matching-Networks) · 个人维护
+⭐ 319 · Python · NOASSERTION · 推送 2026-06-16 · [GitHub](https://github.com/Lin-Yijie/Graph-Matching-Networks) · 个人维护
 
 **图匹配网络的 PyTorch 实现集合（COMMON/GMN 等论文代码）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lin-Yijie/Graph-Matching-Networks 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 319 --> 321
-    line [320, 320]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 318 --> 321
+    line [320, 319]
 ```
 
-2026-10-25 320 → 2026-11-27 320（+0）
+2026-10-26 320 → 2026-11-28 319（-1）
 
 
 ---

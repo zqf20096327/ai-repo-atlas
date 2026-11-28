@@ -1,6 +1,6 @@
 # wanshuiyin/ARIS-Movie-Director
 
-⭐ 80 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/wanshuiyin/ARIS-Movie-Director) · [官网](https://wanshuiyin.github.io/ARIS-Movie-Director/comic/) · 个人维护 · 中文 README
+⭐ 81 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/wanshuiyin/ARIS-Movie-Director) · [官网](https://wanshuiyin.github.io/ARIS-Movie-Director/comic/) · 个人维护 · 中文 README
 
 **模糊故事经多智能体审计生成交叉模型校验的图像电影**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wanshuiyin/ARIS-Movie-Director 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 72 --> 81
-    line [73, 74, 73, 76, 77, 78, 79, 80, 80]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 72 --> 82
+    line [73, 74, 73, 76, 77, 78, 79, 80, 81]
 ```
 
-2026-10-25 73 → 2026-11-27 80（+7）
+2026-10-26 73 → 2026-11-28 81（+8）
 
 
 ---

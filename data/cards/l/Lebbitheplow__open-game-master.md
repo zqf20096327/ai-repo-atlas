@@ -1,6 +1,6 @@
 # Lebbitheplow/open-game-master
 
-⭐ 91 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Lebbitheplow/open-game-master) · [官网](https://opengamemaster.com) · 个人维护
+⭐ 91 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Lebbitheplow/open-game-master) · [官网](https://opengamemaster.com) · 个人维护
 
 **本地/自选模型驱动的 AI 游戏主持人：多人跑 5e 战役**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lebbitheplow/open-game-master 星数(近 6 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 84 --> 92
     line [85, 86, 88, 89, 91, 91]
 ```
 
-2026-11-16 85 → 2026-11-27 91（+6）
+2026-11-16 85 → 2026-11-28 91（+6）
 
 
 ---

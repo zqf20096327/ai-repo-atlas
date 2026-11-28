@@ -1,6 +1,6 @@
 # calebfaruki/sycophant
 
-⭐ 18 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/calebfaruki/sycophant) · 个人维护
+⭐ 18 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/calebfaruki/sycophant) · 个人维护
 
 **在 Kubernetes 上零信任隔离运行自主 AI agent 的框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "calebfaruki/sycophant 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-28"]
     y-axis "stars" 13 --> 19
     line [14, 16, 17, 18, 18]
 ```
 
-2026-10-25 14 → 2026-11-27 18（+4）
+2026-10-26 14 → 2026-11-28 18（+4）
 
 
 ---

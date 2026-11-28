@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Student-Dropout-Explainable-AI
 
-⭐ 30 · 推送 2026-08-31 · [GitHub](https://github.com/Hazrat-Ali9/Student-Dropout-Explainable-AI) · [官网](https://github.com/Hazrat-Ali9/Student-Dropout-Explainable-AI) · 个人维护
+⭐ 31 · 推送 2026-08-31 · [GitHub](https://github.com/Hazrat-Ali9/Student-Dropout-Explainable-AI) · [官网](https://github.com/Hazrat-Ali9/Student-Dropout-Explainable-AI) · 个人维护
 
 **用机器学习与可解释 AI 预测并解释学生辍学风险的研究项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/Student-Dropout-Explainable-AI 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 8 --> 32
-    line [10, 11, 15, 22, 25, 26, 30]
+    title "Hazrat-Ali9/Student-Dropout-Explainable-AI 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 8 --> 33
+    line [10, 11, 15, 22, 25, 26, 30, 31]
 ```
 
-2026-11-08 10 → 2026-11-27 30（+20）
+2026-11-08 10 → 2026-11-28 31（+21）
 
 
 ---

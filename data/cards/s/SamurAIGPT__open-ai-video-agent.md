@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamurAIGPT/open-ai-video-agent 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-27"]
+    title "SamurAIGPT/open-ai-video-agent 星数(近 3 点)"
+    x-axis ["2026-10-29", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 13
-    line [10, 12]
+    line [10, 12, 12]
 ```
 
-2026-10-29 10 → 2026-11-27 12（+2）
+2026-10-29 10 → 2026-11-28 12（+2）
 
 
 ---

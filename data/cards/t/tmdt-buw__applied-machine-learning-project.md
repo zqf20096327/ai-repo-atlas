@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "tmdt-buw/applied-machine-learning-project 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-27"]
+    title "tmdt-buw/applied-machine-learning-project 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-28"]
     y-axis "stars" 9 --> 12
-    line [11, 10, 11, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

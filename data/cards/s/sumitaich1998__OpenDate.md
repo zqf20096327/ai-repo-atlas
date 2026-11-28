@@ -1,6 +1,6 @@
 # sumitaich1998/OpenDate
 
-⭐ 18 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/sumitaich1998/OpenDate) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-07-22 · [GitHub](https://github.com/sumitaich1998/OpenDate) · 个人维护
 
 **个人用 AI 约会 agent：用自有 Tinder token 与 LLM 代为筛选和聊天**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sumitaich1998/OpenDate 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-28"]
     y-axis "stars" 15 --> 20
-    line [16, 17, 18, 19, 18, 18]
+    line [16, 17, 18, 19, 18, 19]
 ```
 
-2026-11-08 16 → 2026-11-27 18（+2）
+2026-11-08 16 → 2026-11-28 19（+3）
 
 
 ---

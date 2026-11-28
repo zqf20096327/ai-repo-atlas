@@ -42,6 +42,18 @@
 > L20: - **NovelAI 协议适配**：支持 NovelAI Diffusion V5 / V4.5 / V4 / V3 及 Furry 系列模型，提供 2D 分辨率面板、采样器与调度器配置、单并发排队和 429 重试。
 > L26: - **多协议 LLM 接入**：支持 OpenAI 兼容、Anthropic Messages 和 Google Gemini Interactions 接口，支持流式输出、思考强度切换、多模态图片发送与上下文压缩。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "saltysalrua/Novelai-harness 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-27 25 → 2026-11-28 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `2eb7348e1bbd` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # emielvangoor/paseo-tui
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/emielvangoor/paseo-tui) · 个人维护
+⭐ 7 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/emielvangoor/paseo-tui) · 个人维护
 
 **在终端运行并操控 Paseo 编码代理的键盘优先 TUI 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "emielvangoor/paseo-tui 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "emielvangoor/paseo-tui 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 7]
 ```
 
-2026-11-26 3 → 2026-11-27 4（+1）
+2026-11-26 3 → 2026-11-28 7（+4）
 
 
 ---

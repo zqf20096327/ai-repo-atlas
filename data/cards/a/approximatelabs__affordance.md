@@ -1,6 +1,6 @@
 # approximatelabs/affordance
 
-⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/approximatelabs/affordance) · [官网](https://affordance.rs) · 组织维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/approximatelabs/affordance) · [官网](https://affordance.rs) · 组织维护
 
 **用 TSX 渲染状态为模型 token 的 agent 应用引擎**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "approximatelabs/affordance 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 29
-    line [4, 22, 23, 24, 27, 27]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 30
+    line [4, 22, 23, 24, 27, 28]
 ```
 
-2026-11-19 4 → 2026-11-27 27（+23）
+2026-11-19 4 → 2026-11-28 28（+24）
 
 
 ---

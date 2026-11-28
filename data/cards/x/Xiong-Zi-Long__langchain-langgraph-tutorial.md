@@ -42,6 +42,18 @@
 > L18: > 每一章都是**可运行的真实代码 + 讲透原理的文档**，最后一章是一个能写进简历的**企业级多文件项目**。
 > L50: |章节|内容|适合谁|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Xiong-Zi-Long/langchain-langgraph-tutorial 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `b5ba697decb6` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # yangyang0507/starepo
 
-⭐ 34 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yangyang0507/starepo) · 个人维护 · 中文 README
+⭐ 35 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yangyang0507/starepo) · 个人维护 · 中文 README
 
 **用语义搜索检索个人 GitHub star 仓库的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yangyang0507/starepo 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-25 34 → 2026-11-27 34（+0）
+2026-10-26 34 → 2026-11-28 35（+1）
 
 
 ---

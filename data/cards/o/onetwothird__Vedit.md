@@ -1,6 +1,6 @@
 # onetwothird/Vedit
 
-⭐ 4 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/onetwothird/Vedit) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/onetwothird/Vedit) · 个人维护
 
 **面向内容创作者的开源 AI 视频剪辑工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "onetwothird/Vedit 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-25 3 → 2026-11-27 4（+1）
+2026-11-25 3 → 2026-11-28 5（+2）
 
 
 ---

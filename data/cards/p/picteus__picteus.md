@@ -1,6 +1,6 @@
 # picteus/picteus
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/picteus/picteus) · [官网](https://www.picteus.com) · 组织维护
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/picteus/picteus) · [官网](https://www.picteus.com) · 组织维护
 
 **本地优先的 AI 图像资产编目与编排框架（桌面+服务端）**
 
@@ -46,13 +46,13 @@ Picteus 是本地优先的桌面与服务端平台，用于编目、检查、标
 
 ```mermaid
 xychart-beta
-    title "picteus/picteus 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
+    title "picteus/picteus 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
     y-axis "stars" 17 --> 23
-    line [18, 20, 22, 18, 21, 22, 22]
+    line [20, 22, 18, 21, 22, 22]
 ```
 
-2026-10-25 18 → 2026-11-27 22（+4）
+2026-10-26 20 → 2026-11-28 22（+2）
 
 
 ---

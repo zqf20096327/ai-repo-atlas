@@ -1,6 +1,6 @@
 # Mirantis/prism
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/Mirantis/prism) · [官网](https://docs.lenshq.io/prism-agent/) · 组织维护
+⭐ 24 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Mirantis/prism) · [官网](https://docs.lenshq.io/prism-agent/) · 组织维护
 
 **自托管企业 AI Agent：对话结束后仍持续记忆与执行任务**
 
@@ -41,6 +41,18 @@
 > L3: **Prism Agent is an enterprise-ready AI agent that keeps working after the
 > L79: - **Goals** — set a background goal with `/goal` and the
 > L92: - **Memory** — search, write, delete entries in its long-term memory store.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Mirantis/prism 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 20 --> 25
+    line [21, 24]
+```
+
+2026-11-27 21 → 2026-11-28 24（+3）
 
 
 ---

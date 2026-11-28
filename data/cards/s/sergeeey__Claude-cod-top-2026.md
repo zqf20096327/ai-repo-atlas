@@ -1,6 +1,6 @@
 # sergeeey/Claude-cod-top-2026
 
-⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sergeeey/Claude-cod-top-2026) · [官网](https://github.com/sergeeey/Claude-cod-top-2026#readme) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sergeeey/Claude-cod-top-2026) · [官网](https://github.com/sergeeey/Claude-cod-top-2026#readme) · 个人维护 · 中文 README
 
 **为 Claude Code 加证据标记与审计门槛的开发配置层**
 
@@ -41,6 +41,18 @@
 > L55: Claude-cod-top-2026 is an **Evidence-aware Goal Operating Layer for Claude Code.**
 > L148: - Built and tested for Claude Code **only** — Codex, VS Code Copilot and Gemini are not supported. per Cursor's do
 > L185: - You need to **read every hook before installing** — only ~10 MB, plain Python, no JS dependencies, every file re
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sergeeey/Claude-cod-top-2026 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
 
 
 ---

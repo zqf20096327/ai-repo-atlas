@@ -1,6 +1,6 @@
 # tireddwarf99/ai--manus
 
-⭐ 158 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tireddwarf99/ai--manus) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 助手**
 
@@ -11,7 +11,7 @@ README 描述的 Manus 是一个面向终端用户的自主 AI 代理：接收�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

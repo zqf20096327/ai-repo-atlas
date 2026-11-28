@@ -46,13 +46,13 @@ macOS（SwiftUI）与 Windows（WPF/.NET 10）双端桌面应用，功能覆盖�
 
 ```mermaid
 xychart-beta
-    title "pennyzhaozhao/AI-interview-Assistant 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
+    title "pennyzhaozhao/AI-interview-Assistant 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 14 --> 20
-    line [15, 18, 19]
+    line [15, 18, 19, 19]
 ```
 
-2026-11-25 15 → 2026-11-27 19（+4）
+2026-11-25 15 → 2026-11-28 19（+4）
 
 
 ---

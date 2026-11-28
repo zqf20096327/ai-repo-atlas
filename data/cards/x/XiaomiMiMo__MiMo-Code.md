@@ -1,16 +1,16 @@
 # XiaomiMiMo/MiMo-Code
 
-⭐ 13,797 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
+⭐ 13,798 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/XiaomiMiMo/MiMo-Code) · [官网](https://mimo.xiaomi.com/mimocode) · 组织维护 · 中文 README
 
-**小米出品的终端原生 AI 编程助手 CLI，跨会话记忆持续理解项目**
+**终端原生的 AI 编码助手：读写代码、管理 Git 并跨会话保持项目记忆**
 
-MiMoCode 是小米 MiMo 团队发布的终端原生 AI 编码助手：可读写代码、执行命令、管理 Git，并通过基于 SQLite FTS5 的持久记忆系统（MEMORY.md、checkpoint、notes、任务日志）在会话间保持对项目的理解。支持连接任意主流 LLM 提供商 API（OAuth 或 OpenAI 兼容自定义 Provider），内置 build/plan 双 Agent、子代理并行、上下文压缩与任务跟踪、确定性 JavaScript 工作流（deep-research/fact-check/research-experiment）与可复用技能系统。提供 macOS/Linux 一键安装脚本；不支持 macOS 内置终端，需 iTerm2 或 VS Code 终端。
+MiMoCode 是小米 MiMo 团队开发的终端 AI 编码助手，可读写代码、运行命令、管理 Git，通过 SQLite FTS5 支撑的跨会话记忆系统持续理解项目并提供 checkpointer/上下文重建机制。核心功能含 build/plan 多 Agent、并行子代理、树形任务跟踪、/goal 停止条件判定、沙箱化 JS 工作流（deep-research、fact-check、research-experiment）及内置技能（PDF 生成、arXiv 检索、论文写作等）。支持 OAuth/API key 接入多家模型服务商，并可一行脚本安装于 macOS/Linux。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,40 +26,40 @@ MiMoCode 是小米 MiMo 团队发布的终端原生 AI 编码助手：可读写�
 
 ## 能力要点
 
-- 跨会话持久记忆：SQLite FTS5 检索的项目记忆、会话检查点与任务日志
-- 上下文管理：自动检查点、上下文重建、token 预算注入与可调压缩点 /context-limit
-- 确定性 JS 工作流：deep-research、fact-check、research-experiment，支持沙箱并行与文件断点续跑
-- 可从 Claude Code 一键迁移认证，支持任意 OpenAI 兼容 API
+- SQLite FTS5 跨会话持久记忆：项目记忆、检查点、笔记、任务日志
+- 多 Agent（build/plan）、并行子代理与 /goal 停止条件独立判定
+- 三个内置 JS 工作流：deep-research、fact-check、research-experiment
+- 自动上下文压缩点调整（/context-limit）与技能系统（BM25 匹配）
 
 ## 适用场景
 
-- 在终端中让 AI 代理读写代码、跑命令、管理 Git 完成开发任务
-- 长会话开发中保留项目知识，恢复会话不丢上下文
-- 用内置工作流做多来源深度研究报告或事实核查
-- 在 Cursor/Cline/Zed 等工具中接入 MiMo 模型（配套指南仓库）
+- 在终端里让 AI 助手直接完成编码、Git 管理与多文件迭代
+- 用 deep-research/fact-check 工作流产出带引用的研究或核查报告
+- 自主优化循环（research-experiment）验证可机械评估的指标
+- 跨会话续接开发任务，无需重新学习项目上下文
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L11: MiMoCode is a terminal-native AI coding assistant. It can read and write code, run commands, manage Git, and use a 
-> L13: MiMoCode supports connecting to any mainstream LLM provider API.
-> L105: Beyond MiMoCode, Xiaomi MiMo models also work in other agents and coding tools like Cursor, Cline, and Zed.
+> L21: Xiaomi MiMo Desktop is built for real-world work: one conversation can handle office work, design, coding, and mult
+> L111: ### Multiple Agents
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "XiaomiMiMo/MiMo-Code 星数(近 19 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 13711 --> 13804
-    line [13718, 13722, 13730, 13735, 13734, 13737, 13741, 13718, 13766, 13780, 13778, 13788, 13786, 13790, 13793, 13796, 13797, 13796, 13797]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 13710 --> 13806
+    line [13722, 13730, 13735, 13734, 13737, 13741, 13718, 13766, 13780, 13778, 13788, 13786, 13790, 13793, 13796, 13797, 13796, 13797, 13798]
 ```
 
-2026-10-25 13,718 → 2026-11-27 13,797（+79）
+2026-10-26 13,722 → 2026-11-28 13,798（+76）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `68e5edd9ad48` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `5963a0faa036` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的 Windows 桌面操作插件：提供窗口截图、U
 ```mermaid
 xychart-beta
     title "STARDUSTLC666/deepseek-computer-use 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-28"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-18 6 → 2026-11-27 6（+0）
+2026-11-18 6 → 2026-11-28 6（+0）
 
 
 ---

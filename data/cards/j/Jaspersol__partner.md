@@ -1,6 +1,6 @@
 # Jaspersol/partner
 
-⭐ 3 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Jaspersol/partner) · [官网](https://github.com/Jaspersol/partner/blob/master/README.md) · 个人维护 · 中文 README
+⭐ 3 · C# · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Jaspersol/partner) · [官网](https://github.com/Jaspersol/partner/blob/master/README.md) · 个人维护 · 中文 README
 
 **Windows 单会话桌面 AI 助手：记忆、语音、定时与桌面控制**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Jaspersol/partner 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-27"]
+    x-axis ["2026-11-12", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-27 3（+0）
+2026-11-12 3 → 2026-11-28 3（+0）
 
 
 ---

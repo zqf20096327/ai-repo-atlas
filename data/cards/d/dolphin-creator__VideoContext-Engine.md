@@ -1,6 +1,6 @@
 # dolphin-creator/VideoContext-Engine
 
-⭐ 39 · Python · 推送 2025-12-04 · [GitHub](https://github.com/dolphin-creator/VideoContext-Engine) · 个人维护
+⭐ 40 · Python · 推送 2025-12-04 · [GitHub](https://github.com/dolphin-creator/VideoContext-Engine) · 个人维护
 
 **本地视频理解微服务：场景切分+Whisper 转录+Qwen3-VL 描述**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dolphin-creator/VideoContext-Engine 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-25 39 → 2026-11-27 39（+0）
+2026-10-26 39 → 2026-11-28 40（+1）
 
 
 ---

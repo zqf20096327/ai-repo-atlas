@@ -46,12 +46,12 @@ CoRL 2025 论文配套代码库：将 VLA 模型 FFN 值向量投影到词汇空
 ```mermaid
 xychart-beta
     title "Physical-AI-Safety-Institute/mechanistic-steering-vlas 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 18 --> 22
     line [19, 21, 21]
 ```
 
-2026-10-25 19 → 2026-11-27 21（+2）
+2026-10-26 19 → 2026-11-28 21（+2）
 
 
 ---

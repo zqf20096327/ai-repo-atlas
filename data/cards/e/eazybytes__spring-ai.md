@@ -1,6 +1,6 @@
 # eazybytes/spring-ai
 
-⭐ 186 · Java · 推送 2026-11-01 · [GitHub](https://github.com/eazybytes/spring-ai) · [官网](https://www.udemy.com/course/java-spring-ai/?referralCode=144430555105E7ADD679) · 组织维护
+⭐ 187 · Java · 推送 2026-11-01 · [GitHub](https://github.com/eazybytes/spring-ai) · [官网](https://www.udemy.com/course/java-spring-ai/?referralCode=144430555105E7ADD679) · 组织维护
 
 **Spring AI 课程的参考资源与工具链接汇总**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eazybytes/spring-ai 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 174 --> 187
-    line [176, 175, 176, 182, 181, 183, 184, 185, 186, 186]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 174 --> 188
+    line [176, 175, 176, 182, 181, 183, 184, 185, 186, 187]
 ```
 
-2026-10-25 176 → 2026-11-27 186（+10）
+2026-10-26 176 → 2026-11-28 187（+11）
 
 
 ---

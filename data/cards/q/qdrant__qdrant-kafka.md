@@ -1,6 +1,6 @@
 # qdrant/qdrant-kafka
 
-⭐ 13 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/qdrant/qdrant-kafka) · 组织维护
+⭐ 13 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/qdrant/qdrant-kafka) · 组织维护
 
 **Kafka Connect 的 Qdrant Sink 连接器：把向量数据流式写入 Qdrant**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-kafka 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

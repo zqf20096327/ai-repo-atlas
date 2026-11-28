@@ -1,6 +1,6 @@
 # pardesline/pardesline
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/pardesline/pardesline) · [官网](https://pardesline.github.io/pardesline/) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/pardesline/pardesline) · [官网](https://pardesline.github.io/pardesline/) · 个人维护
 
 **给 3D 视觉与医学影像研究者的一行式数据集与算法 Python 包**
 
@@ -47,12 +47,12 @@ Python 库，用清单（manifest）描述 43 个公开 3D 与医学数据集，
 ```mermaid
 xychart-beta
     title "pardesline/pardesline 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 7 --> 11
     line [8, 9, 8, 10, 10]
 ```
 
-2026-10-25 8 → 2026-11-27 10（+2）
+2026-10-26 8 → 2026-11-28 10（+2）
 
 
 ---

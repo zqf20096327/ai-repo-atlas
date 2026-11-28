@@ -1,6 +1,6 @@
 # jarry126/queryforge-test2sql
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/jarry126/queryforge-test2sql) · 个人维护 · 中文 README
+⭐ 20 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/jarry126/queryforge-test2sql) · 个人维护 · 中文 README
 
 **生产级 Text-to-SQL 服务：自然语言转安全可执行 SQL 并回答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jarry126/queryforge-test2sql 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 20（+1）
 
 
 ---

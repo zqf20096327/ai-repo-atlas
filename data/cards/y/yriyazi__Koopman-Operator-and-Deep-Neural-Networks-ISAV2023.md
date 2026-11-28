@@ -1,6 +1,6 @@
 # yriyazi/Koopman-Operator-and-Deep-Neural-Networks-ISAV2023
 
-⭐ 13 · Jupyter Notebook · NOASSERTION · 推送 2025-12-01 · [GitHub](https://github.com/yriyazi/Koopman-Operator-and-Deep-Neural-Networks-ISAV2023) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Koopman 算子结合深度神经网络的 Duffing 振子预测与参数估计工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

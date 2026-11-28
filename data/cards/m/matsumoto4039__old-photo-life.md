@@ -46,12 +46,12 @@ old-photo-life 是面向 Windows 10/11 x64 的便携运行时套件，主打老�
 ```mermaid
 xychart-beta
     title "matsumoto4039/old-photo-life 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-11-26 66 → 2026-11-27 66（+0）
+2026-11-26 66 → 2026-11-28 66（+0）
 
 
 ---

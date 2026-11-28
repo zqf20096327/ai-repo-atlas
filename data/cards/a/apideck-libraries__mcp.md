@@ -44,13 +44,13 @@ Apideck Unified API 的 Model Context Protocol 服务器：向任意 MCP 兼容 
 
 ```mermaid
 xychart-beta
-    title "apideck-libraries/mcp 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "apideck-libraries/mcp 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 19 --> 22
-    line [20, 21, 20]
+    line [20, 21, 20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

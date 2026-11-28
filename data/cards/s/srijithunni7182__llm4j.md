@@ -1,6 +1,6 @@
 # srijithunni7182/llm4j
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/srijithunni7182/llm4j) · 个人维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/srijithunni7182/llm4j) · 个人维护
 
 **Java 企业应用的 AI agent 构建与编排平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "srijithunni7182/llm4j 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-27 10（+0）
+2026-11-10 10 → 2026-11-28 10（+0）
 
 
 ---

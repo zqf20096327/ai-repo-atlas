@@ -1,6 +1,6 @@
 # felixrieseberg/language-model-builder
 
-⭐ 66 · 推送 2026-11-10 · [GitHub](https://github.com/felixrieseberg/language-model-builder) · [官网](https://languagemodelbuilder.com) · 个人维护
+⭐ 67 · 推送 2026-11-10 · [GitHub](https://github.com/felixrieseberg/language-model-builder) · [官网](https://languagemodelbuilder.com) · 个人维护
 
 **macOS 教学应用：从零构建微型语言模型并与它对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "felixrieseberg/language-model-builder 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-28"]
     y-axis "stars" 58 --> 68
-    line [59, 60, 61, 59, 62, 63, 64, 66, 67, 66, 66]
+    line [59, 60, 61, 59, 62, 63, 64, 66, 67, 66, 67]
 ```
 
-2026-10-25 59 → 2026-11-27 66（+7）
+2026-10-26 59 → 2026-11-28 67（+8）
 
 
 ---

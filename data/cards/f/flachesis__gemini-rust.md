@@ -1,6 +1,6 @@
 # flachesis/gemini-rust
 
-⭐ 79 · Rust · MIT · 推送 2026-09-05 · [GitHub](https://github.com/flachesis/gemini-rust) · [官网](https://crates.io/crates/gemini-rust) · 个人维护
+⭐ 79 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/flachesis/gemini-rust) · [官网](https://crates.io/crates/gemini-rust) · 个人维护
 
 **Google Gemini API 的 Rust 客户端库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "flachesis/gemini-rust 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-25 79 → 2026-11-27 79（+0）
+2026-10-26 79 → 2026-11-28 79（+0）
 
 
 ---

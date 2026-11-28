@@ -1,6 +1,6 @@
 # byaan-ai/byaan
 
-⭐ 95 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/byaan-ai/byaan) · [官网](https://www.byaan.ai/) · 组织维护
+⭐ 95 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/byaan-ai/byaan) · [官网](https://www.byaan.ai/) · 组织维护
 
 **自托管 AI 数据分析 agent：连自有数据库，自然语言出图表**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "byaan-ai/byaan 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-28"]
     y-axis "stars" 94 --> 99
     line [98, 97, 98, 96, 95, 95]
 ```
 
-2026-10-25 98 → 2026-11-27 95（-3）
+2026-10-26 98 → 2026-11-28 95（-3）
 
 
 ---

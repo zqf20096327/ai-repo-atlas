@@ -1,6 +1,6 @@
 # weaviate/weaviate-agents-python-client
 
-⭐ 11 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/weaviate/weaviate-agents-python-client) · 组织维护
+⭐ 11 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/weaviate/weaviate-agents-python-client) · 组织维护
 
 **面向 Weaviate 数据库的自然语言查询 Agent Python 客户端**
 
@@ -45,12 +45,12 @@ Weaviate 官方 Python 客户端的子包，提供 Query Agent 接口：将自�
 ```mermaid
 xychart-beta
     title "weaviate/weaviate-agents-python-client 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ryang420/agent-keel
 
-⭐ 9 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ryang420/agent-keel) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **服务端多租户 agent 运行时：HTTP+SSE 跑模型工具循环**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

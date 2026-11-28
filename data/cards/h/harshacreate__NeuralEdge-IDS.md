@@ -1,6 +1,6 @@
 # harshacreate/NeuralEdge-IDS
 
-⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/harshacreate/NeuralEdge-IDS) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/harshacreate/NeuralEdge-IDS) · 个人维护
 
 **用合成 IoT 流量对比集中式与联邦式训练的威胁检测实验项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "harshacreate/NeuralEdge-IDS 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

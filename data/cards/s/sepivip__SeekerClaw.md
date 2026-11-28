@@ -1,10 +1,10 @@
 # sepivip/SeekerClaw
 
-⭐ 324 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/sepivip/SeekerClaw) · [官网](https://seekerclaw.xyz) · 个人维护
+⭐ 324 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sepivip/SeekerClaw) · [官网](https://seekerclaw.xyz) · 个人维护
 
-**把 Solana Seeker 或安卓手机变成 24/7 个人 AI agent**
+**把 Android 手机（含 Solana Seeker）变成 24/7 个人 AI 代理的应用**
 
-在 Android 应用内嵌入 Node.js 运行时（nodejs-mobile），以前台服务形式 24/7 运行个人 AI agent，通过 Telegram 或 Discord 交互。内置 64 个工具与 22 个捆绑技能，支持 MCP 远程工具扩展；多供应商接入（Claude、OpenAI、xAI Grok、OpenRouter 及 OpenAI 兼容网关）。v2 起加入双钱包机制：应用内 burner 钱包在用户设定的单笔/日上限内自主交易与 x402 API 支付，主钱包始终由用户签名确认。需 Android Studio 与 JDK 17 从源码构建 APK。
+在 Android 应用内嵌 Node.js AI 代理（前台服务常驻运行），用户经 Telegram 或 Discord 与其交互：提问、控制手机、定时任务，以及在 Solana 链上用 USDC 交易与向 x402 付费 API 自主支付。内置 64 个工具、22 个技能，支持 MCP 远程工具与自定义技能（Markdown+YAML 格式）。AI 引擎为多供应商配置（Claude/OpenAI/xAI Grok/OpenRouter 或任意 OpenAI 兼容网关）。需自备 API key 或登录凭据；项目处于 Beta，从源码用 Android Studio 构建，也提供 APK 下载。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- 内嵌 Node.js 前台服务，agent 24/7 运行于设备本地
-- 64 个内置工具 + 22 个捆绑技能 + MCP 远程工具扩展
-- burner 钱包在上限内自主交易与 x402 支付（AES-256-GCM 加密，可一键清除）
-- Telegram/Discord 双通道，支持自然语言定时任务与持久记忆
+- 内嵌 Node.js 运行时的前台服务代理，经 Telegram/Discord 交互
+-  burner 钱包限额自主交易与 x402 付费 API 支付，主钱包始终由用户签名
+- 64 内置工具 + 22 技能 + MCP 远程工具，可在聊天中切换模型/供应商
+- 持久记忆、自然语言 cron 定时、多搜索后端网页情报
 
 ## 适用场景
 
-- 用聊天软件远程控制手机功能与安排任务
-- 在设定上限内让 agent 自主进行 Solana 代币交易与 DCA
-- 按次付费调用市场数据、旅行等 x402 付费 API
-- 接入智能家居等第三方技能扩展 agent 能力
+- 把闲置 Android 手机变成长驻个人代理随时对话
+- 在 Telegram 里让代理执行手机操作与定时提醒
+- 在设定限额内让代理自主进行 Solana 代币交易
+- 让代理按需调用付费 API（行情、旅行、研究等）
 
 ## 场景标签
 
-`AI 助手` `金融量化` · 领域:对话与助手
+`AI 助手` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L28: SeekerClaw — winner of the **Solana Mobile Hackathon (April 2026)** — embeds a Node.js AI agent inside an Android a
 > L34: **64 built-in tools** (plus MCP remote tools), **22 bundled skills + 5 partner skills**, two-wallet Solana with **c
-> L48: |:robot:|**AI Engine**|Claude (API key or Pro/Max setup token), OpenAI (API key or ChatGPT sign-in), xAI Grok (API 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "sepivip/SeekerClaw 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-22", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-22", "2026-11-25", "2026-11-28"]
     y-axis "stars" 318 --> 325
     line [319, 320, 321, 322, 323, 324, 324]
 ```
 
-2026-10-25 319 → 2026-11-27 324（+5）
+2026-10-26 319 → 2026-11-28 324（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9ebe00012c10` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `03cb1c91f103` · [字段定义](../../DATASET.md)*

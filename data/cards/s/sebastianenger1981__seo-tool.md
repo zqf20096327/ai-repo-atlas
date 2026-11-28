@@ -45,12 +45,12 @@ ArtikelSchreiber.com 与 UNAIQUE.net 的完整前后端源码发布：通过修�
 ```mermaid
 xychart-beta
     title "sebastianenger1981/seo-tool 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-25 20 → 2026-11-27 20（+0）
+2026-10-26 20 → 2026-11-28 20（+0）
 
 
 ---

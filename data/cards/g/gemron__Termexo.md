@@ -1,6 +1,6 @@
 # gemron/Termexo
 
-⭐ 56 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gemron/Termexo) · [官网](https://www.termexo.com/) · 个人维护 · 中文 README
+⭐ 58 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/gemron/Termexo) · [官网](https://www.termexo.com/) · 个人维护 · 中文 README
 
 **Windows 工作台：统一运行并远程接管多个 AI 编码代理终端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gemron/Termexo 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 49 --> 57
-    line [50, 51, 52, 53, 50, 55, 56, 56]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 49 --> 59
+    line [50, 51, 52, 53, 50, 55, 56, 58]
 ```
 
-2026-10-25 50 → 2026-11-27 56（+6）
+2026-10-26 50 → 2026-11-28 58（+8）
 
 
 ---

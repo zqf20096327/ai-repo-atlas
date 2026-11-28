@@ -1,6 +1,6 @@
 # gitseed-dev/gitseed
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/gitseed-dev/gitseed) · [官网](https://gitseed.dev) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/gitseed-dev/gitseed) · [官网](https://gitseed.dev) · 组织维护
 
 **自托管 AI 编码 Agent 控制平面：沙箱运行且不持有 Git 凭据**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "gitseed-dev/gitseed 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 17 --> 28
-    line [18, 27]
+    title "gitseed-dev/gitseed 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 17 --> 29
+    line [18, 27, 28]
 ```
 
-2026-11-26 18 → 2026-11-27 27（+9）
+2026-11-26 18 → 2026-11-28 28（+10）
 
 
 ---

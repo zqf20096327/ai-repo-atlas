@@ -1,6 +1,6 @@
 # pqant/claude-continuity
 
-⭐ 27 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/pqant/claude-continuity) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/pqant/claude-continuity) · 个人维护
 
 **Claude Code 的零接触会话轮换与监护工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pqant/claude-continuity 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-11-08 27 → 2026-11-27 27（+0）
+2026-11-08 27 → 2026-11-28 27（+0）
 
 
 ---

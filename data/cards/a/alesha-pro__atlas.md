@@ -1,6 +1,6 @@
 # alesha-pro/atlas
 
-⭐ 77 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/alesha-pro/atlas) · [官网](https://atlas.alesha.pro) · 个人维护
+⭐ 79 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/alesha-pro/atlas) · [官网](https://atlas.alesha.pro) · 个人维护
 
 **逐张量解剖 LLM 检查点的交互式可视化画布**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alesha-pro/atlas 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 73 --> 78
-    line [75, 74, 75, 76, 77]
+    title "alesha-pro/atlas 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 73 --> 80
+    line [75, 74, 75, 76, 77, 79]
 ```
 
-2026-10-25 75 → 2026-11-27 77（+2）
+2026-10-26 75 → 2026-11-28 79（+4）
 
 
 ---

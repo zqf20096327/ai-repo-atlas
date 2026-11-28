@@ -1,6 +1,6 @@
 # zjunlp/MobileMem
 
-⭐ 33 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/zjunlp/MobileMem) · [官网](https://zjunlp.github.io/MobileMem/) · 组织维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/zjunlp/MobileMem) · [官网](https://zjunlp.github.io/MobileMem/) · 组织维护 · 中文 README
 
 **移动端设备上记忆系统的评测基准与数据集（三赛道）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zjunlp/MobileMem 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 31 --> 34
-    line [32, 33]
+    title "zjunlp/MobileMem 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34]
 ```
 
-2026-10-25 32 → 2026-11-27 33（+1）
+2026-10-26 32 → 2026-11-28 34（+2）
 
 
 ---

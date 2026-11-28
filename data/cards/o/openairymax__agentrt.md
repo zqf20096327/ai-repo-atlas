@@ -1,6 +1,6 @@
 # openairymax/agentrt
 
-⭐ 1,242 · C · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/openairymax/agentrt) · [官网](https://atomgit.com/openairymax) · 组织维护 · 中文 README
+⭐ 1,242 · C · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/openairymax/agentrt) · [官网](https://atomgit.com/openairymax) · 组织维护 · 中文 README
 
 **AI Agent 运行时平台的自动化构建与发布工程目录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openairymax/agentrt 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 1240 --> 1247
     line [1246, 1245, 1244, 1245, 1246, 1241, 1242, 1243, 1242, 1242]
 ```
 
-2026-10-25 1,246 → 2026-11-27 1,242（-4）
+2026-10-26 1,246 → 2026-11-28 1,242（-4）
 
 
 ---

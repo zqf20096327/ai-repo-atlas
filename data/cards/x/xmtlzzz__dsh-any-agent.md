@@ -1,6 +1,6 @@
 # xmtlzzz/dsh-any-agent
 
-⭐ 8 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/xmtlzzz/dsh-any-agent) · [官网](https://dsh-any-agent.xmtlz.dev/) · 个人维护
+⭐ 8 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/xmtlzzz/dsh-any-agent) · [官网](https://dsh-any-agent.xmtlz.dev/) · 个人维护
 
 **MCP 服务器：让任意 MCP 客户端驱动 DSH 作为长驻编码 agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xmtlzzz/dsh-any-agent 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-26", "2026-11-27"]
+    title "xmtlzzz/dsh-any-agent 星数(近 7 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 9
-    line [3, 4, 5, 6, 7, 8]
+    line [3, 4, 5, 6, 7, 8, 8]
 ```
 
-2026-11-02 3 → 2026-11-27 8（+5）
+2026-11-02 3 → 2026-11-28 8（+5）
 
 
 ---

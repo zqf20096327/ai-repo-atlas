@@ -1,6 +1,6 @@
 # Andy1314Chen/architecture-drawer
 
-⭐ 47 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Andy1314Chen/architecture-drawer) · 个人维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Andy1314Chen/architecture-drawer) · 个人维护 · 中文 README
 
 **给 AI 编程 agent 的技能：文本架构描述生成可编辑 PPT 图**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Andy1314Chen/architecture-drawer 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 46 --> 48
-    line [47, 47]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 46 --> 49
+    line [47, 48]
 ```
 
-2026-10-25 47 → 2026-11-27 47（+0）
+2026-10-26 47 → 2026-11-28 48（+1）
 
 
 ---

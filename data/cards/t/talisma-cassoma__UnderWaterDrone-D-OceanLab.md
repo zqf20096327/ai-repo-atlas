@@ -1,6 +1,6 @@
 # talisma-cassoma/UnderWaterDrone-D-OceanLab
 
-⭐ 12 · Jupyter Notebook · MIT · 推送 2026-07-22 · [GitHub](https://github.com/talisma-cassoma/UnderWaterDrone-D-OceanLab) · 个人维护
+⭐ 13 · Jupyter Notebook · MIT · 推送 2026-07-22 · [GitHub](https://github.com/talisma-cassoma/UnderWaterDrone-D-OceanLab) · 个人维护
 
 **研究用水下无人机项目：深度学习识别与追踪海洋生物**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "talisma-cassoma/UnderWaterDrone-D-OceanLab 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 13（+1）
 
 
 ---

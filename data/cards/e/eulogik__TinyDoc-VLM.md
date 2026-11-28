@@ -1,6 +1,6 @@
 # eulogik/TinyDoc-VLM
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/eulogik/TinyDoc-VLM) · [官网](https://huggingface.co/spaces/eulogik/TinyDoc-VLM) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/eulogik/TinyDoc-VLM) · [官网](https://huggingface.co/spaces/eulogik/TinyDoc-VLM) · 个人维护
 
 **本地运行的收据/发票抽取 SDK，输出带证据引文的 JSON**
 
@@ -46,12 +46,12 @@ TinyDoc 是开源 Python SDK 与 CLI，将收据和发票图像转换为 schema 
 ```mermaid
 xychart-beta
     title "eulogik/TinyDoc-VLM 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 11（+1）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

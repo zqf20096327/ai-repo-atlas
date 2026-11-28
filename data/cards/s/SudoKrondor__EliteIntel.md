@@ -1,6 +1,6 @@
 # SudoKrondor/EliteIntel
 
-⭐ 151 · Java · MIT · 推送 2026-11-26 · [GitHub](https://github.com/SudoKrondor/EliteIntel) · 组织维护
+⭐ 152 · Java · MIT · 推送 2026-11-27 · [GitHub](https://github.com/SudoKrondor/EliteIntel) · 组织维护
 
 **给 Elite Dangerous 玩家的 AI 语音副驾驶与数据分析助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SudoKrondor/EliteIntel 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 143 --> 152
-    line [144, 145, 146, 147, 148, 149, 144, 151, 151]
+    title "SudoKrondor/EliteIntel 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 143 --> 153
+    line [145, 146, 147, 148, 149, 144, 151, 152]
 ```
 
-2026-10-25 144 → 2026-11-27 151（+7）
+2026-10-26 145 → 2026-11-28 152（+7）
 
 
 ---

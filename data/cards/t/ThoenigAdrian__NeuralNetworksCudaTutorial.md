@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ThoenigAdrian/NeuralNetworksCudaTutorial 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-28"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-11-02 23 → 2026-11-27 23（+0）
+2026-11-02 23 → 2026-11-28 23（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # classifiedstudentkabir/Sign-Language-Interpreter
 
-⭐ 64 · JavaScript · 推送 2026-02-01 · [GitHub](https://github.com/classifiedstudentkabir/Sign-Language-Interpreter) · [官网](https://classifiedstudentkabir.github.io/Sign-Language-Interpreter/) · 个人维护
+⭐ 65 · JavaScript · 推送 2026-02-01 · [GitHub](https://github.com/classifiedstudentkabir/Sign-Language-Interpreter) · [官网](https://classifiedstudentkabir.github.io/Sign-Language-Interpreter/) · 个人维护
 
 **在浏览器实时识别手语手势并转成文字的网页应用**
 
@@ -46,12 +46,12 @@ SignLens 是部署在 GitHub Pages 上的网页应用，通过 MediaPipe Hands �
 ```mermaid
 xychart-beta
     title "classifiedstudentkabir/Sign-Language-Interpreter 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 59 --> 65
-    line [60, 61, 62, 63, 62, 63, 60, 63, 64, 63, 64, 64]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 59 --> 66
+    line [60, 61, 62, 63, 62, 63, 60, 63, 64, 63, 64, 65]
 ```
 
-2026-10-25 60 → 2026-11-27 64（+4）
+2026-10-26 60 → 2026-11-28 65（+5）
 
 
 ---

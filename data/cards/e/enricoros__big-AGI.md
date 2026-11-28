@@ -1,6 +1,6 @@
 # enricoros/big-AGI
 
-⭐ 7,169 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/enricoros/big-AGI) · [官网](https://big-agi.com) · 个人维护
+⭐ 7,169 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/enricoros/big-AGI) · [官网](https://big-agi.com) · 个人维护
 
 **面向专家的多模型 AI 工作区，自托管聊天与模型对比**
 
@@ -46,12 +46,12 @@ Big-AGI Open 是多模型 AI 工作区的开源基础：在对话中切换 800+ 
 ```mermaid
 xychart-beta
     title "enricoros/big-AGI 星数(近 5 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 7166 --> 7170
     line [7167, 7168, 7167, 7169, 7169]
 ```
 
-2026-11-21 7,167 → 2026-11-27 7,169（+2）
+2026-11-21 7,167 → 2026-11-28 7,169（+2）
 
 
 ---

@@ -41,6 +41,18 @@
 > L8: Java library for the Groq API (GroqCloud): chat completions, responses, embeddings, reranking, speech, transcription
 > L10: ## Install
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kornkutan/groq4j 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-27 13 → 2026-11-28 13（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `9faab22e8717` · [字段定义](../../DATASET.md)*

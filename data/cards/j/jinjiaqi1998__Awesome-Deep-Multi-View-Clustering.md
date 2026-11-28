@@ -1,6 +1,6 @@
 # jinjiaqi1998/Awesome-Deep-Multi-View-Clustering
 
-⭐ 25 · 推送 2026-09-10 · [GitHub](https://github.com/jinjiaqi1998/Awesome-Deep-Multi-View-Clustering) · 个人维护 · 中文 README
+⭐ 27 · 推送 2026-09-10 · [GitHub](https://github.com/jinjiaqi1998/Awesome-Deep-Multi-View-Clustering) · 个人维护 · 中文 README
 
 **深度多视图聚类论文与代码的策展清单（面向科研人员）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jinjiaqi1998/Awesome-Deep-Multi-View-Clustering 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-13", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 16 --> 26
-    line [18, 17, 18, 22, 23, 24, 25, 25]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-13", "2026-11-22", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 16 --> 28
+    line [18, 17, 18, 22, 23, 24, 25, 27]
 ```
 
-2026-10-25 18 → 2026-11-27 25（+7）
+2026-10-26 18 → 2026-11-28 27（+9）
 
 
 ---

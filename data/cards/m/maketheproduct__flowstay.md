@@ -1,6 +1,6 @@
 # maketheproduct/flowstay
 
-⭐ 21 · Swift · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/maketheproduct/flowstay) · [官网](https://flowstay.app) · 组织维护
+⭐ 21 · Swift · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/maketheproduct/flowstay) · [官网](https://flowstay.app) · 组织维护
 
 **macOS 菜单栏语音转写应用：全局快捷键转写并自动粘贴**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "maketheproduct/flowstay 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-25 21 → 2026-11-27 21（+0）
+2026-10-26 21 → 2026-11-28 21（+0）
 
 
 ---

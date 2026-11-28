@@ -1,6 +1,6 @@
 # safe-graph/graph-fraud-detection-papers
 
-⭐ 1,909 · 推送 2026-11-15 · [GitHub](https://github.com/safe-graph/graph-fraud-detection-papers) · [官网](https://safe-graph.github.io/paper_dashboard/) · 组织维护
+⭐ 1,910 · 推送 2026-11-15 · [GitHub](https://github.com/safe-graph/graph-fraud-detection-papers) · [官网](https://safe-graph.github.io/paper_dashboard/) · 组织维护
 
 **面向反欺诈研究者的图/Transformer 检测论文清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "safe-graph/graph-fraud-detection-papers 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1898 --> 1910
-    line [1899, 1900, 1899, 1903, 1905, 1906, 1907, 1908, 1909, 1909]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 1898 --> 1911
+    line [1899, 1900, 1899, 1903, 1905, 1906, 1907, 1908, 1909, 1910]
 ```
 
-2026-10-25 1,899 → 2026-11-27 1,909（+10）
+2026-10-26 1,899 → 2026-11-28 1,910（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # cohere-ai/cohere-developer-experience
 
-⭐ 124 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/cohere-ai/cohere-developer-experience) · 组织维护
+⭐ 124 · Jupyter Notebook · 推送 2026-11-27 · [GitHub](https://github.com/cohere-ai/cohere-developer-experience) · 组织维护
 
 **Cohere 官方开发者体验仓库：文档、代码片段与 OpenAPI 规范**
 
@@ -45,12 +45,12 @@ Cohere 公司维护的一站式开发者资源仓库：存放 docs.cohere.com �
 ```mermaid
 xychart-beta
     title "cohere-ai/cohere-developer-experience 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 121 --> 125
     line [122, 123, 122, 123, 124, 124]
 ```
 
-2026-10-25 122 → 2026-11-27 124（+2）
+2026-10-26 122 → 2026-11-28 124（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mlesnoff/Jchemo.jl
 
-⭐ 27 · Julia · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mlesnoff/Jchemo.jl) · 个人维护
+⭐ 27 · Julia · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mlesnoff/Jchemo.jl) · 个人维护
 
 **化学计量学与机器学习 Julia 工具箱，面向光谱等高维数据**
 
@@ -45,12 +45,12 @@ Julia 实现的化学计量学工具箱，围绕偏最小二乘回归/判别（P
 ```mermaid
 xychart-beta
     title "mlesnoff/Jchemo.jl 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-25 27 → 2026-11-27 27（+0）
+2026-10-26 27 → 2026-11-28 27（+0）
 
 
 ---

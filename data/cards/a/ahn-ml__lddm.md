@@ -46,12 +46,12 @@ ICLR 2026 论文《Loopholing Discrete Diffusion》的官方 PyTorch 代码库�
 ```mermaid
 xychart-beta
     title "ahn-ml/lddm 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 11（+1）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

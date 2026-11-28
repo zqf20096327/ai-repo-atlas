@@ -1,6 +1,6 @@
 # token-hunter/CrewVela
 
-⭐ 13 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/token-hunter/CrewVela) · 个人维护 · 中文 README
+⭐ 17 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/token-hunter/CrewVela) · 个人维护 · 中文 README
 
 **让多个编程 Agent 在同一桌面工作台沟通协作的 Tauri 应用**
 
@@ -40,6 +40,18 @@
 
 > L20: CrewVela 是一个基于 **Tauri 2 + React + Rust** 的桌面多 Agent 工作台，把独立会话、会话通信、项目协作和工作交接放进同一个窗口。沿用各 Agent 的本机安装、账号与权限机制，让你围绕任务
 > L71: 当前提供 8 个 Agent 系列的接入。实际可用性取决于 CLI、适配器、账号与模型配置。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "token-hunter/CrewVela 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 12 --> 18
+    line [13, 17]
+```
+
+2026-11-27 13 → 2026-11-28 17（+4）
 
 
 ---

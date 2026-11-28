@@ -1,6 +1,6 @@
 # haczen/ai-dialog-manage
 
-⭐ 50 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/haczen/ai-dialog-manage) · 个人维护 · 中文 README
+⭐ 57 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/haczen/ai-dialog-manage) · 个人维护 · 中文 README
 
 **统一管理 9 种 AI 编程工具聊天记录的桌面工具**
 
@@ -47,12 +47,12 @@ PyQt6 桌面应用，扫描本机 Claude Code、Codex、OpenCode、Gemini CLI、
 ```mermaid
 xychart-beta
     title "haczen/ai-dialog-manage 星数(近 8 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 10 --> 53
-    line [13, 41, 43, 44, 46, 48, 50, 50]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 9 --> 61
+    line [13, 41, 43, 44, 46, 48, 50, 57]
 ```
 
-2026-11-18 13 → 2026-11-27 50（+37）
+2026-11-18 13 → 2026-11-28 57（+44）
 
 
 ---

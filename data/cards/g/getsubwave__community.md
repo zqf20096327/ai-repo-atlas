@@ -1,6 +1,6 @@
 # getsubwave/community
 
-⭐ 10 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/getsubwave/community) · [官网](https://www.getsubwave.com/skills) · 组织维护
+⭐ 10 · JavaScript · 推送 2026-11-27 · [GitHub](https://github.com/getsubwave/community) · [官网](https://www.getsubwave.com/skills) · 组织维护
 
 **SUB/WAVE AI 电台社区目录：技能、人设、节目与电台索引**
 
@@ -46,12 +46,12 @@ SUB/WAVE（带 AI DJ 的个人网络电台）的社区内容仓库，收录五�
 ```mermaid
 xychart-beta
     title "getsubwave/community 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

@@ -45,12 +45,12 @@ ICLR 2025 论文 "Does Spatial Cognition Emerge in Frontier Models?" 的配套�
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-space-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-25 29 → 2026-11-27 30（+1）
+2026-10-26 29 → 2026-11-28 30（+1）
 
 
 ---

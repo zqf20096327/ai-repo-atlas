@@ -1,6 +1,6 @@
 # vllm-project/vllm-gr
 
-⭐ 173 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/vllm-project/vllm-gr) · 组织维护 · 中文 README
+⭐ 192 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/vllm-project/vllm-gr) · 组织维护 · 中文 README
 
 **vLLM 的生成式推荐模型推理扩展，产出排序物品ID**
 
@@ -46,13 +46,13 @@ vLLM-GR 是 vLLM 的独立扩展，将 vLLM 从自回归文本生成扩展到生
 
 ```mermaid
 xychart-beta
-    title "vllm-project/vllm-gr 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 134 --> 176
-    line [137, 173]
+    title "vllm-project/vllm-gr 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 132 --> 197
+    line [137, 173, 192]
 ```
 
-2026-11-26 137 → 2026-11-27 173（+36）
+2026-11-26 137 → 2026-11-28 192（+55）
 
 
 ---

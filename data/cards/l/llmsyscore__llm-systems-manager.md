@@ -1,6 +1,6 @@
 # llmsyscore/llm-systems-manager
 
-⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/llmsyscore/llm-systems-manager) · 组织维护
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/llmsyscore/llm-systems-manager) · 组织维护
 
 **自托管面板：监控、控制与调优运行本地 LLM 的机器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "llmsyscore/llm-systems-manager 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

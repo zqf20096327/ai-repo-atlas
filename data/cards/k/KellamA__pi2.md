@@ -1,6 +1,6 @@
 # KellamA/pi2
 
-⭐ 3 · Swift · 推送 2026-11-26 · [GitHub](https://github.com/KellamA/pi2) · 组织维护
+⭐ 3 · Swift · 推送 2026-11-27 · [GitHub](https://github.com/KellamA/pi2) · 组织维护
 
 **Mac 上的 AI agent 宿主应用：项目化调度多 agent 且工作不因崩溃丢失**
 
@@ -46,12 +46,12 @@ pi² 是运行在 Mac 上的原生 AI agent 应用，基于 pi durable 库：每
 ```mermaid
 xychart-beta
     title "KellamA/pi2 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-25 3 → 2026-11-27 3（+0）
+2026-11-25 3 → 2026-11-28 3（+0）
 
 
 ---

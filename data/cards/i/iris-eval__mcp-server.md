@@ -1,6 +1,6 @@
 # iris-eval/mcp-server
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iris-eval/mcp-server) · [官网](https://iris-eval.com) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iris-eval/mcp-server) · [官网](https://iris-eval.com) · 组织维护
 
 **给 agent 输出打质量/安全/成本分的本地评估 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iris-eval/mcp-server 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-11", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-11 10 → 2026-11-27 10（+0）
+2026-11-11 10 → 2026-11-28 11（+1）
 
 
 ---

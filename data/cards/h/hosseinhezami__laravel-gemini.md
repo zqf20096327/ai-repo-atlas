@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hosseinhezami/laravel-gemini 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    title "hosseinhezami/laravel-gemini 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 133 --> 136
-    line [134, 135]
+    line [134, 135, 135]
 ```
 
-2026-10-25 134 → 2026-11-27 135（+1）
+2026-10-26 134 → 2026-11-28 135（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nearai/cloud-api
 
-⭐ 17 · Rust · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/nearai/cloud-api) · [官网](https://cloud.near.ai) · 组织维护
+⭐ 17 · Rust · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/nearai/cloud-api) · [官网](https://cloud.near.ai) · 组织维护
 
 **Rust 实现的 AI 推理云 API：模型推理、会话与组织管理**
 
@@ -45,12 +45,12 @@ NEAR AI 平台组件，用 Rust 编写的云 API 服务，提供 AI 模型推理
 ```mermaid
 xychart-beta
     title "nearai/cloud-api 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-12", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-12", "2026-11-28"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-25 15 → 2026-11-27 17（+2）
+2026-10-26 15 → 2026-11-28 17（+2）
 
 
 ---

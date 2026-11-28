@@ -1,6 +1,6 @@
 # retospect/precis-mcp
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/retospect/precis-mcp) · [官网](https://pypi.org/project/precis-mcp/) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/retospect/precis-mcp) · [官网](https://pypi.org/project/precis-mcp/) · 个人维护
 
 **面向 LLM agent 的 MCP 服务器：读文献写论文并做模拟**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "retospect/precis-mcp 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-26", "2026-11-27"]
+    title "retospect/precis-mcp 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 10 --> 15
-    line [11, 13, 14]
+    line [11, 13, 14, 14]
 ```
 
-2026-11-08 11 → 2026-11-27 14（+3）
+2026-11-08 11 → 2026-11-28 14（+3）
 
 
 ---

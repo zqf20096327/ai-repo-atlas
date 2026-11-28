@@ -1,6 +1,6 @@
 # Adibvafa/CodonTransformer
 
-⭐ 231 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Adibvafa/CodonTransformer) · [官网](https://adibvafa.github.io/CodonTransformer) · 个人维护
+⭐ 231 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/Adibvafa/CodonTransformer) · [官网](https://adibvafa.github.io/CodonTransformer) · 个人维护
 
 **多物种密码子优化深度学习模型：为蛋白表达生成宿主特异性 DNA 序列**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adibvafa/CodonTransformer 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "Adibvafa/CodonTransformer 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 229 --> 232
-    line [230, 231]
+    line [230, 231, 231]
 ```
 
-2026-11-26 230 → 2026-11-27 231（+1）
+2026-11-26 230 → 2026-11-28 231（+1）
 
 
 ---

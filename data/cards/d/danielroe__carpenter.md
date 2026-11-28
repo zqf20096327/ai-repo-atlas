@@ -46,12 +46,12 @@ Carpenter 是部署在 Vercel 上的 GitHub 机器人，通过 webhook 监听 Nu
 ```mermaid
 xychart-beta
     title "danielroe/carpenter 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-25 76 → 2026-11-27 76（+0）
+2026-10-26 76 → 2026-11-28 76（+0）
 
 
 ---

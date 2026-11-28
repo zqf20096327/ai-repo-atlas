@@ -45,12 +45,12 @@ JetBrains Marketplace 分发的 PyCharm 插件，在调试器中右键将 NumPy�
 ```mermaid
 xychart-beta
     title "srwi/PyCharm-PixelLens 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 100 --> 103
     line [101, 102, 102]
 ```
 
-2026-10-25 101 → 2026-11-27 102（+1）
+2026-10-26 101 → 2026-11-28 102（+1）
 
 
 ---

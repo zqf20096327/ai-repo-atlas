@@ -41,6 +41,18 @@
 > L11: It reads files, edits them, searches, runs commands with your approval, and keeps every
 > L24: - 309 providers and 7,958 tool-capable models in the bundled snapshot. Refresh from
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "loak7993-code/termagent 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-27 11 → 2026-11-28 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0f04dcc0e67a` · [字段定义](../../DATASET.md)*

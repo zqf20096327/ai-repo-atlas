@@ -1,6 +1,6 @@
 # AIPMAndy/aitoken
 
-⭐ 7 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/AIPMAndy/aitoken) · [官网](https://kb.metaver.vip/aitoken) · 个人维护 · 中文 README
+⭐ 7 · MIT · 推送 2026-11-27 · [GitHub](https://github.com/AIPMAndy/aitoken) · [官网](https://kb.metaver.vip/aitoken) · 个人维护 · 中文 README
 
 **海外 AI 服务、账号订阅与 Token 供应的个人实测笔记**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/aitoken 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-28"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-08 7 → 2026-11-27 7（+0）
+2026-11-08 7 → 2026-11-28 7（+0）
 
 
 ---

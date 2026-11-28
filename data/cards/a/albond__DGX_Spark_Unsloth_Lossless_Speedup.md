@@ -1,6 +1,6 @@
 # albond/DGX_Spark_Unsloth_Lossless_Speedup
 
-⭐ 13 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/albond/DGX_Spark_Unsloth_Lossless_Speedup) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/albond/DGX_Spark_Unsloth_Lossless_Speedup) · 个人维护
 
 **在 DGX Spark 上加速 Qwen3.5 微调的训练工具（LoRA 7.67×）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "albond/DGX_Spark_Unsloth_Lossless_Speedup 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-25 12 → 2026-11-27 13（+1）
+2026-10-26 12 → 2026-11-28 14（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # mohdshamii/Test-Series
 
-⭐ 7 · TypeScript · 推送 2026-11-04 · [GitHub](https://github.com/mohdshamii/Test-Series) · [官网](https://mohdshamii.github.io/Test-Series) · 个人维护
+⭐ 8 · TypeScript · 推送 2026-11-04 · [GitHub](https://github.com/mohdshamii/Test-Series) · [官网](https://mohdshamii.github.io/Test-Series) · 个人维护
 
 **为 GATE DA 考生提供纯前端在线模拟考试与题库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mohdshamii/Test-Series 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-08", "2026-11-13", "2026-11-27"]
-    y-axis "stars" 2 --> 8
-    line [3, 5, 7, 7]
+    x-axis ["2026-10-29", "2026-11-08", "2026-11-13", "2026-11-28"]
+    y-axis "stars" 2 --> 9
+    line [3, 5, 7, 8]
 ```
 
-2026-10-29 3 → 2026-11-27 7（+4）
+2026-10-29 3 → 2026-11-28 8（+5）
 
 
 ---

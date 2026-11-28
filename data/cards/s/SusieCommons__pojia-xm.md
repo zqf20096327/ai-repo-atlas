@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SusieCommons/pojia-xm 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "SusieCommons/pojia-xm 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 2 --> 7
-    line [3, 6]
+    line [3, 6, 6]
 ```
 
-2026-11-26 3 → 2026-11-27 6（+3）
+2026-11-26 3 → 2026-11-28 6（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # gonzalonicolasr/pixel-office
 
-⭐ 5 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/gonzalonicolasr/pixel-office) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/gonzalonicolasr/pixel-office) · 个人维护
 
 **像素风办公室里让 AI Agent 团队协作的多 Agent 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gonzalonicolasr/pixel-office 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 3, 4, 5, 5]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 3, 4, 5, 6]
 ```
 
-2026-10-25 3 → 2026-11-27 5（+2）
+2026-10-26 3 → 2026-11-28 6（+3）
 
 
 ---

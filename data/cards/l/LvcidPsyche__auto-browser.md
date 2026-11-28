@@ -1,6 +1,6 @@
 # LvcidPsyche/auto-browser
 
-⭐ 927 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LvcidPsyche/auto-browser) · [官网](https://github.com/LvcidPsyche/auto-browser) · 个人维护
+⭐ 928 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/LvcidPsyche/auto-browser) · [官网](https://github.com/LvcidPsyche/auto-browser) · 个人维护
 
 **给 MCP 客户端和 LLM agent 提供可人工接管的共享浏览器**
 
@@ -46,13 +46,13 @@ MCP 原生的浏览器控制平面：通过 HTTP 或 stdio 向 MCP 客户端、L
 
 ```mermaid
 xychart-beta
-    title "LvcidPsyche/auto-browser 星数(近 13 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-27"]
+    title "LvcidPsyche/auto-browser 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 912 --> 931
-    line [916, 914, 913, 915, 916, 924, 926, 927, 929, 930, 929, 927, 927]
+    line [914, 913, 915, 916, 924, 926, 927, 929, 930, 929, 927, 928]
 ```
 
-2026-10-25 916 → 2026-11-27 927（+11）
+2026-10-26 914 → 2026-11-28 928（+14）
 
 
 ---

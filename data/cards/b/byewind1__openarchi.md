@@ -1,6 +1,6 @@
 # byewind1/openarchi
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/byewind1/openarchi) · 个人维护 · 中文 README
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/byewind1/openarchi) · 个人维护 · 中文 README
 
 **给建筑师的轻量开源 BIM 工作台，AI 共同编辑同一模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "byewind1/openarchi 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-19", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-27 3（+0）
+2026-11-19 3 → 2026-11-28 3（+0）
 
 
 ---

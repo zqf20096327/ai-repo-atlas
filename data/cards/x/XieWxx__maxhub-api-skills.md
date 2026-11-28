@@ -1,6 +1,6 @@
 # XieWxx/maxhub-api-skills
 
-⭐ 68 · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/XieWxx/maxhub-api-skills) · [官网](https://www.aconfig.cn) · 组织维护 · 中文 README
+⭐ 69 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/XieWxx/maxhub-api-skills) · [官网](https://www.aconfig.cn) · 组织维护 · 中文 README
 
 **给 AI Agent 接入 20 个平台数据的技能集（984 端点）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "XieWxx/maxhub-api-skills 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 59 --> 69
-    line [60, 61, 60, 61, 62, 65, 66, 67, 68, 68]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 59 --> 70
+    line [60, 61, 60, 61, 62, 65, 66, 67, 68, 69]
 ```
 
-2026-10-25 60 → 2026-11-27 68（+8）
+2026-10-26 60 → 2026-11-28 69（+9）
 
 
 ---

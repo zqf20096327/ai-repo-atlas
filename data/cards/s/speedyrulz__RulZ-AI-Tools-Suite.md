@@ -1,6 +1,6 @@
 # speedyrulz/RulZ-AI-Tools-Suite
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/speedyrulz/RulZ-AI-Tools-Suite) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/speedyrulz/RulZ-AI-Tools-Suite) · 个人维护
 
 **统一安装、更新和启动整套 RulZ AI 桌面工具的 Windows 启动器**
 
@@ -46,12 +46,12 @@ Electron 桌面启动器，集中管理 13 个 RulZ 应用（LoRA 训练器、�
 ```mermaid
 xychart-beta
     title "speedyrulz/RulZ-AI-Tools-Suite 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---

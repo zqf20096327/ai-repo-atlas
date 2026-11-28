@@ -44,12 +44,12 @@ AI Builders Tutorial 是一个教程系列平台仓库：包含 Astro+Preact 前
 ```mermaid
 xychart-beta
     title "theaibuilders/ai_builders_tutorial 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-25 12 → 2026-11-27 12（+0）
+2026-10-26 12 → 2026-11-28 12（+0）
 
 
 ---

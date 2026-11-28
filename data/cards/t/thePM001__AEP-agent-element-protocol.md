@@ -1,6 +1,6 @@
 # thePM001/AEP-agent-element-protocol
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/thePM001/AEP-agent-element-protocol) · [官网](https://aep.newlisbon.agency) · 个人维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/thePM001/AEP-agent-element-protocol) · [官网](https://aep.newlisbon.agency) · 个人维护
 
 **为 AI agent 提供确定性零信任输出治理与动作审批的协议库**
 
@@ -40,6 +40,18 @@ AEP v2.9 是一个参考协议实现：在 agent 的工具调用、API 请求、
 > L22: AEP (Agent Element Protocol) is an advanced deterministic mechanism for total control of AI output. An agent does n
 > L141: **What it is:** The Universal Connect Bridge (UCB) is the airlock for systems outside AEP, for example LangGraph, 
 > L50: AEP 2.9 is a reference protocol library: a set of working components a builder attaches to a system. The Base Node 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "thePM001/AEP-agent-element-protocol 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 11 --> 26
+    line [12, 25]
+```
+
+2026-11-27 12 → 2026-11-28 25（+13）
 
 
 ---

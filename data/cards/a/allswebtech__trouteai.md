@@ -1,6 +1,6 @@
 # allswebtech/trouteai
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/allswebtech/trouteai) · [官网](https://www.npmjs.com/package/trouteai) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/allswebtech/trouteai) · [官网](https://www.npmjs.com/package/trouteai) · 个人维护
 
 **自托管 AI 网关：多 LLM 提供商统一接入、路由与回退**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "allswebtech/trouteai 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-11-26 36 → 2026-11-27 36（+0）
+2026-11-26 36 → 2026-11-28 36（+0）
 
 
 ---

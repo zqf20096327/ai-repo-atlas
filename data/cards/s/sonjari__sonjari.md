@@ -1,6 +1,6 @@
 # sonjari/sonjari
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/sonjari/sonjari) · [官网](https://sonjari.com) · 个人维护
 
 **Windows 本地 GPU 上运行的 AI 代理：浏览器研究与文档产出**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sonjari/sonjari 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-22"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-21", "2026-11-28"]
+    y-axis "stars" 2 --> 12
+    line [3, 11]
 ```
 
-2026-10-20 3 → 2026-11-22 3（+0）
+2026-10-21 3 → 2026-11-28 11（+8）
 
 
 ---

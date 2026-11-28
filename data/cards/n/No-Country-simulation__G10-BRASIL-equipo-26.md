@@ -1,6 +1,6 @@
 # No-Country-simulation/G10-BRASIL-equipo-26
 
-⭐ 5 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/No-Country-simulation/G10-BRASIL-equipo-26) · [官网](https://mentoria-tech.streamlit.app/) · 组织维护
+⭐ 6 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/No-Country-simulation/G10-BRASIL-equipo-26) · [官网](https://mentoria-tech.streamlit.app/) · 组织维护
 
 **把技术文档转成个性化学习材料的 RAG 教育平台**
 
@@ -46,12 +46,12 @@ Hackathon ONE G10 的参赛项目：接收 PDF/Markdown/TXT 技术文档，通�
 ```mermaid
 xychart-beta
     title "No-Country-simulation/G10-BRASIL-equipo-26 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-10", "2026-11-28"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-10 5 → 2026-11-27 5（+0）
+2026-11-10 5 → 2026-11-28 6（+1）
 
 
 ---

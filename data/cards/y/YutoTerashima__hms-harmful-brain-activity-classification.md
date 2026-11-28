@@ -45,12 +45,12 @@ Kaggle HMS 有害脑电活动分类竞赛（第123/2767名，银牌）的解决�
 ```mermaid
 xychart-beta
     title "YutoTerashima/hms-harmful-brain-activity-classification 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-25 38 → 2026-11-27 38（+0）
+2026-10-26 38 → 2026-11-28 38（+0）
 
 
 ---

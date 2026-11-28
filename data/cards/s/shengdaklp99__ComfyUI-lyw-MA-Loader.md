@@ -1,6 +1,6 @@
 # shengdaklp99/ComfyUI-lyw-MA-Loader
 
-⭐ 52 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/shengdaklp99/ComfyUI-lyw-MA-Loader) · 个人维护 · 中文 README
+⭐ 53 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/shengdaklp99/ComfyUI-lyw-MA-Loader) · 个人维护 · 中文 README
 
 **ComfyUI 的可视化 LoRA 加载节点：分组、预设与元数据管理**
 
@@ -46,12 +46,12 @@ ComfyUI 自定义节点，以可视化列表管理 LoRA：每个 LoRA 显示缩�
 ```mermaid
 xychart-beta
     title "shengdaklp99/ComfyUI-lyw-MA-Loader 星数(近 9 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 7 --> 57
-    line [11, 43, 47, 50, 51, 52, 53, 52, 52]
+    line [11, 43, 47, 50, 51, 52, 53, 52, 53]
 ```
 
-2026-11-16 11 → 2026-11-27 52（+41）
+2026-11-16 11 → 2026-11-28 53（+42）
 
 
 ---

@@ -1,6 +1,6 @@
 # BolajiAyodeji/deploy-ml-web-workshop
 
-⭐ 24 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/BolajiAyodeji/deploy-ml-web-workshop) · [官网](https://mbpti-flask-app.fly.dev) · 个人维护
+⭐ 24 · Jupyter Notebook · MIT · 推送 2026-11-27 · [GitHub](https://github.com/BolajiAyodeji/deploy-ml-web-workshop) · [官网](https://mbpti-flask-app.fly.dev) · 个人维护
 
 **ML 模型部署到 Web 的实操教程仓库（约 3 小时工作坊）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "BolajiAyodeji/deploy-ml-web-workshop 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-25 24 → 2026-11-27 24（+0）
+2026-10-26 24 → 2026-11-28 24（+0）
 
 
 ---

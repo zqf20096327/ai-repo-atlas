@@ -1,6 +1,6 @@
 # PanStudio/zulipchat-mcp
 
-⭐ 33 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/PanStudio/zulipchat-mcp) · [官网](https://pypi.org/project/zulipchat-mcp/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/PanStudio/zulipchat-mcp) · [官网](https://pypi.org/project/zulipchat-mcp/) · 个人维护
 
 **把 MCP 客户端 AI 助手接入 Zulip 聊天的服务器**
 
@@ -39,6 +39,18 @@
 
 > L3:  Model Context Protocol server for Zulip Chat. Connect Claude Code, Codex, PanCode, OpenCode, Copilot, Antigravity C
 > L36: ZulipChat MCP bridges any MCP-compatible AI assistant (Claude Code, Gemini CLI, Cursor, Windsurf, etc.) to your Zul
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PanStudio/zulipchat-mcp 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-11-27 33 → 2026-11-28 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dalroot/agentic-seo
 
-⭐ 26 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dalroot/agentic-seo) · [官网](https://dalroot.github.io/agentic-seo/) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dalroot/agentic-seo) · [官网](https://dalroot.github.io/agentic-seo/) · 个人维护 · 中文 README
 
 **面向 AI 编程助手的 SEO 技能包：16 子技能+89 脚本做审计优化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dalroot/agentic-seo 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 25, 26, 26]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 26, 27]
 ```
 
-2026-10-25 25 → 2026-11-27 26（+1）
+2026-10-26 25 → 2026-11-28 27（+2）
 
 
 ---

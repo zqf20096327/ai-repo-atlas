@@ -1,6 +1,6 @@
 # usedotai/dot-reflex
 
-⭐ 51 · Python · Apache-2.0 · 推送 2026-08-28 · [GitHub](https://github.com/usedotai/dot-reflex) · [官网](https://huggingface.co/usedot/Dot-Reflex-14B) · 组织维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-08-28 · [GitHub](https://github.com/usedotai/dot-reflex) · [官网](https://huggingface.co/usedot/Dot-Reflex-14B) · 组织维护
 
 **AI agent 执行恢复控制器：读取轨迹返回十种控制决策**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "usedotai/dot-reflex 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 50 --> 71
-    line [70, 56, 54, 51, 51]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 48 --> 72
+    line [70, 56, 54, 51, 50]
 ```
 
-2026-10-25 70 → 2026-11-27 51（-19）
+2026-10-26 70 → 2026-11-28 50（-20）
 
 
 ---

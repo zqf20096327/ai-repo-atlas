@@ -1,6 +1,6 @@
 # mohamedsabith/setupscore
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mohamedsabith/setupscore) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mohamedsabith/setupscore) · 个人维护
 
 **为 Claude Code 配置文件做体检与基准评测的 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mohamedsabith/setupscore 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
-    y-axis "stars" 8 --> 10
-    line [9, 9]
+    x-axis ["2026-11-08", "2026-11-28"]
+    y-axis "stars" 8 --> 11
+    line [9, 10]
 ```
 
-2026-11-08 9 → 2026-11-27 9（+0）
+2026-11-08 9 → 2026-11-28 10（+1）
 
 
 ---

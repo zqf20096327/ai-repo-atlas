@@ -1,6 +1,6 @@
 # elkir0/omarchy-tab-s2
 
-⭐ 5 · Shell · GPL-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/elkir0/omarchy-tab-s2) · 个人维护
+⭐ 5 · Shell · GPL-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/elkir0/omarchy-tab-s2) · 个人维护
 
 **在三星 Galaxy Tab S2 平板上运行的 64 位 Linux 系统移植，内置 AI 工具**
 
@@ -40,6 +40,18 @@
 > L6: of its Exynos 5433, on mainline Linux 6.12, with **AI built in**: Claude Code one question away
 > L32: - **AI, everywhere it fits.**
 > L67: |AI|Claude Code, Claude Desktop, ChatGPT Desktop, mise, Ollama, OpenCode and Grok start on the tablet; dictation an
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "elkir0/omarchy-tab-s2 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-27 5 → 2026-11-28 5（+0）
 
 
 ---

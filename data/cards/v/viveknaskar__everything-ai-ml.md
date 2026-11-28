@@ -1,10 +1,10 @@
 # viveknaskar/everything-ai-ml
 
-⭐ 500 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/viveknaskar/everything-ai-ml) · [官网](https://viveknaskar.github.io/everything-ai-ml/) · 个人维护
+⭐ 500 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/viveknaskar/everything-ai-ml) · [官网](https://viveknaskar.github.io/everything-ai-ml/) · 个人维护
 
-**AI/ML 学习资源策展清单：课程、论文、框架教程导航**
+**AI/ML 学习资源策展清单：课程、指南、论文与可视化**
 
-以链接清单形式组织的学习资源合集，覆盖机器学习基础概念、数学与 Python 基础、分阶段学习路线、生成式 AI、提示工程、RAG、微调、MLOps 及 Agent 框架等主题；条目指向 Coursera、DeepLearning.AI、MIT、fast.ai 等外部课程与官方文档。附 GitHub Pages 交互式 cheatsheet 站点浏览。自身不含可运行代码或模型，为纯资源导航目录。
+以清单形式收录生成式 AI、机器学习、Agentic AI、RAG、微调、MLOps 等主题的外部学习资源，按关键概念、数学基础、学习路线图、提示工程、框架与 Agent 等章节组织，每条附一句话说明。条目指向第三方课程（Coursera、DeepLearning.AI、fast.ai、Hugging Face 等）、官方文档、论文与交互式可视化工具，并提供 GitHub Pages 交互式速查表站点。仓库本身不含代码或模型，无安装运行环节。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按学习路线分 7 阶段组织（Python→数学→ML→实践→专精→MLOps→论文）
-- 覆盖 LangChain、LangGraph、CrewAI、Google ADK、Agno 等框架的学习资源
-- 含交互式可视化资源（Transformer Explainer、CNN Explainer 等）
-- 提供 GitHub Pages 交互式 cheatsheet 站点
+- 按学习路线图组织：Python→数学→ML 基础→实战→专精→MLOps→论文
+- 收录交互式可视化资源（MLU-Explain、CNN/Transformer Explainer）
+- 覆盖 LangChain、LangGraph、CrewAI、Google ADK、Agno 等框架的文档与课程链接
+- 提供 GitHub Pages 交互式速查表站点
 
 ## 适用场景
 
-- 制定从 Python 基础到 MLOps 的 AI 学习路线
-- 查找 RAG、微调、Agent 框架的入门课程
-- 收藏常用提示工程与 Transformer 可视化教程
+- 寻找生成式 AI 与机器学习的入门课程和路线图
+- 按主题查找提示工程、RAG、微调方向的教程
+- 收集 Agentic AI 框架的官方文档与课程链接
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
+> L1: # Everything AI/ML
 > L5: A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, and related topics.
-> L49: ## AI/ML Roadmap
 > L7: > **Browse the interactive cheatsheet:** viveknaskar.github.io/everything-ai-ml
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "viveknaskar/everything-ai-ml 星数(近 13 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-27"]
+    title "viveknaskar/everything-ai-ml 星数(近 12 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-28"]
     y-axis "stars" 487 --> 502
-    line [488, 489, 490, 491, 492, 488, 497, 498, 499, 500, 501, 500, 500]
+    line [489, 490, 491, 492, 488, 497, 498, 499, 500, 501, 500, 500]
 ```
 
-2026-10-25 488 → 2026-11-27 500（+12）
+2026-10-26 489 → 2026-11-28 500（+11）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d34665ec7278` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `a0d1bb4f97c2` · [字段定义](../../DATASET.md)*

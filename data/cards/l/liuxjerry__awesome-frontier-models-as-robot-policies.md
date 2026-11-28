@@ -1,6 +1,6 @@
 # liuxjerry/awesome-frontier-models-as-robot-policies
 
-⭐ 7 · Python · CC0-1.0 · 推送 2026-11-26 · [GitHub](https://github.com/liuxjerry/awesome-frontier-models-as-robot-policies) · 个人维护
+⭐ 7 · Python · CC0-1.0 · 推送 2026-11-27 · [GitHub](https://github.com/liuxjerry/awesome-frontier-models-as-robot-policies) · 个人维护
 
 **前沿 LLM/VLM 作为机器人策略的论文与基准清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "liuxjerry/awesome-frontier-models-as-robot-policies 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "liuxjerry/awesome-frontier-models-as-robot-policies 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 5 --> 8
-    line [6, 7]
+    line [6, 7, 7]
 ```
 
-2026-11-26 6 → 2026-11-27 7（+1）
+2026-11-26 6 → 2026-11-28 7（+1）
 
 
 ---

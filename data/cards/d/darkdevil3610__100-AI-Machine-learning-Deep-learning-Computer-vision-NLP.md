@@ -1,10 +1,10 @@
 # darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP
 
-⭐ 440 · 推送 2026-11-22 · [GitHub](https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP) · [官网](http://gourav.is-a.dev/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP/) · 个人维护
+⭐ 442 · 推送 2026-11-27 · [GitHub](https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP) · [官网](http://gourav.is-a.dev/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP/) · 个人维护
 
-**面向学生与初学者的 AI/ML/DL/CV/NLP 项目合集清单**
+**面向学生的 AI/ML/DL/CV/NLP 项目代码链接清单（200+ 条）**
 
-一个聚合型清单仓库，收录 200+ 条 AI、机器学习、深度学习、计算机视觉与 NLP 相关项目、教程、数据集与代码合集的链接，以编号表格形式组织，涵盖传统算法、CNN/RNN/Transformer、目标检测、情感分析、LLM 集成、RAG 应用等方向，并包含大量带源码的实践项目条目。仓库声明持续更新并接受 pull request 贡献。本身不含安装或运行说明，仅为外部资源链接的目录。
+以表格形式收录 218 条项目、课程与资源链接，按机器学习、深度学习、计算机视觉、NLP、数据科学等主题组织，每条附名称与外链；主题标签包含 final-year-project 与 collageproject，目标读者为完成课程或毕业设计的学习者。清单声明持续更新并接受 pull request 贡献。README 本身不含安装步骤与运行说明，链接均为指向外部仓库的指针。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 200+ 条项目/资源链接以编号表格组织
-- 覆盖 ML、DL、CV、NLP、LLM/RAG 等多个方向
-- 声明持续更新并接受社区贡献
-- 部分条目为带源码的实践项目（如聊天机器人、疾病预测、人脸识别考勤）
+- 收录 218 条带代码的项目/资源链接，含课程笔记与数据集集合
+- 覆盖传统 ML、CNN/RNN/Transformer、目标检测、LLM 与 RAG 等主题
+- 声明持续更新并开放 PR 贡献
 
 ## 适用场景
 
-- 为课程设计或毕业设计寻找带代码的项目选题
-- 按方向浏览机器学习、计算机视觉、NLP 的学习资源
-- 查找特定主题（如目标检测、情感分析）的示例项目
+- 为毕业设计或课程项目找现成的 AI 项目代码
+- 按主题浏览 NLP/CV/深度学习的练手项目清单
+- 查找机器学习课程与数据集资源入口
 
 ## 场景标签
 
@@ -37,21 +36,21 @@
 
 ## 证据(README 行号)
 
-> L1: ***100 + AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
 > L21: |Sr No|Name|Link|
+> L23: |1|365 Days Computer Vision Learning|👆|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 426 --> 441
-    line [427, 429, 430, 432, 427, 433, 434, 435, 436, 437, 438, 439, 440, 440]
+    title "darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP 星数(近 13 点)"
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 426 --> 443
+    line [429, 430, 432, 427, 433, 434, 435, 436, 437, 438, 439, 440, 442]
 ```
 
-2026-10-25 427 → 2026-11-27 440（+13）
+2026-10-26 429 → 2026-11-28 442（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `cf726139d9a9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `7f5627823152` · [字段定义](../../DATASET.md)*

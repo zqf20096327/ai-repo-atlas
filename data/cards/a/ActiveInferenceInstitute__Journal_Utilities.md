@@ -1,6 +1,6 @@
 # ActiveInferenceInstitute/Journal_Utilities
 
-⭐ 11 · HTML · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/ActiveInferenceInstitute/Journal_Utilities) · 组织维护
+⭐ 11 · HTML · CC0-1.0 · 推送 2026-11-27 · [GitHub](https://github.com/ActiveInferenceInstitute/Journal_Utilities) · 组织维护
 
 **为 Active Inference 期刊内容创作提供的工具与文档集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ActiveInferenceInstitute/Journal_Utilities 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-25 10 → 2026-11-27 11（+1）
+2026-10-26 10 → 2026-11-28 11（+1）
 
 
 ---

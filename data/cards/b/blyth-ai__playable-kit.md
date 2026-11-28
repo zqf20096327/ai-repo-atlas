@@ -46,12 +46,12 @@ Blyth Arcade 所依赖的工具包：包含 Play Kernel（HTML5 游戏内核，�
 ```mermaid
 xychart-beta
     title "blyth-ai/playable-kit 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 5（+0）
 
 
 ---

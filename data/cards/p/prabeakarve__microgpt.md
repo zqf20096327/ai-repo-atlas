@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "prabeakarve/microgpt 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "prabeakarve/microgpt 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 31 --> 52
-    line [51, 32]
+    line [51, 32, 32]
 ```
 
-2026-11-08 51 → 2026-11-27 32（-19）
+2026-11-08 51 → 2026-11-28 32（-19）
 
 
 ---

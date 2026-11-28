@@ -1,6 +1,6 @@
 # visresearch/WordAgent
 
-⭐ 160 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/visresearch/WordAgent) · [官网](https://visresearch.github.io/WordAgent/) · 组织维护 · 中文 README
+⭐ 160 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/visresearch/WordAgent) · [官网](https://visresearch.github.io/WordAgent/) · 组织维护 · 中文 README
 
 **面向 WPS 与 Word 的 AI 智能体写作辅助加载项系统**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "visresearch/WordAgent 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-27"]
+    title "visresearch/WordAgent 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-28"]
     y-axis "stars" 154 --> 161
-    line [155, 156, 155, 156, 158, 155, 157, 158, 160, 160]
+    line [156, 155, 156, 158, 155, 157, 158, 160, 160]
 ```
 
-2026-10-25 155 → 2026-11-27 160（+5）
+2026-10-26 156 → 2026-11-28 160（+4）
 
 
 ---

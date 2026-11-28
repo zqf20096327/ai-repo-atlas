@@ -1,6 +1,6 @@
 # seanZhang414/openadserver
 
-⭐ 267 · Python · NOASSERTION · 推送 2025-12-21 · [GitHub](https://github.com/seanZhang414/openadserver) · [官网](https://github.com/seanZhang414/openadserver) · 个人维护
+⭐ 268 · Python · NOASSERTION · 推送 2025-12-21 · [GitHub](https://github.com/seanZhang414/openadserver) · [官网](https://github.com/seanZhang414/openadserver) · 个人维护
 
 **自托管开源广告投放平台，内置 ML CTR 预估**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seanZhang414/openadserver 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 256 --> 268
-    line [257, 258, 257, 261, 262, 263, 264, 265, 267, 267]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 256 --> 269
+    line [257, 258, 257, 261, 262, 263, 264, 265, 267, 268]
 ```
 
-2026-10-25 257 → 2026-11-27 267（+10）
+2026-10-26 257 → 2026-11-28 268（+11）
 
 
 ---

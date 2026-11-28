@@ -1,6 +1,6 @@
 # objeck/objeck-lang
 
-⭐ 167 · C++ · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/objeck/objeck-lang) · [官网](https://objeck.org) · 个人维护
+⭐ 167 · C++ · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/objeck/objeck-lang) · [官网](https://objeck.org) · 个人维护
 
 **带 JIT VM 与内置 AI/LLM 库的面向对象编程语言**
 
@@ -47,12 +47,12 @@ Objeck 是面向对象与函数式编程语言，配 JIT 编译虚拟机，支�
 ```mermaid
 xychart-beta
     title "objeck/objeck-lang 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-22", "2026-11-26", "2026-11-28"]
     y-axis "stars" 165 --> 168
     line [166, 167, 167]
 ```
 
-2026-11-22 166 → 2026-11-27 167（+1）
+2026-11-22 166 → 2026-11-28 167（+1）
 
 
 ---

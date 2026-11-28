@@ -1,6 +1,6 @@
 # 01UNCLEDOG01/TokenTracker-Plus
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/01UNCLEDOG01/TokenTracker-Plus) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/01UNCLEDOG01/TokenTracker-Plus) · 个人维护 · 中文 README
 
 **给 AI 编码工具重度用户的本地 Token 用量追踪桌面端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "01UNCLEDOG01/TokenTracker-Plus 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-11-12", "2026-11-20", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-12 3 → 2026-11-27 4（+1）
+2026-11-12 3 → 2026-11-28 4（+1）
 
 
 ---

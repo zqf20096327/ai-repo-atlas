@@ -1,6 +1,6 @@
 # StochasticTree/stochtree
 
-⭐ 77 · C++ · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/StochasticTree/stochtree) · [官网](https://stochtree.ai/) · 组织维护
+⭐ 77 · C++ · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/StochasticTree/stochtree) · [官网](https://stochtree.ai/) · 组织维护
 
 **构建随机树集成（BART/XBART）用于监督学习与因果推断**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "StochasticTree/stochtree 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-25 77 → 2026-11-27 77（+0）
+2026-10-26 77 → 2026-11-28 77（+0）
 
 
 ---

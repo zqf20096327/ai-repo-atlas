@@ -1,6 +1,6 @@
 # frc9427liu-tech/memrot
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/frc9427liu-tech/memrot) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/frc9427liu-tech/memrot) · 个人维护 · 中文 README
 
 **给 AI agent 用户检查 CLAUDE.md 等记忆文件中的过期与矛盾内容**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "frc9427liu-tech/memrot 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-08", "2026-11-28"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-08 5 → 2026-11-27 5（+0）
+2026-11-08 5 → 2026-11-28 6（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # invarislabs/invaris-agentsec
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/invarislabs/invaris-agentsec) · [官网](https://pypi.org/project/invaris-agentsec/) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/invarislabs/invaris-agentsec) · [官网](https://pypi.org/project/invaris-agentsec/) · 组织维护
 
 **面向 AI agent 的对抗性安全测试框架，覆盖提示注入、工具滥用与 MCP 扫描**
 
@@ -47,13 +47,13 @@ Invaris AgentSec 是一个开源的 AI agent 安全与可靠性测试框架，�
 
 ```mermaid
 xychart-beta
-    title "invarislabs/invaris-agentsec 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-27"]
+    title "invarislabs/invaris-agentsec 星数(近 10 点)"
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-28"]
     y-axis "stars" 15 --> 29
-    line [16, 17, 20, 16, 23, 24, 26, 25, 27, 28, 28]
+    line [17, 20, 16, 23, 24, 26, 25, 27, 28, 28]
 ```
 
-2026-10-25 16 → 2026-11-27 28（+12）
+2026-10-26 17 → 2026-11-28 28（+11）
 
 
 ---

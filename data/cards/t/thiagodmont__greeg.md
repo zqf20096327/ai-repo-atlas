@@ -1,6 +1,6 @@
 # thiagodmont/greeg
 
-⭐ 353 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/thiagodmont/greeg) · [官网](https://thiagodmont.dev/) · 个人维护
+⭐ 358 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/thiagodmont/greeg) · [官网](https://thiagodmont.dev/) · 个人维护
 
 **为编码 agent 提供索引化代码搜索的 CLI 工具**
 
@@ -44,13 +44,13 @@ greeg 是一个 Rust 编写的命令行代码搜索工具，兼容 ripgrep 的�
 
 ```mermaid
 xychart-beta
-    title "thiagodmont/greeg 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 328 --> 355
-    line [330, 353]
+    title "thiagodmont/greeg 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 328 --> 360
+    line [330, 353, 358]
 ```
 
-2026-11-26 330 → 2026-11-27 353（+23）
+2026-11-26 330 → 2026-11-28 358（+28）
 
 
 ---

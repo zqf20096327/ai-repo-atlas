@@ -1,6 +1,6 @@
 # TheSpaghettiDetective/obico-server
 
-⭐ 1,936 · Python · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/TheSpaghettiDetective/obico-server) · [官网](https://www.obico.io/docs/server-guides/) · 组织维护
+⭐ 1,936 · Python · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/TheSpaghettiDetective/obico-server) · [官网](https://www.obico.io/docs/server-guides/) · 组织维护
 
 **3D 打印机 AI 失败检测与远程监控的自托管服务器**
 
@@ -44,13 +44,13 @@ Obico Server 通过打印机摄像头快照运行深度学习模型检测打印�
 
 ```mermaid
 xychart-beta
-    title "TheSpaghettiDetective/obico-server 星数(近 4 点)"
-    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
+    title "TheSpaghettiDetective/obico-server 星数(近 5 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 1932 --> 1937
-    line [1933, 1934, 1935, 1936]
+    line [1933, 1934, 1935, 1936, 1936]
 ```
 
-2026-11-23 1,933 → 2026-11-27 1,936（+3）
+2026-11-23 1,933 → 2026-11-28 1,936（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # BStronger1/yangbin-ai-agent
 
-⭐ 6 · Java · 推送 2026-11-26 · [GitHub](https://github.com/BStronger1/yangbin-ai-agent) · 个人维护 · 中文 README
+⭐ 7 · Java · 推送 2026-11-26 · [GitHub](https://github.com/BStronger1/yangbin-ai-agent) · 个人维护 · 中文 README
 
 **面向开发者的多空间 AI 智能体工作台（对话/任务/编程）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BStronger1/yangbin-ai-agent 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 2 --> 7
-    line [3, 5, 6, 6]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 2 --> 8
+    line [3, 5, 6, 7]
 ```
 
-2026-10-25 3 → 2026-11-27 6（+3）
+2026-10-26 3 → 2026-11-28 7（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # ome-projects/ome
 
-⭐ 528 · Go · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/ome-projects/ome) · [官网](http://ome-projects.github.io/ome/) · 组织维护
+⭐ 528 · Go · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/ome-projects/ome) · [官网](http://ome-projects.github.io/ome/) · 组织维护
 
 **面向企业的 LLM 服务 Kubernetes Operator：模型管理与 GPU 调度**
 
@@ -45,12 +45,12 @@ Kubernetes operator，以自定义资源（BaseModel、ServingRuntime、Inferenc
 ```mermaid
 xychart-beta
     title "ome-projects/ome 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 519 --> 530
     line [520, 521, 522, 520, 525, 524, 525, 527, 528, 529, 528, 528]
 ```
 
-2026-10-25 520 → 2026-11-27 528（+8）
+2026-10-26 520 → 2026-11-28 528（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # jason-lequyer/SpillOT
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/jason-lequyer/SpillOT) · [官网](https://jason-lequyer.github.io/SpillOT/) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/jason-lequyer/SpillOT) · [官网](https://jason-lequyer.github.io/SpillOT/) · 个人维护
 
 **给显微多重成像研究者做通道串扰去除与去噪的工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jason-lequyer/SpillOT 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-11-20 11 → 2026-11-27 12（+1）
+2026-11-20 11 → 2026-11-28 13（+2）
 
 
 ---

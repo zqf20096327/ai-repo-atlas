@@ -1,10 +1,10 @@
 # patriceckhart/zot
 
-⭐ 371 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
+⭐ 371 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
 
-**Go 编写的轻量编码 agent 命令行框架，单静态二进制**
+**Go 编写的轻量 coding agent 运行工具，对接 30+ 模型服务**
 
-zot 是一个编码 agent harness，以 Go 编写并编译为单个静态二进制分发。内置读写编辑/bash/glob 等工具，提供 TUI、print、json 三种运行模式；支持 30+ 模型提供方内置接入，凭据通过 /login、环境变量、auth.json 或密码管理器命令获取，OAuth 令牌自动刷新。通过 AGENTS.md 与 SKILL.md 持久化指令，扩展以子进程 + JSON-RPC 方式接入（默认不装）。`zot continuous` 提供崩溃可恢复的持久化运行，后端可选本地 journal/SQLite 或外部 PostgreSQL（实验性）。
+用 Go 编写的编码 agent 工具，编译为单一静态二进制。内置 30 多个模型服务的接入（API key、OAuth 订阅登录、自动刷新令牌）、读写/编辑/bash 等内置工具、三种运行模式（TUI/print/json）、Telegram bot，以及通过子进程 + JSON-RPC 的多语言扩展机制。支持 AGENTS.md 常驻指令与 SKILL.md 复用指令；`zot continuous run` 提供可崩溃恢复的持久化运行，后端可选本地 journal、SQLite 或外部 PostgreSQL。安装支持 curl 一键脚本、go install、源码构建与预编译包。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@ zot 是一个编码 agent harness，以 Go 编写并编译为单个静态二进�
 
 ## 能力要点
 
-- 单静态二进制，支持 Linux/macOS/Windows 的 amd64 与 arm64 预编译包
-- 内置 30+ 模型提供方接入（含 Ollama 本地模型与 AWS Bedrock）
-- 持久化、崩溃可恢复的 continuous 运行，审批与预算状态可保留
-- 扩展以任意语言经子进程 + JSON-RPC 接入
+- 内置 30+ 提供商接入，含 API key 与 OAuth 订阅登录及令牌自动刷新
+- 单一静态二进制，三种运行模式（TUI/print/json）
+- 持久化、崩溃可恢复的 continuous 运行，审批/预算/任务状态被保存
+- 扩展通过子进程 + JSON-RPC 以任意语言编写，离线文档嵌入二进制
 
 ## 适用场景
 
-- 在终端里用多种模型提供方运行编码 agent
-- 通过 Telegram bot 远程与编码 agent 交互
-- 需要崩溃恢复的长时间 agent 任务运行
+- 在终端里通过 TUI 运行编码 agent 处理本地项目
+- 接入 Anthropic/OpenAI 等多家模型服务做编码辅助
+- 通过 Telegram bot 远程驱动编码任务
+- 需要崩溃可恢复的长时 agent 运行（continuous 模式）
 
 ## 场景标签
 
-`Agent 框架` `编码 Agent` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L13: Yet another coding agent harness, lightweight and written (vibe-slopped) in go.
 > L16: - built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, B
-> L18: - three run modes (interactive tui, print, json).
+> L25: - durable, crash-recoverable runs in a persistent local store via `zot continuous run`, or hosted for multiple clie
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "patriceckhart/zot 星数(近 14 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-28"]
     y-axis "stars" 349 --> 374
     line [351, 353, 354, 353, 354, 351, 362, 367, 368, 370, 371, 372, 371, 371]
 ```
 
-2026-10-25 351 → 2026-11-27 371（+20）
+2026-10-26 351 → 2026-11-28 371（+20）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `045d1ec9877c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `ceb2d044a5b9` · [字段定义](../../DATASET.md)*

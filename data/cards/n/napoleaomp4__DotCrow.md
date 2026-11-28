@@ -1,6 +1,6 @@
 # napoleaomp4/DotCrow
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/napoleaomp4/DotCrow) · 个人维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/napoleaomp4/DotCrow) · 个人维护
 
 **本地运行的多 agent AI 任务执行工具：委派整任务由六个 agent 协作完成**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "napoleaomp4/DotCrow 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 6 --> 13
-    line [7, 8, 10, 7, 11, 12, 12]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 6 --> 15
+    line [7, 8, 10, 7, 11, 12, 14]
 ```
 
-2026-10-25 7 → 2026-11-27 12（+5）
+2026-10-26 7 → 2026-11-28 14（+7）
 
 
 ---

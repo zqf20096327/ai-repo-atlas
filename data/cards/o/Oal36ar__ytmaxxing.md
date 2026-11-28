@@ -1,6 +1,6 @@
 # Oal36ar/ytmaxxing
 
-⭐ 3 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Oal36ar/ytmaxxing) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Oal36ar/ytmaxxing) · 个人维护
 
 **把 YouTube 长视频转成 AI agent 可用的技能与知识库的工具**
 
@@ -41,6 +41,18 @@
 > L20: **ytmaxxing** fixes both. Give it any YouTube link and your AI turns the video into things you keep: a **skill** yo
 > L130: ytmaxxing does the parts a model is bad at: fetching captions reliably, splitting long videos into readable parts,
 > L136: |`maxx`|Fetches the video and returns the guide for the chosen mode|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Oal36ar/ytmaxxing 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-27 3 → 2026-11-28 5（+2）
 
 
 ---

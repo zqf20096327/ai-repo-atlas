@@ -1,6 +1,6 @@
 # redis-developer/redis-ai-resources
 
-⭐ 495 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/redis-developer/redis-ai-resources) · 组织维护
+⭐ 496 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/redis-developer/redis-ai-resources) · 组织维护
 
 **Redis 在 AI 生态中的代码配方、演示与教程策展清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "redis-developer/redis-ai-resources 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-27"]
+    title "redis-developer/redis-ai-resources 星数(近 8 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-27", "2026-11-28"]
     y-axis "stars" 494 --> 500
-    line [497, 498, 499, 498, 497, 496, 495]
+    line [497, 498, 499, 498, 497, 496, 495, 496]
 ```
 
-2026-10-25 497 → 2026-11-27 495（-2）
+2026-10-26 497 → 2026-11-28 496（-1）
 
 
 ---

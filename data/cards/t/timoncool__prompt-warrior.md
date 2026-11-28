@@ -1,6 +1,6 @@
 # timoncool/prompt-warrior
 
-⭐ 26 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/timoncool/prompt-warrior) · [官网](https://t.me/nerual_dreming) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/timoncool/prompt-warrior) · [官网](https://t.me/nerual_dreming) · 个人维护
 
 **把 AI 编码会话日志变成游戏化角色卡片的 agent 技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "timoncool/prompt-warrior 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 23 --> 27
     line [24, 26, 26]
 ```
 
-2026-10-25 24 → 2026-11-27 26（+2）
+2026-10-26 24 → 2026-11-28 26（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # supervc-stack/VectorChord
 
-⭐ 1,846 · Rust · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/supervc-stack/VectorChord) · [官网](https://docs.vectorchord.ai/vectorchord/getting-started/overview.html) · 组织维护
+⭐ 1,848 · Rust · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/supervc-stack/VectorChord) · [官网](https://docs.vectorchord.ai/vectorchord/getting-started/overview.html) · 组织维护
 
 **PostgreSQL 向量检索扩展，支持十亿级向量的低成本存储与搜索**
 
@@ -44,13 +44,13 @@ TensorChord 维护的 PostgreSQL 扩展（vchord），是 pgvecto.rs 的后继�
 
 ```mermaid
 xychart-beta
-    title "supervc-stack/VectorChord 星数(近 13 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1828 --> 1847
-    line [1829, 1831, 1832, 1834, 1829, 1838, 1839, 1841, 1842, 1841, 1842, 1844, 1846]
+    title "supervc-stack/VectorChord 星数(近 14 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 1828 --> 1849
+    line [1829, 1831, 1832, 1834, 1829, 1838, 1839, 1841, 1842, 1841, 1842, 1844, 1846, 1848]
 ```
 
-2026-10-25 1,829 → 2026-11-27 1,846（+17）
+2026-10-26 1,829 → 2026-11-28 1,848（+19）
 
 
 ---

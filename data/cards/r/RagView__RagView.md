@@ -1,6 +1,6 @@
 # RagView/RagView
 
-⭐ 82 · 推送 2025-12-05 · [GitHub](https://github.com/RagView/RagView) · [官网](https://ragview.ai/) · 组织维护
+⭐ 83 · 推送 2025-12-05 · [GitHub](https://github.com/RagView/RagView) · [官网](https://ragview.ai/) · 组织维护
 
 **面向开发者和企业的 RAG 方案评测与选型平台**
 
@@ -45,12 +45,12 @@ RagView 是一个托管在 RagView.ai 上的 RAG 技术基准评测平台：用�
 ```mermaid
 xychart-beta
     title "RagView/RagView 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 81 --> 83
-    line [82, 82]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 81 --> 84
+    line [82, 83]
 ```
 
-2026-10-25 82 → 2026-11-27 82（+0）
+2026-10-26 82 → 2026-11-28 83（+1）
 
 
 ---

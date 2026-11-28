@@ -1,6 +1,6 @@
 # openai/homebrew-tools
 
-⭐ 32 · Ruby · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/openai/homebrew-tools) · 组织维护
+⭐ 32 · Ruby · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/openai/homebrew-tools) · 组织维护
 
 **OpenAI 官方 Homebrew tap，分发 OpenAI CLI 及 Tart 相关命令行工具**
 
@@ -43,12 +43,12 @@ OpenAI 维护的 Homebrew tap 仓库，发布 openai cask（OpenAI CLI 的 Homeb
 ```mermaid
 xychart-beta
     title "openai/homebrew-tools 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-28"]
     y-axis "stars" 27 --> 33
     line [28, 29, 28, 30, 31, 32, 32]
 ```
 
-2026-10-25 28 → 2026-11-27 32（+4）
+2026-10-26 28 → 2026-11-28 32（+4）
 
 
 ---

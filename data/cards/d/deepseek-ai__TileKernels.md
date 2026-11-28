@@ -1,10 +1,10 @@
 # deepseek-ai/TileKernels
 
-⭐ 2,086 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/deepseek-ai/TileKernels) · 组织维护 · 中文 README
+⭐ 2,089 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/deepseek-ai/TileKernels) · 组织维护 · 中文 README
 
-**基于 TileLang 的 LLM 训练/推理高性能算子库**
+**LLM 训练推理算子库：以 TileLang 编写、支持 NVIDIA 与昇腾**
 
-deepseek-ai 维护的算子库，用领域专用语言 TileLang 实现数十个优化算子，覆盖 MoE 路由、量化（FP8/FP4）、Engram 门控、流形超连接、RoPE 等大模型训练与推理常见操作，并提供 torch.autograd.Function 高层封装。支持 NVIDIA（SM90/SM100）与华为昇腾 950 NPU 双后端，运行时自动选择，同一 Python API 通用。所有算子已用于内部训练与推理任务。以 pip 包或本地开发模式安装。
+TileKernels 提供数十个以领域专用语言 TileLang 实现的算子，覆盖 LLM 训练与推理中的常见操作：MoE 路由、Engram 门控（含融合 RMSNorm 与反向传播）、FP8/FP4 量化转换与融合 SwiGLU+量化、流形超连接（含 Sinkhorn 归一化）以及 RoPE 变换等；提供 torch.autograd.Function 高层封装与 pytest 测试体系。支持 NVIDIA SM90/SM100 与华为昇腾 950 两种后端，运行时自动选择；全部算子已在作者内部训练推理任务中使用。以 pip 包分发，需 Python 3.12+、PyTorch 2.13+。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ deepseek-ai 维护的算子库，用领域专用语言 TileLang 实现数十个�
 
 ## 能力要点
 
-- MoE 路由、FP8/FP4 量化、Engram 门控、流形超连接等数十个 TileLang 算子
-- NVIDIA GPU 与华为昇腾 NPU 双后端，运行时自动选择
-- 提供 torch.autograd.Function 高层封装
-- 全部算子已用于内部训练与推理工作负载
+- 数十个 TileLang 编写的算子，覆盖 MoE 路由、量化、Engram、mHC、RoPE
+- 双硬件后端：NVIDIA GPU 与华为昇腾 NPU，运行时自动选择
+- 提供 Engram 门控的 torch.autograd.Function 高层封装
+- pytest 测试体系支持正确性校验与 benchmark
 
 ## 适用场景
 
-- 为大模型训练与推理接入高性能 MoE 路由和量化算子
-- 在 NVIDIA 或昇腾硬件上复用统一的算子 API
-- 研究 Engram、流形超连接等新结构的算子实现
+- 为 LLM 训练/推理任务调用现成的 MoE 路由与量化算子
+- 在华为昇腾 NPU 上复用同一套 Python 算子 API
+- 基于 TileLang 开发自定义算子时参考实现
 
 ## 场景标签
 
-`模型量化` `模型训练` · 领域:训练与推理
+`模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L3: TileKernels is a library of dozens of highly optimized kernels implemented in TileLang, a domain-specific language s
 > L9: - **[2026-09-30] Huawei Ascend support**: Added Huawei Ascend support and updated the usage documentation. Following
+> L26: - CUDA Backend
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "deepseek-ai/TileKernels 星数(近 25 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 1998 --> 2094
-    line [2006, 2007, 2010, 2012, 2016, 2018, 2019, 2020, 2022, 2006, 2035, 2037, 2039, 2059, 2070, 2073, 2074, 2075, 2077, 2079, 2080, 2082, 2083, 2085, 2086]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 1998 --> 2097
+    line [2007, 2010, 2012, 2016, 2018, 2019, 2020, 2022, 2006, 2035, 2037, 2039, 2059, 2070, 2073, 2074, 2075, 2077, 2079, 2080, 2082, 2083, 2085, 2086, 2089]
 ```
 
-2026-10-25 2,006 → 2026-11-27 2,086（+80）
+2026-10-26 2,007 → 2026-11-28 2,089（+82）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5cca427bc830` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 mid · 依据 README sha `aa43008a9cb5` · [字段定义](../../DATASET.md)*

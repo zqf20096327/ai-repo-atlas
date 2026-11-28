@@ -1,6 +1,6 @@
 # app-vox/vox
 
-⭐ 36 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/app-vox/vox) · [官网](https://usevox.app/) · 组织维护
+⭐ 37 · TypeScript · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/app-vox/vox) · [官网](https://usevox.app/) · 组织维护
 
 **本地 Whisper 语音转文字桌面应用，可选 LLM 纠正文本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "app-vox/vox 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-14", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 32 --> 37
-    line [33, 34, 35, 36, 36]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-14", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 32 --> 38
+    line [33, 34, 35, 36, 37]
 ```
 
-2026-10-25 33 → 2026-11-27 36（+3）
+2026-10-26 33 → 2026-11-28 37（+4）
 
 
 ---

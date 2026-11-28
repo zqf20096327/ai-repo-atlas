@@ -1,6 +1,6 @@
 # zeokeel/ZeoKeel-Harness
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zeokeel/ZeoKeel-Harness) · [官网](https://www.zeokeel.com) · 组织维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/zeokeel/ZeoKeel-Harness) · [官网](https://www.zeokeel.com) · 组织维护 · 中文 README
 
 **为企业在内网桌面运行 DeepSeek Harness 的客户端+管控台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zeokeel/ZeoKeel-Harness 星数(近 7 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 16
-    line [4, 10, 11, 13, 14, 15, 15]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 3 --> 17
+    line [4, 10, 11, 13, 14, 15, 16]
 ```
 
-2026-10-28 4 → 2026-11-27 15（+11）
+2026-10-28 4 → 2026-11-28 16（+12）
 
 
 ---

@@ -45,13 +45,13 @@ McMaster University 团队的毕业设计项目：3 轴 CoreXY 定位平台配�
 
 ```mermaid
 xychart-beta
-    title "chaffybird56/PCBSolderRobot 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-27"]
+    title "chaffybird56/PCBSolderRobot 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-27 11（+1）
+2026-11-08 10 → 2026-11-28 11（+1）
 
 
 ---

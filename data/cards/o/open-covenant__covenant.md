@@ -42,6 +42,18 @@
 > L79: - **Execution:** daemon-mediated runtime dispatch with budget enforcement and sandbox-aware agent manifests.
 > L105: - Rust daemon and CLI for local agent orchestration.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "open-covenant/covenant 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-27 10 → 2026-11-28 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `32afad10bede` · [字段定义](../../DATASET.md)*

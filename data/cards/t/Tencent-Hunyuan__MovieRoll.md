@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/MovieRoll
 
-⭐ 396 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Tencent-Hunyuan/MovieRoll) · 组织维护 · 中文 README
+⭐ 407 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Tencent-Hunyuan/MovieRoll) · 组织维护 · 中文 README
 
 **长视频生成模型框架：从文本/图像提示持续生成480p长视频**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/MovieRoll 星数(近 9 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 21 --> 430
-    line [55, 88, 111, 157, 196, 271, 324, 366, 396]
+    title "Tencent-Hunyuan/MovieRoll 星数(近 10 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 20 --> 442
+    line [55, 88, 111, 157, 196, 271, 324, 366, 396, 407]
 ```
 
-2026-11-18 55 → 2026-11-27 396（+341）
+2026-11-18 55 → 2026-11-28 407（+352）
 
 
 ---

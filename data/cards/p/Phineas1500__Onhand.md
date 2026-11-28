@@ -1,6 +1,6 @@
 # Phineas1500/Onhand
 
-⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Phineas1500/Onhand) · [官网](https://useonhand.com) · 组织维护
+⭐ 35 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Phineas1500/Onhand) · [官网](https://useonhand.com) · 组织维护
 
 **浏览器 AI 阅读助手：就当前网页/PDF 提问并定位高亮答案**
 
@@ -45,12 +45,12 @@ Chrome/Firefox 浏览器扩展，作为上下文学习与研究助手：用户�
 ```mermaid
 xychart-beta
     title "Phineas1500/Onhand 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-27"]
-    y-axis "stars" 30 --> 35
-    line [31, 32, 31, 33, 34, 34]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-28"]
+    y-axis "stars" 30 --> 36
+    line [31, 32, 31, 33, 34, 35]
 ```
 
-2026-10-25 31 → 2026-11-27 34（+3）
+2026-10-26 31 → 2026-11-28 35（+4）
 
 
 ---

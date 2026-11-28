@@ -1,6 +1,6 @@
 # wonseokjung/connect-ai-video-motion
 
-⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wonseokjung/connect-ai-video-motion) · 个人维护
+⭐ 6 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wonseokjung/connect-ai-video-motion) · 个人维护
 
 **给编码 Agent 的视频动效技能包：在人像视频上叠加动态图形**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wonseokjung/connect-ai-video-motion 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-26", "2026-11-28"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 6（+1）
 
 
 ---

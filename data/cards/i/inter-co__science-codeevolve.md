@@ -1,6 +1,6 @@
 # inter-co/science-codeevolve
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/inter-co/science-codeevolve) · [官网](https://arxiv.org/abs/2510.14150) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源进化式编码代理：用 LLM 驱动算法发现与优化**
 
@@ -11,7 +11,7 @@ CodeEvolve 将大语言模型与进化算法结合，用于自动发现和优化
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

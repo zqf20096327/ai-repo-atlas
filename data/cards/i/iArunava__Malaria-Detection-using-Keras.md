@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "iArunava/Malaria-Detection-using-Keras 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-27"]
+    x-axis ["2026-11-15", "2026-11-28"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-11-15 41 → 2026-11-27 41（+0）
+2026-11-15 41 → 2026-11-28 41（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OuincheWinch/DiffusionBear
 
-⭐ 31 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/OuincheWinch/DiffusionBear) · [官网](https://www.diffusionbear.com/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/OuincheWinch/DiffusionBear) · [官网](https://www.diffusionbear.com/) · 个人维护
 
 **Apple Silicon Mac 本地 AI 图像生成工作室应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OuincheWinch/DiffusionBear 星数(近 12 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 7 --> 33
-    line [9, 16, 21, 23, 9, 26, 27, 28, 29, 30, 31, 31]
+    title "OuincheWinch/DiffusionBear 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 7 --> 35
+    line [16, 21, 23, 9, 26, 27, 28, 29, 30, 31, 33]
 ```
 
-2026-10-25 9 → 2026-11-27 31（+22）
+2026-10-26 16 → 2026-11-28 33（+17）
 
 
 ---

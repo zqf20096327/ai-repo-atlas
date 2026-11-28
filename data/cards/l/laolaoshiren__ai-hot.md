@@ -1,6 +1,6 @@
 # laolaoshiren/ai-hot
 
-⭐ 88 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/laolaoshiren/ai-hot) · [官网](https://aihot.bt199.com) · 个人维护 · 中文 README
+⭐ 88 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/laolaoshiren/ai-hot) · [官网](https://aihot.bt199.com) · 个人维护 · 中文 README
 
 **面向中文用户的 AI 工具/模型/新闻导航站，GitHub 与网站双向同步**
 
@@ -44,12 +44,12 @@ AI 热榜是一个 AI 信息导航站（https://aihot.bt199.com/）的 GitHub �
 ```mermaid
 xychart-beta
     title "laolaoshiren/ai-hot 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 85 --> 89
     line [86, 87, 86, 88, 88]
 ```
 
-2026-10-25 86 → 2026-11-27 88（+2）
+2026-10-26 86 → 2026-11-28 88（+2）
 
 
 ---

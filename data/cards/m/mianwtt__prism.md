@@ -1,6 +1,6 @@
 # mianwtt/prism
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mianwtt/prism) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mianwtt/prism) · 个人维护 · 中文 README
 
 **给决策者一个带依据可推演 What-if 分支的多 Agent 研究工具**
 
@@ -45,13 +45,13 @@ Prism 是一个本地运行的多 Agent 研究与决策工具：协调、研究�
 
 ```mermaid
 xychart-beta
-    title "mianwtt/prism 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 3 --> 6
-    line [4, 5]
+    title "mianwtt/prism 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-26 4 → 2026-11-27 5（+1）
+2026-11-26 4 → 2026-11-28 6（+2）
 
 
 ---

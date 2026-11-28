@@ -1,6 +1,6 @@
 # jeecgboot/qiaoqiaoyun
 
-⭐ 171 · Java · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/jeecgboot/qiaoqiaoyun) · [官网](https://www.qiaoqiaoyun.com) · 组织维护 · 中文 README
+⭐ 172 · Java · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/jeecgboot/qiaoqiaoyun) · [官网](https://www.qiaoqiaoyun.com) · 组织维护 · 中文 README
 
 **企业零代码搭建业务系统的平台，集成 AI 建表与知识库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jeecgboot/qiaoqiaoyun 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 163 --> 172
-    line [164, 165, 166, 164, 168, 169, 170, 171, 171]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 163 --> 173
+    line [164, 165, 166, 164, 168, 169, 170, 171, 172]
 ```
 
-2026-10-25 164 → 2026-11-27 171（+7）
+2026-10-26 164 → 2026-11-28 172（+8）
 
 
 ---

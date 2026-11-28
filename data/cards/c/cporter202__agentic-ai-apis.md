@@ -1,10 +1,10 @@
 # cporter202/agentic-ai-apis
 
-⭐ 847 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/cporter202/agentic-ai-apis) · 个人维护
+⭐ 848 · JavaScript · 推送 2026-11-27 · [GitHub](https://github.com/cporter202/agentic-ai-apis) · 个人维护
 
-**面向 agent 开发者的 API 目录：按 3 类组织可接入 API**
+**自主 AI agent 构建 API 目录：聚合 Agents、AI Models 与 MCP Servers 三类条目**
 
-一个聚合自主 AI agent 构建所需 API 的目录仓库，按 Agents（执行/编排/自主任务）、AI Models（推理/生成/抽取）、MCP Servers（工具接入）三个类别组织条目。README 不含安装与运行说明，用户通过分类 README 浏览 API 名称与描述，跳转到 provider 页面查看实现细节、定价与文档。维护侧通过 GitHub Actions 每日同步 Apify 目录，仅在上游数据变化时提交；API 链接保留上游来源的联盟跟踪参数。README 中的计数显示为 0，与描述中的 2,036 不一致。
+一个面向构建自主 AI 系统的开发者 API 聚合目录，按 Agents（执行与编排）、AI Models（推理与生成服务层）、MCP Servers（通过 MCP 连接工具与数据）三个类别组织条目。README 提供按层选型的工作流程说明，条目指向各服务商页面获取实现细节、定价与文档。数据由 GitHub Actions 工作流每日同步 Apify 目录，仅在上游变更时提交；API 链接保留上游的联盟跟踪。注意：README 中 API 计数字段显示为 0，实际条目数量无法从本页核实。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按 Agents、AI Models、MCP Servers 三类组织的 API 目录
-- GitHub Actions 每日自动同步 Apify 目录
-- 条目跳转至 provider 页面获取实现细节、定价与文档
+- 按 Agents / AI Models / MCP Servers 三类组织的 API 目录
+- GitHub Actions 每日同步 Apify 目录，仅在上游数据变更时提交
+- 条目链接指向服务商页面，含实现细节、定价与文档
 
 ## 适用场景
 
-- 为 agent 项目快速筛选可接入的 API 形成候选清单
-- 查找把助手接入外部系统的 MCP Server 集成
-- 按执行层/模型层/工具层的分层视角了解 agentic API 生态
+- 为 agent 项目寻找可接入的工具与模型 API
+- 查找 MCP 服务器以连接外部系统与数据
+- 快速建立选型候选清单而不是逐个检索服务商
 
 ## 场景标签
 
@@ -37,20 +37,21 @@
 ## 证据(README 行号)
 
 > L20: > The ultimate collection of APIs for building autonomous AI agents - **0 production-ready APIs** across **Agents**
-> L27: |Categories|3|
+> L111: - **Agents** for execution, orchestration, planning, and autonomous workflows
+> L121: - A GitHub Actions workflow now syncs the Apify catalog daily and commits only when upstream data actually changes
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "cporter202/agentic-ai-apis 星数(近 23 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 642 --> 865
-    line [660, 663, 665, 667, 670, 697, 731, 753, 660, 780, 782, 783, 798, 813, 824, 827, 829, 830, 831, 833, 832, 847, 847]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 642 --> 866
+    line [660, 663, 665, 667, 670, 697, 731, 753, 660, 780, 782, 783, 798, 813, 824, 827, 829, 830, 831, 833, 832, 847, 848]
 ```
 
-2026-10-25 660 → 2026-11-27 847（+187）
+2026-10-26 660 → 2026-11-28 848（+188）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `13bd06b0ebfe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `3c97625f0679` · [字段定义](../../DATASET.md)*

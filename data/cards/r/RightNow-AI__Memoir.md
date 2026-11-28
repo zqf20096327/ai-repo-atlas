@@ -1,6 +1,6 @@
 # RightNow-AI/Memoir
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/Memoir) · [官网](https://www.rightnowai.co/) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/RightNow-AI/Memoir) · [官网](https://www.rightnowai.co/) · 组织维护
 
 **持续学习快权重架构及其预注册证伪实验代码**
 
@@ -46,12 +46,12 @@ Memoir 是一个持续学习 transformer 架构的 PyTorch 研究实现：四级
 ```mermaid
 xychart-beta
     title "RightNow-AI/Memoir 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-25 15 → 2026-11-27 15（+0）
+2026-10-26 15 → 2026-11-28 16（+1）
 
 
 ---

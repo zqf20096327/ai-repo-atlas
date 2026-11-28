@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-LivenessDetection-DotNet-MAUI
 
-⭐ 53 · C# · 推送 2026-11-26 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-DotNet-MAUI) · [官网](https://faceplugin.com/) · 组织维护
+⭐ 53 · C# · 推送 2026-11-27 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-DotNet-MAUI) · [官网](https://faceplugin.com/) · 组织维护
 
 **面向 .NET MAUI 开发者的端侧人脸识别与活体检测 SDK 演示应用**
 
@@ -46,12 +46,12 @@ FacePlugin 提供的 .NET MAUI 项目：包含 MAUI 应用工程、Android/iOS �
 ```mermaid
 xychart-beta
     title "Faceplugin-ltd/FaceRecognition-LivenessDetection-DotNet-MAUI 星数(近 2 点)"
-    x-axis ["2026-11-25", "2026-11-27"]
+    x-axis ["2026-11-25", "2026-11-28"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-11-25 53 → 2026-11-27 53（+0）
+2026-11-25 53 → 2026-11-28 53（+0）
 
 
 ---

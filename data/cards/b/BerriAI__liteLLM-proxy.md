@@ -41,6 +41,18 @@
 > L36: - Make `/chat/completions` requests for 50+ LLM models **Azure, OpenAI, Replicate, Anthropic, Hugging Face**
 > L48:  - Call all models using the OpenAI format - `completion(model, messages)`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BerriAI/liteLLM-proxy 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 287 --> 289
+    line [288, 288]
+```
+
+2026-11-27 288 → 2026-11-28 288（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `1992eaea8d44` · [字段定义](../../DATASET.md)*

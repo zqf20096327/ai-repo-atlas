@@ -1,6 +1,6 @@
 # danielyaa5/ai-usage
 
-⭐ 3 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/danielyaa5/ai-usage) · [官网](https://danielyakobian.com/ai-usage/) · 个人维护
+⭐ 4 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/danielyaa5/ai-usage) · [官网](https://danielyakobian.com/ai-usage/) · 个人维护
 
 **macOS 本地面板：统计 Claude Code/Codex/Antigravity 用量与套餐额度**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "danielyaa5/ai-usage 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-22 3 → 2026-11-27 3（+0）
+2026-11-22 3 → 2026-11-28 4（+1）
 
 
 ---

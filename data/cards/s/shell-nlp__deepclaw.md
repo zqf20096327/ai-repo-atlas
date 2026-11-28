@@ -1,6 +1,6 @@
 # shell-nlp/deepclaw
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/shell-nlp/deepclaw) · 组织维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/shell-nlp/deepclaw) · 组织维护 · 中文 README
 
 **企业级智能体工作台：单进程提供 Agent 运行时、RAG 与 IM 渠道接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "shell-nlp/deepclaw 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-25", "2026-11-28"]
     y-axis "stars" 12 --> 17
     line [13, 14, 16, 16]
 ```
 
-2026-10-25 13 → 2026-11-27 16（+3）
+2026-10-26 13 → 2026-11-28 16（+3）
 
 
 ---

@@ -42,6 +42,18 @@ Go 编写的自托管反向代理网关，通过 OAuth 设备授权获取腾讯 
 > L67: - 官方不提供 OpenAI 形态的开放 API，本项目通过 **OAuth 设备授权**（面板「添加账号」或 `login.sh`）获取账号凭证，在网关侧做 token 自动刷新、账号池调度与流量治理；
 > L69: - 对客户端只暴露 OpenAI 兼容接口，现有 SDK / 前端 / 工具 **零改造接入**。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Eternal-Xstar/workbuddy2api-plus 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `c85867c4d394` · [字段定义](../../DATASET.md)*

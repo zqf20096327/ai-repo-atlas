@@ -1,6 +1,6 @@
 # gosutry/dsh-persona-select
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/gosutry/dsh-persona-select) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **为 DSH 宿主注入系统提示词与上下文的插件，附人设管理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

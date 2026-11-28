@@ -1,6 +1,6 @@
 # darkautism/llmserver-rs
 
-⭐ 25 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/darkautism/llmserver-rs) · 个人维护
+⭐ 26 · Rust · 推送 2026-11-27 · [GitHub](https://github.com/darkautism/llmserver-rs) · 个人维护
 
 **在 RK3588 NPU 上运行 LLM 的 OpenAI 风格 API 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "darkautism/llmserver-rs 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-25 25 → 2026-11-27 25（+0）
+2026-10-26 25 → 2026-11-28 26（+1）
 
 
 ---

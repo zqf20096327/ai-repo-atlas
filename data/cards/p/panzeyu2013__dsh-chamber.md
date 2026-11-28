@@ -1,6 +1,6 @@
 # panzeyu2013/dsh-chamber
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/panzeyu2013/dsh-chamber) · [官网](https://github.com/panzeyu2013/dsh-chamber/releases) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/panzeyu2013/dsh-chamber) · [官网](https://github.com/panzeyu2013/dsh-chamber/releases) · 个人维护 · 中文 README
 
 **dsh（DeepSeek Harness）的桌面连接管理器：本地与远程实例统一管理**
 
@@ -46,12 +46,12 @@ macOS 原生桌面应用，用 Swift/AppKit 壳承载 Node sidecar 业务，页�
 ```mermaid
 xychart-beta
     title "panzeyu2013/dsh-chamber 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-25 14 → 2026-11-27 14（+0）
+2026-10-26 14 → 2026-11-28 14（+0）
 
 
 ---

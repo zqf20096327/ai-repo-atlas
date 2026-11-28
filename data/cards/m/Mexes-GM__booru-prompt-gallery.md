@@ -1,6 +1,6 @@
 # Mexes-GM/booru-prompt-gallery
 
-⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/Mexes-GM/booru-prompt-gallery) · [官网](https://booru-prompt-gallery.vercel.app/) · 个人维护
+⭐ 34 · TypeScript · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/Mexes-GM/booru-prompt-gallery) · [官网](https://booru-prompt-gallery.vercel.app/) · 个人维护
 
 **聚合五家 booru 站图片并生成可直接使用的 AI 绘画提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mexes-GM/booru-prompt-gallery 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-26", "2026-11-28"]
     y-axis "stars" 14 --> 35
     line [15, 17, 15, 29, 31, 32, 33, 34, 34]
 ```
 
-2026-10-25 15 → 2026-11-27 34（+19）
+2026-10-26 15 → 2026-11-28 34（+19）
 
 
 ---

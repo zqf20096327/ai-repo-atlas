@@ -1,6 +1,6 @@
 # NMar33/slightly-parallel
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/NMar33/slightly-parallel) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/NMar33/slightly-parallel) · 个人维护
 
 **自托管的编码 agent 多项目管理仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NMar33/slightly-parallel 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-27"]
+    x-axis ["2026-11-22", "2026-11-28"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-11-22 21 → 2026-11-27 21（+0）
+2026-11-22 21 → 2026-11-28 21（+0）
 
 
 ---

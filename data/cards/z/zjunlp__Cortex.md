@@ -41,6 +41,18 @@ Cortex（Python 包名 mc）提供把知识、指令或 agent 经验从上下文
 > L11: The Python package, **`mc`**, connects experience data, consolidation methods, model backends, and evaluators throu
 > L22: 2. **Consolidate the context.** Cortex generates questions and answers or collects agent rollouts, then trains an a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zjunlp/Cortex 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-27 11 → 2026-11-28 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `7dc38855106a` · [字段定义](../../DATASET.md)*

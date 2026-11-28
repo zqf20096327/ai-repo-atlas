@@ -1,6 +1,6 @@
 # aerbrowser/heyaer
 
-⭐ 9 · Shell · 推送 2026-11-25 · [GitHub](https://github.com/aerbrowser/heyaer) · [官网](https://heyaer.com) · 个人维护
+⭐ 10 · Shell · 推送 2026-11-25 · [GitHub](https://github.com/aerbrowser/heyaer) · [官网](https://heyaer.com) · 个人维护
 
 **面向工作区场景的 macOS Chromium 浏览器，内置 AI 助手与 Bot**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aerbrowser/heyaer 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 2 --> 10
-    line [3, 5, 9, 9]
+    x-axis ["2026-11-16", "2026-11-25", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 2 --> 11
+    line [3, 5, 9, 10]
 ```
 
-2026-11-16 3 → 2026-11-27 9（+6）
+2026-11-16 3 → 2026-11-28 10（+7）
 
 
 ---

@@ -45,13 +45,13 @@ Google TurboQuant 论文的 MLX 实现，通过 Hadamard 旋转 + Lloyd-Max 码�
 
 ```mermaid
 xychart-beta
-    title "manjunathshiva/turboquant-mlx 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-12", "2026-11-13", "2026-11-27"]
+    title "manjunathshiva/turboquant-mlx 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-12", "2026-11-13", "2026-11-27", "2026-11-28"]
     y-axis "stars" 90 --> 96
-    line [91, 93, 94, 95]
+    line [91, 93, 94, 95, 95]
 ```
 
-2026-10-25 91 → 2026-11-27 95（+4）
+2026-10-26 91 → 2026-11-28 95（+4）
 
 
 ---

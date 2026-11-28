@@ -48,12 +48,12 @@ Flask + React + SurrealDB 构建的临床综合平台，目标是连接医疗人
 ```mermaid
 xychart-beta
     title "ArsMedicaTech/arsmedicatech 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-25 22 → 2026-11-27 22（+0）
+2026-10-26 22 → 2026-11-28 22（+0）
 
 
 ---

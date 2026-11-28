@@ -1,6 +1,6 @@
 # regolo-ai/awesome-regolo-ai
 
-⭐ 24 · 推送 2026-10-28 · [GitHub](https://github.com/regolo-ai/awesome-regolo-ai) · [官网](https://regolo.ai) · 组织维护
+⭐ 25 · 推送 2026-10-28 · [GitHub](https://github.com/regolo-ai/awesome-regolo-ai) · [官网](https://regolo.ai) · 组织维护
 
 **Regolo.ai 平台的工具与项目集成清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "regolo-ai/awesome-regolo-ai 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-23", "2026-11-27"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-23", "2026-11-28"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-25 22 → 2026-11-27 24（+2）
+2026-10-26 22 → 2026-11-28 25（+3）
 
 
 ---

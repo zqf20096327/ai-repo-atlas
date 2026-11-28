@@ -1,6 +1,6 @@
 # Rishab87/tarn
 
-⭐ 6 · Swift · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Rishab87/tarn) · [官网](https://tarn-ai.vercel.app) · 个人维护
+⭐ 7 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Rishab87/tarn) · [官网](https://www.tarndesk.com) · 个人维护
 
 **在 Mac 本地运行开源模型的隐私 AI 聊天应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rishab87/tarn 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-21", "2026-11-27"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-11-02", "2026-11-21", "2026-11-28"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-02 5 → 2026-11-27 6（+1）
+2026-11-02 5 → 2026-11-28 7（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ara-mkr/BetterClaude
 
-⭐ 11 · CSS · MIT · 推送 2026-10-04 · [GitHub](https://github.com/ara-mkr/BetterClaude) · 个人维护
+⭐ 12 · CSS · MIT · 推送 2026-10-04 · [GitHub](https://github.com/ara-mkr/BetterClaude) · 个人维护
 
 **给 Claude 桌面用户的增强套件：主题、插件与 Code 工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ara-mkr/BetterClaude 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 11（+0）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

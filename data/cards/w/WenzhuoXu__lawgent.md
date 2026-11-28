@@ -1,6 +1,6 @@
 # WenzhuoXu/lawgent
 
-⭐ 18 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/WenzhuoXu/lawgent) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/WenzhuoXu/lawgent) · 个人维护 · 中文 README
 
 **面向执业律师的多法域法律 AI agent，引文逐条核验**
 
@@ -47,12 +47,12 @@ Lawgent 是围绕模型构建的法律工作流 harness：从官方数据库（�
 ```mermaid
 xychart-beta
     title "WenzhuoXu/lawgent 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 12 --> 19
-    line [13, 14, 15, 13, 17, 18, 18]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 12 --> 20
+    line [13, 14, 15, 13, 17, 18, 19]
 ```
 
-2026-10-25 13 → 2026-11-27 18（+5）
+2026-10-26 13 → 2026-11-28 19（+6）
 
 
 ---

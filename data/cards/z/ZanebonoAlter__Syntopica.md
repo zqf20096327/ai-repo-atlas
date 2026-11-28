@@ -1,6 +1,6 @@
 # ZanebonoAlter/Syntopica
 
-⭐ 24 · Go · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/ZanebonoAlter/Syntopica) · 个人维护 · 中文 README
+⭐ 24 · Go · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/ZanebonoAlter/Syntopica) · 个人维护 · 中文 README
 
 **面向个人研究的语义化 RSS 信息工作台：把订阅整理成主题脉络**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZanebonoAlter/Syntopica 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-25 24 → 2026-11-27 24（+0）
+2026-10-26 24 → 2026-11-28 24（+0）
 
 
 ---

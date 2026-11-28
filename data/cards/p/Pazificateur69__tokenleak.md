@@ -1,6 +1,6 @@
 # Pazificateur69/tokenleak
 
-⭐ 3 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Pazificateur69/tokenleak) · [官网](https://pazificateur69.github.io/tokenleak/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地只读审计编码代理的 token 消耗并给出上下文瘦身规则**
 
@@ -11,7 +11,7 @@ tokenleak 是一个本地 CLI 与 agent 技能：读取本机 Claude Code 与 Co
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

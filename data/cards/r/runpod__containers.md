@@ -1,6 +1,6 @@
 # runpod/containers
 
-⭐ 241 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/runpod/containers) · [官网](https://hub.docker.com/u/runpod) · 组织维护
+⭐ 241 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/runpod/containers) · [官网](https://hub.docker.com/u/runpod) · 组织维护
 
 **为 Runpod 平台官方容器模板提供 Dockerfile 的镜像仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "runpod/containers 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
+    title "runpod/containers 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-28"]
     y-axis "stars" 238 --> 242
-    line [239, 240, 239, 240, 241, 241]
+    line [240, 239, 240, 241, 241]
 ```
 
-2026-10-25 239 → 2026-11-27 241（+2）
+2026-10-26 240 → 2026-11-28 241（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # wsauret/flywheel
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/wsauret/flywheel) · [官网](https://flywl.sh) · 个人维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/wsauret/flywheel) · [官网](https://flywl.sh) · 个人维护
 
 **终端 UI 编码 agent：写码、验证、全程可检索回放**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wsauret/flywheel 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 13 --> 20
     line [14, 19, 19]
 ```
 
-2026-10-25 14 → 2026-11-27 19（+5）
+2026-10-26 14 → 2026-11-28 19（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Narwhal-Lab/MagicSkills
 
-⭐ 321 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/Narwhal-Lab/MagicSkills) · 组织维护 · 中文 README
+⭐ 322 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/Narwhal-Lab/MagicSkills) · 组织维护 · 中文 README
 
 **跨 agent 复用 SKILL.md 技能的本地共享技能池基础设施**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Narwhal-Lab/MagicSkills 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 316 --> 322
-    line [317, 318, 317, 318, 319, 320, 321, 321]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 316 --> 323
+    line [317, 318, 317, 318, 319, 320, 321, 322]
 ```
 
-2026-10-25 317 → 2026-11-27 321（+4）
+2026-10-26 317 → 2026-11-28 322（+5）
 
 
 ---

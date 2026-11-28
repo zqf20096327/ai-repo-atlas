@@ -1,6 +1,6 @@
 # athasdev/athas
 
-⭐ 3,287 · Rust · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/athasdev/athas) · [官网](https://athas.dev) · 组织维护
+⭐ 3,289 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/athasdev/athas) · [官网](https://athas.dev) · 组织维护
 
 **Rust+GPU 绘制的跨平台轻量代码编辑器，带 AI agents**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "athasdev/athas 星数(近 5 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 3185 --> 3296
-    line [3194, 3213, 3222, 3277, 3287]
+    title "athasdev/athas 星数(近 6 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 3185 --> 3298
+    line [3194, 3213, 3222, 3277, 3287, 3289]
 ```
 
-2026-11-22 3,194 → 2026-11-27 3,287（+93）
+2026-11-22 3,194 → 2026-11-28 3,289（+95）
 
 
 ---

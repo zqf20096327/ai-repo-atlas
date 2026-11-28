@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/automated-crypto-fund
 
-⭐ 20 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/The-Swarm-Corporation/automated-crypto-fund) · [官网](https://discord.gg/jM3Z6M9uMq) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **用 LLM 多智能体集群进行实盘交易的自动化加密基金**
 
@@ -11,7 +11,7 @@ README 仅含标题与社区链接（Discord/YouTube/LinkedIn/X），描述其�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

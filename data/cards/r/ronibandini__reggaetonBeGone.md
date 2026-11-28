@@ -1,6 +1,6 @@
 # ronibandini/reggaetonBeGone
 
-⭐ 1,021 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/ronibandini/reggaetonBeGone) · [官网](https://bandini.medium.com/reggaeton-be-gone-6fa55f46a9d7) · 个人维护
+⭐ 1,022 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/ronibandini/reggaetonBeGone) · [官网](https://bandini.medium.com/reggaeton-be-gone-6fa55f46a9d7) · 个人维护
 
 **树莓派设备：识别雷鬼顿音乐并触发蓝牙干扰测试**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ronibandini/reggaetonBeGone 星数(近 10 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-26", "2026-11-27"]
+    title "ronibandini/reggaetonBeGone 星数(近 11 点)"
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 1016 --> 1023
-    line [1017, 1018, 1019, 1017, 1020, 1021, 1022, 1021, 1022, 1021]
+    line [1017, 1018, 1019, 1017, 1020, 1021, 1022, 1021, 1022, 1021, 1022]
 ```
 
-2026-10-25 1,017 → 2026-11-27 1,021（+4）
+2026-10-26 1,017 → 2026-11-28 1,022（+5）
 
 
 ---

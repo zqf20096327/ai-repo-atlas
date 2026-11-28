@@ -1,6 +1,6 @@
 # Mr-Bingoo/seeu-computeruse
 
-⭐ 13 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Mr-Bingoo/seeu-computeruse) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Mr-Bingoo/seeu-computeruse) · 个人维护 · 中文 README
 
 **让 AI 在 Mac/Windows/Linux 后台看屏、点击、打字的计算机操作工具**
 
@@ -47,12 +47,12 @@ SeeU（Computer Use 谐音）以代理鼠标和悬浮窗的形式，让接入的
 ```mermaid
 xychart-beta
     title "Mr-Bingoo/seeu-computeruse 星数(近 5 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 14
     line [10, 11, 12, 13, 13]
 ```
 
-2026-11-21 10 → 2026-11-27 13（+3）
+2026-11-21 10 → 2026-11-28 13（+3）
 
 
 ---

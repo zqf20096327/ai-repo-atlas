@@ -45,13 +45,13 @@ BunkerWeb 官方 MCP 服务器：将 BunkerWeb 的 REST API 以 36 个工具、1
 
 ```mermaid
 xychart-beta
-    title "bunkerity/bunkerweb-mcp 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-27"]
+    title "bunkerity/bunkerweb-mcp 星数(近 3 点)"
+    x-axis ["2026-10-28", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-28 10 → 2026-11-27 11（+1）
+2026-10-28 10 → 2026-11-28 11（+1）
 
 
 ---

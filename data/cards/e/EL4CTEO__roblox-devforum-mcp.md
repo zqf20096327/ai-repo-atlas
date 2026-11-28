@@ -1,6 +1,6 @@
 # EL4CTEO/roblox-devforum-mcp
 
-⭐ 13 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EL4CTEO/roblox-devforum-mcp) · [官网](https://www.npmjs.com/package/roblox-devforum-mcp) · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/EL4CTEO/roblox-devforum-mcp) · [官网](https://www.npmjs.com/package/@el4cteo/roblox-devforum-mcp) · 个人维护
 
 **给 AI 编码代理接入 Roblox DevForum 与官方文档的 MCP 服务器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "EL4CTEO/roblox-devforum-mcp 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-11", "2026-11-25", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 14
     line [10, 12, 13, 13]
 ```
 
-2026-11-11 10 → 2026-11-27 13（+3）
+2026-11-11 10 → 2026-11-28 13（+3）
 
 
 ---

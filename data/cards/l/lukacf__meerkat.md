@@ -1,6 +1,6 @@
 # lukacf/meerkat
 
-⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/lukacf/meerkat) · 个人维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/lukacf/meerkat) · 个人维护
 
 **Rust 构建的模块化 agent 运行时平台，供开发与运行多智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lukacf/meerkat 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-27"]
+    title "lukacf/meerkat 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-28"]
     y-axis "stars" 21 --> 26
-    line [22, 23, 22, 24, 25, 25]
+    line [23, 22, 24, 25, 25]
 ```
 
-2026-10-25 22 → 2026-11-27 25（+3）
+2026-10-26 23 → 2026-11-28 25（+2）
 
 
 ---

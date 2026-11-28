@@ -1,6 +1,6 @@
 # momoshub/J.A.R.V.I.S.
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/momoshub/J.A.R.V.I.S.) · [官网](https://thediligentengineer.com/J.A.R.V.I.S) · 个人维护
+⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/momoshub/J.A.R.V.I.S.) · [官网](https://thediligentengineer.com/J.A.R.V.I.S) · 个人维护
 
 **围绕 Claude Code 的会话与运维 harness，经 Slack 对话**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "momoshub/J.A.R.V.I.S. 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-27"]
+    x-axis ["2026-11-15", "2026-11-28"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-15 5 → 2026-11-27 5（+0）
+2026-11-15 5 → 2026-11-28 5（+0）
 
 
 ---

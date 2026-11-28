@@ -1,6 +1,6 @@
 # wubjak/wallasapi
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/wubjak/wallasapi) · [官网](https://ko-fi.com/wubjak) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-08-23 · [GitHub](https://github.com/wubjak/wallasapi) · [官网](https://ko-fi.com/wubjak) · 个人维护
 
 **自托管的 OpenAI 兼容多提供商 AI 路由网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wubjak/wallasapi 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 13, 14, 14]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15]
 ```
 
-2026-10-25 13 → 2026-11-27 14（+1）
+2026-10-26 13 → 2026-11-28 15（+2）
 
 
 ---

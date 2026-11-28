@@ -1,6 +1,6 @@
 # dante-compass/dante-engine
 
-⭐ 22 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/dante-compass/dante-engine) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
+⭐ 22 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/dante-compass/dante-engine) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
 
 **Dante Cloud 微服务体系的核心 Java 组件库，含 AI Agent 基座组件**
 
@@ -46,12 +46,12 @@ Dante Engine 是 Dante Cloud 企业级微服务项目的核心组件库工程，
 ```mermaid
 xychart-beta
     title "dante-compass/dante-engine 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 19 --> 23
     line [20, 21, 20, 22, 22]
 ```
 
-2026-10-25 20 → 2026-11-27 22（+2）
+2026-10-26 20 → 2026-11-28 22（+2）
 
 
 ---

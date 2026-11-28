@@ -41,6 +41,18 @@ podserve 是一个开源部署工具，面向需要在自有 GCP 项目中部署
 > L5: Point podserve at a model on the Hugging Face Hub and it computes the hardware sizing and engine settings before any
 > L20: - **Zero-GPU planner (`podserve plan`):** fetches `config.json` from Hugging Face, validates vLLM `v0.32.0` archite
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ryanymt/podserve 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-27 11 → 2026-11-28 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ad87b864d1d7` · [字段定义](../../DATASET.md)*

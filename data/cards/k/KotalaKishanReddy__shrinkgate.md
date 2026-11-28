@@ -46,12 +46,12 @@ ShrinkGate 是运行在本地回环地址的 Rust 网关，代理 coding agent �
 ```mermaid
 xychart-beta
     title "KotalaKishanReddy/shrinkgate 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-27"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-18 3 → 2026-11-27 5（+2）
+2026-11-18 3 → 2026-11-28 5（+2）
 
 
 ---

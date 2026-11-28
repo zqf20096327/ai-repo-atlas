@@ -1,6 +1,6 @@
 # Gbally/Hesper
 
-⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Gbally/Hesper) · [官网](https://gbally.github.io/Hesper/) · 组织维护
+⭐ 5 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Gbally/Hesper) · [官网](https://gbally.github.io/Hesper/) · 组织维护
 
 **给 Mac/Win 用户的开源离线会议纪要工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Gbally/Hesper 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-26 5 → 2026-11-27 5（+0）
+2026-11-26 5 → 2026-11-28 5（+0）
 
 
 ---

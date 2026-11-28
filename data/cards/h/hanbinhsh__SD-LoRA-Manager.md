@@ -1,6 +1,6 @@
 # hanbinhsh/SD-LoRA-Manager
 
-⭐ 38 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hanbinhsh/SD-LoRA-Manager) · 个人维护 · 中文 README
+⭐ 38 · C++ · MIT · 推送 2026-11-27 · [GitHub](https://github.com/hanbinhsh/SD-LoRA-Manager) · 个人维护 · 中文 README
 
 **本地 Stable Diffusion LoRA 模型与返图管理桌面工具**
 
@@ -46,12 +46,12 @@ C++ & Qt 构建的 Windows 桌面应用，面向本地 SD 生态用户：按 SHA
 ```mermaid
 xychart-beta
     title "hanbinhsh/SD-LoRA-Manager 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-25", "2026-11-28"]
     y-axis "stars" 32 --> 39
     line [33, 34, 33, 34, 35, 37, 38, 38]
 ```
 
-2026-10-25 33 → 2026-11-27 38（+5）
+2026-10-26 33 → 2026-11-28 38（+5）
 
 
 ---

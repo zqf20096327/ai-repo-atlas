@@ -1,6 +1,6 @@
 # arc-labs-ai/brain-db
 
-⭐ 46 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/arc-labs-ai/brain-db) · [官网](https://docs.arc-labs.ai) · 组织维护
+⭐ 50 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/arc-labs-ai/brain-db) · [官网](https://docs.arc-labs.ai) · 组织维护
 
 **面向 AI agent 的记忆数据库：类型化记忆存储与融合检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arc-labs-ai/brain-db 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-16", "2026-11-27"]
-    y-axis "stars" 41 --> 47
-    line [42, 45, 46, 46]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-16", "2026-11-28"]
+    y-axis "stars" 41 --> 51
+    line [42, 45, 46, 50]
 ```
 
-2026-10-25 42 → 2026-11-27 46（+4）
+2026-10-26 42 → 2026-11-28 50（+8）
 
 
 ---

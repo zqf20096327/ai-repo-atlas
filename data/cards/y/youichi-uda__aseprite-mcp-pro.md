@@ -1,6 +1,6 @@
 # youichi-uda/aseprite-mcp-pro
 
-⭐ 37 · Lua · MIT · 推送 2026-07-20 · [GitHub](https://github.com/youichi-uda/aseprite-mcp-pro) · [官网](https://aseprite-mcp.abyo.net/) · 个人维护
+⭐ 37 · Lua · MIT · 推送 2026-11-27 · [GitHub](https://github.com/youichi-uda/aseprite-mcp-pro) · [官网](https://aseprite-mcp.abyo.net/) · 个人维护
 
 **通过 MCP 让 AI 助手直接操作 Aseprite 像素画编辑的扩展**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "youichi-uda/aseprite-mcp-pro 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "youichi-uda/aseprite-mcp-pro 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 34 --> 38
-    line [35, 36, 37]
+    line [35, 36, 37, 37]
 ```
 
-2026-10-25 35 → 2026-11-27 37（+2）
+2026-10-26 35 → 2026-11-28 37（+2）
 
 
 ---

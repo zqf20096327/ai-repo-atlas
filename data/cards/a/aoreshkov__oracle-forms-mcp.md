@@ -45,13 +45,13 @@ MCP 服务器，扫描目录中的 Oracle Forms 二进制模块（.fmb/.mmb/.pll
 
 ```mermaid
 xychart-beta
-    title "aoreshkov/oracle-forms-mcp 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
+    title "aoreshkov/oracle-forms-mcp 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-27", "2026-11-28"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-10 10 → 2026-11-27 11（+1）
+2026-11-10 10 → 2026-11-28 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # banshoudigua/McD-Arcade-Adventure
 
-⭐ 3 · JavaScript · 推送 2026-10-13 · [GitHub](https://github.com/banshoudigua/McD-Arcade-Adventure) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向家庭的麦当劳主题儿童卡牌桌游，接入麦当劳 MCP 真实数据**
 

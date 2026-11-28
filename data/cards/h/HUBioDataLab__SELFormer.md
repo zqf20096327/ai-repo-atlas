@@ -45,12 +45,12 @@ SELFormer 是基于 RoBERTa 架构的化学语言模型，以 SELFIES 分子字�
 ```mermaid
 xychart-beta
     title "HUBioDataLab/SELFormer 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 116 --> 118
     line [117, 117]
 ```
 
-2026-10-25 117 → 2026-11-27 117（+0）
+2026-10-26 117 → 2026-11-28 117（+0）
 
 
 ---

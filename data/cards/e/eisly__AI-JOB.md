@@ -40,6 +40,18 @@
 > L3: AI-JOB 是一个面向求职场景的应用，涵盖求职画像、简历管理与分析、岗位搜索与匹配、专项训练、项目实战和模拟面试。项目由 Vue 前端、Java 业务后端和 Python Agent 组成；具体功能和运行方式以当前代码为准。
 > L12: project/agent/      Python AI Agent
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "eisly/AI-JOB 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-27 4 → 2026-11-28 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `30e94b5a591a` · [字段定义](../../DATASET.md)*

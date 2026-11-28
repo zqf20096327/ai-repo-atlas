@@ -46,12 +46,12 @@ Voxel51 维护的 FiftyOne 官方示例仓库：以 Jupyter Notebook 形式提�
 ```mermaid
 xychart-beta
     title "voxel51/fiftyone-examples 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 232 --> 234
     line [233, 233]
 ```
 
-2026-10-25 233 → 2026-11-27 233（+0）
+2026-10-26 233 → 2026-11-28 233（+0）
 
 
 ---

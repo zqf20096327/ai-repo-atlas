@@ -41,6 +41,18 @@
 > L18: 2. **Reply Handler** reads every new reply with a free AI model, sorts it (rates sent, interested,
 > L23: 5. **Copywriter** writes each email; the **Quality Critic** blocks risky phrases, links and rule breaks.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Ali45504/ai-outreach-team 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `3faa90986345` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # leehack/llamadart
 
-⭐ 93 · Dart · MIT · 推送 2026-11-26 · [GitHub](https://github.com/leehack/llamadart) · [官网](https://llamadart.leehack.com) · 个人维护
+⭐ 93 · Dart · MIT · 推送 2026-11-27 · [GitHub](https://github.com/leehack/llamadart) · [官网](https://llamadart.leehack.com) · 个人维护
 
 **Dart/Flutter 跨平台端侧 LLM 推理库，统一 API 调 llama.cpp 与 LiteRT-LM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "leehack/llamadart 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-27"]
+    title "leehack/llamadart 星数(近 9 点)"
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-27", "2026-11-28"]
     y-axis "stars" 77 --> 94
-    line [78, 79, 81, 78, 88, 91, 92, 93]
+    line [78, 79, 81, 78, 88, 91, 92, 93, 93]
 ```
 
-2026-10-25 78 → 2026-11-27 93（+15）
+2026-10-26 78 → 2026-11-28 93（+15）
 
 
 ---

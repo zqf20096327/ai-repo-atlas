@@ -1,6 +1,6 @@
 # hashgraph-online/hol-cigar
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hashgraph-online/hol-cigar) · [官网](https://hol.org/cigar) · 组织维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hashgraph-online/hol-cigar) · [官网](https://hol.org/cigar) · 组织维护
 
 **面向 AI agent 的上下文工程协议与运行时：受限检索+引用+审计**
 
@@ -46,12 +46,12 @@ CIGAR（Context Intelligence Graph Agentic Runtime）由 HOL 开发，是开源�
 ```mermaid
 xychart-beta
     title "hashgraph-online/hol-cigar 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-27"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-23", "2026-11-28"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-23 10 → 2026-11-27 10（+0）
+2026-11-23 10 → 2026-11-28 11（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CreativeMindstorms/AI-LEGO-PixelArt-Robot 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "CreativeMindstorms/AI-LEGO-PixelArt-Robot 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 58 --> 61
-    line [59, 60, 59, 60, 60]
+    line [60, 59, 60, 60]
 ```
 
-2026-10-25 59 → 2026-11-27 60（+1）
+2026-10-26 60 → 2026-11-28 60（+0）
 
 
 ---

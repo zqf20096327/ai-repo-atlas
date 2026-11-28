@@ -1,6 +1,6 @@
 # aivrar/vllm-windows-build
 
-⭐ 68 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/aivrar/vllm-windows-build) · [官网](https://github.com/aivrar/vllm-windows-build/wiki) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/aivrar/vllm-windows-build) · [官网](https://github.com/aivrar/vllm-windows-build/wiki) · 个人维护
 
 **vLLM 的原生 Windows 预编译构建与安装器：无需 WSL/Docker**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aivrar/vllm-windows-build 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-27"]
-    y-axis "stars" 62 --> 69
-    line [63, 64, 63, 65, 66, 67, 68, 68]
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-28"]
+    y-axis "stars" 62 --> 70
+    line [63, 64, 63, 65, 66, 67, 68, 69]
 ```
 
-2026-10-25 63 → 2026-11-27 68（+5）
+2026-10-26 63 → 2026-11-28 69（+6）
 
 
 ---

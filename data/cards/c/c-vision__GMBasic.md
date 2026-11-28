@@ -1,6 +1,6 @@
 # c-vision/GMBasic
 
-⭐ 7 · C · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/c-vision/GMBasic) · 个人维护
+⭐ 7 · C · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/c-vision/GMBasic) · 个人维护
 
 **面向开发者的 AI 增强 BASIC：四后端编译器+本地 LLM 栈**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "c-vision/GMBasic 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    title "c-vision/GMBasic 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 4 --> 8
-    line [5, 7]
+    line [5, 7, 7]
 ```
 
-2026-11-26 5 → 2026-11-27 7（+2）
+2026-11-26 5 → 2026-11-28 7（+2）
 
 
 ---

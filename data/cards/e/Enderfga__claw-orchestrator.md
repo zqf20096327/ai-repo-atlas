@@ -1,10 +1,10 @@
 # Enderfga/claw-orchestrator
 
-⭐ 624 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Enderfga/claw-orchestrator) · [官网](https://github.com/Enderfga/claw-orchestrator#readme) · 个人维护
+⭐ 624 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Enderfga/claw-orchestrator) · [官网](https://github.com/Enderfga/claw-orchestrator#readme) · 个人维护
 
-**为开发者提供统一运行时，调度多种编码 Agent CLI 并独立验收**
+**统一运行时编排多个编码 Agent CLI 并执行独立验收校验**
 
-一个把 Claude Code、Codex、Antigravity、Grok Build、Cursor、OpenCode 及任意 ACP agent 作为持久会话运行在单一 API 之后的编码 Agent 运行时。核心机制：由运行时（而非 agent 自身）执行验收契约并读取退出码，运行结果分 verified/refuted/unverified；支持跨引擎 fan-out、council 投票、会话跨引擎移交、检查点恢复、按引擎记录 token 与成本并强制 maxBudgetUsd 上限。需要 Node 22+ 且至少安装并登录一个引擎 CLI。
+将 Claude Code、Codex、Antigravity、Grok Build、Cursor、OpenCode 及任意 ACP agent 作为持久会话接入同一 API，提供 CLI、MCP server、ACP agent、OpenAI 兼容端点和 TypeScript SDK 等运行方式。核心机制是验收契约：由运行时而非 agent 自身执行检查命令，运行结果判定为 verified/refuted/unverified。支持 fan-out 多引擎并行、session handoff、checkpoint 恢复、按 turn 记录模型/令牌/成本的账本与 maxBudgetUsd 支出上限。需要 Node 22+ 且至少安装并登录一个引擎 CLI。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 运行时自身执行验收契约，agent 无法编辑判定依据
-- 多引擎统一 CLI 旗标，支持 fanout 与 session_handoff
-- 检查点化工作流，进程崩溃后可恢复
-- MCP server、ACP agent、OpenAI 兼容端点、TypeScript SDK 多种接入方式
+- 由运行时执行、agent 不可编辑的验收契约校验
+- 多引擎统一 API：fan-out 并行与会话跨引擎交接
+- checkpoint 持久化运行，崩溃后可恢复
+- 跨引擎成本账本与 maxBudgetUsd 支出上限
 
 ## 适用场景
 
-- 同一任务分发给多个编码 Agent 并行执行并汇总
-- 无人值守的长目标任务需在用量限额后自动续跑
-- 按 verified 率和成本对比不同引擎/模型
-- 在编辑器（Zed/JetBrains/Neovim）中切换多家编码 Agent
+- 让不同厂商的编码 agent 在统一接口下完成修复任务并接受独立校验
+- 同一任务分发到多个引擎对比结果与成本
+- 长时无人值守目标执行，用量限额后自动恢复
+- 在编辑器中通过 MCP/ACP 切换多个 agent 模型
 
 ## 场景标签
 
-`多智能体` `Agent 框架` · 领域:Agent 开发
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3:  Claw Orchestrator: A Unified Runtime for Coding Agent CLIs
-> L17: Agent Client Protocol agent (Kimi Code, dsh) as persistent sessions behind one API.
 > L63: subagents and Codex's parallel attempts stay within one vendor. Claw Orchestrator is a headless runtime underneath:
+> L69: Requires Node 22+ and at least one engine CLI installed and logged in (`claude`, `codex`, `agy`, `grok` or `opencod
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Enderfga/claw-orchestrator 星数(近 19 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 596 --> 626
-    line [599, 598, 600, 601, 602, 604, 599, 603, 604, 603, 606, 607, 611, 614, 616, 617, 618, 622, 624]
+    line [598, 600, 601, 602, 604, 599, 603, 604, 603, 606, 607, 611, 614, 616, 617, 618, 622, 624, 624]
 ```
 
-2026-10-25 599 → 2026-11-27 624（+25）
+2026-10-26 598 → 2026-11-28 624（+26）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `12654a62e4f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `e61c48a9cfe6` · [字段定义](../../DATASET.md)*

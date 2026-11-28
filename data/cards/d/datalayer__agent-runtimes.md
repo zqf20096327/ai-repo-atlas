@@ -1,6 +1,6 @@
 # datalayer/agent-runtimes
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-11-26 · [GitHub](https://github.com/datalayer/agent-runtimes) · [官网](https://agent-runtimes.datalayer.tech) · 组织维护
+⭐ 25 · Python · NOASSERTION · 推送 2026-11-27 · [GitHub](https://github.com/datalayer/agent-runtimes) · [官网](https://agent-runtimes.datalayer.tech) · 组织维护
 
 **多协议 AI Agent 部署与管理统一运行时库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datalayer/agent-runtimes 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-25 24 → 2026-11-27 25（+1）
+2026-10-26 24 → 2026-11-28 25（+1）
 
 
 ---

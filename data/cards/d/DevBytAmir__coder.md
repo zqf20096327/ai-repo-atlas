@@ -41,6 +41,18 @@ Rust 编写的 CLI，在 rootless podman 容器内启动 AI 编码 agent（aider
 > L21: anywhere. `coder` closes that hole by splitting the agent container
 > L170: The `coder` plugin teaches a coding agent on the host to delegate tasks
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DevBytAmir/coder 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `ca043ec9d7ab` · [字段定义](../../DATASET.md)*

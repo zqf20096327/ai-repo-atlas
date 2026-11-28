@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "RizwanMunawar/yolov7-object-tracking 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 652 --> 654
     line [653, 653]
 ```
 
-2026-10-25 653 → 2026-11-27 653（+0）
+2026-10-26 653 → 2026-11-28 653（+0）
 
 
 ---

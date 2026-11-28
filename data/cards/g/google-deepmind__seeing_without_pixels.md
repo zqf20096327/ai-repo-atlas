@@ -45,12 +45,12 @@ CVPR 2026 论文 Seeing without Pixels 的官方代码：CamFormer 是作用于�
 ```mermaid
 xychart-beta
     title "google-deepmind/seeing_without_pixels 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-18", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-18", "2026-11-28"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-25 16 → 2026-11-27 17（+1）
+2026-10-26 16 → 2026-11-28 17（+1）
 
 
 ---

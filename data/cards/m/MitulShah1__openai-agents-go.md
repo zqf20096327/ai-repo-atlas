@@ -1,6 +1,6 @@
 # MitulShah1/openai-agents-go
 
-⭐ 47 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MitulShah1/openai-agents-go) · [官网](https://mitulshah1.github.io/openai-agents-go/) · 个人维护
+⭐ 46 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MitulShah1/openai-agents-go) · [官网](https://mitulshah1.github.io/openai-agents-go/) · 个人维护
 
 **非官方 Go 版 OpenAI Agents SDK：构建多 agent 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MitulShah1/openai-agents-go 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 44 --> 48
-    line [45, 46, 45, 47, 47]
+    line [45, 46, 45, 47, 46]
 ```
 
-2026-10-25 45 → 2026-11-27 47（+2）
+2026-10-26 45 → 2026-11-28 46（+1）
 
 
 ---

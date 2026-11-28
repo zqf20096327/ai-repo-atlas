@@ -1,6 +1,6 @@
 # tachyonmcp/tachyon
 
-⭐ 40 · Java · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/tachyonmcp/tachyon) · [官网](https://tachyonmcp.dev) · 组织维护
+⭐ 40 · Java · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/tachyonmcp/tachyon) · [官网](https://tachyonmcp.dev) · 组织维护
 
 **Java/Kotlin 的 MCP 服务器运行时，简化模型上下文协议服务开发**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tachyonmcp/tachyon 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-11", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-11", "2026-11-23", "2026-11-28"]
     y-axis "stars" 36 --> 41
     line [37, 38, 39, 40, 40]
 ```
 
-2026-10-25 37 → 2026-11-27 40（+3）
+2026-10-26 37 → 2026-11-28 40（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # westlake-repl/MicroLens
 
-⭐ 315 · Python · 推送 2026-03-19 · [GitHub](https://github.com/westlake-repl/MicroLens) · 组织维护 · 中文 README
+⭐ 316 · Python · 推送 2026-03-19 · [GitHub](https://github.com/westlake-repl/MicroLens) · 组织维护 · 中文 README
 
 **大规模短视频多模态推荐数据集，含原始文本/图像/音频/视频**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "westlake-repl/MicroLens 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 310 --> 316
-    line [311, 312, 313, 311, 314, 315, 315]
+    title "westlake-repl/MicroLens 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 310 --> 317
+    line [312, 313, 311, 314, 315, 316]
 ```
 
-2026-10-25 311 → 2026-11-27 315（+4）
+2026-10-26 312 → 2026-11-28 316（+4）
 
 
 ---

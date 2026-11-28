@@ -1,6 +1,6 @@
 # CodeAgentMobile/codeagent-mobile-clients
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CodeAgentMobile/codeagent-mobile-clients) · [官网](https://www.codeagent-mobile.com) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/CodeAgentMobile/codeagent-mobile-clients) · [官网](https://www.codeagent-mobile.com) · 个人维护
 
 **让开发者在手机上远程监督 IDE 中 AI 编码 agent 的客户端桥**
 
@@ -46,12 +46,12 @@ CodeAgent Mobile 的客户端源码仓库，包含三部分：npm 发布的 code
 ```mermaid
 xychart-beta
     title "CodeAgentMobile/codeagent-mobile-clients 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-27"]
+    x-axis ["2026-11-14", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-14 10 → 2026-11-27 10（+0）
+2026-11-14 10 → 2026-11-28 10（+0）
 
 
 ---

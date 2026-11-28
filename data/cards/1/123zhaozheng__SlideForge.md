@@ -1,6 +1,6 @@
 # 123zhaozheng/SlideForge
 
-⭐ 10 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/123zhaozheng/SlideForge) · 个人维护 · 中文 README
+⭐ 71 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/123zhaozheng/SlideForge) · 个人维护 · 中文 README
 
 **把文档/想法/AI扁平幻灯片转为原生可编辑 PPTX 的 Agent 技能**
 
@@ -39,6 +39,18 @@
 
 > L10:  An Agent-first skill that builds layered PowerPoint decks from AI component sprite sheets and OOXML vector code, v
 > L141: SlideForge ships as a standard Agent Skill (`SKILL.md`) compatible with Claude Code, Cursor, Codex, and Antigravit
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "123zhaozheng/SlideForge 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 4 --> 77
+    line [10, 71]
+```
+
+2026-11-27 10 → 2026-11-28 71（+61）
 
 
 ---

@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-Nemotron-Image
 
-⭐ 6 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Nemotron-Image) · 个人维护
+⭐ 8 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Nemotron-Image) · 个人维护
 
 **在 ComfyUI 中原生运行 NVIDIA Nemotron-Labs-Image-30B-A3B 文生图**
 
@@ -40,6 +40,18 @@
 > L3: **ComfyUI-Nemotron-Image** runs NVIDIA's
 > L4: Nemotron-Labs-Image-30B-A3B natively in ComfyUI.
 > L6: - **Autoregressive, not diffusion.** A 30B mixture-of-experts language model (3B active per token) writes the image
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PedroMarinhoDev/ComfyUI-Nemotron-Image 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 5 --> 9
+    line [6, 8]
+```
+
+2026-11-27 6 → 2026-11-28 8（+2）
 
 
 ---

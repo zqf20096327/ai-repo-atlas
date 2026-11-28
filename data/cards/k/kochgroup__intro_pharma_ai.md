@@ -1,6 +1,6 @@
 # kochgroup/intro_pharma_ai
 
-⭐ 172 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/kochgroup/intro_pharma_ai) · [官网](https://doi.org/10.1002/ardp.202200628) · 组织维护
+⭐ 173 · Jupyter Notebook · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/kochgroup/intro_pharma_ai) · [官网](https://doi.org/10.1002/ardp.202200628) · 组织维护
 
 **面向药学/化学学生的深度学习教学笔记本集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kochgroup/intro_pharma_ai 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-27"]
-    y-axis "stars" 168 --> 173
-    line [169, 170, 169, 171, 172, 172]
+    x-axis ["2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-28"]
+    y-axis "stars" 168 --> 174
+    line [169, 170, 169, 171, 172, 173]
 ```
 
-2026-10-25 169 → 2026-11-27 172（+3）
+2026-10-26 169 → 2026-11-28 173（+4）
 
 
 ---

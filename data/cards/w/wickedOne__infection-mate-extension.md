@@ -1,6 +1,6 @@
 # wickedOne/infection-mate-extension
 
-⭐ 3 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wickedOne/infection-mate-extension) · 个人维护
+⭐ 3 · PHP · MIT · 推送 2026-11-26 · [GitHub](https://github.com/wickedOne/infection-mate-extension) · 个人维护
 
 **让编码 agent 运行 Infection 变异测试并分析结果的 Symfony Mate 扩展**
 
@@ -45,12 +45,12 @@ Symfony Mate 的扩展插件，将 Infection 变异测试暴露为 agent 可调�
 ```mermaid
 xychart-beta
     title "wickedOne/infection-mate-extension 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-27"]
+    x-axis ["2026-10-30", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-30 3 → 2026-11-27 3（+0）
+2026-10-30 3 → 2026-11-28 3（+0）
 
 
 ---

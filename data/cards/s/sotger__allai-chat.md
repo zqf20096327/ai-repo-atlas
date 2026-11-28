@@ -1,6 +1,6 @@
 # sotger/allai-chat
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/sotger/allai-chat) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/sotger/allai-chat) · 个人维护
 
 **AI 网页服务聚合桌面浏览器：多服务独立会话与本地历史搜索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sotger/allai-chat 星数(近 3 点)"
-    x-axis ["2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-23 3 → 2026-11-27 4（+1）
+2026-11-23 3 → 2026-11-28 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # itgoyo/awesome-ai-nav
 
-⭐ 40 · 推送 2026-07-08 · [GitHub](https://github.com/itgoyo/awesome-ai-nav) · [官网](https://ai.0xnav.com) · 个人维护 · 中文 README
+⭐ 41 · 推送 2026-07-08 · [GitHub](https://github.com/itgoyo/awesome-ai-nav) · [官网](https://ai.0xnav.com) · 个人维护 · 中文 README
 
 **AI 工具导航清单：分门别类收录数百个国内外 AI 工具站点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "itgoyo/awesome-ai-nav 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 37 --> 41
-    line [38, 39, 38, 39, 40, 40]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26", "2026-11-28"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 38, 39, 40, 41]
 ```
 
-2026-10-25 38 → 2026-11-27 40（+2）
+2026-10-26 38 → 2026-11-28 41（+3）
 
 
 ---

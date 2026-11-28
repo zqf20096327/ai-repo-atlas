@@ -45,12 +45,12 @@ DeepMind 发布的 Python 强化学习环境接口包：定义 Environment 抽�
 ```mermaid
 xychart-beta
     title "google-deepmind/dm_env 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 410 --> 412
     line [411, 411]
 ```
 
-2026-11-26 411 → 2026-11-27 411（+0）
+2026-11-26 411 → 2026-11-28 411（+0）
 
 
 ---

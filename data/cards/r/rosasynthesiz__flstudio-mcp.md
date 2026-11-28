@@ -1,6 +1,6 @@
 # rosasynthesiz/flstudio-mcp
 
-⭐ 156 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rosasynthesiz/flstudio-mcp) · [官网](https://rosasynthesiz.com/products/fl-studio-mcp) · 个人维护
+⭐ 162 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/rosasynthesiz/flstudio-mcp) · [官网](https://rosasynthesiz.com/products/fl-studio-mcp) · 个人维护
 
 **用 Claude 等 AI 助手以自然语言控制 FL Studio 的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rosasynthesiz/flstudio-mcp 星数(近 7 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 145 --> 157
-    line [146, 148, 150, 151, 153, 155, 156]
+    title "rosasynthesiz/flstudio-mcp 星数(近 8 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 145 --> 163
+    line [146, 148, 150, 151, 153, 155, 156, 162]
 ```
 
-2026-11-19 146 → 2026-11-27 156（+10）
+2026-11-19 146 → 2026-11-28 162（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # bisdom-cell/openclaw-model-bridge
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bisdom-cell/openclaw-model-bridge) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/bisdom-cell/openclaw-model-bridge) · 个人维护 · 中文 README
 
 **把多家 LLM 一键接入 OpenClaw 的运行时控制面**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bisdom-cell/openclaw-model-bridge 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-25", "2026-11-28"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 10]
 ```
 
-2026-10-25 10 → 2026-11-27 10（+0）
+2026-10-26 10 → 2026-11-28 10（+0）
 
 
 ---

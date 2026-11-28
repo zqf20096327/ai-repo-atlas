@@ -1,6 +1,6 @@
 # rapmd73/Companion
 
-⭐ 71 · Python · LGPL-2.1 · 推送 2026-07-15 · [GitHub](https://github.com/rapmd73/Companion) · 个人维护
+⭐ 72 · Python · LGPL-2.1 · 推送 2026-07-15 · [GitHub](https://github.com/rapmd73/Companion) · 个人维护
 
 **面向 Discord 服务器的 AI 聊天与审核机器人**
 
@@ -41,12 +41,12 @@
 ```mermaid
 xychart-beta
     title "rapmd73/Companion 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-14", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-14", "2026-11-28"]
     y-axis "stars" 70 --> 73
-    line [71, 72, 71, 71]
+    line [71, 72, 71, 72]
 ```
 
-2026-10-25 71 → 2026-11-27 71（+0）
+2026-10-26 71 → 2026-11-28 72（+1）
 
 
 ---

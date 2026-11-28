@@ -1,6 +1,6 @@
 # daggerhashimoto/openclaw-nerve
 
-⭐ 872 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/daggerhashimoto/openclaw-nerve) · [官网](https://nerve.zone) · 个人维护
+⭐ 872 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/daggerhashimoto/openclaw-nerve) · [官网](https://nerve.zone) · 个人维护
 
 **OpenClaw 的自托管 Web 控制台：语音、看板与多 agent 管理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "daggerhashimoto/openclaw-nerve 星数(近 11 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-26", "2026-11-28"]
     y-axis "stars" 870 --> 877
     line [873, 874, 875, 876, 873, 874, 873, 872, 871, 872, 872]
 ```
 
-2026-10-25 873 → 2026-11-27 872（-1）
+2026-10-26 873 → 2026-11-28 872（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # usehm/hm
 
-⭐ 3 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/usehm/hm) · [官网](https://usehm.dev) · 个人维护
+⭐ 3 · Go · AGPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/usehm/hm) · [官网](https://usehm.dev) · 个人维护
 
 **内置 AI 编码 agent 的原生桌面代码编辑器，自带密钥即可用**
 
@@ -40,6 +40,18 @@
 > L9: Hm is a desktop code editor with an AI coding agent built in. It is written in Go and draws its UI with Yoga, a GPU-
 > L11: Everything is configured in plain YAML, with a settings page on top. The agent is bring-your-own-key: Anthropic, Go
 > L65: ### AI agent
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "usehm/hm 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SSujitX/clawdbot-ui 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-11-27"]
-    y-axis "stars" 9 --> 12
-    line [11, 10, 10]
+    title "SSujitX/clawdbot-ui 星数(近 2 点)"
+    x-axis ["2026-10-25", "2026-11-28"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
 ```
 
-2026-10-24 11 → 2026-11-27 10（-1）
+2026-10-25 10 → 2026-11-28 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # foo123/FILTER.js
 
-⭐ 402 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/foo123/FILTER.js) · [官网](https://foo123.github.io/examples/filter/) · 个人维护
+⭐ 402 · JavaScript · 推送 2026-11-27 · [GitHub](https://github.com/foo123/FILTER.js) · [官网](https://foo123.github.io/examples/filter/) · 个人维护
 
 **浏览器/Node.js 纯 JS 图像视频处理与计算机视觉库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "foo123/FILTER.js 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-28"]
     y-axis "stars" 399 --> 403
     line [400, 401, 402, 401, 402, 402]
 ```
 
-2026-10-25 400 → 2026-11-27 402（+2）
+2026-10-26 400 → 2026-11-28 402（+2）
 
 
 ---

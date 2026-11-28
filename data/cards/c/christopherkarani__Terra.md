@@ -1,6 +1,6 @@
 # christopherkarani/Terra
 
-⭐ 19 · Swift · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/christopherkarani/Terra) · [官网](https://christopherkarani.github.io/Terra/) · 个人维护
+⭐ 20 · Swift · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/christopherkarani/Terra) · [官网](https://christopherkarani.github.io/Terra/) · 个人维护
 
 **Swift 遥测 SDK：追踪 Apple 平台 AI 推理并导出 OpenTelemetry**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "christopherkarani/Terra 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-26", "2026-11-28"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-25 19 → 2026-11-27 19（+0）
+2026-10-26 19 → 2026-11-28 20（+1）
 
 
 ---

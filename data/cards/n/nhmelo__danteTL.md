@@ -1,6 +1,6 @@
 # nhmelo/danteTL
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/nhmelo/danteTL) · 个人维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/nhmelo/danteTL) · 个人维护
 
 **Windows 实时游戏屏幕翻译工具：OCR 叠加层读取游戏文字并翻译**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nhmelo/danteTL 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 18 --> 27
-    line [19, 26]
+    title "nhmelo/danteTL 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 18 --> 28
+    line [19, 26, 27]
 ```
 
-2026-11-26 19 → 2026-11-27 26（+7）
+2026-11-26 19 → 2026-11-28 27（+8）
 
 
 ---

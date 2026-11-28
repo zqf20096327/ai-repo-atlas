@@ -1,6 +1,6 @@
 # azukds/tubular
 
-⭐ 109 · Python · BSD-3-Clause · 推送 2026-11-26 · [GitHub](https://github.com/azukds/tubular) · [官网](https://tubular.readthedocs.io/en/latest/index.html) · 组织维护
+⭐ 109 · Python · BSD-3-Clause · 推送 2026-11-27 · [GitHub](https://github.com/azukds/tubular) · [官网](https://tubular.readthedocs.io/en/latest/index.html) · 组织维护
 
 **面向 pandas/polars 的机器学习表格预处理与特征工程库**
 
@@ -46,12 +46,12 @@ Python 包 tubular 实现机器学习管线中常用的表格数据预处理步�
 ```mermaid
 xychart-beta
     title "azukds/tubular 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-25 109 → 2026-11-27 109（+0）
+2026-10-26 109 → 2026-11-28 109（+0）
 
 
 ---

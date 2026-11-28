@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kbhujbal/AlphaAnalyst-open-source-autonomous-equity-research-agent 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-27"]
+    title "kbhujbal/AlphaAnalyst-open-source-autonomous-equity-research-agent 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
     y-axis "stars" 49 --> 55
-    line [50, 51, 52, 53, 54]
+    line [50, 51, 52, 53, 54, 54]
 ```
 
-2026-10-25 50 → 2026-11-27 54（+4）
+2026-10-26 50 → 2026-11-28 54（+4）
 
 
 ---

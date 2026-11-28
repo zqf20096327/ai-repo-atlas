@@ -45,12 +45,12 @@ Kedro 插件，把 Kedro pipeline DSL 翻译为 Kubeflow Pipelines SDK（kfp）�
 ```mermaid
 xychart-beta
     title "getindata/kedro-kubeflow 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-28"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-24 58 → 2026-11-27 58（+0）
+2026-10-25 58 → 2026-11-28 58（+0）
 
 
 ---

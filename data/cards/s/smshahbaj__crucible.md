@@ -1,6 +1,6 @@
 # smshahbaj/crucible
 
-⭐ 21 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/smshahbaj/crucible) · [官网](https://crucible.smshahbaj.com) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/smshahbaj/crucible) · [官网](https://crucible.smshahbaj.com) · 个人维护
 
 **面向 Claude Code 等的决策压力测试技能插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smshahbaj/crucible 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-28"]
     y-axis "stars" 9 --> 22
-    line [10, 13, 12, 16, 21, 21]
+    line [10, 13, 12, 16, 21, 19]
 ```
 
-2026-10-31 10 → 2026-11-27 21（+11）
+2026-10-31 10 → 2026-11-28 19（+9）
 
 
 ---

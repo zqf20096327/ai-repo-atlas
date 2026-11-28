@@ -1,6 +1,6 @@
 # jason201385-commits/positioning-companion
 
-⭐ 20 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/jason201385-commits/positioning-companion) · [官网](https://easyknowai.com) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-07-29 · [GitHub](https://github.com/jason201385-commits/positioning-companion) · [官网](https://easyknowai.com) · 个人维护 · 中文 README
 
 **AI 時代的自助職涯定位工具包：釐清方向並產出定位卡**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jason201385-commits/positioning-companion 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 20, 20]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 17 --> 23
+    line [18, 19, 20, 22]
 ```
 
-2026-10-25 18 → 2026-11-27 20（+2）
+2026-10-26 18 → 2026-11-28 22（+4）
 
 
 ---

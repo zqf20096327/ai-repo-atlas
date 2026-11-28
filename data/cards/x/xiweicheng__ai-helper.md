@@ -1,6 +1,6 @@
 # xiweicheng/ai-helper
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xiweicheng/ai-helper) · [官网](https://xiweicheng.github.io/ai-helper/) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/xiweicheng/ai-helper) · [官网](https://xiweicheng.github.io/ai-helper/) · 个人维护 · 中文 README
 
 **让 LLM 直接操作网页的开源浏览器插件：点击、填表、跑命令**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xiweicheng/ai-helper 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-10-25 13 → 2026-11-27 15（+2）
+2026-10-26 13 → 2026-11-28 15（+2）
 
 
 ---

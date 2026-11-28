@@ -1,6 +1,6 @@
 # nightgopher/easyagent
 
-⭐ 4 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nightgopher/easyagent) · 个人维护 · 中文 README
+⭐ 4 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/nightgopher/easyagent) · 个人维护 · 中文 README
 
 **Go 编写的个人 AI 编程助手与 Agent 工作台，多端接入**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nightgopher/easyagent 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-13", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-13", "2026-11-28"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-26 3 → 2026-11-27 4（+1）
+2026-10-26 3 → 2026-11-28 4（+1）
 
 
 ---

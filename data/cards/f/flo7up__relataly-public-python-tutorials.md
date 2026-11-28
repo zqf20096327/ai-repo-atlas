@@ -46,12 +46,12 @@ Relataly.com 技术文章配套的 Jupyter notebook 集合，覆盖应用机器�
 ```mermaid
 xychart-beta
     title "flo7up/relataly-public-python-tutorials 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 163 --> 165
     line [164, 164]
 ```
 
-2026-10-25 164 → 2026-11-27 164（+0）
+2026-10-26 164 → 2026-11-28 164（+0）
 
 
 ---

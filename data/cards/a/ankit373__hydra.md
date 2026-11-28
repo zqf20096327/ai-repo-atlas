@@ -1,6 +1,6 @@
 # ankit373/hydra
 
-⭐ 12 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/ankit373/hydra) · [官网](https://hydra.uvansa.com/) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/ankit373/hydra) · [官网](https://hydra.uvansa.com/) · 个人维护
 
 **面向开发者的 LLM 路由控制平面：按能力与成本分发并校验回答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ankit373/hydra 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-25 11 → 2026-11-27 12（+1）
+2026-10-26 11 → 2026-11-28 12（+1）
 
 
 ---

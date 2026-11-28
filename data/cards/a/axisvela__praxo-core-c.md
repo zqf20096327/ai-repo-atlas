@@ -1,6 +1,6 @@
 # axisvela/praxo-core-c
 
-⭐ 3 · C · MIT · 推送 2026-11-26 · [GitHub](https://github.com/axisvela/praxo-core-c) · [官网](https://axisvela.github.io/praxo-core/languages/c/) · 组织维护
+⭐ 3 · C · MIT · 推送 2026-11-27 · [GitHub](https://github.com/axisvela/praxo-core-c) · [官网](https://axisvela.github.io/praxo-core/languages/c/) · 组织维护
 
 **面向 C 开发者的可嵌入 AI Agent 框架实现**
 
@@ -40,6 +40,18 @@ PRAXO-CORE 契约的 C11 实现，提供策略、工具调用、事件与检查�
 > L3: C11 implementation of the PRAXO-CORE Core contract with source version `0.12.0`. The normative contract is `spec/`; 
 > L40: |OpenAI-compatible model|native (transport seam)|`PxOpenAICompatible`; caller supplies HTTP transport; `px_openai_g
 > L46: |Subagent delegation|native (synchronous seam)|`px_subagent_run`; no asynchronous manager|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axisvela/praxo-core-c 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # charoiteai/Charoite_audio
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/charoiteai/Charoite_audio) · [官网](https://github.com/charoiteai/Charoite_audio/releases/latest) · 组织维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/charoiteai/Charoite_audio) · [官网](https://github.com/charoiteai/Charoite_audio/releases/latest) · 组织维护 · 中文 README
 
 **macOS 全本地 AI 会议助手：转写+说话人分离+自更新知识图谱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "charoiteai/Charoite_audio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-25 16 → 2026-11-27 16（+0）
+2026-10-26 16 → 2026-11-28 16（+0）
 
 
 ---

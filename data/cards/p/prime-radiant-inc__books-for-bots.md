@@ -44,13 +44,13 @@ Rust 编写的 CLI 工具，将 EPUB 电子书转换为单一 Markdown 文件：
 
 ```mermaid
 xychart-beta
-    title "prime-radiant-inc/books-for-bots 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "prime-radiant-inc/books-for-bots 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 145 --> 149
-    line [146, 147, 148]
+    line [146, 147, 148, 148]
 ```
 
-2026-10-25 146 → 2026-11-27 148（+2）
+2026-10-26 146 → 2026-11-28 148（+2）
 
 
 ---

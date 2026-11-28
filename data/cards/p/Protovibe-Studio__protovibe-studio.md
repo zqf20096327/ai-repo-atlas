@@ -45,12 +45,12 @@ Protovibe Studio 是一个可视化编辑的 Web 构建工具，用于快速创�
 ```mermaid
 xychart-beta
     title "Protovibe-Studio/protovibe-studio 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-25 13 → 2026-11-27 13（+0）
+2026-10-26 13 → 2026-11-28 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mukkandi-Sridhar/SemanticDrift
 
-⭐ 10 · Python · CC-BY-4.0 · 推送 2026-11-26 · [GitHub](https://github.com/Mukkandi-Sridhar/SemanticDrift) · 个人维护
+⭐ 10 · Python · CC-BY-4.0 · 推送 2026-11-27 · [GitHub](https://github.com/Mukkandi-Sridhar/SemanticDrift) · 个人维护
 
 **MCP 工具描述措辞变化对 LLM agent 评测排名影响的预注册研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mukkandi-Sridhar/SemanticDrift 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-26 10 → 2026-11-27 10（+0）
+2026-11-26 10 → 2026-11-28 10（+0）
 
 
 ---

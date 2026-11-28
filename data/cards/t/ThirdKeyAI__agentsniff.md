@@ -1,6 +1,6 @@
 # ThirdKeyAI/agentsniff
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ThirdKeyAI/agentsniff) · [官网](https://docs.agentsniff.org) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/ThirdKeyAI/agentsniff) · [官网](https://docs.agentsniff.org) · 组织维护
 
 **网络扫描器：发现并核验内网中的 AI agent 基础设施**
 
@@ -46,12 +46,12 @@ Rust 编写的网络扫描工具，通过主动探测（端口扫描、AgentPin/
 ```mermaid
 xychart-beta
     title "ThirdKeyAI/agentsniff 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-26", "2026-11-28"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-25 15 → 2026-11-27 16（+1）
+2026-10-26 15 → 2026-11-28 16（+1）
 
 
 ---

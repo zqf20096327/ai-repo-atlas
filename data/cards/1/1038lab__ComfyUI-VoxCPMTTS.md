@@ -46,12 +46,12 @@ ComfyUI 自定义节点，封装 OpenBMB 的 VoxCPM1.5 TTS 模型（约 500M 参
 ```mermaid
 xychart-beta
     title "1038lab/ComfyUI-VoxCPMTTS 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-25 44 → 2026-11-27 44（+0）
+2026-10-26 44 → 2026-11-28 44（+0）
 
 
 ---

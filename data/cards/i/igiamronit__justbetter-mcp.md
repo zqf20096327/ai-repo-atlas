@@ -45,12 +45,12 @@ TypeScript 编写的 MCP 网关/代理，位于 MCP 客户端与上游 MCP 服�
 ```mermaid
 xychart-beta
     title "igiamronit/justbetter-mcp 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-27"]
+    x-axis ["2026-11-02", "2026-11-28"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-11-02 66 → 2026-11-27 66（+0）
+2026-11-02 66 → 2026-11-28 66（+0）
 
 
 ---

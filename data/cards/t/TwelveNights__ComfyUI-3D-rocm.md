@@ -41,6 +41,18 @@
 > L5: ComfyUI nodes, on Radeon and Instinct GPUs, Linux and Windows. No CUDA or C++ extensions, no Blender, nothing to
 > L33: 1. **Install the node pack.** In ComfyUI Manager open *Custom Nodes Manager*, search for **rocm**, install
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TwelveNights/ComfyUI-3D-rocm 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 mid · 依据 README sha `59437344bec8` · [字段定义](../../DATASET.md)*

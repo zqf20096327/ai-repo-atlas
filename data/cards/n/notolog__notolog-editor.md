@@ -1,6 +1,6 @@
 # notolog/notolog-editor
 
-⭐ 31 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/notolog/notolog-editor) · [官网](https://notolog.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **带本地 AI 助手与 TTS 的 Markdown 编辑器，隐私本地优先**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -41,6 +41,18 @@
 > L28: Maxx is a self-hosted AI ad agency for **Meta ads** and the answer to your ad questions: it drafts
 > L113: - **AI optional.** One gateway over Claude (Anthropic API, Bedrock, Vertex, Foundry) and any
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "geovannig1/maxx-ai-media-buyer 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `1e8152e0eb1e` · [字段定义](../../DATASET.md)*

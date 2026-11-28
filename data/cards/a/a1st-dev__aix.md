@@ -1,6 +1,6 @@
 # a1st-dev/aix
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/a1st-dev/aix) · [官网](https://aix.a1st.dev) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/a1st-dev/aix) · [官网](https://aix.a1st.dev) · 个人维护
 
 **AI 编辑器配置的统一管理工具：一份 ai.json 用于多家编辑器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "a1st-dev/aix 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 20 --> 23
     line [21, 22, 21, 22, 22]
 ```
 
-2026-10-25 21 → 2026-11-27 22（+1）
+2026-10-26 21 → 2026-11-28 22（+1）
 
 
 ---

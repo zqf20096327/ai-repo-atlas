@@ -44,13 +44,13 @@ MinishLab 维护的 Python 包，用于预训练 Model2Vec 静态嵌入模型（
 
 ```mermaid
 xychart-beta
-    title "MinishLab/tokenlearn 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
+    title "MinishLab/tokenlearn 星数(近 4 点)"
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-27", "2026-11-28"]
     y-axis "stars" 110 --> 114
-    line [111, 112, 113]
+    line [111, 112, 113, 113]
 ```
 
-2026-10-25 111 → 2026-11-27 113（+2）
+2026-10-26 111 → 2026-11-28 113（+2）
 
 
 ---

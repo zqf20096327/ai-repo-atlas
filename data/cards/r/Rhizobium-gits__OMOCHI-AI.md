@@ -1,6 +1,6 @@
 # Rhizobium-gits/OMOCHI-AI
 
-⭐ 4 · Swift · MIT · 推送 2026-11-26 · [GitHub](https://github.com/Rhizobium-gits/OMOCHI-AI) · 个人维护
+⭐ 4 · Swift · MIT · 推送 2026-11-27 · [GitHub](https://github.com/Rhizobium-gits/OMOCHI-AI) · 个人维护
 
 **在 Mac 桌面统一管理并组队多个 AI CLI 代理的应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Rhizobium-gits/OMOCHI-AI 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-26 4 → 2026-11-27 4（+0）
+2026-11-26 4 → 2026-11-28 4（+0）
 
 
 ---

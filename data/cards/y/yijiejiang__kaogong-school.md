@@ -1,6 +1,6 @@
 # yijiejiang/kaogong-school
 
-⭐ 164 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/yijiejiang/kaogong-school) · 个人维护 · 中文 README
+⭐ 176 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/yijiejiang/kaogong-school) · 个人维护 · 中文 README
 
 **考公备考者的本地多智能体 AI 学习系统：解析资料、出卷改卷**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yijiejiang/kaogong-school 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 29 --> 176
-    line [41, 119, 164]
+    title "yijiejiang/kaogong-school 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 28 --> 189
+    line [41, 119, 164, 176]
 ```
 
-2026-11-25 41 → 2026-11-27 164（+123）
+2026-11-25 41 → 2026-11-28 176（+135）
 
 
 ---

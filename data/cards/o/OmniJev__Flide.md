@@ -1,10 +1,10 @@
 # OmniJev/Flide
 
-⭐ 577 · Python · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/OmniJev/Flide) · [官网](https://flide.org) · 组织维护
+⭐ 582 · Python · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/OmniJev/Flide) · [官网](https://flide.org) · 组织维护 · 中文 README
 
-**面向 Jev 决策模型的推理引擎：状态分叉加速多问题批量推断**
+**面向开发者的 Jev 决策模型快速推理引擎**
 
-为 Jev 风格决策模型提供的推理基础设施，核心机制为 exact state forking——一个状态分叉给多个问题，每个问题一次前向传播即得答案，提供 Jev 的 /v1/systemone API。以 PyPI 包和 Docker 镜像分发，运行于 Linux 或 Windows WSL2 下的 NVIDIA GPU。支持 Qwen2.5/Qwen3/Qwen3.5、Gemma 4 等聊天模型及数十个决策模型家族，带 LoRA 适配、FP8/int8 量化、会话缓存、张量并行等选项，README 附 arXiv 论文引用信息。
+Flide 是面向 Jev 风格决策模型的推理基础设施，通过精确状态分叉（exact state forking）机制使一个状态可分叉为多个问题并在单次前向传播中各自得到答案。提供 `/v1/systemone` API 服务、`--vllm-kv` 从 vLLM 所服务 agent 的 KV 读取答案、会话缓存、批不变输出、FP8/int8 量化与多进程前端等选项。README 自述其相对 vLLM 与 SGLang 的加速倍数，并附论文、文档与邮件分诊示例。运行于 NVIDIA GPU（Linux/WSL2）或 AMD Instinct GPU（Linux）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- exact state forking：一个状态分叉多问题，每问一次前向传播
-- 提供 Jev /v1/systemone API，单请求支持最多 256 个选项
-- 支持 FP8/int8 量化、会话缓存、批量不变模式与多前端进程
-- 支持数十个决策模型家族及文本/图像/视频输入
+- 精确状态分叉：一个状态分叉为多个问题，各在单次前向传播中作答
+- 支持 FP8 与 int8 量化及批不变输出选项
+- 支持 Qwen2.5/Qwen3/Qwen3.5、Gemma 4 及数十个决策模型家族
+- 提供 PyPI 包与 Docker 镜像两种分发方式
 
 ## 适用场景
 
-- 对大量邮件等条目按多套问题批量做决策打标
-- Agent 场景中多步推理复用已缓存状态
-- 部署 Jev 决策模型的推理服务
+- 用 Jev 决策模型对大量邮件等条目做多问题批处理打标
+- 为 LLM agent 的每一步决策提供低延迟推理服务
+- 在单卡 GPU 上以量化方式运行决策模型
 
 ## 场景标签
 
@@ -38,21 +38,20 @@
 ## 证据(README 行号)
 
 > L15: Flide is fast inference infrastructure for Jev-style decision models. With exact state forking it is up to 9.5 time
-> L52: Flide runs on an NVIDIA GPU under Linux or Windows WSL2. Install it with uv, or pull the Docker image.
-> L55: uv pip install flide
+> L53: Flide runs on an NVIDIA GPU under Linux or Windows WSL2, and on an AMD Instinct GPU under Linux. Install it with uv
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "OmniJev/Flide 星数(近 20 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 634
-    line [3, 4, 7, 8, 29, 358, 445, 475, 489, 501, 508, 525, 538, 543, 545, 550, 553, 566, 571, 577]
+    title "OmniJev/Flide 星数(近 21 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 639
+    line [3, 4, 7, 8, 29, 358, 445, 475, 489, 501, 508, 525, 538, 543, 545, 550, 553, 566, 571, 577, 582]
 ```
 
-2026-10-29 3 → 2026-11-27 577（+574）
+2026-10-29 3 → 2026-11-28 582（+579）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `4bf05fbba42a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `20991169475d` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # deepseek-ai/DeepEP-Ascend
 
-⭐ 303 · C++ · 推送 2026-11-03 · [GitHub](https://github.com/deepseek-ai/DeepEP-Ascend) · 组织维护 · 中文 README
+⭐ 329 · C++ · 推送 2026-11-27 · [GitHub](https://github.com/deepseek-ai/DeepEP-Ascend) · 组织维护 · 中文 README
 
-**面向华为昇腾 NPU 的 MoE 专家并行通信库**
+**面向昇腾 NPU 的 MoE 训练推理通信库**
 
-DeepSeek 发布的面向昇腾 NPU 的机器学习训练/推理通信库：提供 MoE dispatch/combine 的专家并行（EP）all-to-all 操作（含 FP8 dispatch 与延迟 epilogue），以及流水线并行（PP）、CP/DP Bucket 集合通信、Engram 远端内存访问等原语（部分开发中）。公开 buffer API 与 NVIDIA 版 DeepEP 对齐；Ascend C 内核经 DeepJIT 运行时编译。需 Ascend 950、CANN、Bisheng 编译器、torch_npu 环境，从源码克隆构建。
+面向华为昇腾 NPU 的机器学习训练与推理通信库，提供 MoE dispatch/combine 的专家并行 all-to-all 通信，支持 FP8 dispatch、延迟 epilogue，并提供 PP、CP/DP Bucket 集合通信与 Engram 远端内存访问等原语（部分开发中）。公开 buffer API 与 NVIDIA 版 DeepEP 对齐，内核由 DeepJIT 运行时编译。面向在昇腾集群上做 MoE 模型并行训练与推理的工程师；需 Ascend 950 硬件、CANN 工具链与 torch_npu 环境。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ DeepSeek 发布的面向昇腾 NPU 的机器学习训练/推理通信库：提�
 
 ## 能力要点
 
-- MoE 专家并行 dispatch/combine，含 FP8 dispatch 与延迟 epilogue
-- PP/CP-DP Bucket 集合通信与 Engram 远端内存访问（开发中）
-- 公开 buffer API 与 NVIDIA 版 DeepEP 对齐
-- Ascend C 内核经 DeepJIT 在运行时编译
+- MoE 专家并行 EP all-to-all：FP8 dispatch、BF16 combine、延迟 epilogue 与专家负载均衡
+- EPBuffer/PPBuffer/EngramBuffer/BucketBuffer 等 buffer 接口，与 NVIDIA 版 DeepEP API 对齐
+- Ascend C 内核经 DeepJIT 在运行时编译，支持缓存与调试环境变量
+- 提供训练/推理共用的 dispatch、combine 与 backward API 及完整测试示例
 
 ## 适用场景
 
-- 在昇腾 NPU 集群上运行 MoE 模型的专家并行训练与推理
-- 为基于 torch_npu 的分布式训练提供 all-to-all 通信原语
-- 复现/参考 EP 通信带宽基准测试
+- 在昇腾 NPU 集群上运行 MoE 模型的专家并行训练
+- 为昇腾上的推理 prefill/decoding 提供高带宽 dispatch/combine 通信
+- 为流水线并行、上下文并行负载搭建集合通信原语
 
 ## 场景标签
 
- · 领域:分布式机器学习基础设施
+`模型训练` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L3: **（中文介绍）**DeepEP-Ascend 是面向华为昇腾 NPU 的高性能机器学习训练与推理通信库，提供 MoE dispatch/combine 的专家并行（EP）all-to-all 操作，支持 FP8 dispatch 
-> L5: **(English introduction)** DeepEP-Ascend is a high-performance communication library for machine learning training a
+> L3: **（中文介绍）**DeepEP-Ascend 是面向华为昇腾 NPU 的高性能机器学习训练与推理通信库，提供 MoE dispatch/combine 的专家并行（EP）all-to-all，支持 FP8 dispatch 和延迟
+> L30: - CANN with Ascend C, the Bisheng compiler, HCCL headers, and HCOMM headers and libraries.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "deepseek-ai/DeepEP-Ascend 星数(近 18 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 269 --> 306
-    line [272, 274, 278, 279, 282, 283, 272, 288, 289, 291, 292, 295, 297, 298, 299, 300, 302, 303]
+    title "deepseek-ai/DeepEP-Ascend 星数(近 19 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 267 --> 334
+    line [272, 274, 278, 279, 282, 283, 272, 288, 289, 291, 292, 295, 297, 298, 299, 300, 302, 303, 329]
 ```
 
-2026-10-25 272 → 2026-11-27 303（+31）
+2026-10-26 272 → 2026-11-28 329（+57）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `25a2d5afb067` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-28 · 置信度 high · 依据 README sha `cd737fb55186` · [字段定义](../../DATASET.md)*

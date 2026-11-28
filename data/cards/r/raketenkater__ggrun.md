@@ -1,6 +1,6 @@
 # raketenkater/ggrun
 
-⭐ 284 · Go · MIT · 推送 2026-11-26 · [GitHub](https://github.com/raketenkater/ggrun) · 个人维护
+⭐ 285 · Go · MIT · 推送 2026-11-27 · [GitHub](https://github.com/raketenkater/ggrun) · 个人维护
 
 **为多 GPU 主机精确分配显存运行 llama.cpp 大模型的启动器**
 
@@ -46,12 +46,12 @@ ggrun 是 llama.cpp 与 ik_llama.cpp 的启动器：读取 GGUF 与本机 CPU/RA
 ```mermaid
 xychart-beta
     title "raketenkater/ggrun 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-28"]
     y-axis "stars" 281 --> 286
-    line [282, 283, 284, 285, 284, 284]
+    line [282, 283, 284, 285, 284, 285]
 ```
 
-2026-10-25 282 → 2026-11-27 284（+2）
+2026-10-26 282 → 2026-11-28 285（+3）
 
 
 ---

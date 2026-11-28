@@ -40,6 +40,18 @@ spacy-conll 是一个 spaCy 管道组件，将已解析文档格式化为 CoNLL-
 > L8: spacy-conll is a spaCy pipeline component that formats parsed documents as CoNLL-U. It also reads CoNLL-U into spaCy
 > L15: pip install spacy-conll
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BramVanroy/spacy_conll 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 80 --> 82
+    line [81, 81]
+```
+
+2026-11-27 81 → 2026-11-28 81（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `0d8efc907f3c` · [字段定义](../../DATASET.md)*

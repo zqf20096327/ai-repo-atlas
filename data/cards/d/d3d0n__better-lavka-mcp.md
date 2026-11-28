@@ -1,6 +1,6 @@
 # d3d0n/better-lavka-mcp
 
-⭐ 58 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/d3d0n/better-lavka-mcp) · [官网](https://pypi.org/project/better-lavka-mcp/) · 个人维护
+⭐ 57 · Python · GPL-3.0 · 推送 2026-11-26 · [GitHub](https://github.com/d3d0n/better-lavka-mcp) · [官网](https://pypi.org/project/better-lavka-mcp/) · 个人维护
 
 **让 AI 助手代为下单 Yandex Lavka 乌兹别克斯坦生鲜的 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "d3d0n/better-lavka-mcp 星数(近 3 点)"
-    x-axis ["2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 58]
+    title "d3d0n/better-lavka-mcp 星数(近 4 点)"
+    x-axis ["2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 56 --> 60
+    line [58, 59, 58, 57]
 ```
 
-2026-11-25 58 → 2026-11-27 58（+0）
+2026-11-25 58 → 2026-11-28 57（-1）
 
 
 ---

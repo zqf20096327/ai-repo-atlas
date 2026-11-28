@@ -1,6 +1,6 @@
 # google-deepmind/gemini-robotics-sdk
 
-⭐ 614 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/google-deepmind/gemini-robotics-sdk) · 组织维护
+⭐ 615 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/google-deepmind/gemini-robotics-sdk) · 组织维护
 
 **Gemini Robotics 模型全生命周期 SDK：访问/服务/评测/微调**
 
@@ -47,12 +47,12 @@ Google DeepMind 发布的 Python SDK，为 Gemini Robotics 系列模型提供访
 ```mermaid
 xychart-beta
     title "google-deepmind/gemini-robotics-sdk 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-27"]
-    y-axis "stars" 611 --> 615
-    line [612, 613, 614, 612, 614, 613, 614, 614]
+    x-axis ["2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-28"]
+    y-axis "stars" 611 --> 616
+    line [612, 613, 614, 612, 614, 613, 614, 615]
 ```
 
-2026-10-25 612 → 2026-11-27 614（+2）
+2026-10-26 612 → 2026-11-28 615（+3）
 
 
 ---

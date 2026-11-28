@@ -1,6 +1,6 @@
 # jekyllstein/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions
 
-⭐ 72 · Julia · Unlicense · 推送 2026-11-25 · [GitHub](https://github.com/jekyllstein/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions) · [官网](https://jekyllstein.github.io/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions/) · 个人维护
+⭐ 72 · Julia · Unlicense · 推送 2026-11-27 · [GitHub](https://github.com/jekyllstein/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions) · [官网](https://jekyllstein.github.io/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions/) · 个人维护
 
 **Sutton & Barto《强化学习导论》第二版的章节笔记与习题解答集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jekyllstein/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-27"]
+    title "jekyllstein/Reinforcement-Learning-Sutton-Barto-Exercise-Solutions 星数(近 5 点)"
+    x-axis ["2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 68 --> 73
-    line [69, 70, 71, 69, 72, 72]
+    line [70, 71, 69, 72, 72]
 ```
 
-2026-10-25 69 → 2026-11-27 72（+3）
+2026-10-26 70 → 2026-11-28 72（+2）
 
 
 ---

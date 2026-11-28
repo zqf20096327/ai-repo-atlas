@@ -1,6 +1,6 @@
 # iamcaominhtien/kakemono
 
-⭐ 3 · Rust · MIT · 推送 2026-11-26 · [GitHub](https://github.com/iamcaominhtien/kakemono) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-27 · [GitHub](https://github.com/iamcaominhtien/kakemono) · 个人维护
 
 **Rust 文档转换库：PDF/Word/EPUB 转 HTML/Markdown 等格式**
 
@@ -40,6 +40,18 @@ kakemono 是一个 Rust 编写的文档转换器与库，从 PDF、Word（.docx/
 
 > L14: kakemono is a Rust document converter and library. It extracts reading order and structure from PDFs, Word files an
 > L50: kakemono convert paper.pdf -o paper.jsonl --chunk-tokens 512
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "iamcaominhtien/kakemono 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

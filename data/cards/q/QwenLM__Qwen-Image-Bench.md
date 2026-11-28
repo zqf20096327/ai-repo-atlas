@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Image-Bench
 
-⭐ 168 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/QwenLM/Qwen-Image-Bench) · 组织维护 · 中文 README
+⭐ 169 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/QwenLM/Qwen-Image-Bench) · 组织维护 · 中文 README
 
 **文生图模型评测工具包：用 Q-Judger 给生成图像打分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QwenLM/Qwen-Image-Bench 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-27"]
-    y-axis "stars" 166 --> 169
-    line [167, 168, 168]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-28"]
+    y-axis "stars" 166 --> 170
+    line [167, 168, 169]
 ```
 
-2026-10-25 167 → 2026-11-27 168（+1）
+2026-10-26 167 → 2026-11-28 169（+2）
 
 
 ---

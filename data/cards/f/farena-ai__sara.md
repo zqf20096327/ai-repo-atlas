@@ -1,6 +1,6 @@
 # farena-ai/sara
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/farena-ai/sara) · [官网](https://www.backstagecoding.com) · 组织维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/farena-ai/sara) · [官网](https://www.backstagecoding.com) · 组织维护
 
 **自托管 AI 陪伴与编程搭档：自带记忆、语音与工具审批**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "farena-ai/sara 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-23", "2026-11-27"]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-23", "2026-11-28"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-08 3 → 2026-11-27 5（+2）
+2026-11-08 3 → 2026-11-28 5（+2）
 
 
 ---

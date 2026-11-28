@@ -1,6 +1,6 @@
 # huggingface/screenenv
 
-⭐ 461 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/screenenv) · 组织维护
+⭐ 462 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/screenenv) · 组织维护
 
 **给开发者的 Docker 隔离桌面沙箱库，供 GUI 自动化与 AI 操控**
 
@@ -46,12 +46,12 @@ Hugging Face 出品的 Python 库，通过 Docker 容器提供沙箱化的 Ubunt
 ```mermaid
 xychart-beta
     title "huggingface/screenenv 星数(近 4 点)"
-    x-axis ["2026-10-25", "2026-11-08", "2026-11-10", "2026-11-27"]
-    y-axis "stars" 458 --> 462
-    line [459, 460, 461, 461]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-28"]
+    y-axis "stars" 458 --> 463
+    line [459, 460, 461, 462]
 ```
 
-2026-10-25 459 → 2026-11-27 461（+2）
+2026-10-26 459 → 2026-11-28 462（+3）
 
 
 ---

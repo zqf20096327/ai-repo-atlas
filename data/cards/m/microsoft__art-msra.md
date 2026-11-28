@@ -1,6 +1,6 @@
 # microsoft/art-msra
 
-⭐ 380 · Jupyter Notebook · MIT · 推送 2026-04-08 · [GitHub](https://github.com/microsoft/art-msra) · 组织维护
+⭐ 381 · Jupyter Notebook · MIT · 推送 2026-04-08 · [GitHub](https://github.com/microsoft/art-msra) · 组织维护
 
 **多层透明图像生成模型 ART 的官方仓库（权重与代码已撤除）**
 
@@ -43,12 +43,12 @@ CVPR 2025 论文 ART（Anonymous Region Transformer）官方仓库：基于全�
 ```mermaid
 xychart-beta
     title "microsoft/art-msra 星数(近 4 点)"
-    x-axis ["2026-10-24", "2026-11-23", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-25", "2026-11-23", "2026-11-26", "2026-11-28"]
     y-axis "stars" 379 --> 382
-    line [380, 381, 380, 380]
+    line [380, 381, 380, 381]
 ```
 
-2026-10-24 380 → 2026-11-27 380（+0）
+2026-10-25 380 → 2026-11-28 381（+1）
 
 
 ---

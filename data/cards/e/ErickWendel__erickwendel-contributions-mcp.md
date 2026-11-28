@@ -1,6 +1,6 @@
 # ErickWendel/erickwendel-contributions-mcp
 
-⭐ 401 · TypeScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/ErickWendel/erickwendel-contributions-mcp) · [官网](https://www.npmjs.com/package/@erickwendel/contributions-mcp) · 个人维护
+⭐ 402 · TypeScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/ErickWendel/erickwendel-contributions-mcp) · [官网](https://www.npmjs.com/package/@erickwendel/contributions-mcp) · 个人维护
 
 **查询 Erick Wendel 内容产出的 MCP 服务器，供 AI 客户端调用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ErickWendel/erickwendel-contributions-mcp 星数(近 17 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-27"]
-    y-axis "stars" 378 --> 403
-    line [380, 383, 384, 385, 386, 380, 389, 390, 391, 393, 394, 396, 397, 399, 400, 401, 401]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-28"]
+    y-axis "stars" 378 --> 404
+    line [380, 383, 384, 385, 386, 380, 389, 390, 391, 393, 394, 396, 397, 399, 400, 401, 402]
 ```
 
-2026-10-25 380 → 2026-11-27 401（+21）
+2026-10-26 380 → 2026-11-28 402（+22）
 
 
 ---

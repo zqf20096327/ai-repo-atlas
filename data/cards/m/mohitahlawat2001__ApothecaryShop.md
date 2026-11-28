@@ -1,6 +1,6 @@
 # mohitahlawat2001/ApothecaryShop
 
-⭐ 33 · JavaScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/mohitahlawat2001/ApothecaryShop) · [官网](https://apothecary-shop.vercel.app) · 个人维护
+⭐ 33 · JavaScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/mohitahlawat2001/ApothecaryShop) · [官网](https://apothecary-shop.vercel.app) · 个人维护
 
 **面向药房/医院的药品库存与采购分销管理系统（MERN）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mohitahlawat2001/ApothecaryShop 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-28"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-25 33 → 2026-11-27 33（+0）
+2026-10-26 33 → 2026-11-28 33（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide
 
-⭐ 68 · 推送 2026-11-20 · [GitHub](https://github.com/eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 82 · 推送 2026-11-20 · [GitHub](https://github.com/eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向 AI 工具栈用户的 CoreGold 虚拟卡开户与绑卡指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27"]
-    y-axis "stars" 0 --> 74
-    line [4, 27, 53, 68]
+    title "eragritchiegg15-beep/coregold-usdt-vcc-multi-tool-ai-stack-management-guide 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 0 --> 89
+    line [4, 27, 53, 68, 82]
 ```
 
-2026-11-21 4 → 2026-11-27 68（+64）
+2026-11-21 4 → 2026-11-28 82（+78）
 
 
 ---

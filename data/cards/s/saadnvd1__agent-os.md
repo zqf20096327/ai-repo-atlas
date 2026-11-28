@@ -1,6 +1,6 @@
 # saadnvd1/agent-os
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/saadnvd1/agent-os) · [官网](https://runagentos.com) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/saadnvd1/agent-os) · [官网](https://runagentos.com) · 个人维护
 
 **自托管的 AI 编码 agent 管理界面：手机端统筹多 agent 会话**
 
@@ -46,12 +46,12 @@ Mobile-first 的 Web UI，用于运行与管理 Claude Code、Codex、OpenCode �
 ```mermaid
 xychart-beta
     title "saadnvd1/agent-os 星数(近 8 点)"
-    x-axis ["2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26", "2026-11-28"]
     y-axis "stars" 9 --> 18
     line [10, 11, 12, 10, 15, 16, 17, 17]
 ```
 
-2026-10-25 10 → 2026-11-27 17（+7）
+2026-10-26 10 → 2026-11-28 17（+7）
 
 
 ---

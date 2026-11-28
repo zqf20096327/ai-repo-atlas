@@ -46,12 +46,12 @@ DeepSeek Harness 的社区插件（独立于 DeepSeek AI），以施工现场协
 ```mermaid
 xychart-beta
     title "AIRPhoon/dsh-construction-site 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-27"]
+    x-axis ["2026-11-10", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-27 3（+0）
+2026-11-10 3 → 2026-11-28 3（+0）
 
 
 ---

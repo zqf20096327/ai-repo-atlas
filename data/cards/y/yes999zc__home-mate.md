@@ -1,6 +1,6 @@
 # yes999zc/home-mate
 
-⭐ 77 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/yes999zc/home-mate) · [官网](https://mymate.homes) · 个人维护 · 中文 README
+⭐ 99 · Rust · AGPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/yes999zc/home-mate) · [官网](https://mymate.homes) · 个人维护 · 中文 README
 
 **自托管 Rust 语音管家核心：跑在智能音箱或 NAS 上**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yes999zc/home-mate 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
-    y-axis "stars" 64 --> 78
-    line [65, 77]
+    title "yes999zc/home-mate 星数(近 3 点)"
+    x-axis ["2026-11-26", "2026-11-27", "2026-11-28"]
+    y-axis "stars" 62 --> 102
+    line [65, 77, 99]
 ```
 
-2026-11-26 65 → 2026-11-27 77（+12）
+2026-11-26 65 → 2026-11-28 99（+34）
 
 
 ---

@@ -41,6 +41,18 @@
 > L18: **Rules of this list:** every site was opened and checked on the verified date: the site is live, submissions are o
 > L22: ## Contents
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "devanasolver/awesome-go-to-market 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-27 · 置信度 high · 依据 README sha `c2a01790802b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # bitrefill/agents
 
-⭐ 30 · Python · MIT · 推送 2026-11-26 · [GitHub](https://github.com/bitrefill/agents) · [官网](https://www.bitrefill.com) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-11-27 · [GitHub](https://github.com/bitrefill/agents) · [官网](https://www.bitrefill.com) · 组织维护
 
 **让 AI agent 浏览购买 Bitrefill 礼品卡/充值/eSIM 的技能插件**
 
@@ -45,13 +45,13 @@ Bitrefill 官方发布的 Agent Skills 技能包，为 AI 编码 agent（Claude 
 
 ```mermaid
 xychart-beta
-    title "bitrefill/agents 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-27"]
+    title "bitrefill/agents 星数(近 6 点)"
+    x-axis ["2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-28"]
     y-axis "stars" 26 --> 31
-    line [27, 28, 27, 28, 29, 30, 30]
+    line [28, 27, 28, 29, 30, 30]
 ```
 
-2026-10-25 27 → 2026-11-27 30（+3）
+2026-10-26 28 → 2026-11-28 30（+2）
 
 
 ---

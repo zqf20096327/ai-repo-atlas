@@ -1,6 +1,6 @@
 # 2019wakeup/AI_RAG
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-26 · [GitHub](https://github.com/2019wakeup/AI_RAG) · 组织维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-27 · [GitHub](https://github.com/2019wakeup/AI_RAG) · 组织维护 · 中文 README
 
 **面向沥青路面养护材料的带证据引用与可信拒答知识库问答系统**
 
@@ -40,6 +40,18 @@
 > L8: **一句话**：输入一个用自然语言提出的材料问题，系统在 11,143 块领域语料中做 BM25 + 向量混合检索，返回**带 `[n]` 角标、可展开原文**的答案；证据不足时**明确拒答**，信息不足时**追问**——而不是编造
 > L130: - **问答链路（后端）**：`/api/v1/qa` 已打通 检索 → 证据选择（相关度主序、原文 snippet、3–8 条）→ 生成 → `[n]` 双向校验（越界剔除）；`/api/v1/qa/stream` 提供 SS
 > L177: - **第三方**：transformers.js、Xenova 嵌入模型、LanceDB、SQLite FTS5、Hono、Vue 生态等遵循各自许可；LLM 服务（默认 DeepSeek）受服务方条款约束。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "2019wakeup/AI_RAG 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-27 3 → 2026-11-28 3（+0）
 
 
 ---

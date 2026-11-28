@@ -45,12 +45,12 @@ Google DeepMind 发布的开放权重语言模型系列 RecurrentGemma，基于 
 ```mermaid
 xychart-beta
     title "google-deepmind/recurrentgemma 星数(近 3 点)"
-    x-axis ["2026-10-25", "2026-11-10", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-11-10", "2026-11-28"]
     y-axis "stars" 684 --> 687
     line [685, 686, 686]
 ```
 
-2026-10-25 685 → 2026-11-27 686（+1）
+2026-10-26 685 → 2026-11-28 686（+1）
 
 
 ---

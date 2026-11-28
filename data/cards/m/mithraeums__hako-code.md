@@ -1,6 +1,6 @@
 # mithraeums/hako-code
 
-⭐ 15 · C · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/mithraeums/hako-code) · [官网](https://mithraeum.studio) · 个人维护
+⭐ 15 · C · GPL-3.0 · 推送 2026-11-27 · [GitHub](https://github.com/mithraeums/hako-code) · [官网](https://mithraeum.studio) · 个人维护
 
 **单 C 文件实现的终端编程 Agent，本地模型优先、多提供商**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "mithraeums/hako-code 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-27"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-28"]
     y-axis "stars" 12 --> 16
     line [13, 14, 13, 15, 15]
 ```
 
-2026-10-25 13 → 2026-11-27 15（+2）
+2026-10-26 13 → 2026-11-28 15（+2）
 
 
 ---

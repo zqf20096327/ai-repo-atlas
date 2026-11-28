@@ -1,6 +1,6 @@
 # spk-c/ninfer-all-rtx4090
 
-⭐ 3 · C++ · Apache-2.0 · 推送 2026-11-26 · [GitHub](https://github.com/spk-c/ninfer-all-rtx4090) · [官网](https://spk-c.github.io/ninfer-all-rtx4090/) · 个人维护
+⭐ 4 · C++ · Apache-2.0 · 推送 2026-11-27 · [GitHub](https://github.com/spk-c/ninfer-all-rtx4090) · [官网](https://spk-c.github.io/ninfer-all-rtx4090/) · 个人维护
 
 **RTX 4090 专用本地 LLM 推理引擎，Windows 便携版**
 
@@ -41,6 +41,18 @@
 > L3: **Run local large language models on NVIDIA GeForce RTX 4090 (24 GB) with native Ada Lovelace SM89 CUDA kernels, a p
 > L24: |Local LLM serving|OpenAI- and Anthropic-compatible APIs, CLI and model-specific launch profiles|
 > L186: **Is NInfer faster than llama.cpp, Ollama or vLLM?** No universal ranking is established by the published RTX 4090
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "spk-c/ninfer-all-rtx4090 星数(近 2 点)"
+    x-axis ["2026-11-27", "2026-11-28"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-27 3 → 2026-11-28 4（+1）
 
 
 ---

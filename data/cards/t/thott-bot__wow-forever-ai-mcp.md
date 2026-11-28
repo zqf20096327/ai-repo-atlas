@@ -46,12 +46,12 @@ thott.bot 提供一个远程 MCP 服务器（https://mcp.thott.bot/mcp），向�
 ```mermaid
 xychart-beta
     title "thott-bot/wow-forever-ai-mcp 星数(近 2 点)"
-    x-axis ["2026-11-26", "2026-11-27"]
+    x-axis ["2026-11-26", "2026-11-28"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-26 3 → 2026-11-27 3（+0）
+2026-11-26 3 → 2026-11-28 3（+0）
 
 
 ---
